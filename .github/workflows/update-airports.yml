@@ -84,13 +84,19 @@ jobs:
 
     - name: Create Pull Request
       env:
-        GH_TOKEN: ${{ steps.generate-token.outputs.token }}
+        GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
       run: |
-        BRANCH_NAME="data-update-$(date +"%Y%m%d%H%M%S")"
-        git checkout -b $BRANCH_NAME
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions Bot"
+        
         git add -f data/
-        git commit -m "workflow: update airport data"
-        git push origin $BRANCH_NAME
+        git commit -m "workflow: update airport data [automated]"
+        
+        gh pr create \
+          --base master \
+          --title "Automated Data Update" \
+          --body "Automated airport data update. Please review." \
+          --reviewer Teyk0o
 
     # Deploy to GitHub Pages
     - name: Setup Pages
