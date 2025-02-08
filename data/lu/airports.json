@@ -1,0 +1,186 @@
+{
+  "country_code": "LU",
+  "country_name": "Luxembourg",
+  "total_airports": 15,
+  "last_updated": "2025-02-08T15:09:31.062472",
+  "types_distribution": {
+    "large_airport": 1,
+    "small_airport": 2,
+    "heliport": 11,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "ELLX",
+      "type": "large_airport",
+      "name": "Luxembourg-Findel International Airport",
+      "elevation_ft": 1234.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-L",
+      "municipality": "Luxembourg",
+      "gps_code": "ELLX",
+      "iata_code": "LUX",
+      "coordinates": "49.6233333, 6.2044444"
+    },
+    {
+      "ident": "ELNT",
+      "type": "small_airport",
+      "name": "Wiltz-Noertrange Airfield",
+      "elevation_ft": 1522.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-W",
+      "municipality": "Winseler",
+      "gps_code": "ELNT",
+      "coordinates": "49.981098, 5.91778"
+    },
+    {
+      "ident": "ELUS",
+      "type": "small_airport",
+      "name": "Useldange Glider Field",
+      "elevation_ft": 928.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-RD",
+      "municipality": "Useldange",
+      "gps_code": "ELUS",
+      "coordinates": "49.768155, 5.965962"
+    },
+    {
+      "ident": "LU-0001",
+      "type": "heliport",
+      "name": "Ettelbruck Heliport",
+      "elevation_ft": 666.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-D",
+      "municipality": "Ettelbruck",
+      "gps_code": "ELET",
+      "coordinates": "49.85432, 6.094475"
+    },
+    {
+      "ident": "LU-0002",
+      "type": "closed",
+      "name": "Medernach / Kitzebour Ultralight Airfield",
+      "elevation_ft": 1171.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-D",
+      "municipality": "Medernach",
+      "coordinates": "49.7892, 6.24111"
+    },
+    {
+      "ident": "LU-0003",
+      "type": "heliport",
+      "name": "Luxembourg Hospital Heliport",
+      "elevation_ft": 1079.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-L",
+      "municipality": "Luxembourg",
+      "gps_code": "ELLC",
+      "coordinates": "49.619279, 6.102534"
+    },
+    {
+      "ident": "LU-0004",
+      "type": "heliport",
+      "name": "Emile Mayrisch Hospital Heliport",
+      "elevation_ft": 971.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-E",
+      "municipality": "Esch-sur-Alzette",
+      "gps_code": "ELEA",
+      "coordinates": "49.500911, 5.982146"
+    },
+    {
+      "ident": "LU-0005",
+      "type": "heliport",
+      "name": "Sainte-Thérèse Clinic Heliport",
+      "elevation_ft": 1001.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-L",
+      "municipality": "Luxembourg",
+      "coordinates": "49.603429, 6.128129"
+    },
+    {
+      "ident": "LU-0006",
+      "type": "heliport",
+      "name": "Kirchberg Hospital Heliport",
+      "elevation_ft": 1220.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-L",
+      "municipality": "Luxembourg",
+      "gps_code": "ELLK",
+      "coordinates": "49.632616, 6.177118"
+    },
+    {
+      "ident": "LU-0007",
+      "type": "heliport",
+      "name": "Princess Marie-Astrid Hospital Heliport",
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-E",
+      "municipality": "Niederkorn",
+      "coordinates": "49.532918, 5.886223"
+    },
+    {
+      "ident": "LU-0008",
+      "type": "heliport",
+      "name": "Consdorf Heliport",
+      "elevation_ft": 1194.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-I",
+      "municipality": "Consdorf",
+      "coordinates": "49.772286, 6.341238"
+    },
+    {
+      "ident": "LU-0009",
+      "type": "heliport",
+      "name": "Grevenmacher Heliport",
+      "elevation_ft": 706.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-G",
+      "municipality": "Grevenmacher",
+      "coordinates": "49.673869, 6.431973"
+    },
+    {
+      "ident": "LU-0010",
+      "type": "heliport",
+      "name": "Grevenmacher Emergency Heliport",
+      "elevation_ft": 463.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-G",
+      "municipality": "Grevenmacher",
+      "coordinates": "49.672129, 6.434428"
+    },
+    {
+      "ident": "LU-0011",
+      "type": "heliport",
+      "name": "Remich-Schmierberg Heliport",
+      "elevation_ft": 860.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-RM",
+      "municipality": "Bech-Kleinmacher",
+      "coordinates": "49.53441, 6.34378"
+    },
+    {
+      "ident": "LU-0012",
+      "type": "heliport",
+      "name": "Remerschen Heliport",
+      "elevation_ft": 866.0,
+      "continent": "EU",
+      "iso_country": "LU",
+      "iso_region": "LU-RM",
+      "municipality": "Schengen",
+      "coordinates": "49.49102, 6.34507"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "country_code": "AG",
+  "country_name": "Antigua and Barbuda",
+  "total_airports": 6,
+  "last_updated": "2025-02-08T15:09:30.802504",
+  "types_distribution": {
+    "small_airport": 2,
+    "heliport": 2,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "AG-0001",
+      "type": "small_airport",
+      "name": "New Barbuda Airport",
+      "elevation_ft": 28.0,
+      "iso_country": "AG",
+      "iso_region": "AG-10",
+      "municipality": "Codrington",
+      "gps_code": "TAPB",
+      "coordinates": "17.621194, -61.798347"
+    },
+    {
+      "ident": "AG-0002",
+      "type": "heliport",
+      "name": "Fort Road Heliport",
+      "elevation_ft": 13.0,
+      "iso_country": "AG",
+      "iso_region": "AG-04",
+      "municipality": "St John's",
+      "coordinates": "17.134275, -61.857314"
+    },
+    {
+      "ident": "AG-0003",
+      "type": "heliport",
+      "name": "Orange Valley Heliport",
+      "elevation_ft": 13.0,
+      "iso_country": "AG",
+      "iso_region": "AG-05",
+      "municipality": "Urlings",
+      "coordinates": "17.04823, -61.89073"
+    },
+    {
+      "ident": "TAPA",
+      "type": "medium_airport",
+      "name": "V C Bird International Airport",
+      "elevation_ft": 62.0,
+      "iso_country": "AG",
+      "iso_region": "AG-03",
+      "municipality": "Osbourn",
+      "gps_code": "TAPA",
+      "iata_code": "ANU",
+      "coordinates": "17.1367, -61.792702"
+    },
+    {
+      "ident": "TAPH",
+      "type": "medium_airport",
+      "name": "Codrington Airport",
+      "elevation_ft": 15.0,
+      "iso_country": "AG",
+      "iso_region": "AG-10",
+      "municipality": "Codrington",
+      "gps_code": "TAPH",
+      "iata_code": "BBQ",
+      "coordinates": "17.635799, -61.828602"
+    },
+    {
+      "ident": "TAPT",
+      "type": "small_airport",
+      "name": "Coco Point Lodge Airstrip",
+      "elevation_ft": 15.0,
+      "iso_country": "AG",
+      "iso_region": "AG-10",
+      "municipality": "Coco Point",
+      "gps_code": "TAPT",
+      "coordinates": "17.555599, -61.765301"
+    }
+  ]
+}

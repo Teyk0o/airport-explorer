@@ -1,0 +1,60 @@
+{
+  "country_code": "GG",
+  "country_name": "Guernsey",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:31.056819",
+  "types_distribution": {
+    "medium_airport": 2,
+    "closed": 1,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "EGJA",
+      "type": "medium_airport",
+      "name": "Alderney Airport",
+      "elevation_ft": 290.0,
+      "continent": "EU",
+      "iso_country": "GG",
+      "iso_region": "GG-A",
+      "municipality": "Saint Anne",
+      "gps_code": "EGJA",
+      "iata_code": "ACI",
+      "coordinates": "49.706104, -2.21472"
+    },
+    {
+      "ident": "EGJB",
+      "type": "medium_airport",
+      "name": "Guernsey Airport",
+      "elevation_ft": 336.0,
+      "continent": "EU",
+      "iso_country": "GG",
+      "iso_region": "GG-G",
+      "municipality": "Saint Peter Port",
+      "gps_code": "EGJB",
+      "iata_code": "GCI",
+      "coordinates": "49.435001, -2.60197"
+    },
+    {
+      "ident": "GG-0001",
+      "type": "closed",
+      "name": "L'Erée Aerodrome",
+      "continent": "EU",
+      "iso_country": "GG",
+      "iso_region": "GG-G",
+      "municipality": "L'Erée",
+      "coordinates": "49.456424, -2.648456"
+    },
+    {
+      "ident": "GG-0002",
+      "type": "heliport",
+      "name": "Jethou Private Heliport",
+      "elevation_ft": 210.0,
+      "continent": "EU",
+      "iso_country": "GG",
+      "iso_region": "GG-G",
+      "municipality": "Jethou",
+      "coordinates": "49.45857, -2.46263"
+    }
+  ]
+}

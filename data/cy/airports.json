@@ -1,0 +1,937 @@
+{
+  "country_code": "CY",
+  "country_name": "Cyprus",
+  "total_airports": 91,
+  "last_updated": "2025-02-08T15:09:31.010121",
+  "types_distribution": {
+    "small_airport": 10,
+    "medium_airport": 4,
+    "closed": 8,
+    "heliport": 68,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "CY-0001",
+      "type": "small_airport",
+      "name": "Lakatamia Airfield",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.106384, 33.321304"
+    },
+    {
+      "ident": "CY-0002",
+      "type": "medium_airport",
+      "name": "Lefkoniko Airport / Geçitkale Air Base",
+      "elevation_ft": 146.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Lefkoniko (Geçitkale)",
+      "gps_code": "LCGK",
+      "iata_code": "GEC",
+      "coordinates": "35.23591, 33.720088"
+    },
+    {
+      "ident": "CY-0003",
+      "type": "small_airport",
+      "name": "Pınarbaşı Air Base",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-01",
+      "municipality": "Ağırdağ",
+      "coordinates": "35.276018, 33.267503"
+    },
+    {
+      "ident": "CY-0004",
+      "type": "small_airport",
+      "name": "Kingsfield Air Base",
+      "elevation_ft": 288.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Dhekelia Sovereign Base Area",
+      "gps_code": "LCRE",
+      "coordinates": "35.014275, 33.715851"
+    },
+    {
+      "ident": "CY-0005",
+      "type": "small_airport",
+      "name": "Kornos Highway Strip",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "coordinates": "34.909671783447266, 33.40373229980469"
+    },
+    {
+      "ident": "CY-0006",
+      "type": "small_airport",
+      "name": "Kophinou Highway Strip",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "coordinates": "34.8404183033, 33.4244763851"
+    },
+    {
+      "ident": "CY-0007",
+      "type": "small_airport",
+      "name": "Marki Airfield",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.01622, 33.310869"
+    },
+    {
+      "ident": "CY-0008",
+      "type": "closed",
+      "name": "RAF Ayios Nikolaos Air Base",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Ayios Nikolaos",
+      "coordinates": "35.083178, 33.900432"
+    },
+    {
+      "ident": "CY-0009",
+      "type": "heliport",
+      "name": "Famagusta General Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Deryneia",
+      "coordinates": "35.061798, 33.972145"
+    },
+    {
+      "ident": "CY-0010",
+      "type": "heliport",
+      "name": "Ayios Nikolaos South Heliport",
+      "elevation_ft": 102.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Ayios Nikolaos",
+      "coordinates": "35.08695, 33.89467"
+    },
+    {
+      "ident": "CY-0011",
+      "type": "heliport",
+      "name": "Ayios Nikolaos North Heliport",
+      "elevation_ft": 105.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Ayios Nikolaos",
+      "coordinates": "35.09067, 33.88774"
+    },
+    {
+      "ident": "CY-0012",
+      "type": "heliport",
+      "name": "UNFICYP OP08 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.177331, 32.700825"
+    },
+    {
+      "ident": "CY-0013",
+      "type": "heliport",
+      "name": "Mosfili helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.182441, 32.635634"
+    },
+    {
+      "ident": "CY-0014",
+      "type": "heliport",
+      "name": "UNFICYP OP03 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.175495, 32.621905"
+    },
+    {
+      "ident": "CY-0015",
+      "type": "heliport",
+      "name": "Erenköy Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Kokkina / Erenköy",
+      "coordinates": "35.186998, 32.615538"
+    },
+    {
+      "ident": "CY-0016",
+      "type": "heliport",
+      "name": "UNFICYP Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.111441, 32.79351"
+    },
+    {
+      "ident": "CY-0017",
+      "type": "heliport",
+      "name": "Variseia Border Post helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Variseia",
+      "coordinates": "35.104974, 32.779306"
+    },
+    {
+      "ident": "CY-0018",
+      "type": "heliport",
+      "name": "UNFICYP OP18 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.082253, 32.835103"
+    },
+    {
+      "ident": "CY-0019",
+      "type": "heliport",
+      "name": "UNFICYP OP22 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.104405, 32.874977"
+    },
+    {
+      "ident": "CY-0020",
+      "type": "heliport",
+      "name": "UNFICYP OP32 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Astromeritis",
+      "coordinates": "35.156876, 33.02405"
+    },
+    {
+      "ident": "CY-0021",
+      "type": "heliport",
+      "name": "Yukari Bostanci Border Post Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Yukari Bostanci",
+      "coordinates": "35.156621, 33.018651"
+    },
+    {
+      "ident": "CY-0022",
+      "type": "heliport",
+      "name": "UNFICYP Camp Roca Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Karavostasi / Gemikonağı",
+      "coordinates": "35.13614, 32.837374"
+    },
+    {
+      "ident": "CY-0023",
+      "type": "heliport",
+      "name": "Gaziveren Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Gaziveren / Kazivera",
+      "coordinates": "35.167112, 32.897665"
+    },
+    {
+      "ident": "CY-0024",
+      "type": "heliport",
+      "name": "Yeşilyurt helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Yeşilyurt / Pentageia",
+      "coordinates": "35.155423, 32.888972"
+    },
+    {
+      "ident": "CY-0025",
+      "type": "closed",
+      "name": "Güneşköy helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Nikitas / Güneşköy",
+      "coordinates": "35.195038, 32.932524"
+    },
+    {
+      "ident": "CY-0026",
+      "type": "heliport",
+      "name": "Sadrazamköy heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-01",
+      "municipality": "Livera / Sadrazamköy",
+      "coordinates": "35.383494, 32.938376"
+    },
+    {
+      "ident": "CY-0027",
+      "type": "heliport",
+      "name": "Çamlıbel heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-01",
+      "municipality": "Çamlıbel / Myrtou",
+      "coordinates": "35.314348, 33.064473"
+    },
+    {
+      "ident": "CY-0028",
+      "type": "heliport",
+      "name": "Girne Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-01",
+      "municipality": "Girne / Kyrenia",
+      "coordinates": "35.326861, 33.322861"
+    },
+    {
+      "ident": "CY-0029",
+      "type": "heliport",
+      "name": "Karaman Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-01",
+      "municipality": "Karaman / Karmi",
+      "coordinates": "35.310436, 33.289049"
+    },
+    {
+      "ident": "CY-0030",
+      "type": "heliport",
+      "name": "UNFICYP OP51 Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Agios Dometios",
+      "coordinates": "35.172538, 33.31455"
+    },
+    {
+      "ident": "CY-0031",
+      "type": "heliport",
+      "name": "Metehan Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Metehan / Agios Dometios",
+      "coordinates": "35.176511, 33.308935"
+    },
+    {
+      "ident": "CY-0032",
+      "type": "heliport",
+      "name": "UNFICYP Nicosia Airport Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Lakatamia",
+      "coordinates": "35.145962, 33.283306"
+    },
+    {
+      "ident": "CY-0033",
+      "type": "heliport",
+      "name": "Yakın Doğu Üniversitesi Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Ortaköy / Ortakioi",
+      "coordinates": "35.228454, 33.33049"
+    },
+    {
+      "ident": "CY-0034",
+      "type": "heliport",
+      "name": "Ortaköy Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Ortaköy / Ortakioi",
+      "coordinates": "35.195458, 33.33966"
+    },
+    {
+      "ident": "CY-0035",
+      "type": "heliport",
+      "name": "UNFICYP OP86 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Sopaz",
+      "coordinates": "35.175556, 33.408496"
+    },
+    {
+      "ident": "CY-0036",
+      "type": "heliport",
+      "name": "UNFICYP OP91 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Geri",
+      "coordinates": "35.112458, 33.455741"
+    },
+    {
+      "ident": "CY-0037",
+      "type": "heliport",
+      "name": "UNFICYP OP95 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Akincilar / Louroujina",
+      "coordinates": "35.013498, 33.44662"
+    },
+    {
+      "ident": "CY-0038",
+      "type": "heliport",
+      "name": "UNFICYP OP101 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Athienou",
+      "coordinates": "35.065528, 33.506829"
+    },
+    {
+      "ident": "CY-0039",
+      "type": "heliport",
+      "name": "UNFICYP OP123 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Pyla",
+      "coordinates": "35.028072, 33.656571"
+    },
+    {
+      "ident": "CY-0040",
+      "type": "heliport",
+      "name": "UNFICYP OP126 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Pyla",
+      "coordinates": "35.015922, 33.683042"
+    },
+    {
+      "ident": "CY-0041",
+      "type": "small_airport",
+      "name": "RAF Dhekelia Airfield",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Dhekelia Sovereign Base Area",
+      "coordinates": "34.994262, 33.749133"
+    },
+    {
+      "ident": "CY-0042",
+      "type": "heliport",
+      "name": "Dhekelia Station JNCO Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Dhekelia Sovereign Base Area",
+      "coordinates": "35.00232, 33.728378"
+    },
+    {
+      "ident": "CY-0043",
+      "type": "heliport",
+      "name": "Dhekelia Station Waterloo Road Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Dhekelia Sovereign Base Area",
+      "coordinates": "35.00334, 33.732533"
+    },
+    {
+      "ident": "CY-0044",
+      "type": "closed",
+      "name": "UNFICYP OP135 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Avgorou",
+      "coordinates": "35.071073, 33.820505"
+    },
+    {
+      "ident": "CY-0045",
+      "type": "heliport",
+      "name": "UNFICYP OP138 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Güvercinlik / Acheritou",
+      "coordinates": "35.072159, 33.861347"
+    },
+    {
+      "ident": "CY-0046",
+      "type": "heliport",
+      "name": "UNFICYP OP140 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Frenaros",
+      "coordinates": "35.06776, 33.912798"
+    },
+    {
+      "ident": "CY-0047",
+      "type": "heliport",
+      "name": "UNFICYP CP10 Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Deryneia",
+      "coordinates": "35.071598, 33.965399"
+    },
+    {
+      "ident": "CY-0048",
+      "type": "heliport",
+      "name": "Dhekelia Station Sports Fields Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Dhekelia Sovereign Base Area",
+      "coordinates": "34.982185, 33.720534"
+    },
+    {
+      "ident": "CY-0049",
+      "type": "heliport",
+      "name": "Dhekelia Station Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Dhekelia Sovereign Base Area",
+      "coordinates": "34.994222, 33.737434"
+    },
+    {
+      "ident": "CY-0050",
+      "type": "closed",
+      "name": "Gülseren Barracks Lakeside Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Karakol",
+      "coordinates": "35.144454, 33.919932"
+    },
+    {
+      "ident": "CY-0051",
+      "type": "heliport",
+      "name": "Gülseren Barracks Central Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Gazimağusa / Famagusta",
+      "coordinates": "35.142708, 33.927836"
+    },
+    {
+      "ident": "CY-0052",
+      "type": "heliport",
+      "name": "Erdemli Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Erdemli",
+      "coordinates": "35.085959, 33.614276"
+    },
+    {
+      "ident": "CY-0053",
+      "type": "heliport",
+      "name": "Aslanköy Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Angastina (Aslanköy)",
+      "coordinates": "35.207612, 33.586282"
+    },
+    {
+      "ident": "CY-0054",
+      "type": "heliport",
+      "name": "Aslankoy South Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Aslankoy / Angastina",
+      "coordinates": "35.205289, 33.584528"
+    },
+    {
+      "ident": "CY-0055",
+      "type": "heliport",
+      "name": "Pasakoy Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Pasakoy / Askeia",
+      "coordinates": "35.155544, 33.604919"
+    },
+    {
+      "ident": "CY-0056",
+      "type": "heliport",
+      "name": "Kirklar Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Kirklar / Tymvou",
+      "coordinates": "35.136592, 33.511078"
+    },
+    {
+      "ident": "CY-0057",
+      "type": "heliport",
+      "name": "UNFICYP Camp General Stefanik Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Gazimağusa / Famagusta",
+      "coordinates": "35.138264, 33.915638"
+    },
+    {
+      "ident": "CY-0058",
+      "type": "heliport",
+      "name": "K.A.A.Y. Kitiou Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Kiti",
+      "coordinates": "34.862267, 33.63261"
+    },
+    {
+      "ident": "CY-0059",
+      "type": "heliport",
+      "name": "Princess Mary Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Akrotiri",
+      "coordinates": "34.570436, 32.938128"
+    },
+    {
+      "ident": "CY-0060",
+      "type": "heliport",
+      "name": "Nicosia General Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Agiantzia",
+      "coordinates": "35.128055, 33.378521"
+    },
+    {
+      "ident": "CY-0061",
+      "type": "heliport",
+      "name": "Cyprus Expo Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Makedonitissa",
+      "coordinates": "35.151346, 33.316221"
+    },
+    {
+      "ident": "CY-0062",
+      "type": "heliport",
+      "name": "Gürpınar Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Gurpinar / Agia Marina Skyllouras",
+      "coordinates": "35.223416, 33.124436"
+    },
+    {
+      "ident": "CY-0063",
+      "type": "heliport",
+      "name": "Akamas Fire Lookout Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-06",
+      "municipality": "Neo Chorio",
+      "coordinates": "35.026182, 32.328702"
+    },
+    {
+      "ident": "CY-0064",
+      "type": "heliport",
+      "name": "Paphos General Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-06",
+      "municipality": "Paphos",
+      "coordinates": "34.787977, 32.445466"
+    },
+    {
+      "ident": "CY-0065",
+      "type": "heliport",
+      "name": "Paphos Airport Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-06",
+      "municipality": "Paphos",
+      "coordinates": "34.716456, 32.478371"
+    },
+    {
+      "ident": "CY-0066",
+      "type": "small_airport",
+      "name": "Mammari Aerial Firefighting Base",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Mammari",
+      "coordinates": "35.16884, 33.219964"
+    },
+    {
+      "ident": "CY-0067",
+      "type": "heliport",
+      "name": "KEN Paphos Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-06",
+      "municipality": "Anarita",
+      "coordinates": "34.749738, 32.545931"
+    },
+    {
+      "ident": "CY-0068",
+      "type": "heliport",
+      "name": "Paramali Radio Sonde Helipad",
+      "elevation_ft": -1.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Paramali",
+      "coordinates": "34.67825, 32.811328"
+    },
+    {
+      "ident": "CY-0069",
+      "type": "heliport",
+      "name": "Paramali South Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Paramali",
+      "coordinates": "34.666455, 32.811478"
+    },
+    {
+      "ident": "CY-0070",
+      "type": "closed",
+      "name": "Paramali South Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Paramali",
+      "coordinates": "34.666881, 32.807612"
+    },
+    {
+      "ident": "CY-0071",
+      "type": "closed",
+      "name": "Episkopi Cantonment Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Episkopi",
+      "coordinates": "34.68261, 32.838556"
+    },
+    {
+      "ident": "CY-0072",
+      "type": "heliport",
+      "name": "Episkopi Cantonment Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Episkopi",
+      "coordinates": "34.685292, 32.847448"
+    },
+    {
+      "ident": "CY-0073",
+      "type": "heliport",
+      "name": "Paramali East Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Paramali",
+      "coordinates": "34.666129, 32.782898"
+    },
+    {
+      "ident": "CY-0074",
+      "type": "heliport",
+      "name": "A6 Tunnel Western Entrance Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Sotira",
+      "coordinates": "34.69534, 32.832664"
+    },
+    {
+      "ident": "CY-0075",
+      "type": "heliport",
+      "name": "A6 Tunnel Eastern Entrance Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Sotira",
+      "coordinates": "34.700595, 32.844101"
+    },
+    {
+      "ident": "CY-0076",
+      "type": "heliport",
+      "name": "Limassol General Hospital Helipad",
+      "elevation_ft": 453.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-05",
+      "municipality": "Kato Polemidia",
+      "coordinates": "34.707887, 32.981722"
+    },
+    {
+      "ident": "CY-0077",
+      "type": "heliport",
+      "name": "Epilas Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-05",
+      "municipality": "Monagroulli",
+      "coordinates": "34.774901, 33.200922"
+    },
+    {
+      "ident": "CY-0078",
+      "type": "heliport",
+      "name": "Lazanias Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Lazanias",
+      "coordinates": "34.940064, 33.20146"
+    },
+    {
+      "ident": "CY-0079",
+      "type": "closed",
+      "name": "Choirokoitia Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Choirokoitia",
+      "coordinates": "34.793553, 33.352371"
+    },
+    {
+      "ident": "CY-0080",
+      "type": "heliport",
+      "name": "Bogazkoy Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-01",
+      "municipality": "Bogazkoy",
+      "coordinates": "35.291852, 33.281325"
+    },
+    {
+      "ident": "CY-0081",
+      "type": "small_airport",
+      "name": "Cyprus Gliding Club",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "coordinates": "35.17626, 33.18416"
+    },
+    {
+      "ident": "CY-0082",
+      "type": "heliport",
+      "name": "RAF Troodos Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-05",
+      "municipality": "Troodos",
+      "coordinates": "34.917178, 32.880549"
+    },
+    {
+      "ident": "CY-0083",
+      "type": "heliport",
+      "name": "Frenaros Helipad",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Frenaros",
+      "coordinates": "35.025185, 33.926629"
+    },
+    {
+      "ident": "CY-0084",
+      "type": "heliport",
+      "name": "Köprülü Heliport",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Köprülü / Kouklia",
+      "coordinates": "35.109818, 33.748683"
+    },
+    {
+      "ident": "CY-0085",
+      "type": "heliport",
+      "name": "Skyriders Aero Sport Club Helipad",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-06",
+      "municipality": "Yeroskipou",
+      "coordinates": "34.747472, 32.44662"
+    },
+    {
+      "ident": "CY-0086",
+      "type": "small_airport",
+      "name": "Mammari (Crusaders Gliding Club)",
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Mammari",
+      "coordinates": "35.173286, 33.18688"
+    },
+    {
+      "ident": "CY-NIC",
+      "type": "closed",
+      "name": "Nicosia International Airport",
+      "elevation_ft": 722.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Nicosia",
+      "coordinates": "35.150799, 33.278702"
+    },
+    {
+      "ident": "LCEN",
+      "type": "medium_airport",
+      "name": "Nicosia (Lefkoşa) Ercan International Airport",
+      "elevation_ft": 404.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-02",
+      "municipality": "Tymbou (Kirklar)",
+      "gps_code": "LCEN",
+      "iata_code": "ECN",
+      "coordinates": "35.152337, 33.506584"
+    },
+    {
+      "ident": "LCLK",
+      "type": "large_airport",
+      "name": "Larnaca International Airport",
+      "elevation_ft": 8.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-04",
+      "municipality": "Larnaca",
+      "gps_code": "LCLK",
+      "iata_code": "LCA",
+      "coordinates": "34.875099, 33.624901"
+    },
+    {
+      "ident": "LCPH",
+      "type": "medium_airport",
+      "name": "Paphos International Airport",
+      "elevation_ft": 41.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-06",
+      "municipality": "Paphos",
+      "gps_code": "LCPH",
+      "iata_code": "PFO",
+      "coordinates": "34.717999, 32.485699"
+    },
+    {
+      "ident": "LCRA",
+      "type": "medium_airport",
+      "name": "RAF Akrotiri",
+      "elevation_ft": 76.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-XX",
+      "municipality": "Akrotiri",
+      "gps_code": "LCRA",
+      "iata_code": "AKT",
+      "coordinates": "34.590401, 32.9879"
+    }
+  ]
+}

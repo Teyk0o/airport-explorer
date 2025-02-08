@@ -1,0 +1,275 @@
+{
+  "country_code": "JO",
+  "country_name": "Jordan",
+  "total_airports": 24,
+  "last_updated": "2025-02-08T15:09:31.172722",
+  "types_distribution": {
+    "heliport": 6,
+    "medium_airport": 4,
+    "small_airport": 13,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "JO-0001",
+      "type": "heliport",
+      "name": "King Abdullah II Air Base",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AZ",
+      "gps_code": "OJKA",
+      "coordinates": "31.997999, 36.219501"
+    },
+    {
+      "ident": "JO-0002",
+      "type": "medium_airport",
+      "name": "King Feisal Air Base",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MN",
+      "municipality": "Al-Jafr",
+      "coordinates": "30.3435, 36.147701"
+    },
+    {
+      "ident": "JO-0003",
+      "type": "small_airport",
+      "name": "Al Jafr 2 Air Base",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MN",
+      "coordinates": "30.01919937133789, 36.12590026855469"
+    },
+    {
+      "ident": "JO-0004",
+      "type": "small_airport",
+      "name": "Azraq Highway Strip",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AZ",
+      "coordinates": "32.0267062933, 36.4086914062"
+    },
+    {
+      "ident": "JO-0005",
+      "type": "small_airport",
+      "name": "Wadi El Murbah Highway Strip",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MA",
+      "coordinates": "32.730667612, 38.9783120155"
+    },
+    {
+      "ident": "JO-0006",
+      "type": "small_airport",
+      "name": "Al Ghadaf Highway Strip",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AZ",
+      "coordinates": "31.5965854628, 36.923235654799996"
+    },
+    {
+      "ident": "JO-0007",
+      "type": "small_airport",
+      "name": "Al Qatranah Highway Strip",
+      "elevation_ft": 2790.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MN",
+      "local_code": "Z17G",
+      "coordinates": "31.251992, 36.223211"
+    },
+    {
+      "ident": "JO-0008",
+      "type": "small_airport",
+      "name": "Al Quwayrah Highway Strip",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AQ",
+      "coordinates": "29.823993490499998, 35.3279650211"
+    },
+    {
+      "ident": "JO-0009",
+      "type": "small_airport",
+      "name": "Highway H Highway Strip",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AM",
+      "coordinates": "31.7856760596, 36.2213230133"
+    },
+    {
+      "ident": "JO-0010",
+      "type": "heliport",
+      "name": "Prince Hamza Hospital Heliport",
+      "elevation_ft": 2874.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AM",
+      "municipality": "Amman",
+      "coordinates": "31.98392, 35.93903"
+    },
+    {
+      "ident": "JO-0011",
+      "type": "heliport",
+      "name": "Prince Hashem bin Abdullah Military Hospital Heliport",
+      "elevation_ft": 256.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AQ",
+      "municipality": "Aqaba",
+      "coordinates": "29.57194, 35.01945"
+    },
+    {
+      "ident": "JO-0012",
+      "type": "heliport",
+      "name": "Island West Heliport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AQ",
+      "municipality": "Aqaba",
+      "coordinates": "29.54198, 34.985"
+    },
+    {
+      "ident": "JO-0013",
+      "type": "heliport",
+      "name": "Island East Heliport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AQ",
+      "municipality": "Aqaba",
+      "coordinates": "29.54052, 34.98965"
+    },
+    {
+      "ident": "JO-0014",
+      "type": "heliport",
+      "name": "Jordan Hospital Helipad",
+      "elevation_ft": 2939.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AM",
+      "municipality": "Amman",
+      "coordinates": "31.96089, 35.89877"
+    },
+    {
+      "ident": "JO-0015",
+      "type": "small_airport",
+      "name": "Al-Omari Airfield",
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AM",
+      "municipality": "Jizah",
+      "coordinates": "31.568827, 36.778292"
+    },
+    {
+      "ident": "JO-0016",
+      "type": "small_airport",
+      "name": "Ash-Shunah al-Janubiyah Airport",
+      "elevation_ft": -1207.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-BA",
+      "municipality": "Ash-Shunah al-Janubiyah",
+      "coordinates": "31.772909, 35.576362"
+    },
+    {
+      "ident": "OJ38",
+      "type": "small_airport",
+      "name": "Zarqa Airport",
+      "elevation_ft": 2400.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AZ",
+      "municipality": "Zarqa",
+      "gps_code": "OJ38",
+      "local_code": "OJ38",
+      "coordinates": "32.025299072265625, 36.144798278808594"
+    },
+    {
+      "ident": "OJAI",
+      "type": "large_airport",
+      "name": "Queen Alia International Airport",
+      "elevation_ft": 2395.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AM",
+      "municipality": "Amman",
+      "gps_code": "OJAI",
+      "iata_code": "AMM",
+      "coordinates": "31.7226009369, 35.9931983948"
+    },
+    {
+      "ident": "OJAM",
+      "type": "medium_airport",
+      "name": "Amman Civil (Marka International) Airport",
+      "elevation_ft": 2555.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AM",
+      "municipality": "Amman",
+      "gps_code": "OJAM",
+      "iata_code": "ADJ",
+      "coordinates": "31.9727, 35.9916"
+    },
+    {
+      "ident": "OJAQ",
+      "type": "medium_airport",
+      "name": "Aqaba King Hussein International Airport",
+      "elevation_ft": 175.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AQ",
+      "municipality": "Aqaba",
+      "gps_code": "OJAQ",
+      "iata_code": "AQJ",
+      "coordinates": "29.611600875854492, 35.01810073852539"
+    },
+    {
+      "ident": "OJHF",
+      "type": "small_airport",
+      "name": "Prince Hassan Air Base",
+      "elevation_ft": 2220.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MA",
+      "gps_code": "OJHF",
+      "coordinates": "32.160702, 37.149399"
+    },
+    {
+      "ident": "OJHR",
+      "type": "small_airport",
+      "name": "H4 Air Base",
+      "elevation_ft": 2250.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MA",
+      "gps_code": "OJHR",
+      "coordinates": "32.5392, 38.195"
+    },
+    {
+      "ident": "OJMF",
+      "type": "small_airport",
+      "name": "King Hussein Air College",
+      "elevation_ft": 2240.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-MA",
+      "municipality": "Mafraq",
+      "gps_code": "OJMF",
+      "iata_code": "OMF",
+      "coordinates": "32.3564, 36.259201"
+    },
+    {
+      "ident": "OJMS",
+      "type": "medium_airport",
+      "name": "Muwaffaq Salti Air Base",
+      "elevation_ft": 1706.0,
+      "continent": "AS",
+      "iso_country": "JO",
+      "iso_region": "JO-AZ",
+      "municipality": "Al Azraq",
+      "gps_code": "OJMS",
+      "local_code": "OJ40",
+      "coordinates": "31.8256, 36.782001"
+    }
+  ]
+}

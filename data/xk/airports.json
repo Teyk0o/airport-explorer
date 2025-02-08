@@ -1,0 +1,172 @@
+{
+  "country_code": "XK",
+  "country_name": "Kosovo",
+  "total_airports": 14,
+  "last_updated": "2025-02-08T15:09:30.828189",
+  "types_distribution": {
+    "closed": 4,
+    "medium_airport": 1,
+    "heliport": 6,
+    "small_airport": 3
+  },
+  "airports": [
+    {
+      "ident": "AL-0002",
+      "type": "closed",
+      "name": "Korroticës së Ulët Airport",
+      "elevation_ft": 1962.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Korroticë e Poshtme",
+      "coordinates": "42.605253, 20.910351"
+    },
+    {
+      "ident": "BKPR",
+      "type": "medium_airport",
+      "name": "Priština Adem Jashari International Airport",
+      "elevation_ft": 1789.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Prishtina",
+      "gps_code": "BKPR",
+      "iata_code": "PRN",
+      "coordinates": "42.5728, 21.035801"
+    },
+    {
+      "ident": "BKVR",
+      "type": "heliport",
+      "name": "Vali Ranch Heliport",
+      "elevation_ft": 2168.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-06",
+      "municipality": "Përlepnice",
+      "gps_code": "BKVR",
+      "coordinates": "42.513732, 21.534508"
+    },
+    {
+      "ident": "LYBS",
+      "type": "heliport",
+      "name": "Camp Bondsteel Army Heliport",
+      "elevation_ft": 1900.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-05",
+      "municipality": "Sojevë / Camp Bondsteel",
+      "gps_code": "LYBS",
+      "coordinates": "42.36632, 21.24234"
+    },
+    {
+      "ident": "LYDK",
+      "type": "small_airport",
+      "name": "Gjakovë Air Base",
+      "elevation_ft": 1370.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-07",
+      "municipality": "Gjakovë",
+      "coordinates": "42.435066, 20.427768"
+    },
+    {
+      "ident": "LYPT",
+      "type": "closed",
+      "name": "Batlava-Donja Penduha Air Base",
+      "elevation_ft": 1978.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Dumosh",
+      "coordinates": "42.849898, 21.221705"
+    },
+    {
+      "ident": "XK-0001",
+      "type": "closed",
+      "name": "Kaçanik Agricultural Airport",
+      "elevation_ft": 1916.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-05",
+      "municipality": "Kaçanik",
+      "coordinates": "42.346508, 21.194129"
+    },
+    {
+      "ident": "XK-0002",
+      "type": "small_airport",
+      "name": "Jagodë Cropduster Strip",
+      "elevation_ft": 1634.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-03",
+      "municipality": "Jagodë",
+      "coordinates": "42.63982, 20.50275"
+    },
+    {
+      "ident": "XK-0003",
+      "type": "small_airport",
+      "name": "Banjë Cropduster Strip",
+      "elevation_ft": 1943.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-04",
+      "municipality": "Banjë",
+      "coordinates": "42.47664, 20.78648"
+    },
+    {
+      "ident": "XK-0004",
+      "type": "heliport",
+      "name": "Dubrava Prison Heliport",
+      "elevation_ft": 1844.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-03",
+      "municipality": "Istog",
+      "coordinates": "42.78575, 20.55182"
+    },
+    {
+      "ident": "XK-0005",
+      "type": "closed",
+      "name": "Camp Christina Heliport",
+      "elevation_ft": 1795.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Suhadoll",
+      "coordinates": "42.5411, 21.11224"
+    },
+    {
+      "ident": "XK-0006",
+      "type": "heliport",
+      "name": "KFOR Headquarters Heliport",
+      "elevation_ft": 2113.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Pristina",
+      "coordinates": "42.664529, 21.141505"
+    },
+    {
+      "ident": "XK-0007",
+      "type": "heliport",
+      "name": "Gjilan Regional Hospital Heliport",
+      "elevation_ft": 1791.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-06",
+      "municipality": "Gjilan",
+      "coordinates": "42.45883, 21.46207"
+    },
+    {
+      "ident": "XK-0008",
+      "type": "heliport",
+      "name": "KFOR Camp Maxhunaj Heliport",
+      "elevation_ft": 1837.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-02",
+      "municipality": "Maxhunaj",
+      "coordinates": "42.78224, 21.03111"
+    }
+  ]
+}

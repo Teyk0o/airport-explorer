@@ -1,0 +1,44 @@
+{
+  "country_code": "MC",
+  "country_name": "Monaco",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:31.195349",
+  "types_distribution": {
+    "heliport": 3
+  },
+  "airports": [
+    {
+      "ident": "LNMC",
+      "type": "heliport",
+      "name": "Monaco Heliport",
+      "elevation_ft": 20.0,
+      "continent": "EU",
+      "iso_country": "MC",
+      "iso_region": "MC-U-A",
+      "municipality": "Fontvieille",
+      "gps_code": "LNMC",
+      "iata_code": "MCM",
+      "coordinates": "43.725798, 7.419673"
+    },
+    {
+      "ident": "MC-0001",
+      "type": "heliport",
+      "name": "Terre-Plein du Larvotto Heliport",
+      "continent": "EU",
+      "iso_country": "MC",
+      "iso_region": "MC-U-A",
+      "municipality": "Larvotto",
+      "coordinates": "43.746543, 7.43894"
+    },
+    {
+      "ident": "MC-0002",
+      "type": "heliport",
+      "name": "Helipuerto del Centro Hospitalario “Princess Grace”",
+      "continent": "EU",
+      "iso_country": "MC",
+      "iso_region": "MC-U-A",
+      "municipality": "La Colle",
+      "coordinates": "43.729392, 7.410111"
+    }
+  ]
+}

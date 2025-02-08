@@ -1,0 +1,73 @@
+{
+  "country_code": "WS",
+  "country_name": "Samoa",
+  "total_airports": 5,
+  "last_updated": "2025-02-08T15:09:31.204777",
+  "types_distribution": {
+    "small_airport": 3,
+    "medium_airport": 1,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "NSAU",
+      "type": "small_airport",
+      "name": "Asau Airport",
+      "continent": "OC",
+      "iso_country": "WS",
+      "iso_region": "WS-VS",
+      "municipality": "Asau",
+      "gps_code": "NSAU",
+      "iata_code": "AAU",
+      "coordinates": "-13.505132, -172.627888"
+    },
+    {
+      "ident": "NSFA",
+      "type": "medium_airport",
+      "name": "Faleolo International Airport",
+      "elevation_ft": 58.0,
+      "continent": "OC",
+      "iso_country": "WS",
+      "iso_region": "WS-AA",
+      "municipality": "Apia",
+      "gps_code": "NSFA",
+      "iata_code": "APW",
+      "coordinates": "-13.829999923706055, -172.00799560546875"
+    },
+    {
+      "ident": "NSFI",
+      "type": "small_airport",
+      "name": "Fagali'i Airport",
+      "elevation_ft": 131.0,
+      "continent": "OC",
+      "iso_country": "WS",
+      "iso_region": "WS-TU",
+      "municipality": "Apia",
+      "gps_code": "NSFI",
+      "iata_code": "FGI",
+      "coordinates": "-13.849167, -171.739866"
+    },
+    {
+      "ident": "NSMA",
+      "type": "small_airport",
+      "name": "Maota Airport",
+      "continent": "OC",
+      "iso_country": "WS",
+      "iso_region": "WS-PA",
+      "municipality": "Maota",
+      "gps_code": "NSMA",
+      "iata_code": "MXS",
+      "coordinates": "-13.742300033569336, -172.25799560546875"
+    },
+    {
+      "ident": "WS-0001",
+      "type": "closed",
+      "name": "Lalomalava Airport",
+      "continent": "OC",
+      "iso_country": "WS",
+      "iso_region": "WS-FA",
+      "municipality": "Lalomalava",
+      "coordinates": "-14.031827, -171.435114"
+    }
+  ]
+}

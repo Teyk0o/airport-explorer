@@ -1,0 +1,34 @@
+{
+  "country_code": "MS",
+  "country_name": "Montserrat",
+  "total_airports": 2,
+  "last_updated": "2025-02-08T15:09:31.226652",
+  "types_distribution": {
+    "medium_airport": 1,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "TRPG",
+      "type": "medium_airport",
+      "name": "John A. Osborne Airport",
+      "elevation_ft": 550.0,
+      "iso_country": "MS",
+      "iso_region": "MS-SP",
+      "municipality": "Gerald's Park",
+      "gps_code": "TRPG",
+      "iata_code": "MNI",
+      "coordinates": "16.791401, -62.193298"
+    },
+    {
+      "ident": "X-TRPM",
+      "type": "closed",
+      "name": "W H Bramble Airport",
+      "elevation_ft": 72.0,
+      "iso_country": "MS",
+      "iso_region": "MS-SG",
+      "municipality": "Trants",
+      "coordinates": "16.7589, -62.156399"
+    }
+  ]
+}

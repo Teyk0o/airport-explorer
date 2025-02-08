@@ -1,0 +1,42 @@
+{
+  "country_code": "AW",
+  "country_name": "Aruba",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:30.864913",
+  "types_distribution": {
+    "closed": 2,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "AW-0001",
+      "type": "closed",
+      "name": "Savaneta Field",
+      "iso_country": "AW",
+      "iso_region": "AW-U-A",
+      "municipality": "Savaneta",
+      "coordinates": "12.452124, -69.953427"
+    },
+    {
+      "ident": "AW-0002",
+      "type": "closed",
+      "name": "Cascabel Airfield",
+      "iso_country": "AW",
+      "iso_region": "AW-U-A",
+      "municipality": "San Nicolas",
+      "coordinates": "12.454544, -69.887499"
+    },
+    {
+      "ident": "TNCA",
+      "type": "large_airport",
+      "name": "Queen Beatrix International Airport",
+      "elevation_ft": 60.0,
+      "iso_country": "AW",
+      "iso_region": "AW-U-A",
+      "municipality": "Oranjestad",
+      "gps_code": "TNCA",
+      "iata_code": "AUA",
+      "coordinates": "12.5014, -70.015198"
+    }
+  ]
+}

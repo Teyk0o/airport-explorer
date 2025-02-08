@@ -1,0 +1,50 @@
+{
+  "country_code": "PW",
+  "country_name": "Palau",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:30.852097",
+  "types_distribution": {
+    "small_airport": 2,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "ANG",
+      "type": "small_airport",
+      "name": "Angaur",
+      "elevation_ft": 20.0,
+      "continent": "OC",
+      "iso_country": "PW",
+      "iso_region": "PW-010",
+      "municipality": "Angaur Island",
+      "local_code": "ANG",
+      "coordinates": "6.906829, 134.145386"
+    },
+    {
+      "ident": "C23",
+      "type": "small_airport",
+      "name": "Peleliu Airport",
+      "elevation_ft": 9.0,
+      "continent": "OC",
+      "iso_country": "PW",
+      "iso_region": "PW-350",
+      "municipality": "Peleliu",
+      "local_code": "C23",
+      "coordinates": "6.99744, 134.232055"
+    },
+    {
+      "ident": "PTRO",
+      "type": "medium_airport",
+      "name": "Babelthuap Airport",
+      "elevation_ft": 176.0,
+      "continent": "OC",
+      "iso_country": "PW",
+      "iso_region": "PW-004",
+      "municipality": "Babelthuap Island",
+      "gps_code": "PTRO",
+      "iata_code": "ROR",
+      "local_code": "ROR",
+      "coordinates": "7.36731, 134.544236"
+    }
+  ]
+}

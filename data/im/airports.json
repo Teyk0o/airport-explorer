@@ -1,0 +1,91 @@
+{
+  "country_code": "IM",
+  "country_name": "Isle of Man",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:31.057235",
+  "types_distribution": {
+    "medium_airport": 1,
+    "small_airport": 3,
+    "closed": 2,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "EGNS",
+      "type": "medium_airport",
+      "name": "Isle of Man Airport",
+      "elevation_ft": 52.0,
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Castletown",
+      "gps_code": "EGNS",
+      "iata_code": "IOM",
+      "coordinates": "54.083302, -4.62389"
+    },
+    {
+      "ident": "IM-0001",
+      "type": "small_airport",
+      "name": "Andreas Airfield",
+      "elevation_ft": 97.0,
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Andreas",
+      "coordinates": "54.371111, -4.423333"
+    },
+    {
+      "ident": "IM-0002",
+      "type": "closed",
+      "name": "RAF Jurby",
+      "elevation_ft": 84.0,
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Jurby",
+      "coordinates": "54.354, -4.5238"
+    },
+    {
+      "ident": "IM-0003",
+      "type": "small_airport",
+      "name": "Mount Rule Farm Airstrip",
+      "elevation_ft": 316.0,
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Braddan",
+      "coordinates": "54.182127, -4.51311"
+    },
+    {
+      "ident": "IM-0004",
+      "type": "small_airport",
+      "name": "Andreas-Ballavoddan House Airstrip",
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Andreas",
+      "coordinates": "54.356006, -4.438477"
+    },
+    {
+      "ident": "IM-0005",
+      "type": "heliport",
+      "name": "Noble's Hospital Heliport",
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Douglas",
+      "coordinates": "54.1703682, -4.507838"
+    },
+    {
+      "ident": "IM-0006",
+      "type": "closed",
+      "name": "Hall Caine Airport",
+      "elevation_ft": 30.0,
+      "continent": "EU",
+      "iso_country": "IM",
+      "iso_region": "IM-U-A",
+      "municipality": "Ramsey",
+      "coordinates": "54.33583, -4.4375"
+    }
+  ]
+}

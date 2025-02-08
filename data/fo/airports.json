@@ -1,0 +1,193 @@
+{
+  "country_code": "FO",
+  "country_name": "Faroe Islands",
+  "total_airports": 16,
+  "last_updated": "2025-02-08T15:09:31.062150",
+  "types_distribution": {
+    "heliport": 12,
+    "medium_airport": 1,
+    "closed": 3
+  },
+  "airports": [
+    {
+      "ident": "EKFA",
+      "type": "heliport",
+      "name": "Froðba Heliport",
+      "elevation_ft": 77.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Froðba",
+      "gps_code": "EKFA",
+      "coordinates": "61.543701, -6.77442"
+    },
+    {
+      "ident": "EKKU",
+      "type": "heliport",
+      "name": "Kirkja Heliport",
+      "elevation_ft": 93.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Kirkja",
+      "gps_code": "EKKU",
+      "coordinates": "62.317141, -6.313314"
+    },
+    {
+      "ident": "EKKV",
+      "type": "heliport",
+      "name": "Klaksvík Heliport",
+      "elevation_ft": 263.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Klaksvík",
+      "gps_code": "EKKV",
+      "coordinates": "62.217619, -6.576274"
+    },
+    {
+      "ident": "EKMS",
+      "type": "heliport",
+      "name": "Mykines Heliport",
+      "elevation_ft": 110.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Mykines",
+      "gps_code": "EKMS",
+      "coordinates": "62.102169, -7.645934"
+    },
+    {
+      "ident": "EKSO",
+      "type": "heliport",
+      "name": "Svínoy Heliport",
+      "elevation_ft": 30.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Svínoy",
+      "gps_code": "EKSO",
+      "coordinates": "62.276632, -6.341524"
+    },
+    {
+      "ident": "EKSR",
+      "type": "heliport",
+      "name": "Stóra Dímun Heliport",
+      "elevation_ft": 305.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Stóra Dímun",
+      "gps_code": "EKSR",
+      "coordinates": "61.685315, -6.758303"
+    },
+    {
+      "ident": "EKSY",
+      "type": "heliport",
+      "name": "Skúvoy Heliport",
+      "elevation_ft": 70.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Skúvoy",
+      "gps_code": "EKSY",
+      "coordinates": "61.769556, -6.80349"
+    },
+    {
+      "ident": "EKTB",
+      "type": "heliport",
+      "name": "Boðanes Heliport",
+      "elevation_ft": 68.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Tórshavn",
+      "gps_code": "EKTB",
+      "coordinates": "62.021684, -6.757452"
+    },
+    {
+      "ident": "EKVG",
+      "type": "medium_airport",
+      "name": "Vágar Airport",
+      "elevation_ft": 280.0,
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Vágar",
+      "gps_code": "EKVG",
+      "iata_code": "FAE",
+      "coordinates": "62.063256, -7.275782"
+    },
+    {
+      "ident": "FO-0001",
+      "type": "heliport",
+      "name": "Hattarvík Heliport",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Hattarvík",
+      "gps_code": "EKHI",
+      "coordinates": "62.330297, -6.276734"
+    },
+    {
+      "ident": "FO-0002",
+      "type": "heliport",
+      "name": "Koltur Heliport",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Koltur",
+      "coordinates": "61.984601, -6.963484"
+    },
+    {
+      "ident": "FO-0003",
+      "type": "heliport",
+      "name": "Skopun Heliport",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Skopun",
+      "coordinates": "61.904545, -6.884192"
+    },
+    {
+      "ident": "FO-0004",
+      "type": "heliport",
+      "name": "Faroe Islands National Hospital Helipad",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Tórshavn",
+      "coordinates": "62.001588, -6.774736"
+    },
+    {
+      "ident": "FO-0005",
+      "type": "closed",
+      "name": "Trøllanes Heliport",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Trøllanes",
+      "coordinates": "62.362427, -6.788021"
+    },
+    {
+      "ident": "FO-0006",
+      "type": "closed",
+      "name": "Gásadalur Heliport",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Gásadalur",
+      "coordinates": "62.108372, -7.434793"
+    },
+    {
+      "ident": "FO-0007",
+      "type": "closed",
+      "name": "Múli Heliport",
+      "continent": "EU",
+      "iso_country": "FO",
+      "iso_region": "FO-U-A",
+      "municipality": "Múli",
+      "coordinates": "62.349895, -6.582285"
+    }
+  ]
+}

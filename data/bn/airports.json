@@ -1,0 +1,179 @@
+{
+  "country_code": "BN",
+  "country_name": "Brunei",
+  "total_airports": 16,
+  "last_updated": "2025-02-08T15:09:30.884729",
+  "types_distribution": {
+    "heliport": 14,
+    "small_airport": 1,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "BN-0001",
+      "type": "heliport",
+      "name": "Istana Nurul Iman Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Bandar Seri Begawan",
+      "coordinates": "4.872524, 114.921956"
+    },
+    {
+      "ident": "BN-0002",
+      "type": "heliport",
+      "name": "Tumasek Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Bandar Seri Begawan",
+      "coordinates": "4.877107, 114.926715"
+    },
+    {
+      "ident": "BN-0003",
+      "type": "heliport",
+      "name": "Pulau Muara Besar Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Pulau Muara Besar",
+      "coordinates": "5.006128, 115.088457"
+    },
+    {
+      "ident": "BN-0004",
+      "type": "heliport",
+      "name": "Muara Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Muara",
+      "coordinates": "5.035629, 115.089139"
+    },
+    {
+      "ident": "BN-0005",
+      "type": "heliport",
+      "name": "RIPAS Hospital Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Bandar Seri Begawan",
+      "coordinates": "4.895136, 114.933612"
+    },
+    {
+      "ident": "BN-0006",
+      "type": "heliport",
+      "name": "Ulu Ulu Resort Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-TE",
+      "municipality": "Ulu Ulu",
+      "coordinates": "4.554246, 115.154487"
+    },
+    {
+      "ident": "BN-0007",
+      "type": "heliport",
+      "name": "Bangar Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-TE",
+      "municipality": "Bangar",
+      "coordinates": "4.708963, 115.075272"
+    },
+    {
+      "ident": "BN-0008",
+      "type": "heliport",
+      "name": "Sengkurong Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Sengkurong",
+      "coordinates": "4.941359, 114.821"
+    },
+    {
+      "ident": "BN-0009",
+      "type": "heliport",
+      "name": "Tutong Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-TU",
+      "municipality": "Tutong",
+      "coordinates": "4.819815, 114.667712"
+    },
+    {
+      "ident": "BN-0010",
+      "type": "heliport",
+      "name": "Kuala Belait Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BE",
+      "municipality": "Kuala Belait",
+      "coordinates": "4.588976, 114.188284"
+    },
+    {
+      "ident": "BN-0011",
+      "type": "heliport",
+      "name": "Seria Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BE",
+      "municipality": "Seria",
+      "coordinates": "4.608473, 114.327288"
+    },
+    {
+      "ident": "BN-0012",
+      "type": "heliport",
+      "name": "Seria Hospital Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BE",
+      "municipality": "Seria",
+      "coordinates": "4.609976, 114.304473"
+    },
+    {
+      "ident": "BN-0013",
+      "type": "heliport",
+      "name": "Shell Panaga Heliport",
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BE",
+      "municipality": "Panaga",
+      "coordinates": "4.607876, 114.291313"
+    },
+    {
+      "ident": "BN-0014",
+      "type": "heliport",
+      "name": "Suri Seri Begawan Hospital Heliport",
+      "elevation_ft": 7.0,
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BE",
+      "municipality": "Kuala Belait",
+      "coordinates": "4.58448, 114.1994"
+    },
+    {
+      "ident": "WBAK",
+      "type": "small_airport",
+      "name": "Anduki Airport",
+      "elevation_ft": 7.0,
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BE",
+      "municipality": "Seria",
+      "gps_code": "WBAK",
+      "coordinates": "4.635158, 114.378748"
+    },
+    {
+      "ident": "WBSB",
+      "type": "large_airport",
+      "name": "Brunei International Airport",
+      "elevation_ft": 73.0,
+      "continent": "AS",
+      "iso_country": "BN",
+      "iso_region": "BN-BM",
+      "municipality": "Bandar Seri Begawan",
+      "gps_code": "WBSB",
+      "iata_code": "BWN",
+      "coordinates": "4.9442, 114.928001"
+    }
+  ]
+}

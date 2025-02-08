@@ -1,0 +1,33 @@
+{
+  "country_code": "BB",
+  "country_name": "Barbados",
+  "total_airports": 2,
+  "last_updated": "2025-02-08T15:09:31.224072",
+  "types_distribution": {
+    "medium_airport": 1,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "TBPB",
+      "type": "medium_airport",
+      "name": "Grantley Adams International Airport",
+      "elevation_ft": 169.0,
+      "iso_country": "BB",
+      "iso_region": "BB-01",
+      "municipality": "Bridgetown",
+      "gps_code": "TBPB",
+      "iata_code": "BGI",
+      "coordinates": "13.0746, -59.4925"
+    },
+    {
+      "ident": "TBPO",
+      "type": "heliport",
+      "name": "Bridgetown Heliport",
+      "iso_country": "BB",
+      "iso_region": "BB-08",
+      "gps_code": "TBPO",
+      "coordinates": "13.095833, -59.618611"
+    }
+  ]
+}

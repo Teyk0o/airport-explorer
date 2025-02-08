@@ -1,0 +1,294 @@
+{
+  "country_code": "KW",
+  "country_name": "Kuwait",
+  "total_airports": 26,
+  "last_updated": "2025-02-08T15:09:31.187099",
+  "types_distribution": {
+    "heliport": 20,
+    "small_airport": 3,
+    "medium_airport": 2,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "KW-0001",
+      "type": "heliport",
+      "name": "Police Officers Club Heliport",
+      "elevation_ft": 6.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-MU",
+      "municipality": "Abu Hassaniya",
+      "coordinates": "29.198906, 48.116477"
+    },
+    {
+      "ident": "KW-0002",
+      "type": "heliport",
+      "name": "KOC Heliport",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al Ahmadi",
+      "coordinates": "29.059166, 48.054752"
+    },
+    {
+      "ident": "KW-0003",
+      "type": "heliport",
+      "name": "New Ahmadi Hospital Heliport",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al Ahmadi",
+      "coordinates": "29.097046, 48.076767"
+    },
+    {
+      "ident": "KW-0004",
+      "type": "heliport",
+      "name": "Old Ahmadi Hospital Heliport 1",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al Ahmadi",
+      "coordinates": "29.090992, 48.054369"
+    },
+    {
+      "ident": "KW-0005",
+      "type": "heliport",
+      "name": "Old Ahmadi Hospital Heliport 2",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al Ahmadi",
+      "coordinates": "29.090414, 48.053885"
+    },
+    {
+      "ident": "KW-0006",
+      "type": "heliport",
+      "name": "Marina Waves Heliport",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-HA",
+      "municipality": "Salmiya",
+      "coordinates": "29.345723, 48.068869"
+    },
+    {
+      "ident": "KW-0007",
+      "type": "heliport",
+      "name": "Al Adan Heliport",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Hadiya",
+      "coordinates": "29.136457, 48.090397"
+    },
+    {
+      "ident": "KW-0008",
+      "type": "heliport",
+      "name": "Qaruh Island Helipad",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Qaruh Island",
+      "coordinates": "28.817665, 48.776211"
+    },
+    {
+      "ident": "KW-0009",
+      "type": "heliport",
+      "name": "Umm al Maradim Island Helipad",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Umm al Maradim Island",
+      "coordinates": "28.6791, 48.65144"
+    },
+    {
+      "ident": "KW-0010",
+      "type": "heliport",
+      "name": "Kubbar Island Helipad",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Kubbar Island",
+      "coordinates": "29.0709, 48.49282"
+    },
+    {
+      "ident": "KW-0011",
+      "type": "heliport",
+      "name": "Ouha Island Helipad",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-KU",
+      "municipality": "Ouha Island",
+      "coordinates": "29.3777, 48.44129"
+    },
+    {
+      "ident": "KW-0012",
+      "type": "heliport",
+      "name": "Failaka Heliport",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-KU",
+      "municipality": "Az Zawr",
+      "coordinates": "29.44298, 48.2856"
+    },
+    {
+      "ident": "KW-0013",
+      "type": "heliport",
+      "name": "Failaka North Helipad",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-KU",
+      "municipality": "Az Zawr",
+      "coordinates": "29.45908, 48.30088"
+    },
+    {
+      "ident": "KW-0014",
+      "type": "heliport",
+      "name": "Abdullah bin Umm Maktum Mosque Helipad",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-KU",
+      "municipality": "Az Zawr",
+      "coordinates": "29.43351, 48.26882"
+    },
+    {
+      "ident": "KW-0015",
+      "type": "heliport",
+      "name": "Al-Nuwaiseeb Heliport",
+      "elevation_ft": 43.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al-Nuwaiseeb",
+      "coordinates": "28.56439, 48.39006"
+    },
+    {
+      "ident": "KW-0016",
+      "type": "small_airport",
+      "name": "Skydive Kuwait Airport",
+      "elevation_ft": 49.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al-Khiran",
+      "coordinates": "28.60425, 48.3093"
+    },
+    {
+      "ident": "KW-0017",
+      "type": "heliport",
+      "name": "Sabiya Thermal Power Plant Heliport (Central)",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-JA",
+      "municipality": "Shumaymah",
+      "coordinates": "29.5685, 48.16807"
+    },
+    {
+      "ident": "KW-0018",
+      "type": "heliport",
+      "name": "Sabiya Thermal Power Plant Heliport (Entrance)",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-JA",
+      "municipality": "Shumaymah",
+      "coordinates": "29.573784, 48.170929"
+    },
+    {
+      "ident": "KW-0019",
+      "type": "heliport",
+      "name": "Sabiya Thermal Power Plant Heliport (West)",
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-JA",
+      "municipality": "Shumaymah",
+      "coordinates": "29.567392, 48.156949"
+    },
+    {
+      "ident": "OK2A",
+      "type": "heliport",
+      "name": "Patton Army Heliport",
+      "elevation_ft": 168.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Camp Arifjan",
+      "local_code": "OK2A",
+      "coordinates": "28.864548, 48.150941"
+    },
+    {
+      "ident": "OKAJ",
+      "type": "medium_airport",
+      "name": "Ahmed Al Jaber Air Base",
+      "elevation_ft": 409.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Ahmed Al Jaber AB",
+      "gps_code": "OKAJ",
+      "iata_code": "XIJ",
+      "coordinates": "28.9347991943, 47.791900634799994"
+    },
+    {
+      "ident": "OKAS",
+      "type": "medium_airport",
+      "name": "Ali Al Salem Air Base",
+      "elevation_ft": 472.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-JA",
+      "municipality": "Al Damaikhi",
+      "gps_code": "OKAS",
+      "coordinates": "29.344632, 47.511215"
+    },
+    {
+      "ident": "OKBK",
+      "type": "large_airport",
+      "name": "Kuwait International Airport",
+      "elevation_ft": 206.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-FA",
+      "municipality": "Kuwait City",
+      "gps_code": "OKKK",
+      "iata_code": "KWI",
+      "coordinates": "29.226601, 47.968899"
+    },
+    {
+      "ident": "OKDI",
+      "type": "small_airport",
+      "name": "Udairi Army Air Field",
+      "elevation_ft": 430.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-JA",
+      "municipality": "Camp Buehring",
+      "gps_code": "OKDI",
+      "coordinates": "29.697599411010742, 47.43600082397461"
+    },
+    {
+      "ident": "OKNB",
+      "type": "heliport",
+      "name": "Ras al-Qulayah Naval Base Heliport",
+      "elevation_ft": 30.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Ras al-Qulayah Naval Base",
+      "gps_code": "OKNB",
+      "coordinates": "28.864500045776367, 48.27280044555664"
+    },
+    {
+      "ident": "Z19M",
+      "type": "small_airport",
+      "name": "Al Abdaliyah Highway Strip",
+      "elevation_ft": 330.0,
+      "continent": "AS",
+      "iso_country": "KW",
+      "iso_region": "KW-AH",
+      "municipality": "Al Abdaliyah",
+      "gps_code": "Z19M",
+      "coordinates": "29.045299530029297, 47.79079818725586"
+    }
+  ]
+}

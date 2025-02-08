@@ -1,0 +1,136 @@
+{
+  "country_code": "BJ",
+  "country_name": "Benin",
+  "total_airports": 10,
+  "last_updated": "2025-02-08T15:09:30.880285",
+  "types_distribution": {
+    "small_airport": 9,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "BJ-0001",
+      "type": "small_airport",
+      "name": "Tankaro Airport",
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-BO",
+      "municipality": "Parakou",
+      "coordinates": "9.391186, 2.507311"
+    },
+    {
+      "ident": "DBBB",
+      "type": "medium_airport",
+      "name": "Cadjehoun Airport",
+      "elevation_ft": 19.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-AQ",
+      "municipality": "Cotonou",
+      "gps_code": "DBBB",
+      "iata_code": "COO",
+      "coordinates": "6.357230186462402, 2.384350061416626"
+    },
+    {
+      "ident": "DBBC",
+      "type": "small_airport",
+      "name": "Cana Airport",
+      "elevation_ft": 548.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-ZO",
+      "municipality": "Bohicon",
+      "gps_code": "DBBC",
+      "coordinates": "7.125417, 2.046806"
+    },
+    {
+      "ident": "DBBD",
+      "type": "small_airport",
+      "name": "Djougou Airport",
+      "elevation_ft": 1480.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-DO",
+      "municipality": "Djougou",
+      "gps_code": "DBBD",
+      "iata_code": "DJA",
+      "coordinates": "9.69208333333, 1.63777777778"
+    },
+    {
+      "ident": "DBBK",
+      "type": "small_airport",
+      "name": "Kandi Airport",
+      "elevation_ft": 951.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-AL",
+      "municipality": "Kandi",
+      "gps_code": "DBBK",
+      "iata_code": "KDC",
+      "coordinates": "11.14479, 2.940381"
+    },
+    {
+      "ident": "DBBN",
+      "type": "small_airport",
+      "name": "Natitingou Airport",
+      "elevation_ft": 1512.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-AK",
+      "municipality": "Natitingou",
+      "gps_code": "DBBN",
+      "iata_code": "NAE",
+      "coordinates": "10.376965, 1.360507"
+    },
+    {
+      "ident": "DBBO",
+      "type": "small_airport",
+      "name": "Porga Airport",
+      "elevation_ft": 531.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-AK",
+      "municipality": "Porga",
+      "gps_code": "DBBO",
+      "coordinates": "11.046563, 0.992613"
+    },
+    {
+      "ident": "DBBP",
+      "type": "small_airport",
+      "name": "Parakou Airport",
+      "elevation_ft": 1266.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-BO",
+      "municipality": "Parakou",
+      "gps_code": "DBBP",
+      "iata_code": "PKO",
+      "coordinates": "9.35768985748291, 2.609679937362671"
+    },
+    {
+      "ident": "DBBR",
+      "type": "small_airport",
+      "name": "Bembereke Airport",
+      "elevation_ft": 1188.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-BO",
+      "municipality": "Bembereke",
+      "gps_code": "DBBR",
+      "coordinates": "10.27409, 2.697082"
+    },
+    {
+      "ident": "DBBS",
+      "type": "small_airport",
+      "name": "Savé Airport",
+      "elevation_ft": 597.0,
+      "continent": "AF",
+      "iso_country": "BJ",
+      "iso_region": "BJ-CO",
+      "municipality": "Savé",
+      "gps_code": "DBBS",
+      "iata_code": "SVF",
+      "coordinates": "8.018170356750488, 2.4645800590515137"
+    }
+  ]
+}

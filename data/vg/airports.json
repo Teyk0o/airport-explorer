@@ -1,0 +1,80 @@
+{
+  "country_code": "VG",
+  "country_name": "British Virgin Islands",
+  "total_airports": 6,
+  "last_updated": "2025-02-08T15:09:31.226416",
+  "types_distribution": {
+    "seaplane_base": 2,
+    "small_airport": 2,
+    "medium_airport": 1,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "TOV",
+      "type": "seaplane_base",
+      "name": "Tortola West End Seaplane Base",
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Tortola",
+      "iata_code": "TOV",
+      "coordinates": "18.45, -64.583333"
+    },
+    {
+      "ident": "TUPA",
+      "type": "small_airport",
+      "name": "Captain Auguste George Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Anegada",
+      "gps_code": "TUPA",
+      "iata_code": "NGD",
+      "coordinates": "18.727734, -64.32852"
+    },
+    {
+      "ident": "TUPJ",
+      "type": "medium_airport",
+      "name": "Terrance B. Lettsome International Airport",
+      "elevation_ft": 15.0,
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Road Town",
+      "gps_code": "TUPJ",
+      "iata_code": "EIS",
+      "coordinates": "18.445492, -64.541707"
+    },
+    {
+      "ident": "TUPW",
+      "type": "small_airport",
+      "name": "Virgin Gorda Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Spanish Town",
+      "gps_code": "TUPW",
+      "iata_code": "VIJ",
+      "coordinates": "18.446399688720703, -64.42749786376953"
+    },
+    {
+      "ident": "VG-0001",
+      "type": "heliport",
+      "name": "Eustatia Heliport",
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Spanish Town",
+      "coordinates": "18.508933, -64.359584"
+    },
+    {
+      "ident": "VG-0002",
+      "type": "seaplane_base",
+      "name": "Road Town Seaplane Base",
+      "elevation_ft": 0.0,
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Tortola",
+      "iata_code": "RAD",
+      "coordinates": "18.418273, -64.617369"
+    }
+  ]
+}

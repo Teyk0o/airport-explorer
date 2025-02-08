@@ -1,0 +1,238 @@
+{
+  "country_code": "AL",
+  "country_name": "Albania",
+  "total_airports": 20,
+  "last_updated": "2025-02-08T15:09:30.827822",
+  "types_distribution": {
+    "heliport": 9,
+    "closed": 8,
+    "medium_airport": 2,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "AL-0001",
+      "type": "heliport",
+      "name": "Lapraka Heliport",
+      "elevation_ft": 297.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "municipality": "Tirana",
+      "coordinates": "41.330782, 19.795152"
+    },
+    {
+      "ident": "AL-0003",
+      "type": "closed",
+      "name": "Vlora International Airport (under construction)",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-12",
+      "municipality": "Akerni",
+      "coordinates": "40.601737, 19.432712"
+    },
+    {
+      "ident": "AL-0004",
+      "type": "heliport",
+      "name": "Mother Teresa Hospital Heliport",
+      "elevation_ft": 420.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "municipality": "Tirana",
+      "coordinates": "41.339303, 19.830489"
+    },
+    {
+      "ident": "AL-0005",
+      "type": "heliport",
+      "name": "University Trauma Hospital Heliport",
+      "elevation_ft": 295.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "municipality": "Tirana",
+      "coordinates": "41.342857, 19.793764"
+    },
+    {
+      "ident": "AL-0006",
+      "type": "heliport",
+      "name": "Pogradec Heliport",
+      "elevation_ft": 2277.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-06",
+      "municipality": "Pogradec",
+      "coordinates": "40.90539, 20.65453"
+    },
+    {
+      "ident": "AL-0007",
+      "type": "heliport",
+      "name": "Viva Heliport Baldushk",
+      "elevation_ft": 436.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "municipality": "Balshaban",
+      "gps_code": "LABK",
+      "coordinates": "41.23048, 19.80107"
+    },
+    {
+      "ident": "AL-0008",
+      "type": "heliport",
+      "name": "Farkë Helicopter Base",
+      "elevation_ft": 801.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "municipality": "Farkë",
+      "coordinates": "41.31554, 19.88554"
+    },
+    {
+      "ident": "AL-0009",
+      "type": "heliport",
+      "name": "Puka Heliport",
+      "elevation_ft": 2484.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-10",
+      "municipality": "Puka",
+      "coordinates": "42.0417, 19.86158"
+    },
+    {
+      "ident": "AL-0010",
+      "type": "closed",
+      "name": "Korçë Teni Konomi City Hospital Heliport",
+      "elevation_ft": 2939.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-06",
+      "municipality": "Korçë",
+      "coordinates": "40.6114, 20.7852"
+    },
+    {
+      "ident": "AL-0011",
+      "type": "heliport",
+      "name": "Berat Regional Hospital Heliport",
+      "elevation_ft": 228.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-01",
+      "municipality": "Berat",
+      "coordinates": "40.70228, 19.96852"
+    },
+    {
+      "ident": "AL-LA10",
+      "type": "closed",
+      "name": "Gjirokastër Airfield",
+      "elevation_ft": 666.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-05",
+      "municipality": "Gjirokastër",
+      "coordinates": "40.085383, 20.15389"
+    },
+    {
+      "ident": "LAFK",
+      "type": "heliport",
+      "name": "Tiranë Helicopter Base",
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "municipality": "Farkë e Madhe",
+      "gps_code": "LAFK",
+      "coordinates": "41.311054, 19.880002"
+    },
+    {
+      "ident": "LAGJ",
+      "type": "closed",
+      "name": "Gjadër Air Base",
+      "elevation_ft": 23.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-08",
+      "municipality": "Gjadër",
+      "coordinates": "41.895199, 19.5987"
+    },
+    {
+      "ident": "LAKO",
+      "type": "closed",
+      "name": "Korçë Airfield",
+      "elevation_ft": 665.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-06",
+      "municipality": "Qendër Bulgarec",
+      "coordinates": "40.651741, 20.741715"
+    },
+    {
+      "ident": "LAKU",
+      "type": "medium_airport",
+      "name": "Kukës International Airport",
+      "elevation_ft": 1120.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-07",
+      "municipality": "Kukës",
+      "gps_code": "LAKU",
+      "iata_code": "KFZ",
+      "coordinates": "42.035802, 20.415955"
+    },
+    {
+      "ident": "LAKV",
+      "type": "medium_airport",
+      "name": "Kuçovë Air Base",
+      "elevation_ft": 135.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-01",
+      "municipality": "Kuçovë",
+      "gps_code": "LAKV",
+      "coordinates": "40.7719, 19.901899"
+    },
+    {
+      "ident": "LASK",
+      "type": "closed",
+      "name": "Shkodër Airport",
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-10",
+      "municipality": "Shkodër",
+      "coordinates": "42.089361, 19.509111"
+    },
+    {
+      "ident": "LASR",
+      "type": "closed",
+      "name": "Sarandë Airfield",
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-12",
+      "municipality": "Sarandë",
+      "coordinates": "39.876113, 20.037663"
+    },
+    {
+      "ident": "LATI",
+      "type": "large_airport",
+      "name": "Tirana International Airport Mother Teresa",
+      "elevation_ft": 126.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-02",
+      "municipality": "Rinas",
+      "gps_code": "LATI",
+      "iata_code": "TIA",
+      "coordinates": "41.4147, 19.7206"
+    },
+    {
+      "ident": "LAVL",
+      "type": "closed",
+      "name": "Vlorë Air Base",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-12",
+      "municipality": "Vlorë",
+      "coordinates": "40.476101, 19.474199"
+    }
+  ]
+}

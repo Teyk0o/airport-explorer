@@ -1,0 +1,36 @@
+{
+  "country_code": "PM",
+  "country_name": "Saint Pierre and Miquelon",
+  "total_airports": 2,
+  "last_updated": "2025-02-08T15:09:31.193648",
+  "types_distribution": {
+    "small_airport": 1,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "LFVM",
+      "type": "small_airport",
+      "name": "Miquelon Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "PM",
+      "iso_region": "PM-ML",
+      "municipality": "Miquelon",
+      "gps_code": "LFVM",
+      "iata_code": "MQC",
+      "coordinates": "47.095501, -56.380299"
+    },
+    {
+      "ident": "LFVP",
+      "type": "medium_airport",
+      "name": "St Pierre Airport",
+      "elevation_ft": 27.0,
+      "iso_country": "PM",
+      "iso_region": "PM-SP",
+      "municipality": "Saint-Pierre",
+      "gps_code": "LFVP",
+      "iata_code": "FSP",
+      "coordinates": "46.762901306152344, -56.173099517822266"
+    }
+  ]
+}

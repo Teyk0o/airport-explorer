@@ -1,0 +1,67 @@
+{
+  "country_code": "MO",
+  "country_name": "Macao",
+  "total_airports": 5,
+  "last_updated": "2025-02-08T15:09:31.200976",
+  "types_distribution": {
+    "heliport": 4,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "MO-0001",
+      "type": "heliport",
+      "name": "Conde S. Januário Hospital Heliport",
+      "continent": "AS",
+      "iso_country": "MO",
+      "iso_region": "MO-SEE",
+      "municipality": "Sé",
+      "coordinates": "22.194657, 113.546807"
+    },
+    {
+      "ident": "MO-0002",
+      "type": "heliport",
+      "name": "Macau Heliport at Taipa Ferry Terminal",
+      "continent": "AS",
+      "iso_country": "MO",
+      "iso_region": "MO-CAR",
+      "municipality": "Nossa Senhora do Carmo",
+      "gps_code": "VMMH",
+      "coordinates": "22.166616, 113.577416"
+    },
+    {
+      "ident": "MO-0003",
+      "type": "heliport",
+      "name": "SkyTech Heliport",
+      "continent": "AS",
+      "iso_country": "MO",
+      "iso_region": "MO-CAR",
+      "municipality": "Nossa Senhora do Carmo",
+      "coordinates": "22.165493, 113.582668"
+    },
+    {
+      "ident": "VMMC",
+      "type": "large_airport",
+      "name": "Macau International Airport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "MO",
+      "iso_region": "MO-CAR",
+      "municipality": "Nossa Senhora do Carmo",
+      "gps_code": "VMMC",
+      "iata_code": "MFM",
+      "coordinates": "22.149599, 113.592003"
+    },
+    {
+      "ident": "XZM",
+      "type": "heliport",
+      "name": "Macau Heliport at Outer Harbour Ferry Terminal",
+      "continent": "AS",
+      "iso_country": "MO",
+      "iso_region": "MO-SEE",
+      "municipality": "Sé",
+      "iata_code": "XZM",
+      "coordinates": "22.196242, 113.55936"
+    }
+  ]
+}

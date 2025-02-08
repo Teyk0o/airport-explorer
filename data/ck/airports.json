@@ -1,0 +1,140 @@
+{
+  "country_code": "CK",
+  "country_name": "Cook Islands",
+  "total_airports": 10,
+  "last_updated": "2025-02-08T15:09:31.202625",
+  "types_distribution": {
+    "small_airport": 9,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "NCAI",
+      "type": "small_airport",
+      "name": "Aitutaki Airport",
+      "elevation_ft": 14.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Aitutaki",
+      "gps_code": "NCAI",
+      "iata_code": "AIT",
+      "coordinates": "-18.8309, -159.764008"
+    },
+    {
+      "ident": "NCAT",
+      "type": "small_airport",
+      "name": "Enua Airport",
+      "elevation_ft": 36.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Atiu Island",
+      "gps_code": "NCAT",
+      "iata_code": "AIU",
+      "coordinates": "-19.96780014038086, -158.11900329589844"
+    },
+    {
+      "ident": "NCMG",
+      "type": "small_airport",
+      "name": "Mangaia Island Airport",
+      "elevation_ft": 45.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Mangaia Island",
+      "gps_code": "NCMG",
+      "iata_code": "MGS",
+      "coordinates": "-21.895987, -157.906662"
+    },
+    {
+      "ident": "NCMH",
+      "type": "small_airport",
+      "name": "Manihiki Island Airport",
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Manihiki Island",
+      "gps_code": "NCMH",
+      "iata_code": "MHX",
+      "coordinates": "-10.376700401306152, -161.0019989013672"
+    },
+    {
+      "ident": "NCMK",
+      "type": "small_airport",
+      "name": "Mauke Airport",
+      "elevation_ft": 26.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Mauke Island",
+      "gps_code": "NCMK",
+      "iata_code": "MUK",
+      "coordinates": "-20.13610076904297, -157.34500122070312"
+    },
+    {
+      "ident": "NCMN",
+      "type": "small_airport",
+      "name": "Manuae Airport",
+      "elevation_ft": 15.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Manuae",
+      "gps_code": "NCMN",
+      "coordinates": "-19.269152, -158.959408"
+    },
+    {
+      "ident": "NCMR",
+      "type": "small_airport",
+      "name": "Mitiaro Island Airport",
+      "elevation_ft": 25.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Mitiaro Island",
+      "gps_code": "NCMR",
+      "iata_code": "MOI",
+      "coordinates": "-19.842501, -157.703003"
+    },
+    {
+      "ident": "NCPK",
+      "type": "small_airport",
+      "name": "Pukapuka Island Airport",
+      "elevation_ft": 20.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Pukapuka Atoll",
+      "gps_code": "NCPK",
+      "iata_code": "PZK",
+      "coordinates": "-10.9145, -165.8393"
+    },
+    {
+      "ident": "NCPY",
+      "type": "small_airport",
+      "name": "Tongareva Airport",
+      "elevation_ft": 8.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Penrhyn Island",
+      "gps_code": "NCPY",
+      "iata_code": "PYE",
+      "coordinates": "-9.01437, -158.03241"
+    },
+    {
+      "ident": "NCRG",
+      "type": "medium_airport",
+      "name": "Rarotonga International Airport",
+      "elevation_ft": 19.0,
+      "continent": "OC",
+      "iso_country": "CK",
+      "iso_region": "CK-U-A",
+      "municipality": "Avarua",
+      "gps_code": "NCRG",
+      "iata_code": "RAR",
+      "coordinates": "-21.2027, -159.806"
+    }
+  ]
+}

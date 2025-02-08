@@ -1,0 +1,98 @@
+{
+  "country_code": "TG",
+  "country_name": "Togo",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:31.049763",
+  "types_distribution": {
+    "small_airport": 5,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "DXAK",
+      "type": "small_airport",
+      "name": "Akpaka Airport",
+      "elevation_ft": 689.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-P",
+      "municipality": "Atakpamé",
+      "gps_code": "DXAK",
+      "coordinates": "7.583000183105469, 1.1169999837875366"
+    },
+    {
+      "ident": "DXDP",
+      "type": "small_airport",
+      "name": "Djangou Airport",
+      "elevation_ft": 886.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-S",
+      "municipality": "Dapaong",
+      "gps_code": "DXDP",
+      "coordinates": "10.800417, 0.242372"
+    },
+    {
+      "ident": "DXKP",
+      "type": "small_airport",
+      "name": "Kolokope Airport",
+      "elevation_ft": 591.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-P",
+      "municipality": "Anié",
+      "gps_code": "DXKP",
+      "coordinates": "7.803451, 1.295966"
+    },
+    {
+      "ident": "DXMG",
+      "type": "small_airport",
+      "name": "Sansanné-Mango Airport",
+      "elevation_ft": 460.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-S",
+      "municipality": "Mango",
+      "gps_code": "DXMG",
+      "coordinates": "10.373010635375977, 0.47138214111328125"
+    },
+    {
+      "ident": "DXNG",
+      "type": "medium_airport",
+      "name": "Niamtougou International Airport",
+      "elevation_ft": 1515.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-K",
+      "municipality": "Niamtougou",
+      "gps_code": "DXNG",
+      "iata_code": "LRL",
+      "coordinates": "9.767330169677734, 1.091249942779541"
+    },
+    {
+      "ident": "DXSK",
+      "type": "small_airport",
+      "name": "Sokodé Airport",
+      "elevation_ft": 1214.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-C",
+      "municipality": "Sokodé",
+      "gps_code": "DXSK",
+      "coordinates": "8.994275, 1.153004"
+    },
+    {
+      "ident": "DXXX",
+      "type": "medium_airport",
+      "name": "Lomé–Tokoin International Airport",
+      "elevation_ft": 72.0,
+      "continent": "AF",
+      "iso_country": "TG",
+      "iso_region": "TG-M",
+      "municipality": "Lomé",
+      "gps_code": "DXXX",
+      "iata_code": "LFW",
+      "coordinates": "6.16561, 1.25451"
+    }
+  ]
+}

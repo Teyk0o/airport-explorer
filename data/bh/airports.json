@@ -1,0 +1,133 @@
+{
+  "country_code": "BH",
+  "country_name": "Bahrain",
+  "total_airports": 11,
+  "last_updated": "2025-02-08T15:09:30.878735",
+  "types_distribution": {
+    "heliport": 8,
+    "large_airport": 1,
+    "medium_airport": 1,
+    "small_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "BH-0001",
+      "type": "heliport",
+      "name": "Bahrain International Circuit Heliport",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-14",
+      "municipality": "Sakhir",
+      "coordinates": "26.029738, 50.511709"
+    },
+    {
+      "ident": "BH-0002",
+      "type": "heliport",
+      "name": "Riffa Air Base",
+      "elevation_ft": 114.0,
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-14",
+      "municipality": "Riffa",
+      "coordinates": "26.107242, 50.578968"
+    },
+    {
+      "ident": "BH-0003",
+      "type": "heliport",
+      "name": "Jidda Island West Heliport",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-17",
+      "municipality": "Jidda Island",
+      "coordinates": "26.19554, 50.39748"
+    },
+    {
+      "ident": "BH-0004",
+      "type": "heliport",
+      "name": "Jidda Island South Heliport",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-17",
+      "municipality": "Jidda Island",
+      "coordinates": "26.190016, 50.406708"
+    },
+    {
+      "ident": "BH-0005",
+      "type": "heliport",
+      "name": "King Hamad University Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-15",
+      "municipality": "Busaiteen",
+      "coordinates": "26.26282, 50.6022"
+    },
+    {
+      "ident": "BH-0006",
+      "type": "heliport",
+      "name": "Bahrain Defense Force Heliport",
+      "elevation_ft": 17.0,
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-13",
+      "municipality": "Isa Town",
+      "coordinates": "26.18973, 50.586"
+    },
+    {
+      "ident": "BH-0007",
+      "type": "heliport",
+      "name": "Block 997 Heliport",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-14",
+      "municipality": "Block 997",
+      "coordinates": "25.865112, 50.553293"
+    },
+    {
+      "ident": "BH-0008",
+      "type": "heliport",
+      "name": "Block 998 Heliport",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-14",
+      "municipality": "Block 998",
+      "coordinates": "25.861811, 50.551195"
+    },
+    {
+      "ident": "OBBI",
+      "type": "large_airport",
+      "name": "Bahrain International Airport",
+      "elevation_ft": 6.0,
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-15",
+      "municipality": "Manama",
+      "gps_code": "OBBI",
+      "iata_code": "BAH",
+      "coordinates": "26.267295, 50.63764"
+    },
+    {
+      "ident": "OBBS",
+      "type": "medium_airport",
+      "name": "Sheik Isa Air Base",
+      "elevation_ft": 136.0,
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-14",
+      "municipality": "Sitrah",
+      "gps_code": "OBBS",
+      "coordinates": "25.918399810791016, 50.590599060058594"
+    },
+    {
+      "ident": "OBKH",
+      "type": "small_airport",
+      "name": "Sakhir Air Base",
+      "elevation_ft": 49.0,
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-14",
+      "municipality": "Zallaq",
+      "gps_code": "OBKH",
+      "coordinates": "26.034533, 50.524544"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "country_code": "SG",
+  "country_name": "Singapore",
+  "total_airports": 11,
+  "last_updated": "2025-02-08T15:09:31.216718",
+  "types_distribution": {
+    "heliport": 1,
+    "small_airport": 3,
+    "closed": 1,
+    "medium_airport": 5,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "SG-0001",
+      "type": "heliport",
+      "name": "Brani Naval Base Heliport",
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-01",
+      "municipality": "Bukit Merah",
+      "coordinates": "1.256974, 103.833179"
+    },
+    {
+      "ident": "SG-0002",
+      "type": "small_airport",
+      "name": "Pulau Sudong Military Airstrip",
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-05",
+      "municipality": "Western Islands",
+      "coordinates": "1.20532, 103.719002"
+    },
+    {
+      "ident": "SG-0003",
+      "type": "small_airport",
+      "name": "Lim Chu Kang Road (Tengah Highway Strip)",
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-03",
+      "municipality": "Western Water Catchment",
+      "coordinates": "1.390671, 103.698435"
+    },
+    {
+      "ident": "SG-0004",
+      "type": "closed",
+      "name": "Kallang Airport",
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-01",
+      "municipality": "Kallang",
+      "coordinates": "1.307411, 103.873378"
+    },
+    {
+      "ident": "SG-0005",
+      "type": "small_airport",
+      "name": "Murai Airfield",
+      "elevation_ft": 72.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-03",
+      "municipality": "Western Water Catchment",
+      "coordinates": "1.39203, 103.69951"
+    },
+    {
+      "ident": "WSAC",
+      "type": "medium_airport",
+      "name": "Changi Air Base (East)",
+      "elevation_ft": 22.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-04",
+      "municipality": "Singapore",
+      "gps_code": "WSAC",
+      "coordinates": "1.3441400528, 104.009002686"
+    },
+    {
+      "ident": "WSAG",
+      "type": "medium_airport",
+      "name": "Sembawang Air Base",
+      "elevation_ft": 86.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-03",
+      "municipality": "Sembawang",
+      "gps_code": "WSAG",
+      "coordinates": "1.42526, 103.813004"
+    },
+    {
+      "ident": "WSAP",
+      "type": "medium_airport",
+      "name": "Paya Lebar Air Base",
+      "elevation_ft": 65.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-04",
+      "municipality": "Paya Lebar",
+      "gps_code": "WSAP",
+      "iata_code": "QPG",
+      "coordinates": "1.36042, 103.910004"
+    },
+    {
+      "ident": "WSAT",
+      "type": "medium_airport",
+      "name": "Tengah Air Base",
+      "elevation_ft": 50.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-03",
+      "municipality": "Western Water Catchment",
+      "gps_code": "WSAT",
+      "iata_code": "TGA",
+      "coordinates": "1.387561, 103.708291"
+    },
+    {
+      "ident": "WSSL",
+      "type": "medium_airport",
+      "name": "Seletar Airport",
+      "elevation_ft": 36.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-02",
+      "municipality": "Seletar",
+      "gps_code": "WSSL",
+      "iata_code": "XSP",
+      "coordinates": "1.41555, 103.86673"
+    },
+    {
+      "ident": "WSSS",
+      "type": "large_airport",
+      "name": "Singapore Changi Airport",
+      "elevation_ft": 22.0,
+      "continent": "AS",
+      "iso_country": "SG",
+      "iso_region": "SG-04",
+      "municipality": "Singapore",
+      "gps_code": "WSSS",
+      "iata_code": "SIN",
+      "coordinates": "1.35019, 103.994003"
+    }
+  ]
+}

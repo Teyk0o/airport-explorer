@@ -1,0 +1,121 @@
+{
+  "country_code": "VI",
+  "country_name": "U.S. Virgin Islands",
+  "total_airports": 9,
+  "last_updated": "2025-02-08T15:09:31.217041",
+  "types_distribution": {
+    "seaplane_base": 3,
+    "medium_airport": 2,
+    "heliport": 3,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "SJF",
+      "type": "seaplane_base",
+      "name": "Cruz Bay Seaplane Base",
+      "elevation_ft": 0.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Saint John Island",
+      "iata_code": "SJF",
+      "coordinates": "18.3315, -64.796"
+    },
+    {
+      "ident": "TIST",
+      "type": "medium_airport",
+      "name": "Cyril E. King Airport",
+      "elevation_ft": 23.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Charlotte Amalie",
+      "gps_code": "TIST",
+      "iata_code": "STT",
+      "local_code": "STT",
+      "coordinates": "18.337091, -64.977251"
+    },
+    {
+      "ident": "TISX",
+      "type": "medium_airport",
+      "name": "Henry E Rohlsen Airport",
+      "elevation_ft": 74.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Christiansted",
+      "gps_code": "TISX",
+      "iata_code": "STX",
+      "local_code": "STX",
+      "coordinates": "17.701567, -64.801634"
+    },
+    {
+      "ident": "VI01",
+      "type": "heliport",
+      "name": "DPS Heliport",
+      "elevation_ft": 50.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Frederiksted St Croix",
+      "gps_code": "VI01",
+      "local_code": "VI01",
+      "coordinates": "17.708900451660156, -64.79650115966797"
+    },
+    {
+      "ident": "VI02",
+      "type": "heliport",
+      "name": "St. Thomas Waterfront Heliport",
+      "elevation_ft": 4.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Charlotte Amalie",
+      "gps_code": "VI02",
+      "local_code": "VI02",
+      "coordinates": "18.338600158691406, -64.93930053710938"
+    },
+    {
+      "ident": "VI03",
+      "type": "closed",
+      "name": "Frenchman's Reef Heliport",
+      "elevation_ft": 20.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "St Thomas",
+      "coordinates": "18.319921, -64.921882"
+    },
+    {
+      "ident": "VI04",
+      "type": "heliport",
+      "name": "Stouffer Grand Beach Resort Heliport",
+      "elevation_ft": 125.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Charlotte Amalie",
+      "gps_code": "VI04",
+      "local_code": "VI04",
+      "coordinates": "18.345800399780273, -64.90399932861328"
+    },
+    {
+      "ident": "VI22",
+      "type": "seaplane_base",
+      "name": "Charlotte Amalie Harbor Seaplane Base",
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Charlotte Amalie St Thomas",
+      "gps_code": "VI22",
+      "iata_code": "SPB",
+      "local_code": "VI22",
+      "coordinates": "18.338600158691406, -64.9406967163086"
+    },
+    {
+      "ident": "VI32",
+      "type": "seaplane_base",
+      "name": "Christiansted Harbor Seaplane Base",
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "Christiansted St Croix",
+      "gps_code": "VI32",
+      "iata_code": "SSB",
+      "local_code": "VI32",
+      "coordinates": "17.74720001220703, -64.70490264892578"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "country_code": "BM",
+  "country_name": "Bermuda",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:30.881266",
+  "types_distribution": {
+    "closed": 3,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "BM-0001",
+      "type": "closed",
+      "name": "RNAS Boaz Island",
+      "iso_country": "BM",
+      "iso_region": "BM-U-A",
+      "municipality": "Sandys",
+      "coordinates": "32.320801, -64.841103"
+    },
+    {
+      "ident": "BM-0002",
+      "type": "closed",
+      "name": "Naval Air Station Bermuda Annex",
+      "iso_country": "BM",
+      "iso_region": "BM-U-A",
+      "municipality": "Sandys",
+      "coordinates": "32.269871, -64.851616"
+    },
+    {
+      "ident": "BM-0003",
+      "type": "closed",
+      "name": "Darrell's Island Seaplane Base",
+      "iso_country": "BM",
+      "iso_region": "BM-U-A",
+      "municipality": "Warwick",
+      "coordinates": "32.27513, -64.81915"
+    },
+    {
+      "ident": "TXKF",
+      "type": "medium_airport",
+      "name": "L.F. Wade International Airport",
+      "elevation_ft": 12.0,
+      "iso_country": "BM",
+      "iso_region": "BM-U-A",
+      "municipality": "Hamilton",
+      "gps_code": "TXKF",
+      "iata_code": "BDA",
+      "coordinates": "32.363998, -64.678703"
+    }
+  ]
+}

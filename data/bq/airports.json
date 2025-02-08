@@ -1,0 +1,58 @@
+{
+  "country_code": "BQ",
+  "country_name": "Bonaire, Saint Eustatius and Saba ",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:30.887122",
+  "types_distribution": {
+    "closed": 1,
+    "large_airport": 1,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "BQ-0001",
+      "type": "closed",
+      "name": "Old Flamingo Airport",
+      "iso_country": "BQ",
+      "iso_region": "BQ-U-A",
+      "municipality": "Kralendijk, Bonaire",
+      "coordinates": "12.18637, -68.26484"
+    },
+    {
+      "ident": "TNCB",
+      "type": "large_airport",
+      "name": "Flamingo International Airport",
+      "elevation_ft": 20.0,
+      "iso_country": "BQ",
+      "iso_region": "BQ-U-A",
+      "municipality": "Kralendijk, Bonaire",
+      "gps_code": "TNCB",
+      "iata_code": "BON",
+      "coordinates": "12.131, -68.268501"
+    },
+    {
+      "ident": "TNCE",
+      "type": "medium_airport",
+      "name": "F. D. Roosevelt Airport",
+      "elevation_ft": 129.0,
+      "iso_country": "BQ",
+      "iso_region": "BQ-U-A",
+      "municipality": "Sint Eustatius",
+      "gps_code": "TNCE",
+      "iata_code": "EUX",
+      "coordinates": "17.49650001525879, -62.979400634765625"
+    },
+    {
+      "ident": "TNCS",
+      "type": "medium_airport",
+      "name": "Juancho E. Yrausquin Airport",
+      "elevation_ft": 60.0,
+      "iso_country": "BQ",
+      "iso_region": "BQ-U-A",
+      "municipality": "Saba",
+      "gps_code": "TNCS",
+      "iata_code": "SAB",
+      "coordinates": "17.645351, -63.220571"
+    }
+  ]
+}

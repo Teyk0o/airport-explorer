@@ -1,0 +1,143 @@
+{
+  "country_code": "CV",
+  "country_name": "Cape Verde",
+  "total_airports": 10,
+  "last_updated": "2025-02-08T15:09:30.962008",
+  "types_distribution": {
+    "small_airport": 4,
+    "large_airport": 2,
+    "medium_airport": 4
+  },
+  "airports": [
+    {
+      "ident": "BVR",
+      "type": "small_airport",
+      "name": "Esperadinha Airport",
+      "elevation_ft": 64.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-S",
+      "municipality": "Brava Island",
+      "gps_code": "GVBR",
+      "iata_code": "BVR",
+      "coordinates": "14.864306, -24.746"
+    },
+    {
+      "ident": "GVAC",
+      "type": "large_airport",
+      "name": "Amílcar Cabral International Airport",
+      "elevation_ft": 177.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-B",
+      "municipality": "Espargos",
+      "gps_code": "GVAC",
+      "iata_code": "SID",
+      "coordinates": "16.7414, -22.9494"
+    },
+    {
+      "ident": "GVAN",
+      "type": "small_airport",
+      "name": "Agostinho Neto Airport",
+      "elevation_ft": 32.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-B",
+      "municipality": "Ponta do Sol",
+      "gps_code": "GVAN",
+      "iata_code": "NTO",
+      "coordinates": "17.202800750732422, -25.090599060058594"
+    },
+    {
+      "ident": "GVBA",
+      "type": "medium_airport",
+      "name": "Rabil Airport",
+      "elevation_ft": 69.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-B",
+      "municipality": "Rabil",
+      "gps_code": "GVBA",
+      "iata_code": "BVC",
+      "coordinates": "16.136499404907227, -22.888900756835938"
+    },
+    {
+      "ident": "GVMA",
+      "type": "medium_airport",
+      "name": "Maio Airport",
+      "elevation_ft": 36.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-S",
+      "municipality": "Vila do Maio",
+      "gps_code": "GVMA",
+      "iata_code": "MMO",
+      "coordinates": "15.155900001525879, -23.213699340820312"
+    },
+    {
+      "ident": "GVMT",
+      "type": "small_airport",
+      "name": "Mosteiros Airport",
+      "elevation_ft": 66.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-S",
+      "municipality": "Vila do Mosteiros",
+      "gps_code": "GVMT",
+      "iata_code": "MTI",
+      "coordinates": "15.045, -24.339199"
+    },
+    {
+      "ident": "GVNP",
+      "type": "large_airport",
+      "name": "Nelson Mandela International Airport",
+      "elevation_ft": 230.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-S",
+      "municipality": "Praia",
+      "gps_code": "GVNP",
+      "iata_code": "RAI",
+      "coordinates": "14.941126, -23.484728"
+    },
+    {
+      "ident": "GVSF",
+      "type": "small_airport",
+      "name": "São Filipe Airport",
+      "elevation_ft": 617.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-S",
+      "municipality": "São Filipe",
+      "gps_code": "GVSF",
+      "iata_code": "SFL",
+      "coordinates": "14.8850002289, -24.4799995422"
+    },
+    {
+      "ident": "GVSN",
+      "type": "medium_airport",
+      "name": "Preguiça Airport",
+      "elevation_ft": 669.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-B",
+      "municipality": "Preguiça",
+      "gps_code": "GVSN",
+      "iata_code": "SNE",
+      "coordinates": "16.588852, -24.284132"
+    },
+    {
+      "ident": "GVSV",
+      "type": "medium_airport",
+      "name": "São Pedro Airport",
+      "elevation_ft": 66.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-B",
+      "municipality": "São Pedro",
+      "gps_code": "GVSV",
+      "iata_code": "VXE",
+      "coordinates": "16.8332, -25.0553"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "country_code": "ST",
+  "country_name": "Sao Tome and Principe",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:31.087990",
+  "types_distribution": {
+    "medium_airport": 1,
+    "large_airport": 1,
+    "closed": 1,
+    "seaplane_base": 1
+  },
+  "airports": [
+    {
+      "ident": "FPPR",
+      "type": "medium_airport",
+      "name": "Principe Airport",
+      "elevation_ft": 591.0,
+      "continent": "AF",
+      "iso_country": "ST",
+      "iso_region": "ST-P",
+      "municipality": "São Tomé & Príncipe",
+      "gps_code": "FPPR",
+      "iata_code": "PCP",
+      "coordinates": "1.66294, 7.41174"
+    },
+    {
+      "ident": "FPST",
+      "type": "large_airport",
+      "name": "São Tomé International Airport",
+      "elevation_ft": 33.0,
+      "continent": "AF",
+      "iso_country": "ST",
+      "iso_region": "ST-01",
+      "municipality": "São Tomé",
+      "gps_code": "FPST",
+      "iata_code": "TMS",
+      "coordinates": "0.378175, 6.71215"
+    },
+    {
+      "ident": "PGP",
+      "type": "closed",
+      "name": "Roça Porto Alegre Airport",
+      "elevation_ft": 32.0,
+      "continent": "AF",
+      "iso_country": "ST",
+      "iso_region": "ST-03",
+      "municipality": "Porto Alegro",
+      "coordinates": "0.038624, 6.515965"
+    },
+    {
+      "ident": "ST-0001",
+      "type": "seaplane_base",
+      "name": "Santo Antonio Seaport",
+      "continent": "AF",
+      "iso_country": "ST",
+      "iso_region": "ST-P",
+      "municipality": "Santo Antonio",
+      "coordinates": "1.63777, 7.417778"
+    }
+  ]
+}

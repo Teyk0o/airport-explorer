@@ -1,0 +1,47 @@
+{
+  "country_code": "GD",
+  "country_name": "Grenada",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:31.199252",
+  "types_distribution": {
+    "closed": 1,
+    "medium_airport": 1,
+    "small_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "MKPE",
+      "type": "closed",
+      "name": "Pearls Airport",
+      "elevation_ft": 20.0,
+      "iso_country": "GD",
+      "iso_region": "GD-AN",
+      "municipality": "Pearls",
+      "coordinates": "12.14368, -61.61692"
+    },
+    {
+      "ident": "TGPY",
+      "type": "medium_airport",
+      "name": "Maurice Bishop International Airport",
+      "elevation_ft": 41.0,
+      "iso_country": "GD",
+      "iso_region": "GD-GE",
+      "municipality": "Saint George's",
+      "gps_code": "TGPY",
+      "iata_code": "GND",
+      "coordinates": "12.0042, -61.786201"
+    },
+    {
+      "ident": "TGPZ",
+      "type": "small_airport",
+      "name": "Lauriston Airport",
+      "elevation_ft": 5.0,
+      "iso_country": "GD",
+      "iso_region": "GD-PA",
+      "municipality": "Carriacou Island",
+      "gps_code": "TGPZ",
+      "iata_code": "CRU",
+      "coordinates": "12.4761, -61.472801"
+    }
+  ]
+}

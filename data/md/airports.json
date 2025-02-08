@@ -1,0 +1,171 @@
+{
+  "country_code": "MD",
+  "country_name": "Moldova",
+  "total_airports": 14,
+  "last_updated": "2025-02-08T15:09:31.196984",
+  "types_distribution": {
+    "medium_airport": 5,
+    "closed": 2,
+    "small_airport": 6,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "LUBL",
+      "type": "medium_airport",
+      "name": "Bălți International Airport",
+      "elevation_ft": 758.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-RS",
+      "municipality": "Bălți",
+      "gps_code": "LUBL",
+      "iata_code": "BZY",
+      "coordinates": "47.837666, 27.781108"
+    },
+    {
+      "ident": "LUBM",
+      "type": "medium_airport",
+      "name": "Mărculești Air Base",
+      "elevation_ft": 312.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-FR",
+      "municipality": "Mărculeşti",
+      "gps_code": "LUBM",
+      "coordinates": "47.862701, 28.212799"
+    },
+    {
+      "ident": "LUCH",
+      "type": "medium_airport",
+      "name": "Cahul International Airport",
+      "elevation_ft": 652.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CH",
+      "municipality": "Cahul",
+      "gps_code": "LUCH",
+      "coordinates": "45.8438, 28.2637"
+    },
+    {
+      "ident": "LUCL",
+      "type": "closed",
+      "name": "Ceadîr-Lunga Airfield",
+      "elevation_ft": 587.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-GA",
+      "municipality": "Ceadîr-Lunga",
+      "coordinates": "46.034994, 28.851844"
+    },
+    {
+      "ident": "LUKK",
+      "type": "medium_airport",
+      "name": "Chişinău International Airport",
+      "elevation_ft": 399.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CU",
+      "municipality": "Chişinău",
+      "gps_code": "LUKK",
+      "iata_code": "RMO",
+      "coordinates": "46.9277, 28.931"
+    },
+    {
+      "ident": "LUTR",
+      "type": "medium_airport",
+      "name": "Tiraspol Airport",
+      "elevation_ft": 141.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-SN",
+      "municipality": "Tiraspol",
+      "gps_code": "LUTR",
+      "coordinates": "46.868099, 29.590599"
+    },
+    {
+      "ident": "MD-0001",
+      "type": "closed",
+      "name": "Bălţi City Airport",
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-BL",
+      "municipality": "Bălţi",
+      "coordinates": "47.774399, 27.9575"
+    },
+    {
+      "ident": "MD-0002",
+      "type": "small_airport",
+      "name": "Vadul lui Voda Airfield",
+      "elevation_ft": 546.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CU",
+      "gps_code": "LUKV",
+      "coordinates": "47.0681, 29.0954"
+    },
+    {
+      "ident": "MD-0003",
+      "type": "small_airport",
+      "name": "Horeshti Airfield",
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-IL",
+      "municipality": "Horeshti",
+      "gps_code": "LUKH",
+      "coordinates": "46.83656, 28.901639"
+    },
+    {
+      "ident": "MD-0004",
+      "type": "small_airport",
+      "name": "Călărași",
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CL",
+      "municipality": "Călărași",
+      "coordinates": "47.2521452, 28.2802413"
+    },
+    {
+      "ident": "MD-0005",
+      "type": "small_airport",
+      "name": "Alexanderfeld Airstrip",
+      "elevation_ft": 528.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CH",
+      "municipality": "Alexanderfeld",
+      "coordinates": "45.7945, 28.42239"
+    },
+    {
+      "ident": "MD-0006",
+      "type": "small_airport",
+      "name": "Baimaclia Airstrip",
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CT",
+      "coordinates": "46.18065, 28.38241"
+    },
+    {
+      "ident": "MD-0007",
+      "type": "small_airport",
+      "name": "Vinaria Et Cetera Airstrip",
+      "elevation_ft": 451.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-SV",
+      "gps_code": "LUKE",
+      "coordinates": "46.45025, 29.92919"
+    },
+    {
+      "ident": "MD-0008",
+      "type": "heliport",
+      "name": "Giurgiulești Heliport",
+      "elevation_ft": 210.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CH",
+      "municipality": "Giurgiulești",
+      "coordinates": "45.49542, 28.18215"
+    }
+  ]
+}

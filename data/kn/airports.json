@@ -1,0 +1,45 @@
+{
+  "country_code": "KN",
+  "country_name": "Saint Kitts and Nevis",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:31.174551",
+  "types_distribution": {
+    "heliport": 1,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "KN-0001",
+      "type": "heliport",
+      "name": "Royal St. Kitts Heliport",
+      "iso_country": "KN",
+      "iso_region": "KN-U-A",
+      "municipality": "Lucas",
+      "coordinates": "17.291017, -62.689065"
+    },
+    {
+      "ident": "TKPK",
+      "type": "medium_airport",
+      "name": "Robert L. Bradshaw International Airport",
+      "elevation_ft": 170.0,
+      "iso_country": "KN",
+      "iso_region": "KN-U-A",
+      "municipality": "Basseterre",
+      "gps_code": "TKPK",
+      "iata_code": "SKB",
+      "coordinates": "17.311199188232422, -62.71870040893555"
+    },
+    {
+      "ident": "TKPN",
+      "type": "medium_airport",
+      "name": "Vance W. Amory International Airport",
+      "elevation_ft": 14.0,
+      "iso_country": "KN",
+      "iso_region": "KN-U-A",
+      "municipality": "Charlestown",
+      "gps_code": "TKPN",
+      "iata_code": "NEV",
+      "coordinates": "17.205699920654297, -62.589900970458984"
+    }
+  ]
+}

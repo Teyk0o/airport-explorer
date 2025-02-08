@@ -1,0 +1,61 @@
+{
+  "country_code": "SH",
+  "country_name": "Saint Helena",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:31.084387",
+  "types_distribution": {
+    "medium_airport": 1,
+    "small_airport": 1,
+    "heliport": 2
+  },
+  "airports": [
+    {
+      "ident": "FHAW",
+      "type": "medium_airport",
+      "name": "RAF Ascension Island",
+      "elevation_ft": 278.0,
+      "continent": "AF",
+      "iso_country": "SH",
+      "iso_region": "SH-AC",
+      "municipality": "Cat Hill",
+      "gps_code": "FHAW",
+      "iata_code": "ASI",
+      "coordinates": "-7.9696, -14.3937"
+    },
+    {
+      "ident": "FHSH",
+      "type": "small_airport",
+      "name": "Saint Helena Airport",
+      "elevation_ft": 1017.0,
+      "continent": "AF",
+      "iso_country": "SH",
+      "iso_region": "SH-SH",
+      "municipality": "Longwood",
+      "gps_code": "FHSH",
+      "iata_code": "HLE",
+      "coordinates": "-15.957725, -5.645943"
+    },
+    {
+      "ident": "SH-0001",
+      "type": "heliport",
+      "name": "Gough Island Heliport",
+      "continent": "AF",
+      "iso_country": "SH",
+      "iso_region": "SH-TA",
+      "municipality": "Gough Island",
+      "gps_code": "FAGE",
+      "local_code": "FHGH",
+      "coordinates": "-40.347933, -9.881306"
+    },
+    {
+      "ident": "SH-0002",
+      "type": "heliport",
+      "name": "Saint Helena Heliport",
+      "continent": "AF",
+      "iso_country": "SH",
+      "iso_region": "SH-SH",
+      "municipality": "Longwood",
+      "coordinates": "-15.960775, -5.654768"
+    }
+  ]
+}

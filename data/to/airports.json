@@ -1,0 +1,90 @@
+{
+  "country_code": "TO",
+  "country_name": "Tonga",
+  "total_airports": 6,
+  "last_updated": "2025-02-08T15:09:31.202897",
+  "types_distribution": {
+    "small_airport": 3,
+    "medium_airport": 3
+  },
+  "airports": [
+    {
+      "ident": "NFTE",
+      "type": "small_airport",
+      "name": "Kaufana Airport",
+      "elevation_ft": 325.0,
+      "continent": "OC",
+      "iso_country": "TO",
+      "iso_region": "TO-01",
+      "municipality": "Eua Island",
+      "gps_code": "NFTE",
+      "iata_code": "EUA",
+      "coordinates": "-21.378299713100002, -174.957992554"
+    },
+    {
+      "ident": "NFTF",
+      "type": "medium_airport",
+      "name": "Fua'amotu International Airport",
+      "elevation_ft": 126.0,
+      "continent": "OC",
+      "iso_country": "TO",
+      "iso_region": "TO-04",
+      "municipality": "Nuku'alofa",
+      "gps_code": "NFTF",
+      "iata_code": "TBU",
+      "coordinates": "-21.241199493408203, -175.14999389648438"
+    },
+    {
+      "ident": "NFTL",
+      "type": "medium_airport",
+      "name": "Lifuka Island Airport",
+      "elevation_ft": 31.0,
+      "continent": "OC",
+      "iso_country": "TO",
+      "iso_region": "TO-02",
+      "municipality": "Lifuka",
+      "gps_code": "NFTL",
+      "iata_code": "HPA",
+      "coordinates": "-19.777000427246094, -174.34100341796875"
+    },
+    {
+      "ident": "NFTO",
+      "type": "small_airport",
+      "name": "Mata'aho Airport",
+      "elevation_ft": 160.0,
+      "continent": "OC",
+      "iso_country": "TO",
+      "iso_region": "TO-03",
+      "municipality": "Angaha, Niuafo'ou Island",
+      "gps_code": "NFTO",
+      "iata_code": "NFO",
+      "coordinates": "-15.570603, -175.631283"
+    },
+    {
+      "ident": "NFTP",
+      "type": "small_airport",
+      "name": "Kuini Lavenia Airport",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "TO",
+      "iso_region": "TO-03",
+      "municipality": "Niuatoputapu",
+      "gps_code": "NFTP",
+      "iata_code": "NTT",
+      "coordinates": "-15.977297, -173.791089"
+    },
+    {
+      "ident": "NFTV",
+      "type": "medium_airport",
+      "name": "Vava'u International Airport",
+      "elevation_ft": 236.0,
+      "continent": "OC",
+      "iso_country": "TO",
+      "iso_region": "TO-05",
+      "municipality": "Vava'u Island",
+      "gps_code": "NFTV",
+      "iata_code": "VAV",
+      "coordinates": "-18.58530044555664, -173.96200561523438"
+    }
+  ]
+}

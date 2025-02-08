@@ -1,0 +1,734 @@
+{
+  "country_code": "GT",
+  "country_name": "Guatemala",
+  "total_airports": 70,
+  "last_updated": "2025-02-08T15:09:31.062884",
+  "types_distribution": {
+    "heliport": 2,
+    "small_airport": 51,
+    "closed": 10,
+    "medium_airport": 6,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "EMR",
+      "type": "heliport",
+      "name": "El Mirador Heliport",
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "El Mirador",
+      "iata_code": "EMR",
+      "coordinates": "17.752077, -89.924916"
+    },
+    {
+      "ident": "GT-0001",
+      "type": "small_airport",
+      "name": "Chiquimula Airport",
+      "elevation_ft": 1484.0,
+      "iso_country": "GT",
+      "iso_region": "GT-CQ",
+      "municipality": "Chiquimula",
+      "gps_code": "MGCQ",
+      "iata_code": "CIQ",
+      "coordinates": "14.83092, -89.520938"
+    },
+    {
+      "ident": "GT-0002",
+      "type": "small_airport",
+      "name": "Dos Lagunas Airport",
+      "elevation_ft": 1057.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Dos Lagunas",
+      "gps_code": "MGDL",
+      "iata_code": "DON",
+      "coordinates": "17.6124, -89.6884"
+    },
+    {
+      "ident": "GT-0003",
+      "type": "small_airport",
+      "name": "El Naranjo Airport",
+      "elevation_ft": 140.0,
+      "iso_country": "GT",
+      "iso_region": "GT-ES",
+      "municipality": "El Naranjo",
+      "iata_code": "ENJ",
+      "coordinates": "14.106931, -90.817496"
+    },
+    {
+      "ident": "GT-0004",
+      "type": "small_airport",
+      "name": "Paso Caballos Airport",
+      "elevation_ft": 213.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Paso Caballos",
+      "gps_code": "MGPC",
+      "iata_code": "PCG",
+      "coordinates": "17.2639007568, -90.25630187990001"
+    },
+    {
+      "ident": "GT-0005",
+      "type": "small_airport",
+      "name": "El Naranjo Airport",
+      "elevation_ft": 386.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "El Naranjo",
+      "coordinates": "17.228442, -90.811659"
+    },
+    {
+      "ident": "GT-0006",
+      "type": "closed",
+      "name": "El Petén Airport",
+      "elevation_ft": 774.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Tikal",
+      "coordinates": "17.22823, -89.605549"
+    },
+    {
+      "ident": "GT-0007",
+      "type": "small_airport",
+      "name": "Uaxactun Airport",
+      "elevation_ft": 573.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Uaxactun",
+      "gps_code": "MGUX",
+      "iata_code": "UAX",
+      "coordinates": "17.393888, -89.632744"
+    },
+    {
+      "ident": "GT-0008",
+      "type": "small_airport",
+      "name": "SANTIAGO",
+      "iso_country": "GT",
+      "iso_region": "GT-SO",
+      "coordinates": "14.609280294500001, -91.24419093130001"
+    },
+    {
+      "ident": "GT-0009",
+      "type": "small_airport",
+      "name": "Nebaj",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "coordinates": "15.447310102700001, -91.162147522"
+    },
+    {
+      "ident": "GT-0010",
+      "type": "small_airport",
+      "name": "Chajul Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Chajul",
+      "coordinates": "15.477177, -91.034684"
+    },
+    {
+      "ident": "GT-0011",
+      "type": "closed",
+      "name": "Barillas",
+      "iso_country": "GT",
+      "iso_region": "GT-HU",
+      "coordinates": "15.8029075281, -91.32273674010001"
+    },
+    {
+      "ident": "GT-0012",
+      "type": "small_airport",
+      "name": "Barillas upper",
+      "elevation_ft": 5800.0,
+      "iso_country": "GT",
+      "iso_region": "GT-HU",
+      "coordinates": "15.8162861226, -91.2969017029"
+    },
+    {
+      "ident": "GT-0013",
+      "type": "small_airport",
+      "name": "San Luis Ixcan Valle Uno Candelaria",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "coordinates": "15.798943330199998, -91.087474823"
+    },
+    {
+      "ident": "GT-0014",
+      "type": "small_airport",
+      "name": "Rancho Pal",
+      "iso_country": "GT",
+      "iso_region": "GT-HU",
+      "coordinates": "15.8751579288, -91.14309310910001"
+    },
+    {
+      "ident": "GT-0015",
+      "type": "small_airport",
+      "name": "Xalbal",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "coordinates": "15.8692137295, -90.99838256839999"
+    },
+    {
+      "ident": "GT-0016",
+      "type": "small_airport",
+      "name": "Flore del Norte Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Flore del Norte",
+      "coordinates": "16.0227158087, -91.1113786697"
+    },
+    {
+      "ident": "GT-0017",
+      "type": "small_airport",
+      "name": "Los Angeles Airstrip",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Los Angeles",
+      "coordinates": "16.043668785199998, -91.06678962710001"
+    },
+    {
+      "ident": "GT-0018",
+      "type": "small_airport",
+      "name": "Cuarto Pueblo Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Carto Pueblo",
+      "coordinates": "16.0401217826, -90.9766244888"
+    },
+    {
+      "ident": "GT-0019",
+      "type": "small_airport",
+      "name": "Ixquisis Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-HU",
+      "municipality": "Ixquisis",
+      "coordinates": "16.0622276524, -91.4198112488"
+    },
+    {
+      "ident": "GT-0020",
+      "type": "small_airport",
+      "name": "Nueva Generación Maya Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-HU",
+      "municipality": "Nueva Generación Maya",
+      "coordinates": "15.9803081736, -91.18000030520001"
+    },
+    {
+      "ident": "GT-0021",
+      "type": "small_airport",
+      "name": "Jayabaj Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Jayabaj",
+      "coordinates": "14.9892915638, -90.7983756065"
+    },
+    {
+      "ident": "GT-0022",
+      "type": "small_airport",
+      "name": "Zacualpa Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Zacualpa",
+      "coordinates": "15.0155103165, -90.8985185623"
+    },
+    {
+      "ident": "GT-0023",
+      "type": "small_airport",
+      "name": "Canilla Airport",
+      "elevation_ft": 3973.0,
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Canillá",
+      "gps_code": "MGCA",
+      "coordinates": "15.170063, -90.858736"
+    },
+    {
+      "ident": "GT-0024",
+      "type": "small_airport",
+      "name": "Uspantan Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Uspantan",
+      "coordinates": "15.342547366900002, -90.8727264404"
+    },
+    {
+      "ident": "GT-0025",
+      "type": "small_airport",
+      "name": "Chisec Airport",
+      "elevation_ft": 722.0,
+      "iso_country": "GT",
+      "iso_region": "GT-AV",
+      "municipality": "Chisec",
+      "gps_code": "MGCS",
+      "coordinates": "15.816203, -90.275688"
+    },
+    {
+      "ident": "GT-0026",
+      "type": "small_airport",
+      "name": "San Pedro Cotija Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "San Pedro Cotija",
+      "coordinates": "15.7038619663, -90.88834762569999"
+    },
+    {
+      "ident": "GT-0027",
+      "type": "small_airport",
+      "name": "Sayaxché Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Sayaxché",
+      "coordinates": "16.52184, -90.195258"
+    },
+    {
+      "ident": "GT-0028",
+      "type": "small_airport",
+      "name": "El Estor Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-IZ",
+      "municipality": "El Estor",
+      "coordinates": "15.517008, -89.368374"
+    },
+    {
+      "ident": "GT-0029",
+      "type": "small_airport",
+      "name": "Champerico Airport",
+      "elevation_ft": 36.0,
+      "iso_country": "GT",
+      "iso_region": "GT-RE",
+      "municipality": "Champerico",
+      "gps_code": "MGCP",
+      "coordinates": "14.30694, -91.89955"
+    },
+    {
+      "ident": "GT-0030",
+      "type": "small_airport",
+      "name": "La Noria Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-ES",
+      "municipality": "Tiquisate",
+      "coordinates": "14.26308, -91.35761"
+    },
+    {
+      "ident": "GT-0031",
+      "type": "small_airport",
+      "name": "Tiquisate Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-ES",
+      "municipality": "Tiquisate",
+      "coordinates": "14.27213, -91.34686"
+    },
+    {
+      "ident": "GT-0032",
+      "type": "small_airport",
+      "name": "Finca El Alamo Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-SM",
+      "municipality": "Ayutla Tecun Uman",
+      "coordinates": "14.61875, -92.15506"
+    },
+    {
+      "ident": "GT-0033",
+      "type": "small_airport",
+      "name": "Macanche Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Macanche",
+      "coordinates": "16.96356, -89.6214"
+    },
+    {
+      "ident": "GT-0034",
+      "type": "heliport",
+      "name": "Palmas del Ixcan Heliport",
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "La Soledad",
+      "coordinates": "16.22273, -90.36325"
+    },
+    {
+      "ident": "GT-0035",
+      "type": "small_airport",
+      "name": "Tikindustrias Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Las Pozas",
+      "coordinates": "16.37362, -90.28819"
+    },
+    {
+      "ident": "GT-0036",
+      "type": "small_airport",
+      "name": "Industria Chuquibul Airport",
+      "iso_country": "GT",
+      "iso_region": "GT-AV",
+      "municipality": "Playitas",
+      "coordinates": "16.03465, -90.39241"
+    },
+    {
+      "ident": "GT-0037",
+      "type": "closed",
+      "name": "El Zapote Airstrip",
+      "elevation_ft": 1345.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "El Caoba",
+      "coordinates": "17.038803, -89.647343"
+    },
+    {
+      "ident": "GT-0038",
+      "type": "closed",
+      "name": "Chinaja Airstrip",
+      "elevation_ft": 2359.0,
+      "iso_country": "GT",
+      "iso_region": "GT-AV",
+      "coordinates": "16.042884, -90.231271"
+    },
+    {
+      "ident": "GT-0039",
+      "type": "closed",
+      "name": "Santa Amelia Southeast Airstrip",
+      "elevation_ft": 462.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Santa Amelia",
+      "coordinates": "16.231312, -90.025299"
+    },
+    {
+      "ident": "GT-0040",
+      "type": "closed",
+      "name": "Santa Amelia Airstrip",
+      "elevation_ft": 427.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Santa Amelia",
+      "coordinates": "16.267003, -90.048838"
+    },
+    {
+      "ident": "GT-0041",
+      "type": "closed",
+      "name": "La Balsa Airstrip",
+      "elevation_ft": 860.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "La Palma",
+      "coordinates": "16.016901, -89.600801"
+    },
+    {
+      "ident": "GT-0042",
+      "type": "closed",
+      "name": "San Fernando Airstrip",
+      "elevation_ft": 350.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "San Fernando",
+      "coordinates": "16.775288, -90.770245"
+    },
+    {
+      "ident": "GT-PKJ",
+      "type": "small_airport",
+      "name": "Playa Grande Airport",
+      "elevation_ft": 577.0,
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Playa Grande",
+      "gps_code": "MGPG",
+      "iata_code": "PKJ",
+      "coordinates": "15.9975, -90.741699"
+    },
+    {
+      "ident": "MG13",
+      "type": "small_airport",
+      "name": "Fray Bartolome Airport",
+      "elevation_ft": 512.0,
+      "iso_country": "GT",
+      "iso_region": "GT-AV",
+      "municipality": "El Achiotal",
+      "gps_code": "MGFB",
+      "coordinates": "15.80405, -89.8507"
+    },
+    {
+      "ident": "MGBN",
+      "type": "small_airport",
+      "name": "Bananera Airport",
+      "elevation_ft": 130.0,
+      "iso_country": "GT",
+      "iso_region": "GT-IZ",
+      "municipality": "Morales",
+      "gps_code": "MGBN",
+      "coordinates": "15.4735, -88.837196"
+    },
+    {
+      "ident": "MGCB",
+      "type": "medium_airport",
+      "name": "Coban Airport",
+      "elevation_ft": 4339.0,
+      "iso_country": "GT",
+      "iso_region": "GT-AV",
+      "municipality": "Coban",
+      "gps_code": "MGCB",
+      "iata_code": "CBV",
+      "coordinates": "15.469, -90.4067"
+    },
+    {
+      "ident": "MGCR",
+      "type": "small_airport",
+      "name": "Carmelita Airport",
+      "elevation_ft": 753.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Carmelita",
+      "gps_code": "MGCR",
+      "iata_code": "CMM",
+      "coordinates": "17.461201, -90.053703"
+    },
+    {
+      "ident": "MGCT",
+      "type": "small_airport",
+      "name": "Coatepeque Airport",
+      "elevation_ft": 1486.0,
+      "iso_country": "GT",
+      "iso_region": "GT-QZ",
+      "municipality": "Coatepeque",
+      "gps_code": "MGCT",
+      "iata_code": "CTF",
+      "coordinates": "14.6942, -91.8825"
+    },
+    {
+      "ident": "MGES",
+      "type": "small_airport",
+      "name": "Esquipulas Airport",
+      "elevation_ft": 3090.0,
+      "iso_country": "GT",
+      "iso_region": "GT-CQ",
+      "municipality": "Esquipulas",
+      "gps_code": "MGES",
+      "coordinates": "14.567552, -89.326153"
+    },
+    {
+      "ident": "MGGT",
+      "type": "large_airport",
+      "name": "La Aurora Airport",
+      "elevation_ft": 4952.0,
+      "iso_country": "GT",
+      "iso_region": "GT-GU",
+      "municipality": "Guatemala City",
+      "gps_code": "MGGT",
+      "iata_code": "GUA",
+      "coordinates": "14.5833, -90.527496"
+    },
+    {
+      "ident": "MGHH",
+      "type": "small_airport",
+      "name": "Iztapa Aeroclub",
+      "elevation_ft": 19.0,
+      "iso_country": "GT",
+      "iso_region": "GT-ES",
+      "municipality": "Iztapa",
+      "gps_code": "MGHH",
+      "coordinates": "13.930929, -90.728783"
+    },
+    {
+      "ident": "MGHT",
+      "type": "small_airport",
+      "name": "Huehuetenango Airport",
+      "elevation_ft": 6135.0,
+      "iso_country": "GT",
+      "iso_region": "GT-HU",
+      "municipality": "Huehuetenango",
+      "gps_code": "MGHT",
+      "iata_code": "HUG",
+      "coordinates": "15.316667, -91.505556"
+    },
+    {
+      "ident": "MGJU",
+      "type": "small_airport",
+      "name": "Jutiapa Airport",
+      "elevation_ft": 2949.0,
+      "iso_country": "GT",
+      "iso_region": "GT-JU",
+      "municipality": "Jutiapa",
+      "gps_code": "MGJU",
+      "coordinates": "14.291729, -89.941421"
+    },
+    {
+      "ident": "MGLL",
+      "type": "small_airport",
+      "name": "La Libertad Airport",
+      "elevation_ft": 623.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "La Libertad",
+      "gps_code": "MGLL",
+      "coordinates": "16.750299, -90.139999"
+    },
+    {
+      "ident": "MGML",
+      "type": "small_airport",
+      "name": "Malacatán Airport",
+      "elevation_ft": 1194.0,
+      "iso_country": "GT",
+      "iso_region": "GT-SM",
+      "municipality": "San Marcos",
+      "gps_code": "MGML",
+      "coordinates": "14.907464, -92.087921"
+    },
+    {
+      "ident": "MGMM",
+      "type": "closed",
+      "name": "Melchor de Mencos Airport",
+      "elevation_ft": 4670.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Melchor de Mencos",
+      "coordinates": "17.068609, -89.152222"
+    },
+    {
+      "ident": "MGPB",
+      "type": "medium_airport",
+      "name": "Puerto Barrios Airport",
+      "elevation_ft": 33.0,
+      "iso_country": "GT",
+      "iso_region": "GT-IZ",
+      "municipality": "Puerto Barrios",
+      "gps_code": "MGPB",
+      "iata_code": "PBR",
+      "coordinates": "15.7309, -88.583801"
+    },
+    {
+      "ident": "MGPP",
+      "type": "small_airport",
+      "name": "Poptún Airport",
+      "elevation_ft": 1801.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Poptún",
+      "gps_code": "MGPP",
+      "iata_code": "PON",
+      "coordinates": "16.325799942017, -89.41609954834"
+    },
+    {
+      "ident": "MGQC",
+      "type": "small_airport",
+      "name": "Quiché Airport",
+      "elevation_ft": 6631.0,
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Santa Cruz del Quiché",
+      "gps_code": "MGQC",
+      "iata_code": "AQB",
+      "coordinates": "15.0122, -91.150597"
+    },
+    {
+      "ident": "MGQZ",
+      "type": "small_airport",
+      "name": "Quezaltenango Airport",
+      "elevation_ft": 7779.0,
+      "iso_country": "GT",
+      "iso_region": "GT-QZ",
+      "municipality": "Quezaltenango",
+      "gps_code": "MGQZ",
+      "iata_code": "AAZ",
+      "coordinates": "14.8656, -91.501999"
+    },
+    {
+      "ident": "MGRA",
+      "type": "closed",
+      "name": "Rabinal Airport",
+      "elevation_ft": 3180.0,
+      "iso_country": "GT",
+      "iso_region": "GT-BV",
+      "municipality": "Rabinal",
+      "coordinates": "15.0935, -90.5063888889"
+    },
+    {
+      "ident": "MGRB",
+      "type": "medium_airport",
+      "name": "Rubelsanto Airport",
+      "elevation_ft": 426.0,
+      "iso_country": "GT",
+      "iso_region": "GT-AV",
+      "municipality": "Rubelsanto",
+      "gps_code": "MGRB",
+      "iata_code": "RUV",
+      "coordinates": "15.992, -90.445297"
+    },
+    {
+      "ident": "MGRD",
+      "type": "small_airport",
+      "name": "Las Vegas Airport",
+      "elevation_ft": 28.0,
+      "iso_country": "GT",
+      "iso_region": "GT-IZ",
+      "municipality": "Rio Dulce",
+      "gps_code": "MGRD",
+      "iata_code": "LCF",
+      "coordinates": "15.668363, -88.961763"
+    },
+    {
+      "ident": "MGRF",
+      "type": "small_airport",
+      "name": "Monterrico Airport",
+      "elevation_ft": 20.0,
+      "iso_country": "GT",
+      "iso_region": "GT-SR",
+      "municipality": "Monterrico",
+      "gps_code": "MGRF",
+      "coordinates": "13.894942, -90.485092"
+    },
+    {
+      "ident": "MGRT",
+      "type": "medium_airport",
+      "name": "Retalhuleu Airport",
+      "elevation_ft": 656.0,
+      "iso_country": "GT",
+      "iso_region": "GT-RE",
+      "municipality": "Retalhuleu",
+      "gps_code": "MGRT",
+      "iata_code": "RER",
+      "coordinates": "14.521431, -91.697001"
+    },
+    {
+      "ident": "MGSJ",
+      "type": "medium_airport",
+      "name": "San José Airport",
+      "elevation_ft": 29.0,
+      "iso_country": "GT",
+      "iso_region": "GT-ES",
+      "municipality": "Puerto San José",
+      "gps_code": "MGSJ",
+      "iata_code": "GSJ",
+      "coordinates": "13.9362, -90.8358"
+    },
+    {
+      "ident": "MGSM",
+      "type": "small_airport",
+      "name": "San Marcos Airport",
+      "elevation_ft": 7933.0,
+      "iso_country": "GT",
+      "iso_region": "GT-SM",
+      "municipality": "San Marcos",
+      "gps_code": "MGSM",
+      "coordinates": "14.955268, -91.808339"
+    },
+    {
+      "ident": "MGTK",
+      "type": "medium_airport",
+      "name": "Mundo Maya International Airport",
+      "elevation_ft": 427.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "San Benito",
+      "gps_code": "MGMM",
+      "iata_code": "FRS",
+      "coordinates": "16.913799, -89.866402"
+    },
+    {
+      "ident": "MGZA",
+      "type": "small_airport",
+      "name": "Zacapa Airport",
+      "elevation_ft": 626.0,
+      "iso_country": "GT",
+      "iso_region": "GT-ZA",
+      "municipality": "Zacapa",
+      "gps_code": "MGZA",
+      "coordinates": "14.9603, -89.5392"
+    }
+  ]
+}

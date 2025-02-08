@@ -1,0 +1,66 @@
+{
+  "country_code": "AS",
+  "country_name": "American Samoa",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:31.204550",
+  "types_distribution": {
+    "small_airport": 2,
+    "medium_airport": 1,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "NSAS",
+      "type": "small_airport",
+      "name": "Ofu Airport",
+      "elevation_ft": 9.0,
+      "continent": "OC",
+      "iso_country": "AS",
+      "iso_region": "AS-MA",
+      "municipality": "Ofu",
+      "gps_code": "NSAS",
+      "iata_code": "OFU",
+      "local_code": "Z08",
+      "coordinates": "-14.1844, -169.669998"
+    },
+    {
+      "ident": "NSFQ",
+      "type": "small_airport",
+      "name": "Fitiuta Airport",
+      "elevation_ft": 110.0,
+      "continent": "OC",
+      "iso_country": "AS",
+      "iso_region": "AS-MA",
+      "municipality": "Fitiuta Village",
+      "gps_code": "NSFQ",
+      "iata_code": "FTI",
+      "local_code": "FAQ",
+      "coordinates": "-14.216131, -169.423771"
+    },
+    {
+      "ident": "NSTU",
+      "type": "medium_airport",
+      "name": "Pago Pago International Airport",
+      "elevation_ft": 32.0,
+      "continent": "OC",
+      "iso_country": "AS",
+      "iso_region": "AS-WT",
+      "municipality": "Pago Pago",
+      "gps_code": "NSTU",
+      "iata_code": "PPG",
+      "local_code": "PPG",
+      "coordinates": "-14.331, -170.710007"
+    },
+    {
+      "ident": "TAV",
+      "type": "closed",
+      "name": "Tau Airport",
+      "elevation_ft": 185.0,
+      "continent": "OC",
+      "iso_country": "AS",
+      "iso_region": "AS-MA",
+      "municipality": "Tau",
+      "coordinates": "-14.23178, -169.51101"
+    }
+  ]
+}

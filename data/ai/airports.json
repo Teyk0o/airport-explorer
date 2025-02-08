@@ -1,0 +1,33 @@
+{
+  "country_code": "AI",
+  "country_name": "Anguilla",
+  "total_airports": 2,
+  "last_updated": "2025-02-08T15:09:30.826979",
+  "types_distribution": {
+    "closed": 1,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "AI-0001",
+      "type": "closed",
+      "name": "Scrub Island Airfield",
+      "iso_country": "AI",
+      "iso_region": "AI-U-A",
+      "municipality": "Scrub Island",
+      "coordinates": "18.28812, -62.945352"
+    },
+    {
+      "ident": "TQPF",
+      "type": "medium_airport",
+      "name": "Clayton J Lloyd International Airport",
+      "elevation_ft": 127.0,
+      "iso_country": "AI",
+      "iso_region": "AI-U-A",
+      "municipality": "The Valley",
+      "gps_code": "TQPF",
+      "iata_code": "AXA",
+      "coordinates": "18.204773, -63.05383"
+    }
+  ]
+}

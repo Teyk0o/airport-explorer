@@ -1,0 +1,52 @@
+{
+  "country_code": "MQ",
+  "country_name": "Martinique",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:31.201213",
+  "types_distribution": {
+    "heliport": 2,
+    "closed": 1,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "MQ-0001",
+      "type": "heliport",
+      "name": "Bouillon Heliport",
+      "iso_country": "MQ",
+      "iso_region": "MQ-U-A",
+      "municipality": "L'Ajoupa-Bouillon",
+      "coordinates": "14.840883, -61.106912"
+    },
+    {
+      "ident": "MQ-0002",
+      "type": "heliport",
+      "name": "Bellefontaine Heliport",
+      "iso_country": "MQ",
+      "iso_region": "MQ-U-A",
+      "municipality": "Bellefontaine",
+      "coordinates": "14.66652, -61.158803"
+    },
+    {
+      "ident": "MQ-0003",
+      "type": "closed",
+      "name": "Le Carbet Aerodrome",
+      "iso_country": "MQ",
+      "iso_region": "MQ-U-A",
+      "municipality": "Le Carbet",
+      "coordinates": "14.706979, -61.171937"
+    },
+    {
+      "ident": "TFFF",
+      "type": "large_airport",
+      "name": "Martinique Aimé Césaire International Airport",
+      "elevation_ft": 16.0,
+      "iso_country": "MQ",
+      "iso_region": "MQ-U-A",
+      "municipality": "Fort-de-France",
+      "gps_code": "TFFF",
+      "iata_code": "FDF",
+      "coordinates": "14.591, -61.003201"
+    }
+  ]
+}

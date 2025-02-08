@@ -1,0 +1,293 @@
+{
+  "country_code": "JM",
+  "country_name": "Jamaica",
+  "total_airports": 27,
+  "last_updated": "2025-02-08T15:09:31.172310",
+  "types_distribution": {
+    "closed": 5,
+    "small_airport": 15,
+    "heliport": 2,
+    "medium_airport": 4,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "JM-0001",
+      "type": "closed",
+      "name": "Gunters Hill Airport / Vernam Field",
+      "elevation_ft": 99.0,
+      "iso_country": "JM",
+      "iso_region": "JM-13",
+      "municipality": "Gimme-Me-Bit",
+      "coordinates": "17.886, -77.303497"
+    },
+    {
+      "ident": "JM-0002",
+      "type": "small_airport",
+      "name": "Manchioneal Airstrip",
+      "elevation_ft": 292.0,
+      "iso_country": "JM",
+      "iso_region": "JM-04",
+      "municipality": "Manchioneal",
+      "coordinates": "18.054733, -76.283167"
+    },
+    {
+      "ident": "JM-0003",
+      "type": "small_airport",
+      "name": "Tulloch Airstrip",
+      "elevation_ft": 300.0,
+      "iso_country": "JM",
+      "iso_region": "JM-14",
+      "municipality": "Bog Walk",
+      "coordinates": "18.104596899500002, -76.9878101349"
+    },
+    {
+      "ident": "JM-0004",
+      "type": "small_airport",
+      "name": "Ewarton Airstrip",
+      "elevation_ft": 600.0,
+      "iso_country": "JM",
+      "iso_region": "JM-14",
+      "municipality": "Ewarton",
+      "coordinates": "18.1739272531, -77.0685553551"
+    },
+    {
+      "ident": "JM-0005",
+      "type": "small_airport",
+      "name": "Worthy Park Airstrip",
+      "elevation_ft": 1194.0,
+      "iso_country": "JM",
+      "iso_region": "JM-14",
+      "municipality": "Lluidas Vale",
+      "coordinates": "18.144975, -77.157884"
+    },
+    {
+      "ident": "JM-0006",
+      "type": "small_airport",
+      "name": "Port Esquivel Airstrip",
+      "elevation_ft": 3.0,
+      "iso_country": "JM",
+      "iso_region": "JM-14",
+      "municipality": "Port Esquivel",
+      "coordinates": "17.891296, -77.136018"
+    },
+    {
+      "ident": "JM-0007",
+      "type": "small_airport",
+      "name": "Puerto Seco Airstrip",
+      "elevation_ft": 30.0,
+      "iso_country": "JM",
+      "iso_region": "JM-06",
+      "municipality": "Discovery Bay",
+      "coordinates": "18.4666041204, -77.39469051360001"
+    },
+    {
+      "ident": "JM-0008",
+      "type": "small_airport",
+      "name": "Silent Hill Airstrip",
+      "elevation_ft": 2940.0,
+      "iso_country": "JM",
+      "iso_region": "JM-12",
+      "municipality": "Christiana",
+      "coordinates": "18.196362, -77.492108"
+    },
+    {
+      "ident": "JM-0009",
+      "type": "small_airport",
+      "name": "Kirkvine Airstrip",
+      "elevation_ft": 1368.0,
+      "iso_country": "JM",
+      "iso_region": "JM-12",
+      "municipality": "Williamsfield",
+      "coordinates": "18.07955, -77.478236"
+    },
+    {
+      "ident": "JM-0010",
+      "type": "small_airport",
+      "name": "Nain Airstrip",
+      "elevation_ft": 550.0,
+      "iso_country": "JM",
+      "iso_region": "JM-11",
+      "coordinates": "17.9770288591, -77.6070141792"
+    },
+    {
+      "ident": "JM-0011",
+      "type": "small_airport",
+      "name": "Mafoota Airstrip",
+      "elevation_ft": 948.0,
+      "iso_country": "JM",
+      "iso_region": "JM-08",
+      "municipality": "Mafoota",
+      "coordinates": "18.371734, -77.89326"
+    },
+    {
+      "ident": "JM-0012",
+      "type": "small_airport",
+      "name": "Braco Airfield",
+      "iso_country": "JM",
+      "iso_region": "JM-07",
+      "municipality": "Braco",
+      "coordinates": "18.47676, -77.489276"
+    },
+    {
+      "ident": "JM-0013",
+      "type": "closed",
+      "name": "Rocky Point Airstrip",
+      "elevation_ft": 6.0,
+      "iso_country": "JM",
+      "iso_region": "JM-13",
+      "municipality": "Rocky Point",
+      "coordinates": "17.777, -77.2602"
+    },
+    {
+      "ident": "JM-0014",
+      "type": "heliport",
+      "name": "Up-Park Camp Heliport",
+      "elevation_ft": 190.0,
+      "iso_country": "JM",
+      "iso_region": "JM-02",
+      "municipality": "Kingston",
+      "coordinates": "17.9883, -76.7761"
+    },
+    {
+      "ident": "JM-0015",
+      "type": "small_airport",
+      "name": "Moneague Training Camp Airfield",
+      "elevation_ft": 1088.0,
+      "iso_country": "JM",
+      "iso_region": "JM-06",
+      "municipality": "Moneague",
+      "coordinates": "18.2822, -77.1054"
+    },
+    {
+      "ident": "JM-0016",
+      "type": "small_airport",
+      "name": "Bath Airfield",
+      "elevation_ft": 84.0,
+      "iso_country": "JM",
+      "iso_region": "JM-03",
+      "municipality": "Bath",
+      "coordinates": "17.9405, -76.3075"
+    },
+    {
+      "ident": "JM-0017",
+      "type": "closed",
+      "name": "Lydford Airstrip",
+      "elevation_ft": 1484.0,
+      "iso_country": "JM",
+      "iso_region": "JM-06",
+      "municipality": "Golden Grove",
+      "coordinates": "18.3341, -77.1349"
+    },
+    {
+      "ident": "JM-0018",
+      "type": "small_airport",
+      "name": "Lionel Densham Aerodrome",
+      "iso_country": "JM",
+      "iso_region": "JM-11",
+      "municipality": "Watchwell",
+      "coordinates": "17.91763, -77.74671"
+    },
+    {
+      "ident": "JM-0019",
+      "type": "closed",
+      "name": "Caymanas Airfield",
+      "iso_country": "JM",
+      "iso_region": "JM-14",
+      "municipality": "Spanish Town",
+      "coordinates": "18.01444, -76.92416"
+    },
+    {
+      "ident": "JM-0020",
+      "type": "heliport",
+      "name": "Silent Waters Villa Heliport",
+      "elevation_ft": 571.0,
+      "iso_country": "JM",
+      "iso_region": "JM-08",
+      "municipality": "Unity Hall",
+      "coordinates": "18.43997, -77.98411"
+    },
+    {
+      "ident": "MKBS",
+      "type": "medium_airport",
+      "name": "Ian Fleming International Airport",
+      "elevation_ft": 90.0,
+      "iso_country": "JM",
+      "iso_region": "JM-05",
+      "municipality": "Boscobel",
+      "gps_code": "MKBS",
+      "iata_code": "OCJ",
+      "coordinates": "18.404079, -76.969754"
+    },
+    {
+      "ident": "MKJP",
+      "type": "large_airport",
+      "name": "Norman Manley International Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "JM",
+      "iso_region": "JM-01",
+      "municipality": "Kingston",
+      "gps_code": "MKJP",
+      "iata_code": "KIN",
+      "coordinates": "17.935699462890625, -76.7874984741211"
+    },
+    {
+      "ident": "MKJS",
+      "type": "medium_airport",
+      "name": "Sangster International Airport",
+      "elevation_ft": 4.0,
+      "iso_country": "JM",
+      "iso_region": "JM-08",
+      "municipality": "Montego Bay",
+      "gps_code": "MKJS",
+      "iata_code": "MBJ",
+      "coordinates": "18.5037, -77.913399"
+    },
+    {
+      "ident": "MKKJ",
+      "type": "medium_airport",
+      "name": "Ken Jones Airport",
+      "elevation_ft": 20.0,
+      "iso_country": "JM",
+      "iso_region": "JM-04",
+      "municipality": "Ken Jones",
+      "gps_code": "MKKJ",
+      "iata_code": "POT",
+      "coordinates": "18.1987991333, -76.53450012210001"
+    },
+    {
+      "ident": "MKNG",
+      "type": "small_airport",
+      "name": "Negril Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "JM",
+      "iso_region": "JM-09",
+      "municipality": "Negril",
+      "gps_code": "MKNG",
+      "iata_code": "NEG",
+      "coordinates": "18.341712, -78.334164"
+    },
+    {
+      "ident": "MKTP",
+      "type": "medium_airport",
+      "name": "Tinson Pen Airport",
+      "elevation_ft": 16.0,
+      "iso_country": "JM",
+      "iso_region": "JM-02",
+      "municipality": "Tinson Pen",
+      "gps_code": "MKTP",
+      "iata_code": "KTP",
+      "coordinates": "17.98859977722168, -76.82379913330078"
+    },
+    {
+      "ident": "MVJ",
+      "type": "closed",
+      "name": "Marlboro Airport",
+      "elevation_ft": 2080.0,
+      "iso_country": "JM",
+      "iso_region": "JM-12",
+      "municipality": "Mandeville",
+      "coordinates": "18.019, -77.495001"
+    }
+  ]
+}

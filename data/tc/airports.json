@@ -1,0 +1,117 @@
+{
+  "country_code": "TC",
+  "country_name": "Turks and Caicos Islands",
+  "total_airports": 9,
+  "last_updated": "2025-02-08T15:09:31.198980",
+  "types_distribution": {
+    "small_airport": 5,
+    "medium_airport": 3,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "MBAC",
+      "type": "small_airport",
+      "name": "Harold Charles International Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "TC",
+      "iso_region": "TC-AC",
+      "municipality": "Big Ambergris Cay",
+      "gps_code": "MBAC",
+      "coordinates": "21.302649, -71.637168"
+    },
+    {
+      "ident": "MBGT",
+      "type": "medium_airport",
+      "name": "JAGS McCartney International Airport",
+      "elevation_ft": 13.0,
+      "iso_country": "TC",
+      "iso_region": "TC-GT",
+      "municipality": "Cockburn Town",
+      "gps_code": "MBGT",
+      "iata_code": "GDT",
+      "coordinates": "21.4445, -71.142303"
+    },
+    {
+      "ident": "MBMC",
+      "type": "small_airport",
+      "name": "Middle Caicos Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "TC",
+      "iso_region": "TC-MC",
+      "municipality": "Middle Caicos",
+      "gps_code": "MBMC",
+      "iata_code": "MDS",
+      "coordinates": "21.82602, -71.8025"
+    },
+    {
+      "ident": "MBNC",
+      "type": "medium_airport",
+      "name": "North Caicos Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "TC",
+      "iso_region": "TC-NC",
+      "municipality": "North Caicos",
+      "gps_code": "MBNC",
+      "iata_code": "NCA",
+      "coordinates": "21.916094, -71.942954"
+    },
+    {
+      "ident": "MBPI",
+      "type": "small_airport",
+      "name": "Pine Cay Airport",
+      "elevation_ft": 3.0,
+      "iso_country": "TC",
+      "iso_region": "TC-PN",
+      "municipality": "Pine Cay",
+      "gps_code": "MBPI",
+      "iata_code": "PIC",
+      "coordinates": "21.874661, -72.090573"
+    },
+    {
+      "ident": "MBPV",
+      "type": "large_airport",
+      "name": "Providenciales International Airport",
+      "elevation_ft": 15.0,
+      "iso_country": "TC",
+      "iso_region": "TC-PR",
+      "municipality": "Providenciales",
+      "gps_code": "MBPV",
+      "iata_code": "PLS",
+      "coordinates": "21.773697, -72.268321"
+    },
+    {
+      "ident": "MBSC",
+      "type": "medium_airport",
+      "name": "South Caicos Airport",
+      "elevation_ft": 6.0,
+      "iso_country": "TC",
+      "iso_region": "TC-SC",
+      "municipality": "South Caicos",
+      "gps_code": "MBSC",
+      "iata_code": "XSC",
+      "coordinates": "21.515699, -71.528503"
+    },
+    {
+      "ident": "MBSY",
+      "type": "small_airport",
+      "name": "Salt Cay Airport",
+      "elevation_ft": 3.0,
+      "iso_country": "TC",
+      "iso_region": "TC-SL",
+      "municipality": "Salt Cay",
+      "gps_code": "MBSY",
+      "iata_code": "SLX",
+      "coordinates": "21.333000183099998, -71.1999969482"
+    },
+    {
+      "ident": "TC-0001",
+      "type": "small_airport",
+      "name": "West Caicos Airport",
+      "iso_country": "TC",
+      "iso_region": "TC-WC",
+      "municipality": "Yankee Town",
+      "coordinates": "21.68178, -72.46157"
+    }
+  ]
+}

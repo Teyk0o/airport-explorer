@@ -1,0 +1,126 @@
+{
+  "country_code": "GP",
+  "country_name": "Guadeloupe",
+  "total_airports": 10,
+  "last_updated": "2025-02-08T15:09:31.109832",
+  "types_distribution": {
+    "heliport": 1,
+    "seaplane_base": 3,
+    "small_airport": 4,
+    "medium_airport": 1,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "GP-0001",
+      "type": "heliport",
+      "name": "Guadeloupe University Hospital Heliport",
+      "elevation_ft": 58.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Les Abymes",
+      "coordinates": "16.23614, -61.52393"
+    },
+    {
+      "ident": "GP-0002",
+      "type": "seaplane_base",
+      "name": "Le Gosier Ultralight Seaplane Base",
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Le Gosier",
+      "coordinates": "16.20949, -61.50821"
+    },
+    {
+      "ident": "GP-0003",
+      "type": "seaplane_base",
+      "name": "Sainte Rose Ultralight Seaplane Base",
+      "elevation_ft": 0.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Sainte Rose",
+      "coordinates": "16.336078, -61.701279"
+    },
+    {
+      "ident": "GP-0004",
+      "type": "seaplane_base",
+      "name": "Grand Baie Seaplane Base",
+      "elevation_ft": 0.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Grande-Terre",
+      "coordinates": "16.211667, -61.512778"
+    },
+    {
+      "ident": "TFFA",
+      "type": "small_airport",
+      "name": "La Désirade Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Grande Anse",
+      "gps_code": "TFFA",
+      "iata_code": "DSD",
+      "coordinates": "16.296902, -61.0844"
+    },
+    {
+      "ident": "TFFB",
+      "type": "small_airport",
+      "name": "Basse-Terre Baillif Airport",
+      "elevation_ft": 59.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Basse-Terre",
+      "gps_code": "TFFB",
+      "iata_code": "BBR",
+      "coordinates": "16.013648, -61.742928"
+    },
+    {
+      "ident": "TFFC",
+      "type": "small_airport",
+      "name": "St-François Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "St-François",
+      "gps_code": "TFFC",
+      "iata_code": "SFC",
+      "coordinates": "16.257799, -61.262501"
+    },
+    {
+      "ident": "TFFM",
+      "type": "medium_airport",
+      "name": "Marie-Galante Airport",
+      "elevation_ft": 16.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Grand Bourg",
+      "gps_code": "TFFM",
+      "iata_code": "GBJ",
+      "coordinates": "15.868925, -61.270087"
+    },
+    {
+      "ident": "TFFR",
+      "type": "large_airport",
+      "name": "Pointe-à-Pitre Le Raizet International  Airport",
+      "elevation_ft": 36.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Pointe-à-Pitre",
+      "gps_code": "TFFR",
+      "iata_code": "PTP",
+      "coordinates": "16.265301, -61.531799"
+    },
+    {
+      "ident": "TFFS",
+      "type": "small_airport",
+      "name": "Terre-de-Haut Airport",
+      "elevation_ft": 46.0,
+      "iso_country": "GP",
+      "iso_region": "GP-U-A",
+      "municipality": "Les Saintes",
+      "gps_code": "TFFS",
+      "iata_code": "LSS",
+      "coordinates": "15.86439991, -61.5806007385"
+    }
+  ]
+}

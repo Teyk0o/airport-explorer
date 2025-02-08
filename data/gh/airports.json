@@ -1,0 +1,221 @@
+{
+  "country_code": "GH",
+  "country_name": "Ghana",
+  "total_airports": 18,
+  "last_updated": "2025-02-08T15:09:31.030752",
+  "types_distribution": {
+    "large_airport": 1,
+    "medium_airport": 5,
+    "small_airport": 5,
+    "heliport": 7
+  },
+  "airports": [
+    {
+      "ident": "DGAA",
+      "type": "large_airport",
+      "name": "Kotoka International Airport",
+      "elevation_ft": 205.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AA",
+      "municipality": "Accra",
+      "gps_code": "DGAA",
+      "iata_code": "ACC",
+      "coordinates": "5.605189800262451, -0.16678600013256073"
+    },
+    {
+      "ident": "DGAH",
+      "type": "medium_airport",
+      "name": "Ho Airport",
+      "elevation_ft": 356.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-TV",
+      "municipality": "Ho",
+      "gps_code": "DGAH",
+      "local_code": "HZ09",
+      "coordinates": "6.579691, 0.532547"
+    },
+    {
+      "ident": "DGLE",
+      "type": "medium_airport",
+      "name": "Tamale Airport",
+      "elevation_ft": 553.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-NP",
+      "municipality": "Tamale",
+      "gps_code": "DGLE",
+      "iata_code": "TML",
+      "coordinates": "9.55718994140625, -0.8632140159606934"
+    },
+    {
+      "ident": "DGLN",
+      "type": "small_airport",
+      "name": "Navrongo Airport",
+      "elevation_ft": 678.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-UE",
+      "municipality": "Navrongo",
+      "gps_code": "DGLN",
+      "coordinates": "10.943081, -1.087356"
+    },
+    {
+      "ident": "DGLW",
+      "type": "small_airport",
+      "name": "Wa Airport",
+      "elevation_ft": 1060.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-UW",
+      "municipality": "Wa",
+      "gps_code": "DGLW",
+      "iata_code": "WZA",
+      "coordinates": "10.0827, -2.50769"
+    },
+    {
+      "ident": "DGLY",
+      "type": "small_airport",
+      "name": "Yendi Airport",
+      "elevation_ft": 2408.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-NP",
+      "municipality": "Yendi",
+      "gps_code": "DGLY",
+      "coordinates": "9.425000190734863, -0.004722000099718571"
+    },
+    {
+      "ident": "DGSI",
+      "type": "medium_airport",
+      "name": "Kumasi Airport",
+      "elevation_ft": 942.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AH",
+      "municipality": "Kumasi",
+      "gps_code": "DGSI",
+      "iata_code": "KMS",
+      "coordinates": "6.714560031890869, -1.5908199548721313"
+    },
+    {
+      "ident": "DGSN",
+      "type": "medium_airport",
+      "name": "Sunyani Airport",
+      "elevation_ft": 1014.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-BO",
+      "municipality": "Sunyani",
+      "gps_code": "DGSN",
+      "iata_code": "NYI",
+      "coordinates": "7.36183, -2.32876"
+    },
+    {
+      "ident": "DGTK",
+      "type": "medium_airport",
+      "name": "Takoradi Airport",
+      "elevation_ft": 21.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-WP",
+      "municipality": "Sekondi-Takoradi",
+      "gps_code": "DGTK",
+      "iata_code": "TKD",
+      "coordinates": "4.896059989929199, -1.7747600078582764"
+    },
+    {
+      "ident": "GH-0001",
+      "type": "small_airport",
+      "name": "Kpong Airfield",
+      "elevation_ft": 89.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-EP",
+      "municipality": "Kpong",
+      "coordinates": "6.114864, 0.057761"
+    },
+    {
+      "ident": "GH-0002",
+      "type": "small_airport",
+      "name": "Ajena Airstrip",
+      "elevation_ft": 485.0,
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-EP",
+      "municipality": "Ajena",
+      "coordinates": "6.322619, 0.087893"
+    },
+    {
+      "ident": "GH-0003",
+      "type": "heliport",
+      "name": "37 Military Hospital Helipad",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AA",
+      "municipality": "Accra",
+      "coordinates": "5.592844, -0.185487"
+    },
+    {
+      "ident": "GH-0004",
+      "type": "heliport",
+      "name": "Ghana Police Headquarters Heliport",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AA",
+      "municipality": "Accra",
+      "coordinates": "5.571424, -0.187866"
+    },
+    {
+      "ident": "GH-0005",
+      "type": "heliport",
+      "name": "Presidential Villa Heliport",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AA",
+      "municipality": "Accra",
+      "coordinates": "5.578062, -0.189073"
+    },
+    {
+      "ident": "GH-0006",
+      "type": "heliport",
+      "name": "Anglogold Ashanti Obuasi Mine Helipad",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AH",
+      "municipality": "Obuasi",
+      "coordinates": "6.171862, -1.693507"
+    },
+    {
+      "ident": "GH-0007",
+      "type": "heliport",
+      "name": "White Sands Resort Helipad",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-CP",
+      "municipality": "Gomoa Fetteh",
+      "coordinates": "5.427377, -0.468884"
+    },
+    {
+      "ident": "GH-0008",
+      "type": "heliport",
+      "name": "Octagon Helipad",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-CP",
+      "municipality": "Accra",
+      "coordinates": "5.552162, -0.203391"
+    },
+    {
+      "ident": "GH-0009",
+      "type": "heliport",
+      "name": "Komfo Anokye Hospital Helipad",
+      "continent": "AF",
+      "iso_country": "GH",
+      "iso_region": "GH-AH",
+      "municipality": "Kumasi",
+      "coordinates": "6.695823, -1.627837"
+    }
+  ]
+}

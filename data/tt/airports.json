@@ -1,0 +1,47 @@
+{
+  "country_code": "TT",
+  "country_name": "Trinidad and Tobago",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:31.226853",
+  "types_distribution": {
+    "small_airport": 1,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "TT-TT01",
+      "type": "small_airport",
+      "name": "Camden Airfield",
+      "elevation_ft": 75.0,
+      "iso_country": "TT",
+      "iso_region": "TT-CTT",
+      "municipality": "Couva",
+      "local_code": "TT01",
+      "coordinates": "10.4263, -61.439701"
+    },
+    {
+      "ident": "TTCP",
+      "type": "medium_airport",
+      "name": "A.N.R. Robinson International Airport",
+      "elevation_ft": 38.0,
+      "iso_country": "TT",
+      "iso_region": "TT-TOB",
+      "municipality": "Scarborough",
+      "gps_code": "TTCP",
+      "iata_code": "TAB",
+      "coordinates": "11.1497, -60.832199"
+    },
+    {
+      "ident": "TTPP",
+      "type": "medium_airport",
+      "name": "Piarco International Airport",
+      "elevation_ft": 58.0,
+      "iso_country": "TT",
+      "iso_region": "TT-TUP",
+      "municipality": "Port of Spain",
+      "gps_code": "TTPP",
+      "iata_code": "POS",
+      "coordinates": "10.5954, -61.3372"
+    }
+  ]
+}

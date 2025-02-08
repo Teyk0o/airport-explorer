@@ -1,0 +1,127 @@
+{
+  "country_code": "ER",
+  "country_name": "Eritrea",
+  "total_airports": 10,
+  "last_updated": "2025-02-08T15:09:31.069711",
+  "types_distribution": {
+    "small_airport": 7,
+    "medium_airport": 3
+  },
+  "airports": [
+    {
+      "ident": "ER-0001",
+      "type": "small_airport",
+      "name": "Dahlak South Airfield",
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-SK",
+      "municipality": "Dahlak Kebir",
+      "coordinates": "15.68151, 40.104431"
+    },
+    {
+      "ident": "ER-0002",
+      "type": "small_airport",
+      "name": "Dahlak Central Airfield",
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-SK",
+      "municipality": "Dhu Bellu",
+      "coordinates": "15.72753, 40.07532"
+    },
+    {
+      "ident": "ER-0003",
+      "type": "small_airport",
+      "name": "Dahlak West Airfield",
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-SK",
+      "municipality": "Melill",
+      "coordinates": "15.75794, 39.97046"
+    },
+    {
+      "ident": "ER-0004",
+      "type": "small_airport",
+      "name": "Omhajer Airport",
+      "elevation_ft": 1946.0,
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-GB",
+      "municipality": "Omhajer",
+      "coordinates": "14.32168, 36.63028"
+    },
+    {
+      "ident": "HHAG",
+      "type": "small_airport",
+      "name": "Agordat Airport",
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-GB",
+      "municipality": "Agordat",
+      "gps_code": "HHAG",
+      "coordinates": "15.53783, 37.855481"
+    },
+    {
+      "ident": "HHAS",
+      "type": "medium_airport",
+      "name": "Asmara International Airport",
+      "elevation_ft": 7661.0,
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-SK",
+      "municipality": "Asmara",
+      "gps_code": "HHAS",
+      "iata_code": "ASM",
+      "coordinates": "15.291899681091309, 38.910701751708984"
+    },
+    {
+      "ident": "HHBA",
+      "type": "small_airport",
+      "name": "Barentu Airport",
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-GB",
+      "municipality": "Barentu",
+      "gps_code": "HHBA",
+      "coordinates": "15.122394, 37.614335"
+    },
+    {
+      "ident": "HHMS",
+      "type": "medium_airport",
+      "name": "Massawa International Airport",
+      "elevation_ft": 194.0,
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-SK",
+      "municipality": "Massawa",
+      "gps_code": "HHMS",
+      "iata_code": "MSW",
+      "coordinates": "15.67, 39.370098"
+    },
+    {
+      "ident": "HHSB",
+      "type": "medium_airport",
+      "name": "Assab International Airport",
+      "elevation_ft": 46.0,
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-DK",
+      "municipality": "Asab",
+      "gps_code": "HHSB",
+      "iata_code": "ASA",
+      "coordinates": "13.071800231933594, 42.64500045776367"
+    },
+    {
+      "ident": "HHTS",
+      "type": "small_airport",
+      "name": "Tessenei Airport",
+      "elevation_ft": 2018.0,
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-GB",
+      "municipality": "Tessenei",
+      "gps_code": "HHTS",
+      "iata_code": "TES",
+      "coordinates": "15.104322, 36.681711"
+    }
+  ]
+}

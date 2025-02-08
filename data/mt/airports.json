@@ -1,0 +1,108 @@
+{
+  "country_code": "MT",
+  "country_name": "Malta",
+  "total_airports": 9,
+  "last_updated": "2025-02-08T15:09:31.195085",
+  "types_distribution": {
+    "heliport": 2,
+    "large_airport": 1,
+    "closed": 6
+  },
+  "airports": [
+    {
+      "ident": "LMMG",
+      "type": "heliport",
+      "name": "Xewkija Heliport",
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-62",
+      "municipality": "Gozo",
+      "gps_code": "LMMG",
+      "coordinates": "36.027199, 14.2728"
+    },
+    {
+      "ident": "LMML",
+      "type": "large_airport",
+      "name": "Malta International Airport",
+      "elevation_ft": 300.0,
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-25",
+      "municipality": "Valletta",
+      "gps_code": "LMML",
+      "iata_code": "MLA",
+      "coordinates": "35.857498, 14.4775"
+    },
+    {
+      "ident": "MT-0001",
+      "type": "closed",
+      "name": "RAF Hal Far",
+      "elevation_ft": 235.0,
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-05",
+      "coordinates": "35.81333, 14.513379"
+    },
+    {
+      "ident": "MT-0002",
+      "type": "closed",
+      "name": "RAF Safi",
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-25",
+      "municipality": "Safi",
+      "coordinates": "35.839985, 14.494478"
+    },
+    {
+      "ident": "MT-0003",
+      "type": "closed",
+      "name": "Ta' Qali",
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-01",
+      "coordinates": "35.896914, 14.418733"
+    },
+    {
+      "ident": "MT-0004",
+      "type": "closed",
+      "name": "RAF Krendi",
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-44",
+      "municipality": "Qrendi",
+      "coordinates": "35.835423, 14.435584"
+    },
+    {
+      "ident": "MT-0005",
+      "type": "closed",
+      "name": "Marsa Airfield",
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-26",
+      "municipality": "Marsa",
+      "coordinates": "35.876926, 14.489352"
+    },
+    {
+      "ident": "MT-0006",
+      "type": "closed",
+      "name": "Ta' Lambert Airfield",
+      "elevation_ft": 328.0,
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-62",
+      "municipality": "Xewkija",
+      "coordinates": "36.03082, 14.264878"
+    },
+    {
+      "ident": "MT-0007",
+      "type": "heliport",
+      "name": "Comino Heliport",
+      "elevation_ft": 213.0,
+      "continent": "EU",
+      "iso_country": "MT",
+      "iso_region": "MT-13",
+      "municipality": "Comino",
+      "coordinates": "36.01007, 14.347306"
+    }
+  ]
+}

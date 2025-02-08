@@ -1,0 +1,43 @@
+{
+  "country_code": "AD",
+  "country_name": "Andorra",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:30.783951",
+  "types_distribution": {
+    "heliport": 2,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "AD-0001",
+      "type": "heliport",
+      "name": "Terra Guindaldes Heliport",
+      "continent": "EU",
+      "iso_country": "AD",
+      "iso_region": "AD-04",
+      "municipality": "La Massana",
+      "coordinates": "42.546257, 1.51916"
+    },
+    {
+      "ident": "AD-0002",
+      "type": "closed",
+      "name": "Arinsal (Coll de la Botella) Heliport",
+      "continent": "EU",
+      "iso_country": "AD",
+      "iso_region": "AD-04",
+      "municipality": "La Massana",
+      "coordinates": "42.544983, 1.452258"
+    },
+    {
+      "ident": "AD-ALV",
+      "type": "heliport",
+      "name": "Andorra la Vella (Our Lady of Meritxell Hospital) Heliport",
+      "elevation_ft": 3450.0,
+      "continent": "EU",
+      "iso_country": "AD",
+      "iso_region": "AD-08",
+      "municipality": "Escaldes-Engordany",
+      "coordinates": "42.511228, 1.533651"
+    }
+  ]
+}

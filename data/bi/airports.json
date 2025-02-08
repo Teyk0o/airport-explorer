@@ -1,0 +1,96 @@
+{
+  "country_code": "BI",
+  "country_name": "Burundi",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:30.878989",
+  "types_distribution": {
+    "small_airport": 5,
+    "medium_airport": 1,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "BI-0001",
+      "type": "small_airport",
+      "name": "Ruyigi Airport",
+      "elevation_ft": 5194.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-RY",
+      "municipality": "Ruyigi",
+      "coordinates": "-3.471371, 30.231485"
+    },
+    {
+      "ident": "BI-0002",
+      "type": "small_airport",
+      "name": "Mwumba Airport",
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-NG",
+      "municipality": "Ngozi",
+      "coordinates": "-2.879447, 29.832178"
+    },
+    {
+      "ident": "HBBA",
+      "type": "medium_airport",
+      "name": "Bujumbura Melchior Ndadaye International Airport",
+      "elevation_ft": 2582.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-BM",
+      "municipality": "Bujumbura",
+      "gps_code": "HBBA",
+      "iata_code": "BJM",
+      "coordinates": "-3.32402, 29.318501"
+    },
+    {
+      "ident": "HBBE",
+      "type": "small_airport",
+      "name": "Gitega Airport",
+      "elevation_ft": 5741.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-GI",
+      "municipality": "Gitega",
+      "gps_code": "HBBE",
+      "iata_code": "GID",
+      "coordinates": "-3.417209, 29.911308"
+    },
+    {
+      "ident": "HBBK",
+      "type": "small_airport",
+      "name": "Gihohi Airport",
+      "elevation_ft": 4065.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-RT",
+      "municipality": "Gihohi",
+      "gps_code": "HBBK",
+      "coordinates": "-4.0342, 30.1318"
+    },
+    {
+      "ident": "HBBL",
+      "type": "closed",
+      "name": "Nyanza-Lac Airport",
+      "elevation_ft": 2559.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-MA",
+      "municipality": "Nyanza-Lac",
+      "coordinates": "-4.339434, 29.598245"
+    },
+    {
+      "ident": "HBBO",
+      "type": "small_airport",
+      "name": "Kirundo Airport",
+      "elevation_ft": 4511.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-KI",
+      "municipality": "Kirundo",
+      "gps_code": "HBBO",
+      "iata_code": "KRE",
+      "coordinates": "-2.544772, 30.094575"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "country_code": "DJ",
+  "country_name": "Djibouti",
+  "total_airports": 17,
+  "last_updated": "2025-02-08T15:09:31.045741",
+  "types_distribution": {
+    "small_airport": 9,
+    "closed": 1,
+    "heliport": 6,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "DJ-0001",
+      "type": "small_airport",
+      "name": "Holhol Airport",
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-AS",
+      "municipality": "Holhol",
+      "coordinates": "11.30608, 42.91968"
+    },
+    {
+      "ident": "DJ-0002",
+      "type": "closed",
+      "name": "Djibouti Hassan Gouled International Airport",
+      "elevation_ft": 108.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Balbala",
+      "coordinates": "11.54796, 43.12446"
+    },
+    {
+      "ident": "DJ-0003",
+      "type": "heliport",
+      "name": "Chinese People's Liberation Army Support Base in Djibouti",
+      "elevation_ft": 39.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Doraleh",
+      "coordinates": "11.590843, 43.063415"
+    },
+    {
+      "ident": "DJ-0004",
+      "type": "heliport",
+      "name": "Djibouti Presidential Heliport",
+      "elevation_ft": 1.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Djibouti",
+      "coordinates": "11.59668, 43.14119"
+    },
+    {
+      "ident": "DJ-0005",
+      "type": "heliport",
+      "name": "Djibouti Sudanese Military Hospital Heliport",
+      "elevation_ft": 13.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Djibouti",
+      "coordinates": "11.57195, 43.13258"
+    },
+    {
+      "ident": "DJ-0006",
+      "type": "heliport",
+      "name": "Helipad",
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Doraleh",
+      "coordinates": "11.589279, 43.059347"
+    },
+    {
+      "ident": "DJ-0007",
+      "type": "heliport",
+      "name": "Military Helipads (5x)",
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Djibouti City",
+      "coordinates": "11.54554, 43.15745"
+    },
+    {
+      "ident": "DJ-0008",
+      "type": "heliport",
+      "name": "Military Helipad",
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Djibouti City",
+      "coordinates": "11.554781, 43.156668"
+    },
+    {
+      "ident": "HDAG",
+      "type": "small_airport",
+      "name": "Assa-Gueyla Airport",
+      "elevation_ft": 2050.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-TA",
+      "municipality": "Assa-Gueyla",
+      "gps_code": "HDAG",
+      "coordinates": "12.188882, 42.637494"
+    },
+    {
+      "ident": "HDAM",
+      "type": "large_airport",
+      "name": "Djibouti-Ambouli Airport",
+      "elevation_ft": 49.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Djibouti City",
+      "gps_code": "HDAM",
+      "iata_code": "JIB",
+      "coordinates": "11.5473, 43.1595"
+    },
+    {
+      "ident": "HDAS",
+      "type": "small_airport",
+      "name": "Ali-Sabieh Airport",
+      "elevation_ft": 2313.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-AS",
+      "municipality": "Ali-Sabieh",
+      "gps_code": "HDAS",
+      "iata_code": "AII",
+      "coordinates": "11.146889, 42.72"
+    },
+    {
+      "ident": "HDCH",
+      "type": "small_airport",
+      "name": "Chabelley Airport",
+      "elevation_ft": 279.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-AR",
+      "municipality": "Chabelley",
+      "gps_code": "HDCH",
+      "coordinates": "11.516799926757812, 43.0614013671875"
+    },
+    {
+      "ident": "HDDK",
+      "type": "small_airport",
+      "name": "Dikhil Airport",
+      "elevation_ft": 1520.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DI",
+      "municipality": "Dikhil",
+      "gps_code": "HDDK",
+      "coordinates": "11.097958, 42.350556"
+    },
+    {
+      "ident": "HDHE",
+      "type": "small_airport",
+      "name": "Herkale Airport",
+      "elevation_ft": 38.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-OB",
+      "municipality": "Herkale",
+      "gps_code": "HDHE",
+      "coordinates": "12.4449, 43.292575"
+    },
+    {
+      "ident": "HDMO",
+      "type": "small_airport",
+      "name": "Moucha Airport",
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-DJ",
+      "municipality": "Moucha Island",
+      "gps_code": "HDMO",
+      "iata_code": "MHI",
+      "coordinates": "11.72975, 43.209559"
+    },
+    {
+      "ident": "HDOB",
+      "type": "small_airport",
+      "name": "Obock Airport",
+      "elevation_ft": 69.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-OB",
+      "municipality": "Obock",
+      "gps_code": "HDOB",
+      "iata_code": "OBC",
+      "coordinates": "11.967000007629395, 43.266998291015625"
+    },
+    {
+      "ident": "HDTJ",
+      "type": "small_airport",
+      "name": "Tadjoura Airport",
+      "elevation_ft": 246.0,
+      "continent": "AF",
+      "iso_country": "DJ",
+      "iso_region": "DJ-TA",
+      "municipality": "Tadjoura",
+      "gps_code": "HDTJ",
+      "iata_code": "TDJ",
+      "coordinates": "11.787037, 42.917376"
+    }
+  ]
+}

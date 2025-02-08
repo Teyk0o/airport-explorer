@@ -1,0 +1,48 @@
+{
+  "country_code": "SM",
+  "country_name": "San Marino",
+  "total_airports": 3,
+  "last_updated": "2025-02-08T15:09:31.194049",
+  "types_distribution": {
+    "small_airport": 1,
+    "closed": 1,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "LIKD",
+      "type": "small_airport",
+      "name": "Torraccia Airfield",
+      "elevation_ft": 787.0,
+      "continent": "EU",
+      "iso_country": "SM",
+      "iso_region": "SM-04",
+      "municipality": "Torraccia",
+      "gps_code": "LIKD",
+      "local_code": "RSM01",
+      "coordinates": "43.948895, 12.511411"
+    },
+    {
+      "ident": "SM-0001",
+      "type": "closed",
+      "name": "Borgo Maggiore International Heliport",
+      "elevation_ft": 1660.0,
+      "continent": "EU",
+      "iso_country": "SM",
+      "iso_region": "SM-06",
+      "municipality": "Borgo Maggiore",
+      "coordinates": "43.940459, 12.446249"
+    },
+    {
+      "ident": "SM-0002",
+      "type": "heliport",
+      "name": "Torraccia Heliport",
+      "elevation_ft": 823.0,
+      "continent": "EU",
+      "iso_country": "SM",
+      "iso_region": "SM-04",
+      "municipality": "Torraccia",
+      "coordinates": "43.948759, 12.510264"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "country_code": "MU",
+  "country_name": "Mauritius",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:31.084638",
+  "types_distribution": {
+    "large_airport": 1,
+    "medium_airport": 2,
+    "small_airport": 2,
+    "heliport": 1,
+    "seaplane_base": 1
+  },
+  "airports": [
+    {
+      "ident": "FIMP",
+      "type": "large_airport",
+      "name": "Sir Seewoosagur Ramgoolam International Airport",
+      "elevation_ft": 186.0,
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-GP",
+      "municipality": "Plaine Magnien",
+      "gps_code": "FIMP",
+      "iata_code": "MRU",
+      "coordinates": "-20.430201, 57.683601"
+    },
+    {
+      "ident": "FIMR",
+      "type": "medium_airport",
+      "name": "Sir Charles Gaetan Duval Airport",
+      "elevation_ft": 95.0,
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-VP",
+      "municipality": "Port Mathurin",
+      "gps_code": "FIMR",
+      "iata_code": "RRG",
+      "coordinates": "-19.7577, 63.361"
+    },
+    {
+      "ident": "MU-0001",
+      "type": "small_airport",
+      "name": "Agalega Island Airstrip",
+      "elevation_ft": 4.0,
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-AG",
+      "municipality": "Vingt Cinq",
+      "gps_code": "FIMA",
+      "iata_code": "AHG",
+      "coordinates": "-10.3731, 56.609798"
+    },
+    {
+      "ident": "MU-0002",
+      "type": "small_airport",
+      "name": "Skydive Austral Airstrip",
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-RP",
+      "municipality": "Belle Vue Maurel",
+      "coordinates": "-20.123793, 57.681656"
+    },
+    {
+      "ident": "MU-0003",
+      "type": "heliport",
+      "name": "Sir Seewoosagur Ramgoolam National Hospital Helipad",
+      "elevation_ft": 183.0,
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-PA",
+      "municipality": "Port Louis",
+      "coordinates": "-20.097715, 57.558786"
+    },
+    {
+      "ident": "MU-0004",
+      "type": "medium_airport",
+      "name": "IAF Agalega",
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-AG",
+      "municipality": "Vingt Cinq",
+      "coordinates": "-10.372483, 56.603537"
+    },
+    {
+      "ident": "MU-0005",
+      "type": "seaplane_base",
+      "name": "LUX Grand Gaube seaplane base",
+      "continent": "AF",
+      "iso_country": "MU",
+      "iso_region": "MU-RP",
+      "municipality": "Grand Gaube",
+      "coordinates": "-20.003047, 57.661781"
+    }
+  ]
+}

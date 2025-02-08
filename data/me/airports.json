@@ -1,0 +1,111 @@
+{
+  "country_code": "ME",
+  "country_name": "Montenegro",
+  "total_airports": 8,
+  "last_updated": "2025-02-08T15:09:31.198727",
+  "types_distribution": {
+    "small_airport": 3,
+    "large_airport": 1,
+    "medium_airport": 1,
+    "closed": 2,
+    "heliport": 1
+  },
+  "airports": [
+    {
+      "ident": "LYBR",
+      "type": "small_airport",
+      "name": "Berane Airport",
+      "elevation_ft": 2287.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-03",
+      "municipality": "Berane",
+      "gps_code": "LYBR",
+      "iata_code": "IVG",
+      "coordinates": "42.8390007019043, 19.86199951171875"
+    },
+    {
+      "ident": "LYNK",
+      "type": "small_airport",
+      "name": "Nikšić Airfield",
+      "elevation_ft": 2008.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-12",
+      "municipality": "Nikšić",
+      "gps_code": "LYNK",
+      "coordinates": "42.773039, 18.916311"
+    },
+    {
+      "ident": "LYPG",
+      "type": "large_airport",
+      "name": "Podgorica Airport / Podgorica Golubovci Airbase",
+      "elevation_ft": 141.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-16",
+      "municipality": "Podgorica",
+      "gps_code": "LYPG",
+      "iata_code": "TGD",
+      "coordinates": "42.359402, 19.2519"
+    },
+    {
+      "ident": "LYPO",
+      "type": "small_airport",
+      "name": "Ćemovsko Polje / Špiro Mugoša Airfield",
+      "elevation_ft": 197.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-16",
+      "municipality": "Podgorica",
+      "gps_code": "LYPO",
+      "coordinates": "42.422318, 19.290777"
+    },
+    {
+      "ident": "LYTV",
+      "type": "medium_airport",
+      "name": "Tivat Airport",
+      "elevation_ft": 20.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-19",
+      "municipality": "Tivat",
+      "gps_code": "LYTV",
+      "iata_code": "TIV",
+      "coordinates": "42.404701232910156, 18.72330093383789"
+    },
+    {
+      "ident": "ME-0001",
+      "type": "closed",
+      "name": "Ulcinj Airport",
+      "elevation_ft": 14.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-20",
+      "municipality": "Gornji Štoj",
+      "coordinates": "41.88909, 19.34169"
+    },
+    {
+      "ident": "ME-0002",
+      "type": "heliport",
+      "name": "Berane General Hospital Heliport",
+      "elevation_ft": 2203.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-03",
+      "municipality": "Berane",
+      "coordinates": "42.85081, 19.87042"
+    },
+    {
+      "ident": "ZBK",
+      "type": "closed",
+      "name": "Žabljak Airport",
+      "elevation_ft": 4252.0,
+      "continent": "EU",
+      "iso_country": "ME",
+      "iso_region": "ME-21",
+      "municipality": "Zminica",
+      "coordinates": "43.116669, 19.233334"
+    }
+  ]
+}

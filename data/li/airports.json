@@ -1,0 +1,34 @@
+{
+  "country_code": "LI",
+  "country_name": "Liechtenstein",
+  "total_airports": 2,
+  "last_updated": "2025-02-08T15:09:31.193849",
+  "types_distribution": {
+    "heliport": 2
+  },
+  "airports": [
+    {
+      "ident": "LI-0001",
+      "type": "heliport",
+      "name": "Liechtenstein Hospital Helipad",
+      "elevation_ft": 1580.0,
+      "continent": "EU",
+      "iso_country": "LI",
+      "iso_region": "LI-11",
+      "municipality": "Vaduz",
+      "coordinates": "47.134773, 9.522753"
+    },
+    {
+      "ident": "LSXB",
+      "type": "heliport",
+      "name": "Balzers Heliport",
+      "elevation_ft": 1585.0,
+      "continent": "EU",
+      "iso_country": "LI",
+      "iso_region": "LI-01",
+      "municipality": "Balzers",
+      "gps_code": "LSXB",
+      "coordinates": "47.067908, 9.480774"
+    }
+  ]
+}

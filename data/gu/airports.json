@@ -1,0 +1,97 @@
+{
+  "country_code": "GU",
+  "country_name": "Guam",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:30.750426",
+  "types_distribution": {
+    "heliport": 2,
+    "small_airport": 1,
+    "closed": 2,
+    "medium_airport": 1,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "9OG1",
+      "type": "heliport",
+      "name": "Barrigada Readiness Center Heliport",
+      "elevation_ft": 311.0,
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Barrigada",
+      "gps_code": "9OG1",
+      "local_code": "9OG1",
+      "coordinates": "13.475158, 144.815983"
+    },
+    {
+      "ident": "GU-0001",
+      "type": "small_airport",
+      "name": "Northwest Field",
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Dededo",
+      "coordinates": "13.624787, 144.857358"
+    },
+    {
+      "ident": "GU-0002",
+      "type": "closed",
+      "name": "Orote Field",
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Agat",
+      "coordinates": "13.438096, 144.641971"
+    },
+    {
+      "ident": "GU-0003",
+      "type": "heliport",
+      "name": "US Naval Hospital Heliport",
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Agana Heights",
+      "coordinates": "13.474643, 144.74103"
+    },
+    {
+      "ident": "HI47",
+      "type": "closed",
+      "name": "Big Eye Heliport",
+      "elevation_ft": 80.0,
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Hagatña",
+      "coordinates": "13.4981, 144.804993"
+    },
+    {
+      "ident": "PGUA",
+      "type": "medium_airport",
+      "name": "Andersen Air Force Base",
+      "elevation_ft": 627.0,
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Yigo",
+      "gps_code": "PGUA",
+      "iata_code": "UAM",
+      "local_code": "UAM",
+      "coordinates": "13.584, 144.929998"
+    },
+    {
+      "ident": "PGUM",
+      "type": "large_airport",
+      "name": "Antonio B. Won Pat International Airport",
+      "elevation_ft": 298.0,
+      "continent": "OC",
+      "iso_country": "GU",
+      "iso_region": "GU-U-A",
+      "municipality": "Hagåtña",
+      "gps_code": "PGUM",
+      "iata_code": "GUM",
+      "local_code": "GUM",
+      "coordinates": "13.4834, 144.796005"
+    }
+  ]
+}

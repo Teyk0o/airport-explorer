@@ -1,0 +1,35 @@
+{
+  "country_code": "MF",
+  "country_name": "Saint Martin",
+  "total_airports": 2,
+  "last_updated": "2025-02-08T15:09:31.201869",
+  "types_distribution": {
+    "seaplane_base": 1,
+    "medium_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "MSB",
+      "type": "seaplane_base",
+      "name": "Marigot Seaplane Base",
+      "elevation_ft": 0.0,
+      "iso_country": "MF",
+      "iso_region": "MF-U-A",
+      "municipality": "Saint Martin",
+      "iata_code": "MSB",
+      "coordinates": "18.0696, -63.087"
+    },
+    {
+      "ident": "TFFG",
+      "type": "medium_airport",
+      "name": "Grand Case-Espérance Airport",
+      "elevation_ft": 7.0,
+      "iso_country": "MF",
+      "iso_region": "MF-U-A",
+      "municipality": "Grand Case",
+      "gps_code": "TFFG",
+      "iata_code": "SFG",
+      "coordinates": "18.099899, -63.047199"
+    }
+  ]
+}

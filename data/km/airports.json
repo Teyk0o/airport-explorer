@@ -1,0 +1,62 @@
+{
+  "country_code": "KM",
+  "country_name": "Comoros",
+  "total_airports": 4,
+  "last_updated": "2025-02-08T15:09:31.086621",
+  "types_distribution": {
+    "medium_airport": 3,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "FMCH",
+      "type": "medium_airport",
+      "name": "Prince Said Ibrahim International Airport",
+      "elevation_ft": 93.0,
+      "continent": "AF",
+      "iso_country": "KM",
+      "iso_region": "KM-G",
+      "municipality": "Moroni",
+      "gps_code": "FMCH",
+      "iata_code": "HAH",
+      "coordinates": "-11.5337, 43.2719"
+    },
+    {
+      "ident": "FMCI",
+      "type": "medium_airport",
+      "name": "Mohéli Bandar Es Eslam Airport",
+      "elevation_ft": 46.0,
+      "continent": "AF",
+      "iso_country": "KM",
+      "iso_region": "KM-M",
+      "municipality": "Fomboni",
+      "gps_code": "FMCI",
+      "iata_code": "NWA",
+      "coordinates": "-12.2981, 43.766399"
+    },
+    {
+      "ident": "FMCN",
+      "type": "closed",
+      "name": "Iconi Airport",
+      "elevation_ft": 33.0,
+      "continent": "AF",
+      "iso_country": "KM",
+      "iso_region": "KM-G",
+      "municipality": "Moroni",
+      "coordinates": "-11.7108, 43.2439"
+    },
+    {
+      "ident": "FMCV",
+      "type": "medium_airport",
+      "name": "Ouani Airport",
+      "elevation_ft": 62.0,
+      "continent": "AF",
+      "iso_country": "KM",
+      "iso_region": "KM-A",
+      "municipality": "Ouani",
+      "gps_code": "FMCV",
+      "iata_code": "AJN",
+      "coordinates": "-12.131047, 44.430044"
+    }
+  ]
+}

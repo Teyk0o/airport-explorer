@@ -1,0 +1,238 @@
+{
+  "country_code": "HT",
+  "country_name": "Haiti",
+  "total_airports": 22,
+  "last_updated": "2025-02-08T15:09:31.122630",
+  "types_distribution": {
+    "closed": 3,
+    "small_airport": 11,
+    "heliport": 2,
+    "medium_airport": 5,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "HT-0001",
+      "type": "closed",
+      "name": "Chancerelles Airport / Bowen Field",
+      "elevation_ft": 74.0,
+      "iso_country": "HT",
+      "iso_region": "HT-OU",
+      "municipality": "Port-au-Prince",
+      "coordinates": "18.560801, -72.327797"
+    },
+    {
+      "ident": "HT-0002",
+      "type": "small_airport",
+      "name": "Anse-a-Galets Airport",
+      "elevation_ft": 16.0,
+      "iso_country": "HT",
+      "iso_region": "HT-OU",
+      "municipality": "Anse-a-Galets",
+      "coordinates": "18.841212, -72.880232"
+    },
+    {
+      "ident": "HT-0003",
+      "type": "small_airport",
+      "name": "Hinche Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-CE",
+      "municipality": "Hinche",
+      "coordinates": "19.13874, -72.016"
+    },
+    {
+      "ident": "HT-0004",
+      "type": "small_airport",
+      "name": "Île-à-Vache International Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-SD",
+      "municipality": "Pradel",
+      "coordinates": "18.07058, -73.59194"
+    },
+    {
+      "ident": "HT-0005",
+      "type": "small_airport",
+      "name": "Anse-Rouge Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-AR",
+      "municipality": "Anse-Rouge",
+      "coordinates": "19.66631, -73.07227"
+    },
+    {
+      "ident": "HT-0006",
+      "type": "closed",
+      "name": "Belladère Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-CE",
+      "municipality": "Belladère",
+      "coordinates": "18.85264, -71.8171"
+    },
+    {
+      "ident": "HT-0007",
+      "type": "small_airport",
+      "name": "Dame-Marie Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-GA",
+      "municipality": "Dame-Marie",
+      "local_code": "DMM",
+      "coordinates": "18.616667, -74.416667"
+    },
+    {
+      "ident": "HT-0008",
+      "type": "small_airport",
+      "name": "Fond-des-Blancs Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-SD",
+      "municipality": "Fond-des-Blancs",
+      "coordinates": "18.286235, -73.111922"
+    },
+    {
+      "ident": "HT-0009",
+      "type": "small_airport",
+      "name": "Môle-Saint-Nicolas Airport",
+      "elevation_ft": 69.0,
+      "iso_country": "HT",
+      "iso_region": "HT-NO",
+      "municipality": "Môle-Saint-Nicolas",
+      "coordinates": "19.834269, -73.358116"
+    },
+    {
+      "ident": "HT-0010",
+      "type": "small_airport",
+      "name": "Ouanaminthe Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-NE",
+      "municipality": "Ouanaminthe",
+      "local_code": "OAN",
+      "coordinates": "19.5375, -71.72861"
+    },
+    {
+      "ident": "HT-0011",
+      "type": "small_airport",
+      "name": "Phaeton Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-NE",
+      "municipality": "Phaeton",
+      "local_code": "FLT",
+      "coordinates": "19.68055, -71.90555"
+    },
+    {
+      "ident": "HT-0012",
+      "type": "small_airport",
+      "name": "Pignon Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-ND",
+      "municipality": "Pignon",
+      "coordinates": "19.32361, -72.11666"
+    },
+    {
+      "ident": "HT-0013",
+      "type": "small_airport",
+      "name": "Port-Salut Airport",
+      "iso_country": "HT",
+      "iso_region": "HT-SD",
+      "municipality": "Port-Salut",
+      "coordinates": "18.06444, -73.9125"
+    },
+    {
+      "ident": "HT-0014",
+      "type": "closed",
+      "name": "Île de la Tortue Airstrip",
+      "elevation_ft": 65.0,
+      "iso_country": "HT",
+      "iso_region": "HT-NO",
+      "municipality": "Pointe Ti Bois",
+      "coordinates": "20.055979, -72.948623"
+    },
+    {
+      "ident": "HT-0015",
+      "type": "heliport",
+      "name": "Cacor Heliport",
+      "iso_country": "HT",
+      "iso_region": "HT-SD",
+      "municipality": "Cacor",
+      "coordinates": "18.09656, -73.70234"
+    },
+    {
+      "ident": "HT-0016",
+      "type": "heliport",
+      "name": "St Vincent de Paul Health Center Helicopter Landing Zone",
+      "iso_country": "HT",
+      "iso_region": "HT-OU",
+      "municipality": "Saint-Pierre, Cornillon",
+      "coordinates": "18.65379, -71.87102"
+    },
+    {
+      "ident": "MTCA",
+      "type": "medium_airport",
+      "name": "Les Cayes Airport",
+      "elevation_ft": 203.0,
+      "iso_country": "HT",
+      "iso_region": "HT-SD",
+      "municipality": "Les Cayes",
+      "gps_code": "MTCA",
+      "iata_code": "CYA",
+      "coordinates": "18.271099090576172, -73.78829956054688"
+    },
+    {
+      "ident": "MTCH",
+      "type": "medium_airport",
+      "name": "Cap Haitien International Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "HT",
+      "iso_region": "HT-ND",
+      "municipality": "Cap Haitien",
+      "gps_code": "MTCH",
+      "iata_code": "CAP",
+      "coordinates": "19.726734, -72.199576"
+    },
+    {
+      "ident": "MTJA",
+      "type": "medium_airport",
+      "name": "Jacmel Airport",
+      "elevation_ft": 167.0,
+      "iso_country": "HT",
+      "iso_region": "HT-SE",
+      "municipality": "Jacmel",
+      "gps_code": "MTJA",
+      "iata_code": "JAK",
+      "coordinates": "18.2411, -72.518501"
+    },
+    {
+      "ident": "MTJE",
+      "type": "medium_airport",
+      "name": "Jérémie Airport",
+      "elevation_ft": 147.0,
+      "iso_country": "HT",
+      "iso_region": "HT-GA",
+      "municipality": "Jeremie",
+      "gps_code": "MTJE",
+      "iata_code": "JEE",
+      "coordinates": "18.66309928894043, -74.17030334472656"
+    },
+    {
+      "ident": "MTPP",
+      "type": "large_airport",
+      "name": "Toussaint Louverture International Airport",
+      "elevation_ft": 122.0,
+      "iso_country": "HT",
+      "iso_region": "HT-OU",
+      "municipality": "Port-au-Prince",
+      "gps_code": "MTPP",
+      "iata_code": "PAP",
+      "coordinates": "18.58, -72.292503"
+    },
+    {
+      "ident": "MTPX",
+      "type": "medium_airport",
+      "name": "Port-de-Paix Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "HT",
+      "iso_region": "HT-NO",
+      "municipality": "Port-de-Paix",
+      "gps_code": "MTPX",
+      "iata_code": "PAX",
+      "coordinates": "19.934045, -72.84801"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "country_code": "AM",
+  "country_name": "Armenia",
+  "total_airports": 16,
+  "last_updated": "2025-02-08T15:09:30.828493",
+  "types_distribution": {
+    "small_airport": 8,
+    "closed": 4,
+    "heliport": 1,
+    "medium_airport": 2,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "AM-0001",
+      "type": "small_airport",
+      "name": "Syunik Airport",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-SU",
+      "municipality": "Kapan",
+      "coordinates": "39.202272, 46.455204"
+    },
+    {
+      "ident": "AM-0002",
+      "type": "small_airport",
+      "name": "Goris Airport",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-SU",
+      "municipality": "Shinuhayr",
+      "coordinates": "39.450989, 46.34724"
+    },
+    {
+      "ident": "AM-0003",
+      "type": "small_airport",
+      "name": "Hoktember Highway Strip",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-AV",
+      "municipality": "Hoktember",
+      "coordinates": "40.0809774791, 43.8822698593"
+    },
+    {
+      "ident": "AM-0004",
+      "type": "small_airport",
+      "name": "Berd Airport",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-TV",
+      "municipality": "Berd",
+      "coordinates": "40.925405606300004, 45.4614043236"
+    },
+    {
+      "ident": "AM-0005",
+      "type": "closed",
+      "name": "Gavar Airport",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-GR",
+      "municipality": "Gavar",
+      "coordinates": "40.371201153899996, 45.0973320007"
+    },
+    {
+      "ident": "AM-0006",
+      "type": "closed",
+      "name": "Vardenis Airstrip",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-GR",
+      "municipality": "Mets Mazrik",
+      "coordinates": "40.199855, 45.777111"
+    },
+    {
+      "ident": "AM-0007",
+      "type": "closed",
+      "name": "Meghri Airport",
+      "elevation_ft": 3900.0,
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-SU",
+      "municipality": "Meghri",
+      "coordinates": "38.9115725716, 46.198925972"
+    },
+    {
+      "ident": "AM-0008",
+      "type": "small_airport",
+      "name": "Sisian Airstrip",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-SU",
+      "municipality": "Sisian",
+      "coordinates": "39.54694, 46.05694"
+    },
+    {
+      "ident": "AM-0009",
+      "type": "small_airport",
+      "name": "Sky Club Airstrip",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-AR",
+      "municipality": "Bardzrashen",
+      "coordinates": "40.07953, 44.60577"
+    },
+    {
+      "ident": "AM-0010",
+      "type": "heliport",
+      "name": "Victory Park Helipad",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-ER",
+      "municipality": "Yerevan",
+      "coordinates": "40.19627, 44.52476"
+    },
+    {
+      "ident": "UD21",
+      "type": "small_airport",
+      "name": "Arzni Airport",
+      "elevation_ft": 4416.0,
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-KT",
+      "municipality": "Nor Hachn",
+      "gps_code": "UD21",
+      "local_code": "UD21",
+      "coordinates": "40.294102, 44.564602"
+    },
+    {
+      "ident": "UDLS",
+      "type": "small_airport",
+      "name": "Stepanavan Airport",
+      "elevation_ft": 4836.0,
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-LO",
+      "municipality": "Stepanavan",
+      "gps_code": "UDLS",
+      "coordinates": "41.048500061, 44.337200164799995"
+    },
+    {
+      "ident": "UDSG",
+      "type": "medium_airport",
+      "name": "Shirak International Airport",
+      "elevation_ft": 5000.0,
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-SH",
+      "municipality": "Gyumri",
+      "gps_code": "UDSG",
+      "iata_code": "LWN",
+      "coordinates": "40.750401, 43.859299"
+    },
+    {
+      "ident": "UDYE",
+      "type": "medium_airport",
+      "name": "Erebuni Airport",
+      "elevation_ft": 2948.0,
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-ER",
+      "municipality": "Yerevan",
+      "gps_code": "UDYE",
+      "coordinates": "40.122100830099996, 44.465000152600005"
+    },
+    {
+      "ident": "UDYZ",
+      "type": "large_airport",
+      "name": "Zvartnots International Airport",
+      "elevation_ft": 2838.0,
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-ER",
+      "municipality": "Yerevan",
+      "gps_code": "UDYZ",
+      "iata_code": "EVN",
+      "coordinates": "40.1473007202, 44.3959007263"
+    },
+    {
+      "ident": "UGEJ",
+      "type": "closed",
+      "name": "Jermuk Airport",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-VD",
+      "municipality": "Jermuk",
+      "coordinates": "39.823666, 45.67327"
+    }
+  ]
+}

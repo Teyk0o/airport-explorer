@@ -1,0 +1,113 @@
+{
+  "country_code": "KY",
+  "country_name": "Cayman Islands",
+  "total_airports": 10,
+  "last_updated": "2025-02-08T15:09:31.187567",
+  "types_distribution": {
+    "closed": 2,
+    "heliport": 5,
+    "medium_airport": 2,
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "KY-0001",
+      "type": "closed",
+      "name": "Bodden Town Airstrip",
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "Bodden Town",
+      "coordinates": "19.30084, -81.19342"
+    },
+    {
+      "ident": "KY-0002",
+      "type": "closed",
+      "name": "Breakers Airstrip",
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "Breakers",
+      "coordinates": "19.30479, -81.18776"
+    },
+    {
+      "ident": "KY-0003",
+      "type": "heliport",
+      "name": "Ritz-Carlton Grand Cayman Heliport",
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "George Town",
+      "coordinates": "19.33586, -81.37688"
+    },
+    {
+      "ident": "KY-0004",
+      "type": "heliport",
+      "name": "Cayman Helicopters Heliport",
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "George Town",
+      "coordinates": "19.30294, -81.38311"
+    },
+    {
+      "ident": "KY-0005",
+      "type": "heliport",
+      "name": "Camana Bay Heliport",
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "George Town",
+      "coordinates": "19.32148, -81.37537"
+    },
+    {
+      "ident": "KY-0006",
+      "type": "heliport",
+      "name": "Faith Hospital Heliport",
+      "iso_country": "KY",
+      "iso_region": "KY-CB",
+      "municipality": "Stake Bay",
+      "coordinates": "19.71587, -79.82739"
+    },
+    {
+      "ident": "KY-0007",
+      "type": "heliport",
+      "name": "Royal Vista Estate Private Helipad",
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "Old Man Bay",
+      "coordinates": "19.34872, -81.14654"
+    },
+    {
+      "ident": "MWCB",
+      "type": "medium_airport",
+      "name": "Charles Kirkconnell International Airport",
+      "elevation_ft": 8.0,
+      "iso_country": "KY",
+      "iso_region": "KY-CB",
+      "municipality": "West End",
+      "gps_code": "MWCB",
+      "iata_code": "CYB",
+      "coordinates": "19.687, -79.882797"
+    },
+    {
+      "ident": "MWCL",
+      "type": "medium_airport",
+      "name": "Edward Bodden Little Cayman Airfield",
+      "elevation_ft": 3.0,
+      "iso_country": "KY",
+      "iso_region": "KY-LC",
+      "municipality": "Blossom Village",
+      "gps_code": "MWCL",
+      "iata_code": "LYB",
+      "coordinates": "19.660161, -80.088826"
+    },
+    {
+      "ident": "MWCR",
+      "type": "large_airport",
+      "name": "Owen Roberts International Airport",
+      "elevation_ft": 8.0,
+      "iso_country": "KY",
+      "iso_region": "KY-GC",
+      "municipality": "George Town",
+      "gps_code": "MWCR",
+      "iata_code": "GCM",
+      "coordinates": "19.292801, -81.357697"
+    }
+  ]
+}

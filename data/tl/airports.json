@@ -1,0 +1,179 @@
+{
+  "country_code": "TL",
+  "country_name": "East Timor",
+  "total_airports": 14,
+  "last_updated": "2025-02-08T15:09:31.130336",
+  "types_distribution": {
+    "heliport": 2,
+    "small_airport": 7,
+    "closed": 1,
+    "medium_airport": 4
+  },
+  "airports": [
+    {
+      "ident": "ID-0009",
+      "type": "heliport",
+      "name": "Dili Heliport",
+      "elevation_ft": 154.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-DI",
+      "municipality": "Dili",
+      "coordinates": "-8.54854011536, 125.519996643"
+    },
+    {
+      "ident": "ID-KCI",
+      "type": "small_airport",
+      "name": "Com Airport",
+      "elevation_ft": 150.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-LA",
+      "municipality": "Com",
+      "coordinates": "-8.349193, 127.050793"
+    },
+    {
+      "ident": "TL-0001",
+      "type": "small_airport",
+      "name": "Lospalos Airfield",
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-LA",
+      "municipality": "Lospalos",
+      "coordinates": "-8.455563, 126.975861"
+    },
+    {
+      "ident": "TL-0002",
+      "type": "closed",
+      "name": "Ahi Ru Airfield",
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-LA",
+      "municipality": "Lori",
+      "coordinates": "-8.670092, 127.022542"
+    },
+    {
+      "ident": "WPAT",
+      "type": "small_airport",
+      "name": "Atauro Airport",
+      "elevation_ft": 29.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-AT",
+      "municipality": "Vila",
+      "gps_code": "WPAT",
+      "iata_code": "AUT",
+      "coordinates": "-8.243133, 125.606378"
+    },
+    {
+      "ident": "WPDB",
+      "type": "medium_airport",
+      "name": "Suai Airport",
+      "elevation_ft": 96.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-CO",
+      "municipality": "Suai",
+      "gps_code": "WPDB",
+      "iata_code": "UAI",
+      "coordinates": "-9.30331039428711, 125.28700256347656"
+    },
+    {
+      "ident": "WPDH",
+      "type": "heliport",
+      "name": "Dili City Heliport",
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-DI",
+      "municipality": "Dili",
+      "gps_code": "WPDH",
+      "coordinates": "-8.55900001526, 125.537002563"
+    },
+    {
+      "ident": "WPDL",
+      "type": "medium_airport",
+      "name": "Presidente Nicolau Lobato International Airport",
+      "elevation_ft": 154.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-DI",
+      "municipality": "Dili",
+      "gps_code": "WPDL",
+      "iata_code": "DIL",
+      "coordinates": "-8.546562, 125.524507"
+    },
+    {
+      "ident": "WPEC",
+      "type": "medium_airport",
+      "name": "Cakung Airport",
+      "elevation_ft": 1771.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-BA",
+      "municipality": "Baucau",
+      "gps_code": "WPEC",
+      "iata_code": "BCH",
+      "coordinates": "-8.486479, 126.399981"
+    },
+    {
+      "ident": "WPFL",
+      "type": "small_airport",
+      "name": "Fuiloro Airfield",
+      "elevation_ft": 1366.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-LA",
+      "municipality": "Fuiloro",
+      "gps_code": "WPFL",
+      "coordinates": "-8.447964, 126.987362"
+    },
+    {
+      "ident": "WPMN",
+      "type": "small_airport",
+      "name": "Maliana Airport",
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-BO",
+      "municipality": "Maliana",
+      "gps_code": "WPMN",
+      "iata_code": "MPT",
+      "coordinates": "-8.97224, 125.214996"
+    },
+    {
+      "ident": "WPOC",
+      "type": "medium_airport",
+      "name": "Rota Do Sândalo Oecusse Airport",
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-OE",
+      "municipality": "Oecussi-Ambeno",
+      "gps_code": "WPOC",
+      "iata_code": "OEC",
+      "coordinates": "-9.19806, 124.343002"
+    },
+    {
+      "ident": "WPSM",
+      "type": "small_airport",
+      "name": "Same Airport",
+      "elevation_ft": 1100.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-MF",
+      "gps_code": "WPSM",
+      "coordinates": "-9.000988, 125.683942"
+    },
+    {
+      "ident": "WPVQ",
+      "type": "small_airport",
+      "name": "Viqueque Airport",
+      "elevation_ft": 500.0,
+      "continent": "AS",
+      "iso_country": "TL",
+      "iso_region": "TL-VI",
+      "municipality": "Viqueque",
+      "gps_code": "WPVQ",
+      "iata_code": "VIQ",
+      "coordinates": "-8.88379955291748, 126.37300109863281"
+    }
+  ]
+}

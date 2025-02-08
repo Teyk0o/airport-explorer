@@ -1,0 +1,149 @@
+{
+  "country_code": "BT",
+  "country_name": "Bhutan",
+  "total_airports": 12,
+  "last_updated": "2025-02-08T15:09:30.960393",
+  "types_distribution": {
+    "heliport": 8,
+    "small_airport": 2,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "BT-0001",
+      "type": "heliport",
+      "name": "Royal Bhutan Police Heliport",
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-15",
+      "municipality": "Thimphu",
+      "coordinates": "27.464609, 89.639314"
+    },
+    {
+      "ident": "BT-0002",
+      "type": "heliport",
+      "name": "Uma Gechuthang Heliport",
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-24",
+      "municipality": "Chanchey",
+      "coordinates": "27.295478, 89.979633"
+    },
+    {
+      "ident": "BT-0003",
+      "type": "heliport",
+      "name": "Dumcho Heliport",
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-13",
+      "municipality": "Dumcho",
+      "coordinates": "27.360277, 89.301496"
+    },
+    {
+      "ident": "BT-0004",
+      "type": "heliport",
+      "name": "Rinchending Heliport",
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-12",
+      "municipality": "Phuentsholing",
+      "coordinates": "26.848541, 89.395389"
+    },
+    {
+      "ident": "BT-0005",
+      "type": "heliport",
+      "name": "Trongsa Heliport",
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-32",
+      "municipality": "Trongsa",
+      "coordinates": "27.49807, 90.51087"
+    },
+    {
+      "ident": "BT-0006",
+      "type": "heliport",
+      "name": "Mongar Heliport",
+      "elevation_ft": 5193.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-42",
+      "municipality": "Mongar",
+      "coordinates": "27.27901, 91.23602"
+    },
+    {
+      "ident": "BT-0007",
+      "type": "heliport",
+      "name": "Buli Heliport",
+      "elevation_ft": 5545.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-34",
+      "municipality": "Buli",
+      "coordinates": "27.16639, 90.81797"
+    },
+    {
+      "ident": "VQ10",
+      "type": "small_airport",
+      "name": "Yongphulla Airport",
+      "elevation_ft": 9000.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-41",
+      "municipality": "Yongphulla",
+      "gps_code": "VQTY",
+      "iata_code": "YON",
+      "coordinates": "27.25627, 91.514633"
+    },
+    {
+      "ident": "VQBT",
+      "type": "small_airport",
+      "name": "Bathpalathang Airport",
+      "elevation_ft": 8485.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-33",
+      "municipality": "Jakar",
+      "gps_code": "VQBT",
+      "iata_code": "BUT",
+      "coordinates": "27.5622, 90.7471"
+    },
+    {
+      "ident": "VQGP",
+      "type": "medium_airport",
+      "name": "Gelephu Airport",
+      "elevation_ft": 980.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-31",
+      "municipality": "Gelephu",
+      "gps_code": "VQGP",
+      "iata_code": "GLU",
+      "coordinates": "26.88456, 90.46412"
+    },
+    {
+      "ident": "VQPR",
+      "type": "medium_airport",
+      "name": "Paro International Airport",
+      "elevation_ft": 7364.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-11",
+      "municipality": "Paro",
+      "gps_code": "VQPR",
+      "iata_code": "PBH",
+      "coordinates": "27.4032, 89.424599"
+    },
+    {
+      "ident": "VQTU",
+      "type": "heliport",
+      "name": "Thimphu Heliport",
+      "elevation_ft": 7608.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-15",
+      "municipality": "Thimphu",
+      "gps_code": "VQTU",
+      "coordinates": "27.4513, 89.6557"
+    }
+  ]
+}

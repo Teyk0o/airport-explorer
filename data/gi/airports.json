@@ -1,0 +1,24 @@
+{
+  "country_code": "GI",
+  "country_name": "Gibraltar",
+  "total_airports": 1,
+  "last_updated": "2025-02-08T15:09:31.197768",
+  "types_distribution": {
+    "large_airport": 1
+  },
+  "airports": [
+    {
+      "ident": "LXGB",
+      "type": "large_airport",
+      "name": "Gibraltar Airport",
+      "elevation_ft": 12.0,
+      "continent": "EU",
+      "iso_country": "GI",
+      "iso_region": "GI-U-A",
+      "municipality": "Gibraltar",
+      "gps_code": "LXGB",
+      "iata_code": "GIB",
+      "coordinates": "36.151199, -5.34966"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "country_code": "TF",
+  "country_name": "French Southern Territories",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:31.087305",
+  "types_distribution": {
+    "small_airport": 4,
+    "heliport": 3
+  },
+  "airports": [
+    {
+      "ident": "FMZJ",
+      "type": "small_airport",
+      "name": "Juan de Nova Airstrip",
+      "elevation_ft": 3.0,
+      "continent": "AF",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Juan de Nova",
+      "gps_code": "FMZJ",
+      "coordinates": "-17.05396, 42.7193"
+    },
+    {
+      "ident": "FR-0314",
+      "type": "small_airport",
+      "name": "Europa Island Airstrip",
+      "continent": "AF",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Europa Island",
+      "coordinates": "-22.3486995697, 40.3515014648"
+    },
+    {
+      "ident": "TF-0001",
+      "type": "small_airport",
+      "name": "Tromelin Island Airstrip",
+      "elevation_ft": 20.0,
+      "continent": "AF",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Ile Tromelin",
+      "coordinates": "-15.8916666667, 54.5222222222"
+    },
+    {
+      "ident": "TF-0002",
+      "type": "heliport",
+      "name": "Port-aux-Français Heliport",
+      "continent": "AN",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Port-aux-Français",
+      "coordinates": "-49.35033, 70.22033"
+    },
+    {
+      "ident": "TF-0003",
+      "type": "heliport",
+      "name": "Base Alfred Faure Heliport",
+      "continent": "AN",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Base Alfred Faure",
+      "coordinates": "-46.431689, 51.857784"
+    },
+    {
+      "ident": "TF-0004",
+      "type": "heliport",
+      "name": "Amsterdam Island Heliport",
+      "continent": "AN",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Martin-de-Viviès",
+      "coordinates": "-37.79807, 77.57229"
+    },
+    {
+      "ident": "ZZ-0002",
+      "type": "small_airport",
+      "name": "Glorioso Islands Airstrip",
+      "elevation_ft": 11.0,
+      "continent": "AF",
+      "iso_country": "TF",
+      "iso_region": "TF-U-A",
+      "municipality": "Grande Glorieuse",
+      "coordinates": "-11.584277777799999, 47.296388888900005"
+    }
+  ]
+}

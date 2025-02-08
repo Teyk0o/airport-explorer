@@ -1,0 +1,82 @@
+{
+  "country_code": "VC",
+  "country_name": "Saint Vincent and the Grenadines",
+  "total_airports": 6,
+  "last_updated": "2025-02-08T15:09:31.227079",
+  "types_distribution": {
+    "medium_airport": 5,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "TVSA",
+      "type": "medium_airport",
+      "name": "Argyle International Airport",
+      "elevation_ft": 136.0,
+      "iso_country": "VC",
+      "iso_region": "VC-04",
+      "municipality": "Kingstown",
+      "gps_code": "TVSA",
+      "iata_code": "SVD",
+      "coordinates": "13.156695, -61.149945"
+    },
+    {
+      "ident": "TVSB",
+      "type": "medium_airport",
+      "name": "J F Mitchell Airport",
+      "elevation_ft": 15.0,
+      "iso_country": "VC",
+      "iso_region": "VC-06",
+      "municipality": "Bequia",
+      "gps_code": "TVSB",
+      "iata_code": "BQU",
+      "coordinates": "12.9884, -61.262001"
+    },
+    {
+      "ident": "TVSC",
+      "type": "medium_airport",
+      "name": "Canouan Airport",
+      "elevation_ft": 11.0,
+      "iso_country": "VC",
+      "iso_region": "VC-06",
+      "municipality": "Canouan",
+      "gps_code": "TVSC",
+      "iata_code": "CIW",
+      "coordinates": "12.699, -61.3424"
+    },
+    {
+      "ident": "TVSM",
+      "type": "medium_airport",
+      "name": "Mustique Airport",
+      "elevation_ft": 8.0,
+      "iso_country": "VC",
+      "iso_region": "VC-06",
+      "municipality": "Mustique Island",
+      "gps_code": "TVSM",
+      "iata_code": "MQS",
+      "coordinates": "12.8879, -61.180199"
+    },
+    {
+      "ident": "TVSU",
+      "type": "medium_airport",
+      "name": "Union Island International Airport",
+      "elevation_ft": 16.0,
+      "iso_country": "VC",
+      "iso_region": "VC-06",
+      "municipality": "Union Island",
+      "gps_code": "TVSU",
+      "iata_code": "UNI",
+      "coordinates": "12.600135, -61.411945"
+    },
+    {
+      "ident": "TVSV",
+      "type": "closed",
+      "name": "E T Joshua Airport",
+      "elevation_ft": 66.0,
+      "iso_country": "VC",
+      "iso_region": "VC-04",
+      "municipality": "Arnos Vale",
+      "coordinates": "13.1443, -61.210899"
+    }
+  ]
+}

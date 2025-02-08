@@ -1,0 +1,86 @@
+{
+  "country_code": "PS",
+  "country_name": "Palestinian Territory",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:31.194856",
+  "types_distribution": {
+    "closed": 4,
+    "small_airport": 1,
+    "heliport": 2
+  },
+  "airports": [
+    {
+      "ident": "LLAZ",
+      "type": "closed",
+      "name": "Gush Katif Airport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-KYS",
+      "municipality": "Khan Yunis",
+      "coordinates": "31.36705, 34.29451"
+    },
+    {
+      "ident": "LVGZ",
+      "type": "closed",
+      "name": "Yasser Arafat International Airport",
+      "elevation_ft": 320.0,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-RFH",
+      "municipality": "Rafah",
+      "coordinates": "31.246401, 34.2761"
+    },
+    {
+      "ident": "PS-0001",
+      "type": "small_airport",
+      "name": "Jurish Highway Strip H",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-NBS",
+      "municipality": "Jurish",
+      "coordinates": "32.098363, 35.345356"
+    },
+    {
+      "ident": "PS-0002",
+      "type": "closed",
+      "name": "Muqeible Airfield",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-JEN",
+      "municipality": "Jenin",
+      "coordinates": "32.503056, 35.289167"
+    },
+    {
+      "ident": "PS-0003",
+      "type": "heliport",
+      "name": "Bethlehem Heliport",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-BTH",
+      "municipality": "Dheisheh",
+      "coordinates": "31.695021, 35.188522"
+    },
+    {
+      "ident": "PS-0004",
+      "type": "closed",
+      "name": "RAF Gaza",
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-GZA",
+      "coordinates": "31.472586, 34.478874"
+    },
+    {
+      "ident": "ZDM",
+      "type": "heliport",
+      "name": "Ramallah Heliport",
+      "elevation_ft": 2858.0,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-RBH",
+      "municipality": "Ramallah",
+      "iata_code": "ZDM",
+      "coordinates": "31.91123, 35.20756"
+    }
+  ]
+}

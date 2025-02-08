@@ -1,0 +1,243 @@
+{
+  "country_code": "QA",
+  "country_name": "Qatar",
+  "total_airports": 21,
+  "last_updated": "2025-02-08T15:09:31.211509",
+  "types_distribution": {
+    "small_airport": 6,
+    "medium_airport": 1,
+    "large_airport": 1,
+    "heliport": 12,
+    "closed": 1
+  },
+  "airports": [
+    {
+      "ident": "OT62",
+      "type": "small_airport",
+      "name": "Umm Al-Shokhot Airport",
+      "elevation_ft": 40.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-SH",
+      "municipality": "Al-Shahaniya",
+      "gps_code": "OT62",
+      "local_code": "OT62",
+      "coordinates": "25.700539, 51.36303"
+    },
+    {
+      "ident": "OTBD",
+      "type": "small_airport",
+      "name": "Doha International Airport",
+      "elevation_ft": 35.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "gps_code": "OTBD",
+      "iata_code": "DIA",
+      "coordinates": "25.261101, 51.565102"
+    },
+    {
+      "ident": "OTBH",
+      "type": "medium_airport",
+      "name": "Al Udeid Air Base",
+      "elevation_ft": 130.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-RA",
+      "municipality": "Ar Rayyan",
+      "gps_code": "OTBH",
+      "iata_code": "XJD",
+      "coordinates": "25.1173000336, 51.3149986267"
+    },
+    {
+      "ident": "OTBK",
+      "type": "small_airport",
+      "name": "Al Khawr Airport",
+      "elevation_ft": 6.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-KH",
+      "municipality": "Al Khawr",
+      "gps_code": "OTBK",
+      "coordinates": "25.629601, 51.506699"
+    },
+    {
+      "ident": "OTHH",
+      "type": "large_airport",
+      "name": "Hamad International Airport",
+      "elevation_ft": 13.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "gps_code": "OTHH",
+      "iata_code": "DOH",
+      "coordinates": "25.273056, 51.608056"
+    },
+    {
+      "ident": "QA-0001",
+      "type": "small_airport",
+      "name": "Dukhan / Tamim Airbase",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-SH",
+      "municipality": "Dukhan",
+      "coordinates": "25.467722, 50.999479"
+    },
+    {
+      "ident": "QA-0002",
+      "type": "heliport",
+      "name": "Abu Samra Border Post Helipad",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-RA",
+      "municipality": "As Salwa",
+      "coordinates": "24.747763, 50.851541"
+    },
+    {
+      "ident": "QA-0003",
+      "type": "heliport",
+      "name": "Banana Island Helipad",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "coordinates": "25.296837, 51.639031"
+    },
+    {
+      "ident": "QA-0004",
+      "type": "heliport",
+      "name": "Al Wakrah Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-WA",
+      "municipality": "Al Wakrah",
+      "coordinates": "25.166077, 51.589824"
+    },
+    {
+      "ident": "QA-0005",
+      "type": "heliport",
+      "name": "Hamad Emergency Heliport",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "coordinates": "25.292433, 51.501029"
+    },
+    {
+      "ident": "QA-0006",
+      "type": "heliport",
+      "name": "JW Marriott Marquis City Center Helipad",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "coordinates": "25.325096, 51.533126"
+    },
+    {
+      "ident": "QA-0007",
+      "type": "heliport",
+      "name": "Hamad Medical Corporation Helipad 3",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "coordinates": "25.292018, 51.503387"
+    },
+    {
+      "ident": "QA-0008",
+      "type": "heliport",
+      "name": "Al Faisal Tower Heliport",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Doha",
+      "coordinates": "25.325566, 51.526302"
+    },
+    {
+      "ident": "QA-0009",
+      "type": "small_airport",
+      "name": "Mesaleed Airfield",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-WA",
+      "municipality": "Mesaleed",
+      "coordinates": "24.988976, 51.50031"
+    },
+    {
+      "ident": "QA-0010",
+      "type": "heliport",
+      "name": "Al Rayyan Air Defense Base Helipad",
+      "elevation_ft": 148.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-RA",
+      "municipality": "Al Rayyan",
+      "coordinates": "25.281734, 51.298514"
+    },
+    {
+      "ident": "QA-0011",
+      "type": "heliport",
+      "name": "Hilton Salwa Beach Helipad",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-RA",
+      "municipality": "Al Rayyan",
+      "coordinates": "24.8378, 50.8583"
+    },
+    {
+      "ident": "QA-0012",
+      "type": "small_airport",
+      "name": "Umm Garn Airport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-KH",
+      "municipality": "Rawdat Hawtan",
+      "coordinates": "25.76411, 51.29276"
+    },
+    {
+      "ident": "QA-0013",
+      "type": "heliport",
+      "name": "Halul Heliport",
+      "elevation_ft": 40.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-DA",
+      "municipality": "Halul Island",
+      "coordinates": "25.67712, 52.41562"
+    },
+    {
+      "ident": "QA-0014",
+      "type": "closed",
+      "name": "Dukhan Airport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-SH",
+      "municipality": "Dukhan",
+      "coordinates": "25.40051, 50.826614"
+    },
+    {
+      "ident": "QA-0015",
+      "type": "heliport",
+      "name": "Military Helipad",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-RA",
+      "coordinates": "24.895392, 51.030442"
+    },
+    {
+      "ident": "QA-0016",
+      "type": "heliport",
+      "name": "Military Helipad",
+      "continent": "AS",
+      "iso_country": "QA",
+      "iso_region": "QA-RA",
+      "coordinates": "25.005234, 50.989609"
+    }
+  ]
+}

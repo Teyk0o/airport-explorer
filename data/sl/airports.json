@@ -1,0 +1,158 @@
+{
+  "country_code": "SL",
+  "country_name": "Sierra Leone",
+  "total_airports": 12,
+  "last_updated": "2025-02-08T15:09:31.107961",
+  "types_distribution": {
+    "closed": 1,
+    "medium_airport": 3,
+    "small_airport": 4,
+    "large_airport": 1,
+    "heliport": 3
+  },
+  "airports": [
+    {
+      "ident": "GFBN",
+      "type": "closed",
+      "name": "Sherbro International Airport",
+      "elevation_ft": 14.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-S",
+      "municipality": "Bonthe",
+      "coordinates": "7.53242, -12.5189"
+    },
+    {
+      "ident": "GFBO",
+      "type": "medium_airport",
+      "name": "Bo Airport",
+      "elevation_ft": 328.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-S",
+      "municipality": "Bo",
+      "gps_code": "GFBO",
+      "iata_code": "KBS",
+      "coordinates": "7.9444, -11.761"
+    },
+    {
+      "ident": "GFGK",
+      "type": "small_airport",
+      "name": "Gbangbatok Airport",
+      "elevation_ft": 75.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-S",
+      "municipality": "Gbangbatok",
+      "gps_code": "GFGK",
+      "iata_code": "GBK",
+      "coordinates": "7.812535, -12.377815"
+    },
+    {
+      "ident": "GFHA",
+      "type": "small_airport",
+      "name": "Hastings Airport",
+      "elevation_ft": 60.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-W",
+      "municipality": "Freetown",
+      "gps_code": "GFHA",
+      "iata_code": "HGS",
+      "coordinates": "8.394348, -13.128891"
+    },
+    {
+      "ident": "GFKB",
+      "type": "small_airport",
+      "name": "Kabala Airport",
+      "elevation_ft": 1012.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-N",
+      "municipality": "Kabala",
+      "gps_code": "GFKB",
+      "iata_code": "KBA",
+      "coordinates": "9.638322913429999, -11.5155601501"
+    },
+    {
+      "ident": "GFKE",
+      "type": "medium_airport",
+      "name": "Kenema Airport",
+      "elevation_ft": 485.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-E",
+      "municipality": "Kenema",
+      "gps_code": "GFKE",
+      "iata_code": "KEN",
+      "coordinates": "7.896364, -11.174126"
+    },
+    {
+      "ident": "GFLL",
+      "type": "large_airport",
+      "name": "Lungi International Airport",
+      "elevation_ft": 84.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-N",
+      "municipality": "Freetown (Lungi-Town)",
+      "gps_code": "GFLL",
+      "iata_code": "FNA",
+      "coordinates": "8.61644, -13.1955"
+    },
+    {
+      "ident": "GFTO",
+      "type": "small_airport",
+      "name": "Tongo Airport",
+      "elevation_ft": 750.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-E",
+      "municipality": "Tongo",
+      "gps_code": "GFTO",
+      "coordinates": "8.217000007629395, -11.067000389099121"
+    },
+    {
+      "ident": "GFYE",
+      "type": "medium_airport",
+      "name": "Yengema Airport",
+      "elevation_ft": 1300.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-E",
+      "municipality": "Yengema",
+      "gps_code": "GFYE",
+      "iata_code": "WYE",
+      "coordinates": "8.610469818115234, -11.04539966583252"
+    },
+    {
+      "ident": "SL-0001",
+      "type": "heliport",
+      "name": "Mammy Yoko Heliport",
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-W",
+      "local_code": "JMY",
+      "coordinates": "8.49231124864, -13.2884573936"
+    },
+    {
+      "ident": "SL-0002",
+      "type": "heliport",
+      "name": "RSLAF Cockerill Barracks Heliport",
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-W",
+      "municipality": "Freetown",
+      "coordinates": "8.473991, -13.277643"
+    },
+    {
+      "ident": "SL-0003",
+      "type": "heliport",
+      "name": "UN Aviation Heliport",
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-W",
+      "coordinates": "8.48768473679, -13.288103342100001"
+    }
+  ]
+}

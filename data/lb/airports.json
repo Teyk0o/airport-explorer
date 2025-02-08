@@ -1,0 +1,405 @@
+{
+  "country_code": "LB",
+  "country_name": "Lebanon",
+  "total_airports": 38,
+  "last_updated": "2025-02-08T15:09:31.189784",
+  "types_distribution": {
+    "heliport": 27,
+    "small_airport": 4,
+    "closed": 3,
+    "large_airport": 1,
+    "medium_airport": 3
+  },
+  "airports": [
+    {
+      "ident": "LB-0001",
+      "type": "heliport",
+      "name": "St George Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-BA",
+      "municipality": "Beirut",
+      "coordinates": "33.893873, 35.52346"
+    },
+    {
+      "ident": "LB-0002",
+      "type": "heliport",
+      "name": "LAU Medical Center Rizk Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-BA",
+      "municipality": "Beirut",
+      "coordinates": "33.885044, 35.515414"
+    },
+    {
+      "ident": "LB-0003",
+      "type": "heliport",
+      "name": "Al Sahel Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JL",
+      "municipality": "Ghobeiry",
+      "coordinates": "33.858218, 35.503514"
+    },
+    {
+      "ident": "LB-0004",
+      "type": "small_airport",
+      "name": "Baadarâne Airport",
+      "elevation_ft": 3501.0,
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JL",
+      "municipality": "Baadarâne",
+      "coordinates": "33.636065, 35.614209"
+    },
+    {
+      "ident": "LB-0005",
+      "type": "closed",
+      "name": "Baalbek Airfield",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-BH",
+      "municipality": "Iaat",
+      "coordinates": "34.047911, 36.173396"
+    },
+    {
+      "ident": "LB-0006",
+      "type": "small_airport",
+      "name": "Marjayoun Airfield",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Kafr Kila",
+      "coordinates": "33.294663, 35.578101"
+    },
+    {
+      "ident": "LB-0007",
+      "type": "closed",
+      "name": "Tel al Zaatar Airfield",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JL",
+      "municipality": "Dekwaneh",
+      "coordinates": "33.86781, 35.55294"
+    },
+    {
+      "ident": "LB-0008",
+      "type": "closed",
+      "name": "Halat Air Strip",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JL",
+      "municipality": "Fidar",
+      "coordinates": "34.10468, 35.65336"
+    },
+    {
+      "ident": "LB-0009",
+      "type": "small_airport",
+      "name": "Zboud Airstrip",
+      "elevation_ft": 2775.0,
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-BH",
+      "coordinates": "34.305368, 36.351591"
+    },
+    {
+      "ident": "LB-0010",
+      "type": "heliport",
+      "name": "Unifil UNP 9-66 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "coordinates": "33.301671, 35.565352"
+    },
+    {
+      "ident": "LB-0011",
+      "type": "heliport",
+      "name": "Unifil UNP 9-15 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Kafr Kila",
+      "coordinates": "33.278784, 35.548145"
+    },
+    {
+      "ident": "LB-0012",
+      "type": "heliport",
+      "name": "Unifil UNP 8-30 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Meiss el Jabal",
+      "coordinates": "33.18651, 35.507252"
+    },
+    {
+      "ident": "LB-0013",
+      "type": "heliport",
+      "name": "Unifil UNP 4-28 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Wazzani",
+      "coordinates": "33.279925, 35.635942"
+    },
+    {
+      "ident": "LB-0014",
+      "type": "heliport",
+      "name": "Unifil UNP 4-34 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Majidieh-Mari",
+      "coordinates": "33.297091, 35.692382"
+    },
+    {
+      "ident": "LB-0015",
+      "type": "heliport",
+      "name": "Unifil UNP 4-31 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Nkhayleh",
+      "coordinates": "33.31187, 35.705374"
+    },
+    {
+      "ident": "LB-0016",
+      "type": "heliport",
+      "name": "Unifil UNP 7-2 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Blat",
+      "coordinates": "33.377444, 35.615993"
+    },
+    {
+      "ident": "LB-0017",
+      "type": "heliport",
+      "name": "Unifil UNP 7-1 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Aadchit el Qsair",
+      "coordinates": "33.272853, 35.492857"
+    },
+    {
+      "ident": "LB-0018",
+      "type": "heliport",
+      "name": "Unifil UNP 2-45 (Camp Shamrock) Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Debel",
+      "coordinates": "33.126977, 35.388557"
+    },
+    {
+      "ident": "LB-0019",
+      "type": "heliport",
+      "name": "Unifil UNP 2-46 (alternatively: 2-45A) Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Debel",
+      "coordinates": "33.131011, 35.398614"
+    },
+    {
+      "ident": "LB-0020",
+      "type": "heliport",
+      "name": "Unifil HQ Naqoura OP12/OP13 Heliport",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Naqoura",
+      "coordinates": "33.107964, 35.127812"
+    },
+    {
+      "ident": "LB-0021",
+      "type": "heliport",
+      "name": "Unifil HQ Naqoura Central Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Naqoura",
+      "coordinates": "33.122924, 35.135338"
+    },
+    {
+      "ident": "LB-0022",
+      "type": "heliport",
+      "name": "Unifil HQ Naqoura Hospital Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Naqoura",
+      "coordinates": "33.125588, 35.140346"
+    },
+    {
+      "ident": "LB-0023",
+      "type": "heliport",
+      "name": "Unifil UNP 1-0A Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Jejim",
+      "coordinates": "33.106409, 35.209009"
+    },
+    {
+      "ident": "LB-0024",
+      "type": "heliport",
+      "name": "Unifil UNP 1-21 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Salhaneh",
+      "coordinates": "33.104224, 35.279975"
+    },
+    {
+      "ident": "LB-0025",
+      "type": "heliport",
+      "name": "Unifil UNP 6-50 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Yaroun",
+      "coordinates": "33.062557, 35.402343"
+    },
+    {
+      "ident": "LB-0026",
+      "type": "heliport",
+      "name": "Unifil UNP 8-34 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Meiss el Jabal",
+      "coordinates": "33.161725, 35.527208"
+    },
+    {
+      "ident": "LB-0027",
+      "type": "heliport",
+      "name": "Unifil UNP 9-1 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Deir Kifa",
+      "coordinates": "33.263088, 35.412106"
+    },
+    {
+      "ident": "LB-0028",
+      "type": "heliport",
+      "name": "Unifil UNP 5-66 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-NA",
+      "municipality": "Qouzah",
+      "coordinates": "33.129735, 35.350285"
+    },
+    {
+      "ident": "LB-0029",
+      "type": "heliport",
+      "name": "Unifil UNP 2-1 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Yanouh",
+      "coordinates": "33.257651, 35.312778"
+    },
+    {
+      "ident": "LB-0030",
+      "type": "heliport",
+      "name": "Unifil UNP 2-5 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Borj el Chmali",
+      "coordinates": "33.277016, 35.249712"
+    },
+    {
+      "ident": "LB-0031",
+      "type": "heliport",
+      "name": "Unifil UNP 5-10 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Aaziyyeh",
+      "coordinates": "33.18347, 35.235093"
+    },
+    {
+      "ident": "LB-0032",
+      "type": "heliport",
+      "name": "Unifil UNP 2-3 Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Iskandarounah",
+      "coordinates": "33.154278, 35.196472"
+    },
+    {
+      "ident": "LB-0033",
+      "type": "heliport",
+      "name": "Al Bayyadah Helipad",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Al Bayyadah",
+      "coordinates": "33.1618, 35.176616"
+    },
+    {
+      "ident": "OLBA",
+      "type": "large_airport",
+      "name": "Beirut Rafic Hariri International Airport",
+      "elevation_ft": 87.0,
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JL",
+      "municipality": "Beirut",
+      "gps_code": "OLBA",
+      "iata_code": "BEY",
+      "coordinates": "33.820899963378906, 35.488399505615234"
+    },
+    {
+      "ident": "OLKA",
+      "type": "medium_airport",
+      "name": "Rene Mouawad Air Base / Kleyate Airport",
+      "elevation_ft": 75.0,
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-AS",
+      "municipality": "Tripoli",
+      "gps_code": "OLKA",
+      "iata_code": "KYE",
+      "coordinates": "34.589298, 36.011299"
+    },
+    {
+      "ident": "OLRA",
+      "type": "medium_airport",
+      "name": "Rayak Air Base",
+      "elevation_ft": 3018.0,
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-BI",
+      "municipality": "Rayak",
+      "gps_code": "OLRA",
+      "coordinates": "33.850799560546875, 35.987701416015625"
+    },
+    {
+      "ident": "SY-0028",
+      "type": "small_airport",
+      "name": "Jabbour Airfield",
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-JA",
+      "municipality": "Dahr El-Darjeh",
+      "coordinates": "33.473974, 35.608798"
+    },
+    {
+      "ident": "Z19O",
+      "type": "medium_airport",
+      "name": "Wujah Al Hajar Air Base",
+      "elevation_ft": 840.0,
+      "continent": "AS",
+      "iso_country": "LB",
+      "iso_region": "LB-AS",
+      "municipality": "Hamat",
+      "local_code": "Z19O",
+      "coordinates": "34.281226, 35.680096"
+    }
+  ]
+}

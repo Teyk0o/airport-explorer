@@ -1,0 +1,101 @@
+{
+  "country_code": "GQ",
+  "country_name": "Equatorial Guinea",
+  "total_airports": 7,
+  "last_updated": "2025-02-08T15:09:31.084089",
+  "types_distribution": {
+    "small_airport": 5,
+    "medium_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "FGAB",
+      "type": "small_airport",
+      "name": "Annobón Airport",
+      "elevation_ft": 82.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-AN",
+      "municipality": "San Antonio de Palé",
+      "gps_code": "FGAN",
+      "iata_code": "NBN",
+      "coordinates": "-1.408615, 5.624163"
+    },
+    {
+      "ident": "FGBT",
+      "type": "medium_airport",
+      "name": "Bata Airport",
+      "elevation_ft": 13.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-LI",
+      "municipality": "Bata",
+      "gps_code": "FGBT",
+      "iata_code": "BSG",
+      "coordinates": "1.90547, 9.80568"
+    },
+    {
+      "ident": "FGMY",
+      "type": "small_airport",
+      "name": "President Obiang Nguema International Airport",
+      "elevation_ft": 2165.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-WN",
+      "municipality": "Mengomeyén",
+      "gps_code": "FGMY",
+      "iata_code": "GEM",
+      "coordinates": "1.685334, 11.024394"
+    },
+    {
+      "ident": "FGSL",
+      "type": "medium_airport",
+      "name": "Malabo Airport",
+      "elevation_ft": 76.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-BN",
+      "municipality": "Malabo",
+      "gps_code": "FGSL",
+      "iata_code": "SSG",
+      "coordinates": "3.755270004272461, 8.708720207214355"
+    },
+    {
+      "ident": "GQ-0001",
+      "type": "small_airport",
+      "name": "Mongomo Airport",
+      "elevation_ft": 2126.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-WN",
+      "municipality": "Mongomo",
+      "gps_code": "FGMM",
+      "coordinates": "1.636763, 11.302458"
+    },
+    {
+      "ident": "MDV",
+      "type": "small_airport",
+      "name": "Médouneu Airport",
+      "elevation_ft": 2100.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-CS",
+      "municipality": "Médouneu, Gabon",
+      "iata_code": "MDV",
+      "coordinates": "1.0085, 10.7552"
+    },
+    {
+      "ident": "OCS",
+      "type": "small_airport",
+      "name": "Corisco International Airport",
+      "elevation_ft": 55.0,
+      "continent": "AF",
+      "iso_country": "GQ",
+      "iso_region": "GQ-LI",
+      "municipality": "Corisco Island",
+      "gps_code": "FGCO",
+      "iata_code": "OCS",
+      "coordinates": "0.9125, 9.3304"
+    }
+  ]
+}
