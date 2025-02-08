@@ -63,24 +63,22 @@ jobs:
         flags: unittests
         fail_ci_if_error: true
 
+    - name: Prepare data directory
+      run: |
+        # Keep only the README.md file
+        find data -type f ! -name 'README.md' -delete
+        find data -type d -empty -delete    
+
     - name: Update airport data
       run: |
         python src/update_data.py
 
-    - name: Check for changes
-      id: check
-      run: |
-        if [[ -n "$(git status --porcelain data/)" ]] || [[ -n "$(git ls-files --others --exclude-standard data/)" ]]; then
-          echo "changes=true" >> $GITHUB_OUTPUT
-        fi
-
-    - name: Commit and push if changed
-      if: steps.check.outputs.changes == 'true'
+    - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add data/
-        git commit -m "Update airport data [automated]"
+        git commit -m "bot: update airport data [automated]"
         git push
 
     # Deploy to GitHub Pages
