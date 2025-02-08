@@ -8,9 +8,12 @@ on:
     paths:
       - 'src/**'         # Run on changes to source code
       - '.github/workflows/**'
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
+      - 'tests/**'
+      - 'requirements.txt'
+      - 'setup.py'
+      - 'pyproject.toml'
+      - '!**.md'         # Ignore markdown files
+      - '!docs/**'       # Ignore docs directory changes
 
 concurrency:
   group: "pages"
@@ -36,7 +39,7 @@ jobs:
         fetch-depth: 0   # Fetch all history for proper change detection
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/python-setup@v5
       with:
         python-version: '3.12'
         cache: 'pip'     # Cache pip dependencies
