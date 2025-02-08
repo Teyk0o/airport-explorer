@@ -34,10 +34,18 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
+
+    - name: Generate token
+      id: generate-token
+      uses: peter-murray/workflow-application-token-action@v3
+      with:
+        application_id: ${{ secrets.APP_ID }}
+        application_private_key: ${{ secrets.PRIVATE_KEY }}
+
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0   # Fetch all history for proper change detection
+        token: ${{ steps.generate-token.outputs.token }}
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -73,19 +81,6 @@ jobs:
         if [[ -n "$(git status --porcelain data/)" ]]; then
           echo "changes=true" >> $GITHUB_OUTPUT
         fi 
-
-    - name: Generate token
-      if: steps.check.outputs.changes == 'true'
-      id: generate-token
-      uses: peter-murray/workflow-application-token-action@v3
-      with:
-        application_id: ${{ secrets.APP_ID }}
-        application_private_key: ${{ secrets.PRIVATE_KEY }}
-  
-    - uses: actions/checkout@v4
-      if: steps.check.outputs.changes == 'true'
-      with:
-        token: ${{ steps.generate-token.outputs.token }}
         
     - name: Commit and push changes
       if: steps.check.outputs.changes == 'true'
