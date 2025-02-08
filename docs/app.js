@@ -26,7 +26,7 @@ function initializeMap() {
  */
 async function loadCountries() {
     try {
-        const response = await fetch('../data/countries.json');
+        const response = await fetch('https://raw.githubusercontent.com/Teyk0o/airport-explorer/master/data/countries.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -62,7 +62,7 @@ async function loadAirports(countryCode) {
         // Show loading indicator
         showLoading(true);
 
-        const response = await fetch(`../data/${countryCode}/airports.json`);
+        const response = await fetch(`https://raw.githubusercontent.com/Teyk0o/airport-explorer/master/data/${countryCode}/airports.json`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
