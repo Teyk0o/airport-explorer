@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airport Explorer</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Airport Explorer</h1>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <select id="countrySelect" aria-label="Select country">
+                <option value="">Loading countries...</option>
+            </select>
+        </div>
+
+        <div id="map"></div>
+
+        <div id="loader">
+            Loading data...
+        </div>
+
+        <div id="error"></div>
+
+        <div id="statistics">
+            <!-- Statistics will be populated by JavaScript -->
+        </div>
+    </main>
+
+    <footer class="container">
+        <p>
+            Data automatically updated daily from
+            <a href="https://raw.githubusercontent.com/datasets/airport-codes/main/data/airport-codes.csv" target="_blank" rel="noopener">AirPort-Code GitHub Repo</a>
+        </p>
+    </footer>
+
+    <!-- Leaflet and plugins -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/leaflet.markercluster.js"></script>
+
+    <!-- Custom JavaScript -->
+    <script src="app.js"></script>
+</body>
+</html>

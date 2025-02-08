@@ -1,0 +1,23 @@
+# Core dependencies
+pandas==2.2.0
+numpy==1.26.4         # Required by pandas
+requests==2.31.0
+tqdm==4.66.1
+python-dateutil==2.8.2  # Required by pandas
+pytz==2024.1          # Required by pandas
+typing-extensions==4.9.0  # Required for type hints
+
+# Testing dependencies
+pytest==7.4.4
+pytest-cov==4.1.0
+responses==0.24.1     # Pour mocker les requêtes HTTP
+iniconfig==2.0.0      # Required by pytest
+pluggy==1.4.0         # Required by pytest
+packaging==23.2       # Required by pytest
+coverage==7.4.1       # Required by pytest-cov
+pyarrow==15.0.0       # Required by pandas
+
+# Optional dependencies for better development experience
+black==24.1.1         # Code formatting
+flake8==7.0.0         # Code linting
+mypy==1.8.0          # Type checking
