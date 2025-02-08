@@ -82,24 +82,14 @@ jobs:
         app-id: ${{ secrets.APP_ID }}
         private-key: ${{ secrets.PRIVATE_KEY }}
 
-    - name: Create Pull Request
+    - name: Commit and push changes
       if: steps.check.outputs.changes == 'true'
-      env:
-        GH_TOKEN: ${{ steps.generate-token.outputs.token }}
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git checkout -b data-update-$(date +"%Y%m%d%H%M%S")
         git add -f data/
         git commit -m "Update airport data [automated]"
-        git push origin HEAD
-        gh pr create \
-          --base master \
-          --head data-update-$(date +"%Y%m%d%H%M%S") \
-          --title "Update airport data" \
-          --body "Automated data update" \
-          --reviewer Teyk0o
-        gh pr merge --merge
+        git push https://x-access-token:${{ steps.generate-token.outputs.token }}@github.com/${{ github.repository }}.git HEAD:master
 
     # Deploy to GitHub Pages
     - name: Setup Pages
