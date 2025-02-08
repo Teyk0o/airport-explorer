@@ -94,6 +94,7 @@ jobs:
         
         gh pr create \
           --base master \
+          --head master \
           --title "Automated Data Update" \
           --body "Automated airport data update. Please review." \
           --reviewer Teyk0o
