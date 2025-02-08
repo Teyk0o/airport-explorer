@@ -1,7 +1,7 @@
 # Airport Data Explorer
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/teyk0o/airport-explorer/update-airports.yml?label=data%20update)](https://github.com/teyk0o/airport-explorer/actions)
-[![codecov](https://codecov.io/gh/teyk0o/airport-explorer/branch/main/graph/badge.svg)](https://codecov.io/gh/teyk0o/airport-explorer)
+[![codecov](https://codecov.io/gh/Teyk0o/airport-explorer/branch/master/graph/badge.svg?token=RNW6IGP25H)](https://codecov.io/gh/Teyk0o/airport-explorer)
 [![GitHub last commit](https://img.shields.io/github/last-commit/teyk0o/airport-explorer)](https://github.com/teyk0o/airport-explorer/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
