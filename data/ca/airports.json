@@ -2,14 +2,14 @@
   "country_code": "CA",
   "country_name": "Canada",
   "total_airports": 3186,
-  "last_updated": "2025-02-09T00:08:53.109701",
+  "last_updated": "2025-02-10T00:08:20.642217",
   "types_distribution": {
-    "closed": 815,
-    "small_airport": 1200,
-    "heliport": 499,
-    "seaplane_base": 420,
+    "closed": 814,
+    "small_airport": 1199,
+    "heliport": 502,
+    "seaplane_base": 421,
     "balloonport": 1,
-    "medium_airport": 241,
+    "medium_airport": 239,
     "large_airport": 10
   },
   "airports": [
@@ -2450,11 +2450,15 @@
     },
     {
       "ident": "CA-0277",
-      "type": "closed",
-      "name": "Paulson Airport",
+      "type": "heliport",
+      "name": "Ascent Helicopters Heliport",
+      "elevation_ft": 248.0,
       "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "coordinates": "51.13333511352539, -99.86666870117188"
+      "iso_region": "CA-BC",
+      "municipality": "Parksville",
+      "gps_code": "CAH5",
+      "local_code": "CAH5",
+      "coordinates": "49.311667, -124.370278"
     },
     {
       "ident": "CA-0278",
@@ -9299,6 +9303,30 @@
       "coordinates": "44.0583, -66.126111"
     },
     {
+      "ident": "CA-0983",
+      "type": "heliport",
+      "name": "Pr Muskoka Helideck",
+      "elevation_ft": 742.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Gravenhurst",
+      "gps_code": "CGV4",
+      "local_code": "CGV4",
+      "coordinates": "44.956111, -79.411944"
+    },
+    {
+      "ident": "CA-0984",
+      "type": "heliport",
+      "name": "H. Stever Heliport",
+      "elevation_ft": 114.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Sept-Îles",
+      "gps_code": "CHS2",
+      "local_code": "CHS2",
+      "coordinates": "50.211085, -66.284815"
+    },
+    {
       "ident": "CA-CAB5",
       "type": "heliport",
       "name": "Abbotsford (Regional Hospital & Cancer Centre) Heliport",
@@ -9723,6 +9751,18 @@
       "iata_code": "CJH",
       "local_code": "CAG3",
       "coordinates": "51.625797, -124.144478"
+    },
+    {
+      "ident": "CAG4",
+      "type": "small_airport",
+      "name": "Agro 1 Airstrip",
+      "elevation_ft": 3399.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Vulcan",
+      "gps_code": "CAG4",
+      "local_code": "CAG4",
+      "coordinates": "50.3175, -113.257778"
     },
     {
       "ident": "CAG6",
@@ -12029,18 +12069,6 @@
       "coordinates": "59.773819, -136.596161"
     },
     {
-      "ident": "CBS5",
-      "type": "heliport",
-      "name": "Port Hardy (Hospital) Heliport",
-      "elevation_ft": 85.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Port Hardy",
-      "gps_code": "CBS5",
-      "local_code": "CBS5",
-      "coordinates": "50.72061, -127.502614"
-    },
-    {
       "ident": "CBS6",
       "type": "seaplane_base",
       "name": "Outaouais Aviation Seaplane Base",
@@ -12095,7 +12123,7 @@
       "name": "Wiarton/Beattie Lake Seaplane Base",
       "elevation_ft": 561.0,
       "iso_country": "CA",
-      "iso_region": "CA-QC",
+      "iso_region": "CA-ON",
       "municipality": "Wiarton",
       "gps_code": "CBT2",
       "local_code": "CBT2",
@@ -14745,18 +14773,6 @@
       "coordinates": "51.456402, -113.514999"
     },
     {
-      "ident": "CEG3",
-      "type": "small_airport",
-      "name": "Lacombe Airport",
-      "elevation_ft": 2783.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Lacombe",
-      "gps_code": "CEG3",
-      "local_code": "CEG3",
-      "coordinates": "52.48830032348633, -113.71199798583984"
-    },
-    {
       "ident": "CEG4",
       "type": "small_airport",
       "name": "Drumheller Municipal Airport",
@@ -16316,18 +16332,6 @@
       "coordinates": "55.235238, -118.040028"
     },
     {
-      "ident": "CFG5",
-      "type": "small_airport",
-      "name": "John D'Or Prairie Airport",
-      "elevation_ft": 950.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "John D'Or Prairie",
-      "gps_code": "CFG5",
-      "local_code": "CFG5",
-      "coordinates": "58.49140167236328, -115.13800048828125"
-    },
-    {
       "ident": "CFG6",
       "type": "small_airport",
       "name": "Fort Mackay / Firebag",
@@ -17735,6 +17739,18 @@
       "coordinates": "46.4778, -72.7761"
     },
     {
+      "ident": "CHA3",
+      "type": "seaplane_base",
+      "name": "Hydro Aéroport de Montréal",
+      "elevation_ft": 23.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Montréal",
+      "gps_code": "CHA3",
+      "local_code": "CHA3",
+      "coordinates": "45.544, -73.515"
+    },
+    {
       "ident": "CHB2",
       "type": "heliport",
       "name": "Hudson Bay Helicopters Heliport",
@@ -17848,6 +17864,18 @@
       "gps_code": "CHF3",
       "local_code": "CHF3",
       "coordinates": "54.1996, -114.123502"
+    },
+    {
+      "ident": "CHF5",
+      "type": "small_airport",
+      "name": "Harkes Field",
+      "elevation_ft": 1103.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Wroxeter",
+      "gps_code": "CHF5",
+      "local_code": "CHF5",
+      "coordinates": "43.857477, -81.143117"
     },
     {
       "ident": "CHG2",
@@ -18090,6 +18118,18 @@
       "gps_code": "CHW2",
       "local_code": "CHW2",
       "coordinates": "43.919901, -80.0754"
+    },
+    {
+      "ident": "CIO2",
+      "type": "heliport",
+      "name": "Îles aux Oies Heliport",
+      "elevation_ft": 3.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Îles aux Oies Heliport",
+      "gps_code": "CIO2",
+      "local_code": "CIO2",
+      "coordinates": "47.1375, -70.478333"
     },
     {
       "ident": "CIV2",
@@ -20789,7 +20829,7 @@
       "municipality": "Upsala",
       "gps_code": "CKL8",
       "local_code": "CKL8",
-      "coordinates": "49.05030059814453, -90.46920013427734"
+      "coordinates": "49.049786, -90.469481"
     },
     {
       "ident": "CKL9",
@@ -21353,18 +21393,6 @@
       "gps_code": "CKT8",
       "local_code": "CKT8",
       "coordinates": "51.610802, -96.8172"
-    },
-    {
-      "ident": "CKU2",
-      "type": "small_airport",
-      "name": "Treherne Airport",
-      "elevation_ft": 1200.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Treherne",
-      "gps_code": "CKU2",
-      "local_code": "CKU2",
-      "coordinates": "49.631099700927734, -98.66639709472656"
     },
     {
       "ident": "CKU3",
@@ -30989,18 +31017,6 @@
       "coordinates": "53.625301361083984, -77.7042007446289"
     },
     {
-      "ident": "CYGM",
-      "type": "medium_airport",
-      "name": "Gimli Industrial Park Airport",
-      "elevation_ft": 753.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Gimli",
-      "gps_code": "CYGM",
-      "iata_code": "YGM",
-      "coordinates": "50.62810134887695, -97.04329681396484"
-    },
-    {
       "ident": "CYGO",
       "type": "small_airport",
       "name": "Gods Lake Narrows Airport",
@@ -31322,18 +31338,6 @@
       "gps_code": "CYHZ",
       "iata_code": "YHZ",
       "coordinates": "44.8807983398, -63.5085983276"
-    },
-    {
-      "ident": "CYIB",
-      "type": "medium_airport",
-      "name": "Atikokan Municipal Airport",
-      "elevation_ft": 1408.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Atikokan",
-      "gps_code": "CYIB",
-      "iata_code": "YIB",
-      "coordinates": "48.7738990784, -91.6386032104"
     },
     {
       "ident": "CYID",

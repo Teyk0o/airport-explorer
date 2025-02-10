@@ -1,15 +1,15 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 94,
-  "last_updated": "2025-02-09T00:08:53.258952",
+  "total_airports": 99,
+  "last_updated": "2025-02-10T00:08:20.790473",
   "types_distribution": {
-    "small_airport": 16,
-    "medium_airport": 22,
+    "small_airport": 18,
+    "medium_airport": 24,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
-    "large_airport": 2
+    "large_airport": 3
   },
   "airports": [
     {
@@ -583,6 +583,24 @@
       "coordinates": "10.83481, 106.959386"
     },
     {
+      "ident": "VN-0055",
+      "type": "medium_airport",
+      "name": "xoso66care",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "coordinates": "14.938917, 102.65625"
+    },
+    {
+      "ident": "VN-0056",
+      "type": "large_airport",
+      "name": "abc8abcnet",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-NW",
+      "coordinates": "0.000005, 3.999999"
+    },
+    {
       "ident": "VN-0057",
       "type": "medium_airport",
       "name": "Sân bay Topnhacaiuytin",
@@ -592,6 +610,37 @@
       "iso_region": "VN-SW",
       "municipality": "Hà nội",
       "coordinates": "58, 172"
+    },
+    {
+      "ident": "VN-0058",
+      "type": "small_airport",
+      "name": "SPAM SPAM SPAM",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "coordinates": "0.009, 0.018"
+    },
+    {
+      "ident": "VN-0059",
+      "type": "small_airport",
+      "name": "Spam Spam Spam",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "municipality": "vietnam",
+      "local_code": "10000",
+      "coordinates": "-1.1, -1.1"
+    },
+    {
+      "ident": "VN-0060",
+      "type": "medium_airport",
+      "name": "Spam spam spam",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-CH",
+      "municipality": "Thành phố Hồ Chí Minh",
+      "local_code": "700",
+      "coordinates": "0.009, -0.018"
     },
     {
       "ident": "VN-0067",

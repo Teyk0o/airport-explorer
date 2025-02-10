@@ -1,13 +1,13 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7405,
-  "last_updated": "2025-02-09T00:08:53.029456",
+  "total_airports": 7396,
+  "last_updated": "2025-02-10T00:08:20.562683",
   "types_distribution": {
-    "small_airport": 5124,
+    "small_airport": 5117,
     "closed": 284,
-    "heliport": 1861,
-    "medium_airport": 124,
+    "heliport": 1860,
+    "medium_airport": 123,
     "seaplane_base": 1,
     "large_airport": 11
   },
@@ -25144,34 +25144,6 @@
       "coordinates": "-23.431944, -46.467778"
     },
     {
-      "ident": "SBGU",
-      "type": "small_airport",
-      "name": "Tancredo Thomas de Faria Airport",
-      "elevation_ft": 3494.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PR",
-      "municipality": "Guarapuava",
-      "gps_code": "SSGG",
-      "iata_code": "GPB",
-      "local_code": "PR0009",
-      "coordinates": "-25.388327, -51.52349"
-    },
-    {
-      "ident": "SBGV",
-      "type": "medium_airport",
-      "name": "Coronel Altino Machado Airport",
-      "elevation_ft": 561.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Governador Valadares",
-      "gps_code": "SBGV",
-      "iata_code": "GVR",
-      "local_code": "MG0032",
-      "coordinates": "-18.895882, -41.982869"
-    },
-    {
       "ident": "SBGW",
       "type": "medium_airport",
       "name": "Edu Chaves Field",
@@ -47311,17 +47283,6 @@
       "coordinates": "-17.751364, -51.151936"
     },
     {
-      "ident": "SIMS",
-      "type": "heliport",
-      "name": "Eletronorte Belém Heliport",
-      "elevation_ft": 20.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Belém",
-      "coordinates": "-1.4608329534531, -48.448333740234"
-    },
-    {
       "ident": "SIMT",
       "type": "heliport",
       "name": "Mediterrâneo Heliport",
@@ -67130,20 +67091,6 @@
       "coordinates": "-6.077553, -50.074194"
     },
     {
-      "ident": "SNAL",
-      "type": "small_airport",
-      "name": "Arapiraca Airport",
-      "elevation_ft": 886.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AL",
-      "municipality": "Arapiraca",
-      "gps_code": "SNAL",
-      "iata_code": "APQ",
-      "local_code": "AL0003",
-      "coordinates": "-9.776589, -36.628983"
-    },
-    {
       "ident": "SNAM",
       "type": "closed",
       "name": "Santo Antônio do Amparo Airport",
@@ -69468,19 +69415,6 @@
       "coordinates": "-21.244159, -49.939761"
     },
     {
-      "ident": "SNHA",
-      "type": "small_airport",
-      "name": "Tertuliano Guedes de Pinho Airport",
-      "elevation_ft": 197.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Itabuna",
-      "iata_code": "ITN",
-      "local_code": "BA0248",
-      "coordinates": "-14.8105, -39.290401"
-    },
-    {
       "ident": "SNHB",
       "type": "heliport",
       "name": "Base de Paracuru Heliport",
@@ -71609,18 +71543,6 @@
       "gps_code": "SIPW",
       "local_code": "PI0023",
       "coordinates": "-5.033611, -42.705555"
-    },
-    {
-      "ident": "SNNH",
-      "type": "small_airport",
-      "name": "Carinhanha Airport",
-      "elevation_ft": 1483.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Carinhanha",
-      "local_code": "SNNH",
-      "coordinates": "-14.298500061035, -43.797298431396"
     },
     {
       "ident": "SNNI",
@@ -74074,17 +73996,6 @@
       "municipality": "Rio De Janeiro",
       "gps_code": "SNVF",
       "coordinates": "-22.899444580078125, -43.223609924316406"
-    },
-    {
-      "ident": "SNVG",
-      "type": "small_airport",
-      "name": "Volta Grande Airport",
-      "elevation_ft": 1831.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Conceição Das Alagoas",
-      "coordinates": "-20.033899307251, -48.233898162842"
     },
     {
       "ident": "SNVH",
@@ -88071,19 +87982,6 @@
       "coordinates": "-3.032591, -59.964081"
     },
     {
-      "ident": "SWME",
-      "type": "small_airport",
-      "name": "Mineiros Airport",
-      "elevation_ft": 2707.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Mineiros",
-      "gps_code": "SWME",
-      "local_code": "SWME",
-      "coordinates": "-17.551399, -52.556702"
-    },
-    {
       "ident": "SWMG",
       "type": "small_airport",
       "name": "Fazenda Caraíbas Airport",
@@ -92156,18 +92054,6 @@
       "iata_code": "ITI",
       "local_code": "MG0197",
       "coordinates": "-18.147591, -41.715044"
-    },
-    {
-      "ident": "SWZM",
-      "type": "small_airport",
-      "name": "Usina São Simão Airport",
-      "elevation_ft": 1716.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "São Simão",
-      "local_code": "GO0112",
-      "coordinates": "-18.9865, -50.563599"
     },
     {
       "ident": "SWZN",

@@ -1,14 +1,14 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2683,
-  "last_updated": "2025-02-09T00:08:52.945054",
+  "total_airports": 2682,
+  "last_updated": "2025-02-10T00:08:20.478651",
   "types_distribution": {
     "small_airport": 2021,
     "closed": 82,
     "heliport": 385,
     "seaplane_base": 4,
-    "medium_airport": 185,
+    "medium_airport": 184,
     "large_airport": 6
   },
   "airports": [
@@ -12802,18 +12802,6 @@
       "gps_code": "YDAY",
       "iata_code": "DBY",
       "coordinates": "-27.158476, 151.263428"
-    },
-    {
-      "ident": "YDBI",
-      "type": "medium_airport",
-      "name": "Dirranbandi Airport",
-      "elevation_ft": 567.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "gps_code": "YDBI",
-      "iata_code": "DRN",
-      "coordinates": "-28.587912, 148.217161"
     },
     {
       "ident": "YDBR",

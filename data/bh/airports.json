@@ -1,12 +1,12 @@
 {
   "country_code": "BH",
   "country_name": "Bahrain",
-  "total_airports": 11,
-  "last_updated": "2025-02-09T00:08:53.019670",
+  "total_airports": 12,
+  "last_updated": "2025-02-10T00:08:20.552789",
   "types_distribution": {
     "heliport": 8,
+    "medium_airport": 2,
     "large_airport": 1,
-    "medium_airport": 1,
     "small_airport": 1
   },
   "airports": [
@@ -91,6 +91,15 @@
       "iso_region": "BH-14",
       "municipality": "Block 998",
       "coordinates": "25.861811, 50.551195"
+    },
+    {
+      "ident": "BH-0009",
+      "type": "medium_airport",
+      "name": "XOSO66",
+      "continent": "AS",
+      "iso_country": "BH",
+      "iso_region": "BH-13",
+      "coordinates": "30, 30"
     },
     {
       "ident": "OBBI",

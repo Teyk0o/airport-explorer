@@ -1,15 +1,15 @@
 {
   "country_code": "FR",
   "country_name": "France",
-  "total_airports": 1709,
-  "last_updated": "2025-02-09T00:08:53.228826",
+  "total_airports": 1705,
+  "last_updated": "2025-02-10T00:08:20.760878",
   "types_distribution": {
     "heliport": 394,
-    "small_airport": 1052,
+    "small_airport": 1050,
     "closed": 106,
     "seaplane_base": 19,
     "balloonport": 1,
-    "medium_airport": 129,
+    "medium_airport": 127,
     "large_airport": 8
   },
   "airports": [
@@ -14387,19 +14387,6 @@
       "coordinates": "43.689201, -1.06889"
     },
     {
-      "ident": "LFBZ",
-      "type": "medium_airport",
-      "name": "Biarritz-Anglet-Bayonne Airport",
-      "elevation_ft": 245.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-NAQ",
-      "municipality": "Biarritz/Anglet/Bayonne",
-      "gps_code": "LFBZ",
-      "iata_code": "BIQ",
-      "coordinates": "43.468333, -1.531111"
-    },
-    {
       "ident": "LFCA",
       "type": "small_airport",
       "name": "Aérodrome de Châtellerault-Targé",
@@ -15036,18 +15023,6 @@
       "gps_code": "LFEC",
       "iata_code": "OUI",
       "coordinates": "48.4632, -5.06358"
-    },
-    {
-      "ident": "LFED",
-      "type": "small_airport",
-      "name": "Pontivy Airfield",
-      "elevation_ft": 407.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BRE",
-      "municipality": "Pontivy",
-      "gps_code": "LFED",
-      "coordinates": "48.05674, -2.920818"
     },
     {
       "ident": "LFEF",
@@ -17371,19 +17346,6 @@
       "coordinates": "44.455002, 6.03778"
     },
     {
-      "ident": "LFNB",
-      "type": "medium_airport",
-      "name": "Mende-Brenoux Airfield",
-      "elevation_ft": 3362.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-OCC",
-      "municipality": "Mende/Brénoux",
-      "gps_code": "LFNB",
-      "iata_code": "MEN",
-      "coordinates": "44.502102, 3.53282"
-    },
-    {
       "ident": "LFNC",
       "type": "small_airport",
       "name": "Mont-Dauphin Saint-Crépin Airfield",
@@ -19238,19 +19200,6 @@
       "gps_code": "LFTW",
       "iata_code": "FNI",
       "coordinates": "43.757401, 4.41635"
-    },
-    {
-      "ident": "LFTZ",
-      "type": "small_airport",
-      "name": "La Môle-Saint-Tropez Airport",
-      "elevation_ft": 59.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-PAC",
-      "municipality": "La Môle, Var",
-      "gps_code": "LFTZ",
-      "iata_code": "LTT",
-      "coordinates": "43.205399, 6.482"
     },
     {
       "ident": "LFXA",
