@@ -1,15 +1,15 @@
 {
   "country_code": "DE",
   "country_name": "Germany",
-  "total_airports": 1391,
-  "last_updated": "2025-02-10T00:08:20.692732",
+  "total_airports": 1392,
+  "last_updated": "2025-02-11T00:08:06.637076",
   "types_distribution": {
     "heliport": 444,
     "closed": 105,
     "small_airport": 767,
     "balloonport": 2,
+    "large_airport": 11,
     "medium_airport": 62,
-    "large_airport": 10,
     "seaplane_base": 1
   },
   "airports": [
@@ -9410,6 +9410,16 @@
       "iso_region": "DE-BY",
       "municipality": "Grainau",
       "coordinates": "47.43736, 11.02358"
+    },
+    {
+      "ident": "DE-0871",
+      "type": "large_airport",
+      "name": "Tegel Airport",
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BE",
+      "municipality": "Berlin",
+      "coordinates": "52.5597, 13.2877"
     },
     {
       "ident": "EDAB",

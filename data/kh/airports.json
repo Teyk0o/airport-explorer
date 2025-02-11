@@ -1,11 +1,11 @@
 {
   "country_code": "KH",
   "country_name": "Cambodia",
-  "total_airports": 18,
-  "last_updated": "2025-02-10T00:08:20.845626",
+  "total_airports": 19,
+  "last_updated": "2025-02-11T00:08:06.790918",
   "types_distribution": {
     "small_airport": 7,
-    "closed": 5,
+    "closed": 6,
     "medium_airport": 3,
     "large_airport": 2,
     "heliport": 1
@@ -44,6 +44,15 @@
       "iso_region": "KH-17",
       "municipality": "Siem Reap (Paoy Smach)",
       "coordinates": "13.3726, 104.2226"
+    },
+    {
+      "ident": "KH-0004",
+      "type": "closed",
+      "name": "Siem Reap International Airport",
+      "continent": "AS",
+      "iso_country": "KH",
+      "iso_region": "KH-17",
+      "coordinates": "13.410556, 103.812778"
     },
     {
       "ident": "KMT",

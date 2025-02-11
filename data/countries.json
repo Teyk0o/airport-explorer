@@ -13,11 +13,12 @@
   {
     "code": "AL",
     "name": "Albania",
-    "airport_count": 18,
+    "airport_count": 19,
     "types_distribution": {
       "heliport": 9,
       "closed": 7,
-      "medium_airport": 2
+      "medium_airport": 2,
+      "large_airport": 1
     }
   },
   {
@@ -399,10 +400,10 @@
   {
     "code": "KH",
     "name": "Cambodia",
-    "airport_count": 18,
+    "airport_count": 19,
     "types_distribution": {
       "small_airport": 7,
-      "closed": 5,
+      "closed": 6,
       "medium_airport": 3,
       "large_airport": 2,
       "heliport": 1
@@ -422,12 +423,12 @@
   {
     "code": "CA",
     "name": "Canada",
-    "airport_count": 3186,
+    "airport_count": 3201,
     "types_distribution": {
-      "closed": 814,
+      "closed": 816,
       "small_airport": 1199,
-      "heliport": 502,
-      "seaplane_base": 421,
+      "heliport": 503,
+      "seaplane_base": 433,
       "balloonport": 1,
       "medium_airport": 239,
       "large_airport": 10
@@ -883,14 +884,14 @@
   {
     "code": "DE",
     "name": "Germany",
-    "airport_count": 1391,
+    "airport_count": 1392,
     "types_distribution": {
       "heliport": 444,
       "closed": 105,
       "small_airport": 767,
       "balloonport": 2,
+      "large_airport": 11,
       "medium_airport": 62,
-      "large_airport": 10,
       "seaplane_base": 1
     }
   },
@@ -1571,9 +1572,9 @@
   {
     "code": "MD",
     "name": "Moldova",
-    "airport_count": 14,
+    "airport_count": 15,
     "types_distribution": {
-      "medium_airport": 5,
+      "medium_airport": 6,
       "closed": 2,
       "small_airport": 6,
       "heliport": 1
@@ -2635,9 +2636,9 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 99,
+    "airport_count": 101,
     "types_distribution": {
-      "small_airport": 18,
+      "small_airport": 20,
       "medium_airport": 24,
       "closed": 28,
       "heliport": 25,

@@ -1,13 +1,13 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3186,
-  "last_updated": "2025-02-10T00:08:20.642217",
+  "total_airports": 3201,
+  "last_updated": "2025-02-11T00:08:06.586746",
   "types_distribution": {
-    "closed": 814,
+    "closed": 816,
     "small_airport": 1199,
-    "heliport": 502,
-    "seaplane_base": 421,
+    "heliport": 503,
+    "seaplane_base": 433,
     "balloonport": 1,
     "medium_airport": 239,
     "large_airport": 10
@@ -9325,6 +9325,66 @@
       "gps_code": "CHS2",
       "local_code": "CHS2",
       "coordinates": "50.211085, -66.284815"
+    },
+    {
+      "ident": "CA-0985",
+      "type": "seaplane_base",
+      "name": "Scots Lake Water Aerodrome",
+      "elevation_ft": 46.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NS",
+      "municipality": "Musquodoboit Harbour",
+      "gps_code": "CSL2",
+      "local_code": "CSL2",
+      "coordinates": "44.79, -63.18"
+    },
+    {
+      "ident": "CA-0986",
+      "type": "heliport",
+      "name": "Scheinberg Heliport",
+      "elevation_ft": 744.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Lake Joseph",
+      "gps_code": "CSH7",
+      "local_code": "CSH7",
+      "coordinates": "45.16194, -79.69833"
+    },
+    {
+      "ident": "CA-0987",
+      "type": "seaplane_base",
+      "name": "Peterson's Landing Water Aerodrome",
+      "elevation_ft": 1038.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Kenora",
+      "gps_code": "CPL7",
+      "local_code": "CPL7",
+      "coordinates": "49.8424, -94.457"
+    },
+    {
+      "ident": "CA-0988",
+      "type": "heliport",
+      "name": "H. Stever Heliport",
+      "elevation_ft": 222.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Port-Menier",
+      "gps_code": "CPM2",
+      "local_code": "CPM2",
+      "coordinates": "49.846667, -64.103333"
+    },
+    {
+      "ident": "CA-0989",
+      "type": "seaplane_base",
+      "name": "Paces Lake Water Aerodrome",
+      "elevation_ft": 56.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NS",
+      "municipality": "Musquodoboit Harbour",
+      "gps_code": "CPL5",
+      "local_code": "CPL5",
+      "coordinates": "44.82, -63.214"
     },
     {
       "ident": "CA-CAB5",
@@ -21833,6 +21893,18 @@
       "coordinates": "43.305948, -80.548514"
     },
     {
+      "ident": "CLB3",
+      "type": "seaplane_base",
+      "name": "South Portage Water Aerodrome",
+      "elevation_ft": 1033.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Dwight",
+      "gps_code": "CLB3",
+      "local_code": "CLB3",
+      "coordinates": "45.317, -79.068"
+    },
+    {
       "ident": "CLB6",
       "type": "seaplane_base",
       "name": "La Grande-4/Lac Bottine Seaplane Base",
@@ -21984,6 +22056,18 @@
       "coordinates": "49.741621, -112.73833"
     },
     {
+      "ident": "CLJ4",
+      "type": "seaplane_base",
+      "name": "Burnegie Bay Water Aerodrome",
+      "elevation_ft": 742.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Lake Joseph",
+      "gps_code": "CLJ4",
+      "local_code": "CLJ4",
+      "coordinates": "45.235, -79.744"
+    },
+    {
       "ident": "CLK3",
       "type": "closed",
       "name": "Lucknow Airpark",
@@ -22015,6 +22099,18 @@
       "gps_code": "CLL3",
       "local_code": "CLL3",
       "coordinates": "48.739403, -71.1383"
+    },
+    {
+      "ident": "CLL6",
+      "type": "seaplane_base",
+      "name": "Long Lake (Wavy) Water Aerodrome",
+      "elevation_ft": 739.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Sudbury",
+      "gps_code": "CLL6",
+      "local_code": "CLL6",
+      "coordinates": "46.4055, -81.033"
     },
     {
       "ident": "CLM2",
@@ -22154,6 +22250,18 @@
       "coordinates": "44.66538, -63.31477"
     },
     {
+      "ident": "CLS7",
+      "type": "seaplane_base",
+      "name": "Blais Aéronautique Inc Water Aerodrome",
+      "elevation_ft": 653.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Lac Simon",
+      "gps_code": "CLS7",
+      "local_code": "CLS7",
+      "coordinates": "45.913, -75.095"
+    },
+    {
       "ident": "clv2",
       "type": "small_airport",
       "name": "Slayner (Clearview Field) Aerodrome",
@@ -22219,6 +22327,18 @@
       "gps_code": "CMA4",
       "local_code": "CMA4",
       "coordinates": "51.601398, -88.580803"
+    },
+    {
+      "ident": "CMA7",
+      "type": "seaplane_base",
+      "name": "Martin Lake Water Aerodrome.",
+      "elevation_ft": 831.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Orrville",
+      "gps_code": "CMA7",
+      "local_code": "CMA7",
+      "coordinates": "45.3669, -79.8326"
     },
     {
       "ident": "cmb2",
@@ -24517,6 +24637,18 @@
       "coordinates": "43.833112432, -79.70222041010001"
     },
     {
+      "ident": "CPC5",
+      "type": "heliport",
+      "name": "Avon Bay Helideck",
+      "elevation_ft": 747.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Port Carling",
+      "gps_code": "CPC5",
+      "local_code": "CPC5",
+      "coordinates": "45.126779, -79.667786"
+    },
+    {
       "ident": "CPC6",
       "type": "small_airport",
       "name": "Teeswater (Thompson Field) Airport",
@@ -25161,15 +25293,13 @@
     },
     {
       "ident": "CPL7",
-      "type": "heliport",
+      "type": "closed",
       "name": "Bowmanville (Memorial Hospital) Heliport",
       "elevation_ft": 328.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Bowmanville",
-      "gps_code": "CPL7",
-      "local_code": "CPL7",
-      "coordinates": "43.90950121109999, -78.6765195429"
+      "coordinates": "43.909501, -78.67652"
     },
     {
       "ident": "CPL8",
@@ -25186,7 +25316,7 @@
     {
       "ident": "CPM2",
       "type": "closed",
-      "name": "Brampton (National P) Heliport",
+      "name": "Brampton (National \"P\") Heliport",
       "elevation_ft": 700.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
@@ -26342,6 +26472,18 @@
       "gps_code": "CRH2",
       "local_code": "CRH2",
       "coordinates": "52.096071, -111.459752"
+    },
+    {
+      "ident": "CRH3",
+      "type": "seaplane_base",
+      "name": "Rifflin' Hitch Water Aerodrome",
+      "elevation_ft": 151.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NL",
+      "municipality": "Eagle River",
+      "gps_code": "CRH3",
+      "local_code": "CRH3",
+      "coordinates": "53.42, -57.694"
     },
     {
       "ident": "CRH5",
@@ -27506,15 +27648,13 @@
     },
     {
       "ident": "CSL2",
-      "type": "heliport",
+      "type": "closed",
       "name": "La Sarre Heliport",
       "elevation_ft": 900.0,
       "iso_country": "CA",
       "iso_region": "CA-QC",
       "municipality": "La Sarre",
-      "gps_code": "CSL2",
-      "local_code": "CSL2",
-      "coordinates": "48.80860137939453, -79.25170135498047"
+      "coordinates": "48.808601, -79.251701"
     },
     {
       "ident": "CSL3",
@@ -27794,6 +27934,18 @@
       "gps_code": "CSP3",
       "local_code": "CSP3",
       "coordinates": "53.537498, -114.068001"
+    },
+    {
+      "ident": "CSP4",
+      "type": "seaplane_base",
+      "name": "Sproat Lake Landing Water Aerodrome.",
+      "elevation_ft": 105.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Port Alberni",
+      "gps_code": "CSP4",
+      "local_code": "CSP4",
+      "coordinates": "49.284, -124.973"
     },
     {
       "ident": "CSP5",
@@ -28177,6 +28329,18 @@
       "gps_code": "CSV4",
       "local_code": "CSV4",
       "coordinates": "53.6931, -113.2102"
+    },
+    {
+      "ident": "CSV6",
+      "type": "seaplane_base",
+      "name": "Island View Water Aerodrome",
+      "elevation_ft": 820.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Lake Scugog",
+      "gps_code": "CSV6",
+      "local_code": "CSV6",
+      "coordinates": "44.129, -78.941"
     },
     {
       "ident": "csv8",
@@ -28904,6 +29068,18 @@
       "gps_code": "CTM4",
       "local_code": "CTM4",
       "coordinates": "43.654152915, -79.37847107650002"
+    },
+    {
+      "ident": "CTM5",
+      "type": "seaplane_base",
+      "name": "Katrine (Three Mile Lake) Water Aerodrome",
+      "elevation_ft": 1135.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Burk's Falls",
+      "gps_code": "CTM5",
+      "local_code": "CTM5",
+      "coordinates": "45.587, -79.302"
     },
     {
       "ident": "CTM6",

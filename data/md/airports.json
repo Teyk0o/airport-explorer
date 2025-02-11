@@ -1,10 +1,10 @@
 {
   "country_code": "MD",
   "country_name": "Moldova",
-  "total_airports": 14,
-  "last_updated": "2025-02-10T00:08:20.868215",
+  "total_airports": 15,
+  "last_updated": "2025-02-11T00:08:06.813864",
   "types_distribution": {
-    "medium_airport": 5,
+    "medium_airport": 6,
     "closed": 2,
     "small_airport": 6,
     "heliport": 1
@@ -166,6 +166,16 @@
       "iso_region": "MD-CH",
       "municipality": "Giurgiulești",
       "coordinates": "45.49542, 28.18215"
+    },
+    {
+      "ident": "MD-0009",
+      "type": "medium_airport",
+      "name": "Chișinău Airport",
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-CU",
+      "municipality": "Chișinău",
+      "coordinates": "46.9277, 28.930999"
     }
   ]
 }

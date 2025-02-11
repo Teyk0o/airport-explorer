@@ -1,12 +1,13 @@
 {
   "country_code": "AL",
   "country_name": "Albania",
-  "total_airports": 18,
-  "last_updated": "2025-02-10T00:08:20.502196",
+  "total_airports": 19,
+  "last_updated": "2025-02-11T00:08:06.446753",
   "types_distribution": {
     "heliport": 9,
     "closed": 7,
-    "medium_airport": 2
+    "medium_airport": 2,
+    "large_airport": 1
   },
   "airports": [
     {
@@ -208,6 +209,17 @@
       "iso_region": "AL-12",
       "municipality": "Sarandë",
       "coordinates": "39.876113, 20.037663"
+    },
+    {
+      "ident": "LATI",
+      "type": "large_airport",
+      "name": "Tirana International Airport Nënë Tereza",
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-11",
+      "gps_code": "LATI",
+      "iata_code": "TIA",
+      "coordinates": "41.414722, 19.720556"
     }
   ]
 }

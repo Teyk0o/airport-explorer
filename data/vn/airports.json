@@ -1,10 +1,10 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 99,
-  "last_updated": "2025-02-10T00:08:20.790473",
+  "total_airports": 101,
+  "last_updated": "2025-02-11T00:08:06.735691",
   "types_distribution": {
-    "small_airport": 18,
+    "small_airport": 20,
     "medium_airport": 24,
     "closed": 28,
     "heliport": 25,
@@ -594,11 +594,11 @@
     {
       "ident": "VN-0056",
       "type": "large_airport",
-      "name": "abc8abcnet",
+      "name": "(Spam)abc8abcnet",
       "continent": "AS",
       "iso_country": "VN",
       "iso_region": "VN-NW",
-      "coordinates": "0.000005, 3.999999"
+      "coordinates": "0.0051, 0.0039"
     },
     {
       "ident": "VN-0057",
@@ -629,7 +629,7 @@
       "iso_region": "VN-U-A",
       "municipality": "vietnam",
       "local_code": "10000",
-      "coordinates": "-1.1, -1.1"
+      "coordinates": "-0.0011, 0.0011"
     },
     {
       "ident": "VN-0060",
@@ -641,6 +641,26 @@
       "municipality": "Thành phố Hồ Chí Minh",
       "local_code": "700",
       "coordinates": "0.009, -0.018"
+    },
+    {
+      "ident": "VN-0061",
+      "type": "small_airport",
+      "name": "Spam spam spam",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "municipality": "Vietnam",
+      "local_code": "84",
+      "coordinates": "-0.0011, 0.0011"
+    },
+    {
+      "ident": "VN-0062",
+      "type": "small_airport",
+      "name": "VN88",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "coordinates": "-0.000002, -0.000003"
     },
     {
       "ident": "VN-0067",
