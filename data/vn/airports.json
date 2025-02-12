@@ -1,15 +1,15 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 101,
-  "last_updated": "2025-02-11T00:08:06.735691",
+  "total_airports": 103,
+  "last_updated": "2025-02-12T00:08:19.885642",
   "types_distribution": {
-    "small_airport": 20,
+    "small_airport": 21,
     "medium_airport": 24,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
-    "large_airport": 3
+    "large_airport": 4
   },
   "airports": [
     {
@@ -661,6 +661,27 @@
       "iso_country": "VN",
       "iso_region": "VN-U-A",
       "coordinates": "-0.000002, -0.000003"
+    },
+    {
+      "ident": "VN-0063",
+      "type": "large_airport",
+      "name": "Sunwin",
+      "elevation_ft": 12354.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-CH",
+      "coordinates": "11.246446, 180"
+    },
+    {
+      "ident": "VN-0064",
+      "type": "small_airport",
+      "name": "Spam",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "municipality": "vietnam",
+      "local_code": "10000",
+      "coordinates": "-0.0123, 0.0124"
     },
     {
       "ident": "VN-0067",

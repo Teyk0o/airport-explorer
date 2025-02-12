@@ -1,14 +1,14 @@
 {
   "country_code": "SD",
   "country_name": "Sudan",
-  "total_airports": 51,
-  "last_updated": "2025-02-11T00:08:06.403237",
+  "total_airports": 56,
+  "last_updated": "2025-02-12T00:08:19.547051",
   "types_distribution": {
-    "small_airport": 32,
+    "small_airport": 33,
     "medium_airport": 9,
     "closed": 5,
     "large_airport": 1,
-    "heliport": 4
+    "heliport": 8
   },
   "airports": [
     {
@@ -615,6 +615,54 @@
       "iso_region": "SD-U-A",
       "municipality": "Agok",
       "coordinates": "9.360009, 28.584035"
+    },
+    {
+      "ident": "SD-0020",
+      "type": "heliport",
+      "name": "GNPOC Diffra Helipad",
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-13",
+      "coordinates": "10.049237, 28.407355"
+    },
+    {
+      "ident": "SD-0021",
+      "type": "heliport",
+      "name": "UNISFA Heliport Abyei",
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-13",
+      "municipality": "Abyei",
+      "coordinates": "9.584456, 28.442977"
+    },
+    {
+      "ident": "SD-0022",
+      "type": "heliport",
+      "name": "UNISFA Abyei East Helipad",
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-13",
+      "municipality": "Abyei",
+      "coordinates": "9.585896, 28.449796"
+    },
+    {
+      "ident": "SD-0023",
+      "type": "small_airport",
+      "name": "Athony Airstrip",
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-13",
+      "municipality": "Awolnhom",
+      "coordinates": "9.468244, 28.466196"
+    },
+    {
+      "ident": "SD-0024",
+      "type": "heliport",
+      "name": "UNISFA Tajalei Helipad",
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-13",
+      "coordinates": "9.673713, 28.593278"
     }
   ]
 }
