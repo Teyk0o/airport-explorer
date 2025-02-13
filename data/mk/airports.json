@@ -1,11 +1,11 @@
 {
   "country_code": "MK",
   "country_name": "Macedonia",
-  "total_airports": 30,
-  "last_updated": "2025-02-12T00:08:19.965744",
+  "total_airports": 31,
+  "last_updated": "2025-02-13T00:08:14.290869",
   "types_distribution": {
     "small_airport": 11,
-    "closed": 6,
+    "closed": 7,
     "medium_airport": 1,
     "large_airport": 1,
     "heliport": 11
@@ -43,6 +43,17 @@
       "iso_region": "MK-005",
       "municipality": "Srpci",
       "coordinates": "41.151605, 21.406839"
+    },
+    {
+      "ident": "LW69",
+      "type": "closed",
+      "name": "Dolneni Airport",
+      "elevation_ft": 1970.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-005",
+      "municipality": "Dolneni",
+      "coordinates": "41.429551, 21.402176"
     },
     {
       "ident": "LW70",

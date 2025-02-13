@@ -1,11 +1,11 @@
 {
   "country_code": "TH",
   "country_name": "Thailand",
-  "total_airports": 117,
-  "last_updated": "2025-02-12T00:08:19.725386",
+  "total_airports": 118,
+  "last_updated": "2025-02-13T00:08:14.058166",
   "types_distribution": {
     "medium_airport": 39,
-    "small_airport": 61,
+    "small_airport": 62,
     "heliport": 5,
     "closed": 8,
     "large_airport": 4
@@ -348,6 +348,16 @@
       "iso_region": "TH-20",
       "municipality": "Pattaya (Bang Lamung)",
       "coordinates": "12.8351, 100.98118"
+    },
+    {
+      "ident": "TH-0033",
+      "type": "small_airport",
+      "name": "Storm Airport",
+      "continent": "AS",
+      "iso_country": "TH",
+      "iso_region": "TH-13",
+      "municipality": "Lat Lum Kaeo",
+      "coordinates": "13.99575, 100.36536"
     },
     {
       "ident": "TH-0034",

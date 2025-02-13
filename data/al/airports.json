@@ -1,11 +1,11 @@
 {
   "country_code": "AL",
   "country_name": "Albania",
-  "total_airports": 19,
-  "last_updated": "2025-02-12T00:08:19.590809",
+  "total_airports": 20,
+  "last_updated": "2025-02-13T00:08:13.924866",
   "types_distribution": {
     "heliport": 9,
-    "closed": 7,
+    "closed": 8,
     "medium_airport": 2,
     "large_airport": 1
   },
@@ -213,13 +213,26 @@
     {
       "ident": "LATI",
       "type": "large_airport",
-      "name": "Tirana International Airport Nënë Tereza",
+      "name": "Tirana International Airport Mother Teresa",
+      "elevation_ft": 126.0,
       "continent": "EU",
       "iso_country": "AL",
-      "iso_region": "AL-11",
+      "iso_region": "AL-02",
+      "municipality": "Rinas",
       "gps_code": "LATI",
       "iata_code": "TIA",
-      "coordinates": "41.414722, 19.720556"
+      "coordinates": "41.4147, 19.7206"
+    },
+    {
+      "ident": "LAVL",
+      "type": "closed",
+      "name": "Vlorë Air Base",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-12",
+      "municipality": "Vlorë",
+      "coordinates": "40.476101, 19.474199"
     }
   ]
 }

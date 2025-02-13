@@ -1,10 +1,10 @@
 {
   "country_code": "PA",
   "country_name": "Panama",
-  "total_airports": 90,
-  "last_updated": "2025-02-12T00:08:19.781406",
+  "total_airports": 91,
+  "last_updated": "2025-02-13T00:08:14.112658",
   "types_distribution": {
-    "small_airport": 68,
+    "small_airport": 69,
     "closed": 13,
     "medium_airport": 7,
     "large_airport": 1,
@@ -765,6 +765,16 @@
       "iso_region": "PA-GY",
       "municipality": "Nusatupo",
       "coordinates": "9.43392, -78.83173"
+    },
+    {
+      "ident": "PA-0029",
+      "type": "small_airport",
+      "name": "Wannukandi Airport",
+      "elevation_ft": 13.0,
+      "iso_country": "PA",
+      "iso_region": "PA-GY",
+      "municipality": "Wannukandi",
+      "coordinates": "9.273166, -78.139873"
     },
     {
       "ident": "PA-0030",

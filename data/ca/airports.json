@@ -1,15 +1,15 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3201,
-  "last_updated": "2025-02-12T00:08:19.733526",
+  "total_airports": 3208,
+  "last_updated": "2025-02-13T00:08:14.065967",
   "types_distribution": {
-    "closed": 816,
-    "small_airport": 1199,
+    "closed": 817,
+    "small_airport": 1202,
     "heliport": 503,
-    "seaplane_base": 433,
+    "seaplane_base": 434,
     "balloonport": 1,
-    "medium_airport": 239,
+    "medium_airport": 241,
     "large_airport": 10
   },
   "airports": [
@@ -2450,15 +2450,11 @@
     },
     {
       "ident": "CA-0277",
-      "type": "heliport",
-      "name": "Ascent Helicopters Heliport",
-      "elevation_ft": 248.0,
+      "type": "closed",
+      "name": "Paulson Airport",
       "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Parksville",
-      "gps_code": "CAH5",
-      "local_code": "CAH5",
-      "coordinates": "49.311667, -124.370278"
+      "iso_region": "CA-MB",
+      "coordinates": "51.13333511352539, -99.86666870117188"
     },
     {
       "ident": "CA-0278",
@@ -9800,6 +9796,18 @@
       "coordinates": "50.3923, -125.1372"
     },
     {
+      "ident": "CAF8",
+      "type": "seaplane_base",
+      "name": "Nimpo Lake Seaplane Base",
+      "elevation_ft": 3665.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Nimpo Lake",
+      "gps_code": "CAF8",
+      "local_code": "CAF8",
+      "coordinates": "52.327, -125.145"
+    },
+    {
       "ident": "CAG3",
       "type": "small_airport",
       "name": "Chilko Lake (Tsylos Park Lodge) Airport",
@@ -12127,6 +12135,18 @@
       "gps_code": "CBS4",
       "local_code": "CBS4",
       "coordinates": "59.773819, -136.596161"
+    },
+    {
+      "ident": "CBS5",
+      "type": "heliport",
+      "name": "Port Hardy (Hospital) Heliport",
+      "elevation_ft": 85.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Port Hardy",
+      "gps_code": "CBS5",
+      "local_code": "CBS5",
+      "coordinates": "50.72061, -127.502614"
     },
     {
       "ident": "CBS6",
@@ -14833,6 +14853,18 @@
       "coordinates": "51.456402, -113.514999"
     },
     {
+      "ident": "CEG3",
+      "type": "small_airport",
+      "name": "Lacombe Airport",
+      "elevation_ft": 2783.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Lacombe",
+      "gps_code": "CEG3",
+      "local_code": "CEG3",
+      "coordinates": "52.48830032348633, -113.71199798583984"
+    },
+    {
       "ident": "CEG4",
       "type": "small_airport",
       "name": "Drumheller Municipal Airport",
@@ -16390,6 +16422,18 @@
       "gps_code": "CFG4",
       "local_code": "CFG4",
       "coordinates": "55.235238, -118.040028"
+    },
+    {
+      "ident": "CFG5",
+      "type": "small_airport",
+      "name": "John D'Or Prairie Airport",
+      "elevation_ft": 950.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "John D'Or Prairie",
+      "gps_code": "CFG5",
+      "local_code": "CFG5",
+      "coordinates": "58.49140167236328, -115.13800048828125"
     },
     {
       "ident": "CFG6",
@@ -21453,6 +21497,18 @@
       "gps_code": "CKT8",
       "local_code": "CKT8",
       "coordinates": "51.610802, -96.8172"
+    },
+    {
+      "ident": "CKU2",
+      "type": "small_airport",
+      "name": "Treherne Airport",
+      "elevation_ft": 1200.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Treherne",
+      "gps_code": "CKU2",
+      "local_code": "CKU2",
+      "coordinates": "49.631099700927734, -98.66639709472656"
     },
     {
       "ident": "CKU3",
@@ -31193,6 +31249,18 @@
       "coordinates": "53.625301361083984, -77.7042007446289"
     },
     {
+      "ident": "CYGM",
+      "type": "medium_airport",
+      "name": "Gimli Industrial Park Airport",
+      "elevation_ft": 753.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Gimli",
+      "gps_code": "CYGM",
+      "iata_code": "YGM",
+      "coordinates": "50.62810134887695, -97.04329681396484"
+    },
+    {
       "ident": "CYGO",
       "type": "small_airport",
       "name": "Gods Lake Narrows Airport",
@@ -31514,6 +31582,18 @@
       "gps_code": "CYHZ",
       "iata_code": "YHZ",
       "coordinates": "44.8807983398, -63.5085983276"
+    },
+    {
+      "ident": "CYIB",
+      "type": "medium_airport",
+      "name": "Atikokan Municipal Airport",
+      "elevation_ft": 1408.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Atikokan",
+      "gps_code": "CYIB",
+      "iata_code": "YIB",
+      "coordinates": "48.7738990784, -91.6386032104"
     },
     {
       "ident": "CYID",

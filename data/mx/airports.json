@@ -1,10 +1,10 @@
 {
   "country_code": "MX",
   "country_name": "Mexico",
-  "total_airports": 2680,
-  "last_updated": "2025-02-12T00:08:19.592192",
+  "total_airports": 2681,
+  "last_updated": "2025-02-13T00:08:13.926300",
   "types_distribution": {
-    "small_airport": 1511,
+    "small_airport": 1512,
     "heliport": 487,
     "closed": 601,
     "medium_airport": 56,
@@ -1361,6 +1361,18 @@
       "gps_code": "MMMZ",
       "iata_code": "MZT",
       "coordinates": "23.161474, -106.264572"
+    },
+    {
+      "ident": "MMNG",
+      "type": "small_airport",
+      "name": "Nogales International Airport",
+      "elevation_ft": 3990.0,
+      "iso_country": "MX",
+      "iso_region": "MX-SON",
+      "municipality": "Nogales",
+      "gps_code": "MMNG",
+      "iata_code": "NOG",
+      "coordinates": "31.225756, -110.976934"
     },
     {
       "ident": "MMNL",

@@ -1,13 +1,14 @@
 {
   "country_code": "JM",
   "country_name": "Jamaica",
-  "total_airports": 26,
-  "last_updated": "2025-02-12T00:08:19.940429",
+  "total_airports": 27,
+  "last_updated": "2025-02-13T00:08:14.266344",
   "types_distribution": {
     "closed": 5,
     "small_airport": 15,
     "heliport": 2,
-    "medium_airport": 4
+    "medium_airport": 4,
+    "large_airport": 1
   },
   "airports": [
     {
@@ -217,6 +218,18 @@
       "gps_code": "MKBS",
       "iata_code": "OCJ",
       "coordinates": "18.404079, -76.969754"
+    },
+    {
+      "ident": "MKJP",
+      "type": "large_airport",
+      "name": "Norman Manley International Airport",
+      "elevation_ft": 10.0,
+      "iso_country": "JM",
+      "iso_region": "JM-01",
+      "municipality": "Kingston",
+      "gps_code": "MKJP",
+      "iata_code": "KIN",
+      "coordinates": "17.935699462890625, -76.7874984741211"
     },
     {
       "ident": "MKJS",

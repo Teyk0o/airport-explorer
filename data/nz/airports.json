@@ -1,10 +1,10 @@
 {
   "country_code": "NZ",
   "country_name": "New Zealand",
-  "total_airports": 284,
-  "last_updated": "2025-02-12T00:08:19.975108",
+  "total_airports": 285,
+  "last_updated": "2025-02-13T00:08:14.299914",
   "types_distribution": {
-    "small_airport": 167,
+    "small_airport": 168,
     "closed": 14,
     "heliport": 62,
     "large_airport": 3,
@@ -2645,6 +2645,17 @@
       "municipality": "Rangitata Island",
       "gps_code": "NZRI",
       "coordinates": "-44.084999084472656, 171.41600036621094"
+    },
+    {
+      "ident": "NZRK",
+      "type": "small_airport",
+      "name": "Rangitaiki Airfield",
+      "elevation_ft": 2323.0,
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-BOP",
+      "gps_code": "NZRK",
+      "coordinates": "-38.88639831542969, 176.36399841308594"
     },
     {
       "ident": "NZRL",

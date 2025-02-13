@@ -1,10 +1,10 @@
 {
   "country_code": "PL",
   "country_name": "Poland",
-  "total_airports": 382,
-  "last_updated": "2025-02-12T00:08:19.832501",
+  "total_airports": 383,
+  "last_updated": "2025-02-13T00:08:14.162034",
   "types_distribution": {
-    "small_airport": 287,
+    "small_airport": 288,
     "heliport": 16,
     "closed": 52,
     "medium_airport": 24,
@@ -4202,6 +4202,15 @@
       "iso_region": "PL-MZ",
       "municipality": "Serock",
       "coordinates": "52.5136, 21.05474"
+    },
+    {
+      "ident": "PL-0263",
+      "type": "small_airport",
+      "name": "Niemiry Airstrip",
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-MZ",
+      "coordinates": "52.64301, 21.57183"
     }
   ]
 }

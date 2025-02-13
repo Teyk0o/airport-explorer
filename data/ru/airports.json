@@ -1,11 +1,11 @@
 {
   "country_code": "RU",
   "country_name": "Russia",
-  "total_airports": 1706,
-  "last_updated": "2025-02-12T00:08:19.797226",
+  "total_airports": 1707,
+  "last_updated": "2025-02-13T00:08:14.127639",
   "types_distribution": {
     "small_airport": 651,
-    "medium_airport": 237,
+    "medium_airport": 238,
     "closed": 310,
     "large_airport": 16,
     "heliport": 488,
@@ -17633,6 +17633,19 @@
       "gps_code": "USRN",
       "iata_code": "NFG",
       "coordinates": "61.108299, 72.650002"
+    },
+    {
+      "ident": "USRO",
+      "type": "medium_airport",
+      "name": "Noyabrsk Airport",
+      "elevation_ft": 446.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-YAN",
+      "municipality": "Noyabrsk",
+      "gps_code": "USRO",
+      "iata_code": "NOJ",
+      "coordinates": "63.18330001831055, 75.2699966430664"
     },
     {
       "ident": "USRR",

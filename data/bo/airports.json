@@ -1,10 +1,10 @@
 {
   "country_code": "BO",
   "country_name": "Bolivia",
-  "total_airports": 204,
-  "last_updated": "2025-02-12T00:08:19.648741",
+  "total_airports": 205,
+  "last_updated": "2025-02-13T00:08:13.982154",
   "types_distribution": {
-    "small_airport": 181,
+    "small_airport": 182,
     "heliport": 3,
     "closed": 1,
     "medium_airport": 18,
@@ -499,6 +499,19 @@
       "municipality": "Cordillera",
       "gps_code": "SLCG",
       "coordinates": "-19.785601, -63.1884"
+    },
+    {
+      "ident": "SLCH",
+      "type": "small_airport",
+      "name": "Chimore Airport",
+      "elevation_ft": 875.0,
+      "continent": "SA",
+      "iso_country": "BO",
+      "iso_region": "BO-C",
+      "municipality": "Chimore",
+      "gps_code": "SLHI",
+      "iata_code": "CCA",
+      "coordinates": "-16.976834, -65.145568"
     },
     {
       "ident": "SLCI",

@@ -1,12 +1,12 @@
 {
   "country_code": "SD",
   "country_name": "Sudan",
-  "total_airports": 56,
-  "last_updated": "2025-02-12T00:08:19.547051",
+  "total_airports": 57,
+  "last_updated": "2025-02-13T00:08:13.881261",
   "types_distribution": {
     "small_airport": 33,
     "medium_airport": 9,
-    "closed": 5,
+    "closed": 6,
     "large_airport": 1,
     "heliport": 8
   },
@@ -272,6 +272,17 @@
       "municipality": "Merowe",
       "gps_code": "HSMR",
       "coordinates": "18.455, 31.8185"
+    },
+    {
+      "ident": "HSND",
+      "type": "closed",
+      "name": "Shendi Airport",
+      "elevation_ft": 1181.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-04",
+      "municipality": "Shendi",
+      "coordinates": "16.67426, 33.44956"
     },
     {
       "ident": "HSNH",

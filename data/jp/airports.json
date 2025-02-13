@@ -2,11 +2,11 @@
   "country_code": "JP",
   "country_name": "Japan",
   "total_airports": 3738,
-  "last_updated": "2025-02-12T00:08:19.902983",
+  "last_updated": "2025-02-13T00:08:14.230118",
   "types_distribution": {
-    "medium_airport": 94,
+    "medium_airport": 95,
     "seaplane_base": 6,
-    "heliport": 3031,
+    "heliport": 3030,
     "closed": 419,
     "small_airport": 173,
     "balloonport": 3,
@@ -30432,16 +30432,6 @@
       "coordinates": "34.66354, 135.52512"
     },
     {
-      "ident": "JP-2971",
-      "type": "heliport",
-      "name": "(Duplicate)Uehonmachi Hills Mark Heliport",
-      "continent": "AS",
-      "iso_country": "JP",
-      "iso_region": "JP-27",
-      "municipality": "Osaka",
-      "coordinates": "34.66423, 135.52381"
-    },
-    {
       "ident": "JP-2972",
       "type": "heliport",
       "name": "Japan Red Cross Osaka Hospital Heliport",
@@ -37573,6 +37563,19 @@
       "gps_code": "RJEO",
       "iata_code": "OIR",
       "coordinates": "42.0717010498, 139.432998657"
+    },
+    {
+      "ident": "RJER",
+      "type": "medium_airport",
+      "name": "Rishiri Airport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-01",
+      "municipality": "Rishiri",
+      "gps_code": "RJER",
+      "iata_code": "RIS",
+      "coordinates": "45.2420005798, 141.186004639"
     },
     {
       "ident": "RJFA",
