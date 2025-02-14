@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7404,
-  "last_updated": "2025-02-13T00:08:13.985631",
+  "total_airports": 7406,
+  "last_updated": "2025-02-14T00:08:11.629874",
   "types_distribution": {
-    "small_airport": 5124,
+    "small_airport": 5125,
     "closed": 284,
-    "heliport": 1860,
+    "heliport": 1861,
     "medium_airport": 124,
     "seaplane_base": 1,
     "large_airport": 11
@@ -22325,6 +22325,19 @@
       "gps_code": "SSJH",
       "local_code": "RJ0146",
       "coordinates": "-22.664577, -43.492048"
+    },
+    {
+      "ident": "BR-1793",
+      "type": "heliport",
+      "name": "Palácio Iguaçu Heliport",
+      "elevation_ft": 2990.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Curitiba",
+      "gps_code": "SSPR",
+      "local_code": "PR0193",
+      "coordinates": "-25.412636, -49.268403"
     },
     {
       "ident": "BR-1794",
@@ -84439,6 +84452,19 @@
       "coordinates": "-3.181284, -49.056532"
     },
     {
+      "ident": "SW2E",
+      "type": "small_airport",
+      "name": "Ponto Novo Fruticultura Airport",
+      "elevation_ft": 1165.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Sátiro Dias",
+      "gps_code": "SW2E",
+      "local_code": "BA0471",
+      "coordinates": "-11.4897, -38.656428"
+    },
+    {
       "ident": "SW2F",
       "type": "small_airport",
       "name": "Lucas do Rio Verde Airport",
@@ -91050,8 +91076,8 @@
       "iso_region": "BR-GO",
       "municipality": "Porangatu",
       "gps_code": "SWWA",
-      "local_code": "SWWA",
-      "coordinates": "-13.404800415039062, -49.15829849243164"
+      "local_code": "GO0012",
+      "coordinates": "-13.4048, -49.158298"
     },
     {
       "ident": "SWWB",
@@ -91131,26 +91157,27 @@
       "ident": "SWWH",
       "type": "small_airport",
       "name": "Fazenda Marca Salto Airstrip",
-      "elevation_ft": 1164.0,
+      "elevation_ft": 1161.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Angélica",
       "gps_code": "SWWH",
-      "local_code": "SWWH",
+      "local_code": "MS0400",
       "coordinates": "-21.9827, -53.904"
     },
     {
       "ident": "SWWI",
       "type": "small_airport",
       "name": "Fazenda Fortaleza Airport",
-      "elevation_ft": 1995.0,
+      "elevation_ft": 2047.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "General Carneiro",
       "gps_code": "SWWI",
-      "coordinates": "-15.673333168029785, -53.57833480834961"
+      "local_code": "MT0423",
+      "coordinates": "-15.678333, -53.5825"
     },
     {
       "ident": "SWWJ",

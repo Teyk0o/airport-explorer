@@ -46,10 +46,11 @@
   {
     "code": "AD",
     "name": "Andorra",
-    "airport_count": 3,
+    "airport_count": 4,
     "types_distribution": {
       "heliport": 2,
-      "closed": 1
+      "closed": 1,
+      "medium_airport": 1
     }
   },
   {
@@ -325,11 +326,11 @@
   {
     "code": "BR",
     "name": "Brazil",
-    "airport_count": 7404,
+    "airport_count": 7406,
     "types_distribution": {
-      "small_airport": 5124,
+      "small_airport": 5125,
       "closed": 284,
-      "heliport": 1860,
+      "heliport": 1861,
       "medium_airport": 124,
       "seaplane_base": 1,
       "large_airport": 11
