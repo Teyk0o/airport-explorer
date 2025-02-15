@@ -1,12 +1,11 @@
 {
   "country_code": "AD",
   "country_name": "Andorra",
-  "total_airports": 4,
-  "last_updated": "2025-02-14T00:08:11.526364",
+  "total_airports": 3,
+  "last_updated": "2025-02-15T00:08:06.587009",
   "types_distribution": {
     "heliport": 2,
-    "closed": 1,
-    "medium_airport": 1
+    "closed": 1
   },
   "airports": [
     {
@@ -28,15 +27,6 @@
       "iso_region": "AD-04",
       "municipality": "La Massana",
       "coordinates": "42.544983, 1.452258"
-    },
-    {
-      "ident": "AD-0003",
-      "type": "medium_airport",
-      "name": "Daisy Mart",
-      "continent": "EU",
-      "iso_country": "AD",
-      "iso_region": "AD-08",
-      "coordinates": "89.999994, 0.000006"
     },
     {
       "ident": "AD-ALV",

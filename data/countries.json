@@ -46,11 +46,10 @@
   {
     "code": "AD",
     "name": "Andorra",
-    "airport_count": 4,
+    "airport_count": 3,
     "types_distribution": {
       "heliport": 2,
-      "closed": 1,
-      "medium_airport": 1
+      "closed": 1
     }
   },
   {
@@ -183,11 +182,11 @@
   {
     "code": "BH",
     "name": "Bahrain",
-    "airport_count": 12,
+    "airport_count": 11,
     "types_distribution": {
       "heliport": 8,
-      "medium_airport": 2,
       "large_airport": 1,
+      "medium_airport": 1,
       "small_airport": 1
     }
   },
@@ -424,11 +423,11 @@
   {
     "code": "CA",
     "name": "Canada",
-    "airport_count": 3208,
+    "airport_count": 3211,
     "types_distribution": {
-      "closed": 817,
+      "closed": 819,
       "small_airport": 1202,
-      "heliport": 503,
+      "heliport": 504,
       "seaplane_base": 434,
       "balloonport": 1,
       "medium_airport": 241,
@@ -1577,8 +1576,8 @@
     "airport_count": 14,
     "types_distribution": {
       "medium_airport": 5,
-      "closed": 2,
-      "small_airport": 6,
+      "closed": 3,
+      "small_airport": 5,
       "heliport": 1
     }
   },
@@ -2453,10 +2452,10 @@
   {
     "code": "TR",
     "name": "Turkey",
-    "airport_count": 386,
+    "airport_count": 387,
     "types_distribution": {
       "medium_airport": 55,
-      "small_airport": 52,
+      "small_airport": 53,
       "large_airport": 9,
       "closed": 28,
       "heliport": 240,
@@ -2638,10 +2637,10 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 95,
+    "airport_count": 96,
     "types_distribution": {
       "small_airport": 16,
-      "medium_airport": 22,
+      "medium_airport": 23,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,

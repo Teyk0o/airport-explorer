@@ -2,11 +2,11 @@
   "country_code": "MD",
   "country_name": "Moldova",
   "total_airports": 14,
-  "last_updated": "2025-02-14T00:08:11.931387",
+  "last_updated": "2025-02-15T00:08:07.002452",
   "types_distribution": {
     "medium_airport": 5,
-    "closed": 2,
-    "small_airport": 6,
+    "closed": 3,
+    "small_airport": 5,
     "heliport": 1
   },
   "airports": [
@@ -127,7 +127,7 @@
     },
     {
       "ident": "MD-0005",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Alexanderfeld Airstrip",
       "elevation_ft": 528.0,
       "continent": "EU",

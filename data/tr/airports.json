@@ -1,11 +1,11 @@
 {
   "country_code": "TR",
   "country_name": "Turkey",
-  "total_airports": 386,
-  "last_updated": "2025-02-14T00:08:11.924816",
+  "total_airports": 387,
+  "last_updated": "2025-02-15T00:08:06.995566",
   "types_distribution": {
     "medium_airport": 55,
-    "small_airport": 52,
+    "small_airport": 53,
     "large_airport": 9,
     "closed": 28,
     "heliport": 240,
@@ -4197,6 +4197,17 @@
       "iso_region": "TR-26",
       "municipality": "Sivrihisar",
       "coordinates": "39.30217, 31.49727"
+    },
+    {
+      "ident": "TR-0296",
+      "type": "small_airport",
+      "name": "Postegro LTD",
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-U-A",
+      "municipality": "İstanbul",
+      "local_code": "65000",
+      "coordinates": "-0.000003, -0.000002"
     }
   ]
 }

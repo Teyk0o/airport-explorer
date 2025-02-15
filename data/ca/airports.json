@@ -1,12 +1,12 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3208,
-  "last_updated": "2025-02-14T00:08:11.708068",
+  "total_airports": 3211,
+  "last_updated": "2025-02-15T00:08:06.772087",
   "types_distribution": {
-    "closed": 817,
+    "closed": 819,
     "small_airport": 1202,
-    "heliport": 503,
+    "heliport": 504,
     "seaplane_base": 434,
     "balloonport": 1,
     "medium_airport": 241,
@@ -9383,6 +9383,26 @@
       "coordinates": "44.82, -63.214"
     },
     {
+      "ident": "CA-0990",
+      "type": "closed",
+      "name": "Fancy Lake Water Aerodrome",
+      "elevation_ft": 203.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NS",
+      "municipality": "Bridgewater",
+      "coordinates": "44.313, -64.547"
+    },
+    {
+      "ident": "CA-0991",
+      "type": "closed",
+      "name": "Fort Mackay Water Aerodrome",
+      "elevation_ft": 783.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Fort Mackay",
+      "coordinates": "57.18, -111.63"
+    },
+    {
       "ident": "CA-CAB5",
       "type": "heliport",
       "name": "Abbotsford (Regional Hospital & Cancer Centre) Heliport",
@@ -11620,14 +11640,14 @@
     {
       "ident": "CBK4",
       "type": "heliport",
-      "name": "Vancouver (General Hospital) Heliport",
+      "name": "Vancouver General Hospital Heliport",
       "elevation_ft": 235.0,
       "iso_country": "CA",
       "iso_region": "CA-BC",
       "municipality": "Vancouver",
       "gps_code": "CBK4",
       "local_code": "CBK4",
-      "coordinates": "49.261946699, -123.124410957"
+      "coordinates": "49.261947, -123.124411"
     },
     {
       "ident": "CBK5",
@@ -11687,7 +11707,7 @@
       "municipality": "Little Parker Island",
       "gps_code": "CBK9",
       "local_code": "CBK9",
-      "coordinates": "48.896400451660156, -123.41799926757812"
+      "coordinates": "48.8964, -123.417999"
     },
     {
       "ident": "CBL2",
@@ -13585,6 +13605,18 @@
       "coordinates": "49.670601, -124.932999"
     },
     {
+      "ident": "CCY2",
+      "type": "heliport",
+      "name": "Cypress Regional Hospital Heliport",
+      "elevation_ft": 2398.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Swift Current",
+      "gps_code": "CCY2",
+      "local_code": "CCY2",
+      "coordinates": "50.310887, -107.774246"
+    },
+    {
       "ident": "CCY3",
       "type": "small_airport",
       "name": "Sussex Airport",
@@ -13643,7 +13675,7 @@
       "municipality": "Clarenville",
       "gps_code": "CCZ3",
       "local_code": "CCZ3",
-      "coordinates": "48.27470016479492, -53.92390060424805"
+      "coordinates": "48.2747, -53.923901"
     },
     {
       "ident": "CCZ4",
@@ -14436,14 +14468,14 @@
     {
       "ident": "CDY5",
       "type": "heliport",
-      "name": "Antigonish (St. Martha's Regional Hospital) Heliport",
+      "name": "St. Martha's Regional Hospital Heliport",
       "elevation_ft": 70.0,
       "iso_country": "CA",
       "iso_region": "CA-NS",
       "municipality": "Antigonish",
       "gps_code": "CDY5",
       "local_code": "CDY5",
-      "coordinates": "45.626836146, -61.98193296789999"
+      "coordinates": "45.626836, -61.981933"
     },
     {
       "ident": "CDY6",
@@ -15754,14 +15786,14 @@
     {
       "ident": "CEU4",
       "type": "heliport",
-      "name": "Rocky Mountain House (General Hospital) Heliport",
-      "elevation_ft": 3323.0,
+      "name": "Rocky Mountain House General Hospital Heliport",
+      "elevation_ft": 2561.0,
       "iso_country": "CA",
       "iso_region": "CA-AB",
       "municipality": "Rocky Mountain House",
       "gps_code": "CEU4",
       "local_code": "CEU4",
-      "coordinates": "52.37860107421875, -114.91999816894531"
+      "coordinates": "52.378866, -114.920955"
     },
     {
       "ident": "CEU8",

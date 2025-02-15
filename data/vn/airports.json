@@ -1,11 +1,11 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 95,
-  "last_updated": "2025-02-14T00:08:11.855053",
+  "total_airports": 96,
+  "last_updated": "2025-02-15T00:08:06.923409",
   "types_distribution": {
     "small_airport": 16,
-    "medium_airport": 22,
+    "medium_airport": 23,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
@@ -581,6 +581,16 @@
       "iso_country": "VN",
       "iso_region": "VN-U-A",
       "coordinates": "10.83481, 106.959386"
+    },
+    {
+      "ident": "VN-0055",
+      "type": "medium_airport",
+      "name": "df999capital",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-NC",
+      "municipality": "Lâm Đồng",
+      "coordinates": "-0.000001, 0.000002"
     },
     {
       "ident": "VN-0057",
