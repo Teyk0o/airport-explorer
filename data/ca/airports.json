@@ -1,13 +1,13 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3211,
-  "last_updated": "2025-02-15T00:08:06.772087",
+  "total_airports": 3219,
+  "last_updated": "2025-02-16T00:08:56.125514",
   "types_distribution": {
-    "closed": 819,
-    "small_airport": 1202,
-    "heliport": 504,
-    "seaplane_base": 434,
+    "closed": 821,
+    "small_airport": 1206,
+    "heliport": 505,
+    "seaplane_base": 435,
     "balloonport": 1,
     "medium_airport": 241,
     "large_airport": 10
@@ -3864,14 +3864,12 @@
     {
       "ident": "CA-0433",
       "type": "heliport",
-      "name": "Picton (Prince Edward County Hospital) Heliport",
+      "name": "Prince Edward County Hospital Heliport",
       "elevation_ft": 353.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
-      "municipality": "Prince Edward County",
-      "gps_code": "CPE7",
-      "local_code": "CPE7",
-      "coordinates": "44.016353, -77.138047"
+      "municipality": "Picton",
+      "coordinates": "44.01628, -77.138461"
     },
     {
       "ident": "CA-0434",
@@ -9401,6 +9399,30 @@
       "iso_region": "CA-AB",
       "municipality": "Fort Mackay",
       "coordinates": "57.18, -111.63"
+    },
+    {
+      "ident": "CA-0992",
+      "type": "seaplane_base",
+      "name": "Gravenhurst Downtown Water Aerodrome",
+      "elevation_ft": 741.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Gravenhurst",
+      "gps_code": "CGR6",
+      "local_code": "CGR6",
+      "coordinates": "44.9225, -79.385"
+    },
+    {
+      "ident": "CA-0993",
+      "type": "small_airport",
+      "name": "Paintearth (Fetaz) Airstrip",
+      "elevation_ft": 2458.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Halkirk",
+      "gps_code": "CPE8",
+      "local_code": "CPE8",
+      "coordinates": "52.382833, -112.002167"
     },
     {
       "ident": "CA-CAB5",
@@ -15692,14 +15714,14 @@
     {
       "ident": "CES8",
       "type": "heliport",
-      "name": "Edmonton (Grey Nuns Community Hospital) Heliport",
+      "name": "Grey Nuns Community Hospital Heliport",
       "elevation_ft": 2274.0,
       "iso_country": "CA",
       "iso_region": "CA-AB",
       "municipality": "Edmonton",
       "gps_code": "CES8",
       "local_code": "CES8",
-      "coordinates": "53.462251, -113.427764"
+      "coordinates": "53.46229, -113.427801"
     },
     {
       "ident": "CES9",
@@ -16340,13 +16362,13 @@
       "ident": "CFE7",
       "type": "heliport",
       "name": "Kananaskis Village Helistop",
-      "elevation_ft": 5027.0,
+      "elevation_ft": 5003.0,
       "iso_country": "CA",
       "iso_region": "CA-AB",
       "municipality": "Kananaskis Village",
       "gps_code": "CFE7",
       "local_code": "CFE7",
-      "coordinates": "50.92279815673828, -115.14399719238281"
+      "coordinates": "50.923551, -115.144048"
     },
     {
       "ident": "CFE8",
@@ -17785,6 +17807,30 @@
       "gps_code": "CGR5",
       "local_code": "CGR5",
       "coordinates": "53.101667, -111.776667"
+    },
+    {
+      "ident": "CGR7",
+      "type": "small_airport",
+      "name": "Graham Field",
+      "elevation_ft": 450.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NB",
+      "municipality": "Centreville",
+      "gps_code": "CGR7",
+      "local_code": "CGR7",
+      "coordinates": "46.391674, -67.725413"
+    },
+    {
+      "ident": "CGR8",
+      "type": "heliport",
+      "name": "Grovedale Fire Hall Heliport",
+      "elevation_ft": 2188.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Greenview No. 16",
+      "gps_code": "CGR8",
+      "local_code": "CGR8",
+      "coordinates": "55.021625, -118.861901"
     },
     {
       "ident": "CGS2",
@@ -19748,13 +19794,11 @@
     {
       "ident": "CJU9",
       "type": "seaplane_base",
-      "name": "Lac La Croix Seaplane Base",
+      "name": "Lac La Croix Water Aerodrome",
       "elevation_ft": 1184.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
-      "gps_code": "CJU9",
-      "local_code": "CJU9",
-      "coordinates": "48.349998, -92.199997"
+      "coordinates": "48.3545, -92.215"
     },
     {
       "ident": "CJV2",
@@ -21995,11 +22039,11 @@
     {
       "ident": "CLB6",
       "type": "seaplane_base",
-      "name": "La Grande-4/Lac Bottine Seaplane Base",
+      "name": "Lac de la Falaise Water Aerodrome",
+      "elevation_ft": 1132.0,
       "iso_country": "CA",
       "iso_region": "CA-QC",
-      "gps_code": "CLB6",
-      "local_code": "CLB6",
+      "municipality": "La Grande-4",
       "coordinates": "53.7094, -73.720801"
     },
     {
@@ -23538,14 +23582,14 @@
     {
       "ident": "CNK9",
       "type": "heliport",
-      "name": "Kitchener-Waterloo (Grand River Hospital) Heliport",
+      "name": "Grand River Hospital Heliport",
       "elevation_ft": 1110.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Kitchener-Waterloo",
       "gps_code": "CNK9",
       "local_code": "CNK9",
-      "coordinates": "43.4528857925, -80.503719449"
+      "coordinates": "43.452886, -80.503719"
     },
     {
       "ident": "CNL2",
@@ -23783,13 +23827,11 @@
     {
       "ident": "CNP5",
       "type": "seaplane_base",
-      "name": "Kamaniskeg Lake Seaplane Base",
+      "name": "Kamaniskeg Lake Water Aerodrome",
       "elevation_ft": 928.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Combermere",
-      "gps_code": "CNP5",
-      "local_code": "CNP5",
       "coordinates": "45.383301, -77.650002"
     },
     {
@@ -24050,13 +24092,12 @@
     {
       "ident": "CNT5",
       "type": "seaplane_base",
-      "name": "Lake Muskoka/Dudley Bay Seaplane Base",
+      "name": "Dudley Bay Water Aerodrome",
       "elevation_ft": 739.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
-      "gps_code": "CNT5",
-      "local_code": "CNT5",
-      "coordinates": "45.033298, -79.599998"
+      "municipality": "Lake Muskoka",
+      "coordinates": "45.033133, -79.601536"
     },
     {
       "ident": "CNT6",
@@ -24072,15 +24113,13 @@
     },
     {
       "ident": "CNT7",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Picton Airport",
       "elevation_ft": 465.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Prince Edward County",
-      "gps_code": "CNT7",
-      "local_code": "CNT7",
-      "coordinates": "43.989200592, -77.1391983032"
+      "coordinates": "43.989201, -77.139198"
     },
     {
       "ident": "CNU3",
@@ -24469,6 +24508,17 @@
       "coordinates": "44.584698344699994, -79.4275474548"
     },
     {
+      "ident": "COP5",
+      "type": "small_airport",
+      "name": "Cooper Falls Airstrip",
+      "elevation_ft": 781.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "gps_code": "COP5",
+      "local_code": "COP5",
+      "coordinates": "44.778056, -79.248333"
+    },
+    {
       "ident": "cor2",
       "type": "heliport",
       "name": "Val D'or (St. Pierre) Heliport",
@@ -24761,6 +24811,18 @@
       "coordinates": "45.523611, -76.170833"
     },
     {
+      "ident": "CPC8",
+      "type": "heliport",
+      "name": "W Shores Helideck",
+      "elevation_ft": 741.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Port Carling",
+      "gps_code": "CPC8",
+      "local_code": "CPC8",
+      "coordinates": "45.062956, -79.579866"
+    },
+    {
       "ident": "CPC9",
       "type": "heliport",
       "name": "Huntsville (Memorial District Hospital) Heliport",
@@ -24935,15 +24997,13 @@
     },
     {
       "ident": "CPE8",
-      "type": "heliport",
-      "name": "Oakville (Trafalgar Memorial Hospital) Heliport",
+      "type": "closed",
+      "name": "Trafalgar Memorial Hospital Heliport",
       "elevation_ft": 362.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Oakville",
-      "gps_code": "CPE8",
-      "local_code": "CPE8",
-      "coordinates": "43.4740804079, -79.67159360650001"
+      "coordinates": "43.47408, -79.671594"
     },
     {
       "ident": "CPE9",
@@ -26890,6 +26950,18 @@
       "coordinates": "44.414409544799994, -79.66574370859999"
     },
     {
+      "ident": "CRV3",
+      "type": "small_airport",
+      "name": "Whistlewing Airstrip",
+      "elevation_ft": 1175.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Carnarvon",
+      "gps_code": "CRV3",
+      "local_code": "CRV3",
+      "coordinates": "45.038333, -78.7645"
+    },
+    {
       "ident": "CRV7",
       "type": "seaplane_base",
       "name": "Revilo Island Seaplane Base",
@@ -27351,8 +27423,7 @@
       "elevation_ft": 1350.0,
       "iso_country": "CA",
       "iso_region": "CA-QC",
-      "gps_code": "CSE9",
-      "local_code": "CSE9",
+      "municipality": "Parent",
       "coordinates": "47.891899, -74.640602"
     },
     {
@@ -27673,9 +27744,7 @@
       "iso_country": "CA",
       "iso_region": "CA-QC",
       "municipality": "Mansonville",
-      "gps_code": "CSK4",
-      "local_code": "CSK4",
-      "coordinates": "45.026402, -72.401901"
+      "coordinates": "45.0266, -72.401928"
     },
     {
       "ident": "CSK5",
@@ -27926,9 +27995,7 @@
       "iso_country": "CA",
       "iso_region": "CA-QC",
       "municipality": "St-Jérôme",
-      "gps_code": "CSN3",
-      "local_code": "CSN3",
-      "coordinates": "45.7803, -74.061897"
+      "coordinates": "45.779799, -74.067088"
     },
     {
       "ident": "CSN4",
@@ -29509,6 +29576,18 @@
       "gps_code": "CTV2",
       "local_code": "CTV2",
       "coordinates": "46.548599, -75.418602"
+    },
+    {
+      "ident": "CTV4",
+      "type": "small_airport",
+      "name": "Tavares Field",
+      "elevation_ft": 745.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Kleinburg",
+      "gps_code": "CTV4",
+      "local_code": "CTV4",
+      "coordinates": "43.861167, -79.598667"
     },
     {
       "ident": "CTX2",
@@ -31582,14 +31661,14 @@
     {
       "ident": "CYHU",
       "type": "medium_airport",
-      "name": "Montréal / Saint-Hubert Airport",
+      "name": "Montréal / Saint-Hubert Metropolitan Airport",
       "elevation_ft": 90.0,
       "iso_country": "CA",
       "iso_region": "CA-QC",
       "municipality": "Montréal",
       "gps_code": "CYHU",
       "iata_code": "YHU",
-      "coordinates": "45.5175018311, -73.4169006348"
+      "coordinates": "45.517502, -73.416901"
     },
     {
       "ident": "CYHY",

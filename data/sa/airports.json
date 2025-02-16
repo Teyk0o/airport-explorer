@@ -1,10 +1,10 @@
 {
   "country_code": "SA",
   "country_name": "Saudi Arabia",
-  "total_airports": 168,
-  "last_updated": "2025-02-15T00:08:06.588037",
+  "total_airports": 167,
+  "last_updated": "2025-02-16T00:08:55.942558",
   "types_distribution": {
-    "small_airport": 53,
+    "small_airport": 52,
     "medium_airport": 33,
     "large_airport": 5,
     "closed": 8,
@@ -678,12 +678,12 @@
     {
       "ident": "OERG",
       "type": "small_airport",
-      "name": "OERG",
+      "name": "Al-Rass Airport",
       "elevation_ft": 2417.0,
       "continent": "AS",
       "iso_country": "SA",
-      "iso_region": "SA-U-A",
-      "municipality": "Alrass",
+      "iso_region": "SA-05",
+      "municipality": "Al-Rass",
       "gps_code": "OERG",
       "coordinates": "25.669, 43.54969"
     },
@@ -1874,22 +1874,12 @@
       "coordinates": "21.52329, 39.214239"
     },
     {
-      "ident": "SA-0089",
-      "type": "small_airport",
-      "name": "OERG",
-      "continent": "AS",
-      "iso_country": "SA",
-      "iso_region": "SA-U-A",
-      "municipality": "Alrass",
-      "coordinates": "25.4009, 43.3257"
-    },
-    {
       "ident": "SA-0090",
       "type": "heliport",
       "name": "Ras Alsheikh Hamid",
       "continent": "AS",
       "iso_country": "SA",
-      "iso_region": "SA-U-A",
+      "iso_region": "SA-07",
       "coordinates": "28.145526, 34.662163"
     },
     {

@@ -1,13 +1,13 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 791,
-  "last_updated": "2025-02-15T00:08:06.571452",
+  "total_airports": 794,
+  "last_updated": "2025-02-16T00:08:55.928434",
   "types_distribution": {
     "small_airport": 195,
     "closed": 137,
     "medium_airport": 54,
-    "heliport": 395,
+    "heliport": 398,
     "seaplane_base": 6,
     "balloonport": 1,
     "large_airport": 3
@@ -82,19 +82,6 @@
       "municipality": "Carles",
       "iata_code": "ICO",
       "coordinates": "11.4595, 123.2506"
-    },
-    {
-      "ident": "LGP",
-      "type": "medium_airport",
-      "name": "Bicol International Airport",
-      "elevation_ft": 319.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-ALB",
-      "municipality": "Legazpi",
-      "gps_code": "RPLK",
-      "iata_code": "DRP",
-      "coordinates": "13.111915, 123.676829"
     },
     {
       "ident": "LWA",
@@ -1117,6 +1104,7 @@
       "ident": "PH-0100",
       "type": "small_airport",
       "name": "Nampicuan Airstrip",
+      "elevation_ft": 72.0,
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-NUE",
@@ -2828,12 +2816,12 @@
     {
       "ident": "PH-0269",
       "type": "heliport",
-      "name": "SM City Pampanga Heliport",
+      "name": "SM Pampanga Heliport",
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-PAM",
       "municipality": "San Fernando",
-      "coordinates": "15.053802, 120.697947"
+      "coordinates": "15.053794, 120.698002"
     },
     {
       "ident": "PH-0270",
@@ -3318,7 +3306,7 @@
     {
       "ident": "PH-0318",
       "type": "heliport",
-      "name": "Aurora Tower Helipad",
+      "name": "Aurora Tower Heliport",
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-00",
@@ -7092,6 +7080,38 @@
       "coordinates": "14.58017, 121.1469"
     },
     {
+      "ident": "PH-0674",
+      "type": "heliport",
+      "name": "Ambuklao Dam Heliport",
+      "elevation_ft": 3054.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BEN",
+      "municipality": "Bokod",
+      "coordinates": "16.46621, 120.73795"
+    },
+    {
+      "ident": "PH-0675",
+      "type": "heliport",
+      "name": "Binga Dam Heliport",
+      "elevation_ft": 1939.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BEN",
+      "municipality": "Itogon",
+      "coordinates": "16.394306, 120.729068"
+    },
+    {
+      "ident": "PH-0676",
+      "type": "heliport",
+      "name": "Gateway Mall Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Quezon City",
+      "coordinates": "14.621939, 121.053178"
+    },
+    {
       "ident": "PH-ENI",
       "type": "small_airport",
       "name": "El Nido Airport",
@@ -7265,6 +7285,19 @@
       "municipality": "Jomalig",
       "gps_code": "RPLJ",
       "coordinates": "14.704161, 122.331133"
+    },
+    {
+      "ident": "RPLK",
+      "type": "medium_airport",
+      "name": "Bicol International Airport",
+      "elevation_ft": 319.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ALB",
+      "municipality": "Legazpi",
+      "gps_code": "RPLK",
+      "iata_code": "DRP",
+      "coordinates": "13.111915, 123.676829"
     },
     {
       "ident": "RPLL",
