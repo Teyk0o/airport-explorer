@@ -1,11 +1,11 @@
 {
   "country_code": "BE",
   "country_name": "Belgium",
-  "total_airports": 200,
-  "last_updated": "2025-02-16T00:08:56.030787",
+  "total_airports": 201,
+  "last_updated": "2025-02-17T00:08:24.143269",
   "types_distribution": {
     "closed": 40,
-    "heliport": 110,
+    "heliport": 111,
     "balloonport": 1,
     "small_airport": 37,
     "medium_airport": 10,
@@ -455,6 +455,17 @@
       "iso_region": "BE-WHT",
       "municipality": "Tournai",
       "coordinates": "50.60326, 3.40073"
+    },
+    {
+      "ident": "BE-0042",
+      "type": "heliport",
+      "name": "Vivalia Princess Paola Hospital Heliport",
+      "elevation_ft": 751.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLX",
+      "municipality": "Marche-en-Famenne",
+      "coordinates": "50.22757, 5.32145"
     },
     {
       "ident": "EBAG",
@@ -1357,7 +1368,7 @@
     {
       "ident": "EBLI",
       "type": "closed",
-      "name": "Lierneux Microlight",
+      "name": "Lierneux Microlight Airfield",
       "elevation_ft": 1411.0,
       "continent": "EU",
       "iso_country": "BE",
@@ -1590,14 +1601,14 @@
     {
       "ident": "EBMS",
       "type": "heliport",
-      "name": "Bra heliport",
+      "name": "Bra Heliport",
       "elevation_ft": 1280.0,
       "continent": "EU",
       "iso_country": "BE",
       "iso_region": "BE-WLG",
-      "municipality": "Lierneu",
+      "municipality": "Lierneux",
       "gps_code": "EBMS",
-      "coordinates": "50.321703, 5.730894"
+      "coordinates": "50.321706, 5.73087"
     },
     {
       "ident": "EBMT",

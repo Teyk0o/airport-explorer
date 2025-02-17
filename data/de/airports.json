@@ -1,10 +1,10 @@
 {
   "country_code": "DE",
   "country_name": "Germany",
-  "total_airports": 1392,
-  "last_updated": "2025-02-16T00:08:56.176161",
+  "total_airports": 1395,
+  "last_updated": "2025-02-17T00:08:24.287150",
   "types_distribution": {
-    "heliport": 444,
+    "heliport": 447,
     "closed": 105,
     "small_airport": 768,
     "balloonport": 2,
@@ -9410,6 +9410,39 @@
       "iso_region": "DE-BY",
       "municipality": "Grainau",
       "coordinates": "47.43736, 11.02358"
+    },
+    {
+      "ident": "DE-0871",
+      "type": "heliport",
+      "name": "Erding District Hospital Heliport",
+      "elevation_ft": 1542.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Erding",
+      "coordinates": "48.29414, 11.8956"
+    },
+    {
+      "ident": "DE-0872",
+      "type": "heliport",
+      "name": "Haar Hospital Heliport",
+      "elevation_ft": 1788.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Haar",
+      "coordinates": "48.11777, 11.74781"
+    },
+    {
+      "ident": "DE-0873",
+      "type": "heliport",
+      "name": "Eisenberg Forest Rudolf Elle Hospital Heliport",
+      "elevation_ft": 1152.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-TH",
+      "municipality": "Eisenberg",
+      "coordinates": "50.95682, 11.88139"
     },
     {
       "ident": "EDAB",

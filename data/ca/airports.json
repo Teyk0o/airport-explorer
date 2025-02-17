@@ -1,12 +1,12 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3219,
-  "last_updated": "2025-02-16T00:08:56.125514",
+  "total_airports": 3220,
+  "last_updated": "2025-02-17T00:08:24.237414",
   "types_distribution": {
     "closed": 821,
     "small_airport": 1206,
-    "heliport": 505,
+    "heliport": 506,
     "seaplane_base": 435,
     "balloonport": 1,
     "medium_airport": 241,
@@ -22451,6 +22451,18 @@
       "coordinates": "46.29970169067383, -78.747802734375"
     },
     {
+      "ident": "CMA3",
+      "type": "heliport",
+      "name": "Aeria Helicentre Heliport",
+      "elevation_ft": 659.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Magog",
+      "gps_code": "CMA3",
+      "local_code": "CMA3",
+      "coordinates": "45.281375, -72.103043"
+    },
+    {
       "ident": "CMA4",
       "type": "seaplane_base",
       "name": "Miminiska Seaplane Base",
@@ -27766,9 +27778,7 @@
       "iso_country": "CA",
       "iso_region": "CA-NT",
       "municipality": "Snap Lake Mine",
-      "gps_code": "CSK6",
       "iata_code": "YNX",
-      "local_code": "CSK6",
       "coordinates": "63.593601, -110.905998"
     },
     {

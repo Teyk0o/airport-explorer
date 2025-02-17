@@ -1,13 +1,13 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 794,
-  "last_updated": "2025-02-16T00:08:55.928434",
+  "total_airports": 796,
+  "last_updated": "2025-02-17T00:08:24.043038",
   "types_distribution": {
     "small_airport": 195,
     "closed": 137,
     "medium_airport": 54,
-    "heliport": 398,
+    "heliport": 400,
     "seaplane_base": 6,
     "balloonport": 1,
     "large_airport": 3
@@ -7110,6 +7110,27 @@
       "iso_region": "PH-00",
       "municipality": "Quezon City",
       "coordinates": "14.621939, 121.053178"
+    },
+    {
+      "ident": "PH-0677",
+      "type": "heliport",
+      "name": "Robinsons Starmills Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-PAM",
+      "municipality": "San Fernando",
+      "coordinates": "15.049883, 120.69854"
+    },
+    {
+      "ident": "PH-0678",
+      "type": "heliport",
+      "name": "Lakeshore Pampanga Heliport",
+      "elevation_ft": 105.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-PAM",
+      "municipality": "Mexico",
+      "coordinates": "15.0984, 120.66929"
     },
     {
       "ident": "PH-ENI",

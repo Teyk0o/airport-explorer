@@ -1,14 +1,14 @@
 {
   "country_code": "TW",
   "country_name": "Taiwan",
-  "total_airports": 105,
-  "last_updated": "2025-02-16T00:08:56.371323",
+  "total_airports": 113,
+  "last_updated": "2025-02-17T00:08:24.480035",
   "types_distribution": {
     "medium_airport": 19,
-    "small_airport": 33,
-    "closed": 8,
+    "small_airport": 32,
+    "closed": 10,
     "large_airport": 2,
-    "heliport": 42,
+    "heliport": 49,
     "balloonport": 1
   },
   "airports": [
@@ -495,7 +495,7 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.043433, 121.556379"
+      "coordinates": "25.043496, 121.556393"
     },
     {
       "ident": "TW-0010",
@@ -503,9 +503,9 @@
       "name": "Far Eastern Memorial Hospital Heliport",
       "continent": "AS",
       "iso_country": "TW",
-      "iso_region": "TW-TPE",
-      "municipality": "Taipei",
-      "coordinates": "24.997071, 121.453541"
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "24.997344, 121.453382"
     },
     {
       "ident": "TW-0011",
@@ -560,27 +560,28 @@
     {
       "ident": "TW-0016",
       "type": "heliport",
-      "name": "Mackay Memorial Hospital Helipad",
+      "name": "Mackay Memorial Hospital Heliport",
       "continent": "AS",
       "iso_country": "TW",
-      "iso_region": "TW-TPQ",
+      "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.139707, 121.460736"
+      "coordinates": "25.139705, 121.460671"
     },
     {
       "ident": "TW-0017",
       "type": "heliport",
       "name": "Maritime Patrol Directorate General Helipad",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "TW",
-      "iso_region": "TW-TPQ",
+      "iso_region": "TW-NWT",
       "municipality": "Tanshui",
-      "coordinates": "25.176236, 121.421446"
+      "coordinates": "25.17627, 121.421438"
     },
     {
       "ident": "TW-0018",
       "type": "heliport",
-      "name": "Nan-Gang Police District Helipad",
+      "name": "Taipei City Police Department Nangang Precinct Heliport",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TPE",
@@ -600,12 +601,12 @@
     {
       "ident": "TW-0020",
       "type": "heliport",
-      "name": "Shuang Ho Hospital Heliport",
+      "name": "Shuangho Hospital Heliport",
       "continent": "AS",
       "iso_country": "TW",
-      "iso_region": "TW-TPQ",
+      "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "24.992335, 121.493431"
+      "coordinates": "24.992382, 121.49326"
     },
     {
       "ident": "TW-0021",
@@ -635,27 +636,27 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.037416, 121.564598"
+      "coordinates": "25.037519, 121.564545"
     },
     {
       "ident": "TW-0024",
       "type": "heliport",
-      "name": "Taipei City Hospital Heliport",
+      "name": "Taipei City Hospital Zhongxing Branch Heliport",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.051121, 121.508931"
+      "coordinates": "25.051111, 121.508881"
     },
     {
       "ident": "TW-0025",
-      "type": "heliport",
-      "name": "Taipei City Government Fire Bureau Helipad",
+      "type": "closed",
+      "name": "Taipei City Fire Department Heliport",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.040744, 121.56907"
+      "coordinates": "25.040717, 121.56899"
     },
     {
       "ident": "TW-0026",
@@ -670,7 +671,7 @@
     {
       "ident": "TW-0027",
       "type": "heliport",
-      "name": "Taipei Trade Center Helipad",
+      "name": "Taipei World Trade Center Helipad",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TPE",
@@ -680,17 +681,18 @@
     {
       "ident": "TW-0028",
       "type": "heliport",
-      "name": "Taipei Veterans’ General Helipad",
+      "name": "Taipei Veterans General Hospital Heliport",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.120213, 121.51986"
+      "coordinates": "25.120309, 121.520064"
     },
     {
       "ident": "TW-0029",
-      "type": "heliport",
+      "type": "closed",
       "name": "Taoyuan Armed Forces General Hospital Helipad",
+      "elevation_ft": 725.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TAO",
@@ -710,11 +712,13 @@
     {
       "ident": "TW-0031",
       "type": "heliport",
-      "name": "Zhuzi Shan Helipad",
+      "name": "Zhuzi Shan Heliport",
+      "elevation_ft": 3275.0,
       "continent": "AS",
       "iso_country": "TW",
-      "iso_region": "TW-TPQ",
-      "coordinates": "25.215883, 121.560851"
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "25.21588, 121.56082"
     },
     {
       "ident": "TW-0032",
@@ -996,7 +1000,7 @@
     },
     {
       "ident": "TW-0059",
-      "type": "small_airport",
+      "type": "heliport",
       "name": "Taipingshan Paragliding Field and Heliport",
       "elevation_ft": 2939.0,
       "continent": "AS",
@@ -1137,6 +1141,94 @@
       "iso_region": "TW-X-LK",
       "municipality": "Matsu (Beigan)",
       "coordinates": "26.33727, 120.21951"
+    },
+    {
+      "ident": "TW-0073",
+      "type": "heliport",
+      "name": "Hutoushan Heliport",
+      "elevation_ft": 781.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TAO",
+      "municipality": "Guishang",
+      "coordinates": "25.0102, 121.33259"
+    },
+    {
+      "ident": "TW-0074",
+      "type": "heliport",
+      "name": "Yinghanling Heliport",
+      "elevation_ft": 1926.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "25.13628, 121.4248"
+    },
+    {
+      "ident": "TW-0075",
+      "type": "heliport",
+      "name": "Gaoshanding Camp Heliport",
+      "elevation_ft": 653.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TAO",
+      "municipality": "Taoyuan",
+      "coordinates": "24.9196, 121.15372"
+    },
+    {
+      "ident": "TW-0076",
+      "type": "heliport",
+      "name": "Zhongfutsi Barracks Heliport",
+      "elevation_ft": 692.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "25.17929, 121.68224"
+    },
+    {
+      "ident": "TW-0077",
+      "type": "heliport",
+      "name": "Jinshan Nuclear Power Plant Heliport",
+      "elevation_ft": 32.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "25.289482, 121.591045"
+    },
+    {
+      "ident": "TW-0078",
+      "type": "heliport",
+      "name": "Camp Shimen Heliport",
+      "elevation_ft": 94.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "25.29345, 121.53747"
+    },
+    {
+      "ident": "TW-0079",
+      "type": "heliport",
+      "name": "Camp Dapiantou Heliport",
+      "elevation_ft": 89.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei City",
+      "coordinates": "25.23312, 121.45219"
+    },
+    {
+      "ident": "TW-0080",
+      "type": "heliport",
+      "name": "Keelung Islet Heliport",
+      "elevation_ft": 18.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-KEE",
+      "municipality": "Keelung",
+      "coordinates": "25.19024, 121.78258"
     },
     {
       "ident": "TW-CMJ",

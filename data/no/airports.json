@@ -1,10 +1,10 @@
 {
   "country_code": "NO",
   "country_name": "Norway",
-  "total_airports": 301,
-  "last_updated": "2025-02-16T00:08:56.220663",
+  "total_airports": 299,
+  "last_updated": "2025-02-17T00:08:24.332029",
   "types_distribution": {
-    "small_airport": 105,
+    "small_airport": 103,
     "heliport": 113,
     "medium_airport": 39,
     "large_airport": 5,
@@ -3242,10 +3242,12 @@
     {
       "ident": "NO-0101",
       "type": "small_airport",
-      "name": "Stadsbygd",
+      "name": "Stadsbygd Airfield",
+      "elevation_ft": 288.0,
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-50",
+      "municipality": "Stadsbygd",
       "coordinates": "63.526099, 10.034609"
     },
     {
@@ -3329,24 +3331,6 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "coordinates": "63.61335, 10.76058"
-    },
-    {
-      "ident": "NO-0110",
-      "type": "small_airport",
-      "name": "[Duplicate] Stadsbygd",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-50",
-      "coordinates": "63.526099, 10.034609"
-    },
-    {
-      "ident": "NO-0111",
-      "type": "small_airport",
-      "name": "[Duplicate] Stadsbygd",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-50",
-      "coordinates": "63.526099, 10.034609"
     }
   ]
 }

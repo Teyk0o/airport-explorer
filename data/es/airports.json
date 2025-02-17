@@ -2,7 +2,7 @@
   "country_code": "ES",
   "country_name": "Spain",
   "total_airports": 560,
-  "last_updated": "2025-02-16T00:08:55.947438",
+  "last_updated": "2025-02-17T00:08:24.061895",
   "types_distribution": {
     "heliport": 161,
     "small_airport": 312,
@@ -1188,16 +1188,6 @@
       "iso_region": "ES-CT",
       "municipality": "Folgueroles",
       "coordinates": "41.9527, 2.3072"
-    },
-    {
-      "ident": "ES-0110",
-      "type": "small_airport",
-      "name": "Aeródromo de Córdoba-Villarrubia",
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-AN",
-      "municipality": "Villarrubia",
-      "coordinates": "37.8367253, -4.8964369"
     },
     {
       "ident": "ES-0111",
@@ -3780,6 +3770,16 @@
       "coordinates": "28.022594, -17.242289"
     },
     {
+      "ident": "ES-0355",
+      "type": "small_airport",
+      "name": "Devils of the Air RC Model Club Airport",
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-CN",
+      "municipality": "Teguise (Lanzarote)",
+      "coordinates": "29.032714, -13.598529"
+    },
+    {
       "ident": "GCAD",
       "type": "heliport",
       "name": "Adeje Heliport",
@@ -4469,9 +4469,9 @@
     {
       "ident": "LEDE",
       "type": "small_airport",
-      "name": "[Duplicate] Aerodel",
+      "name": "Córdoba-Villarrubia Airfield",
       "elevation_ft": 307.0,
-      "continent": "EU",
+      "continent": "AF",
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Cordoba",
