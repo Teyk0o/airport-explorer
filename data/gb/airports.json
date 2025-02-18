@@ -2,7 +2,7 @@
   "country_code": "GB",
   "country_name": "United Kingdom",
   "total_airports": 1523,
-  "last_updated": "2025-02-17T00:08:24.024654",
+  "last_updated": "2025-02-18T00:08:11.209727",
   "types_distribution": {
     "closed": 351,
     "small_airport": 964,
@@ -11126,10 +11126,12 @@
       "ident": "GB-0721",
       "type": "small_airport",
       "name": "Newton-on-Rawcliffe Airstrip",
+      "elevation_ft": 528.0,
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "coordinates": "54.29, -0.7443"
+      "municipality": "Harrogate, North Yorkshire",
+      "coordinates": "54.290228, -0.74444"
     },
     {
       "ident": "GB-0722",
@@ -14251,10 +14253,12 @@
       "ident": "GB-1031",
       "type": "small_airport",
       "name": "Eccles Newton Farm Airstrip",
+      "elevation_ft": 171.0,
       "continent": "EU",
       "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "coordinates": "55.65838, -2.354529"
+      "iso_region": "GB-SCT",
+      "municipality": "Coldstream, Scottish Borders",
+      "coordinates": "55.65592, -2.35326"
     },
     {
       "ident": "GB-1032",

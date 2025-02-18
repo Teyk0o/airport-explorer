@@ -2,30 +2,17 @@
   "country_code": "MX",
   "country_name": "Mexico",
   "total_airports": 2681,
-  "last_updated": "2025-02-17T00:08:24.100491",
+  "last_updated": "2025-02-18T00:08:11.319549",
   "types_distribution": {
-    "small_airport": 1512,
+    "small_airport": 1511,
     "heliport": 487,
-    "closed": 601,
+    "closed": 602,
     "medium_airport": 56,
     "large_airport": 12,
     "seaplane_base": 6,
     "balloonport": 7
   },
   "airports": [
-    {
-      "ident": "AMC",
-      "type": "small_airport",
-      "name": "Mar de Cortés International Airport",
-      "elevation_ft": 71.0,
-      "iso_country": "MX",
-      "iso_region": "MX-SON",
-      "municipality": "Puerto Peñasco",
-      "gps_code": "MMPE",
-      "iata_code": "PPE",
-      "local_code": "AMC",
-      "coordinates": "31.351987, -113.305177"
-    },
     {
       "ident": "BHL",
       "type": "small_airport",
@@ -1436,13 +1423,16 @@
     },
     {
       "ident": "MMPE",
-      "type": "closed",
-      "name": "Aeródromo de Puerto Peñasco",
-      "elevation_ft": 30.0,
+      "type": "small_airport",
+      "name": "Mar de Cortés International Airport",
+      "elevation_ft": 71.0,
       "iso_country": "MX",
       "iso_region": "MX-SON",
       "municipality": "Puerto Peñasco",
-      "coordinates": "31.352721, -113.518767"
+      "gps_code": "MMPE",
+      "iata_code": "PPE",
+      "local_code": "AMC",
+      "coordinates": "31.351987, -113.305177"
     },
     {
       "ident": "MMPG",
@@ -4660,13 +4650,12 @@
     },
     {
       "ident": "MX-0257",
-      "type": "small_airport",
+      "type": "closed",
       "name": "El Pinocho Airport",
       "elevation_ft": 6265.0,
       "iso_country": "MX",
       "iso_region": "MX-MIC",
       "municipality": "Zitácuaro",
-      "local_code": "PIO",
       "coordinates": "19.47655, -100.4332"
     },
     {
@@ -28127,6 +28116,16 @@
       "iso_region": "MX-SON",
       "municipality": "Sahuaripa",
       "coordinates": "28.69866, -109.14344"
+    },
+    {
+      "ident": "MX-2509",
+      "type": "closed",
+      "name": "Former Puerto Peñasco Airport",
+      "elevation_ft": 30.0,
+      "iso_country": "MX",
+      "iso_region": "MX-SON",
+      "municipality": "Puerto Peñasco",
+      "coordinates": "31.352721, -113.518767"
     },
     {
       "ident": "MX-AJS",

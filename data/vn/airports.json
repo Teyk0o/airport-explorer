@@ -1,15 +1,15 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 95,
-  "last_updated": "2025-02-17T00:08:24.385492",
+  "total_airports": 94,
+  "last_updated": "2025-02-18T00:08:11.591248",
   "types_distribution": {
     "small_airport": 16,
     "medium_airport": 22,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
-    "large_airport": 3
+    "large_airport": 2
   },
   "airports": [
     {
@@ -592,16 +592,6 @@
       "iso_region": "VN-SW",
       "municipality": "Hà nội",
       "coordinates": "58, 172"
-    },
-    {
-      "ident": "VN-0063",
-      "type": "large_airport",
-      "name": "Sunwin",
-      "elevation_ft": 12354.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-CH",
-      "coordinates": "11.246446, 180"
     },
     {
       "ident": "VN-0067",

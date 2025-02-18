@@ -1,14 +1,14 @@
 {
   "country_code": "TW",
   "country_name": "Taiwan",
-  "total_airports": 113,
-  "last_updated": "2025-02-17T00:08:24.480035",
+  "total_airports": 120,
+  "last_updated": "2025-02-18T00:08:11.693549",
   "types_distribution": {
     "medium_airport": 19,
     "small_airport": 32,
-    "closed": 10,
+    "closed": 11,
     "large_airport": 2,
-    "heliport": 49,
+    "heliport": 55,
     "balloonport": 1
   },
   "airports": [
@@ -376,7 +376,7 @@
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TXG",
-      "municipality": "Xinshe",
+      "municipality": "Taichung (Xinshe)",
       "gps_code": "RCWK",
       "coordinates": "24.229127, 120.815524"
     },
@@ -441,6 +441,7 @@
       "ident": "TW-0004",
       "type": "medium_airport",
       "name": "Zuoying Naval Airfield",
+      "elevation_ft": 16.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-KHH",
@@ -451,6 +452,7 @@
       "ident": "TW-0005",
       "type": "closed",
       "name": "Bade Huaisheng Airport",
+      "elevation_ft": 443.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TAO",
@@ -461,6 +463,7 @@
       "ident": "TW-0006",
       "type": "small_airport",
       "name": "Hualien (Chiashan) Air Base",
+      "elevation_ft": 82.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-HUA",
@@ -485,7 +488,7 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Wuqi)",
-      "coordinates": "24.154412, 120.68327"
+      "coordinates": "24.153936, 120.68327"
     },
     {
       "ident": "TW-0009",
@@ -494,7 +497,7 @@
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TPE",
-      "municipality": "Taipei",
+      "municipality": "Taipei (Da'an)",
       "coordinates": "25.043496, 121.556393"
     },
     {
@@ -504,7 +507,7 @@
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-NWT",
-      "municipality": "New Taipei City",
+      "municipality": "New Taipei (Banqiao)",
       "coordinates": "24.997344, 121.453382"
     },
     {
@@ -520,7 +523,7 @@
     {
       "ident": "TW-0012",
       "type": "heliport",
-      "name": "Hulien Hospital Heliport",
+      "name": "Hualien Hospital Heliport",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-HUA",
@@ -530,12 +533,13 @@
     {
       "ident": "TW-0013",
       "type": "heliport",
-      "name": "Jiali Shan Helipad",
+      "name": "Jialishan Heliport",
+      "elevation_ft": 10217.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-MIA",
-      "municipality": "Jiali Shan",
-      "coordinates": "24.464734, 121.223271"
+      "municipality": "Tai'an",
+      "coordinates": "24.464737, 121.223305"
     },
     {
       "ident": "TW-0014",
@@ -824,10 +828,11 @@
       "ident": "TW-0042",
       "type": "small_airport",
       "name": "Wuri Weihui Airfield",
+      "elevation_ft": 138.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TXG",
-      "municipality": "Taichung",
+      "municipality": "Taichung (Wuri)",
       "coordinates": "24.04881, 120.63185"
     },
     {
@@ -1098,6 +1103,7 @@
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-CHA",
+      "municipality": "Dacun",
       "coordinates": "23.994525, 120.509977"
     },
     {
@@ -1167,7 +1173,7 @@
     {
       "ident": "TW-0075",
       "type": "heliport",
-      "name": "Gaoshanding Camp Heliport",
+      "name": "Camp Gaoshanding Heliport",
       "elevation_ft": 653.0,
       "continent": "AS",
       "iso_country": "TW",
@@ -1229,6 +1235,82 @@
       "iso_region": "TW-KEE",
       "municipality": "Keelung",
       "coordinates": "25.19024, 121.78258"
+    },
+    {
+      "ident": "TW-0081",
+      "type": "heliport",
+      "name": "Taipei City Hospital Renai Branch Heliport",
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TPE",
+      "municipality": "Taipei",
+      "coordinates": "25.03734, 121.54546"
+    },
+    {
+      "ident": "TW-0082",
+      "type": "heliport",
+      "name": "Camp Hunan Heliport",
+      "elevation_ft": 308.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-HSQ",
+      "municipality": "Hukou",
+      "coordinates": "24.87784, 121.03172"
+    },
+    {
+      "ident": "TW-0083",
+      "type": "heliport",
+      "name": "Dongshi Emergency Heliport",
+      "elevation_ft": 1102.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TXG",
+      "municipality": "Taichung (Dongshi)",
+      "coordinates": "24.25381, 120.82536"
+    },
+    {
+      "ident": "TW-0084",
+      "type": "heliport",
+      "name": "Yuli Hospital Xianghe Branch Heliport",
+      "elevation_ft": 420.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-HUA",
+      "municipality": "Yuli",
+      "coordinates": "23.3464, 121.32293"
+    },
+    {
+      "ident": "TW-0085",
+      "type": "heliport",
+      "name": "Xueshan Heliport",
+      "elevation_ft": 10413.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TXG",
+      "municipality": "Heping",
+      "coordinates": "24.388899, 121.270936"
+    },
+    {
+      "ident": "TW-0086",
+      "type": "heliport",
+      "name": "Taoshan Trail Heliport",
+      "elevation_ft": 8983.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TXG",
+      "municipality": "Heping",
+      "coordinates": "24.42107, 121.30546"
+    },
+    {
+      "ident": "TW-0087",
+      "type": "closed",
+      "name": "Longmen Nuclear Power Plant Heliport",
+      "elevation_ft": 46.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-NWT",
+      "municipality": "New Taipei (Gongliao)",
+      "coordinates": "25.04589, 121.92353"
     },
     {
       "ident": "TW-CMJ",
