@@ -1,11 +1,11 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 94,
-  "last_updated": "2025-02-18T00:08:11.591248",
+  "total_airports": 96,
+  "last_updated": "2025-02-19T00:08:07.942456",
   "types_distribution": {
     "small_airport": 16,
-    "medium_airport": 22,
+    "medium_airport": 24,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
@@ -581,6 +581,25 @@
       "iso_country": "VN",
       "iso_region": "VN-U-A",
       "coordinates": "10.83481, 106.959386"
+    },
+    {
+      "ident": "VN-0055",
+      "type": "medium_airport",
+      "name": "hocvienseoulspa",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-CH",
+      "coordinates": "12, 120"
+    },
+    {
+      "ident": "VN-0056",
+      "type": "medium_airport",
+      "name": "Global DA88",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "municipality": "Ba Đình, Hà Nội",
+      "coordinates": "8, 105"
     },
     {
       "ident": "VN-0057",

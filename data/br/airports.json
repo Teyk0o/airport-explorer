@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7405,
-  "last_updated": "2025-02-18T00:08:11.352140",
+  "total_airports": 7407,
+  "last_updated": "2025-02-19T00:08:07.711018",
   "types_distribution": {
-    "small_airport": 5124,
-    "closed": 284,
-    "heliport": 1861,
+    "small_airport": 5126,
+    "closed": 285,
+    "heliport": 1860,
     "medium_airport": 124,
     "seaplane_base": 1,
     "large_airport": 11
@@ -6073,7 +6073,7 @@
       "municipality": "Belo Horizonte",
       "gps_code": "SDTL",
       "local_code": "MG0220",
-      "coordinates": "-19.914521, -43.937631"
+      "coordinates": "-19.914427, -43.937734"
     },
     {
       "ident": "BR-0518",
@@ -32252,14 +32252,14 @@
       "ident": "SDHN",
       "type": "heliport",
       "name": "REC Berrini TNU  Heliport",
-      "elevation_ft": 2667.0,
+      "elevation_ft": 2674.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "gps_code": "SDTN",
-      "local_code": "SDTN",
-      "coordinates": "-23.608054, -46.696945"
+      "local_code": "SP0426",
+      "coordinates": "-23.608035, -46.696706"
     },
     {
       "ident": "SDHO",
@@ -36673,14 +36673,14 @@
     },
     {
       "ident": "SDSL",
-      "type": "heliport",
+      "type": "closed",
       "name": "Hospital Sírio Libanês Heliport",
-      "elevation_ft": 2755.0,
+      "elevation_ft": 2799.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "coordinates": "-23.557222366333, -46.654445648193"
+      "coordinates": "-23.557173, -46.654258"
     },
     {
       "ident": "SDSM",
@@ -36692,19 +36692,21 @@
       "iso_region": "BR-SP",
       "municipality": "São Manuel",
       "gps_code": "SDSM",
-      "coordinates": "-22.76472282409668, -48.54249954223633"
+      "local_code": "SP0142",
+      "coordinates": "-22.758795, -48.542027"
     },
     {
       "ident": "SDSN",
       "type": "heliport",
       "name": "São Luiz Heliport",
-      "elevation_ft": 2582.0,
+      "elevation_ft": 2592.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "gps_code": "SDSN",
-      "coordinates": "-23.59055519104004, -46.686668395996094"
+      "local_code": "SP0417",
+      "coordinates": "-23.590661, -46.686609"
     },
     {
       "ident": "SDSO",
@@ -36727,7 +36729,8 @@
       "iso_region": "BR-SP",
       "municipality": "Santa Rita Do Passa Quatro",
       "gps_code": "SDSQ",
-      "coordinates": "-21.72361183166504, -47.656944274902344"
+      "local_code": "SP0143",
+      "coordinates": "-21.725668, -47.657853"
     },
     {
       "ident": "SDSR",
@@ -36759,13 +36762,14 @@
       "ident": "SDST",
       "type": "small_airport",
       "name": "Fazenda Santa Terezinha da Barra Airport",
-      "elevation_ft": 2385.0,
+      "elevation_ft": 2320.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Carlos",
       "gps_code": "SDST",
-      "coordinates": "-21.88194465637207, -47.7761116027832"
+      "local_code": "SP0144",
+      "coordinates": "-21.881406, -47.775972"
     },
     {
       "ident": "SDSU",
@@ -36831,14 +36835,15 @@
     {
       "ident": "SDSZ",
       "type": "heliport",
-      "name": "Banco Safra Heliport",
-      "elevation_ft": 2973.0,
+      "name": "Banco Safra Helipad",
+      "elevation_ft": 2979.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "gps_code": "SDSZ",
-      "coordinates": "-23.5581, -46.65966"
+      "local_code": "SP0421",
+      "coordinates": "-23.558019, -46.65971"
     },
     {
       "ident": "SDT2",
@@ -37041,7 +37046,8 @@
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "gps_code": "SDTJ",
-      "coordinates": "-23.59583282470703, -46.684444427490234"
+      "local_code": "SP0424",
+      "coordinates": "-23.595833, -46.684444"
     },
     {
       "ident": "SDTK",
@@ -37065,19 +37071,20 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "coordinates": "-23.520832061799997, -46.6780548096"
+      "coordinates": "-23.520832, -46.678055"
     },
     {
       "ident": "SDTM",
       "type": "heliport",
       "name": "Crystal Tower Heliport",
-      "elevation_ft": 2827.0,
+      "elevation_ft": 2838.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Barueri",
       "gps_code": "SDTM",
-      "coordinates": "-23.4931, -46.8528"
+      "local_code": "SP0425",
+      "coordinates": "-23.493318, -46.852739"
     },
     {
       "ident": "SDTN",
@@ -37096,13 +37103,14 @@
       "ident": "SDTO",
       "type": "small_airport",
       "name": "Fazenda Cataco Airport",
-      "elevation_ft": 1447.0,
+      "elevation_ft": 1358.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Ubarana",
       "gps_code": "SDTO",
-      "coordinates": "-21.263599395751953, -49.79309844970703"
+      "local_code": "SP0147",
+      "coordinates": "-21.25517, -49.79484"
     },
     {
       "ident": "SDTP",
@@ -62794,6 +62802,19 @@
       "coordinates": "-19.868108, -57.282509"
     },
     {
+      "ident": "SJU6",
+      "type": "small_airport",
+      "name": "Fazenda Retiro Novo Airstrip",
+      "elevation_ft": 381.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Corumbá",
+      "gps_code": "SJU6",
+      "local_code": "MS0643",
+      "coordinates": "-20.145815, -57.207301"
+    },
+    {
       "ident": "SJU7",
       "type": "small_airport",
       "name": "Fazenda Lua Nova Airstrip",
@@ -66705,6 +66726,19 @@
       "gps_code": "SN8O",
       "local_code": "MS0736",
       "coordinates": "-19.411722, -56.233911"
+    },
+    {
+      "ident": "SN8P",
+      "type": "small_airport",
+      "name": "Fazenda Jacamim Airport",
+      "elevation_ft": 1296.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nova Mutum",
+      "gps_code": "SN8P",
+      "local_code": "MT1042",
+      "coordinates": "-13.666942, -56.283756"
     },
     {
       "ident": "SN8Q",

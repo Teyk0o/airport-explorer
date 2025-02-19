@@ -2,7 +2,7 @@
   "country_code": "GB",
   "country_name": "United Kingdom",
   "total_airports": 1523,
-  "last_updated": "2025-02-18T00:08:11.209727",
+  "last_updated": "2025-02-19T00:08:07.572298",
   "types_distribution": {
     "closed": 351,
     "small_airport": 964,
@@ -55,15 +55,6 @@
       "coordinates": "52.051389, 0.378611"
     },
     {
-      "ident": "bl",
-      "type": "closed",
-      "name": "RNAS Pembroke/RNAS Milton/RAF Carew Cheriton",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Pembrokeshire",
-      "coordinates": "51.690117088, -4.812355041499999"
-    },
-    {
       "ident": "Cark",
       "type": "small_airport",
       "name": "Cark airfield",
@@ -114,17 +105,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "coordinates": "55.591636, -2.087231"
-    },
-    {
-      "ident": "EG64",
-      "type": "small_airport",
-      "name": "Rufforth West Airfield",
-      "elevation_ft": 65.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "York, North Yorkshire",
-      "coordinates": "53.947146, -1.18721"
     },
     {
       "ident": "EG73",
@@ -1062,6 +1042,18 @@
       "municipality": "Cardiff",
       "gps_code": "EGFC",
       "coordinates": "51.467499, -3.1375"
+    },
+    {
+      "ident": "EGFD",
+      "type": "small_airport",
+      "name": "Llanbedr Airfield",
+      "elevation_ft": 30.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-WLS",
+      "municipality": "Llanbedr",
+      "gps_code": "EGFD",
+      "coordinates": "52.811699, -4.12358"
     },
     {
       "ident": "EGFE",
@@ -2053,18 +2045,6 @@
       "municipality": "Beverley, East Riding of Yorkshire",
       "gps_code": "EGNY",
       "coordinates": "53.898384, -0.36139"
-    },
-    {
-      "ident": "EGOD",
-      "type": "small_airport",
-      "name": "Llanbedr Airfield",
-      "elevation_ft": 30.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-WLS",
-      "municipality": "Llanbedr",
-      "gps_code": "EGFD",
-      "coordinates": "52.811699, -4.12358"
     },
     {
       "ident": "EGOE",
@@ -16084,6 +16064,27 @@
       "coordinates": "53.39174, -1.1632"
     },
     {
+      "ident": "GB-1209",
+      "type": "small_airport",
+      "name": "Rufforth West Airfield",
+      "elevation_ft": 65.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "York, North Yorkshire",
+      "coordinates": "53.947146, -1.18721"
+    },
+    {
+      "ident": "GB-1210",
+      "type": "closed",
+      "name": "RNAS Pembroke/RNAS Milton/RAF Carew Cheriton",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Pembrokeshire",
+      "coordinates": "51.690117, -4.812355"
+    },
+    {
       "ident": "GB-DOC",
       "type": "small_airport",
       "name": "Dornoch Airfield",
@@ -16153,7 +16154,6 @@
       "iso_region": "GB-SCT",
       "municipality": "Glenforsa",
       "iata_code": "ULL",
-      "local_code": "EG13",
       "coordinates": "56.517202, -5.91401"
     },
     {
