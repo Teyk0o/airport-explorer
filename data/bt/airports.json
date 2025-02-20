@@ -2,7 +2,7 @@
   "country_code": "BT",
   "country_name": "Bhutan",
   "total_airports": 12,
-  "last_updated": "2025-02-19T00:08:07.781760",
+  "last_updated": "2025-02-20T00:08:28.083016",
   "types_distribution": {
     "heliport": 8,
     "small_airport": 2,
@@ -82,19 +82,6 @@
       "coordinates": "27.16639, 90.81797"
     },
     {
-      "ident": "VQ10",
-      "type": "small_airport",
-      "name": "Yongphulla Airport",
-      "elevation_ft": 9000.0,
-      "continent": "AS",
-      "iso_country": "BT",
-      "iso_region": "BT-41",
-      "municipality": "Yongphulla",
-      "gps_code": "VQTY",
-      "iata_code": "YON",
-      "coordinates": "27.25627, 91.514633"
-    },
-    {
       "ident": "VQBT",
       "type": "small_airport",
       "name": "Bathpalathang Airport",
@@ -144,6 +131,19 @@
       "municipality": "Thimphu",
       "gps_code": "VQTU",
       "coordinates": "27.4513, 89.6557"
+    },
+    {
+      "ident": "VQTY",
+      "type": "small_airport",
+      "name": "Yongphulla Airport",
+      "elevation_ft": 9000.0,
+      "continent": "AS",
+      "iso_country": "BT",
+      "iso_region": "BT-41",
+      "municipality": "Yongphulla",
+      "gps_code": "VQTY",
+      "iata_code": "YON",
+      "coordinates": "27.25627, 91.514633"
     }
   ]
 }

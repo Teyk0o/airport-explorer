@@ -2,7 +2,7 @@
   "country_code": "AZ",
   "country_name": "Azerbaijan",
   "total_airports": 41,
-  "last_updated": "2025-02-19T00:08:07.670819",
+  "last_updated": "2025-02-20T00:08:27.969358",
   "types_distribution": {
     "medium_airport": 12,
     "small_airport": 19,
@@ -115,19 +115,6 @@
       "municipality": "Agjabedi",
       "gps_code": "UBEY",
       "coordinates": "40.022291, 47.44935"
-    },
-    {
-      "ident": "AZ-0011",
-      "type": "small_airport",
-      "name": "Fuzuli International Airport",
-      "elevation_ft": 1247.0,
-      "continent": "AS",
-      "iso_country": "AZ",
-      "iso_region": "AZ-FUZ",
-      "municipality": "Fuzuli",
-      "gps_code": "UBBF",
-      "iata_code": "FZL",
-      "coordinates": "39.594578, 47.196128"
     },
     {
       "ident": "AZ-0012",
@@ -369,6 +356,19 @@
       "gps_code": "UBBB",
       "iata_code": "GYD",
       "coordinates": "40.467498779296875, 50.04669952392578"
+    },
+    {
+      "ident": "UBBF",
+      "type": "small_airport",
+      "name": "Fuzuli International Airport",
+      "elevation_ft": 1247.0,
+      "continent": "AS",
+      "iso_country": "AZ",
+      "iso_region": "AZ-FUZ",
+      "municipality": "Fuzuli",
+      "gps_code": "UBBF",
+      "iata_code": "FZL",
+      "coordinates": "39.594578, 47.196128"
     },
     {
       "ident": "UBBG",

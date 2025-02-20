@@ -2,26 +2,13 @@
   "country_code": "GA",
   "country_name": "Gabon",
   "total_airports": 46,
-  "last_updated": "2025-02-19T00:08:07.664180",
+  "last_updated": "2025-02-20T00:08:27.977248",
   "types_distribution": {
-    "small_airport": 31,
     "closed": 4,
+    "small_airport": 31,
     "medium_airport": 11
   },
   "airports": [
-    {
-      "ident": "AWE",
-      "type": "small_airport",
-      "name": "Alowe Airport",
-      "elevation_ft": 600.0,
-      "continent": "AF",
-      "iso_country": "GA",
-      "iso_region": "GA-3",
-      "municipality": "Wonga Wongué Presidential Reserve",
-      "gps_code": "FOGW",
-      "iata_code": "AWE",
-      "coordinates": "-0.545, 9.444"
-    },
     {
       "ident": "BGP",
       "type": "closed",
@@ -44,6 +31,19 @@
       "municipality": "Mandji",
       "local_code": "FO08",
       "coordinates": "-1.701616, 10.409681"
+    },
+    {
+      "ident": "FOGA",
+      "type": "small_airport",
+      "name": "Akieni Airport",
+      "elevation_ft": 1660.0,
+      "continent": "AF",
+      "iso_country": "GA",
+      "iso_region": "GA-2",
+      "municipality": "Akieni",
+      "gps_code": "FOGA",
+      "iata_code": "AKE",
+      "coordinates": "-1.13967001438, 13.9035997391"
     },
     {
       "ident": "FOGB",
@@ -200,6 +200,19 @@
       "gps_code": "FOGV",
       "iata_code": "MVX",
       "coordinates": "2.152413, 12.108044"
+    },
+    {
+      "ident": "FOGW",
+      "type": "small_airport",
+      "name": "Alowe Airport",
+      "elevation_ft": 600.0,
+      "continent": "AF",
+      "iso_country": "GA",
+      "iso_region": "GA-3",
+      "municipality": "Wonga Wongué Presidential Reserve",
+      "gps_code": "FOGW",
+      "iata_code": "AWE",
+      "coordinates": "-0.545, 9.444"
     },
     {
       "ident": "FOOB",
@@ -511,19 +524,6 @@
       "iso_region": "GA-1",
       "municipality": "Petit Bam-Bam",
       "coordinates": "-0.483557, 9.592044"
-    },
-    {
-      "ident": "GA-AKE",
-      "type": "small_airport",
-      "name": "Akieni Airport",
-      "elevation_ft": 1660.0,
-      "continent": "AF",
-      "iso_country": "GA",
-      "iso_region": "GA-2",
-      "municipality": "Akieni",
-      "gps_code": "FOGA",
-      "iata_code": "AKE",
-      "coordinates": "-1.13967001438, 13.9035997391"
     },
     {
       "ident": "GA-GAX",

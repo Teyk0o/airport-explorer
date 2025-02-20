@@ -2,7 +2,7 @@
   "country_code": "PH",
   "country_name": "Philippines",
   "total_airports": 796,
-  "last_updated": "2025-02-19T00:08:07.591371",
+  "last_updated": "2025-02-20T00:08:27.890457",
   "types_distribution": {
     "small_airport": 195,
     "closed": 137,
@@ -825,19 +825,6 @@
       "iso_region": "PH-CAG",
       "municipality": "Catotoran",
       "coordinates": "18.301036, 121.664958"
-    },
-    {
-      "ident": "PH-0073",
-      "type": "medium_airport",
-      "name": "Cagayan North International Airport",
-      "elevation_ft": 148.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-CAG",
-      "municipality": "Lal-lo",
-      "gps_code": "RPLH",
-      "iata_code": "LLC",
-      "coordinates": "18.182388, 121.745853"
     },
     {
       "ident": "PH-0074",
@@ -7133,18 +7120,6 @@
       "coordinates": "15.0984, 120.66929"
     },
     {
-      "ident": "PH-ENI",
-      "type": "small_airport",
-      "name": "El Nido Airport",
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-PLW",
-      "municipality": "El Nido",
-      "gps_code": "RPEN",
-      "iata_code": "ENI",
-      "coordinates": "11.202399, 119.416087"
-    },
-    {
       "ident": "PRNO",
       "type": "small_airport",
       "name": "Siocon Airport",
@@ -7231,17 +7206,16 @@
       "coordinates": "6.402734, 125.619264"
     },
     {
-      "ident": "RPBL",
+      "ident": "RPEN",
       "type": "small_airport",
-      "name": "Balesin Island Airport",
-      "elevation_ft": 25.0,
+      "name": "El Nido Airport",
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-BAS",
-      "municipality": "Balesin",
-      "gps_code": "RPLE",
-      "iata_code": "BSI",
-      "coordinates": "14.419365, 122.039402"
+      "iso_region": "PH-PLW",
+      "municipality": "El Nido",
+      "gps_code": "RPEN",
+      "iata_code": "ENI",
+      "coordinates": "11.202399, 119.416087"
     },
     {
       "ident": "RPLA",
@@ -7281,6 +7255,32 @@
       "gps_code": "RPLC",
       "iata_code": "CRK",
       "coordinates": "15.186, 120.559998"
+    },
+    {
+      "ident": "RPLE",
+      "type": "small_airport",
+      "name": "Balesin Island Airport",
+      "elevation_ft": 25.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BAS",
+      "municipality": "Balesin",
+      "gps_code": "RPLE",
+      "iata_code": "BSI",
+      "coordinates": "14.419365, 122.039402"
+    },
+    {
+      "ident": "RPLH",
+      "type": "medium_airport",
+      "name": "Cagayan North International Airport",
+      "elevation_ft": 148.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-CAG",
+      "municipality": "Lal-lo",
+      "gps_code": "RPLH",
+      "iata_code": "LLC",
+      "coordinates": "18.182388, 121.745853"
     },
     {
       "ident": "RPLI",

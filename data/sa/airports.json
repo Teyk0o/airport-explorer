@@ -2,7 +2,7 @@
   "country_code": "SA",
   "country_name": "Saudi Arabia",
   "total_airports": 167,
-  "last_updated": "2025-02-19T00:08:07.605898",
+  "last_updated": "2025-02-20T00:08:27.905127",
   "types_distribution": {
     "small_airport": 52,
     "medium_airport": 33,
@@ -220,6 +220,19 @@
       "gps_code": "OEAH",
       "iata_code": "HOF",
       "coordinates": "25.285299, 49.485199"
+    },
+    {
+      "ident": "OEAO",
+      "type": "medium_airport",
+      "name": "Majeed Bin Abdulaziz Airport",
+      "elevation_ft": 2050.0,
+      "continent": "AS",
+      "iso_country": "SA",
+      "iso_region": "SA-03",
+      "municipality": "Al Ula",
+      "gps_code": "OEAO",
+      "iata_code": "ULH",
+      "coordinates": "26.483333, 38.116944"
     },
     {
       "ident": "OEBA",
@@ -1881,19 +1894,6 @@
       "iso_country": "SA",
       "iso_region": "SA-07",
       "coordinates": "28.145526, 34.662163"
-    },
-    {
-      "ident": "ULH",
-      "type": "medium_airport",
-      "name": "Majeed Bin Abdulaziz Airport",
-      "elevation_ft": 2050.0,
-      "continent": "AS",
-      "iso_country": "SA",
-      "iso_region": "SA-03",
-      "municipality": "Al Ula",
-      "gps_code": "OEAO",
-      "iata_code": "ULH",
-      "coordinates": "26.483333, 38.116944"
     }
   ]
 }

@@ -325,11 +325,11 @@
   {
     "code": "BR",
     "name": "Brazil",
-    "airport_count": 7407,
+    "airport_count": 7409,
     "types_distribution": {
-      "small_airport": 5126,
+      "small_airport": 5127,
       "closed": 285,
-      "heliport": 1860,
+      "heliport": 1861,
       "medium_airport": 124,
       "seaplane_base": 1,
       "large_airport": 11
@@ -439,8 +439,8 @@
     "name": "Cape Verde",
     "airport_count": 10,
     "types_distribution": {
-      "small_airport": 4,
       "large_airport": 2,
+      "small_airport": 4,
       "medium_airport": 4
     }
   },
@@ -598,9 +598,9 @@
     "airport_count": 91,
     "types_distribution": {
       "small_airport": 10,
-      "medium_airport": 4,
       "closed": 8,
       "heliport": 68,
+      "medium_airport": 4,
       "large_airport": 1
     }
   },
@@ -787,9 +787,9 @@
     "airport_count": 37,
     "types_distribution": {
       "seaplane_base": 5,
-      "small_airport": 23,
       "heliport": 2,
       "closed": 4,
+      "small_airport": 23,
       "medium_airport": 3
     }
   },
@@ -856,8 +856,8 @@
     "name": "Gabon",
     "airport_count": 46,
     "types_distribution": {
-      "small_airport": 31,
       "closed": 4,
+      "small_airport": 31,
       "medium_airport": 11
     }
   },
@@ -1109,8 +1109,8 @@
       "small_airport": 473,
       "closed": 43,
       "heliport": 25,
-      "medium_airport": 70,
-      "large_airport": 8
+      "large_airport": 8,
+      "medium_airport": 70
     }
   },
   {
@@ -2129,8 +2129,8 @@
     "airport_count": 65,
     "types_distribution": {
       "small_airport": 41,
-      "medium_airport": 4,
       "large_airport": 1,
+      "medium_airport": 4,
       "closed": 8,
       "heliport": 11
     }
@@ -2454,9 +2454,9 @@
     "name": "Turkey",
     "airport_count": 386,
     "types_distribution": {
-      "medium_airport": 55,
       "small_airport": 52,
       "large_airport": 9,
+      "medium_airport": 55,
       "closed": 28,
       "heliport": 240,
       "balloonport": 1,
@@ -2535,8 +2535,8 @@
     "types_distribution": {
       "heliport": 204,
       "small_airport": 30,
-      "seaplane_base": 4,
-      "closed": 5,
+      "seaplane_base": 3,
+      "closed": 6,
       "medium_airport": 8,
       "large_airport": 4
     }
@@ -2637,13 +2637,13 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 96,
+    "airport_count": 94,
     "types_distribution": {
       "small_airport": 16,
-      "medium_airport": 24,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,
+      "medium_airport": 22,
       "large_airport": 2
     }
   },

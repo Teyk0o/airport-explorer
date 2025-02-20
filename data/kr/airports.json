@@ -2,7 +2,7 @@
   "country_code": "KR",
   "country_name": "South Korea",
   "total_airports": 1408,
-  "last_updated": "2025-02-19T00:08:08.000428",
+  "last_updated": "2025-02-20T00:08:28.300214",
   "types_distribution": {
     "heliport": 1280,
     "closed": 36,
@@ -14868,6 +14868,19 @@
       "coordinates": "37.03024, 127.886353"
     },
     {
+      "ident": "RKTL",
+      "type": "small_airport",
+      "name": "Uljin Airport",
+      "elevation_ft": 191.0,
+      "continent": "AS",
+      "iso_country": "KR",
+      "iso_region": "KR-47",
+      "municipality": "Bongsan-ri, Uljin",
+      "gps_code": "RKTL",
+      "iata_code": "UJN",
+      "coordinates": "36.777049, 129.461861"
+    },
+    {
       "ident": "RKTN",
       "type": "medium_airport",
       "name": "Daegu Airport",
@@ -14978,19 +14991,6 @@
       "municipality": "Yeongcheon",
       "gps_code": "RKUY",
       "coordinates": "36.025333, 128.81945"
-    },
-    {
-      "ident": "UJN",
-      "type": "small_airport",
-      "name": "Uljin Airport",
-      "elevation_ft": 191.0,
-      "continent": "AS",
-      "iso_country": "KR",
-      "iso_region": "KR-47",
-      "municipality": "Bongsan-ri, Uljin",
-      "gps_code": "RKTL",
-      "iata_code": "UJN",
-      "coordinates": "36.777049, 129.461861"
     }
   ]
 }

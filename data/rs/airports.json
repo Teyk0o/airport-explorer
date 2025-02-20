@@ -2,11 +2,11 @@
   "country_code": "RS",
   "country_name": "Serbia",
   "total_airports": 65,
-  "last_updated": "2025-02-19T00:08:08.022357",
+  "last_updated": "2025-02-20T00:08:28.322205",
   "types_distribution": {
     "small_airport": 41,
-    "medium_airport": 4,
     "large_airport": 1,
+    "medium_airport": 4,
     "closed": 8,
     "heliport": 11
   },
@@ -21,19 +21,6 @@
       "iso_region": "RS-04",
       "municipality": "Kovin",
       "coordinates": "44.7743, 20.9613"
-    },
-    {
-      "ident": "LY88",
-      "type": "medium_airport",
-      "name": "Ponikve Airport",
-      "elevation_ft": 2966.0,
-      "continent": "EU",
-      "iso_country": "RS",
-      "iso_region": "RS-16",
-      "municipality": "Stapari",
-      "gps_code": "LYUZ",
-      "iata_code": "UZC",
-      "coordinates": "43.898899, 19.697701"
     },
     {
       "ident": "LY89",
@@ -288,6 +275,19 @@
       "municipality": "Trstenik",
       "gps_code": "LYTR",
       "coordinates": "43.614189, 21.030217"
+    },
+    {
+      "ident": "LYUZ",
+      "type": "medium_airport",
+      "name": "Ponikve Airport",
+      "elevation_ft": 2966.0,
+      "continent": "EU",
+      "iso_country": "RS",
+      "iso_region": "RS-16",
+      "municipality": "Stapari",
+      "gps_code": "LYUZ",
+      "iata_code": "UZC",
+      "coordinates": "43.898899, 19.697701"
     },
     {
       "ident": "LYVA",

@@ -2,43 +2,17 @@
   "country_code": "TR",
   "country_name": "Turkey",
   "total_airports": 386,
-  "last_updated": "2025-02-19T00:08:08.014487",
+  "last_updated": "2025-02-20T00:08:28.317660",
   "types_distribution": {
-    "medium_airport": 55,
     "small_airport": 52,
     "large_airport": 9,
+    "medium_airport": 55,
     "closed": 28,
     "heliport": 240,
     "balloonport": 1,
     "seaplane_base": 1
   },
   "airports": [
-    {
-      "ident": "LFTO",
-      "type": "medium_airport",
-      "name": "Rize–Artvin Airport",
-      "elevation_ft": 16.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-53",
-      "municipality": "Rize",
-      "gps_code": "LTFO",
-      "iata_code": "RZV",
-      "coordinates": "41.179766, 40.848802"
-    },
-    {
-      "ident": "LT86",
-      "type": "small_airport",
-      "name": "Gökçeada Airport",
-      "elevation_ft": 73.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-17",
-      "municipality": "Gökçeada",
-      "gps_code": "LTFK",
-      "iata_code": "GKD",
-      "coordinates": "40.204498, 25.883302"
-    },
     {
       "ident": "LTAB",
       "type": "small_airport",
@@ -910,6 +884,19 @@
       "coordinates": "39.976627, 43.876648"
     },
     {
+      "ident": "LTCU",
+      "type": "small_airport",
+      "name": "Bingöl Airport",
+      "elevation_ft": 3506.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-12",
+      "municipality": "Bingöl",
+      "gps_code": "LTCU",
+      "iata_code": "BGG",
+      "coordinates": "38.860131, 40.594489"
+    },
+    {
       "ident": "LTCV",
       "type": "medium_airport",
       "name": "Şırnak Şerafettin Elçi Airport",
@@ -1052,6 +1039,19 @@
       "coordinates": "40.898602, 29.3092"
     },
     {
+      "ident": "LTFK",
+      "type": "small_airport",
+      "name": "Gökçeada Airport",
+      "elevation_ft": 73.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-17",
+      "municipality": "Gökçeada",
+      "gps_code": "LTFK",
+      "iata_code": "GKD",
+      "coordinates": "40.204498, 25.883302"
+    },
+    {
       "ident": "LTFM",
       "type": "large_airport",
       "name": "İstanbul Airport",
@@ -1074,6 +1074,19 @@
       "iso_region": "TR-32",
       "gps_code": "LTFN",
       "coordinates": "37.863665, 30.355"
+    },
+    {
+      "ident": "LTFO",
+      "type": "medium_airport",
+      "name": "Rize–Artvin Airport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-53",
+      "municipality": "Rize",
+      "gps_code": "LTFO",
+      "iata_code": "RZV",
+      "coordinates": "41.179766, 40.848802"
     },
     {
       "ident": "LTHA",
@@ -1322,19 +1335,6 @@
       "iso_region": "TR-10",
       "municipality": "Manyas",
       "coordinates": "40.115021, 27.93894"
-    },
-    {
-      "ident": "TR-0017",
-      "type": "small_airport",
-      "name": "Bingöl Airport",
-      "elevation_ft": 3506.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-12",
-      "municipality": "Bingöl",
-      "gps_code": "LTCU",
-      "iata_code": "BGG",
-      "coordinates": "38.860131, 40.594489"
     },
     {
       "ident": "TR-0018",

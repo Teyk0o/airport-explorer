@@ -2,7 +2,7 @@
   "country_code": "AO",
   "country_name": "Angola",
   "total_airports": 118,
-  "last_updated": "2025-02-19T00:08:07.651665",
+  "last_updated": "2025-02-20T00:08:27.950952",
   "types_distribution": {
     "small_airport": 84,
     "closed": 10,
@@ -725,19 +725,6 @@
       "coordinates": "-17.981924, 20.768061"
     },
     {
-      "ident": "AO-KNP",
-      "type": "small_airport",
-      "name": "Capanda Airport",
-      "elevation_ft": 3366.0,
-      "continent": "AF",
-      "iso_country": "AO",
-      "iso_region": "AO-MAL",
-      "municipality": "Capanda",
-      "gps_code": "FNCP",
-      "iata_code": "KNP",
-      "coordinates": "-9.76937007904, 15.4553194046"
-    },
-    {
       "ident": "AO-NDF",
       "type": "small_airport",
       "name": "N'dalatando Airport",
@@ -827,6 +814,19 @@
       "coordinates": "-12.609, 13.4037"
     },
     {
+      "ident": "FNBJ",
+      "type": "medium_airport",
+      "name": "Dr. Antonio Agostinho Neto International Airport",
+      "elevation_ft": 550.0,
+      "continent": "AF",
+      "iso_country": "AO",
+      "iso_region": "AO-LUA",
+      "municipality": "Luanda (Ícolo e Bengo)",
+      "gps_code": "FNBJ",
+      "iata_code": "NBJ",
+      "coordinates": "-9.050734, 13.499078"
+    },
+    {
       "ident": "FNBL",
       "type": "small_airport",
       "name": "Lumbala Airport",
@@ -912,6 +912,19 @@
       "municipality": "Camabatela",
       "gps_code": "FNCM",
       "coordinates": "-8.177847, 15.383177"
+    },
+    {
+      "ident": "FNCP",
+      "type": "small_airport",
+      "name": "Capanda Airport",
+      "elevation_ft": 3366.0,
+      "continent": "AF",
+      "iso_country": "AO",
+      "iso_region": "AO-MAL",
+      "municipality": "Capanda",
+      "gps_code": "FNCP",
+      "iata_code": "KNP",
+      "coordinates": "-9.76937007904, 15.4553194046"
     },
     {
       "ident": "FNCT",
@@ -1335,19 +1348,6 @@
       "municipality": "Jamba",
       "iata_code": "JMB",
       "coordinates": "-14.698193, 16.070148"
-    },
-    {
-      "ident": "LAD",
-      "type": "medium_airport",
-      "name": "Dr. Antonio Agostinho Neto International Airport",
-      "elevation_ft": 550.0,
-      "continent": "AF",
-      "iso_country": "AO",
-      "iso_region": "AO-LUA",
-      "municipality": "Luanda (Ícolo e Bengo)",
-      "gps_code": "FNBJ",
-      "iata_code": "NBJ",
-      "coordinates": "-9.050734, 13.499078"
     }
   ]
 }

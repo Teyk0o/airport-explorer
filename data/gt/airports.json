@@ -2,7 +2,7 @@
   "country_code": "GT",
   "country_name": "Guatemala",
   "total_airports": 70,
-  "last_updated": "2025-02-19T00:08:07.885840",
+  "last_updated": "2025-02-20T00:08:28.186551",
   "types_distribution": {
     "heliport": 2,
     "small_airport": 51,
@@ -421,18 +421,6 @@
       "coordinates": "16.775288, -90.770245"
     },
     {
-      "ident": "GT-PKJ",
-      "type": "small_airport",
-      "name": "Playa Grande Airport",
-      "elevation_ft": 577.0,
-      "iso_country": "GT",
-      "iso_region": "GT-QC",
-      "municipality": "Playa Grande",
-      "gps_code": "MGPG",
-      "iata_code": "PKJ",
-      "coordinates": "15.9975, -90.741699"
-    },
-    {
       "ident": "MG13",
       "type": "small_airport",
       "name": "Fray Bartolome Airport",
@@ -590,6 +578,18 @@
       "gps_code": "MGPB",
       "iata_code": "PBR",
       "coordinates": "15.7309, -88.583801"
+    },
+    {
+      "ident": "MGPG",
+      "type": "small_airport",
+      "name": "Playa Grande Airport",
+      "elevation_ft": 577.0,
+      "iso_country": "GT",
+      "iso_region": "GT-QC",
+      "municipality": "Playa Grande",
+      "gps_code": "MGPG",
+      "iata_code": "PKJ",
+      "coordinates": "15.9975, -90.741699"
     },
     {
       "ident": "MGPP",

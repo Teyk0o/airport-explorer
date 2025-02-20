@@ -2,13 +2,13 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 619,
-  "last_updated": "2025-02-19T00:08:07.664932",
+  "last_updated": "2025-02-20T00:08:27.963488",
   "types_distribution": {
     "small_airport": 473,
     "closed": 43,
     "heliport": 25,
-    "medium_airport": 70,
-    "large_airport": 8
+    "large_airport": 8,
+    "medium_airport": 70
   },
   "airports": [
     {
@@ -95,19 +95,6 @@
       "coordinates": "-6.899862766265869, 113.28289031982422"
     },
     {
-      "ident": "ID-0006",
-      "type": "small_airport",
-      "name": "Notohadinegoro Airport",
-      "elevation_ft": 281.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JI",
-      "municipality": "Jember",
-      "gps_code": "WARE",
-      "iata_code": "JBB",
-      "coordinates": "-8.242494, 113.693476"
-    },
-    {
       "ident": "ID-0007",
       "type": "heliport",
       "name": "Malinau Heliport",
@@ -137,20 +124,6 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "coordinates": "-6.678375, 108.252219444"
-    },
-    {
-      "ident": "ID-0011",
-      "type": "small_airport",
-      "name": "Banyuwangi International Airport",
-      "elevation_ft": 112.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JI",
-      "municipality": "Banyuwangi",
-      "gps_code": "WADY",
-      "iata_code": "BWX",
-      "local_code": "BWI",
-      "coordinates": "-8.31015, 114.3401"
     },
     {
       "ident": "ID-0012",
@@ -1984,19 +1957,6 @@
       "coordinates": "-4.2631, 137.892387"
     },
     {
-      "ident": "ID-0169",
-      "type": "small_airport",
-      "name": "Bawean - Harun Thohir Airport",
-      "elevation_ft": 93.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JI",
-      "municipality": "Bawean",
-      "gps_code": "WARW",
-      "iata_code": "BXW",
-      "coordinates": "-5.723628, 112.678889"
-    },
-    {
       "ident": "ID-0170",
       "type": "closed",
       "name": "Kangean Island Airport (planned)",
@@ -3134,19 +3094,6 @@
       "coordinates": "1.10189, 127.703003"
     },
     {
-      "ident": "ID-0274",
-      "type": "medium_airport",
-      "name": "Sangia Nibandera Airport",
-      "elevation_ft": 40.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SG",
-      "municipality": "Kolaka",
-      "gps_code": "WAWP",
-      "iata_code": "KXB",
-      "coordinates": "-4.338158, 121.524047"
-    },
-    {
       "ident": "ID-0275",
       "type": "heliport",
       "name": "balikpapan helipad",
@@ -3523,19 +3470,6 @@
       "coordinates": "-4.61114, 105.232002"
     },
     {
-      "ident": "ID-AYW",
-      "type": "small_airport",
-      "name": "Ayawasi Airport",
-      "elevation_ft": 1560.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PD",
-      "municipality": "Ayawasi",
-      "gps_code": "WASA",
-      "iata_code": "AYW",
-      "coordinates": "-1.159779, 132.464082"
-    },
-    {
       "ident": "ID-BJG",
       "type": "small_airport",
       "name": "Boalang Airport",
@@ -3545,32 +3479,6 @@
       "iso_region": "ID-ST",
       "municipality": "Boalang-Celebes Island",
       "coordinates": "-0.972896, 122.144997"
-    },
-    {
-      "ident": "ID-BXM",
-      "type": "small_airport",
-      "name": "Batom Airport",
-      "elevation_ft": 396.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PP",
-      "municipality": "Batom",
-      "gps_code": "WAJG",
-      "iata_code": "BXM",
-      "coordinates": "-4.442687, 140.883565"
-    },
-    {
-      "ident": "ID-DRH",
-      "type": "small_airport",
-      "name": "Dabra Airport",
-      "elevation_ft": 208.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PA",
-      "municipality": "Dabra",
-      "gps_code": "WAJC",
-      "iata_code": "DRH",
-      "coordinates": "-3.27061, 138.613433"
     },
     {
       "ident": "ID-ELR",
@@ -3624,45 +3532,6 @@
       "coordinates": "-3.7051, 138.2002"
     },
     {
-      "ident": "ID-KBF",
-      "type": "small_airport",
-      "name": "Karubaga Airport",
-      "elevation_ft": 5200.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PP",
-      "municipality": "Karubaga",
-      "gps_code": "WABK",
-      "iata_code": "KBF",
-      "coordinates": "-3.684615, 138.479018"
-    },
-    {
-      "ident": "ID-KBX",
-      "type": "small_airport",
-      "name": "Kambuaya Airport",
-      "elevation_ft": 1422.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PD",
-      "municipality": "Kambuaya-Papua Island",
-      "gps_code": "WASU",
-      "iata_code": "KBX",
-      "coordinates": "-1.316815, 132.286987"
-    },
-    {
-      "ident": "ID-KCD",
-      "type": "small_airport",
-      "name": "Kamur Airport",
-      "elevation_ft": 25.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PS",
-      "municipality": "Kamur",
-      "gps_code": "WAKM",
-      "iata_code": "KCD",
-      "coordinates": "-6.1851, 138.6372"
-    },
-    {
       "ident": "ID-KEA",
       "type": "closed",
       "name": "Keisah Airport",
@@ -3710,32 +3579,6 @@
       "gps_code": "WAJV",
       "iata_code": "LLN",
       "coordinates": "-3.728968, 138.710117"
-    },
-    {
-      "ident": "ID-LWE",
-      "type": "small_airport",
-      "name": "Lembata Wonopito Airport",
-      "elevation_ft": 25.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NT",
-      "municipality": "Nubatukan",
-      "gps_code": "WATW",
-      "iata_code": "LWE",
-      "coordinates": "-8.36119, 123.43879"
-    },
-    {
-      "ident": "ID-LYK",
-      "type": "small_airport",
-      "name": "Lunyuk Airport",
-      "elevation_ft": 44.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NB",
-      "municipality": "Lunyuk-Simbawa Island",
-      "gps_code": "WADU",
-      "iata_code": "LYK",
-      "coordinates": "-8.9889, 117.2158"
     },
     {
       "ident": "ID-MJY",
@@ -3820,32 +3663,6 @@
       "coordinates": "-4.181013, 121.614665"
     },
     {
-      "ident": "ID-PWL",
-      "type": "small_airport",
-      "name": "Jenderal Besar Soedirman Airport",
-      "elevation_ft": 225.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JT",
-      "municipality": "Purwokerto-Java Island",
-      "gps_code": "WAHP",
-      "iata_code": "PWL",
-      "coordinates": "-7.461342, 109.414612"
-    },
-    {
-      "ident": "ID-RAQ",
-      "type": "small_airport",
-      "name": "Sugimanuru Airport",
-      "elevation_ft": 132.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SG",
-      "municipality": "Raha",
-      "gps_code": "WAWR",
-      "iata_code": "RAQ",
-      "coordinates": "-4.763298, 122.566352"
-    },
-    {
       "ident": "ID-RKI",
       "type": "small_airport",
       "name": "Mentawai Airport",
@@ -3882,19 +3699,6 @@
       "coordinates": "-8.36667, 118.333359"
     },
     {
-      "ident": "ID-TBM",
-      "type": "small_airport",
-      "name": "Tumbang Samba Airport",
-      "elevation_ft": 160.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-KT",
-      "municipality": "Tumbang Samba-Borneo Island",
-      "gps_code": "WAOW",
-      "iata_code": "TBM",
-      "coordinates": "-1.4694, 113.0833"
-    },
-    {
       "ident": "ID-TMY",
       "type": "small_airport",
       "name": "Tiom Airport",
@@ -3919,19 +3723,6 @@
       "municipality": "Pagerungan Island",
       "gps_code": "WARP",
       "coordinates": "-6.95661, 115.931"
-    },
-    {
-      "ident": "ID-ZEG",
-      "type": "small_airport",
-      "name": "Senggo Airport",
-      "elevation_ft": 52.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PS",
-      "municipality": "Senggo-Papua Island",
-      "gps_code": "WAKQ",
-      "iata_code": "ZEG",
-      "coordinates": "-5.6908, 139.3502"
     },
     {
       "ident": "ID-ZGP",
@@ -4177,6 +3968,19 @@
       "coordinates": "-3.368586, 135.496702"
     },
     {
+      "ident": "WABK",
+      "type": "small_airport",
+      "name": "Karubaga Airport",
+      "elevation_ft": 5200.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PP",
+      "municipality": "Karubaga",
+      "gps_code": "WABK",
+      "iata_code": "KBF",
+      "coordinates": "-3.684615, 138.479018"
+    },
+    {
       "ident": "WABL",
       "type": "small_airport",
       "name": "Ilaga Airport",
@@ -4343,6 +4147,19 @@
       "coordinates": "-9.409224, 119.242558"
     },
     {
+      "ident": "WADU",
+      "type": "small_airport",
+      "name": "Lunyuk Airport",
+      "elevation_ft": 44.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Lunyuk-Simbawa Island",
+      "gps_code": "WADU",
+      "iata_code": "LYK",
+      "coordinates": "-8.9889, 117.2158"
+    },
+    {
       "ident": "WADW",
       "type": "small_airport",
       "name": "Umbu Mehang Kunda Airport",
@@ -4354,6 +4171,33 @@
       "gps_code": "WATU",
       "iata_code": "WGP",
       "coordinates": "-9.66922, 120.302002"
+    },
+    {
+      "ident": "WADY",
+      "type": "small_airport",
+      "name": "Banyuwangi International Airport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Banyuwangi",
+      "gps_code": "WADY",
+      "iata_code": "BWX",
+      "local_code": "BWI",
+      "coordinates": "-8.31015, 114.3401"
+    },
+    {
+      "ident": "WAEE",
+      "type": "medium_airport",
+      "name": "Sultan Babullah Airport",
+      "elevation_ft": 49.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-MU",
+      "municipality": "Sango",
+      "gps_code": "WAEE",
+      "iata_code": "TTE",
+      "coordinates": "0.831012, 127.381611"
     },
     {
       "ident": "WAEW",
@@ -4582,6 +4426,19 @@
       "coordinates": "-7.64506, 109.033997"
     },
     {
+      "ident": "WAHP",
+      "type": "small_airport",
+      "name": "Jenderal Besar Soedirman Airport",
+      "elevation_ft": 225.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JT",
+      "municipality": "Purwokerto-Java Island",
+      "gps_code": "WAHP",
+      "iata_code": "PWL",
+      "coordinates": "-7.461342, 109.414612"
+    },
+    {
       "ident": "WAHU",
       "type": "small_airport",
       "name": "Dewadaru Airport",
@@ -4608,6 +4465,19 @@
       "coordinates": "-3.68455, 138.677437"
     },
     {
+      "ident": "WAJC",
+      "type": "small_airport",
+      "name": "Dabra Airport",
+      "elevation_ft": 208.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Dabra",
+      "gps_code": "WAJC",
+      "iata_code": "DRH",
+      "coordinates": "-3.27061, 138.613433"
+    },
+    {
       "ident": "WAJD",
       "type": "small_airport",
       "name": "Wakde Airport",
@@ -4618,6 +4488,19 @@
       "municipality": "Masi Masi Island",
       "gps_code": "WAJD",
       "coordinates": "-1.935289978981018, 139.02000427246094"
+    },
+    {
+      "ident": "WAJG",
+      "type": "small_airport",
+      "name": "Batom Airport",
+      "elevation_ft": 396.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PP",
+      "municipality": "Batom",
+      "gps_code": "WAJG",
+      "iata_code": "BXM",
+      "coordinates": "-4.442687, 140.883565"
     },
     {
       "ident": "WAJI",
@@ -4808,6 +4691,19 @@
       "coordinates": "-5.806483, 139.867647"
     },
     {
+      "ident": "WAKM",
+      "type": "small_airport",
+      "name": "Kamur Airport",
+      "elevation_ft": 25.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PS",
+      "municipality": "Kamur",
+      "gps_code": "WAKM",
+      "iata_code": "KCD",
+      "coordinates": "-6.1851, 138.6372"
+    },
+    {
       "ident": "WAKO",
       "type": "small_airport",
       "name": "Okaba Airport",
@@ -4832,6 +4728,19 @@
       "gps_code": "WAKP",
       "iata_code": "KEI",
       "coordinates": "-6.5418, 139.3318"
+    },
+    {
+      "ident": "WAKQ",
+      "type": "small_airport",
+      "name": "Senggo Airport",
+      "elevation_ft": 52.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PS",
+      "municipality": "Senggo-Papua Island",
+      "gps_code": "WAKQ",
+      "iata_code": "ZEG",
+      "coordinates": "-5.6908, 139.3502"
     },
     {
       "ident": "WAKT",
@@ -5179,19 +5088,6 @@
       "coordinates": "5.560419, 126.580095"
     },
     {
-      "ident": "WAMT",
-      "type": "medium_airport",
-      "name": "Sultan Babullah Airport",
-      "elevation_ft": 49.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-MU",
-      "municipality": "Sango",
-      "gps_code": "WAEE",
-      "iata_code": "TTE",
-      "coordinates": "0.831012, 127.381611"
-    },
-    {
       "ident": "WAMU",
       "type": "small_airport",
       "name": "Wuasa Airport",
@@ -5351,6 +5247,19 @@
       "municipality": "Buntok",
       "gps_code": "WAGM",
       "coordinates": "-1.6693, 114.898003"
+    },
+    {
+      "ident": "WAOW",
+      "type": "small_airport",
+      "name": "Tumbang Samba Airport",
+      "elevation_ft": 160.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KT",
+      "municipality": "Tumbang Samba-Borneo Island",
+      "gps_code": "WAOW",
+      "iata_code": "TBM",
+      "coordinates": "-1.4694, 113.0833"
     },
     {
       "ident": "WAPA",
@@ -5631,6 +5540,19 @@
       "coordinates": "-7.19484166667, 111.548166667"
     },
     {
+      "ident": "WARE",
+      "type": "small_airport",
+      "name": "Notohadinegoro Airport",
+      "elevation_ft": 281.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Jember",
+      "gps_code": "WARE",
+      "iata_code": "JBB",
+      "coordinates": "-8.242494, 113.693476"
+    },
+    {
       "ident": "WARI",
       "type": "small_airport",
       "name": "Iswahyudi Airport",
@@ -5707,6 +5629,32 @@
       "iata_code": "SUP",
       "local_code": "TRJ",
       "coordinates": "-7.0242, 113.89023"
+    },
+    {
+      "ident": "WARW",
+      "type": "small_airport",
+      "name": "Bawean - Harun Thohir Airport",
+      "elevation_ft": 93.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Bawean",
+      "gps_code": "WARW",
+      "iata_code": "BXW",
+      "coordinates": "-5.723628, 112.678889"
+    },
+    {
+      "ident": "WASA",
+      "type": "small_airport",
+      "name": "Ayawasi Airport",
+      "elevation_ft": 1560.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PD",
+      "municipality": "Ayawasi",
+      "gps_code": "WASA",
+      "iata_code": "AYW",
+      "coordinates": "-1.159779, 132.464082"
     },
     {
       "ident": "WASB",
@@ -5863,6 +5811,19 @@
       "coordinates": "-1.44545, 132.021139"
     },
     {
+      "ident": "WASU",
+      "type": "small_airport",
+      "name": "Kambuaya Airport",
+      "elevation_ft": 1422.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PD",
+      "municipality": "Kambuaya-Papua Island",
+      "gps_code": "WASU",
+      "iata_code": "KBX",
+      "coordinates": "-1.316815, 132.286987"
+    },
+    {
       "ident": "WASW",
       "type": "small_airport",
       "name": "Wasior Airport",
@@ -5874,6 +5835,19 @@
       "gps_code": "WASW",
       "iata_code": "WSR",
       "coordinates": "-2.721, 134.5061"
+    },
+    {
+      "ident": "WATA",
+      "type": "small_airport",
+      "name": "AA Bere Tallo (Haliwen) Airport",
+      "elevation_ft": 1027.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NT",
+      "municipality": "Atambua",
+      "gps_code": "WATA",
+      "iata_code": "ABU",
+      "coordinates": "-9.074841, 124.903285"
     },
     {
       "ident": "WATB",
@@ -5926,6 +5900,19 @@
       "gps_code": "WATG",
       "iata_code": "RTG",
       "coordinates": "-8.596171, 120.478177"
+    },
+    {
+      "ident": "WATL",
+      "type": "small_airport",
+      "name": "Larantuka Gewayentana Airport",
+      "elevation_ft": 63.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NT",
+      "municipality": "Tiwatobi",
+      "gps_code": "WATL",
+      "iata_code": "LKA",
+      "coordinates": "-8.274424, 123.002"
     },
     {
       "ident": "WATM",
@@ -6005,6 +5992,19 @@
       "coordinates": "-10.1716, 123.670998"
     },
     {
+      "ident": "WATW",
+      "type": "small_airport",
+      "name": "Lembata Wonopito Airport",
+      "elevation_ft": 25.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NT",
+      "municipality": "Nubatukan",
+      "gps_code": "WATW",
+      "iata_code": "LWE",
+      "coordinates": "-8.36119, 123.43879"
+    },
+    {
       "ident": "WAVV",
       "type": "medium_airport",
       "name": "Wamena Airport",
@@ -6068,6 +6068,32 @@
       "gps_code": "WAWN",
       "iata_code": "APD",
       "coordinates": "-4.459582, 120.310436"
+    },
+    {
+      "ident": "WAWP",
+      "type": "medium_airport",
+      "name": "Sangia Nibandera Airport",
+      "elevation_ft": 40.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SG",
+      "municipality": "Kolaka",
+      "gps_code": "WAWP",
+      "iata_code": "KXB",
+      "coordinates": "-4.338158, 121.524047"
+    },
+    {
+      "ident": "WAWR",
+      "type": "small_airport",
+      "name": "Sugimanuru Airport",
+      "elevation_ft": 132.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SG",
+      "municipality": "Raha",
+      "gps_code": "WAWR",
+      "iata_code": "RAQ",
+      "coordinates": "-4.763298, 122.566352"
     },
     {
       "ident": "WAWS",
@@ -6159,20 +6185,6 @@
       "gps_code": "WAYU",
       "local_code": "WBG",
       "coordinates": "-3.868616, 137.468316"
-    },
-    {
-      "ident": "WI1A",
-      "type": "small_airport",
-      "name": "Nusawiru Airport",
-      "elevation_ft": 16.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JB",
-      "municipality": "Cijulang",
-      "gps_code": "WICN",
-      "iata_code": "CJN",
-      "local_code": "WI1A",
-      "coordinates": "-7.719895, 108.488995"
     },
     {
       "ident": "WI1B",
@@ -6410,6 +6422,20 @@
       "gps_code": "WICM",
       "iata_code": "TSY",
       "coordinates": "-7.3466, 108.246002"
+    },
+    {
+      "ident": "WICN",
+      "type": "small_airport",
+      "name": "Nusawiru Airport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JB",
+      "municipality": "Cijulang",
+      "gps_code": "WICN",
+      "iata_code": "CJN",
+      "local_code": "WI1A",
+      "coordinates": "-7.719895, 108.488995"
     },
     {
       "ident": "WIDB",
@@ -7098,19 +7124,6 @@
       "coordinates": "3.16904, 97.288299"
     },
     {
-      "ident": "WITB",
-      "type": "small_airport",
-      "name": "Maimun Saleh Airport",
-      "elevation_ft": 393.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-AC",
-      "municipality": "Sabang",
-      "gps_code": "WITN",
-      "iata_code": "SBG",
-      "coordinates": "5.874668, 95.33967"
-    },
-    {
       "ident": "WITC",
       "type": "medium_airport",
       "name": "Cut Nyak Dhien Airport",
@@ -7176,6 +7189,19 @@
       "coordinates": "5.22668, 96.950302"
     },
     {
+      "ident": "WITN",
+      "type": "small_airport",
+      "name": "Maimun Saleh Airport",
+      "elevation_ft": 393.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-AC",
+      "municipality": "Sabang",
+      "gps_code": "WITN",
+      "iata_code": "SBG",
+      "coordinates": "5.874668, 95.33967"
+    },
+    {
       "ident": "WITS",
       "type": "small_airport",
       "name": "Seumayam Airport",
@@ -7226,19 +7252,6 @@
       "coordinates": "-1.73250997066, 114.838996887"
     },
     {
-      "ident": "WRKA",
-      "type": "small_airport",
-      "name": "AA Bere Tallo (Haliwen) Airport",
-      "elevation_ft": 1027.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NT",
-      "municipality": "Atambua",
-      "gps_code": "WATA",
-      "iata_code": "ABU",
-      "coordinates": "-9.074841, 124.903285"
-    },
-    {
       "ident": "WRKJ",
       "type": "small_airport",
       "name": "Mena Airport",
@@ -7249,19 +7262,6 @@
       "municipality": "Mena-Timor Island",
       "gps_code": "WRKJ",
       "coordinates": "-9.183889389038086, 124.58916473388672"
-    },
-    {
-      "ident": "WRKL",
-      "type": "small_airport",
-      "name": "Larantuka Gewayentana Airport",
-      "elevation_ft": 63.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NT",
-      "municipality": "Tiwatobi",
-      "gps_code": "WATL",
-      "iata_code": "LKA",
-      "coordinates": "-8.274424, 123.002"
     },
     {
       "ident": "WRKM",

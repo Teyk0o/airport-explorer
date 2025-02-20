@@ -2,12 +2,12 @@
   "country_code": "AE",
   "country_name": "United Arab Emirates",
   "total_airports": 255,
-  "last_updated": "2025-02-19T00:08:07.607557",
+  "last_updated": "2025-02-20T00:08:27.906826",
   "types_distribution": {
     "heliport": 204,
     "small_airport": 30,
-    "seaplane_base": 4,
-    "closed": 5,
+    "seaplane_base": 3,
+    "closed": 6,
     "medium_airport": 8,
     "large_airport": 4
   },
@@ -2344,6 +2344,16 @@
       "coordinates": "25.091723, 55.134606"
     },
     {
+      "ident": "AE-0226",
+      "type": "closed",
+      "name": "Ras al Khaimah Al Hamra Seaplane Base",
+      "continent": "AS",
+      "iso_country": "AE",
+      "iso_region": "AE-RK",
+      "municipality": "Ras Al Khaimah",
+      "coordinates": "25.691, 55.778"
+    },
+    {
       "ident": "AYM",
       "type": "seaplane_base",
       "name": "Yas Island Seaplane Base",
@@ -2570,6 +2580,19 @@
       "coordinates": "25.2527999878, 55.3643989563"
     },
     {
+      "ident": "OMDL",
+      "type": "small_airport",
+      "name": "Delma Airport",
+      "elevation_ft": 30.0,
+      "continent": "AS",
+      "iso_country": "AE",
+      "iso_region": "AE-AZ",
+      "municipality": "Delma Island",
+      "gps_code": "OMDL",
+      "iata_code": "ZDY",
+      "coordinates": "24.51, 52.3352"
+    },
+    {
       "ident": "OMDM",
       "type": "medium_airport",
       "name": "Al Minhad Air Base",
@@ -2690,30 +2713,6 @@
       "iso_region": "AE-UQ",
       "municipality": "Meshara",
       "coordinates": "25.57715, 55.65068"
-    },
-    {
-      "ident": "RHR",
-      "type": "seaplane_base",
-      "name": "Ras al Khaimah Al Hamra Seaplane Base",
-      "continent": "AS",
-      "iso_country": "AE",
-      "iso_region": "AE-RK",
-      "municipality": "Ras Al Khaimah",
-      "iata_code": "RHR",
-      "coordinates": "25.691, 55.778"
-    },
-    {
-      "ident": "ZDY",
-      "type": "small_airport",
-      "name": "Delma Airport",
-      "elevation_ft": 30.0,
-      "continent": "AS",
-      "iso_country": "AE",
-      "iso_region": "AE-AZ",
-      "municipality": "Delma Island",
-      "gps_code": "OMDL",
-      "iata_code": "ZDY",
-      "coordinates": "24.51, 52.3352"
     }
   ]
 }

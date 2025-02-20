@@ -1,14 +1,14 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 96,
-  "last_updated": "2025-02-19T00:08:07.942456",
+  "total_airports": 94,
+  "last_updated": "2025-02-20T00:08:28.240418",
   "types_distribution": {
     "small_airport": 16,
-    "medium_airport": 24,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
+    "medium_airport": 22,
     "large_airport": 2
   },
   "airports": [
@@ -35,19 +35,6 @@
       "municipality": "Sóc Trăng",
       "iata_code": "SOA",
       "coordinates": "9.5814, 105.9602"
-    },
-    {
-      "ident": "VN-0001",
-      "type": "medium_airport",
-      "name": "Dong Hoi Airport",
-      "elevation_ft": 59.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-NC",
-      "municipality": "Dong Hoi",
-      "gps_code": "VVDH",
-      "iata_code": "VDH",
-      "coordinates": "17.515, 106.590556"
     },
     {
       "ident": "VN-0002",
@@ -583,25 +570,6 @@
       "coordinates": "10.83481, 106.959386"
     },
     {
-      "ident": "VN-0055",
-      "type": "medium_airport",
-      "name": "hocvienseoulspa",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-CH",
-      "coordinates": "12, 120"
-    },
-    {
-      "ident": "VN-0056",
-      "type": "medium_airport",
-      "name": "Global DA88",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-U-A",
-      "municipality": "Ba Đình, Hà Nội",
-      "coordinates": "8, 105"
-    },
-    {
       "ident": "VN-0057",
       "type": "medium_airport",
       "name": "Sân bay Topnhacaiuytin",
@@ -787,6 +755,19 @@
       "gps_code": "VVDB",
       "iata_code": "DIN",
       "coordinates": "21.3974990845, 103.008003235"
+    },
+    {
+      "ident": "VVDH",
+      "type": "medium_airport",
+      "name": "Dong Hoi Airport",
+      "elevation_ft": 59.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-NC",
+      "municipality": "Dong Hoi",
+      "gps_code": "VVDH",
+      "iata_code": "VDH",
+      "coordinates": "17.515, 106.590556"
     },
     {
       "ident": "VVDL",

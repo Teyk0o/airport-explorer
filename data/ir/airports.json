@@ -2,7 +2,7 @@
   "country_code": "IR",
   "country_name": "Iran",
   "total_airports": 290,
-  "last_updated": "2025-02-19T00:08:07.956457",
+  "last_updated": "2025-02-20T00:08:28.256179",
   "types_distribution": {
     "small_airport": 113,
     "closed": 22,
@@ -12,19 +12,6 @@
     "large_airport": 4
   },
   "airports": [
-    {
-      "ident": "IR-0001",
-      "type": "small_airport",
-      "name": "Khaneh Airport",
-      "elevation_ft": 4804.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-04",
-      "municipality": "Khaneh",
-      "gps_code": "OITH",
-      "iata_code": "KHA",
-      "coordinates": "36.733341, 45.150002"
-    },
     {
       "ident": "IR-0002",
       "type": "small_airport",
@@ -3076,6 +3063,19 @@
       "gps_code": "OISY",
       "iata_code": "YES",
       "coordinates": "30.702238, 51.542988"
+    },
+    {
+      "ident": "OITH",
+      "type": "small_airport",
+      "name": "Khaneh Airport",
+      "elevation_ft": 4804.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-04",
+      "municipality": "Khaneh",
+      "gps_code": "OITH",
+      "iata_code": "KHA",
+      "coordinates": "36.733341, 45.150002"
     },
     {
       "ident": "OITK",

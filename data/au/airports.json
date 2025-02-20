@@ -2,7 +2,7 @@
   "country_code": "AU",
   "country_name": "Australia",
   "total_airports": 2683,
-  "last_updated": "2025-02-19T00:08:07.625133",
+  "last_updated": "2025-02-20T00:08:27.924409",
   "types_distribution": {
     "small_airport": 2021,
     "closed": 82,
@@ -4922,19 +4922,6 @@
       "coordinates": "-28.034548, 123.81506"
     },
     {
-      "ident": "AU-0457",
-      "type": "small_airport",
-      "name": "Karara Airport",
-      "elevation_ft": 1011.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Karara",
-      "gps_code": "YKAR",
-      "iata_code": "KQR",
-      "coordinates": "-29.217223, 116.687154"
-    },
-    {
       "ident": "AU-0458",
       "type": "small_airport",
       "name": "Tilmouth Airstrip",
@@ -5918,19 +5905,6 @@
       "iso_region": "AU-QLD",
       "municipality": "Eidsvold",
       "coordinates": "-25.361002, 151.108969"
-    },
-    {
-      "ident": "AU-0548",
-      "type": "small_airport",
-      "name": "Alpha Airport",
-      "elevation_ft": 1255.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "municipality": "Alpha",
-      "gps_code": "YAPH",
-      "iata_code": "ABH",
-      "coordinates": "-23.652849, 146.582668"
     },
     {
       "ident": "AU-0549",
@@ -7274,20 +7248,6 @@
       "coordinates": "-17.986539, 124.162166"
     },
     {
-      "ident": "AU-OKB",
-      "type": "small_airport",
-      "name": "Orchid Beach Airport",
-      "elevation_ft": 71.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "municipality": "Orchid Beach",
-      "gps_code": "YORC",
-      "iata_code": "OKB",
-      "local_code": "YORC",
-      "coordinates": "-24.959400177002, 153.31500244141"
-    },
-    {
       "ident": "AU-PEP",
       "type": "small_airport",
       "name": "Peppimenarti Airport",
@@ -7332,19 +7292,6 @@
       "municipality": "Shaw River",
       "iata_code": "SWB",
       "coordinates": "-21.510299682617188, 119.36199951171875"
-    },
-    {
-      "ident": "AU-TPR",
-      "type": "small_airport",
-      "name": "Tom Price Airport",
-      "elevation_ft": 2300.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Tom Price",
-      "gps_code": "YTMP",
-      "iata_code": "TPR",
-      "coordinates": "-22.746000289900003, 117.869003296"
     },
     {
       "ident": "AU-TWP",
@@ -7649,19 +7596,6 @@
       "gps_code": "YRAY",
       "iata_code": "RSE",
       "coordinates": "-33.869, 151.262"
-    },
-    {
-      "ident": "SLJ",
-      "type": "small_airport",
-      "name": "Solomon Airport",
-      "elevation_ft": 2030.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Karijini National Park",
-      "gps_code": "YSOL",
-      "iata_code": "SLJ",
-      "coordinates": "-22.25677, 117.850454"
     },
     {
       "ident": "SRM",
@@ -8524,6 +8458,19 @@
       "municipality": "Eighty Mile Beach",
       "gps_code": "YAPA",
       "coordinates": "-19.26808, 121.51128"
+    },
+    {
+      "ident": "YAPH",
+      "type": "small_airport",
+      "name": "Alpha Airport",
+      "elevation_ft": 1255.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Alpha",
+      "gps_code": "YAPH",
+      "iata_code": "ABH",
+      "coordinates": "-23.652849, 146.582668"
     },
     {
       "ident": "YAPO",
@@ -16865,6 +16812,19 @@
       "coordinates": "-34.247027, 138.914105"
     },
     {
+      "ident": "YKAR",
+      "type": "small_airport",
+      "name": "Karara Airport",
+      "elevation_ft": 1011.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Karara",
+      "gps_code": "YKAR",
+      "iata_code": "KQR",
+      "coordinates": "-29.217223, 116.687154"
+    },
+    {
       "ident": "YKAT",
       "type": "small_airport",
       "name": "Katoomba Airport",
@@ -22041,6 +22001,20 @@
       "coordinates": "-37.790000915527344, 148.61000061035156"
     },
     {
+      "ident": "YORC",
+      "type": "small_airport",
+      "name": "Orchid Beach Airport",
+      "elevation_ft": 71.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Orchid Beach",
+      "gps_code": "YORC",
+      "iata_code": "OKB",
+      "local_code": "YORC",
+      "coordinates": "-24.959400177002, 153.31500244141"
+    },
+    {
       "ident": "YORG",
       "type": "medium_airport",
       "name": "Orange Airport",
@@ -24563,6 +24537,19 @@
       "coordinates": "-35.764167, 146.908889"
     },
     {
+      "ident": "YSOL",
+      "type": "small_airport",
+      "name": "Solomon Airport",
+      "elevation_ft": 2030.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Karijini National Park",
+      "gps_code": "YSOL",
+      "iata_code": "SLJ",
+      "coordinates": "-22.25677, 117.850454"
+    },
+    {
       "ident": "YSOW",
       "type": "small_airport",
       "name": "Southwell Airport",
@@ -25546,6 +25533,19 @@
       "gps_code": "YTMO",
       "iata_code": "PHQ",
       "coordinates": "-21.811100006104, 139.92399597168"
+    },
+    {
+      "ident": "YTMP",
+      "type": "small_airport",
+      "name": "Tom Price Airport",
+      "elevation_ft": 2300.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Tom Price",
+      "gps_code": "YTMP",
+      "iata_code": "TPR",
+      "coordinates": "-22.746000289900003, 117.869003296"
     },
     {
       "ident": "YTMS",

@@ -2,7 +2,7 @@
   "country_code": "AR",
   "country_name": "Argentina",
   "total_airports": 946,
-  "last_updated": "2025-02-19T00:08:07.653019",
+  "last_updated": "2025-02-20T00:08:27.952307",
   "types_distribution": {
     "small_airport": 687,
     "closed": 42,
@@ -4147,20 +4147,6 @@
       "coordinates": "-33.9617, -61.6325"
     },
     {
-      "ident": "AR-0346",
-      "type": "small_airport",
-      "name": "Sunchales Aeroclub Airport",
-      "elevation_ft": 299.0,
-      "continent": "SA",
-      "iso_country": "AR",
-      "iso_region": "AR-S",
-      "municipality": "Sunchales",
-      "gps_code": "SAFS",
-      "iata_code": "NCJ",
-      "local_code": "SCA",
-      "coordinates": "-30.9575, -61.5283"
-    },
-    {
       "ident": "AR-0347",
       "type": "heliport",
       "name": "Swiss Medical Heliport",
@@ -5541,20 +5527,6 @@
       "municipality": "Salto",
       "local_code": "SSK",
       "coordinates": "-34.3571833134, -60.1559829712"
-    },
-    {
-      "ident": "AR-0462",
-      "type": "small_airport",
-      "name": "Termal Airport",
-      "elevation_ft": 308.0,
-      "continent": "SA",
-      "iso_country": "AR",
-      "iso_region": "AR-H",
-      "municipality": "Presidencia Roque Sáenz Peña",
-      "gps_code": "SARS",
-      "iata_code": "PRQ",
-      "local_code": "PSP",
-      "coordinates": "-26.753611, -60.492222"
     },
     {
       "ident": "AR-0463",
@@ -9836,6 +9808,20 @@
       "coordinates": "-31.2825, -61.5017"
     },
     {
+      "ident": "SAFS",
+      "type": "small_airport",
+      "name": "Sunchales Aeroclub Airport",
+      "elevation_ft": 299.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-S",
+      "municipality": "Sunchales",
+      "gps_code": "SAFS",
+      "iata_code": "NCJ",
+      "local_code": "SCA",
+      "coordinates": "-30.9575, -61.5283"
+    },
+    {
       "ident": "SAHC",
       "type": "small_airport",
       "name": "Chos Malal Airport",
@@ -10452,6 +10438,20 @@
       "iata_code": "PSS",
       "local_code": "POS",
       "coordinates": "-27.3858, -55.9707"
+    },
+    {
+      "ident": "SARS",
+      "type": "small_airport",
+      "name": "Termal Airport",
+      "elevation_ft": 308.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-H",
+      "municipality": "Presidencia Roque Sáenz Peña",
+      "gps_code": "SARS",
+      "iata_code": "PRQ",
+      "local_code": "PSP",
+      "coordinates": "-26.753611, -60.492222"
     },
     {
       "ident": "SARV",

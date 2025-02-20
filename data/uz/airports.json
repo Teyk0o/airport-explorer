@@ -2,7 +2,7 @@
   "country_code": "UZ",
   "country_name": "Uzbekistan",
   "total_airports": 180,
-  "last_updated": "2025-02-19T00:08:08.051234",
+  "last_updated": "2025-02-20T00:08:28.350630",
   "types_distribution": {
     "small_airport": 64,
     "medium_airport": 9,
@@ -64,6 +64,19 @@
       "coordinates": "40.25270080566406, 67.91079711914062"
     },
     {
+      "ident": "UTFN",
+      "type": "small_airport",
+      "name": "Namangan Airport",
+      "elevation_ft": 1555.0,
+      "continent": "AS",
+      "iso_country": "UZ",
+      "iso_region": "UZ-NG",
+      "municipality": "Namangan",
+      "gps_code": "UTFN",
+      "iata_code": "NMA",
+      "coordinates": "40.9846, 71.556702"
+    },
+    {
       "ident": "UTKA",
       "type": "medium_airport",
       "name": "Andizhan Airport",
@@ -101,19 +114,6 @@
       "gps_code": "UTKK",
       "iata_code": "OQN",
       "coordinates": "40.447183, 70.989144"
-    },
-    {
-      "ident": "UTKN",
-      "type": "small_airport",
-      "name": "Namangan Airport",
-      "elevation_ft": 1555.0,
-      "continent": "AS",
-      "iso_country": "UZ",
-      "iso_region": "UZ-NG",
-      "municipality": "Namangan",
-      "gps_code": "UTFN",
-      "iata_code": "NMA",
-      "coordinates": "40.9846, 71.556702"
     },
     {
       "ident": "UTNM",

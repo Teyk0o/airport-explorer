@@ -2,7 +2,7 @@
   "country_code": "PA",
   "country_name": "Panama",
   "total_airports": 91,
-  "last_updated": "2025-02-19T00:08:07.838463",
+  "last_updated": "2025-02-20T00:08:28.139682",
   "types_distribution": {
     "small_airport": 69,
     "closed": 13,
@@ -392,18 +392,6 @@
       "coordinates": "8.252816, -78.278618"
     },
     {
-      "ident": "MPRH",
-      "type": "small_airport",
-      "name": "Scarlett Martinez International Airport",
-      "elevation_ft": 105.0,
-      "iso_country": "PA",
-      "iso_region": "PA-2",
-      "municipality": "Río Hato",
-      "gps_code": "MPSM",
-      "iata_code": "RIH",
-      "coordinates": "8.375880241394, -80.127899169922"
-    },
-    {
       "ident": "MPSA",
       "type": "medium_airport",
       "name": "Ruben Cantu Airport",
@@ -414,6 +402,18 @@
       "gps_code": "MPSA",
       "iata_code": "SYP",
       "coordinates": "8.085599899291992, -80.94529724121094"
+    },
+    {
+      "ident": "MPSM",
+      "type": "small_airport",
+      "name": "Scarlett Martinez International Airport",
+      "elevation_ft": 105.0,
+      "iso_country": "PA",
+      "iso_region": "PA-2",
+      "municipality": "Río Hato",
+      "gps_code": "MPSM",
+      "iata_code": "RIH",
+      "coordinates": "8.375880241394, -80.127899169922"
     },
     {
       "ident": "MPTO",

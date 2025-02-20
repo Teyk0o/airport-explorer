@@ -2,7 +2,7 @@
   "country_code": "PL",
   "country_name": "Poland",
   "total_airports": 383,
-  "last_updated": "2025-02-19T00:08:07.889395",
+  "last_updated": "2025-02-20T00:08:28.190030",
   "types_distribution": {
     "small_airport": 288,
     "heliport": 16,
@@ -149,19 +149,6 @@
       "municipality": "Siemirowice",
       "gps_code": "EPCE",
       "coordinates": "54.417664, 17.773512"
-    },
-    {
-      "ident": "EPCH",
-      "type": "small_airport",
-      "name": "Częstochowa-Rudniki Airport",
-      "elevation_ft": 860.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-SL",
-      "municipality": "Rudniki",
-      "gps_code": "EPRU",
-      "iata_code": "CZW",
-      "coordinates": "50.884716, 19.201842"
     },
     {
       "ident": "EPDA",
@@ -1084,6 +1071,19 @@
       "municipality": "Rybno",
       "gps_code": "EPRS",
       "coordinates": "52.242789, 20.126579"
+    },
+    {
+      "ident": "EPRU",
+      "type": "small_airport",
+      "name": "Częstochowa-Rudniki Airport",
+      "elevation_ft": 860.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-SL",
+      "municipality": "Rudniki",
+      "gps_code": "EPRU",
+      "iata_code": "CZW",
+      "coordinates": "50.884716, 19.201842"
     },
     {
       "ident": "EPRZ",

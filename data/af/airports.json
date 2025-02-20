@@ -2,7 +2,7 @@
   "country_code": "AF",
   "country_name": "Afghanistan",
   "total_airports": 79,
-  "last_updated": "2025-02-19T00:08:07.622275",
+  "last_updated": "2025-02-20T00:08:27.921603",
   "types_distribution": {
     "small_airport": 59,
     "closed": 3,
@@ -226,32 +226,6 @@
       "coordinates": "34.687099, 66.893204"
     },
     {
-      "ident": "AF10",
-      "type": "small_airport",
-      "name": "Orūzgān Airport",
-      "elevation_ft": 6725.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-URU",
-      "municipality": "Orūzgān",
-      "gps_code": "OARG",
-      "iata_code": "URZ",
-      "coordinates": "32.9029998779, 66.630897522"
-    },
-    {
-      "ident": "AF11",
-      "type": "small_airport",
-      "name": "Salerno Airport",
-      "elevation_ft": 3780.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-KHO",
-      "municipality": "Khost",
-      "gps_code": "OASL",
-      "iata_code": "OLR",
-      "coordinates": "33.3638, 69.9561"
-    },
-    {
       "ident": "AF12",
       "type": "closed",
       "name": "Sarhawdza Landing Zone Airport",
@@ -296,19 +270,6 @@
       "coordinates": "37.423302, 69.430298"
     },
     {
-      "ident": "DWR",
-      "type": "small_airport",
-      "name": "Dwyer Airport",
-      "elevation_ft": 2380.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-HEL",
-      "municipality": "Reg",
-      "gps_code": "OADY",
-      "iata_code": "DWR",
-      "coordinates": "31.091265, 64.066053"
-    },
-    {
       "ident": "GZI",
       "type": "small_airport",
       "name": "Ghazni Airport",
@@ -330,19 +291,6 @@
       "iso_region": "AF-PKA",
       "municipality": "Gomal",
       "coordinates": "32.336899, 68.940598"
-    },
-    {
-      "ident": "OAA",
-      "type": "small_airport",
-      "name": "Shank Air Base",
-      "elevation_ft": 6890.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-LOW",
-      "municipality": "Baraki Barak",
-      "gps_code": "OASH",
-      "iata_code": "OAA",
-      "coordinates": "33.922217, 69.07794"
     },
     {
       "ident": "OAAK",
@@ -406,6 +354,19 @@
       "gps_code": "OADS",
       "iata_code": "SBF",
       "coordinates": "33.3207015991, 68.6364974976"
+    },
+    {
+      "ident": "OADY",
+      "type": "small_airport",
+      "name": "Dwyer Airport",
+      "elevation_ft": 2380.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-HEL",
+      "municipality": "Reg",
+      "gps_code": "OADY",
+      "iata_code": "DWR",
+      "coordinates": "31.091265, 64.066053"
     },
     {
       "ident": "OADZ",
@@ -749,6 +710,19 @@
       "coordinates": "34.985472, 63.117404"
     },
     {
+      "ident": "OARG",
+      "type": "small_airport",
+      "name": "Orūzgān Airport",
+      "elevation_ft": 6725.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-URU",
+      "municipality": "Orūzgān",
+      "gps_code": "OARG",
+      "iata_code": "URZ",
+      "coordinates": "32.9029998779, 66.630897522"
+    },
+    {
       "ident": "OART",
       "type": "small_airport",
       "name": "Rostaq Airport",
@@ -809,6 +783,32 @@
       "municipality": "Sheberghan",
       "gps_code": "OASG",
       "coordinates": "36.751076, 65.913038"
+    },
+    {
+      "ident": "OASH",
+      "type": "small_airport",
+      "name": "Shank Air Base",
+      "elevation_ft": 6890.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-LOW",
+      "municipality": "Baraki Barak",
+      "gps_code": "OASH",
+      "iata_code": "OAA",
+      "coordinates": "33.922217, 69.07794"
+    },
+    {
+      "ident": "OASL",
+      "type": "small_airport",
+      "name": "Salerno Airport",
+      "elevation_ft": 3780.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-KHO",
+      "municipality": "Khost",
+      "gps_code": "OASL",
+      "iata_code": "OLR",
+      "coordinates": "33.3638, 69.9561"
     },
     {
       "ident": "OASN",

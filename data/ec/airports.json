@@ -2,7 +2,7 @@
   "country_code": "EC",
   "country_name": "Ecuador",
   "total_airports": 357,
-  "last_updated": "2025-02-19T00:08:07.872799",
+  "last_updated": "2025-02-20T00:08:28.173811",
   "types_distribution": {
     "small_airport": 301,
     "closed": 12,
@@ -2271,6 +2271,19 @@
       "coordinates": "-1.730931, -77.109686"
     },
     {
+      "ident": "SEJD",
+      "type": "medium_airport",
+      "name": "Jumandy Airport",
+      "elevation_ft": 1234.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-N",
+      "municipality": "Ahuano",
+      "gps_code": "SEJD",
+      "iata_code": "TNW",
+      "coordinates": "-1.060185, -77.580525"
+    },
+    {
       "ident": "SEJE",
       "type": "small_airport",
       "name": "Jempentza Airstrip",
@@ -4249,19 +4262,6 @@
       "municipality": "Surikentza",
       "gps_code": "SEZR",
       "coordinates": "-2.598404, -77.089405"
-    },
-    {
-      "ident": "TNW",
-      "type": "medium_airport",
-      "name": "Jumandy Airport",
-      "elevation_ft": 1234.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-N",
-      "municipality": "Ahuano",
-      "gps_code": "SEJD",
-      "iata_code": "TNW",
-      "coordinates": "-1.060185, -77.580525"
     }
   ]
 }

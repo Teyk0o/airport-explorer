@@ -2,7 +2,7 @@
   "country_code": "GB",
   "country_name": "United Kingdom",
   "total_airports": 1523,
-  "last_updated": "2025-02-19T00:08:07.572298",
+  "last_updated": "2025-02-20T00:08:27.871336",
   "types_distribution": {
     "closed": 351,
     "small_airport": 964,
@@ -890,6 +890,19 @@
       "gps_code": "EGEH",
       "iata_code": "WHS",
       "coordinates": "60.376835, -0.927229"
+    },
+    {
+      "ident": "EGEI",
+      "type": "small_airport",
+      "name": "Broadford Airstrip",
+      "elevation_ft": 24.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Ashaig",
+      "gps_code": "EGEI",
+      "iata_code": "SKL",
+      "coordinates": "57.253399, -5.8279"
     },
     {
       "ident": "EGEL",
@@ -16238,19 +16251,6 @@
       "iso_region": "GB-ENG",
       "municipality": "Lewes, East Sussex",
       "coordinates": "50.955278, -0.055556"
-    },
-    {
-      "ident": "XBRO",
-      "type": "small_airport",
-      "name": "Broadford Airstrip",
-      "elevation_ft": 24.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Ashaig",
-      "gps_code": "EGEI",
-      "iata_code": "SKL",
-      "coordinates": "57.253399, -5.8279"
     },
     {
       "ident": "XPLO",

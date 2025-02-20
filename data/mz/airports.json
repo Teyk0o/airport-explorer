@@ -2,7 +2,7 @@
   "country_code": "MZ",
   "country_name": "Mozambique",
   "total_airports": 100,
-  "last_updated": "2025-02-19T00:08:07.650192",
+  "last_updated": "2025-02-20T00:08:27.949540",
   "types_distribution": {
     "small_airport": 77,
     "medium_airport": 14,
@@ -156,6 +156,19 @@
       "gps_code": "FQIA",
       "iata_code": "IHC",
       "coordinates": "-25.9971446991, 32.929351806599996"
+    },
+    {
+      "ident": "FQIB",
+      "type": "small_airport",
+      "name": "Ibo Airport",
+      "elevation_ft": 27.0,
+      "continent": "AF",
+      "iso_country": "MZ",
+      "iso_region": "MZ-P",
+      "municipality": "Ibo",
+      "gps_code": "FQIB",
+      "iata_code": "IBO",
+      "coordinates": "-12.350174, 40.602297"
     },
     {
       "ident": "FQIN",
@@ -569,19 +582,6 @@
       "iso_region": "MZ-N",
       "municipality": "Nanatha",
       "coordinates": "-14.210912, 40.696848"
-    },
-    {
-      "ident": "MZ-0012",
-      "type": "small_airport",
-      "name": "Ibo Airport",
-      "elevation_ft": 27.0,
-      "continent": "AF",
-      "iso_country": "MZ",
-      "iso_region": "MZ-P",
-      "municipality": "Ibo",
-      "gps_code": "FQIB",
-      "iata_code": "IBO",
-      "coordinates": "-12.350174, 40.602297"
     },
     {
       "ident": "MZ-0013",

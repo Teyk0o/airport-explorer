@@ -2,7 +2,7 @@
   "country_code": "SR",
   "country_name": "Suriname",
   "total_airports": 56,
-  "last_updated": "2025-02-19T00:08:07.938198",
+  "last_updated": "2025-02-20T00:08:28.236258",
   "types_distribution": {
     "small_airport": 54,
     "heliport": 1,
@@ -34,32 +34,6 @@
       "gps_code": "SMDJ",
       "iata_code": "DOE",
       "coordinates": "4.005713, -55.481644"
-    },
-    {
-      "ident": "GY-LDO",
-      "type": "small_airport",
-      "name": "Ladouanie Airport",
-      "elevation_ft": 236.0,
-      "continent": "SA",
-      "iso_country": "SR",
-      "iso_region": "SR-SI",
-      "municipality": "Aurora",
-      "gps_code": "SMDO",
-      "iata_code": "LDO",
-      "coordinates": "4.376108, -55.407057"
-    },
-    {
-      "ident": "GY-WSO",
-      "type": "small_airport",
-      "name": "Washabo Airport",
-      "elevation_ft": 68.0,
-      "continent": "SA",
-      "iso_country": "SR",
-      "iso_region": "SR-SI",
-      "municipality": "Washabo",
-      "gps_code": "SMWS",
-      "iata_code": "WSO",
-      "coordinates": "5.215277, -57.185302"
     },
     {
       "ident": "SMAF",
@@ -109,6 +83,19 @@
       "gps_code": "SMBN",
       "iata_code": "ABN",
       "coordinates": "5.51272, -54.050098"
+    },
+    {
+      "ident": "SMCA",
+      "type": "small_airport",
+      "name": "Cayana Airstrip",
+      "elevation_ft": 360.0,
+      "continent": "SA",
+      "iso_country": "SR",
+      "iso_region": "SR-SI",
+      "municipality": "Awaradam",
+      "gps_code": "SMCA",
+      "iata_code": "AAJ",
+      "coordinates": "3.898681, -55.577907"
     },
     {
       "ident": "SMCB",
@@ -181,6 +168,19 @@
       "municipality": "Donderskamp",
       "gps_code": "SMDK",
       "coordinates": "5.350385, -56.363047"
+    },
+    {
+      "ident": "SMDO",
+      "type": "small_airport",
+      "name": "Ladouanie Airport",
+      "elevation_ft": 236.0,
+      "continent": "SA",
+      "iso_country": "SR",
+      "iso_region": "SR-SI",
+      "municipality": "Aurora",
+      "gps_code": "SMDO",
+      "iata_code": "LDO",
+      "coordinates": "4.376108, -55.407057"
     },
     {
       "ident": "SMDU",
@@ -519,6 +519,19 @@
       "coordinates": "3.787625, -56.149487"
     },
     {
+      "ident": "SMTP",
+      "type": "small_airport",
+      "name": "Tepoe Airstrip",
+      "elevation_ft": 596.0,
+      "continent": "SA",
+      "iso_country": "SR",
+      "iso_region": "SR-SI",
+      "municipality": "Kasikasima",
+      "gps_code": "SMTP",
+      "iata_code": "KCB",
+      "coordinates": "3.15000009537, -55.716999054"
+    },
+    {
       "ident": "SMVG",
       "type": "small_airport",
       "name": "Vier Gebroeders Airstrip",
@@ -553,6 +566,19 @@
       "gps_code": "SMWA",
       "iata_code": "AGI",
       "coordinates": "5.841252, -56.673247"
+    },
+    {
+      "ident": "SMWS",
+      "type": "small_airport",
+      "name": "Washabo Airport",
+      "elevation_ft": 68.0,
+      "continent": "SA",
+      "iso_country": "SR",
+      "iso_region": "SR-SI",
+      "municipality": "Washabo",
+      "gps_code": "SMWS",
+      "iata_code": "WSO",
+      "coordinates": "5.215277, -57.185302"
     },
     {
       "ident": "SMZO",
@@ -654,32 +680,6 @@
       "iso_region": "SR-NI",
       "municipality": "Nieuw-Nickerie",
       "coordinates": "5.88444, -56.97911"
-    },
-    {
-      "ident": "SR-AAJ",
-      "type": "small_airport",
-      "name": "Cayana Airstrip",
-      "elevation_ft": 360.0,
-      "continent": "SA",
-      "iso_country": "SR",
-      "iso_region": "SR-SI",
-      "municipality": "Awaradam",
-      "gps_code": "SMCA",
-      "iata_code": "AAJ",
-      "coordinates": "3.898681, -55.577907"
-    },
-    {
-      "ident": "SR-KCB",
-      "type": "small_airport",
-      "name": "Tepoe Airstrip",
-      "elevation_ft": 596.0,
-      "continent": "SA",
-      "iso_country": "SR",
-      "iso_region": "SR-SI",
-      "municipality": "Kasikasima",
-      "gps_code": "SMTP",
-      "iata_code": "KCB",
-      "coordinates": "3.15000009537, -55.716999054"
     }
   ]
 }

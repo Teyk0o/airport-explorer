@@ -2,7 +2,7 @@
   "country_code": "CO",
   "country_name": "Colombia",
   "total_airports": 733,
-  "last_updated": "2025-02-19T00:08:07.597999",
+  "last_updated": "2025-02-20T00:08:27.897113",
   "types_distribution": {
     "small_airport": 602,
     "heliport": 57,
@@ -968,32 +968,6 @@
       "gps_code": "SKHZ",
       "iata_code": "LCR",
       "coordinates": "-1.456361, -72.801086"
-    },
-    {
-      "ident": "CO-SNT",
-      "type": "small_airport",
-      "name": "Las Cruces Airport",
-      "elevation_ft": 440.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-SAN",
-      "municipality": "Sabana de Torres",
-      "gps_code": "SKRU",
-      "iata_code": "SNT",
-      "coordinates": "7.38322, -73.505402"
-    },
-    {
-      "ident": "CO-TCD",
-      "type": "small_airport",
-      "name": "Tarapacá Airport",
-      "elevation_ft": 253.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-AMA",
-      "municipality": "Tarapacá",
-      "gps_code": "SKRA",
-      "iata_code": "TCD",
-      "coordinates": "-2.895802, -69.749762"
     },
     {
       "ident": "EEB",
@@ -2508,20 +2482,6 @@
       "coordinates": "4.755556, -72.699167"
     },
     {
-      "ident": "SK-131",
-      "type": "small_airport",
-      "name": "Tauramena Airport",
-      "elevation_ft": 1462.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-CAS",
-      "municipality": "Tauramena",
-      "gps_code": "SKTA",
-      "iata_code": "TAU",
-      "local_code": "TAU",
-      "coordinates": "5.01281, -72.7424"
-    },
-    {
       "ident": "SK-132",
       "type": "small_airport",
       "name": "Tío Bayo Airport",
@@ -2640,20 +2600,6 @@
       "municipality": "Padilla",
       "local_code": "SJP",
       "coordinates": "3.185833, -76.326111"
-    },
-    {
-      "ident": "SK-142",
-      "type": "small_airport",
-      "name": "Timbiqui Airport",
-      "elevation_ft": 145.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-CAU",
-      "municipality": "Timbiqui",
-      "gps_code": "SKMB",
-      "iata_code": "TBD",
-      "local_code": "TBD",
-      "coordinates": "2.778569, -77.668045"
     },
     {
       "ident": "SK-143",
@@ -3231,19 +3177,6 @@
       "coordinates": "8.190674, -77.078576"
     },
     {
-      "ident": "SK-194",
-      "type": "small_airport",
-      "name": "Juradó Airport",
-      "elevation_ft": 33.0,
-      "iso_country": "CO",
-      "iso_region": "CO-CHO",
-      "municipality": "Juradó",
-      "gps_code": "SKJU",
-      "iata_code": "JUO",
-      "local_code": "JUR",
-      "coordinates": "7.07181, -77.727117"
-    },
-    {
       "ident": "SK-195",
       "type": "small_airport",
       "name": "Pizarro Airport",
@@ -3411,19 +3344,6 @@
       "municipality": "Tierralta",
       "local_code": "URT",
       "coordinates": "8.005278, -76.2275"
-    },
-    {
-      "ident": "SK-209",
-      "type": "small_airport",
-      "name": "Barranco Minas Airport",
-      "elevation_ft": 430.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-GUA",
-      "municipality": "Barranco Minas",
-      "gps_code": "SKBM",
-      "iata_code": "NBB",
-      "coordinates": "3.490691, -69.808151"
     },
     {
       "ident": "SK-210",
@@ -5157,20 +5077,6 @@
       "municipality": "Bocas De Satinga",
       "local_code": "BDS",
       "coordinates": "2.35, -78.316667"
-    },
-    {
-      "ident": "SK-360",
-      "type": "small_airport",
-      "name": "El Charco Airport",
-      "elevation_ft": 25.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-NAR",
-      "municipality": "El Charco",
-      "gps_code": "SKEH",
-      "iata_code": "ECR",
-      "local_code": "ECR",
-      "coordinates": "2.44944444444, -78.0941666667"
     },
     {
       "ident": "SK-361",
@@ -7049,20 +6955,6 @@
       "coordinates": "5.307778, -69.831944"
     },
     {
-      "ident": "SK-521",
-      "type": "small_airport",
-      "name": "La Primavera Airport",
-      "elevation_ft": 390.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-VID",
-      "municipality": "La Primavera",
-      "gps_code": "SKIM",
-      "iata_code": "LPE",
-      "local_code": "PIM",
-      "coordinates": "5.4776, -70.4212"
-    },
-    {
       "ident": "SK-522",
       "type": "small_airport",
       "name": "La Victoria Airport",
@@ -7320,6 +7212,19 @@
       "iata_code": "BGA",
       "local_code": "BGA",
       "coordinates": "7.1265, -73.1848"
+    },
+    {
+      "ident": "SKBM",
+      "type": "small_airport",
+      "name": "Barranco Minas Airport",
+      "elevation_ft": 430.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-GUA",
+      "municipality": "Barranco Minas",
+      "gps_code": "SKBM",
+      "iata_code": "NBB",
+      "coordinates": "3.490691, -69.808151"
     },
     {
       "ident": "SKBN",
@@ -7638,6 +7543,20 @@
       "coordinates": "7.59647, -74.8089"
     },
     {
+      "ident": "SKEH",
+      "type": "small_airport",
+      "name": "El Charco Airport",
+      "elevation_ft": 25.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-NAR",
+      "municipality": "El Charco",
+      "gps_code": "SKEH",
+      "iata_code": "ECR",
+      "local_code": "ECR",
+      "coordinates": "2.44944444444, -78.0941666667"
+    },
+    {
       "ident": "SKEJ",
       "type": "medium_airport",
       "name": "Yariguíes Airport",
@@ -7838,6 +7757,20 @@
       "coordinates": "7.677606, -76.683165"
     },
     {
+      "ident": "SKIM",
+      "type": "small_airport",
+      "name": "La Primavera Airport",
+      "elevation_ft": 390.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-VID",
+      "municipality": "La Primavera",
+      "gps_code": "SKIM",
+      "iata_code": "LPE",
+      "local_code": "PIM",
+      "coordinates": "5.4776, -70.4212"
+    },
+    {
       "ident": "SKIO",
       "type": "small_airport",
       "name": "Cicuco Airport",
@@ -7875,6 +7808,19 @@
       "municipality": "Juanchaco",
       "gps_code": "SKJC",
       "coordinates": "3.933991, -77.361453"
+    },
+    {
+      "ident": "SKJU",
+      "type": "small_airport",
+      "name": "Juradó Airport",
+      "elevation_ft": 33.0,
+      "iso_country": "CO",
+      "iso_region": "CO-CHO",
+      "municipality": "Juradó",
+      "gps_code": "SKJU",
+      "iata_code": "JUO",
+      "local_code": "JUR",
+      "coordinates": "7.07181, -77.727117"
     },
     {
       "ident": "SKLA",
@@ -7969,6 +7915,20 @@
       "municipality": "Madrid",
       "gps_code": "SKMA",
       "coordinates": "4.727953, -74.2756"
+    },
+    {
+      "ident": "SKMB",
+      "type": "small_airport",
+      "name": "Timbiqui Airport",
+      "elevation_ft": 145.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-CAU",
+      "municipality": "Timbiqui",
+      "gps_code": "SKMB",
+      "iata_code": "TBD",
+      "local_code": "TBD",
+      "coordinates": "2.778569, -77.668045"
     },
     {
       "ident": "SKMD",
@@ -8458,6 +8418,19 @@
       "coordinates": "5.21256, -74.8836"
     },
     {
+      "ident": "SKRA",
+      "type": "small_airport",
+      "name": "Tarapacá Airport",
+      "elevation_ft": 253.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-AMA",
+      "municipality": "Tarapacá",
+      "gps_code": "SKRA",
+      "iata_code": "TCD",
+      "coordinates": "-2.895802, -69.749762"
+    },
+    {
       "ident": "SKRG",
       "type": "medium_airport",
       "name": "Jose Maria Córdova International Airport",
@@ -8484,6 +8457,19 @@
       "iata_code": "RCH",
       "local_code": "RCH",
       "coordinates": "11.5262, -72.926"
+    },
+    {
+      "ident": "SKRU",
+      "type": "small_airport",
+      "name": "Las Cruces Airport",
+      "elevation_ft": 440.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-SAN",
+      "municipality": "Sabana de Torres",
+      "gps_code": "SKRU",
+      "iata_code": "SNT",
+      "coordinates": "7.38322, -73.505402"
     },
     {
       "ident": "SKSA",
@@ -8629,6 +8615,20 @@
       "iata_code": "SVI",
       "local_code": "SVI",
       "coordinates": "2.15217, -74.7663"
+    },
+    {
+      "ident": "SKTA",
+      "type": "small_airport",
+      "name": "Tauramena Airport",
+      "elevation_ft": 1462.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-CAS",
+      "municipality": "Tauramena",
+      "gps_code": "SKTA",
+      "iata_code": "TAU",
+      "local_code": "TAU",
+      "coordinates": "5.01281, -72.7424"
     },
     {
       "ident": "SKTB",

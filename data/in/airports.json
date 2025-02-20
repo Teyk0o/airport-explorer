@@ -2,7 +2,7 @@
   "country_code": "IN",
   "country_name": "India",
   "total_airports": 630,
-  "last_updated": "2025-02-19T00:08:07.948337",
+  "last_updated": "2025-02-20T00:08:28.248135",
   "types_distribution": {
     "heliport": 283,
     "small_airport": 181,
@@ -735,19 +735,6 @@
       "coordinates": "26.2475, 82.0425"
     },
     {
-      "ident": "IN-0070",
-      "type": "small_airport",
-      "name": "Jindal Vijaynagar Airport",
-      "elevation_ft": 1670.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-KA",
-      "municipality": "Toranagallu",
-      "gps_code": "VOJV",
-      "iata_code": "VDY",
-      "coordinates": "15.175921, 76.63303"
-    },
-    {
       "ident": "IN-0071",
       "type": "heliport",
       "name": "Gadag Government Estate Heliport",
@@ -940,19 +927,6 @@
       "iso_region": "IN-JH",
       "municipality": "Itarbalijor",
       "coordinates": "22.192222, 85.548889"
-    },
-    {
-      "ident": "IN-0090",
-      "type": "small_airport",
-      "name": "Deoghar Airport",
-      "elevation_ft": 361.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-JH",
-      "municipality": "Deoghar",
-      "gps_code": "VEDO",
-      "iata_code": "DGH",
-      "coordinates": "24.446842, 86.704955"
     },
     {
       "ident": "IN-0091",
@@ -2842,19 +2816,6 @@
       "coordinates": "18.988686, 73.068523"
     },
     {
-      "ident": "IN-0277",
-      "type": "large_airport",
-      "name": "Manohar International Airport",
-      "elevation_ft": 552.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-GA",
-      "municipality": "Mopa",
-      "gps_code": "VOGA",
-      "iata_code": "GOX",
-      "coordinates": "15.744257, 73.860625"
-    },
-    {
       "ident": "IN-0278",
       "type": "heliport",
       "name": "Nyoma Heliport",
@@ -3987,19 +3948,6 @@
       "coordinates": "19.074301, 82.036797"
     },
     {
-      "ident": "IN-NVY",
-      "type": "small_airport",
-      "name": "Neyveli Airport",
-      "elevation_ft": 184.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-TN",
-      "municipality": "Neyveli",
-      "gps_code": "VONV",
-      "iata_code": "NVY",
-      "coordinates": "11.612956, 79.527382"
-    },
-    {
       "ident": "IN-RJI",
       "type": "small_airport",
       "name": "Rajouri Airport",
@@ -4012,19 +3960,6 @@
       "coordinates": "33.377899, 74.315201"
     },
     {
-      "ident": "IN-TEI",
-      "type": "small_airport",
-      "name": "Tezu Airport",
-      "elevation_ft": 800.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-AR",
-      "municipality": "Tezu",
-      "gps_code": "VETJ",
-      "iata_code": "TEI",
-      "coordinates": "27.9412002563, 96.1343994141"
-    },
-    {
       "ident": "IN-VA38",
       "type": "small_airport",
       "name": "Sirohi Airport",
@@ -4035,19 +3970,6 @@
       "gps_code": "VA38",
       "local_code": "VA38",
       "coordinates": "24.895099639892578, 72.84590148925781"
-    },
-    {
-      "ident": "IN-VA47",
-      "type": "small_airport",
-      "name": "Jalgaon Airport",
-      "elevation_ft": 818.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-MM",
-      "municipality": "Jalgaon",
-      "gps_code": "VAJL",
-      "iata_code": "JLG",
-      "coordinates": "20.962678, 75.627492"
     },
     {
       "ident": "IN-VA51",
@@ -4349,19 +4271,6 @@
       "coordinates": "19.0886993408, 72.8678970337"
     },
     {
-      "ident": "VABI",
-      "type": "medium_airport",
-      "name": "Bilaspur Airport",
-      "elevation_ft": 899.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-CT",
-      "municipality": "Bilaspur",
-      "gps_code": "VEBU",
-      "iata_code": "PAB",
-      "coordinates": "21.9884, 82.111"
-    },
-    {
       "ident": "VABJ",
       "type": "medium_airport",
       "name": "Bhuj Airport",
@@ -4464,19 +4373,6 @@
       "coordinates": "24.654699, 77.347298"
     },
     {
-      "ident": "VAGO",
-      "type": "large_airport",
-      "name": "Dabolim Airport",
-      "elevation_ft": 150.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-GA",
-      "municipality": "Vasco da Gama",
-      "gps_code": "VOGO",
-      "iata_code": "GOI",
-      "coordinates": "15.3808, 73.831398"
-    },
-    {
       "ident": "VAHB",
       "type": "medium_airport",
       "name": "Hubli Airport",
@@ -4539,6 +4435,19 @@
       "municipality": "Mumbai",
       "gps_code": "VAJJ",
       "coordinates": "19.098100662231445, 72.83419799804688"
+    },
+    {
+      "ident": "VAJL",
+      "type": "small_airport",
+      "name": "Jalgaon Airport",
+      "elevation_ft": 818.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-MM",
+      "municipality": "Jalgaon",
+      "gps_code": "VAJL",
+      "iata_code": "JLG",
+      "coordinates": "20.962678, 75.627492"
     },
     {
       "ident": "VAJM",
@@ -4604,6 +4513,19 @@
       "gps_code": "VAKS",
       "iata_code": "IXK",
       "coordinates": "21.317101, 70.270401"
+    },
+    {
+      "ident": "VALT",
+      "type": "medium_airport",
+      "name": "Murod Kond Airport",
+      "elevation_ft": 2136.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-MM",
+      "municipality": "Latur",
+      "gps_code": "VALT",
+      "iata_code": "LTU",
+      "coordinates": "18.411501, 76.464699"
     },
     {
       "ident": "VAMA",
@@ -4895,20 +4817,6 @@
       "coordinates": "23.09510040283203, 75.88529968261719"
     },
     {
-      "ident": "VE89",
-      "type": "medium_airport",
-      "name": "Darbhanga Airport",
-      "elevation_ft": 156.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-BR",
-      "municipality": "Darbhanga",
-      "gps_code": "VEDH",
-      "iata_code": "DBR",
-      "local_code": "VEDH",
-      "coordinates": "26.192801, 85.916901"
-    },
-    {
       "ident": "VE91",
       "type": "small_airport",
       "name": "Vijaynagar Advanced Landing Ground",
@@ -5056,6 +4964,19 @@
       "coordinates": "19.2975, 84.876944"
     },
     {
+      "ident": "VEBN",
+      "type": "medium_airport",
+      "name": "Lal Bahadur Shastri Airport",
+      "elevation_ft": 266.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-UP",
+      "municipality": "Varanasi",
+      "gps_code": "VEBN",
+      "iata_code": "VNS",
+      "coordinates": "25.452129, 82.861805"
+    },
+    {
       "ident": "VEBS",
       "type": "medium_airport",
       "name": "Biju Patnaik Airport",
@@ -5067,6 +4988,19 @@
       "gps_code": "VEBS",
       "iata_code": "BBI",
       "coordinates": "20.244400024399997, 85.8178024292"
+    },
+    {
+      "ident": "VEBU",
+      "type": "medium_airport",
+      "name": "Bilaspur Airport",
+      "elevation_ft": 899.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-CT",
+      "municipality": "Bilaspur",
+      "gps_code": "VEBU",
+      "iata_code": "PAB",
+      "coordinates": "21.9884, 82.111"
     },
     {
       "ident": "VECA",
@@ -5154,6 +5088,33 @@
       "gps_code": "VEDG",
       "iata_code": "RDP",
       "coordinates": "23.6225, 87.243"
+    },
+    {
+      "ident": "VEDH",
+      "type": "medium_airport",
+      "name": "Darbhanga Airport",
+      "elevation_ft": 156.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-BR",
+      "municipality": "Darbhanga",
+      "gps_code": "VEDH",
+      "iata_code": "DBR",
+      "local_code": "VEDH",
+      "coordinates": "26.192801, 85.916901"
+    },
+    {
+      "ident": "VEDO",
+      "type": "small_airport",
+      "name": "Deoghar Airport",
+      "elevation_ft": 361.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-JH",
+      "municipality": "Deoghar",
+      "gps_code": "VEDO",
+      "iata_code": "DGH",
+      "coordinates": "24.446842, 86.704955"
     },
     {
       "ident": "VEDX",
@@ -5572,6 +5533,19 @@
       "coordinates": "26.141867, 89.907892"
     },
     {
+      "ident": "VETJ",
+      "type": "small_airport",
+      "name": "Tezu Airport",
+      "elevation_ft": 800.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-AR",
+      "municipality": "Tezu",
+      "gps_code": "VETJ",
+      "iata_code": "TEI",
+      "coordinates": "27.9412002563, 96.1343994141"
+    },
+    {
       "ident": "VETZ",
       "type": "medium_airport",
       "name": "Tezpur Airport",
@@ -5933,19 +5907,6 @@
       "municipality": "Lucknow",
       "gps_code": "VIBL",
       "coordinates": "26.9883, 80.893097"
-    },
-    {
-      "ident": "VIBN",
-      "type": "medium_airport",
-      "name": "Lal Bahadur Shastri Airport",
-      "elevation_ft": 266.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-UP",
-      "municipality": "Varanasi",
-      "gps_code": "VEBN",
-      "iata_code": "VNS",
-      "coordinates": "25.452129, 82.861805"
     },
     {
       "ident": "VIBR",
@@ -6484,32 +6445,6 @@
       "coordinates": "14.534533, 75.786879"
     },
     {
-      "ident": "VO55",
-      "type": "medium_airport",
-      "name": "Murod Kond Airport",
-      "elevation_ft": 2136.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-MM",
-      "municipality": "Latur",
-      "gps_code": "VALT",
-      "iata_code": "LTU",
-      "coordinates": "18.411501, 76.464699"
-    },
-    {
-      "ident": "VO80",
-      "type": "small_airport",
-      "name": "Tuticorin Airport",
-      "elevation_ft": 129.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-TN",
-      "municipality": "Vagaikulam",
-      "gps_code": "VOTK",
-      "iata_code": "TCR",
-      "coordinates": "8.724241, 78.025803"
-    },
-    {
       "ident": "VO94",
       "type": "medium_airport",
       "name": "Campbell Bay Airport / INS Baaz",
@@ -6723,6 +6658,19 @@
       "coordinates": "15.8063, 79.4882"
     },
     {
+      "ident": "VOGA",
+      "type": "large_airport",
+      "name": "Manohar International Airport",
+      "elevation_ft": 552.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-GA",
+      "municipality": "Mopa",
+      "gps_code": "VOGA",
+      "iata_code": "GOX",
+      "coordinates": "15.744257, 73.860625"
+    },
+    {
       "ident": "VOGB",
       "type": "small_airport",
       "name": "Kalaburagi Airport",
@@ -6734,6 +6682,19 @@
       "gps_code": "VOGB",
       "iata_code": "GBI",
       "coordinates": "17.308154, 76.965246"
+    },
+    {
+      "ident": "VOGO",
+      "type": "large_airport",
+      "name": "Dabolim Airport",
+      "elevation_ft": 150.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-GA",
+      "municipality": "Vasco da Gama",
+      "gps_code": "VOGO",
+      "iata_code": "GOI",
+      "coordinates": "15.3808, 73.831398"
     },
     {
       "ident": "VOHK",
@@ -6772,6 +6733,19 @@
       "gps_code": "VOHY",
       "iata_code": "BPM",
       "coordinates": "17.4531, 78.467598"
+    },
+    {
+      "ident": "VOJV",
+      "type": "small_airport",
+      "name": "Jindal Vijaynagar Airport",
+      "elevation_ft": 1670.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-KA",
+      "municipality": "Toranagallu",
+      "gps_code": "VOJV",
+      "iata_code": "VDY",
+      "coordinates": "15.175921, 76.63303"
     },
     {
       "ident": "VOKN",
@@ -6875,6 +6849,19 @@
       "municipality": "Nagarjuna Sagar",
       "gps_code": "VONS",
       "coordinates": "16.541574, 79.316504"
+    },
+    {
+      "ident": "VONV",
+      "type": "small_airport",
+      "name": "Neyveli Airport",
+      "elevation_ft": 184.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-TN",
+      "municipality": "Neyveli",
+      "gps_code": "VONV",
+      "iata_code": "NVY",
+      "coordinates": "11.612956, 79.527382"
     },
     {
       "ident": "VOPB",
@@ -7015,6 +7002,19 @@
       "gps_code": "VOTJ",
       "iata_code": "TJV",
       "coordinates": "10.723835, 79.109457"
+    },
+    {
+      "ident": "VOTK",
+      "type": "small_airport",
+      "name": "Tuticorin Airport",
+      "elevation_ft": 129.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-TN",
+      "municipality": "Vagaikulam",
+      "gps_code": "VOTK",
+      "iata_code": "TCR",
+      "coordinates": "8.724241, 78.025803"
     },
     {
       "ident": "VOTP",

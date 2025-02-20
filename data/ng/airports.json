@@ -2,7 +2,7 @@
   "country_code": "NG",
   "country_name": "Nigeria",
   "total_airports": 66,
-  "last_updated": "2025-02-19T00:08:07.870085",
+  "last_updated": "2025-02-20T00:08:28.171191",
   "types_distribution": {
     "small_airport": 23,
     "large_airport": 2,
@@ -286,6 +286,19 @@
       "coordinates": "5.355, 5.349002"
     },
     {
+      "ident": "DNGO",
+      "type": "medium_airport",
+      "name": "Gombe Lawanti International Airport",
+      "elevation_ft": 1590.0,
+      "continent": "AF",
+      "iso_country": "NG",
+      "iso_region": "NG-GO",
+      "municipality": "Gombe",
+      "gps_code": "DNGO",
+      "iata_code": "GMO",
+      "coordinates": "10.298889, 10.9"
+    },
+    {
       "ident": "DNGU",
       "type": "medium_airport",
       "name": "Gusau Airport",
@@ -479,6 +492,19 @@
       "coordinates": "12.916299819946289, 5.207190036773682"
     },
     {
+      "ident": "DNSU",
+      "type": "medium_airport",
+      "name": "Warri Airport",
+      "elevation_ft": 242.0,
+      "continent": "AF",
+      "iso_country": "NG",
+      "iso_region": "NG-DE",
+      "municipality": "Warri",
+      "gps_code": "DNSU",
+      "iata_code": "QRW",
+      "coordinates": "5.59611, 5.81778"
+    },
+    {
       "ident": "DNYO",
       "type": "medium_airport",
       "name": "Yola Airport",
@@ -525,19 +551,6 @@
       "iso_region": "NG-NI",
       "municipality": "New Bussa",
       "coordinates": "9.895279, 4.484224"
-    },
-    {
-      "ident": "NG-0003",
-      "type": "medium_airport",
-      "name": "Gombe Lawanti International Airport",
-      "elevation_ft": 1590.0,
-      "continent": "AF",
-      "iso_country": "NG",
-      "iso_region": "NG-GO",
-      "municipality": "Gombe",
-      "gps_code": "DNGO",
-      "iata_code": "GMO",
-      "coordinates": "10.298889, 10.9"
     },
     {
       "ident": "NG-0004",
@@ -782,19 +795,6 @@
       "municipality": "Bauchi",
       "gps_code": "DNBA",
       "coordinates": "10.294402, 9.816672"
-    },
-    {
-      "ident": "NG-QRW",
-      "type": "medium_airport",
-      "name": "Warri Airport",
-      "elevation_ft": 242.0,
-      "continent": "AF",
-      "iso_country": "NG",
-      "iso_region": "NG-DE",
-      "municipality": "Warri",
-      "gps_code": "DNSU",
-      "iata_code": "QRW",
-      "coordinates": "5.59611, 5.81778"
     }
   ]
 }

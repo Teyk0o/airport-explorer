@@ -2,7 +2,7 @@
   "country_code": "GY",
   "country_name": "Guyana",
   "total_airports": 56,
-  "last_updated": "2025-02-19T00:08:07.937480",
+  "last_updated": "2025-02-20T00:08:28.235567",
   "types_distribution": {
     "closed": 1,
     "small_airport": 51,
@@ -98,19 +98,6 @@
       "gps_code": "SYBE",
       "iata_code": "BCG",
       "coordinates": "7.640212, -58.961786"
-    },
-    {
-      "ident": "PKSA",
-      "type": "medium_airport",
-      "name": "Kaieteur International Airport",
-      "elevation_ft": 1520.0,
-      "continent": "SA",
-      "iso_country": "GY",
-      "iso_region": "GY-PT",
-      "municipality": "Kaieteur Falls",
-      "gps_code": "SYKA",
-      "iata_code": "KAI",
-      "coordinates": "5.17275476456, -59.491481781"
     },
     {
       "ident": "SYAG",
@@ -309,6 +296,19 @@
       "gps_code": "SYIB",
       "iata_code": "IMB",
       "coordinates": "5.70811, -60.294201"
+    },
+    {
+      "ident": "SYKA",
+      "type": "medium_airport",
+      "name": "Kaieteur International Airport",
+      "elevation_ft": 1520.0,
+      "continent": "SA",
+      "iso_country": "GY",
+      "iso_region": "GY-PT",
+      "municipality": "Kaieteur Falls",
+      "gps_code": "SYKA",
+      "iata_code": "KAI",
+      "coordinates": "5.17275476456, -59.491481781"
     },
     {
       "ident": "SYKI",

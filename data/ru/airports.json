@@ -2,7 +2,7 @@
   "country_code": "RU",
   "country_name": "Russia",
   "total_airports": 1706,
-  "last_updated": "2025-02-19T00:08:07.854076",
+  "last_updated": "2025-02-20T00:08:28.155327",
   "types_distribution": {
     "small_airport": 650,
     "medium_airport": 238,
@@ -321,19 +321,6 @@
       "iso_region": "RU-KDA",
       "municipality": "Krasnaya Polyana",
       "coordinates": "43.6765319836, 40.206634998300004"
-    },
-    {
-      "ident": "RU-0025",
-      "type": "small_airport",
-      "name": "Nogliki Airport",
-      "elevation_ft": 109.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-SAK",
-      "municipality": "Nogliki",
-      "gps_code": "UHSN",
-      "iata_code": "NGK",
-      "coordinates": "51.783955, 143.141785"
     },
     {
       "ident": "RU-0026",
@@ -2202,19 +2189,6 @@
       "iso_region": "RU-SA",
       "municipality": "Dzhebariki-Khaya",
       "coordinates": "62.189998626708984, 135.86500549316406"
-    },
-    {
-      "ident": "RU-0200",
-      "type": "small_airport",
-      "name": "Typliy Klyuch Airport",
-      "elevation_ft": 925.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-SA",
-      "municipality": "Khandyga",
-      "gps_code": "UEMH",
-      "iata_code": "KDY",
-      "coordinates": "62.7890014648, 136.854995728"
     },
     {
       "ident": "RU-0201",
@@ -12585,31 +12559,6 @@
       "coordinates": "52.666698, 42.6833"
     },
     {
-      "ident": "RU-LNX",
-      "type": "small_airport",
-      "name": "Smolensk South Airport",
-      "elevation_ft": 820.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-SMO",
-      "municipality": "Smolensk",
-      "gps_code": "UUBS",
-      "coordinates": "54.745, 32.065"
-    },
-    {
-      "ident": "RU-VUS",
-      "type": "small_airport",
-      "name": "Velikiy Ustyug Airport",
-      "elevation_ft": 331.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLG",
-      "municipality": "Velikiy Ustyug",
-      "gps_code": "ULWU",
-      "iata_code": "VUS",
-      "coordinates": "60.788299560546875, 46.2599983215332"
-    },
-    {
       "ident": "UEAT",
       "type": "small_airport",
       "name": "Chumpu-Kytyl Airport",
@@ -12977,6 +12926,19 @@
       "iso_region": "RU-SA",
       "gps_code": "UEME",
       "coordinates": "63.689242, 125.985031"
+    },
+    {
+      "ident": "UEMH",
+      "type": "small_airport",
+      "name": "Typliy Klyuch Airport",
+      "elevation_ft": 925.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-SA",
+      "municipality": "Khandyga",
+      "gps_code": "UEMH",
+      "iata_code": "KDY",
+      "coordinates": "62.7890014648, 136.854995728"
     },
     {
       "ident": "UEMM",
@@ -13496,6 +13458,19 @@
       "iso_region": "RU-SA",
       "gps_code": "UESZ",
       "coordinates": "70.746294, 136.179271"
+    },
+    {
+      "ident": "UEVV",
+      "type": "medium_airport",
+      "name": "Zhigansk Airport",
+      "elevation_ft": 292.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-SA",
+      "municipality": "Zhigansk",
+      "gps_code": "UEVV",
+      "iata_code": "ZIX",
+      "coordinates": "66.7965011597, 123.361000061"
     },
     {
       "ident": "UEWD",
@@ -14486,6 +14461,19 @@
       "coordinates": "43.961066, 145.684977"
     },
     {
+      "ident": "UHSN",
+      "type": "small_airport",
+      "name": "Nogliki Airport",
+      "elevation_ft": 109.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-SAK",
+      "municipality": "Nogliki",
+      "gps_code": "UHSN",
+      "iata_code": "NGK",
+      "coordinates": "51.783955, 143.141785"
+    },
+    {
       "ident": "UHSO",
       "type": "small_airport",
       "name": "Zonalnoye Airport",
@@ -15174,19 +15162,6 @@
       "coordinates": "66.7391, 47.728815"
     },
     {
-      "ident": "ULBC",
-      "type": "medium_airport",
-      "name": "Cherepovets Airport",
-      "elevation_ft": 377.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLG",
-      "municipality": "Cherepovets",
-      "gps_code": "ULWC",
-      "iata_code": "CEE",
-      "coordinates": "59.273601532, 38.015800476100004"
-    },
-    {
       "ident": "ULBL",
       "type": "small_airport",
       "name": "Lopshenga Airstrip",
@@ -15750,6 +15725,19 @@
       "coordinates": "60.015745, 37.755371"
     },
     {
+      "ident": "ULWC",
+      "type": "medium_airport",
+      "name": "Cherepovets Airport",
+      "elevation_ft": 377.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLG",
+      "municipality": "Cherepovets",
+      "gps_code": "ULWC",
+      "iata_code": "CEE",
+      "coordinates": "59.273601532, 38.015800476100004"
+    },
+    {
       "ident": "ULWK",
       "type": "small_airport",
       "name": "Kichmengskiy Gorodok Airport",
@@ -15781,6 +15769,19 @@
       "iso_region": "RU-VLG",
       "municipality": "Totma",
       "coordinates": "59.9835754516, 42.7672863007"
+    },
+    {
+      "ident": "ULWU",
+      "type": "small_airport",
+      "name": "Velikiy Ustyug Airport",
+      "elevation_ft": 331.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLG",
+      "municipality": "Velikiy Ustyug",
+      "gps_code": "ULWU",
+      "iata_code": "VUS",
+      "coordinates": "60.788299560546875, 46.2599983215332"
     },
     {
       "ident": "ULWW",
@@ -17436,6 +17437,18 @@
       "coordinates": "62.110001, 65.614998"
     },
     {
+      "ident": "USHQ",
+      "type": "medium_airport",
+      "name": "Beloyarskiy Airport",
+      "elevation_ft": 82.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KHM",
+      "gps_code": "USHQ",
+      "iata_code": "EYK",
+      "coordinates": "63.686901, 66.698601"
+    },
+    {
       "ident": "USHS",
       "type": "medium_airport",
       "name": "Sovetskiy Airport",
@@ -17460,18 +17473,6 @@
       "gps_code": "USHU",
       "iata_code": "URJ",
       "coordinates": "60.103298, 64.826698"
-    },
-    {
-      "ident": "USHY",
-      "type": "medium_airport",
-      "name": "Beloyarskiy Airport",
-      "elevation_ft": 82.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-KHM",
-      "gps_code": "USHQ",
-      "iata_code": "EYK",
-      "coordinates": "63.686901, 66.698601"
     },
     {
       "ident": "USII",
@@ -17907,6 +17908,18 @@
       "iso_region": "RU-KOS",
       "gps_code": "UUBQ",
       "coordinates": "58.391989, 45.554466"
+    },
+    {
+      "ident": "UUBS",
+      "type": "small_airport",
+      "name": "Smolensk South Airport",
+      "elevation_ft": 820.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-SMO",
+      "municipality": "Smolensk",
+      "gps_code": "UUBS",
+      "coordinates": "54.745, 32.065"
     },
     {
       "ident": "UUBW",
@@ -18569,19 +18582,6 @@
       "gps_code": "UWKS",
       "iata_code": "CSY",
       "coordinates": "56.090301513671875, 47.3473014831543"
-    },
-    {
-      "ident": "UWKV",
-      "type": "medium_airport",
-      "name": "Zhigansk Airport",
-      "elevation_ft": 292.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-SA",
-      "municipality": "Zhigansk",
-      "gps_code": "UEVV",
-      "iata_code": "ZIX",
-      "coordinates": "66.7965011597, 123.361000061"
     },
     {
       "ident": "UWKW",

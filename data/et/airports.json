@@ -2,7 +2,7 @@
   "country_code": "ET",
   "country_name": "Ethiopia",
   "total_airports": 66,
-  "last_updated": "2025-02-19T00:08:07.898271",
+  "last_updated": "2025-02-20T00:08:28.198822",
   "types_distribution": {
     "closed": 7,
     "small_airport": 43,
@@ -720,6 +720,19 @@
       "coordinates": "5.6923, 38.9764"
     },
     {
+      "ident": "HASL",
+      "type": "small_airport",
+      "name": "Shilavo Airport",
+      "elevation_ft": 1296.0,
+      "continent": "AF",
+      "iso_country": "ET",
+      "iso_region": "ET-SO",
+      "municipality": "Shilavo",
+      "gps_code": "HASL",
+      "iata_code": "HIL",
+      "coordinates": "6.077545, 44.763736"
+    },
+    {
       "ident": "HASM",
       "type": "small_airport",
       "name": "Semera Airport",
@@ -781,19 +794,6 @@
       "gps_code": "HAWR",
       "iata_code": "WRA",
       "coordinates": "6.9724, 45.3334"
-    },
-    {
-      "ident": "HIL",
-      "type": "small_airport",
-      "name": "Shilavo Airport",
-      "elevation_ft": 1296.0,
-      "continent": "AF",
-      "iso_country": "ET",
-      "iso_region": "ET-SO",
-      "municipality": "Shilavo",
-      "gps_code": "HASL",
-      "iata_code": "HIL",
-      "coordinates": "6.077545, 44.763736"
     },
     {
       "ident": "MYS",

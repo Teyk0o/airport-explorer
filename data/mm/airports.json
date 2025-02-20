@@ -2,7 +2,7 @@
   "country_code": "MM",
   "country_name": "Myanmar",
   "total_airports": 82,
-  "last_updated": "2025-02-19T00:08:08.023869",
+  "last_updated": "2025-02-20T00:08:28.323704",
   "types_distribution": {
     "closed": 2,
     "small_airport": 53,
@@ -133,19 +133,6 @@
       "iso_region": "MM-05",
       "municipality": "Yebyu",
       "coordinates": "14.679519, 98.35862"
-    },
-    {
-      "ident": "MM-0012",
-      "type": "small_airport",
-      "name": "Heho Airport",
-      "elevation_ft": 3858.0,
-      "continent": "AS",
-      "iso_country": "MM",
-      "iso_region": "MM-17",
-      "municipality": "Kalaw Township",
-      "gps_code": "VYHH",
-      "iata_code": "HEH",
-      "coordinates": "20.74714, 96.792029"
     },
     {
       "ident": "VY02",
@@ -325,6 +312,19 @@
       "municipality": "Hmawbi",
       "gps_code": "VYHB",
       "coordinates": "17.11669921875, 96.06670379638672"
+    },
+    {
+      "ident": "VYHH",
+      "type": "small_airport",
+      "name": "Heho Airport",
+      "elevation_ft": 3858.0,
+      "continent": "AS",
+      "iso_country": "MM",
+      "iso_region": "MM-17",
+      "municipality": "Kalaw Township",
+      "gps_code": "VYHH",
+      "iata_code": "HEH",
+      "coordinates": "20.74714, 96.792029"
     },
     {
       "ident": "VYHL",

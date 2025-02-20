@@ -2,7 +2,7 @@
   "country_code": "TW",
   "country_name": "Taiwan",
   "total_airports": 120,
-  "last_updated": "2025-02-19T00:08:08.040138",
+  "last_updated": "2025-02-20T00:08:28.339748",
   "types_distribution": {
     "medium_airport": 19,
     "small_airport": 32,
@@ -36,6 +36,19 @@
       "gps_code": "RCBS",
       "iata_code": "KNH",
       "coordinates": "24.4279, 118.359001"
+    },
+    {
+      "ident": "RCCM",
+      "type": "small_airport",
+      "name": "Qimei Airport",
+      "elevation_ft": 63.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-PEN",
+      "municipality": "Qimei",
+      "gps_code": "RCCM",
+      "iata_code": "CMJ",
+      "coordinates": "23.213127, 119.417539"
     },
     {
       "ident": "RCDC",
@@ -171,6 +184,19 @@
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Xitun)",
       "coordinates": "24.1863, 120.653999"
+    },
+    {
+      "ident": "RCLM",
+      "type": "small_airport",
+      "name": "Dongsha Island (Pratas Island) Airport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-KHH",
+      "municipality": "Kaohsiung (Cijin - Pratas Island)",
+      "gps_code": "RCLM",
+      "iata_code": "DSX",
+      "coordinates": "20.7066, 116.721001"
     },
     {
       "ident": "RCLY",
@@ -413,19 +439,6 @@
       "iso_region": "TW-PEN",
       "municipality": "Magong",
       "coordinates": "23.517532, 119.583693"
-    },
-    {
-      "ident": "TW-0002",
-      "type": "small_airport",
-      "name": "Dongsha Island (Pratas Island) Airport",
-      "elevation_ft": 10.0,
-      "continent": "AS",
-      "iso_country": "TW",
-      "iso_region": "TW-KHH",
-      "municipality": "Kaohsiung (Cijin - Pratas Island)",
-      "gps_code": "RCLM",
-      "iata_code": "DSX",
-      "coordinates": "20.7066, 116.721001"
     },
     {
       "ident": "TW-0003",
@@ -1311,19 +1324,6 @@
       "iso_region": "TW-NWT",
       "municipality": "New Taipei (Gongliao)",
       "coordinates": "25.04589, 121.92353"
-    },
-    {
-      "ident": "TW-CMJ",
-      "type": "small_airport",
-      "name": "Qimei Airport",
-      "elevation_ft": 63.0,
-      "continent": "AS",
-      "iso_country": "TW",
-      "iso_region": "TW-PEN",
-      "municipality": "Qimei",
-      "gps_code": "RCCM",
-      "iata_code": "CMJ",
-      "coordinates": "23.213127, 119.417539"
     }
   ]
 }

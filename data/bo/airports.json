@@ -2,7 +2,7 @@
   "country_code": "BO",
   "country_name": "Bolivia",
   "total_airports": 205,
-  "last_updated": "2025-02-19T00:08:07.707470",
+  "last_updated": "2025-02-20T00:08:28.007072",
   "types_distribution": {
     "small_airport": 182,
     "heliport": 3,
@@ -11,19 +11,6 @@
     "large_airport": 1
   },
   "airports": [
-    {
-      "ident": "BO-0001",
-      "type": "small_airport",
-      "name": "Rurrenabaque Airport",
-      "elevation_ft": 676.0,
-      "continent": "SA",
-      "iso_country": "BO",
-      "iso_region": "BO-B",
-      "municipality": "Rurrenabaque",
-      "gps_code": "SLRQ",
-      "iata_code": "RBQ",
-      "coordinates": "-14.4279, -67.496803"
-    },
     {
       "ident": "BO-0003",
       "type": "small_airport",
@@ -499,19 +486,6 @@
       "municipality": "Cordillera",
       "gps_code": "SLCG",
       "coordinates": "-19.785601, -63.1884"
-    },
-    {
-      "ident": "SLCH",
-      "type": "small_airport",
-      "name": "Chimore Airport",
-      "elevation_ft": 875.0,
-      "continent": "SA",
-      "iso_country": "BO",
-      "iso_region": "BO-C",
-      "municipality": "Chimore",
-      "gps_code": "SLHI",
-      "iata_code": "CCA",
-      "coordinates": "-16.976834, -65.145568"
     },
     {
       "ident": "SLCI",
@@ -994,6 +968,19 @@
       "municipality": "H. Silez",
       "gps_code": "SLHC",
       "coordinates": "-20.3908, -64.015404"
+    },
+    {
+      "ident": "SLHI",
+      "type": "small_airport",
+      "name": "Chimore Airport",
+      "elevation_ft": 875.0,
+      "continent": "SA",
+      "iso_country": "BO",
+      "iso_region": "BO-C",
+      "municipality": "Chimore",
+      "gps_code": "SLHI",
+      "iata_code": "CCA",
+      "coordinates": "-16.976834, -65.145568"
     },
     {
       "ident": "SLHJ",
@@ -1714,6 +1701,19 @@
       "municipality": "Carangas",
       "gps_code": "SLRP",
       "coordinates": "-18.641666412353516, -67.55833435058594"
+    },
+    {
+      "ident": "SLRQ",
+      "type": "small_airport",
+      "name": "Rurrenabaque Airport",
+      "elevation_ft": 676.0,
+      "continent": "SA",
+      "iso_country": "BO",
+      "iso_region": "BO-B",
+      "municipality": "Rurrenabaque",
+      "gps_code": "SLRQ",
+      "iata_code": "RBQ",
+      "coordinates": "-14.4279, -67.496803"
     },
     {
       "ident": "SLRR",

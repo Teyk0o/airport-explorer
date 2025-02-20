@@ -2,7 +2,7 @@
   "country_code": "RO",
   "country_name": "Romania",
   "total_airports": 143,
-  "last_updated": "2025-02-19T00:08:08.019864",
+  "last_updated": "2025-02-20T00:08:28.316175",
   "types_distribution": {
     "medium_airport": 21,
     "closed": 16,
@@ -154,6 +154,19 @@
       "gps_code": "LRBS",
       "iata_code": "BBU",
       "coordinates": "44.503201, 26.1021"
+    },
+    {
+      "ident": "LRBV",
+      "type": "medium_airport",
+      "name": "Brașov-Ghimbav International Airport",
+      "elevation_ft": 1740.0,
+      "continent": "EU",
+      "iso_country": "RO",
+      "iso_region": "RO-BV",
+      "municipality": "Brașov (Ghimbav)",
+      "gps_code": "LRBV",
+      "iata_code": "GHV",
+      "coordinates": "45.70558, 25.522871"
     },
     {
       "ident": "LRCC",
@@ -326,19 +339,6 @@
       "gps_code": "LROP",
       "iata_code": "OTP",
       "coordinates": "44.572127, 26.103396"
-    },
-    {
-      "ident": "LROV",
-      "type": "medium_airport",
-      "name": "Brașov-Ghimbav International Airport",
-      "elevation_ft": 1740.0,
-      "continent": "EU",
-      "iso_country": "RO",
-      "iso_region": "RO-BV",
-      "municipality": "Brașov (Ghimbav)",
-      "gps_code": "LRBV",
-      "iata_code": "GHV",
-      "coordinates": "45.70558, 25.522871"
     },
     {
       "ident": "LRPH",

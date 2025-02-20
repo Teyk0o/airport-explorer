@@ -2,7 +2,7 @@
   "country_code": "PY",
   "country_name": "Paraguay",
   "total_airports": 119,
-  "last_updated": "2025-02-19T00:08:08.038893",
+  "last_updated": "2025-02-20T00:08:28.338524",
   "types_distribution": {
     "small_airport": 70,
     "medium_airport": 9,
@@ -933,32 +933,6 @@
       "coordinates": "-25.317999, -57.585011"
     },
     {
-      "ident": "PY-BFA",
-      "type": "small_airport",
-      "name": "Aeródromo de Bahía Negra",
-      "elevation_ft": 277.0,
-      "continent": "SA",
-      "iso_country": "PY",
-      "iso_region": "PY-16",
-      "municipality": "Bahía Negra",
-      "gps_code": "SGBN",
-      "iata_code": "BFA",
-      "coordinates": "-20.2246, -58.179528"
-    },
-    {
-      "ident": "PY-OLK",
-      "type": "small_airport",
-      "name": "Fuerte Olimpo Airport",
-      "elevation_ft": 270.0,
-      "continent": "SA",
-      "iso_country": "PY",
-      "iso_region": "PY-16",
-      "municipality": "Fuerte Olimpo",
-      "gps_code": "SGOL",
-      "iata_code": "OLK",
-      "coordinates": "-21.045724, -57.882935"
-    },
-    {
       "ident": "PY-PBT",
       "type": "small_airport",
       "name": "Aeródromo de Puerto Leda",
@@ -1033,6 +1007,19 @@
       "municipality": "Colonia Doctor Pastor Obligado",
       "gps_code": "SGBA",
       "coordinates": "-27.052393, -55.578026"
+    },
+    {
+      "ident": "SGBN",
+      "type": "small_airport",
+      "name": "Aeródromo de Bahía Negra",
+      "elevation_ft": 277.0,
+      "continent": "SA",
+      "iso_country": "PY",
+      "iso_region": "PY-16",
+      "municipality": "Bahía Negra",
+      "gps_code": "SGBN",
+      "iata_code": "BFA",
+      "coordinates": "-20.2246, -58.179528"
     },
     {
       "ident": "SGCB",
@@ -1190,6 +1177,19 @@
       "iso_region": "PY-15",
       "municipality": "Villa Hayes",
       "coordinates": "-25.154666, -57.560495"
+    },
+    {
+      "ident": "SGOL",
+      "type": "small_airport",
+      "name": "Fuerte Olimpo Airport",
+      "elevation_ft": 270.0,
+      "continent": "SA",
+      "iso_country": "PY",
+      "iso_region": "PY-16",
+      "municipality": "Fuerte Olimpo",
+      "gps_code": "SGOL",
+      "iata_code": "OLK",
+      "coordinates": "-21.045724, -57.882935"
     },
     {
       "ident": "SGPC",

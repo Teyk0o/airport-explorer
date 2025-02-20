@@ -2,7 +2,7 @@
   "country_code": "MN",
   "country_name": "Mongolia",
   "total_airports": 40,
-  "last_updated": "2025-02-19T00:08:07.893092",
+  "last_updated": "2025-02-20T00:08:28.193706",
   "types_distribution": {
     "small_airport": 25,
     "closed": 3,
@@ -21,19 +21,6 @@
       "municipality": "Erdenet",
       "iata_code": "ERT",
       "coordinates": "48.983056, 104.150556"
-    },
-    {
-      "ident": "HTM",
-      "type": "small_airport",
-      "name": "Khatgal Airport",
-      "elevation_ft": 5500.0,
-      "continent": "AS",
-      "iso_country": "MN",
-      "iso_region": "MN-041",
-      "municipality": "Hatgal",
-      "gps_code": "ZMHG",
-      "iata_code": "HTM",
-      "coordinates": "50.435988, 100.139532"
     },
     {
       "ident": "MN-0001",
@@ -116,19 +103,6 @@
       "iso_region": "MN-064",
       "municipality": "Bayantal",
       "coordinates": "46.5767, 108.3233"
-    },
-    {
-      "ident": "MN-MXW",
-      "type": "small_airport",
-      "name": "Mandalgobi Airport",
-      "elevation_ft": 4550.0,
-      "continent": "AS",
-      "iso_country": "MN",
-      "iso_region": "MN-059",
-      "municipality": "Mandalgobi",
-      "gps_code": "ZMMG",
-      "iata_code": "MXW",
-      "coordinates": "45.7380981445, 106.268997192"
     },
     {
       "ident": "MN-ULZ",
@@ -318,6 +292,19 @@
       "coordinates": "43.01192, 101.333781"
     },
     {
+      "ident": "ZMHG",
+      "type": "small_airport",
+      "name": "Khatgal Airport",
+      "elevation_ft": 5500.0,
+      "continent": "AS",
+      "iso_country": "MN",
+      "iso_region": "MN-041",
+      "municipality": "Hatgal",
+      "gps_code": "ZMHG",
+      "iata_code": "HTM",
+      "coordinates": "50.435988, 100.139532"
+    },
+    {
       "ident": "ZMHH",
       "type": "small_airport",
       "name": "Kharkhorin Airport",
@@ -354,6 +341,19 @@
       "gps_code": "ZMKD",
       "iata_code": "HVD",
       "coordinates": "47.9541015625, 91.6281967163086"
+    },
+    {
+      "ident": "ZMMG",
+      "type": "small_airport",
+      "name": "Mandalgobi Airport",
+      "elevation_ft": 4550.0,
+      "continent": "AS",
+      "iso_country": "MN",
+      "iso_region": "MN-059",
+      "municipality": "Mandalgobi",
+      "gps_code": "ZMMG",
+      "iata_code": "MXW",
+      "coordinates": "45.7380981445, 106.268997192"
     },
     {
       "ident": "ZMMN",
@@ -467,6 +467,19 @@
       "coordinates": "50.066588, 91.938273"
     },
     {
+      "ident": "ZMUH",
+      "type": "small_airport",
+      "name": "Öndörkhaan Airport",
+      "elevation_ft": 3410.0,
+      "continent": "AS",
+      "iso_country": "MN",
+      "iso_region": "MN-039",
+      "municipality": "Öndörkhaan",
+      "gps_code": "ZMUH",
+      "iata_code": "UNR",
+      "coordinates": "47.30486, 110.6092"
+    },
+    {
       "ident": "ZMUL",
       "type": "small_airport",
       "name": "Ölgii Mongolei Airport",
@@ -478,19 +491,6 @@
       "gps_code": "ZMUL",
       "iata_code": "ULG",
       "coordinates": "48.993301, 89.922501"
-    },
-    {
-      "ident": "ZUMH",
-      "type": "small_airport",
-      "name": "Öndörkhaan Airport",
-      "elevation_ft": 3410.0,
-      "continent": "AS",
-      "iso_country": "MN",
-      "iso_region": "MN-039",
-      "municipality": "Öndörkhaan",
-      "gps_code": "ZMUH",
-      "iata_code": "UNR",
-      "coordinates": "47.30486, 110.6092"
     }
   ]
 }

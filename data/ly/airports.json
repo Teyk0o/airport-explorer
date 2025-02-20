@@ -2,7 +2,7 @@
   "country_code": "LY",
   "country_name": "Libya",
   "total_airports": 80,
-  "last_updated": "2025-02-19T00:08:07.939937",
+  "last_updated": "2025-02-20T00:08:28.237929",
   "types_distribution": {
     "small_airport": 62,
     "medium_airport": 12,
@@ -486,6 +486,19 @@
       "coordinates": "30.378099, 19.576401"
     },
     {
+      "ident": "HLMS",
+      "type": "small_airport",
+      "name": "Misrata International Airport",
+      "elevation_ft": 60.0,
+      "continent": "AF",
+      "iso_country": "LY",
+      "iso_region": "LY-MI",
+      "municipality": "Misrata",
+      "gps_code": "HLMS",
+      "iata_code": "MRA",
+      "coordinates": "32.325001, 15.061"
+    },
+    {
       "ident": "HLNF",
       "type": "small_airport",
       "name": "Ras Lanuf Airport",
@@ -627,6 +640,19 @@
       "gps_code": "HLTQ",
       "iata_code": "TOB",
       "coordinates": "31.861, 23.907"
+    },
+    {
+      "ident": "HLUB",
+      "type": "small_airport",
+      "name": "Ubari Airport",
+      "elevation_ft": 1528.0,
+      "continent": "AF",
+      "iso_country": "LY",
+      "iso_region": "LY-WD",
+      "municipality": "Ubari",
+      "gps_code": "HLUB",
+      "iata_code": "QUB",
+      "coordinates": "26.567499, 12.8231"
     },
     {
       "ident": "HLWA",
@@ -928,32 +954,6 @@
       "municipality": "Martuba",
       "iata_code": "DNF",
       "coordinates": "32.542, 22.745001"
-    },
-    {
-      "ident": "LY-MRA",
-      "type": "small_airport",
-      "name": "Misrata International Airport",
-      "elevation_ft": 60.0,
-      "continent": "AF",
-      "iso_country": "LY",
-      "iso_region": "LY-MI",
-      "municipality": "Misrata",
-      "gps_code": "HLMS",
-      "iata_code": "MRA",
-      "coordinates": "32.325001, 15.061"
-    },
-    {
-      "ident": "LY-QUB",
-      "type": "small_airport",
-      "name": "Ubari Airport",
-      "elevation_ft": 1528.0,
-      "continent": "AF",
-      "iso_country": "LY",
-      "iso_region": "LY-WD",
-      "municipality": "Ubari",
-      "gps_code": "HLUB",
-      "iata_code": "QUB",
-      "coordinates": "26.567499, 12.8231"
     }
   ]
 }

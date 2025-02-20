@@ -2,7 +2,7 @@
   "country_code": "TM",
   "country_name": "Turkmenistan",
   "total_airports": 51,
-  "last_updated": "2025-02-19T00:08:08.049272",
+  "last_updated": "2025-02-20T00:08:28.348755",
   "types_distribution": {
     "small_airport": 16,
     "closed": 3,
@@ -376,19 +376,6 @@
       "coordinates": "36.49190139770508, 61.26649856567383"
     },
     {
-      "ident": "TM-UT51",
-      "type": "small_airport",
-      "name": "Kerki Airport",
-      "elevation_ft": 770.0,
-      "continent": "AS",
-      "iso_country": "TM",
-      "iso_region": "TM-L",
-      "municipality": "Kerki",
-      "gps_code": "UTAE",
-      "iata_code": "KEA",
-      "coordinates": "37.822051, 65.135279"
-    },
-    {
       "ident": "TM-UT52",
       "type": "medium_airport",
       "name": "Mary North Airport",
@@ -500,6 +487,19 @@
       "gps_code": "UTAA",
       "iata_code": "ASB",
       "coordinates": "37.986801, 58.361"
+    },
+    {
+      "ident": "UTAE",
+      "type": "small_airport",
+      "name": "Kerki Airport",
+      "elevation_ft": 770.0,
+      "continent": "AS",
+      "iso_country": "TM",
+      "iso_region": "TM-L",
+      "municipality": "Kerki",
+      "gps_code": "UTAE",
+      "iata_code": "KEA",
+      "coordinates": "37.822051, 65.135279"
     },
     {
       "ident": "UTAK",

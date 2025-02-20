@@ -2,12 +2,12 @@
   "country_code": "CY",
   "country_name": "Cyprus",
   "total_airports": 91,
-  "last_updated": "2025-02-19T00:08:07.832679",
+  "last_updated": "2025-02-20T00:08:28.133925",
   "types_distribution": {
     "small_airport": 10,
-    "medium_airport": 4,
     "closed": 8,
     "heliport": 68,
+    "medium_airport": 4,
     "large_airport": 1
   },
   "airports": [
@@ -19,19 +19,6 @@
       "iso_country": "CY",
       "iso_region": "CY-02",
       "coordinates": "35.106384, 33.321304"
-    },
-    {
-      "ident": "CY-0002",
-      "type": "medium_airport",
-      "name": "Lefkoniko Airport / Geçitkale Air Base",
-      "elevation_ft": 146.0,
-      "continent": "AS",
-      "iso_country": "CY",
-      "iso_region": "CY-03",
-      "municipality": "Lefkoniko (Geçitkale)",
-      "gps_code": "LCGK",
-      "iata_code": "GEC",
-      "coordinates": "35.23591, 33.720088"
     },
     {
       "ident": "CY-0003",
@@ -893,6 +880,19 @@
       "gps_code": "LCEN",
       "iata_code": "ECN",
       "coordinates": "35.152337, 33.506584"
+    },
+    {
+      "ident": "LCGK",
+      "type": "medium_airport",
+      "name": "Lefkoniko Airport / Geçitkale Air Base",
+      "elevation_ft": 146.0,
+      "continent": "AS",
+      "iso_country": "CY",
+      "iso_region": "CY-03",
+      "municipality": "Lefkoniko (Geçitkale)",
+      "gps_code": "LCGK",
+      "iata_code": "GEC",
+      "coordinates": "35.23591, 33.720088"
     },
     {
       "ident": "LCLK",

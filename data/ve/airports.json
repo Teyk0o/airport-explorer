@@ -2,7 +2,7 @@
   "country_code": "VE",
   "country_name": "Venezuela",
   "total_airports": 604,
-  "last_updated": "2025-02-19T00:08:08.042845",
+  "last_updated": "2025-02-20T00:08:28.342390",
   "types_distribution": {
     "small_airport": 456,
     "medium_airport": 46,
@@ -1871,6 +1871,19 @@
       "municipality": "Las Clavellinasmer",
       "gps_code": "SVKL",
       "coordinates": "9.324999809265137, -70.9749984741211"
+    },
+    {
+      "ident": "SVKM",
+      "type": "small_airport",
+      "name": "Kamarata Airport",
+      "elevation_ft": 1770.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-F",
+      "municipality": "Kamarata",
+      "gps_code": "SVKM",
+      "iata_code": "KTV",
+      "coordinates": "5.7171, -62.33727"
     },
     {
       "ident": "SVKN",
@@ -6494,19 +6507,6 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "coordinates": "6.290535, -67.175323"
-    },
-    {
-      "ident": "VE-0205",
-      "type": "small_airport",
-      "name": "Kamarata Airport",
-      "elevation_ft": 1770.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-F",
-      "municipality": "Kamarata",
-      "gps_code": "SVKM",
-      "iata_code": "KTV",
-      "coordinates": "5.7171, -62.33727"
     },
     {
       "ident": "VE-0206",

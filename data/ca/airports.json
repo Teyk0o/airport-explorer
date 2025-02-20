@@ -2,7 +2,7 @@
   "country_code": "CA",
   "country_name": "Canada",
   "total_airports": 3219,
-  "last_updated": "2025-02-19T00:08:07.790305",
+  "last_updated": "2025-02-20T00:08:28.091345",
   "types_distribution": {
     "closed": 820,
     "small_airport": 1206,
@@ -16564,19 +16564,6 @@
       "coordinates": "53.2177775261, -114.336605072"
     },
     {
-      "ident": "CFJ2",
-      "type": "small_airport",
-      "name": "Wekweètì Airport",
-      "elevation_ft": 1208.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Wekweètì",
-      "gps_code": "CYWE",
-      "iata_code": "YFJ",
-      "local_code": "CFJ7",
-      "coordinates": "64.190804, -114.077002"
-    },
-    {
       "ident": "CFJ7",
       "type": "heliport",
       "name": "Fort St. John (Hospital) Heliport",
@@ -24069,19 +24056,6 @@
       "coordinates": "45.401901, -80.125801"
     },
     {
-      "ident": "CNT3",
-      "type": "small_airport",
-      "name": "Ogoki Post Airport",
-      "elevation_ft": 594.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Ogoki Post",
-      "gps_code": "CYKP",
-      "iata_code": "YOG",
-      "local_code": "CYKP",
-      "coordinates": "51.6585998535, -85.9017028809"
-    },
-    {
       "ident": "CNT4",
       "type": "heliport",
       "name": "Little Current (Manitoulin Health Centre) Heliport",
@@ -26032,19 +26006,6 @@
       "gps_code": "CPV6",
       "local_code": "CPV6",
       "coordinates": "45.481807, -77.695194"
-    },
-    {
-      "ident": "CPV7",
-      "type": "small_airport",
-      "name": "Poplar Hill Airport",
-      "elevation_ft": 1095.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Poplar Hill",
-      "gps_code": "CYHP",
-      "iata_code": "YHP",
-      "local_code": "CPV7",
-      "coordinates": "52.1133, -94.2556"
     },
     {
       "ident": "CPV8",
@@ -31625,6 +31586,19 @@
       "coordinates": "55.448757, -60.228124"
     },
     {
+      "ident": "CYHP",
+      "type": "small_airport",
+      "name": "Poplar Hill Airport",
+      "elevation_ft": 1095.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Poplar Hill",
+      "gps_code": "CYHP",
+      "iata_code": "YHP",
+      "local_code": "CPV7",
+      "coordinates": "52.1133, -94.2556"
+    },
+    {
       "ident": "CYHR",
       "type": "small_airport",
       "name": "Chevery Airport",
@@ -31957,6 +31931,19 @@
       "gps_code": "CYKO",
       "iata_code": "AKV",
       "coordinates": "60.8186, -78.148598"
+    },
+    {
+      "ident": "CYKP",
+      "type": "small_airport",
+      "name": "Ogoki Post Airport",
+      "elevation_ft": 594.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Ogoki Post",
+      "gps_code": "CYKP",
+      "iata_code": "YOG",
+      "local_code": "CYKP",
+      "coordinates": "51.6585998535, -85.9017028809"
     },
     {
       "ident": "CYKQ",
@@ -33903,6 +33890,19 @@
       "iso_country": "CA",
       "iso_region": "CA-BC",
       "coordinates": "52.767722, -120.749134"
+    },
+    {
+      "ident": "CYWE",
+      "type": "small_airport",
+      "name": "Wekweètì Airport",
+      "elevation_ft": 1208.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Wekweètì",
+      "gps_code": "CYWE",
+      "iata_code": "YFJ",
+      "local_code": "CFJ7",
+      "coordinates": "64.190804, -114.077002"
     },
     {
       "ident": "CYWG",

@@ -2,12 +2,12 @@
   "country_code": "FJ",
   "country_name": "Fiji",
   "total_airports": 37,
-  "last_updated": "2025-02-19T00:08:07.785139",
+  "last_updated": "2025-02-20T00:08:28.086165",
   "types_distribution": {
     "seaplane_base": 5,
-    "small_airport": 23,
     "heliport": 2,
     "closed": 4,
+    "small_airport": 23,
     "medium_airport": 3
   },
   "airports": [
@@ -22,19 +22,6 @@
       "municipality": "Nanuya Lailai Island",
       "iata_code": "BXL",
       "coordinates": "-16.943, 177.368"
-    },
-    {
-      "ident": "FJ-0001",
-      "type": "small_airport",
-      "name": "Nanuku Airport",
-      "elevation_ft": 21.0,
-      "continent": "OC",
-      "iso_country": "FJ",
-      "iso_region": "FJ-C",
-      "municipality": "Nanuku Auberge Resort",
-      "gps_code": "NFND",
-      "iata_code": "PHR",
-      "coordinates": "-18.2553, 178.0492"
     },
     {
       "ident": "FJ-0002",
@@ -243,6 +230,19 @@
       "gps_code": "NFNB",
       "iata_code": "LEV",
       "coordinates": "-17.7110996246, 178.759002686"
+    },
+    {
+      "ident": "NFND",
+      "type": "small_airport",
+      "name": "Nanuku Airport",
+      "elevation_ft": 21.0,
+      "continent": "OC",
+      "iso_country": "FJ",
+      "iso_region": "FJ-C",
+      "municipality": "Nanuku Auberge Resort",
+      "gps_code": "NFND",
+      "iata_code": "PHR",
+      "coordinates": "-18.2553, 178.0492"
     },
     {
       "ident": "NFNG",

@@ -2,7 +2,7 @@
   "country_code": "MX",
   "country_name": "Mexico",
   "total_airports": 2681,
-  "last_updated": "2025-02-19T00:08:07.679334",
+  "last_updated": "2025-02-20T00:08:27.978551",
   "types_distribution": {
     "small_airport": 1511,
     "heliport": 487,
@@ -1642,6 +1642,19 @@
       "coordinates": "22.254299163800003, -100.930999756"
     },
     {
+      "ident": "MMSZ",
+      "type": "small_airport",
+      "name": "Estación Aeronaval de Salina Cruz",
+      "elevation_ft": 75.0,
+      "iso_country": "MX",
+      "iso_region": "MX-OAX",
+      "municipality": "Salina Cruz",
+      "gps_code": "MMSZ",
+      "iata_code": "SCX",
+      "local_code": "MM57",
+      "coordinates": "16.212601, -95.201599"
+    },
+    {
       "ident": "MMTA",
       "type": "small_airport",
       "name": "Estación No. 9 de la Fuerza Aérea Mexicana",
@@ -1761,6 +1774,19 @@
       "gps_code": "MMTP",
       "iata_code": "TAP",
       "coordinates": "14.794549, -92.369871"
+    },
+    {
+      "ident": "MMTU",
+      "type": "small_airport",
+      "name": "Base Aeronaval de Tulum",
+      "elevation_ft": 7.0,
+      "iso_country": "MX",
+      "iso_region": "MX-ROO",
+      "municipality": "Tulum",
+      "gps_code": "MMTU",
+      "iata_code": "TUY",
+      "local_code": "TUY",
+      "coordinates": "20.227301, -87.438203"
     },
     {
       "ident": "MMTX",
@@ -28210,19 +28236,6 @@
       "coordinates": "16.349977, -98.06198"
     },
     {
-      "ident": "MX-SCX",
-      "type": "small_airport",
-      "name": "Estación Aeronaval de Salina Cruz",
-      "elevation_ft": 75.0,
-      "iso_country": "MX",
-      "iso_region": "MX-OAX",
-      "municipality": "Salina Cruz",
-      "gps_code": "MMSZ",
-      "iata_code": "SCX",
-      "local_code": "MM57",
-      "coordinates": "16.212601, -95.201599"
-    },
-    {
       "ident": "MX-SGM",
       "type": "small_airport",
       "name": "San Ignacio Airport",
@@ -28233,19 +28246,6 @@
       "iata_code": "SGM",
       "local_code": "SIY",
       "coordinates": "27.296473, -112.938809"
-    },
-    {
-      "ident": "MX-TUY",
-      "type": "small_airport",
-      "name": "Base Aeronaval de Tulum",
-      "elevation_ft": 7.0,
-      "iso_country": "MX",
-      "iso_region": "MX-ROO",
-      "municipality": "Tulum",
-      "gps_code": "MMTU",
-      "iata_code": "TUY",
-      "local_code": "TUY",
-      "coordinates": "20.227301, -87.438203"
     },
     {
       "ident": "MX-UAC",

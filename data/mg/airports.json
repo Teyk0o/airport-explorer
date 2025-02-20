@@ -2,7 +2,7 @@
   "country_code": "MG",
   "country_name": "Madagascar",
   "total_airports": 94,
-  "last_updated": "2025-02-19T00:08:07.647183",
+  "last_updated": "2025-02-20T00:08:27.946632",
   "types_distribution": {
     "small_airport": 70,
     "large_airport": 1,
@@ -94,6 +94,20 @@
       "gps_code": "FMFZ",
       "local_code": "MBI",
       "coordinates": "-18.1958013864, 49.348526001"
+    },
+    {
+      "ident": "FMFE",
+      "type": "small_airport",
+      "name": "Ambohibary Airport",
+      "elevation_ft": 2960.0,
+      "continent": "AF",
+      "iso_country": "MG",
+      "iso_region": "MG-A",
+      "municipality": "Moramanga",
+      "gps_code": "FMFE",
+      "iata_code": "OHB",
+      "local_code": "OMB",
+      "coordinates": "-18.9175, 48.2181944444"
     },
     {
       "ident": "FMMA",
@@ -889,20 +903,6 @@
       "gps_code": "FMSZ",
       "iata_code": "WAK",
       "coordinates": "-22.2964423522, 44.5315361023"
-    },
-    {
-      "ident": "MG-0001",
-      "type": "small_airport",
-      "name": "Ambohibary Airport",
-      "elevation_ft": 2960.0,
-      "continent": "AF",
-      "iso_country": "MG",
-      "iso_region": "MG-A",
-      "municipality": "Moramanga",
-      "gps_code": "FMFE",
-      "iata_code": "OHB",
-      "local_code": "OMB",
-      "coordinates": "-18.9175, 48.2181944444"
     },
     {
       "ident": "MG-0002",

@@ -2,7 +2,7 @@
   "country_code": "KP",
   "country_name": "North Korea",
   "total_airports": 94,
-  "last_updated": "2025-02-19T00:08:07.999207",
+  "last_updated": "2025-02-20T00:08:28.299020",
   "types_distribution": {
     "closed": 5,
     "medium_airport": 16,
@@ -42,19 +42,6 @@
       "iso_region": "KP-08",
       "municipality": "Hamhung",
       "coordinates": "39.792215, 127.535906"
-    },
-    {
-      "ident": "KP-0004",
-      "type": "small_airport",
-      "name": "Uiju Airport",
-      "elevation_ft": 32.0,
-      "continent": "AS",
-      "iso_country": "KP",
-      "iso_region": "KP-03",
-      "municipality": "Uiju",
-      "gps_code": "ZKUJ",
-      "iata_code": "UJU",
-      "coordinates": "40.150013, 124.501104"
     },
     {
       "ident": "KP-0005",
@@ -317,19 +304,6 @@
       "coordinates": "38.844721, 126.066828"
     },
     {
-      "ident": "KP-0029",
-      "type": "small_airport",
-      "name": "Samjiyŏn Airport",
-      "elevation_ft": 4547.0,
-      "continent": "AS",
-      "iso_country": "KP",
-      "iso_region": "KP-10",
-      "municipality": "Samjiyŏn",
-      "gps_code": "ZKSE",
-      "iata_code": "YJS",
-      "coordinates": "41.907132, 128.409834"
-    },
-    {
       "ident": "KP-0030",
       "type": "small_airport",
       "name": "Panghyon South Highway Strip",
@@ -350,19 +324,6 @@
       "iso_region": "KP-03",
       "municipality": "Kusong",
       "coordinates": "39.927444, 125.207748"
-    },
-    {
-      "ident": "KP-0032",
-      "type": "medium_airport",
-      "name": "Orang (Chongjin) Airport",
-      "elevation_ft": 12.0,
-      "continent": "AS",
-      "iso_country": "KP",
-      "iso_region": "KP-09",
-      "municipality": "Hoemun-ri",
-      "gps_code": "ZKHM",
-      "iata_code": "RGO",
-      "coordinates": "41.428538, 129.647555"
     },
     {
       "ident": "KP-0033",
@@ -989,6 +950,19 @@
       "coordinates": "38.551953, 124.83261"
     },
     {
+      "ident": "ZKHM",
+      "type": "medium_airport",
+      "name": "Orang (Chongjin) Airport",
+      "elevation_ft": 12.0,
+      "continent": "AS",
+      "iso_country": "KP",
+      "iso_region": "KP-09",
+      "municipality": "Hoemun-ri",
+      "gps_code": "ZKHM",
+      "iata_code": "RGO",
+      "coordinates": "41.428538, 129.647555"
+    },
+    {
       "ident": "ZKPY",
       "type": "large_airport",
       "name": "Pyongyang Sunan International Airport",
@@ -1025,6 +999,32 @@
       "gps_code": "ZKSD",
       "iata_code": "DSO",
       "coordinates": "39.745201, 127.473999"
+    },
+    {
+      "ident": "ZKSE",
+      "type": "small_airport",
+      "name": "Samjiyŏn Airport",
+      "elevation_ft": 4547.0,
+      "continent": "AS",
+      "iso_country": "KP",
+      "iso_region": "KP-10",
+      "municipality": "Samjiyŏn",
+      "gps_code": "ZKSE",
+      "iata_code": "YJS",
+      "coordinates": "41.907132, 128.409834"
+    },
+    {
+      "ident": "ZKUJ",
+      "type": "small_airport",
+      "name": "Uiju Airport",
+      "elevation_ft": 32.0,
+      "continent": "AS",
+      "iso_country": "KP",
+      "iso_region": "KP-03",
+      "municipality": "Uiju",
+      "gps_code": "ZKUJ",
+      "iata_code": "UJU",
+      "coordinates": "40.150013, 124.501104"
     },
     {
       "ident": "ZKWS",

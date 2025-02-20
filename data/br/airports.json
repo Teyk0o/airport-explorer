@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7407,
-  "last_updated": "2025-02-19T00:08:07.711018",
+  "total_airports": 7409,
+  "last_updated": "2025-02-20T00:08:28.010729",
   "types_distribution": {
-    "small_airport": 5126,
+    "small_airport": 5127,
     "closed": 285,
-    "heliport": 1860,
+    "heliport": 1861,
     "medium_airport": 124,
     "seaplane_base": 1,
     "large_airport": 11
@@ -24136,6 +24136,19 @@
       "coordinates": "-20.19918, -43.489798"
     },
     {
+      "ident": "BR-1934",
+      "type": "small_airport",
+      "name": "Fazenda Nebraska Airstrip",
+      "elevation_ft": 1785.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-U-A",
+      "municipality": "Balsas",
+      "gps_code": "SN99",
+      "local_code": "MA0191",
+      "coordinates": "-8.927417, -46.506019"
+    },
+    {
       "ident": "BR-ALT",
       "type": "small_airport",
       "name": "Alenquer Municipal Airport",
@@ -24194,20 +24207,6 @@
       "municipality": "Gravatai",
       "iata_code": "GCV",
       "coordinates": "-29.9494, -50.98505"
-    },
-    {
-      "ident": "JJD",
-      "type": "medium_airport",
-      "name": "Comandante Ariston Pessoa Airport",
-      "elevation_ft": 89.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-CE",
-      "municipality": "Cruz",
-      "gps_code": "SBJE",
-      "iata_code": "JJD",
-      "local_code": "CE0003",
-      "coordinates": "-2.906425, -40.357338"
     },
     {
       "ident": "LVB",
@@ -24317,6 +24316,20 @@
       "iata_code": "ARX",
       "local_code": "CE0004",
       "coordinates": "-4.568896, -37.805135"
+    },
+    {
+      "ident": "SBAE",
+      "type": "medium_airport",
+      "name": "Bauru/Arealva–Moussa Nakhal Tobias State Airport",
+      "elevation_ft": 1962.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Bauru",
+      "gps_code": "SBAE",
+      "iata_code": "JTC",
+      "local_code": "SP0010",
+      "coordinates": "-22.160755, -49.070325"
     },
     {
       "ident": "SBAF",
@@ -25322,6 +25335,20 @@
       "iata_code": "QDV",
       "local_code": "SP0031",
       "coordinates": "-23.180861, -46.943921"
+    },
+    {
+      "ident": "SBJE",
+      "type": "medium_airport",
+      "name": "Comandante Ariston Pessoa Airport",
+      "elevation_ft": 89.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-CE",
+      "municipality": "Cruz",
+      "gps_code": "SBJE",
+      "iata_code": "JJD",
+      "local_code": "CE0003",
+      "coordinates": "-2.906425, -40.357338"
     },
     {
       "ident": "SBJF",
@@ -26885,6 +26912,20 @@
       "iata_code": "TFF",
       "local_code": "AM0004",
       "coordinates": "-3.38294, -64.724098"
+    },
+    {
+      "ident": "SBTG",
+      "type": "small_airport",
+      "name": "Plínio Alarcom Airport",
+      "elevation_ft": 1063.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Três Lagoas",
+      "gps_code": "SBTG",
+      "iata_code": "TJL",
+      "local_code": "MS0006",
+      "coordinates": "-20.752643, -51.682026"
     },
     {
       "ident": "SBTK",
@@ -62519,20 +62560,6 @@
       "coordinates": "-15.46500015258789, -55.622501373291016"
     },
     {
-      "ident": "SJTC",
-      "type": "medium_airport",
-      "name": "Bauru/Arealva–Moussa Nakhal Tobias State Airport",
-      "elevation_ft": 1962.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Bauru",
-      "gps_code": "SBAE",
-      "iata_code": "JTC",
-      "local_code": "SP0010",
-      "coordinates": "-22.160755, -49.070325"
-    },
-    {
       "ident": "SJTD",
       "type": "heliport",
       "name": "Plaza JK Heliport",
@@ -66921,6 +66948,19 @@
       "gps_code": "SN9E",
       "local_code": "PA0405",
       "coordinates": "-9.139224, -51.81541"
+    },
+    {
+      "ident": "SN9F",
+      "type": "heliport",
+      "name": "Heliforte Heliport",
+      "elevation_ft": 16.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PE",
+      "municipality": "Recife",
+      "gps_code": "SN9F",
+      "local_code": "PE0108",
+      "coordinates": "-8.118767, -34.915419"
     },
     {
       "ident": "SN9I",
@@ -82373,20 +82413,6 @@
       "municipality": "Iguatemi",
       "gps_code": "SSTK",
       "coordinates": "-23.682777404785156, -54.53972244262695"
-    },
-    {
-      "ident": "SSTL",
-      "type": "small_airport",
-      "name": "Plínio Alarcom Airport",
-      "elevation_ft": 1063.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Três Lagoas",
-      "gps_code": "SBTG",
-      "iata_code": "TJL",
-      "local_code": "MS0006",
-      "coordinates": "-20.752643, -51.682026"
     },
     {
       "ident": "SSTN",

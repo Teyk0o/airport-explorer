@@ -2,7 +2,7 @@
   "country_code": "PG",
   "country_name": "Papua New Guinea",
   "total_airports": 646,
-  "last_updated": "2025-02-19T00:08:07.584673",
+  "last_updated": "2025-02-20T00:08:27.883866",
   "types_distribution": {
     "small_airport": 548,
     "closed": 74,
@@ -36,47 +36,6 @@
       "coordinates": "-10.1956, 148.7389"
     },
     {
-      "ident": "ADC",
-      "type": "small_airport",
-      "name": "Andakombe Airport",
-      "elevation_ft": 3600.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EHG",
-      "municipality": "Andekombe",
-      "gps_code": "AYAN",
-      "iata_code": "ADC",
-      "local_code": "ADK",
-      "coordinates": "-7.13722222222, 145.744722222"
-    },
-    {
-      "ident": "AEK",
-      "type": "small_airport",
-      "name": "Aseki Airport",
-      "elevation_ft": 4106.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Aseki",
-      "gps_code": "AYAX",
-      "iata_code": "AEK",
-      "local_code": "ASE",
-      "coordinates": "-7.350805, 146.193994"
-    },
-    {
-      "ident": "AFR",
-      "type": "small_airport",
-      "name": "Afore Airstrip",
-      "elevation_ft": 2500.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "gps_code": "AYAF",
-      "iata_code": "AFR",
-      "local_code": "AFE",
-      "coordinates": "-9.13867, 148.390701"
-    },
-    {
       "ident": "AGG",
       "type": "small_airport",
       "name": "Angoram Airport",
@@ -102,60 +61,6 @@
       "coordinates": "-6.396388888890001, 143.853611111"
     },
     {
-      "ident": "AGL",
-      "type": "small_airport",
-      "name": "Wanigela Airport",
-      "elevation_ft": 53.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "gps_code": "AYWG",
-      "iata_code": "AGL",
-      "local_code": "WGL",
-      "coordinates": "-9.3375, 149.155555556"
-    },
-    {
-      "ident": "AIE",
-      "type": "small_airport",
-      "name": "Aiome Airport",
-      "elevation_ft": 350.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Aiome",
-      "gps_code": "AYAO",
-      "iata_code": "AIE",
-      "local_code": "AIO",
-      "coordinates": "-5.145699978, 144.7307003"
-    },
-    {
-      "ident": "AIH",
-      "type": "small_airport",
-      "name": "Aiambak Airport",
-      "elevation_ft": 90.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Aiambak",
-      "gps_code": "AYAK",
-      "iata_code": "AIH",
-      "local_code": "AMB",
-      "coordinates": "-7.342777777779999, 141.2675"
-    },
-    {
-      "ident": "AMF",
-      "type": "small_airport",
-      "name": "Ama Airport",
-      "elevation_ft": 145.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "gps_code": "AYAA",
-      "iata_code": "AMF",
-      "local_code": "AMA",
-      "coordinates": "-4.10111111111, 141.67"
-    },
-    {
       "ident": "AMG",
       "type": "closed",
       "name": "Amboin Airstrip",
@@ -165,20 +70,6 @@
       "iso_region": "PG-ESW",
       "municipality": "Amboin",
       "coordinates": "-4.605642, 143.485308"
-    },
-    {
-      "ident": "AMU",
-      "type": "small_airport",
-      "name": "Amanab Airport",
-      "elevation_ft": 1307.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Amanab",
-      "gps_code": "AYAM",
-      "iata_code": "AMU",
-      "local_code": "ANA",
-      "coordinates": "-3.586, 141.214333333"
     },
     {
       "ident": "AOA",
@@ -216,20 +107,6 @@
       "coordinates": "-8.979167, 148.103611"
     },
     {
-      "ident": "APR",
-      "type": "small_airport",
-      "name": "April River Airport",
-      "elevation_ft": 220.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "municipality": "April River",
-      "gps_code": "AYPE",
-      "iata_code": "APR",
-      "local_code": "APR",
-      "coordinates": "-4.67666666667, 142.540138889"
-    },
-    {
       "ident": "ARP",
       "type": "small_airport",
       "name": "Aragip Airport",
@@ -254,34 +131,6 @@
       "coordinates": "-6.009722222220001, 150.368611111"
     },
     {
-      "ident": "ATN",
-      "type": "small_airport",
-      "name": "Namatanai Airport",
-      "elevation_ft": 150.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Namatanai",
-      "gps_code": "AYNX",
-      "iata_code": "ATN",
-      "local_code": "NTI",
-      "coordinates": "-3.6695, 152.438"
-    },
-    {
-      "ident": "ATP",
-      "type": "small_airport",
-      "name": "Aitape Airport",
-      "elevation_ft": 10.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Aitape",
-      "gps_code": "AYAI",
-      "iata_code": "ATP",
-      "local_code": "APE",
-      "coordinates": "-3.1436111111100002, 142.346805556"
-    },
-    {
       "ident": "ATUA",
       "type": "small_airport",
       "name": "Utai Airstrip",
@@ -295,35 +144,58 @@
       "coordinates": "-3.386, 141.5868"
     },
     {
-      "ident": "AUI",
+      "ident": "AWR",
       "type": "small_airport",
-      "name": "Aua Island Airport",
-      "elevation_ft": 4.0,
+      "name": "Awar Airport (unusable)",
+      "elevation_ft": 35.0,
       "continent": "OC",
       "iso_country": "PG",
-      "iso_region": "PG-MRL",
-      "municipality": "Aua Island",
-      "gps_code": "AYND",
-      "iata_code": "AUI",
-      "local_code": "AUA",
-      "coordinates": "-1.46055555556, 143.064722222"
+      "iso_region": "PG-MPM",
+      "municipality": "Awar",
+      "iata_code": "AWR",
+      "coordinates": "-4.122278, 144.853292"
     },
     {
-      "ident": "AUJ",
+      "ident": "AYAA",
       "type": "small_airport",
-      "name": "Ambunti Airport",
-      "elevation_ft": 50.0,
+      "name": "Ama Airport",
+      "elevation_ft": 145.0,
       "continent": "OC",
       "iso_country": "PG",
       "iso_region": "PG-ESW",
-      "municipality": "Ambunti",
-      "gps_code": "AYAT",
-      "iata_code": "AUJ",
-      "local_code": "AMI",
-      "coordinates": "-4.21566666667, 142.823166667"
+      "gps_code": "AYAA",
+      "iata_code": "AMF",
+      "local_code": "AMA",
+      "coordinates": "-4.10111111111, 141.67"
     },
     {
-      "ident": "AUP",
+      "ident": "AYAE",
+      "type": "small_airport",
+      "name": "Mount Aue Airport",
+      "elevation_ft": 4250.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-JWK",
+      "gps_code": "AYAE",
+      "iata_code": "UAE",
+      "local_code": "AUE",
+      "coordinates": "-6.23416666667, 144.664722222"
+    },
+    {
+      "ident": "AYAF",
+      "type": "small_airport",
+      "name": "Afore Airstrip",
+      "elevation_ft": 2500.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "gps_code": "AYAF",
+      "iata_code": "AFR",
+      "local_code": "AFE",
+      "coordinates": "-9.13867, 148.390701"
+    },
+    {
+      "ident": "AYAG",
       "type": "small_airport",
       "name": "Agaun Airport",
       "elevation_ft": 3200.0,
@@ -336,30 +208,74 @@
       "coordinates": "-9.930833, 149.385667"
     },
     {
-      "ident": "AUV",
+      "ident": "AYAI",
       "type": "small_airport",
-      "name": "Aumo Airport",
-      "elevation_ft": 450.0,
+      "name": "Aitape Airport",
+      "elevation_ft": 10.0,
       "continent": "OC",
       "iso_country": "PG",
-      "iso_region": "PG-WBK",
-      "municipality": "Aumo",
-      "gps_code": "AYUM",
-      "iata_code": "AUV",
-      "local_code": "AUMO",
-      "coordinates": "-5.731111111110001, 148.445277778"
+      "iso_region": "PG-SAN",
+      "municipality": "Aitape",
+      "gps_code": "AYAI",
+      "iata_code": "ATP",
+      "local_code": "APE",
+      "coordinates": "-3.1436111111100002, 142.346805556"
     },
     {
-      "ident": "AWR",
+      "ident": "AYAK",
       "type": "small_airport",
-      "name": "Awar Airport (unusable)",
-      "elevation_ft": 35.0,
+      "name": "Aiambak Airport",
+      "elevation_ft": 90.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Aiambak",
+      "gps_code": "AYAK",
+      "iata_code": "AIH",
+      "local_code": "AMB",
+      "coordinates": "-7.342777777779999, 141.2675"
+    },
+    {
+      "ident": "AYAM",
+      "type": "small_airport",
+      "name": "Amanab Airport",
+      "elevation_ft": 1307.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Amanab",
+      "gps_code": "AYAM",
+      "iata_code": "AMU",
+      "local_code": "ANA",
+      "coordinates": "-3.586, 141.214333333"
+    },
+    {
+      "ident": "AYAN",
+      "type": "small_airport",
+      "name": "Andakombe Airport",
+      "elevation_ft": 3600.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EHG",
+      "municipality": "Andekombe",
+      "gps_code": "AYAN",
+      "iata_code": "ADC",
+      "local_code": "ADK",
+      "coordinates": "-7.13722222222, 145.744722222"
+    },
+    {
+      "ident": "AYAO",
+      "type": "small_airport",
+      "name": "Aiome Airport",
+      "elevation_ft": 350.0,
       "continent": "OC",
       "iso_country": "PG",
       "iso_region": "PG-MPM",
-      "municipality": "Awar",
-      "iata_code": "AWR",
-      "coordinates": "-4.122278, 144.853292"
+      "municipality": "Aiome",
+      "gps_code": "AYAO",
+      "iata_code": "AIE",
+      "local_code": "AIO",
+      "coordinates": "-5.145699978, 144.7307003"
     },
     {
       "ident": "AYAQ",
@@ -375,6 +291,20 @@
       "coordinates": "-5.38166666667, 143.924722222"
     },
     {
+      "ident": "AYAT",
+      "type": "small_airport",
+      "name": "Ambunti Airport",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "Ambunti",
+      "gps_code": "AYAT",
+      "iata_code": "AUJ",
+      "local_code": "AMI",
+      "coordinates": "-4.21566666667, 142.823166667"
+    },
+    {
       "ident": "AYAU",
       "type": "small_airport",
       "name": "Arou Airstrip",
@@ -385,6 +315,62 @@
       "municipality": "Arou",
       "gps_code": "AYAU",
       "coordinates": "-5.4951, 142.5137"
+    },
+    {
+      "ident": "AYAW",
+      "type": "small_airport",
+      "name": "Awaba Airport",
+      "elevation_ft": 32.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Awaba",
+      "gps_code": "AYAW",
+      "iata_code": "AWB",
+      "local_code": "AWB",
+      "coordinates": "-8.013414, 142.752099"
+    },
+    {
+      "ident": "AYAX",
+      "type": "small_airport",
+      "name": "Aseki Airport",
+      "elevation_ft": 4106.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Aseki",
+      "gps_code": "AYAX",
+      "iata_code": "AEK",
+      "local_code": "ASE",
+      "coordinates": "-7.350805, 146.193994"
+    },
+    {
+      "ident": "AYAY",
+      "type": "small_airport",
+      "name": "Aiyura Airport",
+      "elevation_ft": 5355.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EHG",
+      "municipality": "Aiyura Valley",
+      "gps_code": "AYAY",
+      "iata_code": "AYU",
+      "local_code": "AYU",
+      "coordinates": "-6.33805555556, 145.904166667"
+    },
+    {
+      "ident": "AYBA",
+      "type": "medium_airport",
+      "name": "Baimuru Airport",
+      "elevation_ft": 27.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Baimuru",
+      "gps_code": "AYBA",
+      "iata_code": "VMU",
+      "local_code": "BMU",
+      "coordinates": "-7.49686002731, 144.819900513"
     },
     {
       "ident": "AYBB",
@@ -400,6 +386,89 @@
       "coordinates": "-5.2685, 142.097"
     },
     {
+      "ident": "AYBC",
+      "type": "small_airport",
+      "name": "Bambu Airport",
+      "elevation_ft": 6790.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Bambu",
+      "gps_code": "AYBC",
+      "iata_code": "BCP",
+      "local_code": "BAM",
+      "coordinates": "-5.863611111110001, 146.4925"
+    },
+    {
+      "ident": "AYBD",
+      "type": "small_airport",
+      "name": "Bodinumu Airport",
+      "elevation_ft": 3700.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Bodinumu",
+      "gps_code": "AYBD",
+      "iata_code": "BNM",
+      "local_code": "BNU",
+      "coordinates": "-9.107777777779999, 147.666722222"
+    },
+    {
+      "ident": "AYBF",
+      "type": "small_airport",
+      "name": "Bamu Airport",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Bamu",
+      "gps_code": "AYBF",
+      "iata_code": "BMZ",
+      "local_code": "BAMU",
+      "coordinates": "-7.8485, 143.2433"
+    },
+    {
+      "ident": "AYBG",
+      "type": "small_airport",
+      "name": "Baindoung Airport",
+      "elevation_ft": 4400.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "gps_code": "AYBG",
+      "iata_code": "BDZ",
+      "local_code": "BDO",
+      "coordinates": "-6.34722222222, 146.942222222"
+    },
+    {
+      "ident": "AYBH",
+      "type": "small_airport",
+      "name": "Bensbach Airport",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Bensbach",
+      "gps_code": "AYBH",
+      "iata_code": "BSP",
+      "local_code": "BEN",
+      "coordinates": "-8.85805555556, 141.259444444"
+    },
+    {
+      "ident": "AYBI",
+      "type": "small_airport",
+      "name": "Bewani Airport",
+      "elevation_ft": 550.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Bewani",
+      "gps_code": "AYBI",
+      "iata_code": "BWP",
+      "local_code": "BEW",
+      "coordinates": "-3.0216666666700003, 141.165277778"
+    },
+    {
       "ident": "AYBK",
       "type": "medium_airport",
       "name": "Buka Airport",
@@ -411,6 +480,76 @@
       "gps_code": "AYBK",
       "iata_code": "BUA",
       "coordinates": "-5.4223198890686035, 154.67300415039062"
+    },
+    {
+      "ident": "AYBL",
+      "type": "small_airport",
+      "name": "Bialla Airport",
+      "elevation_ft": 51.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WBK",
+      "municipality": "Bialla, Matalilu, Ewase",
+      "gps_code": "AYBL",
+      "iata_code": "BAA",
+      "local_code": "BIA",
+      "coordinates": "-5.3305602073700005, 151.007995605"
+    },
+    {
+      "ident": "AYBM",
+      "type": "medium_airport",
+      "name": "Balimo Airport",
+      "elevation_ft": 51.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Balimo",
+      "gps_code": "AYBM",
+      "iata_code": "OPU",
+      "local_code": "BLI",
+      "coordinates": "-8.05000019073, 142.932998657"
+    },
+    {
+      "ident": "AYBO",
+      "type": "small_airport",
+      "name": "Bomai Airport",
+      "elevation_ft": 3300.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPK",
+      "municipality": "Bomai",
+      "gps_code": "AYBO",
+      "iata_code": "BMH",
+      "local_code": "BOM",
+      "coordinates": "-6.37316666667, 144.637"
+    },
+    {
+      "ident": "AYBP",
+      "type": "small_airport",
+      "name": "Bapi Airstrip",
+      "elevation_ft": 2930.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Bapi",
+      "gps_code": "AYBP",
+      "iata_code": "BPD",
+      "local_code": "BAPI",
+      "coordinates": "-7.743611111110001, 147.020555556"
+    },
+    {
+      "ident": "AYBQ",
+      "type": "small_airport",
+      "name": "Biangabip Airport",
+      "elevation_ft": 1069.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Biangabip",
+      "gps_code": "AYBQ",
+      "iata_code": "BPK",
+      "local_code": "BIP",
+      "coordinates": "-5.526389, 141.744583"
     },
     {
       "ident": "AYBR",
@@ -453,6 +592,20 @@
       "coordinates": "-6.5522, 143.9441"
     },
     {
+      "ident": "AYBU",
+      "type": "small_airport",
+      "name": "Bulolo Airport",
+      "elevation_ft": 2240.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Bulolo",
+      "gps_code": "AYBU",
+      "iata_code": "BUL",
+      "local_code": "BUO",
+      "coordinates": "-7.216286671410001, 146.649541855"
+    },
+    {
       "ident": "AYBW",
       "type": "small_airport",
       "name": "Blackwara Airport",
@@ -490,6 +643,48 @@
       "coordinates": "-6.8378, 145.8732"
     },
     {
+      "ident": "AYBZ",
+      "type": "small_airport",
+      "name": "Biniguni Airport",
+      "elevation_ft": 215.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Biniguni",
+      "gps_code": "AYBZ",
+      "iata_code": "XBN",
+      "local_code": "BNI",
+      "coordinates": "-9.6425, 149.303889"
+    },
+    {
+      "ident": "AYCB",
+      "type": "small_airport",
+      "name": "Chungribu Airport",
+      "elevation_ft": 108.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Chungribu",
+      "gps_code": "AYCB",
+      "iata_code": "CVB",
+      "local_code": "CBU",
+      "coordinates": "-4.80662, 144.714996"
+    },
+    {
+      "ident": "AYCG",
+      "type": "small_airport",
+      "name": "Cape Gloucester Airport",
+      "elevation_ft": 78.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WBK",
+      "municipality": "Cape Gloucester",
+      "gps_code": "AYCG",
+      "iata_code": "CGC",
+      "local_code": "CPG",
+      "coordinates": "-5.458965, 148.432417"
+    },
+    {
       "ident": "AYCH",
       "type": "medium_airport",
       "name": "Chimbu Airport",
@@ -516,6 +711,34 @@
       "coordinates": "-4.328652, 143.74058"
     },
     {
+      "ident": "AYCS",
+      "type": "small_airport",
+      "name": "China Strait Airstrip",
+      "elevation_ft": 10.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Samarai Island",
+      "gps_code": "AYCS",
+      "iata_code": "SQT",
+      "local_code": "CHS",
+      "coordinates": "-10.5627777778, 150.690694444"
+    },
+    {
+      "ident": "AYDB",
+      "type": "small_airport",
+      "name": "Debepare Airport",
+      "elevation_ft": 360.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Debepare",
+      "gps_code": "AYDB",
+      "iata_code": "DBP",
+      "local_code": "DBP",
+      "coordinates": "-6.30861111111, 141.905555556"
+    },
+    {
       "ident": "AYDD",
       "type": "small_airport",
       "name": "Dobu Airstrip",
@@ -527,6 +750,34 @@
       "gps_code": "AYDD",
       "local_code": "DOBU",
       "coordinates": "-6.6305, 144.6383"
+    },
+    {
+      "ident": "AYDE",
+      "type": "small_airport",
+      "name": "Derim Airport",
+      "elevation_ft": 4850.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Derim",
+      "gps_code": "AYDE",
+      "iata_code": "DER",
+      "local_code": "DEM",
+      "coordinates": "-6.14472222222, 147.107222222"
+    },
+    {
+      "ident": "AYDI",
+      "type": "small_airport",
+      "name": "Bundi Airport",
+      "elevation_ft": 4400.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Bundi",
+      "gps_code": "AYDI",
+      "iata_code": "BNT",
+      "local_code": "BDI",
+      "coordinates": "-5.742222222220001, 145.2275"
     },
     {
       "ident": "AYDK",
@@ -611,6 +862,20 @@
       "coordinates": "-8.6298, 142.2162"
     },
     {
+      "ident": "AYDR",
+      "type": "small_airport",
+      "name": "Dorobisoro Airport",
+      "elevation_ft": 1767.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Dorobisoro",
+      "gps_code": "AYDR",
+      "iata_code": "DOO",
+      "local_code": "DOR",
+      "coordinates": "-9.461855, 147.920907"
+    },
+    {
       "ident": "AYDS",
       "type": "small_airport",
       "name": "Dusin Airport",
@@ -663,6 +928,20 @@
       "coordinates": "-7.0077, 145.7965"
     },
     {
+      "ident": "AYEA",
+      "type": "small_airport",
+      "name": "Kerau Airport",
+      "elevation_ft": 7360.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Gunim",
+      "gps_code": "AYEA",
+      "iata_code": "KRU",
+      "local_code": "KEU",
+      "coordinates": "-8.271612, 147.071899"
+    },
+    {
       "ident": "AYEB",
       "type": "small_airport",
       "name": "Embessa Airport",
@@ -691,6 +970,34 @@
       "coordinates": "-3.883986, 141.792234"
     },
     {
+      "ident": "AYEE",
+      "type": "small_airport",
+      "name": "Emirau Airport",
+      "elevation_ft": 172.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Emirau Island",
+      "gps_code": "AYEE",
+      "iata_code": "EMI",
+      "local_code": "ERU",
+      "coordinates": "-1.653949991, 149.9757667"
+    },
+    {
+      "ident": "AYEF",
+      "type": "small_airport",
+      "name": "Efogi Airport",
+      "elevation_ft": 3900.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Efogi",
+      "gps_code": "AYEF",
+      "iata_code": "EFG",
+      "local_code": "EFO",
+      "coordinates": "-9.15380555556, 147.659805556"
+    },
+    {
       "ident": "AYEG",
       "type": "small_airport",
       "name": "Mengina Airstrip",
@@ -702,6 +1009,20 @@
       "gps_code": "AYEG",
       "local_code": "MEN",
       "coordinates": "-6.4836, 144.986"
+    },
+    {
+      "ident": "AYEH",
+      "type": "small_airport",
+      "name": "Morehead Airport",
+      "elevation_ft": 100.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Morehead",
+      "gps_code": "AYEH",
+      "iata_code": "MHY",
+      "local_code": "MHD",
+      "coordinates": "-8.71411111111, 141.644444444"
     },
     {
       "ident": "AYEI",
@@ -812,6 +1133,20 @@
       "coordinates": "-6.1364, 149.1183"
     },
     {
+      "ident": "AYET",
+      "type": "small_airport",
+      "name": "Bosset Airport",
+      "elevation_ft": 80.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Bosset",
+      "gps_code": "AYET",
+      "iata_code": "BOT",
+      "local_code": "BST",
+      "coordinates": "-7.237257, 141.1063222"
+    },
+    {
       "ident": "AYEU",
       "type": "small_airport",
       "name": "Eloaua Airstrip",
@@ -823,6 +1158,34 @@
       "gps_code": "AYEU",
       "local_code": "ELO",
       "coordinates": "-1.5601, 149.6318"
+    },
+    {
+      "ident": "AYEV",
+      "type": "small_airport",
+      "name": "Erave Airport",
+      "elevation_ft": 3650.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SHM",
+      "municipality": "Erave",
+      "gps_code": "AYEV",
+      "iata_code": "ERE",
+      "local_code": "ERV",
+      "coordinates": "-6.60646315446, 143.900213242"
+    },
+    {
+      "ident": "AYEW",
+      "type": "small_airport",
+      "name": "Siwea Airport",
+      "elevation_ft": 5960.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Siwea",
+      "gps_code": "AYEW",
+      "iata_code": "SWE",
+      "local_code": "SIW",
+      "coordinates": "-6.284181, 147.582371"
     },
     {
       "ident": "AYEY",
@@ -851,6 +1214,20 @@
       "coordinates": "-4.587055, 142.335691"
     },
     {
+      "ident": "AYFA",
+      "type": "small_airport",
+      "name": "Fane Airport",
+      "elevation_ft": 4500.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Fane Mission",
+      "gps_code": "AYFA",
+      "iata_code": "FNE",
+      "local_code": "FANE",
+      "coordinates": "-8.54927777778, 147.085833333"
+    },
+    {
       "ident": "AYFE",
       "type": "small_airport",
       "name": "Feramin Airport",
@@ -874,6 +1251,20 @@
       "iso_region": "PG-GPK",
       "gps_code": "AYFF",
       "coordinates": "-7.160353, 143.531317"
+    },
+    {
+      "ident": "AYFI",
+      "type": "small_airport",
+      "name": "Finschhafen Airport",
+      "elevation_ft": 60.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Buki",
+      "gps_code": "AYFI",
+      "iata_code": "FIN",
+      "local_code": "FIN",
+      "coordinates": "-6.621750109, 147.85405"
     },
     {
       "ident": "AYFK",
@@ -969,6 +1360,20 @@
       "coordinates": "-6.081689834590001, 145.391998291"
     },
     {
+      "ident": "AYGC",
+      "type": "small_airport",
+      "name": "Gewoia Airport",
+      "elevation_ft": 340.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Gewoia",
+      "gps_code": "AYGC",
+      "iata_code": "GEW",
+      "local_code": "GEW",
+      "coordinates": "-9.2263, 148.4949"
+    },
+    {
       "ident": "AYGD",
       "type": "small_airport",
       "name": "Gimi Airstrip",
@@ -1034,6 +1439,48 @@
       "gps_code": "AYGH",
       "local_code": "GUHU",
       "coordinates": "-5.6957, 146.1116"
+    },
+    {
+      "ident": "AYGI",
+      "type": "small_airport",
+      "name": "Garaina Airport",
+      "elevation_ft": 2497.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Garaina",
+      "gps_code": "AYGI",
+      "iata_code": "GAR",
+      "local_code": "GNA",
+      "coordinates": "-7.875625, 147.141266"
+    },
+    {
+      "ident": "AYGJ",
+      "type": "small_airport",
+      "name": "Guasopa Airport",
+      "elevation_ft": 10.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Woodlark (Muyua) Island",
+      "gps_code": "AYGJ",
+      "iata_code": "GAZ",
+      "local_code": "GPA",
+      "coordinates": "-9.225918, 152.944352"
+    },
+    {
+      "ident": "AYGL",
+      "type": "small_airport",
+      "name": "Gonaili Airport",
+      "elevation_ft": 40.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EBR",
+      "municipality": "Gonaili",
+      "gps_code": "AYGL",
+      "iata_code": "GOE",
+      "local_code": "GON",
+      "coordinates": "-5.527716614, 151.5733333"
     },
     {
       "ident": "AYGM",
@@ -1129,6 +1576,48 @@
       "coordinates": "-6.1028, 141.7393"
     },
     {
+      "ident": "AYGT",
+      "type": "small_airport",
+      "name": "Gasmata Island Airport",
+      "elevation_ft": 23.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WBK",
+      "municipality": "Gasmata Island",
+      "gps_code": "AYGT",
+      "iata_code": "GMI",
+      "local_code": "GMA",
+      "coordinates": "-6.27111005783, 150.330993652"
+    },
+    {
+      "ident": "AYGU",
+      "type": "small_airport",
+      "name": "Anguganak Airport",
+      "elevation_ft": 937.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Anguganak",
+      "gps_code": "AYGU",
+      "iata_code": "AKG",
+      "local_code": "AGK",
+      "coordinates": "-3.560504, 142.217307"
+    },
+    {
+      "ident": "AYGV",
+      "type": "small_airport",
+      "name": "Green River Airport",
+      "elevation_ft": 281.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Green River",
+      "gps_code": "AYGV",
+      "iata_code": "GVI",
+      "local_code": "GRN",
+      "coordinates": "-3.9022428989400004, 141.170516968"
+    },
+    {
       "ident": "AYGW",
       "type": "small_airport",
       "name": "Guwasa Airport",
@@ -1139,6 +1628,20 @@
       "municipality": "Guwasa",
       "gps_code": "AYGW",
       "coordinates": "-6.465838, 145.083968"
+    },
+    {
+      "ident": "AYGX",
+      "type": "small_airport",
+      "name": "Gora Airstrip",
+      "elevation_ft": 2497.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Gora",
+      "gps_code": "AYGX",
+      "iata_code": "GOC",
+      "local_code": "GORA",
+      "coordinates": "-9.0021, 148.2364"
     },
     {
       "ident": "AYGY",
@@ -1191,6 +1694,20 @@
       "iata_code": "HNI",
       "local_code": "HWI",
       "coordinates": "-7.4223, 146.4276"
+    },
+    {
+      "ident": "AYHF",
+      "type": "small_airport",
+      "name": "Hayfields Airport",
+      "elevation_ft": 466.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "Bainyik",
+      "gps_code": "AYHF",
+      "iata_code": "HYF",
+      "local_code": "HFD",
+      "coordinates": "-3.69838, 143.057902"
     },
     {
       "ident": "AYHH",
@@ -1299,6 +1816,20 @@
       "coordinates": "-4.5845, 141.5742"
     },
     {
+      "ident": "AYHU",
+      "type": "small_airport",
+      "name": "Hawabango Airport",
+      "elevation_ft": 4563.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Hawabango",
+      "gps_code": "AYHU",
+      "iata_code": "HWA",
+      "local_code": "HBA",
+      "coordinates": "-7.392994, 146.003487"
+    },
+    {
       "ident": "AYHW",
       "type": "small_airport",
       "name": "Haewenai Airstrip",
@@ -1337,6 +1868,20 @@
       "coordinates": "-6.2734, 142.7061"
     },
     {
+      "ident": "AYIA",
+      "type": "small_airport",
+      "name": "Nissan Island Airport",
+      "elevation_ft": 52.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Nissan Island",
+      "gps_code": "AYIA",
+      "iata_code": "IIS",
+      "local_code": "NIS",
+      "coordinates": "-4.49972009659, 154.225997925"
+    },
+    {
       "ident": "AYIB",
       "type": "small_airport",
       "name": "Ibil Airstrip",
@@ -1348,6 +1893,20 @@
       "gps_code": "AYIB",
       "local_code": "IBIL",
       "coordinates": "-4.6828, 141.0316"
+    },
+    {
+      "ident": "AYID",
+      "type": "small_airport",
+      "name": "Indagen Airport",
+      "elevation_ft": 5788.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Indagen",
+      "gps_code": "AYID",
+      "iata_code": "IDN",
+      "local_code": "IGN",
+      "coordinates": "-6.22663, 147.244"
     },
     {
       "ident": "AYII",
@@ -1485,6 +2044,20 @@
       "coordinates": "-6.2782, 143.9944"
     },
     {
+      "ident": "AYIW",
+      "type": "small_airport",
+      "name": "Wasua Airport",
+      "elevation_ft": 45.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Wasua",
+      "gps_code": "AYIW",
+      "iata_code": "WSA",
+      "local_code": "WAA",
+      "coordinates": "-8.2836, 142.8697"
+    },
+    {
       "ident": "AYIX",
       "type": "small_airport",
       "name": "Witu Airport",
@@ -1497,6 +2070,20 @@
       "iata_code": "WIU",
       "local_code": "WITU",
       "coordinates": "-4.689522, 149.440112"
+    },
+    {
+      "ident": "AYIY",
+      "type": "small_airport",
+      "name": "Miyanmin Airport",
+      "elevation_ft": 2500.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Miyanmin",
+      "gps_code": "AYIY",
+      "iata_code": "MPX",
+      "local_code": "MIM",
+      "coordinates": "-4.903055555560001, 141.620833333"
     },
     {
       "ident": "AYJE",
@@ -1525,6 +2112,20 @@
       "coordinates": "-8.5289, 147.4603"
     },
     {
+      "ident": "AYJS",
+      "type": "small_airport",
+      "name": "Josephstaal Airport",
+      "elevation_ft": 250.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Josephstaal",
+      "gps_code": "AYJS",
+      "iata_code": "JOP",
+      "local_code": "JSL",
+      "coordinates": "-4.74708333333, 145.007083333"
+    },
+    {
       "ident": "AYJW",
       "type": "small_airport",
       "name": "Wauru Airstrip",
@@ -1550,6 +2151,47 @@
       "coordinates": "-8.505820274353027, 151.08099365234375"
     },
     {
+      "ident": "AYKB",
+      "type": "small_airport",
+      "name": "Kabwum",
+      "elevation_ft": 4450.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "gps_code": "AYKB",
+      "iata_code": "KBM",
+      "local_code": "KBM",
+      "coordinates": "-6.15547222222, 147.191472222"
+    },
+    {
+      "ident": "AYKC",
+      "type": "small_airport",
+      "name": "Kandrian Airport",
+      "elevation_ft": 280.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WBK",
+      "municipality": "Kandrian",
+      "gps_code": "AYKC",
+      "iata_code": "KDR",
+      "local_code": "KDR",
+      "coordinates": "-6.19217, 149.54783"
+    },
+    {
+      "ident": "AYKD",
+      "type": "small_airport",
+      "name": "Kamina Airport",
+      "elevation_ft": 2157.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Hoieti",
+      "gps_code": "AYKD",
+      "iata_code": "KMF",
+      "local_code": "KMN",
+      "coordinates": "-7.64925, 145.956944444"
+    },
+    {
       "ident": "AYKG",
       "type": "small_airport",
       "name": "Kopiago Airport",
@@ -1562,6 +2204,20 @@
       "iata_code": "KPA",
       "local_code": "KGO",
       "coordinates": "-5.3883, 142.4977"
+    },
+    {
+      "ident": "AYKH",
+      "type": "small_airport",
+      "name": "Kamulai Airport",
+      "elevation_ft": 5800.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Kamulai Mission",
+      "gps_code": "AYKH",
+      "iata_code": "KAQ",
+      "local_code": "KML",
+      "coordinates": "-8.150694444440001, 146.834"
     },
     {
       "ident": "AYKI",
@@ -1642,6 +2298,34 @@
       "coordinates": "-8.6917, 146.7566"
     },
     {
+      "ident": "AYKO",
+      "type": "small_airport",
+      "name": "Kokoda Airport",
+      "elevation_ft": 1240.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Kokoda",
+      "gps_code": "AYKO",
+      "iata_code": "KKD",
+      "local_code": "KOK",
+      "coordinates": "-8.88467884064, 147.730957031"
+    },
+    {
+      "ident": "AYKQ",
+      "type": "small_airport",
+      "name": "Kagi Airport",
+      "elevation_ft": 4200.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Kagi",
+      "gps_code": "AYKQ",
+      "iata_code": "KGW",
+      "local_code": "KAGI",
+      "coordinates": "-9.135916666670001, 147.669444444"
+    },
+    {
       "ident": "AYKR",
       "type": "small_airport",
       "name": "Kar Kar Airport",
@@ -1654,6 +2338,20 @@
       "iata_code": "KRX",
       "local_code": "KKR",
       "coordinates": "-4.557, 145.9404"
+    },
+    {
+      "ident": "AYKT",
+      "type": "small_airport",
+      "name": "Kaintiba Airport",
+      "elevation_ft": 2050.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Kaintiba",
+      "gps_code": "AYKT",
+      "iata_code": "KZF",
+      "local_code": "KNT",
+      "coordinates": "-7.50025, 146.033833333"
     },
     {
       "ident": "AYKU",
@@ -1681,6 +2379,20 @@
       "gps_code": "AYKV",
       "iata_code": "KVG",
       "coordinates": "-2.57940006256, 150.807998657"
+    },
+    {
+      "ident": "AYKW",
+      "type": "small_airport",
+      "name": "Kawito Airport",
+      "elevation_ft": 72.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Kawito",
+      "gps_code": "AYKW",
+      "iata_code": "KWO",
+      "local_code": "KWT",
+      "coordinates": "-7.977006912229999, 142.823577881"
     },
     {
       "ident": "AYKY",
@@ -1759,6 +2471,20 @@
       "coordinates": "-5.2192, 151.3938"
     },
     {
+      "ident": "AYLG",
+      "type": "small_airport",
+      "name": "Keglsugl Airport",
+      "elevation_ft": 8400.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPK",
+      "municipality": "Denglagu Mission",
+      "gps_code": "AYLG",
+      "iata_code": "KEG",
+      "local_code": "KEG",
+      "coordinates": "-5.83277777778, 145.097222222"
+    },
+    {
       "ident": "AYLH",
       "type": "small_airport",
       "name": "Klauhau Airstrip",
@@ -1769,6 +2495,20 @@
       "municipality": "Klauhau",
       "gps_code": "AYLH",
       "coordinates": "-4.1305, 142.2495"
+    },
+    {
+      "ident": "AYLI",
+      "type": "small_airport",
+      "name": "Kibuli Airstrip",
+      "elevation_ft": 54.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Kibuli",
+      "gps_code": "AYLI",
+      "iata_code": "KII",
+      "local_code": "KBL",
+      "coordinates": "-9.006528, 142.698056"
     },
     {
       "ident": "AYLJ",
@@ -1782,6 +2522,33 @@
       "gps_code": "AYLJ",
       "local_code": "LMG",
       "coordinates": "-5.819043, 149.305308"
+    },
+    {
+      "ident": "AYLL",
+      "type": "small_airport",
+      "name": "Linga Linga Airport",
+      "elevation_ft": 17.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WBK",
+      "municipality": "Linga Linga",
+      "gps_code": "AYLL",
+      "iata_code": "LGN",
+      "local_code": "LLA",
+      "coordinates": "-5.5319444444400006, 149.734166667"
+    },
+    {
+      "ident": "AYLN",
+      "type": "small_airport",
+      "name": "Langimar Airport",
+      "elevation_ft": 5127.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "gps_code": "AYLN",
+      "iata_code": "LNM",
+      "local_code": "LNM",
+      "coordinates": "-7.22313888889, 146.227083333"
     },
     {
       "ident": "AYLO",
@@ -1837,6 +2604,33 @@
       "iata_code": "LNG",
       "local_code": "LESE",
       "coordinates": "-8.2799, 146.2765"
+    },
+    {
+      "ident": "AYLT",
+      "type": "small_airport",
+      "name": "Lengbati Airport",
+      "elevation_ft": 5750.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "gps_code": "AYLT",
+      "iata_code": "LNC",
+      "local_code": "LNG",
+      "coordinates": "-6.384611111110001, 147.368638889"
+    },
+    {
+      "ident": "AYLU",
+      "type": "small_airport",
+      "name": "Lumi Airport",
+      "elevation_ft": 1750.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Lumi",
+      "gps_code": "AYLU",
+      "iata_code": "LMI",
+      "local_code": "LUMI",
+      "coordinates": "-3.47683951134, 142.041292191"
     },
     {
       "ident": "AYLX",
@@ -1907,6 +2701,20 @@
       "coordinates": "-7.74, 147.59"
     },
     {
+      "ident": "AYMC",
+      "type": "small_airport",
+      "name": "Menyamya Airport",
+      "elevation_ft": 3880.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Menyamya",
+      "gps_code": "AYMC",
+      "iata_code": "MYX",
+      "local_code": "MYY",
+      "coordinates": "-7.21166666667, 146.019361111"
+    },
+    {
       "ident": "AYMD",
       "type": "medium_airport",
       "name": "Madang Airport",
@@ -1957,6 +2765,34 @@
       "gps_code": "AYMH",
       "iata_code": "HGU",
       "coordinates": "-5.828212, 144.299412"
+    },
+    {
+      "ident": "AYMI",
+      "type": "small_airport",
+      "name": "Mindik Airport",
+      "elevation_ft": 4200.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Mindik",
+      "gps_code": "AYMI",
+      "iata_code": "MXK",
+      "local_code": "MIK",
+      "coordinates": "-6.47166666667, 147.441138889"
+    },
+    {
+      "ident": "AYMJ",
+      "type": "small_airport",
+      "name": "Makini Airport",
+      "elevation_ft": 2530.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Makini",
+      "gps_code": "AYMJ",
+      "iata_code": "MPG",
+      "local_code": "MAK",
+      "coordinates": "-6.532222222220001, 147.651166667"
     },
     {
       "ident": "AYMK",
@@ -2012,6 +2848,34 @@
       "coordinates": "-2.06189, 147.423996"
     },
     {
+      "ident": "AYMP",
+      "type": "small_airport",
+      "name": "Malalaua Airport",
+      "elevation_ft": 20.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Malalaua",
+      "gps_code": "AYMP",
+      "iata_code": "MLQ",
+      "local_code": "MLU",
+      "coordinates": "-8.07138888889, 146.155472222"
+    },
+    {
+      "ident": "AYMQ",
+      "type": "small_airport",
+      "name": "Malam Airport",
+      "elevation_ft": 126.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Malam",
+      "gps_code": "AYMQ",
+      "iata_code": "MQO",
+      "local_code": "MAA",
+      "coordinates": "-8.70916666667, 142.649722222"
+    },
+    {
       "ident": "AYMR",
       "type": "small_airport",
       "name": "Moro Airport",
@@ -2048,6 +2912,20 @@
       "gps_code": "AYMU",
       "local_code": "MLM",
       "coordinates": "-6.426481, 142.767485"
+    },
+    {
+      "ident": "AYMV",
+      "type": "small_airport",
+      "name": "Malekolon Airport",
+      "elevation_ft": 5.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Babase Island",
+      "gps_code": "AYMV",
+      "iata_code": "MKN",
+      "local_code": "MKO",
+      "coordinates": "-4.02343055556, 153.657277778"
     },
     {
       "ident": "AYMW",
@@ -2090,6 +2968,20 @@
       "coordinates": "-3.3158, 141.2461"
     },
     {
+      "ident": "AYMZ",
+      "type": "small_airport",
+      "name": "Mapua(Mabua) Airport",
+      "elevation_ft": 40.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Tatau Island",
+      "gps_code": "AYMZ",
+      "iata_code": "MPU",
+      "local_code": "MBU",
+      "coordinates": "-2.81138888889, 151.991111111"
+    },
+    {
       "ident": "AYNA",
       "type": "small_airport",
       "name": "Nankina Airport",
@@ -2102,6 +2994,48 @@
       "iata_code": "NKN",
       "local_code": "NKN",
       "coordinates": "-5.837, 146.4533"
+    },
+    {
+      "ident": "AYNB",
+      "type": "small_airport",
+      "name": "Kanabea Airport",
+      "elevation_ft": 4288.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Kanabea",
+      "gps_code": "AYNB",
+      "iata_code": "KEX",
+      "local_code": "KEA",
+      "coordinates": "-7.538888888890001, 145.905"
+    },
+    {
+      "ident": "AYNC",
+      "type": "small_airport",
+      "name": "Nadunumu Airport",
+      "elevation_ft": 5100.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Nadunumu",
+      "gps_code": "AYNC",
+      "iata_code": "NDN",
+      "local_code": "NDM",
+      "coordinates": "-9.14355555556, 147.68425"
+    },
+    {
+      "ident": "AYND",
+      "type": "small_airport",
+      "name": "Aua Island Airport",
+      "elevation_ft": 4.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MRL",
+      "municipality": "Aua Island",
+      "gps_code": "AYND",
+      "iata_code": "AUI",
+      "local_code": "AUA",
+      "coordinates": "-1.46055555556, 143.064722222"
     },
     {
       "ident": "AYNE",
@@ -2158,6 +3092,34 @@
       "coordinates": "-5.842728, 146.112601"
     },
     {
+      "ident": "AYNI",
+      "type": "small_airport",
+      "name": "Nuguria Airstrip",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Nuguria Island",
+      "gps_code": "AYNI",
+      "iata_code": "NUG",
+      "local_code": "NGA",
+      "coordinates": "-3.4075, 154.7383"
+    },
+    {
+      "ident": "AYNJ",
+      "type": "small_airport",
+      "name": "Namudi Airport",
+      "elevation_ft": 1044.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Namudi",
+      "gps_code": "AYNJ",
+      "iata_code": "NDI",
+      "local_code": "NAM",
+      "coordinates": "-9.47375, 148.329416667"
+    },
+    {
       "ident": "AYNM",
       "type": "small_airport",
       "name": "Kasonombe Airport",
@@ -2170,6 +3132,20 @@
       "iata_code": "KSB",
       "local_code": "KNB",
       "coordinates": "-6.3819, 146.9859"
+    },
+    {
+      "ident": "AYNN",
+      "type": "small_airport",
+      "name": "Kandep Airport",
+      "elevation_ft": 7710.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EPW",
+      "municipality": "Kandep",
+      "gps_code": "AYNN",
+      "iata_code": "KDP",
+      "local_code": "KDP",
+      "coordinates": "-5.84061111111, 143.507222222"
     },
     {
       "ident": "AYNO",
@@ -2199,6 +3175,20 @@
       "coordinates": "-4.504308, 144.231471"
     },
     {
+      "ident": "AYNS",
+      "type": "small_airport",
+      "name": "Bunsil Airport",
+      "elevation_ft": 201.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Bunsil - Umboi Island",
+      "gps_code": "AYNS",
+      "iata_code": "BXZ",
+      "local_code": "BSL",
+      "coordinates": "-5.7243, 147.8667"
+    },
+    {
       "ident": "AYNT",
       "type": "small_airport",
       "name": "Kantobo Airstrip",
@@ -2210,6 +3200,34 @@
       "gps_code": "AYNT",
       "local_code": "KNO",
       "coordinates": "-6.7227, 143.5636"
+    },
+    {
+      "ident": "AYNU",
+      "type": "small_airport",
+      "name": "Nuku Airport",
+      "elevation_ft": 870.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Nuku",
+      "gps_code": "AYNU",
+      "iata_code": "UKU",
+      "local_code": "NUKU",
+      "coordinates": "-3.676651, 142.484334"
+    },
+    {
+      "ident": "AYNX",
+      "type": "small_airport",
+      "name": "Namatanai Airport",
+      "elevation_ft": 150.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Namatanai",
+      "gps_code": "AYNX",
+      "iata_code": "ATN",
+      "local_code": "NTI",
+      "coordinates": "-3.6695, 152.438"
     },
     {
       "ident": "AYNY",
@@ -2252,6 +3270,20 @@
       "coordinates": "-3.598, 141.3614"
     },
     {
+      "ident": "AYOB",
+      "type": "small_airport",
+      "name": "Obo Airport",
+      "elevation_ft": 29.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Obo",
+      "gps_code": "AYOB",
+      "iata_code": "OBX",
+      "local_code": "OBO",
+      "coordinates": "-7.590622421369999, 141.324262619"
+    },
+    {
       "ident": "AYOD",
       "type": "small_airport",
       "name": "Obura Airstrip",
@@ -2277,6 +3309,33 @@
       "iata_code": "KGB",
       "local_code": "KGE",
       "coordinates": "-6.2239, 147.2152"
+    },
+    {
+      "ident": "AYOF",
+      "type": "small_airport",
+      "name": "Okao Airport",
+      "elevation_ft": 450.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Okao",
+      "gps_code": "AYOF",
+      "iata_code": "OKV",
+      "local_code": "OKO",
+      "coordinates": "-5.55666666667, 141.032777778"
+    },
+    {
+      "ident": "AYOG",
+      "type": "small_airport",
+      "name": "Ogeranang Airport",
+      "elevation_ft": 5850.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "gps_code": "AYOG",
+      "iata_code": "OGE",
+      "local_code": "OGN",
+      "coordinates": "-6.46675, 147.364166667"
     },
     {
       "ident": "AYOH",
@@ -2320,6 +3379,61 @@
       "coordinates": "-7.3984, 145.8827"
     },
     {
+      "ident": "AYOL",
+      "type": "small_airport",
+      "name": "Kol Airport",
+      "elevation_ft": 5350.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-JWK",
+      "municipality": "Kol",
+      "gps_code": "AYOL",
+      "iata_code": "KQL",
+      "local_code": "KOL",
+      "coordinates": "-5.73116666667, 144.846"
+    },
+    {
+      "ident": "AYOM",
+      "type": "small_airport",
+      "name": "Omora Airport",
+      "elevation_ft": 2540.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Omora",
+      "gps_code": "AYOM",
+      "iata_code": "OSE",
+      "local_code": "OOA",
+      "coordinates": "-7.82777777778, 147.080638889"
+    },
+    {
+      "ident": "AYOO",
+      "type": "small_airport",
+      "name": "Komo-Manda Airport",
+      "elevation_ft": 5057.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-HLA",
+      "municipality": "Komo",
+      "gps_code": "AYOO",
+      "iata_code": "KOM",
+      "local_code": "KOMO",
+      "coordinates": "-6.0682, 142.8598"
+    },
+    {
+      "ident": "AYOP",
+      "type": "small_airport",
+      "name": "Kosipe Airport",
+      "elevation_ft": 6350.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Kosipe Mission",
+      "gps_code": "AYOP",
+      "iata_code": "KSP",
+      "coordinates": "-8.450716, 147.209195"
+    },
+    {
       "ident": "AYOQ",
       "type": "small_airport",
       "name": "Komaio Airport",
@@ -2357,6 +3471,20 @@
       "gps_code": "AYOU",
       "local_code": "KBK",
       "coordinates": "-5.3817, 144.6355"
+    },
+    {
+      "ident": "AYOV",
+      "type": "small_airport",
+      "name": "Olsobip Airport",
+      "elevation_ft": 1500.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Olsobip",
+      "gps_code": "AYOV",
+      "iata_code": "OLQ",
+      "local_code": "OLS",
+      "coordinates": "-5.3897222222200005, 141.515277778"
     },
     {
       "ident": "AYOW",
@@ -2424,6 +3552,20 @@
       "coordinates": "-7.0838, 142.514"
     },
     {
+      "ident": "AYPB",
+      "type": "small_airport",
+      "name": "Paiela Airport",
+      "elevation_ft": 6100.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EPW",
+      "municipality": "Paiela",
+      "gps_code": "AYPB",
+      "iata_code": "PLE",
+      "local_code": "PAL",
+      "coordinates": "-5.372407, 142.975774"
+    },
+    {
       "ident": "AYPC",
       "type": "small_airport",
       "name": "Pangoa Airport",
@@ -2436,6 +3578,34 @@
       "iata_code": "PGB",
       "local_code": "PGA",
       "coordinates": "-7.0226, 141.5605"
+    },
+    {
+      "ident": "AYPD",
+      "type": "small_airport",
+      "name": "Pindiu Airport",
+      "elevation_ft": 2995.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Pindiu",
+      "gps_code": "AYPD",
+      "iata_code": "PDI",
+      "local_code": "PDU",
+      "coordinates": "-6.445138888890001, 147.515833333"
+    },
+    {
+      "ident": "AYPE",
+      "type": "small_airport",
+      "name": "April River Airport",
+      "elevation_ft": 220.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "April River",
+      "gps_code": "AYPE",
+      "iata_code": "APR",
+      "local_code": "APR",
+      "coordinates": "-4.67666666667, 142.540138889"
     },
     {
       "ident": "AYPG",
@@ -2463,6 +3633,20 @@
       "gps_code": "AYPI",
       "local_code": "KAPI",
       "coordinates": "-6.371, 144.6839"
+    },
+    {
+      "ident": "AYPJ",
+      "type": "small_airport",
+      "name": "Pimaga Airport",
+      "elevation_ft": 2745.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SHM",
+      "municipality": "Pimaga",
+      "gps_code": "AYPJ",
+      "iata_code": "PMP",
+      "local_code": "PAG",
+      "coordinates": "-6.49916666667, 143.510277778"
     },
     {
       "ident": "AYPO",
@@ -2543,6 +3727,20 @@
       "coordinates": "-9.443380355834961, 147.22000122070312"
     },
     {
+      "ident": "AYQA",
+      "type": "small_airport",
+      "name": "Karawari Airstrip",
+      "elevation_ft": 70.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "Amboin",
+      "gps_code": "AYQA",
+      "iata_code": "KRJ",
+      "local_code": "KRR",
+      "coordinates": "-4.59666666667, 143.5225"
+    },
+    {
       "ident": "AYQB",
       "type": "small_airport",
       "name": "Simbari Airstrip",
@@ -2554,6 +3752,20 @@
       "gps_code": "AYQB",
       "local_code": "SBR",
       "coordinates": "-6.9623, 145.6448"
+    },
+    {
+      "ident": "AYQL",
+      "type": "small_airport",
+      "name": "Tumolbil Airport",
+      "elevation_ft": 3590.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Tumolbil",
+      "gps_code": "AYQL",
+      "iata_code": "TLP",
+      "local_code": "TUM",
+      "coordinates": "-4.7748, 141.0133"
     },
     {
       "ident": "AYQM",
@@ -2581,6 +3793,20 @@
       "iata_code": "SPH",
       "local_code": "SOPU",
       "coordinates": "-8.3038, 147.1659"
+    },
+    {
+      "ident": "AYQQ",
+      "type": "small_airport",
+      "name": "Ononge Airport",
+      "elevation_ft": 5800.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Onange Mission",
+      "gps_code": "AYQQ",
+      "iata_code": "ONB",
+      "local_code": "ONG",
+      "coordinates": "-8.67436111111, 147.262416667"
     },
     {
       "ident": "AYQR",
@@ -2647,6 +3873,20 @@
       "coordinates": "-4.7508, 142.3686"
     },
     {
+      "ident": "AYRA",
+      "type": "small_airport",
+      "name": "Kira Airport",
+      "elevation_ft": 1700.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Kira",
+      "gps_code": "AYRA",
+      "iata_code": "KIQ",
+      "local_code": "KIRA",
+      "coordinates": "-8.065111111110001, 147.332027778"
+    },
+    {
       "ident": "AYRB",
       "type": "closed",
       "name": "Lakunai Airfield",
@@ -2668,6 +3908,20 @@
       "municipality": "Maingi",
       "gps_code": "AYRD",
       "coordinates": "-5.959437, 151.171703"
+    },
+    {
+      "ident": "AYRE",
+      "type": "small_airport",
+      "name": "Raba Raba Airport",
+      "elevation_ft": 170.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Rabaraba",
+      "gps_code": "AYRE",
+      "iata_code": "RBP",
+      "local_code": "RBA",
+      "coordinates": "-9.97111111111, 149.832222222"
     },
     {
       "ident": "AYRG",
@@ -2709,6 +3963,20 @@
       "coordinates": "-4.612389, 143.247027"
     },
     {
+      "ident": "AYRK",
+      "type": "small_airport",
+      "name": "Kairuku Airport",
+      "elevation_ft": 45.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Yule Island",
+      "gps_code": "AYRK",
+      "iata_code": "RKU",
+      "local_code": "KKU",
+      "coordinates": "-8.817000054, 146.5243833"
+    },
+    {
       "ident": "AYRL",
       "type": "small_airport",
       "name": "Maralina Airstrip",
@@ -2746,6 +4014,20 @@
       "gps_code": "AYRN",
       "local_code": "NMB",
       "coordinates": "-6.9125, 145.6731"
+    },
+    {
+      "ident": "AYRO",
+      "type": "small_airport",
+      "name": "Kakoro(Koroko) Airstrip",
+      "elevation_ft": 230.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Kakoro",
+      "gps_code": "AYRO",
+      "iata_code": "KOR",
+      "local_code": "KKO",
+      "coordinates": "-7.8346666666700004, 146.5335"
     },
     {
       "ident": "AYRR",
@@ -2825,6 +4107,20 @@
       "coordinates": "-7.2196, 144.2352"
     },
     {
+      "ident": "AYSD",
+      "type": "small_airport",
+      "name": "Saidor Airport",
+      "elevation_ft": 83.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Saidor",
+      "gps_code": "AYSD",
+      "iata_code": "SDI",
+      "local_code": "SDA",
+      "coordinates": "-5.62713888889, 146.462777778"
+    },
+    {
       "ident": "AYSE",
       "type": "small_airport",
       "name": "Simberi Airport",
@@ -2837,6 +4133,20 @@
       "iata_code": "NIS",
       "local_code": "SBI",
       "coordinates": "-2.66222222222, 151.997777778"
+    },
+    {
+      "ident": "AYSF",
+      "type": "small_airport",
+      "name": "Safia Airport",
+      "elevation_ft": 430.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Safia",
+      "gps_code": "AYSF",
+      "iata_code": "SFU",
+      "local_code": "SFA",
+      "coordinates": "-9.59305555556, 148.636111111"
     },
     {
       "ident": "AYSG",
@@ -2894,6 +4204,34 @@
       "coordinates": "-5.278611111110001, 144.544722222"
     },
     {
+      "ident": "AYSK",
+      "type": "small_airport",
+      "name": "Sengapi Airstrip",
+      "elevation_ft": 6242.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Sengapi",
+      "gps_code": "AYSK",
+      "iata_code": "SGK",
+      "local_code": "SNI",
+      "coordinates": "-5.12583333333, 144.323611111"
+    },
+    {
+      "ident": "AYSL",
+      "type": "small_airport",
+      "name": "Sehulea Airport",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Sehulea",
+      "gps_code": "AYSL",
+      "iata_code": "SXH",
+      "local_code": "SEH",
+      "coordinates": "-9.96452777778, 151.161861111"
+    },
+    {
       "ident": "AYSM",
       "type": "small_airport",
       "name": "Samberigi Airstrip",
@@ -2919,6 +4257,20 @@
       "iata_code": "SBC",
       "local_code": "SEL",
       "coordinates": "-5.315, 141.752"
+    },
+    {
+      "ident": "AYSP",
+      "type": "small_airport",
+      "name": "Sapmanga Airport",
+      "elevation_ft": 2912.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Sapmanga",
+      "gps_code": "AYSP",
+      "iata_code": "SMH",
+      "local_code": "SAG",
+      "coordinates": "-6.075277777779999, 146.811111111"
     },
     {
       "ident": "AYSQ",
@@ -2948,6 +4300,19 @@
       "coordinates": "-3.9678, 143.2763"
     },
     {
+      "ident": "AYSS",
+      "type": "small_airport",
+      "name": "Sasereme Airport",
+      "elevation_ft": 121.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Sasereme",
+      "gps_code": "AYSS",
+      "iata_code": "TDS",
+      "coordinates": "-7.6217, 142.868"
+    },
+    {
       "ident": "AYST",
       "type": "small_airport",
       "name": "Sturt Island Airport",
@@ -2958,6 +4323,20 @@
       "gps_code": "AYST",
       "local_code": "STI",
       "coordinates": "-8.1525, 142.268444444"
+    },
+    {
+      "ident": "AYSU",
+      "type": "small_airport",
+      "name": "Suki Airport",
+      "elevation_ft": 24.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Suki",
+      "gps_code": "AYSU",
+      "iata_code": "SKC",
+      "local_code": "SUKI",
+      "coordinates": "-8.0466, 141.7222"
     },
     {
       "ident": "AYSV",
@@ -2972,6 +4351,20 @@
       "iata_code": "SXW",
       "local_code": "SAU",
       "coordinates": "-5.9701, 148.8543"
+    },
+    {
+      "ident": "AYSW",
+      "type": "small_airport",
+      "name": "Satwag Airport",
+      "elevation_ft": 4185.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Satwag",
+      "gps_code": "AYSW",
+      "iata_code": "SWG",
+      "local_code": "SWG",
+      "coordinates": "-6.13955555556, 147.279166667"
     },
     {
       "ident": "AYSX",
@@ -3065,6 +4458,62 @@
       "coordinates": "-7.3205, 144.6384"
     },
     {
+      "ident": "AYTE",
+      "type": "small_airport",
+      "name": "Telefomin Airport",
+      "elevation_ft": 4950.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Telefomin",
+      "gps_code": "AYTE",
+      "iata_code": "TFM",
+      "local_code": "TLF",
+      "coordinates": "-5.12608, 141.641922"
+    },
+    {
+      "ident": "AYTF",
+      "type": "small_airport",
+      "name": "Tetebedi Airport",
+      "elevation_ft": 3365.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Tetebedi",
+      "gps_code": "AYTF",
+      "iata_code": "TDB",
+      "local_code": "TEB",
+      "coordinates": "-9.1586, 148.0686"
+    },
+    {
+      "ident": "AYTG",
+      "type": "small_airport",
+      "name": "Tagula Airport",
+      "elevation_ft": 59.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Sudest Island",
+      "gps_code": "AYTG",
+      "iata_code": "TGL",
+      "local_code": "TAG",
+      "coordinates": "-11.3311111111, 153.202916667"
+    },
+    {
+      "ident": "AYTH",
+      "type": "small_airport",
+      "name": "Tifalmin Airport",
+      "elevation_ft": 4735.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Tifalmin",
+      "gps_code": "AYTH",
+      "iata_code": "TFB",
+      "local_code": "TFM",
+      "coordinates": "-5.1173, 141.419"
+    },
+    {
       "ident": "AYTI",
       "type": "small_airport",
       "name": "Tapini Airport",
@@ -3132,6 +4581,20 @@
       "coordinates": "-5.243667, 142.165194"
     },
     {
+      "ident": "AYTO",
+      "type": "small_airport",
+      "name": "Kamberatoro Airport",
+      "elevation_ft": 1350.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Kamberatoro Mission",
+      "gps_code": "AYTO",
+      "iata_code": "KDQ",
+      "local_code": "KTO",
+      "coordinates": "-3.600556, 141.051667"
+    },
+    {
       "ident": "AYTP",
       "type": "small_airport",
       "name": "Tep Tep Airport",
@@ -3156,6 +4619,20 @@
       "municipality": "Tapen",
       "gps_code": "AYTQ",
       "coordinates": "-5.855907, 146.638405"
+    },
+    {
+      "ident": "AYTR",
+      "type": "small_airport",
+      "name": "Tarabo Airport",
+      "elevation_ft": 6100.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EHG",
+      "municipality": "Tarabo",
+      "gps_code": "AYTR",
+      "iata_code": "TBQ",
+      "local_code": "TRB",
+      "coordinates": "-6.46666666667, 145.532222222"
     },
     {
       "ident": "AYTS",
@@ -3186,6 +4663,34 @@
       "coordinates": "-5.614, 141.0421"
     },
     {
+      "ident": "AYTU",
+      "type": "small_airport",
+      "name": "Tufi Airport",
+      "elevation_ft": 85.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Tufi",
+      "gps_code": "AYTU",
+      "iata_code": "TFI",
+      "local_code": "TUFI",
+      "coordinates": "-9.07595443726, 149.319839478"
+    },
+    {
+      "ident": "AYTV",
+      "type": "small_airport",
+      "name": "Timbunke Airport",
+      "elevation_ft": 24.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "Timbunke",
+      "gps_code": "AYTV",
+      "iata_code": "TBE",
+      "local_code": "TIM",
+      "coordinates": "-4.196633, 143.519222"
+    },
+    {
       "ident": "AYTW",
       "type": "small_airport",
       "name": "Tawa Airport",
@@ -3213,6 +4718,20 @@
       "coordinates": "-6.174544, 146.392339"
     },
     {
+      "ident": "AYTY",
+      "type": "small_airport",
+      "name": "Terapo Airport",
+      "elevation_ft": 15.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-GPK",
+      "municipality": "Terapo Mission",
+      "gps_code": "AYTY",
+      "iata_code": "TEO",
+      "local_code": "TPO",
+      "coordinates": "-8.16972222222, 146.194444444"
+    },
+    {
       "ident": "AYTZ",
       "type": "small_airport",
       "name": "Tekadu Airport",
@@ -3225,20 +4744,6 @@
       "iata_code": "TKB",
       "local_code": "TKD",
       "coordinates": "-7.6808, 146.5503"
-    },
-    {
-      "ident": "AYU",
-      "type": "small_airport",
-      "name": "Aiyura Airport",
-      "elevation_ft": 5355.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EHG",
-      "municipality": "Aiyura Valley",
-      "gps_code": "AYAY",
-      "iata_code": "AYU",
-      "local_code": "AYU",
-      "coordinates": "-6.33805555556, 145.904166667"
     },
     {
       "ident": "AYUA",
@@ -3306,6 +4811,20 @@
       "coordinates": "-3.6381, 142.8379"
     },
     {
+      "ident": "AYUI",
+      "type": "small_airport",
+      "name": "Buin Airport",
+      "elevation_ft": 230.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Buin",
+      "gps_code": "AYUI",
+      "iata_code": "UBI",
+      "local_code": "BUIN",
+      "coordinates": "-6.72916666667, 155.683333333"
+    },
+    {
       "ident": "AYUJ",
       "type": "small_airport",
       "name": "Mukvi Airstrip",
@@ -3345,6 +4864,20 @@
       "coordinates": "-6.8385, 142.8983"
     },
     {
+      "ident": "AYUM",
+      "type": "small_airport",
+      "name": "Aumo Airport",
+      "elevation_ft": 450.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WBK",
+      "municipality": "Aumo",
+      "gps_code": "AYUM",
+      "iata_code": "AUV",
+      "local_code": "AUMO",
+      "coordinates": "-5.731111111110001, 148.445277778"
+    },
+    {
       "ident": "AYUN",
       "type": "small_airport",
       "name": "Bunam Airstrip",
@@ -3369,6 +4902,20 @@
       "gps_code": "AYUO",
       "local_code": "ORA",
       "coordinates": "-6.3679, 145.9902"
+    },
+    {
+      "ident": "AYUP",
+      "type": "small_airport",
+      "name": "Gulgubip Airport",
+      "elevation_ft": 4900.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Gulgubip",
+      "gps_code": "AYUP",
+      "iata_code": "GLP",
+      "local_code": "GUP",
+      "coordinates": "-5.2808, 141.5411"
     },
     {
       "ident": "AYUQ",
@@ -3447,6 +4994,19 @@
       "gps_code": "AYUX",
       "local_code": "URP",
       "coordinates": "-6.9858, 145.8102"
+    },
+    {
+      "ident": "AYUY",
+      "type": "small_airport",
+      "name": "Kuyol Airport",
+      "elevation_ft": 3290.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "gps_code": "AYUY",
+      "iata_code": "KUX",
+      "local_code": "KYL",
+      "coordinates": "-5.372361111110001, 141.623888889"
     },
     {
       "ident": "AYUZ",
@@ -3569,6 +5129,20 @@
       "coordinates": "-6.6577, 144.2974"
     },
     {
+      "ident": "AYVW",
+      "type": "small_airport",
+      "name": "Wuvulu Island Airport",
+      "elevation_ft": 16.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MRL",
+      "municipality": "Wuvulu Island",
+      "gps_code": "AYVW",
+      "iata_code": "WUV",
+      "local_code": "WUV",
+      "coordinates": "-1.73611111111, 142.836666667"
+    },
+    {
       "ident": "AYVY",
       "type": "small_airport",
       "name": "Yembi Yembi Airstrip",
@@ -3593,6 +5167,20 @@
       "iata_code": "WAO",
       "local_code": "WABO",
       "coordinates": "-6.98944444444, 145.075111111"
+    },
+    {
+      "ident": "AYWC",
+      "type": "small_airport",
+      "name": "Wantoat Airport",
+      "elevation_ft": 3900.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Wantoat",
+      "gps_code": "AYWC",
+      "iata_code": "WTT",
+      "local_code": "WNT",
+      "coordinates": "-6.1325, 146.467777778"
     },
     {
       "ident": "AYWD",
@@ -3632,6 +5220,47 @@
       "iata_code": "WAJ",
       "local_code": "WWF",
       "coordinates": "-6.9523, 142.6557"
+    },
+    {
+      "ident": "AYWG",
+      "type": "small_airport",
+      "name": "Wanigela Airport",
+      "elevation_ft": 53.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "gps_code": "AYWG",
+      "iata_code": "AGL",
+      "local_code": "WGL",
+      "coordinates": "-9.3375, 149.155555556"
+    },
+    {
+      "ident": "AYWH",
+      "type": "small_airport",
+      "name": "Wanuma Airport",
+      "elevation_ft": 2260.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Wanuma",
+      "gps_code": "AYWH",
+      "iata_code": "WNU",
+      "local_code": "WUA",
+      "coordinates": "-4.8961, 145.3213"
+    },
+    {
+      "ident": "AYWJ",
+      "type": "small_airport",
+      "name": "Wapolu Airport",
+      "elevation_ft": 45.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Wapolu",
+      "gps_code": "AYWJ",
+      "iata_code": "WBC",
+      "local_code": "WPL",
+      "coordinates": "-9.3376, 150.5093"
     },
     {
       "ident": "AYWK",
@@ -3858,6 +5487,34 @@
       "coordinates": "-7.75, 146.9273"
     },
     {
+      "ident": "AYXO",
+      "type": "small_airport",
+      "name": "Tol Airport",
+      "elevation_ft": 49.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EBR",
+      "municipality": "Tol",
+      "gps_code": "AYXO",
+      "iata_code": "TLO",
+      "local_code": "TOL",
+      "coordinates": "-4.98083019257, 152.009994507"
+    },
+    {
+      "ident": "AYXP",
+      "type": "small_airport",
+      "name": "Wipim Airport",
+      "elevation_ft": 173.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Wipim",
+      "gps_code": "AYXP",
+      "iata_code": "WPM",
+      "local_code": "WPM",
+      "coordinates": "-8.788220405579999, 142.882003784"
+    },
+    {
       "ident": "AYXS",
       "type": "small_airport",
       "name": "Sisamin Airstrip",
@@ -3987,6 +5644,46 @@
       "coordinates": "-3.4574, 142.54"
     },
     {
+      "ident": "AYYK",
+      "type": "small_airport",
+      "name": "Yenkis(Yankisa) Airport",
+      "elevation_ft": 3692.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EPW",
+      "gps_code": "AYYK",
+      "iata_code": "YEQ",
+      "local_code": "YIS",
+      "coordinates": "-5.10972222222, 143.917666667"
+    },
+    {
+      "ident": "AYYL",
+      "type": "small_airport",
+      "name": "Tinboli Airport",
+      "elevation_ft": 59.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "Tinboli",
+      "gps_code": "AYYL",
+      "iata_code": "TCK",
+      "local_code": "TOI",
+      "coordinates": "-4.0949, 143.3838"
+    },
+    {
+      "ident": "AYYM",
+      "type": "small_airport",
+      "name": "Munbil Airport",
+      "elevation_ft": 3126.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "gps_code": "AYYM",
+      "iata_code": "LNF",
+      "local_code": "MBL",
+      "coordinates": "-4.855941, 141.220165"
+    },
+    {
       "ident": "AYYN",
       "type": "small_airport",
       "name": "Yimnalem Airstrip",
@@ -3998,6 +5695,32 @@
       "gps_code": "AYYN",
       "local_code": "YML",
       "coordinates": "-5.1441, 144.5956"
+    },
+    {
+      "ident": "AYYO",
+      "type": "small_airport",
+      "name": "Oram Airport",
+      "elevation_ft": 3500.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "gps_code": "AYYO",
+      "iata_code": "RAX",
+      "local_code": "ORAM",
+      "coordinates": "-9.632916666669997, 148.048055556"
+    },
+    {
+      "ident": "AYYP",
+      "type": "small_airport",
+      "name": "Yapsiei Airport",
+      "elevation_ft": 600.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "gps_code": "AYYP",
+      "iata_code": "KPE",
+      "local_code": "YAP",
+      "coordinates": "-4.6280555555600005, 141.094166667"
     },
     {
       "ident": "AYYQ",
@@ -4092,6 +5815,20 @@
       "coordinates": "-4.995345, 143.96143"
     },
     {
+      "ident": "AYZA",
+      "type": "small_airport",
+      "name": "Zenag Airport",
+      "elevation_ft": 3200.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Zenag",
+      "gps_code": "AYZA",
+      "iata_code": "ZEN",
+      "local_code": "ZEN",
+      "coordinates": "-6.9522222222200005, 146.61625"
+    },
+    {
       "ident": "AYZB",
       "type": "small_airport",
       "name": "Sibilanga Airstrip",
@@ -4103,6 +5840,20 @@
       "gps_code": "AYZB",
       "local_code": "SIB",
       "coordinates": "-3.4458, 142.501"
+    },
+    {
+      "ident": "AYZI",
+      "type": "small_airport",
+      "name": "Silur Airport",
+      "elevation_ft": 217.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Silur Mission",
+      "gps_code": "AYZI",
+      "iata_code": "SWR",
+      "local_code": "SLR",
+      "coordinates": "-4.5298888888899995, 153.054444444"
     },
     {
       "ident": "AYZM",
@@ -4119,6 +5870,20 @@
       "coordinates": "-6.0491, 149.337"
     },
     {
+      "ident": "AYZN",
+      "type": "small_airport",
+      "name": "Sissano Airport",
+      "elevation_ft": 27.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Sissano",
+      "gps_code": "AYZN",
+      "iata_code": "SIZ",
+      "local_code": "SNO",
+      "coordinates": "-2.99944444444, 142.0445"
+    },
+    {
       "ident": "AYZQ",
       "type": "small_airport",
       "name": "Sopise Airstrip",
@@ -4130,6 +5895,20 @@
       "gps_code": "AYZQ",
       "local_code": "SPS",
       "coordinates": "-6.7887, 144.1593"
+    },
+    {
+      "ident": "AYZS",
+      "type": "small_airport",
+      "name": "Ossima Airport",
+      "elevation_ft": 205.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "municipality": "Ossima",
+      "gps_code": "AYZS",
+      "iata_code": "OSG",
+      "local_code": "OSA",
+      "coordinates": "-2.91555555556, 141.297305556"
     },
     {
       "ident": "AYZU",
@@ -4220,33 +5999,6 @@
       "coordinates": "-10.3432, 149.6414"
     },
     {
-      "ident": "BCP",
-      "type": "small_airport",
-      "name": "Bambu Airport",
-      "elevation_ft": 6790.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Bambu",
-      "gps_code": "AYBC",
-      "iata_code": "BCP",
-      "local_code": "BAM",
-      "coordinates": "-5.863611111110001, 146.4925"
-    },
-    {
-      "ident": "BDZ",
-      "type": "small_airport",
-      "name": "Baindoung Airport",
-      "elevation_ft": 4400.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "gps_code": "AYBG",
-      "iata_code": "BDZ",
-      "local_code": "BDO",
-      "coordinates": "-6.34722222222, 146.942222222"
-    },
-    {
       "ident": "BEA",
       "type": "closed",
       "name": "Bereina Airport",
@@ -4277,62 +6029,6 @@
       "iso_country": "PG",
       "iso_region": "PG-SAN",
       "coordinates": "-5.28611111111, 142.033055556"
-    },
-    {
-      "ident": "BMH",
-      "type": "small_airport",
-      "name": "Bomai Airport",
-      "elevation_ft": 3300.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPK",
-      "municipality": "Bomai",
-      "gps_code": "AYBO",
-      "iata_code": "BMH",
-      "local_code": "BOM",
-      "coordinates": "-6.37316666667, 144.637"
-    },
-    {
-      "ident": "BMZ",
-      "type": "small_airport",
-      "name": "Bamu Airport",
-      "elevation_ft": 50.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Bamu",
-      "gps_code": "AYBF",
-      "iata_code": "BMZ",
-      "local_code": "BAMU",
-      "coordinates": "-7.8485, 143.2433"
-    },
-    {
-      "ident": "BNM",
-      "type": "small_airport",
-      "name": "Bodinumu Airport",
-      "elevation_ft": 3700.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Bodinumu",
-      "gps_code": "AYBD",
-      "iata_code": "BNM",
-      "local_code": "BNU",
-      "coordinates": "-9.107777777779999, 147.666722222"
-    },
-    {
-      "ident": "BNT",
-      "type": "small_airport",
-      "name": "Bundi Airport",
-      "elevation_ft": 4400.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Bundi",
-      "gps_code": "AYDI",
-      "iata_code": "BNT",
-      "local_code": "BDI",
-      "coordinates": "-5.742222222220001, 145.2275"
     },
     {
       "ident": "BNV",
@@ -4369,20 +6065,6 @@
       "coordinates": "-6.5427, 155.3419"
     },
     {
-      "ident": "BOT",
-      "type": "small_airport",
-      "name": "Bosset Airport",
-      "elevation_ft": 80.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Bosset",
-      "gps_code": "AYET",
-      "iata_code": "BOT",
-      "local_code": "BST",
-      "coordinates": "-7.237257, 141.1063222"
-    },
-    {
       "ident": "BOV",
       "type": "small_airport",
       "name": "Boang Airport",
@@ -4394,34 +6076,6 @@
       "iata_code": "BOV",
       "local_code": "BOG",
       "coordinates": "-3.3834, 153.2812"
-    },
-    {
-      "ident": "BSP",
-      "type": "small_airport",
-      "name": "Bensbach Airport",
-      "elevation_ft": 30.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Bensbach",
-      "gps_code": "AYBH",
-      "iata_code": "BSP",
-      "local_code": "BEN",
-      "coordinates": "-8.85805555556, 141.259444444"
-    },
-    {
-      "ident": "BUL",
-      "type": "small_airport",
-      "name": "Bulolo Airport",
-      "elevation_ft": 2240.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Bulolo",
-      "gps_code": "AYBU",
-      "iata_code": "BUL",
-      "local_code": "BUO",
-      "coordinates": "-7.216286671410001, 146.649541855"
     },
     {
       "ident": "BVP",
@@ -4445,48 +6099,6 @@
       "iata_code": "BWJ",
       "local_code": "BWN",
       "coordinates": "-6.396944444440001, 146.881666667"
-    },
-    {
-      "ident": "BWP",
-      "type": "small_airport",
-      "name": "Bewani Airport",
-      "elevation_ft": 550.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Bewani",
-      "gps_code": "AYBI",
-      "iata_code": "BWP",
-      "local_code": "BEW",
-      "coordinates": "-3.0216666666700003, 141.165277778"
-    },
-    {
-      "ident": "BXZ",
-      "type": "small_airport",
-      "name": "Bunsil Airport",
-      "elevation_ft": 201.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Bunsil - Umboi Island",
-      "gps_code": "AYNS",
-      "iata_code": "BXZ",
-      "local_code": "BSL",
-      "coordinates": "-5.7243, 147.8667"
-    },
-    {
-      "ident": "CGC",
-      "type": "small_airport",
-      "name": "Cape Gloucester Airport",
-      "elevation_ft": 78.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WBK",
-      "municipality": "Cape Gloucester",
-      "gps_code": "AYCG",
-      "iata_code": "CGC",
-      "local_code": "CPG",
-      "coordinates": "-5.458965, 148.432417"
     },
     {
       "ident": "CPI",
@@ -4537,20 +6149,6 @@
       "coordinates": "-8.431944444440001, 147.843055556"
     },
     {
-      "ident": "DBP",
-      "type": "small_airport",
-      "name": "Debepare Airport",
-      "elevation_ft": 360.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Debepare",
-      "gps_code": "AYDB",
-      "iata_code": "DBP",
-      "local_code": "DBP",
-      "coordinates": "-6.30861111111, 141.905555556"
-    },
-    {
       "ident": "DDM",
       "type": "small_airport",
       "name": "Dodoima Airport",
@@ -4563,20 +6161,6 @@
       "coordinates": "-8.17736111111, 147.809444444"
     },
     {
-      "ident": "DER",
-      "type": "small_airport",
-      "name": "Derim Airport",
-      "elevation_ft": 4850.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Derim",
-      "gps_code": "AYDE",
-      "iata_code": "DER",
-      "local_code": "DEM",
-      "coordinates": "-6.14472222222, 147.107222222"
-    },
-    {
       "ident": "DGG",
       "type": "closed",
       "name": "Fishermans Airfield",
@@ -4586,20 +6170,6 @@
       "iso_region": "PG-CPM",
       "municipality": "Daugo Island",
       "coordinates": "-9.5128, 147.0505"
-    },
-    {
-      "ident": "DOO",
-      "type": "small_airport",
-      "name": "Dorobisoro Airport",
-      "elevation_ft": 1767.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Dorobisoro",
-      "gps_code": "AYDR",
-      "iata_code": "DOO",
-      "local_code": "DOR",
-      "coordinates": "-9.461855, 147.920907"
     },
     {
       "ident": "DOS",
@@ -4624,48 +6194,6 @@
       "coordinates": "-5.858, 145.705"
     },
     {
-      "ident": "EFG",
-      "type": "small_airport",
-      "name": "Efogi Airport",
-      "elevation_ft": 3900.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Efogi",
-      "gps_code": "AYEF",
-      "iata_code": "EFG",
-      "local_code": "EFO",
-      "coordinates": "-9.15380555556, 147.659805556"
-    },
-    {
-      "ident": "FIN",
-      "type": "small_airport",
-      "name": "Finschhafen Airport",
-      "elevation_ft": 60.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Buki",
-      "gps_code": "AYFI",
-      "iata_code": "FIN",
-      "local_code": "FIN",
-      "coordinates": "-6.621750109, 147.85405"
-    },
-    {
-      "ident": "FNE",
-      "type": "small_airport",
-      "name": "Fane Airport",
-      "elevation_ft": 4500.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Fane Mission",
-      "gps_code": "AYFA",
-      "iata_code": "FNE",
-      "local_code": "FANE",
-      "coordinates": "-8.54927777778, 147.085833333"
-    },
-    {
       "ident": "FUB",
       "type": "small_airport",
       "name": "Fulleborn Airport",
@@ -4677,62 +6205,6 @@
       "iata_code": "FUB",
       "local_code": "FUL",
       "coordinates": "-6.1518, 150.6264"
-    },
-    {
-      "ident": "GAZ",
-      "type": "small_airport",
-      "name": "Guasopa Airport",
-      "elevation_ft": 10.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Woodlark (Muyua) Island",
-      "gps_code": "AYGJ",
-      "iata_code": "GAZ",
-      "local_code": "GPA",
-      "coordinates": "-9.225918, 152.944352"
-    },
-    {
-      "ident": "GEW",
-      "type": "small_airport",
-      "name": "Gewoia Airport",
-      "elevation_ft": 340.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Gewoia",
-      "gps_code": "AYGC",
-      "iata_code": "GEW",
-      "local_code": "GEW",
-      "coordinates": "-9.2263, 148.4949"
-    },
-    {
-      "ident": "GLP",
-      "type": "small_airport",
-      "name": "Gulgubip Airport",
-      "elevation_ft": 4900.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Gulgubip",
-      "gps_code": "AYUP",
-      "iata_code": "GLP",
-      "local_code": "GUP",
-      "coordinates": "-5.2808, 141.5411"
-    },
-    {
-      "ident": "GOC",
-      "type": "small_airport",
-      "name": "Gora Airstrip",
-      "elevation_ft": 2497.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Gora",
-      "gps_code": "AYGX",
-      "iata_code": "GOC",
-      "local_code": "GORA",
-      "coordinates": "-9.0021, 148.2364"
     },
     {
       "ident": "GRH",
@@ -4797,20 +6269,6 @@
       "coordinates": "-9.13658, 147.598434"
     },
     {
-      "ident": "HWA",
-      "type": "small_airport",
-      "name": "Hawabango Airport",
-      "elevation_ft": 4563.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Hawabango",
-      "gps_code": "AYHU",
-      "iata_code": "HWA",
-      "local_code": "HBA",
-      "coordinates": "-7.392994, 146.003487"
-    },
-    {
       "ident": "IBI",
       "type": "small_airport",
       "name": "Iboki Airport",
@@ -4822,20 +6280,6 @@
       "iata_code": "IBI",
       "local_code": "IBK",
       "coordinates": "-5.5536, 149.19"
-    },
-    {
-      "ident": "IDN",
-      "type": "small_airport",
-      "name": "Indagen Airport",
-      "elevation_ft": 5788.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Indagen",
-      "gps_code": "AYID",
-      "iata_code": "IDN",
-      "local_code": "IGN",
-      "coordinates": "-6.22663, 147.244"
     },
     {
       "ident": "ILX",
@@ -4913,20 +6357,6 @@
       "coordinates": "-5.7568, 155.1498"
     },
     {
-      "ident": "JOP",
-      "type": "small_airport",
-      "name": "Josephstaal Airport",
-      "elevation_ft": 250.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Josephstaal",
-      "gps_code": "AYJS",
-      "iata_code": "JOP",
-      "local_code": "JSL",
-      "coordinates": "-4.74708333333, 145.007083333"
-    },
-    {
       "ident": "KAF",
       "type": "small_airport",
       "name": "Karato Airport",
@@ -4953,103 +6383,6 @@
       "coordinates": "-6.2452, 143.5516"
     },
     {
-      "ident": "KAQ",
-      "type": "small_airport",
-      "name": "Kamulai Airport",
-      "elevation_ft": 5800.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Kamulai Mission",
-      "gps_code": "AYKH",
-      "iata_code": "KAQ",
-      "local_code": "KML",
-      "coordinates": "-8.150694444440001, 146.834"
-    },
-    {
-      "ident": "KBM",
-      "type": "small_airport",
-      "name": "Kabwum",
-      "elevation_ft": 4450.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "gps_code": "AYKB",
-      "iata_code": "KBM",
-      "local_code": "KBM",
-      "coordinates": "-6.15547222222, 147.191472222"
-    },
-    {
-      "ident": "KDP",
-      "type": "small_airport",
-      "name": "Kandep Airport",
-      "elevation_ft": 7710.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EPW",
-      "municipality": "Kandep",
-      "gps_code": "AYNN",
-      "iata_code": "KDP",
-      "local_code": "KDP",
-      "coordinates": "-5.84061111111, 143.507222222"
-    },
-    {
-      "ident": "KDQ",
-      "type": "small_airport",
-      "name": "Kamberatoro Airport",
-      "elevation_ft": 1350.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Kamberatoro Mission",
-      "gps_code": "AYTO",
-      "iata_code": "KDQ",
-      "local_code": "KTO",
-      "coordinates": "-3.600556, 141.051667"
-    },
-    {
-      "ident": "KEG",
-      "type": "small_airport",
-      "name": "Keglsugl Airport",
-      "elevation_ft": 8400.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPK",
-      "municipality": "Denglagu Mission",
-      "gps_code": "AYLG",
-      "iata_code": "KEG",
-      "local_code": "KEG",
-      "coordinates": "-5.83277777778, 145.097222222"
-    },
-    {
-      "ident": "KEX",
-      "type": "small_airport",
-      "name": "Kanabea Airport",
-      "elevation_ft": 4288.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Kanabea",
-      "gps_code": "AYNB",
-      "iata_code": "KEX",
-      "local_code": "KEA",
-      "coordinates": "-7.538888888890001, 145.905"
-    },
-    {
-      "ident": "KGW",
-      "type": "small_airport",
-      "name": "Kagi Airport",
-      "elevation_ft": 4200.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Kagi",
-      "gps_code": "AYKQ",
-      "iata_code": "KGW",
-      "local_code": "KAGI",
-      "coordinates": "-9.135916666670001, 147.669444444"
-    },
-    {
       "ident": "KIA",
       "type": "closed",
       "name": "Kaiapit Airport",
@@ -5059,20 +6392,6 @@
       "iso_region": "PG-MPL",
       "municipality": "Kaiapit",
       "coordinates": "-6.275, 146.27"
-    },
-    {
-      "ident": "KIQ",
-      "type": "small_airport",
-      "name": "Kira Airport",
-      "elevation_ft": 1700.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Kira",
-      "gps_code": "AYRA",
-      "iata_code": "KIQ",
-      "local_code": "KIRA",
-      "coordinates": "-8.065111111110001, 147.332027778"
     },
     {
       "ident": "KIZ",
@@ -5111,20 +6430,6 @@
       "coordinates": "-5.4875, 144.606944"
     },
     {
-      "ident": "KMF",
-      "type": "small_airport",
-      "name": "Kamina Airport",
-      "elevation_ft": 2157.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Hoieti",
-      "gps_code": "AYKD",
-      "iata_code": "KMF",
-      "local_code": "KMN",
-      "coordinates": "-7.64925, 145.956944444"
-    },
-    {
       "ident": "KNL",
       "type": "closed",
       "name": "Kelanoa Airport",
@@ -5134,47 +6439,6 @@
       "iso_region": "PG-MPL",
       "municipality": "Kelanoa",
       "coordinates": "-6.01, 147.49"
-    },
-    {
-      "ident": "KOM",
-      "type": "small_airport",
-      "name": "Komo-Manda Airport",
-      "elevation_ft": 5057.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-HLA",
-      "municipality": "Komo",
-      "gps_code": "AYOO",
-      "iata_code": "KOM",
-      "local_code": "KOMO",
-      "coordinates": "-6.0682, 142.8598"
-    },
-    {
-      "ident": "KOR",
-      "type": "small_airport",
-      "name": "Kakoro(Koroko) Airstrip",
-      "elevation_ft": 230.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Kakoro",
-      "gps_code": "AYRO",
-      "iata_code": "KOR",
-      "local_code": "KKO",
-      "coordinates": "-7.8346666666700004, 146.5335"
-    },
-    {
-      "ident": "KPE",
-      "type": "small_airport",
-      "name": "Yapsiei Airport",
-      "elevation_ft": 600.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "gps_code": "AYYP",
-      "iata_code": "KPE",
-      "local_code": "YAP",
-      "coordinates": "-4.6280555555600005, 141.094166667"
     },
     {
       "ident": "KPL",
@@ -5190,48 +6454,6 @@
       "coordinates": "-8.630184, 142.823756"
     },
     {
-      "ident": "KQL",
-      "type": "small_airport",
-      "name": "Kol Airport",
-      "elevation_ft": 5350.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-JWK",
-      "municipality": "Kol",
-      "gps_code": "AYOL",
-      "iata_code": "KQL",
-      "local_code": "KOL",
-      "coordinates": "-5.73116666667, 144.846"
-    },
-    {
-      "ident": "KRJ",
-      "type": "small_airport",
-      "name": "Karawari Airstrip",
-      "elevation_ft": 70.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "municipality": "Amboin",
-      "gps_code": "AYQA",
-      "iata_code": "KRJ",
-      "local_code": "KRR",
-      "coordinates": "-4.59666666667, 143.5225"
-    },
-    {
-      "ident": "KRU",
-      "type": "small_airport",
-      "name": "Kerau Airport",
-      "elevation_ft": 7360.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Gunim",
-      "gps_code": "AYEA",
-      "iata_code": "KRU",
-      "local_code": "KEU",
-      "coordinates": "-8.271612, 147.071899"
-    },
-    {
       "ident": "KSG",
       "type": "closed",
       "name": "Kisengam Airport",
@@ -5241,19 +6463,6 @@
       "iso_region": "PG-MPL",
       "municipality": "Kisenden",
       "coordinates": "-6.362, 146.71"
-    },
-    {
-      "ident": "KSP",
-      "type": "small_airport",
-      "name": "Kosipe Airport",
-      "elevation_ft": 6350.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Kosipe Mission",
-      "gps_code": "AYOP",
-      "iata_code": "KSP",
-      "coordinates": "-8.450716, 147.209195"
     },
     {
       "ident": "KTK",
@@ -5278,19 +6487,6 @@
       "iata_code": "KUP",
       "local_code": "KPN",
       "coordinates": "-10.0736, 148.218"
-    },
-    {
-      "ident": "KUX",
-      "type": "small_airport",
-      "name": "Kuyol Airport",
-      "elevation_ft": 3290.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "gps_code": "AYUY",
-      "iata_code": "KUX",
-      "local_code": "KYL",
-      "coordinates": "-5.372361111110001, 141.623888889"
     },
     {
       "ident": "KVE",
@@ -5328,20 +6524,6 @@
       "coordinates": "-8.6883, 143.618"
     },
     {
-      "ident": "KZF",
-      "type": "small_airport",
-      "name": "Kaintiba Airport",
-      "elevation_ft": 2050.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Kaintiba",
-      "gps_code": "AYKT",
-      "iata_code": "KZF",
-      "local_code": "KNT",
-      "coordinates": "-7.50025, 146.033833333"
-    },
-    {
       "ident": "LGM",
       "type": "closed",
       "name": "Laiagam Airport",
@@ -5353,20 +6535,6 @@
       "coordinates": "-5.4923, 143.488"
     },
     {
-      "ident": "LGN",
-      "type": "small_airport",
-      "name": "Linga Linga Airport",
-      "elevation_ft": 17.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WBK",
-      "municipality": "Linga Linga",
-      "gps_code": "AYLL",
-      "iata_code": "LGN",
-      "local_code": "LLA",
-      "coordinates": "-5.5319444444400006, 149.734166667"
-    },
-    {
       "ident": "LHP",
       "type": "closed",
       "name": "Lehu Airport",
@@ -5376,45 +6544,6 @@
       "iso_region": "PG-NSB",
       "municipality": "Lehu",
       "coordinates": "-6.527493, 155.712442"
-    },
-    {
-      "ident": "LNC",
-      "type": "small_airport",
-      "name": "Lengbati Airport",
-      "elevation_ft": 5750.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "gps_code": "AYLT",
-      "iata_code": "LNC",
-      "local_code": "LNG",
-      "coordinates": "-6.384611111110001, 147.368638889"
-    },
-    {
-      "ident": "LNF",
-      "type": "small_airport",
-      "name": "Munbil Airport",
-      "elevation_ft": 3126.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "gps_code": "AYYM",
-      "iata_code": "LNF",
-      "local_code": "MBL",
-      "coordinates": "-4.855941, 141.220165"
-    },
-    {
-      "ident": "LNM",
-      "type": "small_airport",
-      "name": "Langimar Airport",
-      "elevation_ft": 5127.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "gps_code": "AYLN",
-      "iata_code": "LNM",
-      "local_code": "LNM",
-      "coordinates": "-7.22313888889, 146.227083333"
     },
     {
       "ident": "LNQ",
@@ -5478,20 +6607,6 @@
       "coordinates": "-4.147, 153.0186"
     },
     {
-      "ident": "MHY",
-      "type": "small_airport",
-      "name": "Morehead Airport",
-      "elevation_ft": 100.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Morehead",
-      "gps_code": "AYEH",
-      "iata_code": "MHY",
-      "local_code": "MHD",
-      "coordinates": "-8.71411111111, 141.644444444"
-    },
-    {
       "ident": "MJJ",
       "type": "small_airport",
       "name": "Moki Airport",
@@ -5503,34 +6618,6 @@
       "iata_code": "MJJ",
       "local_code": "MOKI",
       "coordinates": "-5.7181, 145.2404"
-    },
-    {
-      "ident": "MKN",
-      "type": "small_airport",
-      "name": "Malekolon Airport",
-      "elevation_ft": 5.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Babase Island",
-      "gps_code": "AYMV",
-      "iata_code": "MKN",
-      "local_code": "MKO",
-      "coordinates": "-4.02343055556, 153.657277778"
-    },
-    {
-      "ident": "MLQ",
-      "type": "small_airport",
-      "name": "Malalaua Airport",
-      "elevation_ft": 20.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Malalaua",
-      "gps_code": "AYMP",
-      "iata_code": "MLQ",
-      "local_code": "MLU",
-      "coordinates": "-8.07138888889, 146.155472222"
     },
     {
       "ident": "MMV",
@@ -5559,62 +6646,6 @@
       "coordinates": "-1.550403, 145.017504"
     },
     {
-      "ident": "MPG",
-      "type": "small_airport",
-      "name": "Makini Airport",
-      "elevation_ft": 2530.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Makini",
-      "gps_code": "AYMJ",
-      "iata_code": "MPG",
-      "local_code": "MAK",
-      "coordinates": "-6.532222222220001, 147.651166667"
-    },
-    {
-      "ident": "MPU",
-      "type": "small_airport",
-      "name": "Mapua(Mabua) Airport",
-      "elevation_ft": 40.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Tatau Island",
-      "gps_code": "AYMZ",
-      "iata_code": "MPU",
-      "local_code": "MBU",
-      "coordinates": "-2.81138888889, 151.991111111"
-    },
-    {
-      "ident": "MPX",
-      "type": "small_airport",
-      "name": "Miyanmin Airport",
-      "elevation_ft": 2500.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Miyanmin",
-      "gps_code": "AYIY",
-      "iata_code": "MPX",
-      "local_code": "MIM",
-      "coordinates": "-4.903055555560001, 141.620833333"
-    },
-    {
-      "ident": "MQO",
-      "type": "small_airport",
-      "name": "Malam Airport",
-      "elevation_ft": 126.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Malam",
-      "gps_code": "AYMQ",
-      "iata_code": "MQO",
-      "local_code": "MAA",
-      "coordinates": "-8.70916666667, 142.649722222"
-    },
-    {
       "ident": "MVI",
       "type": "closed",
       "name": "Manetai Airport",
@@ -5636,62 +6667,6 @@
       "municipality": "Mussau Island",
       "iata_code": "MWU",
       "coordinates": "-1.45, 149.7"
-    },
-    {
-      "ident": "MXK",
-      "type": "small_airport",
-      "name": "Mindik Airport",
-      "elevation_ft": 4200.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Mindik",
-      "gps_code": "AYMI",
-      "iata_code": "MXK",
-      "local_code": "MIK",
-      "coordinates": "-6.47166666667, 147.441138889"
-    },
-    {
-      "ident": "MYX",
-      "type": "small_airport",
-      "name": "Menyamya Airport",
-      "elevation_ft": 3880.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Menyamya",
-      "gps_code": "AYMC",
-      "iata_code": "MYX",
-      "local_code": "MYY",
-      "coordinates": "-7.21166666667, 146.019361111"
-    },
-    {
-      "ident": "NDI",
-      "type": "small_airport",
-      "name": "Namudi Airport",
-      "elevation_ft": 1044.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Namudi",
-      "gps_code": "AYNJ",
-      "iata_code": "NDI",
-      "local_code": "NAM",
-      "coordinates": "-9.47375, 148.329416667"
-    },
-    {
-      "ident": "NDN",
-      "type": "small_airport",
-      "name": "Nadunumu Airport",
-      "elevation_ft": 5100.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Nadunumu",
-      "gps_code": "AYNC",
-      "iata_code": "NDN",
-      "local_code": "NDM",
-      "coordinates": "-9.14355555556, 147.68425"
     },
     {
       "ident": "NGR",
@@ -5745,20 +6720,6 @@
       "coordinates": "-6.1454, 143.4531"
     },
     {
-      "ident": "NUG",
-      "type": "small_airport",
-      "name": "Nuguria Airstrip",
-      "elevation_ft": 30.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Nuguria Island",
-      "gps_code": "AYNI",
-      "iata_code": "NUG",
-      "local_code": "NGA",
-      "coordinates": "-3.4075, 154.7383"
-    },
-    {
       "ident": "NUT",
       "type": "closed",
       "name": "Nutuve Airport",
@@ -5784,47 +6745,6 @@
       "coordinates": "-9.984166666669998, 149.729166667"
     },
     {
-      "ident": "OGE",
-      "type": "small_airport",
-      "name": "Ogeranang Airport",
-      "elevation_ft": 5850.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "gps_code": "AYOG",
-      "iata_code": "OGE",
-      "local_code": "OGN",
-      "coordinates": "-6.46675, 147.364166667"
-    },
-    {
-      "ident": "OKV",
-      "type": "small_airport",
-      "name": "Okao Airport",
-      "elevation_ft": 450.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Okao",
-      "gps_code": "AYOF",
-      "iata_code": "OKV",
-      "local_code": "OKO",
-      "coordinates": "-5.55666666667, 141.032777778"
-    },
-    {
-      "ident": "OLQ",
-      "type": "small_airport",
-      "name": "Olsobip Airport",
-      "elevation_ft": 1500.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Olsobip",
-      "gps_code": "AYOV",
-      "iata_code": "OLQ",
-      "local_code": "OLS",
-      "coordinates": "-5.3897222222200005, 141.515277778"
-    },
-    {
       "ident": "OML",
       "type": "closed",
       "name": "Omkalai Airport",
@@ -5834,62 +6754,6 @@
       "iso_region": "PG-CPK",
       "municipality": "Omkalai",
       "coordinates": "-6.179, 144.96"
-    },
-    {
-      "ident": "ONB",
-      "type": "small_airport",
-      "name": "Ononge Airport",
-      "elevation_ft": 5800.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Onange Mission",
-      "gps_code": "AYQQ",
-      "iata_code": "ONB",
-      "local_code": "ONG",
-      "coordinates": "-8.67436111111, 147.262416667"
-    },
-    {
-      "ident": "OSE",
-      "type": "small_airport",
-      "name": "Omora Airport",
-      "elevation_ft": 2540.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Omora",
-      "gps_code": "AYOM",
-      "iata_code": "OSE",
-      "local_code": "OOA",
-      "coordinates": "-7.82777777778, 147.080638889"
-    },
-    {
-      "ident": "OSG",
-      "type": "small_airport",
-      "name": "Ossima Airport",
-      "elevation_ft": 205.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Ossima",
-      "gps_code": "AYZS",
-      "iata_code": "OSG",
-      "local_code": "OSA",
-      "coordinates": "-2.91555555556, 141.297305556"
-    },
-    {
-      "ident": "PDI",
-      "type": "small_airport",
-      "name": "Pindiu Airport",
-      "elevation_ft": 2995.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Pindiu",
-      "gps_code": "AYPD",
-      "iata_code": "PDI",
-      "local_code": "PDU",
-      "coordinates": "-6.445138888890001, 147.515833333"
     },
     {
       "ident": "PG-0001",
@@ -5952,34 +6816,6 @@
       "coordinates": "-10.179823004, 148.379030228"
     },
     {
-      "ident": "PG-0006",
-      "type": "small_airport",
-      "name": "Emirau Airport",
-      "elevation_ft": 172.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Emirau Island",
-      "gps_code": "AYEE",
-      "iata_code": "EMI",
-      "local_code": "ERU",
-      "coordinates": "-1.653949991, 149.9757667"
-    },
-    {
-      "ident": "PG-0007",
-      "type": "small_airport",
-      "name": "Erave Airport",
-      "elevation_ft": 3650.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SHM",
-      "municipality": "Erave",
-      "gps_code": "AYEV",
-      "iata_code": "ERE",
-      "local_code": "ERV",
-      "coordinates": "-6.60646315446, 143.900213242"
-    },
-    {
       "ident": "PG-0008",
       "type": "small_airport",
       "name": "Esa'ala Airport",
@@ -5993,20 +6829,6 @@
       "coordinates": "-9.874327023180001, 150.954208374"
     },
     {
-      "ident": "PG-0009",
-      "type": "small_airport",
-      "name": "Garaina Airport",
-      "elevation_ft": 2497.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Garaina",
-      "gps_code": "AYGI",
-      "iata_code": "GAR",
-      "local_code": "GNA",
-      "coordinates": "-7.875625, 147.141266"
-    },
-    {
       "ident": "PG-0010",
       "type": "small_airport",
       "name": "Gobe Airport",
@@ -6018,20 +6840,6 @@
       "gps_code": "AYGB",
       "local_code": "GOBE",
       "coordinates": "-6.877773, 143.721843"
-    },
-    {
-      "ident": "PG-0011",
-      "type": "small_airport",
-      "name": "Gonaili Airport",
-      "elevation_ft": 40.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EBR",
-      "municipality": "Gonaili",
-      "gps_code": "AYGL",
-      "iata_code": "GOE",
-      "local_code": "GON",
-      "coordinates": "-5.527716614, 151.5733333"
     },
     {
       "ident": "PG-0012",
@@ -6136,20 +6944,6 @@
       "coordinates": "-6.023611111110001, 149.785833333"
     },
     {
-      "ident": "PG-0020",
-      "type": "small_airport",
-      "name": "Bapi Airstrip",
-      "elevation_ft": 2930.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Bapi",
-      "gps_code": "AYBP",
-      "iata_code": "BPD",
-      "local_code": "BAPI",
-      "coordinates": "-7.743611111110001, 147.020555556"
-    },
-    {
       "ident": "PG-0021",
       "type": "small_airport",
       "name": "Benaria Airstrip",
@@ -6160,20 +6954,6 @@
       "municipality": "Tamide Mission",
       "local_code": "BNR",
       "coordinates": "-6.05888888889, 143.033888889"
-    },
-    {
-      "ident": "PG-0022",
-      "type": "small_airport",
-      "name": "Biangabip Airport",
-      "elevation_ft": 1069.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Biangabip",
-      "gps_code": "AYBQ",
-      "iata_code": "BPK",
-      "local_code": "BIP",
-      "coordinates": "-5.526389, 141.744583"
     },
     {
       "ident": "PG-0023",
@@ -6359,20 +7139,6 @@
       "coordinates": "-7.391111111110001, 145.166519"
     },
     {
-      "ident": "PG-0038",
-      "type": "small_airport",
-      "name": "Sengapi Airstrip",
-      "elevation_ft": 6242.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Sengapi",
-      "gps_code": "AYSK",
-      "iata_code": "SGK",
-      "local_code": "SNI",
-      "coordinates": "-5.12583333333, 144.323611111"
-    },
-    {
       "ident": "PG-0039",
       "type": "small_airport",
       "name": "Kafa Airstrip",
@@ -6482,20 +7248,6 @@
       "gps_code": "AYAV",
       "local_code": "ARK",
       "coordinates": "-3.777177, 142.622672"
-    },
-    {
-      "ident": "PG-0048",
-      "type": "small_airport",
-      "name": "Kibuli Airstrip",
-      "elevation_ft": 54.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Kibuli",
-      "gps_code": "AYLI",
-      "iata_code": "KII",
-      "local_code": "KBL",
-      "coordinates": "-9.006528, 142.698056"
     },
     {
       "ident": "PG-0049",
@@ -7239,20 +7991,6 @@
       "coordinates": "-6.322081, 155.472965"
     },
     {
-      "ident": "PG-AKG",
-      "type": "small_airport",
-      "name": "Anguganak Airport",
-      "elevation_ft": 937.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Anguganak",
-      "gps_code": "AYGU",
-      "iata_code": "AKG",
-      "local_code": "AGK",
-      "coordinates": "-3.560504, 142.217307"
-    },
-    {
       "ident": "PG-ATP",
       "type": "small_airport",
       "name": "Tadji Airport",
@@ -7265,90 +8003,6 @@
       "iata_code": "TAJ",
       "local_code": "TAD",
       "coordinates": "-3.19819180354, 142.430963516"
-    },
-    {
-      "ident": "PG-AWB",
-      "type": "small_airport",
-      "name": "Awaba Airport",
-      "elevation_ft": 32.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Awaba",
-      "gps_code": "AYAW",
-      "iata_code": "AWB",
-      "local_code": "AWB",
-      "coordinates": "-8.013414, 142.752099"
-    },
-    {
-      "ident": "PG-BAA",
-      "type": "small_airport",
-      "name": "Bialla Airport",
-      "elevation_ft": 51.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WBK",
-      "municipality": "Bialla, Matalilu, Ewase",
-      "gps_code": "AYBL",
-      "iata_code": "BAA",
-      "local_code": "BIA",
-      "coordinates": "-5.3305602073700005, 151.007995605"
-    },
-    {
-      "ident": "PG-CVB",
-      "type": "small_airport",
-      "name": "Chungribu Airport",
-      "elevation_ft": 108.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Chungribu",
-      "gps_code": "AYCB",
-      "iata_code": "CVB",
-      "local_code": "CBU",
-      "coordinates": "-4.80662, 144.714996"
-    },
-    {
-      "ident": "PG-GMI",
-      "type": "small_airport",
-      "name": "Gasmata Island Airport",
-      "elevation_ft": 23.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WBK",
-      "municipality": "Gasmata Island",
-      "gps_code": "AYGT",
-      "iata_code": "GMI",
-      "local_code": "GMA",
-      "coordinates": "-6.27111005783, 150.330993652"
-    },
-    {
-      "ident": "PG-GVI",
-      "type": "small_airport",
-      "name": "Green River Airport",
-      "elevation_ft": 281.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Green River",
-      "gps_code": "AYGV",
-      "iata_code": "GVI",
-      "local_code": "GRN",
-      "coordinates": "-3.9022428989400004, 141.170516968"
-    },
-    {
-      "ident": "PG-HYF",
-      "type": "small_airport",
-      "name": "Hayfields Airport",
-      "elevation_ft": 466.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "municipality": "Bainyik",
-      "gps_code": "AYHF",
-      "iata_code": "HYF",
-      "local_code": "HFD",
-      "coordinates": "-3.69838, 143.057902"
     },
     {
       "ident": "PG-IHU",
@@ -7365,20 +8019,6 @@
       "coordinates": "-7.8975601196300005, 145.395996094"
     },
     {
-      "ident": "PG-IIS",
-      "type": "small_airport",
-      "name": "Nissan Island Airport",
-      "elevation_ft": 52.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Nissan Island",
-      "gps_code": "AYIA",
-      "iata_code": "IIS",
-      "local_code": "NIS",
-      "coordinates": "-4.49972009659, 154.225997925"
-    },
-    {
       "ident": "PG-JAQ",
       "type": "small_airport",
       "name": "Jacquinot Bay Airport",
@@ -7391,34 +8031,6 @@
       "iata_code": "JAQ",
       "local_code": "JCB",
       "coordinates": "-5.65250015259, 151.507003784"
-    },
-    {
-      "ident": "PG-KDR",
-      "type": "small_airport",
-      "name": "Kandrian Airport",
-      "elevation_ft": 280.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WBK",
-      "municipality": "Kandrian",
-      "gps_code": "AYKC",
-      "iata_code": "KDR",
-      "local_code": "KDR",
-      "coordinates": "-6.19217, 149.54783"
-    },
-    {
-      "ident": "PG-KKD",
-      "type": "small_airport",
-      "name": "Kokoda Airport",
-      "elevation_ft": 1240.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Kokoda",
-      "gps_code": "AYKO",
-      "iata_code": "KKD",
-      "local_code": "KOK",
-      "coordinates": "-8.88467884064, 147.730957031"
     },
     {
       "ident": "PG-KUY",
@@ -7435,20 +8047,6 @@
       "coordinates": "-7.420347, 143.121811"
     },
     {
-      "ident": "PG-KWO",
-      "type": "small_airport",
-      "name": "Kawito Airport",
-      "elevation_ft": 72.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Kawito",
-      "gps_code": "AYKW",
-      "iata_code": "KWO",
-      "local_code": "KWT",
-      "coordinates": "-7.977006912229999, 142.823577881"
-    },
-    {
       "ident": "PG-KXR",
       "type": "closed",
       "name": "Karoola Airport",
@@ -7458,20 +8056,6 @@
       "iso_region": "PG-NSB",
       "municipality": "Buka Island",
       "coordinates": "-5.1431, 154.5928"
-    },
-    {
-      "ident": "PG-LMI",
-      "type": "small_airport",
-      "name": "Lumi Airport",
-      "elevation_ft": 1750.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Lumi",
-      "gps_code": "AYLU",
-      "iata_code": "LMI",
-      "local_code": "LUMI",
-      "coordinates": "-3.47683951134, 142.041292191"
     },
     {
       "ident": "PG-LMY",
@@ -7488,104 +8072,6 @@
       "coordinates": "-7.00992012024, 141.494003296"
     },
     {
-      "ident": "PG-OBX",
-      "type": "small_airport",
-      "name": "Obo Airport",
-      "elevation_ft": 29.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Obo",
-      "gps_code": "AYOB",
-      "iata_code": "OBX",
-      "local_code": "OBO",
-      "coordinates": "-7.590622421369999, 141.324262619"
-    },
-    {
-      "ident": "PG-OPU",
-      "type": "medium_airport",
-      "name": "Balimo Airport",
-      "elevation_ft": 51.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Balimo",
-      "gps_code": "AYBM",
-      "iata_code": "OPU",
-      "local_code": "BLI",
-      "coordinates": "-8.05000019073, 142.932998657"
-    },
-    {
-      "ident": "PG-SKC",
-      "type": "small_airport",
-      "name": "Suki Airport",
-      "elevation_ft": 24.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Suki",
-      "gps_code": "AYSU",
-      "iata_code": "SKC",
-      "local_code": "SUKI",
-      "coordinates": "-8.0466, 141.7222"
-    },
-    {
-      "ident": "PG-TFI",
-      "type": "small_airport",
-      "name": "Tufi Airport",
-      "elevation_ft": 85.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Tufi",
-      "gps_code": "AYTU",
-      "iata_code": "TFI",
-      "local_code": "TUFI",
-      "coordinates": "-9.07595443726, 149.319839478"
-    },
-    {
-      "ident": "PG-TFM",
-      "type": "small_airport",
-      "name": "Telefomin Airport",
-      "elevation_ft": 4950.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Telefomin",
-      "gps_code": "AYTE",
-      "iata_code": "TFM",
-      "local_code": "TLF",
-      "coordinates": "-5.12608, 141.641922"
-    },
-    {
-      "ident": "PG-TLO",
-      "type": "small_airport",
-      "name": "Tol Airport",
-      "elevation_ft": 49.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EBR",
-      "municipality": "Tol",
-      "gps_code": "AYXO",
-      "iata_code": "TLO",
-      "local_code": "TOL",
-      "coordinates": "-4.98083019257, 152.009994507"
-    },
-    {
-      "ident": "PG-UKU",
-      "type": "small_airport",
-      "name": "Nuku Airport",
-      "elevation_ft": 870.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Nuku",
-      "gps_code": "AYNU",
-      "iata_code": "UKU",
-      "local_code": "NUKU",
-      "coordinates": "-3.676651, 142.484334"
-    },
-    {
       "ident": "PG-ULE",
       "type": "small_airport",
       "name": "Sule Airport",
@@ -7598,34 +8084,6 @@
       "coordinates": "-4.974720001220703, 151.2969970703125"
     },
     {
-      "ident": "PG-VMU",
-      "type": "medium_airport",
-      "name": "Baimuru Airport",
-      "elevation_ft": 27.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Baimuru",
-      "gps_code": "AYBA",
-      "iata_code": "VMU",
-      "local_code": "BMU",
-      "coordinates": "-7.49686002731, 144.819900513"
-    },
-    {
-      "ident": "PG-WPM",
-      "type": "small_airport",
-      "name": "Wipim Airport",
-      "elevation_ft": 173.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Wipim",
-      "gps_code": "AYXP",
-      "iata_code": "WPM",
-      "local_code": "WPM",
-      "coordinates": "-8.788220405579999, 142.882003784"
-    },
-    {
       "ident": "PGE",
       "type": "small_airport",
       "name": "Yegepa Airport",
@@ -7636,34 +8094,6 @@
       "iata_code": "PGE",
       "local_code": "YEG",
       "coordinates": "-7.134444444440001, 146.156388889"
-    },
-    {
-      "ident": "PLE",
-      "type": "small_airport",
-      "name": "Paiela Airport",
-      "elevation_ft": 6100.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EPW",
-      "municipality": "Paiela",
-      "gps_code": "AYPB",
-      "iata_code": "PLE",
-      "local_code": "PAL",
-      "coordinates": "-5.372407, 142.975774"
-    },
-    {
-      "ident": "PMP",
-      "type": "small_airport",
-      "name": "Pimaga Airport",
-      "elevation_ft": 2745.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SHM",
-      "municipality": "Pimaga",
-      "gps_code": "AYPJ",
-      "iata_code": "PMP",
-      "local_code": "PAG",
-      "coordinates": "-6.49916666667, 143.510277778"
     },
     {
       "ident": "PPX",
@@ -7729,33 +8159,6 @@
       "coordinates": "-6.220556, 155.571389"
     },
     {
-      "ident": "RAX",
-      "type": "small_airport",
-      "name": "Oram Airport",
-      "elevation_ft": 3500.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "gps_code": "AYYO",
-      "iata_code": "RAX",
-      "local_code": "ORAM",
-      "coordinates": "-9.632916666669997, 148.048055556"
-    },
-    {
-      "ident": "RBP",
-      "type": "small_airport",
-      "name": "Raba Raba Airport",
-      "elevation_ft": 170.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Rabaraba",
-      "gps_code": "AYRE",
-      "iata_code": "RBP",
-      "local_code": "RBA",
-      "coordinates": "-9.97111111111, 149.832222222"
-    },
-    {
       "ident": "RGE",
       "type": "closed",
       "name": "Porgera Airport",
@@ -7765,20 +8168,6 @@
       "iso_region": "PG-EPW",
       "municipality": "Porgera",
       "coordinates": "-5.4792, 143.1236"
-    },
-    {
-      "ident": "RKU",
-      "type": "small_airport",
-      "name": "Kairuku Airport",
-      "elevation_ft": 45.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Yule Island",
-      "gps_code": "AYRK",
-      "iata_code": "RKU",
-      "local_code": "KKU",
-      "coordinates": "-8.817000054, 146.5243833"
     },
     {
       "ident": "RNR",
@@ -7818,76 +8207,6 @@
       "coordinates": "-9.6701, 150.7903"
     },
     {
-      "ident": "SDI",
-      "type": "small_airport",
-      "name": "Saidor Airport",
-      "elevation_ft": 83.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Saidor",
-      "gps_code": "AYSD",
-      "iata_code": "SDI",
-      "local_code": "SDA",
-      "coordinates": "-5.62713888889, 146.462777778"
-    },
-    {
-      "ident": "SFU",
-      "type": "small_airport",
-      "name": "Safia Airport",
-      "elevation_ft": 430.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Safia",
-      "gps_code": "AYSF",
-      "iata_code": "SFU",
-      "local_code": "SFA",
-      "coordinates": "-9.59305555556, 148.636111111"
-    },
-    {
-      "ident": "SIZ",
-      "type": "small_airport",
-      "name": "Sissano Airport",
-      "elevation_ft": 27.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Sissano",
-      "gps_code": "AYZN",
-      "iata_code": "SIZ",
-      "local_code": "SNO",
-      "coordinates": "-2.99944444444, 142.0445"
-    },
-    {
-      "ident": "SMH",
-      "type": "small_airport",
-      "name": "Sapmanga Airport",
-      "elevation_ft": 2912.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Sapmanga",
-      "gps_code": "AYSP",
-      "iata_code": "SMH",
-      "local_code": "SAG",
-      "coordinates": "-6.075277777779999, 146.811111111"
-    },
-    {
-      "ident": "SQT",
-      "type": "small_airport",
-      "name": "China Strait Airstrip",
-      "elevation_ft": 10.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Samarai Island",
-      "gps_code": "AYCS",
-      "iata_code": "SQT",
-      "local_code": "CHS",
-      "coordinates": "-10.5627777778, 150.690694444"
-    },
-    {
       "ident": "SSS",
       "type": "small_airport",
       "name": "Siassi Airport",
@@ -7912,62 +8231,6 @@
       "coordinates": "-9.032, 147.45"
     },
     {
-      "ident": "SWE",
-      "type": "small_airport",
-      "name": "Siwea Airport",
-      "elevation_ft": 5960.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Siwea",
-      "gps_code": "AYEW",
-      "iata_code": "SWE",
-      "local_code": "SIW",
-      "coordinates": "-6.284181, 147.582371"
-    },
-    {
-      "ident": "SWG",
-      "type": "small_airport",
-      "name": "Satwag Airport",
-      "elevation_ft": 4185.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Satwag",
-      "gps_code": "AYSW",
-      "iata_code": "SWG",
-      "local_code": "SWG",
-      "coordinates": "-6.13955555556, 147.279166667"
-    },
-    {
-      "ident": "SWR",
-      "type": "small_airport",
-      "name": "Silur Airport",
-      "elevation_ft": 217.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Silur Mission",
-      "gps_code": "AYZI",
-      "iata_code": "SWR",
-      "local_code": "SLR",
-      "coordinates": "-4.5298888888899995, 153.054444444"
-    },
-    {
-      "ident": "SXH",
-      "type": "small_airport",
-      "name": "Sehulea Airport",
-      "elevation_ft": 30.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Sehulea",
-      "gps_code": "AYSL",
-      "iata_code": "SXH",
-      "local_code": "SEH",
-      "coordinates": "-9.96452777778, 151.161861111"
-    },
-    {
       "ident": "TBA",
       "type": "closed",
       "name": "Tabibuga Airport",
@@ -7979,117 +8242,6 @@
       "coordinates": "-5.5766, 144.6508"
     },
     {
-      "ident": "TBE",
-      "type": "small_airport",
-      "name": "Timbunke Airport",
-      "elevation_ft": 24.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "municipality": "Timbunke",
-      "gps_code": "AYTV",
-      "iata_code": "TBE",
-      "local_code": "TIM",
-      "coordinates": "-4.196633, 143.519222"
-    },
-    {
-      "ident": "TBQ",
-      "type": "small_airport",
-      "name": "Tarabo Airport",
-      "elevation_ft": 6100.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EHG",
-      "municipality": "Tarabo",
-      "gps_code": "AYTR",
-      "iata_code": "TBQ",
-      "local_code": "TRB",
-      "coordinates": "-6.46666666667, 145.532222222"
-    },
-    {
-      "ident": "TCK",
-      "type": "small_airport",
-      "name": "Tinboli Airport",
-      "elevation_ft": 59.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "municipality": "Tinboli",
-      "gps_code": "AYYL",
-      "iata_code": "TCK",
-      "local_code": "TOI",
-      "coordinates": "-4.0949, 143.3838"
-    },
-    {
-      "ident": "TDB",
-      "type": "small_airport",
-      "name": "Tetebedi Airport",
-      "elevation_ft": 3365.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Tetebedi",
-      "gps_code": "AYTF",
-      "iata_code": "TDB",
-      "local_code": "TEB",
-      "coordinates": "-9.1586, 148.0686"
-    },
-    {
-      "ident": "TDS",
-      "type": "small_airport",
-      "name": "Sasereme Airport",
-      "elevation_ft": 121.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Sasereme",
-      "gps_code": "AYSS",
-      "iata_code": "TDS",
-      "coordinates": "-7.6217, 142.868"
-    },
-    {
-      "ident": "TEO",
-      "type": "small_airport",
-      "name": "Terapo Airport",
-      "elevation_ft": 15.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-GPK",
-      "municipality": "Terapo Mission",
-      "gps_code": "AYTY",
-      "iata_code": "TEO",
-      "local_code": "TPO",
-      "coordinates": "-8.16972222222, 146.194444444"
-    },
-    {
-      "ident": "TFB",
-      "type": "small_airport",
-      "name": "Tifalmin Airport",
-      "elevation_ft": 4735.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Tifalmin",
-      "gps_code": "AYTH",
-      "iata_code": "TFB",
-      "local_code": "TFM",
-      "coordinates": "-5.1173, 141.419"
-    },
-    {
-      "ident": "TGL",
-      "type": "small_airport",
-      "name": "Tagula Airport",
-      "elevation_ft": 59.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Sudest Island",
-      "gps_code": "AYTG",
-      "iata_code": "TGL",
-      "local_code": "TAG",
-      "coordinates": "-11.3311111111, 153.202916667"
-    },
-    {
       "ident": "TIG",
       "type": "closed",
       "name": "Tingwon Airport",
@@ -8099,20 +8251,6 @@
       "iso_region": "PG-NIK",
       "municipality": "Tingwon Island",
       "coordinates": "-2.6053, 149.7107"
-    },
-    {
-      "ident": "TLP",
-      "type": "small_airport",
-      "name": "Tumolbil Airport",
-      "elevation_ft": 3590.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "municipality": "Tumolbil",
-      "gps_code": "AYQL",
-      "iata_code": "TLP",
-      "local_code": "TUM",
-      "coordinates": "-4.7748, 141.0133"
     },
     {
       "ident": "TOK",
@@ -8163,33 +8301,6 @@
       "coordinates": "-5.8335, 145.9341"
     },
     {
-      "ident": "UAE",
-      "type": "small_airport",
-      "name": "Mount Aue Airport",
-      "elevation_ft": 4250.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-JWK",
-      "gps_code": "AYAE",
-      "iata_code": "UAE",
-      "local_code": "AUE",
-      "coordinates": "-6.23416666667, 144.664722222"
-    },
-    {
-      "ident": "UBI",
-      "type": "small_airport",
-      "name": "Buin Airport",
-      "elevation_ft": 230.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Buin",
-      "gps_code": "AYUI",
-      "iata_code": "UBI",
-      "local_code": "BUIN",
-      "coordinates": "-6.72916666667, 155.683333333"
-    },
-    {
       "ident": "USO",
       "type": "closed",
       "name": "Usino Airport",
@@ -8238,20 +8349,6 @@
       "coordinates": "-5.4915, 143.72"
     },
     {
-      "ident": "WBC",
-      "type": "small_airport",
-      "name": "Wapolu Airport",
-      "elevation_ft": 45.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Wapolu",
-      "gps_code": "AYWJ",
-      "iata_code": "WBC",
-      "local_code": "WPL",
-      "coordinates": "-9.3376, 150.5093"
-    },
-    {
       "ident": "WED",
       "type": "small_airport",
       "name": "Wedau Airport",
@@ -8274,103 +8371,6 @@
       "iso_region": "PG-MPL",
       "municipality": "Wagau",
       "coordinates": "-6.8519, 146.8022"
-    },
-    {
-      "ident": "WNU",
-      "type": "small_airport",
-      "name": "Wanuma Airport",
-      "elevation_ft": 2260.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Wanuma",
-      "gps_code": "AYWH",
-      "iata_code": "WNU",
-      "local_code": "WUA",
-      "coordinates": "-4.8961, 145.3213"
-    },
-    {
-      "ident": "WSA",
-      "type": "small_airport",
-      "name": "Wasua Airport",
-      "elevation_ft": 45.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Wasua",
-      "gps_code": "AYIW",
-      "iata_code": "WSA",
-      "local_code": "WAA",
-      "coordinates": "-8.2836, 142.8697"
-    },
-    {
-      "ident": "WTT",
-      "type": "small_airport",
-      "name": "Wantoat Airport",
-      "elevation_ft": 3900.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Wantoat",
-      "gps_code": "AYWC",
-      "iata_code": "WTT",
-      "local_code": "WNT",
-      "coordinates": "-6.1325, 146.467777778"
-    },
-    {
-      "ident": "WUV",
-      "type": "small_airport",
-      "name": "Wuvulu Island Airport",
-      "elevation_ft": 16.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MRL",
-      "municipality": "Wuvulu Island",
-      "gps_code": "AYVW",
-      "iata_code": "WUV",
-      "local_code": "WUV",
-      "coordinates": "-1.73611111111, 142.836666667"
-    },
-    {
-      "ident": "XBN",
-      "type": "small_airport",
-      "name": "Biniguni Airport",
-      "elevation_ft": 215.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Biniguni",
-      "gps_code": "AYBZ",
-      "iata_code": "XBN",
-      "local_code": "BNI",
-      "coordinates": "-9.6425, 149.303889"
-    },
-    {
-      "ident": "YEQ",
-      "type": "small_airport",
-      "name": "Yenkis(Yankisa) Airport",
-      "elevation_ft": 3692.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EPW",
-      "gps_code": "AYYK",
-      "iata_code": "YEQ",
-      "local_code": "YIS",
-      "coordinates": "-5.10972222222, 143.917666667"
-    },
-    {
-      "ident": "ZEN",
-      "type": "small_airport",
-      "name": "Zenag Airport",
-      "elevation_ft": 3200.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Zenag",
-      "gps_code": "AYZA",
-      "iata_code": "ZEN",
-      "local_code": "ZEN",
-      "coordinates": "-6.9522222222200005, 146.61625"
     }
   ]
 }

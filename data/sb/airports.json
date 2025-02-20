@@ -2,7 +2,7 @@
   "country_code": "SB",
   "country_name": "Solomon Islands",
   "total_airports": 40,
-  "last_updated": "2025-02-19T00:08:07.624130",
+  "last_updated": "2025-02-20T00:08:27.923444",
   "types_distribution": {
     "small_airport": 34,
     "large_airport": 1,
@@ -60,6 +60,19 @@
       "gps_code": "AGBA",
       "iata_code": "VEV",
       "coordinates": "-7.912779808044434, 156.70599365234375"
+    },
+    {
+      "ident": "AGBT",
+      "type": "small_airport",
+      "name": "Batuna Aerodrome",
+      "elevation_ft": 24.0,
+      "continent": "OC",
+      "iso_country": "SB",
+      "iso_region": "SB-WE",
+      "municipality": "Batuna Mission Station",
+      "gps_code": "AGBT",
+      "iata_code": "BPF",
+      "coordinates": "-8.56202777778, 158.119305556"
     },
     {
       "ident": "AGEV",
@@ -471,19 +484,6 @@
       "iso_region": "SB-CE",
       "municipality": "Anhua Island",
       "coordinates": "-9.001389, 160.225"
-    },
-    {
-      "ident": "BPF",
-      "type": "small_airport",
-      "name": "Batuna Aerodrome",
-      "elevation_ft": 24.0,
-      "continent": "OC",
-      "iso_country": "SB",
-      "iso_region": "SB-WE",
-      "municipality": "Batuna Mission Station",
-      "gps_code": "AGBT",
-      "iata_code": "BPF",
-      "coordinates": "-8.56202777778, 158.119305556"
     },
     {
       "ident": "SB-VIU",

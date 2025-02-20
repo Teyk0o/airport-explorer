@@ -2,26 +2,13 @@
   "country_code": "CV",
   "country_name": "Cape Verde",
   "total_airports": 10,
-  "last_updated": "2025-02-19T00:08:07.783284",
+  "last_updated": "2025-02-20T00:08:28.235258",
   "types_distribution": {
-    "small_airport": 4,
     "large_airport": 2,
+    "small_airport": 4,
     "medium_airport": 4
   },
   "airports": [
-    {
-      "ident": "BVR",
-      "type": "small_airport",
-      "name": "Esperadinha Airport",
-      "elevation_ft": 64.0,
-      "continent": "AF",
-      "iso_country": "CV",
-      "iso_region": "CV-S",
-      "municipality": "Brava Island",
-      "gps_code": "GVBR",
-      "iata_code": "BVR",
-      "coordinates": "14.864306, -24.746"
-    },
     {
       "ident": "GVAC",
       "type": "large_airport",
@@ -60,6 +47,19 @@
       "gps_code": "GVBA",
       "iata_code": "BVC",
       "coordinates": "16.136499404907227, -22.888900756835938"
+    },
+    {
+      "ident": "GVBR",
+      "type": "small_airport",
+      "name": "Esperadinha Airport",
+      "elevation_ft": 64.0,
+      "continent": "AF",
+      "iso_country": "CV",
+      "iso_region": "CV-S",
+      "municipality": "Brava Island",
+      "gps_code": "GVBR",
+      "iata_code": "BVR",
+      "coordinates": "14.864306, -24.746"
     },
     {
       "ident": "GVMA",
