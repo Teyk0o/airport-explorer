@@ -2,7 +2,7 @@
   "country_code": "ZA",
   "country_name": "South Africa",
   "total_airports": 652,
-  "last_updated": "2025-02-20T00:08:28.201457",
+  "last_updated": "2025-02-21T00:08:26.454654",
   "types_distribution": {
     "medium_airport": 57,
     "closed": 28,
@@ -2235,17 +2235,6 @@
       "gps_code": "FAMM",
       "iata_code": "MBD",
       "coordinates": "-25.798400878900004, 25.548000335699996"
-    },
-    {
-      "ident": "FAMN",
-      "type": "small_airport",
-      "name": "Riverside Airport",
-      "elevation_ft": 1024.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-MP",
-      "municipality": "Malelane",
-      "coordinates": "-25.43, 31.5767"
     },
     {
       "ident": "FAMO",
@@ -4770,6 +4759,17 @@
       "iso_region": "ZA-NP",
       "municipality": "Bonwa Phala",
       "coordinates": "-24.886667251586914, 28.047222137451172"
+    },
+    {
+      "ident": "ZA-0069",
+      "type": "small_airport",
+      "name": "Riverside Airport",
+      "elevation_ft": 1024.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-MP",
+      "municipality": "Malelane",
+      "coordinates": "-25.43, 31.5767"
     },
     {
       "ident": "ZA-0070",

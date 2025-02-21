@@ -1,12 +1,12 @@
 {
   "country_code": "CZ",
   "country_name": "Czech Republic",
-  "total_airports": 383,
-  "last_updated": "2025-02-20T00:08:28.134851",
+  "total_airports": 384,
+  "last_updated": "2025-02-21T00:08:26.386863",
   "types_distribution": {
     "heliport": 107,
     "closed": 25,
-    "small_airport": 239,
+    "small_airport": 240,
     "medium_airport": 11,
     "large_airport": 1
   },
@@ -2925,6 +2925,15 @@
       "iso_region": "CZ-PL",
       "municipality": "Rokycany",
       "coordinates": "49.74828, 13.60423"
+    },
+    {
+      "ident": "CZ-0266",
+      "type": "small_airport",
+      "name": "Nový Jičín Airstrip",
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-MO",
+      "coordinates": "49.63195, 18.12781"
     },
     {
       "ident": "LKBA",
