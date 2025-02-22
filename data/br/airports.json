@@ -1,10 +1,10 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7420,
-  "last_updated": "2025-02-21T00:08:26.263671",
+  "total_airports": 7422,
+  "last_updated": "2025-02-22T00:08:01.296736",
   "types_distribution": {
-    "small_airport": 5137,
+    "small_airport": 5139,
     "closed": 285,
     "heliport": 1862,
     "medium_airport": 124,
@@ -75916,6 +75916,19 @@
       "coordinates": "-17.015222, -49.205372"
     },
     {
+      "ident": "SS2Q",
+      "type": "small_airport",
+      "name": "Major Brigadeiro do Ar Rui Moreira Lima Airport",
+      "elevation_ft": 768.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Colinas",
+      "gps_code": "SS2Q",
+      "local_code": "MA0199",
+      "coordinates": "-6.07558, -44.269023"
+    },
+    {
       "ident": "SS2R",
       "type": "small_airport",
       "name": "Fazenda Terra Roxa Airport",
@@ -75966,6 +75979,19 @@
       "gps_code": "SS2U",
       "local_code": "TO0150",
       "coordinates": "-9.544956, -49.433358"
+    },
+    {
+      "ident": "SS2V",
+      "type": "small_airport",
+      "name": "Fazenda Sabaúna Airstrip",
+      "elevation_ft": 1402.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Figueirão",
+      "gps_code": "SS2V",
+      "local_code": "MS0765",
+      "coordinates": "-18.649875, -54.197194"
     },
     {
       "ident": "SS2X",
@@ -91070,12 +91096,13 @@
       "ident": "SWVK",
       "type": "small_airport",
       "name": "Fazenda Vale do Rio Celeste Airport",
-      "elevation_ft": 1411.0,
+      "elevation_ft": 1450.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Nova Ubiratã",
       "gps_code": "SWVK",
+      "local_code": "MT0417",
       "coordinates": "-13.035319, -55.32782"
     },
     {
@@ -91168,8 +91195,9 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
-      "municipality": "Vila Bela Da Santíssima Trindade",
+      "municipality": "Vila Bela da Santíssima Trindade",
       "gps_code": "SWVS",
+      "local_code": "MT0419",
       "coordinates": "-15.861972, -60.04039"
     },
     {
