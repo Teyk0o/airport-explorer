@@ -1,14 +1,13 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7422,
-  "last_updated": "2025-02-22T00:08:01.296736",
+  "total_airports": 7429,
+  "last_updated": "2025-02-23T00:08:49.516084",
   "types_distribution": {
-    "small_airport": 5139,
+    "small_airport": 5144,
     "closed": 285,
-    "heliport": 1862,
+    "heliport": 1865,
     "medium_airport": 124,
-    "seaplane_base": 1,
     "large_airport": 11
   },
   "airports": [
@@ -17472,7 +17471,7 @@
     },
     {
       "ident": "BR-1403",
-      "type": "seaplane_base",
+      "type": "heliport",
       "name": "M Executive Taubaté Heliport",
       "elevation_ft": 1909.0,
       "continent": "SA",
@@ -24103,7 +24102,7 @@
       "elevation_ft": 1089.0,
       "continent": "SA",
       "iso_country": "BR",
-      "iso_region": "BR-U-A",
+      "iso_region": "BR-MS",
       "municipality": "Sete Quedas",
       "gps_code": "SWQQ",
       "local_code": "MS0408",
@@ -24142,7 +24141,7 @@
       "elevation_ft": 1785.0,
       "continent": "SA",
       "iso_country": "BR",
-      "iso_region": "BR-U-A",
+      "iso_region": "BR-MA",
       "municipality": "Balsas",
       "gps_code": "SN99",
       "local_code": "MA0191",
@@ -75994,6 +75993,19 @@
       "coordinates": "-18.649875, -54.197194"
     },
     {
+      "ident": "SS2W",
+      "type": "small_airport",
+      "name": "Fazenda Concórdia Airstrip",
+      "elevation_ft": 2625.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Formosa do Rio Preto",
+      "gps_code": "SS2W",
+      "local_code": "BA0481",
+      "coordinates": "-10.256492, -45.669944"
+    },
+    {
       "ident": "SS2X",
       "type": "small_airport",
       "name": "Agropecuária Jacaraí Airport",
@@ -76182,7 +76194,7 @@
       "elevation_ft": 2436.0,
       "continent": "SA",
       "iso_country": "BR",
-      "iso_region": "BR-U-A",
+      "iso_region": "BR-CE",
       "municipality": "Pereiro",
       "gps_code": "SS3E",
       "local_code": "CE0178",
@@ -76239,6 +76251,45 @@
       "gps_code": "SS3I",
       "local_code": "PA0423",
       "coordinates": "-6.261964, -55.834708"
+    },
+    {
+      "ident": "SS3J",
+      "type": "heliport",
+      "name": "Los Hermanos Competições Heliport",
+      "elevation_ft": 2772.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Imbituva",
+      "gps_code": "SS3J",
+      "local_code": "PR0249",
+      "coordinates": "-25.211439, -50.606728"
+    },
+    {
+      "ident": "SS3K",
+      "type": "small_airport",
+      "name": "Grupo B&A Airport",
+      "elevation_ft": 1431.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Sidrolândia",
+      "gps_code": "SS3K",
+      "local_code": "MS0764",
+      "coordinates": "-21.268611, -55.011667"
+    },
+    {
+      "ident": "SS3L",
+      "type": "small_airport",
+      "name": "Fazenda Flor da Mata Airport",
+      "elevation_ft": 1115.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "São José do Xingu",
+      "gps_code": "SS3L",
+      "local_code": "MT1087",
+      "coordinates": "-10.735478, -52.830153"
     },
     {
       "ident": "SS3M",
@@ -76330,6 +76381,45 @@
       "gps_code": "SS3S",
       "local_code": "MS0634",
       "coordinates": "-21.763861, -57.771971"
+    },
+    {
+      "ident": "SS3T",
+      "type": "small_airport",
+      "name": "Fazenda Paraná Airport",
+      "elevation_ft": 1808.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Balsas",
+      "gps_code": "SS3T",
+      "local_code": "MA0202",
+      "coordinates": "-9.304242, -46.668433"
+    },
+    {
+      "ident": "SS3U",
+      "type": "small_airport",
+      "name": "Vô Aníbal Airport",
+      "elevation_ft": 299.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Porto Velho",
+      "gps_code": "SS3U",
+      "local_code": "RO0110",
+      "coordinates": "-9.087783, -63.856584"
+    },
+    {
+      "ident": "SS3V",
+      "type": "heliport",
+      "name": "Termas Romanas Heliport",
+      "elevation_ft": 318.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Restinga Sêca",
+      "gps_code": "SS3V",
+      "local_code": "RS0220",
+      "coordinates": "-29.699328, -53.493256"
     },
     {
       "ident": "SS42",

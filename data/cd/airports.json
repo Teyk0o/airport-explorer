@@ -2,12 +2,12 @@
   "country_code": "CD",
   "country_name": "Democratic Republic of the Congo",
   "total_airports": 306,
-  "last_updated": "2025-02-22T00:08:01.400669",
+  "last_updated": "2025-02-23T00:08:49.620583",
   "types_distribution": {
-    "small_airport": 252,
+    "small_airport": 251,
     "medium_airport": 22,
     "heliport": 1,
-    "closed": 30,
+    "closed": 31,
     "large_airport": 1
   },
   "airports": [
@@ -422,17 +422,15 @@
       "coordinates": "-2.575372, 20.364485"
     },
     {
-      "ident": "CD-0040",
-      "type": "small_airport",
-      "name": "Pweto Airport (New)",
-      "elevation_ft": 3625.0,
+      "ident": "CD-0041",
+      "type": "closed",
+      "name": "Former Pweto Airport",
+      "elevation_ft": 3425.0,
       "continent": "AF",
       "iso_country": "CD",
       "iso_region": "CD-HK",
       "municipality": "Pweto",
-      "gps_code": "FZQC",
-      "iata_code": "PWO",
-      "coordinates": "-8.400768, 28.926285"
+      "coordinates": "-8.466956, 28.889451"
     },
     {
       "ident": "FZAA",
@@ -2625,13 +2623,15 @@
     {
       "ident": "FZQC",
       "type": "small_airport",
-      "name": "Pweto Airport(Old)",
-      "elevation_ft": 3425.0,
+      "name": "Pweto Airport",
+      "elevation_ft": 3625.0,
       "continent": "AF",
       "iso_country": "CD",
       "iso_region": "CD-HK",
       "municipality": "Pweto",
-      "coordinates": "-8.466956, 28.889451"
+      "gps_code": "FZQC",
+      "iata_code": "PWO",
+      "coordinates": "-8.400768, 28.926285"
     },
     {
       "ident": "FZQD",

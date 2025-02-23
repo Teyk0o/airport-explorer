@@ -2,7 +2,7 @@
   "country_code": "ZA",
   "country_name": "South Africa",
   "total_airports": 652,
-  "last_updated": "2025-02-22T00:08:01.481302",
+  "last_updated": "2025-02-23T00:08:49.702571",
   "types_distribution": {
     "medium_airport": 57,
     "closed": 28,
@@ -2235,6 +2235,18 @@
       "gps_code": "FAMM",
       "iata_code": "MBD",
       "coordinates": "-25.798400878900004, 25.548000335699996"
+    },
+    {
+      "ident": "FAMN",
+      "type": "small_airport",
+      "name": "Malelane Airport",
+      "elevation_ft": 1153.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-MP",
+      "gps_code": "FAMN",
+      "iata_code": "LLE",
+      "coordinates": "-25.473333, 31.565556"
     },
     {
       "ident": "FAMO",
@@ -7455,18 +7467,6 @@
       "iso_region": "ZA-NC",
       "gps_code": "FACO",
       "coordinates": "-29.933201, 22.265741"
-    },
-    {
-      "ident": "ZA-0325",
-      "type": "small_airport",
-      "name": "Malelane Airport",
-      "elevation_ft": 1153.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-MP",
-      "gps_code": "FAMN",
-      "iata_code": "LLE",
-      "coordinates": "-25.473333, 31.565556"
     },
     {
       "ident": "ZA-0326",

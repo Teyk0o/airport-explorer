@@ -2,12 +2,12 @@
   "country_code": "AF",
   "country_name": "Afghanistan",
   "total_airports": 79,
-  "last_updated": "2025-02-22T00:08:01.208638",
+  "last_updated": "2025-02-23T00:08:49.428721",
   "types_distribution": {
     "small_airport": 59,
     "closed": 3,
-    "medium_airport": 9,
-    "heliport": 8
+    "heliport": 8,
+    "medium_airport": 9
   },
   "airports": [
     {
@@ -53,19 +53,6 @@
       "iso_region": "AF-HEL",
       "municipality": "Dostmohammadkhan Kalay",
       "coordinates": "31.043942, 64.153919"
-    },
-    {
-      "ident": "AF-0005",
-      "type": "medium_airport",
-      "name": "\"Ghost\" International Airport",
-      "elevation_ft": 4204.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-KHO",
-      "municipality": "Khost",
-      "gps_code": "OAKS",
-      "iata_code": "KHT",
-      "coordinates": "33.284605, 69.80734"
     },
     {
       "ident": "AF-0006",
@@ -171,6 +158,28 @@
       "coordinates": "34.49927, 70.11921"
     },
     {
+      "ident": "AF-0016",
+      "type": "closed",
+      "name": "Former Ghazni Airfield",
+      "elevation_ft": 7150.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-GHA",
+      "municipality": "Ghazni",
+      "coordinates": "33.5312, 68.412903"
+    },
+    {
+      "ident": "AF-0017",
+      "type": "small_airport",
+      "name": "Salerno South Airport",
+      "elevation_ft": 3756.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-KHO",
+      "municipality": "Khost",
+      "coordinates": "33.333401, 69.952003"
+    },
+    {
       "ident": "AF04",
       "type": "small_airport",
       "name": "Helmand Airport",
@@ -268,18 +277,6 @@
       "iso_region": "AF-TAK",
       "municipality": "Qara Tepa",
       "coordinates": "37.423302, 69.430298"
-    },
-    {
-      "ident": "GZI",
-      "type": "small_airport",
-      "name": "Ghazni Airport",
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-GHA",
-      "municipality": "Ghazni",
-      "gps_code": "OAGN",
-      "iata_code": "GZI",
-      "coordinates": "33.487853, 68.525243"
     },
     {
       "ident": "OA1A",
@@ -421,14 +418,15 @@
     },
     {
       "ident": "OAGN",
-      "type": "closed",
-      "name": "Ghazni Airfield",
-      "elevation_ft": 7150.0,
+      "type": "small_airport",
+      "name": "Ghazni Airport",
       "continent": "AS",
       "iso_country": "AF",
       "iso_region": "AF-GHA",
       "municipality": "Ghazni",
-      "coordinates": "33.5312, 68.412903"
+      "gps_code": "OAGN",
+      "iata_code": "GZI",
+      "coordinates": "33.487853, 68.525243"
     },
     {
       "ident": "OAGZ",
@@ -547,14 +545,16 @@
     },
     {
       "ident": "OAKS",
-      "type": "small_airport",
-      "name": "Khost Airport",
-      "elevation_ft": 3756.0,
+      "type": "medium_airport",
+      "name": "Khost International Airport",
+      "elevation_ft": 4204.0,
       "continent": "AS",
       "iso_country": "AF",
       "iso_region": "AF-KHO",
       "municipality": "Khost",
-      "coordinates": "33.333401, 69.952003"
+      "gps_code": "OAKS",
+      "iata_code": "KHT",
+      "coordinates": "33.284605, 69.80734"
     },
     {
       "ident": "OALG",

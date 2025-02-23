@@ -6,8 +6,8 @@
     "types_distribution": {
       "small_airport": 59,
       "closed": 3,
-      "medium_airport": 9,
-      "heliport": 8
+      "heliport": 8,
+      "medium_airport": 9
     }
   },
   {
@@ -325,13 +325,12 @@
   {
     "code": "BR",
     "name": "Brazil",
-    "airport_count": 7422,
+    "airport_count": 7429,
     "types_distribution": {
-      "small_airport": 5139,
+      "small_airport": 5144,
       "closed": 285,
-      "heliport": 1862,
+      "heliport": 1865,
       "medium_airport": 124,
-      "seaplane_base": 1,
       "large_airport": 11
     }
   },
@@ -621,10 +620,10 @@
     "name": "Democratic Republic of the Congo",
     "airport_count": 306,
     "types_distribution": {
-      "small_airport": 252,
+      "small_airport": 251,
       "medium_airport": 22,
       "heliport": 1,
-      "closed": 30,
+      "closed": 31,
       "large_airport": 1
     }
   },
@@ -1624,12 +1623,12 @@
   {
     "code": "MA",
     "name": "Morocco",
-    "airport_count": 45,
+    "airport_count": 43,
     "types_distribution": {
-      "small_airport": 18,
-      "medium_airport": 18,
-      "closed": 6,
-      "large_airport": 1,
+      "small_airport": 16,
+      "large_airport": 6,
+      "medium_airport": 12,
+      "closed": 7,
       "heliport": 2
     }
   },
@@ -1943,8 +1942,8 @@
     "name": "Qatar",
     "airport_count": 21,
     "types_distribution": {
-      "small_airport": 6,
-      "medium_airport": 1,
+      "small_airport": 5,
+      "medium_airport": 2,
       "large_airport": 1,
       "heliport": 12,
       "closed": 1
@@ -2659,11 +2658,11 @@
   {
     "code": "EH",
     "name": "Western Sahara",
-    "airport_count": 28,
+    "airport_count": 30,
     "types_distribution": {
-      "small_airport": 9,
+      "small_airport": 10,
       "heliport": 15,
-      "medium_airport": 3,
+      "medium_airport": 4,
       "closed": 1
     }
   },

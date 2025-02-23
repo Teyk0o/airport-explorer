@@ -2,7 +2,7 @@
   "country_code": "UG",
   "country_name": "Uganda",
   "total_airports": 41,
-  "last_updated": "2025-02-22T00:08:01.532966",
+  "last_updated": "2025-02-23T00:08:49.754060",
   "types_distribution": {
     "small_airport": 35,
     "medium_airport": 3,
@@ -74,6 +74,18 @@
       "coordinates": "0.7063, 30.2493"
     },
     {
+      "ident": "HUGG",
+      "type": "small_airport",
+      "name": "Bugungu Airport",
+      "elevation_ft": 2472.0,
+      "continent": "AF",
+      "iso_country": "UG",
+      "iso_region": "UG-W",
+      "municipality": "Bujenje",
+      "gps_code": "HUGG",
+      "coordinates": "2.202788, 31.554341"
+    },
+    {
       "ident": "HUGU",
       "type": "medium_airport",
       "name": "Gulu Airport",
@@ -132,19 +144,6 @@
       "municipality": "Kidepo Valley National Park",
       "gps_code": "HUKD",
       "coordinates": "3.7176, 33.7487"
-    },
-    {
-      "ident": "HUKF",
-      "type": "small_airport",
-      "name": "Kabalega Falls Airport",
-      "elevation_ft": 2365.0,
-      "continent": "AF",
-      "iso_country": "UG",
-      "iso_region": "UG-W",
-      "municipality": "Pakuba",
-      "gps_code": "HUPA",
-      "iata_code": "PAF",
-      "coordinates": "2.326563, 31.497698"
     },
     {
       "ident": "HUKJ",
@@ -273,14 +272,15 @@
     {
       "ident": "HUPA",
       "type": "small_airport",
-      "name": "Bugungu Airport",
-      "elevation_ft": 2472.0,
+      "name": "Kabalega Falls Airport",
+      "elevation_ft": 2365.0,
       "continent": "AF",
       "iso_country": "UG",
       "iso_region": "UG-W",
-      "municipality": "Bujenje",
-      "gps_code": "HUGG",
-      "coordinates": "2.202788, 31.554341"
+      "municipality": "Pakuba",
+      "gps_code": "HUPA",
+      "iata_code": "PAF",
+      "coordinates": "2.326563, 31.497698"
     },
     {
       "ident": "HUSO",

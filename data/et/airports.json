@@ -2,7 +2,7 @@
   "country_code": "ET",
   "country_name": "Ethiopia",
   "total_airports": 66,
-  "last_updated": "2025-02-22T00:08:01.478692",
+  "last_updated": "2025-02-23T00:08:49.699922",
   "types_distribution": {
     "closed": 7,
     "small_airport": 43,
@@ -96,17 +96,15 @@
       "coordinates": "4.80059, 36.12643"
     },
     {
-      "ident": "ET-0009",
-      "type": "small_airport",
-      "name": "Kombolcha Airport",
-      "elevation_ft": 6120.0,
+      "ident": "ET-0010",
+      "type": "closed",
+      "name": "Combolcha Airport",
+      "elevation_ft": 6117.0,
       "continent": "AF",
       "iso_country": "ET",
       "iso_region": "ET-AM",
       "municipality": "Dessie",
-      "gps_code": "HADC",
-      "iata_code": "DSE",
-      "coordinates": "11.10992, 39.72353"
+      "coordinates": "11.0825, 39.711399"
     },
     {
       "ident": "ET-GLC",
@@ -249,14 +247,16 @@
     },
     {
       "ident": "HADC",
-      "type": "closed",
-      "name": "Combolcha Airport",
-      "elevation_ft": 6117.0,
+      "type": "small_airport",
+      "name": "Kombolcha Airport",
+      "elevation_ft": 6120.0,
       "continent": "AF",
       "iso_country": "ET",
       "iso_region": "ET-AM",
       "municipality": "Dessie",
-      "coordinates": "11.0825, 39.711399"
+      "gps_code": "HADC",
+      "iata_code": "DSE",
+      "coordinates": "11.10992, 39.72353"
     },
     {
       "ident": "HADD",

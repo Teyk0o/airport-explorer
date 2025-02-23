@@ -2,10 +2,10 @@
   "country_code": "QA",
   "country_name": "Qatar",
   "total_airports": 21,
-  "last_updated": "2025-02-22T00:08:01.613387",
+  "last_updated": "2025-02-23T00:08:49.835444",
   "types_distribution": {
-    "small_airport": 6,
-    "medium_airport": 1,
+    "small_airport": 5,
+    "medium_airport": 2,
     "large_airport": 1,
     "heliport": 12,
     "closed": 1
@@ -26,7 +26,7 @@
     },
     {
       "ident": "OTBD",
-      "type": "small_airport",
+      "type": "medium_airport",
       "name": "Doha International Airport",
       "elevation_ft": 35.0,
       "continent": "AS",

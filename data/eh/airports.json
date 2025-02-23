@@ -1,12 +1,12 @@
 {
   "country_code": "EH",
   "country_name": "Western Sahara",
-  "total_airports": 28,
-  "last_updated": "2025-02-22T00:08:01.461986",
+  "total_airports": 30,
+  "last_updated": "2025-02-23T00:08:49.682951",
   "types_distribution": {
-    "small_airport": 9,
+    "small_airport": 10,
     "heliport": 15,
-    "medium_airport": 3,
+    "medium_airport": 4,
     "closed": 1
   },
   "airports": [
@@ -249,6 +249,18 @@
       "coordinates": "22.05675, -16.75565"
     },
     {
+      "ident": "EH-0024",
+      "type": "small_airport",
+      "name": "Tarfaya Airport",
+      "elevation_ft": 20.0,
+      "continent": "AF",
+      "iso_country": "EH",
+      "iso_region": "EH-U-A",
+      "municipality": "Tarfaya",
+      "local_code": "TFY",
+      "coordinates": "27.9487, -12.9166"
+    },
+    {
       "ident": "GMAR",
       "type": "small_airport",
       "name": "Al Mahbes Airstrip",
@@ -298,6 +310,17 @@
       "gps_code": "GMML",
       "iata_code": "EUN",
       "coordinates": "27.142467, -13.224947"
+    },
+    {
+      "ident": "MA-0003",
+      "type": "medium_airport",
+      "name": "Mahbes Airbase",
+      "elevation_ft": 1623.0,
+      "continent": "AF",
+      "iso_country": "EH",
+      "iso_region": "EH-U-A",
+      "gps_code": "GMAR",
+      "coordinates": "27.726982, -9.237865"
     },
     {
       "ident": "ZLG",
