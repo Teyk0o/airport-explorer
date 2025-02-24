@@ -1,12 +1,12 @@
 {
   "country_code": "DE",
   "country_name": "Germany",
-  "total_airports": 1395,
-  "last_updated": "2025-02-23T00:08:49.644149",
+  "total_airports": 1396,
+  "last_updated": "2025-02-24T00:08:11.988623",
   "types_distribution": {
     "heliport": 447,
     "closed": 105,
-    "small_airport": 768,
+    "small_airport": 769,
     "balloonport": 2,
     "medium_airport": 62,
     "large_airport": 10,
@@ -9443,6 +9443,16 @@
       "iso_region": "DE-TH",
       "municipality": "Eisenberg",
       "coordinates": "50.95682, 11.88139"
+    },
+    {
+      "ident": "DE-0874",
+      "type": "small_airport",
+      "name": "Berlin Brandenburg Airport",
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Berlin",
+      "coordinates": "52.366667, 13.503333"
     },
     {
       "ident": "EDAB",

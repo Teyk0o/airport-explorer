@@ -1,11 +1,11 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3219,
-  "last_updated": "2025-02-23T00:08:49.594204",
+  "total_airports": 3226,
+  "last_updated": "2025-02-24T00:08:11.939021",
   "types_distribution": {
-    "closed": 820,
-    "small_airport": 1206,
+    "closed": 825,
+    "small_airport": 1208,
     "heliport": 506,
     "seaplane_base": 435,
     "balloonport": 1,
@@ -1055,6 +1055,18 @@
       "iso_country": "CA",
       "iso_region": "CA-NU",
       "coordinates": "76.4000015258789, -108.53333282470703"
+    },
+    {
+      "ident": "CA-0118",
+      "type": "small_airport",
+      "name": "Greenbush Airport",
+      "elevation_ft": 436.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Picton",
+      "gps_code": "CGB3",
+      "local_code": "CGB3",
+      "coordinates": "44.0011, -77.0735"
     },
     {
       "ident": "CA-0119",
@@ -3235,11 +3247,12 @@
     {
       "ident": "CA-0366",
       "type": "closed",
-      "name": "Stratford Airport",
+      "name": "Stratford Airfield",
       "elevation_ft": 1174.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
-      "coordinates": "43.316666, -81.033333"
+      "municipality": "Saint Pauls Station",
+      "coordinates": "43.324306, -81.028521"
     },
     {
       "ident": "CA-0367",
@@ -4825,9 +4838,11 @@
       "ident": "CA-0536",
       "type": "small_airport",
       "name": "Paterson Field",
+      "elevation_ft": 1146.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
-      "coordinates": "43.419447, -81.237176"
+      "municipality": "Fullarton",
+      "coordinates": "43.418123, -81.238293"
     },
     {
       "ident": "CA-0537",
@@ -9417,6 +9432,76 @@
       "coordinates": "52.382833, -112.002167"
     },
     {
+      "ident": "CA-0994",
+      "type": "small_airport",
+      "name": "Dobie Field",
+      "elevation_ft": 681.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Glencoe",
+      "coordinates": "42.70141, -81.64238"
+    },
+    {
+      "ident": "CA-0995",
+      "type": "small_airport",
+      "name": "Cherry Hill Field",
+      "elevation_ft": 1086.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Thorndale",
+      "coordinates": "43.17053, -81.11405"
+    },
+    {
+      "ident": "CA-0996",
+      "type": "closed",
+      "name": "Carlingford Field",
+      "elevation_ft": 1129.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Saint Pauls Station",
+      "coordinates": "43.38387, -81.16213"
+    },
+    {
+      "ident": "CA-0997",
+      "type": "closed",
+      "name": "Monkton Field",
+      "elevation_ft": 1184.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Monkton",
+      "coordinates": "43.57336, -81.08236"
+    },
+    {
+      "ident": "CA-0998",
+      "type": "closed",
+      "name": "Milverton Field",
+      "elevation_ft": 1224.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Perth East",
+      "coordinates": "43.54838, -80.93308"
+    },
+    {
+      "ident": "CA-0999",
+      "type": "closed",
+      "name": "Alma Field",
+      "elevation_ft": 1424.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Alma",
+      "coordinates": "43.72065, -80.50094"
+    },
+    {
+      "ident": "CA-1000",
+      "type": "closed",
+      "name": "Ponsonby Field",
+      "elevation_ft": 1201.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Centre Wellington",
+      "coordinates": "43.61694, -80.37148"
+    },
+    {
       "ident": "CA-CAB5",
       "type": "heliport",
       "name": "Abbotsford (Regional Hospital & Cancer Centre) Heliport",
@@ -11911,7 +11996,7 @@
       "coordinates": "54.264, -110.7405"
     },
     {
-      "ident": "cbn3",
+      "ident": "CBN3",
       "type": "heliport",
       "name": "Buffalo Narrows (Fire Centre) Heliport",
       "elevation_ft": 1411.0,
@@ -13182,7 +13267,7 @@
       "coordinates": "44.71329879760742, -66.79640197753906"
     },
     {
-      "ident": "ccn3",
+      "ident": "CCN3",
       "type": "closed",
       "name": "Caroline Airfield",
       "elevation_ft": 3540.0,
@@ -13945,10 +14030,10 @@
       "elevation_ft": 1236.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
-      "municipality": "Elora",
+      "municipality": "Guelph",
       "gps_code": "CDF5",
       "local_code": "CDF5",
-      "coordinates": "43.632401, -80.3565"
+      "coordinates": "43.631904, -80.355666"
     },
     {
       "ident": "CDF6",
@@ -14935,7 +15020,7 @@
       "coordinates": "56.951336, -113.498259"
     },
     {
-      "ident": "ceg6",
+      "ident": "CEG6",
       "type": "heliport",
       "name": "Nordegg / Ahlstrom Heliport",
       "elevation_ft": 4411.0,
@@ -16998,7 +17083,7 @@
       "coordinates": "46.091185, -80.608456"
     },
     {
-      "ident": "cfr6",
+      "ident": "CFR6",
       "type": "heliport",
       "name": "Vancouver / Coquitlam Fire and Rescue Heliport",
       "elevation_ft": 180.0,
@@ -17515,18 +17600,6 @@
       "coordinates": "51.582801818847656, -114.052001953125"
     },
     {
-      "ident": "CGB3",
-      "type": "small_airport",
-      "name": "Greenbush Airport",
-      "elevation_ft": 436.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Picton",
-      "gps_code": "CGB3",
-      "local_code": "CGB3",
-      "coordinates": "44.0011, -77.0735"
-    },
-    {
       "ident": "CGB4",
       "type": "heliport",
       "name": "Nanaimo/Gabriola Island (Health Clinic) Heliport",
@@ -17677,7 +17750,7 @@
       "coordinates": "50.88970184326172, -122.84700012207031"
     },
     {
-      "ident": "cgl6",
+      "ident": "CGL6",
       "type": "heliport",
       "name": "Vancouver / Burnaby (Global BC) Heliport",
       "elevation_ft": 262.0,
@@ -17855,7 +17928,7 @@
       "coordinates": "43.861886, -80.266671"
     },
     {
-      "ident": "cgv5",
+      "ident": "CGV5",
       "type": "small_airport",
       "name": "Grand Valley (Black Field)",
       "elevation_ft": 1580.0,
@@ -18901,7 +18974,7 @@
       "coordinates": "49.54999923706055, -99.33329772949219"
     },
     {
-      "ident": "cjj3",
+      "ident": "CJJ3",
       "type": "small_airport",
       "name": "Wildwood / Loche Mist Farms Airstrip",
       "elevation_ft": 2880.0,
@@ -21971,7 +22044,7 @@
       "coordinates": "44.08940124511719, -79.49500274658203"
     },
     {
-      "ident": "cla5",
+      "ident": "CLA5",
       "type": "small_airport",
       "name": "Lethbridge / Anderson Field",
       "elevation_ft": 3020.0,
@@ -22156,7 +22229,7 @@
       "coordinates": "44.525564, -78.44827"
     },
     {
-      "ident": "clj3",
+      "ident": "CLJ3",
       "type": "small_airport",
       "name": "Lethbridge / J3 Airfield",
       "elevation_ft": 2910.0,
@@ -22283,7 +22356,7 @@
       "coordinates": "44.9922, -79.465401"
     },
     {
-      "ident": "cln4",
+      "ident": "CLN4",
       "type": "small_airport",
       "name": "Beaverlodge / Clanachan Field",
       "elevation_ft": 2694.0,
@@ -22340,7 +22413,7 @@
       "coordinates": "45.170104, -79.5975"
     },
     {
-      "ident": "cls3",
+      "ident": "CLS3",
       "type": "small_airport",
       "name": "Fort McMurray / South Liege Airfield",
       "elevation_ft": 1707.0,
@@ -22373,7 +22446,7 @@
       "coordinates": "45.913, -75.095"
     },
     {
-      "ident": "clv2",
+      "ident": "CLV2",
       "type": "small_airport",
       "name": "Slayner (Clearview Field) Aerodrome",
       "elevation_ft": 870.0,
@@ -22464,7 +22537,7 @@
       "coordinates": "45.3669, -79.8326"
     },
     {
-      "ident": "cmb2",
+      "ident": "CMB2",
       "type": "small_airport",
       "name": "Meadowbank Airport",
       "elevation_ft": 475.0,
@@ -23641,7 +23714,7 @@
       "coordinates": "45.416698, -76.650002"
     },
     {
-      "ident": "cnl7",
+      "ident": "CNL7",
       "type": "small_airport",
       "name": "Lumsden Air Park",
       "elevation_ft": 720.0,
@@ -24497,7 +24570,7 @@
       "coordinates": "44.778056, -79.248333"
     },
     {
-      "ident": "cor2",
+      "ident": "COR2",
       "type": "heliport",
       "name": "Val D'or (St. Pierre) Heliport",
       "elevation_ft": 1000.0,
@@ -26881,7 +26954,7 @@
       "coordinates": "45.183333, -79.567833"
     },
     {
-      "ident": "crs7",
+      "ident": "CRS7",
       "type": "small_airport",
       "name": "Matoush Airport",
       "elevation_ft": 2608.0,
@@ -26891,7 +26964,7 @@
       "coordinates": "51.905, -72.12388888"
     },
     {
-      "ident": "crt2",
+      "ident": "CRT2",
       "type": "small_airport",
       "name": "Rivière Témiscamie (Air Roberval) Airport",
       "elevation_ft": 1300.0,
@@ -27904,7 +27977,7 @@
       "coordinates": "46.2421989440918, -76.04830169677734"
     },
     {
-      "ident": "csm7",
+      "ident": "CSM7",
       "type": "heliport",
       "name": "Abbotsford (Sumas Mountain) Heliport",
       "elevation_ft": 1067.0,
@@ -28461,7 +28534,7 @@
       "coordinates": "44.129, -78.941"
     },
     {
-      "ident": "csv8",
+      "ident": "CSV8",
       "type": "small_airport",
       "name": "Sloan Valley View Farm Airfield",
       "elevation_ft": 890.0,
@@ -29622,7 +29695,7 @@
       "coordinates": "49.867697, -119.560701"
     },
     {
-      "ident": "cvb2",
+      "ident": "CVB2",
       "type": "small_airport",
       "name": "Voisey's Bay Airport",
       "iso_country": "CA",
@@ -29880,7 +29953,7 @@
       "coordinates": "43.3243, -79.9361"
     },
     {
-      "ident": "cwf2",
+      "ident": "CWF2",
       "type": "small_airport",
       "name": "Walter's Falls (Piper Way) Aerodrome",
       "elevation_ft": 1400.0,
@@ -30055,7 +30128,7 @@
       "coordinates": "63.325446, -64.154428"
     },
     {
-      "ident": "cwp3",
+      "ident": "CWP3",
       "type": "heliport",
       "name": "Leslieville / W. Pidhirney Residence Heliport",
       "elevation_ft": 3130.0,

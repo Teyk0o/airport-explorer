@@ -1,10 +1,10 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 796,
-  "last_updated": "2025-02-23T00:08:49.398121",
+  "total_airports": 797,
+  "last_updated": "2025-02-24T00:08:11.746004",
   "types_distribution": {
-    "small_airport": 195,
+    "small_airport": 196,
     "closed": 137,
     "medium_airport": 54,
     "heliport": 400,
@@ -825,6 +825,17 @@
       "iso_region": "PH-CAG",
       "municipality": "Catotoran",
       "coordinates": "18.301036, 121.664958"
+    },
+    {
+      "ident": "PH-0073",
+      "type": "small_airport",
+      "name": "Camaya Coast Airport",
+      "elevation_ft": 250.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BAN",
+      "municipality": "Mariveles",
+      "coordinates": "14.44802, 120.42486"
     },
     {
       "ident": "PH-0074",

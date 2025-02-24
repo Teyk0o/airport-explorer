@@ -1,10 +1,10 @@
 {
   "country_code": "IT",
   "country_name": "Italy",
-  "total_airports": 945,
-  "last_updated": "2025-02-23T00:08:49.787848",
+  "total_airports": 942,
+  "last_updated": "2025-02-24T00:08:12.130952",
   "types_distribution": {
-    "small_airport": 584,
+    "small_airport": 581,
     "closed": 119,
     "heliport": 163,
     "seaplane_base": 5,
@@ -1494,17 +1494,6 @@
       "municipality": "Castelvolturno",
       "local_code": "CECVO",
       "coordinates": "41.065278, 13.9625"
-    },
-    {
-      "ident": "IT-0127",
-      "type": "small_airport",
-      "name": "Pegaso Club 2000",
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-62",
-      "municipality": "Pontinia (LT)",
-      "local_code": "LTPON",
-      "coordinates": "41.35775, 13.149013"
     },
     {
       "ident": "IT-0128",
@@ -8190,7 +8179,7 @@
       "name": "Idroscalo di Taranto",
       "continent": "EU",
       "iso_country": "IT",
-      "iso_region": "IT-U-A",
+      "iso_region": "IT-75",
       "municipality": "Taranto",
       "coordinates": "40.477113, 17.225393"
     },
@@ -8569,7 +8558,7 @@
       "name": "Campo di volo S.Elia (Buccino)",
       "continent": "EU",
       "iso_country": "IT",
-      "iso_region": "IT-U-A",
+      "iso_region": "IT-72",
       "municipality": "Buccino (SA)",
       "coordinates": "40.658381, 15.335616"
     },
@@ -8914,26 +8903,6 @@
       "iso_region": "IT-23",
       "municipality": "Aosta",
       "coordinates": "45.731861, 6.816234"
-    },
-    {
-      "ident": "IT-0794",
-      "type": "small_airport",
-      "name": "Gh. del M. Dolent",
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-23",
-      "municipality": "Aosta",
-      "coordinates": "45.914754, 7.048804"
-    },
-    {
-      "ident": "IT-0795",
-      "type": "small_airport",
-      "name": "Gh. del Furggen",
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-23",
-      "municipality": "Aosta",
-      "coordinates": "45.957018, 7.676315"
     },
     {
       "ident": "IT-0796",
@@ -10684,7 +10653,7 @@
       "ident": "LIRI",
       "type": "medium_airport",
       "name": "Salerno Costa d'Amalfi Airport",
-      "elevation_ft": 119.0,
+      "elevation_ft": 123.0,
       "continent": "EU",
       "iso_country": "IT",
       "iso_region": "IT-72",

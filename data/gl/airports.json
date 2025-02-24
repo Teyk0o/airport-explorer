@@ -2,12 +2,12 @@
   "country_code": "GL",
   "country_name": "Greenland",
   "total_airports": 91,
-  "last_updated": "2025-02-23T00:08:49.482704",
+  "last_updated": "2025-02-24T00:08:11.828810",
   "types_distribution": {
     "medium_airport": 8,
-    "heliport": 55,
+    "heliport": 54,
     "small_airport": 17,
-    "closed": 11
+    "closed": 12
   },
   "airports": [
     {
@@ -467,15 +467,13 @@
       "coordinates": "81.601292, -16.679306"
     },
     {
-      "ident": "bgmo",
-      "type": "heliport",
+      "ident": "BGMO",
+      "type": "closed",
       "name": "Moriusaq Heliport",
       "elevation_ft": 44.0,
       "iso_country": "GL",
       "iso_region": "GL-AV",
       "municipality": "Moriusaq",
-      "gps_code": "BGMO",
-      "local_code": "MOR",
       "coordinates": "76.753492, -69.845055"
     },
     {
@@ -1042,7 +1040,7 @@
       "coordinates": "68.699997, -52.966702"
     },
     {
-      "ident": "qfx",
+      "ident": "QFX",
       "type": "heliport",
       "name": "Igaliku Heliport",
       "iso_country": "GL",

@@ -2,10 +2,10 @@
   "country_code": "CL",
   "country_name": "Chile",
   "total_airports": 511,
-  "last_updated": "2025-02-23T00:08:49.627378",
+  "last_updated": "2025-02-24T00:08:11.972044",
   "types_distribution": {
-    "closed": 18,
-    "small_airport": 346,
+    "closed": 19,
+    "small_airport": 345,
     "heliport": 114,
     "medium_airport": 32,
     "large_airport": 1
@@ -204,6 +204,17 @@
       "municipality": "Peldehue",
       "gps_code": "SCPD",
       "coordinates": "-33.118575, -70.683074"
+    },
+    {
+      "ident": "CL-0018",
+      "type": "closed",
+      "name": "Osorno Pampa Ale Airport",
+      "elevation_ft": 79.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Osorno",
+      "coordinates": "-40.547199, -73.155602"
     },
     {
       "ident": "CL-SC49",
@@ -1251,7 +1262,7 @@
       "municipality": "Frutillar",
       "gps_code": "SCEV",
       "iata_code": "FRT",
-      "coordinates": "-41.117000579833984, -73.05000305175781"
+      "coordinates": "-41.051666, -73.35111"
     },
     {
       "ident": "SCEX",
@@ -3076,19 +3087,7 @@
       "iso_region": "CL-LL",
       "municipality": "Osorno",
       "gps_code": "SCOP",
-      "coordinates": "-40.569168, -73.129997"
-    },
-    {
-      "ident": "SCOS",
-      "type": "small_airport",
-      "name": "Osorno Pampa Ale Airport",
-      "elevation_ft": 79.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LL",
-      "municipality": "Osorno",
-      "gps_code": "SCOS",
-      "coordinates": "-40.547199, -73.155602"
+      "coordinates": "-40.553653, -73.130057"
     },
     {
       "ident": "SCOT",

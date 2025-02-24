@@ -1,12 +1,12 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 619,
-  "last_updated": "2025-02-23T00:08:49.470439",
+  "total_airports": 638,
+  "last_updated": "2025-02-24T00:08:11.816718",
   "types_distribution": {
-    "small_airport": 473,
-    "closed": 43,
-    "heliport": 25,
+    "small_airport": 472,
+    "closed": 45,
+    "heliport": 43,
     "large_airport": 8,
     "medium_airport": 70
   },
@@ -95,6 +95,17 @@
       "coordinates": "-6.899862766265869, 113.28289031982422"
     },
     {
+      "ident": "ID-0006",
+      "type": "heliport",
+      "name": "Garuda Wisnu Kencana Cultural Park Heliport",
+      "elevation_ft": 315.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta Selatan, Badung",
+      "coordinates": "-8.80779, 115.16264"
+    },
+    {
       "ident": "ID-0007",
       "type": "heliport",
       "name": "Malinau Heliport",
@@ -126,6 +137,16 @@
       "coordinates": "-6.678375, 108.252219444"
     },
     {
+      "ident": "ID-0011",
+      "type": "heliport",
+      "name": "Siloam Hospital Denpasar Heliport",
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta, Badung",
+      "coordinates": "-8.71527, 115.18479"
+    },
+    {
       "ident": "ID-0012",
       "type": "small_airport",
       "name": "Lasondre Airport",
@@ -141,38 +162,42 @@
     {
       "ident": "ID-0013",
       "type": "small_airport",
-      "name": "Lt. Col. Wisnu Airfield",
+      "name": "Lieutenant Colonel Wisnu Airfield",
       "elevation_ft": 16.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-BA",
-      "municipality": "Pemuteran",
+      "municipality": "Gerokgak, Buleleng",
       "gps_code": "WADE",
-      "local_code": "BIFA",
-      "coordinates": "-8.140556, 114.616667"
+      "coordinates": "-8.139292, 114.615367"
     },
     {
       "ident": "ID-0014",
       "type": "heliport",
-      "name": "BAT Private Helipad",
+      "name": "Mason Sky Tours Heliport",
+      "elevation_ft": 20.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-BA",
-      "coordinates": "-8.71777777778, 115.205277778"
+      "municipality": "Denpasar",
+      "coordinates": "-8.718024, 115.205471"
     },
     {
       "ident": "ID-0015",
       "type": "heliport",
-      "name": "Discovery Helipad",
+      "name": "Discovery Kartika Plaza Heliport",
+      "elevation_ft": 10.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-BA",
-      "coordinates": "-8.728055555560001, 115.166111111"
+      "municipality": "Kuta, Badung",
+      "coordinates": "-8.7283, 115.166393"
     },
     {
       "ident": "ID-0016",
       "type": "heliport",
       "name": "Grand Inna Bali Beach Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-BA",
@@ -1957,6 +1982,17 @@
       "coordinates": "-4.2631, 137.892387"
     },
     {
+      "ident": "ID-0169",
+      "type": "heliport",
+      "name": "Tamblang Dam Heliport",
+      "elevation_ft": 676.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Sawan, Buleleng",
+      "coordinates": "-8.12832, 115.17807"
+    },
+    {
       "ident": "ID-0170",
       "type": "closed",
       "name": "Kangean Island Airport (planned)",
@@ -3072,12 +3108,12 @@
     {
       "ident": "ID-0272",
       "type": "closed",
-      "name": "Sawan Airport",
+      "name": "Sawan Airfield",
       "elevation_ft": 680.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-BA",
-      "municipality": "Sawan",
+      "municipality": "Sawan, Buleleng",
       "coordinates": "-8.13278, 115.172997"
     },
     {
@@ -3092,6 +3128,17 @@
       "gps_code": "WAEB",
       "local_code": "WA98",
       "coordinates": "1.10189, 127.703003"
+    },
+    {
+      "ident": "ID-0274",
+      "type": "heliport",
+      "name": "InterContinental Bali Heliport",
+      "elevation_ft": 23.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta Selatan, Badung",
+      "coordinates": "-8.7776, 115.16827"
     },
     {
       "ident": "ID-0275",
@@ -3305,13 +3352,12 @@
     },
     {
       "ident": "ID-0293",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Amman Mineral Nusa Tenggara Airport (under construction)",
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Pototano",
-      "iata_code": "PNW",
       "coordinates": "-8.592566, 116.793819"
     },
     {
@@ -3417,6 +3463,171 @@
       "iso_region": "ID-PA",
       "municipality": "Mapa",
       "coordinates": "-3.70788, 136.74285"
+    },
+    {
+      "ident": "ID-0304",
+      "type": "heliport",
+      "name": "Fly Bali Heliport",
+      "elevation_ft": 367.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta Selatan, Badung",
+      "coordinates": "-8.83996, 115.16181"
+    },
+    {
+      "ident": "ID-0305",
+      "type": "heliport",
+      "name": "SGi Benoa Heliport",
+      "elevation_ft": 7.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Denpasar",
+      "coordinates": "-8.72649, 115.21595"
+    },
+    {
+      "ident": "ID-0306",
+      "type": "heliport",
+      "name": "Balicopter Klapa Helicopter Landing Area",
+      "elevation_ft": 157.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta Selatan, Badung",
+      "coordinates": "-8.80247, 115.12569"
+    },
+    {
+      "ident": "ID-0307",
+      "type": "heliport",
+      "name": "JAG Heliport",
+      "elevation_ft": 210.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta Selatan, Badung",
+      "coordinates": "-8.83107, 115.20812"
+    },
+    {
+      "ident": "ID-0308",
+      "type": "heliport",
+      "name": "Nusa Dua Heliport",
+      "elevation_ft": 7.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Kuta Selatan, Badung",
+      "coordinates": "-8.80159, 115.23846"
+    },
+    {
+      "ident": "ID-0309",
+      "type": "heliport",
+      "name": "Taro Elephant Safari Park Heliport",
+      "elevation_ft": 1975.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Ubud, Gianyar",
+      "coordinates": "-8.39278, 115.28513"
+    },
+    {
+      "ident": "ID-0310",
+      "type": "heliport",
+      "name": "Nusa Lembongan Heliport",
+      "elevation_ft": 200.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Nusa Penida, Klungkung",
+      "coordinates": "-8.68446, 115.44672"
+    },
+    {
+      "ident": "ID-0311",
+      "type": "heliport",
+      "name": "Menjangan Dynasty Resort Heliport",
+      "elevation_ft": 49.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Gerokgak, Buleleng",
+      "coordinates": "-8.13452, 114.56342"
+    },
+    {
+      "ident": "ID-0312",
+      "type": "heliport",
+      "name": "Joyo's Heliport",
+      "elevation_ft": 17.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Tegaldlimo, Banyuwangi",
+      "coordinates": "-8.73018, 114.35113"
+    },
+    {
+      "ident": "ID-0313",
+      "type": "heliport",
+      "name": "Mandalika International Circuit Heliport",
+      "elevation_ft": 41.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Pujut, Lombok Tengah",
+      "coordinates": "-8.89364, 116.30298"
+    },
+    {
+      "ident": "ID-0314",
+      "type": "heliport",
+      "name": "Lombok Lodge Heliport",
+      "elevation_ft": 23.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Tanjung, Lombok Utara",
+      "coordinates": "-8.36127, 116.12436"
+    },
+    {
+      "ident": "ID-0315",
+      "type": "heliport",
+      "name": "Sunset Yoga Helipad Gili Trawangan",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Pemanang, Lombok Utara",
+      "coordinates": "-8.36163, 116.03464"
+    },
+    {
+      "ident": "ID-0316",
+      "type": "heliport",
+      "name": "Palasari Heliport",
+      "elevation_ft": 206.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Melaya, Jembrana",
+      "coordinates": "-8.25544, 114.54499"
+    },
+    {
+      "ident": "ID-0317",
+      "type": "small_airport",
+      "name": "Jati Papak Airstrip",
+      "elevation_ft": 39.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Tegaldlimo, Banyuwangi",
+      "coordinates": "-8.54091, 114.3755"
+    },
+    {
+      "ident": "ID-0318",
+      "type": "heliport",
+      "name": "PT Bumi Suksesindo Heliport",
+      "elevation_ft": 39.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Pesanggaran, Banyuwangi",
+      "coordinates": "-8.60175, 114.03169"
     },
     {
       "ident": "ID-AAS",
@@ -3720,9 +3931,9 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Pagerungan Island",
+      "municipality": "Sapeken",
       "gps_code": "WARP",
-      "coordinates": "-6.95661, 115.931"
+      "coordinates": "-6.956515, 115.931107"
     },
     {
       "ident": "ID-ZGP",
@@ -4070,15 +4281,13 @@
     },
     {
       "ident": "WADA",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Selaparang Airport",
       "elevation_ft": 52.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Mataram",
-      "gps_code": "WADA",
-      "iata_code": "AMI",
       "coordinates": "-8.56056, 116.095097"
     },
     {
@@ -4097,15 +4306,15 @@
     {
       "ident": "WADD",
       "type": "large_airport",
-      "name": "I Gusti Ngurah Rai International Airport",
+      "name": "Denpasar I Gusti Ngurah Rai International Airport",
       "elevation_ft": 14.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-BA",
-      "municipality": "Denpasar",
+      "municipality": "Kuta, Badung",
       "gps_code": "WADD",
       "iata_code": "DPS",
-      "coordinates": "-8.74817, 115.167"
+      "coordinates": "-8.748409, 115.167123"
     },
     {
       "ident": "WADL",
@@ -4115,10 +4324,10 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
-      "municipality": "Mataram",
+      "municipality": "Mataram (Pujut, Lombok Tengah)",
       "gps_code": "WADL",
       "iata_code": "LOP",
-      "coordinates": "-8.757792, 116.275435"
+      "coordinates": "-8.759962, 116.278169"
     },
     {
       "ident": "WADS",
@@ -4175,12 +4384,12 @@
     {
       "ident": "WADY",
       "type": "small_airport",
-      "name": "Banyuwangi International Airport",
+      "name": "Banyuwangi Airport",
       "elevation_ft": 112.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Banyuwangi",
+      "municipality": "Rogojampi, Banyuwangi",
       "gps_code": "WADY",
       "iata_code": "BWX",
       "local_code": "BWI",
@@ -5034,7 +5243,7 @@
       "municipality": "Manado",
       "gps_code": "WAMM",
       "iata_code": "MDC",
-      "coordinates": "1.54926, 124.926003"
+      "coordinates": "1.549266, 124.926319"
     },
     {
       "ident": "WAMN",
@@ -5950,6 +6159,7 @@
       "iso_region": "ID-NT",
       "municipality": "Pur-Pura",
       "gps_code": "WATQ",
+      "local_code": "KSX",
       "coordinates": "-8.015716, 127.200179"
     },
     {
