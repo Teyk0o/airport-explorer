@@ -2,7 +2,7 @@
   "country_code": "NL",
   "country_name": "Netherlands",
   "total_airports": 274,
-  "last_updated": "2025-02-24T00:08:12.027560",
+  "last_updated": "2025-02-25T00:08:45.842960",
   "types_distribution": {
     "heliport": 194,
     "small_airport": 28,
@@ -150,17 +150,6 @@
       "municipality": "Drachten",
       "gps_code": "EHDR",
       "coordinates": "53.117933, 6.127324"
-    },
-    {
-      "ident": "EHDS",
-      "type": "small_airport",
-      "name": "Lemelerveld Glidersite",
-      "elevation_ft": 10.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-OV",
-      "municipality": "Lemelerveld",
-      "coordinates": "52.468333, 6.333333"
     },
     {
       "ident": "EHDT",
@@ -1337,6 +1326,17 @@
       "coordinates": "51.95940017700195, 4.090000152587891"
     },
     {
+      "ident": "EHTS",
+      "type": "heliport",
+      "name": "Terschelling Heliport",
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-FR",
+      "municipality": "Midsland",
+      "gps_code": "EHTS",
+      "coordinates": "53.384129, 5.278094"
+    },
+    {
       "ident": "EHTW",
       "type": "medium_airport",
       "name": "Twente Airport",
@@ -2221,13 +2221,14 @@
     },
     {
       "ident": "NL-0076",
-      "type": "heliport",
-      "name": "Terschelling Heliport",
+      "type": "small_airport",
+      "name": "Salland Glider Field",
+      "elevation_ft": 10.0,
       "continent": "EU",
       "iso_country": "NL",
-      "iso_region": "NL-FR",
-      "municipality": "Midsland",
-      "coordinates": "53.384129, 5.278094"
+      "iso_region": "NL-OV",
+      "municipality": "Lemelerveld",
+      "coordinates": "52.468333, 6.333333"
     },
     {
       "ident": "NL-0077",

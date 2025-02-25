@@ -1,11 +1,11 @@
 {
   "country_code": "TW",
   "country_name": "Taiwan",
-  "total_airports": 120,
-  "last_updated": "2025-02-24T00:08:12.180905",
+  "total_airports": 122,
+  "last_updated": "2025-02-25T00:08:45.999267",
   "types_distribution": {
     "medium_airport": 19,
-    "small_airport": 32,
+    "small_airport": 34,
     "closed": 11,
     "large_airport": 2,
     "heliport": 55,
@@ -439,6 +439,17 @@
       "iso_region": "TW-PEN",
       "municipality": "Magong",
       "coordinates": "23.517532, 119.583693"
+    },
+    {
+      "ident": "TW-0002",
+      "type": "small_airport",
+      "name": "AsiaTec Airport",
+      "elevation_ft": 1050.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TXG",
+      "municipality": "Shigang, Taichung",
+      "coordinates": "24.26482, 120.81644"
     },
     {
       "ident": "TW-0003",
@@ -1324,6 +1335,17 @@
       "iso_region": "TW-NWT",
       "municipality": "New Taipei (Gongliao)",
       "coordinates": "25.04589, 121.92353"
+    },
+    {
+      "ident": "TW-0088",
+      "type": "small_airport",
+      "name": "Palicanlian Airstrip",
+      "elevation_ft": 348.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-HUA",
+      "municipality": "Fenglin",
+      "coordinates": "23.68923, 121.47359"
     }
   ]
 }

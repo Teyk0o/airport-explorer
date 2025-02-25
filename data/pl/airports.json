@@ -2,7 +2,7 @@
   "country_code": "PL",
   "country_name": "Poland",
   "total_airports": 383,
-  "last_updated": "2025-02-24T00:08:12.035361",
+  "last_updated": "2025-02-25T00:08:45.850700",
   "types_distribution": {
     "small_airport": 288,
     "heliport": 16,
@@ -1135,14 +1135,15 @@
     },
     {
       "ident": "EPSK",
-      "type": "closed",
-      "name": "Redzikowo Air Base / Słupsk-Redzikowo Airport",
-      "elevation_ft": 217.0,
+      "type": "small_airport",
+      "name": "Słupsk-Krȩpa Airfield",
+      "elevation_ft": 249.0,
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-PM",
-      "municipality": "Redzikowo",
-      "coordinates": "54.478901, 17.1075"
+      "municipality": "Krępa Słupska",
+      "gps_code": "EPSK",
+      "coordinates": "54.410036, 17.090572"
     },
     {
       "ident": "EPSN",
@@ -1164,18 +1165,6 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "coordinates": "52.198601, 20.292801"
-    },
-    {
-      "ident": "EPSR",
-      "type": "small_airport",
-      "name": "Słupsk-Krȩpa Airfield",
-      "elevation_ft": 249.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-PM",
-      "municipality": "Krępa Słupska",
-      "gps_code": "EPSK",
-      "coordinates": "54.410036, 17.090572"
     },
     {
       "ident": "EPSS",
@@ -4211,6 +4200,17 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "coordinates": "52.64301, 21.57183"
+    },
+    {
+      "ident": "PL-0264",
+      "type": "closed",
+      "name": "Redzikowo Air Base / Słupsk-Redzikowo Airport",
+      "elevation_ft": 217.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-PM",
+      "municipality": "Redzikowo",
+      "coordinates": "54.478901, 17.1075"
     }
   ]
 }

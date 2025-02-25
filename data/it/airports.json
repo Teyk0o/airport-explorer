@@ -2,14 +2,14 @@
   "country_code": "IT",
   "country_name": "Italy",
   "total_airports": 942,
-  "last_updated": "2025-02-24T00:08:12.130952",
+  "last_updated": "2025-02-25T00:08:45.948460",
   "types_distribution": {
     "small_airport": 581,
     "closed": 119,
     "heliport": 163,
     "seaplane_base": 5,
-    "medium_airport": 60,
-    "large_airport": 14
+    "medium_airport": 58,
+    "large_airport": 16
   },
   "airports": [
     {
@@ -10041,7 +10041,7 @@
     },
     {
       "ident": "LIMJ",
-      "type": "medium_airport",
+      "type": "large_airport",
       "name": "Genoa Cristoforo Colombo Airport",
       "elevation_ft": 13.0,
       "continent": "EU",
@@ -10733,7 +10733,7 @@
     },
     {
       "ident": "LIRQ",
-      "type": "medium_airport",
+      "type": "large_airport",
       "name": "Florence Airport, Peretola",
       "elevation_ft": 142.0,
       "continent": "EU",

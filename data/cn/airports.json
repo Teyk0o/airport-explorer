@@ -2,7 +2,7 @@
   "country_code": "CN",
   "country_name": "China",
   "total_airports": 724,
-  "last_updated": "2025-02-24T00:08:11.769907",
+  "last_updated": "2025-02-25T00:08:45.580296",
   "types_distribution": {
     "small_airport": 243,
     "medium_airport": 275,
@@ -3447,11 +3447,13 @@
     {
       "ident": "CN-0339",
       "type": "closed",
-      "name": "Parking Space (old runway)",
+      "name": "Mawei Airfield",
+      "elevation_ft": 13.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-35",
-      "coordinates": "26.081898, 119.604732"
+      "municipality": "Mawei, Fuzhou",
+      "coordinates": "26.081955, 119.60425"
     },
     {
       "ident": "CN-0340",

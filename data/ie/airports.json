@@ -2,10 +2,10 @@
   "country_code": "IE",
   "country_name": "Ireland",
   "total_airports": 125,
-  "last_updated": "2025-02-24T00:08:12.030002",
+  "last_updated": "2025-02-25T00:08:45.845228",
   "types_distribution": {
-    "small_airport": 90,
-    "closed": 15,
+    "small_airport": 88,
+    "closed": 17,
     "medium_airport": 9,
     "large_airport": 2,
     "heliport": 8,
@@ -698,7 +698,7 @@
     },
     {
       "ident": "IE-0009",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Dowth Hall Airfield",
       "continent": "EU",
       "iso_country": "IE",
@@ -736,7 +736,7 @@
       "elevation_ft": 200.0,
       "continent": "EU",
       "iso_country": "IE",
-      "iso_region": "IE-WH",
+      "iso_region": "IE-WX",
       "municipality": "Court",
       "coordinates": "52.570456, -6.318448"
     },
@@ -797,7 +797,8 @@
       "iso_country": "IE",
       "iso_region": "IE-KY",
       "municipality": "Abbeyfeale",
-      "coordinates": "52.396374, -9.338401"
+      "gps_code": "EIRE",
+      "coordinates": "52.395797, -9.34006"
     },
     {
       "ident": "IE-0019",
@@ -833,11 +834,11 @@
     },
     {
       "ident": "IE-0022",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Morriscastle Airstrip",
       "continent": "EU",
       "iso_country": "IE",
-      "iso_region": "IE-WH",
+      "iso_region": "IE-WX",
       "municipality": "Morriscastle",
       "coordinates": "52.516621, -6.26371"
     },

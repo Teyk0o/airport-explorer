@@ -2,10 +2,10 @@
   "country_code": "ES",
   "country_name": "Spain",
   "total_airports": 560,
-  "last_updated": "2025-02-24T00:08:11.764957",
+  "last_updated": "2025-02-25T00:08:45.575301",
   "types_distribution": {
-    "heliport": 161,
-    "small_airport": 312,
+    "heliport": 162,
+    "small_airport": 311,
     "closed": 31,
     "seaplane_base": 1,
     "medium_airport": 43,
@@ -100,18 +100,6 @@
       "iso_region": "ES-AR",
       "municipality": "Torremocha de Jiloca",
       "coordinates": "40.6032, -1.265"
-    },
-    {
-      "ident": "ES-0008",
-      "type": "small_airport",
-      "name": "Aeródromo de Herrera de Pisuerga",
-      "elevation_ft": 2958.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-CL",
-      "municipality": "Herrera de Pisuerga",
-      "gps_code": "LERP",
-      "coordinates": "42.5923, -4.2902"
     },
     {
       "ident": "ES-0009",
@@ -2943,9 +2931,9 @@
     },
     {
       "ident": "ES-0275",
-      "type": "small_airport",
+      "type": "heliport",
       "name": "Base de Helicópteros de Toén",
-      "continent": "EU",
+      "continent": "AF",
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Trelle",
@@ -5693,6 +5681,18 @@
       "municipality": "Lugo",
       "gps_code": "LERO",
       "coordinates": "43.116901, -7.47028"
+    },
+    {
+      "ident": "LERP",
+      "type": "small_airport",
+      "name": "Aeródromo de Herrera de Pisuerga",
+      "elevation_ft": 2958.0,
+      "continent": "AF",
+      "iso_country": "ES",
+      "iso_region": "ES-CL",
+      "municipality": "Herrera de Pisuerga",
+      "gps_code": "LERP",
+      "coordinates": "42.5923, -4.2902"
     },
     {
       "ident": "LERS",

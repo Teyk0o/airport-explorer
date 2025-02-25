@@ -2,10 +2,10 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 638,
-  "last_updated": "2025-02-24T00:08:11.816718",
+  "last_updated": "2025-02-25T00:08:45.628008",
   "types_distribution": {
-    "small_airport": 472,
-    "closed": 45,
+    "small_airport": 471,
+    "closed": 46,
     "heliport": 43,
     "large_airport": 8,
     "medium_airport": 70
@@ -2739,10 +2739,11 @@
       "ident": "ID-0237",
       "type": "small_airport",
       "name": "Grati Airport",
+      "elevation_ft": 187.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Lekok",
+      "municipality": "Lekok, Pasuruan",
       "coordinates": "-7.67253, 113.03682"
     },
     {
@@ -2767,12 +2768,13 @@
     },
     {
       "ident": "ID-0240",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Pasirian Airfield",
+      "elevation_ft": 21.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Jatimulyo",
+      "municipality": "Kunir, Lumajang",
       "coordinates": "-8.27881, 113.21208"
     },
     {
@@ -5519,7 +5521,7 @@
       "municipality": "Dobo-Warmar Island",
       "gps_code": "WAPD",
       "iata_code": "DOB",
-      "coordinates": "-5.7722201347399995, 134.212005615"
+      "coordinates": "-5.773724, 134.209245"
     },
     {
       "ident": "WAPE",

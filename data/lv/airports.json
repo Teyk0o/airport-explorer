@@ -2,12 +2,12 @@
   "country_code": "LV",
   "country_name": "Latvia",
   "total_airports": 81,
-  "last_updated": "2025-02-24T00:08:12.044969",
+  "last_updated": "2025-02-25T00:08:45.860125",
   "types_distribution": {
     "small_airport": 51,
     "heliport": 5,
-    "medium_airport": 4,
-    "closed": 20,
+    "closed": 21,
+    "medium_airport": 3,
     "large_airport": 1
   },
   "airports": [
@@ -60,15 +60,13 @@
     },
     {
       "ident": "EVDA",
-      "type": "medium_airport",
+      "type": "closed",
       "name": "Daugavpils International Airport",
       "elevation_ft": 398.0,
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-111",
       "municipality": "Daugavpils",
-      "gps_code": "EVDA",
-      "iata_code": "DGP",
       "coordinates": "55.944721, 26.665001"
     },
     {
