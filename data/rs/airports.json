@@ -2,7 +2,7 @@
   "country_code": "RS",
   "country_name": "Serbia",
   "total_airports": 65,
-  "last_updated": "2025-02-27T00:08:24.729260",
+  "last_updated": "2025-02-28T00:08:12.003057",
   "types_distribution": {
     "small_airport": 41,
     "large_airport": 1,
@@ -228,17 +228,6 @@
       "municipality": "Veliki Radinci",
       "gps_code": "LYSM",
       "coordinates": "45.037414, 19.660184"
-    },
-    {
-      "ident": "LYSO",
-      "type": "closed",
-      "name": "Sombor Airport",
-      "elevation_ft": 275.0,
-      "continent": "EU",
-      "iso_country": "RS",
-      "iso_region": "RS-05",
-      "municipality": "Sombor",
-      "coordinates": "45.722333, 19.057843"
     },
     {
       "ident": "LYSP",
@@ -748,6 +737,17 @@
       "iso_region": "RS-11",
       "municipality": "Veliko Gradište",
       "coordinates": "44.75617, 21.48046"
+    },
+    {
+      "ident": "RS-0040",
+      "type": "closed",
+      "name": "Sombor Airport",
+      "elevation_ft": 275.0,
+      "continent": "EU",
+      "iso_country": "RS",
+      "iso_region": "RS-05",
+      "municipality": "Sombor",
+      "coordinates": "45.722333, 19.057843"
     }
   ]
 }

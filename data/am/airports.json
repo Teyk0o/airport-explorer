@@ -2,7 +2,7 @@
   "country_code": "AM",
   "country_name": "Armenia",
   "total_airports": 16,
-  "last_updated": "2025-02-27T00:08:24.361597",
+  "last_updated": "2025-02-28T00:08:11.624406",
   "types_distribution": {
     "small_airport": 8,
     "closed": 4,
@@ -113,6 +113,16 @@
       "coordinates": "40.19627, 44.52476"
     },
     {
+      "ident": "AM-0011",
+      "type": "closed",
+      "name": "Jermuk Airport",
+      "continent": "AS",
+      "iso_country": "AM",
+      "iso_region": "AM-VD",
+      "municipality": "Jermuk",
+      "coordinates": "39.823666, 45.67327"
+    },
+    {
       "ident": "UD21",
       "type": "small_airport",
       "name": "Arzni Airport",
@@ -174,16 +184,6 @@
       "gps_code": "UDYZ",
       "iata_code": "EVN",
       "coordinates": "40.1473007202, 44.3959007263"
-    },
-    {
-      "ident": "UGEJ",
-      "type": "closed",
-      "name": "Jermuk Airport",
-      "continent": "AS",
-      "iso_country": "AM",
-      "iso_region": "AM-VD",
-      "municipality": "Jermuk",
-      "coordinates": "39.823666, 45.67327"
     }
   ]
 }

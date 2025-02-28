@@ -2,7 +2,7 @@
   "country_code": "IN",
   "country_name": "India",
   "total_airports": 630,
-  "last_updated": "2025-02-27T00:08:24.656596",
+  "last_updated": "2025-02-28T00:08:11.930348",
   "types_distribution": {
     "heliport": 283,
     "small_airport": 181,
@@ -3934,6 +3934,17 @@
       "coordinates": "30.233786, 75.008798"
     },
     {
+      "ident": "IN-0381",
+      "type": "closed",
+      "name": "Dunakonda Airport",
+      "elevation_ft": 472.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-AP",
+      "municipality": "Dunakonda",
+      "coordinates": "15.8063, 79.4882"
+    },
+    {
       "ident": "IN-JGB",
       "type": "small_airport",
       "name": "Jagdalpur Airport",
@@ -6645,17 +6656,6 @@
       "municipality": "Hyderabad",
       "gps_code": "VODG",
       "coordinates": "17.627199173, 78.4033966064"
-    },
-    {
-      "ident": "VODK",
-      "type": "closed",
-      "name": "Dunakonda Airport",
-      "elevation_ft": 472.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-AP",
-      "municipality": "Dunakonda",
-      "coordinates": "15.8063, 79.4882"
     },
     {
       "ident": "VOGA",

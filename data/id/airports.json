@@ -2,7 +2,7 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 638,
-  "last_updated": "2025-02-27T00:08:24.375762",
+  "last_updated": "2025-02-28T00:08:11.638764",
   "types_distribution": {
     "small_airport": 471,
     "closed": 46,
@@ -3632,6 +3632,226 @@
       "coordinates": "-8.60175, 114.03169"
     },
     {
+      "ident": "ID-0319",
+      "type": "closed",
+      "name": "Selaparang Airport",
+      "elevation_ft": 52.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Mataram",
+      "coordinates": "-8.56056, 116.095097"
+    },
+    {
+      "ident": "ID-0320",
+      "type": "closed",
+      "name": "Jefman Airport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PB",
+      "municipality": "Jefman",
+      "coordinates": "-0.926358, 131.121002"
+    },
+    {
+      "ident": "ID-0321",
+      "type": "closed",
+      "name": "Keisah Airport",
+      "elevation_ft": 81.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PS",
+      "municipality": "Keisah",
+      "coordinates": "-7.66667, 140.5"
+    },
+    {
+      "ident": "ID-0322",
+      "type": "closed",
+      "name": "Mangun Jaya Airport",
+      "elevation_ft": 76.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SS",
+      "municipality": "Mangun Jaya",
+      "coordinates": "-2.73333, 103.567001"
+    },
+    {
+      "ident": "ID-0323",
+      "type": "closed",
+      "name": "Muting Airport",
+      "elevation_ft": 70.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PS",
+      "municipality": "Muting",
+      "coordinates": "-7.3147, 140.5668"
+    },
+    {
+      "ident": "ID-0324",
+      "type": "closed",
+      "name": "Yuruf Airport",
+      "elevation_ft": 1844.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Amgotro",
+      "coordinates": "-3.628919, 140.953689"
+    },
+    {
+      "ident": "ID-0325",
+      "type": "closed",
+      "name": "Sangir Airport",
+      "elevation_ft": 175.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Sangir",
+      "coordinates": "-8.36667, 118.333359"
+    },
+    {
+      "ident": "ID-0326",
+      "type": "closed",
+      "name": "Malili Airport",
+      "elevation_ft": 19.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SN",
+      "municipality": "Malili",
+      "coordinates": "-2.62966, 121.097102"
+    },
+    {
+      "ident": "ID-0327",
+      "type": "closed",
+      "name": "Punggaluku Airport",
+      "elevation_ft": 43.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SG",
+      "municipality": "Wawooru",
+      "coordinates": "-4.316667, 122.466667"
+    },
+    {
+      "ident": "ID-0328",
+      "type": "closed",
+      "name": "Sudjarwo Tjondronegoro Airport",
+      "elevation_ft": 50.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Serui",
+      "coordinates": "-1.87438, 136.23946"
+    },
+    {
+      "ident": "ID-0329",
+      "type": "closed",
+      "name": "Waris Airport",
+      "elevation_ft": 1500.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Swach",
+      "coordinates": "-3.23337, 140.985451"
+    },
+    {
+      "ident": "ID-0330",
+      "type": "closed",
+      "name": "Ubrub Airport",
+      "elevation_ft": 1370.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Ubrub",
+      "coordinates": "-3.675686, 140.885067"
+    },
+    {
+      "ident": "ID-0331",
+      "type": "closed",
+      "name": "Tentena Airport",
+      "elevation_ft": 1900.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-ST",
+      "municipality": "Tentena",
+      "coordinates": "-2, 120.76667"
+    },
+    {
+      "ident": "ID-0332",
+      "type": "closed",
+      "name": "Pelabuhan Ratu Airport",
+      "elevation_ft": 65.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JB",
+      "municipality": "Pelabuhan Ratu",
+      "coordinates": "-6.982321, 106.540457"
+    },
+    {
+      "ident": "ID-0333",
+      "type": "closed",
+      "name": "Kisaran Airport",
+      "elevation_ft": 96.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SU",
+      "municipality": "Kisaran",
+      "coordinates": "2.97379, 99.600998"
+    },
+    {
+      "ident": "ID-0334",
+      "type": "closed",
+      "name": "Pematangsiantar Airport",
+      "elevation_ft": 1361.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SU",
+      "municipality": "Pematangsiantar",
+      "coordinates": "2.949968, 99.050009"
+    },
+    {
+      "ident": "ID-0335",
+      "type": "closed",
+      "name": "Keluang Airport",
+      "elevation_ft": 76.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SS",
+      "municipality": "Keluang",
+      "coordinates": "-2.640962, 103.914557"
+    },
+    {
+      "ident": "ID-0336",
+      "type": "closed",
+      "name": "Beringin Airport",
+      "elevation_ft": 126.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KT",
+      "municipality": "Murateweh",
+      "coordinates": "-0.942549, 114.89399"
+    },
+    {
+      "ident": "ID-0337",
+      "type": "closed",
+      "name": "Kalabahi Airport",
+      "elevation_ft": 33.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NT",
+      "municipality": "Kalabahi",
+      "coordinates": "-8.216667, 124.566666"
+    },
+    {
+      "ident": "ID-0338",
+      "type": "closed",
+      "name": "Tanjung Perak Airport",
+      "elevation_ft": 9.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Surabaya",
+      "coordinates": "-7.218275, 112.712616"
+    },
+    {
       "ident": "ID-AAS",
       "type": "small_airport",
       "name": "Apalapsili Airport",
@@ -3745,17 +3965,6 @@
       "coordinates": "-3.7051, 138.2002"
     },
     {
-      "ident": "ID-KEA",
-      "type": "closed",
-      "name": "Keisah Airport",
-      "elevation_ft": 81.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PS",
-      "municipality": "Keisah",
-      "coordinates": "-7.66667, 140.5"
-    },
-    {
       "ident": "ID-KOD",
       "type": "small_airport",
       "name": "Kotabangun Airport",
@@ -3794,17 +4003,6 @@
       "coordinates": "-3.728968, 138.710117"
     },
     {
-      "ident": "ID-MJY",
-      "type": "closed",
-      "name": "Mangun Jaya Airport",
-      "elevation_ft": 76.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SS",
-      "municipality": "Mangun Jaya",
-      "coordinates": "-2.73333, 103.567001"
-    },
-    {
       "ident": "ID-MSI",
       "type": "small_airport",
       "name": "Masalembo Airport",
@@ -3815,17 +4013,6 @@
       "municipality": "Masalembo Island",
       "iata_code": "MSI",
       "coordinates": "-5.583330154418945, 114.43299865722656"
-    },
-    {
-      "ident": "ID-MUF",
-      "type": "closed",
-      "name": "Muting Airport",
-      "elevation_ft": 70.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PS",
-      "municipality": "Muting",
-      "coordinates": "-7.3147, 140.5668"
     },
     {
       "ident": "ID-NAF",
@@ -3888,28 +4075,6 @@
       "iata_code": "RKI",
       "local_code": "RKO",
       "coordinates": "-2.094167, 99.699167"
-    },
-    {
-      "ident": "ID-RUF",
-      "type": "closed",
-      "name": "Yuruf Airport",
-      "elevation_ft": 1844.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PA",
-      "municipality": "Amgotro",
-      "coordinates": "-3.628919, 140.953689"
-    },
-    {
-      "ident": "ID-SAE",
-      "type": "closed",
-      "name": "Sangir Airport",
-      "elevation_ft": 175.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NB",
-      "municipality": "Sangir",
-      "coordinates": "-8.36667, 118.333359"
     },
     {
       "ident": "ID-TMY",
@@ -4071,28 +4236,6 @@
       "coordinates": "-3.7382, 119.7502"
     },
     {
-      "ident": "WAAI",
-      "type": "closed",
-      "name": "Malili Airport",
-      "elevation_ft": 19.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SN",
-      "municipality": "Malili",
-      "coordinates": "-2.62966, 121.097102"
-    },
-    {
-      "ident": "WAAL",
-      "type": "closed",
-      "name": "Punggaluku Airport",
-      "elevation_ft": 43.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SG",
-      "municipality": "Wawooru",
-      "coordinates": "-4.316667, 122.466667"
-    },
-    {
       "ident": "WAAT",
       "type": "small_airport",
       "name": "Makale Airport",
@@ -4220,17 +4363,6 @@
       "coordinates": "-4.71075, 136.43515"
     },
     {
-      "ident": "WABO",
-      "type": "closed",
-      "name": "Sudjarwo Tjondronegoro Airport",
-      "elevation_ft": 50.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PA",
-      "municipality": "Serui",
-      "coordinates": "-1.87438, 136.23946"
-    },
-    {
       "ident": "WABP",
       "type": "medium_airport",
       "name": "Mozes Kilangin Airport",
@@ -4280,17 +4412,6 @@
       "municipality": "Kebo",
       "gps_code": "WABY",
       "coordinates": "-3.8248, 136.385844"
-    },
-    {
-      "ident": "WADA",
-      "type": "closed",
-      "name": "Selaparang Airport",
-      "elevation_ft": 52.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NB",
-      "municipality": "Mataram",
-      "coordinates": "-8.56056, 116.095097"
     },
     {
       "ident": "WADB",
@@ -4791,17 +4912,6 @@
       "coordinates": "-4.9071, 140.6277"
     },
     {
-      "ident": "WAJR",
-      "type": "closed",
-      "name": "Waris Airport",
-      "elevation_ft": 1500.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PA",
-      "municipality": "Swach",
-      "coordinates": "-3.23337, 140.985451"
-    },
-    {
       "ident": "WAJS",
       "type": "small_airport",
       "name": "Senggeh Airport",
@@ -4813,17 +4923,6 @@
       "gps_code": "WAJS",
       "iata_code": "SEH",
       "coordinates": "-3.442448, 140.778079"
-    },
-    {
-      "ident": "WAJU",
-      "type": "closed",
-      "name": "Ubrub Airport",
-      "elevation_ft": 1370.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PA",
-      "municipality": "Ubrub",
-      "coordinates": "-3.675686, 140.885067"
     },
     {
       "ident": "WAJY",
@@ -5134,17 +5233,6 @@
       "coordinates": "0.686111, 124.273611"
     },
     {
-      "ident": "WAMC",
-      "type": "closed",
-      "name": "Tentena Airport",
-      "elevation_ft": 1900.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-ST",
-      "municipality": "Tentena",
-      "coordinates": "-2, 120.76667"
-    },
-    {
       "ident": "WAMD",
       "type": "small_airport",
       "name": "Jailolo/Kuripasai Airport",
@@ -5384,17 +5472,6 @@
       "gps_code": "WAOK",
       "iata_code": "KBU",
       "coordinates": "-3.29472, 116.165001"
-    },
-    {
-      "ident": "WAOM",
-      "type": "closed",
-      "name": "Beringin Airport",
-      "elevation_ft": 126.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-KT",
-      "municipality": "Murateweh",
-      "coordinates": "-0.942549, 114.89399"
     },
     {
       "ident": "WAON",
@@ -5996,17 +6073,6 @@
       "gps_code": "WAUU",
       "iata_code": "MKW",
       "coordinates": "-0.891833, 134.048996"
-    },
-    {
-      "ident": "WASS",
-      "type": "closed",
-      "name": "Jefman Airport",
-      "elevation_ft": 10.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PB",
-      "municipality": "Jefman",
-      "coordinates": "-0.926358, 131.121002"
     },
     {
       "ident": "WAST",
@@ -6816,17 +6882,6 @@
       "coordinates": "-6.53139019012, 107.658996582"
     },
     {
-      "ident": "WIIR",
-      "type": "closed",
-      "name": "Pelabuhan Ratu Airport",
-      "elevation_ft": 65.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JB",
-      "municipality": "Pelabuhan Ratu",
-      "coordinates": "-6.982321, 106.540457"
-    },
-    {
       "ident": "WILL",
       "type": "medium_airport",
       "name": "Radin Inten II International Airport",
@@ -6936,17 +6991,6 @@
       "coordinates": "3.558425, 98.672275"
     },
     {
-      "ident": "WIML",
-      "type": "closed",
-      "name": "Kisaran Airport",
-      "elevation_ft": 96.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Kisaran",
-      "coordinates": "2.97379, 99.600998"
-    },
-    {
       "ident": "WIMM",
       "type": "large_airport",
       "name": "Kualanamu International Airport",
@@ -6984,17 +7028,6 @@
       "gps_code": "WIMP",
       "iata_code": "SIW",
       "coordinates": "2.601944, 98.96389"
-    },
-    {
-      "ident": "WIMR",
-      "type": "closed",
-      "name": "Pematangsiantar Airport",
-      "elevation_ft": 1361.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Pematangsiantar",
-      "coordinates": "2.949968, 99.050009"
     },
     {
       "ident": "WIMS",
@@ -7288,17 +7321,6 @@
       "coordinates": "-0.786917, 100.280998"
     },
     {
-      "ident": "WIPV",
-      "type": "closed",
-      "name": "Keluang Airport",
-      "elevation_ft": 76.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SS",
-      "municipality": "Keluang",
-      "coordinates": "-2.640962, 103.914557"
-    },
-    {
       "ident": "WIPY",
       "type": "small_airport",
       "name": "Bentayan Airport",
@@ -7476,17 +7498,6 @@
       "coordinates": "-9.183889389038086, 124.58916473388672"
     },
     {
-      "ident": "WRKM",
-      "type": "closed",
-      "name": "Kalabahi Airport",
-      "elevation_ft": 33.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-NT",
-      "municipality": "Kalabahi",
-      "coordinates": "-8.216667, 124.566666"
-    },
-    {
       "ident": "WRKN",
       "type": "small_airport",
       "name": "Naikliu Airport",
@@ -7635,17 +7646,6 @@
       "municipality": "Senipah",
       "gps_code": "WALY",
       "coordinates": "-0.975679, 117.147701"
-    },
-    {
-      "ident": "WRSP",
-      "type": "closed",
-      "name": "Tanjung Perak Airport",
-      "elevation_ft": 9.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JI",
-      "municipality": "Surabaya",
-      "coordinates": "-7.218275, 112.712616"
     },
     {
       "ident": "ZRI",

@@ -2,7 +2,7 @@
   "country_code": "MH",
   "country_name": "Marshall Islands",
   "total_airports": 36,
-  "last_updated": "2025-02-27T00:08:24.282729",
+  "last_updated": "2025-02-28T00:08:11.557922",
   "types_distribution": {
     "small_airport": 31,
     "closed": 3,
@@ -83,17 +83,6 @@
       "coordinates": "8.90056, 170.843994"
     },
     {
-      "ident": "LOF",
-      "type": "closed",
-      "name": "Loen Airport",
-      "elevation_ft": 23.0,
-      "continent": "OC",
-      "iso_country": "MH",
-      "iso_region": "MH-NMU",
-      "municipality": "Loen Island",
-      "coordinates": "7.7575, 168.2357"
-    },
-    {
       "ident": "MH-0001",
       "type": "closed",
       "name": "Jaluit Seaplane Base",
@@ -113,6 +102,17 @@
       "iso_region": "MH-MAJ",
       "municipality": "Majuro",
       "coordinates": "7.090278, 171.381389"
+    },
+    {
+      "ident": "MH-0003",
+      "type": "closed",
+      "name": "Loen Airport",
+      "elevation_ft": 23.0,
+      "continent": "OC",
+      "iso_country": "MH",
+      "iso_region": "MH-NMU",
+      "municipality": "Loen Island",
+      "coordinates": "7.7575, 168.2357"
     },
     {
       "ident": "MH-AIM",

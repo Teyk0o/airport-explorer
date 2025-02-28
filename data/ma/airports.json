@@ -2,13 +2,13 @@
   "country_code": "MA",
   "country_name": "Morocco",
   "total_airports": 43,
-  "last_updated": "2025-02-27T00:08:24.640447",
+  "last_updated": "2025-02-28T00:08:11.913669",
   "types_distribution": {
     "small_airport": 16,
     "large_airport": 6,
     "medium_airport": 12,
-    "closed": 7,
-    "heliport": 2
+    "heliport": 2,
+    "closed": 7
   },
   "airports": [
     {
@@ -139,17 +139,6 @@
       "coordinates": "33.879101, -5.51512"
     },
     {
-      "ident": "GMFN",
-      "type": "closed",
-      "name": "Taouima Nador Airport",
-      "elevation_ft": 10.0,
-      "continent": "AF",
-      "iso_country": "MA",
-      "iso_region": "MA-02",
-      "municipality": "Nador",
-      "coordinates": "35.152986, -2.918673"
-    },
-    {
       "ident": "GMFO",
       "type": "medium_airport",
       "name": "Oujda Angads Airport",
@@ -161,17 +150,6 @@
       "gps_code": "GMFO",
       "iata_code": "OUD",
       "coordinates": "34.789558, -1.926041"
-    },
-    {
-      "ident": "GMFU",
-      "type": "closed",
-      "name": "Fes Sefrou Airport",
-      "elevation_ft": 1539.0,
-      "continent": "AF",
-      "iso_country": "MA",
-      "iso_region": "MA-03",
-      "municipality": "Fes",
-      "coordinates": "34.008099, -4.96556"
     },
     {
       "ident": "GMFZ",
@@ -197,17 +175,6 @@
       "gps_code": "GMMB",
       "iata_code": "GMD",
       "coordinates": "33.655399, -7.22145"
-    },
-    {
-      "ident": "GMMC",
-      "type": "closed",
-      "name": "Anfa Airport",
-      "elevation_ft": 200.0,
-      "continent": "AF",
-      "iso_country": "MA",
-      "iso_region": "MA-06",
-      "municipality": "Casablanca",
-      "coordinates": "33.5532989502, -7.661389827730001"
     },
     {
       "ident": "GMMD",
@@ -236,17 +203,6 @@
       "coordinates": "34.051498, -6.75152"
     },
     {
-      "ident": "GMMF",
-      "type": "closed",
-      "name": "Sidi Ifni Airport",
-      "elevation_ft": 190.0,
-      "continent": "AF",
-      "iso_country": "MA",
-      "iso_region": "MA-10",
-      "municipality": "Sidi Ifni",
-      "coordinates": "29.368889, -10.180278"
-    },
-    {
       "ident": "GMMI",
       "type": "medium_airport",
       "name": "Essaouira-Mogador Airport",
@@ -258,17 +214,6 @@
       "gps_code": "GMMI",
       "iata_code": "ESU",
       "coordinates": "31.397499, -9.68167"
-    },
-    {
-      "ident": "GMMJ",
-      "type": "closed",
-      "name": "El Jadida Airport",
-      "elevation_ft": 92.0,
-      "continent": "AF",
-      "iso_country": "MA",
-      "iso_region": "MA-06",
-      "municipality": "El Jadida",
-      "coordinates": "33.233299, -8.51667"
     },
     {
       "ident": "GMMN",
@@ -294,17 +239,6 @@
       "municipality": "Taroudant",
       "gps_code": "GMMO",
       "coordinates": "30.503487, -8.821549"
-    },
-    {
-      "ident": "GMMS",
-      "type": "closed",
-      "name": "Safi Airport",
-      "elevation_ft": 171.0,
-      "continent": "AF",
-      "iso_country": "MA",
-      "iso_region": "MA-07",
-      "municipality": "Safi",
-      "coordinates": "32.275414, -9.234266"
     },
     {
       "ident": "GMMT",
@@ -513,6 +447,72 @@
       "iso_region": "MA-08",
       "municipality": "Zagora",
       "coordinates": "30.320299, -5.86667"
+    },
+    {
+      "ident": "MA-0012",
+      "type": "closed",
+      "name": "Anfa Airport",
+      "elevation_ft": 200.0,
+      "continent": "AF",
+      "iso_country": "MA",
+      "iso_region": "MA-06",
+      "municipality": "Casablanca",
+      "coordinates": "33.5532989502, -7.66138982773"
+    },
+    {
+      "ident": "MA-0013",
+      "type": "closed",
+      "name": "El Jadida Airport",
+      "elevation_ft": 92.0,
+      "continent": "AF",
+      "iso_country": "MA",
+      "iso_region": "MA-06",
+      "municipality": "El Jadida",
+      "coordinates": "33.233299, -8.51667"
+    },
+    {
+      "ident": "MA-0014",
+      "type": "closed",
+      "name": "Fes Sefrou Airport",
+      "elevation_ft": 1539.0,
+      "continent": "AF",
+      "iso_country": "MA",
+      "iso_region": "MA-03",
+      "municipality": "Fes",
+      "coordinates": "34.008099, -4.96556"
+    },
+    {
+      "ident": "MA-0015",
+      "type": "closed",
+      "name": "Safi Airport",
+      "elevation_ft": 171.0,
+      "continent": "AF",
+      "iso_country": "MA",
+      "iso_region": "MA-07",
+      "municipality": "Safi",
+      "coordinates": "32.275414, -9.234266"
+    },
+    {
+      "ident": "MA-0016",
+      "type": "closed",
+      "name": "Sidi Ifni Airport",
+      "elevation_ft": 190.0,
+      "continent": "AF",
+      "iso_country": "MA",
+      "iso_region": "MA-10",
+      "municipality": "Sidi Ifni",
+      "coordinates": "29.368889, -10.180278"
+    },
+    {
+      "ident": "MA-0017",
+      "type": "closed",
+      "name": "Taouima Nador Airport",
+      "elevation_ft": 10.0,
+      "continent": "AF",
+      "iso_country": "MA",
+      "iso_region": "MA-02",
+      "municipality": "Nador",
+      "coordinates": "35.152986, -2.918673"
     },
     {
       "ident": "MA-GLN",

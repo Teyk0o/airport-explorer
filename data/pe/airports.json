@@ -2,7 +2,7 @@
   "country_code": "PE",
   "country_name": "Peru",
   "total_airports": 206,
-  "last_updated": "2025-02-27T00:08:24.743623",
+  "last_updated": "2025-02-28T00:08:12.016932",
   "types_distribution": {
     "small_airport": 143,
     "closed": 25,
@@ -386,6 +386,237 @@
       "coordinates": "-12.103711, -77.030216"
     },
     {
+      "ident": "PE-0035",
+      "type": "closed",
+      "name": "Collique Airport",
+      "elevation_ft": 410.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LIM",
+      "municipality": "Collique Bajo",
+      "coordinates": "-11.9287, -77.061096"
+    },
+    {
+      "ident": "PE-0036",
+      "type": "closed",
+      "name": "Camana Airport",
+      "elevation_ft": 209.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-ARE",
+      "municipality": "Camana",
+      "coordinates": "-16.606999, -72.697649"
+    },
+    {
+      "ident": "PE-0037",
+      "type": "closed",
+      "name": "Satipo Airport",
+      "elevation_ft": 2099.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-JUN",
+      "municipality": "Satipo",
+      "coordinates": "-11.2625, -74.647778"
+    },
+    {
+      "ident": "PE-0038",
+      "type": "closed",
+      "name": "Puerto Ocopa Airport",
+      "elevation_ft": 1217.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-JUN",
+      "municipality": "Puerto Ocopa",
+      "coordinates": "-11.143755, -74.307153"
+    },
+    {
+      "ident": "PE-0039",
+      "type": "closed",
+      "name": "Paramonga Airport",
+      "elevation_ft": 16.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LIM",
+      "municipality": "Paramonga",
+      "coordinates": "-10.667, -77.833"
+    },
+    {
+      "ident": "PE-0040",
+      "type": "closed",
+      "name": "Requena Airport",
+      "elevation_ft": 393.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LOR",
+      "municipality": "Requena",
+      "coordinates": "-5.078026, -73.856404"
+    },
+    {
+      "ident": "PE-0041",
+      "type": "closed",
+      "name": "Bayóvar Airport",
+      "elevation_ft": 88.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-PIU",
+      "municipality": "Bayóvar",
+      "coordinates": "-5.83075, -81.025803"
+    },
+    {
+      "ident": "PE-0042",
+      "type": "closed",
+      "name": "Chincha Airport",
+      "elevation_ft": 640.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-ICA",
+      "municipality": "Chincha",
+      "coordinates": "-13.37036, -76.11276"
+    },
+    {
+      "ident": "PE-0043",
+      "type": "closed",
+      "name": "Ica Airport",
+      "elevation_ft": 1500.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-ICA",
+      "municipality": "Ica",
+      "coordinates": "-14.2001, -75.573898"
+    },
+    {
+      "ident": "PE-0044",
+      "type": "closed",
+      "name": "Ancón Airport",
+      "elevation_ft": 38.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LIM",
+      "municipality": "Ancón",
+      "coordinates": "-11.7947, -77.180901"
+    },
+    {
+      "ident": "PE-0045",
+      "type": "closed",
+      "name": "Sullana Airport",
+      "elevation_ft": 197.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-PIU",
+      "municipality": "Sullana",
+      "coordinates": "-4.903889, -80.68528"
+    },
+    {
+      "ident": "PE-0046",
+      "type": "closed",
+      "name": "San Juan Aposento Airport",
+      "elevation_ft": 23.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-ICA",
+      "municipality": "San Juan Aposento",
+      "coordinates": "-15.3539, -75.167099"
+    },
+    {
+      "ident": "PE-0047",
+      "type": "closed",
+      "name": "Barranca Airport",
+      "elevation_ft": 160.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LIM",
+      "municipality": "Barranca",
+      "coordinates": "-10.75, -77.76667"
+    },
+    {
+      "ident": "PE-0048",
+      "type": "closed",
+      "name": "Cunocuno Airport",
+      "elevation_ft": 5300.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-ARE",
+      "municipality": "Cunocuno",
+      "coordinates": "-15.977222, -73.10833"
+    },
+    {
+      "ident": "PE-0049",
+      "type": "closed",
+      "name": "Fausa Airport",
+      "elevation_ft": 14809.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-CUS",
+      "municipality": "Fausa",
+      "coordinates": "-14.7094, -71.731102"
+    },
+    {
+      "ident": "PE-0050",
+      "type": "closed",
+      "name": "Olmos Airport",
+      "elevation_ft": 585.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LAM",
+      "municipality": "Olmos",
+      "coordinates": "-5.984722, -79.745277"
+    },
+    {
+      "ident": "PE-0051",
+      "type": "closed",
+      "name": "Lobitos Airport",
+      "elevation_ft": 45.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-PIU",
+      "municipality": "Lobitos",
+      "coordinates": "-4.448611, -81.275558"
+    },
+    {
+      "ident": "PE-0052",
+      "type": "closed",
+      "name": "Santa Maria Airport",
+      "elevation_ft": 769.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-LIM",
+      "municipality": "Santa María",
+      "coordinates": "-11.983334, -77"
+    },
+    {
+      "ident": "PE-0053",
+      "type": "closed",
+      "name": "Zorritos Airport",
+      "elevation_ft": 95.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-TUM",
+      "municipality": "Contralmirante Villar",
+      "coordinates": "-3.67374, -80.652397"
+    },
+    {
+      "ident": "PE-0054",
+      "type": "closed",
+      "name": "Pomacocha Airport",
+      "elevation_ft": 10524.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-AYA",
+      "municipality": "Pomacocha",
+      "coordinates": "-15.1792, -73.274399"
+    },
+    {
+      "ident": "PE-0055",
+      "type": "closed",
+      "name": "Tintay Airport",
+      "elevation_ft": 8809.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-APU",
+      "municipality": "Tintay",
+      "coordinates": "-13.959167, -73.185837"
+    },
+    {
       "ident": "SOML",
       "type": "small_airport",
       "name": "Malin Airport",
@@ -471,39 +702,6 @@
       "coordinates": "-6.5, -76.7166976928711"
     },
     {
-      "ident": "SPAM",
-      "type": "closed",
-      "name": "Camana Airport",
-      "elevation_ft": 209.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-ARE",
-      "municipality": "Camana",
-      "coordinates": "-16.606999, -72.697649"
-    },
-    {
-      "ident": "SPAN",
-      "type": "closed",
-      "name": "Sullana Airport",
-      "elevation_ft": 197.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-PIU",
-      "municipality": "Sullana",
-      "coordinates": "-4.903889, -80.68528"
-    },
-    {
-      "ident": "SPAO",
-      "type": "closed",
-      "name": "San Juan Aposento Airport",
-      "elevation_ft": 23.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-ICA",
-      "municipality": "San Juan Aposento",
-      "coordinates": "-15.3539, -75.167099"
-    },
-    {
       "ident": "SPAP",
       "type": "small_airport",
       "name": "Picota Airport",
@@ -565,17 +763,6 @@
       "gps_code": "SPAY",
       "iata_code": "AYX",
       "coordinates": "-10.7291, -73.766502"
-    },
-    {
-      "ident": "SPBA",
-      "type": "closed",
-      "name": "Barranca Airport",
-      "elevation_ft": 160.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LIM",
-      "municipality": "Barranca",
-      "coordinates": "-10.75, -77.76667"
     },
     {
       "ident": "SPBB",
@@ -665,17 +852,6 @@
       "coordinates": "-10.755137, -74.221749"
     },
     {
-      "ident": "SPBY",
-      "type": "closed",
-      "name": "Bayóvar Airport",
-      "elevation_ft": 88.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-PIU",
-      "municipality": "Bayóvar",
-      "coordinates": "-5.83075, -81.025803"
-    },
-    {
       "ident": "SPCC",
       "type": "small_airport",
       "name": "Ciudad Constitución Airport",
@@ -748,17 +924,6 @@
       "gps_code": "SPCM",
       "local_code": "CTF",
       "coordinates": "-7.335827, -74.992531"
-    },
-    {
-      "ident": "SPCN",
-      "type": "closed",
-      "name": "Cunocuno Airport",
-      "elevation_ft": 5300.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-ARE",
-      "municipality": "Cunocuno",
-      "coordinates": "-15.977222, -73.10833"
     },
     {
       "ident": "SPCP",
@@ -942,17 +1107,6 @@
       "coordinates": "-10.299200057983398, -74.93720245361328"
     },
     {
-      "ident": "SPFA",
-      "type": "closed",
-      "name": "Fausa Airport",
-      "elevation_ft": 14809.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-CUS",
-      "municipality": "Fausa",
-      "coordinates": "-14.7094, -71.731102"
-    },
-    {
       "ident": "SPGB",
       "type": "small_airport",
       "name": "Galilea Airport",
@@ -1036,17 +1190,6 @@
       "coordinates": "-5.6347222328186035, -78.53055572509766"
     },
     {
-      "ident": "SPHA",
-      "type": "closed",
-      "name": "Chincha Airport",
-      "elevation_ft": 640.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-ICA",
-      "municipality": "Chincha",
-      "coordinates": "-13.37036, -76.11276"
-    },
-    {
       "ident": "SPHC",
       "type": "small_airport",
       "name": "Chala Airport",
@@ -1070,17 +1213,6 @@
       "gps_code": "SPHI",
       "iata_code": "CIX",
       "coordinates": "-6.78748, -79.828102"
-    },
-    {
-      "ident": "SPHL",
-      "type": "closed",
-      "name": "Olmos Airport",
-      "elevation_ft": 585.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LAM",
-      "municipality": "Olmos",
-      "coordinates": "-5.984722, -79.745277"
     },
     {
       "ident": "SPHO",
@@ -1146,17 +1278,6 @@
       "coordinates": "-9.347439765930176, -77.59839630126953"
     },
     {
-      "ident": "SPIA",
-      "type": "closed",
-      "name": "Ica Airport",
-      "elevation_ft": 1500.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-ICA",
-      "municipality": "Ica",
-      "coordinates": "-14.2001, -75.573898"
-    },
-    {
       "ident": "SPIL",
       "type": "small_airport",
       "name": "Quincemil Air Base",
@@ -1193,17 +1314,6 @@
       "municipality": "Iñapari",
       "gps_code": "SPIN",
       "coordinates": "-10.979, -69.559402"
-    },
-    {
-      "ident": "SPIP",
-      "type": "closed",
-      "name": "Satipo Airport",
-      "elevation_ft": 2099.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-JUN",
-      "municipality": "Satipo",
-      "coordinates": "-11.2625, -74.647778"
     },
     {
       "ident": "SPIR",
@@ -1367,7 +1477,7 @@
       "municipality": "Cajamarca",
       "gps_code": "SPJR",
       "iata_code": "CJA",
-      "coordinates": "-7.1391801834106445, -78.4894027709961"
+      "coordinates": "-7.13918, -78.489403"
     },
     {
       "ident": "SPLA",
@@ -1467,17 +1577,6 @@
       "coordinates": "-8.416999816894531, -75.13300323486328"
     },
     {
-      "ident": "SPLT",
-      "type": "closed",
-      "name": "Lobitos Airport",
-      "elevation_ft": 45.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-PIU",
-      "municipality": "Lobitos",
-      "coordinates": "-4.448611, -81.275558"
-    },
-    {
       "ident": "SPLX",
       "type": "small_airport",
       "name": "Lib Mandi Metropolitan Airport",
@@ -1514,17 +1613,6 @@
       "gps_code": "SPMF",
       "iata_code": "MZA",
       "coordinates": "-11.3254, -74.535598"
-    },
-    {
-      "ident": "SPMR",
-      "type": "closed",
-      "name": "Santa Maria Airport",
-      "elevation_ft": 769.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LIM",
-      "municipality": "Santa María",
-      "coordinates": "-11.983334, -77"
     },
     {
       "ident": "SPMS",
@@ -1575,17 +1663,6 @@
       "municipality": "Nuevo Mundo",
       "gps_code": "SPNM",
       "coordinates": "-11.541500091552734, -73.14219665527344"
-    },
-    {
-      "ident": "SPNO",
-      "type": "closed",
-      "name": "Ancón Airport",
-      "elevation_ft": 38.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LIM",
-      "municipality": "Ancón",
-      "coordinates": "-11.7947, -77.180901"
     },
     {
       "ident": "SPNP",
@@ -1649,17 +1726,6 @@
       "coordinates": "-6.96003, -76.768402"
     },
     {
-      "ident": "SPOL",
-      "type": "closed",
-      "name": "Collique Airport",
-      "elevation_ft": 410.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LIM",
-      "municipality": "Collique Bajo",
-      "coordinates": "-11.9287, -77.061096"
-    },
-    {
       "ident": "SPON",
       "type": "small_airport",
       "name": "Orellana Airport",
@@ -1682,17 +1748,6 @@
       "municipality": "Orcopampa",
       "gps_code": "SPOR",
       "coordinates": "-15.315232, -72.352095"
-    },
-    {
-      "ident": "SPOS",
-      "type": "closed",
-      "name": "Zorritos Airport",
-      "elevation_ft": 95.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-TUM",
-      "municipality": "Contralmirante Villar",
-      "coordinates": "-3.67374, -80.652397"
     },
     {
       "ident": "SPOV",
@@ -1719,17 +1774,6 @@
       "coordinates": "-16.232846, -73.605652"
     },
     {
-      "ident": "SPPA",
-      "type": "closed",
-      "name": "Puerto Ocopa Airport",
-      "elevation_ft": 1217.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-JUN",
-      "municipality": "Puerto Ocopa",
-      "coordinates": "-11.143755, -74.307153"
-    },
-    {
       "ident": "SPPB",
       "type": "small_airport",
       "name": "Tipishsa Airport",
@@ -1754,17 +1798,6 @@
       "coordinates": "-12.763889, -73.652778"
     },
     {
-      "ident": "SPPG",
-      "type": "closed",
-      "name": "Paramonga Airport",
-      "elevation_ft": 16.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LIM",
-      "municipality": "Paramonga",
-      "coordinates": "-10.667, -77.833"
-    },
-    {
       "ident": "SPPH",
       "type": "small_airport",
       "name": "Pampa Hermosa Airport",
@@ -1787,17 +1820,6 @@
       "municipality": "Trismaje",
       "gps_code": "SPPL",
       "coordinates": "-8.517820358276367, -76.48049926757812"
-    },
-    {
-      "ident": "SPPM",
-      "type": "closed",
-      "name": "Pomacocha Airport",
-      "elevation_ft": 10524.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-AYA",
-      "municipality": "Pomacocha",
-      "coordinates": "-15.1792, -73.274399"
     },
     {
       "ident": "SPPN",
@@ -1882,17 +1904,6 @@
       "municipality": "Jaquí",
       "gps_code": "SPQJ",
       "coordinates": "-15.466667175292969, -74.43333435058594"
-    },
-    {
-      "ident": "SPQN",
-      "type": "closed",
-      "name": "Requena Airport",
-      "elevation_ft": 393.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-LOR",
-      "municipality": "Requena",
-      "coordinates": "-5.078026, -73.856404"
     },
     {
       "ident": "SPQR",
@@ -2248,17 +2259,6 @@
       "gps_code": "SPTU",
       "iata_code": "PEM",
       "coordinates": "-12.6135997772, -69.2285995483"
-    },
-    {
-      "ident": "SPTY",
-      "type": "closed",
-      "name": "Tintay Airport",
-      "elevation_ft": 8809.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-APU",
-      "municipality": "Tintay",
-      "coordinates": "-13.959167, -73.185837"
     },
     {
       "ident": "SPUC",

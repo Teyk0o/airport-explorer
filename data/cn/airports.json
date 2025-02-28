@@ -1,13 +1,13 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 724,
-  "last_updated": "2025-02-27T00:08:24.328084",
+  "total_airports": 725,
+  "last_updated": "2025-02-28T00:08:11.590947",
   "types_distribution": {
-    "small_airport": 243,
-    "medium_airport": 275,
+    "small_airport": 244,
+    "medium_airport": 274,
     "closed": 56,
-    "heliport": 106,
+    "heliport": 107,
     "seaplane_base": 3,
     "balloonport": 2,
     "large_airport": 39
@@ -163,6 +163,17 @@
       "iso_region": "CN-51",
       "municipality": "Luzhou (Jiangyang)",
       "coordinates": "28.852577, 105.392579"
+    },
+    {
+      "ident": "CN-0012",
+      "type": "small_airport",
+      "name": "Yixing Dingshu General Airport",
+      "elevation_ft": 17.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-32",
+      "municipality": "Wuxi",
+      "coordinates": "31.311688, 119.904848"
     },
     {
       "ident": "CN-0013",
@@ -3223,14 +3234,14 @@
     },
     {
       "ident": "CN-0317",
-      "type": "medium_airport",
-      "name": "Liyang Tianmuhu General Airport",
-      "elevation_ft": 54.0,
+      "type": "heliport",
+      "name": "Liyang Tianmuhu Heliport",
+      "elevation_ft": 20.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-32",
       "municipality": "Changzhou",
-      "coordinates": "31.53904, 119.502554"
+      "coordinates": "31.537778, 119.501944"
     },
     {
       "ident": "CN-0318",
@@ -4456,6 +4467,61 @@
       "coordinates": "26.07277, 119.29701"
     },
     {
+      "ident": "CN-0436",
+      "type": "closed",
+      "name": "Yan'an Ershilipu Airport",
+      "elevation_ft": 3100.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-61",
+      "municipality": "Yan'an (Baota)",
+      "coordinates": "36.636902, 109.554001"
+    },
+    {
+      "ident": "CN-0437",
+      "type": "closed",
+      "name": "Former Shashi Airport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-42",
+      "municipality": "Jingzhou (Shashi)",
+      "coordinates": "30.324289, 112.279861"
+    },
+    {
+      "ident": "CN-0438",
+      "type": "closed",
+      "name": "Wuzhou Changzhoudao Airport",
+      "elevation_ft": 89.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-45",
+      "municipality": "Wuzhou (Changzhou)",
+      "coordinates": "23.456699, 111.248001"
+    },
+    {
+      "ident": "CN-0439",
+      "type": "closed",
+      "name": "Zhanjiang Xintang Airport",
+      "elevation_ft": 125.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhanjiang (Xiashan)",
+      "coordinates": "21.21469, 110.358406"
+    },
+    {
+      "ident": "CN-0440",
+      "type": "closed",
+      "name": "Lanzhou City Airport",
+      "elevation_ft": 5040.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-62",
+      "municipality": "Lanzhou (Chengguan)",
+      "coordinates": "36.033333, 103.86667"
+    },
+    {
       "ident": "CN-JNZ",
       "type": "medium_airport",
       "name": "Sanshilipu Air Base",
@@ -5475,17 +5541,6 @@
       "coordinates": "22.639299, 113.810997"
     },
     {
-      "ident": "ZGWZ",
-      "type": "closed",
-      "name": "Wuzhou Changzhoudao Airport",
-      "elevation_ft": 89.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-45",
-      "municipality": "Wuzhou (Changzhou)",
-      "coordinates": "23.456699, 111.248001"
-    },
-    {
       "ident": "ZGXN",
       "type": "small_airport",
       "name": "Xingning Air Base",
@@ -5560,17 +5615,6 @@
       "gps_code": "ZGZH",
       "iata_code": "LZH",
       "coordinates": "24.2075, 109.390999"
-    },
-    {
-      "ident": "ZGZJ",
-      "type": "closed",
-      "name": "Zhanjiang Xintang Airport",
-      "elevation_ft": 125.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-44",
-      "municipality": "Zhanjiang (Xiashan)",
-      "coordinates": "21.21469, 110.358406"
     },
     {
       "ident": "ZHAY",
@@ -5714,17 +5758,6 @@
       "coordinates": "31.626, 110.34"
     },
     {
-      "ident": "ZHSS",
-      "type": "closed",
-      "name": "Former Shashi Airport",
-      "elevation_ft": 112.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-42",
-      "municipality": "Jingzhou (Shashi)",
-      "coordinates": "30.324289, 112.279861"
-    },
-    {
       "ident": "ZHSY",
       "type": "medium_airport",
       "name": "Shiyan Wudangshan Airport",
@@ -5838,17 +5871,6 @@
       "gps_code": "ZLAK",
       "iata_code": "AKA",
       "coordinates": "32.75696, 108.87338"
-    },
-    {
-      "ident": "ZLAN",
-      "type": "closed",
-      "name": "Lanzhou City Airport",
-      "elevation_ft": 5040.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-62",
-      "municipality": "Lanzhou (Chengguan)",
-      "coordinates": "36.033333, 103.86667"
     },
     {
       "ident": "ZLDH",
@@ -6114,17 +6136,6 @@
       "gps_code": "ZLXY",
       "iata_code": "XIY",
       "coordinates": "34.447102, 108.751999"
-    },
-    {
-      "ident": "ZLYA",
-      "type": "closed",
-      "name": "Yan'an Ershilipu Airport",
-      "elevation_ft": 3100.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-61",
-      "municipality": "Yan'an (Baota)",
-      "coordinates": "36.636902, 109.554001"
     },
     {
       "ident": "ZLYL",

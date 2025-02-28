@@ -2,7 +2,7 @@
   "country_code": "CF",
   "country_name": "Central African Republic",
   "total_airports": 49,
-  "last_updated": "2025-02-27T00:08:24.530872",
+  "last_updated": "2025-02-28T00:08:11.803958",
   "types_distribution": {
     "small_airport": 41,
     "closed": 6,
@@ -140,6 +140,39 @@
       "coordinates": "7.964938, 23.526018"
     },
     {
+      "ident": "CF-0013",
+      "type": "closed",
+      "name": "Bossembélé Airport",
+      "elevation_ft": 2231.0,
+      "continent": "AF",
+      "iso_country": "CF",
+      "iso_region": "CF-MP",
+      "municipality": "Bossembélé",
+      "coordinates": "5.267002, 17.632999"
+    },
+    {
+      "ident": "CF-0014",
+      "type": "closed",
+      "name": "Koumala Airport",
+      "elevation_ft": 2175.0,
+      "continent": "AF",
+      "iso_country": "CF",
+      "iso_region": "CF-BB",
+      "municipality": "Koumala",
+      "coordinates": "8.4965, 21.2565"
+    },
+    {
+      "ident": "CF-0015",
+      "type": "closed",
+      "name": "Gounda Airport",
+      "elevation_ft": 1378.0,
+      "continent": "AF",
+      "iso_country": "CF",
+      "iso_region": "CF-BB",
+      "municipality": "Gounda",
+      "coordinates": "9.316703, 21.185"
+    },
+    {
       "ident": "FEFA",
       "type": "small_airport",
       "name": "Alindao Airport",
@@ -250,17 +283,6 @@
       "municipality": "Kembé",
       "gps_code": "FEFK",
       "coordinates": "4.6, 21.867001"
-    },
-    {
-      "ident": "FEFL",
-      "type": "closed",
-      "name": "Bossembélé Airport",
-      "elevation_ft": 2231.0,
-      "continent": "AF",
-      "iso_country": "CF",
-      "iso_region": "CF-MP",
-      "municipality": "Bossembélé",
-      "coordinates": "5.267002, 17.632999"
     },
     {
       "ident": "FEFM",
@@ -578,28 +600,6 @@
       "gps_code": "FEGZ",
       "iata_code": "BOZ",
       "coordinates": "6.344170093536377, 16.3218994140625"
-    },
-    {
-      "ident": "GDA",
-      "type": "closed",
-      "name": "Gounda Airport",
-      "elevation_ft": 1378.0,
-      "continent": "AF",
-      "iso_country": "CF",
-      "iso_region": "CF-BB",
-      "municipality": "Gounda",
-      "coordinates": "9.316703, 21.185"
-    },
-    {
-      "ident": "KOL",
-      "type": "closed",
-      "name": "Koumala Airport",
-      "elevation_ft": 2175.0,
-      "continent": "AF",
-      "iso_country": "CF",
-      "iso_region": "CF-BB",
-      "municipality": "Koumala",
-      "coordinates": "8.4965, 21.2565"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "CD",
   "country_name": "Democratic Republic of the Congo",
   "total_airports": 306,
-  "last_updated": "2025-02-27T00:08:24.527872",
+  "last_updated": "2025-02-28T00:08:11.800939",
   "types_distribution": {
     "small_airport": 251,
     "medium_airport": 22,
@@ -433,6 +433,324 @@
       "coordinates": "-8.466956, 28.889451"
     },
     {
+      "ident": "CD-0042",
+      "type": "closed",
+      "name": "Kitona Air Base",
+      "elevation_ft": 394.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-BC",
+      "municipality": "Kitona",
+      "coordinates": "-5.918629, 12.446136"
+    },
+    {
+      "ident": "CD-0043",
+      "type": "closed",
+      "name": "Bikoro Airport",
+      "elevation_ft": 1312.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-EQ",
+      "municipality": "Bikoro",
+      "coordinates": "-0.733, 18.132999"
+    },
+    {
+      "ident": "CD-0044",
+      "type": "closed",
+      "name": "Isongo Airport",
+      "elevation_ft": 1020.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-MN",
+      "municipality": "Isongo",
+      "coordinates": "-1.4, 18.4"
+    },
+    {
+      "ident": "CD-0045",
+      "type": "closed",
+      "name": "Monieka Airport",
+      "elevation_ft": 1253.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-EQ",
+      "municipality": "Monieka",
+      "coordinates": "-0.067, 19.983"
+    },
+    {
+      "ident": "CD-0046",
+      "type": "closed",
+      "name": "Ngumu Airport",
+      "elevation_ft": 1227.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-EQ",
+      "municipality": "Ngumu",
+      "coordinates": "1.48638, 20.30128"
+    },
+    {
+      "ident": "CD-0047",
+      "type": "closed",
+      "name": "Imesse Airport",
+      "elevation_ft": 1110.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-SU",
+      "municipality": "Imesse",
+      "coordinates": "2.517298, 18.282452"
+    },
+    {
+      "ident": "CD-0048",
+      "type": "closed",
+      "name": "Bau Airport",
+      "elevation_ft": 1640.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-SU",
+      "municipality": "Bau",
+      "coordinates": "3.733, 19.083"
+    },
+    {
+      "ident": "CD-0049",
+      "type": "closed",
+      "name": "Bokada Airport",
+      "elevation_ft": 1647.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-NU",
+      "municipality": "Bokada",
+      "coordinates": "4.145359, 19.38882"
+    },
+    {
+      "ident": "CD-0050",
+      "type": "closed",
+      "name": "Kala Airport",
+      "elevation_ft": 1640.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-SU",
+      "municipality": "Kala",
+      "coordinates": "3.38312, 18.654635"
+    },
+    {
+      "ident": "CD-0051",
+      "type": "closed",
+      "name": "Lombo Airport",
+      "elevation_ft": 2331.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-NU",
+      "municipality": "Lombo",
+      "coordinates": "4.43889, 19.5389"
+    },
+    {
+      "ident": "CD-0052",
+      "type": "closed",
+      "name": "Gbado Airport",
+      "elevation_ft": 1476.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-NU",
+      "municipality": "Gbado",
+      "coordinates": "3.883, 20.783001"
+    },
+    {
+      "ident": "CD-0053",
+      "type": "closed",
+      "name": "Bosondjo Airport",
+      "elevation_ft": 1312.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-MO",
+      "municipality": "Bosondjo",
+      "coordinates": "1.869832, 21.759882"
+    },
+    {
+      "ident": "CD-0054",
+      "type": "closed",
+      "name": "Mondombe Airport",
+      "elevation_ft": 1457.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-TU",
+      "municipality": "Mondombe",
+      "coordinates": "-0.751265, 22.706079"
+    },
+    {
+      "ident": "CD-0055",
+      "type": "closed",
+      "name": "Wema Airport",
+      "elevation_ft": 1368.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-TU",
+      "municipality": "Wema",
+      "coordinates": "-0.485026, 21.626115"
+    },
+    {
+      "ident": "CD-0056",
+      "type": "closed",
+      "name": "Yemo Airport",
+      "elevation_ft": 1525.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-TU",
+      "municipality": "Yemo",
+      "coordinates": "-0.447989, 21.917896"
+    },
+    {
+      "ident": "CD-0057",
+      "type": "closed",
+      "name": "KM 95 CFL Airport",
+      "elevation_ft": 1591.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-TO",
+      "municipality": "Kabeta",
+      "coordinates": "-0.138446, 25.389318"
+    },
+    {
+      "ident": "CD-0058",
+      "type": "closed",
+      "name": "Kabombo Airport",
+      "elevation_ft": 1969.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-TA",
+      "municipality": "Kabombo",
+      "coordinates": "-7.404388, 28.031659"
+    },
+    {
+      "ident": "CD-0059",
+      "type": "closed",
+      "name": "Sominka Airport",
+      "elevation_ft": 2066.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-TA",
+      "municipality": "Sominka",
+      "coordinates": "-7.417, 27.15"
+    },
+    {
+      "ident": "CD-0060",
+      "type": "closed",
+      "name": "Lubondaie Airport",
+      "elevation_ft": 2657.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-KC",
+      "municipality": "Lubondaie",
+      "coordinates": "-6.50209, 22.45663"
+    },
+    {
+      "ident": "CD-0061",
+      "type": "closed",
+      "name": "Kasonga Airport",
+      "elevation_ft": 2707.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-KC",
+      "municipality": "Kasonga",
+      "coordinates": "-6.648889, 22.391338"
+    },
+    {
+      "ident": "CD-0062",
+      "type": "closed",
+      "name": "Muambi Airport",
+      "elevation_ft": 2493.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-KC",
+      "municipality": "Muambi",
+      "coordinates": "-6.683, 22.533001"
+    },
+    {
+      "ident": "CD-0063",
+      "type": "closed",
+      "name": "Tshibala Airport",
+      "elevation_ft": 2287.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-KC",
+      "municipality": "Tshibala",
+      "coordinates": "-6.933, 22"
+    },
+    {
+      "ident": "CD-0064",
+      "type": "closed",
+      "name": "Katubwe Airport",
+      "elevation_ft": 2461.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-KC",
+      "municipality": "Katubwe",
+      "coordinates": "-6.05, 22.6"
+    },
+    {
+      "ident": "CD-0065",
+      "type": "closed",
+      "name": "Lutshatsha Airport",
+      "elevation_ft": 2329.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-KC",
+      "municipality": "Lutshatsha",
+      "coordinates": "-6.05669, 22.18663"
+    },
+    {
+      "ident": "CD-0066",
+      "type": "closed",
+      "name": "Kutusongo Airport",
+      "elevation_ft": 1722.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-SA",
+      "municipality": "Kutusongo",
+      "coordinates": "-2.68003, 23.283119"
+    },
+    {
+      "ident": "CD-0067",
+      "type": "closed",
+      "name": "Wasolo Airport",
+      "elevation_ft": 1673.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-SA",
+      "municipality": "Wasolo",
+      "coordinates": "-3.95, 22.517"
+    },
+    {
+      "ident": "CD-0068",
+      "type": "closed",
+      "name": "Kisengwa Airport",
+      "elevation_ft": 2428.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-LO",
+      "municipality": "Kisengwa",
+      "coordinates": "-6.017, 25.882999"
+    },
+    {
+      "ident": "CD-0069",
+      "type": "closed",
+      "name": "Ngandajika Airport",
+      "elevation_ft": 2618.0,
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-LO",
+      "municipality": "Ngandajika",
+      "coordinates": "-6.725944, 23.938265"
+    },
+    {
+      "ident": "CD-0070",
+      "type": "closed",
+      "name": "Isiro-Ville Airport",
+      "continent": "AF",
+      "iso_country": "CD",
+      "iso_region": "CD-HU",
+      "municipality": "Isiro",
+      "coordinates": "2.78222, 27.625799"
+    },
+    {
       "ident": "FZAA",
       "type": "large_airport",
       "name": "Ndjili International Airport",
@@ -518,17 +836,6 @@
       "municipality": "Tshela",
       "gps_code": "FZAH",
       "coordinates": "-4.982999801635742, 12.932999610900879"
-    },
-    {
-      "ident": "FZAI",
-      "type": "closed",
-      "name": "Kitona Air Base",
-      "elevation_ft": 394.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-BC",
-      "municipality": "Kitona",
-      "coordinates": "-5.918629, 12.446136"
     },
     {
       "ident": "FZAJ",
@@ -692,17 +999,6 @@
       "coordinates": "-3.407612, 20.084124"
     },
     {
-      "ident": "FZBC",
-      "type": "closed",
-      "name": "Bikoro Airport",
-      "elevation_ft": 1312.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-EQ",
-      "municipality": "Bikoro",
-      "coordinates": "-0.733, 18.132999"
-    },
-    {
       "ident": "FZBD",
       "type": "small_airport",
       "name": "Oshwe Airport",
@@ -749,17 +1045,6 @@
       "municipality": "Kempa",
       "gps_code": "FZBG",
       "coordinates": "-2.954206, 18.378426"
-    },
-    {
-      "ident": "FZBH",
-      "type": "closed",
-      "name": "Isongo Airport",
-      "elevation_ft": 1020.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-MN",
-      "municipality": "Isongo",
-      "coordinates": "-1.4, 18.4"
     },
     {
       "ident": "FZBI",
@@ -1417,17 +1702,6 @@
       "coordinates": "0.0226000007242, 18.2887001038"
     },
     {
-      "ident": "FZEB",
-      "type": "closed",
-      "name": "Monieka Airport",
-      "elevation_ft": 1253.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-EQ",
-      "municipality": "Monieka",
-      "coordinates": "-0.067, 19.983"
-    },
-    {
       "ident": "FZEI",
       "type": "small_airport",
       "name": "Ingende Airport",
@@ -1501,17 +1775,6 @@
       "coordinates": "1.2829999923706055, 20.33300018310547"
     },
     {
-      "ident": "FZES",
-      "type": "closed",
-      "name": "Ngumu Airport",
-      "elevation_ft": 1227.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-EQ",
-      "municipality": "Ngumu",
-      "coordinates": "1.48638, 20.30128"
-    },
-    {
       "ident": "FZFA",
       "type": "small_airport",
       "name": "Libenge Airport",
@@ -1523,17 +1786,6 @@
       "gps_code": "FZFA",
       "iata_code": "LIE",
       "coordinates": "3.626584, 18.638477"
-    },
-    {
-      "ident": "FZFB",
-      "type": "closed",
-      "name": "Imesse Airport",
-      "elevation_ft": 1110.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-SU",
-      "municipality": "Imesse",
-      "coordinates": "2.517298, 18.282452"
     },
     {
       "ident": "FZFC",
@@ -1573,28 +1825,6 @@
       "coordinates": "3.695793, 22.150068"
     },
     {
-      "ident": "FZFF",
-      "type": "closed",
-      "name": "Bau Airport",
-      "elevation_ft": 1640.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-SU",
-      "municipality": "Bau",
-      "coordinates": "3.733, 19.083"
-    },
-    {
-      "ident": "FZFG",
-      "type": "closed",
-      "name": "Bokada Airport",
-      "elevation_ft": 1647.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-NU",
-      "municipality": "Bokada",
-      "coordinates": "4.145359, 19.38882"
-    },
-    {
       "ident": "FZFH",
       "type": "small_airport",
       "name": "Mokaria-Yamoleka Airport",
@@ -1630,28 +1860,6 @@
       "gps_code": "FZFK",
       "iata_code": "GMA",
       "coordinates": "3.23537, 19.771299"
-    },
-    {
-      "ident": "FZFL",
-      "type": "closed",
-      "name": "Kala Airport",
-      "elevation_ft": 1640.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-SU",
-      "municipality": "Kala",
-      "coordinates": "3.38312, 18.654635"
-    },
-    {
-      "ident": "FZFN",
-      "type": "closed",
-      "name": "Lombo Airport",
-      "elevation_ft": 2331.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-NU",
-      "municipality": "Lombo",
-      "coordinates": "4.43889, 19.5389"
     },
     {
       "ident": "FZFP",
@@ -1727,17 +1935,6 @@
       "coordinates": "2.183261, 22.479572"
     },
     {
-      "ident": "FZFV",
-      "type": "closed",
-      "name": "Gbado Airport",
-      "elevation_ft": 1476.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-NU",
-      "municipality": "Gbado",
-      "coordinates": "3.883, 20.783001"
-    },
-    {
       "ident": "FZFW",
       "type": "small_airport",
       "name": "Gwaka Airport",
@@ -1761,17 +1958,6 @@
       "gps_code": "FZGA",
       "iata_code": "LIQ",
       "coordinates": "2.17066, 21.496901"
-    },
-    {
-      "ident": "FZGB",
-      "type": "closed",
-      "name": "Bosondjo Airport",
-      "elevation_ft": 1312.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-MO",
-      "municipality": "Bosondjo",
-      "coordinates": "1.869832, 21.759882"
     },
     {
       "ident": "FZGC",
@@ -1808,28 +1994,6 @@
       "municipality": "Bokungu",
       "gps_code": "FZGF",
       "coordinates": "-0.589819, 22.299843"
-    },
-    {
-      "ident": "FZGG",
-      "type": "closed",
-      "name": "Mondombe Airport",
-      "elevation_ft": 1457.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-TU",
-      "municipality": "Mondombe",
-      "coordinates": "-0.751265, 22.706079"
-    },
-    {
-      "ident": "FZGH",
-      "type": "closed",
-      "name": "Wema Airport",
-      "elevation_ft": 1368.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-TU",
-      "municipality": "Wema",
-      "coordinates": "-0.485026, 21.626115"
     },
     {
       "ident": "FZGI",
@@ -1894,17 +2058,6 @@
       "coordinates": "-1.72268, 20.68958"
     },
     {
-      "ident": "FZGY",
-      "type": "closed",
-      "name": "Yemo Airport",
-      "elevation_ft": 1525.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-TU",
-      "municipality": "Yemo",
-      "coordinates": "-0.447989, 21.917896"
-    },
-    {
       "ident": "FZIA",
       "type": "small_airport",
       "name": "Kisangani Simisini Airport",
@@ -1927,17 +2080,6 @@
       "gps_code": "FZIC",
       "iata_code": "FKI",
       "coordinates": "0.481638997793, 25.3379993439"
-    },
-    {
-      "ident": "FZIG",
-      "type": "closed",
-      "name": "KM 95 CFL Airport",
-      "elevation_ft": 1591.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-TO",
-      "municipality": "Kabeta",
-      "coordinates": "-0.138446, 25.389318"
     },
     {
       "ident": "FZIK",
@@ -1975,16 +2117,6 @@
       "municipality": "Lokutu",
       "gps_code": "FZIZ",
       "coordinates": "1.131052, 23.602301"
-    },
-    {
-      "ident": "FZJA",
-      "type": "closed",
-      "name": "Isiro-Ville Airport",
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-HU",
-      "municipality": "Isiro",
-      "coordinates": "2.78222, 27.625799"
     },
     {
       "ident": "FZJB",
@@ -2806,17 +2938,6 @@
       "coordinates": "-7.549181, 28.673115"
     },
     {
-      "ident": "FZRD",
-      "type": "closed",
-      "name": "Kabombo Airport",
-      "elevation_ft": 1969.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-TA",
-      "municipality": "Kabombo",
-      "coordinates": "-7.404388, 28.031659"
-    },
-    {
       "ident": "FZRE",
       "type": "small_airport",
       "name": "Bukena Airport",
@@ -2840,17 +2961,6 @@
       "gps_code": "FZRF",
       "iata_code": "FMI",
       "coordinates": "-5.87556, 29.25"
-    },
-    {
-      "ident": "FZRG",
-      "type": "closed",
-      "name": "Sominka Airport",
-      "elevation_ft": 2066.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-TA",
-      "municipality": "Sominka",
-      "coordinates": "-7.417, 27.15"
     },
     {
       "ident": "FZRJ",
@@ -3087,28 +3197,6 @@
       "coordinates": "-5.90005, 22.4692"
     },
     {
-      "ident": "FZUE",
-      "type": "closed",
-      "name": "Lubondaie Airport",
-      "elevation_ft": 2657.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-KC",
-      "municipality": "Lubondaie",
-      "coordinates": "-6.50209, 22.45663"
-    },
-    {
-      "ident": "FZUF",
-      "type": "closed",
-      "name": "Kasonga Airport",
-      "elevation_ft": 2707.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-KC",
-      "municipality": "Kasonga",
-      "coordinates": "-6.648889, 22.391338"
-    },
-    {
       "ident": "FZUG",
       "type": "small_airport",
       "name": "Luiza Airport",
@@ -3144,17 +3232,6 @@
       "municipality": "Mboi",
       "gps_code": "FZUI",
       "coordinates": "-6.841893, 22.008533"
-    },
-    {
-      "ident": "FZUJ",
-      "type": "closed",
-      "name": "Muambi Airport",
-      "elevation_ft": 2493.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-KC",
-      "municipality": "Muambi",
-      "coordinates": "-6.683, 22.533001"
     },
     {
       "ident": "FZUK",
@@ -3230,17 +3307,6 @@
       "coordinates": "-7.00361, 21.2442"
     },
     {
-      "ident": "FZUR",
-      "type": "closed",
-      "name": "Tshibala Airport",
-      "elevation_ft": 2287.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-KC",
-      "municipality": "Tshibala",
-      "coordinates": "-6.933, 22"
-    },
-    {
       "ident": "FZUS",
       "type": "small_airport",
       "name": "Tshikaji Airport",
@@ -3251,28 +3317,6 @@
       "municipality": "Tshikaji",
       "gps_code": "FZUS",
       "coordinates": "-5.977018, 22.457771"
-    },
-    {
-      "ident": "FZUT",
-      "type": "closed",
-      "name": "Katubwe Airport",
-      "elevation_ft": 2461.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-KC",
-      "municipality": "Katubwe",
-      "coordinates": "-6.05, 22.6"
-    },
-    {
-      "ident": "FZUU",
-      "type": "closed",
-      "name": "Lutshatsha Airport",
-      "elevation_ft": 2329.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-KC",
-      "municipality": "Lutshatsha",
-      "coordinates": "-6.05669, 22.18663"
     },
     {
       "ident": "FZUV",
@@ -3336,17 +3380,6 @@
       "coordinates": "-2.290361, 23.35423"
     },
     {
-      "ident": "FZVF",
-      "type": "closed",
-      "name": "Kutusongo Airport",
-      "elevation_ft": 1722.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-SA",
-      "municipality": "Kutusongo",
-      "coordinates": "-2.68003, 23.283119"
-    },
-    {
       "ident": "FZVG",
       "type": "small_airport",
       "name": "Katako'kombe Airport",
@@ -3406,17 +3439,6 @@
       "municipality": "Lukombe-Batwa",
       "gps_code": "FZVK",
       "coordinates": "-4.333000183105469, 22.08300018310547"
-    },
-    {
-      "ident": "FZVL",
-      "type": "closed",
-      "name": "Wasolo Airport",
-      "elevation_ft": 1673.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-SA",
-      "municipality": "Wasolo",
-      "coordinates": "-3.95, 22.517"
     },
     {
       "ident": "FZVM",
@@ -3543,17 +3565,6 @@
       "coordinates": "-6.25336, 23.945979"
     },
     {
-      "ident": "FZWC",
-      "type": "closed",
-      "name": "Ngandajika Airport",
-      "elevation_ft": 2618.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-LO",
-      "municipality": "Ngandajika",
-      "coordinates": "-6.725944, 23.938265"
-    },
-    {
       "ident": "FZWE",
       "type": "small_airport",
       "name": "Mwene-Ditu Airport",
@@ -3600,17 +3611,6 @@
       "municipality": "Munkamba",
       "gps_code": "FZWL",
       "coordinates": "-5.760603, 23.05584"
-    },
-    {
-      "ident": "FZWR",
-      "type": "closed",
-      "name": "Kisengwa Airport",
-      "elevation_ft": 2428.0,
-      "continent": "AF",
-      "iso_country": "CD",
-      "iso_region": "CD-LO",
-      "municipality": "Kisengwa",
-      "coordinates": "-6.017, 25.882999"
     },
     {
       "ident": "FZWS",

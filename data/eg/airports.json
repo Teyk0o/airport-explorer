@@ -2,7 +2,7 @@
   "country_code": "EG",
   "country_name": "Egypt",
   "total_airports": 141,
-  "last_updated": "2025-02-27T00:08:24.586759",
+  "last_updated": "2025-02-28T00:08:11.858802",
   "types_distribution": {
     "medium_airport": 29,
     "small_airport": 40,
@@ -845,6 +845,39 @@
       "coordinates": "29.925129, 31.666377"
     },
     {
+      "ident": "EG-0077",
+      "type": "closed",
+      "name": "Baloza Airport",
+      "elevation_ft": 30.0,
+      "continent": "AS",
+      "iso_country": "EG",
+      "iso_region": "EG-SIN",
+      "municipality": "Remanah",
+      "coordinates": "30.999518, 32.551396"
+    },
+    {
+      "ident": "EG-0078",
+      "type": "closed",
+      "name": "El Nuzha Airport",
+      "elevation_ft": -6.0,
+      "continent": "AF",
+      "iso_country": "EG",
+      "iso_region": "EG-ALX",
+      "municipality": "Alexandria",
+      "coordinates": "31.181681, 29.94629"
+    },
+    {
+      "ident": "EG-0079",
+      "type": "closed",
+      "name": "Giza Embaba Airport",
+      "elevation_ft": 98.0,
+      "continent": "AF",
+      "iso_country": "EG",
+      "iso_region": "EG-GZ",
+      "municipality": "Al Jiza",
+      "coordinates": "30.074699, 31.191401"
+    },
+    {
       "ident": "EG-AUE",
       "type": "small_airport",
       "name": "Abu Rudeis Airport",
@@ -952,17 +985,6 @@
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
       "coordinates": "28.19694, 33.206005"
-    },
-    {
-      "ident": "HE22",
-      "type": "closed",
-      "name": "Baloza Airport",
-      "elevation_ft": 30.0,
-      "continent": "AS",
-      "iso_country": "EG",
-      "iso_region": "EG-SIN",
-      "municipality": "Remanah",
-      "coordinates": "30.999518, 32.551396"
     },
     {
       "ident": "HE23",
@@ -1230,17 +1252,6 @@
       "coordinates": "27.050818, 31.016309"
     },
     {
-      "ident": "HEAX",
-      "type": "closed",
-      "name": "El Nuzha Airport",
-      "elevation_ft": -6.0,
-      "continent": "AF",
-      "iso_country": "EG",
-      "iso_region": "EG-ALX",
-      "municipality": "Alexandria",
-      "coordinates": "31.181681, 29.94629"
-    },
-    {
       "ident": "HEAZ",
       "type": "medium_airport",
       "name": "Almaza Air Force Base",
@@ -1340,17 +1351,6 @@
       "gps_code": "HEDK",
       "iata_code": "DAK",
       "coordinates": "25.41116, 29.003273"
-    },
-    {
-      "ident": "HEEM",
-      "type": "closed",
-      "name": "Giza Embaba Airport",
-      "elevation_ft": 98.0,
-      "continent": "AF",
-      "iso_country": "EG",
-      "iso_region": "EG-GZ",
-      "municipality": "Al Jiza",
-      "coordinates": "30.074699, 31.191401"
     },
     {
       "ident": "HEGN",

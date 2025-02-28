@@ -2,7 +2,7 @@
   "country_code": "AQ",
   "country_name": "Antarctica",
   "total_airports": 41,
-  "last_updated": "2025-02-27T00:08:24.284418",
+  "last_updated": "2025-02-28T00:08:11.559617",
   "types_distribution": {
     "small_airport": 27,
     "closed": 4,
@@ -147,6 +147,28 @@
       "coordinates": "-89.998, 139.273"
     },
     {
+      "ident": "AQ-0013",
+      "type": "closed",
+      "name": "McMurdo Station Ice Runway",
+      "elevation_ft": 1.0,
+      "continent": "AN",
+      "iso_country": "AQ",
+      "iso_region": "AQ-U-A",
+      "municipality": "McMurdo Station",
+      "coordinates": "-77.854391, 166.464387"
+    },
+    {
+      "ident": "AQ-0014",
+      "type": "closed",
+      "name": "McMurdo Station Pegasus Field",
+      "elevation_ft": 18.0,
+      "continent": "AN",
+      "iso_country": "AQ",
+      "iso_region": "AQ-U-A",
+      "municipality": "McMurdo Station",
+      "coordinates": "-77.963402, 166.524994"
+    },
+    {
       "ident": "AQBC",
       "type": "medium_airport",
       "name": "Boulder Clay Runway",
@@ -265,28 +287,6 @@
       "municipality": "McMurdo Station",
       "gps_code": "NZFX",
       "coordinates": "-77.956389, 166.766667"
-    },
-    {
-      "ident": "NZIR",
-      "type": "closed",
-      "name": "McMurdo Station Ice Runway",
-      "elevation_ft": 1.0,
-      "continent": "AN",
-      "iso_country": "AQ",
-      "iso_region": "AQ-U-A",
-      "municipality": "McMurdo Station",
-      "coordinates": "-77.854391, 166.464387"
-    },
-    {
-      "ident": "NZPG",
-      "type": "closed",
-      "name": "McMurdo Station Pegasus Field",
-      "elevation_ft": 18.0,
-      "continent": "AN",
-      "iso_country": "AQ",
-      "iso_region": "AQ-U-A",
-      "municipality": "McMurdo Station",
-      "coordinates": "-77.963402, 166.524994"
     },
     {
       "ident": "NZSP",

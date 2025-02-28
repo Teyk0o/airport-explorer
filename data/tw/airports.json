@@ -2,13 +2,13 @@
   "country_code": "TW",
   "country_name": "Taiwan",
   "total_airports": 122,
-  "last_updated": "2025-02-27T00:08:24.746916",
+  "last_updated": "2025-02-28T00:08:12.020823",
   "types_distribution": {
     "medium_airport": 19,
     "small_airport": 34,
-    "closed": 11,
     "large_airport": 2,
     "heliport": 55,
+    "closed": 11,
     "balloonport": 1
   },
   "airports": [
@@ -114,17 +114,6 @@
       "coordinates": "22.673900604248047, 121.46600341796875"
     },
     {
-      "ident": "RCGM",
-      "type": "closed",
-      "name": "Taoyuan Air Base",
-      "elevation_ft": 144.0,
-      "continent": "AS",
-      "iso_country": "TW",
-      "iso_region": "TW-TAO",
-      "municipality": "Taoyuan (Dayuan)",
-      "coordinates": "25.054217, 121.240827"
-    },
-    {
       "ident": "RCKH",
       "type": "large_airport",
       "name": "Kaohsiung International Airport",
@@ -175,17 +164,6 @@
       "coordinates": "22.349922, 120.37588"
     },
     {
-      "ident": "RCLG",
-      "type": "closed",
-      "name": "Taichung Shuinan Airport",
-      "elevation_ft": 369.0,
-      "continent": "AS",
-      "iso_country": "TW",
-      "iso_region": "TW-TXG",
-      "municipality": "Taichung (Xitun)",
-      "coordinates": "24.1863, 120.653999"
-    },
-    {
       "ident": "RCLM",
       "type": "small_airport",
       "name": "Dongsha Island (Pratas Island) Airport",
@@ -223,17 +201,6 @@
       "gps_code": "RCMQ",
       "iata_code": "RMQ",
       "coordinates": "24.2647, 120.621002"
-    },
-    {
-      "ident": "RCMS",
-      "type": "closed",
-      "name": "Ilan Airfield",
-      "elevation_ft": 31.0,
-      "continent": "AS",
-      "iso_country": "TW",
-      "iso_region": "TW-ILA",
-      "municipality": "Ilan",
-      "coordinates": "24.730617, 121.752031"
     },
     {
       "ident": "RCMT",
@@ -309,16 +276,6 @@
       "municipality": "Taitung City",
       "gps_code": "RCQS",
       "coordinates": "22.7931, 121.181999"
-    },
-    {
-      "ident": "RCSC",
-      "type": "closed",
-      "name": "Huwei Airstrip",
-      "continent": "AS",
-      "iso_country": "TW",
-      "iso_region": "TW-YUN",
-      "municipality": "Huwei",
-      "coordinates": "23.727958, 120.428862"
     },
     {
       "ident": "RCSM",
@@ -1346,6 +1303,49 @@
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
       "coordinates": "23.68923, 121.47359"
+    },
+    {
+      "ident": "TW-0089",
+      "type": "closed",
+      "name": "Taoyuan Air Base",
+      "elevation_ft": 144.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TAO",
+      "municipality": "Taoyuan (Dayuan)",
+      "coordinates": "25.054217, 121.240827"
+    },
+    {
+      "ident": "TW-0090",
+      "type": "closed",
+      "name": "Taichung Shuinan Airport",
+      "elevation_ft": 369.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-TXG",
+      "municipality": "Taichung (Xitun)",
+      "coordinates": "24.1863, 120.653999"
+    },
+    {
+      "ident": "TW-0091",
+      "type": "closed",
+      "name": "Huwei Airstrip",
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-YUN",
+      "municipality": "Huwei",
+      "coordinates": "23.727958, 120.428862"
+    },
+    {
+      "ident": "TW-0092",
+      "type": "closed",
+      "name": "Ilan Airfield",
+      "elevation_ft": 31.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-ILA",
+      "municipality": "Ilan",
+      "coordinates": "24.730617, 121.752031"
     }
   ]
 }

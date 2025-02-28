@@ -2,7 +2,7 @@
   "country_code": "NI",
   "country_name": "Nicaragua",
   "total_airports": 44,
-  "last_updated": "2025-02-27T00:08:24.731758",
+  "last_updated": "2025-02-28T00:08:12.005297",
   "types_distribution": {
     "small_airport": 37,
     "medium_airport": 3,
@@ -136,16 +136,6 @@
       "coordinates": "12.80049991607666, -86.14830017089844"
     },
     {
-      "ident": "MNEP",
-      "type": "closed",
-      "name": "La Esperanza Airport",
-      "elevation_ft": 88.0,
-      "iso_country": "NI",
-      "iso_region": "NI-AS",
-      "municipality": "La Esperanza",
-      "coordinates": "12.199532, -84.276385"
-    },
-    {
       "ident": "MNES",
       "type": "small_airport",
       "name": "Estelí Airport",
@@ -202,16 +192,6 @@
       "coordinates": "13.085700035095215, -85.98770141601562"
     },
     {
-      "ident": "MNJU",
-      "type": "closed",
-      "name": "Juigalpa Airport",
-      "elevation_ft": 295.0,
-      "iso_country": "NI",
-      "iso_region": "NI-CO",
-      "municipality": "Juigalpa",
-      "coordinates": "12.1, -85.366669"
-    },
-    {
       "ident": "MNKW",
       "type": "small_airport",
       "name": "Karawala Airport",
@@ -243,16 +223,6 @@
       "municipality": "Omtepe Island",
       "gps_code": "MNOM",
       "coordinates": "11.523616, -85.702995"
-    },
-    {
-      "ident": "MNMA",
-      "type": "closed",
-      "name": "Macantaca Airport",
-      "elevation_ft": 55.0,
-      "iso_country": "NI",
-      "iso_region": "NI-AN",
-      "municipality": "Macantaca",
-      "coordinates": "13.322019, -84.154601"
     },
     {
       "ident": "MNMG",
@@ -288,16 +258,6 @@
       "municipality": "La Cumplida",
       "gps_code": "MNMT",
       "coordinates": "12.996027, -85.852146"
-    },
-    {
-      "ident": "MNNG",
-      "type": "closed",
-      "name": "Nueva Guinea Airport",
-      "elevation_ft": 606.0,
-      "iso_country": "NI",
-      "iso_region": "NI-AS",
-      "municipality": "Nueva Guinea",
-      "coordinates": "11.686994, -84.457011"
     },
     {
       "ident": "MNPC",
@@ -490,6 +450,46 @@
       "iso_region": "NI-CO",
       "municipality": "Hato Grande",
       "coordinates": "11.95437, -85.44539"
+    },
+    {
+      "ident": "NI-0011",
+      "type": "closed",
+      "name": "Macantaca Airport",
+      "elevation_ft": 55.0,
+      "iso_country": "NI",
+      "iso_region": "NI-AN",
+      "municipality": "Macantaca",
+      "coordinates": "13.322019, -84.154601"
+    },
+    {
+      "ident": "NI-0012",
+      "type": "closed",
+      "name": "La Esperanza Airport",
+      "elevation_ft": 88.0,
+      "iso_country": "NI",
+      "iso_region": "NI-AS",
+      "municipality": "La Esperanza",
+      "coordinates": "12.199532, -84.276385"
+    },
+    {
+      "ident": "NI-0013",
+      "type": "closed",
+      "name": "Nueva Guinea Airport",
+      "elevation_ft": 606.0,
+      "iso_country": "NI",
+      "iso_region": "NI-AS",
+      "municipality": "Nueva Guinea",
+      "coordinates": "11.686994, -84.457011"
+    },
+    {
+      "ident": "NI-0014",
+      "type": "closed",
+      "name": "Juigalpa Airport",
+      "elevation_ft": 295.0,
+      "iso_country": "NI",
+      "iso_region": "NI-CO",
+      "municipality": "Juigalpa",
+      "coordinates": "12.1, -85.366669"
     }
   ]
 }

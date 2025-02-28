@@ -2,7 +2,7 @@
   "country_code": "EE",
   "country_name": "Estonia",
   "total_airports": 60,
-  "last_updated": "2025-02-27T00:08:24.586033",
+  "last_updated": "2025-02-28T00:08:11.858072",
   "types_distribution": {
     "closed": 16,
     "seaplane_base": 1,
@@ -247,6 +247,28 @@
       "iso_region": "EE-59",
       "municipality": "Kunda",
       "coordinates": "59.536701, 26.311701"
+    },
+    {
+      "ident": "EE-9279",
+      "type": "closed",
+      "name": "Tapa Air Base",
+      "elevation_ft": 331.0,
+      "continent": "EU",
+      "iso_country": "EE",
+      "iso_region": "EE-59",
+      "municipality": "Tapa",
+      "coordinates": "59.240799, 25.9622"
+    },
+    {
+      "ident": "EE-9280",
+      "type": "closed",
+      "name": "Raadi Air Base",
+      "elevation_ft": 217.0,
+      "continent": "EU",
+      "iso_country": "EE",
+      "iso_region": "EE-7B",
+      "municipality": "Tartu",
+      "coordinates": "58.404701, 26.7761"
     },
     {
       "ident": "EEAA",
@@ -580,17 +602,6 @@
       "coordinates": "59.45943, 24.388188"
     },
     {
-      "ident": "EETA",
-      "type": "closed",
-      "name": "Tapa Air Base",
-      "elevation_ft": 331.0,
-      "continent": "EU",
-      "iso_country": "EE",
-      "iso_region": "EE-59",
-      "municipality": "Tapa",
-      "coordinates": "59.240799, 25.9622"
-    },
-    {
       "ident": "EETI",
       "type": "small_airport",
       "name": "Tõutsi Private Airfield",
@@ -613,17 +624,6 @@
       "gps_code": "EETN",
       "iata_code": "TLL",
       "coordinates": "59.413246, 24.83264"
-    },
-    {
-      "ident": "EETR",
-      "type": "closed",
-      "name": "Raadi Air Base",
-      "elevation_ft": 217.0,
-      "continent": "EU",
-      "iso_country": "EE",
-      "iso_region": "EE-7B",
-      "municipality": "Tartu",
-      "coordinates": "58.404701, 26.7761"
     },
     {
       "ident": "EETS",

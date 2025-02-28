@@ -2,7 +2,7 @@
   "country_code": "CU",
   "country_name": "Cuba",
   "total_airports": 155,
-  "last_updated": "2025-02-27T00:08:24.541847",
+  "last_updated": "2025-02-28T00:08:11.813892",
   "types_distribution": {
     "small_airport": 95,
     "closed": 31,
@@ -1011,7 +1011,67 @@
       "coordinates": "22.28791, -78.55329"
     },
     {
-      "ident": "MUAT",
+      "ident": "CU-0102",
+      "type": "closed",
+      "name": "Caibarién Airport",
+      "elevation_ft": 50.0,
+      "iso_country": "CU",
+      "iso_region": "CU-05",
+      "municipality": "Caibarién",
+      "coordinates": "22.506399, -79.469803"
+    },
+    {
+      "ident": "CU-0103",
+      "type": "closed",
+      "name": "Mariel Airport",
+      "elevation_ft": 32.0,
+      "iso_country": "CU",
+      "iso_region": "CU-15",
+      "municipality": "Mariel",
+      "coordinates": "23.007400512695, -82.767601013184"
+    },
+    {
+      "ident": "CU-0104",
+      "type": "closed",
+      "name": "Cayo Coco Airport",
+      "elevation_ft": 6.0,
+      "iso_country": "CU",
+      "iso_region": "CU-08",
+      "municipality": "Cayo Coco",
+      "coordinates": "22.5132007599, -78.5110015869"
+    },
+    {
+      "ident": "CU-0105",
+      "type": "closed",
+      "name": "Pinar Del Rio Airport",
+      "elevation_ft": 131.0,
+      "iso_country": "CU",
+      "iso_region": "CU-01",
+      "municipality": "Pinar del Rio",
+      "coordinates": "22.421095, -83.678398"
+    },
+    {
+      "ident": "CU-0106",
+      "type": "closed",
+      "name": "Nicaro Airport",
+      "elevation_ft": 26.0,
+      "iso_country": "CU",
+      "iso_region": "CU-11",
+      "municipality": "Nicaro",
+      "coordinates": "20.688601, -75.531502"
+    },
+    {
+      "ident": "CU-0107",
+      "type": "closed",
+      "name": "Pilon Airport",
+      "elevation_ft": 51.0,
+      "iso_country": "CU",
+      "iso_region": "CU-12",
+      "municipality": "Pilon",
+      "coordinates": "19.865882, -77.354575"
+    },
+    {
+      "ident": "CU-0108",
       "type": "closed",
       "name": "Antilla Airport",
       "elevation_ft": 6.0,
@@ -1019,6 +1079,66 @@
       "iso_region": "CU-11",
       "municipality": "Antilla",
       "coordinates": "20.840669, -75.729759"
+    },
+    {
+      "ident": "CU-0109",
+      "type": "closed",
+      "name": "Central Agramonte Airport",
+      "elevation_ft": 196.0,
+      "iso_country": "CU",
+      "iso_region": "CU-09",
+      "municipality": "Florida",
+      "coordinates": "21.56811, -78.22923"
+    },
+    {
+      "ident": "CU-0110",
+      "type": "closed",
+      "name": "Nuevitas Airport",
+      "elevation_ft": 3.0,
+      "iso_country": "CU",
+      "iso_region": "CU-09",
+      "municipality": "Nuevitas",
+      "coordinates": "21.553801, -77.258598"
+    },
+    {
+      "ident": "CU-0111",
+      "type": "closed",
+      "name": "Ciego de Ávila Airport",
+      "elevation_ft": 131.0,
+      "iso_country": "CU",
+      "iso_region": "CU-08",
+      "municipality": "Ciego de Ávila",
+      "coordinates": "21.842337, -78.735877"
+    },
+    {
+      "ident": "CU-0112",
+      "type": "closed",
+      "name": "Las Clavellinas Airport",
+      "elevation_ft": 19.0,
+      "iso_country": "CU",
+      "iso_region": "CU-01",
+      "municipality": "Las Clavellinas",
+      "coordinates": "22.22906, -84.371792"
+    },
+    {
+      "ident": "CU-0113",
+      "type": "closed",
+      "name": "Matahambre Airport",
+      "elevation_ft": 396.0,
+      "iso_country": "CU",
+      "iso_region": "CU-01",
+      "municipality": "Minas de Matahambre",
+      "coordinates": "22.5875, -83.945"
+    },
+    {
+      "ident": "CU-0114",
+      "type": "closed",
+      "name": "Matanzas Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "CU",
+      "iso_region": "CU-04",
+      "municipality": "Matanzas",
+      "coordinates": "23.01, -81.510002"
     },
     {
       "ident": "MUBA",
@@ -1090,16 +1210,6 @@
       "coordinates": "22.0271, -78.789597"
     },
     {
-      "ident": "MUCB",
-      "type": "closed",
-      "name": "Caibarién Airport",
-      "elevation_ft": 50.0,
-      "iso_country": "CU",
-      "iso_region": "CU-05",
-      "municipality": "Caibarién",
-      "coordinates": "22.506399, -79.469803"
-    },
-    {
       "ident": "MUCC",
       "type": "medium_airport",
       "name": "Jardines Del Rey Airport",
@@ -1110,16 +1220,6 @@
       "gps_code": "MUCC",
       "iata_code": "CCC",
       "coordinates": "22.461000442499998, -78.32839965820001"
-    },
-    {
-      "ident": "MUCD",
-      "type": "closed",
-      "name": "Ciego de Ávila Airport",
-      "elevation_ft": 131.0,
-      "iso_country": "CU",
-      "iso_region": "CU-08",
-      "municipality": "Ciego de Ávila",
-      "coordinates": "21.842337, -78.735877"
     },
     {
       "ident": "MUCF",
@@ -1181,16 +1281,6 @@
       "coordinates": "19.96980094909668, -75.83540344238281"
     },
     {
-      "ident": "MUCV",
-      "type": "closed",
-      "name": "Las Clavellinas Airport",
-      "elevation_ft": 19.0,
-      "iso_country": "CU",
-      "iso_region": "CU-01",
-      "municipality": "Las Clavellinas",
-      "coordinates": "22.22906, -84.371792"
-    },
-    {
       "ident": "MUCY",
       "type": "small_airport",
       "name": "Cayajabo Airport",
@@ -1211,16 +1301,6 @@
       "municipality": "Florida",
       "gps_code": "MUFL",
       "coordinates": "21.499701, -78.202797"
-    },
-    {
-      "ident": "MUGA",
-      "type": "closed",
-      "name": "Central Agramonte Airport",
-      "elevation_ft": 196.0,
-      "iso_country": "CU",
-      "iso_region": "CU-09",
-      "municipality": "Florida",
-      "coordinates": "21.56811, -78.22923"
     },
     {
       "ident": "MUGM",
@@ -1269,16 +1349,6 @@
       "gps_code": "MUHG",
       "iata_code": "HOG",
       "coordinates": "20.785600662231445, -76.31510162353516"
-    },
-    {
-      "ident": "MUIV",
-      "type": "closed",
-      "name": "Nuevitas Airport",
-      "elevation_ft": 3.0,
-      "iso_country": "CU",
-      "iso_region": "CU-09",
-      "municipality": "Nuevitas",
-      "coordinates": "21.553801, -77.258598"
     },
     {
       "ident": "MUKW",
@@ -1339,16 +1409,6 @@
       "coordinates": "22.9699, -82.274803"
     },
     {
-      "ident": "MUMH",
-      "type": "closed",
-      "name": "Matahambre Airport",
-      "elevation_ft": 396.0,
-      "iso_country": "CU",
-      "iso_region": "CU-01",
-      "municipality": "Minas de Matahambre",
-      "coordinates": "22.5875, -83.945"
-    },
-    {
       "ident": "MUMJ",
       "type": "small_airport",
       "name": "Mayajigua Airport",
@@ -1361,16 +1421,6 @@
       "coordinates": "22.23080062866211, -79.06220245361328"
     },
     {
-      "ident": "MUML",
-      "type": "closed",
-      "name": "Mariel Airport",
-      "elevation_ft": 32.0,
-      "iso_country": "CU",
-      "iso_region": "CU-15",
-      "municipality": "Mariel",
-      "coordinates": "23.007400512695312, -82.7676010131836"
-    },
-    {
       "ident": "MUMO",
       "type": "medium_airport",
       "name": "Orestes Acosta Airport",
@@ -1381,16 +1431,6 @@
       "gps_code": "MUMO",
       "iata_code": "MOA",
       "coordinates": "20.653900146484375, -74.92220306396484"
-    },
-    {
-      "ident": "MUMT",
-      "type": "closed",
-      "name": "Matanzas Airport",
-      "elevation_ft": 9.0,
-      "iso_country": "CU",
-      "iso_region": "CU-04",
-      "municipality": "Matanzas",
-      "coordinates": "23.01, -81.510002"
     },
     {
       "ident": "MUMZ",
@@ -1416,16 +1456,6 @@
       "coordinates": "22.756514, -81.920743"
     },
     {
-      "ident": "MUNC",
-      "type": "closed",
-      "name": "Nicaro Airport",
-      "elevation_ft": 26.0,
-      "iso_country": "CU",
-      "iso_region": "CU-11",
-      "municipality": "Nicaro",
-      "coordinates": "20.688601, -75.531502"
-    },
-    {
       "ident": "MUNG",
       "type": "medium_airport",
       "name": "Rafael Cabrera Airport",
@@ -1436,16 +1466,6 @@
       "gps_code": "MUNG",
       "iata_code": "GER",
       "coordinates": "21.834699630737305, -82.78379821777344"
-    },
-    {
-      "ident": "MUOC",
-      "type": "closed",
-      "name": "Cayo Coco Airport",
-      "elevation_ft": 6.0,
-      "iso_country": "CU",
-      "iso_region": "CU-08",
-      "municipality": "Cayo Coco",
-      "coordinates": "22.513200759900002, -78.51100158690001"
     },
     {
       "ident": "MUPA",
@@ -1469,26 +1489,6 @@
       "gps_code": "MUPB",
       "iata_code": "UPB",
       "coordinates": "23.032801, -82.579399"
-    },
-    {
-      "ident": "MUPL",
-      "type": "closed",
-      "name": "Pilon Airport",
-      "elevation_ft": 51.0,
-      "iso_country": "CU",
-      "iso_region": "CU-12",
-      "municipality": "Pilon",
-      "coordinates": "19.865882, -77.354575"
-    },
-    {
-      "ident": "MUPR",
-      "type": "closed",
-      "name": "Pinar Del Rio Airport",
-      "elevation_ft": 131.0,
-      "iso_country": "CU",
-      "iso_region": "CU-01",
-      "municipality": "Pinar del Rio",
-      "coordinates": "22.421095, -83.678398"
     },
     {
       "ident": "MUSA",

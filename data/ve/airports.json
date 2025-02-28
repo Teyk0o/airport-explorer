@@ -2,13 +2,13 @@
   "country_code": "VE",
   "country_name": "Venezuela",
   "total_airports": 604,
-  "last_updated": "2025-02-27T00:08:24.749651",
+  "last_updated": "2025-02-28T00:08:12.023488",
   "types_distribution": {
     "small_airport": 456,
     "medium_airport": 46,
     "large_airport": 2,
-    "closed": 12,
-    "heliport": 88
+    "heliport": 88,
+    "closed": 12
   },
   "airports": [
     {
@@ -529,27 +529,6 @@
       "coordinates": "7.128957, -63.461154"
     },
     {
-      "ident": "SVBX",
-      "type": "closed",
-      "name": "La Cabaña Airport",
-      "elevation_ft": 215.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-V",
-      "coordinates": "9.766667, -72.699997"
-    },
-    {
-      "ident": "SVCA",
-      "type": "closed",
-      "name": "Cabimas Airport",
-      "elevation_ft": 65.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-V",
-      "municipality": "Cabimas",
-      "coordinates": "10.370879, -71.412098"
-    },
-    {
       "ident": "SVCB",
       "type": "medium_airport",
       "name": "General Tomas de Heres Airport",
@@ -612,17 +591,6 @@
       "coordinates": "7.739999771118164, -68.23999786376953"
     },
     {
-      "ident": "SVCI",
-      "type": "closed",
-      "name": "Punta de Oro Airstrip",
-      "elevation_ft": 37.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-T",
-      "municipality": "La Ceiba",
-      "coordinates": "9.500339, -70.948704"
-    },
-    {
       "ident": "SVCJ",
       "type": "small_airport",
       "name": "San Carlos Airport",
@@ -683,17 +651,6 @@
       "gps_code": "SVCN",
       "iata_code": "CAJ",
       "coordinates": "6.231989, -62.85485"
-    },
-    {
-      "ident": "SVCO",
-      "type": "closed",
-      "name": "Carora Airport",
-      "elevation_ft": 1437.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-K",
-      "municipality": "Carora",
-      "coordinates": "10.175603, -70.065216"
     },
     {
       "ident": "SVCP",
@@ -1897,17 +1854,6 @@
       "iso_region": "VE-Z",
       "gps_code": "SVKN",
       "coordinates": "5.5, -65.61833190917969"
-    },
-    {
-      "ident": "SVKV",
-      "type": "closed",
-      "name": "Corral Viejo Airport",
-      "elevation_ft": 14.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-V",
-      "municipality": "La Bombita",
-      "coordinates": "9.668302, -70.969759"
     },
     {
       "ident": "SVLA",
@@ -3358,16 +3304,6 @@
       "coordinates": "8.393333435058594, -65.86666870117188"
     },
     {
-      "ident": "SVRF",
-      "type": "closed",
-      "name": "La Reforma Airport",
-      "elevation_ft": 500.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-J",
-      "coordinates": "9.119999885559999, -66.4233322144"
-    },
-    {
       "ident": "SVRG",
       "type": "small_airport",
       "name": "Rancho Grande de Apure Airport",
@@ -3662,16 +3598,6 @@
       "coordinates": "8.949999809265137, -68.08333587646484"
     },
     {
-      "ident": "SVSJ",
-      "type": "closed",
-      "name": "Central Bolívar Airport",
-      "elevation_ft": 39.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-V",
-      "coordinates": "8.935567, -71.952735"
-    },
-    {
       "ident": "SVSK",
       "type": "small_airport",
       "name": "Nuestra Señora del Socorro Airport",
@@ -3764,17 +3690,6 @@
       "gps_code": "SVSR",
       "iata_code": "SFD",
       "coordinates": "7.88332, -67.444"
-    },
-    {
-      "ident": "SVSS",
-      "type": "closed",
-      "name": "Hacienda San José Airport",
-      "elevation_ft": 98.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-T",
-      "municipality": "San José de Trujillo",
-      "coordinates": "9.454154, -71.042078"
     },
     {
       "ident": "SVST",
@@ -6693,6 +6608,91 @@
       "municipality": "El Tigre",
       "iata_code": "ELX",
       "coordinates": "8.833546, -64.20828"
+    },
+    {
+      "ident": "VE-0223",
+      "type": "closed",
+      "name": "Carora Airport",
+      "elevation_ft": 1437.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-K",
+      "municipality": "Carora",
+      "coordinates": "10.175603, -70.065216"
+    },
+    {
+      "ident": "VE-0224",
+      "type": "closed",
+      "name": "La Cabaña Airport",
+      "elevation_ft": 215.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-V",
+      "coordinates": "9.766667, -72.699997"
+    },
+    {
+      "ident": "VE-0225",
+      "type": "closed",
+      "name": "Punta de Oro Airstrip",
+      "elevation_ft": 37.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-T",
+      "municipality": "La Ceiba",
+      "coordinates": "9.500339, -70.948704"
+    },
+    {
+      "ident": "VE-0226",
+      "type": "closed",
+      "name": "Corral Viejo Airport",
+      "elevation_ft": 14.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-V",
+      "municipality": "La Bombita",
+      "coordinates": "9.668302, -70.969759"
+    },
+    {
+      "ident": "VE-0227",
+      "type": "closed",
+      "name": "La Reforma Airport",
+      "elevation_ft": 500.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "coordinates": "9.11999988556, -66.4233322144"
+    },
+    {
+      "ident": "VE-0228",
+      "type": "closed",
+      "name": "Central Bolívar Airport",
+      "elevation_ft": 39.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-V",
+      "coordinates": "8.935567, -71.952735"
+    },
+    {
+      "ident": "VE-0229",
+      "type": "closed",
+      "name": "Hacienda San José Airport",
+      "elevation_ft": 98.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-T",
+      "municipality": "San José de Trujillo",
+      "coordinates": "9.454154, -71.042078"
+    },
+    {
+      "ident": "VE-0230",
+      "type": "closed",
+      "name": "Cabimas Airport",
+      "elevation_ft": 65.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-V",
+      "municipality": "Cabimas",
+      "coordinates": "10.370879, -71.412098"
     }
   ]
 }

@@ -2,13 +2,13 @@
   "country_code": "IS",
   "country_name": "Iceland",
   "total_airports": 91,
-  "last_updated": "2025-02-27T00:08:24.413438",
+  "last_updated": "2025-02-28T00:08:11.686756",
   "types_distribution": {
     "small_airport": 73,
     "medium_airport": 8,
-    "closed": 8,
     "large_airport": 1,
-    "heliport": 1
+    "heliport": 1,
+    "closed": 8
   },
   "airports": [
     {
@@ -189,17 +189,6 @@
       "coordinates": "65.2833023071289, -14.401399612426758"
     },
     {
-      "ident": "BIEH",
-      "type": "closed",
-      "name": "Einholtsmelar Airport",
-      "elevation_ft": 361.0,
-      "continent": "EU",
-      "iso_country": "IS",
-      "iso_region": "IS-8",
-      "municipality": "Einholtsmelar",
-      "coordinates": "64.24533, -20.299587"
-    },
-    {
       "ident": "BIFF",
       "type": "small_airport",
       "name": "Fáskrúðsfjörður Airport",
@@ -248,17 +237,6 @@
       "municipality": "Forsæti",
       "gps_code": "BIFZ",
       "coordinates": "63.84816, -20.716267"
-    },
-    {
-      "ident": "BIGE",
-      "type": "closed",
-      "name": "Geysir Airport",
-      "elevation_ft": 350.0,
-      "continent": "EU",
-      "iso_country": "IS",
-      "iso_region": "IS-8",
-      "municipality": "Geysir",
-      "coordinates": "64.306592, -20.277114"
     },
     {
       "ident": "BIGF",
@@ -448,17 +426,6 @@
       "coordinates": "65.270241, -20.848696"
     },
     {
-      "ident": "BIHX",
-      "type": "closed",
-      "name": "Hrauneyjarfoss Airport",
-      "elevation_ft": 1200.0,
-      "continent": "EU",
-      "iso_country": "IS",
-      "iso_region": "IS-8",
-      "municipality": "Hrauneyjarfoss",
-      "coordinates": "64.204759, -19.264756"
-    },
-    {
       "ident": "BIHY",
       "type": "small_airport",
       "name": "Hrísey Airport",
@@ -618,17 +585,6 @@
       "municipality": "Melgerðismelar",
       "gps_code": "BIMM",
       "coordinates": "65.4832992553711, -18.16670036315918"
-    },
-    {
-      "ident": "BIMN",
-      "type": "closed",
-      "name": "Melanes Airport",
-      "elevation_ft": 148.0,
-      "continent": "EU",
-      "iso_country": "IS",
-      "iso_region": "IS-4",
-      "municipality": "Melanes",
-      "coordinates": "65.525829, -22.409813"
     },
     {
       "ident": "BIMS",
@@ -930,28 +886,6 @@
       "coordinates": "65.8703, -23.559999"
     },
     {
-      "ident": "BITF",
-      "type": "closed",
-      "name": "Tálknafjörður Airport",
-      "elevation_ft": 115.0,
-      "continent": "EU",
-      "iso_country": "IS",
-      "iso_region": "IS-4",
-      "municipality": "Tálknafjörður",
-      "coordinates": "65.676037, -24.006114"
-    },
-    {
-      "ident": "BITH",
-      "type": "closed",
-      "name": "Sauðanes Airport",
-      "elevation_ft": 15.0,
-      "continent": "EU",
-      "iso_country": "IS",
-      "iso_region": "IS-6",
-      "municipality": "Þórshöfn",
-      "coordinates": "66.251859, -15.273914"
-    },
-    {
       "ident": "BITM",
       "type": "small_airport",
       "name": "Þórsmörk Airport",
@@ -1123,6 +1057,72 @@
       "iso_country": "IS",
       "iso_region": "IS-2",
       "coordinates": "63.958584, -22.539807"
+    },
+    {
+      "ident": "IS-0008",
+      "type": "closed",
+      "name": "Einholtsmelar Airport",
+      "elevation_ft": 361.0,
+      "continent": "EU",
+      "iso_country": "IS",
+      "iso_region": "IS-8",
+      "municipality": "Einholtsmelar",
+      "coordinates": "64.24533, -20.299587"
+    },
+    {
+      "ident": "IS-0009",
+      "type": "closed",
+      "name": "Geysir Airport",
+      "elevation_ft": 350.0,
+      "continent": "EU",
+      "iso_country": "IS",
+      "iso_region": "IS-8",
+      "municipality": "Geysir",
+      "coordinates": "64.306592, -20.277114"
+    },
+    {
+      "ident": "IS-0010",
+      "type": "closed",
+      "name": "Hrauneyjarfoss Airport",
+      "elevation_ft": 1200.0,
+      "continent": "EU",
+      "iso_country": "IS",
+      "iso_region": "IS-8",
+      "municipality": "Hrauneyjarfoss",
+      "coordinates": "64.204759, -19.264756"
+    },
+    {
+      "ident": "IS-0011",
+      "type": "closed",
+      "name": "Melanes Airport",
+      "elevation_ft": 148.0,
+      "continent": "EU",
+      "iso_country": "IS",
+      "iso_region": "IS-4",
+      "municipality": "Melanes",
+      "coordinates": "65.525829, -22.409813"
+    },
+    {
+      "ident": "IS-0012",
+      "type": "closed",
+      "name": "Sauðanes Airport",
+      "elevation_ft": 15.0,
+      "continent": "EU",
+      "iso_country": "IS",
+      "iso_region": "IS-6",
+      "municipality": "Þórshöfn",
+      "coordinates": "66.251859, -15.273914"
+    },
+    {
+      "ident": "IS-0013",
+      "type": "closed",
+      "name": "Tálknafjörður Airport",
+      "elevation_ft": 115.0,
+      "continent": "EU",
+      "iso_country": "IS",
+      "iso_region": "IS-4",
+      "municipality": "Tálknafjörður",
+      "coordinates": "65.676037, -24.006114"
     }
   ]
 }

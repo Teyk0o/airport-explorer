@@ -1,14 +1,14 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 94,
-  "last_updated": "2025-02-27T00:08:24.648932",
+  "total_airports": 95,
+  "last_updated": "2025-02-28T00:08:11.922673",
   "types_distribution": {
     "small_airport": 16,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
-    "medium_airport": 22,
+    "medium_airport": 23,
     "large_airport": 2
   },
   "airports": [
@@ -610,7 +610,28 @@
       "coordinates": "53, 178"
     },
     {
-      "ident": "VN-KON",
+      "ident": "VN-0070",
+      "type": "closed",
+      "name": "Nha Trang Air Base",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-SCC",
+      "municipality": "Nha Trang",
+      "coordinates": "12.2275, 109.192001"
+    },
+    {
+      "ident": "VN-0071",
+      "type": "closed",
+      "name": "Phan Thiet Airport",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-SCC",
+      "municipality": "Phan Thiet",
+      "coordinates": "10.906204, 108.069008"
+    },
+    {
+      "ident": "VN-0072",
       "type": "closed",
       "name": "Kontum Airport",
       "elevation_ft": 1804.0,
@@ -619,6 +640,59 @@
       "iso_region": "VN-CH",
       "municipality": "Kontum",
       "coordinates": "14.356075, 108.016667"
+    },
+    {
+      "ident": "VN-0073",
+      "type": "closed",
+      "name": "Cam Ly Airport",
+      "elevation_ft": 4937.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-CH",
+      "coordinates": "11.950284, 108.411005"
+    },
+    {
+      "ident": "VN-0074",
+      "type": "closed",
+      "name": "Vinh Long Airfield",
+      "elevation_ft": 27.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-SW",
+      "municipality": "Vinh Long",
+      "coordinates": "10.2509, 105.9445"
+    },
+    {
+      "ident": "VN-0075",
+      "type": "closed",
+      "name": "Long Xuyên Airport",
+      "elevation_ft": 12.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-SW",
+      "municipality": "Long Xuyên",
+      "coordinates": "10.330134, 105.473144"
+    },
+    {
+      "ident": "VN-0076",
+      "type": "closed",
+      "name": "Quảng Ngãi Airfield",
+      "elevation_ft": 50.0,
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-SCC",
+      "municipality": "Quảng Ngãi",
+      "coordinates": "15.115474, 108.771816"
+    },
+    {
+      "ident": "VN-0077",
+      "type": "medium_airport",
+      "name": "8kbetwinme",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-NC",
+      "municipality": "Hồ Chí Minh",
+      "coordinates": "84, 78"
     },
     {
       "ident": "VV02",
@@ -680,16 +754,6 @@
       "gps_code": "VVCI",
       "iata_code": "HPH",
       "coordinates": "20.81686, 106.722994"
-    },
-    {
-      "ident": "VVCL",
-      "type": "closed",
-      "name": "Cam Ly Airport",
-      "elevation_ft": 4937.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-CH",
-      "coordinates": "11.950284, 108.411005"
     },
     {
       "ident": "VVCM",
@@ -846,17 +910,6 @@
       "coordinates": "21.215301, 104.032803"
     },
     {
-      "ident": "VVNT",
-      "type": "closed",
-      "name": "Nha Trang Air Base",
-      "elevation_ft": 20.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-SCC",
-      "municipality": "Nha Trang",
-      "coordinates": "12.2275, 109.192001"
-    },
-    {
       "ident": "VVPB",
       "type": "medium_airport",
       "name": "Phu Bai International Airport",
@@ -920,16 +973,6 @@
       "gps_code": "VVPR",
       "iata_code": "PHA",
       "coordinates": "11.6335, 108.952003"
-    },
-    {
-      "ident": "VVPT",
-      "type": "closed",
-      "name": "Phan Thiet Airport",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-SCC",
-      "municipality": "Phan Thiet",
-      "coordinates": "10.906204, 108.069008"
     },
     {
       "ident": "VVRG",
@@ -1021,39 +1064,6 @@
       "gps_code": "VVVT",
       "iata_code": "VTG",
       "coordinates": "10.375093, 107.096185"
-    },
-    {
-      "ident": "XLO",
-      "type": "closed",
-      "name": "Long Xuyên Airport",
-      "elevation_ft": 12.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-SW",
-      "municipality": "Long Xuyên",
-      "coordinates": "10.330134, 105.473144"
-    },
-    {
-      "ident": "XNG",
-      "type": "closed",
-      "name": "Quảng Ngãi Airfield",
-      "elevation_ft": 50.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-SCC",
-      "municipality": "Quảng Ngãi",
-      "coordinates": "15.115474, 108.771816"
-    },
-    {
-      "ident": "XVL",
-      "type": "closed",
-      "name": "Vinh Long Airfield",
-      "elevation_ft": 27.0,
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-SW",
-      "municipality": "Vinh Long",
-      "coordinates": "10.2509, 105.9445"
     }
   ]
 }

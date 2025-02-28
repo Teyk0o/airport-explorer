@@ -2,13 +2,13 @@
   "country_code": "PT",
   "country_name": "Portugal",
   "total_airports": 233,
-  "last_updated": "2025-02-27T00:08:24.603007",
+  "last_updated": "2025-02-28T00:08:11.874981",
   "types_distribution": {
     "small_airport": 97,
     "heliport": 65,
     "medium_airport": 26,
-    "closed": 40,
-    "large_airport": 5
+    "large_airport": 5,
+    "closed": 40
   },
   "airports": [
     {
@@ -247,17 +247,6 @@
       "coordinates": "38.724998, -9.35523"
     },
     {
-      "ident": "LPCV",
-      "type": "closed",
-      "name": "Covilhã Airfield",
-      "elevation_ft": 1572.0,
-      "continent": "EU",
-      "iso_country": "PT",
-      "iso_region": "PT-05",
-      "municipality": "Covilhã",
-      "coordinates": "40.264801, -7.47996"
-    },
-    {
       "ident": "LPDA",
       "type": "heliport",
       "name": "Porto Heliport",
@@ -415,17 +404,6 @@
       "municipality": "Leiria",
       "gps_code": "LPJF",
       "coordinates": "39.779907, -8.820238"
-    },
-    {
-      "ident": "LPJO",
-      "type": "closed",
-      "name": "Aerodromo de Alijó",
-      "elevation_ft": 2580.0,
-      "continent": "EU",
-      "iso_country": "PT",
-      "iso_region": "PT-17",
-      "municipality": "Alijó",
-      "coordinates": "41.327145, -7.457717"
     },
     {
       "ident": "LPLA",
@@ -609,17 +587,6 @@
       "coordinates": "39.469379, -8.537203"
     },
     {
-      "ident": "LPOT",
-      "type": "closed",
-      "name": "Ota Air Base",
-      "elevation_ft": 140.0,
-      "continent": "EU",
-      "iso_country": "PT",
-      "iso_region": "PT-11",
-      "municipality": "Alenquer",
-      "coordinates": "39.087502, -8.96278"
-    },
-    {
       "ident": "LPOV",
       "type": "medium_airport",
       "name": "Ovar Air Base",
@@ -778,15 +745,6 @@
       "municipality": "Torres Vedras",
       "gps_code": "LPSC",
       "coordinates": "39.124233, -9.379821"
-    },
-    {
-      "ident": "LPSI",
-      "type": "closed",
-      "name": "Sines Airport",
-      "continent": "EU",
-      "iso_country": "PT",
-      "iso_region": "PT-15",
-      "coordinates": "37.941692, -8.817301"
     },
     {
       "ident": "LPSJ",
@@ -2602,6 +2560,48 @@
       "iso_region": "PT-07",
       "municipality": "Estremoz",
       "coordinates": "38.824284, -7.60993"
+    },
+    {
+      "ident": "PT-0157",
+      "type": "closed",
+      "name": "Covilhã Airfield",
+      "elevation_ft": 1572.0,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-05",
+      "municipality": "Covilhã",
+      "coordinates": "40.264801, -7.47996"
+    },
+    {
+      "ident": "PT-0158",
+      "type": "closed",
+      "name": "Sines Airport",
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-15",
+      "coordinates": "37.941692, -8.817301"
+    },
+    {
+      "ident": "PT-0159",
+      "type": "closed",
+      "name": "Aerodromo de Alijó",
+      "elevation_ft": 2580.0,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-17",
+      "municipality": "Alijó",
+      "coordinates": "41.327145, -7.457717"
+    },
+    {
+      "ident": "PT-0160",
+      "type": "closed",
+      "name": "Ota Air Base",
+      "elevation_ft": 140.0,
+      "continent": "EU",
+      "iso_country": "PT",
+      "iso_region": "PT-11",
+      "municipality": "Alenquer",
+      "coordinates": "39.087502, -8.96278"
     }
   ]
 }

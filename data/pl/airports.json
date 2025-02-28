@@ -2,13 +2,13 @@
   "country_code": "PL",
   "country_name": "Poland",
   "total_airports": 383,
-  "last_updated": "2025-02-27T00:08:24.598807",
+  "last_updated": "2025-02-28T00:08:11.870751",
   "types_distribution": {
     "small_airport": 288,
     "heliport": 16,
-    "closed": 52,
     "medium_airport": 24,
-    "large_airport": 3
+    "large_airport": 3,
+    "closed": 52
   },
   "airports": [
     {
@@ -93,17 +93,6 @@
       "coordinates": "53.101398, 23.170601"
     },
     {
-      "ident": "EPBP",
-      "type": "closed",
-      "name": "Biała Podlaska Air Base",
-      "elevation_ft": 485.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-LU",
-      "municipality": "Biała Podlaska",
-      "coordinates": "52.00078, 23.132528"
-    },
-    {
       "ident": "EPBS",
       "type": "small_airport",
       "name": "Borne Sulinowo Airfield",
@@ -183,17 +172,6 @@
       "iso_region": "PL-LU",
       "gps_code": "EPDK",
       "coordinates": "51.6126, 23.0072"
-    },
-    {
-      "ident": "EPDR",
-      "type": "closed",
-      "name": "Drawsko Pomorskie Air Base",
-      "elevation_ft": 377.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-ZP",
-      "municipality": "Drawsko Pomorskie",
-      "coordinates": "53.477798, 15.7308"
     },
     {
       "ident": "EPDS",
@@ -279,17 +257,6 @@
       "coordinates": "54.00645, 21.81824"
     },
     {
-      "ident": "EPGO",
-      "type": "closed",
-      "name": "Góraszka Airport",
-      "elevation_ft": 361.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-MZ",
-      "municipality": "Sulejówek",
-      "coordinates": "52.184441, 21.281111"
-    },
-    {
       "ident": "EPGR",
       "type": "small_airport",
       "name": "Łańsk / Gryźliny Airfield",
@@ -357,17 +324,6 @@
       "iso_region": "PL-KP",
       "gps_code": "EPIR",
       "coordinates": "52.8293991089, 18.3306007385"
-    },
-    {
-      "ident": "EPIW",
-      "type": "closed",
-      "name": "Iwonicz Airfield",
-      "elevation_ft": 971.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-PK",
-      "municipality": "Pustyny",
-      "coordinates": "49.658461, 21.8155"
     },
     {
       "ident": "EPJA",
@@ -440,17 +396,6 @@
       "municipality": "Kazimierz Biskupi",
       "gps_code": "EPKB",
       "coordinates": "52.319549, 18.164322"
-    },
-    {
-      "ident": "EPKC",
-      "type": "closed",
-      "name": "Kraków Rakowice-Czyżyny Airport",
-      "elevation_ft": 732.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-MA",
-      "municipality": "Kraków",
-      "coordinates": "50.084353, 19.99031"
     },
     {
       "ident": "EPKD",
@@ -620,17 +565,6 @@
       "coordinates": "51.240157, 22.713461"
     },
     {
-      "ident": "EPLE",
-      "type": "closed",
-      "name": "Legnica Airport",
-      "elevation_ft": 407.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-DS",
-      "municipality": "Legnica",
-      "coordinates": "51.1828, 16.1782"
-    },
-    {
       "ident": "EPLK",
       "type": "medium_airport",
       "name": "Łask Air Base",
@@ -724,17 +658,6 @@
       "municipality": "Mirosławiec",
       "gps_code": "EPMI",
       "coordinates": "53.3951, 16.0828"
-    },
-    {
-      "ident": "EPMJ",
-      "type": "closed",
-      "name": "Mikołajki Airport",
-      "elevation_ft": 423.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-WN",
-      "municipality": "Mikołajki",
-      "coordinates": "53.807781, 21.55583"
     },
     {
       "ident": "EPML",
@@ -1382,17 +1305,6 @@
       "municipality": "Zdziar Wielki",
       "gps_code": "EPZL",
       "coordinates": "52.63547, 20.07036"
-    },
-    {
-      "ident": "EPZN",
-      "type": "closed",
-      "name": "Żagań-Tomaszowo Air Base",
-      "elevation_ft": 459.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-LB",
-      "municipality": "Tomaszowo",
-      "coordinates": "51.627499, 15.4083"
     },
     {
       "ident": "EPZP",
@@ -4211,6 +4123,94 @@
       "iso_region": "PL-PM",
       "municipality": "Redzikowo",
       "coordinates": "54.478901, 17.1075"
+    },
+    {
+      "ident": "PL-0265",
+      "type": "closed",
+      "name": "Legnica Airport",
+      "elevation_ft": 407.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-DS",
+      "municipality": "Legnica",
+      "coordinates": "51.1828, 16.1782"
+    },
+    {
+      "ident": "PL-0266",
+      "type": "closed",
+      "name": "Iwonicz Airfield",
+      "elevation_ft": 971.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-PK",
+      "municipality": "Pustyny",
+      "coordinates": "49.658461, 21.8155"
+    },
+    {
+      "ident": "PL-0267",
+      "type": "closed",
+      "name": "Biała Podlaska Air Base",
+      "elevation_ft": 485.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-LU",
+      "municipality": "Biała Podlaska",
+      "coordinates": "52.00078, 23.132528"
+    },
+    {
+      "ident": "PL-0268",
+      "type": "closed",
+      "name": "Drawsko Pomorskie Air Base",
+      "elevation_ft": 377.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-ZP",
+      "municipality": "Drawsko Pomorskie",
+      "coordinates": "53.477798, 15.7308"
+    },
+    {
+      "ident": "PL-0269",
+      "type": "closed",
+      "name": "Żagań-Tomaszowo Air Base",
+      "elevation_ft": 459.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-LB",
+      "municipality": "Tomaszowo",
+      "coordinates": "51.627499, 15.4083"
+    },
+    {
+      "ident": "PL-0270",
+      "type": "closed",
+      "name": "Góraszka Airport",
+      "elevation_ft": 361.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-MZ",
+      "municipality": "Sulejówek",
+      "coordinates": "52.184441, 21.281111"
+    },
+    {
+      "ident": "PL-0271",
+      "type": "closed",
+      "name": "Mikołajki Airport",
+      "elevation_ft": 423.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-WN",
+      "municipality": "Mikołajki",
+      "coordinates": "53.807781, 21.55583"
+    },
+    {
+      "ident": "PL-0272",
+      "type": "closed",
+      "name": "Kraków Rakowice-Czyżyny Airport",
+      "elevation_ft": 732.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-MA",
+      "municipality": "Kraków",
+      "coordinates": "50.084353, 19.99031"
     }
   ]
 }

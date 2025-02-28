@@ -2,7 +2,7 @@
   "country_code": "ET",
   "country_name": "Ethiopia",
   "total_airports": 66,
-  "last_updated": "2025-02-27T00:08:24.607491",
+  "last_updated": "2025-02-28T00:08:11.879445",
   "types_distribution": {
     "closed": 7,
     "small_airport": 43,
@@ -105,6 +105,50 @@
       "iso_region": "ET-AM",
       "municipality": "Dessie",
       "coordinates": "11.0825, 39.711399"
+    },
+    {
+      "ident": "ET-0011",
+      "type": "closed",
+      "name": "Masslo Airport",
+      "elevation_ft": 4180.0,
+      "continent": "AF",
+      "iso_country": "ET",
+      "iso_region": "ET-OR",
+      "municipality": "Masslo",
+      "coordinates": "6.408491, 39.722443"
+    },
+    {
+      "ident": "ET-0012",
+      "type": "closed",
+      "name": "Waca Airport",
+      "elevation_ft": 4200.0,
+      "continent": "AF",
+      "iso_country": "ET",
+      "iso_region": "ET-SW",
+      "municipality": "Waca",
+      "coordinates": "7.167, 37.167"
+    },
+    {
+      "ident": "ET-0013",
+      "type": "closed",
+      "name": "Degah Bur Airport",
+      "elevation_ft": 3550.0,
+      "continent": "AF",
+      "iso_country": "ET",
+      "iso_region": "ET-SO",
+      "municipality": "Degah Bur",
+      "coordinates": "8.234, 43.5673"
+    },
+    {
+      "ident": "ET-0014",
+      "type": "closed",
+      "name": "Buno Bedelle Airport",
+      "elevation_ft": 6560.0,
+      "continent": "AF",
+      "iso_country": "ET",
+      "iso_region": "ET-OR",
+      "municipality": "Bedelle",
+      "coordinates": "8.447604, 36.341035"
     },
     {
       "ident": "ET-GLC",
@@ -233,17 +277,6 @@
       "gps_code": "HABE",
       "iata_code": "BEI",
       "coordinates": "9.38639, 34.5219"
-    },
-    {
-      "ident": "HADB",
-      "type": "closed",
-      "name": "Degah Bur Airport",
-      "elevation_ft": 3550.0,
-      "continent": "AF",
-      "iso_country": "ET",
-      "iso_region": "ET-SO",
-      "municipality": "Degah Bur",
-      "coordinates": "8.234, 43.5673"
     },
     {
       "ident": "HADC",
@@ -567,17 +600,6 @@
       "coordinates": "13.4674, 39.533501"
     },
     {
-      "ident": "HAML",
-      "type": "closed",
-      "name": "Masslo Airport",
-      "elevation_ft": 4180.0,
-      "continent": "AF",
-      "iso_country": "ET",
-      "iso_region": "ET-OR",
-      "municipality": "Masslo",
-      "coordinates": "6.408491, 39.722443"
-    },
-    {
       "ident": "HAMM",
       "type": "small_airport",
       "name": "Metema Airport",
@@ -772,17 +794,6 @@
       "coordinates": "7.2024, 35.415"
     },
     {
-      "ident": "HAWC",
-      "type": "closed",
-      "name": "Waca Airport",
-      "elevation_ft": 4200.0,
-      "continent": "AF",
-      "iso_country": "ET",
-      "iso_region": "ET-SW",
-      "municipality": "Waca",
-      "coordinates": "7.167, 37.167"
-    },
-    {
       "ident": "HAWR",
       "type": "small_airport",
       "name": "Warder Airport",
@@ -818,17 +829,6 @@
       "municipality": "Tum",
       "iata_code": "TUJ",
       "coordinates": "6.26, 35.5184"
-    },
-    {
-      "ident": "XBL",
-      "type": "closed",
-      "name": "Buno Bedelle Airport",
-      "elevation_ft": 6560.0,
-      "continent": "AF",
-      "iso_country": "ET",
-      "iso_region": "ET-OR",
-      "municipality": "Bedelle",
-      "coordinates": "8.447604, 36.341035"
     }
   ]
 }

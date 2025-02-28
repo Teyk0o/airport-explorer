@@ -2,7 +2,7 @@
   "country_code": "UG",
   "country_name": "Uganda",
   "total_airports": 41,
-  "last_updated": "2025-02-27T00:08:24.661933",
+  "last_updated": "2025-02-28T00:08:11.935650",
   "types_distribution": {
     "small_airport": 35,
     "medium_airport": 3,
@@ -121,17 +121,6 @@
       "iso_region": "UG-W",
       "gps_code": "HUKB",
       "coordinates": "-1.226111, 29.96"
-    },
-    {
-      "ident": "HUKC",
-      "type": "closed",
-      "name": "Kololo Airstrip",
-      "elevation_ft": 3939.0,
-      "continent": "AF",
-      "iso_country": "UG",
-      "iso_region": "UG-C",
-      "municipality": "Kampala",
-      "coordinates": "0.3262, 32.594"
     },
     {
       "ident": "HUKD",
@@ -479,6 +468,17 @@
       "iso_region": "UG-W",
       "municipality": "Kyabuyorwa",
       "coordinates": "-0.862163, 29.639553"
+    },
+    {
+      "ident": "UG-0017",
+      "type": "closed",
+      "name": "Kololo Airstrip",
+      "elevation_ft": 3939.0,
+      "continent": "AF",
+      "iso_country": "UG",
+      "iso_region": "UG-C",
+      "municipality": "Kampala",
+      "coordinates": "0.3262, 32.594"
     },
     {
       "ident": "UG-OYG",

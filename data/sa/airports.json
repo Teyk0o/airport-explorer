@@ -2,7 +2,7 @@
   "country_code": "SA",
   "country_name": "Saudi Arabia",
   "total_airports": 167,
-  "last_updated": "2025-02-27T00:08:24.318211",
+  "last_updated": "2025-02-28T00:08:11.581087",
   "types_distribution": {
     "small_airport": 52,
     "medium_airport": 33,
@@ -322,28 +322,6 @@
       "gps_code": "OEDR",
       "iata_code": "DHA",
       "coordinates": "26.2654, 50.152"
-    },
-    {
-      "ident": "OEDW",
-      "type": "closed",
-      "name": "Dawadmi Domestic Airport",
-      "elevation_ft": 3429.0,
-      "continent": "AS",
-      "iso_country": "SA",
-      "iso_region": "SA-01",
-      "municipality": "Dawadmi",
-      "coordinates": "24.5, 44.400002"
-    },
-    {
-      "ident": "OEGH",
-      "type": "closed",
-      "name": "Al Ghat Airport",
-      "elevation_ft": 2509.0,
-      "continent": "AS",
-      "iso_country": "SA",
-      "iso_region": "SA-01",
-      "municipality": "Al Ghat",
-      "coordinates": "26.026479, 44.959166"
     },
     {
       "ident": "OEGN",
@@ -1894,6 +1872,28 @@
       "iso_country": "SA",
       "iso_region": "SA-07",
       "coordinates": "28.145526, 34.662163"
+    },
+    {
+      "ident": "SA-0091",
+      "type": "closed",
+      "name": "Dawadmi Domestic Airport",
+      "elevation_ft": 3429.0,
+      "continent": "AS",
+      "iso_country": "SA",
+      "iso_region": "SA-01",
+      "municipality": "Dawadmi",
+      "coordinates": "24.5, 44.400002"
+    },
+    {
+      "ident": "SA-0092",
+      "type": "closed",
+      "name": "Al Ghat Airport",
+      "elevation_ft": 2509.0,
+      "continent": "AS",
+      "iso_country": "SA",
+      "iso_region": "SA-01",
+      "municipality": "Al Ghat",
+      "coordinates": "26.026479, 44.959166"
     }
   ]
 }

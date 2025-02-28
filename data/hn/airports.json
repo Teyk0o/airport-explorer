@@ -2,7 +2,7 @@
   "country_code": "HN",
   "country_name": "Honduras",
   "total_airports": 159,
-  "last_updated": "2025-02-27T00:08:24.647408",
+  "last_updated": "2025-02-28T00:08:11.921133",
   "types_distribution": {
     "small_airport": 121,
     "closed": 24,
@@ -83,7 +83,7 @@
       "coordinates": "16.4943, -85.865868"
     },
     {
-      "ident": "HN-MIG",
+      "ident": "HN-0008",
       "type": "closed",
       "name": "Higuerito Central Airport",
       "elevation_ft": 131.0,
@@ -91,6 +91,215 @@
       "iso_region": "HN-CR",
       "municipality": "Higuerito",
       "coordinates": "15.188333, -87.938614"
+    },
+    {
+      "ident": "HN-0009",
+      "type": "closed",
+      "name": "Amapala Airport",
+      "elevation_ft": 40.0,
+      "iso_country": "HN",
+      "iso_region": "HN-VA",
+      "municipality": "Amapala",
+      "coordinates": "13.283075, -87.617362"
+    },
+    {
+      "ident": "HN-0010",
+      "type": "closed",
+      "name": "Alas del Socorro Airport",
+      "elevation_ft": 1068.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CM",
+      "municipality": "Siguatepeque",
+      "coordinates": "14.593056, -87.840553"
+    },
+    {
+      "ident": "HN-0011",
+      "type": "closed",
+      "name": "Comayagua Airport",
+      "elevation_ft": 1980.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CM",
+      "municipality": "Comayagua",
+      "coordinates": "14.432799, -87.625596"
+    },
+    {
+      "ident": "HN-0012",
+      "type": "closed",
+      "name": "Colon Airport",
+      "elevation_ft": 1240.0,
+      "iso_country": "HN",
+      "iso_region": "HN-LP",
+      "municipality": "Marcala",
+      "coordinates": "14.161944, -88.034447"
+    },
+    {
+      "ident": "HN-0013",
+      "type": "closed",
+      "name": "Finca 12 Airport",
+      "elevation_ft": 116.0,
+      "iso_country": "HN",
+      "iso_region": "HN-YO",
+      "municipality": "Agua Blanca",
+      "coordinates": "15.269722, -87.902779"
+    },
+    {
+      "ident": "HN-0014",
+      "type": "closed",
+      "name": "Santiago de Puringla Airport",
+      "elevation_ft": 960.0,
+      "iso_country": "HN",
+      "iso_region": "HN-LP",
+      "municipality": "Santiago de Puringla",
+      "coordinates": "14.3675, -87.911392"
+    },
+    {
+      "ident": "HN-0015",
+      "type": "closed",
+      "name": "Izapan Airport",
+      "elevation_ft": 8.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CL",
+      "municipality": "La Puerta",
+      "coordinates": "15.910278, -85.171112"
+    },
+    {
+      "ident": "HN-0016",
+      "type": "closed",
+      "name": "Jocón Airport",
+      "elevation_ft": 490.0,
+      "iso_country": "HN",
+      "iso_region": "HN-YO",
+      "municipality": "Jocón",
+      "coordinates": "15.290556, -86.912224"
+    },
+    {
+      "ident": "HN-0017",
+      "type": "closed",
+      "name": "Las Vegas Airport",
+      "elevation_ft": 870.0,
+      "iso_country": "HN",
+      "iso_region": "HN-SB",
+      "municipality": "Las Vegas",
+      "coordinates": "14.874575, -88.07353"
+    },
+    {
+      "ident": "HN-0018",
+      "type": "closed",
+      "name": "Las Minitas Airport",
+      "elevation_ft": 2500.0,
+      "iso_country": "HN",
+      "iso_region": "HN-YO",
+      "municipality": "Vallecillo",
+      "coordinates": "15.051111, -87.246666"
+    },
+    {
+      "ident": "HN-0019",
+      "type": "closed",
+      "name": "San Antonio de Malera Airport",
+      "elevation_ft": 670.0,
+      "iso_country": "HN",
+      "iso_region": "HN-SB",
+      "municipality": "San Antonio de Malera",
+      "coordinates": "14.674313, -88.257208"
+    },
+    {
+      "ident": "HN-0020",
+      "type": "closed",
+      "name": "Ciudad Nacaome Airport",
+      "elevation_ft": 35.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CH",
+      "municipality": "Nacaome",
+      "coordinates": "13.528624, -87.500095"
+    },
+    {
+      "ident": "HN-0021",
+      "type": "closed",
+      "name": "Payasito Airport",
+      "elevation_ft": 5.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CL",
+      "municipality": "Farallones",
+      "coordinates": "15.875833, -85.396942"
+    },
+    {
+      "ident": "HN-0022",
+      "type": "closed",
+      "name": "Santa Rosa de Copán Airport",
+      "elevation_ft": 3564.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CP",
+      "municipality": "Santa Rosa de Copán",
+      "coordinates": "14.777889, -88.775021"
+    },
+    {
+      "ident": "HN-0023",
+      "type": "closed",
+      "name": "Santa Bárbara Airport",
+      "iso_country": "HN",
+      "iso_region": "HN-SB",
+      "municipality": "Santa Bárbara",
+      "coordinates": "14.94024, -88.24115"
+    },
+    {
+      "ident": "HN-0024",
+      "type": "closed",
+      "name": "Santa Maria Airport",
+      "elevation_ft": 1151.0,
+      "iso_country": "HN",
+      "iso_region": "HN-LP",
+      "municipality": "Santa María",
+      "coordinates": "14.287174, -87.937167"
+    },
+    {
+      "ident": "HN-0025",
+      "type": "closed",
+      "name": "Guanacastal Airport",
+      "elevation_ft": 1563.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CR",
+      "municipality": "Canchias",
+      "coordinates": "14.915556, -87.833336"
+    },
+    {
+      "ident": "HN-0026",
+      "type": "closed",
+      "name": "La Unión Airport",
+      "elevation_ft": 1000.0,
+      "iso_country": "HN",
+      "iso_region": "HN-LE",
+      "municipality": "La Unión",
+      "coordinates": "14.80786, -88.41691"
+    },
+    {
+      "ident": "HN-0027",
+      "type": "closed",
+      "name": "Villa Guadalupe Airport",
+      "elevation_ft": 1312.0,
+      "iso_country": "HN",
+      "iso_region": "HN-SB",
+      "municipality": "Villa Guadalupe",
+      "coordinates": "15.045979, -88.308041"
+    },
+    {
+      "ident": "HN-0028",
+      "type": "closed",
+      "name": "Trojes Airport",
+      "elevation_ft": 170.0,
+      "iso_country": "HN",
+      "iso_region": "HN-YO",
+      "municipality": "Trojes",
+      "coordinates": "15.404218, -86.682687"
+    },
+    {
+      "ident": "HN-0029",
+      "type": "closed",
+      "name": "Puerto Castilla Airport",
+      "elevation_ft": 7.0,
+      "iso_country": "HN",
+      "iso_region": "HN-CL",
+      "municipality": "Puerto Castilla",
+      "coordinates": "16.008354, -85.968149"
     },
     {
       "ident": "HN-MOP",
@@ -201,16 +410,6 @@
       "coordinates": "14.493332862854004, -87.10639190673828"
     },
     {
-      "ident": "MHAM",
-      "type": "closed",
-      "name": "Amapala Airport",
-      "elevation_ft": 40.0,
-      "iso_country": "HN",
-      "iso_region": "HN-VA",
-      "municipality": "Amapala",
-      "coordinates": "13.283075, -87.617362"
-    },
-    {
       "ident": "MHAN",
       "type": "small_airport",
       "name": "San Luis Airport",
@@ -242,16 +441,6 @@
       "municipality": "Archaga",
       "gps_code": "MHAR",
       "coordinates": "14.2852783203125, -87.22916412353516"
-    },
-    {
-      "ident": "MHAS",
-      "type": "closed",
-      "name": "Alas del Socorro Airport",
-      "elevation_ft": 1068.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CM",
-      "municipality": "Siguatepeque",
-      "coordinates": "14.593056, -87.840553"
     },
     {
       "ident": "MHAU",
@@ -353,16 +542,6 @@
       "coordinates": "14.026666641199999, -88.3441696167"
     },
     {
-      "ident": "MHCG",
-      "type": "closed",
-      "name": "Comayagua Airport",
-      "elevation_ft": 1980.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CM",
-      "municipality": "Comayagua",
-      "coordinates": "14.432799, -87.625596"
-    },
-    {
       "ident": "MHCI",
       "type": "small_airport",
       "name": "Chiquerito Airport",
@@ -372,16 +551,6 @@
       "municipality": "Chiquerito",
       "gps_code": "MHCI",
       "coordinates": "15.831944465637207, -85.02694702148438"
-    },
-    {
-      "ident": "MHCL",
-      "type": "closed",
-      "name": "Colon Airport",
-      "elevation_ft": 1240.0,
-      "iso_country": "HN",
-      "iso_region": "HN-LP",
-      "municipality": "Marcala",
-      "coordinates": "14.161944, -88.034447"
     },
     {
       "ident": "MHCM",
@@ -438,16 +607,6 @@
       "gps_code": "MHCS",
       "iata_code": "CYL",
       "coordinates": "15.445556, -86.675278"
-    },
-    {
-      "ident": "MHCT",
-      "type": "closed",
-      "name": "Puerto Castilla Airport",
-      "elevation_ft": 7.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CL",
-      "municipality": "Puerto Castilla",
-      "coordinates": "16.008354, -85.968149"
     },
     {
       "ident": "MHCU",
@@ -561,16 +720,6 @@
       "coordinates": "16.403823, -86.286635"
     },
     {
-      "ident": "MHFD",
-      "type": "closed",
-      "name": "Finca 12 Airport",
-      "elevation_ft": 116.0,
-      "iso_country": "HN",
-      "iso_region": "HN-YO",
-      "municipality": "Agua Blanca",
-      "coordinates": "15.269722, -87.902779"
-    },
-    {
       "ident": "MHFN",
       "type": "small_airport",
       "name": "San Fernando Airport",
@@ -625,16 +774,6 @@
       "gps_code": "MHGE",
       "iata_code": "CAA",
       "coordinates": "14.875, -85.776108"
-    },
-    {
-      "ident": "MHGG",
-      "type": "closed",
-      "name": "Santiago de Puringla Airport",
-      "elevation_ft": 960.0,
-      "iso_country": "HN",
-      "iso_region": "HN-LP",
-      "municipality": "Santiago de Puringla",
-      "coordinates": "14.3675, -87.911392"
     },
     {
       "ident": "MHGR",
@@ -747,26 +886,6 @@
       "gps_code": "MHIR",
       "iata_code": "IRN",
       "coordinates": "15.939167022700001, -85.13722229"
-    },
-    {
-      "ident": "MHIZ",
-      "type": "closed",
-      "name": "Izapan Airport",
-      "elevation_ft": 8.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CL",
-      "municipality": "La Puerta",
-      "coordinates": "15.910278, -85.171112"
-    },
-    {
-      "ident": "MHJC",
-      "type": "closed",
-      "name": "Jocón Airport",
-      "elevation_ft": 490.0,
-      "iso_country": "HN",
-      "iso_region": "HN-YO",
-      "municipality": "Jocón",
-      "coordinates": "15.290556, -86.912224"
     },
     {
       "ident": "MHJE",
@@ -981,16 +1100,6 @@
       "coordinates": "15.133798, -88.442409"
     },
     {
-      "ident": "MHLV",
-      "type": "closed",
-      "name": "Las Vegas Airport",
-      "elevation_ft": 870.0,
-      "iso_country": "HN",
-      "iso_region": "HN-SB",
-      "municipality": "Las Vegas",
-      "coordinates": "14.874575, -88.07353"
-    },
-    {
       "ident": "MHLZ",
       "type": "small_airport",
       "name": "La Estanzuela Airport",
@@ -1013,16 +1122,6 @@
       "coordinates": "14.866666793823242, -88.75833129882812"
     },
     {
-      "ident": "MHMI",
-      "type": "closed",
-      "name": "Las Minitas Airport",
-      "elevation_ft": 2500.0,
-      "iso_country": "HN",
-      "iso_region": "HN-YO",
-      "municipality": "Vallecillo",
-      "coordinates": "15.051111, -87.246666"
-    },
-    {
       "ident": "MHML",
       "type": "small_airport",
       "name": "Monte Libano Airport",
@@ -1032,16 +1131,6 @@
       "municipality": "Monte Líbano",
       "gps_code": "MHML",
       "coordinates": "13.179444313049316, -87.18555450439453"
-    },
-    {
-      "ident": "MHMM",
-      "type": "closed",
-      "name": "San Antonio de Malera Airport",
-      "elevation_ft": 670.0,
-      "iso_country": "HN",
-      "iso_region": "HN-SB",
-      "municipality": "San Antonio de Malera",
-      "coordinates": "14.674313, -88.257208"
     },
     {
       "ident": "MHMN",
@@ -1097,16 +1186,6 @@
       "municipality": "Manto",
       "gps_code": "MHMT",
       "coordinates": "14.915555953979492, -86.38166809082031"
-    },
-    {
-      "ident": "MHNA",
-      "type": "closed",
-      "name": "Ciudad Nacaome Airport",
-      "elevation_ft": 35.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CH",
-      "municipality": "Nacaome",
-      "coordinates": "13.528624, -87.500095"
     },
     {
       "ident": "MHNB",
@@ -1255,16 +1334,6 @@
       "coordinates": "15.530278, -86.273613"
     },
     {
-      "ident": "MHPY",
-      "type": "closed",
-      "name": "Payasito Airport",
-      "elevation_ft": 5.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CL",
-      "municipality": "Farallones",
-      "coordinates": "15.875833, -85.396942"
-    },
-    {
       "ident": "MHRA",
       "type": "small_airport",
       "name": "Rapaco II Airport",
@@ -1328,16 +1397,6 @@
       "municipality": "Rus Rus",
       "gps_code": "MHRR",
       "coordinates": "14.713055610656738, -84.45249938964844"
-    },
-    {
-      "ident": "MHRS",
-      "type": "closed",
-      "name": "Santa Rosa de Copán Airport",
-      "elevation_ft": 3564.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CP",
-      "municipality": "Santa Rosa de Copán",
-      "coordinates": "14.777889, -88.775021"
     },
     {
       "ident": "MHRU",
@@ -1429,15 +1488,6 @@
       "coordinates": "15.183610916137695, -84.36972045898438"
     },
     {
-      "ident": "MHSZ",
-      "type": "closed",
-      "name": "Santa Bárbara Airport",
-      "iso_country": "HN",
-      "iso_region": "HN-SB",
-      "municipality": "Santa Bárbara",
-      "coordinates": "14.94024, -88.24115"
-    },
-    {
       "ident": "MHTA",
       "type": "small_airport",
       "name": "Tamara Airport",
@@ -1507,16 +1557,6 @@
       "coordinates": "15.926599, -85.938573"
     },
     {
-      "ident": "MHTM",
-      "type": "closed",
-      "name": "Santa Maria Airport",
-      "elevation_ft": 1151.0,
-      "iso_country": "HN",
-      "iso_region": "HN-LP",
-      "municipality": "Santa María",
-      "coordinates": "14.287174, -87.937167"
-    },
-    {
       "ident": "MHTO",
       "type": "small_airport",
       "name": "Tocoa Airport",
@@ -1540,16 +1580,6 @@
       "coordinates": "14.93722152709961, -83.84416961669922"
     },
     {
-      "ident": "MHUG",
-      "type": "closed",
-      "name": "Guanacastal Airport",
-      "elevation_ft": 1563.0,
-      "iso_country": "HN",
-      "iso_region": "HN-CR",
-      "municipality": "Canchias",
-      "coordinates": "14.915556, -87.833336"
-    },
-    {
       "ident": "MHUH",
       "type": "small_airport",
       "name": "Uhi Airport",
@@ -1571,16 +1601,6 @@
       "gps_code": "MHUL",
       "iata_code": "SCD",
       "coordinates": "14.90719985961914, -87.26339721679688"
-    },
-    {
-      "ident": "MHUO",
-      "type": "closed",
-      "name": "La Unión Airport",
-      "elevation_ft": 1000.0,
-      "iso_country": "HN",
-      "iso_region": "HN-LE",
-      "municipality": "La Unión",
-      "coordinates": "14.80786, -88.41691"
     },
     {
       "ident": "MHUT",
@@ -1615,16 +1635,6 @@
       "municipality": "Coyolillo",
       "gps_code": "MHVE",
       "coordinates": "14.230278015136719, -88.79944610595703"
-    },
-    {
-      "ident": "MHVG",
-      "type": "closed",
-      "name": "Villa Guadalupe Airport",
-      "elevation_ft": 1312.0,
-      "iso_country": "HN",
-      "iso_region": "HN-SB",
-      "municipality": "Villa Guadalupe",
-      "coordinates": "15.045979, -88.308041"
     },
     {
       "ident": "MHWA",
@@ -1725,16 +1735,6 @@
       "municipality": "Azacualpa",
       "gps_code": "MHZA",
       "coordinates": "14.256943702697754, -88.39250183105469"
-    },
-    {
-      "ident": "MTRH",
-      "type": "closed",
-      "name": "Trojes Airport",
-      "elevation_ft": 170.0,
-      "iso_country": "HN",
-      "iso_region": "HN-YO",
-      "municipality": "Trojes",
-      "coordinates": "15.404218, -86.682687"
     },
     {
       "ident": "VTA",

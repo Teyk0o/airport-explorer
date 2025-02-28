@@ -2,7 +2,7 @@
   "country_code": "GR",
   "country_name": "Greece",
   "total_airports": 160,
-  "last_updated": "2025-02-27T00:08:24.642072",
+  "last_updated": "2025-02-28T00:08:11.915782",
   "types_distribution": {
     "small_airport": 54,
     "closed": 19,
@@ -1012,7 +1012,7 @@
       "coordinates": "40.39241, 20.83668"
     },
     {
-      "ident": "LG53",
+      "ident": "GR-0095",
       "type": "closed",
       "name": "Lamia Air Base",
       "elevation_ft": 38.0,
@@ -1021,6 +1021,72 @@
       "iso_region": "GR-H",
       "municipality": "Lamia",
       "coordinates": "38.874599, 22.434999"
+    },
+    {
+      "ident": "GR-0096",
+      "type": "closed",
+      "name": "Agrinion Air Base",
+      "elevation_ft": 154.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-G",
+      "municipality": "Agrinion",
+      "coordinates": "38.602001, 21.3512"
+    },
+    {
+      "ident": "GR-0097",
+      "type": "closed",
+      "name": "Stefanovikio Air Base",
+      "elevation_ft": 146.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-E",
+      "municipality": "Rigas Feraios",
+      "coordinates": "39.478521, 22.769105"
+    },
+    {
+      "ident": "GR-0098",
+      "type": "closed",
+      "name": "Athens Hellenikon International Airport",
+      "elevation_ft": 69.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-I",
+      "municipality": "Athens",
+      "coordinates": "37.89162, 23.730211"
+    },
+    {
+      "ident": "GR-0099",
+      "type": "closed",
+      "name": "Marathon Wasser Airport",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-I",
+      "municipality": "Marathon",
+      "coordinates": "38.143902, 24.0128"
+    },
+    {
+      "ident": "GR-0100",
+      "type": "closed",
+      "name": "Porto Cheli Airport",
+      "elevation_ft": 69.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-J",
+      "municipality": "Porto Cheli",
+      "coordinates": "37.29891, 23.148923"
+    },
+    {
+      "ident": "GR-0101",
+      "type": "closed",
+      "name": "Volos Army Airport",
+      "elevation_ft": 112.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-E",
+      "municipality": "Volos",
+      "coordinates": "39.3838996887, 22.9174003601"
     },
     {
       "ident": "LG54",
@@ -1070,17 +1136,6 @@
       "coordinates": "37.9207, 21.292601"
     },
     {
-      "ident": "LGAG",
-      "type": "closed",
-      "name": "Agrinion Air Base",
-      "elevation_ft": 154.0,
-      "continent": "EU",
-      "iso_country": "GR",
-      "iso_region": "GR-G",
-      "municipality": "Agrinion",
-      "coordinates": "38.602001, 21.3512"
-    },
-    {
       "ident": "LGAL",
       "type": "medium_airport",
       "name": "Alexandroupoli Democritus Airport",
@@ -1104,17 +1159,6 @@
       "municipality": "Salamis Island",
       "gps_code": "LGAM",
       "coordinates": "37.97159957885742, 23.530399322509766"
-    },
-    {
-      "ident": "LGAT",
-      "type": "closed",
-      "name": "Athens Hellenikon International Airport",
-      "elevation_ft": 69.0,
-      "continent": "EU",
-      "iso_country": "GR",
-      "iso_region": "GR-I",
-      "municipality": "Athens",
-      "coordinates": "37.89162, 23.730211"
     },
     {
       "ident": "LGAV",
@@ -1190,17 +1234,6 @@
       "gps_code": "LGHI",
       "iata_code": "JKH",
       "coordinates": "38.34320068359375, 26.140600204467773"
-    },
-    {
-      "ident": "LGHL",
-      "type": "closed",
-      "name": "Porto Cheli Airport",
-      "elevation_ft": 69.0,
-      "continent": "EU",
-      "iso_country": "GR",
-      "iso_region": "GR-J",
-      "municipality": "Porto Cheli",
-      "coordinates": "37.29891, 23.148923"
     },
     {
       "ident": "LGIK",
@@ -1511,17 +1544,6 @@
       "coordinates": "36.696899, 24.4769"
     },
     {
-      "ident": "LGMR",
-      "type": "closed",
-      "name": "Marathon Wasser Airport",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "GR",
-      "iso_region": "GR-I",
-      "municipality": "Marathon",
-      "coordinates": "38.143902, 24.0128"
-    },
-    {
       "ident": "LGMT",
       "type": "medium_airport",
       "name": "Mytilene International Airport",
@@ -1728,17 +1750,6 @@
       "coordinates": "35.21609878540039, 26.101299285888672"
     },
     {
-      "ident": "LGSV",
-      "type": "closed",
-      "name": "Stefanovikio Air Base",
-      "elevation_ft": 146.0,
-      "continent": "EU",
-      "iso_country": "GR",
-      "iso_region": "GR-E",
-      "municipality": "Rigas Feraios",
-      "coordinates": "39.478521, 22.769105"
-    },
-    {
       "ident": "LGSY",
       "type": "small_airport",
       "name": "Skiros Airport",
@@ -1811,17 +1822,6 @@
       "municipality": "Tatoi",
       "gps_code": "LGTT",
       "coordinates": "38.108898, 23.7838"
-    },
-    {
-      "ident": "LGVO",
-      "type": "closed",
-      "name": "Volos Army Airport",
-      "elevation_ft": 112.0,
-      "continent": "EU",
-      "iso_country": "GR",
-      "iso_region": "GR-E",
-      "municipality": "Volos",
-      "coordinates": "39.38389968869999, 22.9174003601"
     },
     {
       "ident": "LGZA",

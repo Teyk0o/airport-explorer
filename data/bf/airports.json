@@ -2,11 +2,11 @@
   "country_code": "BF",
   "country_name": "Burkina Faso",
   "total_airports": 50,
-  "last_updated": "2025-02-27T00:08:24.386480",
+  "last_updated": "2025-02-28T00:08:11.660350",
   "types_distribution": {
     "small_airport": 47,
-    "medium_airport": 2,
-    "closed": 1
+    "closed": 1,
+    "medium_airport": 2
   },
   "airports": [
     {
@@ -20,6 +20,17 @@
       "municipality": "Essakane Gold Mine",
       "gps_code": "DFEN",
       "coordinates": "14.366389, 0.086944"
+    },
+    {
+      "ident": "BF-0002",
+      "type": "closed",
+      "name": "Loumana Airport",
+      "elevation_ft": 1148.0,
+      "continent": "AF",
+      "iso_country": "BF",
+      "iso_region": "BF-COM",
+      "municipality": "Loumana",
+      "coordinates": "10.567, -5.35"
     },
     {
       "ident": "DFCA",
@@ -534,17 +545,6 @@
       "municipality": "Houndé",
       "gps_code": "DFOH",
       "coordinates": "11.491211, -3.512817"
-    },
-    {
-      "ident": "DFOL",
-      "type": "closed",
-      "name": "Loumana Airport",
-      "elevation_ft": 1148.0,
-      "continent": "AF",
-      "iso_country": "BF",
-      "iso_region": "BF-COM",
-      "municipality": "Loumana",
-      "coordinates": "10.567, -5.35"
     },
     {
       "ident": "DFON",

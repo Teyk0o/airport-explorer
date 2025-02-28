@@ -2,7 +2,7 @@
   "country_code": "BA",
   "country_name": "Bosnia and Herzegovina",
   "total_airports": 26,
-  "last_updated": "2025-02-27T00:08:24.382234",
+  "last_updated": "2025-02-28T00:08:11.645040",
   "types_distribution": {
     "small_airport": 16,
     "closed": 3,
@@ -143,6 +143,27 @@
       "coordinates": "44.9157, 18.15029"
     },
     {
+      "ident": "BA-0013",
+      "type": "closed",
+      "name": "Ćoralići Air Base",
+      "continent": "EU",
+      "iso_country": "BA",
+      "iso_region": "BA-BIH",
+      "municipality": "Ćoralići",
+      "coordinates": "44.980871, 15.869373"
+    },
+    {
+      "ident": "BA-0014",
+      "type": "closed",
+      "name": "Glamoč Air Base",
+      "elevation_ft": 3034.0,
+      "continent": "EU",
+      "iso_country": "BA",
+      "iso_region": "BA-BIH",
+      "municipality": "Glamoč",
+      "coordinates": "44.083894, 16.813588"
+    },
+    {
       "ident": "LQBI",
       "type": "small_airport",
       "name": "Bihać Golubić Airfield",
@@ -166,27 +187,6 @@
       "gps_code": "LQBK",
       "iata_code": "BNX",
       "coordinates": "44.941399, 17.297501"
-    },
-    {
-      "ident": "LQCO",
-      "type": "closed",
-      "name": "Ćoralići Air Base",
-      "continent": "EU",
-      "iso_country": "BA",
-      "iso_region": "BA-BIH",
-      "municipality": "Ćoralići",
-      "coordinates": "44.980871, 15.869373"
-    },
-    {
-      "ident": "LQGL",
-      "type": "closed",
-      "name": "Glamoč Air Base",
-      "elevation_ft": 3034.0,
-      "continent": "EU",
-      "iso_country": "BA",
-      "iso_region": "BA-BIH",
-      "municipality": "Glamoč",
-      "coordinates": "44.083894, 16.813588"
     },
     {
       "ident": "LQJL",

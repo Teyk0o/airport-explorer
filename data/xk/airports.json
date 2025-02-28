@@ -2,7 +2,7 @@
   "country_code": "XK",
   "country_name": "Kosovo",
   "total_airports": 14,
-  "last_updated": "2025-02-27T00:08:24.361268",
+  "last_updated": "2025-02-28T00:08:11.624072",
   "types_distribution": {
     "closed": 4,
     "medium_airport": 1,
@@ -68,17 +68,6 @@
       "iso_region": "XK-07",
       "municipality": "Gjakovë",
       "coordinates": "42.435066, 20.427768"
-    },
-    {
-      "ident": "LYPT",
-      "type": "closed",
-      "name": "Batlava-Donja Penduha Air Base",
-      "elevation_ft": 1978.0,
-      "continent": "EU",
-      "iso_country": "XK",
-      "iso_region": "XK-01",
-      "municipality": "Dumosh",
-      "coordinates": "42.849898, 21.221705"
     },
     {
       "ident": "XK-0001",
@@ -167,6 +156,17 @@
       "iso_region": "XK-02",
       "municipality": "Maxhunaj",
       "coordinates": "42.78224, 21.03111"
+    },
+    {
+      "ident": "XK-0009",
+      "type": "closed",
+      "name": "Batlava-Donja Penduha Air Base",
+      "elevation_ft": 1978.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Dumosh",
+      "coordinates": "42.849898, 21.221705"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "BW",
   "country_name": "Botswana",
   "total_airports": 134,
-  "last_updated": "2025-02-27T00:08:24.494753",
+  "last_updated": "2025-02-28T00:08:11.767882",
   "types_distribution": {
     "small_airport": 115,
     "closed": 12,
@@ -650,6 +650,61 @@
       "coordinates": "-24.683001, 25.933001"
     },
     {
+      "ident": "BW-0062",
+      "type": "closed",
+      "name": "Molepolole Airport",
+      "elevation_ft": 3790.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-KW",
+      "municipality": "Molepolole",
+      "coordinates": "-24.389444444, 25.498611111"
+    },
+    {
+      "ident": "BW-0063",
+      "type": "closed",
+      "name": "Makalamabedi Airport",
+      "elevation_ft": 3100.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-CE",
+      "municipality": "Makalamabedi",
+      "coordinates": "-20.310863, 23.907795"
+    },
+    {
+      "ident": "BW-0064",
+      "type": "closed",
+      "name": "Rakops Airport",
+      "elevation_ft": 3000.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-CE",
+      "municipality": "Rakops",
+      "coordinates": "-21, 24.333"
+    },
+    {
+      "ident": "BW-0065",
+      "type": "closed",
+      "name": "Serowe Airport",
+      "elevation_ft": 3800.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-CE",
+      "municipality": "Serowe",
+      "coordinates": "-22.4232997894, 26.7567005157"
+    },
+    {
+      "ident": "BW-0066",
+      "type": "closed",
+      "name": "Tshane Airport",
+      "elevation_ft": 3700.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-KG",
+      "municipality": "Tshane",
+      "coordinates": "-24.0170001984, 21.8829994202"
+    },
+    {
       "ident": "BW-HUK",
       "type": "small_airport",
       "name": "Hukuntsi Airport",
@@ -1100,28 +1155,6 @@
       "coordinates": "-23.18455, 27.501029"
     },
     {
-      "ident": "FBML",
-      "type": "closed",
-      "name": "Molepolole Airport",
-      "elevation_ft": 3790.0,
-      "continent": "AF",
-      "iso_country": "BW",
-      "iso_region": "BW-KW",
-      "municipality": "Molepolole",
-      "coordinates": "-24.389444444, 25.498611111"
-    },
-    {
-      "ident": "FBMM",
-      "type": "closed",
-      "name": "Makalamabedi Airport",
-      "elevation_ft": 3100.0,
-      "continent": "AF",
-      "iso_country": "BW",
-      "iso_region": "BW-CE",
-      "municipality": "Makalamabedi",
-      "coordinates": "-20.310863, 23.907795"
-    },
-    {
       "ident": "FBMN",
       "type": "medium_airport",
       "name": "Maun Airport",
@@ -1281,17 +1314,6 @@
       "coordinates": "-22.564087, 27.136745"
     },
     {
-      "ident": "FBRK",
-      "type": "closed",
-      "name": "Rakops Airport",
-      "elevation_ft": 3000.0,
-      "continent": "AF",
-      "iso_country": "BW",
-      "iso_region": "BW-CE",
-      "municipality": "Rakops",
-      "coordinates": "-21, 24.333"
-    },
-    {
       "ident": "FBSI",
       "type": "small_airport",
       "name": "Saile Airport",
@@ -1355,17 +1377,6 @@
       "coordinates": "-22.0583, 27.8288"
     },
     {
-      "ident": "FBSR",
-      "type": "closed",
-      "name": "Serowe Airport",
-      "elevation_ft": 3800.0,
-      "continent": "AF",
-      "iso_country": "BW",
-      "iso_region": "BW-CE",
-      "municipality": "Serowe",
-      "coordinates": "-22.423299789399998, 26.7567005157"
-    },
-    {
       "ident": "FBSV",
       "type": "small_airport",
       "name": "Savuti Airport",
@@ -1390,17 +1401,6 @@
       "gps_code": "FBSW",
       "iata_code": "SWX",
       "coordinates": "-18.373899459838867, 21.832599639892578"
-    },
-    {
-      "ident": "FBTE",
-      "type": "closed",
-      "name": "Tshane Airport",
-      "elevation_ft": 3700.0,
-      "continent": "AF",
-      "iso_country": "BW",
-      "iso_region": "BW-KG",
-      "municipality": "Tshane",
-      "coordinates": "-24.0170001984, 21.8829994202"
     },
     {
       "ident": "FBTH",

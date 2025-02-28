@@ -2,7 +2,7 @@
   "country_code": "BY",
   "country_name": "Belarus",
   "total_airports": 70,
-  "last_updated": "2025-02-27T00:08:24.496875",
+  "last_updated": "2025-02-28T00:08:11.769789",
   "types_distribution": {
     "medium_airport": 9,
     "closed": 20,
@@ -572,6 +572,36 @@
       "coordinates": "52.275673, 26.774629"
     },
     {
+      "ident": "BY-9935",
+      "type": "closed",
+      "name": "Minsk 1 Airport",
+      "continent": "EU",
+      "iso_country": "BY",
+      "iso_region": "BY-MI",
+      "municipality": "Minsk",
+      "coordinates": "53.864498, 27.5397"
+    },
+    {
+      "ident": "BY-9936",
+      "type": "closed",
+      "name": "Borovaya Airfield",
+      "continent": "EU",
+      "iso_country": "BY",
+      "iso_region": "BY-MI",
+      "municipality": "Minsk",
+      "coordinates": "53.960461, 27.650596"
+    },
+    {
+      "ident": "BY-9937",
+      "type": "closed",
+      "name": "Ross Air Base",
+      "continent": "EU",
+      "iso_country": "BY",
+      "iso_region": "BY-HR",
+      "municipality": "Ross",
+      "coordinates": "53.303, 24.369"
+    },
+    {
       "ident": "UMBB",
       "type": "medium_airport",
       "name": "Brest Airport",
@@ -669,16 +699,6 @@
       "coordinates": "53.099998, 26.049999"
     },
     {
-      "ident": "UMMB",
-      "type": "closed",
-      "name": "Borovaya Airfield",
-      "continent": "EU",
-      "iso_country": "BY",
-      "iso_region": "BY-MI",
-      "municipality": "Minsk",
-      "coordinates": "53.960461, 27.650596"
-    },
-    {
       "ident": "UMMG",
       "type": "medium_airport",
       "name": "Hrodna Airport",
@@ -690,26 +710,6 @@
       "gps_code": "UMMG",
       "iata_code": "GNA",
       "coordinates": "53.60200119018555, 24.053800582885742"
-    },
-    {
-      "ident": "UMMM",
-      "type": "closed",
-      "name": "Minsk 1 Airport",
-      "continent": "EU",
-      "iso_country": "BY",
-      "iso_region": "BY-MI",
-      "municipality": "Minsk",
-      "coordinates": "53.864498, 27.5397"
-    },
-    {
-      "ident": "UMMR",
-      "type": "closed",
-      "name": "Ross Air Base",
-      "continent": "EU",
-      "iso_country": "BY",
-      "iso_region": "BY-HR",
-      "municipality": "Ross",
-      "coordinates": "53.303, 24.369"
     },
     {
       "ident": "UMMS",

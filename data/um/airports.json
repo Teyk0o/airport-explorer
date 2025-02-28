@@ -2,34 +2,13 @@
   "country_code": "UM",
   "country_name": "United States Minor Outlying Islands",
   "total_airports": 9,
-  "last_updated": "2025-02-27T00:08:24.743318",
+  "last_updated": "2025-02-28T00:08:12.019050",
   "types_distribution": {
-    "closed": 6,
     "small_airport": 1,
-    "medium_airport": 2
+    "medium_airport": 2,
+    "closed": 6
   },
   "airports": [
-    {
-      "ident": "PBAR",
-      "type": "closed",
-      "name": "Baker Island Army Airfield",
-      "continent": "OC",
-      "iso_country": "UM",
-      "iso_region": "UM-81",
-      "municipality": "Baker Island",
-      "coordinates": "0.192639, -176.478889"
-    },
-    {
-      "ident": "PJON",
-      "type": "closed",
-      "name": "Johnston Atoll Airport",
-      "elevation_ft": 7.0,
-      "continent": "OC",
-      "iso_country": "UM",
-      "iso_region": "UM-67",
-      "municipality": "Johnston Atoll",
-      "coordinates": "16.728852, -169.534342"
-    },
     {
       "ident": "PLPA",
       "type": "small_airport",
@@ -111,6 +90,27 @@
       "iso_region": "UM-89",
       "municipality": "Kingman Reef",
       "coordinates": "6.40405, -162.37781"
+    },
+    {
+      "ident": "UM-0006",
+      "type": "closed",
+      "name": "Johnston Atoll Airport",
+      "elevation_ft": 7.0,
+      "continent": "OC",
+      "iso_country": "UM",
+      "iso_region": "UM-67",
+      "municipality": "Johnston Atoll",
+      "coordinates": "16.728852, -169.534342"
+    },
+    {
+      "ident": "UM-0007",
+      "type": "closed",
+      "name": "Baker Island Army Airfield",
+      "continent": "OC",
+      "iso_country": "UM",
+      "iso_region": "UM-81",
+      "municipality": "Baker Island",
+      "coordinates": "0.192639, -176.478889"
     }
   ]
 }

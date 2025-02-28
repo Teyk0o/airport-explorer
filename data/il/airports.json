@@ -2,7 +2,7 @@
   "country_code": "IL",
   "country_name": "Israel",
   "total_airports": 58,
-  "last_updated": "2025-02-27T00:08:24.662847",
+  "last_updated": "2025-02-28T00:08:11.936639",
   "types_distribution": {
     "small_airport": 31,
     "heliport": 13,
@@ -218,6 +218,39 @@
       "coordinates": "32.906065, 35.18946"
     },
     {
+      "ident": "IL-0021",
+      "type": "closed",
+      "name": "Eilat Airport",
+      "elevation_ft": 42.0,
+      "continent": "AS",
+      "iso_country": "IL",
+      "iso_region": "IL-D",
+      "municipality": "Eilat",
+      "coordinates": "29.559945, 34.959612"
+    },
+    {
+      "ident": "IL-0022",
+      "type": "closed",
+      "name": "Sde Dov Airport",
+      "elevation_ft": 43.0,
+      "continent": "AS",
+      "iso_country": "IL",
+      "iso_region": "IL-TA",
+      "municipality": "Tel Aviv",
+      "coordinates": "32.1147, 34.7822"
+    },
+    {
+      "ident": "IL-0023",
+      "type": "closed",
+      "name": "Jerusalem International Airport",
+      "elevation_ft": 2485.0,
+      "continent": "AS",
+      "iso_country": "IL",
+      "iso_region": "IL-JM",
+      "municipality": "Jerusalem",
+      "coordinates": "31.866547, 35.217223"
+    },
+    {
       "ident": "LL1A",
       "type": "small_airport",
       "name": "Hatzerim Northwest Airport",
@@ -353,17 +386,6 @@
       "municipality": "Ein Shemer",
       "gps_code": "LLES",
       "coordinates": "32.440799713134766, 35.0077018737793"
-    },
-    {
-      "ident": "LLET",
-      "type": "closed",
-      "name": "Eilat Airport",
-      "elevation_ft": 42.0,
-      "continent": "AS",
-      "iso_country": "IL",
-      "iso_region": "IL-D",
-      "municipality": "Eilat",
-      "coordinates": "29.559945, 34.959612"
     },
     {
       "ident": "LLEY",
@@ -613,17 +635,6 @@
       "coordinates": "30.776100158691406, 34.66669845581055"
     },
     {
-      "ident": "LLSD",
-      "type": "closed",
-      "name": "Sde Dov Airport",
-      "elevation_ft": 43.0,
-      "continent": "AS",
-      "iso_country": "IL",
-      "iso_region": "IL-TA",
-      "municipality": "Tel Aviv",
-      "coordinates": "32.1147, 34.7822"
-    },
-    {
       "ident": "LLSM",
       "type": "heliport",
       "name": "Sheba (Tel HaShomer) Medical Center",
@@ -671,17 +682,6 @@
       "gps_code": "LLYT",
       "iata_code": "YOT",
       "coordinates": "29.901111, 35.0675"
-    },
-    {
-      "ident": "OJJR",
-      "type": "closed",
-      "name": "Jerusalem International Airport",
-      "elevation_ft": 2485.0,
-      "continent": "AS",
-      "iso_country": "IL",
-      "iso_region": "IL-JM",
-      "municipality": "Jerusalem",
-      "coordinates": "31.866547, 35.217223"
     }
   ]
 }

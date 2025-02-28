@@ -2,12 +2,12 @@
   "country_code": "NE",
   "country_name": "Niger",
   "total_airports": 27,
-  "last_updated": "2025-02-27T00:08:24.581412",
+  "last_updated": "2025-02-28T00:08:11.853479",
   "types_distribution": {
     "small_airport": 21,
-    "closed": 1,
     "medium_airport": 4,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 1
   },
   "airports": [
     {
@@ -21,17 +21,6 @@
       "municipality": "Tessaoua",
       "gps_code": "DRRA",
       "coordinates": "13.756968, 8.020568"
-    },
-    {
-      "ident": "DRRB",
-      "type": "closed",
-      "name": "Birni-N'Konni Airport",
-      "elevation_ft": 846.0,
-      "continent": "AF",
-      "iso_country": "NE",
-      "iso_region": "NE-5",
-      "municipality": "Birni-N'Konni",
-      "coordinates": "13.8015, 5.24236"
     },
     {
       "ident": "DRRC",
@@ -332,6 +321,17 @@
       "iso_region": "NE-1",
       "municipality": "Fachi",
       "coordinates": "18.1016, 11.56553"
+    },
+    {
+      "ident": "NE-0005",
+      "type": "closed",
+      "name": "Birni-N'Konni Airport",
+      "elevation_ft": 846.0,
+      "continent": "AF",
+      "iso_country": "NE",
+      "iso_region": "NE-5",
+      "municipality": "Birni-N'Konni",
+      "coordinates": "13.8015, 5.24236"
     }
   ]
 }

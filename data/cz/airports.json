@@ -2,7 +2,7 @@
   "country_code": "CZ",
   "country_name": "Czech Republic",
   "total_airports": 384,
-  "last_updated": "2025-02-27T00:08:24.544291",
+  "last_updated": "2025-02-28T00:08:11.816244",
   "types_distribution": {
     "heliport": 107,
     "closed": 25,
@@ -2936,6 +2936,71 @@
       "coordinates": "49.63195, 18.12781"
     },
     {
+      "ident": "CZ-0267",
+      "type": "closed",
+      "name": "Černovice Air Base",
+      "elevation_ft": 778.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-JM",
+      "municipality": "Černovice",
+      "coordinates": "49.1775016784, 16.6608"
+    },
+    {
+      "ident": "CZ-0268",
+      "type": "closed",
+      "name": "Holešov Airport",
+      "elevation_ft": 761.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-ZL",
+      "municipality": "Holešov",
+      "coordinates": "49.3143997, 17.5688992"
+    },
+    {
+      "ident": "CZ-0269",
+      "type": "closed",
+      "name": "Tábor Všechov Air Base",
+      "elevation_ft": 1604.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-JC",
+      "municipality": "Tábor",
+      "coordinates": "49.437801, 14.6217"
+    },
+    {
+      "ident": "CZ-0270",
+      "type": "closed",
+      "name": "Bechyně Air Base",
+      "elevation_ft": 1448.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-JC",
+      "municipality": "Bechyně",
+      "coordinates": "49.2736, 14.5018"
+    },
+    {
+      "ident": "CZ-0271",
+      "type": "closed",
+      "name": "Žatec-Staňkovice Airfield",
+      "elevation_ft": 900.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-US",
+      "municipality": "Bitozeves",
+      "coordinates": "50.371, 13.59"
+    },
+    {
+      "ident": "CZ-0272",
+      "type": "closed",
+      "name": "Blátna Air Base",
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-JC",
+      "municipality": "Blátna",
+      "coordinates": "49.431173, 13.797095"
+    },
+    {
       "ident": "LKBA",
       "type": "small_airport",
       "name": "Břeclav Airfield",
@@ -2946,17 +3011,6 @@
       "municipality": "Břeclav",
       "gps_code": "LKBA",
       "coordinates": "48.790439, 16.892531"
-    },
-    {
-      "ident": "LKBC",
-      "type": "closed",
-      "name": "Bechyně Air Base",
-      "elevation_ft": 1448.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-JC",
-      "municipality": "Bechyně",
-      "coordinates": "49.2736, 14.5018"
     },
     {
       "ident": "LKBD",
@@ -2980,16 +3034,6 @@
       "municipality": "Benešov",
       "gps_code": "LKBE",
       "coordinates": "49.740799, 14.6447"
-    },
-    {
-      "ident": "LKBL",
-      "type": "closed",
-      "name": "Blátna Air Base",
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-JC",
-      "municipality": "Blátna",
-      "coordinates": "49.431173, 13.797095"
     },
     {
       "ident": "LKBO",
@@ -3062,17 +3106,6 @@
       "municipality": "Otvice",
       "gps_code": "LKCH",
       "coordinates": "50.468899, 13.4681"
-    },
-    {
-      "ident": "LKCL",
-      "type": "closed",
-      "name": "Černovice Air Base",
-      "elevation_ft": 778.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-JM",
-      "municipality": "Černovice",
-      "coordinates": "49.1775016784, 16.6608"
     },
     {
       "ident": "LKCM",
@@ -3263,17 +3296,6 @@
       "municipality": "Hranice",
       "gps_code": "LKHN",
       "coordinates": "49.5461, 17.704399"
-    },
-    {
-      "ident": "LKHO",
-      "type": "closed",
-      "name": "Holešov Airport",
-      "elevation_ft": 761.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-ZL",
-      "municipality": "Holešov",
-      "coordinates": "49.3143997, 17.5688992"
     },
     {
       "ident": "LKHR",
@@ -4152,17 +4174,6 @@
       "coordinates": "50.086399, 12.9528"
     },
     {
-      "ident": "LKTV",
-      "type": "closed",
-      "name": "Tábor Všechov Air Base",
-      "elevation_ft": 1604.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-JC",
-      "municipality": "Tábor",
-      "coordinates": "49.437801, 14.6217"
-    },
-    {
       "ident": "LKUH",
       "type": "heliport",
       "name": "Mařatice Heliport",
@@ -4306,17 +4317,6 @@
       "municipality": "Zbraslavice",
       "gps_code": "LKZB",
       "coordinates": "49.814201, 15.2017"
-    },
-    {
-      "ident": "LKZC",
-      "type": "closed",
-      "name": "Žatec-Staňkovice Airfield",
-      "elevation_ft": 900.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-US",
-      "municipality": "Bitozeves",
-      "coordinates": "50.371, 13.59"
     },
     {
       "ident": "LKZD",

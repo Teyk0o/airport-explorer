@@ -2,13 +2,13 @@
   "country_code": "RO",
   "country_name": "Romania",
   "total_airports": 143,
-  "last_updated": "2025-02-27T00:08:24.723419",
+  "last_updated": "2025-02-28T00:08:11.997140",
   "types_distribution": {
     "medium_airport": 21,
-    "closed": 16,
     "heliport": 24,
     "small_airport": 81,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 16
   },
   "airports": [
     {
@@ -35,17 +35,6 @@
       "coordinates": "44.3923, 27.7267"
     },
     {
-      "ident": "LR81",
-      "type": "closed",
-      "name": "Deveselu Air Base",
-      "elevation_ft": 289.0,
-      "continent": "EU",
-      "iso_country": "RO",
-      "iso_region": "RO-OT",
-      "municipality": "Deveselu",
-      "coordinates": "44.0773010254, 24.4164009094"
-    },
-    {
       "ident": "LR82",
       "type": "medium_airport",
       "name": "Boboc Air Base",
@@ -69,17 +58,6 @@
       "gps_code": "LRAR",
       "iata_code": "ARW",
       "coordinates": "46.176601, 21.261999"
-    },
-    {
-      "ident": "LRBA",
-      "type": "closed",
-      "name": "Grădiștea Airfield",
-      "elevation_ft": 254.0,
-      "continent": "EU",
-      "iso_country": "RO",
-      "iso_region": "RO-GR",
-      "municipality": "Comana",
-      "coordinates": "44.225, 26.121389"
     },
     {
       "ident": "LRBC",
@@ -1618,6 +1596,28 @@
       "iso_region": "RO-BC",
       "municipality": "Bacău",
       "coordinates": "46.59582, 26.87647"
+    },
+    {
+      "ident": "RO-0107",
+      "type": "closed",
+      "name": "Deveselu Air Base",
+      "elevation_ft": 289.0,
+      "continent": "EU",
+      "iso_country": "RO",
+      "iso_region": "RO-OT",
+      "municipality": "Deveselu",
+      "coordinates": "44.0773010254, 24.4164009094"
+    },
+    {
+      "ident": "RO-0108",
+      "type": "closed",
+      "name": "Grădiștea Airfield",
+      "elevation_ft": 254.0,
+      "continent": "EU",
+      "iso_country": "RO",
+      "iso_region": "RO-GR",
+      "municipality": "Comana",
+      "coordinates": "44.225, 26.121389"
     }
   ]
 }

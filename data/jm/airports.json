@@ -2,7 +2,7 @@
   "country_code": "JM",
   "country_name": "Jamaica",
   "total_airports": 27,
-  "last_updated": "2025-02-27T00:08:24.703947",
+  "last_updated": "2025-02-28T00:08:11.977819",
   "types_distribution": {
     "closed": 5,
     "small_airport": 15,
@@ -208,6 +208,16 @@
       "coordinates": "18.43997, -77.98411"
     },
     {
+      "ident": "JM-0021",
+      "type": "closed",
+      "name": "Marlboro Airport",
+      "elevation_ft": 2080.0,
+      "iso_country": "JM",
+      "iso_region": "JM-12",
+      "municipality": "Mandeville",
+      "coordinates": "18.019, -77.495001"
+    },
+    {
       "ident": "MKBS",
       "type": "medium_airport",
       "name": "Ian Fleming International Airport",
@@ -278,16 +288,6 @@
       "gps_code": "MKTP",
       "iata_code": "KTP",
       "coordinates": "17.98859977722168, -76.82379913330078"
-    },
-    {
-      "ident": "MVJ",
-      "type": "closed",
-      "name": "Marlboro Airport",
-      "elevation_ft": 2080.0,
-      "iso_country": "JM",
-      "iso_region": "JM-12",
-      "municipality": "Mandeville",
-      "coordinates": "18.019, -77.495001"
     }
   ]
 }

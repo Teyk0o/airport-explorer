@@ -2,7 +2,7 @@
   "country_code": "GB",
   "country_name": "United Kingdom",
   "total_airports": 1523,
-  "last_updated": "2025-02-27T00:08:24.285196",
+  "last_updated": "2025-02-28T00:08:11.648321",
   "types_distribution": {
     "closed": 351,
     "small_airport": 964,
@@ -13,36 +13,6 @@
     "seaplane_base": 4
   },
   "airports": [
-    {
-      "ident": "ABE",
-      "type": "closed",
-      "name": "RAF Calveley",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Cheshire",
-      "coordinates": "53.113333, -2.603889"
-    },
-    {
-      "ident": "ABL",
-      "type": "closed",
-      "name": "RNAS/RAF Calshot",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Southampton, Hampshire",
-      "coordinates": "50.819913, -1.306772"
-    },
-    {
-      "ident": "ADJ",
-      "type": "closed",
-      "name": "RAF Castletown",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Caithness",
-      "coordinates": "58.5847198881, -3.3481693267800003"
-    },
     {
       "ident": "BE-0005",
       "type": "closed",
@@ -105,17 +75,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "coordinates": "55.591636, -2.087231"
-    },
-    {
-      "ident": "EG73",
-      "type": "closed",
-      "name": "RNAS Fearn Air Base",
-      "elevation_ft": 25.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Tain, Ross",
-      "coordinates": "57.757594, -3.948184"
     },
     {
       "ident": "EG74",
@@ -191,16 +150,6 @@
       "gps_code": "EGAE",
       "iata_code": "LDY",
       "coordinates": "55.04280090332031, -7.161109924316406"
-    },
-    {
-      "ident": "EGAL",
-      "type": "closed",
-      "name": "Langford Lodge Air Base",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-NIR",
-      "municipality": "Belfast",
-      "coordinates": "54.62310028, -6.30000019"
     },
     {
       "ident": "EGBB",
@@ -301,17 +250,6 @@
       "gps_code": "EGBK",
       "iata_code": "ORM",
       "coordinates": "52.305302, -0.793056"
-    },
-    {
-      "ident": "EGBL",
-      "type": "closed",
-      "name": "Long Marston Airfield",
-      "elevation_ft": 154.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Long Marston",
-      "coordinates": "52.140301, -1.75361"
     },
     {
       "ident": "EGBM",
@@ -460,28 +398,6 @@
       "coordinates": "53.349375, -2.279521"
     },
     {
-      "ident": "EGCD",
-      "type": "closed",
-      "name": "Manchester Woodford Airport",
-      "elevation_ft": 295.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Stockport, Greater Manchester",
-      "coordinates": "53.3381, -2.14889"
-    },
-    {
-      "ident": "EGCE",
-      "type": "closed",
-      "name": "RAF Wrexham",
-      "elevation_ft": 250.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-WLS",
-      "municipality": "Wrexham",
-      "coordinates": "53.066666666699994, -2.9502777777799998"
-    },
-    {
       "ident": "EGCF",
       "type": "small_airport",
       "name": "Sandtoft Airfield",
@@ -553,49 +469,6 @@
       "coordinates": "52.739201, -0.029722"
     },
     {
-      "ident": "EGCN",
-      "type": "closed",
-      "name": "Robin Hood Doncaster Sheffield Airport",
-      "elevation_ft": 55.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Doncaster, South Yorkshire",
-      "coordinates": "53.475287, -1.004267"
-    },
-    {
-      "ident": "EGCO",
-      "type": "closed",
-      "name": "Birkdale Sands Beach Runway",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Southport",
-      "coordinates": "53.645302, -3.02861"
-    },
-    {
-      "ident": "EGCP",
-      "type": "closed",
-      "name": "RAF Thorne",
-      "elevation_ft": 16.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Thorne",
-      "coordinates": "53.6222, -0.928056"
-    },
-    {
-      "ident": "EGCR",
-      "type": "closed",
-      "name": "Croydon Airport",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Croydon, Greater London",
-      "coordinates": "51.356389, -0.117222"
-    },
-    {
       "ident": "EGCS",
       "type": "small_airport",
       "name": "Sturgate Airfield",
@@ -644,15 +517,6 @@
       "coordinates": "52.628601, -3.15333"
     },
     {
-      "ident": "EGDA",
-      "type": "closed",
-      "name": "RAF Brawdy",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-WLS",
-      "coordinates": "51.88375, -5.119972"
-    },
-    {
       "ident": "EGDC",
       "type": "medium_airport",
       "name": "Royal Marines Base Chivenor",
@@ -687,17 +551,6 @@
       "gps_code": "EGDJ",
       "iata_code": "UPV",
       "coordinates": "51.28657, -1.782239"
-    },
-    {
-      "ident": "EGDL",
-      "type": "closed",
-      "name": "RAF Lyneham",
-      "elevation_ft": 513.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Chippenham, Wiltshire",
-      "coordinates": "51.507485, -1.991511"
     },
     {
       "ident": "EGDM",
@@ -757,17 +610,6 @@
       "municipality": "Helston",
       "gps_code": "EGDR",
       "coordinates": "50.08610153198242, -5.255710124969482"
-    },
-    {
-      "ident": "EGDT",
-      "type": "closed",
-      "name": "Wroughton Airfield",
-      "elevation_ft": 656.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Wroughton",
-      "coordinates": "51.5061, -1.80194"
     },
     {
       "ident": "EGDV",
@@ -1171,17 +1013,6 @@
       "coordinates": "50.967201, -2.15361"
     },
     {
-      "ident": "EGHB",
-      "type": "closed",
-      "name": "Maypole Airfield",
-      "elevation_ft": 100.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Canterbury, Kent",
-      "coordinates": "51.337508, 1.155292"
-    },
-    {
       "ident": "EGHC",
       "type": "small_airport",
       "name": "Land's End Airport",
@@ -1193,17 +1024,6 @@
       "gps_code": "EGHC",
       "iata_code": "LEQ",
       "coordinates": "50.102798, -5.67056"
-    },
-    {
-      "ident": "EGHD",
-      "type": "closed",
-      "name": "Plymouth City Airport",
-      "elevation_ft": 476.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Plymouth, Devon",
-      "coordinates": "50.424282, -4.109439"
     },
     {
       "ident": "EGHE",
@@ -1280,17 +1100,6 @@
       "gps_code": "EGHJ",
       "iata_code": "BBP",
       "coordinates": "50.678101, -1.10944"
-    },
-    {
-      "ident": "EGHK",
-      "type": "closed",
-      "name": "Penzance Heliport",
-      "elevation_ft": 14.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Penzance",
-      "coordinates": "50.128101, -5.51845"
     },
     {
       "ident": "EGHL",
@@ -1513,17 +1322,6 @@
       "coordinates": "50.881093, 0.154345"
     },
     {
-      "ident": "EGKM",
-      "type": "closed",
-      "name": "RAF West Malling",
-      "elevation_ft": 308.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "West Malling, Kent",
-      "coordinates": "51.27, 0.4"
-    },
-    {
       "ident": "EGKR",
       "type": "small_airport",
       "name": "Redhill Aerodrome",
@@ -1584,17 +1382,6 @@
       "gps_code": "EGLF",
       "iata_code": "FAB",
       "coordinates": "51.275799, -0.776333"
-    },
-    {
-      "ident": "EGLG",
-      "type": "closed",
-      "name": "Panshanger Aerodrome",
-      "elevation_ft": 249.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Welwyn Garden City, Hertfordshire",
-      "coordinates": "51.802502, -0.158056"
     },
     {
       "ident": "EGLJ",
@@ -1745,17 +1532,6 @@
       "coordinates": "51.332788, 0.601058"
     },
     {
-      "ident": "EGMH",
-      "type": "closed",
-      "name": "Kent International Airport (Manston)",
-      "elevation_ft": 178.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Ramsgate, Kent",
-      "coordinates": "51.342201, 1.34611"
-    },
-    {
       "ident": "EGMJ",
       "type": "small_airport",
       "name": "Little Gransden Airfield",
@@ -1766,17 +1542,6 @@
       "municipality": "Sandy, Bedfordshire",
       "gps_code": "EGMJ",
       "coordinates": "52.165977, -0.149222"
-    },
-    {
-      "ident": "EGMK",
-      "type": "closed",
-      "name": "RAF Lympne / Lympne Airport",
-      "elevation_ft": 351.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Hythe, Kent",
-      "coordinates": "51.079991, 1.016622"
     },
     {
       "ident": "EGML",
@@ -1800,28 +1565,6 @@
       "iso_region": "GB-ENG",
       "gps_code": "EGMT",
       "coordinates": "51.537505, 0.367634"
-    },
-    {
-      "ident": "EGNA",
-      "type": "closed",
-      "name": "Hucknall Airfield",
-      "elevation_ft": 279.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Nottingham",
-      "coordinates": "53.014400482178, -1.2183300256729"
-    },
-    {
-      "ident": "EGNB",
-      "type": "closed",
-      "name": "Brough Airport",
-      "elevation_ft": 12.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Brough",
-      "coordinates": "53.7197, -0.566333"
     },
     {
       "ident": "EGNC",
@@ -2133,17 +1876,6 @@
       "coordinates": "53.5816, -3.05552"
     },
     {
-      "ident": "EGOY",
-      "type": "closed",
-      "name": "RAF West Freugh",
-      "elevation_ft": 55.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Wigtownshire",
-      "coordinates": "54.8511, -4.94778"
-    },
-    {
       "ident": "EGPA",
       "type": "medium_airport",
       "name": "Kirkwall Airport",
@@ -2298,17 +2030,6 @@
       "coordinates": "57.48109817504883, -7.3627800941467285"
     },
     {
-      "ident": "EGPM",
-      "type": "closed",
-      "name": "Scatsta Airport",
-      "elevation_ft": 81.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Shetland Islands",
-      "coordinates": "60.4328, -1.29611"
-    },
-    {
       "ident": "EGPN",
       "type": "medium_airport",
       "name": "Dundee Airport",
@@ -2398,39 +2119,6 @@
       "coordinates": "60.7472, -0.85385"
     },
     {
-      "ident": "EGPY",
-      "type": "closed",
-      "name": "Dounreay/Thurso Airport",
-      "elevation_ft": 22.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Thurso, Highland",
-      "coordinates": "58.580973, -3.730702"
-    },
-    {
-      "ident": "EGQB",
-      "type": "closed",
-      "name": "RAF Ballykelly (abandoned/closed)",
-      "elevation_ft": 85.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-NIR",
-      "municipality": "Ballykelly",
-      "coordinates": "55.060299, -7.02028"
-    },
-    {
-      "ident": "EGQK",
-      "type": "closed",
-      "name": "RAF Kinloss",
-      "elevation_ft": 22.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-SCT",
-      "municipality": "Kinloss",
-      "coordinates": "57.649399, -3.56064"
-    },
-    {
       "ident": "EGQL",
       "type": "medium_airport",
       "name": "Leuchars Station Airfield",
@@ -2467,17 +2155,6 @@
       "municipality": "Thetford, Norfolk",
       "gps_code": "EGSA",
       "coordinates": "52.629398, 0.928056"
-    },
-    {
-      "ident": "EGSB",
-      "type": "closed",
-      "name": "Castle Mill Airfield",
-      "elevation_ft": 154.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Bedford, Bedfordshire",
-      "coordinates": "52.143299, -0.406111"
     },
     {
       "ident": "EGSC",
@@ -2566,16 +2243,6 @@
       "coordinates": "52.510997, 1.416864"
     },
     {
-      "ident": "EGSK",
-      "type": "closed",
-      "name": "RAF Hethel",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Hethel",
-      "coordinates": "52.562801361083984, 1.1733299493789673"
-    },
-    {
       "ident": "EGSL",
       "type": "small_airport",
       "name": "Andrewsfield",
@@ -2598,17 +2265,6 @@
       "municipality": "Beccles, Suffolk",
       "gps_code": "EGSM",
       "coordinates": "52.435299, 1.61833"
-    },
-    {
-      "ident": "EGSN",
-      "type": "closed",
-      "name": "Bourn Airfield",
-      "elevation_ft": 226.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Cambridge, Cambridgeshire",
-      "coordinates": "52.216451, -0.040103"
     },
     {
       "ident": "EGSO",
@@ -2732,28 +2388,6 @@
       "coordinates": "51.721699, 0.154167"
     },
     {
-      "ident": "EGSY",
-      "type": "closed",
-      "name": "Sheffield City Airport",
-      "elevation_ft": 231.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Sheffield, South Yorkshire",
-      "coordinates": "53.39451, -1.39306"
-    },
-    {
-      "ident": "EGTA",
-      "type": "closed",
-      "name": "Aylesbury/Thame Airfield",
-      "elevation_ft": 289.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Aylesbury, Buckinghamshire",
-      "coordinates": "51.775799, -0.940278"
-    },
-    {
       "ident": "EGTB",
       "type": "small_airport",
       "name": "Wycombe Air Park",
@@ -2816,17 +2450,6 @@
       "coordinates": "51.348099, -0.558889"
     },
     {
-      "ident": "EGTG",
-      "type": "closed",
-      "name": "Bristol Filton Airport",
-      "elevation_ft": 226.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Bristol, Somerset",
-      "coordinates": "51.519402, -2.59083"
-    },
-    {
       "ident": "EGTH",
       "type": "small_airport",
       "name": "Old Warden Airfield",
@@ -2837,17 +2460,6 @@
       "municipality": "Biggleswade, Bedfordshire",
       "gps_code": "EGTH",
       "coordinates": "52.084591, -0.3201"
-    },
-    {
-      "ident": "EGTI",
-      "type": "closed",
-      "name": "Leavesden Aerodrome",
-      "elevation_ft": 335.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Watford, Hertfordshire",
-      "coordinates": "51.689201, -0.420556"
     },
     {
       "ident": "EGTK",
@@ -2924,17 +2536,6 @@
       "coordinates": "51.632198, -2.01472"
     },
     {
-      "ident": "EGUA",
-      "type": "closed",
-      "name": "RAF Upper Heyford",
-      "elevation_ft": 436.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Upper Heyford",
-      "coordinates": "51.9375, -1.2488900423"
-    },
-    {
       "ident": "EGUB",
       "type": "medium_airport",
       "name": "RAF Benson",
@@ -2958,17 +2559,6 @@
       "municipality": "Abingdon, Oxfordshire",
       "gps_code": "EGUD",
       "coordinates": "51.690614, -1.316568"
-    },
-    {
-      "ident": "EGUK",
-      "type": "closed",
-      "name": "RAF Waterbeach",
-      "elevation_ft": 19.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Cambridge, Cambridgeshire",
-      "coordinates": "52.281742, 0.184532"
     },
     {
       "ident": "EGUL",
@@ -2997,50 +2587,6 @@
       "coordinates": "52.3619, 0.486406"
     },
     {
-      "ident": "EGUO",
-      "type": "closed",
-      "name": "RAF Colerne",
-      "elevation_ft": 593.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Chippenham, Wiltshire",
-      "coordinates": "51.441283, -2.283402"
-    },
-    {
-      "ident": "EGUP",
-      "type": "closed",
-      "name": "RAF Sculthorpe",
-      "elevation_ft": 213.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Fakenham, Norfolk",
-      "coordinates": "52.846699, 0.766389"
-    },
-    {
-      "ident": "EGUT",
-      "type": "closed",
-      "name": "RAF Tangmere",
-      "elevation_ft": 41.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Chichester, West Sussex",
-      "coordinates": "50.847175, -0.703011"
-    },
-    {
-      "ident": "EGUV",
-      "type": "closed",
-      "name": "RAF Thorney Island",
-      "elevation_ft": 12.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Emsworth, Hampshire",
-      "coordinates": "50.816048, -0.920034"
-    },
-    {
       "ident": "EGUW",
       "type": "medium_airport",
       "name": "Wattisham Airfield",
@@ -3051,17 +2597,6 @@
       "municipality": "Ipswich, Suffolk",
       "gps_code": "EGUW",
       "coordinates": "52.127451, 0.956189"
-    },
-    {
-      "ident": "EGUY",
-      "type": "closed",
-      "name": "RAF Wyton",
-      "elevation_ft": 135.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "St Ives, Cambridgeshire",
-      "coordinates": "52.357117, -0.107787"
     },
     {
       "ident": "EGVA",
@@ -3110,17 +2645,6 @@
       "municipality": "Hereford",
       "gps_code": "EGVH",
       "coordinates": "52.080856, -2.798997"
-    },
-    {
-      "ident": "EGVJ",
-      "type": "closed",
-      "name": "RAF Bentwaters",
-      "elevation_ft": 85.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Woodbridge, Suffolk",
-      "coordinates": "52.127499, 1.43472"
     },
     {
       "ident": "EGVL",
@@ -3245,38 +2769,6 @@
       "coordinates": "51.553001, -0.418167"
     },
     {
-      "ident": "EGWZ",
-      "type": "closed",
-      "name": "RAF Alconbury",
-      "elevation_ft": 157.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Huntingdon",
-      "coordinates": "52.374401092499994, -0.219722002745"
-    },
-    {
-      "ident": "EGXA",
-      "type": "closed",
-      "name": "RAF Manby",
-      "elevation_ft": 50.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Louth, Lincolnshire",
-      "coordinates": "53.358715, 0.082845"
-    },
-    {
-      "ident": "EGXB",
-      "type": "closed",
-      "name": "RAF Binbrook",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Market Rasen, Lincolnshire",
-      "coordinates": "53.446701, -0.21"
-    },
-    {
       "ident": "EGXC",
       "type": "medium_airport",
       "name": "RAF Coningsby",
@@ -3288,17 +2780,6 @@
       "gps_code": "EGXC",
       "iata_code": "QCY",
       "coordinates": "53.092999, -0.166014"
-    },
-    {
-      "ident": "EGXD",
-      "type": "closed",
-      "name": "Dishforth Airfield / RAF Dishforth",
-      "elevation_ft": 117.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Thirsk, North Yorkshire",
-      "coordinates": "54.140517, -1.419468"
     },
     {
       "ident": "EGXE",
@@ -3338,60 +2819,6 @@
       "coordinates": "52.342602, 0.772939"
     },
     {
-      "ident": "EGXJ",
-      "type": "closed",
-      "name": "RAF Cottesmore",
-      "elevation_ft": 461.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Oakham, Rutland",
-      "coordinates": "52.731772, -0.654545"
-    },
-    {
-      "ident": "EGXN",
-      "type": "closed",
-      "name": "RAF Newton",
-      "elevation_ft": 180.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "coordinates": "52.966400146484375, -0.9894440174102783"
-    },
-    {
-      "ident": "EGXP",
-      "type": "closed",
-      "name": "RAF Scampton",
-      "elevation_ft": 202.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Lincoln, Lincolnshire",
-      "coordinates": "53.3078, -0.550833"
-    },
-    {
-      "ident": "EGXQ",
-      "type": "closed",
-      "name": "RAF Lindholme",
-      "elevation_ft": 20.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Doncaster",
-      "coordinates": "53.549999, -0.967"
-    },
-    {
-      "ident": "EGXS",
-      "type": "closed",
-      "name": "RAF Swinderby",
-      "elevation_ft": 69.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Lincoln, Lincolnshire",
-      "coordinates": "53.147532, -0.682691"
-    },
-    {
       "ident": "EGXT",
       "type": "medium_airport",
       "name": "RAF Wittering",
@@ -3402,28 +2829,6 @@
       "municipality": "Peterborough, Cambridgeshire",
       "gps_code": "EGXT",
       "coordinates": "52.612598, -0.476453"
-    },
-    {
-      "ident": "EGXU",
-      "type": "closed",
-      "name": "RAF Linton-on-Ouse",
-      "elevation_ft": 53.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "York, North Yorkshire",
-      "coordinates": "54.047749, -1.256819"
-    },
-    {
-      "ident": "EGXV",
-      "type": "closed",
-      "name": "RAF Leconfield",
-      "elevation_ft": 36.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Leconfield",
-      "coordinates": "53.875801, -0.435"
     },
     {
       "ident": "EGXW",
@@ -3461,17 +2866,6 @@
       "municipality": "Thirsk, North Yorkshire",
       "gps_code": "EGXZ",
       "coordinates": "54.204116, -1.380265"
-    },
-    {
-      "ident": "EGYC",
-      "type": "closed",
-      "name": "RAF Coltishall",
-      "elevation_ft": 66.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Norwich, Norfolk",
-      "coordinates": "52.7547, 1.35722"
     },
     {
       "ident": "EGYD",
@@ -3551,17 +2945,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "coordinates": "51.170505, -4.670758"
-    },
-    {
-      "ident": "EWY",
-      "type": "closed",
-      "name": "RAF Greenham Common",
-      "elevation_ft": 400.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Thatcham, Berkshire",
-      "coordinates": "51.379, -1.281"
     },
     {
       "ident": "FEA",
@@ -16098,6 +15481,633 @@
       "coordinates": "51.690117, -4.812355"
     },
     {
+      "ident": "GB-1211",
+      "type": "closed",
+      "name": "Manchester Woodford Airport",
+      "elevation_ft": 295.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Stockport, Greater Manchester",
+      "coordinates": "53.3381, -2.14889"
+    },
+    {
+      "ident": "GB-1212",
+      "type": "closed",
+      "name": "Robin Hood Doncaster Sheffield Airport",
+      "elevation_ft": 55.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Doncaster, South Yorkshire",
+      "coordinates": "53.475287, -1.004267"
+    },
+    {
+      "ident": "GB-1213",
+      "type": "closed",
+      "name": "RAF Lyneham",
+      "elevation_ft": 513.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Chippenham, Wiltshire",
+      "coordinates": "51.507485, -1.991511"
+    },
+    {
+      "ident": "GB-1214",
+      "type": "closed",
+      "name": "Plymouth City Airport",
+      "elevation_ft": 476.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Plymouth, Devon",
+      "coordinates": "50.424282, -4.109439"
+    },
+    {
+      "ident": "GB-1215",
+      "type": "closed",
+      "name": "Kent International Airport (Manston)",
+      "elevation_ft": 178.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Ramsgate, Kent",
+      "coordinates": "51.342201, 1.34611"
+    },
+    {
+      "ident": "GB-1216",
+      "type": "closed",
+      "name": "Brough Airport",
+      "elevation_ft": 12.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Brough",
+      "coordinates": "53.7197, -0.566333"
+    },
+    {
+      "ident": "GB-1217",
+      "type": "closed",
+      "name": "Scatsta Airport",
+      "elevation_ft": 81.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Shetland Islands",
+      "coordinates": "60.4328, -1.29611"
+    },
+    {
+      "ident": "GB-1218",
+      "type": "closed",
+      "name": "RAF Kinloss",
+      "elevation_ft": 22.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Kinloss",
+      "coordinates": "57.649399, -3.56064"
+    },
+    {
+      "ident": "GB-1219",
+      "type": "closed",
+      "name": "Sheffield City Airport",
+      "elevation_ft": 231.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Sheffield, South Yorkshire",
+      "coordinates": "53.39451, -1.39306"
+    },
+    {
+      "ident": "GB-1220",
+      "type": "closed",
+      "name": "Bristol Filton Airport",
+      "elevation_ft": 226.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Bristol, Somerset",
+      "coordinates": "51.519402, -2.59083"
+    },
+    {
+      "ident": "GB-1221",
+      "type": "closed",
+      "name": "RAF Colerne",
+      "elevation_ft": 593.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Chippenham, Wiltshire",
+      "coordinates": "51.441283, -2.283402"
+    },
+    {
+      "ident": "GB-1222",
+      "type": "closed",
+      "name": "RAF Wyton",
+      "elevation_ft": 135.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "St Ives, Cambridgeshire",
+      "coordinates": "52.357117, -0.107787"
+    },
+    {
+      "ident": "GB-1223",
+      "type": "closed",
+      "name": "Dishforth Airfield / RAF Dishforth",
+      "elevation_ft": 117.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Thirsk, North Yorkshire",
+      "coordinates": "54.140517, -1.419468"
+    },
+    {
+      "ident": "GB-1224",
+      "type": "closed",
+      "name": "RAF Cottesmore",
+      "elevation_ft": 461.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Oakham, Rutland",
+      "coordinates": "52.731772, -0.654545"
+    },
+    {
+      "ident": "GB-1225",
+      "type": "closed",
+      "name": "RAF Scampton",
+      "elevation_ft": 202.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Lincoln, Lincolnshire",
+      "coordinates": "53.3078, -0.550833"
+    },
+    {
+      "ident": "GB-1226",
+      "type": "closed",
+      "name": "RAF Linton-on-Ouse",
+      "elevation_ft": 53.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "York, North Yorkshire",
+      "coordinates": "54.047749, -1.256819"
+    },
+    {
+      "ident": "GB-1227",
+      "type": "closed",
+      "name": "RNAS Fearn Air Base",
+      "elevation_ft": 25.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Tain, Ross",
+      "coordinates": "57.757594, -3.948184"
+    },
+    {
+      "ident": "GB-1228",
+      "type": "closed",
+      "name": "Langford Lodge Air Base",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-NIR",
+      "municipality": "Belfast",
+      "coordinates": "54.62310028, -6.30000019"
+    },
+    {
+      "ident": "GB-1229",
+      "type": "closed",
+      "name": "Long Marston Airfield",
+      "elevation_ft": 154.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Long Marston",
+      "coordinates": "52.140301, -1.75361"
+    },
+    {
+      "ident": "GB-1230",
+      "type": "closed",
+      "name": "Birkdale Sands Beach Runway",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Southport",
+      "coordinates": "53.645302, -3.02861"
+    },
+    {
+      "ident": "GB-1231",
+      "type": "closed",
+      "name": "RAF Thorne",
+      "elevation_ft": 16.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Thorne",
+      "coordinates": "53.6222, -0.928056"
+    },
+    {
+      "ident": "GB-1232",
+      "type": "closed",
+      "name": "Maypole Airfield",
+      "elevation_ft": 100.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Canterbury, Kent",
+      "coordinates": "51.337508, 1.155292"
+    },
+    {
+      "ident": "GB-1233",
+      "type": "closed",
+      "name": "Penzance Heliport",
+      "elevation_ft": 14.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Penzance",
+      "coordinates": "50.128101, -5.51845"
+    },
+    {
+      "ident": "GB-1234",
+      "type": "closed",
+      "name": "Panshanger Aerodrome",
+      "elevation_ft": 249.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Welwyn Garden City, Hertfordshire",
+      "coordinates": "51.802502, -0.158056"
+    },
+    {
+      "ident": "GB-1235",
+      "type": "closed",
+      "name": "RAF West Freugh",
+      "elevation_ft": 55.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Wigtownshire",
+      "coordinates": "54.8511, -4.94778"
+    },
+    {
+      "ident": "GB-1236",
+      "type": "closed",
+      "name": "Dounreay/Thurso Airport",
+      "elevation_ft": 22.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Thurso, Highland",
+      "coordinates": "58.580973, -3.730702"
+    },
+    {
+      "ident": "GB-1237",
+      "type": "closed",
+      "name": "RAF Ballykelly (abandoned/closed)",
+      "elevation_ft": 85.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-NIR",
+      "municipality": "Ballykelly",
+      "coordinates": "55.060299, -7.02028"
+    },
+    {
+      "ident": "GB-1238",
+      "type": "closed",
+      "name": "Castle Mill Airfield",
+      "elevation_ft": 154.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Bedford, Bedfordshire",
+      "coordinates": "52.143299, -0.406111"
+    },
+    {
+      "ident": "GB-1239",
+      "type": "closed",
+      "name": "RAF Hethel",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Hethel",
+      "coordinates": "52.562801361084, 1.173329949379"
+    },
+    {
+      "ident": "GB-1240",
+      "type": "closed",
+      "name": "Bourn Airfield",
+      "elevation_ft": 226.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Cambridge, Cambridgeshire",
+      "coordinates": "52.216451, -0.040103"
+    },
+    {
+      "ident": "GB-1241",
+      "type": "closed",
+      "name": "Aylesbury/Thame Airfield",
+      "elevation_ft": 289.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Aylesbury, Buckinghamshire",
+      "coordinates": "51.775799, -0.940278"
+    },
+    {
+      "ident": "GB-1242",
+      "type": "closed",
+      "name": "RAF Newton",
+      "elevation_ft": 180.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "coordinates": "52.966400146484, -0.98944401741028"
+    },
+    {
+      "ident": "GB-1243",
+      "type": "closed",
+      "name": "RAF Leconfield",
+      "elevation_ft": 36.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Leconfield",
+      "coordinates": "53.875801, -0.435"
+    },
+    {
+      "ident": "GB-1244",
+      "type": "closed",
+      "name": "RAF Coltishall",
+      "elevation_ft": 66.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Norwich, Norfolk",
+      "coordinates": "52.7547, 1.35722"
+    },
+    {
+      "ident": "GB-1245",
+      "type": "closed",
+      "name": "RAF Alconbury",
+      "elevation_ft": 157.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Huntingdon",
+      "coordinates": "52.3744010925, -0.219722002745"
+    },
+    {
+      "ident": "GB-1246",
+      "type": "closed",
+      "name": "RAF Bentwaters",
+      "elevation_ft": 85.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Woodbridge, Suffolk",
+      "coordinates": "52.127499, 1.43472"
+    },
+    {
+      "ident": "GB-1247",
+      "type": "closed",
+      "name": "Hucknall Airfield",
+      "elevation_ft": 279.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Nottingham",
+      "coordinates": "53.014400482178, -1.2183300256729"
+    },
+    {
+      "ident": "GB-1248",
+      "type": "closed",
+      "name": "Leavesden Aerodrome",
+      "elevation_ft": 335.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Watford, Hertfordshire",
+      "coordinates": "51.689201, -0.420556"
+    },
+    {
+      "ident": "GB-1249",
+      "type": "closed",
+      "name": "RAF Sculthorpe",
+      "elevation_ft": 213.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Fakenham, Norfolk",
+      "coordinates": "52.846699, 0.766389"
+    },
+    {
+      "ident": "GB-1250",
+      "type": "closed",
+      "name": "RAF Swinderby",
+      "elevation_ft": 69.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Lincoln, Lincolnshire",
+      "coordinates": "53.147532, -0.682691"
+    },
+    {
+      "ident": "GB-1251",
+      "type": "closed",
+      "name": "RAF Upper Heyford",
+      "elevation_ft": 436.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Upper Heyford",
+      "coordinates": "51.9375, -1.2488900423"
+    },
+    {
+      "ident": "GB-1252",
+      "type": "closed",
+      "name": "Wroughton Airfield",
+      "elevation_ft": 656.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Wroughton",
+      "coordinates": "51.5061, -1.80194"
+    },
+    {
+      "ident": "GB-1253",
+      "type": "closed",
+      "name": "RAF Lindholme",
+      "elevation_ft": 20.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Doncaster",
+      "coordinates": "53.549999, -0.967"
+    },
+    {
+      "ident": "GB-1254",
+      "type": "closed",
+      "name": "RAF Binbrook",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Market Rasen, Lincolnshire",
+      "coordinates": "53.446701, -0.21"
+    },
+    {
+      "ident": "GB-1255",
+      "type": "closed",
+      "name": "RAF Brawdy",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-WLS",
+      "coordinates": "51.88375, -5.119972"
+    },
+    {
+      "ident": "GB-1256",
+      "type": "closed",
+      "name": "RAF Castletown",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Caithness",
+      "coordinates": "58.5847198881, -3.34816932678"
+    },
+    {
+      "ident": "GB-1257",
+      "type": "closed",
+      "name": "RAF Castle Combe",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Wiltshire",
+      "coordinates": "51.489722, -2.2125"
+    },
+    {
+      "ident": "GB-1258",
+      "type": "closed",
+      "name": "RNAS/RAF Calshot",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Southampton, Hampshire",
+      "coordinates": "50.819913, -1.306772"
+    },
+    {
+      "ident": "GB-1259",
+      "type": "closed",
+      "name": "RAF Manby",
+      "elevation_ft": 50.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Louth, Lincolnshire",
+      "coordinates": "53.358715, 0.082845"
+    },
+    {
+      "ident": "GB-1260",
+      "type": "closed",
+      "name": "RAF Wrexham",
+      "elevation_ft": 250.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-WLS",
+      "municipality": "Wrexham",
+      "coordinates": "53.0666666667, -2.95027777778"
+    },
+    {
+      "ident": "GB-1261",
+      "type": "closed",
+      "name": "RAF Calveley",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Cheshire",
+      "coordinates": "53.113333, -2.603889"
+    },
+    {
+      "ident": "GB-1262",
+      "type": "closed",
+      "name": "RAF Waterbeach",
+      "elevation_ft": 19.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Cambridge, Cambridgeshire",
+      "coordinates": "52.281742, 0.184532"
+    },
+    {
+      "ident": "GB-1263",
+      "type": "closed",
+      "name": "RAF Tangmere",
+      "elevation_ft": 41.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Chichester, West Sussex",
+      "coordinates": "50.847175, -0.703011"
+    },
+    {
+      "ident": "GB-1264",
+      "type": "closed",
+      "name": "RAF Thorney Island",
+      "elevation_ft": 12.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Emsworth, Hampshire",
+      "coordinates": "50.816048, -0.920034"
+    },
+    {
+      "ident": "GB-1265",
+      "type": "closed",
+      "name": "RAF Greenham Common",
+      "elevation_ft": 400.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Thatcham, Berkshire",
+      "coordinates": "51.379, -1.281"
+    },
+    {
+      "ident": "GB-1266",
+      "type": "closed",
+      "name": "RAF Lympne / Lympne Airport",
+      "elevation_ft": 351.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Hythe, Kent",
+      "coordinates": "51.079991, 1.016622"
+    },
+    {
+      "ident": "GB-1267",
+      "type": "closed",
+      "name": "RAF West Malling",
+      "elevation_ft": 308.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "West Malling, Kent",
+      "coordinates": "51.27, 0.4"
+    },
+    {
+      "ident": "GB-1268",
+      "type": "closed",
+      "name": "Croydon Airport",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Croydon, Greater London",
+      "coordinates": "51.356389, -0.117222"
+    },
+    {
       "ident": "GB-DOC",
       "type": "small_airport",
       "name": "Dornoch Airfield",
@@ -16168,16 +16178,6 @@
       "municipality": "Glenforsa",
       "iata_code": "ULL",
       "coordinates": "56.517202, -5.91401"
-    },
-    {
-      "ident": "MJG",
-      "type": "closed",
-      "name": "RAF Castle Combe",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Wiltshire",
-      "coordinates": "51.489722, -2.2125"
     },
     {
       "ident": "US-0214",

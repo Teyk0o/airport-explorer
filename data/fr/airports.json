@@ -2,7 +2,7 @@
   "country_code": "FR",
   "country_name": "France",
   "total_airports": 1709,
-  "last_updated": "2025-02-27T00:08:24.620538",
+  "last_updated": "2025-02-28T00:08:11.893240",
   "types_distribution": {
     "heliport": 394,
     "small_airport": 1052,
@@ -13775,6 +13775,393 @@
       "coordinates": "50.6785, 3.17441"
     },
     {
+      "ident": "FR-1237",
+      "type": "closed",
+      "name": "Ancien Aérodrome de Brive-La Roche",
+      "elevation_ft": 379.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-NAQ",
+      "municipality": "Brive-la-Gaillarde",
+      "coordinates": "45.150799, 1.469202"
+    },
+    {
+      "ident": "FR-1238",
+      "type": "closed",
+      "name": "Cambrai-Épinoy (BA 103) Air Base",
+      "elevation_ft": 257.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-HDF",
+      "municipality": "Épinoy, Pas-de-Calais",
+      "coordinates": "50.221802, 3.15424"
+    },
+    {
+      "ident": "FR-1239",
+      "type": "closed",
+      "name": "Colmar-Meyenheim Air Base",
+      "elevation_ft": 693.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Meyenheim",
+      "coordinates": "47.922001, 7.39967"
+    },
+    {
+      "ident": "FR-1240",
+      "type": "closed",
+      "name": "Metz-Frescaty (BA 128) Air Base",
+      "elevation_ft": 629.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Augny",
+      "coordinates": "49.073415, 6.132946"
+    },
+    {
+      "ident": "FR-1241",
+      "type": "closed",
+      "name": "Reims-Champagne (BA 112) Air Base",
+      "elevation_ft": 312.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Bétheny, Marne",
+      "coordinates": "49.310001, 4.05"
+    },
+    {
+      "ident": "FR-1242",
+      "type": "closed",
+      "name": "Damblain Air Base",
+      "elevation_ft": 1280.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Damblain, Vosges",
+      "coordinates": "48.0863, 5.66406"
+    },
+    {
+      "ident": "FR-1243",
+      "type": "closed",
+      "name": "Condé-sur-Noireau Airfield",
+      "elevation_ft": 833.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-NOR",
+      "municipality": "Clécy",
+      "coordinates": "48.890681, -0.503569"
+    },
+    {
+      "ident": "FR-1244",
+      "type": "closed",
+      "name": "Bordeaux Souge Air Base",
+      "elevation_ft": 135.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-NAQ",
+      "municipality": "Bordeaux",
+      "coordinates": "44.851093, -0.805493"
+    },
+    {
+      "ident": "FR-1245",
+      "type": "closed",
+      "name": "Arbois Airfield",
+      "elevation_ft": 876.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "municipality": "Arbois, Jura",
+      "coordinates": "46.919998, 5.76"
+    },
+    {
+      "ident": "FR-1246",
+      "type": "closed",
+      "name": "Thionville Yutz Airport",
+      "elevation_ft": 518.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Yutz",
+      "coordinates": "49.354698, 6.20139"
+    },
+    {
+      "ident": "FR-1247",
+      "type": "closed",
+      "name": "Ancien aérodrome de Sallanches Mont-Blanc",
+      "elevation_ft": 1755.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-ARA",
+      "coordinates": "45.953899, 6.63917"
+    },
+    {
+      "ident": "FR-1248",
+      "type": "closed",
+      "name": "Chailley Airfield",
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "municipality": "Chailley, Yonne",
+      "coordinates": "48.07915, 3.712921"
+    },
+    {
+      "ident": "FR-1249",
+      "type": "closed",
+      "name": "Oyonnax-Arbent Airfield",
+      "elevation_ft": 1755.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-ARA",
+      "municipality": "Arbent, Ain",
+      "coordinates": "46.278424, 5.666342"
+    },
+    {
+      "ident": "FR-1250",
+      "type": "closed",
+      "name": "Pont-Saint-Esprit Airfield",
+      "elevation_ft": 144.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-OCC",
+      "municipality": "Lamotte-du-Rhône, Vaucluse",
+      "coordinates": "44.269402, 4.65333"
+    },
+    {
+      "ident": "FR-1251",
+      "type": "closed",
+      "name": "Pézenas Nizas Airfield",
+      "elevation_ft": 322.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-OCC",
+      "coordinates": "43.505798, 3.41361"
+    },
+    {
+      "ident": "FR-1252",
+      "type": "closed",
+      "name": "Brétigny-sur-Orge Air Base",
+      "elevation_ft": 270.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-IDF",
+      "municipality": "Le Plessis-Pâté, Essonne",
+      "coordinates": "48.5961, 2.33222"
+    },
+    {
+      "ident": "FR-1253",
+      "type": "closed",
+      "name": "Romilly Sur Seine Airfield",
+      "elevation_ft": 267.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "coordinates": "48.500599, 3.76333"
+    },
+    {
+      "ident": "FR-1254",
+      "type": "closed",
+      "name": "Aérodrome d'Angers Avrillé",
+      "elevation_ft": 187.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-PDL",
+      "municipality": "Angers",
+      "coordinates": "47.499199, -0.572778"
+    },
+    {
+      "ident": "FR-1255",
+      "type": "closed",
+      "name": "Champ de Courses Airfield",
+      "elevation_ft": 1076.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Vittel, Vosges",
+      "coordinates": "48.2239, 5.93528"
+    },
+    {
+      "ident": "FR-1256",
+      "type": "closed",
+      "name": "Fréjus Airport",
+      "elevation_ft": 33.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-PAC",
+      "municipality": "Fréjus, Var",
+      "coordinates": "43.417524, 6.735697"
+    },
+    {
+      "ident": "FR-1257",
+      "type": "closed",
+      "name": "Vittel-Auzainvilliers Airfield",
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Auzainvilliers, Vosges",
+      "coordinates": "48.2286, 5.84302"
+    },
+    {
+      "ident": "FR-1258",
+      "type": "closed",
+      "name": "Bitche Army Air Base",
+      "elevation_ft": 984.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "coordinates": "49.06007, 7.45009"
+    },
+    {
+      "ident": "FR-1259",
+      "type": "closed",
+      "name": "Le Valdahon Air Base",
+      "elevation_ft": 2067.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "coordinates": "47.166698, 6.35"
+    },
+    {
+      "ident": "FR-1260",
+      "type": "closed",
+      "name": "Apt St Christol Air Base",
+      "elevation_ft": 2736.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-PAC",
+      "municipality": "Saint-Christol",
+      "coordinates": "44.058234, 5.494654"
+    },
+    {
+      "ident": "FR-1261",
+      "type": "closed",
+      "name": "Mourmelon Air Base",
+      "elevation_ft": 387.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Mourmelon-le-Grand",
+      "coordinates": "49.111401, 4.36694"
+    },
+    {
+      "ident": "FR-1262",
+      "type": "closed",
+      "name": "Rochefort Soubise Airfield",
+      "elevation_ft": 13.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-NAQ",
+      "coordinates": "45.930801, -0.995278"
+    },
+    {
+      "ident": "FR-1263",
+      "type": "closed",
+      "name": "Broyes-lès-Pesmes Air Base",
+      "elevation_ft": 682.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "municipality": "Broye-Aubigney-Montseugny, Haute-Saône",
+      "coordinates": "47.332932, 5.513494"
+    },
+    {
+      "ident": "FR-1264",
+      "type": "closed",
+      "name": "Lure Malbouhans Air Base",
+      "elevation_ft": 1040.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "municipality": "La Neuvelle-lès-Lure",
+      "coordinates": "47.7047, 6.54583"
+    },
+    {
+      "ident": "FR-1265",
+      "type": "closed",
+      "name": "Marigny Le Grand Air Base",
+      "elevation_ft": 329.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Marigny, Marne",
+      "coordinates": "48.661215, 3.83563"
+    },
+    {
+      "ident": "FR-1266",
+      "type": "closed",
+      "name": "Saint-Simon - Clastres Air Base",
+      "elevation_ft": 295.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-HDF",
+      "municipality": "Clastres, Aisne",
+      "coordinates": "49.757542, 3.21598"
+    },
+    {
+      "ident": "FR-1267",
+      "type": "closed",
+      "name": "Guyancourt Airport",
+      "elevation_ft": 541.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-IDF",
+      "municipality": "Guyancourt, Yvelines",
+      "coordinates": "48.7603, 2.0625"
+    },
+    {
+      "ident": "FR-1268",
+      "type": "closed",
+      "name": "St Malo St Serva Airfield",
+      "elevation_ft": 151.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BRE",
+      "municipality": "Saint-Malo, Ille-et-Vilaine",
+      "coordinates": "48.613602, -1.97361"
+    },
+    {
+      "ident": "FR-1269",
+      "type": "closed",
+      "name": "Belfort-Fontaine Airfield",
+      "elevation_ft": 1208.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "municipality": "Fontaine",
+      "coordinates": "47.655602, 7.01083"
+    },
+    {
+      "ident": "FR-1270",
+      "type": "closed",
+      "name": "Aérodrome de Soissons-Cuffies",
+      "elevation_ft": 138.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-HDF",
+      "municipality": "Cuffies, Aisne",
+      "coordinates": "49.400002, 3.317"
+    },
+    {
+      "ident": "FR-1271",
+      "type": "closed",
+      "name": "Montaudran Airfield",
+      "elevation_ft": 482.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-OCC",
+      "municipality": "Toulouse, Haute-Garonne",
+      "coordinates": "43.568901, 1.48083"
+    },
+    {
+      "ident": "FR-1272",
+      "type": "closed",
+      "name": "Moussoulens Air Base",
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-OCC",
+      "municipality": "Moussoulens",
+      "coordinates": "43.279701, 2.20885"
+    },
+    {
       "ident": "FR-JCA",
       "type": "heliport",
       "name": "Cannes Croisette Heliport",
@@ -13783,16 +14170,6 @@
       "iso_region": "FR-PAC",
       "municipality": "Cannes, Alpes-Maritimes",
       "coordinates": "43.535287, 7.038296"
-    },
-    {
-      "ident": "LF34",
-      "type": "closed",
-      "name": "Moussoulens Air Base",
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-OCC",
-      "municipality": "Moussoulens",
-      "coordinates": "43.279701, 2.20885"
     },
     {
       "ident": "LF50",
@@ -13894,17 +14271,6 @@
       "coordinates": "49.868871, 3.029566"
     },
     {
-      "ident": "LFAH",
-      "type": "closed",
-      "name": "Aérodrome de Soissons-Cuffies",
-      "elevation_ft": 138.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-HDF",
-      "municipality": "Cuffies, Aisne",
-      "coordinates": "49.400002, 3.317"
-    },
-    {
       "ident": "LFAI",
       "type": "small_airport",
       "name": "Nangis-Les Loges Aerodrome",
@@ -13963,17 +14329,6 @@
       "municipality": "Berck-sur-Mer",
       "gps_code": "LFAM",
       "coordinates": "50.4231, 1.59194"
-    },
-    {
-      "ident": "LFAN",
-      "type": "closed",
-      "name": "Condé-sur-Noireau Airfield",
-      "elevation_ft": 833.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-NOR",
-      "municipality": "Clécy",
-      "coordinates": "48.890681, -0.503569"
     },
     {
       "ident": "LFAO",
@@ -14349,17 +14704,6 @@
       "gps_code": "LFBU",
       "iata_code": "ANG",
       "coordinates": "45.729198, 0.221456"
-    },
-    {
-      "ident": "LFBV",
-      "type": "closed",
-      "name": "Ancien Aérodrome de Brive-La Roche",
-      "elevation_ft": 379.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-NAQ",
-      "municipality": "Brive-la-Gaillarde",
-      "coordinates": "45.150799, 1.469202"
     },
     {
       "ident": "LFBX",
@@ -14865,17 +15209,6 @@
       "coordinates": "45.887798, -0.983056"
     },
     {
-      "ident": "LFDO",
-      "type": "closed",
-      "name": "Bordeaux Souge Air Base",
-      "elevation_ft": 135.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-NAQ",
-      "municipality": "Bordeaux",
-      "coordinates": "44.851093, -0.805493"
-    },
-    {
       "ident": "LFDP",
       "type": "small_airport",
       "name": "St Pierre d'Oléron Airfield",
@@ -15155,17 +15488,6 @@
       "municipality": "Sorigny, Indre-et-Loire",
       "gps_code": "LFEN",
       "coordinates": "47.266071, 0.698691"
-    },
-    {
-      "ident": "LFEO",
-      "type": "closed",
-      "name": "St Malo St Serva Airfield",
-      "elevation_ft": 151.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BRE",
-      "municipality": "Saint-Malo, Ille-et-Vilaine",
-      "coordinates": "48.613602, -1.97361"
     },
     {
       "ident": "LFEP",
@@ -15609,17 +15931,6 @@
       "coordinates": "48.553263, 7.776604"
     },
     {
-      "ident": "LFGD",
-      "type": "closed",
-      "name": "Arbois Airfield",
-      "elevation_ft": 876.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "municipality": "Arbois, Jura",
-      "coordinates": "46.919998, 5.76"
-    },
-    {
       "ident": "LFGE",
       "type": "small_airport",
       "name": "Avallon Airfield",
@@ -15822,17 +16133,6 @@
       "iso_region": "FR-GES",
       "gps_code": "LFGU",
       "coordinates": "49.128101, 7.10833"
-    },
-    {
-      "ident": "LFGV",
-      "type": "closed",
-      "name": "Thionville Yutz Airport",
-      "elevation_ft": 518.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Yutz",
-      "coordinates": "49.354698, 6.20139"
     },
     {
       "ident": "LFGW",
@@ -16160,16 +16460,6 @@
       "coordinates": "46.534599, 3.42372"
     },
     {
-      "ident": "LFHZ",
-      "type": "closed",
-      "name": "Ancien aérodrome de Sallanches Mont-Blanc",
-      "elevation_ft": 1755.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-ARA",
-      "coordinates": "45.953899, 6.63917"
-    },
-    {
       "ident": "LFIB",
       "type": "small_airport",
       "name": "Aérodrome de Belvès Saint-Pardoux",
@@ -16260,17 +16550,6 @@
       "municipality": "Clarac, Hautes-Pyrénées",
       "gps_code": "LFIM",
       "coordinates": "43.107425, 0.619132"
-    },
-    {
-      "ident": "LFIO",
-      "type": "closed",
-      "name": "Montaudran Airfield",
-      "elevation_ft": 482.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-OCC",
-      "municipality": "Toulouse, Haute-Garonne",
-      "coordinates": "43.568901, 1.48083"
     },
     {
       "ident": "LFIP",
@@ -16453,16 +16732,6 @@
       "gps_code": "LFJL",
       "iata_code": "ETZ",
       "coordinates": "48.982101, 6.25132"
-    },
-    {
-      "ident": "LFJM",
-      "type": "closed",
-      "name": "Chailley Airfield",
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "municipality": "Chailley, Yonne",
-      "coordinates": "48.07915, 3.712921"
     },
     {
       "ident": "LFJR",
@@ -16869,17 +17138,6 @@
       "gps_code": "LFLJ",
       "iata_code": "CVF",
       "coordinates": "45.397531, 6.63498"
-    },
-    {
-      "ident": "LFLK",
-      "type": "closed",
-      "name": "Oyonnax-Arbent Airfield",
-      "elevation_ft": 1755.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-ARA",
-      "municipality": "Arbent, Ain",
-      "coordinates": "46.278424, 5.666342"
     },
     {
       "ident": "LFLL",
@@ -17397,17 +17655,6 @@
       "coordinates": "44.701698, 6.60028"
     },
     {
-      "ident": "LFND",
-      "type": "closed",
-      "name": "Pont-Saint-Esprit Airfield",
-      "elevation_ft": 144.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-OCC",
-      "municipality": "Lamotte-du-Rhône, Vaucluse",
-      "coordinates": "44.269402, 4.65333"
-    },
-    {
       "ident": "LFNE",
       "type": "small_airport",
       "name": "Aérodrome d'Eyguières",
@@ -17486,16 +17733,6 @@
       "iso_region": "FR-OCC",
       "gps_code": "LFNO",
       "coordinates": "44.2864, 3.46667"
-    },
-    {
-      "ident": "LFNP",
-      "type": "closed",
-      "name": "Pézenas Nizas Airfield",
-      "elevation_ft": 322.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-OCC",
-      "coordinates": "43.505798, 3.41361"
     },
     {
       "ident": "LFNQ",
@@ -18133,17 +18370,6 @@
       "coordinates": "48.706276, 2.902849"
     },
     {
-      "ident": "LFPR",
-      "type": "closed",
-      "name": "Guyancourt Airport",
-      "elevation_ft": 541.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-IDF",
-      "municipality": "Guyancourt, Yvelines",
-      "coordinates": "48.7603, 2.0625"
-    },
-    {
       "ident": "LFPT",
       "type": "medium_airport",
       "name": "Pontoise-Cormeilles Aerodrome",
@@ -18192,17 +18418,6 @@
       "municipality": "Chavenay, Yvelines",
       "gps_code": "LFPX",
       "coordinates": "48.842323, 1.9805"
-    },
-    {
-      "ident": "LFPY",
-      "type": "closed",
-      "name": "Brétigny-sur-Orge Air Base",
-      "elevation_ft": 270.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-IDF",
-      "municipality": "Le Plessis-Pâté, Essonne",
-      "coordinates": "48.5961, 2.33222"
     },
     {
       "ident": "LFPZ",
@@ -18314,17 +18529,6 @@
       "coordinates": "47.843924, 4.580045"
     },
     {
-      "ident": "LFQI",
-      "type": "closed",
-      "name": "Cambrai-Épinoy (BA 103) Air Base",
-      "elevation_ft": 257.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-HDF",
-      "municipality": "Épinoy, Pas-de-Calais",
-      "coordinates": "50.221802, 3.15424"
-    },
-    {
       "ident": "LFQJ",
       "type": "small_airport",
       "name": "Maubeuge-Élesmes Airfield",
@@ -18422,16 +18626,6 @@
       "coordinates": "50.563332, 3.086886"
     },
     {
-      "ident": "LFQR",
-      "type": "closed",
-      "name": "Romilly Sur Seine Airfield",
-      "elevation_ft": 267.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "coordinates": "48.500599, 3.76333"
-    },
-    {
       "ident": "LFQS",
       "type": "small_airport",
       "name": "Vitry-en-Artois Airfield",
@@ -18527,17 +18721,6 @@
       "municipality": "Gelucourt",
       "gps_code": "LFQZ",
       "coordinates": "48.774378, 6.714106"
-    },
-    {
-      "ident": "LFRA",
-      "type": "closed",
-      "name": "Aérodrome d'Angers Avrillé",
-      "elevation_ft": 187.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-PDL",
-      "municipality": "Angers",
-      "coordinates": "47.499199, -0.572778"
     },
     {
       "ident": "LFRB",
@@ -18848,17 +19031,6 @@
       "coordinates": "47.60068, 7.521117"
     },
     {
-      "ident": "LFSC",
-      "type": "closed",
-      "name": "Colmar-Meyenheim Air Base",
-      "elevation_ft": 693.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Meyenheim",
-      "coordinates": "47.922001, 7.39967"
-    },
-    {
       "ident": "LFSD",
       "type": "medium_airport",
       "name": "Dijon-Bourgogne Airport",
@@ -18882,17 +19054,6 @@
       "municipality": "Dogneville",
       "gps_code": "LFSE",
       "coordinates": "48.211899, 6.44917"
-    },
-    {
-      "ident": "LFSF",
-      "type": "closed",
-      "name": "Metz-Frescaty (BA 128) Air Base",
-      "elevation_ft": 629.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Augny",
-      "coordinates": "49.073415, 6.132946"
     },
     {
       "ident": "LFSG",
@@ -19018,28 +19179,6 @@
       "coordinates": "46.904032, 6.326826"
     },
     {
-      "ident": "LFSQ",
-      "type": "closed",
-      "name": "Belfort-Fontaine Airfield",
-      "elevation_ft": 1208.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "municipality": "Fontaine",
-      "coordinates": "47.655602, 7.01083"
-    },
-    {
-      "ident": "LFSR",
-      "type": "closed",
-      "name": "Reims-Champagne (BA 112) Air Base",
-      "elevation_ft": 312.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Bétheny, Marne",
-      "coordinates": "49.310001, 4.05"
-    },
-    {
       "ident": "LFSS",
       "type": "small_airport",
       "name": "Saint Sulpice des Landes",
@@ -19124,17 +19263,6 @@
       "coordinates": "47.609375, 4.618199"
     },
     {
-      "ident": "LFSZ",
-      "type": "closed",
-      "name": "Champ de Courses Airfield",
-      "elevation_ft": 1076.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Vittel, Vosges",
-      "coordinates": "48.2239, 5.93528"
-    },
-    {
       "ident": "LFTF",
       "type": "small_airport",
       "name": "Cuers-Pierrefeu Airfield",
@@ -19216,17 +19344,6 @@
       "coordinates": "43.082699, 5.93382"
     },
     {
-      "ident": "LFTU",
-      "type": "closed",
-      "name": "Fréjus Airport",
-      "elevation_ft": 33.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-PAC",
-      "municipality": "Fréjus, Var",
-      "coordinates": "43.417524, 6.735697"
-    },
-    {
       "ident": "LFTW",
       "type": "medium_airport",
       "name": "Nîmes-Arles-Camargue Airport",
@@ -19276,58 +19393,6 @@
       "coordinates": "45.7019, -0.636111"
     },
     {
-      "ident": "LFXC",
-      "type": "closed",
-      "name": "Vittel-Auzainvilliers Airfield",
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Auzainvilliers, Vosges",
-      "coordinates": "48.2286, 5.84302"
-    },
-    {
-      "ident": "LFXG",
-      "type": "closed",
-      "name": "Bitche Army Air Base",
-      "elevation_ft": 984.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "coordinates": "49.06007, 7.45009"
-    },
-    {
-      "ident": "LFXH",
-      "type": "closed",
-      "name": "Le Valdahon Air Base",
-      "elevation_ft": 2067.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "coordinates": "47.166698, 6.35"
-    },
-    {
-      "ident": "LFXI",
-      "type": "closed",
-      "name": "Apt St Christol Air Base",
-      "elevation_ft": 2736.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-PAC",
-      "municipality": "Saint-Christol",
-      "coordinates": "44.058234, 5.494654"
-    },
-    {
-      "ident": "LFXM",
-      "type": "closed",
-      "name": "Mourmelon Air Base",
-      "elevation_ft": 387.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Mourmelon-le-Grand",
-      "coordinates": "49.111401, 4.36694"
-    },
-    {
       "ident": "LFXQ",
       "type": "small_airport",
       "name": "Coëtquidan Air Base",
@@ -19338,16 +19403,6 @@
       "municipality": "Guer",
       "gps_code": "LFXQ",
       "coordinates": "47.943056, -2.185872"
-    },
-    {
-      "ident": "LFXR",
-      "type": "closed",
-      "name": "Rochefort Soubise Airfield",
-      "elevation_ft": 13.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-NAQ",
-      "coordinates": "45.930801, -0.995278"
     },
     {
       "ident": "LFXU",
@@ -19362,17 +19417,6 @@
       "coordinates": "48.998299, 1.94278"
     },
     {
-      "ident": "LFYD",
-      "type": "closed",
-      "name": "Damblain Air Base",
-      "elevation_ft": 1280.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Damblain, Vosges",
-      "coordinates": "48.0863, 5.66406"
-    },
-    {
       "ident": "LFYG",
       "type": "small_airport",
       "name": "Cambrai Niergnies Airfield",
@@ -19385,17 +19429,6 @@
       "coordinates": "50.140533, 3.263226"
     },
     {
-      "ident": "LFYH",
-      "type": "closed",
-      "name": "Broyes-lès-Pesmes Air Base",
-      "elevation_ft": 682.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "municipality": "Broye-Aubigney-Montseugny, Haute-Saône",
-      "coordinates": "47.332932, 5.513494"
-    },
-    {
       "ident": "LFYK",
       "type": "small_airport",
       "name": "Marville Montmédy Airfield",
@@ -19406,28 +19439,6 @@
       "municipality": "Marville, Meuse",
       "local_code": "LF5526",
       "coordinates": "49.456944, 5.411389"
-    },
-    {
-      "ident": "LFYL",
-      "type": "closed",
-      "name": "Lure Malbouhans Air Base",
-      "elevation_ft": 1040.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "municipality": "La Neuvelle-lès-Lure",
-      "coordinates": "47.7047, 6.54583"
-    },
-    {
-      "ident": "LFYM",
-      "type": "closed",
-      "name": "Marigny Le Grand Air Base",
-      "elevation_ft": 329.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Marigny, Marne",
-      "coordinates": "48.661215, 3.83563"
     },
     {
       "ident": "LFYR",
@@ -19451,17 +19462,6 @@
       "iso_region": "FR-OCC",
       "gps_code": "LFYS",
       "coordinates": "42.447201, 2.01083"
-    },
-    {
-      "ident": "LFYT",
-      "type": "closed",
-      "name": "Saint-Simon - Clastres Air Base",
-      "elevation_ft": 295.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-HDF",
-      "municipality": "Clastres, Aisne",
-      "coordinates": "49.757542, 3.21598"
     },
     {
       "ident": "LFYV",

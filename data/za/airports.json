@@ -2,13 +2,13 @@
   "country_code": "ZA",
   "country_name": "South Africa",
   "total_airports": 652,
-  "last_updated": "2025-02-27T00:08:24.610139",
+  "last_updated": "2025-02-28T00:08:11.882048",
   "types_distribution": {
     "medium_airport": 57,
-    "closed": 28,
     "small_airport": 514,
     "large_airport": 3,
     "heliport": 49,
+    "closed": 28,
     "balloonport": 1
   },
   "airports": [
@@ -24,17 +24,6 @@
       "gps_code": "FAAB",
       "iata_code": "ALJ",
       "coordinates": "-28.575001, 16.5333"
-    },
-    {
-      "ident": "FAAD",
-      "type": "closed",
-      "name": "Adelaide Airport",
-      "elevation_ft": 1955.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-EC",
-      "municipality": "Adelaide",
-      "coordinates": "-32.6831016541, 26.2942008972"
     },
     {
       "ident": "FAAE",
@@ -253,16 +242,6 @@
       "municipality": "Bethlehem",
       "gps_code": "FABM",
       "coordinates": "-28.2484, 28.3361"
-    },
-    {
-      "ident": "FABN",
-      "type": "closed",
-      "name": "Barberton Municipal Airfield",
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-MP",
-      "municipality": "Barberton",
-      "coordinates": "-25.778600692699996, 31.017499923699997"
     },
     {
       "ident": "FABO",
@@ -738,17 +717,6 @@
       "coordinates": "-30.556499481201172, 29.408199310302734"
     },
     {
-      "ident": "FADN",
-      "type": "closed",
-      "name": "Durban International Airport",
-      "elevation_ft": 33.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NL",
-      "municipality": "Durban",
-      "coordinates": "-29.969798, 30.950257"
-    },
-    {
       "ident": "FADO",
       "type": "small_airport",
       "name": "Dendron Airport",
@@ -1200,17 +1168,6 @@
       "coordinates": "-32.193599700927734, 24.541400909423828"
     },
     {
-      "ident": "FAGS",
-      "type": "closed",
-      "name": "Giants Castle Airport",
-      "elevation_ft": 6086.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NL",
-      "municipality": "Giant'S Castle Game Reserve",
-      "coordinates": "-29.269699, 29.566099"
-    },
-    {
       "ident": "FAGT",
       "type": "small_airport",
       "name": "Grahamstown Airport",
@@ -1404,17 +1361,6 @@
       "coordinates": "-28.0166049887, 32.2751712799"
     },
     {
-      "ident": "FAHM",
-      "type": "closed",
-      "name": "Hermanus Airport",
-      "elevation_ft": 72.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-WC",
-      "municipality": "Hermanus",
-      "coordinates": "-34.415276, 19.184074"
-    },
-    {
       "ident": "FAHO",
       "type": "small_airport",
       "name": "Heilbron Airport",
@@ -1523,17 +1469,6 @@
       "municipality": "Idutywa",
       "gps_code": "FAID",
       "coordinates": "-32.099998474121094, 28.316699981689453"
-    },
-    {
-      "ident": "FAIO",
-      "type": "closed",
-      "name": "Odi Airport",
-      "elevation_ft": 3862.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NW",
-      "municipality": "Lerulaneng",
-      "coordinates": "-25.5499992371, 27.933000564599997"
     },
     {
       "ident": "FAIS",
@@ -2323,17 +2258,6 @@
       "coordinates": "-27.626100540161133, 32.0443000793457"
     },
     {
-      "ident": "FAMV",
-      "type": "closed",
-      "name": "Montrose Airport",
-      "elevation_ft": 2690.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NP",
-      "municipality": "Montrose",
-      "coordinates": "-24.625, 30.186111"
-    },
-    {
       "ident": "FAMX",
       "type": "small_airport",
       "name": "Mbazwana Airport",
@@ -2903,17 +2827,6 @@
       "coordinates": "-25.847700119, 23.537300109900002"
     },
     {
-      "ident": "FAQR",
-      "type": "closed",
-      "name": "Potgietersrus Airport",
-      "elevation_ft": 3500.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NP",
-      "municipality": "Potgietersus",
-      "coordinates": "-24.233334, 28.983334"
-    },
-    {
       "ident": "FAQT",
       "type": "medium_airport",
       "name": "Queenstown Airport",
@@ -3036,17 +2949,6 @@
       "municipality": "Maasstroom",
       "gps_code": "FARZ",
       "coordinates": "-22.78420066833496, 28.430299758911133"
-    },
-    {
-      "ident": "FASA",
-      "type": "closed",
-      "name": "Sani Pass Airport",
-      "elevation_ft": 5933.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NL",
-      "municipality": "Sani Pass",
-      "coordinates": "-29.6572, 29.447701"
     },
     {
       "ident": "FASB",
@@ -3364,17 +3266,6 @@
       "municipality": "Thabazimbi",
       "gps_code": "FATI",
       "coordinates": "-24.5760850299, 27.4196863174"
-    },
-    {
-      "ident": "FATK",
-      "type": "closed",
-      "name": "Tsitsikama Fly Airport",
-      "elevation_ft": 381.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-EC",
-      "municipality": "Tsitsikama",
-      "coordinates": "-34.084702, 24.2897"
     },
     {
       "ident": "FATM",
@@ -3964,17 +3855,6 @@
       "municipality": "Cape Town",
       "gps_code": "FAYP",
       "coordinates": "-33.90019989013672, 18.498300552368164"
-    },
-    {
-      "ident": "FAZA",
-      "type": "closed",
-      "name": "Zastron Airport",
-      "elevation_ft": 4265.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-FS",
-      "municipality": "Zastron",
-      "coordinates": "-30.30619, 27.106854"
     },
     {
       "ident": "FAZP",
@@ -7478,6 +7358,126 @@
       "iso_region": "ZA-FS",
       "municipality": "Jacobsdal",
       "coordinates": "-29.192692, 24.739475"
+    },
+    {
+      "ident": "ZA-0327",
+      "type": "closed",
+      "name": "Durban International Airport",
+      "elevation_ft": 33.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NL",
+      "municipality": "Durban",
+      "coordinates": "-29.969798, 30.950257"
+    },
+    {
+      "ident": "ZA-0328",
+      "type": "closed",
+      "name": "Adelaide Airport",
+      "elevation_ft": 1955.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-EC",
+      "municipality": "Adelaide",
+      "coordinates": "-32.6831016541, 26.2942008972"
+    },
+    {
+      "ident": "ZA-0329",
+      "type": "closed",
+      "name": "Barberton Municipal Airfield",
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-MP",
+      "municipality": "Barberton",
+      "coordinates": "-25.7786006927, 31.0174999237"
+    },
+    {
+      "ident": "ZA-0330",
+      "type": "closed",
+      "name": "Giants Castle Airport",
+      "elevation_ft": 6086.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NL",
+      "municipality": "Giant'S Castle Game Reserve",
+      "coordinates": "-29.269699, 29.566099"
+    },
+    {
+      "ident": "ZA-0331",
+      "type": "closed",
+      "name": "Tsitsikama Fly Airport",
+      "elevation_ft": 381.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-EC",
+      "municipality": "Tsitsikama",
+      "coordinates": "-34.084702, 24.2897"
+    },
+    {
+      "ident": "ZA-0332",
+      "type": "closed",
+      "name": "Hermanus Airport",
+      "elevation_ft": 72.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-WC",
+      "municipality": "Hermanus",
+      "coordinates": "-34.415276, 19.184074"
+    },
+    {
+      "ident": "ZA-0333",
+      "type": "closed",
+      "name": "Odi Airport",
+      "elevation_ft": 3862.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NW",
+      "municipality": "Lerulaneng",
+      "coordinates": "-25.5499992371, 27.9330005646"
+    },
+    {
+      "ident": "ZA-0334",
+      "type": "closed",
+      "name": "Zastron Airport",
+      "elevation_ft": 4265.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-FS",
+      "municipality": "Zastron",
+      "coordinates": "-30.30619, 27.106854"
+    },
+    {
+      "ident": "ZA-0335",
+      "type": "closed",
+      "name": "Sani Pass Airport",
+      "elevation_ft": 5933.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NL",
+      "municipality": "Sani Pass",
+      "coordinates": "-29.6572, 29.447701"
+    },
+    {
+      "ident": "ZA-0336",
+      "type": "closed",
+      "name": "Montrose Airport",
+      "elevation_ft": 2690.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Montrose",
+      "coordinates": "-24.625, 30.186111"
+    },
+    {
+      "ident": "ZA-0337",
+      "type": "closed",
+      "name": "Potgietersrus Airport",
+      "elevation_ft": 3500.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Potgietersus",
+      "coordinates": "-24.233334, 28.983334"
     },
     {
       "ident": "ZA-KIG",

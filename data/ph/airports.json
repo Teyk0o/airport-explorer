@@ -2,12 +2,12 @@
   "country_code": "PH",
   "country_name": "Philippines",
   "total_airports": 797,
-  "last_updated": "2025-02-27T00:08:24.303958",
+  "last_updated": "2025-02-28T00:08:11.566800",
   "types_distribution": {
     "small_airport": 196,
-    "closed": 137,
     "medium_airport": 54,
     "heliport": 400,
+    "closed": 137,
     "seaplane_base": 6,
     "balloonport": 1,
     "large_airport": 3
@@ -23,17 +23,6 @@
       "iso_region": "PH-PAM",
       "municipality": "Magalang",
       "coordinates": "15.254326, 120.677772"
-    },
-    {
-      "ident": "BNQ",
-      "type": "closed",
-      "name": "Baganga Airport",
-      "elevation_ft": 42.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-DAO",
-      "municipality": "Baganga",
-      "coordinates": "7.611944, 126.568889"
     },
     {
       "ident": "CGG",
@@ -7131,6 +7120,94 @@
       "coordinates": "15.0984, 120.66929"
     },
     {
+      "ident": "PH-0679",
+      "type": "closed",
+      "name": "Nonoc Airport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-SUN",
+      "municipality": "Surigao City (Nonoc Island)",
+      "coordinates": "9.809309, 125.595318"
+    },
+    {
+      "ident": "PH-0680",
+      "type": "closed",
+      "name": "Magat River Multipurpose Project  Airstrip",
+      "elevation_ft": 384.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ISA",
+      "municipality": "Ramon",
+      "coordinates": "16.829927, 121.499659"
+    },
+    {
+      "ident": "PH-0681",
+      "type": "closed",
+      "name": "Legazpi City International Airport",
+      "elevation_ft": 66.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ALB",
+      "municipality": "Legazpi City",
+      "coordinates": "13.1575, 123.735"
+    },
+    {
+      "ident": "PH-0682",
+      "type": "closed",
+      "name": "Bacolod City Domestic Airport",
+      "elevation_ft": 26.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-NEC",
+      "municipality": "Bacolod City",
+      "coordinates": "10.64244, 122.9296"
+    },
+    {
+      "ident": "PH-0683",
+      "type": "closed",
+      "name": "Tagbilaran Airport",
+      "elevation_ft": 38.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BOH",
+      "municipality": "Tagbilaran City",
+      "coordinates": "9.665442, 123.853533"
+    },
+    {
+      "ident": "PH-0684",
+      "type": "closed",
+      "name": "Malaybalay Airport",
+      "elevation_ft": 2051.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BUK",
+      "municipality": "Malaybalay City",
+      "coordinates": "8.14166, 125.117"
+    },
+    {
+      "ident": "PH-0685",
+      "type": "closed",
+      "name": "Baganga Airport",
+      "elevation_ft": 42.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAO",
+      "municipality": "Baganga",
+      "coordinates": "7.611944, 126.568889"
+    },
+    {
+      "ident": "PH-0686",
+      "type": "closed",
+      "name": "Siasi Airport",
+      "elevation_ft": 170.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-SLU",
+      "municipality": "Siasi",
+      "coordinates": "5.566779, 120.841627"
+    },
+    {
       "ident": "PRNO",
       "type": "small_airport",
       "name": "Siocon Airport",
@@ -7155,28 +7232,6 @@
       "gps_code": "RP12",
       "local_code": "RP12",
       "coordinates": "13.9002, 121.744003"
-    },
-    {
-      "ident": "RP13",
-      "type": "closed",
-      "name": "Nonoc Airport",
-      "elevation_ft": 10.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-SUN",
-      "municipality": "Surigao City (Nonoc Island)",
-      "coordinates": "9.809309, 125.595318"
-    },
-    {
-      "ident": "RP14",
-      "type": "closed",
-      "name": "Magat River Multipurpose Project  Airstrip",
-      "elevation_ft": 384.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-ISA",
-      "municipality": "Ramon",
-      "coordinates": "16.829927, 121.499659"
     },
     {
       "ident": "RP15",
@@ -7367,17 +7422,6 @@
       "gps_code": "RPLO",
       "iata_code": "CYU",
       "coordinates": "10.8581, 121.069"
-    },
-    {
-      "ident": "RPLP",
-      "type": "closed",
-      "name": "Legazpi City International Airport",
-      "elevation_ft": 66.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-ALB",
-      "municipality": "Legazpi City",
-      "coordinates": "13.1575, 123.735"
     },
     {
       "ident": "RPLQ",
@@ -7764,17 +7808,6 @@
       "municipality": "Liloy",
       "gps_code": "RPMX",
       "coordinates": "8.102059, 122.670422"
-    },
-    {
-      "ident": "RPMY",
-      "type": "closed",
-      "name": "Malaybalay Airport",
-      "elevation_ft": 2051.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-BUK",
-      "municipality": "Malaybalay City",
-      "coordinates": "8.14166, 125.117"
     },
     {
       "ident": "RPMZ",
@@ -8415,17 +8448,6 @@
       "coordinates": "10.766644, 121.932506"
     },
     {
-      "ident": "RPVT",
-      "type": "closed",
-      "name": "Tagbilaran Airport",
-      "elevation_ft": 38.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-BOH",
-      "municipality": "Tagbilaran City",
-      "coordinates": "9.665442, 123.853533"
-    },
-    {
       "ident": "RPVU",
       "type": "medium_airport",
       "name": "Tugdan Airport",
@@ -8486,28 +8508,6 @@
       "municipality": "Siquijor",
       "gps_code": "RPVZ",
       "coordinates": "9.212275, 123.470685"
-    },
-    {
-      "ident": "SSV",
-      "type": "closed",
-      "name": "Siasi Airport",
-      "elevation_ft": 170.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-SLU",
-      "municipality": "Siasi",
-      "coordinates": "5.566779, 120.841627"
-    },
-    {
-      "ident": "X-RPVB",
-      "type": "closed",
-      "name": "Bacolod City Domestic Airport",
-      "elevation_ft": 26.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-NEC",
-      "municipality": "Bacolod City",
-      "coordinates": "10.64244, 122.9296"
     },
     {
       "ident": "XMA",

@@ -2,7 +2,7 @@
   "country_code": "ML",
   "country_name": "Mali",
   "total_airports": 37,
-  "last_updated": "2025-02-27T00:08:24.638176",
+  "last_updated": "2025-02-28T00:08:11.911229",
   "types_distribution": {
     "small_airport": 25,
     "large_airport": 1,
@@ -183,17 +183,6 @@
       "coordinates": "18.4330005646, 1.4170000553100002"
     },
     {
-      "ident": "GAKM",
-      "type": "closed",
-      "name": "Ke-Macina Airport",
-      "elevation_ft": 902.0,
-      "continent": "AF",
-      "iso_country": "ML",
-      "iso_region": "ML-4",
-      "municipality": "Ke-Macina",
-      "coordinates": "13.966876, -5.382999"
-    },
-    {
       "ident": "GAKN",
       "type": "small_airport",
       "name": "Kolokani Airport",
@@ -241,17 +230,6 @@
       "gps_code": "GAKD",
       "iata_code": "KYS",
       "coordinates": "14.4812, -11.4044"
-    },
-    {
-      "ident": "GAMA",
-      "type": "closed",
-      "name": "Markala Airport",
-      "elevation_ft": 1251.0,
-      "continent": "AF",
-      "iso_country": "ML",
-      "iso_region": "ML-4",
-      "municipality": "Markala",
-      "coordinates": "13.7, -6.067"
     },
     {
       "ident": "GAMB",
@@ -451,6 +429,28 @@
       "iso_country": "ML",
       "iso_region": "ML-U-A",
       "coordinates": "15.930603, 2.376193"
+    },
+    {
+      "ident": "ML-0008",
+      "type": "closed",
+      "name": "Ke-Macina Airport",
+      "elevation_ft": 902.0,
+      "continent": "AF",
+      "iso_country": "ML",
+      "iso_region": "ML-4",
+      "municipality": "Ke-Macina",
+      "coordinates": "13.966876, -5.382999"
+    },
+    {
+      "ident": "ML-0009",
+      "type": "closed",
+      "name": "Markala Airport",
+      "elevation_ft": 1251.0,
+      "continent": "AF",
+      "iso_country": "ML",
+      "iso_region": "ML-4",
+      "municipality": "Markala",
+      "coordinates": "13.7, -6.067"
     }
   ]
 }

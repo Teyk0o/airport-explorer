@@ -2,7 +2,7 @@
   "country_code": "CO",
   "country_name": "Colombia",
   "total_airports": 733,
-  "last_updated": "2025-02-27T00:08:24.310457",
+  "last_updated": "2025-02-28T00:08:11.573307",
   "types_distribution": {
     "small_airport": 602,
     "heliport": 57,
@@ -957,6 +957,92 @@
       "coordinates": "0.108611, -70.326944"
     },
     {
+      "ident": "CO-0488",
+      "type": "closed",
+      "name": "Oreganal Airport",
+      "elevation_ft": 480.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-LAG",
+      "municipality": "Barrancas",
+      "coordinates": "10.979444, -72.739444"
+    },
+    {
+      "ident": "CO-0489",
+      "type": "closed",
+      "name": "Aguaclara Airport",
+      "elevation_ft": 1090.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-CAS",
+      "municipality": "Aguaclara",
+      "coordinates": "4.747105, -72.987735"
+    },
+    {
+      "ident": "CO-0490",
+      "type": "closed",
+      "name": "Villanueva Airport",
+      "elevation_ft": 83.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-ANT",
+      "municipality": "Turbo",
+      "coordinates": "7.96984, -76.629789"
+    },
+    {
+      "ident": "CO-0491",
+      "type": "closed",
+      "name": "El Gilgal Airport",
+      "elevation_ft": 89.0,
+      "iso_country": "CO",
+      "iso_region": "CO-CHO",
+      "municipality": "Unguía",
+      "coordinates": "8.190978, -77.078646"
+    },
+    {
+      "ident": "CO-0492",
+      "type": "closed",
+      "name": "Planeta Rica Airport",
+      "elevation_ft": 280.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-COR",
+      "municipality": "Planeta Rica",
+      "coordinates": "8.398853, -75.577379"
+    },
+    {
+      "ident": "CO-0493",
+      "type": "closed",
+      "name": "Andes Airport",
+      "elevation_ft": 3900.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-ANT",
+      "municipality": "Andes",
+      "coordinates": "5.69764, -75.88038"
+    },
+    {
+      "ident": "CO-0494",
+      "type": "closed",
+      "name": "Gilgal Airport",
+      "elevation_ft": 148.0,
+      "iso_country": "CO",
+      "iso_region": "CO-CHO",
+      "municipality": "Unguía",
+      "coordinates": "8.190674, -77.078576"
+    },
+    {
+      "ident": "CO-0495",
+      "type": "closed",
+      "name": "Santa Fé de Antioquía Airport",
+      "elevation_ft": 1500.0,
+      "continent": "SA",
+      "iso_country": "CO",
+      "iso_region": "CO-ANT",
+      "municipality": "Santa Fé de Antioquía",
+      "coordinates": "6.500631, -75.822521"
+    },
+    {
       "ident": "CO-LCR",
       "type": "small_airport",
       "name": "Virgilio Barco Vargas (La Chorrera) Airport",
@@ -1253,17 +1339,6 @@
       "coordinates": "6.583333, -76.883333"
     },
     {
-      "ident": "SK-026",
-      "type": "closed",
-      "name": "Villanueva Airport",
-      "elevation_ft": 83.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-ANT",
-      "municipality": "Turbo",
-      "coordinates": "7.96984, -76.629789"
-    },
-    {
       "ident": "SK-028",
       "type": "small_airport",
       "name": "La Rubiera Airport",
@@ -1504,17 +1579,6 @@
       "iata_code": "AYI",
       "local_code": "AYI",
       "coordinates": "-0.383333, -72.266667"
-    },
-    {
-      "ident": "SK-048",
-      "type": "closed",
-      "name": "Aguaclara Airport",
-      "elevation_ft": 1090.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-CAS",
-      "municipality": "Aguaclara",
-      "coordinates": "4.747105, -72.987735"
     },
     {
       "ident": "SK-049",
@@ -3158,26 +3222,6 @@
       "coordinates": "6.881389, -77.680556"
     },
     {
-      "ident": "SK-192",
-      "type": "closed",
-      "name": "El Gilgal Airport",
-      "elevation_ft": 89.0,
-      "iso_country": "CO",
-      "iso_region": "CO-CHO",
-      "municipality": "Unguía",
-      "coordinates": "8.190978, -77.078646"
-    },
-    {
-      "ident": "SK-193",
-      "type": "closed",
-      "name": "Gilgal Airport",
-      "elevation_ft": 148.0,
-      "iso_country": "CO",
-      "iso_region": "CO-CHO",
-      "municipality": "Unguía",
-      "coordinates": "8.190674, -77.078576"
-    },
-    {
       "ident": "SK-195",
       "type": "small_airport",
       "name": "Pizarro Airport",
@@ -3285,17 +3329,6 @@
       "municipality": "Cerete",
       "local_code": "LME",
       "coordinates": "8.91, -75.799167"
-    },
-    {
-      "ident": "SK-204",
-      "type": "closed",
-      "name": "Planeta Rica Airport",
-      "elevation_ft": 280.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-COR",
-      "municipality": "Planeta Rica",
-      "coordinates": "8.398853, -75.577379"
     },
     {
       "ident": "SK-205",
@@ -3805,17 +3838,6 @@
       "municipality": "Manaure",
       "local_code": "MAG",
       "coordinates": "11.783333, -72.416667"
-    },
-    {
-      "ident": "SK-251",
-      "type": "closed",
-      "name": "Oreganal Airport",
-      "elevation_ft": 480.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-LAG",
-      "municipality": "Barrancas",
-      "coordinates": "10.979444, -72.739444"
     },
     {
       "ident": "SK-252",
@@ -7113,17 +7135,6 @@
       "coordinates": "6.895033, -75.047334"
     },
     {
-      "ident": "SKAN",
-      "type": "closed",
-      "name": "Andes Airport",
-      "elevation_ft": 3900.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-ANT",
-      "municipality": "Andes",
-      "coordinates": "5.69764, -75.88038"
-    },
-    {
       "ident": "SKAP",
       "type": "medium_airport",
       "name": "Gomez Nino Apiay Air Base",
@@ -8493,17 +8504,6 @@
       "iata_code": "RVE",
       "local_code": "SRV",
       "coordinates": "6.951868, -71.857179"
-    },
-    {
-      "ident": "SKSF",
-      "type": "closed",
-      "name": "Santa Fé de Antioquía Airport",
-      "elevation_ft": 1500.0,
-      "continent": "SA",
-      "iso_country": "CO",
-      "iso_region": "CO-ANT",
-      "municipality": "Santa Fé de Antioquía",
-      "coordinates": "6.500631, -75.822521"
     },
     {
       "ident": "SKSG",

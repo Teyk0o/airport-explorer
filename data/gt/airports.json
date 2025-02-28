@@ -2,7 +2,7 @@
   "country_code": "GT",
   "country_name": "Guatemala",
   "total_airports": 70,
-  "last_updated": "2025-02-27T00:08:24.595176",
+  "last_updated": "2025-02-28T00:08:11.867257",
   "types_distribution": {
     "heliport": 2,
     "small_airport": 51,
@@ -421,6 +421,26 @@
       "coordinates": "16.775288, -90.770245"
     },
     {
+      "ident": "GT-0043",
+      "type": "closed",
+      "name": "Melchor de Mencos Airport",
+      "elevation_ft": 4670.0,
+      "iso_country": "GT",
+      "iso_region": "GT-PE",
+      "municipality": "Melchor de Mencos",
+      "coordinates": "17.068609, -89.152222"
+    },
+    {
+      "ident": "GT-0044",
+      "type": "closed",
+      "name": "Rabinal Airport",
+      "elevation_ft": 3180.0,
+      "iso_country": "GT",
+      "iso_region": "GT-BV",
+      "municipality": "Rabinal",
+      "coordinates": "15.0935, -90.5063888889"
+    },
+    {
       "ident": "MG13",
       "type": "small_airport",
       "name": "Fray Bartolome Airport",
@@ -558,16 +578,6 @@
       "coordinates": "14.907464, -92.087921"
     },
     {
-      "ident": "MGMM",
-      "type": "closed",
-      "name": "Melchor de Mencos Airport",
-      "elevation_ft": 4670.0,
-      "iso_country": "GT",
-      "iso_region": "GT-PE",
-      "municipality": "Melchor de Mencos",
-      "coordinates": "17.068609, -89.152222"
-    },
-    {
       "ident": "MGPB",
       "type": "medium_airport",
       "name": "Puerto Barrios Airport",
@@ -626,16 +636,6 @@
       "gps_code": "MGQZ",
       "iata_code": "AAZ",
       "coordinates": "14.8656, -91.501999"
-    },
-    {
-      "ident": "MGRA",
-      "type": "closed",
-      "name": "Rabinal Airport",
-      "elevation_ft": 3180.0,
-      "iso_country": "GT",
-      "iso_region": "GT-BV",
-      "municipality": "Rabinal",
-      "coordinates": "15.0935, -90.5063888889"
     },
     {
       "ident": "MGRB",

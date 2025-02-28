@@ -2,7 +2,7 @@
   "country_code": "MW",
   "country_name": "Malawi",
   "total_airports": 30,
-  "last_updated": "2025-02-27T00:08:24.637176",
+  "last_updated": "2025-02-28T00:08:11.910241",
   "types_distribution": {
     "small_airport": 22,
     "medium_airport": 6,
@@ -109,17 +109,6 @@
       "coordinates": "-12.517527, 34.131877"
     },
     {
-      "ident": "FWDZ",
-      "type": "closed",
-      "name": "Dedza Airport",
-      "elevation_ft": 5240.0,
-      "continent": "AF",
-      "iso_country": "MW",
-      "iso_region": "MW-DE",
-      "municipality": "Dedza",
-      "coordinates": "-14.383, 34.317001"
-    },
-    {
       "ident": "FWKA",
       "type": "medium_airport",
       "name": "Karonga Airport",
@@ -131,17 +120,6 @@
       "gps_code": "FWKA",
       "iata_code": "KGJ",
       "coordinates": "-9.953571, 33.893264"
-    },
-    {
-      "ident": "FWKB",
-      "type": "closed",
-      "name": "Katumbi Airport",
-      "elevation_ft": 3986.0,
-      "continent": "AF",
-      "iso_country": "MW",
-      "iso_region": "MW-RU",
-      "municipality": "Katumbi",
-      "coordinates": "-10.830489, 33.508844"
     },
     {
       "ident": "FWKG",
@@ -364,6 +342,28 @@
       "iso_region": "MW-NB",
       "municipality": "Chintheche",
       "coordinates": "-11.8353, 34.16446"
+    },
+    {
+      "ident": "MW-0002",
+      "type": "closed",
+      "name": "Katumbi Airport",
+      "elevation_ft": 3986.0,
+      "continent": "AF",
+      "iso_country": "MW",
+      "iso_region": "MW-RU",
+      "municipality": "Katumbi",
+      "coordinates": "-10.830489, 33.508844"
+    },
+    {
+      "ident": "MW-0003",
+      "type": "closed",
+      "name": "Dedza Airport",
+      "elevation_ft": 5240.0,
+      "continent": "AF",
+      "iso_country": "MW",
+      "iso_region": "MW-DE",
+      "municipality": "Dedza",
+      "coordinates": "-14.383, 34.317001"
     },
     {
       "ident": "VUU",

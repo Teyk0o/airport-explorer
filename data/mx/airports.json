@@ -2,13 +2,13 @@
   "country_code": "MX",
   "country_name": "Mexico",
   "total_airports": 2681,
-  "last_updated": "2025-02-27T00:08:24.391662",
+  "last_updated": "2025-02-28T00:08:11.664994",
   "types_distribution": {
     "small_airport": 1511,
     "heliport": 487,
-    "closed": 602,
     "medium_airport": 56,
     "large_airport": 12,
+    "closed": 602,
     "seaplane_base": 6,
     "balloonport": 7
   },
@@ -118,16 +118,6 @@
       "coordinates": "27.5989, -105.103996"
     },
     {
-      "ident": "MM14",
-      "type": "closed",
-      "name": "Rio Verde Airport",
-      "elevation_ft": 3281.0,
-      "iso_country": "MX",
-      "iso_region": "MX-SLP",
-      "municipality": "Rioverde",
-      "coordinates": "21.9631, -100.0077"
-    },
-    {
       "ident": "MM16",
       "type": "small_airport",
       "name": "General Jesús Agustín Castro Airport",
@@ -163,16 +153,6 @@
       "coordinates": "18.874201, -96.958199"
     },
     {
-      "ident": "MM21",
-      "type": "closed",
-      "name": "La Encarnacion Airport",
-      "elevation_ft": 1560.0,
-      "iso_country": "MX",
-      "iso_region": "MX-NLE",
-      "municipality": "Monterrey",
-      "coordinates": "25.736099, -100.224998"
-    },
-    {
       "ident": "MM22",
       "type": "small_airport",
       "name": "La Pesca Airport",
@@ -205,26 +185,6 @@
       "municipality": "Ciudad Guzman",
       "local_code": "CGZ",
       "coordinates": "19.7085, -103.489998"
-    },
-    {
-      "ident": "MM27",
-      "type": "closed",
-      "name": "Cementos Mexicanos Airport",
-      "elevation_ft": 302.0,
-      "iso_country": "MX",
-      "iso_region": "MX-SLP",
-      "municipality": "Ciudad Valles",
-      "coordinates": "21.983999, -98.961899"
-    },
-    {
-      "ident": "MM28",
-      "type": "closed",
-      "name": "Aeródromo de Tizayuca",
-      "elevation_ft": 7645.0,
-      "iso_country": "MX",
-      "iso_region": "MX-HID",
-      "municipality": "Tizayuca",
-      "coordinates": "19.874001, -98.943604"
     },
     {
       "ident": "MM29",
@@ -306,16 +266,6 @@
       "municipality": "Parras de La Fuente",
       "local_code": "PAS",
       "coordinates": "25.506038, -102.202003"
-    },
-    {
-      "ident": "MM38",
-      "type": "closed",
-      "name": "Aeródromo de la Presa Falcón",
-      "elevation_ft": 150.0,
-      "iso_country": "MX",
-      "iso_region": "MX-TAM",
-      "municipality": "Ciudad Mier",
-      "coordinates": "26.521713, -99.148382"
     },
     {
       "ident": "MM39",
@@ -457,15 +407,6 @@
       "coordinates": "22.953829, -98.959908"
     },
     {
-      "ident": "MM61",
-      "type": "closed",
-      "name": "Aeródromo de Ixmiquilpan",
-      "elevation_ft": 5577.0,
-      "iso_country": "MX",
-      "iso_region": "MX-HID",
-      "coordinates": "20.486, -99.258797"
-    },
-    {
       "ident": "MM62",
       "type": "small_airport",
       "name": "Aeródromo Zacacoyuca",
@@ -605,16 +546,6 @@
       "gps_code": "MM75",
       "local_code": "MM75",
       "coordinates": "31.242901, -109.625"
-    },
-    {
-      "ident": "MM77",
-      "type": "closed",
-      "name": "Las Delicias Airport",
-      "elevation_ft": 3888.0,
-      "iso_country": "MX",
-      "iso_region": "MX-CHH",
-      "municipality": "Delicias",
-      "coordinates": "28.212933, -105.447989"
     },
     {
       "ident": "MM79",
@@ -905,7 +836,7 @@
       "municipality": "Chihuahua",
       "gps_code": "MMCU",
       "iata_code": "CUU",
-      "coordinates": "28.702899932900003, -105.964996338"
+      "coordinates": "28.7029, -105.964996"
     },
     {
       "ident": "MMCV",
@@ -1557,16 +1488,6 @@
       "iata_code": "REX",
       "local_code": "REI",
       "coordinates": "26.0089, -98.2285"
-    },
-    {
-      "ident": "MMSC",
-      "type": "closed",
-      "name": "Aeródromo de San Cristóbal de las Casas",
-      "elevation_ft": 7707.0,
-      "iso_country": "MX",
-      "iso_region": "MX-CHP",
-      "municipality": "San Cristóbal de las Casas",
-      "coordinates": "16.6903, -92.530098"
     },
     {
       "ident": "MMSD",
@@ -28154,6 +28075,105 @@
       "coordinates": "31.352721, -113.518767"
     },
     {
+      "ident": "MX-2510",
+      "type": "closed",
+      "name": "Aeródromo de San Cristóbal de las Casas",
+      "elevation_ft": 7707.0,
+      "iso_country": "MX",
+      "iso_region": "MX-CHP",
+      "municipality": "San Cristóbal de las Casas",
+      "coordinates": "16.6903, -92.530098"
+    },
+    {
+      "ident": "MX-2511",
+      "type": "closed",
+      "name": "Rio Verde Airport",
+      "elevation_ft": 3281.0,
+      "iso_country": "MX",
+      "iso_region": "MX-SLP",
+      "municipality": "Rioverde",
+      "coordinates": "21.9631, -100.0077"
+    },
+    {
+      "ident": "MX-2512",
+      "type": "closed",
+      "name": "La Encarnacion Airport",
+      "elevation_ft": 1560.0,
+      "iso_country": "MX",
+      "iso_region": "MX-NLE",
+      "municipality": "Monterrey",
+      "coordinates": "25.736099, -100.224998"
+    },
+    {
+      "ident": "MX-2513",
+      "type": "closed",
+      "name": "Cementos Mexicanos Airport",
+      "elevation_ft": 302.0,
+      "iso_country": "MX",
+      "iso_region": "MX-SLP",
+      "municipality": "Ciudad Valles",
+      "coordinates": "21.983999, -98.961899"
+    },
+    {
+      "ident": "MX-2514",
+      "type": "closed",
+      "name": "Aeródromo de Tizayuca",
+      "elevation_ft": 7645.0,
+      "iso_country": "MX",
+      "iso_region": "MX-HID",
+      "municipality": "Tizayuca",
+      "coordinates": "19.874001, -98.943604"
+    },
+    {
+      "ident": "MX-2515",
+      "type": "closed",
+      "name": "Aeródromo de la Presa Falcón",
+      "elevation_ft": 150.0,
+      "iso_country": "MX",
+      "iso_region": "MX-TAM",
+      "municipality": "Ciudad Mier",
+      "coordinates": "26.521713, -99.148382"
+    },
+    {
+      "ident": "MX-2516",
+      "type": "closed",
+      "name": "Aeródromo de Ixmiquilpan",
+      "elevation_ft": 5577.0,
+      "iso_country": "MX",
+      "iso_region": "MX-HID",
+      "coordinates": "20.486, -99.258797"
+    },
+    {
+      "ident": "MX-2517",
+      "type": "closed",
+      "name": "Las Delicias Airport",
+      "elevation_ft": 3888.0,
+      "iso_country": "MX",
+      "iso_region": "MX-CHH",
+      "municipality": "Delicias",
+      "coordinates": "28.212933, -105.447989"
+    },
+    {
+      "ident": "MX-2518",
+      "type": "closed",
+      "name": "Aeródromo Antiguo de Pinotepa Nacional",
+      "elevation_ft": 720.0,
+      "iso_country": "MX",
+      "iso_region": "MX-OAX",
+      "municipality": "Pinotepa",
+      "coordinates": "16.349977, -98.06198"
+    },
+    {
+      "ident": "MX-2519",
+      "type": "closed",
+      "name": "Villa Constitución Airport",
+      "elevation_ft": 175.0,
+      "iso_country": "MX",
+      "iso_region": "MX-BCS",
+      "municipality": "Comondú",
+      "coordinates": "25.0552, -111.6874"
+    },
+    {
       "ident": "MX-AJS",
       "type": "small_airport",
       "name": "Punta Abreojos Airport",
@@ -28226,16 +28246,6 @@
       "coordinates": "27.069201, -111.961998"
     },
     {
-      "ident": "MX-PNO",
-      "type": "closed",
-      "name": "Aeródromo Antiguo de Pinotepa Nacional",
-      "elevation_ft": 720.0,
-      "iso_country": "MX",
-      "iso_region": "MX-OAX",
-      "municipality": "Pinotepa",
-      "coordinates": "16.349977, -98.06198"
-    },
-    {
       "ident": "MX-SGM",
       "type": "small_airport",
       "name": "San Ignacio Airport",
@@ -28295,16 +28305,6 @@
       "iata_code": "SRL",
       "local_code": "CIB",
       "coordinates": "27.0927, -112.0985"
-    },
-    {
-      "ident": "VIB",
-      "type": "closed",
-      "name": "Villa Constitución Airport",
-      "elevation_ft": 175.0,
-      "iso_country": "MX",
-      "iso_region": "MX-BCS",
-      "municipality": "Comondú",
-      "coordinates": "25.0552, -111.6874"
     },
     {
       "ident": "X-MMTG",

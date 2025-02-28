@@ -2,7 +2,7 @@
   "country_code": "CH",
   "country_name": "Switzerland",
   "total_airports": 127,
-  "last_updated": "2025-02-27T00:08:24.533045",
+  "last_updated": "2025-02-28T00:08:11.805341",
   "types_distribution": {
     "heliport": 52,
     "small_airport": 50,
@@ -444,6 +444,81 @@
       "coordinates": "47.55649, 7.62869"
     },
     {
+      "ident": "CH-0042",
+      "type": "closed",
+      "name": "Interlaken Air Base",
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-BE",
+      "municipality": "Interlaken",
+      "coordinates": "46.676601, 7.87908"
+    },
+    {
+      "ident": "CH-0043",
+      "type": "closed",
+      "name": "Turtmann Air Base",
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-VS",
+      "municipality": "Turtmann",
+      "coordinates": "46.304339, 7.712708"
+    },
+    {
+      "ident": "CH-0044",
+      "type": "closed",
+      "name": "Hasenstrick Airfield",
+      "elevation_ft": 2487.0,
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-ZH",
+      "municipality": "Dürnten",
+      "coordinates": "47.279999, 8.88194"
+    },
+    {
+      "ident": "CH-0045",
+      "type": "closed",
+      "name": "Porrentruy Airfield",
+      "elevation_ft": 1427.0,
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-JU",
+      "municipality": "Porrentruy",
+      "coordinates": "47.410599, 7.05167"
+    },
+    {
+      "ident": "CH-0046",
+      "type": "closed",
+      "name": "San Vittore Airport",
+      "elevation_ft": 869.0,
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-GR",
+      "municipality": "San Vittore",
+      "coordinates": "46.2342, 9.09417"
+    },
+    {
+      "ident": "CH-0047",
+      "type": "closed",
+      "name": "Ascona Airport",
+      "elevation_ft": 655.0,
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-TI",
+      "municipality": "Ascona",
+      "coordinates": "46.157799, 8.78194"
+    },
+    {
+      "ident": "CH-0048",
+      "type": "closed",
+      "name": "Würenlingen Heliport",
+      "elevation_ft": 1152.0,
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-AG",
+      "municipality": "Würenlingen",
+      "coordinates": "47.5162, 8.2379"
+    },
+    {
       "ident": "LSER",
       "type": "heliport",
       "name": "Raron Heliport",
@@ -695,26 +770,6 @@
       "coordinates": "47.092444, 8.305184"
     },
     {
-      "ident": "LSMI",
-      "type": "closed",
-      "name": "Interlaken Air Base",
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-BE",
-      "municipality": "Interlaken",
-      "coordinates": "46.676601, 7.87908"
-    },
-    {
-      "ident": "LSMJ",
-      "type": "closed",
-      "name": "Turtmann Air Base",
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-VS",
-      "municipality": "Turtmann",
-      "coordinates": "46.304339, 7.712708"
-    },
-    {
       "ident": "LSML",
       "type": "small_airport",
       "name": "Lodrino Air Base",
@@ -822,17 +877,6 @@
       "municipality": "Winterthur",
       "gps_code": "LSPH",
       "coordinates": "47.514999, 8.77194"
-    },
-    {
-      "ident": "LSPK",
-      "type": "closed",
-      "name": "Hasenstrick Airfield",
-      "elevation_ft": 2487.0,
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-ZH",
-      "municipality": "Dürnten",
-      "coordinates": "47.279999, 8.88194"
     },
     {
       "ident": "LSPL",
@@ -1102,28 +1146,6 @@
       "coordinates": "46.912621, 9.55081"
     },
     {
-      "ident": "LSXV",
-      "type": "closed",
-      "name": "San Vittore Airport",
-      "elevation_ft": 869.0,
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-GR",
-      "municipality": "San Vittore",
-      "coordinates": "46.2342, 9.09417"
-    },
-    {
-      "ident": "LSXW",
-      "type": "closed",
-      "name": "Würenlingen Heliport",
-      "elevation_ft": 1152.0,
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-AG",
-      "municipality": "Würenlingen",
-      "coordinates": "47.5162, 8.2379"
-    },
-    {
       "ident": "LSXY",
       "type": "heliport",
       "name": "Leysin  Heliport",
@@ -1196,17 +1218,6 @@
       "gps_code": "LSZC",
       "iata_code": "BXO",
       "coordinates": "46.974444, 8.396944"
-    },
-    {
-      "ident": "LSZD",
-      "type": "closed",
-      "name": "Ascona Airport",
-      "elevation_ft": 655.0,
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-TI",
-      "municipality": "Ascona",
-      "coordinates": "46.157799, 8.78194"
     },
     {
       "ident": "LSZE",
@@ -1450,17 +1461,6 @@
       "municipality": "Schänis",
       "gps_code": "LSZX",
       "coordinates": "47.1717, 9.03944"
-    },
-    {
-      "ident": "LSZY",
-      "type": "closed",
-      "name": "Porrentruy Airfield",
-      "elevation_ft": 1427.0,
-      "continent": "EU",
-      "iso_country": "CH",
-      "iso_region": "CH-JU",
-      "municipality": "Porrentruy",
-      "coordinates": "47.410599, 7.05167"
     }
   ]
 }

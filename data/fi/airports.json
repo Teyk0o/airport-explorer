@@ -2,13 +2,13 @@
   "country_code": "FI",
   "country_name": "Finland",
   "total_airports": 125,
-  "last_updated": "2025-02-27T00:08:24.588156",
+  "last_updated": "2025-02-28T00:08:11.860185",
   "types_distribution": {
     "small_airport": 67,
     "heliport": 17,
     "medium_airport": 30,
-    "closed": 10,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 10
   },
   "airports": [
     {
@@ -145,17 +145,6 @@
       "coordinates": "60.147778, 24.924444"
     },
     {
-      "ident": "EFHF",
-      "type": "closed",
-      "name": "Helsinki Malmi Airport",
-      "elevation_ft": 57.0,
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-18",
-      "municipality": "Helsinki",
-      "coordinates": "60.254601, 25.042801"
-    },
-    {
       "ident": "EFHH",
       "type": "heliport",
       "name": "Kanta-Hämeen Central Hospital Heliport",
@@ -166,28 +155,6 @@
       "municipality": "Hämeenlinna",
       "gps_code": "EFHH",
       "coordinates": "60.991112, 24.415277"
-    },
-    {
-      "ident": "EFHI",
-      "type": "closed",
-      "name": "Haapamäki Airfield",
-      "elevation_ft": 531.0,
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-08",
-      "municipality": "Haapamäki",
-      "coordinates": "62.255204, 24.349478"
-    },
-    {
-      "ident": "EFHJ",
-      "type": "closed",
-      "name": "Haapajärvi Airport",
-      "elevation_ft": 351.0,
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-14",
-      "municipality": "Haapajärvi",
-      "coordinates": "63.7122, 25.395"
     },
     {
       "ident": "EFHK",
@@ -763,15 +730,6 @@
       "coordinates": "60.572498, 25.5089"
     },
     {
-      "ident": "EFMP",
-      "type": "closed",
-      "name": "Martiniiskonpalo Airfield",
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-10",
-      "coordinates": "68.660301, 25.7029"
-    },
-    {
       "ident": "EFNS",
       "type": "small_airport",
       "name": "Savikko Airfield",
@@ -842,17 +800,6 @@
       "municipality": "Helsinki",
       "gps_code": "EFPE",
       "coordinates": "60.331112, 25.060833"
-    },
-    {
-      "ident": "EFPH",
-      "type": "closed",
-      "name": "Pyhäselkä Airfield",
-      "elevation_ft": 322.0,
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-13",
-      "municipality": "Joensuu",
-      "coordinates": "62.464699, 30.035299"
     },
     {
       "ident": "EFPI",
@@ -1098,17 +1045,6 @@
       "coordinates": "62.692101, 22.8323"
     },
     {
-      "ident": "EFSJ",
-      "type": "closed",
-      "name": "Sonkajärvi-Jyrkkä Airfield",
-      "elevation_ft": 600.0,
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-15",
-      "municipality": "Sonkajärvi",
-      "coordinates": "63.819401, 27.7694"
-    },
-    {
       "ident": "EFSO",
       "type": "medium_airport",
       "name": "Sodankyla Airport",
@@ -1157,17 +1093,6 @@
       "gps_code": "EFTP",
       "iata_code": "TMP",
       "coordinates": "61.414101, 23.604401"
-    },
-    {
-      "ident": "EFTS",
-      "type": "closed",
-      "name": "Teisko Airfield",
-      "elevation_ft": 515.0,
-      "continent": "EU",
-      "iso_country": "FI",
-      "iso_region": "FI-11",
-      "municipality": "Tampere",
-      "coordinates": "61.7733, 24.027"
     },
     {
       "ident": "EFTU",
@@ -1479,6 +1404,81 @@
       "iso_region": "FI-09",
       "municipality": "Virolahti",
       "coordinates": "60.455114, 27.723057"
+    },
+    {
+      "ident": "FI-0018",
+      "type": "closed",
+      "name": "Helsinki Malmi Airport",
+      "elevation_ft": 57.0,
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-18",
+      "municipality": "Helsinki",
+      "coordinates": "60.254601, 25.042801"
+    },
+    {
+      "ident": "FI-0019",
+      "type": "closed",
+      "name": "Teisko Airfield",
+      "elevation_ft": 515.0,
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-11",
+      "municipality": "Tampere",
+      "coordinates": "61.7733, 24.027"
+    },
+    {
+      "ident": "FI-0020",
+      "type": "closed",
+      "name": "Haapajärvi Airport",
+      "elevation_ft": 351.0,
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-14",
+      "municipality": "Haapajärvi",
+      "coordinates": "63.7122, 25.395"
+    },
+    {
+      "ident": "FI-0021",
+      "type": "closed",
+      "name": "Martiniiskonpalo Airfield",
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-10",
+      "coordinates": "68.660301, 25.7029"
+    },
+    {
+      "ident": "FI-0022",
+      "type": "closed",
+      "name": "Haapamäki Airfield",
+      "elevation_ft": 531.0,
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-08",
+      "municipality": "Haapamäki",
+      "coordinates": "62.255204, 24.349478"
+    },
+    {
+      "ident": "FI-0023",
+      "type": "closed",
+      "name": "Pyhäselkä Airfield",
+      "elevation_ft": 322.0,
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-13",
+      "municipality": "Joensuu",
+      "coordinates": "62.464699, 30.035299"
+    },
+    {
+      "ident": "FI-0024",
+      "type": "closed",
+      "name": "Sonkajärvi-Jyrkkä Airfield",
+      "elevation_ft": 600.0,
+      "continent": "EU",
+      "iso_country": "FI",
+      "iso_region": "FI-15",
+      "municipality": "Sonkajärvi",
+      "coordinates": "63.819401, 27.7694"
     }
   ]
 }

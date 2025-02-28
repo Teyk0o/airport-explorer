@@ -2,12 +2,12 @@
   "country_code": "LR",
   "country_name": "Liberia",
   "total_airports": 20,
-  "last_updated": "2025-02-27T00:08:24.500031",
+  "last_updated": "2025-02-28T00:08:11.772963",
   "types_distribution": {
     "small_airport": 17,
-    "closed": 1,
     "medium_airport": 1,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 1
   },
   "airports": [
     {
@@ -46,17 +46,6 @@
       "gps_code": "GLBU",
       "iata_code": "UCN",
       "coordinates": "5.905503, -10.058262"
-    },
-    {
-      "ident": "GLCM",
-      "type": "closed",
-      "name": "Robertsport/Cape Mount Airport",
-      "elevation_ft": 10.0,
-      "continent": "AF",
-      "iso_country": "LR",
-      "iso_region": "LR-CM",
-      "municipality": "Robertsport/Cape Mount",
-      "coordinates": "6.755241, -11.3554"
     },
     {
       "ident": "GLCP",
@@ -226,6 +215,17 @@
       "iso_region": "LR-BG",
       "municipality": "Gbarnga",
       "coordinates": "7.04268, -9.48564"
+    },
+    {
+      "ident": "LR-0005",
+      "type": "closed",
+      "name": "Robertsport/Cape Mount Airport",
+      "elevation_ft": 10.0,
+      "continent": "AF",
+      "iso_country": "LR",
+      "iso_region": "LR-CM",
+      "municipality": "Robertsport/Cape Mount",
+      "coordinates": "6.755241, -11.3554"
     },
     {
       "ident": "RVC",

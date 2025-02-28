@@ -2,13 +2,13 @@
   "country_code": "TR",
   "country_name": "Turkey",
   "total_airports": 386,
-  "last_updated": "2025-02-27T00:08:24.724900",
+  "last_updated": "2025-02-28T00:08:11.998741",
   "types_distribution": {
     "small_airport": 52,
     "large_airport": 9,
     "medium_airport": 55,
-    "closed": 28,
     "heliport": 240,
+    "closed": 28,
     "balloonport": 1,
     "seaplane_base": 1
   },
@@ -129,17 +129,6 @@
       "coordinates": "36.947201, 37.478699"
     },
     {
-      "ident": "LTAK",
-      "type": "closed",
-      "name": "İskenderun Airport",
-      "elevation_ft": 25.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-31",
-      "municipality": "İskenderun",
-      "coordinates": "36.5744552612, 36.1534194946"
-    },
-    {
       "ident": "LTAL",
       "type": "medium_airport",
       "name": "Kastamonu Airport",
@@ -151,16 +140,6 @@
       "gps_code": "LTAL",
       "iata_code": "KFS",
       "coordinates": "41.314201, 33.795799"
-    },
-    {
-      "ident": "LTAM",
-      "type": "closed",
-      "name": "Kayseri Airport",
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-38",
-      "municipality": "Develi",
-      "coordinates": "38.40629959106445, 35.32780075073242"
     },
     {
       "ident": "LTAN",
@@ -199,17 +178,6 @@
       "gps_code": "LTAP",
       "iata_code": "MZH",
       "coordinates": "40.829399, 35.521999"
-    },
-    {
-      "ident": "LTAQ",
-      "type": "closed",
-      "name": "Samsun Samair Airport",
-      "elevation_ft": 521.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-55",
-      "municipality": "Samsun",
-      "coordinates": "41.278645, 36.30518"
     },
     {
       "ident": "LTAR",
@@ -289,17 +257,6 @@
       "coordinates": "40.32472, 36.39056"
     },
     {
-      "ident": "LTAX",
-      "type": "closed",
-      "name": "Ereğli Erdemir Airport",
-      "elevation_ft": 10.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-67",
-      "municipality": "Eregli",
-      "coordinates": "41.251399993896484, 31.41080093383789"
-    },
-    {
       "ident": "LTAY",
       "type": "medium_airport",
       "name": "Çardak Airport",
@@ -337,16 +294,6 @@
       "gps_code": "LTBA",
       "iata_code": "ISL",
       "coordinates": "40.971913, 28.823714"
-    },
-    {
-      "ident": "LTBC",
-      "type": "closed",
-      "name": "Alaşehir Airport",
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-45",
-      "municipality": "Alaşehir",
-      "coordinates": "38.369999, 28.5571"
     },
     {
       "ident": "LTBD",
@@ -728,17 +675,6 @@
       "gps_code": "LTCG",
       "iata_code": "TZX",
       "coordinates": "40.995098, 39.7897"
-    },
-    {
-      "ident": "LTCH",
-      "type": "closed",
-      "name": "Şanlıurfa Airport",
-      "elevation_ft": 1483.0,
-      "continent": "AS",
-      "iso_country": "TR",
-      "iso_region": "TR-63",
-      "municipality": "Şanlıurfa",
-      "coordinates": "37.094299, 38.847099"
     },
     {
       "ident": "LTCI",
@@ -4197,6 +4133,70 @@
       "iso_region": "TR-26",
       "municipality": "Sivrihisar",
       "coordinates": "39.30217, 31.49727"
+    },
+    {
+      "ident": "TR-0297",
+      "type": "closed",
+      "name": "İskenderun Airport",
+      "elevation_ft": 25.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-31",
+      "municipality": "İskenderun",
+      "coordinates": "36.5744552612, 36.1534194946"
+    },
+    {
+      "ident": "TR-0298",
+      "type": "closed",
+      "name": "Şanlıurfa Airport",
+      "elevation_ft": 1483.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-63",
+      "municipality": "Şanlıurfa",
+      "coordinates": "37.094299, 38.847099"
+    },
+    {
+      "ident": "TR-0299",
+      "type": "closed",
+      "name": "Ereğli Erdemir Airport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-67",
+      "municipality": "Eregli",
+      "coordinates": "41.251399993896, 31.410800933838"
+    },
+    {
+      "ident": "TR-0300",
+      "type": "closed",
+      "name": "Samsun Samair Airport",
+      "elevation_ft": 521.0,
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-55",
+      "municipality": "Samsun",
+      "coordinates": "41.278645, 36.30518"
+    },
+    {
+      "ident": "TR-0301",
+      "type": "closed",
+      "name": "Kayseri Airport",
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-38",
+      "municipality": "Develi",
+      "coordinates": "38.406299591064, 35.327800750732"
+    },
+    {
+      "ident": "TR-0302",
+      "type": "closed",
+      "name": "Alaşehir Airport",
+      "continent": "AS",
+      "iso_country": "TR",
+      "iso_region": "TR-45",
+      "municipality": "Alaşehir",
+      "coordinates": "38.369999, 28.5571"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "JP",
   "country_name": "Japan",
   "total_airports": 3738,
-  "last_updated": "2025-02-27T00:08:24.667752",
+  "last_updated": "2025-02-28T00:08:11.941438",
   "types_distribution": {
     "medium_airport": 95,
     "seaplane_base": 6,
@@ -36998,6 +36998,49 @@
       "coordinates": "34.50837, 131.2845"
     },
     {
+      "ident": "JP-3590",
+      "type": "closed",
+      "name": "Ishigaki Airport",
+      "elevation_ft": 93.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "coordinates": "24.3445, 124.187"
+    },
+    {
+      "ident": "JP-3591",
+      "type": "closed",
+      "name": "Aibetsu Airport",
+      "elevation_ft": 1027.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-01",
+      "municipality": "Aibetsu",
+      "coordinates": "43.882207, 142.609506"
+    },
+    {
+      "ident": "JP-3592",
+      "type": "closed",
+      "name": "Teshikaga Airport",
+      "elevation_ft": 360.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-01",
+      "municipality": "Teshikaga",
+      "coordinates": "43.479495, 144.432911"
+    },
+    {
+      "ident": "JP-3593",
+      "type": "closed",
+      "name": "Onishi Private Airfield",
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-10",
+      "municipality": "Ora",
+      "coordinates": "36.232271, 139.493043"
+    },
+    {
       "ident": "RJ01",
       "type": "heliport",
       "name": "Akasaka Press Center (Hardy Barracks) Heliport",
@@ -38382,16 +38425,6 @@
       "coordinates": "35.01394, 138.53074"
     },
     {
-      "ident": "RJT3",
-      "type": "closed",
-      "name": "Onishi Private Airfield",
-      "continent": "AS",
-      "iso_country": "JP",
-      "iso_region": "JP-10",
-      "municipality": "Ora",
-      "coordinates": "36.232271, 139.493043"
-    },
-    {
       "ident": "RJTA",
       "type": "medium_airport",
       "name": "JMSDF Atsugi Air Base / Naval Air Facility Atsugi",
@@ -38601,28 +38634,6 @@
       "coordinates": "35.748501, 139.348007"
     },
     {
-      "ident": "RJX2",
-      "type": "closed",
-      "name": "Aibetsu Airport",
-      "elevation_ft": 1027.0,
-      "continent": "AS",
-      "iso_country": "JP",
-      "iso_region": "JP-01",
-      "municipality": "Aibetsu",
-      "coordinates": "43.882207, 142.609506"
-    },
-    {
-      "ident": "RJX9",
-      "type": "closed",
-      "name": "Teshikaga Airport",
-      "elevation_ft": 360.0,
-      "continent": "AS",
-      "iso_country": "JP",
-      "iso_region": "JP-01",
-      "municipality": "Teshikaga",
-      "coordinates": "43.479495, 144.432911"
-    },
-    {
       "ident": "RO02",
       "type": "heliport",
       "name": "Lester Helo Pad Nº 2",
@@ -38680,17 +38691,6 @@
       "gps_code": "RODN",
       "iata_code": "DNA",
       "coordinates": "26.351667, 127.769444"
-    },
-    {
-      "ident": "ROIG",
-      "type": "closed",
-      "name": "Ishigaki Airport",
-      "elevation_ft": 93.0,
-      "continent": "AS",
-      "iso_country": "JP",
-      "iso_region": "JP-47",
-      "municipality": "Ishigaki",
-      "coordinates": "24.3445, 124.187"
     },
     {
       "ident": "ROKJ",

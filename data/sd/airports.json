@@ -2,13 +2,13 @@
   "country_code": "SD",
   "country_name": "Sudan",
   "total_airports": 57,
-  "last_updated": "2025-02-27T00:08:24.317505",
+  "last_updated": "2025-02-28T00:08:11.580343",
   "types_distribution": {
     "small_airport": 33,
     "medium_airport": 9,
-    "closed": 6,
     "large_airport": 1,
-    "heliport": 8
+    "heliport": 8,
+    "closed": 6
   },
   "airports": [
     {
@@ -125,17 +125,6 @@
       "coordinates": "13.614899635314941, 25.324600219726562"
     },
     {
-      "ident": "HSGF",
-      "type": "closed",
-      "name": "Azaza Airport",
-      "elevation_ft": 1640.0,
-      "continent": "AF",
-      "iso_country": "SD",
-      "iso_region": "SD-06",
-      "municipality": "Al Qadarif",
-      "coordinates": "14.121428, 35.311861"
-    },
-    {
       "ident": "HSGG",
       "type": "small_airport",
       "name": "Galegu Airport",
@@ -213,17 +202,6 @@
       "coordinates": "14.925, 35.877998"
     },
     {
-      "ident": "HSKI",
-      "type": "closed",
-      "name": "Kosti Airport",
-      "elevation_ft": 1289.0,
-      "continent": "AF",
-      "iso_country": "SD",
-      "iso_region": "SD-08",
-      "municipality": "Rabak",
-      "coordinates": "13.183, 32.733002"
-    },
-    {
       "ident": "HSKN",
       "type": "small_airport",
       "name": "Kenana Airport",
@@ -272,17 +250,6 @@
       "municipality": "Merowe",
       "gps_code": "HSMR",
       "coordinates": "18.455, 31.8185"
-    },
-    {
-      "ident": "HSND",
-      "type": "closed",
-      "name": "Shendi Airport",
-      "elevation_ft": 1181.0,
-      "continent": "AF",
-      "iso_country": "SD",
-      "iso_region": "SD-04",
-      "municipality": "Shendi",
-      "coordinates": "16.67426, 33.44956"
     },
     {
       "ident": "HSNH",
@@ -398,17 +365,6 @@
       "gps_code": "HSSW",
       "iata_code": "WHF",
       "coordinates": "21.802698, 31.521578"
-    },
-    {
-      "ident": "HSWD",
-      "type": "closed",
-      "name": "Wad Medani Airport",
-      "elevation_ft": 1350.0,
-      "continent": "AF",
-      "iso_country": "SD",
-      "iso_region": "SD-07",
-      "municipality": "Wad Medani",
-      "coordinates": "14.383451, 33.526679"
     },
     {
       "ident": "HSZA",
@@ -674,6 +630,50 @@
       "iso_country": "SD",
       "iso_region": "SD-13",
       "coordinates": "9.673713, 28.593278"
+    },
+    {
+      "ident": "SD-0025",
+      "type": "closed",
+      "name": "Azaza Airport",
+      "elevation_ft": 1640.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-06",
+      "municipality": "Al Qadarif",
+      "coordinates": "14.121428, 35.311861"
+    },
+    {
+      "ident": "SD-0026",
+      "type": "closed",
+      "name": "Shendi Airport",
+      "elevation_ft": 1181.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-04",
+      "municipality": "Shendi",
+      "coordinates": "16.67426, 33.44956"
+    },
+    {
+      "ident": "SD-0027",
+      "type": "closed",
+      "name": "Kosti Airport",
+      "elevation_ft": 1289.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-08",
+      "municipality": "Rabak",
+      "coordinates": "13.183, 32.733002"
+    },
+    {
+      "ident": "SD-0028",
+      "type": "closed",
+      "name": "Wad Medani Airport",
+      "elevation_ft": 1350.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-07",
+      "municipality": "Wad Medani",
+      "coordinates": "14.383451, 33.526679"
     }
   ]
 }

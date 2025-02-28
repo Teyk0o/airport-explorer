@@ -2,7 +2,7 @@
   "country_code": "HU",
   "country_name": "Hungary",
   "total_airports": 138,
-  "last_updated": "2025-02-27T00:08:24.655120",
+  "last_updated": "2025-02-28T00:08:11.928854",
   "types_distribution": {
     "small_airport": 99,
     "medium_airport": 9,
@@ -791,19 +791,7 @@
       "coordinates": "47.671881, 19.681386"
     },
     {
-      "ident": "LH0",
-      "type": "small_airport",
-      "name": "Hertelendy Kastély Field",
-      "elevation_ft": 469.0,
-      "continent": "EU",
-      "iso_country": "HU",
-      "iso_region": "HU-SO",
-      "municipality": "Kutas",
-      "gps_code": "LHKU",
-      "coordinates": "46.373168, 17.428007"
-    },
-    {
-      "ident": "LH58",
+      "ident": "HU-0074",
       "type": "closed",
       "name": "Csákvár Air Base",
       "elevation_ft": 1000.0,
@@ -814,7 +802,40 @@
       "coordinates": "47.350899, 18.43"
     },
     {
-      "ident": "LHBA",
+      "ident": "HU-0075",
+      "type": "closed",
+      "name": "Miskolc Airfield",
+      "elevation_ft": 390.0,
+      "continent": "EU",
+      "iso_country": "HU",
+      "iso_region": "HU-BZ",
+      "municipality": "Miskolc",
+      "coordinates": "48.13603, 20.789641"
+    },
+    {
+      "ident": "HU-0076",
+      "type": "closed",
+      "name": "Gyomai Airfield",
+      "elevation_ft": 265.0,
+      "continent": "EU",
+      "iso_country": "HU",
+      "iso_region": "HU-BE",
+      "municipality": "Gyomai",
+      "coordinates": "46.956165, 20.883123"
+    },
+    {
+      "ident": "HU-0077",
+      "type": "closed",
+      "name": "Érsekcsanád Airfield",
+      "elevation_ft": 285.0,
+      "continent": "EU",
+      "iso_country": "HU",
+      "iso_region": "HU-BK",
+      "municipality": "Érsekcsanád",
+      "coordinates": "46.249608, 18.927609"
+    },
+    {
+      "ident": "HU-0078",
       "type": "closed",
       "name": "Balassagyarmat Airfield",
       "elevation_ft": 466.0,
@@ -823,6 +844,29 @@
       "iso_region": "HU-NO",
       "municipality": "Balassagyarmat",
       "coordinates": "48.078037, 19.321749"
+    },
+    {
+      "ident": "HU-0079",
+      "type": "closed",
+      "name": "Terpes Airport",
+      "elevation_ft": 519.0,
+      "continent": "EU",
+      "iso_country": "HU",
+      "iso_region": "HU-HE",
+      "municipality": "Terpes",
+      "coordinates": "47.974924, 20.146968"
+    },
+    {
+      "ident": "LH0",
+      "type": "small_airport",
+      "name": "Hertelendy Kastély Field",
+      "elevation_ft": 469.0,
+      "continent": "EU",
+      "iso_country": "HU",
+      "iso_region": "HU-SO",
+      "municipality": "Kutas",
+      "gps_code": "LHKU",
+      "coordinates": "46.373168, 17.428007"
     },
     {
       "ident": "LHBB",
@@ -958,17 +1002,6 @@
       "coordinates": "46.895802, 18.9139"
     },
     {
-      "ident": "LHEC",
-      "type": "closed",
-      "name": "Érsekcsanád Airfield",
-      "elevation_ft": 285.0,
-      "continent": "EU",
-      "iso_country": "HU",
-      "iso_region": "HU-BK",
-      "municipality": "Érsekcsanád",
-      "coordinates": "46.249608, 18.927609"
-    },
-    {
       "ident": "LHEM",
       "type": "small_airport",
       "name": "Esztergom Ernő Rubik Airfield",
@@ -1051,17 +1084,6 @@
       "municipality": "Gödöllő",
       "gps_code": "LHGD",
       "coordinates": "47.571662, 19.336796"
-    },
-    {
-      "ident": "LHGM",
-      "type": "closed",
-      "name": "Gyomai Airfield",
-      "elevation_ft": 265.0,
-      "continent": "EU",
-      "iso_country": "HU",
-      "iso_region": "HU-BE",
-      "municipality": "Gyomai",
-      "coordinates": "46.956165, 20.883123"
     },
     {
       "ident": "LHGR",
@@ -1241,17 +1263,6 @@
       "municipality": "Lipót",
       "gps_code": "LHLI",
       "coordinates": "47.8575, 17.448333"
-    },
-    {
-      "ident": "LHMC",
-      "type": "closed",
-      "name": "Miskolc Airfield",
-      "elevation_ft": 390.0,
-      "continent": "EU",
-      "iso_country": "HU",
-      "iso_region": "HU-BZ",
-      "municipality": "Miskolc",
-      "coordinates": "48.13603, 20.789641"
     },
     {
       "ident": "LHMR",
@@ -1479,17 +1490,6 @@
       "municipality": "Taszár",
       "gps_code": "LHTA",
       "coordinates": "46.393101, 17.9175"
-    },
-    {
-      "ident": "LHTE",
-      "type": "closed",
-      "name": "Terpes Airport",
-      "elevation_ft": 519.0,
-      "continent": "EU",
-      "iso_country": "HU",
-      "iso_region": "HU-HE",
-      "municipality": "Terpes",
-      "coordinates": "47.974924, 20.146968"
     },
     {
       "ident": "LHTL",

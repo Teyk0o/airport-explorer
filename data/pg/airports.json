@@ -2,13 +2,13 @@
   "country_code": "PG",
   "country_name": "Papua New Guinea",
   "total_airports": 646,
-  "last_updated": "2025-02-27T00:08:24.297534",
+  "last_updated": "2025-02-28T00:08:11.560279",
   "types_distribution": {
     "small_airport": 548,
-    "closed": 74,
     "medium_airport": 20,
     "large_airport": 1,
-    "heliport": 3
+    "heliport": 3,
+    "closed": 74
   },
   "airports": [
     {
@@ -23,17 +23,6 @@
       "iata_code": "ABP",
       "local_code": "AKA",
       "coordinates": "-6.06462, 141.095173"
-    },
-    {
-      "ident": "ABW",
-      "type": "closed",
-      "name": "Abau Airport",
-      "elevation_ft": 10.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Abau",
-      "coordinates": "-10.1956, 148.7389"
     },
     {
       "ident": "AGG",
@@ -59,28 +48,6 @@
       "municipality": "Kagua",
       "iata_code": "AGK",
       "coordinates": "-6.396388888890001, 143.853611111"
-    },
-    {
-      "ident": "AMG",
-      "type": "closed",
-      "name": "Amboin Airstrip",
-      "elevation_ft": 87.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-ESW",
-      "municipality": "Amboin",
-      "coordinates": "-4.605642, 143.485308"
-    },
-    {
-      "ident": "AOA",
-      "type": "closed",
-      "name": "Aroa Airport",
-      "elevation_ft": 20.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Agevairu",
-      "coordinates": "-9.0254, 146.8"
     },
     {
       "ident": "AOB",
@@ -189,6 +156,7 @@
       "continent": "OC",
       "iso_country": "PG",
       "iso_region": "PG-NPP",
+      "municipality": "Afore",
       "gps_code": "AYAF",
       "iata_code": "AFR",
       "local_code": "AFE",
@@ -2421,17 +2389,6 @@
       "coordinates": "-3.3687, 143.5546"
     },
     {
-      "ident": "AYLA",
-      "type": "closed",
-      "name": "Lae Airfield",
-      "elevation_ft": 50.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Lae",
-      "coordinates": "-6.731666, 146.996368"
-    },
-    {
       "ident": "AYLB",
       "type": "small_airport",
       "name": "Lab Lab Airport",
@@ -3887,17 +3844,6 @@
       "coordinates": "-8.065111111110001, 147.332027778"
     },
     {
-      "ident": "AYRB",
-      "type": "closed",
-      "name": "Lakunai Airfield",
-      "elevation_ft": 30.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EBR",
-      "municipality": "Rabaul",
-      "coordinates": "-4.223, 152.185"
-    },
-    {
       "ident": "AYRD",
       "type": "small_airport",
       "name": "Rano Airstrip",
@@ -5229,10 +5175,11 @@
       "continent": "OC",
       "iso_country": "PG",
       "iso_region": "PG-NPP",
+      "municipality": "Wanigela",
       "gps_code": "AYWG",
       "iata_code": "AGL",
       "local_code": "WGL",
-      "coordinates": "-9.3375, 149.155555556"
+      "coordinates": "-9.3375, 149.155556"
     },
     {
       "ident": "AYWH",
@@ -5988,49 +5935,6 @@
       "coordinates": "-4.8833333333299995, 149.133333333"
     },
     {
-      "ident": "BAP",
-      "type": "closed",
-      "name": "Baibara Airport",
-      "elevation_ft": 15.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Nabai",
-      "coordinates": "-10.3432, 149.6414"
-    },
-    {
-      "ident": "BEA",
-      "type": "closed",
-      "name": "Bereina Airport",
-      "elevation_ft": 58.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Bereina Mission",
-      "coordinates": "-8.64, 146.5083"
-    },
-    {
-      "ident": "BIJ",
-      "type": "closed",
-      "name": "Biliau Airport",
-      "elevation_ft": 50.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Biliau",
-      "coordinates": "-5.578, 146.339"
-    },
-    {
-      "ident": "BIZ",
-      "type": "closed",
-      "name": "Bimin Airport",
-      "elevation_ft": 5775.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-SAN",
-      "coordinates": "-5.28611111111, 142.033055556"
-    },
-    {
       "ident": "BNV",
       "type": "small_airport",
       "name": "Boana Airport",
@@ -6041,28 +5945,6 @@
       "municipality": "Boana",
       "iata_code": "BNV",
       "coordinates": "-6.426631, 146.826697"
-    },
-    {
-      "ident": "BNZ",
-      "type": "closed",
-      "name": "Banz Airport",
-      "elevation_ft": 5150.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-JWK",
-      "municipality": "Banz",
-      "coordinates": "-5.807, 144.623"
-    },
-    {
-      "ident": "BOQ",
-      "type": "closed",
-      "name": "Boku Airport",
-      "elevation_ft": 225.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Boku",
-      "coordinates": "-6.5427, 155.3419"
     },
     {
       "ident": "BOV",
@@ -6076,17 +5958,6 @@
       "iata_code": "BOV",
       "local_code": "BOG",
       "coordinates": "-3.3834, 153.2812"
-    },
-    {
-      "ident": "BVP",
-      "type": "closed",
-      "name": "Bolovip Airstrip",
-      "elevation_ft": 4990.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Bolovip",
-      "coordinates": "-5.3633, 141.655"
     },
     {
       "ident": "BWJ",
@@ -6161,39 +6032,6 @@
       "coordinates": "-8.17736111111, 147.809444444"
     },
     {
-      "ident": "DGG",
-      "type": "closed",
-      "name": "Fishermans Airfield",
-      "elevation_ft": 24.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Daugo Island",
-      "coordinates": "-9.5128, 147.0505"
-    },
-    {
-      "ident": "DOS",
-      "type": "closed",
-      "name": "Dios Airport",
-      "elevation_ft": 335.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Dios",
-      "coordinates": "-5.5609, 154.9616"
-    },
-    {
-      "ident": "DPU",
-      "type": "closed",
-      "name": "Dumpu Airport",
-      "elevation_ft": 870.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Dumpu",
-      "coordinates": "-5.858, 145.705"
-    },
-    {
       "ident": "FUB",
       "type": "small_airport",
       "name": "Fulleborn Airport",
@@ -6207,17 +6045,6 @@
       "coordinates": "-6.1518, 150.6264"
     },
     {
-      "ident": "GRH",
-      "type": "closed",
-      "name": "Garuahi Airport",
-      "elevation_ft": 50.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Garuahi",
-      "coordinates": "-10.225149, 150.487667"
-    },
-    {
       "ident": "GUE",
       "type": "small_airport",
       "name": "Guriaso (Keraso) Airport",
@@ -6229,17 +6056,6 @@
       "iata_code": "GUE",
       "local_code": "KSO",
       "coordinates": "-3.583167, 141.5895"
-    },
-    {
-      "ident": "GWN",
-      "type": "closed",
-      "name": "Gnarowein Airport",
-      "elevation_ft": 525.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Gnarowein",
-      "coordinates": "-6.555, 146.248"
     },
     {
       "ident": "HAZ",
@@ -6280,17 +6096,6 @@
       "iata_code": "IBI",
       "local_code": "IBK",
       "coordinates": "-5.5536, 149.19"
-    },
-    {
-      "ident": "ILX",
-      "type": "closed",
-      "name": "Ileg Airport",
-      "elevation_ft": 60.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Ileg",
-      "coordinates": "-5.4917, 145.8022"
     },
     {
       "ident": "IMA",
@@ -6346,17 +6151,6 @@
       "coordinates": "-9.201527, 148.264261"
     },
     {
-      "ident": "IUS",
-      "type": "closed",
-      "name": "Inus Airport",
-      "elevation_ft": 50.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Inus",
-      "coordinates": "-5.7568, 155.1498"
-    },
-    {
       "ident": "KAF",
       "type": "small_airport",
       "name": "Karato Airport",
@@ -6383,39 +6177,6 @@
       "coordinates": "-6.2452, 143.5516"
     },
     {
-      "ident": "KIA",
-      "type": "closed",
-      "name": "Kaiapit Airport",
-      "elevation_ft": 1030.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Kaiapit",
-      "coordinates": "-6.275, 146.27"
-    },
-    {
-      "ident": "KIZ",
-      "type": "closed",
-      "name": "Kikinonda Airport",
-      "elevation_ft": 95.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NPP",
-      "municipality": "Kikinonda",
-      "coordinates": "-8.5284, 147.9309"
-    },
-    {
-      "ident": "KJU",
-      "type": "closed",
-      "name": "Kamiraba Airport",
-      "elevation_ft": 40.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Kamiraba",
-      "coordinates": "-3.1995, 151.9077"
-    },
-    {
       "ident": "KMB",
       "type": "small_airport",
       "name": "Koinambe Airport",
@@ -6430,17 +6191,6 @@
       "coordinates": "-5.4875, 144.606944"
     },
     {
-      "ident": "KNL",
-      "type": "closed",
-      "name": "Kelanoa Airport",
-      "elevation_ft": 40.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Kelanoa",
-      "coordinates": "-6.01, 147.49"
-    },
-    {
       "ident": "KPL",
       "type": "small_airport",
       "name": "Kapal Airport",
@@ -6452,28 +6202,6 @@
       "iata_code": "KPL",
       "local_code": "KPL",
       "coordinates": "-8.630184, 142.823756"
-    },
-    {
-      "ident": "KSG",
-      "type": "closed",
-      "name": "Kisengam Airport",
-      "elevation_ft": 3700.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Kisenden",
-      "coordinates": "-6.362, 146.71"
-    },
-    {
-      "ident": "KTK",
-      "type": "closed",
-      "name": "Kunua Airport",
-      "elevation_ft": 60.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Kunua",
-      "coordinates": "-5.7828, 154.74"
     },
     {
       "ident": "KUP",
@@ -6502,61 +6230,6 @@
       "coordinates": "-8.6285, 151.327"
     },
     {
-      "ident": "KWV",
-      "type": "closed",
-      "name": "Kurwina Airport",
-      "elevation_ft": 65.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Kurwina",
-      "coordinates": "-5.965, 155.3604"
-    },
-    {
-      "ident": "KWX",
-      "type": "closed",
-      "name": "Kiwai Airport",
-      "elevation_ft": 30.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Kiwai Island",
-      "coordinates": "-8.6883, 143.618"
-    },
-    {
-      "ident": "LGM",
-      "type": "closed",
-      "name": "Laiagam Airport",
-      "elevation_ft": 7267.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EPW",
-      "municipality": "Laiagam",
-      "coordinates": "-5.4923, 143.488"
-    },
-    {
-      "ident": "LHP",
-      "type": "closed",
-      "name": "Lehu Airport",
-      "elevation_ft": 1770.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Lehu",
-      "coordinates": "-6.527493, 155.712442"
-    },
-    {
-      "ident": "LNQ",
-      "type": "closed",
-      "name": "Loani Airport",
-      "elevation_ft": 150.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MBA",
-      "municipality": "Loani",
-      "coordinates": "-10.5815, 150.5931"
-    },
-    {
       "ident": "LTF",
       "type": "small_airport",
       "name": "Leitre Airport",
@@ -6581,17 +6254,6 @@
       "iata_code": "MAP",
       "local_code": "MAM",
       "coordinates": "-10.290833, 149.519167"
-    },
-    {
-      "ident": "MGG",
-      "type": "closed",
-      "name": "Margarima Airport",
-      "elevation_ft": 7291.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-HLA",
-      "municipality": "Margarima",
-      "coordinates": "-5.979, 143.3595"
     },
     {
       "ident": "MGP",
@@ -6646,17 +6308,6 @@
       "coordinates": "-1.550403, 145.017504"
     },
     {
-      "ident": "MVI",
-      "type": "closed",
-      "name": "Manetai Airport",
-      "elevation_ft": 170.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Manetai",
-      "coordinates": "-6.12, 155.39"
-    },
-    {
       "ident": "MWU",
       "type": "small_airport",
       "name": "Mussau Airport",
@@ -6667,17 +6318,6 @@
       "municipality": "Mussau Island",
       "iata_code": "MWU",
       "coordinates": "-1.45, 149.7"
-    },
-    {
-      "ident": "NGR",
-      "type": "closed",
-      "name": "Ningerum Airstrip",
-      "elevation_ft": 299.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-WPD",
-      "municipality": "Ningerum",
-      "coordinates": "-5.669808, 141.143214"
     },
     {
       "ident": "NOM",
@@ -6720,17 +6360,6 @@
       "coordinates": "-6.1454, 143.4531"
     },
     {
-      "ident": "NUT",
-      "type": "closed",
-      "name": "Nutuve Airport",
-      "elevation_ft": 1100.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EBR",
-      "municipality": "Parakaman",
-      "coordinates": "-5.35485, 151.6695"
-    },
-    {
       "ident": "NWT",
       "type": "small_airport",
       "name": "Nowata Airport",
@@ -6743,17 +6372,6 @@
       "iata_code": "NWT",
       "local_code": "NTA",
       "coordinates": "-9.984166666669998, 149.729166667"
-    },
-    {
-      "ident": "OML",
-      "type": "closed",
-      "name": "Omkalai Airport",
-      "elevation_ft": 5700.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPK",
-      "municipality": "Omkalai",
-      "coordinates": "-6.179, 144.96"
     },
     {
       "ident": "PG-0001",
@@ -7991,6 +7609,522 @@
       "coordinates": "-6.322081, 155.472965"
     },
     {
+      "ident": "PG-0114",
+      "type": "closed",
+      "name": "Karoola Airport",
+      "elevation_ft": 52.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Buka Island",
+      "coordinates": "-5.1431, 154.5928"
+    },
+    {
+      "ident": "PG-0115",
+      "type": "closed",
+      "name": "Bimin Airport",
+      "elevation_ft": 5775.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-SAN",
+      "coordinates": "-5.28611111111, 142.033055556"
+    },
+    {
+      "ident": "PG-0116",
+      "type": "closed",
+      "name": "Fishermans Airfield",
+      "elevation_ft": 24.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Daugo Island",
+      "coordinates": "-9.5128, 147.0505"
+    },
+    {
+      "ident": "PG-0117",
+      "type": "closed",
+      "name": "Lae Airfield",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Lae",
+      "coordinates": "-6.731666, 146.996368"
+    },
+    {
+      "ident": "PG-0118",
+      "type": "closed",
+      "name": "Lakunai Airfield",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EBR",
+      "municipality": "Rabaul",
+      "coordinates": "-4.223, 152.185"
+    },
+    {
+      "ident": "PG-0119",
+      "type": "closed",
+      "name": "Bolovip Airstrip",
+      "elevation_ft": 4990.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Bolovip",
+      "coordinates": "-5.3633, 141.655"
+    },
+    {
+      "ident": "PG-0120",
+      "type": "closed",
+      "name": "Tingwon Airport",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Tingwon Island",
+      "coordinates": "-2.6053, 149.7107"
+    },
+    {
+      "ident": "PG-0121",
+      "type": "closed",
+      "name": "Taskul Airport",
+      "elevation_ft": 100.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Taskul",
+      "coordinates": "-2.546, 150.4553"
+    },
+    {
+      "ident": "PG-0122",
+      "type": "closed",
+      "name": "Bereina Airport",
+      "elevation_ft": 58.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Bereina Mission",
+      "coordinates": "-8.64, 146.5083"
+    },
+    {
+      "ident": "PG-0123",
+      "type": "closed",
+      "name": "Biliau Airport",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Biliau",
+      "coordinates": "-5.578, 146.339"
+    },
+    {
+      "ident": "PG-0124",
+      "type": "closed",
+      "name": "Boku Airport",
+      "elevation_ft": 225.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Boku",
+      "coordinates": "-6.5427, 155.3419"
+    },
+    {
+      "ident": "PG-0125",
+      "type": "closed",
+      "name": "Dumpu Airport",
+      "elevation_ft": 870.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Dumpu",
+      "coordinates": "-5.858, 145.705"
+    },
+    {
+      "ident": "PG-0126",
+      "type": "closed",
+      "name": "Kelanoa Airport",
+      "elevation_ft": 40.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Kelanoa",
+      "coordinates": "-6.01, 147.49"
+    },
+    {
+      "ident": "PG-0127",
+      "type": "closed",
+      "name": "Gnarowein Airport",
+      "elevation_ft": 525.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Gnarowein",
+      "coordinates": "-6.555, 146.248"
+    },
+    {
+      "ident": "PG-0128",
+      "type": "closed",
+      "name": "Kamiraba Airport",
+      "elevation_ft": 40.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NIK",
+      "municipality": "Kamiraba",
+      "coordinates": "-3.1995, 151.9077"
+    },
+    {
+      "ident": "PG-0129",
+      "type": "closed",
+      "name": "Kunua Airport",
+      "elevation_ft": 60.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Kunua",
+      "coordinates": "-5.7828, 154.74"
+    },
+    {
+      "ident": "PG-0130",
+      "type": "closed",
+      "name": "Dios Airport",
+      "elevation_ft": 335.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Dios",
+      "coordinates": "-5.5609, 154.9616"
+    },
+    {
+      "ident": "PG-0131",
+      "type": "closed",
+      "name": "Inus Airport",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Inus",
+      "coordinates": "-5.7568, 155.1498"
+    },
+    {
+      "ident": "PG-0132",
+      "type": "closed",
+      "name": "Loani Airport",
+      "elevation_ft": 150.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Loani",
+      "coordinates": "-10.5815, 150.5931"
+    },
+    {
+      "ident": "PG-0133",
+      "type": "closed",
+      "name": "Omkalai Airport",
+      "elevation_ft": 5700.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPK",
+      "municipality": "Omkalai",
+      "coordinates": "-6.179, 144.96"
+    },
+    {
+      "ident": "PG-0134",
+      "type": "closed",
+      "name": "Kiwai Airport",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Kiwai Island",
+      "coordinates": "-8.6883, 143.618"
+    },
+    {
+      "ident": "PG-0135",
+      "type": "closed",
+      "name": "Kisengam Airport",
+      "elevation_ft": 3700.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Kisenden",
+      "coordinates": "-6.362, 146.71"
+    },
+    {
+      "ident": "PG-0136",
+      "type": "closed",
+      "name": "Ileg Airport",
+      "elevation_ft": 60.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Ileg",
+      "coordinates": "-5.4917, 145.8022"
+    },
+    {
+      "ident": "PG-0137",
+      "type": "closed",
+      "name": "Banz Airport",
+      "elevation_ft": 5150.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-JWK",
+      "municipality": "Banz",
+      "coordinates": "-5.807, 144.623"
+    },
+    {
+      "ident": "PG-0138",
+      "type": "closed",
+      "name": "Kaiapit Airport",
+      "elevation_ft": 1030.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Kaiapit",
+      "coordinates": "-6.275, 146.27"
+    },
+    {
+      "ident": "PG-0139",
+      "type": "closed",
+      "name": "Kikinonda Airport",
+      "elevation_ft": 95.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NPP",
+      "municipality": "Kikinonda",
+      "coordinates": "-8.5284, 147.9309"
+    },
+    {
+      "ident": "PG-0140",
+      "type": "closed",
+      "name": "Kurwina Airport",
+      "elevation_ft": 65.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Kurwina",
+      "coordinates": "-5.965, 155.3604"
+    },
+    {
+      "ident": "PG-0141",
+      "type": "closed",
+      "name": "Aroa Airport",
+      "elevation_ft": 20.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Agevairu",
+      "coordinates": "-9.0254, 146.8"
+    },
+    {
+      "ident": "PG-0142",
+      "type": "closed",
+      "name": "Baibara Airport",
+      "elevation_ft": 15.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Nabai",
+      "coordinates": "-10.3432, 149.6414"
+    },
+    {
+      "ident": "PG-0143",
+      "type": "closed",
+      "name": "Laiagam Airport",
+      "elevation_ft": 7267.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EPW",
+      "municipality": "Laiagam",
+      "coordinates": "-5.4923, 143.488"
+    },
+    {
+      "ident": "PG-0144",
+      "type": "closed",
+      "name": "Margarima Airport",
+      "elevation_ft": 7291.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-HLA",
+      "municipality": "Margarima",
+      "coordinates": "-5.979, 143.3595"
+    },
+    {
+      "ident": "PG-0145",
+      "type": "closed",
+      "name": "Manetai Airport",
+      "elevation_ft": 170.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Manetai",
+      "coordinates": "-6.12, 155.39"
+    },
+    {
+      "ident": "PG-0146",
+      "type": "closed",
+      "name": "Wabag Airport",
+      "elevation_ft": 6800.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EPW",
+      "municipality": "Wabag",
+      "coordinates": "-5.4915, 143.72"
+    },
+    {
+      "ident": "PG-0147",
+      "type": "closed",
+      "name": "Porgera Airport",
+      "elevation_ft": 7360.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EPW",
+      "municipality": "Porgera",
+      "coordinates": "-5.4792, 143.1236"
+    },
+    {
+      "ident": "PG-0148",
+      "type": "closed",
+      "name": "Robinson River Airport",
+      "elevation_ft": 60.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Robinson River",
+      "coordinates": "-10.171, 148.823"
+    },
+    {
+      "ident": "PG-0149",
+      "type": "closed",
+      "name": "Suria Airport",
+      "elevation_ft": 2600.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Suria",
+      "coordinates": "-9.032, 147.45"
+    },
+    {
+      "ident": "PG-0150",
+      "type": "closed",
+      "name": "Tauta Airport",
+      "elevation_ft": 4200.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Tauta",
+      "coordinates": "-5.8335, 145.9341"
+    },
+    {
+      "ident": "PG-0151",
+      "type": "closed",
+      "name": "Tabibuga Airport",
+      "elevation_ft": 4400.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-JWK",
+      "municipality": "Tabibuga",
+      "coordinates": "-5.5766, 144.6508"
+    },
+    {
+      "ident": "PG-0152",
+      "type": "closed",
+      "name": "Wagau Airport",
+      "elevation_ft": 3853.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPL",
+      "municipality": "Wagau",
+      "coordinates": "-6.8519, 146.8022"
+    },
+    {
+      "ident": "PG-0153",
+      "type": "closed",
+      "name": "Pureni Airport",
+      "elevation_ft": 5512.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-HLA",
+      "municipality": "Pureni",
+      "coordinates": "-5.8429, 142.8279"
+    },
+    {
+      "ident": "PG-0154",
+      "type": "closed",
+      "name": "Usino Airport",
+      "elevation_ft": 430.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MPM",
+      "municipality": "Usino",
+      "coordinates": "-5.5276, 145.371"
+    },
+    {
+      "ident": "PG-0155",
+      "type": "closed",
+      "name": "Garuahi Airport",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-MBA",
+      "municipality": "Garuahi",
+      "coordinates": "-10.225149, 150.487667"
+    },
+    {
+      "ident": "PG-0156",
+      "type": "closed",
+      "name": "Abau Airport",
+      "elevation_ft": 10.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-CPM",
+      "municipality": "Abau",
+      "coordinates": "-10.1956, 148.7389"
+    },
+    {
+      "ident": "PG-0157",
+      "type": "closed",
+      "name": "Lehu Airport",
+      "elevation_ft": 1770.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-NSB",
+      "municipality": "Lehu",
+      "coordinates": "-6.527493, 155.712442"
+    },
+    {
+      "ident": "PG-0158",
+      "type": "closed",
+      "name": "Amboin Airstrip",
+      "elevation_ft": 87.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-ESW",
+      "municipality": "Amboin",
+      "coordinates": "-4.605642, 143.485308"
+    },
+    {
+      "ident": "PG-0159",
+      "type": "closed",
+      "name": "Nutuve Airport",
+      "elevation_ft": 1100.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-EBR",
+      "municipality": "Parakaman",
+      "coordinates": "-5.35485, 151.6695"
+    },
+    {
+      "ident": "PG-0160",
+      "type": "closed",
+      "name": "Ningerum Airstrip",
+      "elevation_ft": 299.0,
+      "continent": "OC",
+      "iso_country": "PG",
+      "iso_region": "PG-WPD",
+      "municipality": "Ningerum",
+      "coordinates": "-5.669808, 141.143214"
+    },
+    {
       "ident": "PG-ATP",
       "type": "small_airport",
       "name": "Tadji Airport",
@@ -8045,17 +8179,6 @@
       "iata_code": "KUY",
       "local_code": "KSI",
       "coordinates": "-7.420347, 143.121811"
-    },
-    {
-      "ident": "PG-KXR",
-      "type": "closed",
-      "name": "Karoola Airport",
-      "elevation_ft": 52.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NSB",
-      "municipality": "Buka Island",
-      "coordinates": "-5.1431, 154.5928"
     },
     {
       "ident": "PG-LMY",
@@ -8122,17 +8245,6 @@
       "coordinates": "-2.395, 150.2361"
     },
     {
-      "ident": "PUI",
-      "type": "closed",
-      "name": "Pureni Airport",
-      "elevation_ft": 5512.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-HLA",
-      "municipality": "Pureni",
-      "coordinates": "-5.8429, 142.8279"
-    },
-    {
       "ident": "RAA",
       "type": "small_airport",
       "name": "Rakanda Airport",
@@ -8157,28 +8269,6 @@
       "iata_code": "RAW",
       "local_code": "ARA",
       "coordinates": "-6.220556, 155.571389"
-    },
-    {
-      "ident": "RGE",
-      "type": "closed",
-      "name": "Porgera Airport",
-      "elevation_ft": 7360.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EPW",
-      "municipality": "Porgera",
-      "coordinates": "-5.4792, 143.1236"
-    },
-    {
-      "ident": "RNR",
-      "type": "closed",
-      "name": "Robinson River Airport",
-      "elevation_ft": 60.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Robinson River",
-      "coordinates": "-10.171, 148.823"
     },
     {
       "ident": "RUU",
@@ -8220,39 +8310,6 @@
       "coordinates": "-5.5965, 147.8106"
     },
     {
-      "ident": "SUZ",
-      "type": "closed",
-      "name": "Suria Airport",
-      "elevation_ft": 2600.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-CPM",
-      "municipality": "Suria",
-      "coordinates": "-9.032, 147.45"
-    },
-    {
-      "ident": "TBA",
-      "type": "closed",
-      "name": "Tabibuga Airport",
-      "elevation_ft": 4400.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-JWK",
-      "municipality": "Tabibuga",
-      "coordinates": "-5.5766, 144.6508"
-    },
-    {
-      "ident": "TIG",
-      "type": "closed",
-      "name": "Tingwon Airport",
-      "elevation_ft": 30.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Tingwon Island",
-      "coordinates": "-2.6053, 149.7107"
-    },
-    {
       "ident": "TOK",
       "type": "small_airport",
       "name": "Torokina Airport",
@@ -8277,39 +8334,6 @@
       "iata_code": "TSI",
       "local_code": "TSL",
       "coordinates": "-6.8498, 146.3554"
-    },
-    {
-      "ident": "TSK",
-      "type": "closed",
-      "name": "Taskul Airport",
-      "elevation_ft": 100.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-NIK",
-      "municipality": "Taskul",
-      "coordinates": "-2.546, 150.4553"
-    },
-    {
-      "ident": "TUT",
-      "type": "closed",
-      "name": "Tauta Airport",
-      "elevation_ft": 4200.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Tauta",
-      "coordinates": "-5.8335, 145.9341"
-    },
-    {
-      "ident": "USO",
-      "type": "closed",
-      "name": "Usino Airport",
-      "elevation_ft": 430.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPM",
-      "municipality": "Usino",
-      "coordinates": "-5.5276, 145.371"
     },
     {
       "ident": "UUU",
@@ -8338,17 +8362,6 @@
       "coordinates": "-9.30333333333, 150.318888889"
     },
     {
-      "ident": "WAB",
-      "type": "closed",
-      "name": "Wabag Airport",
-      "elevation_ft": 6800.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-EPW",
-      "municipality": "Wabag",
-      "coordinates": "-5.4915, 143.72"
-    },
-    {
       "ident": "WED",
       "type": "small_airport",
       "name": "Wedau Airport",
@@ -8360,17 +8373,6 @@
       "iata_code": "WED",
       "local_code": "WDU",
       "coordinates": "-10.0954, 150.0826"
-    },
-    {
-      "ident": "WGU",
-      "type": "closed",
-      "name": "Wagau Airport",
-      "elevation_ft": 3853.0,
-      "continent": "OC",
-      "iso_country": "PG",
-      "iso_region": "PG-MPL",
-      "municipality": "Wagau",
-      "coordinates": "-6.8519, 146.8022"
     }
   ]
 }

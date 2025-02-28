@@ -2,7 +2,7 @@
   "country_code": "TH",
   "country_name": "Thailand",
   "total_airports": 118,
-  "last_updated": "2025-02-27T00:08:24.493492",
+  "last_updated": "2025-02-28T00:08:11.766648",
   "types_distribution": {
     "medium_airport": 39,
     "small_airport": 62,
@@ -535,6 +535,28 @@
       "coordinates": "12.85511, 100.990908"
     },
     {
+      "ident": "TH-0051",
+      "type": "closed",
+      "name": "Old Chiang Rai Airport",
+      "elevation_ft": 1312.0,
+      "continent": "AS",
+      "iso_country": "TH",
+      "iso_region": "TH-57",
+      "municipality": "Chiang Rai",
+      "coordinates": "19.885401, 99.826797"
+    },
+    {
+      "ident": "TH-0052",
+      "type": "closed",
+      "name": "Pattaya Airpark",
+      "elevation_ft": 100.0,
+      "continent": "AS",
+      "iso_country": "TH",
+      "iso_region": "TH-20",
+      "municipality": "Pattaya (Bang Lamung)",
+      "coordinates": "12.8325, 100.949444"
+    },
+    {
       "ident": "VN-0020",
       "type": "small_airport",
       "name": "Ongkarak Airport (Klong 16)",
@@ -789,17 +811,6 @@
       "gps_code": "VTCP",
       "iata_code": "PRH",
       "coordinates": "18.1322, 100.165001"
-    },
-    {
-      "ident": "VTCR",
-      "type": "closed",
-      "name": "Old Chiang Rai Airport",
-      "elevation_ft": 1312.0,
-      "continent": "AS",
-      "iso_country": "TH",
-      "iso_region": "TH-57",
-      "municipality": "Chiang Rai",
-      "coordinates": "19.885401, 99.826797"
     },
     {
       "ident": "VTCS",
@@ -1341,17 +1352,6 @@
       "municipality": "Khon Kaen",
       "gps_code": "VTUZ",
       "coordinates": "16.65220069885254, 102.96700286865234"
-    },
-    {
-      "ident": "YTBF",
-      "type": "closed",
-      "name": "Pattaya Airpark",
-      "elevation_ft": 100.0,
-      "continent": "AS",
-      "iso_country": "TH",
-      "iso_region": "TH-20",
-      "municipality": "Pattaya (Bang Lamung)",
-      "coordinates": "12.8325, 100.949444"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "country_code": "VU",
   "country_name": "Vanuatu",
   "total_airports": 36,
-  "last_updated": "2025-02-27T00:08:24.737209",
+  "last_updated": "2025-02-28T00:08:12.010823",
   "types_distribution": {
     "small_airport": 27,
     "medium_airport": 3,
-    "closed": 5,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 5
   },
   "airports": [
     {
@@ -386,17 +386,6 @@
       "coordinates": "-19.5161, 169.2625"
     },
     {
-      "ident": "NVVQ",
-      "type": "closed",
-      "name": "Quoin Hill Airfield",
-      "elevation_ft": 16.0,
-      "continent": "OC",
-      "iso_country": "VU",
-      "iso_region": "VU-SEE",
-      "municipality": "Quoin Hill",
-      "coordinates": "-17.540001, 168.442001"
-    },
-    {
       "ident": "NVVV",
       "type": "large_airport",
       "name": "Bauerfield International Airport",
@@ -464,6 +453,17 @@
       "iso_region": "VU-SAM",
       "municipality": "Espiritu Santo Is.",
       "coordinates": "-15.555, 167.147"
+    },
+    {
+      "ident": "VU-0005",
+      "type": "closed",
+      "name": "Quoin Hill Airfield",
+      "elevation_ft": 16.0,
+      "continent": "OC",
+      "iso_country": "VU",
+      "iso_region": "VU-SEE",
+      "municipality": "Quoin Hill",
+      "coordinates": "-17.540001, 168.442001"
     }
   ]
 }

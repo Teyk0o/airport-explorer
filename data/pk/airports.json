@@ -2,12 +2,12 @@
   "country_code": "PK",
   "country_name": "Pakistan",
   "total_airports": 189,
-  "last_updated": "2025-02-27T00:08:24.740437",
+  "last_updated": "2025-02-28T00:08:12.014016",
   "types_distribution": {
     "small_airport": 77,
-    "medium_airport": 36,
-    "closed": 25,
+    "medium_airport": 37,
     "large_airport": 3,
+    "closed": 24,
     "heliport": 48
   },
   "airports": [
@@ -360,17 +360,6 @@
       "coordinates": "27.813100814819336, 69.16709899902344"
     },
     {
-      "ident": "OPAB",
-      "type": "closed",
-      "name": "Abbottabad Airport",
-      "elevation_ft": 4072.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-KP",
-      "municipality": "Abbottabad",
-      "coordinates": "34.15, 73.21666"
-    },
-    {
       "ident": "OPBG",
       "type": "small_airport",
       "name": "Bhagatanwala Airport",
@@ -546,7 +535,6 @@
       "iso_region": "PK-BA",
       "municipality": "Gwadar",
       "gps_code": "OPGD",
-      "iata_code": "GWD",
       "coordinates": "25.232391, 62.327671"
     },
     {
@@ -587,17 +575,6 @@
       "gps_code": "OPJA",
       "iata_code": "JAG",
       "coordinates": "28.28420066833496, 68.44969940185547"
-    },
-    {
-      "ident": "OPJI",
-      "type": "closed",
-      "name": "Jiwani Airport",
-      "elevation_ft": 186.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-BA",
-      "municipality": "Jiwani",
-      "coordinates": "25.067801, 61.805401"
     },
     {
       "ident": "OPKA",
@@ -673,39 +650,6 @@
       "gps_code": "OPKH",
       "iata_code": "KDD",
       "coordinates": "27.790599823, 66.6473007202"
-    },
-    {
-      "ident": "OPKK",
-      "type": "closed",
-      "name": "Korangi Creek Airport",
-      "elevation_ft": 3.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-SD",
-      "municipality": "Karachi",
-      "coordinates": "24.7843, 67.139"
-    },
-    {
-      "ident": "OPKL",
-      "type": "closed",
-      "name": "Kalat Airport",
-      "elevation_ft": 6100.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-BA",
-      "municipality": "Kalat",
-      "coordinates": "29.133333, 66.51667"
-    },
-    {
-      "ident": "OPKN",
-      "type": "closed",
-      "name": "Kharan Airport",
-      "elevation_ft": 2408.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-BA",
-      "municipality": "Kharan",
-      "coordinates": "28.5972, 65.422501"
     },
     {
       "ident": "OPKT",
@@ -897,17 +841,6 @@
       "gps_code": "OPNH",
       "iata_code": "WNS",
       "coordinates": "26.2194, 68.390099"
-    },
-    {
-      "ident": "OPNK",
-      "type": "closed",
-      "name": "Nushki Airport",
-      "elevation_ft": 3200.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-BA",
-      "municipality": "Nushki",
-      "coordinates": "29.539, 66.0233"
     },
     {
       "ident": "OPOK",
@@ -1148,17 +1081,6 @@
       "gps_code": "OPSN",
       "iata_code": "SYW",
       "coordinates": "26.473101, 67.717201"
-    },
-    {
-      "ident": "OPSP",
-      "type": "closed",
-      "name": "Shekhupura Airport",
-      "elevation_ft": 680.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-PB",
-      "municipality": "Shekhupura",
-      "coordinates": "31.7085, 74.010201"
     },
     {
       "ident": "OPSR",
@@ -1761,13 +1683,14 @@
     },
     {
       "ident": "PK-0044",
-      "type": "closed",
-      "name": "New Gwadar International Airport (U.C.)",
+      "type": "medium_airport",
+      "name": "New Gwadar International Airport",
       "elevation_ft": 61.0,
       "continent": "AS",
       "iso_country": "PK",
       "iso_region": "PK-BA",
       "municipality": "Gurandani",
+      "iata_code": "GWD",
       "coordinates": "25.296733, 62.498822"
     },
     {
@@ -2156,6 +2079,94 @@
       "coordinates": "31.563837, 73.161435"
     },
     {
+      "ident": "PK-0081",
+      "type": "closed",
+      "name": "Kharan Airport",
+      "elevation_ft": 2408.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-BA",
+      "municipality": "Kharan",
+      "coordinates": "28.5972, 65.422501"
+    },
+    {
+      "ident": "PK-0082",
+      "type": "closed",
+      "name": "Nushki Airport",
+      "elevation_ft": 3200.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-BA",
+      "municipality": "Nushki",
+      "coordinates": "29.539, 66.0233"
+    },
+    {
+      "ident": "PK-0083",
+      "type": "closed",
+      "name": "Jiwani Airport",
+      "elevation_ft": 186.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-BA",
+      "municipality": "Jiwani",
+      "coordinates": "25.067801, 61.805401"
+    },
+    {
+      "ident": "PK-0084",
+      "type": "closed",
+      "name": "Abbottabad Airport",
+      "elevation_ft": 4072.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-KP",
+      "municipality": "Abbottabad",
+      "coordinates": "34.15, 73.21666"
+    },
+    {
+      "ident": "PK-0085",
+      "type": "closed",
+      "name": "Korangi Creek Airport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-SD",
+      "municipality": "Karachi",
+      "coordinates": "24.7843, 67.139"
+    },
+    {
+      "ident": "PK-0086",
+      "type": "closed",
+      "name": "Kalat Airport",
+      "elevation_ft": 6100.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-BA",
+      "municipality": "Kalat",
+      "coordinates": "29.133333, 66.51667"
+    },
+    {
+      "ident": "PK-0087",
+      "type": "closed",
+      "name": "Shekhupura Airport",
+      "elevation_ft": 680.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-PB",
+      "municipality": "Shekhupura",
+      "coordinates": "31.7085, 74.010201"
+    },
+    {
+      "ident": "PK-0088",
+      "type": "closed",
+      "name": "Mansehra Airport",
+      "elevation_ft": 3530.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-KP",
+      "municipality": "Mansehra",
+      "coordinates": "34.333321, 73.200203"
+    },
+    {
       "ident": "PK-BHC",
       "type": "small_airport",
       "name": "Bhurban Heliport",
@@ -2190,17 +2201,6 @@
       "municipality": "Gujrat",
       "iata_code": "GRT",
       "coordinates": "32.62826, 74.067287"
-    },
-    {
-      "ident": "PK-HRA",
-      "type": "closed",
-      "name": "Mansehra Airport",
-      "elevation_ft": 3530.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-KP",
-      "municipality": "Mansehra",
-      "coordinates": "34.333321, 73.200203"
     },
     {
       "ident": "PK-KCF",

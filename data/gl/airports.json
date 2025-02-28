@@ -2,7 +2,7 @@
   "country_code": "GL",
   "country_name": "Greenland",
   "total_airports": 91,
-  "last_updated": "2025-02-27T00:08:24.389255",
+  "last_updated": "2025-02-28T00:08:11.663315",
   "types_distribution": {
     "medium_airport": 8,
     "heliport": 54,
@@ -165,16 +165,6 @@
       "coordinates": "76.76667, -18.666668"
     },
     {
-      "ident": "BGDU",
-      "type": "closed",
-      "name": "Dundas Airport",
-      "elevation_ft": 200.0,
-      "iso_country": "GL",
-      "iso_region": "GL-AV",
-      "municipality": "Pituffik",
-      "coordinates": "76.523062, -68.811836"
-    },
-    {
       "ident": "BGET",
       "type": "heliport",
       "name": "Eqalugaarsuit Heliport",
@@ -197,16 +187,6 @@
       "gps_code": "BGFD",
       "iata_code": "QFN",
       "coordinates": "60.004694, -44.656935"
-    },
-    {
-      "ident": "BGFH",
-      "type": "closed",
-      "name": "Paamiut Heliport",
-      "elevation_ft": 63.0,
-      "iso_country": "GL",
-      "iso_region": "GL-SE",
-      "municipality": "Paamiut",
-      "coordinates": "61.992199, -49.662498"
     },
     {
       "ident": "BGGD",
@@ -465,16 +445,6 @@
       "municipality": "Station Nord",
       "gps_code": "BGMI",
       "coordinates": "81.601292, -16.679306"
-    },
-    {
-      "ident": "BGMO",
-      "type": "closed",
-      "name": "Moriusaq Heliport",
-      "elevation_ft": 44.0,
-      "iso_country": "GL",
-      "iso_region": "GL-AV",
-      "municipality": "Moriusaq",
-      "coordinates": "76.753492, -69.845055"
     },
     {
       "ident": "BGMQ",
@@ -1010,13 +980,43 @@
       "coordinates": "73.440427, -36.606445"
     },
     {
-      "ident": "GL-JGR",
+      "ident": "GL-0017",
       "type": "closed",
       "name": "Grønnedal Heliport",
       "iso_country": "GL",
       "iso_region": "GL-SE",
       "municipality": "Kangilinnguit",
       "coordinates": "61.237704, -48.105526"
+    },
+    {
+      "ident": "GL-0018",
+      "type": "closed",
+      "name": "Paamiut Heliport",
+      "elevation_ft": 63.0,
+      "iso_country": "GL",
+      "iso_region": "GL-SE",
+      "municipality": "Paamiut",
+      "coordinates": "61.992199, -49.662498"
+    },
+    {
+      "ident": "GL-0019",
+      "type": "closed",
+      "name": "Moriusaq Heliport",
+      "elevation_ft": 44.0,
+      "iso_country": "GL",
+      "iso_region": "GL-AV",
+      "municipality": "Moriusaq",
+      "coordinates": "76.753492, -69.845055"
+    },
+    {
+      "ident": "GL-0020",
+      "type": "closed",
+      "name": "Dundas Airport",
+      "elevation_ft": 200.0,
+      "iso_country": "GL",
+      "iso_region": "GL-AV",
+      "municipality": "Pituffik",
+      "coordinates": "76.523062, -68.811836"
     },
     {
       "ident": "GL-QCU",

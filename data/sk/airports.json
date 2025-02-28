@@ -2,12 +2,12 @@
   "country_code": "SK",
   "country_name": "Slovakia",
   "total_airports": 129,
-  "last_updated": "2025-02-27T00:08:24.547795",
+  "last_updated": "2025-02-28T00:08:11.819742",
   "types_distribution": {
     "small_airport": 109,
     "large_airport": 1,
-    "closed": 11,
     "medium_airport": 6,
+    "closed": 11,
     "heliport": 2
   },
   "airports": [
@@ -115,17 +115,6 @@
       "municipality": "Kamenica nad Cirochou",
       "gps_code": "LZKC",
       "coordinates": "48.937, 21.9952"
-    },
-    {
-      "ident": "LZKS",
-      "type": "closed",
-      "name": "Kráľová pri Senci Airfield",
-      "elevation_ft": 400.0,
-      "continent": "EU",
-      "iso_country": "SK",
-      "iso_region": "SK-BL",
-      "municipality": "Kráľová pri Senci",
-      "coordinates": "48.201094, 17.472467"
     },
     {
       "ident": "LZKZ",
@@ -382,17 +371,6 @@
       "gps_code": "LZTT",
       "iata_code": "TAT",
       "coordinates": "49.073601, 20.2411"
-    },
-    {
-      "ident": "LZVB",
-      "type": "closed",
-      "name": "Vajnory Slovaki Airfield",
-      "elevation_ft": 430.0,
-      "continent": "EU",
-      "iso_country": "SK",
-      "iso_region": "SK-BL",
-      "municipality": "Bratislava",
-      "coordinates": "48.204399, 17.1917"
     },
     {
       "ident": "LZZI",
@@ -1407,6 +1385,28 @@
       "iso_region": "SK-KI",
       "municipality": "Parchovany",
       "coordinates": "48.73877, 21.69836"
+    },
+    {
+      "ident": "SK-0097",
+      "type": "closed",
+      "name": "Kráľová pri Senci Airfield",
+      "elevation_ft": 400.0,
+      "continent": "EU",
+      "iso_country": "SK",
+      "iso_region": "SK-BL",
+      "municipality": "Kráľová pri Senci",
+      "coordinates": "48.201094, 17.472467"
+    },
+    {
+      "ident": "SK-0098",
+      "type": "closed",
+      "name": "Vajnory Slovaki Airfield",
+      "elevation_ft": 430.0,
+      "continent": "EU",
+      "iso_country": "SK",
+      "iso_region": "SK-BL",
+      "municipality": "Bratislava",
+      "coordinates": "48.204399, 17.1917"
     }
   ]
 }

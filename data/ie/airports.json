@@ -2,14 +2,14 @@
   "country_code": "IE",
   "country_name": "Ireland",
   "total_airports": 125,
-  "last_updated": "2025-02-27T00:08:24.593320",
+  "last_updated": "2025-02-28T00:08:11.865374",
   "types_distribution": {
     "small_airport": 88,
-    "closed": 17,
     "medium_airport": 9,
     "large_airport": 2,
     "heliport": 8,
-    "seaplane_base": 1
+    "seaplane_base": 1,
+    "closed": 17
   },
   "airports": [
     {
@@ -35,17 +35,6 @@
       "municipality": "Fingal",
       "gps_code": "EIBB",
       "coordinates": "53.5055556, -6.2377778"
-    },
-    {
-      "ident": "EIBB",
-      "type": "closed",
-      "name": "Brittas Bay Airfield",
-      "elevation_ft": 50.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-WW",
-      "municipality": "Brittas Bay",
-      "coordinates": "52.858208, -6.06759"
     },
     {
       "ident": "EIBF",
@@ -111,27 +100,6 @@
       "coordinates": "53.23030090332031, -9.467780113220215"
     },
     {
-      "ident": "EICB",
-      "type": "closed",
-      "name": "Castlebar Airport",
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-MO",
-      "municipality": "Castlebar",
-      "coordinates": "53.8484, -9.28037"
-    },
-    {
-      "ident": "EICD",
-      "type": "closed",
-      "name": "Castlebridge Airport",
-      "elevation_ft": 79.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-WX",
-      "municipality": "Wexford",
-      "coordinates": "52.3978, -6.4628"
-    },
-    {
       "ident": "EICK",
       "type": "medium_airport",
       "name": "Cork Airport",
@@ -182,17 +150,6 @@
       "coordinates": "52.6665, -8.68183"
     },
     {
-      "ident": "EICS",
-      "type": "closed",
-      "name": "Castleforbes Airport",
-      "elevation_ft": 150.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-LD",
-      "municipality": "Castleforbes",
-      "coordinates": "53.778301, -7.83528"
-    },
-    {
       "ident": "EIDL",
       "type": "medium_airport",
       "name": "Donegal Airport",
@@ -241,17 +198,6 @@
       "municipality": "Ballyshannon",
       "gps_code": "EIFR",
       "coordinates": "54.49273, -8.24091"
-    },
-    {
-      "ident": "EIGM",
-      "type": "closed",
-      "name": "Gormanstown Aerodrome",
-      "elevation_ft": 69.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-MH",
-      "municipality": "Gormanstown",
-      "coordinates": "53.6348, -6.2277"
     },
     {
       "ident": "EIGN",
@@ -340,17 +286,6 @@
       "coordinates": "53.0635986328125, -6.855279922485352"
     },
     {
-      "ident": "EIKI",
-      "type": "closed",
-      "name": "Killenaule Airfield",
-      "elevation_ft": 680.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-TA",
-      "municipality": "Killenaule",
-      "coordinates": "52.634261, -7.635262"
-    },
-    {
       "ident": "EIKK",
       "type": "small_airport",
       "name": "Kilkenny Airport",
@@ -415,17 +350,6 @@
       "coordinates": "53.301700592, -6.451330184940001"
     },
     {
-      "ident": "EIMG",
-      "type": "closed",
-      "name": "Moneygall Aerodrome",
-      "elevation_ft": 450.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-OY",
-      "municipality": "Moneygall",
-      "coordinates": "52.849998, -7.983"
-    },
-    {
       "ident": "EIMH",
       "type": "small_airport",
       "name": "Athboy Airfield",
@@ -463,17 +387,6 @@
       "coordinates": "52.9305, -8.4245"
     },
     {
-      "ident": "EIMY",
-      "type": "closed",
-      "name": "Moyne Aerodrome",
-      "elevation_ft": 400.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-TA",
-      "municipality": "Thurles",
-      "coordinates": "52.703098, -7.70528"
-    },
-    {
       "ident": "EINC",
       "type": "small_airport",
       "name": "Newcastle Aerodrome",
@@ -497,17 +410,6 @@
       "gps_code": "EINN",
       "iata_code": "SNN",
       "coordinates": "52.702, -8.92482"
-    },
-    {
-      "ident": "EIPT",
-      "type": "closed",
-      "name": "Powerscourt Airfield",
-      "elevation_ft": 470.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-WW",
-      "municipality": "Powerscourt",
-      "coordinates": "53.178301, -6.196495"
     },
     {
       "ident": "EIRT",
@@ -568,17 +470,6 @@
       "municipality": "Trim",
       "gps_code": "EITM",
       "coordinates": "53.5746994019, -6.7386097908"
-    },
-    {
-      "ident": "EITT",
-      "type": "closed",
-      "name": "Trevet Airfield",
-      "elevation_ft": 385.0,
-      "continent": "EU",
-      "iso_country": "IE",
-      "iso_region": "IE-MH",
-      "municipality": "Dunshaughlin",
-      "coordinates": "53.543611, -6.531944"
     },
     {
       "ident": "EIWF",
@@ -1379,6 +1270,115 @@
       "municipality": "Dublin",
       "local_code": "CHIC",
       "coordinates": "53.325197, -6.319065"
+    },
+    {
+      "ident": "IE-0076",
+      "type": "closed",
+      "name": "Castlebar Airport",
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-MO",
+      "municipality": "Castlebar",
+      "coordinates": "53.8484, -9.28037"
+    },
+    {
+      "ident": "IE-0077",
+      "type": "closed",
+      "name": "Moyne Aerodrome",
+      "elevation_ft": 400.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-TA",
+      "municipality": "Thurles",
+      "coordinates": "52.703098, -7.70528"
+    },
+    {
+      "ident": "IE-0078",
+      "type": "closed",
+      "name": "Gormanstown Aerodrome",
+      "elevation_ft": 69.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-MH",
+      "municipality": "Gormanstown",
+      "coordinates": "53.6348, -6.2277"
+    },
+    {
+      "ident": "IE-0079",
+      "type": "closed",
+      "name": "Brittas Bay Airfield",
+      "elevation_ft": 50.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-WW",
+      "municipality": "Brittas Bay",
+      "coordinates": "52.858208, -6.06759"
+    },
+    {
+      "ident": "IE-0080",
+      "type": "closed",
+      "name": "Castleforbes Airport",
+      "elevation_ft": 150.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-LD",
+      "municipality": "Castleforbes",
+      "coordinates": "53.778301, -7.83528"
+    },
+    {
+      "ident": "IE-0081",
+      "type": "closed",
+      "name": "Killenaule Airfield",
+      "elevation_ft": 680.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-TA",
+      "municipality": "Killenaule",
+      "coordinates": "52.634261, -7.635262"
+    },
+    {
+      "ident": "IE-0082",
+      "type": "closed",
+      "name": "Moneygall Aerodrome",
+      "elevation_ft": 450.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-OY",
+      "municipality": "Moneygall",
+      "coordinates": "52.849998, -7.983"
+    },
+    {
+      "ident": "IE-0083",
+      "type": "closed",
+      "name": "Powerscourt Airfield",
+      "elevation_ft": 470.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-WW",
+      "municipality": "Powerscourt",
+      "coordinates": "53.178301, -6.196495"
+    },
+    {
+      "ident": "IE-0084",
+      "type": "closed",
+      "name": "Trevet Airfield",
+      "elevation_ft": 385.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-MH",
+      "municipality": "Dunshaughlin",
+      "coordinates": "53.543611, -6.531944"
+    },
+    {
+      "ident": "IE-0085",
+      "type": "closed",
+      "name": "Castlebridge Airport",
+      "elevation_ft": 79.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-WX",
+      "municipality": "Wexford",
+      "coordinates": "52.3978, -6.4628"
     }
   ]
 }

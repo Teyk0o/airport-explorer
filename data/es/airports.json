@@ -2,7 +2,7 @@
   "country_code": "ES",
   "country_name": "Spain",
   "total_airports": 560,
-  "last_updated": "2025-02-27T00:08:24.323078",
+  "last_updated": "2025-02-28T00:08:11.585966",
   "types_distribution": {
     "heliport": 162,
     "small_airport": 311,
@@ -3769,6 +3769,105 @@
       "coordinates": "29.032714, -13.598529"
     },
     {
+      "ident": "ES-0356",
+      "type": "closed",
+      "name": "Alfes Airfield",
+      "elevation_ft": 705.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-CT",
+      "municipality": "LLeida - Alfes",
+      "coordinates": "41.549999, 0.65"
+    },
+    {
+      "ident": "ES-0357",
+      "type": "closed",
+      "name": "Hinojosa del Duque Airfield",
+      "elevation_ft": 1772.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-AN",
+      "municipality": "Hinojosa del Duque",
+      "coordinates": "38.51209, -5.107215"
+    },
+    {
+      "ident": "ES-0358",
+      "type": "closed",
+      "name": "Tablada Airport",
+      "elevation_ft": 26.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-AN",
+      "municipality": "Sevilla",
+      "coordinates": "37.3517, -6.01456"
+    },
+    {
+      "ident": "ES-0359",
+      "type": "closed",
+      "name": "Campolara Airfield",
+      "elevation_ft": 3353.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-CL",
+      "municipality": "Segovia",
+      "coordinates": "40.903099, -4.52028"
+    },
+    {
+      "ident": "ES-0360",
+      "type": "closed",
+      "name": "Castejón de los Monegros Airfield",
+      "elevation_ft": 1424.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-AR",
+      "municipality": "Huesca",
+      "coordinates": "41.6078, -0.218327"
+    },
+    {
+      "ident": "ES-0361",
+      "type": "closed",
+      "name": "Ciudad Sanitaria y Universitaria de Bellvitge Heliport",
+      "elevation_ft": 35.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-CT",
+      "municipality": "Barcelona",
+      "coordinates": "41.345299, 2.10729"
+    },
+    {
+      "ident": "ES-0362",
+      "type": "closed",
+      "name": "Viso del Marqués Airfield",
+      "elevation_ft": 2672.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-CM",
+      "municipality": "Viso del Marqués",
+      "coordinates": "38.5056, -3.42615"
+    },
+    {
+      "ident": "ES-0363",
+      "type": "closed",
+      "name": "Sa Sabina Heliport",
+      "elevation_ft": 44.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-IB",
+      "municipality": "Sa Sabina",
+      "coordinates": "38.716547, 1.399969"
+    },
+    {
+      "ident": "ES-0364",
+      "type": "closed",
+      "name": "Aeródromo de Sangüesa",
+      "elevation_ft": 1297.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-NC",
+      "municipality": "Sangüesa",
+      "coordinates": "42.56736, -1.2889"
+    },
+    {
       "ident": "GCAD",
       "type": "heliport",
       "name": "Adeje Heliport",
@@ -4006,17 +4105,6 @@
       "coordinates": "36.930698, -3.83538"
     },
     {
-      "ident": "LE85",
-      "type": "closed",
-      "name": "Tablada Airport",
-      "elevation_ft": 26.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-AN",
-      "municipality": "Sevilla",
-      "coordinates": "37.3517, -6.01456"
-    },
-    {
       "ident": "LEAB",
       "type": "medium_airport",
       "name": "Albacete Airport / Los Llanos Air Base",
@@ -4091,17 +4179,6 @@
       "gps_code": "LEAS",
       "iata_code": "OVD",
       "coordinates": "43.563599, -6.03462"
-    },
-    {
-      "ident": "LEAT",
-      "type": "closed",
-      "name": "Alfes Airfield",
-      "elevation_ft": 705.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-CT",
-      "municipality": "LLeida - Alfes",
-      "coordinates": "41.549999, 0.65"
     },
     {
       "ident": "LEAX",
@@ -4200,17 +4277,6 @@
       "gps_code": "LEBG",
       "iata_code": "RGS",
       "coordinates": "42.357601, -3.62076"
-    },
-    {
-      "ident": "LEBI",
-      "type": "closed",
-      "name": "Sa Sabina Heliport",
-      "elevation_ft": 44.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-IB",
-      "municipality": "Sa Sabina",
-      "coordinates": "38.716547, 1.399969"
     },
     {
       "ident": "LEBL",
@@ -4360,17 +4426,6 @@
       "coordinates": "42.569199, -0.727778"
     },
     {
-      "ident": "LECJ",
-      "type": "closed",
-      "name": "Castejón de los Monegros Airfield",
-      "elevation_ft": 1424.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-AR",
-      "municipality": "Huesca",
-      "coordinates": "41.6078, -0.218327"
-    },
-    {
       "ident": "LECN",
       "type": "small_airport",
       "name": "Castellon de la Plana Aerodrome",
@@ -4430,17 +4485,6 @@
       "municipality": "Colmenar Viejo",
       "gps_code": "LECV",
       "coordinates": "40.697296, -3.763255"
-    },
-    {
-      "ident": "LECX",
-      "type": "closed",
-      "name": "Campolara Airfield",
-      "elevation_ft": 3353.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-CL",
-      "municipality": "Segovia",
-      "coordinates": "40.903099, -4.52028"
     },
     {
       "ident": "LEDA",
@@ -4765,17 +4809,6 @@
       "coordinates": "40.349702, -3.83819"
     },
     {
-      "ident": "LEHB",
-      "type": "closed",
-      "name": "Ciudad Sanitaria y Universitaria de Bellvitge Heliport",
-      "elevation_ft": 35.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-CT",
-      "municipality": "Barcelona",
-      "coordinates": "41.345299, 2.10729"
-    },
-    {
       "ident": "LEHC",
       "type": "small_airport",
       "name": "Huesca-Pirineos Airport",
@@ -4822,17 +4855,6 @@
       "municipality": "Coslada",
       "gps_code": "LEHH",
       "coordinates": "40.419524, -3.532319"
-    },
-    {
-      "ident": "LEHI",
-      "type": "closed",
-      "name": "Hinojosa del Duque Airfield",
-      "elevation_ft": 1772.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-AN",
-      "municipality": "Hinojosa del Duque",
-      "coordinates": "38.51209, -5.107215"
     },
     {
       "ident": "LEHJ",
@@ -5782,17 +5804,6 @@
       "coordinates": "38.730801, -4.31306"
     },
     {
-      "ident": "LESG",
-      "type": "closed",
-      "name": "Aeródromo de Sangüesa",
-      "elevation_ft": 1297.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-NC",
-      "municipality": "Sangüesa",
-      "coordinates": "42.56736, -1.2889"
-    },
-    {
       "ident": "LESL",
       "type": "small_airport",
       "name": "Sant Lluis Airfield",
@@ -6145,17 +6156,6 @@
       "municipality": "Carrèr deth Taro, Vielha",
       "gps_code": "LEVH",
       "coordinates": "42.697126, 0.801571"
-    },
-    {
-      "ident": "LEVI",
-      "type": "closed",
-      "name": "Viso del Marqués Airfield",
-      "elevation_ft": 2672.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-CM",
-      "municipality": "Viso del Marqués",
-      "coordinates": "38.5056, -3.42615"
     },
     {
       "ident": "LEVO",

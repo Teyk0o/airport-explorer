@@ -2,7 +2,7 @@
   "country_code": "PY",
   "country_name": "Paraguay",
   "total_airports": 119,
-  "last_updated": "2025-02-27T00:08:24.745680",
+  "last_updated": "2025-02-28T00:08:12.019595",
   "types_distribution": {
     "small_airport": 70,
     "medium_airport": 9,
@@ -933,6 +933,17 @@
       "coordinates": "-25.317999, -57.585011"
     },
     {
+      "ident": "PY-0089",
+      "type": "closed",
+      "name": "Aeródromo de Villa Hayes",
+      "elevation_ft": 210.0,
+      "continent": "SA",
+      "iso_country": "PY",
+      "iso_region": "PY-15",
+      "municipality": "Villa Hayes",
+      "coordinates": "-25.154666, -57.560495"
+    },
+    {
       "ident": "PY-PBT",
       "type": "small_airport",
       "name": "Aeródromo de Puerto Leda",
@@ -1166,17 +1177,6 @@
       "iso_region": "PY-7",
       "gps_code": "SGMZ",
       "coordinates": "-26.839758, -55.328915"
-    },
-    {
-      "ident": "SGNB",
-      "type": "closed",
-      "name": "Aeródromo de Villa Hayes",
-      "elevation_ft": 210.0,
-      "continent": "SA",
-      "iso_country": "PY",
-      "iso_region": "PY-15",
-      "municipality": "Villa Hayes",
-      "coordinates": "-25.154666, -57.560495"
     },
     {
       "ident": "SGOL",

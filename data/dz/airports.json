@@ -2,7 +2,7 @@
   "country_code": "DZ",
   "country_name": "Algeria",
   "total_airports": 112,
-  "last_updated": "2025-02-27T00:08:24.550068",
+  "last_updated": "2025-02-28T00:08:11.822024",
   "types_distribution": {
     "small_airport": 57,
     "medium_airport": 37,
@@ -368,17 +368,6 @@
       "gps_code": "DAEO",
       "iata_code": "QMH",
       "coordinates": "35.8797, 7.2708"
-    },
-    {
-      "ident": "DABP",
-      "type": "closed",
-      "name": "Skikda Airport",
-      "elevation_ft": 27.0,
-      "continent": "AF",
-      "iso_country": "DZ",
-      "iso_region": "DZ-21",
-      "municipality": "Skikda",
-      "coordinates": "36.8641, 6.9516"
     },
     {
       "ident": "DABS",
@@ -1316,6 +1305,17 @@
       "iso_region": "DZ-54",
       "municipality": "Metarfa",
       "coordinates": "28.61283, 0.03651"
+    },
+    {
+      "ident": "DZ-0054",
+      "type": "closed",
+      "name": "Skikda Airport",
+      "elevation_ft": 27.0,
+      "continent": "AF",
+      "iso_country": "DZ",
+      "iso_region": "DZ-21",
+      "municipality": "Skikda",
+      "coordinates": "36.8641, 6.9516"
     }
   ]
 }

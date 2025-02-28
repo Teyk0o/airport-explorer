@@ -2,12 +2,12 @@
   "country_code": "EH",
   "country_name": "Western Sahara",
   "total_airports": 30,
-  "last_updated": "2025-02-27T00:08:24.590596",
+  "last_updated": "2025-02-28T00:08:11.862614",
   "types_distribution": {
     "small_airport": 10,
     "heliport": 15,
-    "medium_airport": 4,
-    "closed": 1
+    "closed": 1,
+    "medium_airport": 4
   },
   "airports": [
     {
@@ -261,6 +261,17 @@
       "coordinates": "27.9487, -12.9166"
     },
     {
+      "ident": "EH-0025",
+      "type": "closed",
+      "name": "La Güera Airport",
+      "elevation_ft": 10.0,
+      "continent": "AF",
+      "iso_country": "EH",
+      "iso_region": "EH-U-A",
+      "municipality": "La Güera",
+      "coordinates": "20.83662, -17.07409"
+    },
+    {
       "ident": "GMAR",
       "type": "small_airport",
       "name": "Al Mahbes Airstrip",
@@ -321,17 +332,6 @@
       "iso_region": "EH-U-A",
       "gps_code": "GMAR",
       "coordinates": "27.726982, -9.237865"
-    },
-    {
-      "ident": "ZLG",
-      "type": "closed",
-      "name": "La Güera Airport",
-      "elevation_ft": 10.0,
-      "continent": "AF",
-      "iso_country": "EH",
-      "iso_region": "EH-U-A",
-      "municipality": "La Güera",
-      "coordinates": "20.83662, -17.07409"
     }
   ]
 }

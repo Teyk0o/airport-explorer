@@ -2,7 +2,7 @@
   "country_code": "HK",
   "country_name": "Hong Kong",
   "total_airports": 103,
-  "last_updated": "2025-02-27T00:08:24.645515",
+  "last_updated": "2025-02-28T00:08:11.919240",
   "types_distribution": {
     "closed": 7,
     "heliport": 94,
@@ -1016,6 +1016,17 @@
       "coordinates": "22.288128, 114.03873"
     },
     {
+      "ident": "HK-0099",
+      "type": "closed",
+      "name": "Hong Kong International Airport Kai Tak",
+      "elevation_ft": 28.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-KLN",
+      "municipality": "Kowloon City",
+      "coordinates": "22.320304, 114.198074"
+    },
+    {
       "ident": "HK07",
       "type": "heliport",
       "name": "HKGFS New Wan Chai Heliport",
@@ -1039,17 +1050,6 @@
       "gps_code": "VHHH",
       "iata_code": "HKG",
       "coordinates": "22.308901, 113.915001"
-    },
-    {
-      "ident": "VHHX",
-      "type": "closed",
-      "name": "Hong Kong International Airport Kai Tak",
-      "elevation_ft": 28.0,
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-KLN",
-      "municipality": "Kowloon City",
-      "coordinates": "22.320304, 114.198074"
     },
     {
       "ident": "VHSK",

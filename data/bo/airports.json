@@ -2,7 +2,7 @@
   "country_code": "BO",
   "country_name": "Bolivia",
   "total_airports": 205,
-  "last_updated": "2025-02-27T00:08:24.419419",
+  "last_updated": "2025-02-28T00:08:11.692646",
   "types_distribution": {
     "small_airport": 182,
     "heliport": 3,
@@ -193,6 +193,17 @@
       "coordinates": "-18.839831, -64.620142"
     },
     {
+      "ident": "BO-0020",
+      "type": "closed",
+      "name": "Abapó Airport",
+      "elevation_ft": 2752.0,
+      "continent": "SA",
+      "iso_country": "BO",
+      "iso_region": "BO-S",
+      "municipality": "Abapó",
+      "coordinates": "-18.63447, -62.936735"
+    },
+    {
       "ident": "BO-BVL",
       "type": "small_airport",
       "name": "Baures Airport",
@@ -204,17 +215,6 @@
       "gps_code": "SLBA",
       "iata_code": "BVL",
       "coordinates": "-13.654426, -63.704718"
-    },
-    {
-      "ident": "SLAB",
-      "type": "closed",
-      "name": "Abapó Airport",
-      "elevation_ft": 2752.0,
-      "continent": "SA",
-      "iso_country": "BO",
-      "iso_region": "BO-S",
-      "municipality": "Abapó",
-      "coordinates": "-18.63447, -62.936735"
     },
     {
       "ident": "SLAG",

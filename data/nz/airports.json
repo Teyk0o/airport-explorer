@@ -2,7 +2,7 @@
   "country_code": "NZ",
   "country_name": "New Zealand",
   "total_airports": 285,
-  "last_updated": "2025-02-27T00:08:24.737802",
+  "last_updated": "2025-02-28T00:08:12.011382",
   "types_distribution": {
     "small_airport": 168,
     "closed": 14,
@@ -903,6 +903,58 @@
       "coordinates": "-43.528918, 171.613645"
     },
     {
+      "ident": "NZ-0087",
+      "type": "closed",
+      "name": "Wigram Airport",
+      "elevation_ft": 74.0,
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-CAN",
+      "municipality": "Christchurch",
+      "coordinates": "-43.5511016846, 172.552993774"
+    },
+    {
+      "ident": "NZ-0088",
+      "type": "closed",
+      "name": "Auckland Hobsonville Airport",
+      "elevation_ft": 59.0,
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-AUK",
+      "coordinates": "-36.791698455811, 174.66400146484"
+    },
+    {
+      "ident": "NZ-0089",
+      "type": "closed",
+      "name": "Matarangi Airport",
+      "elevation_ft": 10.0,
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-WKO",
+      "municipality": "Matarangi",
+      "coordinates": "-36.731701, 175.649994"
+    },
+    {
+      "ident": "NZ-0090",
+      "type": "closed",
+      "name": "Te Anau Airport",
+      "elevation_ft": 791.0,
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-STL",
+      "coordinates": "-45.462799, 167.701004"
+    },
+    {
+      "ident": "NZ-0091",
+      "type": "closed",
+      "name": "Pikes Point Airport",
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-AUK",
+      "municipality": "Pikes Point",
+      "coordinates": "-36.9282989502, 174.81199646"
+    },
+    {
       "ident": "NZAA",
       "type": "large_airport",
       "name": "Auckland International Airport",
@@ -926,17 +978,6 @@
       "municipality": "Mount Tarawera",
       "gps_code": "NZAE",
       "coordinates": "-38.233001708984375, 176.51699829101562"
-    },
-    {
-      "ident": "NZAG",
-      "type": "closed",
-      "name": "Matarangi Airport",
-      "elevation_ft": 10.0,
-      "continent": "OC",
-      "iso_country": "NZ",
-      "iso_region": "NZ-WKO",
-      "municipality": "Matarangi",
-      "coordinates": "-36.731701, 175.649994"
     },
     {
       "ident": "NZAH",
@@ -1450,16 +1491,6 @@
       "municipality": "Hawera",
       "gps_code": "NZHA",
       "coordinates": "-39.55329895019531, 174.26699829101562"
-    },
-    {
-      "ident": "NZHB",
-      "type": "closed",
-      "name": "Auckland Hobsonville Airport",
-      "elevation_ft": 59.0,
-      "continent": "OC",
-      "iso_country": "NZ",
-      "iso_region": "NZ-AUK",
-      "coordinates": "-36.791698455811, 174.66400146484"
     },
     {
       "ident": "NZHC",
@@ -2512,16 +2543,6 @@
       "coordinates": "-36.651901, 174.436005"
     },
     {
-      "ident": "NZPK",
-      "type": "closed",
-      "name": "Pikes Point Airport",
-      "continent": "OC",
-      "iso_country": "NZ",
-      "iso_region": "NZ-AUK",
-      "municipality": "Pikes Point",
-      "coordinates": "-36.9282989502, 174.81199646"
-    },
-    {
       "ident": "NZPM",
       "type": "medium_airport",
       "name": "Palmerston North Airport",
@@ -2938,16 +2959,6 @@
       "coordinates": "-44.302799224853516, 171.22500610351562"
     },
     {
-      "ident": "NZTZ",
-      "type": "closed",
-      "name": "Te Anau Airport",
-      "elevation_ft": 791.0,
-      "continent": "OC",
-      "iso_country": "NZ",
-      "iso_region": "NZ-STL",
-      "coordinates": "-45.462799, 167.701004"
-    },
-    {
       "ident": "NZUA",
       "type": "heliport",
       "name": "Maui A Heliport",
@@ -3080,17 +3091,6 @@
       "gps_code": "NZWF",
       "iata_code": "WKA",
       "coordinates": "-44.722954, 169.248419"
-    },
-    {
-      "ident": "NZWG",
-      "type": "closed",
-      "name": "Wigram Airport",
-      "elevation_ft": 74.0,
-      "continent": "OC",
-      "iso_country": "NZ",
-      "iso_region": "NZ-CAN",
-      "municipality": "Christchurch",
-      "coordinates": "-43.5511016846, 172.552993774"
     },
     {
       "ident": "NZWH",

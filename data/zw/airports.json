@@ -2,7 +2,7 @@
   "country_code": "ZW",
   "country_name": "Zimbabwe",
   "total_airports": 155,
-  "last_updated": "2025-02-27T00:08:24.635664",
+  "last_updated": "2025-02-28T00:08:11.908737",
   "types_distribution": {
     "small_airport": 135,
     "medium_airport": 8,
@@ -930,17 +930,6 @@
       "coordinates": "-21.33300018310547, 28.517000198364258"
     },
     {
-      "ident": "FVSV",
-      "type": "closed",
-      "name": "Spray View Airport",
-      "elevation_ft": 3210.0,
-      "continent": "AF",
-      "iso_country": "ZW",
-      "iso_region": "ZW-MN",
-      "municipality": "Spray View",
-      "coordinates": "-17.917, 25.816999"
-    },
-    {
       "ident": "FVSX",
       "type": "small_airport",
       "name": "Sengwa Gorge Airport",
@@ -1011,17 +1000,6 @@
       "municipality": "Tengwe",
       "gps_code": "FVTE",
       "coordinates": "-17.117000579833984, 29.617000579833984"
-    },
-    {
-      "ident": "FVTJ",
-      "type": "closed",
-      "name": "Tonje Airport",
-      "elevation_ft": 1500.0,
-      "continent": "AF",
-      "iso_country": "ZW",
-      "iso_region": "ZW-MA",
-      "municipality": "Tonje",
-      "coordinates": "-20.316999, 32.349998"
     },
     {
       "ident": "FVTL",
@@ -1768,6 +1746,28 @@
       "iso_region": "ZW-MN",
       "municipality": "Mbuhulu Pan",
       "coordinates": "-19.509961, 27.408571"
+    },
+    {
+      "ident": "ZW-0062",
+      "type": "closed",
+      "name": "Spray View Airport",
+      "elevation_ft": 3210.0,
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Spray View",
+      "coordinates": "-17.917, 25.816999"
+    },
+    {
+      "ident": "ZW-0063",
+      "type": "closed",
+      "name": "Tonje Airport",
+      "elevation_ft": 1500.0,
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MA",
+      "municipality": "Tonje",
+      "coordinates": "-20.316999, 32.349998"
     }
   ]
 }

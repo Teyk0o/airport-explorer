@@ -2,7 +2,7 @@
   "country_code": "AL",
   "country_name": "Albania",
   "total_airports": 20,
-  "last_updated": "2025-02-27T00:08:24.360889",
+  "last_updated": "2025-02-28T00:08:11.623715",
   "types_distribution": {
     "heliport": 9,
     "closed": 8,
@@ -122,7 +122,7 @@
       "coordinates": "40.70228, 19.96852"
     },
     {
-      "ident": "AL-LA10",
+      "ident": "AL-0012",
       "type": "closed",
       "name": "Gjirokastër Airfield",
       "elevation_ft": 666.0,
@@ -131,6 +131,59 @@
       "iso_region": "AL-05",
       "municipality": "Gjirokastër",
       "coordinates": "40.085383, 20.15389"
+    },
+    {
+      "ident": "AL-0013",
+      "type": "closed",
+      "name": "Gjadër Air Base",
+      "elevation_ft": 23.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-08",
+      "municipality": "Gjadër",
+      "coordinates": "41.895199, 19.5987"
+    },
+    {
+      "ident": "AL-0014",
+      "type": "closed",
+      "name": "Korçë Airfield",
+      "elevation_ft": 665.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-06",
+      "municipality": "Qendër Bulgarec",
+      "coordinates": "40.651741, 20.741715"
+    },
+    {
+      "ident": "AL-0015",
+      "type": "closed",
+      "name": "Vlorë Air Base",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-12",
+      "municipality": "Vlorë",
+      "coordinates": "40.476101, 19.474199"
+    },
+    {
+      "ident": "AL-0016",
+      "type": "closed",
+      "name": "Shkodër Airport",
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-10",
+      "municipality": "Shkodër",
+      "coordinates": "42.089361, 19.509111"
+    },
+    {
+      "ident": "AL-0017",
+      "type": "closed",
+      "name": "Sarandë Airfield",
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-12",
+      "municipality": "Sarandë",
+      "coordinates": "39.876113, 20.037663"
     },
     {
       "ident": "LAFK",
@@ -142,28 +195,6 @@
       "municipality": "Farkë e Madhe",
       "gps_code": "LAFK",
       "coordinates": "41.311054, 19.880002"
-    },
-    {
-      "ident": "LAGJ",
-      "type": "closed",
-      "name": "Gjadër Air Base",
-      "elevation_ft": 23.0,
-      "continent": "EU",
-      "iso_country": "AL",
-      "iso_region": "AL-08",
-      "municipality": "Gjadër",
-      "coordinates": "41.895199, 19.5987"
-    },
-    {
-      "ident": "LAKO",
-      "type": "closed",
-      "name": "Korçë Airfield",
-      "elevation_ft": 665.0,
-      "continent": "EU",
-      "iso_country": "AL",
-      "iso_region": "AL-06",
-      "municipality": "Qendër Bulgarec",
-      "coordinates": "40.651741, 20.741715"
     },
     {
       "ident": "LAKU",
@@ -191,26 +222,6 @@
       "coordinates": "40.7719, 19.901899"
     },
     {
-      "ident": "LASK",
-      "type": "closed",
-      "name": "Shkodër Airport",
-      "continent": "EU",
-      "iso_country": "AL",
-      "iso_region": "AL-10",
-      "municipality": "Shkodër",
-      "coordinates": "42.089361, 19.509111"
-    },
-    {
-      "ident": "LASR",
-      "type": "closed",
-      "name": "Sarandë Airfield",
-      "continent": "EU",
-      "iso_country": "AL",
-      "iso_region": "AL-12",
-      "municipality": "Sarandë",
-      "coordinates": "39.876113, 20.037663"
-    },
-    {
       "ident": "LATI",
       "type": "large_airport",
       "name": "Tirana International Airport Mother Teresa",
@@ -222,17 +233,6 @@
       "gps_code": "LATI",
       "iata_code": "TIA",
       "coordinates": "41.4147, 19.7206"
-    },
-    {
-      "ident": "LAVL",
-      "type": "closed",
-      "name": "Vlorë Air Base",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "AL",
-      "iso_region": "AL-12",
-      "municipality": "Vlorë",
-      "coordinates": "40.476101, 19.474199"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "EC",
   "country_name": "Ecuador",
   "total_airports": 357,
-  "last_updated": "2025-02-27T00:08:24.582682",
+  "last_updated": "2025-02-28T00:08:11.854762",
   "types_distribution": {
     "small_airport": 301,
     "closed": 12,
@@ -703,6 +703,83 @@
       "coordinates": "-1.627303, -77.303546"
     },
     {
+      "ident": "EC-0063",
+      "type": "closed",
+      "name": "Atahualpa Airport",
+      "elevation_ft": 7304.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-I",
+      "municipality": "Ibarra",
+      "coordinates": "0.338419, -78.136398"
+    },
+    {
+      "ident": "EC-0064",
+      "type": "closed",
+      "name": "General Manuel Serrano Airport",
+      "elevation_ft": 11.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-O",
+      "municipality": "Machala",
+      "coordinates": "-3.2689, -79.961601"
+    },
+    {
+      "ident": "EC-0065",
+      "type": "closed",
+      "name": "Puná Airport",
+      "elevation_ft": 3.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-G",
+      "municipality": "Puná",
+      "coordinates": "-2.73368, -79.915298"
+    },
+    {
+      "ident": "EC-0066",
+      "type": "closed",
+      "name": "El Vergel Airport",
+      "elevation_ft": 9002.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-H",
+      "municipality": "El Vergel",
+      "coordinates": "-1.746606, -78.608558"
+    },
+    {
+      "ident": "EC-0067",
+      "type": "closed",
+      "name": "Cotacachi Airport",
+      "elevation_ft": 7824.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-I",
+      "municipality": "Cotacachi",
+      "coordinates": "0.29278, -78.25904"
+    },
+    {
+      "ident": "EC-0068",
+      "type": "closed",
+      "name": "Ascazubi Airport",
+      "elevation_ft": 9517.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-P",
+      "municipality": "Ascazubi",
+      "coordinates": "-0.083333, -78.283333"
+    },
+    {
+      "ident": "EC-0069",
+      "type": "closed",
+      "name": "Buena Fe Airport",
+      "elevation_ft": 320.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-R",
+      "municipality": "Buena Fe",
+      "coordinates": "-0.837328, -79.486759"
+    },
+    {
       "ident": "EC-MZD",
       "type": "small_airport",
       "name": "Méndez Airport",
@@ -1130,17 +1207,6 @@
       "coordinates": "-1.2357300519943237, -77.6854019165039"
     },
     {
-      "ident": "SEAS",
-      "type": "closed",
-      "name": "Ascazubi Airport",
-      "elevation_ft": 9517.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-P",
-      "municipality": "Ascazubi",
-      "coordinates": "-0.083333, -78.283333"
-    },
-    {
       "ident": "SEAU",
       "type": "small_airport",
       "name": "Chau Airstrip",
@@ -1187,17 +1253,6 @@
       "municipality": "Valencia",
       "gps_code": "SEAZ",
       "coordinates": "-0.873078, -79.327704"
-    },
-    {
-      "ident": "SEBF",
-      "type": "closed",
-      "name": "Buena Fe Airport",
-      "elevation_ft": 320.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-R",
-      "municipality": "Buena Fe",
-      "coordinates": "-0.837328, -79.486759"
     },
     {
       "ident": "SEBL",
@@ -1936,17 +1991,6 @@
       "coordinates": "-0.973032, -80.651808"
     },
     {
-      "ident": "SEHI",
-      "type": "closed",
-      "name": "Cotacachi Airport",
-      "elevation_ft": 7824.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-I",
-      "municipality": "Cotacachi",
-      "coordinates": "0.29278, -78.25904"
-    },
-    {
       "ident": "SEHN",
       "type": "small_airport",
       "name": "Mashuin Airstrip",
@@ -2041,17 +2085,6 @@
       "municipality": "Balao",
       "gps_code": "SEIA",
       "coordinates": "-2.898919, -79.812775"
-    },
-    {
-      "ident": "SEIB",
-      "type": "closed",
-      "name": "Atahualpa Airport",
-      "elevation_ft": 7304.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-I",
-      "municipality": "Ibarra",
-      "coordinates": "0.338419, -78.136398"
     },
     {
       "ident": "SEID",
@@ -2768,17 +2801,6 @@
       "coordinates": "-2.2991700172424316, -78.12079620361328"
     },
     {
-      "ident": "SEMH",
-      "type": "closed",
-      "name": "General Manuel Serrano Airport",
-      "elevation_ft": 11.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-O",
-      "municipality": "Machala",
-      "coordinates": "-3.2689, -79.961601"
-    },
-    {
       "ident": "SEML",
       "type": "small_airport",
       "name": "Manglaralto Airport",
@@ -3114,17 +3136,6 @@
       "gps_code": "SEPT",
       "iata_code": "PYO",
       "coordinates": "0.115949, -75.85022"
-    },
-    {
-      "ident": "SEPU",
-      "type": "closed",
-      "name": "Puná Airport",
-      "elevation_ft": 3.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-G",
-      "municipality": "Puná",
-      "coordinates": "-2.73368, -79.915298"
     },
     {
       "ident": "SEPV",
@@ -3760,17 +3771,6 @@
       "municipality": "Kurintza",
       "gps_code": "SEUZ",
       "coordinates": "-2.068437, -76.794788"
-    },
-    {
-      "ident": "SEVR",
-      "type": "closed",
-      "name": "El Vergel Airport",
-      "elevation_ft": 9002.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-H",
-      "municipality": "El Vergel",
-      "coordinates": "-1.746606, -78.608558"
     },
     {
       "ident": "SEVS",

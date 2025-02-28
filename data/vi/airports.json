@@ -2,12 +2,12 @@
   "country_code": "VI",
   "country_name": "U.S. Virgin Islands",
   "total_airports": 9,
-  "last_updated": "2025-02-27T00:08:24.748459",
+  "last_updated": "2025-02-28T00:08:12.022270",
   "types_distribution": {
     "seaplane_base": 3,
     "medium_airport": 2,
-    "heliport": 3,
-    "closed": 1
+    "closed": 1,
+    "heliport": 3
   },
   "airports": [
     {
@@ -48,6 +48,16 @@
       "coordinates": "17.701567, -64.801634"
     },
     {
+      "ident": "VI-0001",
+      "type": "closed",
+      "name": "Frenchman's Reef Heliport",
+      "elevation_ft": 20.0,
+      "iso_country": "VI",
+      "iso_region": "VI-U-A",
+      "municipality": "St Thomas",
+      "coordinates": "18.319921, -64.921882"
+    },
+    {
       "ident": "VI01",
       "type": "heliport",
       "name": "DPS Heliport",
@@ -70,16 +80,6 @@
       "gps_code": "VI02",
       "local_code": "VI02",
       "coordinates": "18.338600158691406, -64.93930053710938"
-    },
-    {
-      "ident": "VI03",
-      "type": "closed",
-      "name": "Frenchman's Reef Heliport",
-      "elevation_ft": 20.0,
-      "iso_country": "VI",
-      "iso_region": "VI-U-A",
-      "municipality": "St Thomas",
-      "coordinates": "18.319921, -64.921882"
     },
     {
       "ident": "VI04",

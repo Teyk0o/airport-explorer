@@ -2,7 +2,7 @@
   "country_code": "BS",
   "country_name": "Bahamas",
   "total_airports": 77,
-  "last_updated": "2025-02-27T00:08:24.492326",
+  "last_updated": "2025-02-28T00:08:11.765461",
   "types_distribution": {
     "closed": 11,
     "small_airport": 26,
@@ -174,6 +174,55 @@
       "iso_region": "BS-CS",
       "municipality": "Cargill Creek Settlement",
       "coordinates": "24.49789, -77.71867"
+    },
+    {
+      "ident": "BS-0018",
+      "type": "closed",
+      "name": "George Town Airport",
+      "elevation_ft": 5.0,
+      "iso_country": "BS",
+      "iso_region": "BS-EX",
+      "municipality": "George Town",
+      "coordinates": "23.4667, -75.7817"
+    },
+    {
+      "ident": "BS-0019",
+      "type": "closed",
+      "name": "Cutlass Bay Airport",
+      "elevation_ft": 3.0,
+      "iso_country": "BS",
+      "iso_region": "BS-CI",
+      "municipality": "Cutlass Bay",
+      "coordinates": "24.149141, -75.398"
+    },
+    {
+      "ident": "BS-0020",
+      "type": "closed",
+      "name": "Nassau Paradise Island Airport",
+      "iso_country": "BS",
+      "iso_region": "BS-NP",
+      "municipality": "Nassau",
+      "coordinates": "25.078138, -77.298689"
+    },
+    {
+      "ident": "BS-0021",
+      "type": "closed",
+      "name": "Cistern Field",
+      "elevation_ft": 18.0,
+      "iso_country": "BS",
+      "iso_region": "BS-BY",
+      "municipality": "Cistern Cay",
+      "coordinates": "25.7787, -77.885201"
+    },
+    {
+      "ident": "BS-0022",
+      "type": "closed",
+      "name": "Cape Eleuthera Airport",
+      "elevation_ft": 9.0,
+      "iso_country": "BS",
+      "iso_region": "BS-SE",
+      "municipality": "Cape Eleuthera",
+      "coordinates": "24.7861, -76.2962"
     },
     {
       "ident": "BS-NSB",
@@ -442,16 +491,6 @@
       "coordinates": "23.697625, -80.389781"
     },
     {
-      "ident": "MYCX",
-      "type": "closed",
-      "name": "Cutlass Bay Airport",
-      "elevation_ft": 3.0,
-      "iso_country": "BS",
-      "iso_region": "BS-CI",
-      "municipality": "Cutlass Bay",
-      "coordinates": "24.149141, -75.398"
-    },
-    {
       "ident": "MYCZ",
       "type": "heliport",
       "name": "AUTEC Heliport",
@@ -485,16 +524,6 @@
       "gps_code": "MYEF",
       "iata_code": "GGT",
       "coordinates": "23.562599, -75.877998"
-    },
-    {
-      "ident": "MYEG",
-      "type": "closed",
-      "name": "George Town Airport",
-      "elevation_ft": 5.0,
-      "iso_country": "BS",
-      "iso_region": "BS-EX",
-      "municipality": "George Town",
-      "coordinates": "23.4667, -75.7817"
     },
     {
       "ident": "MYEH",
@@ -691,15 +720,6 @@
       "coordinates": "25.039, -77.466202"
     },
     {
-      "ident": "MYPI",
-      "type": "closed",
-      "name": "Nassau Paradise Island Airport",
-      "iso_country": "BS",
-      "iso_region": "BS-NP",
-      "municipality": "Nassau",
-      "coordinates": "25.078138, -77.298689"
-    },
-    {
       "ident": "MYRD",
       "type": "medium_airport",
       "name": "Duncan Town Airport",
@@ -744,16 +764,6 @@
       "municipality": "Big Whale Cay",
       "gps_code": "MYBW",
       "coordinates": "25.399599, -77.791"
-    },
-    {
-      "ident": "MYX5",
-      "type": "closed",
-      "name": "Cistern Field",
-      "elevation_ft": 18.0,
-      "iso_country": "BS",
-      "iso_region": "BS-BY",
-      "municipality": "Cistern Cay",
-      "coordinates": "25.7787, -77.885201"
     },
     {
       "ident": "MYX6",
@@ -834,16 +844,6 @@
       "gps_code": "MYXH",
       "local_code": "MYXH",
       "coordinates": "24.216, -76.4785"
-    },
-    {
-      "ident": "MYZ2",
-      "type": "closed",
-      "name": "Cape Eleuthera Airport",
-      "elevation_ft": 9.0,
-      "iso_country": "BS",
-      "iso_region": "BS-SE",
-      "municipality": "Cape Eleuthera",
-      "coordinates": "24.7861, -76.2962"
     },
     {
       "ident": "MYZ3",

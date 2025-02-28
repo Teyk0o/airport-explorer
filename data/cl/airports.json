@@ -2,7 +2,7 @@
   "country_code": "CL",
   "country_name": "Chile",
   "total_airports": 511,
-  "last_updated": "2025-02-27T00:08:24.534927",
+  "last_updated": "2025-02-28T00:08:11.807203",
   "types_distribution": {
     "closed": 19,
     "small_airport": 345,
@@ -217,6 +217,149 @@
       "coordinates": "-40.547199, -73.155602"
     },
     {
+      "ident": "CL-0019",
+      "type": "closed",
+      "name": "La Chimba Airport",
+      "elevation_ft": 131.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-AN",
+      "municipality": "La Chimba",
+      "coordinates": "-23.5536003113, -70.3961029053"
+    },
+    {
+      "ident": "CL-0020",
+      "type": "closed",
+      "name": "Chaitén Airfield",
+      "elevation_ft": 13.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Chaitén",
+      "coordinates": "-42.9328, -72.6991"
+    },
+    {
+      "ident": "CL-0021",
+      "type": "closed",
+      "name": "Los Cerrillos Airport",
+      "elevation_ft": 1680.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-RM",
+      "municipality": "Santiago",
+      "coordinates": "-33.493598938, -70.6977996826"
+    },
+    {
+      "ident": "CL-0022",
+      "type": "closed",
+      "name": "San Alfonso Airport",
+      "elevation_ft": 407.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-RM",
+      "municipality": "Alhue",
+      "coordinates": "-34.060197, -71.253719"
+    },
+    {
+      "ident": "CL-0023",
+      "type": "closed",
+      "name": "Panimavida Airport",
+      "elevation_ft": 591.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-ML",
+      "municipality": "Panimavida",
+      "coordinates": "-35.760957, -71.40653"
+    },
+    {
+      "ident": "CL-0024",
+      "type": "closed",
+      "name": "Mansel Airport",
+      "elevation_ft": 1411.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-RM",
+      "municipality": "Paine",
+      "coordinates": "-33.862398, -70.771008"
+    },
+    {
+      "ident": "CL-0025",
+      "type": "closed",
+      "name": "La Vertiente Airport",
+      "elevation_ft": 459.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-NB",
+      "municipality": "Chillan",
+      "coordinates": "-36.613271, -72.041323"
+    },
+    {
+      "ident": "CL-0026",
+      "type": "closed",
+      "name": "Callipulli Airport",
+      "elevation_ft": 377.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Osorno",
+      "coordinates": "-40.620277, -72.84639"
+    },
+    {
+      "ident": "CL-0027",
+      "type": "closed",
+      "name": "Curaco Airport",
+      "elevation_ft": 820.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LR",
+      "municipality": "Panguipulli",
+      "coordinates": "-39.536914, -72.356129"
+    },
+    {
+      "ident": "CL-0028",
+      "type": "closed",
+      "name": "María Elena Airport",
+      "elevation_ft": 4003.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-AN",
+      "municipality": "Maria Elena",
+      "coordinates": "-22.303669, -69.705527"
+    },
+    {
+      "ident": "CL-0029",
+      "type": "closed",
+      "name": "Papageno Airport",
+      "elevation_ft": 853.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LR",
+      "municipality": "Panguipulli",
+      "coordinates": "-39.549722, -72.291111"
+    },
+    {
+      "ident": "CL-0030",
+      "type": "closed",
+      "name": "Fundo Naicura Airport",
+      "elevation_ft": 1050.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LI",
+      "municipality": "Rengo",
+      "coordinates": "-34.320278, -70.92028"
+    },
+    {
+      "ident": "CL-0031",
+      "type": "closed",
+      "name": "Sandra Scabini Airport",
+      "elevation_ft": 236.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-MA",
+      "municipality": "San Gregorio",
+      "coordinates": "-52.393909, -69.756446"
+    },
+    {
       "ident": "CL-SC49",
       "type": "small_airport",
       "name": "Oficina Victoria Airport",
@@ -300,17 +443,6 @@
       "municipality": "Arica",
       "gps_code": "SCAE",
       "coordinates": "-18.508938, -70.290707"
-    },
-    {
-      "ident": "SCAF",
-      "type": "closed",
-      "name": "San Alfonso Airport",
-      "elevation_ft": 407.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-RM",
-      "municipality": "Alhue",
-      "coordinates": "-34.060197, -71.253719"
     },
     {
       "ident": "SCAG",
@@ -496,17 +628,6 @@
       "municipality": "Paine",
       "gps_code": "SCAU",
       "coordinates": "-33.8936, -70.885597"
-    },
-    {
-      "ident": "SCAV",
-      "type": "closed",
-      "name": "La Vertiente Airport",
-      "elevation_ft": 459.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-NB",
-      "municipality": "Chillan",
-      "coordinates": "-36.613271, -72.041323"
     },
     {
       "ident": "SCAY",
@@ -850,17 +971,6 @@
       "municipality": "Cauquenes",
       "gps_code": "SCCN",
       "coordinates": "-35.88028, -72.327225"
-    },
-    {
-      "ident": "SCCP",
-      "type": "closed",
-      "name": "Callipulli Airport",
-      "elevation_ft": 377.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LL",
-      "municipality": "Osorno",
-      "coordinates": "-40.620277, -72.84639"
     },
     {
       "ident": "SCCQ",
@@ -1593,17 +1703,6 @@
       "coordinates": "-37.794701, -72.687202"
     },
     {
-      "ident": "SCGP",
-      "type": "closed",
-      "name": "Curaco Airport",
-      "elevation_ft": 820.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LR",
-      "municipality": "Panguipulli",
-      "coordinates": "-39.536914, -72.356129"
-    },
-    {
       "ident": "SCGS",
       "type": "small_airport",
       "name": "Siberia Airport",
@@ -2061,17 +2160,6 @@
       "municipality": "Isla Tierra Del Fuego",
       "gps_code": "SCIT",
       "coordinates": "-52.955002, -70.032799"
-    },
-    {
-      "ident": "SCIV",
-      "type": "closed",
-      "name": "Panimavida Airport",
-      "elevation_ft": 591.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-ML",
-      "municipality": "Panimavida",
-      "coordinates": "-35.760957, -71.40653"
     },
     {
       "ident": "SCJC",
@@ -2581,17 +2669,6 @@
       "coordinates": "-43.787633, -72.950994"
     },
     {
-      "ident": "SCMB",
-      "type": "closed",
-      "name": "La Chimba Airport",
-      "elevation_ft": 131.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-AN",
-      "municipality": "La Chimba",
-      "coordinates": "-23.5536003113, -70.3961029053"
-    },
-    {
       "ident": "SCMC",
       "type": "small_airport",
       "name": "Meseta Cosmelli Airport",
@@ -2685,17 +2762,6 @@
       "municipality": "Melipeuco",
       "gps_code": "SCML",
       "coordinates": "-38.856111, -71.8125"
-    },
-    {
-      "ident": "SCMN",
-      "type": "closed",
-      "name": "Mansel Airport",
-      "elevation_ft": 1411.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-RM",
-      "municipality": "Paine",
-      "coordinates": "-33.862398, -70.771008"
     },
     {
       "ident": "SCMO",
@@ -2818,28 +2884,6 @@
       "coordinates": "-47.47072, -72.93013"
     },
     {
-      "ident": "SCNE",
-      "type": "closed",
-      "name": "María Elena Airport",
-      "elevation_ft": 4003.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-AN",
-      "municipality": "Maria Elena",
-      "coordinates": "-22.303669, -69.705527"
-    },
-    {
-      "ident": "SCNG",
-      "type": "closed",
-      "name": "Papageno Airport",
-      "elevation_ft": 853.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LR",
-      "municipality": "Panguipulli",
-      "coordinates": "-39.549722, -72.291111"
-    },
-    {
       "ident": "SCNH",
       "type": "small_airport",
       "name": "Ainhoa Airport",
@@ -2909,28 +2953,6 @@
       "iso_region": "CL-CO",
       "gps_code": "SCNP",
       "coordinates": "-31.7075, -71.24717"
-    },
-    {
-      "ident": "SCNR",
-      "type": "closed",
-      "name": "Fundo Naicura Airport",
-      "elevation_ft": 1050.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LI",
-      "municipality": "Rengo",
-      "coordinates": "-34.320278, -70.92028"
-    },
-    {
-      "ident": "SCNS",
-      "type": "closed",
-      "name": "Sandra Scabini Airport",
-      "elevation_ft": 236.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-MA",
-      "municipality": "San Gregorio",
-      "coordinates": "-52.393909, -69.756446"
     },
     {
       "ident": "SCNT",
@@ -4147,17 +4169,6 @@
       "coordinates": "-52.525278, -70.723889"
     },
     {
-      "ident": "SCTI",
-      "type": "closed",
-      "name": "Los Cerrillos Airport",
-      "elevation_ft": 1680.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-RM",
-      "municipality": "Santiago",
-      "coordinates": "-33.493598938, -70.6977996826"
-    },
-    {
       "ident": "SCTL",
       "type": "medium_airport",
       "name": "Panguilemo Airport",
@@ -4181,17 +4192,6 @@
       "municipality": "Curico",
       "gps_code": "SCTM",
       "coordinates": "-34.9689, -70.9333"
-    },
-    {
-      "ident": "SCTN",
-      "type": "closed",
-      "name": "Chaitén Airfield",
-      "elevation_ft": 13.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LL",
-      "municipality": "Chaitén",
-      "coordinates": "-42.9328, -72.6991"
     },
     {
       "ident": "SCTO",

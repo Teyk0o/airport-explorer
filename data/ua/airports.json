@@ -1,10 +1,10 @@
 {
   "country_code": "UA",
   "country_name": "Ukraine",
-  "total_airports": 270,
-  "last_updated": "2025-02-27T00:08:24.497695",
+  "total_airports": 271,
+  "last_updated": "2025-02-28T00:08:11.770603",
   "types_distribution": {
-    "small_airport": 117,
+    "small_airport": 118,
     "closed": 74,
     "medium_airport": 32,
     "heliport": 45,
@@ -2095,6 +2095,16 @@
       "coordinates": "49.360802, 24.619849"
     },
     {
+      "ident": "UA-0198",
+      "type": "small_airport",
+      "name": "Fadiivka Airstrip",
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-68",
+      "municipality": "Fadiivka",
+      "coordinates": "49.99397, 27.40754"
+    },
+    {
       "ident": "UA-1901",
       "type": "small_airport",
       "name": "Novyi Kalyniv Air Base",
@@ -2266,6 +2276,116 @@
       "coordinates": "50.9109992980957, 24.45199966430664"
     },
     {
+      "ident": "UA-9862",
+      "type": "closed",
+      "name": "Donetsk Sergei Prokofiev International Airport",
+      "elevation_ft": 791.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-14",
+      "municipality": "Donetsk",
+      "coordinates": "48.075072, 37.72527"
+    },
+    {
+      "ident": "UA-9863",
+      "type": "closed",
+      "name": "Luhansk International Airport",
+      "elevation_ft": 636.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-09",
+      "municipality": "Luhansk",
+      "coordinates": "48.4174, 39.3741"
+    },
+    {
+      "ident": "UA-9864",
+      "type": "closed",
+      "name": "Chepelevka (Uzin) Air Base",
+      "elevation_ft": 568.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-32",
+      "municipality": "Uzin",
+      "coordinates": "49.7906, 30.441401"
+    },
+    {
+      "ident": "UA-9865",
+      "type": "closed",
+      "name": "Chernihiv Shestovytsia Airport",
+      "elevation_ft": 446.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-74",
+      "municipality": "Chernihiv",
+      "coordinates": "51.402199, 31.1583"
+    },
+    {
+      "ident": "UA-9866",
+      "type": "closed",
+      "name": "Sievierodonetsk Airport",
+      "elevation_ft": 236.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-09",
+      "municipality": "Sievierodonetsk",
+      "coordinates": "48.900926, 38.54279"
+    },
+    {
+      "ident": "UA-9867",
+      "type": "closed",
+      "name": "Svyatoshyn Airport",
+      "elevation_ft": 582.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-30",
+      "municipality": "Kyiv",
+      "coordinates": "50.478224, 30.384631"
+    },
+    {
+      "ident": "UA-9868",
+      "type": "closed",
+      "name": "Izmail International Airport",
+      "elevation_ft": 125.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-51",
+      "municipality": "Izmail",
+      "coordinates": "45.395959, 28.801403"
+    },
+    {
+      "ident": "UA-9869",
+      "type": "closed",
+      "name": "Popilnia Airbase",
+      "elevation_ft": 719.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-18",
+      "municipality": "Popilnia",
+      "coordinates": "49.962967, 29.404316"
+    },
+    {
+      "ident": "UA-9870",
+      "type": "closed",
+      "name": "LyutIvka Airfield",
+      "elevation_ft": 730.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-63",
+      "municipality": "Lyutivka",
+      "coordinates": "50.290867, 35.837666"
+    },
+    {
+      "ident": "UA-9871",
+      "type": "closed",
+      "name": "Ozeryany Airfield",
+      "elevation_ft": 749.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-19",
+      "municipality": "Ozeryany",
+      "coordinates": "50.462433, 26.010916"
+    },
+    {
       "ident": "UK59",
       "type": "small_airport",
       "name": "Chuhuiv Air Base",
@@ -2314,28 +2434,6 @@
       "coordinates": "49.424902, 31.230242"
     },
     {
-      "ident": "UKBI",
-      "type": "closed",
-      "name": "Popilnia Airbase",
-      "elevation_ft": 719.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-18",
-      "municipality": "Popilnia",
-      "coordinates": "49.962967, 29.404316"
-    },
-    {
-      "ident": "UKCC",
-      "type": "closed",
-      "name": "Donetsk Sergei Prokofiev International Airport",
-      "elevation_ft": 791.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-14",
-      "municipality": "Donetsk",
-      "coordinates": "48.075072, 37.72527"
-    },
-    {
       "ident": "UKCK",
       "type": "small_airport",
       "name": "Kramatorsk Airport",
@@ -2360,28 +2458,6 @@
       "gps_code": "UKCM",
       "iata_code": "MPW",
       "coordinates": "47.07609939575195, 37.44960021972656"
-    },
-    {
-      "ident": "UKCS",
-      "type": "closed",
-      "name": "Sievierodonetsk Airport",
-      "elevation_ft": 236.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-09",
-      "municipality": "Sievierodonetsk",
-      "coordinates": "48.900926, 38.54279"
-    },
-    {
-      "ident": "UKCW",
-      "type": "closed",
-      "name": "Luhansk International Airport",
-      "elevation_ft": 636.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-09",
-      "municipality": "Luhansk",
-      "coordinates": "48.4174, 39.3741"
     },
     {
       "ident": "UKDB",
@@ -2639,17 +2715,6 @@
       "coordinates": "48.542801, 32.285"
     },
     {
-      "ident": "UKKH",
-      "type": "closed",
-      "name": "Chepelevka (Uzin) Air Base",
-      "elevation_ft": 568.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-32",
-      "municipality": "Uzin",
-      "coordinates": "49.7906, 30.441401"
-    },
-    {
       "ident": "UKKK",
       "type": "medium_airport",
       "name": "Ihor Sikorsky Kyiv International Airport (Zhuliany)",
@@ -2685,17 +2750,6 @@
       "municipality": "Zhytomyr",
       "gps_code": "UKKO",
       "coordinates": "50.158298, 28.7383"
-    },
-    {
-      "ident": "UKKT",
-      "type": "closed",
-      "name": "Svyatoshyn Airport",
-      "elevation_ft": 582.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-30",
-      "municipality": "Kyiv",
-      "coordinates": "50.478224, 30.384631"
     },
     {
       "ident": "UKKV",
@@ -2837,17 +2891,6 @@
       "coordinates": "46.6758, 32.506401"
     },
     {
-      "ident": "UKOI",
-      "type": "closed",
-      "name": "Izmail International Airport",
-      "elevation_ft": 125.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-51",
-      "municipality": "Izmail",
-      "coordinates": "45.395959, 28.801403"
-    },
-    {
       "ident": "UKON",
       "type": "medium_airport",
       "name": "Mykolaiv International Airport",
@@ -2886,17 +2929,6 @@
       "coordinates": "46.936433, 32.098618"
     },
     {
-      "ident": "UKRR",
-      "type": "closed",
-      "name": "Chernihiv Shestovytsia Airport",
-      "elevation_ft": 446.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-74",
-      "municipality": "Chernihiv",
-      "coordinates": "51.402199, 31.1583"
-    },
-    {
       "ident": "UKVN",
       "type": "small_airport",
       "name": "Nalyvaikivka Airfield",
@@ -2921,17 +2953,6 @@
       "coordinates": "49.242531, 28.613778"
     },
     {
-      "ident": "UPLT",
-      "type": "closed",
-      "name": "LyutIvka Airfield",
-      "elevation_ft": 730.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-63",
-      "municipality": "Lyutivka",
-      "coordinates": "50.290867, 35.837666"
-    },
-    {
       "ident": "UPTS",
       "type": "heliport",
       "name": "Truskavets – Rixos Heliport",
@@ -2942,17 +2963,6 @@
       "municipality": "Truskavets",
       "gps_code": "UPTS",
       "coordinates": "49.267747, 23.496729"
-    },
-    {
-      "ident": "ZBD5",
-      "type": "closed",
-      "name": "Ozeryany Airfield",
-      "elevation_ft": 749.0,
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-19",
-      "municipality": "Ozeryany",
-      "coordinates": "50.462433, 26.010916"
     }
   ]
 }

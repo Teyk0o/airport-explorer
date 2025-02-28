@@ -2,13 +2,24 @@
   "country_code": "AS",
   "country_name": "American Samoa",
   "total_airports": 4,
-  "last_updated": "2025-02-27T00:08:24.735896",
+  "last_updated": "2025-02-28T00:08:11.636210",
   "types_distribution": {
+    "closed": 1,
     "small_airport": 2,
-    "medium_airport": 1,
-    "closed": 1
+    "medium_airport": 1
   },
   "airports": [
+    {
+      "ident": "AS-0001",
+      "type": "closed",
+      "name": "Tau Airport",
+      "elevation_ft": 185.0,
+      "continent": "OC",
+      "iso_country": "AS",
+      "iso_region": "AS-MA",
+      "municipality": "Tau",
+      "coordinates": "-14.23178, -169.51101"
+    },
     {
       "ident": "NSAS",
       "type": "small_airport",
@@ -50,17 +61,6 @@
       "iata_code": "PPG",
       "local_code": "PPG",
       "coordinates": "-14.331, -170.710007"
-    },
-    {
-      "ident": "TAV",
-      "type": "closed",
-      "name": "Tau Airport",
-      "elevation_ft": 185.0,
-      "continent": "OC",
-      "iso_country": "AS",
-      "iso_region": "AS-MA",
-      "municipality": "Tau",
-      "coordinates": "-14.23178, -169.51101"
     }
   ]
 }

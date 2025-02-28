@@ -2,7 +2,7 @@
   "country_code": "DE",
   "country_name": "Germany",
   "total_airports": 1396,
-  "last_updated": "2025-02-27T00:08:24.552068",
+  "last_updated": "2025-02-28T00:08:11.824027",
   "types_distribution": {
     "heliport": 447,
     "closed": 105,
@@ -9455,6 +9455,383 @@
       "coordinates": "52.366667, 13.503333"
     },
     {
+      "ident": "DE-0875",
+      "type": "closed",
+      "name": "Cottbus-Drewitz Airport",
+      "elevation_ft": 272.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Jänschwalde",
+      "coordinates": "51.889442, 14.531944"
+    },
+    {
+      "ident": "DE-0876",
+      "type": "closed",
+      "name": "Berlin-Tegel Otto Lilienthal Airport",
+      "elevation_ft": 122.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BE",
+      "municipality": "Berlin",
+      "coordinates": "52.5597, 13.2877"
+    },
+    {
+      "ident": "DE-0877",
+      "type": "closed",
+      "name": "Schwerin Parchim International Airport",
+      "elevation_ft": 166.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-MV",
+      "municipality": "Parchim",
+      "coordinates": "53.426998, 11.7834"
+    },
+    {
+      "ident": "DE-0878",
+      "type": "closed",
+      "name": "Brandenburg-Briest Airport",
+      "elevation_ft": 102.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Brandenburg an der Havel",
+      "coordinates": "52.43861, 12.458333"
+    },
+    {
+      "ident": "DE-0879",
+      "type": "closed",
+      "name": "Templin/Groß Dölln Airfield",
+      "elevation_ft": 174.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Templin",
+      "coordinates": "53.028258, 13.54022"
+    },
+    {
+      "ident": "DE-0880",
+      "type": "closed",
+      "name": "Bremerhaven Airport",
+      "elevation_ft": 10.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-HB",
+      "municipality": "Bremerhaven",
+      "coordinates": "53.506943, 8.572778"
+    },
+    {
+      "ident": "DE-0881",
+      "type": "closed",
+      "name": "Hanau Army Air Field",
+      "elevation_ft": 368.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-HE",
+      "municipality": "Erlensee",
+      "coordinates": "50.169201, 8.96159"
+    },
+    {
+      "ident": "DE-0882",
+      "type": "closed",
+      "name": "Jever Air Base",
+      "elevation_ft": 24.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NI",
+      "municipality": "Schortens",
+      "coordinates": "53.533501, 7.88867"
+    },
+    {
+      "ident": "DE-0883",
+      "type": "closed",
+      "name": "Landsberg am Lech Air Base",
+      "elevation_ft": 2044.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Penzing",
+      "coordinates": "48.070599, 10.906"
+    },
+    {
+      "ident": "DE-0884",
+      "type": "closed",
+      "name": "Erding Air Base",
+      "elevation_ft": 1515.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Erding",
+      "coordinates": "48.3223, 11.9487"
+    },
+    {
+      "ident": "DE-0885",
+      "type": "closed",
+      "name": "Fürstenfeldbruck Air Base",
+      "elevation_ft": 1703.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Fürstenfeldbruck",
+      "coordinates": "48.205555, 11.266944"
+    },
+    {
+      "ident": "DE-0886",
+      "type": "closed",
+      "name": "Gütersloh Air Base",
+      "elevation_ft": 236.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NW",
+      "municipality": "Gütersloh",
+      "coordinates": "51.922104, 8.308732"
+    },
+    {
+      "ident": "DE-0887",
+      "type": "closed",
+      "name": "Bordelum Airfield",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-SH",
+      "municipality": "Bredstedt",
+      "coordinates": "54.627499, 8.930278"
+    },
+    {
+      "ident": "DE-0888",
+      "type": "closed",
+      "name": "Emmel Airfield Dedelow Airport",
+      "elevation_ft": 213.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Prenzlau",
+      "coordinates": "53.356388, 13.783611"
+    },
+    {
+      "ident": "DE-0889",
+      "type": "closed",
+      "name": "Fürstenwalde Airport",
+      "elevation_ft": 184.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Fürstenwalde/Spree",
+      "coordinates": "52.390598, 14.0972"
+    },
+    {
+      "ident": "DE-0890",
+      "type": "closed",
+      "name": "Karlsruhe-Forchheim Airport",
+      "elevation_ft": 381.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BW",
+      "municipality": "Rheinstetten",
+      "coordinates": "48.9843, 8.3355"
+    },
+    {
+      "ident": "DE-0891",
+      "type": "closed",
+      "name": "Lemwerder Airport",
+      "elevation_ft": 20.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-HB",
+      "municipality": "Lemwerder",
+      "coordinates": "53.144699, 8.62444"
+    },
+    {
+      "ident": "DE-0892",
+      "type": "closed",
+      "name": "Nauen Airport",
+      "elevation_ft": 112.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "coordinates": "52.6278, 12.9139"
+    },
+    {
+      "ident": "DE-0893",
+      "type": "closed",
+      "name": "Nordenbeck Airport",
+      "elevation_ft": 1453.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-HE",
+      "coordinates": "51.2350791174, 8.81752610207"
+    },
+    {
+      "ident": "DE-0894",
+      "type": "closed",
+      "name": "Baumholder Army Air Field",
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-RP",
+      "coordinates": "49.650299, 7.30007"
+    },
+    {
+      "ident": "DE-0895",
+      "type": "closed",
+      "name": "Cottbus Army Airfield",
+      "elevation_ft": 220.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Cottbus",
+      "coordinates": "51.767899, 14.292"
+    },
+    {
+      "ident": "DE-0896",
+      "type": "closed",
+      "name": "Eggebeck Air Base",
+      "elevation_ft": 65.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-SH",
+      "coordinates": "54.624802, 9.346"
+    },
+    {
+      "ident": "DE-0897",
+      "type": "closed",
+      "name": "Hopsten Air Base",
+      "elevation_ft": 423.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NW",
+      "municipality": "Hopsten",
+      "coordinates": "52.33869934082, 7.5413298606873"
+    },
+    {
+      "ident": "DE-0898",
+      "type": "closed",
+      "name": "Brüggen Air Base",
+      "elevation_ft": 248.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NW",
+      "municipality": "Niederkrüchten",
+      "coordinates": "51.199699, 6.13208"
+    },
+    {
+      "ident": "DE-0899",
+      "type": "closed",
+      "name": "Babenhausen Airfield",
+      "elevation_ft": 928.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-HE",
+      "municipality": "Babenhausen",
+      "coordinates": "49.952499, 8.968056"
+    },
+    {
+      "ident": "DE-0900",
+      "type": "closed",
+      "name": "Brand-Briesen Airfield",
+      "elevation_ft": 230.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BR",
+      "municipality": "Halbe",
+      "coordinates": "52.035862, 13.746214"
+    },
+    {
+      "ident": "DE-0901",
+      "type": "closed",
+      "name": "Flughafen München-Riem",
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Munich",
+      "coordinates": "48.137798, 11.6903"
+    },
+    {
+      "ident": "DE-0902",
+      "type": "closed",
+      "name": "Leipheim Air Base",
+      "elevation_ft": 1604.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BY",
+      "municipality": "Leipheim",
+      "coordinates": "48.439999, 10.2356"
+    },
+    {
+      "ident": "DE-0903",
+      "type": "closed",
+      "name": "Ahlhorn Air Force Base",
+      "elevation_ft": 162.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NI",
+      "municipality": "Großenkneten",
+      "coordinates": "52.888915, 8.236055"
+    },
+    {
+      "ident": "DE-0904",
+      "type": "closed",
+      "name": "Gatow Airport",
+      "elevation_ft": 161.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BE",
+      "municipality": "Spandau",
+      "coordinates": "52.4744, 13.1381"
+    },
+    {
+      "ident": "DE-0905",
+      "type": "closed",
+      "name": "Pellworm Field",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-SH",
+      "municipality": "Pellworm",
+      "coordinates": "54.536388, 8.68"
+    },
+    {
+      "ident": "DE-0906",
+      "type": "closed",
+      "name": "RAF Wildenrath",
+      "elevation_ft": 285.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NW",
+      "municipality": "British Armed Forces",
+      "coordinates": "51.1141, 6.2151"
+    },
+    {
+      "ident": "DE-0907",
+      "type": "closed",
+      "name": "Sembach Air Base",
+      "elevation_ft": 1050.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-RP",
+      "municipality": "Sembach",
+      "coordinates": "49.507, 7.866"
+    },
+    {
+      "ident": "DE-0908",
+      "type": "closed",
+      "name": "Ahlhorn Airport",
+      "elevation_ft": 161.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-NI",
+      "municipality": "Großenkneten",
+      "coordinates": "52.888968, 8.233252"
+    },
+    {
+      "ident": "DE-0909",
+      "type": "closed",
+      "name": "Pferdsfeld Air Base",
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-RP",
+      "coordinates": "49.855, 7.603333"
+    },
+    {
       "ident": "EDAB",
       "type": "small_airport",
       "name": "Bautzen Airfield",
@@ -9563,17 +9940,6 @@
       "municipality": "Großenhain",
       "gps_code": "EDAK",
       "coordinates": "51.308056, 13.555556"
-    },
-    {
-      "ident": "EDAL",
-      "type": "closed",
-      "name": "Fürstenwalde Airport",
-      "elevation_ft": 184.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Fürstenwalde/Spree",
-      "coordinates": "52.390598, 14.0972"
     },
     {
       "ident": "EDAM",
@@ -9768,17 +10134,6 @@
       "gps_code": "EDBC",
       "iata_code": "CSO",
       "coordinates": "51.8564, 11.4203"
-    },
-    {
-      "ident": "EDBD",
-      "type": "closed",
-      "name": "Emmel Airfield Dedelow Airport",
-      "elevation_ft": 213.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Prenzlau",
-      "coordinates": "53.356388, 13.783611"
     },
     {
       "ident": "EDBE",
@@ -10071,17 +10426,6 @@
       "coordinates": "51.745834, 11.229722"
     },
     {
-      "ident": "EDCD",
-      "type": "closed",
-      "name": "Cottbus-Drewitz Airport",
-      "elevation_ft": 272.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Jänschwalde",
-      "coordinates": "51.889442, 14.531944"
-    },
-    {
       "ident": "EDCE",
       "type": "small_airport",
       "name": "Müncheberg-Eggersdorf Airfield",
@@ -10189,16 +10533,6 @@
       "municipality": "Kamenz",
       "gps_code": "EDCM",
       "coordinates": "51.296944, 14.1275"
-    },
-    {
-      "ident": "EDCN",
-      "type": "closed",
-      "name": "Nauen Airport",
-      "elevation_ft": 112.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "coordinates": "52.6278, 12.9139"
     },
     {
       "ident": "EDCO",
@@ -10503,17 +10837,6 @@
       "coordinates": "48.689899, 9.22196"
     },
     {
-      "ident": "EDDT",
-      "type": "closed",
-      "name": "Berlin-Tegel Otto Lilienthal Airport",
-      "elevation_ft": 122.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BE",
-      "municipality": "Berlin",
-      "coordinates": "52.5597, 13.2877"
-    },
-    {
       "ident": "EDDV",
       "type": "large_airport",
       "name": "Hannover Airport",
@@ -10550,17 +10873,6 @@
       "municipality": "Bad Langensalza",
       "gps_code": "EDEB",
       "coordinates": "51.129166, 10.622222"
-    },
-    {
-      "ident": "EDEF",
-      "type": "closed",
-      "name": "Babenhausen Airfield",
-      "elevation_ft": 928.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-HE",
-      "municipality": "Babenhausen",
-      "coordinates": "49.952499, 8.968056"
     },
     {
       "ident": "EDEG",
@@ -11094,16 +11406,6 @@
       "coordinates": "49.398888, 9.123889"
     },
     {
-      "ident": "EDGN",
-      "type": "closed",
-      "name": "Nordenbeck Airport",
-      "elevation_ft": 1453.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-HE",
-      "coordinates": "51.2350791174, 8.81752610207"
-    },
-    {
       "ident": "EDGO",
       "type": "small_airport",
       "name": "Oedheim Airfield",
@@ -11222,17 +11524,6 @@
       "municipality": "Weinheim",
       "gps_code": "EDGZ",
       "coordinates": "49.566763, 8.61145"
-    },
-    {
-      "ident": "EDHA",
-      "type": "closed",
-      "name": "Ahlhorn Airport",
-      "elevation_ft": 161.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NI",
-      "municipality": "Großenkneten",
-      "coordinates": "52.888968, 8.233252"
     },
     {
       "ident": "EDHB",
@@ -11382,17 +11673,6 @@
       "municipality": "Tornesch",
       "gps_code": "EDHO",
       "coordinates": "53.70031, 9.742119"
-    },
-    {
-      "ident": "EDHP",
-      "type": "closed",
-      "name": "Pellworm Field",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-SH",
-      "municipality": "Pellworm",
-      "coordinates": "54.536388, 8.68"
     },
     {
       "ident": "EDHS",
@@ -12723,17 +13003,6 @@
       "coordinates": "52.613056, 14.242778"
     },
     {
-      "ident": "EDOP",
-      "type": "closed",
-      "name": "Schwerin Parchim International Airport",
-      "elevation_ft": 166.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-MV",
-      "municipality": "Parchim",
-      "coordinates": "53.426998, 11.7834"
-    },
-    {
       "ident": "EDOQ",
       "type": "small_airport",
       "name": "Oschatz Airfield",
@@ -13650,17 +13919,6 @@
       "coordinates": "48.7794, 8.0805"
     },
     {
-      "ident": "EDSD",
-      "type": "closed",
-      "name": "Leipheim Air Base",
-      "elevation_ft": 1604.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BY",
-      "municipality": "Leipheim",
-      "coordinates": "48.439999, 10.2356"
-    },
-    {
       "ident": "EDSE",
       "type": "small_airport",
       "name": "Göppingen-Bezgenriet Airfield",
@@ -13897,17 +14155,6 @@
       "coordinates": "48.802996, 9.927714"
     },
     {
-      "ident": "EDTK",
-      "type": "closed",
-      "name": "Karlsruhe-Forchheim Airport",
-      "elevation_ft": 381.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BW",
-      "municipality": "Rheinstetten",
-      "coordinates": "48.9843, 8.3355"
-    },
-    {
       "ident": "EDTL",
       "type": "medium_airport",
       "name": "Lahr Airport",
@@ -14077,28 +14324,6 @@
       "coordinates": "52.650555, 12.487778"
     },
     {
-      "ident": "EDUB",
-      "type": "closed",
-      "name": "Brandenburg-Briest Airport",
-      "elevation_ft": 102.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Brandenburg an der Havel",
-      "coordinates": "52.43861, 12.458333"
-    },
-    {
-      "ident": "EDUC",
-      "type": "closed",
-      "name": "Brand-Briesen Airfield",
-      "elevation_ft": 230.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Halbe",
-      "coordinates": "52.035862, 13.746214"
-    },
-    {
       "ident": "EDUF",
       "type": "small_airport",
       "name": "Falkenberg-Lönnewitz Airfield",
@@ -14133,17 +14358,6 @@
       "municipality": "Lichterfeld-Schacksdorf",
       "gps_code": "EDUS",
       "coordinates": "51.60725, 13.737545"
-    },
-    {
-      "ident": "EDUT",
-      "type": "closed",
-      "name": "Templin/Groß Dölln Airfield",
-      "elevation_ft": 174.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Templin",
-      "coordinates": "53.028258, 13.54022"
     },
     {
       "ident": "EDUW",
@@ -14424,28 +14638,6 @@
       "coordinates": "51.359576, 9.5028"
     },
     {
-      "ident": "EDWA",
-      "type": "closed",
-      "name": "Bordelum Airfield",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-SH",
-      "municipality": "Bredstedt",
-      "coordinates": "54.627499, 8.930278"
-    },
-    {
-      "ident": "EDWB",
-      "type": "closed",
-      "name": "Bremerhaven Airport",
-      "elevation_ft": 10.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-HB",
-      "municipality": "Bremerhaven",
-      "coordinates": "53.506943, 8.572778"
-    },
-    {
       "ident": "EDWC",
       "type": "small_airport",
       "name": "Damme Airfield",
@@ -14456,17 +14648,6 @@
       "municipality": "Damme",
       "gps_code": "EDWC",
       "coordinates": "52.487558, 8.185151"
-    },
-    {
-      "ident": "EDWD",
-      "type": "closed",
-      "name": "Lemwerder Airport",
-      "elevation_ft": 20.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-HB",
-      "municipality": "Lemwerder",
-      "coordinates": "53.144699, 8.62444"
     },
     {
       "ident": "EDWE",
@@ -15062,17 +15243,6 @@
       "coordinates": "49.436901, 7.60028"
     },
     {
-      "ident": "ETAS",
-      "type": "closed",
-      "name": "Sembach Air Base",
-      "elevation_ft": 1050.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-RP",
-      "municipality": "Sembach",
-      "coordinates": "49.507, 7.866"
-    },
-    {
       "ident": "ETEB",
       "type": "heliport",
       "name": "Ansbach Katterbach Army Heliport",
@@ -15094,15 +15264,6 @@
       "municipality": "Kaiserslautern",
       "gps_code": "ETED",
       "coordinates": "49.4477777778, 7.83972222222"
-    },
-    {
-      "ident": "ETEK",
-      "type": "closed",
-      "name": "Baumholder Army Air Field",
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-RP",
-      "coordinates": "49.650299, 7.30007"
     },
     {
       "ident": "ETHA",
@@ -15236,17 +15397,6 @@
       "coordinates": "52.919399, 10.185827"
     },
     {
-      "ident": "ETHT",
-      "type": "closed",
-      "name": "Cottbus Army Airfield",
-      "elevation_ft": 220.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BR",
-      "municipality": "Cottbus",
-      "coordinates": "51.767899, 14.292"
-    },
-    {
       "ident": "ETIC",
       "type": "medium_airport",
       "name": "Grafenwöhr Army Air Field",
@@ -15257,17 +15407,6 @@
       "municipality": "Grafenwöhr",
       "gps_code": "ETIC",
       "coordinates": "49.6987, 11.9402"
-    },
-    {
-      "ident": "ETID",
-      "type": "closed",
-      "name": "Hanau Army Air Field",
-      "elevation_ft": 368.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-HE",
-      "municipality": "Erlensee",
-      "coordinates": "50.169201, 8.96159"
     },
     {
       "ident": "ETIH",
@@ -15344,16 +15483,6 @@
       "coordinates": "53.509955, 13.43567"
     },
     {
-      "ident": "ETME",
-      "type": "closed",
-      "name": "Eggebeck Air Base",
-      "elevation_ft": 65.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-SH",
-      "coordinates": "54.624802, 9.346"
-    },
-    {
       "ident": "ETMN",
       "type": "medium_airport",
       "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
@@ -15365,17 +15494,6 @@
       "gps_code": "ETMN",
       "iata_code": "FCN",
       "coordinates": "53.767689, 8.659201"
-    },
-    {
-      "ident": "ETNA",
-      "type": "closed",
-      "name": "Ahlhorn Air Force Base",
-      "elevation_ft": 162.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NI",
-      "municipality": "Großenkneten",
-      "coordinates": "52.888915, 8.236055"
     },
     {
       "ident": "ETND",
@@ -15415,17 +15533,6 @@
       "coordinates": "54.312199, 9.53817"
     },
     {
-      "ident": "ETNJ",
-      "type": "closed",
-      "name": "Jever Air Base",
-      "elevation_ft": 24.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NI",
-      "municipality": "Schortens",
-      "coordinates": "53.533501, 7.88867"
-    },
-    {
       "ident": "ETNL",
       "type": "medium_airport",
       "name": "Rostock-Laage Airport",
@@ -15449,17 +15556,6 @@
       "municipality": "Nörvenich",
       "gps_code": "ETNN",
       "coordinates": "50.8312, 6.65817"
-    },
-    {
-      "ident": "ETNP",
-      "type": "closed",
-      "name": "Hopsten Air Base",
-      "elevation_ft": 423.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NW",
-      "municipality": "Hopsten",
-      "coordinates": "52.33869934082031, 7.541329860687256"
     },
     {
       "ident": "ETNS",
@@ -15546,17 +15642,6 @@
       "coordinates": "50.049800872802734, 8.325400352478027"
     },
     {
-      "ident": "ETSA",
-      "type": "closed",
-      "name": "Landsberg am Lech Air Base",
-      "elevation_ft": 2044.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BY",
-      "municipality": "Penzing",
-      "coordinates": "48.070599, 10.906"
-    },
-    {
       "ident": "ETSB",
       "type": "medium_airport",
       "name": "Büchel Air Base",
@@ -15567,28 +15652,6 @@
       "municipality": "Alflen",
       "gps_code": "ETSB",
       "coordinates": "50.173801, 7.06333"
-    },
-    {
-      "ident": "ETSE",
-      "type": "closed",
-      "name": "Erding Air Base",
-      "elevation_ft": 1515.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BY",
-      "municipality": "Erding",
-      "coordinates": "48.3223, 11.9487"
-    },
-    {
-      "ident": "ETSF",
-      "type": "closed",
-      "name": "Fürstenfeldbruck Air Base",
-      "elevation_ft": 1703.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BY",
-      "municipality": "Fürstenfeldbruck",
-      "coordinates": "48.205555, 11.266944"
     },
     {
       "ident": "ETSH",
@@ -15640,15 +15703,6 @@
       "coordinates": "48.710999, 11.2115"
     },
     {
-      "ident": "ETSP",
-      "type": "closed",
-      "name": "Pferdsfeld Air Base",
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-RP",
-      "coordinates": "49.855, 7.603333"
-    },
-    {
       "ident": "ETT1",
       "type": "small_airport",
       "name": "Etting-Adelmannsberg Glider Field",
@@ -15660,28 +15714,6 @@
       "coordinates": "48.81028, 11.42096"
     },
     {
-      "ident": "ETUO",
-      "type": "closed",
-      "name": "Gütersloh Air Base",
-      "elevation_ft": 236.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NW",
-      "municipality": "Gütersloh",
-      "coordinates": "51.922104, 8.308732"
-    },
-    {
-      "ident": "ETUR",
-      "type": "closed",
-      "name": "Brüggen Air Base",
-      "elevation_ft": 248.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NW",
-      "municipality": "Niederkrüchten",
-      "coordinates": "51.199699, 6.13208"
-    },
-    {
       "ident": "ETWM",
       "type": "small_airport",
       "name": "Meppen Air Base",
@@ -15690,17 +15722,6 @@
       "iso_region": "DE-NI",
       "gps_code": "ETWM",
       "coordinates": "52.723202, 7.32633"
-    },
-    {
-      "ident": "GWW",
-      "type": "closed",
-      "name": "Gatow Airport",
-      "elevation_ft": 161.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BE",
-      "municipality": "Spandau",
-      "coordinates": "52.4744, 13.1381"
     },
     {
       "ident": "HHBG",
@@ -15723,27 +15744,6 @@
       "iso_region": "DE-BW",
       "municipality": "Rheinstetten",
       "coordinates": "48.9777, 8.3425"
-    },
-    {
-      "ident": "WID",
-      "type": "closed",
-      "name": "RAF Wildenrath",
-      "elevation_ft": 285.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-NW",
-      "municipality": "British Armed Forces",
-      "coordinates": "51.1141, 6.2151"
-    },
-    {
-      "ident": "XMUC",
-      "type": "closed",
-      "name": "Flughafen München-Riem",
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BY",
-      "municipality": "Munich",
-      "coordinates": "48.137798, 11.6903"
     }
   ]
 }

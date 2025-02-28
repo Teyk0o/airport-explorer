@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7429,
-  "last_updated": "2025-02-27T00:08:24.422903",
+  "total_airports": 7434,
+  "last_updated": "2025-02-28T00:08:11.696226",
   "types_distribution": {
-    "small_airport": 5144,
+    "small_airport": 5147,
     "closed": 285,
-    "heliport": 1865,
+    "heliport": 1867,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -24148,6 +24148,2347 @@
       "coordinates": "-8.927417, -46.506019"
     },
     {
+      "ident": "BR-1935",
+      "type": "closed",
+      "name": "Fazenda Sao Sebastiao Airport",
+      "elevation_ft": 919.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Sao Jose so Barreiro",
+      "coordinates": "-12.736300468445, -61.110198974609"
+    },
+    {
+      "ident": "BR-1936",
+      "type": "closed",
+      "name": "Aurea Airport",
+      "elevation_ft": 3700.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Serra Do Salitre",
+      "coordinates": "-19.287399291992, -46.511699676514"
+    },
+    {
+      "ident": "BR-1937",
+      "type": "closed",
+      "name": "Fazenda Alamo Airport",
+      "elevation_ft": 2434.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Sao Carlos",
+      "coordinates": "-21.815201, -47.900678"
+    },
+    {
+      "ident": "BR-1938",
+      "type": "closed",
+      "name": "Fazenda Itaquere Airport",
+      "elevation_ft": 2257.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Araraquara",
+      "coordinates": "-21.6546, -48.2663"
+    },
+    {
+      "ident": "BR-1939",
+      "type": "closed",
+      "name": "Aeroclube Airport",
+      "elevation_ft": 164.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Nova Iguaçu",
+      "coordinates": "-22.746482, -43.464918"
+    },
+    {
+      "ident": "BR-1940",
+      "type": "closed",
+      "name": "Leda Mello Resende Airport",
+      "elevation_ft": 3050.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Três Pontas",
+      "coordinates": "-21.3719, -45.4949"
+    },
+    {
+      "ident": "BR-1941",
+      "type": "closed",
+      "name": "Usina Porto Primavera Airport",
+      "elevation_ft": 1067.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Rosana",
+      "coordinates": "-22.5256004333, -52.9721984863"
+    },
+    {
+      "ident": "BR-1942",
+      "type": "closed",
+      "name": "Santo Antônio do Amparo Airport",
+      "elevation_ft": 3601.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Santo Antônio do Amparo",
+      "coordinates": "-20.9135, -44.892899"
+    },
+    {
+      "ident": "BR-1943",
+      "type": "closed",
+      "name": "Belo Jardim Airport",
+      "elevation_ft": 2100.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PE",
+      "municipality": "Belo Jardim",
+      "coordinates": "-8.34527, -36.4412"
+    },
+    {
+      "ident": "BR-1944",
+      "type": "closed",
+      "name": "Divisa Airport",
+      "elevation_ft": 2710.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Encruzilhada",
+      "coordinates": "-15.519444, -40.872501"
+    },
+    {
+      "ident": "BR-1945",
+      "type": "closed",
+      "name": "Guanhães Airport",
+      "elevation_ft": 2618.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Guanhães",
+      "coordinates": "-18.707701, -42.838902"
+    },
+    {
+      "ident": "BR-1946",
+      "type": "closed",
+      "name": "Herbert Mata Pires Airport",
+      "elevation_ft": 1188.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Itaberaba",
+      "coordinates": "-12.402464, -40.474655"
+    },
+    {
+      "ident": "BR-1947",
+      "type": "closed",
+      "name": "Aeroclube da Paraíba Airport",
+      "elevation_ft": 16.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PB",
+      "municipality": "João Pessoa",
+      "coordinates": "-7.09199, -34.841599"
+    },
+    {
+      "ident": "BR-1948",
+      "type": "closed",
+      "name": "Santana do Araguaia Airport",
+      "elevation_ft": 597.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Santana do Araguaia",
+      "coordinates": "-9.31997, -50.328499"
+    },
+    {
+      "ident": "BR-1949",
+      "type": "closed",
+      "name": "Fazenda Do Cantagalo Airport",
+      "elevation_ft": 1576.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Piedras do Maria Da Cruz",
+      "coordinates": "-15.395899772644, -44.145198822021"
+    },
+    {
+      "ident": "BR-1950",
+      "type": "closed",
+      "name": "São Raimundo Nonato Airport",
+      "elevation_ft": 1247.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PI",
+      "municipality": "São Raimundo Nonato",
+      "coordinates": "-9.03, -42.68"
+    },
+    {
+      "ident": "BR-1951",
+      "type": "closed",
+      "name": "Dionísio Cerqueira Airport",
+      "elevation_ft": 2723.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SC",
+      "municipality": "Dionísio Cerqueira",
+      "coordinates": "-26.288344, -53.6308"
+    },
+    {
+      "ident": "BR-1952",
+      "type": "closed",
+      "name": "Spessato Aviacao Agricola Airport",
+      "elevation_ft": 1470.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Dourados",
+      "coordinates": "-22.215900421143, -54.741901397705"
+    },
+    {
+      "ident": "BR-1953",
+      "type": "closed",
+      "name": "Fazenda Recreio 3 Airport",
+      "elevation_ft": 1509.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Ribas do Rio Pardo",
+      "coordinates": "-20.207542, -53.778935"
+    },
+    {
+      "ident": "BR-1954",
+      "type": "closed",
+      "name": "Fazenda San Marino Airport",
+      "elevation_ft": 1476.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Tres Lagoas",
+      "coordinates": "-20.102199554443, -52.443901062012"
+    },
+    {
+      "ident": "BR-1955",
+      "type": "closed",
+      "name": "Avelino Vieira Airport",
+      "elevation_ft": 2641.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Arapoti",
+      "coordinates": "-24.103901, -49.789101"
+    },
+    {
+      "ident": "BR-1956",
+      "type": "closed",
+      "name": "Alcimar Leitão Airport",
+      "elevation_ft": 394.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AC",
+      "municipality": "Feijó",
+      "coordinates": "-8.16558, -70.352997"
+    },
+    {
+      "ident": "BR-1957",
+      "type": "closed",
+      "name": "Santa Helena de Goiás Airport",
+      "elevation_ft": 1591.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Santa Helena de Goiás",
+      "coordinates": "-17.827238, -50.588033"
+    },
+    {
+      "ident": "BR-1958",
+      "type": "closed",
+      "name": "Old Cacoal Airport",
+      "elevation_ft": 640.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Cacoal",
+      "coordinates": "-11.43, -61.48"
+    },
+    {
+      "ident": "BR-1959",
+      "type": "closed",
+      "name": "Furnas Airport",
+      "elevation_ft": 2413.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "São José da Barra",
+      "coordinates": "-20.702801, -46.3353"
+    },
+    {
+      "ident": "BR-1960",
+      "type": "closed",
+      "name": "Belém/Brigadeiro Protásio de Oliveira Airport",
+      "elevation_ft": 52.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Belém",
+      "coordinates": "-1.415051, -48.459805"
+    },
+    {
+      "ident": "BR-1961",
+      "type": "closed",
+      "name": "Pedro Otacílio Figueiredo Airport",
+      "elevation_ft": 3002.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Vitória da Conquista",
+      "coordinates": "-14.862567, -40.863186"
+    },
+    {
+      "ident": "BR-1962",
+      "type": "closed",
+      "name": "Urubupunga Airport",
+      "elevation_ft": 1169.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Castilho",
+      "coordinates": "-20.7771, -51.5648"
+    },
+    {
+      "ident": "BR-1963",
+      "type": "closed",
+      "name": "Alto Garças Airport",
+      "elevation_ft": 2707.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Alto Garças",
+      "coordinates": "-16.92, -53.54"
+    },
+    {
+      "ident": "BR-1964",
+      "type": "closed",
+      "name": "Brasileia Airport",
+      "elevation_ft": 489.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AC",
+      "municipality": "Brasileila",
+      "coordinates": "-11.0169, -68.733902"
+    },
+    {
+      "ident": "BR-1965",
+      "type": "closed",
+      "name": "Buriti Alegre Airport",
+      "elevation_ft": 2848.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Buriti Alegre",
+      "coordinates": "-18.116373, -49.048877"
+    },
+    {
+      "ident": "BR-1966",
+      "type": "closed",
+      "name": "Dores Do Indaia Airport",
+      "elevation_ft": 2490.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Dores Do Indiaia",
+      "coordinates": "-19.457199, -45.5844"
+    },
+    {
+      "ident": "BR-1967",
+      "type": "closed",
+      "name": "Eunápolis Airport",
+      "elevation_ft": 610.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Eunápolis",
+      "coordinates": "-16.329201, -39.5769"
+    },
+    {
+      "ident": "BR-1968",
+      "type": "closed",
+      "name": "Ipua Faz Alianca Airport",
+      "elevation_ft": 2375.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Ipua",
+      "coordinates": "-20.504999160767, -48.044200897217"
+    },
+    {
+      "ident": "BR-1969",
+      "type": "closed",
+      "name": "Irai - Vicente Dutra Airport",
+      "elevation_ft": 1152.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Irai",
+      "coordinates": "-27.193945, -53.236384"
+    },
+    {
+      "ident": "BR-1970",
+      "type": "closed",
+      "name": "Laguna-Anita Garibaldi Airport",
+      "elevation_ft": 20.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SC",
+      "municipality": "Laguna",
+      "coordinates": "-28.389, -48.754051"
+    },
+    {
+      "ident": "BR-1971",
+      "type": "closed",
+      "name": "Nonoaí Airport",
+      "elevation_ft": 1969.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Nonoaí",
+      "coordinates": "-27.369023, -52.763246"
+    },
+    {
+      "ident": "BR-1972",
+      "type": "closed",
+      "name": "Portoferreir Han Airport",
+      "elevation_ft": 1870.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Porto Ferreira",
+      "coordinates": "-21.874200820923, -47.473899841309"
+    },
+    {
+      "ident": "BR-1973",
+      "type": "closed",
+      "name": "São Domingos Airport",
+      "elevation_ft": 787.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "São Domingos Do Maranhão",
+      "coordinates": "-5.573609828949, -44.431701660156"
+    },
+    {
+      "ident": "BR-1974",
+      "type": "closed",
+      "name": "Usina Sao Geraldo Airport",
+      "elevation_ft": 1804.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Ribeiro Preto",
+      "coordinates": "-21.130800247192, -48.066398620605"
+    },
+    {
+      "ident": "BR-1975",
+      "type": "closed",
+      "name": "Venâncio Aires Airport",
+      "elevation_ft": 226.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Venâncio Aires",
+      "coordinates": "-29.6131, -52.217201"
+    },
+    {
+      "ident": "BR-1976",
+      "type": "closed",
+      "name": "Encanta Moça Airport",
+      "elevation_ft": 10.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PE",
+      "municipality": "Recife",
+      "coordinates": "-8.094491, -34.891645"
+    },
+    {
+      "ident": "BR-1977",
+      "type": "closed",
+      "name": "Magalhaes de Almeida Airport",
+      "elevation_ft": 203.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Codo",
+      "coordinates": "-4.476961, -43.889902"
+    },
+    {
+      "ident": "BR-1978",
+      "type": "closed",
+      "name": "Suia-Missu Airport",
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Alto Boa Vista",
+      "coordinates": "-11.671699523926, -51.434700012207"
+    },
+    {
+      "ident": "BR-1979",
+      "type": "closed",
+      "name": "Novo Paraiso Airport",
+      "elevation_ft": 213.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RR",
+      "municipality": "Novo Paraiso",
+      "coordinates": "1.2381900548935, -60.486301422119"
+    },
+    {
+      "ident": "BR-1980",
+      "type": "closed",
+      "name": "Tucuma Airport",
+      "elevation_ft": 59.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AM",
+      "municipality": "Tucuma",
+      "coordinates": "-3.9670000076294, -66.432998657227"
+    },
+    {
+      "ident": "BR-1981",
+      "type": "closed",
+      "name": "Petrobras P-15 Platform Helideck",
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Macaé",
+      "coordinates": "-22.6775, -40.606098"
+    },
+    {
+      "ident": "BR-1982",
+      "type": "closed",
+      "name": "Sao Roque Airport",
+      "elevation_ft": 853.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Sao Roque",
+      "coordinates": "-23.517000198364, -47.117000579834"
+    },
+    {
+      "ident": "BR-1983",
+      "type": "closed",
+      "name": "Maju Heliport",
+      "elevation_ft": 1247.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Araçatuba",
+      "coordinates": "-21.093179, -50.47971"
+    },
+    {
+      "ident": "BR-1984",
+      "type": "closed",
+      "name": "Auxiliar I Heliport",
+      "elevation_ft": 2539.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.631945, -46.713614"
+    },
+    {
+      "ident": "BR-1985",
+      "type": "closed",
+      "name": "Jimenez Heliport",
+      "elevation_ft": 2658.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Piedade",
+      "coordinates": "-23.709443, -47.425556"
+    },
+    {
+      "ident": "BR-1986",
+      "type": "closed",
+      "name": "Os Bandeirantes Helipad",
+      "elevation_ft": 2579.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.576097, -46.687217"
+    },
+    {
+      "ident": "BR-1987",
+      "type": "closed",
+      "name": "Banco de Boston Heliport",
+      "elevation_ft": 2565.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.544701, -46.635557"
+    },
+    {
+      "ident": "BR-1988",
+      "type": "closed",
+      "name": "KMS Heliport",
+      "elevation_ft": 2521.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Barueri",
+      "coordinates": "-23.505276, -46.844723"
+    },
+    {
+      "ident": "BR-1989",
+      "type": "closed",
+      "name": "Refinaria Presidente Bernardes Heliport",
+      "elevation_ft": 23.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Cubatão",
+      "coordinates": "-23.887777, -46.427776"
+    },
+    {
+      "ident": "BR-1990",
+      "type": "closed",
+      "name": "Country Club Orgabil Airport",
+      "elevation_ft": 1253.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Araçatuba",
+      "coordinates": "-21.218741, -50.40596"
+    },
+    {
+      "ident": "BR-1991",
+      "type": "closed",
+      "name": "CBS Heliport",
+      "elevation_ft": 2653.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.584708, -46.671238"
+    },
+    {
+      "ident": "BR-1992",
+      "type": "closed",
+      "name": "Band Heliport",
+      "elevation_ft": 2589.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.642735, -46.735668"
+    },
+    {
+      "ident": "BR-1993",
+      "type": "closed",
+      "name": "Cabiúnas Heliport",
+      "elevation_ft": 66.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Macaé",
+      "coordinates": "-22.284475, -41.71748"
+    },
+    {
+      "ident": "BR-1994",
+      "type": "closed",
+      "name": "Condomínio Edifício Itaquere Heliport",
+      "elevation_ft": 2621.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.582104, -46.681976"
+    },
+    {
+      "ident": "BR-1995",
+      "type": "closed",
+      "name": "Panco 10 Heliport",
+      "elevation_ft": 58.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Duque de Caxias",
+      "coordinates": "-22.6667, -43.296101"
+    },
+    {
+      "ident": "BR-1996",
+      "type": "closed",
+      "name": "Sul América Seguros Heliport",
+      "elevation_ft": 2555.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.607779, -46.700558"
+    },
+    {
+      "ident": "BR-1997",
+      "type": "closed",
+      "name": "Dona Marta Heliport",
+      "elevation_ft": 1145.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Rio de Janeiro",
+      "coordinates": "-22.946767, -43.198348"
+    },
+    {
+      "ident": "BR-1998",
+      "type": "closed",
+      "name": "Delta Plaza Helipad",
+      "elevation_ft": 2918.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.567953, -46.64603"
+    },
+    {
+      "ident": "BR-1999",
+      "type": "closed",
+      "name": "Delmar Heliport",
+      "elevation_ft": 7.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Guarujá",
+      "coordinates": "-23.921702, -46.213271"
+    },
+    {
+      "ident": "BR-2000",
+      "type": "closed",
+      "name": "Ericson do Brasil Heliport",
+      "elevation_ft": 1875.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São José Dos Campos",
+      "coordinates": "-23.061943, -45.782501"
+    },
+    {
+      "ident": "BR-2001",
+      "type": "closed",
+      "name": "Rancho Villela Airport",
+      "elevation_ft": 1801.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Itaí",
+      "coordinates": "-23.570278, -48.863335"
+    },
+    {
+      "ident": "BR-2002",
+      "type": "closed",
+      "name": "Fazenda Ipameri Airport",
+      "elevation_ft": 1280.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Osvaldo Cruz",
+      "coordinates": "-21.63139, -50.808887"
+    },
+    {
+      "ident": "BR-2003",
+      "type": "closed",
+      "name": "Vivo Barra Funda Heliport",
+      "elevation_ft": 2441.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.509166, -46.68111"
+    },
+    {
+      "ident": "BR-2004",
+      "type": "closed",
+      "name": "Fazenda Fartura Airport",
+      "elevation_ft": 1647.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Ocauçu",
+      "coordinates": "-22.367222, -49.946945"
+    },
+    {
+      "ident": "BR-2005",
+      "type": "closed",
+      "name": "Guararapes Airport",
+      "elevation_ft": 1312.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Guararapes",
+      "coordinates": "-21.263056, -50.652579"
+    },
+    {
+      "ident": "BR-2006",
+      "type": "closed",
+      "name": "Panco 13 Heliport",
+      "elevation_ft": 112.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Itaboraí",
+      "coordinates": "-22.756399, -42.890301"
+    },
+    {
+      "ident": "BR-2007",
+      "type": "closed",
+      "name": "Clube do Céu Airport",
+      "elevation_ft": 3.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Rio de Janeiro",
+      "coordinates": "-22.997497, -43.40139"
+    },
+    {
+      "ident": "BR-2008",
+      "type": "closed",
+      "name": "Avibrás II Heliport",
+      "elevation_ft": 2133.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Jacareí",
+      "coordinates": "-23.3458328247, -45.8250007629"
+    },
+    {
+      "ident": "BR-2009",
+      "type": "closed",
+      "name": "Paulista Capital Plaza - The Flat Heliport",
+      "elevation_ft": 2953.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.571698, -46.646428"
+    },
+    {
+      "ident": "BR-2010",
+      "type": "closed",
+      "name": "Fazenda São Lucas Airport",
+      "elevation_ft": 1771.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Gália",
+      "coordinates": "-22.303612, -49.462223"
+    },
+    {
+      "ident": "BR-2011",
+      "type": "closed",
+      "name": "Torre da Glória Helipad",
+      "elevation_ft": 197.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Rio de Janeiro",
+      "coordinates": "-22.918623, -43.177289"
+    },
+    {
+      "ident": "BR-2012",
+      "type": "closed",
+      "name": "Fazenda Perobal Airport",
+      "elevation_ft": 1339.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Guararapes",
+      "coordinates": "-21.503611, -50.778057"
+    },
+    {
+      "ident": "BR-2013",
+      "type": "closed",
+      "name": "Fazenda Santa Rita Airport",
+      "elevation_ft": 1437.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Lutecia",
+      "coordinates": "-22.1994, -50.3736"
+    },
+    {
+      "ident": "BR-2014",
+      "type": "closed",
+      "name": "Panco V Heliport",
+      "elevation_ft": 1945.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Taubaté",
+      "coordinates": "-23.034401, -45.5881"
+    },
+    {
+      "ident": "BR-2015",
+      "type": "closed",
+      "name": "Issac Heliport",
+      "elevation_ft": 39.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Guarujá",
+      "coordinates": "-23.90891, -46.166462"
+    },
+    {
+      "ident": "BR-2016",
+      "type": "closed",
+      "name": "Panco VII Heliport",
+      "elevation_ft": 2579.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.53, -46.49"
+    },
+    {
+      "ident": "BR-2017",
+      "type": "closed",
+      "name": "Centro Empresarial Nações Unidas - Torre Oeste Heliport",
+      "elevation_ft": 2736.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.609722, -46.697224"
+    },
+    {
+      "ident": "BR-2018",
+      "type": "closed",
+      "name": "Edifício Berrini 500 Heliport",
+      "elevation_ft": 2648.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.601099, -46.692229"
+    },
+    {
+      "ident": "BR-2019",
+      "type": "closed",
+      "name": "Fazenda São Sebastião Airport",
+      "elevation_ft": 1706.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Rifaina",
+      "coordinates": "-19.99644, -47.515923"
+    },
+    {
+      "ident": "BR-2020",
+      "type": "closed",
+      "name": "Saquarema Airport",
+      "elevation_ft": 26.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Saquarema",
+      "coordinates": "-22.928773, -42.50571"
+    },
+    {
+      "ident": "BR-2021",
+      "type": "closed",
+      "name": "Hospital Sírio Libanês Heliport",
+      "elevation_ft": 2799.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.557173, -46.654258"
+    },
+    {
+      "ident": "BR-2022",
+      "type": "closed",
+      "name": "Panco III Heliport",
+      "elevation_ft": 126.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Seropédica",
+      "coordinates": "-22.713301, -43.692501"
+    },
+    {
+      "ident": "BR-2023",
+      "type": "closed",
+      "name": "Telesp Heliport",
+      "elevation_ft": 2366.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.520832, -46.678055"
+    },
+    {
+      "ident": "BR-2024",
+      "type": "closed",
+      "name": "Viação Cometa Móoca Heliport",
+      "elevation_ft": 2441.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.560833, -46.605"
+    },
+    {
+      "ident": "BR-2025",
+      "type": "closed",
+      "name": "Varam Heliport",
+      "elevation_ft": 2926.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.567499, -46.655556"
+    },
+    {
+      "ident": "BR-2026",
+      "type": "closed",
+      "name": "Tropical Ponta Negra Flat Heliport",
+      "elevation_ft": 263.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AM",
+      "municipality": "Manaus",
+      "coordinates": "-3.063889, -60.106945"
+    },
+    {
+      "ident": "BR-2027",
+      "type": "closed",
+      "name": "Fazenda Santa Clara Heliport",
+      "elevation_ft": 1411.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Cordeiro",
+      "coordinates": "-22.037634, -42.337114"
+    },
+    {
+      "ident": "BR-2028",
+      "type": "closed",
+      "name": "Aeroandres Heliport",
+      "elevation_ft": 3330.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Mairiporã",
+      "coordinates": "-23.395278, -46.638889"
+    },
+    {
+      "ident": "BR-2029",
+      "type": "closed",
+      "name": "Hospital de Guaruz Heliport",
+      "elevation_ft": 33.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Campos Dos Goytacazes",
+      "coordinates": "-21.740833, -41.311943"
+    },
+    {
+      "ident": "BR-2030",
+      "type": "closed",
+      "name": "Summerville Heliport",
+      "elevation_ft": 39.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PE",
+      "municipality": "Ipojuca",
+      "coordinates": "-8.434359, -34.982083"
+    },
+    {
+      "ident": "BR-2031",
+      "type": "closed",
+      "name": "Fazenda Araras Airport",
+      "elevation_ft": 1493.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Corguinho",
+      "coordinates": "-19.62966, -55.254687"
+    },
+    {
+      "ident": "BR-2032",
+      "type": "closed",
+      "name": "8º Batalhão da Polícia Militar Heliport",
+      "elevation_ft": 98.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SC",
+      "municipality": "Joinville",
+      "coordinates": "-26.306389, -48.860001"
+    },
+    {
+      "ident": "BR-2033",
+      "type": "closed",
+      "name": "Fazenda Boa Sorte Airport",
+      "elevation_ft": 1099.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Nova Andradina",
+      "coordinates": "-21.907733, -53.513975"
+    },
+    {
+      "ident": "BR-2034",
+      "type": "closed",
+      "name": "Fazenda Três Marias Airport",
+      "elevation_ft": 1210.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Vila Alta",
+      "coordinates": "-23.494126, -53.802495"
+    },
+    {
+      "ident": "BR-2035",
+      "type": "closed",
+      "name": "Fazenda Santa Helena Airport",
+      "elevation_ft": 952.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Nova Andradina",
+      "coordinates": "-21.997223, -53.424721"
+    },
+    {
+      "ident": "BR-2036",
+      "type": "closed",
+      "name": "Rio Negro Airport",
+      "elevation_ft": 3445.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Feliz Natal",
+      "coordinates": "-11.644444, -54.071388"
+    },
+    {
+      "ident": "BR-2037",
+      "type": "closed",
+      "name": "Aero Resende Airport",
+      "elevation_ft": 6825.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Bom Jesus",
+      "coordinates": "-18.131918, -49.796308"
+    },
+    {
+      "ident": "BR-2038",
+      "type": "closed",
+      "name": "Brigadeiro Heliport",
+      "elevation_ft": 2523.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.584018, -46.669241"
+    },
+    {
+      "ident": "BR-2039",
+      "type": "closed",
+      "name": "Madenorte Airport",
+      "elevation_ft": 132.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Porto de Moz",
+      "coordinates": "-2.318889, -52.914444"
+    },
+    {
+      "ident": "BR-2040",
+      "type": "closed",
+      "name": "Fazenda Santa Rita Airport",
+      "elevation_ft": 2054.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Diamantino",
+      "coordinates": "-14.131665, -57.362838"
+    },
+    {
+      "ident": "BR-2041",
+      "type": "closed",
+      "name": "Fazenda Cinco Estrelas Airport",
+      "elevation_ft": 493.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Apiacás",
+      "coordinates": "-8.363611, -58.105"
+    },
+    {
+      "ident": "BR-2042",
+      "type": "closed",
+      "name": "Fazenda Frigorífico Atlas Airport",
+      "elevation_ft": 2533.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Santana Do Araguaia",
+      "coordinates": "-9.4125, -50.425556"
+    },
+    {
+      "ident": "BR-2043",
+      "type": "closed",
+      "name": "Fazenda Santa Maria Heliport",
+      "elevation_ft": 2598.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Votorantim",
+      "coordinates": "-23.552608, -47.361921"
+    },
+    {
+      "ident": "BR-2044",
+      "type": "closed",
+      "name": "Girassol Heliport",
+      "elevation_ft": 14.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Ilhabela",
+      "coordinates": "-23.878900527954, -45.447200775146"
+    },
+    {
+      "ident": "BR-2045",
+      "type": "closed",
+      "name": "Cimento Poty Airport",
+      "elevation_ft": 1.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PB",
+      "municipality": "Caaporá",
+      "coordinates": "-7.531886, -34.864426"
+    },
+    {
+      "ident": "BR-2046",
+      "type": "closed",
+      "name": "Fazenda Spartacus Airport",
+      "elevation_ft": 2346.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Taquarivaí",
+      "coordinates": "-24.004866, -48.614643"
+    },
+    {
+      "ident": "BR-2047",
+      "type": "closed",
+      "name": "Banco do Brasil Andaraí Helipad",
+      "elevation_ft": 99.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Rio de Janeiro",
+      "coordinates": "-22.921199, -43.251231"
+    },
+    {
+      "ident": "BR-2048",
+      "type": "closed",
+      "name": "Santa Terezinha Airport",
+      "elevation_ft": 2199.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Tapajara",
+      "coordinates": "-28.052062, -51.958949"
+    },
+    {
+      "ident": "BR-2049",
+      "type": "closed",
+      "name": "Forum Trabalhista de 1ª Instância de São Paulo I Helipad",
+      "elevation_ft": 2619.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.522697, -46.661671"
+    },
+    {
+      "ident": "BR-2050",
+      "type": "closed",
+      "name": "Forum Trabalhista de 1ª Instância de São Paulo II Helipad",
+      "elevation_ft": 2619.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.522623, -46.662143"
+    },
+    {
+      "ident": "BR-2051",
+      "type": "closed",
+      "name": "Fazenda Redenção Airstrip",
+      "elevation_ft": 325.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Aquidauana",
+      "coordinates": "-19.610632, -56.734021"
+    },
+    {
+      "ident": "BR-2052",
+      "type": "closed",
+      "name": "Fazenda Ourissanga Airport",
+      "elevation_ft": 1182.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Selvíria",
+      "coordinates": "-20.42027778, -51.4452781677"
+    },
+    {
+      "ident": "BR-2053",
+      "type": "closed",
+      "name": "Sylvio Quadros Mercês Heliport",
+      "elevation_ft": 168.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Salvador",
+      "coordinates": "-12.979164, -38.473628"
+    },
+    {
+      "ident": "BR-2054",
+      "type": "closed",
+      "name": "Frisama Açailândia Airport",
+      "elevation_ft": 926.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Açailândia",
+      "coordinates": "-4.940974, -47.461796"
+    },
+    {
+      "ident": "BR-2055",
+      "type": "closed",
+      "name": "Fazenda Futuro Airport",
+      "elevation_ft": 1598.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Ribas Do Rio Pardo",
+      "coordinates": "-20.347615, -53.456944"
+    },
+    {
+      "ident": "BR-2056",
+      "type": "closed",
+      "name": "Jijoca de Jericoacoara Airport",
+      "elevation_ft": 66.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-CE",
+      "municipality": "Jijoca de Jericoacoara",
+      "coordinates": "-2.888889, -40.474167"
+    },
+    {
+      "ident": "BR-2057",
+      "type": "closed",
+      "name": "Novo Horizonte Airport",
+      "elevation_ft": 3720.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Coronel Domingos Soares",
+      "coordinates": "-26.2491664886, -51.9033317566"
+    },
+    {
+      "ident": "BR-2058",
+      "type": "closed",
+      "name": "Coca-Cola Heliport",
+      "elevation_ft": 3084.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Uberlândia",
+      "coordinates": "-18.896666, -48.242222"
+    },
+    {
+      "ident": "BR-2059",
+      "type": "closed",
+      "name": "Estáncia Parque Atibaia Heliport",
+      "elevation_ft": 2874.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Atibaia",
+      "coordinates": "-23.080299, -46.581902"
+    },
+    {
+      "ident": "BR-2060",
+      "type": "closed",
+      "name": "Alô Brasil Heliport",
+      "elevation_ft": 1863.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Monte Mor",
+      "coordinates": "-22.970556, -47.298889"
+    },
+    {
+      "ident": "BR-2061",
+      "type": "closed",
+      "name": "Fazenda Modelo Airport",
+      "elevation_ft": 2041.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Água Clara",
+      "coordinates": "-19.31431, -52.976446"
+    },
+    {
+      "ident": "BR-2062",
+      "type": "closed",
+      "name": "Andrieli Base Operacional Airport",
+      "elevation_ft": 2188.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Primavera do Leste",
+      "coordinates": "-15.579879, -54.412113"
+    },
+    {
+      "ident": "BR-2063",
+      "type": "closed",
+      "name": "Petrobrás - Refinaria de Capuava Heliport",
+      "elevation_ft": 2480.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Mauá",
+      "coordinates": "-23.6527786255, -46.4799995422"
+    },
+    {
+      "ident": "BR-2064",
+      "type": "closed",
+      "name": "Coqueiral Heliport",
+      "elevation_ft": 6.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Porto Seguro",
+      "coordinates": "-16.485421, -39.068166"
+    },
+    {
+      "ident": "BR-2065",
+      "type": "closed",
+      "name": "Umuarama Heliport",
+      "elevation_ft": 16.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AL",
+      "municipality": "Marechal Deodoro",
+      "coordinates": "-9.742737, -35.819442"
+    },
+    {
+      "ident": "BR-2066",
+      "type": "closed",
+      "name": "Alphaville Gramado Heliport",
+      "elevation_ft": 2684.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Gramado",
+      "coordinates": "-29.383612, -50.888332"
+    },
+    {
+      "ident": "BR-2067",
+      "type": "closed",
+      "name": "AHE Peixe Angical Airport",
+      "elevation_ft": 808.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-TO",
+      "municipality": "Peixe",
+      "coordinates": "-12.203100204468, -48.469699859619"
+    },
+    {
+      "ident": "BR-2068",
+      "type": "closed",
+      "name": "Capão Alto Airport",
+      "elevation_ft": 107.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Tapes",
+      "coordinates": "-30.67639, -51.525276"
+    },
+    {
+      "ident": "BR-2069",
+      "type": "closed",
+      "name": "Bocaíuva Airport",
+      "elevation_ft": 2395.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Bocaíuva",
+      "coordinates": "-17.1331, -43.815605"
+    },
+    {
+      "ident": "BR-2070",
+      "type": "closed",
+      "name": "Calçoene Airport",
+      "elevation_ft": 59.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AP",
+      "municipality": "Calçoene",
+      "coordinates": "2.497004, -50.963176"
+    },
+    {
+      "ident": "BR-2071",
+      "type": "closed",
+      "name": "Via Brasil Heliport",
+      "elevation_ft": 2676.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Belo Horizonte",
+      "coordinates": "-19.8419437408, -43.9661102295"
+    },
+    {
+      "ident": "BR-2072",
+      "type": "closed",
+      "name": "Fazenda Forquilha Airport",
+      "elevation_ft": 4370.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Tapira",
+      "coordinates": "-19.8516674042, -46.7099990845"
+    },
+    {
+      "ident": "BR-2073",
+      "type": "closed",
+      "name": "Francisco Sá Airport",
+      "elevation_ft": 2484.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Francisco Sá",
+      "coordinates": "-16.437573, -43.469187"
+    },
+    {
+      "ident": "BR-2074",
+      "type": "closed",
+      "name": "Guimarães Airport",
+      "elevation_ft": 155.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Guimarães",
+      "coordinates": "-2.118784, -44.609563"
+    },
+    {
+      "ident": "BR-2075",
+      "type": "closed",
+      "name": "Gurupá Airport",
+      "elevation_ft": 66.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Gurupá",
+      "coordinates": "-1.416944, -51.633888"
+    },
+    {
+      "ident": "BR-2076",
+      "type": "closed",
+      "name": "Praia do Forte Airport",
+      "elevation_ft": 49.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Mata De São João",
+      "coordinates": "-12.565371, -38.015812"
+    },
+    {
+      "ident": "BR-2077",
+      "type": "closed",
+      "name": "Coroatá Airport",
+      "elevation_ft": 157.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Coroatá",
+      "coordinates": "-4.139998, -44.114656"
+    },
+    {
+      "ident": "BR-2078",
+      "type": "closed",
+      "name": "Porto Grande Airport",
+      "elevation_ft": 197.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AP",
+      "municipality": "Porto Grande",
+      "coordinates": "0.866388976574, -51.4006004333"
+    },
+    {
+      "ident": "BR-2079",
+      "type": "closed",
+      "name": "Fazenda Campanário Airport",
+      "elevation_ft": 558.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Bodoquena",
+      "coordinates": "-20.410992, -56.530562"
+    },
+    {
+      "ident": "BR-2080",
+      "type": "closed",
+      "name": "Fazenda São Lucas Airport",
+      "elevation_ft": 1099.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Mirandópolis",
+      "coordinates": "-20.932222, -50.956944"
+    },
+    {
+      "ident": "BR-2081",
+      "type": "closed",
+      "name": "Fazenda Ranchinho Airport",
+      "elevation_ft": 1788.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Aporé",
+      "coordinates": "-18.833332, -51.791111"
+    },
+    {
+      "ident": "BR-2082",
+      "type": "closed",
+      "name": "Newton Heliport",
+      "elevation_ft": 2001.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Limeira",
+      "coordinates": "-22.5388889313, -47.4194450378"
+    },
+    {
+      "ident": "BR-2083",
+      "type": "closed",
+      "name": "Fazenda Santana Airport",
+      "elevation_ft": 426.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Aquidauana",
+      "coordinates": "-19.708055, -55.421112"
+    },
+    {
+      "ident": "BR-2084",
+      "type": "closed",
+      "name": "Bom Jesus Airport",
+      "elevation_ft": 3514.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Bom Jesus",
+      "coordinates": "-28.605654, -50.451363"
+    },
+    {
+      "ident": "BR-2085",
+      "type": "closed",
+      "name": "Fazenda Lageado Airport",
+      "elevation_ft": 650.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Dois Irmãos do Buriti",
+      "coordinates": "-20.291135, -55.44717"
+    },
+    {
+      "ident": "BR-2086",
+      "type": "closed",
+      "name": "Aeroclube Airport",
+      "elevation_ft": 56.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Sapiranga",
+      "coordinates": "-29.676111, -50.981388"
+    },
+    {
+      "ident": "BR-2087",
+      "type": "closed",
+      "name": "Tenoar Airport",
+      "elevation_ft": 2664.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Chapadão Do Sul",
+      "coordinates": "-18.811943, -52.639168"
+    },
+    {
+      "ident": "BR-2088",
+      "type": "closed",
+      "name": "Fazenda Kurupay Airport",
+      "elevation_ft": 1280.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Angélica",
+      "coordinates": "-22.036142, -53.735837"
+    },
+    {
+      "ident": "BR-2089",
+      "type": "closed",
+      "name": "Fazenda Caranday Airport",
+      "elevation_ft": 541.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Corumbá",
+      "coordinates": "-20.205557, -57.063332"
+    },
+    {
+      "ident": "BR-2090",
+      "type": "closed",
+      "name": "Fazenda Divisão Airport",
+      "elevation_ft": 1312.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Amambaí",
+      "coordinates": "-23.133888, -54.633888"
+    },
+    {
+      "ident": "BR-2091",
+      "type": "closed",
+      "name": "Fazenda Thoma Airport",
+      "elevation_ft": 1111.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Nova Andradina",
+      "coordinates": "-21.659200668335, -53.511100769043"
+    },
+    {
+      "ident": "BR-2092",
+      "type": "closed",
+      "name": "Fazenda São Francisco Airport",
+      "elevation_ft": 1099.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Água Clara",
+      "coordinates": "-19.3808326721, -53.0416679382"
+    },
+    {
+      "ident": "BR-2093",
+      "type": "closed",
+      "name": "Fazenda Orion Airport",
+      "elevation_ft": 1001.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Bela Vista",
+      "coordinates": "-22.024088, -56.325231"
+    },
+    {
+      "ident": "BR-2094",
+      "type": "closed",
+      "name": "Marrecão Airport",
+      "elevation_ft": 68.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SC",
+      "municipality": "Brusque",
+      "coordinates": "-27.065844, -48.889318"
+    },
+    {
+      "ident": "BR-2095",
+      "type": "closed",
+      "name": "Fazenda São Benedito Airport",
+      "elevation_ft": 394.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Corumbá",
+      "coordinates": "-18.42, -56.46"
+    },
+    {
+      "ident": "BR-2096",
+      "type": "closed",
+      "name": "Fazenda Reserva Airport",
+      "elevation_ft": 3438.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Reserva Do Iguaçu",
+      "coordinates": "-25.849569, -52.014685"
+    },
+    {
+      "ident": "BR-2097",
+      "type": "closed",
+      "name": "Fazenda Palma Airport",
+      "elevation_ft": 39.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Pelotas",
+      "coordinates": "-31.654005, -52.206622"
+    },
+    {
+      "ident": "BR-2098",
+      "type": "closed",
+      "name": "Fazenda Princesa do Sul Airport",
+      "elevation_ft": 1053.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Japoré",
+      "coordinates": "-23.771099090576, -54.677799224854"
+    },
+    {
+      "ident": "BR-2099",
+      "type": "closed",
+      "name": "Viaoeste - Castelo III Heliport",
+      "elevation_ft": 2467.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Barueri",
+      "coordinates": "-23.506069, -46.855314"
+    },
+    {
+      "ident": "BR-2100",
+      "type": "closed",
+      "name": "Pedra do Sino Heliport",
+      "elevation_ft": 3596.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Carandaí",
+      "coordinates": "-20.899445, -43.818611"
+    },
+    {
+      "ident": "BR-2101",
+      "type": "closed",
+      "name": "Fazenda dos Sonhos Airport",
+      "elevation_ft": 551.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Anastácio",
+      "coordinates": "-20.762013, -56.032548"
+    },
+    {
+      "ident": "BR-2102",
+      "type": "closed",
+      "name": "Fazenda Sorte Grande Airport",
+      "elevation_ft": 2339.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Roncador",
+      "coordinates": "-24.61, -52.36"
+    },
+    {
+      "ident": "BR-2103",
+      "type": "closed",
+      "name": "Fazenda Alvorada do Marape Airport",
+      "elevation_ft": 1001.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Tapurá",
+      "coordinates": "-12.887366, -56.736478"
+    },
+    {
+      "ident": "BR-2104",
+      "type": "closed",
+      "name": "Fazenda Fartura Airport",
+      "elevation_ft": 276.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Tomé Açu",
+      "coordinates": "-3.159407, -48.543434"
+    },
+    {
+      "ident": "BR-2105",
+      "type": "closed",
+      "name": "Agroer Aviação Agrícola Airport",
+      "elevation_ft": 827.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Rondonópolis",
+      "coordinates": "-16.483887, -54.667221"
+    },
+    {
+      "ident": "BR-2106",
+      "type": "closed",
+      "name": "Arenápolis Airport",
+      "elevation_ft": 1329.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Arenápolis",
+      "coordinates": "-14.500278, -57.017223"
+    },
+    {
+      "ident": "BR-2107",
+      "type": "closed",
+      "name": "Fazenda Apemag Airport",
+      "elevation_ft": 951.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Barra do Bugres",
+      "coordinates": "-15.333611, -57.317223"
+    },
+    {
+      "ident": "BR-2108",
+      "type": "closed",
+      "name": "Fazenda Água Verde Airport",
+      "elevation_ft": 2037.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Diamantino",
+      "coordinates": "-14.072778, -57.454723"
+    },
+    {
+      "ident": "BR-2109",
+      "type": "closed",
+      "name": "Fazenda Marazul Airport",
+      "elevation_ft": 479.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Barão de Melgaço",
+      "coordinates": "-16.541854, -55.91845"
+    },
+    {
+      "ident": "BR-2110",
+      "type": "closed",
+      "name": "Fazenda Marazul III Airport",
+      "elevation_ft": 505.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Barão De Melgaço",
+      "coordinates": "-16.591400146484, -55.986698150635"
+    },
+    {
+      "ident": "BR-2111",
+      "type": "closed",
+      "name": "ESAT Aerotáxi Heliport",
+      "elevation_ft": 3678.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-DF",
+      "municipality": "Brasília",
+      "coordinates": "-15.791, -47.8948"
+    },
+    {
+      "ident": "BR-2112",
+      "type": "closed",
+      "name": "Fazenda Piraim Airport",
+      "elevation_ft": 446.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nossa Senhora Do Livramento",
+      "coordinates": "-16.251699447632, -56.087501525879"
+    },
+    {
+      "ident": "BR-2113",
+      "type": "closed",
+      "name": "Fazenda São Paulo - Retiro Santa Maria Airport",
+      "elevation_ft": 984.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Britânia",
+      "coordinates": "-15.14, -51.254444"
+    },
+    {
+      "ident": "BR-2114",
+      "type": "closed",
+      "name": "Pontes e Lacerda Airport",
+      "elevation_ft": 1148.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Pontes E Lacerda",
+      "coordinates": "-15.231111, -59.34111"
+    },
+    {
+      "ident": "BR-2115",
+      "type": "closed",
+      "name": "Tamboré  Heliport",
+      "elevation_ft": 2444.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Barueri",
+      "coordinates": "-23.509953, -46.825332"
+    },
+    {
+      "ident": "BR-2116",
+      "type": "closed",
+      "name": "Nortelândia Airport",
+      "elevation_ft": 1460.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nortelândia",
+      "coordinates": "-14.473833, -56.766895"
+    },
+    {
+      "ident": "BR-2117",
+      "type": "closed",
+      "name": "Fazenda Surucucu Airport",
+      "elevation_ft": 3148.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Luziânia",
+      "coordinates": "-16.743335, -47.991669"
+    },
+    {
+      "ident": "BR-2118",
+      "type": "closed",
+      "name": "Pedro Afonso Airport",
+      "elevation_ft": 630.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-TO",
+      "municipality": "Pedro Afonso",
+      "coordinates": "-8.997572, -48.155372"
+    },
+    {
+      "ident": "BR-2119",
+      "type": "closed",
+      "name": "Porto dos Gaúchos Airport",
+      "elevation_ft": 1312.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Porto dos Gaúchos",
+      "coordinates": "-11.5404, -57.3782"
+    },
+    {
+      "ident": "BR-2120",
+      "type": "closed",
+      "name": "Porto São Sebastião Airport",
+      "elevation_ft": 1106.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Diamantino",
+      "coordinates": "-12.966944, -56.183887"
+    },
+    {
+      "ident": "BR-2121",
+      "type": "closed",
+      "name": "Planaltina Airport",
+      "elevation_ft": 3822.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-DF",
+      "municipality": "Brasília",
+      "coordinates": "-15.680044, -47.540225"
+    },
+    {
+      "ident": "BR-2122",
+      "type": "closed",
+      "name": "Fazenda Silmar Airport",
+      "elevation_ft": 863.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Vila Bela Da Santíssima Trindade",
+      "coordinates": "-16.165, -60.114445"
+    },
+    {
+      "ident": "BR-2123",
+      "type": "closed",
+      "name": "Seringal Nova Olinda Airport",
+      "elevation_ft": 673.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AC",
+      "municipality": "Sena Madureira",
+      "coordinates": "-10.100445, -69.21258"
+    },
+    {
+      "ident": "BR-2124",
+      "type": "closed",
+      "name": "Tocantínia Airport",
+      "elevation_ft": 656.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-TO",
+      "municipality": "Tocantínia",
+      "coordinates": "-9.545695, -48.399067"
+    },
+    {
+      "ident": "BR-2125",
+      "type": "closed",
+      "name": "Fazenda Santos Reis Airport",
+      "elevation_ft": 879.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Porto Esperidião",
+      "coordinates": "-16.266666, -59.150002"
+    },
+    {
+      "ident": "BR-2126",
+      "type": "closed",
+      "name": "Luciára Airport",
+      "elevation_ft": 689.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Luciára",
+      "coordinates": "-11.231673, -50.672544"
+    },
+    {
+      "ident": "BR-2127",
+      "type": "closed",
+      "name": "Fazenda Santo André Airport",
+      "elevation_ft": 1529.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nova Mutum",
+      "coordinates": "-13.6863889694, -55.9872207642"
+    },
+    {
+      "ident": "BR-2128",
+      "type": "closed",
+      "name": "Fazenda Vista Alegre Airport",
+      "elevation_ft": 666.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-AC",
+      "municipality": "Bujari",
+      "coordinates": "-9.788611, -68.007225"
+    },
+    {
+      "ident": "BR-2129",
+      "type": "closed",
+      "name": "Fazenda Pirassununga Airport",
+      "elevation_ft": 787.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-TO",
+      "municipality": "São Valério",
+      "coordinates": "-11.517778, -48.31111"
+    },
+    {
+      "ident": "BR-2130",
+      "type": "closed",
+      "name": "Chácara Córrego Fundo Airport",
+      "elevation_ft": 630.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Cuiabá",
+      "coordinates": "-15.59, -56.05"
+    },
+    {
+      "ident": "BR-2131",
+      "type": "closed",
+      "name": "Cotia Foods S/A Heliport",
+      "elevation_ft": 2707.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Cotia",
+      "coordinates": "-23.6191673279, -46.881942749"
+    },
+    {
+      "ident": "BR-2132",
+      "type": "closed",
+      "name": "Minas Empreendimentos Heliport",
+      "elevation_ft": 2979.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Contagem",
+      "coordinates": "-19.901388, -44.06472"
+    },
+    {
+      "ident": "BR-2133",
+      "type": "closed",
+      "name": "Autódromo José Carlos Pace Heliport",
+      "elevation_ft": 2595.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "São Paulo",
+      "coordinates": "-23.7033, -46.6995"
+    },
+    {
+      "ident": "BR-2134",
+      "type": "closed",
+      "name": "Fazenda Ponto de Apoio Airport",
+      "elevation_ft": 1319.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Água Clara",
+      "coordinates": "-20.463225, -52.686535"
+    },
+    {
+      "ident": "BR-2135",
+      "type": "closed",
+      "name": "Fazenda Rodoserv I Airport",
+      "elevation_ft": 1001.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Ivinhema",
+      "coordinates": "-22.472779, -52.595833"
+    },
+    {
+      "ident": "BR-2136",
+      "type": "closed",
+      "name": "Fazenda Rodoserv III Airport",
+      "elevation_ft": 1001.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Bela Vista",
+      "coordinates": "-21.868957, -56.771121"
+    },
+    {
+      "ident": "BR-2137",
+      "type": "closed",
+      "name": "Fazenda Eldorado - Agropecuária Paleana S/A Airport",
+      "elevation_ft": 1108.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Bom Jesus Do Araguaia",
+      "coordinates": "-12.154167, -51.686943"
+    },
+    {
+      "ident": "BR-2138",
+      "type": "closed",
+      "name": "Fazenda Santa Carolina",
+      "elevation_ft": 2302.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Dourado",
+      "coordinates": "-22.131001, -48.319302"
+    },
+    {
+      "ident": "BR-2139",
+      "type": "closed",
+      "name": "São Paulo do Piauí Airport",
+      "elevation_ft": 82.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Prado",
+      "coordinates": "-17.012805, -39.181545"
+    },
+    {
+      "ident": "BR-2140",
+      "type": "closed",
+      "name": "Recanto Airport",
+      "elevation_ft": 1335.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Ribeirão Cascalheira",
+      "coordinates": "-12.99667, -51.906681"
+    },
+    {
+      "ident": "BR-2141",
+      "type": "closed",
+      "name": "Fazenda Quebracho Brasil Airport",
+      "elevation_ft": 266.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Porto Murtinho",
+      "coordinates": "-21.848368, -57.899913"
+    },
+    {
+      "ident": "BR-2142",
+      "type": "closed",
+      "name": "Viana III Heliport",
+      "elevation_ft": 13.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SC",
+      "municipality": "Balneário Camboriú",
+      "coordinates": "-27.007644, -48.610543"
+    },
+    {
+      "ident": "BR-2143",
+      "type": "closed",
+      "name": "Jirau Hydroelectric Plant Airport",
+      "elevation_ft": 295.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Jaci Paraná",
+      "coordinates": "-9.288032, -64.625487"
+    },
+    {
+      "ident": "BR-2144",
+      "type": "closed",
+      "name": "Espinosa Airport",
+      "elevation_ft": 1870.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Espinosa",
+      "coordinates": "-14.933694, -42.81"
+    },
+    {
+      "ident": "BR-2145",
+      "type": "closed",
+      "name": "Volta Redonda Airport",
+      "elevation_ft": 1245.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Volta Redonda",
+      "coordinates": "-22.4978, -44.085"
+    },
+    {
+      "ident": "BR-2146",
+      "type": "closed",
+      "name": "Santana do Livramento Airport",
+      "elevation_ft": 1094.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Santana do Livramento",
+      "coordinates": "-30.8354, -55.62565"
+    },
+    {
+      "ident": "BR-2147",
+      "type": "closed",
+      "name": "Fazenda São Jorge Airstrip",
+      "elevation_ft": 1885.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Itaruma",
+      "coordinates": "-18.6448, -51.4828"
+    },
+    {
       "ident": "BR-ALT",
       "type": "small_airport",
       "name": "Alenquer Municipal Airport",
@@ -24160,16 +26501,6 @@
       "iata_code": "ALT",
       "local_code": "PA0027",
       "coordinates": "-1.917, -54.7231"
-    },
-    {
-      "ident": "BR-SWM",
-      "type": "closed",
-      "name": "Suia-Missu Airport",
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Alto Boa Vista",
-      "coordinates": "-11.671699523925781, -51.43470001220703"
     },
     {
       "ident": "CMT",
@@ -24208,17 +26539,6 @@
       "coordinates": "-29.9494, -50.98505"
     },
     {
-      "ident": "LVB",
-      "type": "closed",
-      "name": "Santana do Livramento Airport",
-      "elevation_ft": 1094.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Santana do Livramento",
-      "coordinates": "-30.8354, -55.62565"
-    },
-    {
       "ident": "OTT",
       "type": "small_airport",
       "name": "Andre Maggi Airport",
@@ -24241,28 +26561,6 @@
       "municipality": "Presidente Dutra",
       "iata_code": "PDR",
       "coordinates": "-5.3098, -44.481"
-    },
-    {
-      "ident": "SB03",
-      "type": "closed",
-      "name": "Fazenda Sao Sebastiao Airport",
-      "elevation_ft": 919.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RO",
-      "municipality": "Sao Jose so Barreiro",
-      "coordinates": "-12.736300468444824, -61.110198974609375"
-    },
-    {
-      "ident": "SB04",
-      "type": "closed",
-      "name": "Aurea Airport",
-      "elevation_ft": 3700.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Serra Do Salitre",
-      "coordinates": "-19.287399291992188, -46.51169967651367"
     },
     {
       "ident": "SB06",
@@ -24423,17 +26721,6 @@
       "iata_code": "ARU",
       "local_code": "SP0009",
       "coordinates": "-21.141479, -50.424575"
-    },
-    {
-      "ident": "SBAV",
-      "type": "closed",
-      "name": "Usina Porto Primavera Airport",
-      "elevation_ft": 1067.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Rosana",
-      "coordinates": "-22.5256004333, -52.9721984863"
     },
     {
       "ident": "SBAX",
@@ -24922,16 +27209,6 @@
       "coordinates": "-22.867886, -43.370934"
     },
     {
-      "ident": "SBEC",
-      "type": "closed",
-      "name": "Petrobras P-15 Platform Helideck",
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Macaé",
-      "coordinates": "-22.6775, -40.606098"
-    },
-    {
       "ident": "SBEG",
       "type": "large_airport",
       "name": "Eduardo Gomes International Airport",
@@ -24982,17 +27259,6 @@
       "municipality": "Macaé",
       "gps_code": "SBEN",
       "coordinates": "-22.709226, -40.693268"
-    },
-    {
-      "ident": "SBEP",
-      "type": "closed",
-      "name": "Espinosa Airport",
-      "elevation_ft": 1870.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Espinosa",
-      "coordinates": "-14.933694, -42.81"
     },
     {
       "ident": "SBES",
@@ -25061,17 +27327,6 @@
       "gps_code": "SBFS",
       "local_code": "RJ0028",
       "coordinates": "-22.030589, -41.068623"
-    },
-    {
-      "ident": "SBFU",
-      "type": "closed",
-      "name": "Furnas Airport",
-      "elevation_ft": 2413.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "São José da Barra",
-      "coordinates": "-20.702801, -46.3353"
     },
     {
       "ident": "SBFZ",
@@ -25309,17 +27564,6 @@
       "iata_code": "JJG",
       "local_code": "SC0005",
       "coordinates": "-28.6753, -49.0596"
-    },
-    {
-      "ident": "SBJC",
-      "type": "closed",
-      "name": "Belém/Brigadeiro Protásio de Oliveira Airport",
-      "elevation_ft": 52.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Belém",
-      "coordinates": "-1.415051, -48.459805"
     },
     {
       "ident": "SBJD",
@@ -26519,17 +28763,6 @@
       "coordinates": "-7.204121, -48.219863"
     },
     {
-      "ident": "SBQV",
-      "type": "closed",
-      "name": "Pedro Otacílio Figueiredo Airport",
-      "elevation_ft": 3002.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Vitória da Conquista",
-      "coordinates": "-14.862567, -40.863186"
-    },
-    {
       "ident": "SBQW",
       "type": "heliport",
       "name": "Paíto Motors Helipad",
@@ -26649,17 +28882,6 @@
       "iata_code": "RAO",
       "local_code": "SP0004",
       "coordinates": "-21.134314, -47.774053"
-    },
-    {
-      "ident": "SBRQ",
-      "type": "closed",
-      "name": "Sao Roque Airport",
-      "elevation_ft": 853.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Sao Roque",
-      "coordinates": "-23.517000198364258, -47.117000579833984"
     },
     {
       "ident": "SBRR",
@@ -29371,17 +31593,6 @@
       "coordinates": "-22.338227, -47.357898"
     },
     {
-      "ident": "SDAB",
-      "type": "closed",
-      "name": "Maju Heliport",
-      "elevation_ft": 1247.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Araçatuba",
-      "coordinates": "-21.093179, -50.47971"
-    },
-    {
       "ident": "SDAC",
       "type": "heliport",
       "name": "Aché Heliport",
@@ -29500,17 +31711,6 @@
       "coordinates": "-22.2965, -46.8556"
     },
     {
-      "ident": "SDAL",
-      "type": "closed",
-      "name": "Fazenda Alamo Airport",
-      "elevation_ft": 2434.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Sao Carlos",
-      "coordinates": "-21.815201, -47.900678"
-    },
-    {
       "ident": "SDAM",
       "type": "small_airport",
       "name": "Estadual de Campos dos Amarais - Prefeito Francisco Amaral Airport",
@@ -29622,17 +31822,6 @@
       "gps_code": "SDAU",
       "local_code": "MS0023",
       "coordinates": "-19.4685, -52.6214"
-    },
-    {
-      "ident": "SDAV",
-      "type": "closed",
-      "name": "Auxiliar I Heliport",
-      "elevation_ft": 2539.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.631945, -46.713614"
     },
     {
       "ident": "SDAW",
@@ -29853,17 +32042,6 @@
       "coordinates": "-23.885222, -55.055907"
     },
     {
-      "ident": "SDBJ",
-      "type": "closed",
-      "name": "Jimenez Heliport",
-      "elevation_ft": 2658.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Piedade",
-      "coordinates": "-23.709443, -47.425556"
-    },
-    {
       "ident": "SDBK",
       "type": "small_airport",
       "name": "Botucatu - Tancredo de Almeida Neves Airport",
@@ -29966,28 +32144,6 @@
       "coordinates": "-23.596111, -46.68528"
     },
     {
-      "ident": "SDBS",
-      "type": "closed",
-      "name": "Os Bandeirantes Helipad",
-      "elevation_ft": 2579.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.576097, -46.687217"
-    },
-    {
-      "ident": "SDBT",
-      "type": "closed",
-      "name": "Banco de Boston Heliport",
-      "elevation_ft": 2565.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.544701, -46.635557"
-    },
-    {
       "ident": "SDBU",
       "type": "small_airport",
       "name": "Fazenda Douradinho Airport",
@@ -30047,17 +32203,6 @@
       "gps_code": "SDBY",
       "local_code": "SP0032",
       "coordinates": "-22.069201, -48.706402"
-    },
-    {
-      "ident": "SDBZ",
-      "type": "closed",
-      "name": "KMS Heliport",
-      "elevation_ft": 2521.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Barueri",
-      "coordinates": "-23.505276, -46.844723"
     },
     {
       "ident": "SDC0",
@@ -30151,28 +32296,6 @@
       "coordinates": "-24.034346, -48.356246"
     },
     {
-      "ident": "SDCB",
-      "type": "closed",
-      "name": "Refinaria Presidente Bernardes Heliport",
-      "elevation_ft": 23.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Cubatão",
-      "coordinates": "-23.887777, -46.427776"
-    },
-    {
-      "ident": "SDCC",
-      "type": "closed",
-      "name": "Country Club Orgabil Airport",
-      "elevation_ft": 1253.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Araçatuba",
-      "coordinates": "-21.218741, -50.40596"
-    },
-    {
       "ident": "SDCD",
       "type": "small_airport",
       "name": "Catanduva Airport",
@@ -30197,17 +32320,6 @@
       "coordinates": "-17.438334, -44.936943"
     },
     {
-      "ident": "SDCF",
-      "type": "closed",
-      "name": "CBS Heliport",
-      "elevation_ft": 2653.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.584708, -46.671238"
-    },
-    {
       "ident": "SDCG",
       "type": "small_airport",
       "name": "Senadora Eunice Micheles Airport",
@@ -30222,28 +32334,6 @@
       "coordinates": "-3.46907, -68.921056"
     },
     {
-      "ident": "SDCH",
-      "type": "closed",
-      "name": "Band Heliport",
-      "elevation_ft": 2589.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.642735, -46.735668"
-    },
-    {
-      "ident": "SDCI",
-      "type": "closed",
-      "name": "Cabiúnas Heliport",
-      "elevation_ft": 66.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Macaé",
-      "coordinates": "-22.284475, -41.71748"
-    },
-    {
       "ident": "SDCJ",
       "type": "small_airport",
       "name": "Fazenda São Domingos Airstrip",
@@ -30255,17 +32345,6 @@
       "gps_code": "SDCJ",
       "local_code": "MT0032",
       "coordinates": "-17.689156, -53.584238"
-    },
-    {
-      "ident": "SDCK",
-      "type": "closed",
-      "name": "Condomínio Edifício Itaquere Heliport",
-      "elevation_ft": 2621.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.582104, -46.681976"
     },
     {
       "ident": "SDCL",
@@ -30551,17 +32630,6 @@
       "coordinates": "-22.617649, -50.09019"
     },
     {
-      "ident": "SDDC",
-      "type": "closed",
-      "name": "Panco 10 Heliport",
-      "elevation_ft": 58.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Duque de Caxias",
-      "coordinates": "-22.6667, -43.296101"
-    },
-    {
       "ident": "SDDD",
       "type": "small_airport",
       "name": "Fazenda São Francisco Airport",
@@ -30586,17 +32654,6 @@
       "gps_code": "SDDE",
       "local_code": "AM0026",
       "coordinates": "-8.012773, -61.777196"
-    },
-    {
-      "ident": "SDDF",
-      "type": "closed",
-      "name": "Sul América Seguros Heliport",
-      "elevation_ft": 2555.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.607779, -46.700558"
     },
     {
       "ident": "SDDG",
@@ -30675,17 +32732,6 @@
       "coordinates": "-23.307501, -47.933887"
     },
     {
-      "ident": "SDDM",
-      "type": "closed",
-      "name": "Dona Marta Heliport",
-      "elevation_ft": 1145.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Rio de Janeiro",
-      "coordinates": "-22.946767, -43.198348"
-    },
-    {
       "ident": "SDDN",
       "type": "small_airport",
       "name": "Andradina Airport",
@@ -30710,17 +32756,6 @@
       "gps_code": "SDDO",
       "local_code": "RJ0032",
       "coordinates": "-22.904167, -43.175278"
-    },
-    {
-      "ident": "SDDP",
-      "type": "closed",
-      "name": "Delta Plaza Helipad",
-      "elevation_ft": 2918.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.567953, -46.64603"
     },
     {
       "ident": "SDDQ",
@@ -30773,17 +32808,6 @@
       "coordinates": "-22.388895, -41.770653"
     },
     {
-      "ident": "SDDU",
-      "type": "closed",
-      "name": "Fazenda Santa Carolina",
-      "elevation_ft": 2302.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Dourado",
-      "coordinates": "-22.131001, -48.319302"
-    },
-    {
       "ident": "SDDV",
       "type": "small_airport",
       "name": "Usina Catanduva Airport",
@@ -30795,17 +32819,6 @@
       "gps_code": "SDDV",
       "local_code": "SP0089",
       "coordinates": "-21.12886, -48.845197"
-    },
-    {
-      "ident": "SDDW",
-      "type": "closed",
-      "name": "Delmar Heliport",
-      "elevation_ft": 7.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Guarujá",
-      "coordinates": "-23.921702, -46.213271"
     },
     {
       "ident": "SDDX",
@@ -30925,17 +32938,6 @@
       "coordinates": "-23.583497, -46.6842"
     },
     {
-      "ident": "SDEB",
-      "type": "closed",
-      "name": "Ericson do Brasil Heliport",
-      "elevation_ft": 1875.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São José Dos Campos",
-      "coordinates": "-23.061943, -45.782501"
-    },
-    {
       "ident": "SDEC",
       "type": "small_airport",
       "name": "Rancho Enagri Airport",
@@ -30958,17 +32960,6 @@
       "gps_code": "SDED",
       "local_code": "SP0092",
       "coordinates": "-22.440516, -47.700402"
-    },
-    {
-      "ident": "SDEE",
-      "type": "closed",
-      "name": "Rancho Villela Airport",
-      "elevation_ft": 1801.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Itaí",
-      "coordinates": "-23.570278, -48.863335"
     },
     {
       "ident": "SDEF",
@@ -31424,17 +33415,6 @@
       "coordinates": "-21.444259, -47.370899"
     },
     {
-      "ident": "SDFI",
-      "type": "closed",
-      "name": "Fazenda Itaquere Airport",
-      "elevation_ft": 2257.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Araraquara",
-      "coordinates": "-21.6546, -48.2663"
-    },
-    {
       "ident": "SDFJ",
       "type": "heliport",
       "name": "Fazenda Murungaba Heliport",
@@ -31628,28 +33608,6 @@
       "coordinates": "-9.157435, -40.937445"
     },
     {
-      "ident": "SDFY",
-      "type": "closed",
-      "name": "Fazenda Ipameri Airport",
-      "elevation_ft": 1280.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Osvaldo Cruz",
-      "coordinates": "-21.63139, -50.808887"
-    },
-    {
-      "ident": "SDFZ",
-      "type": "closed",
-      "name": "Vivo Barra Funda Heliport",
-      "elevation_ft": 2441.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.509166, -46.68111"
-    },
-    {
       "ident": "SDG3",
       "type": "small_airport",
       "name": "Fazenda Malanda Airport",
@@ -31793,17 +33751,6 @@
       "coordinates": "-23.611062, -46.570678"
     },
     {
-      "ident": "SDGF",
-      "type": "closed",
-      "name": "Fazenda Fartura Airport",
-      "elevation_ft": 1647.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Ocauçu",
-      "coordinates": "-22.367222, -49.946945"
-    },
-    {
       "ident": "SDGG",
       "type": "heliport",
       "name": "Aché Faria Lima Helipad",
@@ -31939,17 +33886,6 @@
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "coordinates": "-23.5627784729, -46.655834197998"
-    },
-    {
-      "ident": "SDGR",
-      "type": "closed",
-      "name": "Guararapes Airport",
-      "elevation_ft": 1312.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Guararapes",
-      "coordinates": "-21.263056, -50.652579"
     },
     {
       "ident": "SDGS",
@@ -32646,17 +34582,6 @@
       "coordinates": "-23.504785, -46.849201"
     },
     {
-      "ident": "SDIJ",
-      "type": "closed",
-      "name": "Panco 13 Heliport",
-      "elevation_ft": 112.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Itaboraí",
-      "coordinates": "-22.756399, -42.890301"
-    },
-    {
       "ident": "SDIK",
       "type": "heliport",
       "name": "Alpha Business Empresarial Helipad",
@@ -32694,17 +34619,6 @@
       "gps_code": "SDIM",
       "iata_code": "JTN",
       "coordinates": "-24.159729, -46.790604"
-    },
-    {
-      "ident": "SDIN",
-      "type": "closed",
-      "name": "Clube do Céu Airport",
-      "elevation_ft": 3.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Rio de Janeiro",
-      "coordinates": "-22.997497, -43.40139"
     },
     {
       "ident": "SDIO",
@@ -32985,17 +34899,6 @@
       "coordinates": "-23.760281, -45.712166"
     },
     {
-      "ident": "SDJE",
-      "type": "closed",
-      "name": "Avibrás II Heliport",
-      "elevation_ft": 2133.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Jacareí",
-      "coordinates": "-23.345832824699997, -45.8250007629"
-    },
-    {
       "ident": "SDJF",
       "type": "small_airport",
       "name": "Fazenda Jequitibá Airport",
@@ -33240,17 +35143,6 @@
       "coordinates": "-13.102172, -48.386468"
     },
     {
-      "ident": "SDJY",
-      "type": "closed",
-      "name": "Paulista Capital Plaza - The Flat Heliport",
-      "elevation_ft": 2953.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.571698, -46.646428"
-    },
-    {
       "ident": "SDJZ",
       "type": "small_airport",
       "name": "Fazenda Barra do Agudo Airport",
@@ -33366,17 +35258,6 @@
       "gps_code": "SSCB",
       "local_code": "SP0044",
       "coordinates": "-21.788055, -47.055557"
-    },
-    {
-      "ident": "SDKC",
-      "type": "closed",
-      "name": "Fazenda São Lucas Airport",
-      "elevation_ft": 1771.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Gália",
-      "coordinates": "-22.303612, -49.462223"
     },
     {
       "ident": "SDKD",
@@ -33563,17 +35444,6 @@
       "iso_region": "BR-MT",
       "municipality": "Pontes E Lacerda",
       "coordinates": "-15.173463, -59.172084"
-    },
-    {
-      "ident": "SDKS",
-      "type": "closed",
-      "name": "Torre da Glória Helipad",
-      "elevation_ft": 197.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Rio de Janeiro",
-      "coordinates": "-22.918623, -43.177289"
     },
     {
       "ident": "SDKT",
@@ -33907,17 +35777,6 @@
       "coordinates": "-22.225963, -47.380834"
     },
     {
-      "ident": "SDLM",
-      "type": "closed",
-      "name": "Ipua Faz Alianca Airport",
-      "elevation_ft": 2375.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Ipua",
-      "coordinates": "-20.5049991607666, -48.0442008972168"
-    },
-    {
       "ident": "SDLN",
       "type": "heliport",
       "name": "Tosana Heliport",
@@ -33956,17 +35815,6 @@
       "coordinates": "-22.5784, -48.774601"
     },
     {
-      "ident": "SDLQ",
-      "type": "closed",
-      "name": "Fazenda Perobal Airport",
-      "elevation_ft": 1339.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Guararapes",
-      "coordinates": "-21.503611, -50.778057"
-    },
-    {
       "ident": "SDLR",
       "type": "small_airport",
       "name": "Fazenda Sonho Dourado Airport",
@@ -33987,17 +35835,6 @@
       "iso_region": "BR-SP",
       "municipality": "Guararema",
       "coordinates": "-23.451611, -45.982634"
-    },
-    {
-      "ident": "SDLT",
-      "type": "closed",
-      "name": "Fazenda Santa Rita Airport",
-      "elevation_ft": 1437.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Lutecia",
-      "coordinates": "-22.1994, -50.3736"
     },
     {
       "ident": "SDLU",
@@ -34344,17 +36181,6 @@
       "coordinates": "-23.299177, -46.596746"
     },
     {
-      "ident": "SDMQ",
-      "type": "closed",
-      "name": "Fazenda Quebracho Brasil Airport",
-      "elevation_ft": 266.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Porto Murtinho",
-      "coordinates": "-21.848368, -57.899913"
-    },
-    {
       "ident": "SDMR",
       "type": "small_airport",
       "name": "Marambaia Airport",
@@ -34572,17 +36398,6 @@
       "iso_region": "BR-SP",
       "municipality": "Guarujá",
       "coordinates": "-23.999443054199, -46.298057556152"
-    },
-    {
-      "ident": "SDNC",
-      "type": "closed",
-      "name": "Panco V Heliport",
-      "elevation_ft": 1945.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Taubaté",
-      "coordinates": "-23.034401, -45.5881"
     },
     {
       "ident": "SDND",
@@ -34846,17 +36661,6 @@
       "gps_code": "SSEI",
       "local_code": "RJ0348",
       "coordinates": "-23.04298, -44.21046"
-    },
-    {
-      "ident": "SDNY",
-      "type": "closed",
-      "name": "Aeroclube Airport",
-      "elevation_ft": 164.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Nova Iguaçu",
-      "coordinates": "-22.746482, -43.464918"
     },
     {
       "ident": "SDNZ",
@@ -35178,17 +36982,6 @@
       "coordinates": "-20.747394, -47.889806"
     },
     {
-      "ident": "SDOS",
-      "type": "closed",
-      "name": "Issac Heliport",
-      "elevation_ft": 39.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Guarujá",
-      "coordinates": "-23.90891, -46.166462"
-    },
-    {
       "ident": "SDOT",
       "type": "heliport",
       "name": "Attilio Tinelli Helipad",
@@ -35410,17 +37203,6 @@
       "coordinates": "-22.943611, -45.431389"
     },
     {
-      "ident": "SDPF",
-      "type": "closed",
-      "name": "Portoferreir Han Airport",
-      "elevation_ft": 1870.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Porto Ferreira",
-      "coordinates": "-21.87420082092285, -47.473899841308594"
-    },
-    {
       "ident": "SDPG",
       "type": "small_airport",
       "name": "Fazenda Progresso Airport",
@@ -35454,17 +37236,6 @@
       "gps_code": "SDPI",
       "local_code": "RR0010",
       "coordinates": "4.687776, -60.244722"
-    },
-    {
-      "ident": "SDPJ",
-      "type": "closed",
-      "name": "Panco VII Heliport",
-      "elevation_ft": 2579.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.53, -46.49"
     },
     {
       "ident": "SDPK",
@@ -35745,28 +37516,6 @@
       "gps_code": "SDQ9",
       "local_code": "MT0764",
       "coordinates": "-11.490833, -56.171667"
-    },
-    {
-      "ident": "SDQA",
-      "type": "closed",
-      "name": "Centro Empresarial Nações Unidas - Torre Oeste Heliport",
-      "elevation_ft": 2736.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.609722, -46.697224"
-    },
-    {
-      "ident": "SDQB",
-      "type": "closed",
-      "name": "Edifício Berrini 500 Heliport",
-      "elevation_ft": 2648.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.601099, -46.692229"
     },
     {
       "ident": "SDQC",
@@ -36594,17 +38343,6 @@
       "coordinates": "-18.035457, -55.716094"
     },
     {
-      "ident": "SDSB",
-      "type": "closed",
-      "name": "Fazenda São Sebastião Airport",
-      "elevation_ft": 1706.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Rifaina",
-      "coordinates": "-19.99644, -47.515923"
-    },
-    {
       "ident": "SDSC",
       "type": "small_airport",
       "name": "Mário Pereira Lopes–São Carlos Airport",
@@ -36699,28 +38437,6 @@
       "iso_region": "BR-SP",
       "municipality": "Orlândia",
       "coordinates": "-20.745599746704, -47.933601379395"
-    },
-    {
-      "ident": "SDSK",
-      "type": "closed",
-      "name": "Saquarema Airport",
-      "elevation_ft": 26.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Saquarema",
-      "coordinates": "-22.928773, -42.50571"
-    },
-    {
-      "ident": "SDSL",
-      "type": "closed",
-      "name": "Hospital Sírio Libanês Heliport",
-      "elevation_ft": 2799.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.557173, -46.654258"
     },
     {
       "ident": "SDSM",
@@ -36860,17 +38576,6 @@
       "gps_code": "SDSX",
       "local_code": "SP0420",
       "coordinates": "-23.526045, -46.743984"
-    },
-    {
-      "ident": "SDSY",
-      "type": "closed",
-      "name": "Panco III Heliport",
-      "elevation_ft": 126.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Seropédica",
-      "coordinates": "-22.713301, -43.692501"
     },
     {
       "ident": "SDSZ",
@@ -37101,17 +38806,6 @@
       "gps_code": "SDTK",
       "iata_code": "JPY",
       "coordinates": "-23.224044, -44.7234"
-    },
-    {
-      "ident": "SDTL",
-      "type": "closed",
-      "name": "Telesp Heliport",
-      "elevation_ft": 2366.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.520832, -46.678055"
     },
     {
       "ident": "SDTM",
@@ -37449,17 +39143,6 @@
       "municipality": "Porto Murtinho",
       "gps_code": "SDUF",
       "coordinates": "-21.080556, -57.497222"
-    },
-    {
-      "ident": "SDUG",
-      "type": "closed",
-      "name": "Usina Sao Geraldo Airport",
-      "elevation_ft": 1804.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Ribeiro Preto",
-      "coordinates": "-21.130800247192383, -48.06639862060547"
     },
     {
       "ident": "SDUH",
@@ -37882,17 +39565,6 @@
       "coordinates": "-8.7225, -50.455"
     },
     {
-      "ident": "SDVK",
-      "type": "closed",
-      "name": "Viação Cometa Móoca Heliport",
-      "elevation_ft": 2441.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.560833, -46.605"
-    },
-    {
       "ident": "SDVL",
       "type": "small_airport",
       "name": "Coronel Newton Braga Airport",
@@ -37924,17 +39596,6 @@
       "iso_region": "BR-MS",
       "municipality": "Amambaí",
       "coordinates": "-23.286944, -54.841111"
-    },
-    {
-      "ident": "SDVO",
-      "type": "closed",
-      "name": "Varam Heliport",
-      "elevation_ft": 2926.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.567499, -46.655556"
     },
     {
       "ident": "SDVP",
@@ -38582,17 +40243,6 @@
       "coordinates": "-14.121000289916992, -47.53089904785156"
     },
     {
-      "ident": "SDXG",
-      "type": "closed",
-      "name": "Tropical Ponta Negra Flat Heliport",
-      "elevation_ft": 263.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AM",
-      "municipality": "Manaus",
-      "coordinates": "-3.063889, -60.106945"
-    },
-    {
       "ident": "SDXH",
       "type": "heliport",
       "name": "Gandini Heliport",
@@ -38639,17 +40289,6 @@
       "municipality": "Uiramutã",
       "gps_code": "SDXK",
       "coordinates": "4.413334, -60.116667"
-    },
-    {
-      "ident": "SDXL",
-      "type": "closed",
-      "name": "Fazenda Santa Clara Heliport",
-      "elevation_ft": 1411.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Cordeiro",
-      "coordinates": "-22.037634, -42.337114"
     },
     {
       "ident": "SDXM",
@@ -42340,39 +43979,6 @@
       "coordinates": "-15.591275, -59.263089"
     },
     {
-      "ident": "SIAA",
-      "type": "closed",
-      "name": "Aeroandres Heliport",
-      "elevation_ft": 3330.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Mairiporã",
-      "coordinates": "-23.395278, -46.638889"
-    },
-    {
-      "ident": "SIAB",
-      "type": "closed",
-      "name": "Leda Mello Resende Airport",
-      "elevation_ft": 3050.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Três Pontas",
-      "coordinates": "-21.3719, -45.4949"
-    },
-    {
-      "ident": "SIAC",
-      "type": "closed",
-      "name": "Hospital de Guaruz Heliport",
-      "elevation_ft": 33.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Campos Dos Goytacazes",
-      "coordinates": "-21.740833, -41.311943"
-    },
-    {
       "ident": "SIAD",
       "type": "small_airport",
       "name": "Estância Regina Airport",
@@ -42471,17 +44077,6 @@
       "coordinates": "-23.729557, -46.54985"
     },
     {
-      "ident": "SIAL",
-      "type": "closed",
-      "name": "Summerville Heliport",
-      "elevation_ft": 39.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PE",
-      "municipality": "Ipojuca",
-      "coordinates": "-8.434359, -34.982083"
-    },
-    {
       "ident": "SIAM",
       "type": "small_airport",
       "name": "Fazenda Palmital Airport",
@@ -42506,17 +44101,6 @@
       "gps_code": "SIAK",
       "local_code": "RS0105",
       "coordinates": "-30.030145, -51.220483"
-    },
-    {
-      "ident": "SIAO",
-      "type": "closed",
-      "name": "Fazenda Araras Airport",
-      "elevation_ft": 1493.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Corguinho",
-      "coordinates": "-19.62966, -55.254687"
     },
     {
       "ident": "SIAP",
@@ -44030,17 +45614,6 @@
       "coordinates": "-8.033757, -34.871188"
     },
     {
-      "ident": "SIEI",
-      "type": "closed",
-      "name": "8º Batalhão da Polícia Militar Heliport",
-      "elevation_ft": 98.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SC",
-      "municipality": "Joinville",
-      "coordinates": "-26.306389, -48.860001"
-    },
-    {
       "ident": "SIEJ",
       "type": "small_airport",
       "name": "Monte Verde Airport",
@@ -44865,17 +46438,6 @@
       "gps_code": "SIGK",
       "local_code": "SP0493",
       "coordinates": "-23.446839, -46.444563"
-    },
-    {
-      "ident": "SIGL",
-      "type": "closed",
-      "name": "Fazenda Boa Sorte Airport",
-      "elevation_ft": 1099.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Nova Andradina",
-      "coordinates": "-21.907733, -53.513975"
     },
     {
       "ident": "SIGM",
@@ -47051,17 +48613,6 @@
       "coordinates": "-10.513488, -53.645388"
     },
     {
-      "ident": "SILY",
-      "type": "closed",
-      "name": "Fazenda Três Marias Airport",
-      "elevation_ft": 1210.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PR",
-      "municipality": "Vila Alta",
-      "coordinates": "-23.494126, -53.802495"
-    },
-    {
       "ident": "SILZ",
       "type": "small_airport",
       "name": "Fazenda Mariad Airport",
@@ -47985,17 +49536,6 @@
       "coordinates": "-21.14321, -51.544011"
     },
     {
-      "ident": "SIOD",
-      "type": "closed",
-      "name": "Fazenda Santa Helena Airport",
-      "elevation_ft": 952.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Nova Andradina",
-      "coordinates": "-21.997223, -53.424721"
-    },
-    {
       "ident": "SIOE",
       "type": "small_airport",
       "name": "Mocelin Airport",
@@ -48099,17 +49639,6 @@
       "iso_region": "BR-MT",
       "municipality": "União do Sul",
       "coordinates": "-11.538889, -54.19389"
-    },
-    {
-      "ident": "SION",
-      "type": "closed",
-      "name": "Rio Negro Airport",
-      "elevation_ft": 3445.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Feliz Natal",
-      "coordinates": "-11.644444, -54.071388"
     },
     {
       "ident": "SIOO",
@@ -48910,17 +50439,6 @@
       "coordinates": "-23.582778930664, -46.168888092041"
     },
     {
-      "ident": "SIQQ",
-      "type": "closed",
-      "name": "Aero Resende Airport",
-      "elevation_ft": 6825.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Bom Jesus",
-      "coordinates": "-18.131918, -49.796308"
-    },
-    {
       "ident": "SIQR",
       "type": "small_airport",
       "name": "Fazenda Triângulo Airport",
@@ -49519,17 +51037,6 @@
       "coordinates": "-22.002500534058, -47.86888885498"
     },
     {
-      "ident": "SISB",
-      "type": "closed",
-      "name": "Fazenda Eldorado - Agropecuária Paleana S/A Airport",
-      "elevation_ft": 1108.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Bom Jesus Do Araguaia",
-      "coordinates": "-12.154167, -51.686943"
-    },
-    {
       "ident": "SISC",
       "type": "heliport",
       "name": "Senador Carlos Lyra Heliport",
@@ -49700,17 +51207,6 @@
       "gps_code": "SISQ",
       "local_code": "SC0060",
       "coordinates": "-26.306389, -48.933334"
-    },
-    {
-      "ident": "SISR",
-      "type": "closed",
-      "name": "Brigadeiro Heliport",
-      "elevation_ft": 2523.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.584018, -46.669241"
     },
     {
       "ident": "SISS",
@@ -49957,17 +51453,6 @@
       "iso_region": "BR-GO",
       "municipality": "Turvelândia",
       "coordinates": "-17.668163, -50.390614"
-    },
-    {
-      "ident": "SITI",
-      "type": "closed",
-      "name": "Madenorte Airport",
-      "elevation_ft": 132.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Porto de Moz",
-      "coordinates": "-2.318889, -52.914444"
     },
     {
       "ident": "SITJ",
@@ -50468,17 +51953,6 @@
       "gps_code": "SDSK",
       "local_code": "MS0053",
       "coordinates": "-22.711748, -54.045042"
-    },
-    {
-      "ident": "SIUT",
-      "type": "closed",
-      "name": "São Paulo do Piauí Airport",
-      "elevation_ft": 82.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Prado",
-      "coordinates": "-17.012805, -39.181545"
     },
     {
       "ident": "SIUU",
@@ -51022,28 +52496,6 @@
       "coordinates": "-23.190468, -55.289855"
     },
     {
-      "ident": "SIWC",
-      "type": "closed",
-      "name": "Fazenda Santa Rita Airport",
-      "elevation_ft": 2054.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Diamantino",
-      "coordinates": "-14.131665, -57.362838"
-    },
-    {
-      "ident": "SIWD",
-      "type": "closed",
-      "name": "Fazenda Cinco Estrelas Airport",
-      "elevation_ft": 493.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Apiacás",
-      "coordinates": "-8.363611, -58.105"
-    },
-    {
       "ident": "SIWE",
       "type": "small_airport",
       "name": "Nelson Pizzani Airport",
@@ -51077,17 +52529,6 @@
       "iso_region": "BR-MT",
       "municipality": "Rosário Oeste",
       "coordinates": "-14.55638885498, -55.819999694824"
-    },
-    {
-      "ident": "SIWH",
-      "type": "closed",
-      "name": "Fazenda Frigorífico Atlas Airport",
-      "elevation_ft": 2533.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Santana Do Araguaia",
-      "coordinates": "-9.4125, -50.425556"
     },
     {
       "ident": "SIWI",
@@ -51577,17 +53018,6 @@
       "coordinates": "-23.843515, -55.436156"
     },
     {
-      "ident": "SIXR",
-      "type": "closed",
-      "name": "Fazenda Santa Maria Heliport",
-      "elevation_ft": 2598.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Votorantim",
-      "coordinates": "-23.552608, -47.361921"
-    },
-    {
       "ident": "SIXS",
       "type": "heliport",
       "name": "EZ Towers A Helipad",
@@ -51599,17 +53029,6 @@
       "gps_code": "SIXS",
       "local_code": "SP0574",
       "coordinates": "-23.626944, -46.7025"
-    },
-    {
-      "ident": "SIXT",
-      "type": "closed",
-      "name": "Girassol Heliport",
-      "elevation_ft": 14.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Ilhabela",
-      "coordinates": "-23.8789005279541, -45.447200775146484"
     },
     {
       "ident": "SIXU",
@@ -51636,17 +53055,6 @@
       "coordinates": "-18.145292, -53.363466"
     },
     {
-      "ident": "SIXW",
-      "type": "closed",
-      "name": "Cimento Poty Airport",
-      "elevation_ft": 1.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PB",
-      "municipality": "Caaporá",
-      "coordinates": "-7.531886, -34.864426"
-    },
-    {
       "ident": "SIXX",
       "type": "small_airport",
       "name": "Usinas Braco Norte Airport",
@@ -51667,17 +53075,6 @@
       "iso_region": "BR-CE",
       "municipality": "Eusébio",
       "coordinates": "-3.913408, -38.497203"
-    },
-    {
-      "ident": "SIXZ",
-      "type": "closed",
-      "name": "Fazenda Spartacus Airport",
-      "elevation_ft": 2346.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Taquarivaí",
-      "coordinates": "-24.004866, -48.614643"
     },
     {
       "ident": "SIY2",
@@ -51906,17 +53303,6 @@
       "coordinates": "-22.8538894653, -45.23777771"
     },
     {
-      "ident": "SIYM",
-      "type": "closed",
-      "name": "Banco do Brasil Andaraí Helipad",
-      "elevation_ft": 99.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Rio de Janeiro",
-      "coordinates": "-22.921199, -43.251231"
-    },
-    {
       "ident": "SIYN",
       "type": "small_airport",
       "name": "Eletro Primavera LTDA Airport",
@@ -51962,17 +53348,6 @@
       "iso_region": "BR-MT",
       "municipality": "Tapurá",
       "coordinates": "-12.791666984558, -56.498611450195"
-    },
-    {
-      "ident": "SIYR",
-      "type": "closed",
-      "name": "Santa Terezinha Airport",
-      "elevation_ft": 2199.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Tapajara",
-      "coordinates": "-28.052062, -51.958949"
     },
     {
       "ident": "SIYS",
@@ -56096,17 +57471,6 @@
       "coordinates": "-23.194975, -45.874583"
     },
     {
-      "ident": "SJCJ",
-      "type": "closed",
-      "name": "Forum Trabalhista de 1ª Instância de São Paulo I Helipad",
-      "elevation_ft": 2619.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.522697, -46.661671"
-    },
-    {
       "ident": "SJCK",
       "type": "heliport",
       "name": "Rei da Pamonha Heliport",
@@ -56190,17 +57554,6 @@
       "gps_code": "SJCQ",
       "local_code": "BA0105",
       "coordinates": "-11.9355, -40.050701"
-    },
-    {
-      "ident": "SJCR",
-      "type": "closed",
-      "name": "Forum Trabalhista de 1ª Instância de São Paulo II Helipad",
-      "elevation_ft": 2619.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.522623, -46.662143"
     },
     {
       "ident": "SJCS",
@@ -56627,17 +57980,6 @@
       "coordinates": "-29.728093, -56.960771"
     },
     {
-      "ident": "SJDV",
-      "type": "closed",
-      "name": "Fazenda Redenção Airstrip",
-      "elevation_ft": 325.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Aquidauana",
-      "coordinates": "-19.610632, -56.734021"
-    },
-    {
       "ident": "SJDW",
       "type": "small_airport",
       "name": "Fazenda Canadá Airport",
@@ -56805,17 +58147,6 @@
       "coordinates": "-18.680000305176, -57.224998474121"
     },
     {
-      "ident": "SJEE",
-      "type": "closed",
-      "name": "Fazenda Ourissanga Airport",
-      "elevation_ft": 1182.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Selvíria",
-      "coordinates": "-20.42027778, -51.445278167699996"
-    },
-    {
       "ident": "SJEF",
       "type": "small_airport",
       "name": "Fazenda Costa Rica Airport",
@@ -56927,17 +58258,6 @@
       "gps_code": "SJEN",
       "local_code": "RS0076",
       "coordinates": "-33.142894, -52.977319"
-    },
-    {
-      "ident": "SJEO",
-      "type": "closed",
-      "name": "Sylvio Quadros Mercês Heliport",
-      "elevation_ft": 168.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Salvador",
-      "coordinates": "-12.979164, -38.473628"
     },
     {
       "ident": "SJEP",
@@ -58228,17 +59548,6 @@
       "coordinates": "-17.295497, -43.958836"
     },
     {
-      "ident": "SJHX",
-      "type": "closed",
-      "name": "Frisama Açailândia Airport",
-      "elevation_ft": 926.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MA",
-      "municipality": "Açailândia",
-      "coordinates": "-4.940974, -47.461796"
-    },
-    {
       "ident": "SJHY",
       "type": "heliport",
       "name": "Paiva Air Heliport",
@@ -58531,17 +59840,6 @@
       "coordinates": "-13.31104, -40.878315"
     },
     {
-      "ident": "SJIS",
-      "type": "closed",
-      "name": "Fazenda Futuro Airport",
-      "elevation_ft": 1598.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Ribas Do Rio Pardo",
-      "coordinates": "-20.347615, -53.456944"
-    },
-    {
       "ident": "SJIT",
       "type": "small_airport",
       "name": "Itaú de Minas Airport",
@@ -58752,17 +60050,6 @@
       "coordinates": "-5.5075001716614, -35.50333404541"
     },
     {
-      "ident": "SJJD",
-      "type": "closed",
-      "name": "Jijoca de Jericoacoara Airport",
-      "elevation_ft": 66.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-CE",
-      "municipality": "Jijoca de Jericoacoara",
-      "coordinates": "-2.888889, -40.474167"
-    },
-    {
       "ident": "SJJE",
       "type": "heliport",
       "name": "Jequié Heliport",
@@ -58811,17 +60098,6 @@
       "iso_region": "BR-PA",
       "municipality": "Vitória Do Xingu",
       "coordinates": "-3.2494440078735, -51.722499847412"
-    },
-    {
-      "ident": "SJJI",
-      "type": "closed",
-      "name": "Novo Horizonte Airport",
-      "elevation_ft": 3720.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PR",
-      "municipality": "Coronel Domingos Soares",
-      "coordinates": "-26.2491664886, -51.903331756600004"
     },
     {
       "ident": "SJJJ",
@@ -59247,17 +60523,6 @@
       "gps_code": "SIB2",
       "local_code": "MS0729",
       "coordinates": "-17.440417, -53.809748"
-    },
-    {
-      "ident": "SJKK",
-      "type": "closed",
-      "name": "Coca-Cola Heliport",
-      "elevation_ft": 3084.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Uberlândia",
-      "coordinates": "-18.896666, -48.242222"
     },
     {
       "ident": "SJKL",
@@ -60692,17 +61957,6 @@
       "coordinates": "-23.178892, -45.471429"
     },
     {
-      "ident": "SJOB",
-      "type": "closed",
-      "name": "Estáncia Parque Atibaia Heliport",
-      "elevation_ft": 2874.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Atibaia",
-      "coordinates": "-23.080299, -46.581902"
-    },
-    {
       "ident": "SJOC",
       "type": "heliport",
       "name": "Hotel Paradise Heliport",
@@ -60714,17 +61968,6 @@
       "gps_code": "SNHO",
       "local_code": "SP0704",
       "coordinates": "-21.110785, -48.964466"
-    },
-    {
-      "ident": "SJOD",
-      "type": "closed",
-      "name": "Alô Brasil Heliport",
-      "elevation_ft": 1863.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Monte Mor",
-      "coordinates": "-22.970556, -47.298889"
     },
     {
       "ident": "SJOE",
@@ -60801,17 +62044,6 @@
       "gps_code": "SJOJ",
       "local_code": "MA0030",
       "coordinates": "-4.870714, -47.390409"
-    },
-    {
-      "ident": "SJOK",
-      "type": "closed",
-      "name": "Fazenda Modelo Airport",
-      "elevation_ft": 2041.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Água Clara",
-      "coordinates": "-19.31431, -52.976446"
     },
     {
       "ident": "SJOL",
@@ -61261,17 +62493,6 @@
       "coordinates": "-16.319721, -47.225277"
     },
     {
-      "ident": "SJPR",
-      "type": "closed",
-      "name": "Andrieli Base Operacional Airport",
-      "elevation_ft": 2188.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Primavera do Leste",
-      "coordinates": "-15.579879, -54.412113"
-    },
-    {
       "ident": "SJPS",
       "type": "small_airport",
       "name": "Fazenda Monte Belo Airport",
@@ -61281,17 +62502,6 @@
       "iso_region": "BR-MT",
       "municipality": "Barra Do Bugres",
       "coordinates": "-14.979999542236, -57.991668701172"
-    },
-    {
-      "ident": "SJPT",
-      "type": "closed",
-      "name": "Petrobrás - Refinaria de Capuava Heliport",
-      "elevation_ft": 2480.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Mauá",
-      "coordinates": "-23.6527786255, -46.4799995422"
     },
     {
       "ident": "SJPU",
@@ -61340,17 +62550,6 @@
       "municipality": "Poxoréo",
       "gps_code": "SJPX",
       "coordinates": "-15.4152784348, -54.3722229004"
-    },
-    {
-      "ident": "SJPY",
-      "type": "closed",
-      "name": "Coqueiral Heliport",
-      "elevation_ft": 6.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Porto Seguro",
-      "coordinates": "-16.485421, -39.068166"
     },
     {
       "ident": "SJPZ",
@@ -63014,17 +64213,6 @@
       "coordinates": "-22.877777099609375, -49.037776947021484"
     },
     {
-      "ident": "SJUM",
-      "type": "closed",
-      "name": "Umuarama Heliport",
-      "elevation_ft": 16.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AL",
-      "municipality": "Marechal Deodoro",
-      "coordinates": "-9.742737, -35.819442"
-    },
-    {
       "ident": "SJUN",
       "type": "heliport",
       "name": "Unimed - Nordeste Helipad",
@@ -64228,17 +65416,6 @@
       "coordinates": "-23.121110916099997, -44.192779541"
     },
     {
-      "ident": "SJXU",
-      "type": "closed",
-      "name": "Alphaville Gramado Heliport",
-      "elevation_ft": 2684.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Gramado",
-      "coordinates": "-29.383612, -50.888332"
-    },
-    {
       "ident": "SJXV",
       "type": "small_airport",
       "name": "Fazenda Bela Vista Airport",
@@ -64408,17 +65585,6 @@
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "coordinates": "-23.610277175903, -46.695556640625"
-    },
-    {
-      "ident": "SJYC",
-      "type": "closed",
-      "name": "AHE Peixe Angical Airport",
-      "elevation_ft": 808.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-TO",
-      "municipality": "Peixe",
-      "coordinates": "-12.203100204467773, -48.46969985961914"
     },
     {
       "ident": "SJYD",
@@ -64749,17 +65915,6 @@
       "gps_code": "SJZ8",
       "local_code": "MA0172",
       "coordinates": "-7.601111, -45.970556"
-    },
-    {
-      "ident": "SJZA",
-      "type": "closed",
-      "name": "Capão Alto Airport",
-      "elevation_ft": 107.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Tapes",
-      "coordinates": "-30.67639, -51.525276"
     },
     {
       "ident": "SJZB",
@@ -67218,17 +68373,6 @@
       "coordinates": "-9.776589, -36.628983"
     },
     {
-      "ident": "SNAM",
-      "type": "closed",
-      "name": "Santo Antônio do Amparo Airport",
-      "elevation_ft": 3601.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Santo Antônio do Amparo",
-      "coordinates": "-20.9135, -44.892899"
-    },
-    {
       "ident": "SNAN",
       "type": "small_airport",
       "name": "Empresa Agrícola Chiapeta Airport",
@@ -67522,28 +68666,6 @@
       "coordinates": "-4.22771, -44.82"
     },
     {
-      "ident": "SNBJ",
-      "type": "closed",
-      "name": "Belo Jardim Airport",
-      "elevation_ft": 2100.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PE",
-      "municipality": "Belo Jardim",
-      "coordinates": "-8.34527, -36.4412"
-    },
-    {
-      "ident": "SNBK",
-      "type": "closed",
-      "name": "Bocaíuva Airport",
-      "elevation_ft": 2395.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Bocaíuva",
-      "coordinates": "-17.1331, -43.815605"
-    },
-    {
       "ident": "SNBL",
       "type": "small_airport",
       "name": "Belmonte Airport",
@@ -67795,17 +68917,6 @@
       "municipality": "Prainha",
       "gps_code": "SNCB",
       "coordinates": "-2.523611068725586, -53.939720153808594"
-    },
-    {
-      "ident": "SNCC",
-      "type": "closed",
-      "name": "Calçoene Airport",
-      "elevation_ft": 59.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AP",
-      "municipality": "Calçoene",
-      "coordinates": "2.497004, -50.963176"
     },
     {
       "ident": "SNCD",
@@ -68183,17 +69294,6 @@
       "coordinates": "-3.655, -45.451111"
     },
     {
-      "ident": "SNDG",
-      "type": "closed",
-      "name": "São Domingos Airport",
-      "elevation_ft": 787.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MA",
-      "municipality": "São Domingos Do Maranhão",
-      "coordinates": "-5.573609828948975, -44.43170166015625"
-    },
-    {
       "ident": "SNDH",
       "type": "small_airport",
       "name": "Aba Airport",
@@ -68368,17 +69468,6 @@
       "coordinates": "-20.180700302124, -44.870899200439"
     },
     {
-      "ident": "SNDW",
-      "type": "closed",
-      "name": "Divisa Airport",
-      "elevation_ft": 2710.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Encruzilhada",
-      "coordinates": "-15.519444, -40.872501"
-    },
-    {
       "ident": "SNDX",
       "type": "small_airport",
       "name": "Cachoeira Airport",
@@ -68389,28 +69478,6 @@
       "municipality": "Coruripe",
       "gps_code": "SNDX",
       "coordinates": "-10.039999961853027, -36.32638931274414"
-    },
-    {
-      "ident": "SNDY",
-      "type": "closed",
-      "name": "Dores Do Indaia Airport",
-      "elevation_ft": 2490.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Dores Do Indiaia",
-      "coordinates": "-19.457199, -45.5844"
-    },
-    {
-      "ident": "SNDZ",
-      "type": "closed",
-      "name": "Via Brasil Heliport",
-      "elevation_ft": 2676.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Belo Horizonte",
-      "coordinates": "-19.8419437408, -43.9661102295"
     },
     {
       "ident": "SNE2",
@@ -68587,17 +69654,6 @@
       "coordinates": "-2.668108, -54.89566"
     },
     {
-      "ident": "SNEM",
-      "type": "closed",
-      "name": "Encanta Moça Airport",
-      "elevation_ft": 10.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PE",
-      "municipality": "Recife",
-      "coordinates": "-8.094491, -34.891645"
-    },
-    {
       "ident": "SNEN",
       "type": "small_airport",
       "name": "Fazenda Calumbi Airport",
@@ -68620,17 +69676,6 @@
       "gps_code": "SWDT",
       "local_code": "GO0118",
       "coordinates": "-16.438905, -49.199524"
-    },
-    {
-      "ident": "SNEP",
-      "type": "closed",
-      "name": "Eunápolis Airport",
-      "elevation_ft": 610.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Eunápolis",
-      "coordinates": "-16.329201, -39.5769"
     },
     {
       "ident": "SNEQ",
@@ -68832,17 +69877,6 @@
       "coordinates": "-14.773264, -59.047437"
     },
     {
-      "ident": "SNFC",
-      "type": "closed",
-      "name": "Fazenda Forquilha Airport",
-      "elevation_ft": 4370.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Tapira",
-      "coordinates": "-19.8516674042, -46.7099990845"
-    },
-    {
       "ident": "SNFD",
       "type": "small_airport",
       "name": "Fazenda Santo Antônio Airport",
@@ -68928,17 +69962,6 @@
       "municipality": "Jacareacanga",
       "gps_code": "SNFJ",
       "coordinates": "-9.06277847290039, -56.59333419799805"
-    },
-    {
-      "ident": "SNFK",
-      "type": "closed",
-      "name": "Francisco Sá Airport",
-      "elevation_ft": 2484.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Francisco Sá",
-      "coordinates": "-16.437573, -43.469187"
     },
     {
       "ident": "SNFL",
@@ -69302,17 +70325,6 @@
       "coordinates": "-9.057250022888184, -44.37110137939453"
     },
     {
-      "ident": "SNGH",
-      "type": "closed",
-      "name": "Guanhães Airport",
-      "elevation_ft": 2618.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Guanhães",
-      "coordinates": "-18.707701, -42.838902"
-    },
-    {
       "ident": "SNGI",
       "type": "small_airport",
       "name": "Guanambi Airport",
@@ -69360,17 +70372,6 @@
       "municipality": "Porto Feliz",
       "gps_code": "SNGL",
       "coordinates": "-23.181944, -47.559444"
-    },
-    {
-      "ident": "SNGM",
-      "type": "closed",
-      "name": "Guimarães Airport",
-      "elevation_ft": 155.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MA",
-      "municipality": "Guimarães",
-      "coordinates": "-2.118784, -44.609563"
     },
     {
       "ident": "SNGN",
@@ -69456,17 +70457,6 @@
       "gps_code": "SNGT",
       "local_code": "SNGT",
       "coordinates": "-11.441699981689453, -42.5181999206543"
-    },
-    {
-      "ident": "SNGU",
-      "type": "closed",
-      "name": "Gurupá Airport",
-      "elevation_ft": 66.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Gurupá",
-      "coordinates": "-1.416944, -51.633888"
     },
     {
       "ident": "SNGW",
@@ -69712,17 +70702,6 @@
       "iso_region": "BR-MG",
       "municipality": "Pedra Azul",
       "coordinates": "-15.824422, -41.08513"
-    },
-    {
-      "ident": "SNHP",
-      "type": "closed",
-      "name": "Herbert Mata Pires Airport",
-      "elevation_ft": 1188.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Itaberaba",
-      "coordinates": "-12.402464, -40.474655"
     },
     {
       "ident": "SNHQ",
@@ -70353,17 +71332,6 @@
       "coordinates": "-15.4738, -44.385502"
     },
     {
-      "ident": "SNJO",
-      "type": "closed",
-      "name": "Aeroclube da Paraíba Airport",
-      "elevation_ft": 16.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PB",
-      "municipality": "João Pessoa",
-      "coordinates": "-7.09199, -34.841599"
-    },
-    {
       "ident": "SNJP",
       "type": "small_airport",
       "name": "João Pinheiro Airport",
@@ -70574,17 +71542,6 @@
       "gps_code": "SNKD",
       "local_code": "SNKD",
       "coordinates": "-19.020299911499023, -43.43389892578125"
-    },
-    {
-      "ident": "SNKE",
-      "type": "closed",
-      "name": "Santana do Araguaia Airport",
-      "elevation_ft": 597.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Santana do Araguaia",
-      "coordinates": "-9.31997, -50.328499"
     },
     {
       "ident": "SNKF",
@@ -71304,17 +72261,6 @@
       "coordinates": "-3.766666889190674, -38.4908332824707"
     },
     {
-      "ident": "SNMH",
-      "type": "closed",
-      "name": "Magalhaes de Almeida Airport",
-      "elevation_ft": 203.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MA",
-      "municipality": "Codo",
-      "coordinates": "-4.476961, -43.889902"
-    },
-    {
       "ident": "SNMI",
       "type": "small_airport",
       "name": "Mina Caraíba Airport",
@@ -71687,17 +72633,6 @@
       "coordinates": "-14.298500061035, -43.797298431396"
     },
     {
-      "ident": "SNNI",
-      "type": "closed",
-      "name": "Praia do Forte Airport",
-      "elevation_ft": 49.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-BA",
-      "municipality": "Mata De São João",
-      "coordinates": "-12.565371, -38.015812"
-    },
-    {
       "ident": "SNNJ",
       "type": "small_airport",
       "name": "Fazenda Santa Cruz Airport",
@@ -71884,17 +72819,6 @@
       "iso_region": "BR-MS",
       "municipality": "Caracol",
       "coordinates": "-22.123611, -57.103397"
-    },
-    {
-      "ident": "SNOA",
-      "type": "closed",
-      "name": "Coroatá Airport",
-      "elevation_ft": 157.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MA",
-      "municipality": "Coroatá",
-      "coordinates": "-4.139998, -44.114656"
     },
     {
       "ident": "SNOB",
@@ -72284,28 +73208,6 @@
       "coordinates": "-5.597044, -43.319875"
     },
     {
-      "ident": "SNPG",
-      "type": "closed",
-      "name": "Porto Grande Airport",
-      "elevation_ft": 197.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AP",
-      "municipality": "Porto Grande",
-      "coordinates": "0.866388976574, -51.4006004333"
-    },
-    {
-      "ident": "SNPH",
-      "type": "closed",
-      "name": "Fazenda Do Cantagalo Airport",
-      "elevation_ft": 1576.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Piedras do Maria Da Cruz",
-      "coordinates": "-15.395899772644043, -44.145198822021484"
-    },
-    {
       "ident": "SNPI",
       "type": "small_airport",
       "name": "De Piatã Airport",
@@ -72692,17 +73594,6 @@
       "municipality": "Canarana",
       "gps_code": "SNQN",
       "coordinates": "-13.15562, -52.569736"
-    },
-    {
-      "ident": "SNQO",
-      "type": "closed",
-      "name": "Fazenda Campanário Airport",
-      "elevation_ft": 558.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Bodoquena",
-      "coordinates": "-20.410992, -56.530562"
     },
     {
       "ident": "SNQP",
@@ -73293,17 +74184,6 @@
       "iata_code": "OPP",
       "local_code": "SNSM",
       "coordinates": "-0.696111, -47.336111"
-    },
-    {
-      "ident": "SNSN",
-      "type": "closed",
-      "name": "São Raimundo Nonato Airport",
-      "elevation_ft": 1247.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PI",
-      "municipality": "São Raimundo Nonato",
-      "coordinates": "-9.03, -42.68"
     },
     {
       "ident": "SNSO",
@@ -74394,17 +75274,6 @@
       "coordinates": "-9.9805555343628, -36.231109619141"
     },
     {
-      "ident": "SNWB",
-      "type": "closed",
-      "name": "Fazenda São Lucas Airport",
-      "elevation_ft": 1099.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Mirandópolis",
-      "coordinates": "-20.932222, -50.956944"
-    },
-    {
       "ident": "SNWC",
       "type": "small_airport",
       "name": "Camocim - Pinto Martins Airport",
@@ -74512,17 +75381,6 @@
       "municipality": "Pedra Preta",
       "gps_code": "SNWK",
       "coordinates": "-16.6744441986084, -54.266387939453125"
-    },
-    {
-      "ident": "SNWL",
-      "type": "closed",
-      "name": "Fazenda Ranchinho Airport",
-      "elevation_ft": 1788.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Aporé",
-      "coordinates": "-18.833332, -51.791111"
     },
     {
       "ident": "SNWM",
@@ -74662,17 +75520,6 @@
       "gps_code": "SNWW",
       "local_code": "SP0736",
       "coordinates": "-23.590501, -46.258624"
-    },
-    {
-      "ident": "SNWX",
-      "type": "closed",
-      "name": "Newton Heliport",
-      "elevation_ft": 2001.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Limeira",
-      "coordinates": "-22.5388889313, -47.419445037799996"
     },
     {
       "ident": "SNWY",
@@ -76656,6 +77503,71 @@
       "coordinates": "-5.639585, -45.230105"
     },
     {
+      "ident": "SS8P",
+      "type": "heliport",
+      "name": "Macaé d'Or Hospital Helipad",
+      "elevation_ft": 125.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Macaé",
+      "gps_code": "SS8P",
+      "local_code": "RJ0351",
+      "coordinates": "-22.390942, -41.810036"
+    },
+    {
+      "ident": "SS8Q",
+      "type": "heliport",
+      "name": "Topázio Heliport",
+      "elevation_ft": 4249.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Nova Lima",
+      "gps_code": "SS8Q",
+      "local_code": "MG0624",
+      "coordinates": "-20.133767, -43.962228"
+    },
+    {
+      "ident": "SS8R",
+      "type": "small_airport",
+      "name": "Fazenda Passo do Lobo Airport",
+      "elevation_ft": 1387.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nova Mutum",
+      "gps_code": "SS8R",
+      "local_code": "MT1079",
+      "coordinates": "-13.775646, -56.145022"
+    },
+    {
+      "ident": "SS8S",
+      "type": "small_airport",
+      "name": "Agropecuária BIM - Fazenda Cristalina Airport",
+      "elevation_ft": 2520.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Guiratinga",
+      "gps_code": "SS8S",
+      "local_code": "MT1093",
+      "coordinates": "-16.263142, -53.397239"
+    },
+    {
+      "ident": "SS8T",
+      "type": "small_airport",
+      "name": "Fazenda Paiabanha Airstrip",
+      "elevation_ft": 1436.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-TO",
+      "municipality": "Monte do Carmo",
+      "gps_code": "SS8T",
+      "local_code": "TO0141",
+      "coordinates": "-10.350053, -47.958014"
+    },
+    {
       "ident": "SSAA",
       "type": "heliport",
       "name": "Hospital da Unimed Heliport",
@@ -76680,17 +77592,6 @@
       "gps_code": "SSAB",
       "local_code": "PR0024",
       "coordinates": "-23.762199, -50.263"
-    },
-    {
-      "ident": "SSAC",
-      "type": "closed",
-      "name": "Fazenda Santana Airport",
-      "elevation_ft": 426.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Aquidauana",
-      "coordinates": "-19.708055, -55.421112"
     },
     {
       "ident": "SSAD",
@@ -77072,17 +77973,6 @@
       "coordinates": "-11.85146, -46.302258"
     },
     {
-      "ident": "SSBJ",
-      "type": "closed",
-      "name": "Bom Jesus Airport",
-      "elevation_ft": 3514.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Bom Jesus",
-      "coordinates": "-28.605654, -50.451363"
-    },
-    {
       "ident": "SSBK",
       "type": "small_airport",
       "name": "Fazenda Araruna Airport",
@@ -77108,17 +77998,6 @@
       "iata_code": "BNU",
       "local_code": "SC0019",
       "coordinates": "-26.831661, -49.093569"
-    },
-    {
-      "ident": "SSBM",
-      "type": "closed",
-      "name": "Fazenda Lageado Airport",
-      "elevation_ft": 650.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Dois Irmãos do Buriti",
-      "coordinates": "-20.291135, -55.44717"
     },
     {
       "ident": "SSBN",
@@ -77270,17 +78149,6 @@
       "gps_code": "SSBY",
       "local_code": "MS0254",
       "coordinates": "-20.099501, -56.7939"
-    },
-    {
-      "ident": "SSBZ",
-      "type": "closed",
-      "name": "Aeroclube Airport",
-      "elevation_ft": 56.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Sapiranga",
-      "coordinates": "-29.676111, -50.981388"
     },
     {
       "ident": "SSCA",
@@ -77598,17 +78466,6 @@
       "coordinates": "-25.438472, -49.448541"
     },
     {
-      "ident": "SSCZ",
-      "type": "closed",
-      "name": "Tenoar Airport",
-      "elevation_ft": 2664.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Chapadão Do Sul",
-      "coordinates": "-18.811943, -52.639168"
-    },
-    {
       "ident": "SSDA",
       "type": "heliport",
       "name": "Água Mansa Heliport",
@@ -77620,28 +78477,6 @@
       "gps_code": "SSDA",
       "local_code": "SP0746",
       "coordinates": "-23.741404, -45.404187"
-    },
-    {
-      "ident": "SSDB",
-      "type": "closed",
-      "name": "Fazenda Kurupay Airport",
-      "elevation_ft": 1280.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Angélica",
-      "coordinates": "-22.036142, -53.735837"
-    },
-    {
-      "ident": "SSDC",
-      "type": "closed",
-      "name": "Dionísio Cerqueira Airport",
-      "elevation_ft": 2723.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SC",
-      "municipality": "Dionísio Cerqueira",
-      "coordinates": "-26.288344, -53.6308"
     },
     {
       "ident": "SSDD",
@@ -77690,17 +78525,6 @@
       "gps_code": "SNXZ",
       "local_code": "PI0033",
       "coordinates": "-9.335862, -45.57298"
-    },
-    {
-      "ident": "SSDH",
-      "type": "closed",
-      "name": "Fazenda Caranday Airport",
-      "elevation_ft": 541.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Corumbá",
-      "coordinates": "-20.205557, -57.063332"
     },
     {
       "ident": "SSDI",
@@ -77908,28 +78732,6 @@
       "iso_region": "BR-MT",
       "municipality": "Guiratinga",
       "coordinates": "-16.156667, -53.009722"
-    },
-    {
-      "ident": "SSDZ",
-      "type": "closed",
-      "name": "Fazenda Divisão Airport",
-      "elevation_ft": 1312.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Amambaí",
-      "coordinates": "-23.133888, -54.633888"
-    },
-    {
-      "ident": "SSEA",
-      "type": "closed",
-      "name": "Spessato Aviacao Agricola Airport",
-      "elevation_ft": 1470.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Dourados",
-      "coordinates": "-22.215900421142578, -54.74190139770508"
     },
     {
       "ident": "SSEB",
@@ -78479,17 +79281,6 @@
       "coordinates": "-13.332545, -58.782143"
     },
     {
-      "ident": "SSFT",
-      "type": "closed",
-      "name": "Fazenda Thoma Airport",
-      "elevation_ft": 1111.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Nova Andradina",
-      "coordinates": "-21.65920066833496, -53.51110076904297"
-    },
-    {
       "ident": "SSFU",
       "type": "small_airport",
       "name": "Fazenda Ligação Airport",
@@ -78499,17 +79290,6 @@
       "iso_region": "BR-MS",
       "municipality": "Sete Quedas",
       "coordinates": "-23.848056793213, -54.816112518311"
-    },
-    {
-      "ident": "SSFV",
-      "type": "closed",
-      "name": "Fazenda Recreio 3 Airport",
-      "elevation_ft": 1509.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Ribas do Rio Pardo",
-      "coordinates": "-20.207542, -53.778935"
     },
     {
       "ident": "SSFW",
@@ -78743,17 +79523,6 @@
       "municipality": "Brasília",
       "gps_code": "SSGP",
       "coordinates": "-15.854347, -47.808685"
-    },
-    {
-      "ident": "SSGQ",
-      "type": "closed",
-      "name": "Fazenda São Francisco Airport",
-      "elevation_ft": 1099.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Água Clara",
-      "coordinates": "-19.3808326721, -53.0416679382"
     },
     {
       "ident": "SSGR",
@@ -79264,17 +80033,6 @@
       "coordinates": "-20.946947, -52.721681"
     },
     {
-      "ident": "SSII",
-      "type": "closed",
-      "name": "Fazenda Orion Airport",
-      "elevation_ft": 1001.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Bela Vista",
-      "coordinates": "-22.024088, -56.325231"
-    },
-    {
       "ident": "SSIJ",
       "type": "small_airport",
       "name": "João Batista Bos Filho Airport",
@@ -79512,17 +80270,6 @@
       "gps_code": "SSRJ",
       "local_code": "RS0099",
       "coordinates": "-29.983505, -51.301625"
-    },
-    {
-      "ident": "SSJD",
-      "type": "closed",
-      "name": "Viana III Heliport",
-      "elevation_ft": 13.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SC",
-      "municipality": "Balneário Camboriú",
-      "coordinates": "-27.007644, -48.610543"
     },
     {
       "ident": "SSJE",
@@ -80114,17 +80861,6 @@
       "coordinates": "-28.3225002289, -52.8162002563"
     },
     {
-      "ident": "SSLA",
-      "type": "closed",
-      "name": "Laguna-Anita Garibaldi Airport",
-      "elevation_ft": 20.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SC",
-      "municipality": "Laguna",
-      "coordinates": "-28.389, -48.754051"
-    },
-    {
       "ident": "SSLB",
       "type": "small_airport",
       "name": "Fazenda São Paulino Airport",
@@ -80424,17 +81160,6 @@
       "iso_region": "BR-MS",
       "municipality": "Ivinhema",
       "coordinates": "-22.512005, -53.670661"
-    },
-    {
-      "ident": "SSMA",
-      "type": "closed",
-      "name": "Marrecão Airport",
-      "elevation_ft": 68.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SC",
-      "municipality": "Brusque",
-      "coordinates": "-27.065844, -48.889318"
     },
     {
       "ident": "SSMB",
@@ -80780,17 +81505,6 @@
       "coordinates": "-11.16, -52.82"
     },
     {
-      "ident": "SSNE",
-      "type": "closed",
-      "name": "Fazenda São Benedito Airport",
-      "elevation_ft": 394.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Corumbá",
-      "coordinates": "-18.42, -56.46"
-    },
-    {
       "ident": "SSNF",
       "type": "small_airport",
       "name": "Fazenda Naisa Airport",
@@ -80899,17 +81613,6 @@
       "iso_region": "BR-MG",
       "municipality": "João Pinheiro",
       "coordinates": "-17.197500228882, -45.776668548584"
-    },
-    {
-      "ident": "SSNO",
-      "type": "closed",
-      "name": "Nonoaí Airport",
-      "elevation_ft": 1969.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Nonoaí",
-      "coordinates": "-27.369023, -52.763246"
     },
     {
       "ident": "SSNP",
@@ -81449,17 +82152,6 @@
       "coordinates": "-23.089899, -52.488499"
     },
     {
-      "ident": "SSPJ",
-      "type": "closed",
-      "name": "Fazenda Reserva Airport",
-      "elevation_ft": 3438.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PR",
-      "municipality": "Reserva Do Iguaçu",
-      "coordinates": "-25.849569, -52.014685"
-    },
-    {
       "ident": "SSPK",
       "type": "small_airport",
       "name": "Porecatu Airport",
@@ -81521,17 +82213,6 @@
       "municipality": "Itaporã",
       "gps_code": "SSPO",
       "coordinates": "-22.009166717499998, -54.789722442599995"
-    },
-    {
-      "ident": "SSPP",
-      "type": "closed",
-      "name": "Fazenda Palma Airport",
-      "elevation_ft": 39.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Pelotas",
-      "coordinates": "-31.654005, -52.206622"
     },
     {
       "ident": "SSPQ",
@@ -81636,17 +82317,6 @@
       "gps_code": "SSPY",
       "local_code": "MS9001",
       "coordinates": "-17.672559, -57.748711"
-    },
-    {
-      "ident": "SSPZ",
-      "type": "closed",
-      "name": "Fazenda Princesa do Sul Airport",
-      "elevation_ft": 1053.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Japoré",
-      "coordinates": "-23.771099090576172, -54.677799224853516"
     },
     {
       "ident": "SSQA",
@@ -81774,17 +82444,6 @@
       "coordinates": "-23.572749, -46.703256"
     },
     {
-      "ident": "SSQK",
-      "type": "closed",
-      "name": "Viaoeste - Castelo III Heliport",
-      "elevation_ft": 2467.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Barueri",
-      "coordinates": "-23.506069, -46.855314"
-    },
-    {
       "ident": "SSQL",
       "type": "small_airport",
       "name": "Fazenda Matrichã Airport",
@@ -81840,17 +82499,6 @@
       "gps_code": "SSQP",
       "local_code": "BA0061",
       "coordinates": "-10.464823, -39.286476"
-    },
-    {
-      "ident": "SSQQ",
-      "type": "closed",
-      "name": "Pedra do Sino Heliport",
-      "elevation_ft": 3596.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Carandaí",
-      "coordinates": "-20.899445, -43.818611"
     },
     {
       "ident": "SSQR",
@@ -82059,17 +82707,6 @@
       "gps_code": "SJF9",
       "local_code": "MS0709",
       "coordinates": "-20.778055, -55.982938"
-    },
-    {
-      "ident": "SSRI",
-      "type": "closed",
-      "name": "Fazenda dos Sonhos Airport",
-      "elevation_ft": 551.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Anastácio",
-      "coordinates": "-20.762013, -56.032548"
     },
     {
       "ident": "SSRJ",
@@ -82329,17 +82966,6 @@
       "municipality": "Araucária",
       "gps_code": "SSSE",
       "coordinates": "-25.57666778564453, -49.393611907958984"
-    },
-    {
-      "ident": "SSSF",
-      "type": "closed",
-      "name": "Fazenda San Marino Airport",
-      "elevation_ft": 1476.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Tres Lagoas",
-      "coordinates": "-20.10219955444336, -52.44390106201172"
     },
     {
       "ident": "SSSG",
@@ -83319,17 +83945,6 @@
       "coordinates": "-22.410278320312, -54.988609313965"
     },
     {
-      "ident": "SSVR",
-      "type": "closed",
-      "name": "Volta Redonda Airport",
-      "elevation_ft": 1245.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RJ",
-      "municipality": "Volta Redonda",
-      "coordinates": "-22.4978, -44.085"
-    },
-    {
       "ident": "SSVS",
       "type": "heliport",
       "name": "Zezé Heliport",
@@ -83427,28 +84042,6 @@
       "coordinates": "-21.163333, -47.754722"
     },
     {
-      "ident": "SSWA",
-      "type": "closed",
-      "name": "Venâncio Aires Airport",
-      "elevation_ft": 226.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Venâncio Aires",
-      "coordinates": "-29.6131, -52.217201"
-    },
-    {
-      "ident": "SSWB",
-      "type": "closed",
-      "name": "Fazenda Sorte Grande Airport",
-      "elevation_ft": 2339.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PR",
-      "municipality": "Roncador",
-      "coordinates": "-24.61, -52.36"
-    },
-    {
       "ident": "SSWC",
       "type": "small_airport",
       "name": "Fazenda Campo Verde Airport",
@@ -83458,17 +84051,6 @@
       "iso_region": "BR-MS",
       "municipality": "Costa Rica",
       "coordinates": "-18.92212, -53.062763"
-    },
-    {
-      "ident": "SSWD",
-      "type": "closed",
-      "name": "Irai - Vicente Dutra Airport",
-      "elevation_ft": 1152.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RS",
-      "municipality": "Irai",
-      "coordinates": "-27.193945, -53.236384"
     },
     {
       "ident": "SSWE",
@@ -83844,17 +84426,6 @@
       "coordinates": "-19.4658336639, -39.7583312988"
     },
     {
-      "ident": "SSXK",
-      "type": "closed",
-      "name": "Fazenda Alvorada do Marape Airport",
-      "elevation_ft": 1001.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Tapurá",
-      "coordinates": "-12.887366, -56.736478"
-    },
-    {
       "ident": "SSXL",
       "type": "small_airport",
       "name": "Laguna Airport",
@@ -83964,17 +84535,6 @@
       "coordinates": "-22.977676, -43.390267"
     },
     {
-      "ident": "SSXU",
-      "type": "closed",
-      "name": "Fazenda Fartura Airport",
-      "elevation_ft": 276.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PA",
-      "municipality": "Tomé Açu",
-      "coordinates": "-3.159407, -48.543434"
-    },
-    {
       "ident": "SSXV",
       "type": "small_airport",
       "name": "Fazenda Santa Rita Airport",
@@ -84035,17 +84595,6 @@
       "municipality": "Iturama",
       "gps_code": "SSXZ",
       "coordinates": "-19.747499465942383, -50.12916564941406"
-    },
-    {
-      "ident": "SSYA",
-      "type": "closed",
-      "name": "Avelino Vieira Airport",
-      "elevation_ft": 2641.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-PR",
-      "municipality": "Arapoti",
-      "coordinates": "-24.103901, -49.789101"
     },
     {
       "ident": "SSYB",
@@ -84890,17 +85439,6 @@
       "coordinates": "3.551929, -63.169445"
     },
     {
-      "ident": "SWAF",
-      "type": "closed",
-      "name": "Agroer Aviação Agrícola Airport",
-      "elevation_ft": 827.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Rondonópolis",
-      "coordinates": "-16.483887, -54.667221"
-    },
-    {
       "ident": "SWAG",
       "type": "small_airport",
       "name": "Agrícola Rio Galhão Airport",
@@ -84977,17 +85515,6 @@
       "coordinates": "-23.64966, -49.151692"
     },
     {
-      "ident": "SWAN",
-      "type": "closed",
-      "name": "Arenápolis Airport",
-      "elevation_ft": 1329.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Arenápolis",
-      "coordinates": "-14.500278, -57.017223"
-    },
-    {
       "ident": "SWAO",
       "type": "small_airport",
       "name": "Anamoim Airport",
@@ -84999,17 +85526,6 @@
       "gps_code": "SWAO",
       "local_code": "AM0043",
       "coordinates": "1.785851, -67.406097"
-    },
-    {
-      "ident": "SWAP",
-      "type": "closed",
-      "name": "Fazenda Apemag Airport",
-      "elevation_ft": 951.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Barra do Bugres",
-      "coordinates": "-15.333611, -57.317223"
     },
     {
       "ident": "SWAQ",
@@ -85073,17 +85589,6 @@
       "coordinates": "-19.948255, -48.583883"
     },
     {
-      "ident": "SWAV",
-      "type": "closed",
-      "name": "Fazenda Água Verde Airport",
-      "elevation_ft": 2037.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Diamantino",
-      "coordinates": "-14.072778, -57.454723"
-    },
-    {
       "ident": "SWAW",
       "type": "heliport",
       "name": "Anatel Heliport",
@@ -85131,17 +85636,6 @@
       "gps_code": "SWAZ",
       "local_code": "AM0044",
       "coordinates": "0.399722, -69.300552"
-    },
-    {
-      "ident": "SWBA",
-      "type": "closed",
-      "name": "Buriti Alegre Airport",
-      "elevation_ft": 2848.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Buriti Alegre",
-      "coordinates": "-18.116373, -49.048877"
     },
     {
       "ident": "SWBB",
@@ -85342,17 +85836,6 @@
       "iata_code": "RBB",
       "local_code": "AM0018",
       "coordinates": "-4.40634, -59.602402"
-    },
-    {
-      "ident": "SWBS",
-      "type": "closed",
-      "name": "Brasileia Airport",
-      "elevation_ft": 489.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AC",
-      "municipality": "Brasileila",
-      "coordinates": "-11.0169, -68.733902"
     },
     {
       "ident": "SWBT",
@@ -86148,17 +86631,6 @@
       "coordinates": "-6.63953, -69.879799"
     },
     {
-      "ident": "SWEJ",
-      "type": "closed",
-      "name": "Fazenda Marazul Airport",
-      "elevation_ft": 479.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Barão de Melgaço",
-      "coordinates": "-16.541854, -55.91845"
-    },
-    {
       "ident": "SWEK",
       "type": "small_airport",
       "name": "Canarana Airport",
@@ -86233,17 +86705,6 @@
       "coordinates": "-22.804612, -50.984144"
     },
     {
-      "ident": "SWEQ",
-      "type": "closed",
-      "name": "Fazenda Marazul III Airport",
-      "elevation_ft": 505.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Barão De Melgaço",
-      "coordinates": "-16.591400146484375, -55.986698150634766"
-    },
-    {
       "ident": "SWER",
       "type": "small_airport",
       "name": "Estância Santana Airport",
@@ -86253,17 +86714,6 @@
       "iso_region": "BR-MT",
       "municipality": "Cuiabá",
       "coordinates": "-15.469677, -56.051903"
-    },
-    {
-      "ident": "SWES",
-      "type": "closed",
-      "name": "ESAT Aerotáxi Heliport",
-      "elevation_ft": 3678.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-DF",
-      "municipality": "Brasília",
-      "coordinates": "-15.791, -47.8948"
     },
     {
       "ident": "SWET",
@@ -86290,17 +86740,6 @@
       "gps_code": "SIRR",
       "local_code": "RR0031",
       "coordinates": "0.797558, -61.662983"
-    },
-    {
-      "ident": "SWEV",
-      "type": "closed",
-      "name": "Fazenda Piraim Airport",
-      "elevation_ft": 446.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Nossa Senhora Do Livramento",
-      "coordinates": "-16.251699447631836, -56.087501525878906"
     },
     {
       "ident": "SWEW",
@@ -86449,17 +86888,6 @@
       "iso_region": "BR-SP",
       "municipality": "Vargem Grande Paulista",
       "coordinates": "-23.605001, -47.01"
-    },
-    {
-      "ident": "SWFJ",
-      "type": "closed",
-      "name": "Alcimar Leitão Airport",
-      "elevation_ft": 394.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AC",
-      "municipality": "Feijó",
-      "coordinates": "-8.16558, -70.352997"
     },
     {
       "ident": "SWFK",
@@ -86692,17 +87120,6 @@
       "coordinates": "-17.006745, -56.47934"
     },
     {
-      "ident": "SWGF",
-      "type": "closed",
-      "name": "Jirau Hydroelectric Plant Airport",
-      "elevation_ft": 295.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RO",
-      "municipality": "Jaci Paraná",
-      "coordinates": "-9.288032, -64.625487"
-    },
-    {
       "ident": "SWGH",
       "type": "small_airport",
       "name": "Fazenda Primavera Airport",
@@ -86728,17 +87145,6 @@
       "iata_code": "GRP",
       "local_code": "TO0004",
       "coordinates": "-11.7396, -49.132198"
-    },
-    {
-      "ident": "SWGJ",
-      "type": "closed",
-      "name": "Fazenda São Jorge Airstrip",
-      "elevation_ft": 1885.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Itaruma",
-      "coordinates": "-18.6448, -51.4828"
     },
     {
       "ident": "SWGK",
@@ -86826,17 +87232,6 @@
       "municipality": "Nova Olímpia",
       "gps_code": "SWGQ",
       "coordinates": "-14.78083324432373, -57.35416793823242"
-    },
-    {
-      "ident": "SWGR",
-      "type": "closed",
-      "name": "Alto Garças Airport",
-      "elevation_ft": 2707.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Alto Garças",
-      "coordinates": "-16.92, -53.54"
     },
     {
       "ident": "SWGS",
@@ -87009,17 +87404,6 @@
       "iso_region": "BR-TO",
       "municipality": "Porto Nacional",
       "coordinates": "-10.490778, -48.3372"
-    },
-    {
-      "ident": "SWHG",
-      "type": "closed",
-      "name": "Santa Helena de Goiás Airport",
-      "elevation_ft": 1591.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Santa Helena de Goiás",
-      "coordinates": "-17.827238, -50.588033"
     },
     {
       "ident": "SWHI",
@@ -87679,17 +88063,6 @@
       "coordinates": "-11.419444, -58.701668"
     },
     {
-      "ident": "SWJO",
-      "type": "closed",
-      "name": "Fazenda São Paulo - Retiro Santa Maria Airport",
-      "elevation_ft": 984.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Britânia",
-      "coordinates": "-15.14, -51.254444"
-    },
-    {
       "ident": "SWJP",
       "type": "small_airport",
       "name": "Bittencourt Airport",
@@ -87913,17 +88286,6 @@
       "coordinates": "-15.398056030273438, -54.608333587646484"
     },
     {
-      "ident": "SWKK",
-      "type": "closed",
-      "name": "Old Cacoal Airport",
-      "elevation_ft": 640.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RO",
-      "municipality": "Cacoal",
-      "coordinates": "-11.43, -61.48"
-    },
-    {
       "ident": "SWKL",
       "type": "small_airport",
       "name": "Fazenda Primavera do Terebinto Airport",
@@ -88141,17 +88503,6 @@
       "coordinates": "-14.88405, -45.338569"
     },
     {
-      "ident": "SWLE",
-      "type": "closed",
-      "name": "Pontes e Lacerda Airport",
-      "elevation_ft": 1148.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Pontes E Lacerda",
-      "coordinates": "-15.231111, -59.34111"
-    },
-    {
       "ident": "SWLF",
       "type": "small_airport",
       "name": "Fazenda Dona Laura Airport",
@@ -88162,17 +88513,6 @@
       "municipality": "São José Dos Quatro Marcos",
       "gps_code": "SWLF",
       "coordinates": "-15.620278358459473, -58.20888900756836"
-    },
-    {
-      "ident": "SWLG",
-      "type": "closed",
-      "name": "Recanto Airport",
-      "elevation_ft": 1335.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Ribeirão Cascalheira",
-      "coordinates": "-12.99667, -51.906681"
     },
     {
       "ident": "SWLI",
@@ -88651,17 +88991,6 @@
       "coordinates": "-9.400047, -58.229372"
     },
     {
-      "ident": "SWND",
-      "type": "closed",
-      "name": "Tamboré  Heliport",
-      "elevation_ft": 2444.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Barueri",
-      "coordinates": "-23.509953, -46.825332"
-    },
-    {
       "ident": "SWNE",
       "type": "small_airport",
       "name": "Nelson Saldanha Airport",
@@ -88796,17 +89125,6 @@
       "coordinates": "-3.888357, -59.07998"
     },
     {
-      "ident": "SWNP",
-      "type": "closed",
-      "name": "Novo Paraiso Airport",
-      "elevation_ft": 213.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-RR",
-      "municipality": "Novo Paraiso",
-      "coordinates": "1.2381900548934937, -60.48630142211914"
-    },
-    {
       "ident": "SWNQ",
       "type": "small_airport",
       "name": "Niquelândia Airport",
@@ -88819,17 +89137,6 @@
       "iata_code": "NQL",
       "local_code": "GO0016",
       "coordinates": "-14.434869, -48.491615"
-    },
-    {
-      "ident": "SWNR",
-      "type": "closed",
-      "name": "Nortelândia Airport",
-      "elevation_ft": 1460.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Nortelândia",
-      "coordinates": "-14.473833, -56.766895"
     },
     {
       "ident": "SWNS",
@@ -89111,17 +89418,6 @@
       "coordinates": "-9.785799, -57.621937"
     },
     {
-      "ident": "SWOQ",
-      "type": "closed",
-      "name": "Fazenda Surucucu Airport",
-      "elevation_ft": 3148.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-GO",
-      "municipality": "Luziânia",
-      "coordinates": "-16.743335, -47.991669"
-    },
-    {
       "ident": "SWOR",
       "type": "small_airport",
       "name": "Fazenda Colorado Airport",
@@ -89227,17 +89523,6 @@
       "coordinates": "-15.310556411743164, -54.899166107177734"
     },
     {
-      "ident": "SWPA",
-      "type": "closed",
-      "name": "Pedro Afonso Airport",
-      "elevation_ft": 630.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-TO",
-      "municipality": "Pedro Afonso",
-      "coordinates": "-8.997572, -48.155372"
-    },
-    {
       "ident": "SWPB",
       "type": "small_airport",
       "name": "Forte Príncipe da Beira Airport",
@@ -89301,17 +89586,6 @@
       "gps_code": "SWPF",
       "local_code": "RO0032",
       "coordinates": "-13.45975, -61.234277"
-    },
-    {
-      "ident": "SWPG",
-      "type": "closed",
-      "name": "Porto dos Gaúchos Airport",
-      "elevation_ft": 1312.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Porto dos Gaúchos",
-      "coordinates": "-11.5404, -57.3782"
     },
     {
       "ident": "SWPH",
@@ -89451,17 +89725,6 @@
       "coordinates": "-17.319099, -48.334801"
     },
     {
-      "ident": "SWPS",
-      "type": "closed",
-      "name": "Porto São Sebastião Airport",
-      "elevation_ft": 1106.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Diamantino",
-      "coordinates": "-12.966944, -56.183887"
-    },
-    {
       "ident": "SWPT",
       "type": "small_airport",
       "name": "Fazenda Piratinga Airport",
@@ -89484,17 +89747,6 @@
       "gps_code": "SWPU",
       "local_code": "SP0823",
       "coordinates": "-23.278577, -47.716232"
-    },
-    {
-      "ident": "SWPV",
-      "type": "closed",
-      "name": "Planaltina Airport",
-      "elevation_ft": 3822.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-DF",
-      "municipality": "Brasília",
-      "coordinates": "-15.680044, -47.540225"
     },
     {
       "ident": "SWPW",
@@ -90388,17 +90640,6 @@
       "coordinates": "-13.7502784729, -55.633888244629"
     },
     {
-      "ident": "SWSS",
-      "type": "closed",
-      "name": "Fazenda Silmar Airport",
-      "elevation_ft": 863.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Vila Bela Da Santíssima Trindade",
-      "coordinates": "-16.165, -60.114445"
-    },
-    {
       "ident": "SWST",
       "type": "small_airport",
       "name": "Santa Terezinha Airport",
@@ -90446,17 +90687,6 @@
       "coordinates": "-15.779737, -47.913247"
     },
     {
-      "ident": "SWSX",
-      "type": "closed",
-      "name": "Seringal Nova Olinda Airport",
-      "elevation_ft": 673.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AC",
-      "municipality": "Sena Madureira",
-      "coordinates": "-10.100445, -69.21258"
-    },
-    {
       "ident": "SWSY",
       "type": "small_airport",
       "name": "São Simão Airport",
@@ -90502,17 +90732,6 @@
       "iso_region": "BR-RO",
       "municipality": "Ariquemes",
       "coordinates": "-8.9169435501099, -62.117221832275"
-    },
-    {
-      "ident": "SWTC",
-      "type": "closed",
-      "name": "Tocantínia Airport",
-      "elevation_ft": 656.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-TO",
-      "municipality": "Tocantínia",
-      "coordinates": "-9.545695, -48.399067"
     },
     {
       "ident": "SWTD",
@@ -90622,17 +90841,6 @@
       "gps_code": "SWTL",
       "local_code": "SWTL",
       "coordinates": "-12.500555992126465, -61.28361129760742"
-    },
-    {
-      "ident": "SWTM",
-      "type": "closed",
-      "name": "Fazenda Santos Reis Airport",
-      "elevation_ft": 879.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Porto Esperidião",
-      "coordinates": "-16.266666, -59.150002"
     },
     {
       "ident": "SWTN",
@@ -90825,17 +91033,6 @@
       "coordinates": "-15.674167, -59.191666"
     },
     {
-      "ident": "SWUC",
-      "type": "closed",
-      "name": "Luciára Airport",
-      "elevation_ft": 689.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Luciára",
-      "coordinates": "-11.231673, -50.672544"
-    },
-    {
       "ident": "SWUD",
       "type": "small_airport",
       "name": "Cláudio Airport",
@@ -90952,17 +91149,6 @@
       "iso_region": "BR-MT",
       "municipality": "Nova Monte Verde",
       "coordinates": "-10.166063, -57.554777"
-    },
-    {
-      "ident": "SWUO",
-      "type": "closed",
-      "name": "Fazenda Santo André Airport",
-      "elevation_ft": 1529.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Nova Mutum",
-      "coordinates": "-13.686388969400001, -55.9872207642"
     },
     {
       "ident": "SWUQ",
@@ -91110,17 +91296,6 @@
       "coordinates": "-17.984285, -52.574043"
     },
     {
-      "ident": "SWVE",
-      "type": "closed",
-      "name": "Fazenda Vista Alegre Airport",
-      "elevation_ft": 666.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AC",
-      "municipality": "Bujari",
-      "coordinates": "-9.788611, -68.007225"
-    },
-    {
       "ident": "SWVF",
       "type": "small_airport",
       "name": "Fazenda Sto Antônio Guaporé - Sede Nova Airport",
@@ -91157,17 +91332,6 @@
       "gps_code": "SBQD",
       "local_code": "MT0694",
       "coordinates": "-9.523333, -56.238333"
-    },
-    {
-      "ident": "SWVI",
-      "type": "closed",
-      "name": "Fazenda Pirassununga Airport",
-      "elevation_ft": 787.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-TO",
-      "municipality": "São Valério",
-      "coordinates": "-11.517778, -48.31111"
     },
     {
       "ident": "SWVJ",
@@ -91762,17 +91926,6 @@
       "coordinates": "-13.877607, -53.238895"
     },
     {
-      "ident": "SWXF",
-      "type": "closed",
-      "name": "Chácara Córrego Fundo Airport",
-      "elevation_ft": 630.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Cuiabá",
-      "coordinates": "-15.59, -56.05"
-    },
-    {
       "ident": "SWXG",
       "type": "small_airport",
       "name": "Xingu Airport",
@@ -92050,17 +92203,6 @@
       "coordinates": "-15.693403, -58.107917"
     },
     {
-      "ident": "SWYD",
-      "type": "closed",
-      "name": "Cotia Foods S/A Heliport",
-      "elevation_ft": 2707.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Cotia",
-      "coordinates": "-23.6191673279, -46.881942749"
-    },
-    {
       "ident": "SWYE",
       "type": "small_airport",
       "name": "Fazenda São Lourenço Airstrip",
@@ -92072,17 +92214,6 @@
       "gps_code": "SWYE",
       "local_code": "RS0172",
       "coordinates": "-29.555833, -55.784444"
-    },
-    {
-      "ident": "SWYF",
-      "type": "closed",
-      "name": "Minas Empreendimentos Heliport",
-      "elevation_ft": 2979.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MG",
-      "municipality": "Contagem",
-      "coordinates": "-19.901388, -44.06472"
     },
     {
       "ident": "SWYG",
@@ -92142,17 +92273,6 @@
       "gps_code": "SWYK",
       "local_code": "MT0437",
       "coordinates": "-17.062599, -56.583698"
-    },
-    {
-      "ident": "SWYL",
-      "type": "closed",
-      "name": "Autódromo José Carlos Pace Heliport",
-      "elevation_ft": 2595.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "coordinates": "-23.7033, -46.6995"
     },
     {
       "ident": "SWYM",
@@ -92548,17 +92668,6 @@
       "coordinates": "-15.845633, -51.072487"
     },
     {
-      "ident": "SWZR",
-      "type": "closed",
-      "name": "Fazenda Ponto de Apoio Airport",
-      "elevation_ft": 1319.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Água Clara",
-      "coordinates": "-20.463225, -52.686535"
-    },
-    {
       "ident": "SWZS",
       "type": "small_airport",
       "name": "Fazenda Nova Larga Airport",
@@ -92583,28 +92692,6 @@
       "gps_code": "SWZT",
       "local_code": "MG0210",
       "coordinates": "-19.254999, -44.473331"
-    },
-    {
-      "ident": "SWZU",
-      "type": "closed",
-      "name": "Fazenda Rodoserv I Airport",
-      "elevation_ft": 1001.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Ivinhema",
-      "coordinates": "-22.472779, -52.595833"
-    },
-    {
-      "ident": "SWZV",
-      "type": "closed",
-      "name": "Fazenda Rodoserv III Airport",
-      "elevation_ft": 1001.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MS",
-      "municipality": "Bela Vista",
-      "coordinates": "-21.868957, -56.771121"
     },
     {
       "ident": "SWZW",
@@ -92653,28 +92740,6 @@
       "gps_code": "SWZZ",
       "local_code": "SC0101",
       "coordinates": "-26.263237, -48.858604"
-    },
-    {
-      "ident": "TUZ",
-      "type": "closed",
-      "name": "Tucuma Airport",
-      "elevation_ft": 59.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-AM",
-      "municipality": "Tucuma",
-      "coordinates": "-3.9670000076293945, -66.43299865722656"
-    },
-    {
-      "ident": "URB",
-      "type": "closed",
-      "name": "Urubupunga Airport",
-      "elevation_ft": 1169.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "Castilho",
-      "coordinates": "-20.7771, -51.5648"
     },
     {
       "ident": "XIG",

@@ -2,7 +2,7 @@
   "country_code": "IT",
   "country_name": "Italy",
   "total_airports": 942,
-  "last_updated": "2025-02-27T00:08:24.695679",
+  "last_updated": "2025-02-28T00:08:11.969622",
   "types_distribution": {
     "small_airport": 581,
     "closed": 119,
@@ -8971,6 +8971,69 @@
       "coordinates": "44.65734, 7.44981"
     },
     {
+      "ident": "IT-0802",
+      "type": "closed",
+      "name": "Vicenza Airport",
+      "elevation_ft": 128.0,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-34",
+      "municipality": "Vicenza (VI)",
+      "coordinates": "45.573399, 11.5295"
+    },
+    {
+      "ident": "IT-0803",
+      "type": "closed",
+      "name": "Martina Franca Air Force Base",
+      "elevation_ft": 1467.0,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-75",
+      "municipality": "Martina Franca",
+      "coordinates": "40.700001, 17.333"
+    },
+    {
+      "ident": "IT-0804",
+      "type": "closed",
+      "name": "Mantova Airport",
+      "elevation_ft": 57.0,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-25",
+      "municipality": "Mantova",
+      "coordinates": "45.135834, 10.794444"
+    },
+    {
+      "ident": "IT-0805",
+      "type": "closed",
+      "name": "Cerrina Airfield",
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-21",
+      "municipality": "Bruino (TO)",
+      "coordinates": "45.005, 7.492778"
+    },
+    {
+      "ident": "IT-0806",
+      "type": "closed",
+      "name": "San Leo Airfield",
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-57",
+      "municipality": "San Leo (RN)",
+      "coordinates": "43.918255, 12.319971"
+    },
+    {
+      "ident": "IT-0807",
+      "type": "closed",
+      "name": "Vigna di Valle",
+      "elevation_ft": 886.0,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-62",
+      "coordinates": "42.0844444, 12.2183333"
+    },
+    {
       "ident": "IT-TQR",
       "type": "heliport",
       "name": "San Domino Island Heliport",
@@ -9229,17 +9292,6 @@
       "gps_code": "LIBV",
       "local_code": "BA07",
       "coordinates": "40.767799, 16.9333"
-    },
-    {
-      "ident": "LIBX",
-      "type": "closed",
-      "name": "Martina Franca Air Force Base",
-      "elevation_ft": 1467.0,
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-75",
-      "municipality": "Martina Franca",
-      "coordinates": "40.700001, 17.333"
     },
     {
       "ident": "LICA",
@@ -9522,17 +9574,6 @@
       "coordinates": "45.129259, 11.293344"
     },
     {
-      "ident": "LIDM",
-      "type": "closed",
-      "name": "Mantova Airport",
-      "elevation_ft": 57.0,
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-25",
-      "municipality": "Mantova",
-      "coordinates": "45.135834, 10.794444"
-    },
-    {
       "ident": "LIDP",
       "type": "small_airport",
       "name": "Pavullo Airfield",
@@ -9558,16 +9599,6 @@
       "iata_code": "RAN",
       "local_code": "RA06",
       "coordinates": "44.364291, 12.224996"
-    },
-    {
-      "ident": "LIDS",
-      "type": "closed",
-      "name": "San Leo Airfield",
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-57",
-      "municipality": "San Leo (RN)",
-      "coordinates": "43.918255, 12.319971"
     },
     {
       "ident": "LIDT",
@@ -9908,16 +9939,6 @@
       "municipality": "Clusone",
       "gps_code": "LILS",
       "coordinates": "45.883888244628906, 9.966388702392578"
-    },
-    {
-      "ident": "LILT",
-      "type": "closed",
-      "name": "Cerrina Airfield",
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-21",
-      "municipality": "Bruino (TO)",
-      "coordinates": "45.005, 7.492778"
     },
     {
       "ident": "LILV",
@@ -10404,17 +10425,6 @@
       "coordinates": "45.684358, 12.087107"
     },
     {
-      "ident": "LIPT",
-      "type": "closed",
-      "name": "Vicenza Airport",
-      "elevation_ft": 128.0,
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-34",
-      "municipality": "Vicenza (VI)",
-      "coordinates": "45.573399, 11.5295"
-    },
-    {
       "ident": "LIPU",
       "type": "medium_airport",
       "name": "Padova Gino Allegri Airfield",
@@ -10574,16 +10584,6 @@
       "iata_code": "CIA",
       "local_code": "RM12",
       "coordinates": "41.7994, 12.5949"
-    },
-    {
-      "ident": "LIRB",
-      "type": "closed",
-      "name": "Vigna di Valle",
-      "elevation_ft": 886.0,
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-62",
-      "coordinates": "42.0844444, 12.2183333"
     },
     {
       "ident": "LIRC",

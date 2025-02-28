@@ -2,7 +2,7 @@
   "country_code": "AU",
   "country_name": "Australia",
   "total_airports": 2683,
-  "last_updated": "2025-02-27T00:08:24.337162",
+  "last_updated": "2025-02-28T00:08:11.600017",
   "types_distribution": {
     "small_airport": 2021,
     "closed": 82,
@@ -7100,6 +7100,383 @@
       "coordinates": "-33.84, 151.21499"
     },
     {
+      "ident": "AU-0664",
+      "type": "closed",
+      "name": "Hoxton Park Airport",
+      "elevation_ft": 135.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "coordinates": "-33.909698486328, 150.85200500488"
+    },
+    {
+      "ident": "AU-0665",
+      "type": "closed",
+      "name": "Berwick Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Berwick",
+      "coordinates": "-38.0397768866, 145.336031914"
+    },
+    {
+      "ident": "AU-0666",
+      "type": "closed",
+      "name": "Bindook NDB",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "coordinates": "-34.166698, 150.100006"
+    },
+    {
+      "ident": "AU-0667",
+      "type": "closed",
+      "name": "Bromelton Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "coordinates": "-27.968299865723, 152.89999389648"
+    },
+    {
+      "ident": "AU-0668",
+      "type": "closed",
+      "name": "Calga NDB",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "coordinates": "-33.403301, 151.212006"
+    },
+    {
+      "ident": "AU-0669",
+      "type": "closed",
+      "name": "Dadswells Bridge Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Dadswells Bridge",
+      "coordinates": "-36.925057, 142.504821"
+    },
+    {
+      "ident": "AU-0670",
+      "type": "closed",
+      "name": "Cowes Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "coordinates": "-38.508301, 145.212997"
+    },
+    {
+      "ident": "AU-0671",
+      "type": "closed",
+      "name": "Meredith Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "coordinates": "-37.8833007812, 144.082992554"
+    },
+    {
+      "ident": "AU-0672",
+      "type": "closed",
+      "name": "Elderslie Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "coordinates": "-15.7, 145.1"
+    },
+    {
+      "ident": "AU-0673",
+      "type": "closed",
+      "name": "Gatton Campus Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Gatton",
+      "coordinates": "-27.5604060653, 152.340459824"
+    },
+    {
+      "ident": "AU-0674",
+      "type": "closed",
+      "name": "Lancelin Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Lancelin",
+      "coordinates": "-31.0166666667, 115.333333333"
+    },
+    {
+      "ident": "AU-0675",
+      "type": "closed",
+      "name": "RAAF Williams, Laverton Base",
+      "elevation_ft": 18.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Laverton",
+      "coordinates": "-37.86360168457, 144.74600219727"
+    },
+    {
+      "ident": "AU-0676",
+      "type": "closed",
+      "name": "Mount Mcquoid NDB",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "coordinates": "-33.110001, 151.138"
+    },
+    {
+      "ident": "AU-0677",
+      "type": "closed",
+      "name": "Cooranbong Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "coordinates": "-33.0601117475, 151.461896896"
+    },
+    {
+      "ident": "AU-0678",
+      "type": "closed",
+      "name": "Pakenham Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Pakenham",
+      "coordinates": "-38.088421, 145.480871"
+    },
+    {
+      "ident": "AU-0679",
+      "type": "closed",
+      "name": "Wallan Airport",
+      "elevation_ft": 290.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "coordinates": "-37.433300018311, 144.9880065918"
+    },
+    {
+      "ident": "AU-0680",
+      "type": "closed",
+      "name": "Wedderburn Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "coordinates": "-36.4305, 143.48756"
+    },
+    {
+      "ident": "AU-0681",
+      "type": "closed",
+      "name": "Wickham Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Wickham",
+      "coordinates": "-20.6757923879, 117.125072479"
+    },
+    {
+      "ident": "AU-0682",
+      "type": "closed",
+      "name": "Williamsdale Airport",
+      "elevation_ft": 2345.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-ACT",
+      "coordinates": "-35.559393, 149.130177"
+    },
+    {
+      "ident": "AU-0683",
+      "type": "closed",
+      "name": "West Maitland Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Gillieston Heights",
+      "coordinates": "-32.7566986084, 151.529998779"
+    },
+    {
+      "ident": "AU-0684",
+      "type": "closed",
+      "name": "Yarrowee Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "coordinates": "-37.740001678467, 143.75300598145"
+    },
+    {
+      "ident": "AU-0685",
+      "type": "closed",
+      "name": "Winderadeen ALA",
+      "elevation_ft": 2274.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "coordinates": "-34.9389, 149.410004"
+    },
+    {
+      "ident": "AU-0686",
+      "type": "closed",
+      "name": "Butch Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Cowaramup",
+      "coordinates": "-33.807251, 115.10067"
+    },
+    {
+      "ident": "AU-0687",
+      "type": "closed",
+      "name": "Kencherang Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Aurukun",
+      "coordinates": "-13.846594, 141.590417"
+    },
+    {
+      "ident": "AU-0688",
+      "type": "closed",
+      "name": "Lake Pedder Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "coordinates": "-43.049999237061, 146.33299255371"
+    },
+    {
+      "ident": "AU-0689",
+      "type": "closed",
+      "name": "Mount Cavenagh Airport",
+      "elevation_ft": 1752.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NT",
+      "municipality": "Ghan",
+      "coordinates": "-25.963929, 133.208542"
+    },
+    {
+      "ident": "AU-0690",
+      "type": "closed",
+      "name": "Newhaven Airport",
+      "elevation_ft": 46.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Newhaven",
+      "coordinates": "-38.524667, 145.327578"
+    },
+    {
+      "ident": "AU-0691",
+      "type": "closed",
+      "name": "Sale Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Sale",
+      "coordinates": "-38.116699, 147.074997"
+    },
+    {
+      "ident": "AU-0692",
+      "type": "closed",
+      "name": "Wodgina Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "coordinates": "-21.141701, 118.692001"
+    },
+    {
+      "ident": "AU-0693",
+      "type": "closed",
+      "name": "Yandicoogina Airport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "coordinates": "-22.759701, 119.226997"
+    },
+    {
+      "ident": "AU-0694",
+      "type": "closed",
+      "name": "Latrobe Airport",
+      "elevation_ft": 12.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Latrobe",
+      "coordinates": "-41.2351880307, 146.396169662"
+    },
+    {
+      "ident": "AU-0695",
+      "type": "closed",
+      "name": "Kempsey Hospital Helicopter Landing Site",
+      "elevation_ft": 68.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Kempsey",
+      "coordinates": "-31.067128, 152.821257"
+    },
+    {
+      "ident": "AU-0696",
+      "type": "closed",
+      "name": "American River Airport",
+      "elevation_ft": 389.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "American River",
+      "coordinates": "-35.7574, 137.7759"
+    },
+    {
+      "ident": "AU-0697",
+      "type": "closed",
+      "name": "Corunna Downs (WW II)",
+      "elevation_ft": 856.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Marble Bar",
+      "coordinates": "-21.43613, 119.790754"
+    },
+    {
+      "ident": "AU-0698",
+      "type": "closed",
+      "name": "ABC TV Studios Helipad",
+      "elevation_ft": 312.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Gore Hill",
+      "coordinates": "-33.8197, 151.1863"
+    },
+    {
+      "ident": "AU-0699",
+      "type": "closed",
+      "name": "Ashburton Downs Homestead Airstrip",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Ashburton Downs Homestead",
+      "coordinates": "-23.406506, 117.084174"
+    },
+    {
+      "ident": "AU-0700",
+      "type": "closed",
+      "name": "Bellata Airstrip",
+      "elevation_ft": 729.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Bellata",
+      "coordinates": "-29.918567, 149.781183"
+    },
+    {
+      "ident": "AU-0701",
+      "type": "closed",
+      "name": "FPSO Challis Venture Helideck",
+      "elevation_ft": 50.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-XX",
+      "municipality": "Timor Sea",
+      "coordinates": "-12.133333, 125.016667"
+    },
+    {
       "ident": "AU-AGW",
       "type": "small_airport",
       "name": "Agnew Airport",
@@ -7460,17 +7837,6 @@
       "coordinates": "-16.661, 128.594"
     },
     {
-      "ident": "LTB",
-      "type": "closed",
-      "name": "Latrobe Airport",
-      "elevation_ft": 12.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-TAS",
-      "municipality": "Latrobe",
-      "coordinates": "-41.235188030699994, 146.396169662"
-    },
-    {
       "ident": "MIZ",
       "type": "small_airport",
       "name": "Mainoru Airstrip",
@@ -7537,17 +7903,6 @@
       "iso_region": "AU-NSW",
       "gps_code": "OZKL",
       "coordinates": "-31.624885, 142.296143"
-    },
-    {
-      "ident": "RCN",
-      "type": "closed",
-      "name": "American River Airport",
-      "elevation_ft": 389.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-SA",
-      "municipality": "American River",
-      "coordinates": "-35.7574, 137.7759"
     },
     {
       "ident": "RKY",
@@ -7669,17 +8024,6 @@
       "coordinates": "-26.940627, 150.459094"
     },
     {
-      "ident": "Y06Z",
-      "type": "closed",
-      "name": "Corunna Downs (WW II)",
-      "elevation_ft": 856.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Marble Bar",
-      "coordinates": "-21.43613, 119.790754"
-    },
-    {
       "ident": "YAAL",
       "type": "small_airport",
       "name": "Yarralin Airport",
@@ -7713,17 +8057,6 @@
       "municipality": "Babbiloora",
       "gps_code": "YABB",
       "coordinates": "-25.194258, 147.142757"
-    },
-    {
-      "ident": "YABC",
-      "type": "closed",
-      "name": "ABC TV Studios Helipad",
-      "elevation_ft": 312.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Gore Hill",
-      "coordinates": "-33.8197, 151.1863"
     },
     {
       "ident": "YABD",
@@ -7920,16 +8253,6 @@
       "municipality": "Aldinga",
       "gps_code": "YADG",
       "coordinates": "-35.288753, 138.49421"
-    },
-    {
-      "ident": "YADH",
-      "type": "closed",
-      "name": "Ashburton Downs Homestead Airstrip",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Ashburton Downs Homestead",
-      "coordinates": "-23.406506, 117.084174"
     },
     {
       "ident": "YADL",
@@ -8289,6 +8612,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-SA",
+      "municipality": "Andamooka",
       "gps_code": "YAMK",
       "iata_code": "ADO",
       "coordinates": "-30.438299, 137.136993"
@@ -9291,27 +9615,6 @@
       "coordinates": "-25.694791, 140.738339"
     },
     {
-      "ident": "YBER",
-      "type": "closed",
-      "name": "Berwick Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Berwick",
-      "coordinates": "-38.0397768866, 145.336031914"
-    },
-    {
-      "ident": "YBET",
-      "type": "closed",
-      "name": "Bellata Airstrip",
-      "elevation_ft": 729.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Bellata",
-      "coordinates": "-29.918567, 149.781183"
-    },
-    {
       "ident": "YBEU",
       "type": "small_airport",
       "name": "Beulah 1 Airport",
@@ -9557,15 +9860,6 @@
       "iso_region": "AU-NT",
       "gps_code": "YBII",
       "coordinates": "-16.72373, 135.736915"
-    },
-    {
-      "ident": "YBIK",
-      "type": "closed",
-      "name": "Bindook NDB",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "coordinates": "-34.166698, 150.100006"
     },
     {
       "ident": "YBIL",
@@ -9874,15 +10168,6 @@
       "gps_code": "YBMK",
       "iata_code": "MKY",
       "coordinates": "-21.170816, 149.182588"
-    },
-    {
-      "ident": "YBML",
-      "type": "closed",
-      "name": "Bromelton Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "coordinates": "-27.968299865722656, 152.89999389648438"
     },
     {
       "ident": "YBMM",
@@ -10501,16 +10786,6 @@
       "coordinates": "-21.966699600219727, 148.5330047607422"
     },
     {
-      "ident": "YBUC",
-      "type": "closed",
-      "name": "Butch Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Cowaramup",
-      "coordinates": "-33.807251, 115.10067"
-    },
-    {
       "ident": "YBUD",
       "type": "medium_airport",
       "name": "Bundaberg Airport",
@@ -10888,15 +11163,6 @@
       "iso_region": "AU-QLD",
       "gps_code": "YBYW",
       "coordinates": "-25.450000762939453, 145.58299255371094"
-    },
-    {
-      "ident": "YCAA",
-      "type": "closed",
-      "name": "Calga NDB",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "coordinates": "-33.403301, 151.212006"
     },
     {
       "ident": "YCAB",
@@ -11376,16 +11642,6 @@
       "gps_code": "YCFD",
       "iata_code": "CFI",
       "coordinates": "-17.021699905395508, 131.32699584960938"
-    },
-    {
-      "ident": "YCFF",
-      "type": "closed",
-      "name": "Dadswells Bridge Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Dadswells Bridge",
-      "coordinates": "-36.925057, 142.504821"
     },
     {
       "ident": "YCFH",
@@ -12532,17 +12788,6 @@
       "coordinates": "-34.692333, 138.580899"
     },
     {
-      "ident": "YCVN",
-      "type": "closed",
-      "name": "FPSO Challis Venture Helideck",
-      "elevation_ft": 50.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-XX",
-      "municipality": "Timor Sea",
-      "coordinates": "-12.133333, 125.016667"
-    },
-    {
       "ident": "YCVS",
       "type": "small_airport",
       "name": "Cervantes Airport",
@@ -12640,15 +12885,6 @@
       "gps_code": "YCWR",
       "iata_code": "CWT",
       "coordinates": "-33.846894, 148.648007"
-    },
-    {
-      "ident": "YCWS",
-      "type": "closed",
-      "name": "Cowes Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "coordinates": "-38.508301, 145.212997"
     },
     {
       "ident": "YCWW",
@@ -13657,15 +13893,6 @@
       "coordinates": "-37.020219, 141.266889"
     },
     {
-      "ident": "YEDH",
-      "type": "closed",
-      "name": "Meredith Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "coordinates": "-37.8833007812, 144.082992554"
-    },
-    {
       "ident": "YEDM",
       "type": "small_airport",
       "name": "Edmund Station Airport",
@@ -13819,15 +14046,6 @@
       "municipality": "Elliston",
       "gps_code": "YELN",
       "coordinates": "-33.638302, 134.899994"
-    },
-    {
-      "ident": "YELR",
-      "type": "closed",
-      "name": "Elderslie Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "coordinates": "-15.7, 145.1"
     },
     {
       "ident": "YELS",
@@ -14566,16 +14784,6 @@
       "municipality": "Gatton",
       "gps_code": "YGAS",
       "coordinates": "-27.589508, 152.257032"
-    },
-    {
-      "ident": "YGAT",
-      "type": "closed",
-      "name": "Gatton Campus Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "municipality": "Gatton",
-      "coordinates": "-27.5604060653, 152.340459824"
     },
     {
       "ident": "YGAW",
@@ -15886,16 +16094,6 @@
       "municipality": "Hodgeson River",
       "gps_code": "YHOV",
       "coordinates": "-15.54594, 134.0956"
-    },
-    {
-      "ident": "YHOX",
-      "type": "closed",
-      "name": "Hoxton Park Airport",
-      "elevation_ft": 135.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "coordinates": "-33.909698486328125, 150.8520050048828"
     },
     {
       "ident": "YHOY",
@@ -17362,16 +17560,6 @@
       "coordinates": "-31.07232, 152.765313"
     },
     {
-      "ident": "YKNC",
-      "type": "closed",
-      "name": "Kencherang Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "municipality": "Aurukun",
-      "coordinates": "-13.846594, 141.590417"
-    },
-    {
       "ident": "YKNG",
       "type": "small_airport",
       "name": "Katanning Airport",
@@ -17812,16 +18000,6 @@
       "iso_region": "AU-NSW",
       "gps_code": "YLCG",
       "coordinates": "-33.282822, 146.375447"
-    },
-    {
-      "ident": "YLCI",
-      "type": "closed",
-      "name": "Lancelin Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Lancelin",
-      "coordinates": "-31.016666666699997, 115.333333333"
     },
     {
       "ident": "YLCS",
@@ -18416,15 +18594,6 @@
       "coordinates": "-38.108299255371094, 145.7779998779297"
     },
     {
-      "ident": "YLPR",
-      "type": "closed",
-      "name": "Lake Pedder Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-TAS",
-      "coordinates": "-43.049999237061, 146.33299255371"
-    },
-    {
       "ident": "YLRA",
       "type": "small_airport",
       "name": "Laura Airport",
@@ -18646,17 +18815,6 @@
       "municipality": "Townsville",
       "gps_code": "YLVK",
       "coordinates": "-19.318602, 146.770674"
-    },
-    {
-      "ident": "YLVT",
-      "type": "closed",
-      "name": "RAAF Williams, Laverton Base",
-      "elevation_ft": 18.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Laverton",
-      "coordinates": "-37.86360168457031, 144.74600219726562"
     },
     {
       "ident": "YLVY",
@@ -20278,15 +20436,6 @@
       "coordinates": "-22.80579948425293, 137.25100708007812"
     },
     {
-      "ident": "YMQD",
-      "type": "closed",
-      "name": "Mount Mcquoid NDB",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "coordinates": "-33.110001, 151.138"
-    },
-    {
       "ident": "YMRA",
       "type": "small_airport",
       "name": "Maralinga Airport",
@@ -20677,17 +20826,6 @@
       "iso_region": "AU-WA",
       "gps_code": "YMUX",
       "coordinates": "-26.36669921875, 117.33300018310547"
-    },
-    {
-      "ident": "YMVG",
-      "type": "closed",
-      "name": "Mount Cavenagh Airport",
-      "elevation_ft": 1752.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NT",
-      "municipality": "Ghan",
-      "coordinates": "-25.963929, 133.208542"
     },
     {
       "ident": "YMVH",
@@ -21102,17 +21240,6 @@
       "iso_region": "AU-VIC",
       "gps_code": "YNGW",
       "coordinates": "-36.788471, 145.039724"
-    },
-    {
-      "ident": "YNHE",
-      "type": "closed",
-      "name": "Newhaven Airport",
-      "elevation_ft": 46.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Newhaven",
-      "coordinates": "-38.524667, 145.327578"
     },
     {
       "ident": "YNHL",
@@ -21927,15 +22054,6 @@
       "coordinates": "-37.10662, 147.606578"
     },
     {
-      "ident": "YOOB",
-      "type": "closed",
-      "name": "Cooranbong Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "coordinates": "-33.0601117475, 151.461896896"
-    },
-    {
       "ident": "YOOD",
       "type": "small_airport",
       "name": "Oodnadatta Airport",
@@ -22161,16 +22279,6 @@
       "gps_code": "YPAG",
       "iata_code": "PUG",
       "coordinates": "-32.506900787353516, 137.7169952392578"
-    },
-    {
-      "ident": "YPAK",
-      "type": "closed",
-      "name": "Pakenham Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Pakenham",
-      "coordinates": "-38.088421, 145.480871"
     },
     {
       "ident": "YPAM",
@@ -24388,16 +24496,6 @@
       "coordinates": "-15.898300170898438, 143.38299560546875"
     },
     {
-      "ident": "YSLT",
-      "type": "closed",
-      "name": "Sale Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Sale",
-      "coordinates": "-38.116699, 147.074997"
-    },
-    {
       "ident": "YSLV",
       "type": "small_airport",
       "name": "Sylvania Homestead Airport",
@@ -26320,16 +26418,6 @@
       "coordinates": "-19.7736, 120.649002"
     },
     {
-      "ident": "YWAN",
-      "type": "closed",
-      "name": "Wallan Airport",
-      "elevation_ft": 290.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "coordinates": "-37.43330001831055, 144.98800659179688"
-    },
-    {
       "ident": "YWAT",
       "type": "small_airport",
       "name": "Wattle Hills Airport",
@@ -26490,15 +26578,6 @@
       "coordinates": "-28.48061, 122.244415"
     },
     {
-      "ident": "YWDC",
-      "type": "closed",
-      "name": "Wodgina Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "coordinates": "-21.141701, 118.692001"
-    },
-    {
       "ident": "YWDG",
       "type": "small_airport",
       "name": "Windarling Airport",
@@ -26547,16 +26626,6 @@
       "coordinates": "-18.5750007629, 140.891998291"
     },
     {
-      "ident": "YWDR",
-      "type": "closed",
-      "name": "Winderadeen ALA",
-      "elevation_ft": 2274.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "coordinates": "-34.9389, 149.410004"
-    },
-    {
       "ident": "YWDS",
       "type": "small_airport",
       "name": "Woodside Airstrip",
@@ -26600,15 +26669,6 @@
       "iso_region": "AU-QLD",
       "gps_code": "YWEC",
       "coordinates": "-25.850000381469727, 145.10000610351562"
-    },
-    {
-      "ident": "YWED",
-      "type": "closed",
-      "name": "Wedderburn Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "coordinates": "-36.4305, 143.48756"
     },
     {
       "ident": "YWEE",
@@ -26901,16 +26961,6 @@
       "coordinates": "-13.8665, 129.988"
     },
     {
-      "ident": "YWKH",
-      "type": "closed",
-      "name": "Wickham Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "municipality": "Wickham",
-      "coordinates": "-20.675792387900003, 117.125072479"
-    },
-    {
       "ident": "YWKI",
       "type": "small_airport",
       "name": "Waikerie Airport",
@@ -26962,16 +27012,6 @@
       "iso_region": "AU-SA",
       "gps_code": "YWLB",
       "coordinates": "-27.342199, 134.086606"
-    },
-    {
-      "ident": "YWLE",
-      "type": "closed",
-      "name": "Williamsdale Airport",
-      "elevation_ft": 2345.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-ACT",
-      "coordinates": "-35.559393, 149.130177"
     },
     {
       "ident": "YWLG",
@@ -27063,16 +27103,6 @@
       "municipality": "William Creek",
       "gps_code": "YWMC",
       "coordinates": "-28.905854, 136.3406"
-    },
-    {
-      "ident": "YWMD",
-      "type": "closed",
-      "name": "West Maitland Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Gillieston Heights",
-      "coordinates": "-32.7566986084, 151.529998779"
     },
     {
       "ident": "YWMG",
@@ -28622,17 +28652,6 @@
       "coordinates": "-26.7814, 151.10473"
     },
     {
-      "ident": "YXKE",
-      "type": "closed",
-      "name": "Kempsey Hospital Helicopter Landing Site",
-      "elevation_ft": 68.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Kempsey",
-      "coordinates": "-31.067128, 152.821257"
-    },
-    {
       "ident": "YXKM",
       "type": "heliport",
       "name": "Blue Mountains Hospital Helipad",
@@ -29703,15 +29722,6 @@
       "coordinates": "-37.823333, 144.951111"
     },
     {
-      "ident": "YYCN",
-      "type": "closed",
-      "name": "Yandicoogina Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "coordinates": "-22.759701, 119.226997"
-    },
-    {
       "ident": "YYDE",
       "type": "small_airport",
       "name": "Yandee Airport",
@@ -29957,15 +29967,6 @@
       "iso_region": "AU-QLD",
       "gps_code": "YYWA",
       "coordinates": "-27.952928, 144.627661"
-    },
-    {
-      "ident": "YYWE",
-      "type": "closed",
-      "name": "Yarrowee Airport",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "coordinates": "-37.7400016784668, 143.7530059814453"
     },
     {
       "ident": "YYWG",

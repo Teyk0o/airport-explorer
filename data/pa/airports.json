@@ -2,12 +2,12 @@
   "country_code": "PA",
   "country_name": "Panama",
   "total_airports": 91,
-  "last_updated": "2025-02-27T00:08:24.549068",
+  "last_updated": "2025-02-28T00:08:11.821030",
   "types_distribution": {
     "small_airport": 69,
-    "closed": 13,
     "medium_airport": 7,
     "large_airport": 1,
+    "closed": 13,
     "heliport": 1
   },
   "airports": [
@@ -45,16 +45,6 @@
       "municipality": "Isla Viveros",
       "iata_code": "IVI",
       "coordinates": "8.4693, -79.0016"
-    },
-    {
-      "ident": "MP00",
-      "type": "closed",
-      "name": "Pedasí Airport",
-      "elevation_ft": 16.0,
-      "iso_country": "PA",
-      "iso_region": "PA-7",
-      "municipality": "Pedasí",
-      "coordinates": "7.55688, -80.0233"
     },
     {
       "ident": "MP01",
@@ -311,16 +301,6 @@
       "gps_code": "MPJE",
       "iata_code": "JQE",
       "coordinates": "7.51778, -78.157204"
-    },
-    {
-      "ident": "MPLP",
-      "type": "closed",
-      "name": "Captain Ramon Xatruch Airport",
-      "elevation_ft": 30.0,
-      "iso_country": "PA",
-      "iso_region": "PA-5",
-      "municipality": "La Palma",
-      "coordinates": "8.40667, -78.141701"
     },
     {
       "ident": "MPMC",
@@ -898,6 +878,36 @@
       "coordinates": "7.619267, -80.946937"
     },
     {
+      "ident": "PA-0042",
+      "type": "closed",
+      "name": "Pedasí Airport",
+      "elevation_ft": 16.0,
+      "iso_country": "PA",
+      "iso_region": "PA-7",
+      "municipality": "Pedasí",
+      "coordinates": "7.55688, -80.0233"
+    },
+    {
+      "ident": "PA-0043",
+      "type": "closed",
+      "name": "Captain Ramon Xatruch Airport",
+      "elevation_ft": 30.0,
+      "iso_country": "PA",
+      "iso_region": "PA-5",
+      "municipality": "La Palma",
+      "coordinates": "8.40667, -78.141701"
+    },
+    {
+      "ident": "PA-0044",
+      "type": "closed",
+      "name": "Tupile Airport",
+      "elevation_ft": 5.0,
+      "iso_country": "PA",
+      "iso_region": "PA-GY",
+      "municipality": "Isla Tupile",
+      "coordinates": "9.45, -78.566667"
+    },
+    {
       "ident": "PA-AML",
       "type": "small_airport",
       "name": "Puerto Armuelles Airport",
@@ -989,16 +999,6 @@
       "municipality": "Ticantiquí",
       "iata_code": "TJC",
       "coordinates": "9.4185, -78.4896"
-    },
-    {
-      "ident": "TUE",
-      "type": "closed",
-      "name": "Tupile Airport",
-      "elevation_ft": 5.0,
-      "iso_country": "PA",
-      "iso_region": "PA-GY",
-      "municipality": "Isla Tupile",
-      "coordinates": "9.45, -78.566667"
     },
     {
       "ident": "UTU",

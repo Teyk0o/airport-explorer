@@ -2,7 +2,7 @@
   "country_code": "CA",
   "country_name": "Canada",
   "total_airports": 3226,
-  "last_updated": "2025-02-27T00:08:24.501427",
+  "last_updated": "2025-02-28T00:08:11.774359",
   "types_distribution": {
     "closed": 825,
     "small_airport": 1208,
@@ -9502,6 +9502,1683 @@
       "coordinates": "43.61694, -80.37148"
     },
     {
+      "ident": "CA-1001",
+      "type": "closed",
+      "name": "Tsacha Lake Airport",
+      "elevation_ft": 3450.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Tsacha Lake",
+      "coordinates": "53.019365, -124.843891"
+    },
+    {
+      "ident": "CA-1002",
+      "type": "closed",
+      "name": "Kamloops (BC Hydro) Heliport",
+      "elevation_ft": 1770.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Kamloops",
+      "coordinates": "50.666766, -120.370989"
+    },
+    {
+      "ident": "CA-1003",
+      "type": "closed",
+      "name": "Crawford Bay Airport",
+      "elevation_ft": 1760.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Crawford Bay",
+      "coordinates": "49.668111, -116.818"
+    },
+    {
+      "ident": "CA-1004",
+      "type": "closed",
+      "name": "Barkerville Airport",
+      "elevation_ft": 4060.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Barkerville",
+      "coordinates": "53.0881, -121.514999"
+    },
+    {
+      "ident": "CA-1005",
+      "type": "closed",
+      "name": "Hope (Fraser Canyon Hospital) Heliport",
+      "elevation_ft": 114.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Hope",
+      "coordinates": "49.376911, -121.423465"
+    },
+    {
+      "ident": "CA-1006",
+      "type": "closed",
+      "name": "Gang Ranch Airport",
+      "elevation_ft": 2150.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Gang Ranch",
+      "coordinates": "51.551862, -122.327932"
+    },
+    {
+      "ident": "CA-1007",
+      "type": "closed",
+      "name": "Campbell River (West Coast) Heliport",
+      "elevation_ft": 7.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Campbell River",
+      "coordinates": "50.046398, -125.252996"
+    },
+    {
+      "ident": "CA-1008",
+      "type": "closed",
+      "name": "Tipella Airport",
+      "elevation_ft": 55.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Tipella",
+      "coordinates": "49.743099, -122.163002"
+    },
+    {
+      "ident": "CA-1009",
+      "type": "closed",
+      "name": "Takla Narrows Airport",
+      "elevation_ft": 2380.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Takla Narrows",
+      "coordinates": "55.163549, -125.706124"
+    },
+    {
+      "ident": "CA-1010",
+      "type": "closed",
+      "name": "Telegraph Creek Airport",
+      "elevation_ft": 1100.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Telegraph Creek",
+      "coordinates": "57.914369, -131.125592"
+    },
+    {
+      "ident": "CA-1011",
+      "type": "closed",
+      "name": "Quilchena Airport",
+      "elevation_ft": 2100.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Quilchena",
+      "coordinates": "50.162154, -120.506935"
+    },
+    {
+      "ident": "CA-1012",
+      "type": "closed",
+      "name": "Mission (Memorial Hospital) Heliport",
+      "elevation_ft": 174.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Mission",
+      "coordinates": "49.1362047065, -122.331220061"
+    },
+    {
+      "ident": "CA-1013",
+      "type": "closed",
+      "name": "Terrace / BC Hydro Heliport",
+      "elevation_ft": 195.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Terrace",
+      "coordinates": "54.5192008823, -128.628015518"
+    },
+    {
+      "ident": "CA-1014",
+      "type": "closed",
+      "name": "Apple River Airport",
+      "elevation_ft": 135.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NS",
+      "municipality": "Apple River",
+      "coordinates": "45.461899, -64.821404"
+    },
+    {
+      "ident": "CA-1015",
+      "type": "closed",
+      "name": "Grand River Airport",
+      "elevation_ft": 50.0,
+      "iso_country": "CA",
+      "iso_region": "CA-PE",
+      "municipality": "Grand River",
+      "coordinates": "46.481269, -63.95368"
+    },
+    {
+      "ident": "CA-1016",
+      "type": "closed",
+      "name": "Campbellton (Regional Hospital) Heliport",
+      "elevation_ft": 76.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NB",
+      "municipality": "Campbellton",
+      "coordinates": "47.9941758761, -66.6654655337"
+    },
+    {
+      "ident": "CA-1017",
+      "type": "closed",
+      "name": "Valley Airport",
+      "elevation_ft": 175.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NS",
+      "municipality": "Valley",
+      "coordinates": "45.396702, -63.215599"
+    },
+    {
+      "ident": "CA-1018",
+      "type": "closed",
+      "name": "Deerhurst Resort Airport",
+      "elevation_ft": 1029.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Huntsville",
+      "coordinates": "45.354198, -79.151398"
+    },
+    {
+      "ident": "CA-1019",
+      "type": "closed",
+      "name": "Dunnville Airport",
+      "elevation_ft": 600.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Dunnville",
+      "coordinates": "42.8722, -79.595802"
+    },
+    {
+      "ident": "CA-1020",
+      "type": "closed",
+      "name": "Halifax (South Battery) Heliport",
+      "elevation_ft": 10.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NS",
+      "municipality": "Halifax",
+      "coordinates": "44.6437368934, -63.5677018762"
+    },
+    {
+      "ident": "CA-1021",
+      "type": "closed",
+      "name": "Colville Lake Airport",
+      "elevation_ft": 850.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Colville Lake",
+      "coordinates": "67.0392, -126.08"
+    },
+    {
+      "ident": "CA-1022",
+      "type": "closed",
+      "name": "Chinchaga Airport",
+      "elevation_ft": 2280.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Chinchaga",
+      "coordinates": "57.5428009033, -119.130996704"
+    },
+    {
+      "ident": "CA-1023",
+      "type": "closed",
+      "name": "S.I.R.Bernard Forestburg Airpark",
+      "elevation_ft": 2334.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Forestburg",
+      "coordinates": "52.573786, -112.083664"
+    },
+    {
+      "ident": "CA-1024",
+      "type": "closed",
+      "name": "Acme Airport",
+      "elevation_ft": 3035.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Acme",
+      "coordinates": "51.456402, -113.514999"
+    },
+    {
+      "ident": "CA-1025",
+      "type": "closed",
+      "name": "Yellowknife (Regional Hospital) Heliport",
+      "elevation_ft": 650.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Yellowknife",
+      "coordinates": "62.447498, -114.405998"
+    },
+    {
+      "ident": "CA-1026",
+      "type": "closed",
+      "name": "Andrew Airport",
+      "elevation_ft": 2060.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Andrew",
+      "coordinates": "53.87471, -112.364783"
+    },
+    {
+      "ident": "CA-1027",
+      "type": "closed",
+      "name": "Cadotte Airport",
+      "elevation_ft": 1900.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Cadotte Lake",
+      "coordinates": "56.457558, -116.353841"
+    },
+    {
+      "ident": "CA-1028",
+      "type": "closed",
+      "name": "Blairmore (Forestry) Heliport",
+      "elevation_ft": 4224.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Blairmore",
+      "coordinates": "49.608601, -114.450996"
+    },
+    {
+      "ident": "CA-1029",
+      "type": "closed",
+      "name": "Grande Cache Airport",
+      "elevation_ft": 4117.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Grande Cache",
+      "coordinates": "53.916901, -118.874001"
+    },
+    {
+      "ident": "CA-1030",
+      "type": "closed",
+      "name": "Conklin Airport",
+      "elevation_ft": 1850.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Conklin",
+      "coordinates": "55.6347007751, -111.087997437"
+    },
+    {
+      "ident": "CA-1031",
+      "type": "closed",
+      "name": "Trout Lake Airport",
+      "elevation_ft": 1635.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Sambaa K'e",
+      "coordinates": "60.440216, -121.236198"
+    },
+    {
+      "ident": "CA-1032",
+      "type": "closed",
+      "name": "Zama Airport",
+      "elevation_ft": 1296.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Zama",
+      "coordinates": "59.1519012451, -118.707000732"
+    },
+    {
+      "ident": "CA-1033",
+      "type": "closed",
+      "name": "Bjorgum Farm Airport",
+      "elevation_ft": 2415.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Bjorgum Farm",
+      "coordinates": "53.083302, -112.803001"
+    },
+    {
+      "ident": "CA-1034",
+      "type": "closed",
+      "name": "St. Francis Airport",
+      "elevation_ft": 2649.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "St. Francis",
+      "coordinates": "53.2756004333, -114.449996948"
+    },
+    {
+      "ident": "CA-1035",
+      "type": "closed",
+      "name": "Steen Tower Airport",
+      "elevation_ft": 2320.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Steen Tower",
+      "coordinates": "59.633301, -117.782997"
+    },
+    {
+      "ident": "CA-1036",
+      "type": "closed",
+      "name": "Fontas Airport",
+      "elevation_ft": 2950.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Fontas",
+      "coordinates": "57.795974, -119.456692"
+    },
+    {
+      "ident": "CA-1037",
+      "type": "closed",
+      "name": "Hamburg Airport",
+      "elevation_ft": 2540.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Manning",
+      "coordinates": "57.355285, -119.76531"
+    },
+    {
+      "ident": "CA-1038",
+      "type": "closed",
+      "name": "Fort Nelson (Mile 301) Heliport",
+      "elevation_ft": 1400.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Fort Nelson",
+      "coordinates": "58.805852, -122.728829"
+    },
+    {
+      "ident": "CA-1039",
+      "type": "closed",
+      "name": "Embarras Airport",
+      "elevation_ft": 778.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Embarras",
+      "coordinates": "58.2047490455, -111.383900642"
+    },
+    {
+      "ident": "CA-1040",
+      "type": "closed",
+      "name": "Calgary (Foothills Hospital) Heliport",
+      "elevation_ft": 3635.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Calgary",
+      "coordinates": "51.065572, -114.133186"
+    },
+    {
+      "ident": "CA-1041",
+      "type": "closed",
+      "name": "Calgary (Westport) Heliport",
+      "elevation_ft": 3983.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Calgary",
+      "coordinates": "51.0367012024, -114.195999146"
+    },
+    {
+      "ident": "CA-1042",
+      "type": "closed",
+      "name": "Vancouver (Vancouver Film Studios) Heliport",
+      "elevation_ft": 50.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Vancouver",
+      "coordinates": "49.260877, -123.028082"
+    },
+    {
+      "ident": "CA-1043",
+      "type": "closed",
+      "name": "Zama Lake Airport",
+      "elevation_ft": 1242.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Zama Lake",
+      "coordinates": "59.0639, -118.889999"
+    },
+    {
+      "ident": "CA-1044",
+      "type": "closed",
+      "name": "Colomac Airport",
+      "elevation_ft": 1073.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Colomac",
+      "coordinates": "64.3850021362, -115.125"
+    },
+    {
+      "ident": "CA-1045",
+      "type": "closed",
+      "name": "Golden (Canadian Helicopters) Heliport",
+      "elevation_ft": 2575.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Golden",
+      "coordinates": "51.304475, -116.983535"
+    },
+    {
+      "ident": "CA-1046",
+      "type": "closed",
+      "name": "Stewart (Health Centre) Heliport",
+      "elevation_ft": 26.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Stewart",
+      "coordinates": "55.9402999878, -129.990997314"
+    },
+    {
+      "ident": "CA-1047",
+      "type": "closed",
+      "name": "Ponoka (Hospital & Care Centre) Heliport",
+      "elevation_ft": 2676.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Ponoka",
+      "coordinates": "52.685237, -113.589392"
+    },
+    {
+      "ident": "CA-1048",
+      "type": "closed",
+      "name": "Aldergrove (Hicks) Heliport",
+      "elevation_ft": 300.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Aldergrove",
+      "coordinates": "49.108781, -122.480052"
+    },
+    {
+      "ident": "CA-1049",
+      "type": "closed",
+      "name": "Chicoutimi (Hydro-Québec) Heliport",
+      "elevation_ft": 451.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Chicoutimi",
+      "coordinates": "48.400001525879, -71.116897583008"
+    },
+    {
+      "ident": "CA-1050",
+      "type": "closed",
+      "name": "Buffalo Narrows Heliport",
+      "elevation_ft": 1392.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Buffalo Narrows",
+      "coordinates": "55.868598938, -108.482002258"
+    },
+    {
+      "ident": "CA-1051",
+      "type": "closed",
+      "name": "Paradise Hill Airport",
+      "elevation_ft": 1927.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Paradise Hill",
+      "coordinates": "53.535389, -109.436273"
+    },
+    {
+      "ident": "CA-1052",
+      "type": "closed",
+      "name": "West Poplar Airport",
+      "elevation_ft": 2885.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "West Poplar",
+      "coordinates": "49.003101, -106.387001"
+    },
+    {
+      "ident": "CA-1053",
+      "type": "closed",
+      "name": "Beechy Airport",
+      "elevation_ft": 2100.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Beechy",
+      "coordinates": "50.8370313674, -107.367753983"
+    },
+    {
+      "ident": "CA-1054",
+      "type": "closed",
+      "name": "Arnes Airport",
+      "elevation_ft": 725.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Arnes",
+      "coordinates": "50.836103, -96.957199"
+    },
+    {
+      "ident": "CA-1055",
+      "type": "closed",
+      "name": "Old Arctic Bay Airport",
+      "elevation_ft": 100.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NU",
+      "municipality": "Arctic Bay",
+      "coordinates": "73.00585, -85.035439"
+    },
+    {
+      "ident": "CA-1056",
+      "type": "closed",
+      "name": "Virden (West) Airport",
+      "elevation_ft": 1510.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Virden",
+      "coordinates": "49.8833007812, -101.067001343"
+    },
+    {
+      "ident": "CA-1057",
+      "type": "closed",
+      "name": "Eastend Airport",
+      "elevation_ft": 3040.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Eastend",
+      "coordinates": "49.54974, -108.797312"
+    },
+    {
+      "ident": "CA-1058",
+      "type": "closed",
+      "name": "Hidden Bay Airport",
+      "elevation_ft": 1444.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Hidden Bay",
+      "coordinates": "58.127899169922, -103.77976989746"
+    },
+    {
+      "ident": "CA-1059",
+      "type": "closed",
+      "name": "Ste. Rose du Lac Airport",
+      "elevation_ft": 900.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Ste. Rose du Lac",
+      "coordinates": "51.040798, -99.494784"
+    },
+    {
+      "ident": "CA-1060",
+      "type": "closed",
+      "name": "Lumsden (Metz) Airport",
+      "elevation_ft": 1791.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Lumsden",
+      "coordinates": "50.7172012329, -104.96900177"
+    },
+    {
+      "ident": "CA-1061",
+      "type": "closed",
+      "name": "Outlook Airport",
+      "elevation_ft": 1771.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Outlook",
+      "coordinates": "51.482498, -107.037003"
+    },
+    {
+      "ident": "CA-1062",
+      "type": "closed",
+      "name": "Thompson (Canadian Helicopters) Heliport",
+      "elevation_ft": 630.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Thompson",
+      "coordinates": "55.766700744629, -97.816703796387"
+    },
+    {
+      "ident": "CA-1063",
+      "type": "closed",
+      "name": "Wilkie Airport",
+      "elevation_ft": 2149.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Wilkie",
+      "coordinates": "52.403099, -108.720001"
+    },
+    {
+      "ident": "CA-1064",
+      "type": "closed",
+      "name": "Warren / Woodlands Airport",
+      "elevation_ft": 817.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Warren",
+      "coordinates": "50.159401, -97.591104"
+    },
+    {
+      "ident": "CA-1065",
+      "type": "closed",
+      "name": "Eagle River Airport",
+      "elevation_ft": 1210.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Eagle River",
+      "coordinates": "49.7556525536, -93.1401157379"
+    },
+    {
+      "ident": "CA-1066",
+      "type": "closed",
+      "name": "Gainsborough Airport",
+      "elevation_ft": 1650.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Gainsborough",
+      "coordinates": "49.1833000183, -101.432998657"
+    },
+    {
+      "ident": "CA-1067",
+      "type": "closed",
+      "name": "Willow Bunch Airport",
+      "elevation_ft": 2427.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Willow Bunch",
+      "coordinates": "49.400002, -105.667"
+    },
+    {
+      "ident": "CA-1068",
+      "type": "closed",
+      "name": "Lucknow Airpark",
+      "elevation_ft": 960.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Lucknow",
+      "coordinates": "43.9678, -81.493301"
+    },
+    {
+      "ident": "CA-1069",
+      "type": "closed",
+      "name": "Lewvan (Farr Strip) Airport",
+      "elevation_ft": 1904.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Lewvan",
+      "coordinates": "49.985001, -104.114998"
+    },
+    {
+      "ident": "CA-1070",
+      "type": "closed",
+      "name": "Winchester Airport",
+      "elevation_ft": 250.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Winchester",
+      "coordinates": "45.0456008911, -75.3032989502"
+    },
+    {
+      "ident": "CA-1071",
+      "type": "closed",
+      "name": "Sudbury (Regional Hospital) Heliport",
+      "elevation_ft": 912.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Sudbury",
+      "coordinates": "46.4794600253, -80.9894970059"
+    },
+    {
+      "ident": "CA-1072",
+      "type": "closed",
+      "name": "Mulock Airport",
+      "elevation_ft": 1100.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Elmwood",
+      "coordinates": "44.229198, -80.913902"
+    },
+    {
+      "ident": "CA-1073",
+      "type": "closed",
+      "name": "Ellis Field Airport",
+      "elevation_ft": 925.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Kincardine",
+      "coordinates": "44.156101, -81.400597"
+    },
+    {
+      "ident": "CA-1074",
+      "type": "closed",
+      "name": "Atwood Airport",
+      "elevation_ft": 1232.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Atwood",
+      "coordinates": "43.69388, -81.002626"
+    },
+    {
+      "ident": "CA-1075",
+      "type": "closed",
+      "name": "Straffordville Airport",
+      "elevation_ft": 732.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Straffordville",
+      "coordinates": "42.738337, -80.817125"
+    },
+    {
+      "ident": "CA-1076",
+      "type": "closed",
+      "name": "Morrisburg Airport",
+      "elevation_ft": 254.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Morrisburg",
+      "coordinates": "44.946993, -75.076961"
+    },
+    {
+      "ident": "CA-1077",
+      "type": "closed",
+      "name": "Picton Airport",
+      "elevation_ft": 465.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Prince Edward County",
+      "coordinates": "43.989201, -77.139198"
+    },
+    {
+      "ident": "CA-1078",
+      "type": "closed",
+      "name": "Windermere Airport",
+      "elevation_ft": 746.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Windermere",
+      "coordinates": "45.162247, -79.534251"
+    },
+    {
+      "ident": "CA-1079",
+      "type": "closed",
+      "name": "Hawkesbury (Windover Field) Airport",
+      "elevation_ft": 165.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Hawkesbury",
+      "coordinates": "45.5643997192, -74.8097000122"
+    },
+    {
+      "ident": "CA-1080",
+      "type": "closed",
+      "name": "New Lowell Airport",
+      "elevation_ft": 625.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "New Lowell",
+      "coordinates": "44.387503, -79.943298"
+    },
+    {
+      "ident": "CA-1081",
+      "type": "closed",
+      "name": "Trafalgar Memorial Hospital Heliport",
+      "elevation_ft": 362.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Oakville",
+      "coordinates": "43.47408, -79.671594"
+    },
+    {
+      "ident": "CA-1082",
+      "type": "closed",
+      "name": "Pryde Field Airport",
+      "elevation_ft": 661.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Port Elgin",
+      "coordinates": "44.458229, -81.378715"
+    },
+    {
+      "ident": "CA-1083",
+      "type": "closed",
+      "name": "Brockville (Medical) Heliport",
+      "elevation_ft": 302.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Brockville",
+      "coordinates": "44.6055016694, -75.6798309088"
+    },
+    {
+      "ident": "CA-1084",
+      "type": "closed",
+      "name": "Thessalon Municipal Airport",
+      "elevation_ft": 750.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Thessalon",
+      "coordinates": "46.316031, -83.533244"
+    },
+    {
+      "ident": "CA-1085",
+      "type": "closed",
+      "name": "Bowmanville (Memorial Hospital) Heliport",
+      "elevation_ft": 328.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Bowmanville",
+      "coordinates": "43.909501, -78.67652"
+    },
+    {
+      "ident": "CA-1086",
+      "type": "closed",
+      "name": "Brampton (National \"P\") Heliport",
+      "elevation_ft": 700.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Brampton",
+      "coordinates": "43.811584, -79.698442"
+    },
+    {
+      "ident": "CA-1087",
+      "type": "closed",
+      "name": "Lefroy Airport",
+      "elevation_ft": 724.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Lefroy",
+      "coordinates": "44.2919095924, -79.5472812653"
+    },
+    {
+      "ident": "CA-1088",
+      "type": "closed",
+      "name": "Smith Field",
+      "elevation_ft": 1450.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Orton",
+      "coordinates": "43.775179, -80.228119"
+    },
+    {
+      "ident": "CA-1089",
+      "type": "closed",
+      "name": "St. Joseph Island Airport",
+      "elevation_ft": 600.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Richards Landing",
+      "coordinates": "46.281469, -83.950531"
+    },
+    {
+      "ident": "CA-1090",
+      "type": "closed",
+      "name": "Nobleton Airport",
+      "elevation_ft": 970.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Nobleton",
+      "coordinates": "43.936698913574, -79.679702758789"
+    },
+    {
+      "ident": "CA-1091",
+      "type": "closed",
+      "name": "New Liskeard Airport",
+      "elevation_ft": 800.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "New Liskeard",
+      "coordinates": "47.533298492432, -79.61669921875"
+    },
+    {
+      "ident": "CA-1092",
+      "type": "closed",
+      "name": "Port Colborne (General Hospital) Heliport",
+      "elevation_ft": 575.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Port Colborne",
+      "coordinates": "42.8785566729, -79.2595794797"
+    },
+    {
+      "ident": "CA-1093",
+      "type": "closed",
+      "name": "Norwood Airport",
+      "elevation_ft": 650.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Norwood",
+      "coordinates": "44.365692, -77.997785"
+    },
+    {
+      "ident": "CA-1094",
+      "type": "closed",
+      "name": "Lac Etchemin Airport",
+      "elevation_ft": 1500.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Lac Etchemin",
+      "coordinates": "46.4072, -70.501404"
+    },
+    {
+      "ident": "CA-1095",
+      "type": "closed",
+      "name": "Montreal / Mascouche Airport",
+      "elevation_ft": 75.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Montréal",
+      "coordinates": "45.718601, -73.598099"
+    },
+    {
+      "ident": "CA-1096",
+      "type": "closed",
+      "name": "King George Airpark",
+      "elevation_ft": 5.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Surrey",
+      "coordinates": "49.093248, -122.822493"
+    },
+    {
+      "ident": "CA-1097",
+      "type": "closed",
+      "name": "La Sarre Heliport",
+      "elevation_ft": 900.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "La Sarre",
+      "coordinates": "48.808601, -79.251701"
+    },
+    {
+      "ident": "CA-1098",
+      "type": "closed",
+      "name": "Ste-Julienne Airport",
+      "elevation_ft": 280.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Ste-Julienne",
+      "coordinates": "45.9407997131, -73.7238998413"
+    },
+    {
+      "ident": "CA-1099",
+      "type": "closed",
+      "name": "Stanhope Airport",
+      "elevation_ft": 1450.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Stanhope",
+      "coordinates": "45.01572, -71.793888"
+    },
+    {
+      "ident": "CA-1100",
+      "type": "closed",
+      "name": "Rimouski (Hydro-Québec) Heliport",
+      "elevation_ft": 45.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Rimouski",
+      "coordinates": "48.441101074219, -68.542503356934"
+    },
+    {
+      "ident": "CA-1101",
+      "type": "closed",
+      "name": "Montreal / Les Cèdres Airport",
+      "elevation_ft": 160.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Montréal",
+      "coordinates": "45.3475, -74.076698"
+    },
+    {
+      "ident": "CA-1102",
+      "type": "closed",
+      "name": "Sainte-Lucie-de-Beauregard Airport",
+      "elevation_ft": 1212.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Sainte-Lucie-de-Beauregard",
+      "coordinates": "46.740799, -70.032501"
+    },
+    {
+      "ident": "CA-1103",
+      "type": "closed",
+      "name": "Ottawa / Hull (Expressair) Heliport",
+      "elevation_ft": 180.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Ottawa",
+      "coordinates": "45.464377, -75.737363"
+    },
+    {
+      "ident": "CA-1104",
+      "type": "closed",
+      "name": "Quebec / Hôpital de l'enfant-Jésus Heliport",
+      "elevation_ft": 110.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Québec",
+      "coordinates": "46.837568, -71.225179"
+    },
+    {
+      "ident": "CA-1105",
+      "type": "closed",
+      "name": "Airview Airport",
+      "elevation_ft": 575.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Lennoxville",
+      "coordinates": "45.353254, -71.86087"
+    },
+    {
+      "ident": "CA-1106",
+      "type": "closed",
+      "name": "Val-D'Or / L'Escale Heliport",
+      "elevation_ft": 1010.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Val-D'Or",
+      "coordinates": "48.103592916, -77.8074422479"
+    },
+    {
+      "ident": "CA-1107",
+      "type": "closed",
+      "name": "Chambly Airport",
+      "elevation_ft": 95.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Chambly",
+      "coordinates": "45.401100158691, -73.295303344727"
+    },
+    {
+      "ident": "CA-1108",
+      "type": "closed",
+      "name": "Buttonville Municipal Airport",
+      "elevation_ft": 650.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Toronto",
+      "coordinates": "43.862202, -79.370003"
+    },
+    {
+      "ident": "CA-1109",
+      "type": "closed",
+      "name": "Nanisivik Airport",
+      "elevation_ft": 2106.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NU",
+      "municipality": "Nanisivik",
+      "coordinates": "72.980839, -84.610862"
+    },
+    {
+      "ident": "CA-1110",
+      "type": "closed",
+      "name": "Edmonton City Centre (Blatchford Field) Airport",
+      "elevation_ft": 2202.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Edmonton",
+      "coordinates": "53.5724983215, -113.521003723"
+    },
+    {
+      "ident": "CA-1111",
+      "type": "closed",
+      "name": "Bonnechere Airport",
+      "elevation_ft": 595.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Killaloe",
+      "coordinates": "45.663101196289, -77.602798461914"
+    },
+    {
+      "ident": "CA-1112",
+      "type": "closed",
+      "name": "Victoria STOLport",
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Montreal",
+      "coordinates": "45.47739, -73.54388"
+    },
+    {
+      "ident": "CA-1113",
+      "type": "closed",
+      "name": "Cartierville Airport",
+      "elevation_ft": 120.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Montreal",
+      "coordinates": "45.516701, -73.716698"
+    },
+    {
+      "ident": "CA-1114",
+      "type": "closed",
+      "name": "Leo Creek Airport",
+      "elevation_ft": 2360.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Leo Creek",
+      "coordinates": "55.119853, -125.614054"
+    },
+    {
+      "ident": "CA-1115",
+      "type": "closed",
+      "name": "Bronson Creek Airport",
+      "elevation_ft": 396.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Bronson Creek",
+      "coordinates": "56.681098938, -131.087005615"
+    },
+    {
+      "ident": "CA-1116",
+      "type": "closed",
+      "name": "Salmo Airport",
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Salmo",
+      "coordinates": "49.166698455811, -117.26699829102"
+    },
+    {
+      "ident": "CA-1117",
+      "type": "closed",
+      "name": "Aguanish Water Aerodrome",
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Aguanish",
+      "coordinates": "50.230595, -62.112499"
+    },
+    {
+      "ident": "CA-1118",
+      "type": "closed",
+      "name": "Alice Arm/Silver City Seaplane Base",
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Alice Arm",
+      "coordinates": "55.466702, -129.483002"
+    },
+    {
+      "ident": "CA-1119",
+      "type": "closed",
+      "name": "Armstrong/Waweig Lake Seaplane Base",
+      "elevation_ft": 1025.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "coordinates": "50.133301, -89.116699"
+    },
+    {
+      "ident": "CA-1120",
+      "type": "closed",
+      "name": "Barrie/Little Lake Seaplane Base",
+      "elevation_ft": 775.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Barrie",
+      "coordinates": "44.418735, -79.665545"
+    },
+    {
+      "ident": "CA-1121",
+      "type": "closed",
+      "name": "Caledonia/Grand River Seaplane Base",
+      "elevation_ft": 605.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Caledonia",
+      "coordinates": "43.086103, -80.051695"
+    },
+    {
+      "ident": "CA-1122",
+      "type": "closed",
+      "name": "Dawson Creek Seaplane Base",
+      "elevation_ft": 2145.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "coordinates": "55.744274, -120.182942"
+    },
+    {
+      "ident": "CA-1123",
+      "type": "closed",
+      "name": "Deer Lake Seaplane Base",
+      "elevation_ft": 1017.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Deer Lake First Nation",
+      "coordinates": "52.616699, -94.050003"
+    },
+    {
+      "ident": "CA-1124",
+      "type": "closed",
+      "name": "Finlay Bay Seaplane Base",
+      "elevation_ft": 2205.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "coordinates": "55.98, -123.78"
+    },
+    {
+      "ident": "CA-1125",
+      "type": "closed",
+      "name": "Fort Grahame Seaplane Base",
+      "elevation_ft": 2205.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "coordinates": "56.5275, -124.473"
+    },
+    {
+      "ident": "CA-1126",
+      "type": "closed",
+      "name": "Gananoque Seaplane Base",
+      "elevation_ft": 246.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "coordinates": "44.325000762939, -76.156898498535"
+    },
+    {
+      "ident": "CA-1127",
+      "type": "closed",
+      "name": "Lac Gagnon Seaplane Base",
+      "elevation_ft": 700.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Duhamel",
+      "coordinates": "46.1175, -75.115303"
+    },
+    {
+      "ident": "CA-1128",
+      "type": "closed",
+      "name": "Lac Gobeil Water Aerodrome",
+      "elevation_ft": 450.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Grandes-Bergeronnes",
+      "coordinates": "48.241699, -69.647202"
+    },
+    {
+      "ident": "CA-1129",
+      "type": "closed",
+      "name": "Lac Kaiagamac Seaplane Base",
+      "elevation_ft": 1190.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "coordinates": "46.651699, -73.894995"
+    },
+    {
+      "ident": "CA-1130",
+      "type": "closed",
+      "name": "La Loche Seaplane Base",
+      "elevation_ft": 1467.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "La Loche",
+      "coordinates": "56.483299, -109.417"
+    },
+    {
+      "ident": "CA-1131",
+      "type": "closed",
+      "name": "Matagami Seaplane Base",
+      "elevation_ft": 775.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Matagami",
+      "coordinates": "49.750292, -77.620339"
+    },
+    {
+      "ident": "CA-1132",
+      "type": "closed",
+      "name": "Mission Seaplane Base",
+      "elevation_ft": 10.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Mission",
+      "coordinates": "49.127765, -122.301961"
+    },
+    {
+      "ident": "CA-1133",
+      "type": "closed",
+      "name": "Nahanni Butte Seaplane Base",
+      "elevation_ft": 550.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Nahanni Butte",
+      "coordinates": "61.033298, -123.349998"
+    },
+    {
+      "ident": "CA-1134",
+      "type": "closed",
+      "name": "Parc De La Vérendrye (Le Domaine) Seaplane Base",
+      "elevation_ft": 1200.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "coordinates": "47.036701, -76.536697"
+    },
+    {
+      "ident": "CA-1135",
+      "type": "closed",
+      "name": "Parry Sound/Derbyshire Island Seaplane Base",
+      "elevation_ft": 580.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "coordinates": "45.2447013855, -80.1549987793"
+    },
+    {
+      "ident": "CA-1136",
+      "type": "closed",
+      "name": "Penticton Seaplane Base",
+      "elevation_ft": 1108.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "coordinates": "49.45003, -119.599998"
+    },
+    {
+      "ident": "CA-1137",
+      "type": "closed",
+      "name": "Port Alice/Jeune Landing Seaplane Base",
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Port Alice",
+      "coordinates": "50.423233, -127.486232"
+    },
+    {
+      "ident": "CA-1138",
+      "type": "closed",
+      "name": "Port Simpson Seaplane Base",
+      "elevation_ft": 0.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Lax Kw'alaams",
+      "coordinates": "54.5667, -130.432999"
+    },
+    {
+      "ident": "CA-1139",
+      "type": "closed",
+      "name": "Pukatawagan Seaplane Base",
+      "elevation_ft": 898.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "Pukatawagan",
+      "coordinates": "55.736696, -101.327002"
+    },
+    {
+      "ident": "CA-1140",
+      "type": "closed",
+      "name": "Rykerts Seaplane Base",
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Creston",
+      "coordinates": "49.004482, -116.503057"
+    },
+    {
+      "ident": "CA-1141",
+      "type": "closed",
+      "name": "Témiscaming/Lac Kipawa Seaplane Base",
+      "elevation_ft": 884.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "coordinates": "46.778335, -78.979556"
+    },
+    {
+      "ident": "CA-1142",
+      "type": "closed",
+      "name": "Grace Lake Seaplane Base",
+      "elevation_ft": 855.0,
+      "iso_country": "CA",
+      "iso_region": "CA-MB",
+      "municipality": "The Pas",
+      "coordinates": "53.82072, -101.192665"
+    },
+    {
+      "ident": "CA-1143",
+      "type": "closed",
+      "name": "Vanderhoof (District) Seaplane Base",
+      "elevation_ft": 2050.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Vanderhoof",
+      "coordinates": "54.0206, -123.995001"
+    },
+    {
+      "ident": "CA-1144",
+      "type": "closed",
+      "name": "Williams Lake Seaplane Base",
+      "elevation_ft": 1859.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Williams Lake",
+      "coordinates": "52.116699, -122.099998"
+    },
+    {
+      "ident": "CA-1145",
+      "type": "closed",
+      "name": "Mount Pleasant Airport",
+      "iso_country": "CA",
+      "iso_region": "CA-PE",
+      "municipality": "Ellerslie",
+      "coordinates": "46.598189, -64.00661"
+    },
+    {
+      "ident": "CA-1146",
+      "type": "closed",
+      "name": "Otway Heliport",
+      "elevation_ft": 1954.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "coordinates": "53.951668, -122.831665"
+    },
+    {
+      "ident": "CA-1147",
+      "type": "closed",
+      "name": "Highgate South Airport",
+      "elevation_ft": 740.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Highgate",
+      "coordinates": "42.468953, -81.831107"
+    },
+    {
+      "ident": "CA-1148",
+      "type": "closed",
+      "name": "Red Deer / South 40 Airstrip",
+      "elevation_ft": 3040.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "coordinates": "52.261944, -113.951389"
+    },
+    {
+      "ident": "CA-1149",
+      "type": "closed",
+      "name": "Sorel-Tracy/Air Nature Inc. Heliport",
+      "elevation_ft": 40.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Sorel",
+      "coordinates": "46.037072, -73.124621"
+    },
+    {
+      "ident": "CA-1150",
+      "type": "closed",
+      "name": "Victoria (BC Hydro) Heliport",
+      "elevation_ft": 40.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Victoria",
+      "coordinates": "48.490004, -123.390292"
+    },
+    {
+      "ident": "CA-1151",
+      "type": "closed",
+      "name": "Grand Valley (Madill Field)",
+      "elevation_ft": 1530.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "East Garafraxa",
+      "coordinates": "43.861886, -80.266671"
+    },
+    {
+      "ident": "CA-1152",
+      "type": "closed",
+      "name": "Mont-Tremblant / Lac Ouimet Water Aerodrome",
+      "elevation_ft": 761.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "coordinates": "46.162354, -74.585495"
+    },
+    {
+      "ident": "CA-1153",
+      "type": "closed",
+      "name": "Caroline Airfield",
+      "elevation_ft": 3540.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "coordinates": "52.1043173886, -114.775350094"
+    },
+    {
+      "ident": "CA-1154",
+      "type": "closed",
+      "name": "Tasu Water Aerodrome",
+      "elevation_ft": 0.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Tasu",
+      "coordinates": "52.7630555556, -132.04"
+    },
+    {
+      "ident": "CA-1155",
+      "type": "closed",
+      "name": "Canton Aerodrome",
+      "elevation_ft": 520.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Port Hope",
+      "coordinates": "44.002807, -78.361816"
+    },
+    {
+      "ident": "CA-1156",
+      "type": "closed",
+      "name": "Brabant Lodge Water Aerodrome",
+      "elevation_ft": 514.0,
+      "iso_country": "CA",
+      "iso_region": "CA-NT",
+      "municipality": "Fort Providence",
+      "coordinates": "61.059, -116.6005"
+    },
+    {
+      "ident": "CA-1157",
+      "type": "closed",
+      "name": "Fitzgerald Water Aerodrome",
+      "elevation_ft": 653.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Fort Smith",
+      "coordinates": "59.858, -111.597"
+    },
+    {
+      "ident": "CA-1158",
+      "type": "closed",
+      "name": "Canadian Skydive Centre Airport",
+      "elevation_ft": 3470.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Didsbury",
+      "coordinates": "51.6322, -114.1099"
+    },
+    {
+      "ident": "CA-1159",
+      "type": "closed",
+      "name": "Guliker Field",
+      "elevation_ft": 1620.0,
+      "iso_country": "CA",
+      "iso_region": "CA-SK",
+      "municipality": "Hague",
+      "coordinates": "52.526743, -106.359473"
+    },
+    {
+      "ident": "CA-1160",
+      "type": "closed",
+      "name": "Innisfail Hospital Heliport",
+      "elevation_ft": 3141.0,
+      "iso_country": "CA",
+      "iso_region": "CA-AB",
+      "municipality": "Innisfail",
+      "coordinates": "52.019302, -113.9536"
+    },
+    {
+      "ident": "CA-1161",
+      "type": "closed",
+      "name": "Kahntah Airport",
+      "elevation_ft": 1630.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Kahntah",
+      "coordinates": "58.041502, -120.9092"
+    },
+    {
+      "ident": "CA-1162",
+      "type": "closed",
+      "name": "Devon Camp Airport",
+      "elevation_ft": 1510.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Peggo",
+      "coordinates": "59.3186, -120.2769"
+    },
+    {
+      "ident": "CA-1163",
+      "type": "closed",
+      "name": "Roberval (Air Saguenay) Water Aerodrome",
+      "elevation_ft": 321.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Roberval",
+      "coordinates": "48.526, -72.22"
+    },
+    {
+      "ident": "CA-1164",
+      "type": "closed",
+      "name": "Scandium City Heliport",
+      "elevation_ft": 4.0,
+      "iso_country": "CA",
+      "iso_region": "CA-YT",
+      "municipality": "(Old) Scandium City",
+      "coordinates": "69.355287, -138.93931"
+    },
+    {
+      "ident": "CA-1165",
+      "type": "closed",
+      "name": "Mt Logan Airstrip",
+      "elevation_ft": 1997.0,
+      "iso_country": "CA",
+      "iso_region": "CA-YT",
+      "municipality": "Unorganized Yukon",
+      "coordinates": "60.79299, -138.694027"
+    },
+    {
+      "ident": "CA-1166",
+      "type": "closed",
+      "name": "Yukonia Airstrip",
+      "elevation_ft": 1886.0,
+      "iso_country": "CA",
+      "iso_region": "CA-YT",
+      "municipality": "(Old) Yukonia",
+      "coordinates": "60.673158, -125.266799"
+    },
+    {
+      "ident": "CA-1167",
+      "type": "closed",
+      "name": "Croker River Airport",
+      "iso_country": "CA",
+      "iso_region": "CA-NU",
+      "coordinates": "69.290565, -119.174259"
+    },
+    {
+      "ident": "CA-1168",
+      "type": "closed",
+      "name": "Washago Aerodrome",
+      "elevation_ft": 749.0,
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Washago",
+      "coordinates": "44.740439, -79.361866"
+    },
+    {
+      "ident": "CA-1169",
+      "type": "closed",
+      "name": "Quebec Police Heliport",
+      "elevation_ft": 617.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Sherbrooke",
+      "coordinates": "45.395527, -71.944764"
+    },
+    {
+      "ident": "CA-1170",
+      "type": "closed",
+      "name": "Hull/Quebec Police Heliport",
+      "elevation_ft": 180.0,
+      "iso_country": "CA",
+      "iso_region": "CA-QC",
+      "municipality": "Ottawa-Gatineau(Hull)",
+      "coordinates": "45.466877, -75.741586"
+    },
+    {
       "ident": "CA-CAB5",
       "type": "heliport",
       "name": "Abbotsford (Regional Hospital & Cancer Centre) Heliport",
@@ -9634,16 +11311,6 @@
       "coordinates": "49.155, -125.91"
     },
     {
-      "ident": "CAB5",
-      "type": "closed",
-      "name": "Bronson Creek Airport",
-      "elevation_ft": 396.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Bronson Creek",
-      "coordinates": "56.681098938, -131.087005615"
-    },
-    {
       "ident": "CAB7",
       "type": "heliport",
       "name": "Kelowna (Alpine) Heliport",
@@ -9654,25 +11321,6 @@
       "gps_code": "CAB7",
       "local_code": "CAB7",
       "coordinates": "49.863872, -119.568517"
-    },
-    {
-      "ident": "CAC3",
-      "type": "closed",
-      "name": "Alice Arm/Silver City Seaplane Base",
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Alice Arm",
-      "coordinates": "55.466702, -129.483002"
-    },
-    {
-      "ident": "CAC5",
-      "type": "closed",
-      "name": "Williams Lake Seaplane Base",
-      "elevation_ft": 1859.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Williams Lake",
-      "coordinates": "52.116699, -122.099998"
     },
     {
       "ident": "CAC6",
@@ -9830,16 +11478,6 @@
       "iata_code": "YHH",
       "local_code": "CAE3",
       "coordinates": "50.049999, -125.25"
-    },
-    {
-      "ident": "CAE4",
-      "type": "closed",
-      "name": "Tsacha Lake Airport",
-      "elevation_ft": 3450.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Tsacha Lake",
-      "coordinates": "53.019365, -124.843891"
     },
     {
       "ident": "CAE5",
@@ -10024,16 +11662,6 @@
       "coordinates": "52.852736, -119.336266"
     },
     {
-      "ident": "CAH5",
-      "type": "closed",
-      "name": "Leo Creek Airport",
-      "elevation_ft": 2360.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Leo Creek",
-      "coordinates": "55.119853, -125.614054"
-    },
-    {
       "ident": "CAH7",
       "type": "seaplane_base",
       "name": "Kamloops Water Aerodrome",
@@ -10044,15 +11672,6 @@
       "gps_code": "CAH7",
       "local_code": "CAH7",
       "coordinates": "50.698499, -120.431862"
-    },
-    {
-      "ident": "CAH8",
-      "type": "closed",
-      "name": "Penticton Seaplane Base",
-      "elevation_ft": 1108.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "coordinates": "49.45003, -119.599998"
     },
     {
       "ident": "CAH9",
@@ -10187,15 +11806,6 @@
       "coordinates": "49.2438419064, -123.127095848"
     },
     {
-      "ident": "CAK8",
-      "type": "closed",
-      "name": "Finlay Bay Seaplane Base",
-      "elevation_ft": 2205.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "coordinates": "55.98, -123.78"
-    },
-    {
       "ident": "CAL2",
       "type": "heliport",
       "name": "Arrow Lakes Hospital Heliport",
@@ -10258,15 +11868,6 @@
       "coordinates": "48.862529, -123.508717"
     },
     {
-      "ident": "CAL8",
-      "type": "closed",
-      "name": "Port Alice/Jeune Landing Seaplane Base",
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Port Alice",
-      "coordinates": "50.423233, -127.486232"
-    },
-    {
       "ident": "CAL9",
       "type": "seaplane_base",
       "name": "Tahsis Seaplane Base",
@@ -10315,16 +11916,6 @@
       "gps_code": "CAM5",
       "local_code": "CAM5",
       "coordinates": "54.440299, -126.780023"
-    },
-    {
-      "ident": "CAM7",
-      "type": "closed",
-      "name": "Kamloops (BC Hydro) Heliport",
-      "elevation_ft": 1770.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Kamloops",
-      "coordinates": "50.666766, -120.370989"
     },
     {
       "ident": "CAM8",
@@ -10381,26 +11972,6 @@
       "gps_code": "CAN6",
       "local_code": "CAN6",
       "coordinates": "54.313646, -130.405058"
-    },
-    {
-      "ident": "CAN8",
-      "type": "closed",
-      "name": "Port Simpson Seaplane Base",
-      "elevation_ft": 0.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Lax Kw'alaams",
-      "coordinates": "54.5667, -130.432999"
-    },
-    {
-      "ident": "CAN9",
-      "type": "closed",
-      "name": "Vanderhoof (District) Seaplane Base",
-      "elevation_ft": 2050.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Vanderhoof",
-      "coordinates": "54.0206, -123.995001"
     },
     {
       "ident": "CAP3",
@@ -10532,16 +12103,6 @@
       "coordinates": "49.887335, -124.53372"
     },
     {
-      "ident": "CAR2",
-      "type": "closed",
-      "name": "Crawford Bay Airport",
-      "elevation_ft": 1760.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Crawford Bay",
-      "coordinates": "49.668111, -116.818"
-    },
-    {
       "ident": "CAR4",
       "type": "small_airport",
       "name": "Cameron/Arbour Airfield",
@@ -10597,16 +12158,6 @@
       "coordinates": "53.073803, -125.408358"
     },
     {
-      "ident": "CAS3",
-      "type": "closed",
-      "name": "Barkerville Airport",
-      "elevation_ft": 4060.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Barkerville",
-      "coordinates": "53.0881, -121.514999"
-    },
-    {
       "ident": "CAS4",
       "type": "seaplane_base",
       "name": "Fort Langley Seaplane Base",
@@ -10629,16 +12180,6 @@
       "gps_code": "CAS5",
       "local_code": "CAS5",
       "coordinates": "49.3074, -124.413302"
-    },
-    {
-      "ident": "CAS8",
-      "type": "closed",
-      "name": "Roberval (Air Saguenay) Water Aerodrome",
-      "elevation_ft": 321.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Roberval",
-      "coordinates": "48.526, -72.22"
     },
     {
       "ident": "CAT1",
@@ -10759,25 +12300,6 @@
       "iata_code": "YRN",
       "local_code": "CAU8",
       "coordinates": "51.683985, -127.264044"
-    },
-    {
-      "ident": "CAU9",
-      "type": "closed",
-      "name": "Fort Grahame Seaplane Base",
-      "elevation_ft": 2205.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "coordinates": "56.5275, -124.473"
-    },
-    {
-      "ident": "CAV2",
-      "type": "closed",
-      "name": "Hope (Fraser Canyon Hospital) Heliport",
-      "elevation_ft": 114.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Hope",
-      "coordinates": "49.376911, -121.423465"
     },
     {
       "ident": "CAV3",
@@ -11008,16 +12530,6 @@
       "coordinates": "54.716702, -127.050005"
     },
     {
-      "ident": "CAY2",
-      "type": "closed",
-      "name": "Gang Ranch Airport",
-      "elevation_ft": 2150.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Gang Ranch",
-      "coordinates": "51.551862, -122.327932"
-    },
-    {
       "ident": "CAY4",
       "type": "seaplane_base",
       "name": "Hartley Bay Seaplane Base",
@@ -11040,16 +12552,6 @@
       "municipality": "Ayr",
       "gps_code": "CAY5",
       "coordinates": "43.305173, -80.499759"
-    },
-    {
-      "ident": "CAY7",
-      "type": "closed",
-      "name": "Mission Seaplane Base",
-      "elevation_ft": 10.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Mission",
-      "coordinates": "49.127765, -122.301961"
     },
     {
       "ident": "CAY9",
@@ -11171,16 +12673,6 @@
       "coordinates": "56.271002, -124.063282"
     },
     {
-      "ident": "CBB2",
-      "type": "closed",
-      "name": "Campbell River (West Coast) Heliport",
-      "elevation_ft": 7.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Campbell River",
-      "coordinates": "50.046398, -125.252996"
-    },
-    {
       "ident": "CBB3",
       "type": "seaplane_base",
       "name": "Lake Muskoka/Boyd Bay Seaplane Base",
@@ -11227,16 +12719,6 @@
       "gps_code": "CBB6",
       "local_code": "CBB6",
       "coordinates": "56.395182, -129.945021"
-    },
-    {
-      "ident": "CBB7",
-      "type": "closed",
-      "name": "Tipella Airport",
-      "elevation_ft": 55.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Tipella",
-      "coordinates": "49.743099, -122.163002"
     },
     {
       "ident": "CBB8",
@@ -11310,16 +12792,6 @@
       "coordinates": "50.66903, -120.333002"
     },
     {
-      "ident": "CBC5",
-      "type": "closed",
-      "name": "Victoria (BC Hydro) Heliport",
-      "elevation_ft": 40.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Victoria",
-      "coordinates": "48.490004, -123.390292"
-    },
-    {
       "ident": "CBC6",
       "type": "heliport",
       "name": "Calgary / Blue-Con Heliport",
@@ -11378,25 +12850,6 @@
       "gps_code": "CBD2",
       "local_code": "CBD2",
       "coordinates": "49.1199607211, -123.047267944"
-    },
-    {
-      "ident": "CBD3",
-      "type": "closed",
-      "name": "Dawson Creek Seaplane Base",
-      "elevation_ft": 2145.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "coordinates": "55.744274, -120.182942"
-    },
-    {
-      "ident": "CBD5",
-      "type": "closed",
-      "name": "Takla Narrows Airport",
-      "elevation_ft": 2380.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Takla Narrows",
-      "coordinates": "55.163549, -125.706124"
     },
     {
       "ident": "CBD6",
@@ -11938,16 +13391,6 @@
       "coordinates": "44.529449, -80.354669"
     },
     {
-      "ident": "CBM5",
-      "type": "closed",
-      "name": "Telegraph Creek Airport",
-      "elevation_ft": 1100.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Telegraph Creek",
-      "coordinates": "57.914369, -131.125592"
-    },
-    {
       "ident": "CBM6",
       "type": "small_airport",
       "name": "Midway Airport",
@@ -12353,16 +13796,6 @@
       "coordinates": "51.297048, -116.966994"
     },
     {
-      "ident": "CBT6",
-      "type": "closed",
-      "name": "Quilchena Airport",
-      "elevation_ft": 2100.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Quilchena",
-      "coordinates": "50.162154, -120.506935"
-    },
-    {
       "ident": "CBT9",
       "type": "heliport",
       "name": "Sproat Lake Tanker Base Heliport",
@@ -12409,16 +13842,6 @@
       "gps_code": "CBU5",
       "local_code": "CBU5",
       "coordinates": "54.5108709665, -128.597647548"
-    },
-    {
-      "ident": "CBU6",
-      "type": "closed",
-      "name": "Mission (Memorial Hospital) Heliport",
-      "elevation_ft": 174.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Mission",
-      "coordinates": "49.1362047065, -122.331220061"
     },
     {
       "ident": "CBV5",
@@ -12490,16 +13913,6 @@
       "iata_code": "YBO",
       "local_code": "CBW4",
       "coordinates": "56.966702, -130.25"
-    },
-    {
-      "ident": "CBW5",
-      "type": "closed",
-      "name": "Terrace / BC Hydro Heliport",
-      "elevation_ft": 195.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Terrace",
-      "coordinates": "54.519200882300005, -128.628015518"
     },
     {
       "ident": "CBW6",
@@ -12635,15 +14048,6 @@
       "coordinates": "48.423208, -123.387526"
     },
     {
-      "ident": "CBZ8",
-      "type": "closed",
-      "name": "Rykerts Seaplane Base",
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Creston",
-      "coordinates": "49.004482, -116.503057"
-    },
-    {
       "ident": "CBZ9",
       "type": "small_airport",
       "name": "Fraser Lake Airport",
@@ -12713,26 +14117,6 @@
       "iata_code": "YWM",
       "local_code": "CCA6",
       "coordinates": "52.567377, -55.784883"
-    },
-    {
-      "ident": "CCA7",
-      "type": "closed",
-      "name": "Apple River Airport",
-      "elevation_ft": 135.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NS",
-      "municipality": "Apple River",
-      "coordinates": "45.461899, -64.821404"
-    },
-    {
-      "ident": "CCA9",
-      "type": "closed",
-      "name": "Grand River Airport",
-      "elevation_ft": 50.0,
-      "iso_country": "CA",
-      "iso_region": "CA-PE",
-      "municipality": "Grand River",
-      "coordinates": "46.481269, -63.95368"
     },
     {
       "ident": "CCB2",
@@ -12864,15 +14248,6 @@
       "coordinates": "54.9105, -59.78507"
     },
     {
-      "ident": "CCE2",
-      "type": "closed",
-      "name": "Mount Pleasant Airport",
-      "iso_country": "CA",
-      "iso_region": "CA-PE",
-      "municipality": "Ellerslie",
-      "coordinates": "46.598189, -64.00661"
-    },
-    {
       "ident": "CCE3",
       "type": "small_airport",
       "name": "Juniper Airport",
@@ -12978,16 +14353,6 @@
       "gps_code": "CCF9",
       "local_code": "CCF9",
       "coordinates": "45.9603, -67.095299"
-    },
-    {
-      "ident": "CCG2",
-      "type": "closed",
-      "name": "Lac Gobeil Water Aerodrome",
-      "elevation_ft": 450.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Grandes-Bergeronnes",
-      "coordinates": "48.241699, -69.647202"
     },
     {
       "ident": "CCG3",
@@ -13267,15 +14632,6 @@
       "coordinates": "44.71329879760742, -66.79640197753906"
     },
     {
-      "ident": "CCN3",
-      "type": "closed",
-      "name": "Caroline Airfield",
-      "elevation_ft": 3540.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "coordinates": "52.1043173886, -114.775350094"
-    },
-    {
       "ident": "CCN4",
       "type": "small_airport",
       "name": "Conn Field",
@@ -13454,16 +14810,6 @@
       "gps_code": "CCR9",
       "local_code": "CCR9",
       "coordinates": "44.346504, -80.1336"
-    },
-    {
-      "ident": "CCRH",
-      "type": "closed",
-      "name": "Campbellton (Regional Hospital) Heliport",
-      "elevation_ft": 76.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NB",
-      "municipality": "Campbellton",
-      "coordinates": "47.994175876099995, -66.6654655337"
     },
     {
       "ident": "CCS2",
@@ -13813,16 +15159,6 @@
       "coordinates": "43.7502981388, -65.3097081184"
     },
     {
-      "ident": "CDA3",
-      "type": "closed",
-      "name": "Valley Airport",
-      "elevation_ft": 175.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NS",
-      "municipality": "Valley",
-      "coordinates": "45.396702, -63.215599"
-    },
-    {
       "ident": "CDA4",
       "type": "small_airport",
       "name": "Pokemouche Airport",
@@ -14084,16 +15420,6 @@
       "coordinates": "43.836245, -81.606746"
     },
     {
-      "ident": "CDH1",
-      "type": "closed",
-      "name": "Deerhurst Resort Airport",
-      "elevation_ft": 1029.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Huntsville",
-      "coordinates": "45.354198, -79.151398"
-    },
-    {
       "ident": "CDH2",
       "type": "heliport",
       "name": "Drumheller (Health Centre) Heliport",
@@ -14334,15 +15660,6 @@
       "coordinates": "44.502, -78.618"
     },
     {
-      "ident": "CDS6",
-      "type": "closed",
-      "name": "Parry Sound/Derbyshire Island Seaplane Base",
-      "elevation_ft": 580.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "coordinates": "45.2447013855, -80.1549987793"
-    },
-    {
       "ident": "CDT2",
       "type": "seaplane_base",
       "name": "Hoopers Lake Seaplane Base",
@@ -14487,16 +15804,6 @@
       "coordinates": "44.502, -78.617833"
     },
     {
-      "ident": "CDU9",
-      "type": "closed",
-      "name": "Dunnville Airport",
-      "elevation_ft": 600.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Dunnville",
-      "coordinates": "42.8722, -79.595802"
-    },
-    {
       "ident": "CDV2",
       "type": "small_airport",
       "name": "Downs Gulch Airport",
@@ -14521,16 +15828,6 @@
       "coordinates": "46.255493, -63.098887"
     },
     {
-      "ident": "CDV4",
-      "type": "closed",
-      "name": "Canadian Skydive Centre Airport",
-      "elevation_ft": 3470.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Didsbury",
-      "coordinates": "51.6322, -114.1099"
-    },
-    {
       "ident": "CDW2",
       "type": "small_airport",
       "name": "Baddeck (Crown Jewel) Airport",
@@ -14541,16 +15838,6 @@
       "gps_code": "CDW2",
       "local_code": "CDW2",
       "coordinates": "46.165000915527344, -60.78390121459961"
-    },
-    {
-      "ident": "CDY2",
-      "type": "closed",
-      "name": "Halifax (South Battery) Heliport",
-      "elevation_ft": 10.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NS",
-      "municipality": "Halifax",
-      "coordinates": "44.643736893399996, -63.5677018762"
     },
     {
       "ident": "CDY3",
@@ -14623,26 +15910,6 @@
       "gps_code": "CEA6",
       "local_code": "CEA6",
       "coordinates": "49.163631, -113.241888"
-    },
-    {
-      "ident": "CEA8",
-      "type": "closed",
-      "name": "Brabant Lodge Water Aerodrome",
-      "elevation_ft": 514.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Fort Providence",
-      "coordinates": "61.059, -116.6005"
-    },
-    {
-      "ident": "CEB3",
-      "type": "closed",
-      "name": "Colville Lake Airport",
-      "elevation_ft": 850.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Colville Lake",
-      "coordinates": "67.0392, -126.08"
     },
     {
       "ident": "CEB4",
@@ -14740,16 +16007,6 @@
       "gps_code": "CEC5",
       "local_code": "CEC5",
       "coordinates": "60.002822, -111.908967"
-    },
-    {
-      "ident": "CED2",
-      "type": "closed",
-      "name": "Chinchaga Airport",
-      "elevation_ft": 2280.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Chinchaga",
-      "coordinates": "57.5428009033, -119.130996704"
     },
     {
       "ident": "CED3",
@@ -14941,16 +16198,6 @@
       "coordinates": "51.263901, -113.933998"
     },
     {
-      "ident": "CEF6",
-      "type": "closed",
-      "name": "S.I.R.Bernard Forestburg Airpark",
-      "elevation_ft": 2334.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Forestburg",
-      "coordinates": "52.573786, -112.083664"
-    },
-    {
       "ident": "CEF8",
       "type": "seaplane_base",
       "name": "Hay River Seaplane Base",
@@ -14972,16 +16219,6 @@
       "gps_code": "CEF9",
       "local_code": "CEF9",
       "coordinates": "61.748904, -139.246004"
-    },
-    {
-      "ident": "CEG2",
-      "type": "closed",
-      "name": "Acme Airport",
-      "elevation_ft": 3035.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Acme",
-      "coordinates": "51.456402, -113.514999"
     },
     {
       "ident": "CEG3",
@@ -15124,16 +16361,6 @@
       "coordinates": "52.33810043334961, -110.27899932861328"
     },
     {
-      "ident": "CEH7",
-      "type": "closed",
-      "name": "Yellowknife (Regional Hospital) Heliport",
-      "elevation_ft": 650.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Yellowknife",
-      "coordinates": "62.447498, -114.405998"
-    },
-    {
       "ident": "CEH8",
       "type": "heliport",
       "name": "Évasion Hélicoptère Heliport",
@@ -15156,16 +16383,6 @@
       "gps_code": "CEH9",
       "local_code": "CEH9",
       "coordinates": "45.349597, -63.305465"
-    },
-    {
-      "ident": "CEJ2",
-      "type": "closed",
-      "name": "Andrew Airport",
-      "elevation_ft": 2060.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Andrew",
-      "coordinates": "53.87471, -112.364783"
     },
     {
       "ident": "CEJ3",
@@ -15192,16 +16409,6 @@
       "coordinates": "50.00469970703125, -113.62999725341797"
     },
     {
-      "ident": "CEJ5",
-      "type": "closed",
-      "name": "Cadotte Airport",
-      "elevation_ft": 1900.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Cadotte Lake",
-      "coordinates": "56.457558, -116.353841"
-    },
-    {
       "ident": "CEJ6",
       "type": "small_airport",
       "name": "Elk Point Airport",
@@ -15212,16 +16419,6 @@
       "gps_code": "CEJ6",
       "local_code": "CEJ6",
       "coordinates": "53.892946, -110.772017"
-    },
-    {
-      "ident": "CEJ7",
-      "type": "closed",
-      "name": "Fitzgerald Water Aerodrome",
-      "elevation_ft": 653.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Fort Smith",
-      "coordinates": "59.858, -111.597"
     },
     {
       "ident": "CEJ9",
@@ -15245,16 +16442,6 @@
       "gps_code": "CEK2",
       "local_code": "CEK2",
       "coordinates": "61.48440170288086, -135.7760009765625"
-    },
-    {
-      "ident": "CEK4",
-      "type": "closed",
-      "name": "Blairmore (Forestry) Heliport",
-      "elevation_ft": 4224.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Blairmore",
-      "coordinates": "49.608601, -114.450996"
     },
     {
       "ident": "CEK6",
@@ -15626,16 +16813,6 @@
       "coordinates": "48.9986000061, -112.776000977"
     },
     {
-      "ident": "CEQ5",
-      "type": "closed",
-      "name": "Grande Cache Airport",
-      "elevation_ft": 4117.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Grande Cache",
-      "coordinates": "53.916901, -118.874001"
-    },
-    {
       "ident": "CEQ8",
       "type": "seaplane_base",
       "name": "Whatì Seaplane Base",
@@ -15684,16 +16861,6 @@
       "iata_code": "NML",
       "local_code": "CER4",
       "coordinates": "57.0555992126, -111.573997498"
-    },
-    {
-      "ident": "CER5",
-      "type": "closed",
-      "name": "Conklin Airport",
-      "elevation_ft": 1850.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Conklin",
-      "coordinates": "55.6347007751, -111.087997437"
     },
     {
       "ident": "CER6",
@@ -15849,16 +17016,6 @@
       "coordinates": "60.785723, -115.82369"
     },
     {
-      "ident": "CET8",
-      "type": "closed",
-      "name": "Nahanni Butte Seaplane Base",
-      "elevation_ft": 550.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Nahanni Butte",
-      "coordinates": "61.033298, -123.349998"
-    },
-    {
       "ident": "CET9",
       "type": "small_airport",
       "name": "Jean Marie River Airport",
@@ -15904,16 +17061,6 @@
       "gps_code": "CEU8",
       "local_code": "CEU8",
       "coordinates": "65.25861, -126.691591"
-    },
-    {
-      "ident": "CEU9",
-      "type": "closed",
-      "name": "Trout Lake Airport",
-      "elevation_ft": 1635.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Sambaa K'e",
-      "coordinates": "60.440216, -121.236198"
     },
     {
       "ident": "CEV2",
@@ -16069,16 +17216,6 @@
       "gps_code": "CEX4",
       "local_code": "CEX4",
       "coordinates": "62.11063, -136.179993"
-    },
-    {
-      "ident": "CEX5",
-      "type": "closed",
-      "name": "Zama Airport",
-      "elevation_ft": 1296.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Zama",
-      "coordinates": "59.1519012451, -118.707000732"
     },
     {
       "ident": "CEX9",
@@ -16416,26 +17553,6 @@
       "coordinates": "61.836919883099995, -121.325728297"
     },
     {
-      "ident": "CFD9",
-      "type": "closed",
-      "name": "Bjorgum Farm Airport",
-      "elevation_ft": 2415.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Bjorgum Farm",
-      "coordinates": "53.083302, -112.803001"
-    },
-    {
-      "ident": "CFE6",
-      "type": "closed",
-      "name": "St. Francis Airport",
-      "elevation_ft": 2649.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "St. Francis",
-      "coordinates": "53.2756004333, -114.449996948"
-    },
-    {
       "ident": "CFE7",
       "type": "heliport",
       "name": "Kananaskis Village Helistop",
@@ -16580,16 +17697,6 @@
       "coordinates": "57.275833, -110.976666"
     },
     {
-      "ident": "CFG7",
-      "type": "closed",
-      "name": "Steen Tower Airport",
-      "elevation_ft": 2320.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Steen Tower",
-      "coordinates": "59.633301, -117.782997"
-    },
-    {
       "ident": "CFG8",
       "type": "seaplane_base",
       "name": "Fenelon Falls/Sturgeon Lake Seaplane Base",
@@ -16671,16 +17778,6 @@
       "gps_code": "CFK2",
       "local_code": "CFK2",
       "coordinates": "52.557889, -112.964071"
-    },
-    {
-      "ident": "CFK3",
-      "type": "closed",
-      "name": "Fontas Airport",
-      "elevation_ft": 2950.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Fontas",
-      "coordinates": "57.795974, -119.456692"
     },
     {
       "ident": "CFK4",
@@ -16780,16 +17877,6 @@
       "coordinates": "55.7094, -117.094002"
     },
     {
-      "ident": "CFM5",
-      "type": "closed",
-      "name": "Hamburg Airport",
-      "elevation_ft": 2540.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Manning",
-      "coordinates": "57.355285, -119.76531"
-    },
-    {
       "ident": "CFM6",
       "type": "small_airport",
       "name": "Teepee Airport",
@@ -16838,26 +17925,6 @@
       "coordinates": "49.725975, -113.392858"
     },
     {
-      "ident": "CFN2",
-      "type": "closed",
-      "name": "Fort Nelson (Mile 301) Heliport",
-      "elevation_ft": 1400.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Fort Nelson",
-      "coordinates": "58.805852, -122.728829"
-    },
-    {
-      "ident": "CFN4",
-      "type": "closed",
-      "name": "Embarras Airport",
-      "elevation_ft": 778.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Embarras",
-      "coordinates": "58.2047490455, -111.383900642"
-    },
-    {
       "ident": "CFN5",
       "type": "small_airport",
       "name": "La Crete Airport",
@@ -16904,16 +17971,6 @@
       "gps_code": "CFP2",
       "local_code": "CFP2",
       "coordinates": "45.273701, -79.012101"
-    },
-    {
-      "ident": "CFP3",
-      "type": "closed",
-      "name": "Calgary (Foothills Hospital) Heliport",
-      "elevation_ft": 3635.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Calgary",
-      "coordinates": "51.065572, -114.133186"
     },
     {
       "ident": "CFP4",
@@ -16974,16 +18031,6 @@
       "gps_code": "CFP8",
       "local_code": "CFP8",
       "coordinates": "60.8117343999, -135.182132721"
-    },
-    {
-      "ident": "CFQ2",
-      "type": "closed",
-      "name": "Calgary (Westport) Heliport",
-      "elevation_ft": 3983.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Calgary",
-      "coordinates": "51.0367012024, -114.195999146"
     },
     {
       "ident": "CFQ3",
@@ -17187,16 +18234,6 @@
       "coordinates": "51.988098, -115.227997"
     },
     {
-      "ident": "CFS9",
-      "type": "closed",
-      "name": "Vancouver (Vancouver Film Studios) Heliport",
-      "elevation_ft": 50.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Vancouver",
-      "coordinates": "49.260877, -123.028082"
-    },
-    {
       "ident": "CFT2",
       "type": "small_airport",
       "name": "Wilderman Farm Airport",
@@ -17243,16 +18280,6 @@
       "gps_code": "CFT8",
       "local_code": "CFT8",
       "coordinates": "56.16080093383789, -113.4739990234375"
-    },
-    {
-      "ident": "CFT9",
-      "type": "closed",
-      "name": "Zama Lake Airport",
-      "elevation_ft": 1242.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Zama Lake",
-      "coordinates": "59.0639, -118.889999"
     },
     {
       "ident": "CFU3",
@@ -17554,16 +18581,6 @@
       "coordinates": "50.65439987182617, -114.34400177001953"
     },
     {
-      "ident": "CFY8",
-      "type": "closed",
-      "name": "Colomac Airport",
-      "elevation_ft": 1073.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NT",
-      "municipality": "Colomac",
-      "coordinates": "64.3850021362, -115.125"
-    },
-    {
       "ident": "CFZ3",
       "type": "small_airport",
       "name": "Schlenker Airport",
@@ -17644,16 +18661,6 @@
       "gps_code": "CGF2",
       "local_code": "CGF2",
       "coordinates": "53.576289, -112.982025"
-    },
-    {
-      "ident": "CGF3",
-      "type": "closed",
-      "name": "Guliker Field",
-      "elevation_ft": 1620.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Hague",
-      "coordinates": "52.526743, -106.359473"
     },
     {
       "ident": "CGF4",
@@ -17771,25 +18778,6 @@
       "gps_code": "CGM2",
       "local_code": "CGM2",
       "coordinates": "54.12189865112305, -112.46600341796875"
-    },
-    {
-      "ident": "CGN1",
-      "type": "closed",
-      "name": "Gananoque Seaplane Base",
-      "elevation_ft": 246.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "coordinates": "44.32500076293945, -76.15689849853516"
-    },
-    {
-      "ident": "CGN2",
-      "type": "closed",
-      "name": "Golden (Canadian Helicopters) Heliport",
-      "elevation_ft": 2575.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Golden",
-      "coordinates": "51.304475, -116.983535"
     },
     {
       "ident": "CGN3",
@@ -17918,16 +18906,6 @@
       "coordinates": "43.964207, -80.35611"
     },
     {
-      "ident": "CGV4",
-      "type": "closed",
-      "name": "Grand Valley (Madill Field)",
-      "elevation_ft": 1530.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "East Garafraxa",
-      "coordinates": "43.861886, -80.266671"
-    },
-    {
       "ident": "CGV5",
       "type": "small_airport",
       "name": "Grand Valley (Black Field)",
@@ -17997,16 +18975,6 @@
       "coordinates": "58.7664, -94.1677"
     },
     {
-      "ident": "CHC2",
-      "type": "closed",
-      "name": "Stewart (Health Centre) Heliport",
-      "elevation_ft": 26.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Stewart",
-      "coordinates": "55.940299987799996, -129.990997314"
-    },
-    {
       "ident": "CHC3",
       "type": "heliport",
       "name": "Barrhead (Healthcare Centre) Heliport",
@@ -18017,16 +18985,6 @@
       "gps_code": "CHC3",
       "local_code": "CHC3",
       "coordinates": "54.1182820612, -114.400066137"
-    },
-    {
-      "ident": "CHC4",
-      "type": "closed",
-      "name": "Ponoka (Hospital & Care Centre) Heliport",
-      "elevation_ft": 2676.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Ponoka",
-      "coordinates": "52.685237, -113.589392"
     },
     {
       "ident": "CHC5",
@@ -18148,16 +19106,6 @@
       "coordinates": "54.588661, -112.801913"
     },
     {
-      "ident": "CHK2",
-      "type": "closed",
-      "name": "Aldergrove (Hicks) Heliport",
-      "elevation_ft": 300.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Aldergrove",
-      "coordinates": "49.108781, -122.480052"
-    },
-    {
       "ident": "CHL2",
       "type": "small_airport",
       "name": "Hillaton/Kings Aerodrome",
@@ -18227,16 +19175,6 @@
       "coordinates": "46.1953, -74.571201"
     },
     {
-      "ident": "CHQ2",
-      "type": "closed",
-      "name": "Chicoutimi (Hydro-Québec) Heliport",
-      "elevation_ft": 451.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Chicoutimi",
-      "coordinates": "48.400001525878906, -71.11689758300781"
-    },
-    {
       "ident": "CHQE",
       "type": "heliport",
       "name": "Halifax (Queen Elizabeth II Health Science Centre) Heliport",
@@ -18259,16 +19197,6 @@
       "gps_code": "CHR2",
       "local_code": "CHR2",
       "coordinates": "50.5761, -113.8793"
-    },
-    {
-      "ident": "CHS2",
-      "type": "closed",
-      "name": "Highgate South Airport",
-      "elevation_ft": 740.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Highgate",
-      "coordinates": "42.468953, -81.831107"
     },
     {
       "ident": "CHS3",
@@ -18438,16 +19366,6 @@
       "coordinates": "49.626755, -102.485747"
     },
     {
-      "ident": "CJA8",
-      "type": "closed",
-      "name": "Deer Lake Seaplane Base",
-      "elevation_ft": 1017.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Deer Lake First Nation",
-      "coordinates": "52.616699, -94.050003"
-    },
-    {
       "ident": "CJA9",
       "type": "seaplane_base",
       "name": "Hudson Seaplane Base",
@@ -18615,16 +19533,6 @@
       "coordinates": "56.2486000061, -101.304000854"
     },
     {
-      "ident": "CJC9",
-      "type": "closed",
-      "name": "Buffalo Narrows Heliport",
-      "elevation_ft": 1392.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Buffalo Narrows",
-      "coordinates": "55.868598938, -108.482002258"
-    },
-    {
       "ident": "CJD2",
       "type": "small_airport",
       "name": "Cudworth Municipal Airport",
@@ -18754,16 +19662,6 @@
       "coordinates": "53.377201080322266, -108.34200286865234"
     },
     {
-      "ident": "CJE6",
-      "type": "closed",
-      "name": "Paradise Hill Airport",
-      "elevation_ft": 1927.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Paradise Hill",
-      "coordinates": "53.535389, -109.436273"
-    },
-    {
       "ident": "CJE7",
       "type": "small_airport",
       "name": "Ashern Airport",
@@ -18833,16 +19731,6 @@
       "gps_code": "CJF4",
       "local_code": "CJF4",
       "coordinates": "50.860523, -110.651743"
-    },
-    {
-      "ident": "CJF5",
-      "type": "closed",
-      "name": "West Poplar Airport",
-      "elevation_ft": 2885.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "West Poplar",
-      "coordinates": "49.003101, -106.387001"
     },
     {
       "ident": "CJF6",
@@ -18938,16 +19826,6 @@
       "gps_code": "CJH6",
       "local_code": "CJH6",
       "coordinates": "48.766701, -91.666702"
-    },
-    {
-      "ident": "CJH7",
-      "type": "closed",
-      "name": "Beechy Airport",
-      "elevation_ft": 2100.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Beechy",
-      "coordinates": "50.837031367399995, -107.367753983"
     },
     {
       "ident": "CJH8",
@@ -19474,16 +20352,6 @@
       "gps_code": "CJQ4",
       "local_code": "CJQ4",
       "coordinates": "49.89580154418945, -109.4749984741211"
-    },
-    {
-      "ident": "CJQ5",
-      "type": "closed",
-      "name": "Arnes Airport",
-      "elevation_ft": 725.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Arnes",
-      "coordinates": "50.836103, -96.957199"
     },
     {
       "ident": "CJQ6",
@@ -20044,16 +20912,6 @@
       "coordinates": "50.400002, -95.75"
     },
     {
-      "ident": "CJX7",
-      "type": "closed",
-      "name": "Old Arctic Bay Airport",
-      "elevation_ft": 100.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NU",
-      "municipality": "Arctic Bay",
-      "coordinates": "73.00585, -85.035439"
-    },
-    {
       "ident": "CJX8",
       "type": "seaplane_base",
       "name": "Hatchet Lake Seaplane Base",
@@ -20113,16 +20971,6 @@
       "coordinates": "51.016701, -95.683296"
     },
     {
-      "ident": "CJY9",
-      "type": "closed",
-      "name": "La Loche Seaplane Base",
-      "elevation_ft": 1467.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "La Loche",
-      "coordinates": "56.483299, -109.417"
-    },
-    {
       "ident": "CJZ2",
       "type": "small_airport",
       "name": "Portage La Prairie (North) Airport",
@@ -20157,16 +21005,6 @@
       "gps_code": "CJZ4",
       "local_code": "CJZ4",
       "coordinates": "53.22829818725586, -106.36299896240234"
-    },
-    {
-      "ident": "CJZ5",
-      "type": "closed",
-      "name": "Virden (West) Airport",
-      "elevation_ft": 1510.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Virden",
-      "coordinates": "49.8833007812, -101.067001343"
     },
     {
       "ident": "CJZ6",
@@ -20372,16 +21210,6 @@
       "gps_code": "CKC2",
       "local_code": "CKC2",
       "coordinates": "58.266701, -104.083"
-    },
-    {
-      "ident": "CKC3",
-      "type": "closed",
-      "name": "Grace Lake Seaplane Base",
-      "elevation_ft": 855.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "The Pas",
-      "coordinates": "53.82072, -101.192665"
     },
     {
       "ident": "CKC5",
@@ -20949,16 +21777,6 @@
       "coordinates": "49.03889846801758, -102.97599792480469"
     },
     {
-      "ident": "CKK5",
-      "type": "closed",
-      "name": "Eastend Airport",
-      "elevation_ft": 3040.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Eastend",
-      "coordinates": "49.54974, -108.797312"
-    },
-    {
       "ident": "CKK6",
       "type": "seaplane_base",
       "name": "Wabowden Seaplane Base",
@@ -21016,16 +21834,6 @@
       "iata_code": "WNN",
       "local_code": "CKL3",
       "coordinates": "52.893902, -89.2892"
-    },
-    {
-      "ident": "CKL4",
-      "type": "closed",
-      "name": "Hidden Bay Airport",
-      "elevation_ft": 1444.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Hidden Bay",
-      "coordinates": "58.127899169921875, -103.77976989746094"
     },
     {
       "ident": "CKL5",
@@ -21172,16 +21980,6 @@
       "coordinates": "45.094006202399996, -64.5095676184"
     },
     {
-      "ident": "CKN3",
-      "type": "closed",
-      "name": "Kahntah Airport",
-      "elevation_ft": 1630.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Kahntah",
-      "coordinates": "58.041502, -120.9092"
-    },
-    {
       "ident": "CKN5",
       "type": "small_airport",
       "name": "Fillmore Airport",
@@ -21192,15 +21990,6 @@
       "gps_code": "CKN5",
       "local_code": "CKN5",
       "coordinates": "49.868900299072266, -103.44499969482422"
-    },
-    {
-      "ident": "CKN6",
-      "type": "closed",
-      "name": "Armstrong/Waweig Lake Seaplane Base",
-      "elevation_ft": 1025.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "coordinates": "50.133301, -89.116699"
     },
     {
       "ident": "CKN8",
@@ -21248,16 +22037,6 @@
       "gps_code": "CKP3",
       "local_code": "CKP3",
       "coordinates": "49.983299, -94.716698"
-    },
-    {
-      "ident": "CKP4",
-      "type": "closed",
-      "name": "Pukatawagan Seaplane Base",
-      "elevation_ft": 898.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Pukatawagan",
-      "coordinates": "55.736696, -101.327002"
     },
     {
       "ident": "CKP5",
@@ -21412,16 +22191,6 @@
       "coordinates": "51.912769, -109.133416"
     },
     {
-      "ident": "CKR3",
-      "type": "closed",
-      "name": "Ste. Rose du Lac Airport",
-      "elevation_ft": 900.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Ste. Rose du Lac",
-      "coordinates": "51.040798, -99.494784"
-    },
-    {
       "ident": "CKR4",
       "type": "small_airport",
       "name": "Lundar Airport",
@@ -21434,16 +22203,6 @@
       "coordinates": "50.70330047607422, -98.05670166015625"
     },
     {
-      "ident": "CKR5",
-      "type": "closed",
-      "name": "Lumsden (Metz) Airport",
-      "elevation_ft": 1791.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Lumsden",
-      "coordinates": "50.717201232899995, -104.96900177"
-    },
-    {
       "ident": "CKR7",
       "type": "small_airport",
       "name": "Virden (Gabrielle Farm) Airport",
@@ -21454,16 +22213,6 @@
       "gps_code": "CKR7",
       "local_code": "CKR7",
       "coordinates": "49.784698486328125, -100.95600128173828"
-    },
-    {
-      "ident": "CKR9",
-      "type": "closed",
-      "name": "Outlook Airport",
-      "elevation_ft": 1771.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Outlook",
-      "coordinates": "51.482498, -107.037003"
     },
     {
       "ident": "CKS2",
@@ -21547,16 +22296,6 @@
       "gps_code": "CKS9",
       "local_code": "CKS9",
       "coordinates": "44.116446, -81.695323"
-    },
-    {
-      "ident": "CKT2",
-      "type": "closed",
-      "name": "Thompson (Canadian Helicopters) Heliport",
-      "elevation_ft": 630.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Thompson",
-      "coordinates": "55.766700744628906, -97.81670379638672"
     },
     {
       "ident": "CKT3",
@@ -21828,16 +22567,6 @@
       "coordinates": "56.88330078125, -103.58300018310547"
     },
     {
-      "ident": "CKW7",
-      "type": "closed",
-      "name": "Wilkie Airport",
-      "elevation_ft": 2149.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Wilkie",
-      "coordinates": "52.403099, -108.720001"
-    },
-    {
       "ident": "CKW8",
       "type": "seaplane_base",
       "name": "Knee Lake Seaplane Base",
@@ -21847,26 +22576,6 @@
       "gps_code": "CKW8",
       "local_code": "CKW8",
       "coordinates": "54.8908, -94.807503"
-    },
-    {
-      "ident": "CKX2",
-      "type": "closed",
-      "name": "Warren / Woodlands Airport",
-      "elevation_ft": 817.0,
-      "iso_country": "CA",
-      "iso_region": "CA-MB",
-      "municipality": "Warren",
-      "coordinates": "50.159401, -97.591104"
-    },
-    {
-      "ident": "CKX3",
-      "type": "closed",
-      "name": "Eagle River Airport",
-      "elevation_ft": 1210.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Eagle River",
-      "coordinates": "49.7556525536, -93.1401157379"
     },
     {
       "ident": "CKX4",
@@ -21940,16 +22649,6 @@
       "coordinates": "45.96882, -81.507547"
     },
     {
-      "ident": "CKY6",
-      "type": "closed",
-      "name": "Gainsborough Airport",
-      "elevation_ft": 1650.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Gainsborough",
-      "coordinates": "49.1833000183, -101.432998657"
-    },
-    {
       "ident": "CKY8",
       "type": "small_airport",
       "name": "Arkayla Springs Airport",
@@ -21960,16 +22659,6 @@
       "gps_code": "CKY8",
       "local_code": "CKY8",
       "coordinates": "51.203569, -114.776329"
-    },
-    {
-      "ident": "CKZ2",
-      "type": "closed",
-      "name": "Willow Bunch Airport",
-      "elevation_ft": 2427.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Willow Bunch",
-      "coordinates": "49.400002, -105.667"
     },
     {
       "ident": "CKZ3",
@@ -22252,16 +22941,6 @@
       "coordinates": "45.235, -79.744"
     },
     {
-      "ident": "CLK3",
-      "type": "closed",
-      "name": "Lucknow Airpark",
-      "elevation_ft": 960.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Lucknow",
-      "coordinates": "43.9678, -81.493301"
-    },
-    {
       "ident": "CLL2",
       "type": "seaplane_base",
       "name": "Langille Lake Seaplane Base",
@@ -22456,16 +23135,6 @@
       "gps_code": "CLV2",
       "local_code": "CLV2",
       "coordinates": "44.404638, -80.147978"
-    },
-    {
-      "ident": "CLW2",
-      "type": "closed",
-      "name": "Lewvan (Farr Strip) Airport",
-      "elevation_ft": 1904.0,
-      "iso_country": "CA",
-      "iso_region": "CA-SK",
-      "municipality": "Lewvan",
-      "coordinates": "49.985001, -104.114998"
     },
     {
       "ident": "CLW3",
@@ -23017,16 +23686,6 @@
       "coordinates": "44.1024562729, -79.1285777092"
     },
     {
-      "ident": "CNA8",
-      "type": "closed",
-      "name": "Winchester Airport",
-      "elevation_ft": 250.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Winchester",
-      "coordinates": "45.045600891099994, -75.3032989502"
-    },
-    {
       "ident": "CNA9",
       "type": "small_airport",
       "name": "Tomvale Airport",
@@ -23153,16 +23812,6 @@
       "coordinates": "46.533298, -81.133301"
     },
     {
-      "ident": "CNC6",
-      "type": "closed",
-      "name": "Caledonia/Grand River Seaplane Base",
-      "elevation_ft": 605.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Caledonia",
-      "coordinates": "43.086103, -80.051695"
-    },
-    {
       "ident": "CNC7",
       "type": "seaplane_base",
       "name": "Lake Muskoka/Mortimer'S Point Seaplane Base",
@@ -23197,16 +23846,6 @@
       "gps_code": "CNC9",
       "local_code": "CNC9",
       "coordinates": "44.906937941500004, -76.2536466122"
-    },
-    {
-      "ident": "CND3",
-      "type": "closed",
-      "name": "Sudbury (Regional Hospital) Heliport",
-      "elevation_ft": 912.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Sudbury",
-      "coordinates": "46.4794600253, -80.9894970059"
     },
     {
       "ident": "CND4",
@@ -23470,16 +24109,6 @@
       "coordinates": "55.913898, -61.184399"
     },
     {
-      "ident": "CNH3",
-      "type": "closed",
-      "name": "Mulock Airport",
-      "elevation_ft": 1100.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Elmwood",
-      "coordinates": "44.229198, -80.913902"
-    },
-    {
       "ident": "CNH4",
       "type": "heliport",
       "name": "Niagara Health System Heliport",
@@ -23584,16 +24213,6 @@
       "iata_code": "YWR",
       "local_code": "CNJ8",
       "coordinates": "48.6269, -85.223297"
-    },
-    {
-      "ident": "CNK2",
-      "type": "closed",
-      "name": "Ellis Field Airport",
-      "elevation_ft": 925.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Kincardine",
-      "coordinates": "44.156101, -81.400597"
     },
     {
       "ident": "CNK4",
@@ -23819,16 +24438,6 @@
       "gps_code": "CNN3",
       "local_code": "CNN3",
       "coordinates": "44.027734, -80.205922"
-    },
-    {
-      "ident": "CNN4",
-      "type": "closed",
-      "name": "Atwood Airport",
-      "elevation_ft": 1232.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Atwood",
-      "coordinates": "43.69388, -81.002626"
     },
     {
       "ident": "CNN5",
@@ -24085,26 +24694,6 @@
       "coordinates": "45.3307, -74.625725"
     },
     {
-      "ident": "CNS6",
-      "type": "closed",
-      "name": "Straffordville Airport",
-      "elevation_ft": 732.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Straffordville",
-      "coordinates": "42.738337, -80.817125"
-    },
-    {
-      "ident": "CNS8",
-      "type": "closed",
-      "name": "Morrisburg Airport",
-      "elevation_ft": 254.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Morrisburg",
-      "coordinates": "44.946993, -75.076961"
-    },
-    {
       "ident": "CNS9",
       "type": "heliport",
       "name": "Smiths Falls (Community Hospital) Heliport",
@@ -24161,16 +24750,6 @@
       "gps_code": "CNT6",
       "local_code": "CNT6",
       "coordinates": "43.58470153808594, -80.60310363769531"
-    },
-    {
-      "ident": "CNT7",
-      "type": "closed",
-      "name": "Picton Airport",
-      "elevation_ft": 465.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Prince Edward County",
-      "coordinates": "43.989201, -77.139198"
     },
     {
       "ident": "CNU3",
@@ -24313,16 +24892,6 @@
       "gps_code": "CNV9",
       "local_code": "CNV9",
       "coordinates": "46.7214759694, -71.5854978561"
-    },
-    {
-      "ident": "CNW2",
-      "type": "closed",
-      "name": "Windermere Airport",
-      "elevation_ft": 746.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Windermere",
-      "coordinates": "45.162247, -79.534251"
     },
     {
       "ident": "CNW3",
@@ -24611,15 +25180,6 @@
       "gps_code": "COS2",
       "local_code": "COS2",
       "coordinates": "42.676389, -81.451111"
-    },
-    {
-      "ident": "COW2",
-      "type": "closed",
-      "name": "Otway Heliport",
-      "elevation_ft": 1954.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "coordinates": "53.951668, -122.831665"
     },
     {
       "ident": "CPA2",
@@ -24945,26 +25505,6 @@
       "coordinates": "45.249199, -80.203598"
     },
     {
-      "ident": "CPD7",
-      "type": "closed",
-      "name": "Devon Camp Airport",
-      "elevation_ft": 1510.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Peggo",
-      "coordinates": "59.3186, -120.2769"
-    },
-    {
-      "ident": "CPD8",
-      "type": "closed",
-      "name": "Hawkesbury (Windover Field) Airport",
-      "elevation_ft": 165.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Hawkesbury",
-      "coordinates": "45.5643997192, -74.8097000122"
-    },
-    {
       "ident": "CPD9",
       "type": "heliport",
       "name": "Markdale (Centre Grey General Hospital) Heliport",
@@ -25035,26 +25575,6 @@
       "gps_code": "CPE6",
       "local_code": "CPE6",
       "coordinates": "45.82212, -79.323664"
-    },
-    {
-      "ident": "CPE7",
-      "type": "closed",
-      "name": "New Lowell Airport",
-      "elevation_ft": 625.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "New Lowell",
-      "coordinates": "44.387503, -79.943298"
-    },
-    {
-      "ident": "CPE8",
-      "type": "closed",
-      "name": "Trafalgar Memorial Hospital Heliport",
-      "elevation_ft": 362.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Oakville",
-      "coordinates": "43.47408, -79.671594"
     },
     {
       "ident": "CPE9",
@@ -25177,16 +25697,6 @@
       "coordinates": "45.582801818847656, -74.54889678955078"
     },
     {
-      "ident": "CPG6",
-      "type": "closed",
-      "name": "Pryde Field Airport",
-      "elevation_ft": 661.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Port Elgin",
-      "coordinates": "44.458229, -81.378715"
-    },
-    {
       "ident": "CPG7",
       "type": "small_airport",
       "name": "Juergensen Field",
@@ -25257,16 +25767,6 @@
       "gps_code": "CPH7",
       "local_code": "CPH7",
       "coordinates": "43.8851011299, -79.2305901647"
-    },
-    {
-      "ident": "CPH8",
-      "type": "closed",
-      "name": "Brockville (Medical) Heliport",
-      "elevation_ft": 302.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Brockville",
-      "coordinates": "44.605501669400006, -75.67983090879999"
     },
     {
       "ident": "CPH9",
@@ -25470,16 +25970,6 @@
       "coordinates": "43.28689956665039, -81.71420288085938"
     },
     {
-      "ident": "CPL5",
-      "type": "closed",
-      "name": "Thessalon Municipal Airport",
-      "elevation_ft": 750.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Thessalon",
-      "coordinates": "46.316031, -83.533244"
-    },
-    {
       "ident": "CPL6",
       "type": "small_airport",
       "name": "Parkland Airport",
@@ -25489,16 +25979,6 @@
       "municipality": "Spruce Grove",
       "gps_code": "CPL6",
       "coordinates": "53.474102, -113.824282"
-    },
-    {
-      "ident": "CPL7",
-      "type": "closed",
-      "name": "Bowmanville (Memorial Hospital) Heliport",
-      "elevation_ft": 328.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Bowmanville",
-      "coordinates": "43.909501, -78.67652"
     },
     {
       "ident": "CPL8",
@@ -25511,16 +25991,6 @@
       "gps_code": "CPL8",
       "local_code": "CPL8",
       "coordinates": "43.631272, -79.664703"
-    },
-    {
-      "ident": "CPM2",
-      "type": "closed",
-      "name": "Brampton (National \"P\") Heliport",
-      "elevation_ft": 700.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Brampton",
-      "coordinates": "43.811584, -79.698442"
     },
     {
       "ident": "CPM3",
@@ -25675,16 +26145,6 @@
       "gps_code": "CPQ3",
       "local_code": "CPQ3",
       "coordinates": "43.1190603068, -79.0753144026"
-    },
-    {
-      "ident": "CPQ4",
-      "type": "closed",
-      "name": "Lefroy Airport",
-      "elevation_ft": 724.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Lefroy",
-      "coordinates": "44.2919095924, -79.5472812653"
     },
     {
       "ident": "CPQ6",
@@ -25851,16 +26311,6 @@
       "coordinates": "45.020301818847656, -74.7177963256836"
     },
     {
-      "ident": "CPS7",
-      "type": "closed",
-      "name": "Smith Field",
-      "elevation_ft": 1450.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Orton",
-      "coordinates": "43.775179, -80.228119"
-    },
-    {
       "ident": "CPS8",
       "type": "seaplane_base",
       "name": "Parry Sound/Huron Island Seaplane Base",
@@ -25907,16 +26357,6 @@
       "gps_code": "CPT3",
       "local_code": "CPT3",
       "coordinates": "43.322200775146484, -80.17639923095703"
-    },
-    {
-      "ident": "CPT5",
-      "type": "closed",
-      "name": "Barrie/Little Lake Seaplane Base",
-      "elevation_ft": 775.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Barrie",
-      "coordinates": "44.418735, -79.665545"
     },
     {
       "ident": "CPT6",
@@ -26036,16 +26476,6 @@
       "coordinates": "43.958599, -80.154999"
     },
     {
-      "ident": "CPV3",
-      "type": "closed",
-      "name": "St. Joseph Island Airport",
-      "elevation_ft": 600.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Richards Landing",
-      "coordinates": "46.281469, -83.950531"
-    },
-    {
       "ident": "CPV4",
       "type": "small_airport",
       "name": "Mansfield Airport",
@@ -26118,16 +26548,6 @@
       "coordinates": "42.9590666613, -81.2255716324"
     },
     {
-      "ident": "CPW3",
-      "type": "closed",
-      "name": "Nobleton Airport",
-      "elevation_ft": 970.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Nobleton",
-      "coordinates": "43.93669891357422, -79.67970275878906"
-    },
-    {
       "ident": "CPW5",
       "type": "seaplane_base",
       "name": "Timmins/Porcupine Lake Seaplane Base",
@@ -26186,26 +26606,6 @@
       "coordinates": "48.71860122680664, -86.37470245361328"
     },
     {
-      "ident": "CPX3",
-      "type": "closed",
-      "name": "New Liskeard Airport",
-      "elevation_ft": 800.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "New Liskeard",
-      "coordinates": "47.53329849243164, -79.61669921875"
-    },
-    {
-      "ident": "CPX5",
-      "type": "closed",
-      "name": "Port Colborne (General Hospital) Heliport",
-      "elevation_ft": 575.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Port Colborne",
-      "coordinates": "42.8785566729, -79.25957947970001"
-    },
-    {
       "ident": "CPX6",
       "type": "heliport",
       "name": "Port Perry (Community Memorial Hospital) Heliport",
@@ -26251,16 +26651,6 @@
       "gps_code": "CPY3",
       "local_code": "CPY3",
       "coordinates": "49.60860061645508, -87.9531021118164"
-    },
-    {
-      "ident": "CPY4",
-      "type": "closed",
-      "name": "Norwood Airport",
-      "elevation_ft": 650.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Norwood",
-      "coordinates": "44.365692, -77.997785"
     },
     {
       "ident": "CPY5",
@@ -26495,15 +26885,6 @@
       "gps_code": "CRD3",
       "local_code": "CRD3",
       "coordinates": "52.26190185546875, -113.81600189208984"
-    },
-    {
-      "ident": "CRD4",
-      "type": "closed",
-      "name": "Red Deer / South 40 Airstrip",
-      "elevation_ft": 3040.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "coordinates": "52.261944, -113.951389"
     },
     {
       "ident": "CRD5",
@@ -27212,15 +27593,6 @@
       "coordinates": "44.7692, -79.40834"
     },
     {
-      "ident": "CSB9",
-      "type": "closed",
-      "name": "Parc De La Vérendrye (Le Domaine) Seaplane Base",
-      "elevation_ft": 1200.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "coordinates": "47.036701, -76.536697"
-    },
-    {
       "ident": "CSC3",
       "type": "small_airport",
       "name": "Drummondville Airport",
@@ -27243,16 +27615,6 @@
       "gps_code": "CSC4",
       "local_code": "CSC4",
       "coordinates": "45.335933, -72.593558"
-    },
-    {
-      "ident": "CSC5",
-      "type": "closed",
-      "name": "Lac Etchemin Airport",
-      "elevation_ft": 1500.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Lac Etchemin",
-      "coordinates": "46.4072, -70.501404"
     },
     {
       "ident": "CSC6",
@@ -27465,16 +27827,6 @@
       "coordinates": "47.891899, -74.640602"
     },
     {
-      "ident": "CSF2",
-      "type": "closed",
-      "name": "Innisfail Hospital Heliport",
-      "elevation_ft": 3141.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Innisfail",
-      "coordinates": "52.019302, -113.9536"
-    },
-    {
       "ident": "CSF3",
       "type": "small_airport",
       "name": "Poste Montagnais (Mile 134) Airport",
@@ -27532,15 +27884,6 @@
       "gps_code": "CSF7",
       "local_code": "CSF7",
       "coordinates": "45.299675, -75.171504"
-    },
-    {
-      "ident": "CSF8",
-      "type": "closed",
-      "name": "Lac Kaiagamac Seaplane Base",
-      "elevation_ft": 1190.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "coordinates": "46.651699, -73.894995"
     },
     {
       "ident": "CSG2",
@@ -27602,15 +27945,6 @@
       "coordinates": "45.44969940185547, -71.868896484375"
     },
     {
-      "ident": "CSG8",
-      "type": "closed",
-      "name": "Témiscaming/Lac Kipawa Seaplane Base",
-      "elevation_ft": 884.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "coordinates": "46.778335, -78.979556"
-    },
-    {
       "ident": "CSG9",
       "type": "heliport",
       "name": "Sagard Heliport",
@@ -27670,16 +28004,6 @@
       "gps_code": "CSH6",
       "local_code": "CSH6",
       "coordinates": "45.347165, -74.086985"
-    },
-    {
-      "ident": "CSH7",
-      "type": "closed",
-      "name": "Quebec Police Heliport",
-      "elevation_ft": 617.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Sherbrooke",
-      "coordinates": "45.395527, -71.944764"
     },
     {
       "ident": "CSH8",
@@ -27765,16 +28089,6 @@
       "coordinates": "45.258771, -79.969341"
     },
     {
-      "ident": "CSK3",
-      "type": "closed",
-      "name": "Montreal / Mascouche Airport",
-      "elevation_ft": 75.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Montréal",
-      "coordinates": "45.718601, -73.598099"
-    },
-    {
       "ident": "CSK4",
       "type": "small_airport",
       "name": "Mansonville Airport",
@@ -27818,16 +28132,6 @@
       "coordinates": "46.435556, -81.121944"
     },
     {
-      "ident": "CSK8",
-      "type": "closed",
-      "name": "King George Airpark",
-      "elevation_ft": 5.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Surrey",
-      "coordinates": "49.093248, -122.822493"
-    },
-    {
       "ident": "CSK9",
       "type": "heliport",
       "name": "Nicolet Heliport",
@@ -27838,16 +28142,6 @@
       "gps_code": "CSK9",
       "local_code": "CSK9",
       "coordinates": "46.220298767089844, -72.64779663085938"
-    },
-    {
-      "ident": "CSL2",
-      "type": "closed",
-      "name": "La Sarre Heliport",
-      "elevation_ft": 900.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "La Sarre",
-      "coordinates": "48.808601, -79.251701"
     },
     {
       "ident": "CSL3",
@@ -27943,16 +28237,6 @@
       "coordinates": "46.051700592041016, -71.2572021484375"
     },
     {
-      "ident": "CSM4",
-      "type": "closed",
-      "name": "Ste-Julienne Airport",
-      "elevation_ft": 280.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Ste-Julienne",
-      "coordinates": "45.9407997131, -73.7238998413"
-    },
-    {
       "ident": "CSM5",
       "type": "small_airport",
       "name": "Saint-Michel-des-Saints Aerodrome",
@@ -28044,16 +28328,6 @@
       "gps_code": "CSN4",
       "local_code": "CSN4",
       "coordinates": "46.202784, -67.659436"
-    },
-    {
-      "ident": "CSN5",
-      "type": "closed",
-      "name": "Stanhope Airport",
-      "elevation_ft": 1450.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Stanhope",
-      "coordinates": "45.01572, -71.793888"
     },
     {
       "ident": "CSN6",
@@ -28222,16 +28496,6 @@
       "coordinates": "46.110604, -71.931906"
     },
     {
-      "ident": "CSR4",
-      "type": "closed",
-      "name": "Rimouski (Hydro-Québec) Heliport",
-      "elevation_ft": 45.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Rimouski",
-      "coordinates": "48.44110107421875, -68.5425033569336"
-    },
-    {
       "ident": "CSR5",
       "type": "heliport",
       "name": "Île d'Orléans Heliport",
@@ -28281,16 +28545,6 @@
       "coordinates": "47.8490389984, -69.5422527194"
     },
     {
-      "ident": "CSS3",
-      "type": "closed",
-      "name": "Montreal / Les Cèdres Airport",
-      "elevation_ft": 160.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Montréal",
-      "coordinates": "45.3475, -74.076698"
-    },
-    {
       "ident": "CSS4",
       "type": "small_airport",
       "name": "St-Dominique Airport",
@@ -28336,16 +28590,6 @@
       "gps_code": "CST3",
       "local_code": "CST3",
       "coordinates": "45.3903282887, -74.1340041161"
-    },
-    {
-      "ident": "CST4",
-      "type": "closed",
-      "name": "Sorel-Tracy/Air Nature Inc. Heliport",
-      "elevation_ft": 40.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Sorel",
-      "coordinates": "46.037072, -73.124621"
     },
     {
       "ident": "CST5",
@@ -28395,15 +28639,6 @@
       "coordinates": "45.632856, -73.782409"
     },
     {
-      "ident": "CST9",
-      "type": "closed",
-      "name": "Mont-Tremblant / Lac Ouimet Water Aerodrome",
-      "elevation_ft": 761.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "coordinates": "46.162354, -74.585495"
-    },
-    {
       "ident": "CSU2",
       "type": "small_airport",
       "name": "Chisasibi Airport",
@@ -28427,16 +28662,6 @@
       "gps_code": "CSU3",
       "local_code": "CSU3",
       "coordinates": "45.60687, -73.015146"
-    },
-    {
-      "ident": "CSU4",
-      "type": "closed",
-      "name": "Sainte-Lucie-de-Beauregard Airport",
-      "elevation_ft": 1212.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Sainte-Lucie-de-Beauregard",
-      "coordinates": "46.740799, -70.032501"
     },
     {
       "ident": "CSU5",
@@ -28578,16 +28803,6 @@
       "gps_code": "CSW6",
       "local_code": "CSW6",
       "coordinates": "44.345991, -77.928141"
-    },
-    {
-      "ident": "CSW8",
-      "type": "closed",
-      "name": "Matagami Seaplane Base",
-      "elevation_ft": 775.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Matagami",
-      "coordinates": "49.750292, -77.620339"
     },
     {
       "ident": "CSW9",
@@ -29063,16 +29278,6 @@
       "coordinates": "48.232200622558594, -69.54280090332031"
     },
     {
-      "ident": "CTH4",
-      "type": "closed",
-      "name": "Ottawa / Hull (Expressair) Heliport",
-      "elevation_ft": 180.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Ottawa",
-      "coordinates": "45.464377, -75.737363"
-    },
-    {
       "ident": "CTH5",
       "type": "heliport",
       "name": "Harrington Harbour Heliport",
@@ -29164,16 +29369,6 @@
       "municipality": "Rivière-la-Madeleine",
       "local_code": "TJ3",
       "coordinates": "49.24195, -65.33049"
-    },
-    {
-      "ident": "CTJ5",
-      "type": "closed",
-      "name": "Quebec / Hôpital de l'enfant-Jésus Heliport",
-      "elevation_ft": 110.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Québec",
-      "coordinates": "46.837568, -71.225179"
     },
     {
       "ident": "CTK2",
@@ -29343,16 +29538,6 @@
       "coordinates": "49.659698486328125, -98.66529846191406"
     },
     {
-      "ident": "CTN7",
-      "type": "closed",
-      "name": "Canton Aerodrome",
-      "elevation_ft": 520.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Port Hope",
-      "coordinates": "44.002807, -78.361816"
-    },
-    {
       "ident": "CTN8",
       "type": "small_airport",
       "name": "Triple Nickel Airport",
@@ -29363,16 +29548,6 @@
       "gps_code": "CTN8",
       "local_code": "CTN8",
       "coordinates": "43.044777, -81.600684"
-    },
-    {
-      "ident": "CTP2",
-      "type": "closed",
-      "name": "Hull/Quebec Police Heliport",
-      "elevation_ft": 180.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Ottawa-Gatineau(Hull)",
-      "coordinates": "45.466877, -75.741586"
     },
     {
       "ident": "CTP3",
@@ -29434,25 +29609,6 @@
       "coordinates": "45.034400939941406, -72.03500366210938"
     },
     {
-      "ident": "CTQ3",
-      "type": "closed",
-      "name": "Aguanish Water Aerodrome",
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Aguanish",
-      "coordinates": "50.230595, -62.112499"
-    },
-    {
-      "ident": "CTQ4",
-      "type": "closed",
-      "name": "Airview Airport",
-      "elevation_ft": 575.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Lennoxville",
-      "coordinates": "45.353254, -71.86087"
-    },
-    {
       "ident": "CTQ6",
       "type": "small_airport",
       "name": "St-Anselme Airport",
@@ -29475,16 +29631,6 @@
       "gps_code": "CTR4",
       "local_code": "CTR4",
       "coordinates": "45.39080047607422, -72.76609802246094"
-    },
-    {
-      "ident": "CTR5",
-      "type": "closed",
-      "name": "Val-D'Or / L'Escale Heliport",
-      "elevation_ft": 1010.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Val-D'Or",
-      "coordinates": "48.103592916, -77.8074422479"
     },
     {
       "ident": "CTR6",
@@ -29544,16 +29690,6 @@
       "coordinates": "52.28016, -114.427972"
     },
     {
-      "ident": "CTT2",
-      "type": "closed",
-      "name": "Chambly Airport",
-      "elevation_ft": 95.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Chambly",
-      "coordinates": "45.401100158691406, -73.29530334472656"
-    },
-    {
       "ident": "CTT5",
       "type": "small_airport",
       "name": "La Romaine Airport",
@@ -29578,16 +29714,6 @@
       "iata_code": "YFG",
       "local_code": "CTU2",
       "coordinates": "54.553901672363, -71.173301696777"
-    },
-    {
-      "ident": "CTU4",
-      "type": "closed",
-      "name": "Lac Gagnon Seaplane Base",
-      "elevation_ft": 700.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Duhamel",
-      "coordinates": "46.1175, -75.115303"
     },
     {
       "ident": "CTU5",
@@ -30173,24 +30299,6 @@
       "gps_code": "CWR2",
       "local_code": "CWR2",
       "coordinates": "50.360833, -113.407167"
-    },
-    {
-      "ident": "CWS2",
-      "type": "closed",
-      "name": "Washago Aerodrome",
-      "elevation_ft": 749.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Washago",
-      "coordinates": "44.740439, -79.361866"
-    },
-    {
-      "ident": "CWXR",
-      "type": "closed",
-      "name": "Croker River Airport",
-      "iso_country": "CA",
-      "iso_region": "CA-NU",
-      "coordinates": "69.290565, -119.174259"
     },
     {
       "ident": "CWZM",
@@ -30812,16 +30920,6 @@
       "gps_code": "CYCT",
       "iata_code": "YCT",
       "coordinates": "52.0750007629, -111.444999695"
-    },
-    {
-      "ident": "CYCV",
-      "type": "closed",
-      "name": "Cartierville Airport",
-      "elevation_ft": 120.0,
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Montreal",
-      "coordinates": "45.516701, -73.716698"
     },
     {
       "ident": "CYCW",
@@ -32064,16 +32162,6 @@
       "iata_code": "YKY",
       "local_code": "YKY",
       "coordinates": "51.5175018311, -109.180999756"
-    },
-    {
-      "ident": "CYKZ",
-      "type": "closed",
-      "name": "Buttonville Municipal Airport",
-      "elevation_ft": 650.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Toronto",
-      "coordinates": "43.862202, -79.370003"
     },
     {
       "ident": "CYLA",
@@ -33527,16 +33615,6 @@
       "coordinates": "59.57833, -133.668938"
     },
     {
-      "ident": "CYSR",
-      "type": "closed",
-      "name": "Nanisivik Airport",
-      "elevation_ft": 2106.0,
-      "iso_country": "CA",
-      "iso_region": "CA-NU",
-      "municipality": "Nanisivik",
-      "coordinates": "72.980839, -84.610862"
-    },
-    {
       "ident": "CYST",
       "type": "small_airport",
       "name": "St. Theresa Point Airport",
@@ -34096,16 +34174,6 @@
       "coordinates": "49.610801696777, -115.78199768066"
     },
     {
-      "ident": "CYXD",
-      "type": "closed",
-      "name": "Edmonton City Centre (Blatchford Field) Airport",
-      "elevation_ft": 2202.0,
-      "iso_country": "CA",
-      "iso_region": "CA-AB",
-      "municipality": "Edmonton",
-      "coordinates": "53.5724983215, -113.521003723"
-    },
-    {
       "ident": "CYXE",
       "type": "medium_airport",
       "name": "Saskatoon John G. Diefenbaker International Airport",
@@ -34128,16 +34196,6 @@
       "gps_code": "CYXH",
       "iata_code": "YXH",
       "coordinates": "50.018902, -110.721001"
-    },
-    {
-      "ident": "CYXI",
-      "type": "closed",
-      "name": "Bonnechere Airport",
-      "elevation_ft": 595.0,
-      "iso_country": "CA",
-      "iso_region": "CA-ON",
-      "municipality": "Killaloe",
-      "coordinates": "45.66310119628906, -77.60279846191406"
     },
     {
       "ident": "CYXJ",
@@ -35286,15 +35344,6 @@
       "coordinates": "68.156, -106.618"
     },
     {
-      "ident": "X-CBG6",
-      "type": "closed",
-      "name": "Salmo Airport",
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Salmo",
-      "coordinates": "49.16669845581055, -117.26699829101562"
-    },
-    {
       "ident": "XBB",
       "type": "seaplane_base",
       "name": "Blubber Bay Seaplane Base",
@@ -35304,15 +35353,6 @@
       "municipality": "Blubber Bay",
       "iata_code": "XBB",
       "coordinates": "49.793958, -124.621064"
-    },
-    {
-      "ident": "XYMY",
-      "type": "closed",
-      "name": "Victoria STOLport",
-      "iso_country": "CA",
-      "iso_region": "CA-QC",
-      "municipality": "Montreal",
-      "coordinates": "45.47739, -73.54388"
     },
     {
       "ident": "YAJ",
@@ -35466,26 +35506,6 @@
       "coordinates": "52.82371, -126.964957"
     },
     {
-      "ident": "YTU",
-      "type": "closed",
-      "name": "Tasu Water Aerodrome",
-      "elevation_ft": 0.0,
-      "iso_country": "CA",
-      "iso_region": "CA-BC",
-      "municipality": "Tasu",
-      "coordinates": "52.7630555556, -132.04"
-    },
-    {
-      "ident": "ZHIT",
-      "type": "closed",
-      "name": "Yukonia Airstrip",
-      "elevation_ft": 1886.0,
-      "iso_country": "CA",
-      "iso_region": "CA-YT",
-      "municipality": "(Old) Yukonia",
-      "coordinates": "60.673158, -125.266799"
-    },
-    {
       "ident": "ZHZH",
       "type": "small_airport",
       "name": "Herschel Island Field",
@@ -35505,26 +35525,6 @@
       "municipality": "Namu",
       "iata_code": "ZNU",
       "coordinates": "51.862825, -127.869357"
-    },
-    {
-      "ident": "ZYXW",
-      "type": "closed",
-      "name": "Mt Logan Airstrip",
-      "elevation_ft": 1997.0,
-      "iso_country": "CA",
-      "iso_region": "CA-YT",
-      "municipality": "Unorganized Yukon",
-      "coordinates": "60.79299, -138.694027"
-    },
-    {
-      "ident": "ZZZW",
-      "type": "closed",
-      "name": "Scandium City Heliport",
-      "elevation_ft": 4.0,
-      "iso_country": "CA",
-      "iso_region": "CA-YT",
-      "municipality": "(Old) Scandium City",
-      "coordinates": "69.355287, -138.93931"
     }
   ]
 }

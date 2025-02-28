@@ -2,7 +2,7 @@
   "country_code": "KH",
   "country_name": "Cambodia",
   "total_airports": 17,
-  "last_updated": "2025-02-27T00:08:24.705506",
+  "last_updated": "2025-02-28T00:08:11.979331",
   "types_distribution": {
     "small_airport": 7,
     "closed": 4,
@@ -36,7 +36,29 @@
       "coordinates": "11.3623, 104.9154"
     },
     {
-      "ident": "KMT",
+      "ident": "KH-0003",
+      "type": "closed",
+      "name": "Siem Reap International Airport",
+      "elevation_ft": 60.0,
+      "continent": "AS",
+      "iso_country": "KH",
+      "iso_region": "KH-17",
+      "municipality": "Siem Reap",
+      "coordinates": "13.41155, 103.813044"
+    },
+    {
+      "ident": "KH-0004",
+      "type": "closed",
+      "name": "Kratie Airport",
+      "elevation_ft": 102.0,
+      "continent": "AS",
+      "iso_country": "KH",
+      "iso_region": "KH-10",
+      "municipality": "Kratie",
+      "coordinates": "12.489017, 106.05469"
+    },
+    {
+      "ident": "KH-0005",
       "type": "closed",
       "name": "Kampot Airport",
       "elevation_ft": 44.0,
@@ -109,17 +131,6 @@
       "coordinates": "11.613397, 102.997084"
     },
     {
-      "ident": "VDKT",
-      "type": "closed",
-      "name": "Kratie Airport",
-      "elevation_ft": 102.0,
-      "continent": "AS",
-      "iso_country": "KH",
-      "iso_region": "KH-10",
-      "municipality": "Kratie",
-      "coordinates": "12.489017, 106.05469"
-    },
-    {
       "ident": "VDMK",
       "type": "small_airport",
       "name": "Mondulkiri Airport",
@@ -168,17 +179,6 @@
       "gps_code": "VDSA",
       "iata_code": "SAI",
       "coordinates": "13.369167, 104.223056"
-    },
-    {
-      "ident": "VDSR",
-      "type": "closed",
-      "name": "Siem Reap International Airport",
-      "elevation_ft": 60.0,
-      "continent": "AS",
-      "iso_country": "KH",
-      "iso_region": "KH-17",
-      "municipality": "Siem Reap",
-      "coordinates": "13.41155, 103.813044"
     },
     {
       "ident": "VDST",

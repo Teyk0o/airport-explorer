@@ -2,7 +2,7 @@
   "country_code": "AF",
   "country_name": "Afghanistan",
   "total_airports": 79,
-  "last_updated": "2025-02-27T00:08:24.334311",
+  "last_updated": "2025-02-28T00:08:11.597195",
   "types_distribution": {
     "small_airport": 59,
     "closed": 3,
@@ -180,6 +180,17 @@
       "coordinates": "33.333401, 69.952003"
     },
     {
+      "ident": "AF-0018",
+      "type": "closed",
+      "name": "Sarhawdza Landing Zone Airport",
+      "elevation_ft": 7060.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-PKA",
+      "municipality": "Sharana",
+      "coordinates": "33.159585, 68.821332"
+    },
+    {
       "ident": "AF04",
       "type": "small_airport",
       "name": "Helmand Airport",
@@ -233,17 +244,6 @@
       "iso_region": "AF-BAM",
       "municipality": "Yakawlang",
       "coordinates": "34.687099, 66.893204"
-    },
-    {
-      "ident": "AF12",
-      "type": "closed",
-      "name": "Sarhawdza Landing Zone Airport",
-      "elevation_ft": 7060.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-PKA",
-      "municipality": "Sharana",
-      "coordinates": "33.159585, 68.821332"
     },
     {
       "ident": "AF13",

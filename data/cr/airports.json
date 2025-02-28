@@ -2,7 +2,7 @@
   "country_code": "CR",
   "country_name": "Costa Rica",
   "total_airports": 144,
-  "last_updated": "2025-02-27T00:08:24.540347",
+  "last_updated": "2025-02-28T00:08:11.812471",
   "types_distribution": {
     "small_airport": 116,
     "closed": 4,
@@ -70,6 +70,26 @@
       "gps_code": "MRAF",
       "iata_code": "ACO",
       "coordinates": "9.693365, -85.091216"
+    },
+    {
+      "ident": "CR-0007",
+      "type": "closed",
+      "name": "Playa Blanca (J. W. Berteus) Airport",
+      "elevation_ft": 6.0,
+      "iso_country": "CR",
+      "iso_region": "CR-P",
+      "municipality": "Puntarenas",
+      "coordinates": "8.64999, -83.432998657227"
+    },
+    {
+      "ident": "CR-0008",
+      "type": "closed",
+      "name": "Paso Canoas Airport",
+      "elevation_ft": 328.0,
+      "iso_country": "CR",
+      "iso_region": "CR-P",
+      "municipality": "Paso Canoas",
+      "coordinates": "8.530931, -82.841367"
     },
     {
       "ident": "MECT",
@@ -1056,26 +1076,6 @@
       "municipality": "Nandayure",
       "gps_code": "MRPA",
       "coordinates": "9.85141, -85.2379"
-    },
-    {
-      "ident": "MRPB",
-      "type": "closed",
-      "name": "Playa Blanca (J. W. Berteus) Airport",
-      "elevation_ft": 6.0,
-      "iso_country": "CR",
-      "iso_region": "CR-P",
-      "municipality": "Puntarenas",
-      "coordinates": "8.64999, -83.432998657227"
-    },
-    {
-      "ident": "MRPC",
-      "type": "closed",
-      "name": "Paso Canoas Airport",
-      "elevation_ft": 328.0,
-      "iso_country": "CR",
-      "iso_region": "CR-P",
-      "municipality": "Paso Canoas",
-      "coordinates": "8.530931, -82.841367"
     },
     {
       "ident": "MRPD",

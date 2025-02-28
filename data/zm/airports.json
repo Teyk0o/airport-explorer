@@ -2,12 +2,12 @@
   "country_code": "ZM",
   "country_name": "Zambia",
   "total_airports": 126,
-  "last_updated": "2025-02-27T00:08:24.617093",
+  "last_updated": "2025-02-28T00:08:11.889225",
   "types_distribution": {
     "small_airport": 110,
-    "closed": 2,
     "medium_airport": 9,
     "large_airport": 1,
+    "closed": 2,
     "heliport": 4
   },
   "airports": [
@@ -70,17 +70,6 @@
       "municipality": "Chocha",
       "gps_code": "FLCC",
       "coordinates": "-8.428730010986328, 29.80590057373047"
-    },
-    {
-      "ident": "FLCH",
-      "type": "closed",
-      "name": "Choma Airport",
-      "elevation_ft": 4300.0,
-      "continent": "AF",
-      "iso_country": "ZM",
-      "iso_region": "ZM-07",
-      "municipality": "Choma",
-      "coordinates": "-16.783001, 27"
     },
     {
       "ident": "FLCP",
@@ -1474,6 +1463,17 @@
       "municipality": "Kalumbila",
       "iata_code": "UMB",
       "coordinates": "-12.25358, 25.44432"
+    },
+    {
+      "ident": "ZM-0046",
+      "type": "closed",
+      "name": "Choma Airport",
+      "elevation_ft": 4300.0,
+      "continent": "AF",
+      "iso_country": "ZM",
+      "iso_region": "ZM-07",
+      "municipality": "Choma",
+      "coordinates": "-16.783001, 27"
     }
   ]
 }

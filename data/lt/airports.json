@@ -2,13 +2,13 @@
   "country_code": "LT",
   "country_name": "Lithuania",
   "total_airports": 74,
-  "last_updated": "2025-02-27T00:08:24.609125",
+  "last_updated": "2025-02-28T00:08:11.881111",
   "types_distribution": {
     "small_airport": 57,
     "medium_airport": 6,
-    "closed": 8,
     "heliport": 2,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 8
   },
   "airports": [
     {
@@ -94,17 +94,6 @@
       "coordinates": "55.31169891357422, 23.95639991760254"
     },
     {
-      "ident": "EYKG",
-      "type": "closed",
-      "name": "Kaunas Gamykla Airfield",
-      "elevation_ft": 249.0,
-      "continent": "EU",
-      "iso_country": "LT",
-      "iso_region": "LT-KU",
-      "municipality": "Kaunas",
-      "coordinates": "54.880001, 23.9072"
-    },
-    {
       "ident": "EYKL",
       "type": "small_airport",
       "name": "Klaipėda Airfield",
@@ -115,17 +104,6 @@
       "municipality": "Klaipėda",
       "gps_code": "EYKL",
       "coordinates": "55.712021, 21.242892"
-    },
-    {
-      "ident": "EYKR",
-      "type": "closed",
-      "name": "Kazlų Rūda Air Base",
-      "elevation_ft": 243.0,
-      "continent": "EU",
-      "iso_country": "LT",
-      "iso_region": "LT-MR",
-      "municipality": "Kazlų Rūda",
-      "coordinates": "54.80559921, 23.5331001"
     },
     {
       "ident": "EYKS",
@@ -341,17 +319,6 @@
       "municipality": "Rojūnai",
       "gps_code": "EYRO",
       "coordinates": "55.610802, 24.2208"
-    },
-    {
-      "ident": "EYRU",
-      "type": "closed",
-      "name": "Jonava Air Base",
-      "elevation_ft": 246.0,
-      "continent": "EU",
-      "iso_country": "LT",
-      "iso_region": "LT-KU",
-      "municipality": "Jonava",
-      "coordinates": "55.009998, 24.3633"
     },
     {
       "ident": "EYSA",
@@ -814,6 +781,39 @@
       "iso_region": "LT-KU",
       "municipality": "Kedainiai",
       "coordinates": "55.321701, 23.52"
+    },
+    {
+      "ident": "LT-9518",
+      "type": "closed",
+      "name": "Kaunas Gamykla Airfield",
+      "elevation_ft": 249.0,
+      "continent": "EU",
+      "iso_country": "LT",
+      "iso_region": "LT-KU",
+      "municipality": "Kaunas",
+      "coordinates": "54.880001, 23.9072"
+    },
+    {
+      "ident": "LT-9519",
+      "type": "closed",
+      "name": "Kazlų Rūda Air Base",
+      "elevation_ft": 243.0,
+      "continent": "EU",
+      "iso_country": "LT",
+      "iso_region": "LT-MR",
+      "municipality": "Kazlų Rūda",
+      "coordinates": "54.80559921, 23.5331001"
+    },
+    {
+      "ident": "LT-9520",
+      "type": "closed",
+      "name": "Jonava Air Base",
+      "elevation_ft": 246.0,
+      "continent": "EU",
+      "iso_country": "LT",
+      "iso_region": "LT-KU",
+      "municipality": "Jonava",
+      "coordinates": "55.009998, 24.3633"
     }
   ]
 }

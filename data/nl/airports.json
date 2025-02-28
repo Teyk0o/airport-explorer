@@ -2,7 +2,7 @@
   "country_code": "NL",
   "country_name": "Netherlands",
   "total_airports": 274,
-  "last_updated": "2025-02-27T00:08:24.591062",
+  "last_updated": "2025-02-28T00:08:11.863086",
   "types_distribution": {
     "heliport": 194,
     "small_airport": 28,
@@ -127,17 +127,6 @@
       "municipality": "Arnhem",
       "gps_code": "EHDL",
       "coordinates": "52.0606, 5.87306"
-    },
-    {
-      "ident": "EHDP",
-      "type": "closed",
-      "name": "De Peel Air Base",
-      "elevation_ft": 98.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-LI",
-      "municipality": "Ysselsteyn",
-      "coordinates": "51.5173, 5.85572"
     },
     {
       "ident": "EHDR",
@@ -955,16 +944,6 @@
       "coordinates": "51.753056, 4.455278"
     },
     {
-      "ident": "EHNP",
-      "type": "closed",
-      "name": "Noordoostpolder / Emmeloord Aerodrome",
-      "elevation_ft": -12.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-FL",
-      "coordinates": "52.73071, 5.746676"
-    },
-    {
       "ident": "EHOW",
       "type": "small_airport",
       "name": "Oostwold Airfield",
@@ -1233,17 +1212,6 @@
       "coordinates": "51.99792, 3.27481"
     },
     {
-      "ident": "EHSB",
-      "type": "closed",
-      "name": "Soesterberg Air Base",
-      "elevation_ft": 66.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-UT",
-      "municipality": "Soesterberg",
-      "coordinates": "52.1273, 5.27619"
-    },
-    {
       "ident": "EHSC",
       "type": "heliport",
       "name": "Lichteiland Goeree Heliport",
@@ -1360,17 +1328,6 @@
       "municipality": "De Cocksdorp",
       "gps_code": "EHTX",
       "coordinates": "53.114962, 4.830552"
-    },
-    {
-      "ident": "EHVB",
-      "type": "closed",
-      "name": "Valkenburg Naval Air Base",
-      "elevation_ft": 1.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-ZH",
-      "municipality": "Leiden",
-      "coordinates": "52.166099548300004, 4.41794013977"
     },
     {
       "ident": "EHVK",
@@ -2878,6 +2835,49 @@
       "iso_region": "NL-NH",
       "municipality": "Hollands Kroon",
       "coordinates": "52.8353, 4.95056"
+    },
+    {
+      "ident": "NL-0144",
+      "type": "closed",
+      "name": "Soesterberg Air Base",
+      "elevation_ft": 66.0,
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-UT",
+      "municipality": "Soesterberg",
+      "coordinates": "52.1273, 5.27619"
+    },
+    {
+      "ident": "NL-0145",
+      "type": "closed",
+      "name": "Valkenburg Naval Air Base",
+      "elevation_ft": 1.0,
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-ZH",
+      "municipality": "Leiden",
+      "coordinates": "52.1660995483, 4.41794013977"
+    },
+    {
+      "ident": "NL-0146",
+      "type": "closed",
+      "name": "De Peel Air Base",
+      "elevation_ft": 98.0,
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-LI",
+      "municipality": "Ysselsteyn",
+      "coordinates": "51.5173, 5.85572"
+    },
+    {
+      "ident": "NL-0147",
+      "type": "closed",
+      "name": "Noordoostpolder / Emmeloord Aerodrome",
+      "elevation_ft": -12.0,
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-FL",
+      "coordinates": "52.73071, 5.746676"
     }
   ]
 }

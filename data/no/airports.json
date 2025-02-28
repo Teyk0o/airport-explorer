@@ -2,14 +2,14 @@
   "country_code": "NO",
   "country_name": "Norway",
   "total_airports": 299,
-  "last_updated": "2025-02-27T00:08:24.595989",
+  "last_updated": "2025-02-28T00:08:11.868040",
   "types_distribution": {
     "small_airport": 103,
     "heliport": 113,
     "medium_airport": 39,
     "large_airport": 5,
-    "closed": 32,
-    "seaplane_base": 7
+    "seaplane_base": 7,
+    "closed": 32
   },
   "airports": [
     {
@@ -457,15 +457,6 @@
       "gps_code": "ENFL",
       "iata_code": "FRO",
       "coordinates": "61.583599090576, 5.0247201919556"
-    },
-    {
-      "ident": "ENFR",
-      "type": "closed",
-      "name": "Frigg QP Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "59.8782997131, 2.06500005722"
     },
     {
       "ident": "ENFY",
@@ -956,17 +947,6 @@
       "coordinates": "64.469981, 11.504007"
     },
     {
-      "ident": "ENNK",
-      "type": "closed",
-      "name": "Narvik Framnes Airport",
-      "elevation_ft": 95.0,
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-18",
-      "municipality": "Narvik",
-      "coordinates": "68.436897, 17.3867"
-    },
-    {
       "ident": "ENNM",
       "type": "small_airport",
       "name": "Namsos Airport",
@@ -1197,15 +1177,6 @@
       "municipality": "Norwegian Sea",
       "gps_code": "ENQS",
       "coordinates": "61.2961, 1.90083"
-    },
-    {
-      "ident": "ENQU",
-      "type": "closed",
-      "name": "Huldra Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "60.855301, 2.64861"
     },
     {
       "ident": "ENQV",
@@ -1805,24 +1776,6 @@
       "coordinates": "59.031723, 7.554903"
     },
     {
-      "ident": "ENVF",
-      "type": "closed",
-      "name": "Veslefrikk B FPU",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "60.7822, 2.89611"
-    },
-    {
-      "ident": "ENVH",
-      "type": "closed",
-      "name": "Valhall A Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "56.278099, 3.39278"
-    },
-    {
       "ident": "ENVR",
       "type": "heliport",
       "name": "Værøy Heliport",
@@ -1834,17 +1787,6 @@
       "gps_code": "ENVR",
       "iata_code": "VRY",
       "coordinates": "67.654555, 12.727257"
-    },
-    {
-      "ident": "ENVY",
-      "type": "closed",
-      "name": "Værøy STOLport",
-      "elevation_ft": 36.0,
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-18",
-      "municipality": "Værøy",
-      "coordinates": "67.68920135498047, 12.680000305175781"
     },
     {
       "ident": "ENWA",
@@ -1966,15 +1908,6 @@
       "coordinates": "56.41859817504883, 3.216939926147461"
     },
     {
-      "ident": "ENXC",
-      "type": "closed",
-      "name": "Cod Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "57.068901, 2.43333"
-    },
-    {
       "ident": "ENXD",
       "type": "heliport",
       "name": "Ekofisk D Platform",
@@ -1983,33 +1916,6 @@
       "iso_region": "NO-XX",
       "gps_code": "ENXD",
       "coordinates": "56.5625, 3.08417010307312"
-    },
-    {
-      "ident": "ENXE",
-      "type": "closed",
-      "name": "Edda Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "56.464199, 3.10306"
-    },
-    {
-      "ident": "ENXF",
-      "type": "closed",
-      "name": "Albuskjell F Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "56.619999, 3.0525"
-    },
-    {
-      "ident": "ENXG",
-      "type": "closed",
-      "name": "Gyda Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "56.904202, 3.08361"
     },
     {
       "ident": "ENXH",
@@ -2062,15 +1968,6 @@
       "coordinates": "56.33250045776367, 3.2469398975372314"
     },
     {
-      "ident": "ENXN",
-      "type": "closed",
-      "name": "Jotun A FPSO",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "59.4506, 2.36528"
-    },
-    {
       "ident": "ENXO",
       "type": "heliport",
       "name": "Ringhorne Platform",
@@ -2079,24 +1976,6 @@
       "iso_region": "NO-XX",
       "gps_code": "ENXO",
       "coordinates": "59.266701, 2.45"
-    },
-    {
-      "ident": "ENXP",
-      "type": "closed",
-      "name": "Petrojarl Varg FPSO",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "58.0783, 1.91"
-    },
-    {
-      "ident": "ENXQ",
-      "type": "closed",
-      "name": "Frigg DP2 Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "59.8856010437, 2.07083010674"
     },
     {
       "ident": "ENXR",
@@ -2109,15 +1988,6 @@
       "coordinates": "56.983299255371094, 2.958329916000366"
     },
     {
-      "ident": "ENXS",
-      "type": "closed",
-      "name": "Albuskjell A Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "56.6422, 2.93861"
-    },
-    {
       "ident": "ENXT",
       "type": "heliport",
       "name": "Tor Platform",
@@ -2128,24 +1998,6 @@
       "coordinates": "56.64139938354492, 3.3255600929260254"
     },
     {
-      "ident": "ENXU",
-      "type": "closed",
-      "name": "Jotun B Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "59.4506, 2.36528"
-    },
-    {
-      "ident": "ENXV",
-      "type": "closed",
-      "name": "Varg Platform",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "58.077202, 1.88889"
-    },
-    {
       "ident": "ENXW",
       "type": "heliport",
       "name": "Grane Helipad",
@@ -2154,15 +2006,6 @@
       "iso_region": "NO-XX",
       "gps_code": "ENXW",
       "coordinates": "59.165, 2.48667"
-    },
-    {
-      "ident": "ENXX",
-      "type": "closed",
-      "name": "POLARIS FIR",
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-XX",
-      "coordinates": "57.6236, 2.84722"
     },
     {
       "ident": "ENXZ",
@@ -3331,6 +3174,163 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "coordinates": "63.61335, 10.76058"
+    },
+    {
+      "ident": "NO-0110",
+      "type": "closed",
+      "name": "Frigg QP Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "59.8782997131, 2.06500005722"
+    },
+    {
+      "ident": "NO-0111",
+      "type": "closed",
+      "name": "Narvik Framnes Airport",
+      "elevation_ft": 95.0,
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-18",
+      "municipality": "Narvik",
+      "coordinates": "68.436897, 17.3867"
+    },
+    {
+      "ident": "NO-0112",
+      "type": "closed",
+      "name": "Huldra Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "60.855301, 2.64861"
+    },
+    {
+      "ident": "NO-0113",
+      "type": "closed",
+      "name": "Veslefrikk B FPU",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "60.7822, 2.89611"
+    },
+    {
+      "ident": "NO-0114",
+      "type": "closed",
+      "name": "Valhall A Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "56.278099, 3.39278"
+    },
+    {
+      "ident": "NO-0115",
+      "type": "closed",
+      "name": "Cod Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "57.068901, 2.43333"
+    },
+    {
+      "ident": "NO-0116",
+      "type": "closed",
+      "name": "Edda Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "56.464199, 3.10306"
+    },
+    {
+      "ident": "NO-0117",
+      "type": "closed",
+      "name": "Albuskjell F Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "56.619999, 3.0525"
+    },
+    {
+      "ident": "NO-0118",
+      "type": "closed",
+      "name": "Gyda Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "56.904202, 3.08361"
+    },
+    {
+      "ident": "NO-0119",
+      "type": "closed",
+      "name": "Jotun A FPSO",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "59.4506, 2.36528"
+    },
+    {
+      "ident": "NO-0120",
+      "type": "closed",
+      "name": "Petrojarl Varg FPSO",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "58.0783, 1.91"
+    },
+    {
+      "ident": "NO-0121",
+      "type": "closed",
+      "name": "Frigg DP2 Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "59.8856010437, 2.07083010674"
+    },
+    {
+      "ident": "NO-0122",
+      "type": "closed",
+      "name": "Albuskjell A Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "56.6422, 2.93861"
+    },
+    {
+      "ident": "NO-0123",
+      "type": "closed",
+      "name": "Jotun B Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "59.4506, 2.36528"
+    },
+    {
+      "ident": "NO-0124",
+      "type": "closed",
+      "name": "Varg Platform",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "58.077202, 1.88889"
+    },
+    {
+      "ident": "NO-0125",
+      "type": "closed",
+      "name": "POLARIS FIR",
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-XX",
+      "coordinates": "57.6236, 2.84722"
+    },
+    {
+      "ident": "NO-0126",
+      "type": "closed",
+      "name": "Værøy STOLport",
+      "elevation_ft": 36.0,
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-18",
+      "municipality": "Værøy",
+      "coordinates": "67.68920135498, 12.680000305176"
     }
   ]
 }

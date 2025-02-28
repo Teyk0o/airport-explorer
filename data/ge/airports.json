@@ -2,7 +2,7 @@
   "country_code": "GE",
   "country_name": "Georgia",
   "total_airports": 35,
-  "last_updated": "2025-02-27T00:08:24.638909",
+  "last_updated": "2025-02-28T00:08:11.912145",
   "types_distribution": {
     "closed": 10,
     "small_airport": 9,
@@ -216,6 +216,17 @@
       "coordinates": "41.48523, 44.53348"
     },
     {
+      "ident": "GE-0021",
+      "type": "closed",
+      "name": "Mukhrani Airport",
+      "elevation_ft": 1807.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-MM",
+      "municipality": "Mukhrani",
+      "coordinates": "41.916, 44.566"
+    },
+    {
       "ident": "UG0U",
       "type": "medium_airport",
       "name": "Gudauta Air Base",
@@ -318,17 +329,6 @@
       "gps_code": "UGKO",
       "iata_code": "KUT",
       "coordinates": "42.176768, 42.482393"
-    },
-    {
-      "ident": "UGMM",
-      "type": "closed",
-      "name": "Mukhrani Airport",
-      "elevation_ft": 1807.0,
-      "continent": "AS",
-      "iso_country": "GE",
-      "iso_region": "GE-MM",
-      "municipality": "Mukhrani",
-      "coordinates": "41.916, 44.566"
     },
     {
       "ident": "UGMS",

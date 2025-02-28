@@ -38,9 +38,9 @@
     "name": "American Samoa",
     "airport_count": 4,
     "types_distribution": {
+      "closed": 1,
       "small_airport": 2,
-      "medium_airport": 1,
-      "closed": 1
+      "medium_airport": 1
     }
   },
   {
@@ -325,11 +325,11 @@
   {
     "code": "BR",
     "name": "Brazil",
-    "airport_count": 7429,
+    "airport_count": 7434,
     "types_distribution": {
-      "small_airport": 5144,
+      "small_airport": 5147,
       "closed": 285,
-      "heliport": 1865,
+      "heliport": 1867,
       "medium_airport": 124,
       "large_airport": 11
     }
@@ -382,8 +382,8 @@
     "airport_count": 50,
     "types_distribution": {
       "small_airport": 47,
-      "medium_airport": 2,
-      "closed": 1
+      "closed": 1,
+      "medium_airport": 2
     }
   },
   {
@@ -392,8 +392,8 @@
     "airport_count": 7,
     "types_distribution": {
       "small_airport": 5,
-      "medium_airport": 1,
-      "closed": 1
+      "closed": 1,
+      "medium_airport": 1
     }
   },
   {
@@ -490,12 +490,12 @@
   {
     "code": "CN",
     "name": "China",
-    "airport_count": 724,
+    "airport_count": 725,
     "types_distribution": {
-      "small_airport": 243,
-      "medium_airport": 275,
+      "small_airport": 244,
+      "medium_airport": 274,
       "closed": 56,
-      "heliport": 106,
+      "heliport": 107,
       "seaplane_base": 3,
       "balloonport": 2,
       "large_airport": 39
@@ -712,9 +712,9 @@
     "airport_count": 29,
     "types_distribution": {
       "small_airport": 25,
-      "closed": 2,
       "large_airport": 1,
-      "medium_airport": 1
+      "medium_airport": 1,
+      "closed": 2
     }
   },
   {
@@ -800,8 +800,8 @@
       "small_airport": 67,
       "heliport": 17,
       "medium_airport": 30,
-      "closed": 10,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 10
     }
   },
   {
@@ -855,9 +855,9 @@
     "name": "Gabon",
     "airport_count": 46,
     "types_distribution": {
-      "closed": 4,
       "small_airport": 31,
-      "medium_airport": 11
+      "medium_airport": 11,
+      "closed": 4
     }
   },
   {
@@ -1082,9 +1082,9 @@
     "types_distribution": {
       "small_airport": 73,
       "medium_airport": 8,
-      "closed": 8,
       "large_airport": 1,
-      "heliport": 1
+      "heliport": 1,
+      "closed": 8
     }
   },
   {
@@ -1143,11 +1143,11 @@
     "airport_count": 125,
     "types_distribution": {
       "small_airport": 88,
-      "closed": 17,
       "medium_airport": 9,
       "large_airport": 2,
       "heliport": 8,
-      "seaplane_base": 1
+      "seaplane_base": 1,
+      "closed": 17
     }
   },
   {
@@ -1193,8 +1193,8 @@
     "types_distribution": {
       "small_airport": 22,
       "heliport": 1,
-      "medium_airport": 7,
-      "closed": 1
+      "closed": 1,
+      "medium_airport": 7
     }
   },
   {
@@ -1327,9 +1327,9 @@
     "types_distribution": {
       "small_airport": 51,
       "heliport": 5,
-      "closed": 21,
       "medium_airport": 3,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 21
     }
   },
   {
@@ -1359,9 +1359,9 @@
     "airport_count": 20,
     "types_distribution": {
       "small_airport": 17,
-      "closed": 1,
       "medium_airport": 1,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 1
     }
   },
   {
@@ -1390,9 +1390,9 @@
     "types_distribution": {
       "small_airport": 57,
       "medium_airport": 6,
-      "closed": 8,
       "heliport": 2,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 8
     }
   },
   {
@@ -1421,9 +1421,9 @@
     "airport_count": 31,
     "types_distribution": {
       "small_airport": 11,
-      "closed": 7,
       "medium_airport": 1,
       "large_airport": 1,
+      "closed": 7,
       "heliport": 11
     }
   },
@@ -1519,10 +1519,10 @@
     "name": "Mauritania",
     "airport_count": 34,
     "types_distribution": {
-      "closed": 6,
       "small_airport": 22,
       "large_airport": 1,
       "medium_airport": 2,
+      "closed": 6,
       "heliport": 3
     }
   },
@@ -1553,9 +1553,9 @@
     "types_distribution": {
       "small_airport": 1511,
       "heliport": 487,
-      "closed": 602,
       "medium_airport": 56,
       "large_airport": 12,
+      "closed": 602,
       "seaplane_base": 6,
       "balloonport": 7
     }
@@ -1616,8 +1616,8 @@
     "name": "Montserrat",
     "airport_count": 2,
     "types_distribution": {
-      "medium_airport": 1,
-      "closed": 1
+      "closed": 1,
+      "medium_airport": 1
     }
   },
   {
@@ -1628,8 +1628,8 @@
       "small_airport": 16,
       "large_airport": 6,
       "medium_airport": 12,
-      "closed": 7,
-      "heliport": 2
+      "heliport": 2,
+      "closed": 7
     }
   },
   {
@@ -1726,9 +1726,9 @@
     "airport_count": 27,
     "types_distribution": {
       "small_airport": 21,
-      "closed": 1,
       "medium_airport": 4,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 1
     }
   },
   {
@@ -1791,8 +1791,8 @@
       "heliport": 113,
       "medium_airport": 39,
       "large_airport": 5,
-      "closed": 32,
-      "seaplane_base": 7
+      "seaplane_base": 7,
+      "closed": 32
     }
   },
   {
@@ -1813,9 +1813,9 @@
     "airport_count": 189,
     "types_distribution": {
       "small_airport": 77,
-      "medium_airport": 36,
-      "closed": 25,
+      "medium_airport": 37,
       "large_airport": 3,
+      "closed": 24,
       "heliport": 48
     }
   },
@@ -1833,8 +1833,8 @@
     "name": "Palestinian Territory",
     "airport_count": 7,
     "types_distribution": {
-      "closed": 4,
       "small_airport": 1,
+      "closed": 4,
       "heliport": 2
     }
   },
@@ -1844,9 +1844,9 @@
     "airport_count": 91,
     "types_distribution": {
       "small_airport": 69,
-      "closed": 13,
       "medium_airport": 7,
       "large_airport": 1,
+      "closed": 13,
       "heliport": 1
     }
   },
@@ -1856,10 +1856,10 @@
     "airport_count": 646,
     "types_distribution": {
       "small_airport": 548,
-      "closed": 74,
       "medium_airport": 20,
       "large_airport": 1,
-      "heliport": 3
+      "heliport": 3,
+      "closed": 74
     }
   },
   {
@@ -1892,9 +1892,9 @@
     "airport_count": 797,
     "types_distribution": {
       "small_airport": 196,
-      "closed": 137,
       "medium_airport": 54,
       "heliport": 400,
+      "closed": 137,
       "seaplane_base": 6,
       "balloonport": 1,
       "large_airport": 3
@@ -1907,9 +1907,9 @@
     "types_distribution": {
       "small_airport": 288,
       "heliport": 16,
-      "closed": 52,
       "medium_airport": 24,
-      "large_airport": 3
+      "large_airport": 3,
+      "closed": 52
     }
   },
   {
@@ -1920,8 +1920,8 @@
       "small_airport": 97,
       "heliport": 65,
       "medium_airport": 26,
-      "closed": 40,
-      "large_airport": 5
+      "large_airport": 5,
+      "closed": 40
     }
   },
   {
@@ -1975,10 +1975,10 @@
     "airport_count": 143,
     "types_distribution": {
       "medium_airport": 21,
-      "closed": 16,
       "heliport": 24,
       "small_airport": 81,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 16
     }
   },
   {
@@ -2095,8 +2095,8 @@
     "types_distribution": {
       "medium_airport": 1,
       "large_airport": 1,
-      "closed": 1,
-      "seaplane_base": 1
+      "seaplane_base": 1,
+      "closed": 1
     }
   },
   {
@@ -2150,11 +2150,11 @@
     "name": "Sierra Leone",
     "airport_count": 12,
     "types_distribution": {
-      "closed": 1,
       "medium_airport": 3,
       "small_airport": 4,
       "large_airport": 1,
-      "heliport": 3
+      "heliport": 3,
+      "closed": 1
     }
   },
   {
@@ -2184,8 +2184,8 @@
     "types_distribution": {
       "small_airport": 109,
       "large_airport": 1,
-      "closed": 11,
       "medium_airport": 6,
+      "closed": 11,
       "heliport": 2
     }
   },
@@ -2209,8 +2209,8 @@
       "small_airport": 34,
       "large_airport": 1,
       "medium_airport": 1,
-      "closed": 3,
-      "heliport": 1
+      "heliport": 1,
+      "closed": 3
     }
   },
   {
@@ -2229,10 +2229,10 @@
     "airport_count": 652,
     "types_distribution": {
       "medium_airport": 57,
-      "closed": 28,
       "small_airport": 514,
       "large_airport": 3,
       "heliport": 49,
+      "closed": 28,
       "balloonport": 1
     }
   },
@@ -2302,9 +2302,9 @@
     "types_distribution": {
       "small_airport": 33,
       "medium_airport": 9,
-      "closed": 6,
       "large_airport": 1,
-      "heliport": 8
+      "heliport": 8,
+      "closed": 6
     }
   },
   {
@@ -2334,11 +2334,11 @@
     "airport_count": 255,
     "types_distribution": {
       "medium_airport": 44,
-      "closed": 37,
       "small_airport": 160,
       "heliport": 11,
       "large_airport": 2,
-      "seaplane_base": 1
+      "seaplane_base": 1,
+      "closed": 37
     }
   },
   {
@@ -2360,9 +2360,9 @@
     "types_distribution": {
       "medium_airport": 9,
       "small_airport": 32,
-      "closed": 2,
       "large_airport": 1,
-      "heliport": 13
+      "heliport": 13,
+      "closed": 2
     }
   },
   {
@@ -2372,9 +2372,9 @@
     "types_distribution": {
       "medium_airport": 19,
       "small_airport": 34,
-      "closed": 11,
       "large_airport": 2,
       "heliport": 55,
+      "closed": 11,
       "balloonport": 1
     }
   },
@@ -2431,9 +2431,9 @@
   {
     "code": "TT",
     "name": "Trinidad and Tobago",
-    "airport_count": 3,
+    "airport_count": 4,
     "types_distribution": {
-      "small_airport": 1,
+      "small_airport": 2,
       "medium_airport": 2
     }
   },
@@ -2456,8 +2456,8 @@
       "small_airport": 52,
       "large_airport": 9,
       "medium_airport": 55,
-      "closed": 28,
       "heliport": 240,
+      "closed": 28,
       "balloonport": 1,
       "seaplane_base": 1
     }
@@ -2500,8 +2500,8 @@
     "types_distribution": {
       "seaplane_base": 3,
       "medium_airport": 2,
-      "heliport": 3,
-      "closed": 1
+      "closed": 1,
+      "heliport": 3
     }
   },
   {
@@ -2518,9 +2518,9 @@
   {
     "code": "UA",
     "name": "Ukraine",
-    "airport_count": 270,
+    "airport_count": 271,
     "types_distribution": {
-      "small_airport": 117,
+      "small_airport": 118,
       "closed": 74,
       "medium_airport": 32,
       "heliport": 45,
@@ -2557,14 +2557,14 @@
   {
     "code": "US",
     "name": "United States",
-    "airport_count": 31990,
+    "airport_count": 31991,
     "types_distribution": {
       "heliport": 8130,
-      "small_airport": 15210,
-      "closed": 7071,
+      "small_airport": 15211,
       "seaplane_base": 647,
       "balloonport": 29,
       "medium_airport": 832,
+      "closed": 7071,
       "large_airport": 71
     }
   },
@@ -2573,9 +2573,9 @@
     "name": "United States Minor Outlying Islands",
     "airport_count": 9,
     "types_distribution": {
-      "closed": 6,
       "small_airport": 1,
-      "medium_airport": 2
+      "medium_airport": 2,
+      "closed": 6
     }
   },
   {
@@ -2609,8 +2609,8 @@
     "types_distribution": {
       "small_airport": 27,
       "medium_airport": 3,
-      "closed": 5,
-      "large_airport": 1
+      "large_airport": 1,
+      "closed": 5
     }
   },
   {
@@ -2629,20 +2629,20 @@
       "small_airport": 456,
       "medium_airport": 46,
       "large_airport": 2,
-      "closed": 12,
-      "heliport": 88
+      "heliport": 88,
+      "closed": 12
     }
   },
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 94,
+    "airport_count": 95,
     "types_distribution": {
       "small_airport": 16,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,
-      "medium_airport": 22,
+      "medium_airport": 23,
       "large_airport": 2
     }
   },
@@ -2662,8 +2662,8 @@
     "types_distribution": {
       "small_airport": 10,
       "heliport": 15,
-      "medium_airport": 4,
-      "closed": 1
+      "closed": 1,
+      "medium_airport": 4
     }
   },
   {
@@ -2683,9 +2683,9 @@
     "airport_count": 126,
     "types_distribution": {
       "small_airport": 110,
-      "closed": 2,
       "medium_airport": 9,
       "large_airport": 1,
+      "closed": 2,
       "heliport": 4
     }
   },

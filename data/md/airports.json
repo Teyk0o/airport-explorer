@@ -2,7 +2,7 @@
   "country_code": "MD",
   "country_name": "Moldova",
   "total_airports": 14,
-  "last_updated": "2025-02-27T00:08:24.728260",
+  "last_updated": "2025-02-28T00:08:12.002054",
   "types_distribution": {
     "medium_airport": 5,
     "closed": 3,
@@ -46,17 +46,6 @@
       "municipality": "Cahul",
       "gps_code": "LUCH",
       "coordinates": "45.8438, 28.2637"
-    },
-    {
-      "ident": "LUCL",
-      "type": "closed",
-      "name": "Ceadîr-Lunga Airfield",
-      "elevation_ft": 587.0,
-      "continent": "EU",
-      "iso_country": "MD",
-      "iso_region": "MD-GA",
-      "municipality": "Ceadîr-Lunga",
-      "coordinates": "46.034994, 28.851844"
     },
     {
       "ident": "LUKK",
@@ -166,6 +155,17 @@
       "iso_region": "MD-CH",
       "municipality": "Giurgiulești",
       "coordinates": "45.49542, 28.18215"
+    },
+    {
+      "ident": "MD-0009",
+      "type": "closed",
+      "name": "Ceadîr-Lunga Airfield",
+      "elevation_ft": 587.0,
+      "continent": "EU",
+      "iso_country": "MD",
+      "iso_region": "MD-GA",
+      "municipality": "Ceadîr-Lunga",
+      "coordinates": "46.034994, 28.851844"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "LY",
   "country_name": "Libya",
   "total_airports": 80,
-  "last_updated": "2025-02-27T00:08:24.646494",
+  "last_updated": "2025-02-28T00:08:11.920214",
   "types_distribution": {
     "small_airport": 62,
     "medium_airport": 12,
@@ -462,17 +462,6 @@
       "coordinates": "26.992452, 14.466162"
     },
     {
-      "ident": "HLLT",
-      "type": "closed",
-      "name": "Tripoli International Airport",
-      "elevation_ft": 263.0,
-      "continent": "AF",
-      "iso_country": "LY",
-      "iso_region": "LY-TB",
-      "municipality": "Tripoli",
-      "coordinates": "32.663502, 13.159"
-    },
-    {
       "ident": "HLMB",
       "type": "medium_airport",
       "name": "Marsa al Brega Airport",
@@ -592,17 +581,6 @@
       "iso_region": "LY-JU",
       "gps_code": "HLSB",
       "coordinates": "28.2225, 18.109444"
-    },
-    {
-      "ident": "HLSD",
-      "type": "closed",
-      "name": "Former Sidra Airport",
-      "elevation_ft": 20.0,
-      "continent": "AF",
-      "iso_country": "LY",
-      "iso_region": "LY-SR",
-      "municipality": "Sidra",
-      "coordinates": "30.632622, 18.322921"
     },
     {
       "ident": "HLSH",
@@ -930,6 +908,28 @@
       "iso_region": "LY-WA",
       "local_code": "HLATH",
       "coordinates": "29.62058, 19.64761"
+    },
+    {
+      "ident": "LY-0019",
+      "type": "closed",
+      "name": "Tripoli International Airport",
+      "elevation_ft": 263.0,
+      "continent": "AF",
+      "iso_country": "LY",
+      "iso_region": "LY-TB",
+      "municipality": "Tripoli",
+      "coordinates": "32.663502, 13.159"
+    },
+    {
+      "ident": "LY-0020",
+      "type": "closed",
+      "name": "Former Sidra Airport",
+      "elevation_ft": 20.0,
+      "continent": "AF",
+      "iso_country": "LY",
+      "iso_region": "LY-SR",
+      "municipality": "Sidra",
+      "coordinates": "30.632622, 18.322921"
     },
     {
       "ident": "LY-BCQ",

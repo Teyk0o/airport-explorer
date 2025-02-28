@@ -2,7 +2,7 @@
   "country_code": "OM",
   "country_name": "Oman",
   "total_airports": 60,
-  "last_updated": "2025-02-27T00:08:24.414853",
+  "last_updated": "2025-02-28T00:08:11.688113",
   "types_distribution": {
     "small_airport": 29,
     "large_airport": 2,
@@ -424,6 +424,28 @@
       "coordinates": "16.7011, 53.09786"
     },
     {
+      "ident": "OM-0037",
+      "type": "closed",
+      "name": "Firq Air Base",
+      "elevation_ft": 1560.0,
+      "continent": "AS",
+      "iso_country": "OM",
+      "iso_region": "OM-DA",
+      "municipality": "Firq",
+      "coordinates": "22.869085, 57.543615"
+    },
+    {
+      "ident": "OM-0038",
+      "type": "closed",
+      "name": "Sur Airport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "OM",
+      "iso_region": "OM-SH",
+      "municipality": "Sur",
+      "coordinates": "22.537729, 59.479766"
+    },
+    {
       "ident": "OO42",
       "type": "small_airport",
       "name": "Manston Air Base",
@@ -471,17 +493,6 @@
       "gps_code": "OOFD",
       "iata_code": "FAU",
       "coordinates": "22.354759, 56.484146"
-    },
-    {
-      "ident": "OOFQ",
-      "type": "closed",
-      "name": "Firq Air Base",
-      "elevation_ft": 1560.0,
-      "continent": "AS",
-      "iso_country": "OM",
-      "iso_region": "OM-DA",
-      "municipality": "Firq",
-      "coordinates": "22.869085, 57.543615"
     },
     {
       "ident": "OOGB",
@@ -659,17 +670,6 @@
       "municipality": "Saiq",
       "gps_code": "OOSQ",
       "coordinates": "23.075545, 57.643271"
-    },
-    {
-      "ident": "OOSR",
-      "type": "closed",
-      "name": "Sur Airport",
-      "elevation_ft": 20.0,
-      "continent": "AS",
-      "iso_country": "OM",
-      "iso_region": "OM-SH",
-      "municipality": "Sur",
-      "coordinates": "22.537729, 59.479766"
     },
     {
       "ident": "OOTH",

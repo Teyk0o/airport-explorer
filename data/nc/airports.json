@@ -2,7 +2,7 @@
   "country_code": "NC",
   "country_name": "New Caledonia",
   "total_airports": 27,
-  "last_updated": "2025-02-27T00:08:24.733438",
+  "last_updated": "2025-02-28T00:08:12.007163",
   "types_distribution": {
     "small_airport": 12,
     "heliport": 2,
@@ -76,6 +76,39 @@
       "coordinates": "-21.520435, 165.971947"
     },
     {
+      "ident": "NC-0007",
+      "type": "closed",
+      "name": "Île Ouen/Edmond Cané Airport",
+      "elevation_ft": 7.0,
+      "continent": "OC",
+      "iso_country": "NC",
+      "iso_region": "NC-03",
+      "municipality": "Ouara",
+      "coordinates": "-22.460295, 166.782718"
+    },
+    {
+      "ident": "NC-0008",
+      "type": "closed",
+      "name": "Voh Airport",
+      "elevation_ft": 33.0,
+      "continent": "OC",
+      "iso_country": "NC",
+      "iso_region": "NC-02",
+      "municipality": "Voh",
+      "coordinates": "-20.966999, 164.699997"
+    },
+    {
+      "ident": "NC-0009",
+      "type": "closed",
+      "name": "Plaine des Lacs Airport",
+      "elevation_ft": 902.0,
+      "continent": "OC",
+      "iso_country": "NC",
+      "iso_region": "NC-03",
+      "municipality": "Plaine des Lacs",
+      "coordinates": "-22.270616, 166.926301"
+    },
+    {
       "ident": "NWWA",
       "type": "medium_airport",
       "name": "Tiga Airport",
@@ -138,17 +171,6 @@
       "gps_code": "NWWE",
       "iata_code": "ILP",
       "coordinates": "-22.588899612426758, 167.45599365234375"
-    },
-    {
-      "ident": "NWWF",
-      "type": "closed",
-      "name": "Voh Airport",
-      "elevation_ft": 33.0,
-      "continent": "OC",
-      "iso_country": "NC",
-      "iso_region": "NC-02",
-      "municipality": "Voh",
-      "coordinates": "-20.966999, 164.699997"
     },
     {
       "ident": "NWWH",
@@ -214,17 +236,6 @@
       "coordinates": "-22.25812, 166.472783"
     },
     {
-      "ident": "NWWO",
-      "type": "closed",
-      "name": "Île Ouen/Edmond Cané Airport",
-      "elevation_ft": 7.0,
-      "continent": "OC",
-      "iso_country": "NC",
-      "iso_region": "NC-03",
-      "municipality": "Ouara",
-      "coordinates": "-22.460295, 166.782718"
-    },
-    {
       "ident": "NWWP",
       "type": "small_airport",
       "name": "Poum / Malabou Airport",
@@ -262,17 +273,6 @@
       "gps_code": "NWWR",
       "iata_code": "MEE",
       "coordinates": "-21.482438, 168.038465"
-    },
-    {
-      "ident": "NWWS",
-      "type": "closed",
-      "name": "Plaine des Lacs Airport",
-      "elevation_ft": 902.0,
-      "continent": "OC",
-      "iso_country": "NC",
-      "iso_region": "NC-03",
-      "municipality": "Plaine des Lacs",
-      "coordinates": "-22.270616, 166.926301"
     },
     {
       "ident": "NWWT",

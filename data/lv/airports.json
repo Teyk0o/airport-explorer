@@ -2,13 +2,13 @@
   "country_code": "LV",
   "country_name": "Latvia",
   "total_airports": 81,
-  "last_updated": "2025-02-27T00:08:24.608290",
+  "last_updated": "2025-02-28T00:08:11.880269",
   "types_distribution": {
     "small_airport": 51,
     "heliport": 5,
-    "closed": 21,
     "medium_airport": 3,
-    "large_airport": 1
+    "large_airport": 1,
+    "closed": 21
   },
   "airports": [
     {
@@ -57,39 +57,6 @@
       "iso_region": "LV-022",
       "municipality": "Cesis",
       "coordinates": "57.32379, 25.323229"
-    },
-    {
-      "ident": "EVDA",
-      "type": "closed",
-      "name": "Daugavpils International Airport",
-      "elevation_ft": 398.0,
-      "continent": "EU",
-      "iso_country": "LV",
-      "iso_region": "LV-111",
-      "municipality": "Daugavpils",
-      "coordinates": "55.944721, 26.665001"
-    },
-    {
-      "ident": "EVEA",
-      "type": "closed",
-      "name": "Jelgava Airfield",
-      "elevation_ft": 20.0,
-      "continent": "EU",
-      "iso_country": "LV",
-      "iso_region": "LV-JEL",
-      "municipality": "Jelgava",
-      "coordinates": "56.672798, 23.679199"
-    },
-    {
-      "ident": "EVFA",
-      "type": "closed",
-      "name": "Vaiņode Air Base",
-      "elevation_ft": 518.0,
-      "continent": "EU",
-      "iso_country": "LV",
-      "iso_region": "LV-112",
-      "municipality": "Vaiņode",
-      "coordinates": "56.405602, 21.8869"
     },
     {
       "ident": "EVGA",
@@ -173,26 +140,6 @@
       "municipality": "Ludza",
       "gps_code": "EVLU",
       "coordinates": "56.521111, 27.694167"
-    },
-    {
-      "ident": "EVMA",
-      "type": "closed",
-      "name": "Augstkalne Airfield",
-      "continent": "EU",
-      "iso_country": "LV",
-      "iso_region": "LV-026",
-      "municipality": "Augstkalne",
-      "coordinates": "56.41318, 23.319409"
-    },
-    {
-      "ident": "EVNA",
-      "type": "closed",
-      "name": "Rēzekne Airfield",
-      "continent": "EU",
-      "iso_country": "LV",
-      "iso_region": "LV-077",
-      "municipality": "Rēzekne",
-      "coordinates": "56.556389, 27.212778"
     },
     {
       "ident": "EVPA",
@@ -862,6 +809,59 @@
       "iso_country": "LV",
       "iso_region": "LV-041",
       "coordinates": "56.474862, 23.190107"
+    },
+    {
+      "ident": "LV-8038",
+      "type": "closed",
+      "name": "Jelgava Airfield",
+      "elevation_ft": 20.0,
+      "continent": "EU",
+      "iso_country": "LV",
+      "iso_region": "LV-JEL",
+      "municipality": "Jelgava",
+      "coordinates": "56.672798, 23.679199"
+    },
+    {
+      "ident": "LV-8039",
+      "type": "closed",
+      "name": "Vaiņode Air Base",
+      "elevation_ft": 518.0,
+      "continent": "EU",
+      "iso_country": "LV",
+      "iso_region": "LV-112",
+      "municipality": "Vaiņode",
+      "coordinates": "56.405602, 21.8869"
+    },
+    {
+      "ident": "LV-8040",
+      "type": "closed",
+      "name": "Daugavpils International Airport",
+      "elevation_ft": 398.0,
+      "continent": "EU",
+      "iso_country": "LV",
+      "iso_region": "LV-111",
+      "municipality": "Daugavpils",
+      "coordinates": "55.944721, 26.665001"
+    },
+    {
+      "ident": "LV-8041",
+      "type": "closed",
+      "name": "Augstkalne Airfield",
+      "continent": "EU",
+      "iso_country": "LV",
+      "iso_region": "LV-026",
+      "municipality": "Augstkalne",
+      "coordinates": "56.41318, 23.319409"
+    },
+    {
+      "ident": "LV-8042",
+      "type": "closed",
+      "name": "Rēzekne Airfield",
+      "continent": "EU",
+      "iso_country": "LV",
+      "iso_region": "LV-077",
+      "municipality": "Rēzekne",
+      "coordinates": "56.556389, 27.212778"
     }
   ]
 }

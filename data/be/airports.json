@@ -2,7 +2,7 @@
   "country_code": "BE",
   "country_name": "Belgium",
   "total_airports": 201,
-  "last_updated": "2025-02-27T00:08:24.384036",
+  "last_updated": "2025-02-28T00:08:11.646161",
   "types_distribution": {
     "closed": 40,
     "heliport": 111,
@@ -468,6 +468,346 @@
       "coordinates": "50.22757, 5.32145"
     },
     {
+      "ident": "BE-0043",
+      "type": "closed",
+      "name": "Kuurne Heliport",
+      "elevation_ft": 47.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VWV",
+      "municipality": "Kuurne",
+      "coordinates": "50.85842, 3.255642"
+    },
+    {
+      "ident": "BE-0044",
+      "type": "closed",
+      "name": "Zaffelare Heliport",
+      "elevation_ft": 26.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Lochristi",
+      "coordinates": "51.130384, 3.864098"
+    },
+    {
+      "ident": "BE-0045",
+      "type": "closed",
+      "name": "Outer ULM",
+      "elevation_ft": 151.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Ninove",
+      "coordinates": "50.854401, 3.98528"
+    },
+    {
+      "ident": "BE-0046",
+      "type": "closed",
+      "name": "Oombergen Airfield",
+      "elevation_ft": 240.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Zottegem",
+      "coordinates": "50.909401, 3.82667"
+    },
+    {
+      "ident": "BE-0047",
+      "type": "closed",
+      "name": "Michamps Ulmodrome",
+      "elevation_ft": 1770.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLX",
+      "municipality": "Bastogne",
+      "coordinates": "50.0527992249, 5.79861021042"
+    },
+    {
+      "ident": "BE-0048",
+      "type": "closed",
+      "name": "Mogimont Ultralight Airfield",
+      "elevation_ft": 1394.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLX",
+      "municipality": "Bouillon",
+      "coordinates": "49.866402, 5.06806"
+    },
+    {
+      "ident": "BE-0049",
+      "type": "closed",
+      "name": "Bassenge-Wonck Ultralight Airfield",
+      "elevation_ft": 367.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "Bassenge",
+      "coordinates": "50.778301, 5.61667"
+    },
+    {
+      "ident": "BE-0050",
+      "type": "closed",
+      "name": "Saint-Remy Ultralight Airfield",
+      "elevation_ft": 820.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WHT",
+      "municipality": "Chimay",
+      "coordinates": "50.0583, 4.28194"
+    },
+    {
+      "ident": "BE-0051",
+      "type": "closed",
+      "name": "Héron-Couthuin Ultralight Airfield",
+      "elevation_ft": 607.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "Héron",
+      "coordinates": "50.538898, 5.10917"
+    },
+    {
+      "ident": "BE-0052",
+      "type": "closed",
+      "name": "Elsenborn Air Base",
+      "elevation_ft": 1830.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "Bütgenbach",
+      "coordinates": "50.484489, 6.183157"
+    },
+    {
+      "ident": "BE-0053",
+      "type": "closed",
+      "name": "Lierneux Microlight Airfield",
+      "elevation_ft": 1411.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "Lierneux",
+      "coordinates": "50.286701, 5.83639"
+    },
+    {
+      "ident": "BE-0054",
+      "type": "closed",
+      "name": "Liernu Ultralight Airfield",
+      "elevation_ft": 564.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WNA",
+      "municipality": "Eghezée",
+      "coordinates": "50.579514, 4.79153"
+    },
+    {
+      "ident": "BE-0055",
+      "type": "closed",
+      "name": "ULB Heliport",
+      "elevation_ft": 108.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-BRU",
+      "municipality": "Brussels",
+      "coordinates": "50.811847, 4.260989"
+    },
+    {
+      "ident": "BE-0056",
+      "type": "closed",
+      "name": "Kiel Heliport",
+      "elevation_ft": 10.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VAN",
+      "municipality": "Antwerpen",
+      "coordinates": "51.20007, 4.358938"
+    },
+    {
+      "ident": "BE-0057",
+      "type": "closed",
+      "name": "Luyckx Heliport",
+      "elevation_ft": 99.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VAN",
+      "municipality": "Brecht",
+      "coordinates": "51.305171, 4.629729"
+    },
+    {
+      "ident": "BE-0058",
+      "type": "closed",
+      "name": "Westmalle Heliport",
+      "elevation_ft": 88.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VAN",
+      "municipality": "Malle",
+      "coordinates": "51.287224, 4.714167"
+    },
+    {
+      "ident": "BE-0059",
+      "type": "closed",
+      "name": "Webbekom Heliport",
+      "elevation_ft": 130.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VBR",
+      "municipality": "Diest",
+      "coordinates": "50.958132, 5.064743"
+    },
+    {
+      "ident": "BE-0060",
+      "type": "closed",
+      "name": "Lanklaar Heliport",
+      "elevation_ft": 131.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VLI",
+      "municipality": "Dilsen-Stokkem",
+      "coordinates": "51.017463, 5.69981"
+    },
+    {
+      "ident": "BE-0061",
+      "type": "closed",
+      "name": "Neerpelt Ultralight Airfield",
+      "elevation_ft": 148.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VLI",
+      "municipality": "Neerpelt",
+      "coordinates": "51.211945, 5.478611"
+    },
+    {
+      "ident": "BE-0062",
+      "type": "closed",
+      "name": "Meldert Heliport",
+      "elevation_ft": 131.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Aalst",
+      "coordinates": "50.92683, 4.112962"
+    },
+    {
+      "ident": "BE-0063",
+      "type": "closed",
+      "name": "Temse Heliport",
+      "elevation_ft": 30.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Temse",
+      "coordinates": "51.141666, 4.197222"
+    },
+    {
+      "ident": "BE-0064",
+      "type": "closed",
+      "name": "Beveren Heliport",
+      "elevation_ft": 84.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VWV",
+      "municipality": "Roeselare",
+      "coordinates": "50.981543, 3.125873"
+    },
+    {
+      "ident": "BE-0065",
+      "type": "closed",
+      "name": "Trazegnies Heliport",
+      "elevation_ft": 574.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WHT",
+      "municipality": "Courcelles",
+      "coordinates": "50.476665, 4.355556"
+    },
+    {
+      "ident": "BE-0066",
+      "type": "closed",
+      "name": "'S Gravenvoeren Heliport",
+      "elevation_ft": 394.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "'S Gravenvoeren",
+      "coordinates": "50.764771, 5.786845"
+    },
+    {
+      "ident": "BE-0067",
+      "type": "closed",
+      "name": "Dompire Heliport",
+      "elevation_ft": 607.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WNA",
+      "municipality": "Fernelmont",
+      "coordinates": "50.550835, 4.996389"
+    },
+    {
+      "ident": "BE-0068",
+      "type": "closed",
+      "name": "Chimay-Ronvaux Ultralight Airfield",
+      "elevation_ft": 1076.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WNA",
+      "municipality": "Ciney",
+      "coordinates": "50.247223, 5.113889"
+    },
+    {
+      "ident": "BE-0069",
+      "type": "closed",
+      "name": "Casteau / SHAPE Helipad",
+      "elevation_ft": 287.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WHT",
+      "municipality": "Mons",
+      "coordinates": "50.503056, 3.982501"
+    },
+    {
+      "ident": "BE-0070",
+      "type": "closed",
+      "name": "CRC Glons Heliport",
+      "elevation_ft": 438.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "Bassenge",
+      "coordinates": "50.73973, 5.5421"
+    },
+    {
+      "ident": "BE-0071",
+      "type": "closed",
+      "name": "Oud-Turnhout Airfield",
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VAN",
+      "municipality": "Oud-Turnhout",
+      "coordinates": "51.321566, 5.012685"
+    },
+    {
+      "ident": "BE-0072",
+      "type": "closed",
+      "name": "Sint-Denijs-Westrem Airport",
+      "elevation_ft": 30.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Gent",
+      "coordinates": "51.025956, 3.688231"
+    },
+    {
+      "ident": "BE-0073",
+      "type": "closed",
+      "name": "Kortemark Heliport",
+      "elevation_ft": 66.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VWV",
+      "municipality": "Kortemark",
+      "coordinates": "51.007703, 3.045058"
+    },
+    {
       "ident": "EBAG",
       "type": "heliport",
       "name": "Grâce-Hollogne Agusta Heliport",
@@ -478,17 +818,6 @@
       "municipality": "Grâce-Hollogne",
       "gps_code": "EBAG",
       "coordinates": "50.640081, 5.457585"
-    },
-    {
-      "ident": "EBAK",
-      "type": "closed",
-      "name": "Kiel Heliport",
-      "elevation_ft": 10.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VAN",
-      "municipality": "Antwerpen",
-      "coordinates": "51.20007, 4.358938"
     },
     {
       "ident": "EBAL",
@@ -538,17 +867,6 @@
       "coordinates": "51.247065, 4.54272"
     },
     {
-      "ident": "EBAT",
-      "type": "closed",
-      "name": "Meldert Heliport",
-      "elevation_ft": 131.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Aalst",
-      "coordinates": "50.92683, 4.112962"
-    },
-    {
       "ident": "EBAV",
       "type": "small_airport",
       "name": "Avernas-le-Bauduin Ultralight Airfield",
@@ -586,17 +904,6 @@
       "coordinates": "50.469514, 3.838767"
     },
     {
-      "ident": "EBBC",
-      "type": "closed",
-      "name": "Luyckx Heliport",
-      "elevation_ft": 99.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VAN",
-      "municipality": "Brecht",
-      "coordinates": "51.305171, 4.629729"
-    },
-    {
       "ident": "EBBE",
       "type": "medium_airport",
       "name": "Beauvechain Air Base",
@@ -607,17 +914,6 @@
       "municipality": "Beauvechain",
       "gps_code": "EBBE",
       "coordinates": "50.758598, 4.76833"
-    },
-    {
-      "ident": "EBBG",
-      "type": "closed",
-      "name": "Michamps Ulmodrome",
-      "elevation_ft": 1770.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLX",
-      "municipality": "Bastogne",
-      "coordinates": "50.0527992249, 5.79861021042"
     },
     {
       "ident": "EBBH",
@@ -667,17 +963,6 @@
       "coordinates": "50.415001, 6.27639"
     },
     {
-      "ident": "EBBO",
-      "type": "closed",
-      "name": "Mogimont Ultralight Airfield",
-      "elevation_ft": 1394.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLX",
-      "municipality": "Bouillon",
-      "coordinates": "49.866402, 5.06806"
-    },
-    {
       "ident": "EBBR",
       "type": "large_airport",
       "name": "Brussels Airport",
@@ -701,17 +986,6 @@
       "municipality": "Brasschaat",
       "gps_code": "EBBT",
       "coordinates": "51.34259, 4.503451"
-    },
-    {
-      "ident": "EBBW",
-      "type": "closed",
-      "name": "Bassenge-Wonck Ultralight Airfield",
-      "elevation_ft": 367.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "Bassenge",
-      "coordinates": "50.778301, 5.61667"
     },
     {
       "ident": "EBBX",
@@ -762,17 +1036,6 @@
       "coordinates": "50.152802, 4.38722"
     },
     {
-      "ident": "EBCH",
-      "type": "closed",
-      "name": "Casteau / SHAPE Helipad",
-      "elevation_ft": 287.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WHT",
-      "municipality": "Mons",
-      "coordinates": "50.503056, 3.982501"
-    },
-    {
       "ident": "EBCI",
       "type": "medium_airport",
       "name": "Brussels South Charleroi Airport",
@@ -784,28 +1047,6 @@
       "gps_code": "EBCI",
       "iata_code": "CRL",
       "coordinates": "50.460982, 4.457158"
-    },
-    {
-      "ident": "EBCR",
-      "type": "closed",
-      "name": "Chimay-Ronvaux Ultralight Airfield",
-      "elevation_ft": 1076.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WNA",
-      "municipality": "Ciney",
-      "coordinates": "50.247223, 5.113889"
-    },
-    {
-      "ident": "EBCS",
-      "type": "closed",
-      "name": "Saint-Remy Ultralight Airfield",
-      "elevation_ft": 820.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WHT",
-      "municipality": "Chimay",
-      "coordinates": "50.0583, 4.28194"
     },
     {
       "ident": "EBCV",
@@ -832,17 +1073,6 @@
       "coordinates": "51.019276, 2.858205"
     },
     {
-      "ident": "EBDL",
-      "type": "closed",
-      "name": "Lanklaar Heliport",
-      "elevation_ft": 131.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VLI",
-      "municipality": "Dilsen-Stokkem",
-      "coordinates": "51.017463, 5.69981"
-    },
-    {
       "ident": "EBDR",
       "type": "heliport",
       "name": "Antwerp/Commandant Fourcault Heliport",
@@ -864,17 +1094,6 @@
       "municipality": "Diest",
       "gps_code": "EBDT",
       "coordinates": "51.004032, 5.064697"
-    },
-    {
-      "ident": "EBDW",
-      "type": "closed",
-      "name": "Webbekom Heliport",
-      "elevation_ft": 130.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VBR",
-      "municipality": "Diest",
-      "coordinates": "50.958132, 5.064743"
     },
     {
       "ident": "EBDZ",
@@ -947,17 +1166,6 @@
       "municipality": "Edegem",
       "gps_code": "EBEU",
       "coordinates": "51.155894, 4.409841"
-    },
-    {
-      "ident": "EBFD",
-      "type": "closed",
-      "name": "Dompire Heliport",
-      "elevation_ft": 607.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WNA",
-      "municipality": "Fernelmont",
-      "coordinates": "50.550835, 4.996389"
     },
     {
       "ident": "EBFN",
@@ -1043,17 +1251,6 @@
       "coordinates": "50.7556, 3.86389"
     },
     {
-      "ident": "EBGL",
-      "type": "closed",
-      "name": "CRC Glons Heliport",
-      "elevation_ft": 438.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "Bassenge",
-      "coordinates": "50.73973, 5.5421"
-    },
-    {
       "ident": "EBGT",
       "type": "heliport",
       "name": "Ghent/Industry Zone Heliport",
@@ -1089,17 +1286,6 @@
       "municipality": "Ham",
       "gps_code": "EBHA",
       "coordinates": "51.079179, 5.108932"
-    },
-    {
-      "ident": "EBHE",
-      "type": "closed",
-      "name": "Héron-Couthuin Ultralight Airfield",
-      "elevation_ft": 607.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "Héron",
-      "coordinates": "50.538898, 5.10917"
     },
     {
       "ident": "EBHF",
@@ -1259,17 +1445,6 @@
       "coordinates": "50.818878, 3.209551"
     },
     {
-      "ident": "EBKU",
-      "type": "closed",
-      "name": "Kuurne Heliport",
-      "elevation_ft": 47.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VWV",
-      "municipality": "Kuurne",
-      "coordinates": "50.85842, 3.255642"
-    },
-    {
       "ident": "EBKW",
       "type": "heliport",
       "name": "Westkapelle Heliport",
@@ -1292,17 +1467,6 @@
       "municipality": "Knokke-Heist",
       "gps_code": "EBKZ",
       "coordinates": "51.328685, 3.292388"
-    },
-    {
-      "ident": "EBLB",
-      "type": "closed",
-      "name": "Elsenborn Air Base",
-      "elevation_ft": 1830.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "Bütgenbach",
-      "coordinates": "50.484489, 6.183157"
     },
     {
       "ident": "EBLC",
@@ -1366,17 +1530,6 @@
       "coordinates": "51.033333, 3.496389"
     },
     {
-      "ident": "EBLI",
-      "type": "closed",
-      "name": "Lierneux Microlight Airfield",
-      "elevation_ft": 1411.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "Lierneux",
-      "coordinates": "50.286701, 5.83639"
-    },
-    {
       "ident": "EBLJ",
       "type": "heliport",
       "name": "Janssens Heliport",
@@ -1398,17 +1551,6 @@
       "municipality": "Meulebeke",
       "gps_code": "EBLM",
       "coordinates": "50.931667, 3.293889"
-    },
-    {
-      "ident": "EBLN",
-      "type": "closed",
-      "name": "Liernu Ultralight Airfield",
-      "elevation_ft": 564.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WNA",
-      "municipality": "Eghezée",
-      "coordinates": "50.579514, 4.79153"
     },
     {
       "ident": "EBLO",
@@ -1458,17 +1600,6 @@
       "coordinates": "50.991941, 5.23903"
     },
     {
-      "ident": "EBLV",
-      "type": "closed",
-      "name": "Kortemark Heliport",
-      "elevation_ft": 66.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VWV",
-      "municipality": "Kortemark",
-      "coordinates": "51.007703, 3.045058"
-    },
-    {
       "ident": "EBLY",
       "type": "heliport",
       "name": "Lymar Heliport",
@@ -1479,28 +1610,6 @@
       "municipality": "Ranst",
       "gps_code": "EBLY",
       "coordinates": "51.210662, 4.576811"
-    },
-    {
-      "ident": "EBLZ",
-      "type": "closed",
-      "name": "Zaffelare Heliport",
-      "elevation_ft": 26.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Lochristi",
-      "coordinates": "51.130384, 3.864098"
-    },
-    {
-      "ident": "EBMA",
-      "type": "closed",
-      "name": "Westmalle Heliport",
-      "elevation_ft": 88.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VAN",
-      "municipality": "Malle",
-      "coordinates": "51.287224, 4.714167"
     },
     {
       "ident": "EBMB",
@@ -1646,17 +1755,6 @@
       "coordinates": "50.479007, 4.885021"
     },
     {
-      "ident": "EBNE",
-      "type": "closed",
-      "name": "Neerpelt Ultralight Airfield",
-      "elevation_ft": 148.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VLI",
-      "municipality": "Neerpelt",
-      "coordinates": "51.211945, 5.478611"
-    },
-    {
       "ident": "EBNH",
       "type": "heliport",
       "name": "Oostende Heliport",
@@ -1702,17 +1800,6 @@
       "municipality": "Namur",
       "gps_code": "EBNM",
       "coordinates": "50.489705, 4.769697"
-    },
-    {
-      "ident": "EBNO",
-      "type": "closed",
-      "name": "Outer ULM",
-      "elevation_ft": 151.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Ninove",
-      "coordinates": "50.854401, 3.98528"
     },
     {
       "ident": "EBNR",
@@ -1775,16 +1862,6 @@
       "coordinates": "51.1998, 2.874673"
     },
     {
-      "ident": "EBOT",
-      "type": "closed",
-      "name": "Oud-Turnhout Airfield",
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VAN",
-      "municipality": "Oud-Turnhout",
-      "coordinates": "51.321566, 5.012685"
-    },
-    {
       "ident": "EBPP",
       "type": "heliport",
       "name": "Deinze - Piens Heliport",
@@ -1819,17 +1896,6 @@
       "municipality": "Pecq",
       "gps_code": "EBPW",
       "coordinates": "50.722235, 3.326129"
-    },
-    {
-      "ident": "EBRB",
-      "type": "closed",
-      "name": "Beveren Heliport",
-      "elevation_ft": 84.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VWV",
-      "municipality": "Roeselare",
-      "coordinates": "50.981543, 3.125873"
     },
     {
       "ident": "EBRD",
@@ -1939,17 +2005,6 @@
       "coordinates": "51.268281, 4.175453"
     },
     {
-      "ident": "EBSN",
-      "type": "closed",
-      "name": "'S Gravenvoeren Heliport",
-      "elevation_ft": 394.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "'S Gravenvoeren",
-      "coordinates": "50.764771, 5.786845"
-    },
-    {
       "ident": "EBSP",
       "type": "small_airport",
       "name": "Spa-La Sauvenière Airfield",
@@ -2010,17 +2065,6 @@
       "coordinates": "50.763845, 4.218782"
     },
     {
-      "ident": "EBTE",
-      "type": "closed",
-      "name": "Temse Heliport",
-      "elevation_ft": 30.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Temse",
-      "coordinates": "51.141666, 4.197222"
-    },
-    {
       "ident": "EBTK",
       "type": "heliport",
       "name": "Kasterlee Heliport",
@@ -2045,17 +2089,6 @@
       "coordinates": "50.7817, 4.95778"
     },
     {
-      "ident": "EBTR",
-      "type": "closed",
-      "name": "Trazegnies Heliport",
-      "elevation_ft": 574.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WHT",
-      "municipality": "Courcelles",
-      "coordinates": "50.476665, 4.355556"
-    },
-    {
       "ident": "EBTX",
       "type": "small_airport",
       "name": "Theux (Verviers) Airfield",
@@ -2078,17 +2111,6 @@
       "municipality": "Péruwelz",
       "gps_code": "EBTY",
       "coordinates": "50.531639, 3.496185"
-    },
-    {
-      "ident": "EBUB",
-      "type": "closed",
-      "name": "ULB Heliport",
-      "elevation_ft": 108.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-BRU",
-      "municipality": "Brussels",
-      "coordinates": "50.811847, 4.260989"
     },
     {
       "ident": "EBUC",
@@ -2256,17 +2278,6 @@
       "coordinates": "50.926388, 3.617222"
     },
     {
-      "ident": "EBZM",
-      "type": "closed",
-      "name": "Oombergen Airfield",
-      "elevation_ft": 240.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Zottegem",
-      "coordinates": "50.909401, 3.82667"
-    },
-    {
       "ident": "EBZO",
       "type": "heliport",
       "name": "Zandvoorde Heliport",
@@ -2336,17 +2347,6 @@
       "municipality": "Lierneux",
       "gps_code": "EBLX",
       "coordinates": "50.286813, 5.78887"
-    },
-    {
-      "ident": "GNE",
-      "type": "closed",
-      "name": "Sint-Denijs-Westrem Airport",
-      "elevation_ft": 30.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Gent",
-      "coordinates": "51.025956, 3.688231"
     }
   ]
 }

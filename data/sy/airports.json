@@ -2,13 +2,13 @@
   "country_code": "SY",
   "country_name": "Syria",
   "total_airports": 57,
-  "last_updated": "2025-02-27T00:08:24.742277",
+  "last_updated": "2025-02-28T00:08:12.015877",
   "types_distribution": {
     "medium_airport": 9,
     "small_airport": 32,
-    "closed": 2,
     "large_airport": 1,
-    "heliport": 13
+    "heliport": 13,
+    "closed": 2
   },
   "airports": [
     {
@@ -33,17 +33,6 @@
       "gps_code": "OS58",
       "local_code": "OS58",
       "coordinates": "35.11819839477539, 36.71120071411133"
-    },
-    {
-      "ident": "OS59",
-      "type": "closed",
-      "name": "Al Tabqah Airbase",
-      "elevation_ft": 1050.0,
-      "continent": "AS",
-      "iso_country": "SY",
-      "iso_region": "SY-RA",
-      "municipality": "Al Tabqah",
-      "coordinates": "35.7547, 38.566799"
     },
     {
       "ident": "OS60",
@@ -199,16 +188,6 @@
       "iso_region": "SY-HI",
       "municipality": "Tiyas",
       "coordinates": "34.5225982666, 37.629901886"
-    },
-    {
-      "ident": "OS73",
-      "type": "closed",
-      "name": "Al Al Airport",
-      "elevation_ft": 1214.0,
-      "continent": "AS",
-      "iso_country": "SY",
-      "iso_region": "SY-QU",
-      "coordinates": "32.7867, 35.717"
     },
     {
       "ident": "OSAP",
@@ -633,6 +612,27 @@
       "iso_country": "SY",
       "iso_region": "SY-U-A",
       "coordinates": "34.528179, 38.733823"
+    },
+    {
+      "ident": "SY-0035",
+      "type": "closed",
+      "name": "Al Tabqah Airbase",
+      "elevation_ft": 1050.0,
+      "continent": "AS",
+      "iso_country": "SY",
+      "iso_region": "SY-RA",
+      "municipality": "Al Tabqah",
+      "coordinates": "35.7547, 38.566799"
+    },
+    {
+      "ident": "SY-0036",
+      "type": "closed",
+      "name": "Al Al Airport",
+      "elevation_ft": 1214.0,
+      "continent": "AS",
+      "iso_country": "SY",
+      "iso_region": "SY-QU",
+      "coordinates": "32.7867, 35.717"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "CM",
   "country_name": "Cameroon",
   "total_airports": 40,
-  "last_updated": "2025-02-27T00:08:24.539795",
+  "last_updated": "2025-02-28T00:08:11.811913",
   "types_distribution": {
     "small_airport": 27,
     "heliport": 1,
@@ -143,6 +143,17 @@
       "coordinates": "4.01583, 9.19999"
     },
     {
+      "ident": "CM-0014",
+      "type": "closed",
+      "name": "Nkongsamba Airport",
+      "elevation_ft": 2641.0,
+      "continent": "AF",
+      "iso_country": "CM",
+      "iso_region": "CM-LT",
+      "municipality": "Nkongsamba",
+      "coordinates": "4.95, 9.933"
+    },
+    {
       "ident": "FKAB",
       "type": "small_airport",
       "name": "Banyo Airport",
@@ -177,17 +188,6 @@
       "municipality": "Abong M'bang",
       "gps_code": "FKAG",
       "coordinates": "3.9670000076293945, 13.199999809265137"
-    },
-    {
-      "ident": "FKAN",
-      "type": "closed",
-      "name": "Nkongsamba Airport",
-      "elevation_ft": 2641.0,
-      "continent": "AF",
-      "iso_country": "CM",
-      "iso_region": "CM-LT",
-      "municipality": "Nkongsamba",
-      "coordinates": "4.95, 9.933"
     },
     {
       "ident": "FKAO",

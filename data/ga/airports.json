@@ -2,24 +2,13 @@
   "country_code": "GA",
   "country_name": "Gabon",
   "total_airports": 46,
-  "last_updated": "2025-02-27T00:08:24.390335",
+  "last_updated": "2025-02-28T00:08:11.892130",
   "types_distribution": {
-    "closed": 4,
     "small_airport": 31,
-    "medium_airport": 11
+    "medium_airport": 11,
+    "closed": 4
   },
   "airports": [
-    {
-      "ident": "BGP",
-      "type": "closed",
-      "name": "Bongo Airport",
-      "elevation_ft": 120.0,
-      "continent": "AF",
-      "iso_country": "GA",
-      "iso_region": "GA-8",
-      "municipality": "Bongo",
-      "coordinates": "-2.1713, 10.2088"
-    },
     {
       "ident": "FO10",
       "type": "small_airport",
@@ -226,17 +215,6 @@
       "gps_code": "FOOB",
       "iata_code": "BMM",
       "coordinates": "2.07564, 11.4932"
-    },
-    {
-      "ident": "FOOC",
-      "type": "closed",
-      "name": "Cocobeach Airport",
-      "elevation_ft": 69.0,
-      "continent": "AF",
-      "iso_country": "GA",
-      "iso_region": "GA-1",
-      "municipality": "Cocobeach",
-      "coordinates": "0.980448, 9.571932"
     },
     {
       "ident": "FOOD",
@@ -526,6 +504,48 @@
       "coordinates": "-0.483557, 9.592044"
     },
     {
+      "ident": "GA-0012",
+      "type": "closed",
+      "name": "Cocobeach Airport",
+      "elevation_ft": 69.0,
+      "continent": "AF",
+      "iso_country": "GA",
+      "iso_region": "GA-1",
+      "municipality": "Cocobeach",
+      "coordinates": "0.980448, 9.571932"
+    },
+    {
+      "ident": "GA-0013",
+      "type": "closed",
+      "name": "Bongo Airport",
+      "elevation_ft": 120.0,
+      "continent": "AF",
+      "iso_country": "GA",
+      "iso_region": "GA-8",
+      "municipality": "Bongo",
+      "coordinates": "-2.1713, 10.2088"
+    },
+    {
+      "ident": "GA-0014",
+      "type": "closed",
+      "name": "Wagny Airport",
+      "elevation_ft": 1025.0,
+      "continent": "AF",
+      "iso_country": "GA",
+      "iso_region": "GA-7",
+      "municipality": "Wagny",
+      "coordinates": "-0.6035, 12.2608"
+    },
+    {
+      "ident": "GA-0015",
+      "type": "closed",
+      "name": "Manega Airport",
+      "continent": "AF",
+      "iso_country": "GA",
+      "iso_region": "GA-4",
+      "coordinates": "-1.73333, 10.2167"
+    },
+    {
       "ident": "GA-GAX",
       "type": "small_airport",
       "name": "Gamba Airport",
@@ -549,26 +569,6 @@
       "municipality": "Lekoni",
       "iata_code": "LEO",
       "coordinates": "-1.5724, 14.2878"
-    },
-    {
-      "ident": "MGO",
-      "type": "closed",
-      "name": "Manega Airport",
-      "continent": "AF",
-      "iso_country": "GA",
-      "iso_region": "GA-4",
-      "coordinates": "-1.73333, 10.2167"
-    },
-    {
-      "ident": "WGY",
-      "type": "closed",
-      "name": "Wagny Airport",
-      "elevation_ft": 1025.0,
-      "continent": "AF",
-      "iso_country": "GA",
-      "iso_region": "GA-7",
-      "municipality": "Wagny",
-      "coordinates": "-0.6035, 12.2608"
     }
   ]
 }

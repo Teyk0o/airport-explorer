@@ -2,12 +2,12 @@
   "country_code": "CI",
   "country_name": "Ivory Coast",
   "total_airports": 31,
-  "last_updated": "2025-02-27T00:08:24.534337",
+  "last_updated": "2025-02-28T00:08:11.806635",
   "types_distribution": {
     "small_airport": 22,
     "heliport": 1,
-    "medium_airport": 7,
-    "closed": 1
+    "closed": 1,
+    "medium_airport": 7
   },
   "airports": [
     {
@@ -61,6 +61,17 @@
       "iso_region": "CI-MG",
       "municipality": "Zagné",
       "coordinates": "6.215391, -7.500315"
+    },
+    {
+      "ident": "CI-0006",
+      "type": "closed",
+      "name": "Ferkessédougou Airport",
+      "elevation_ft": 1102.0,
+      "continent": "AF",
+      "iso_country": "CI",
+      "iso_region": "CI-SV",
+      "municipality": "Ferkessédougou",
+      "coordinates": "9.592774, -5.23344"
     },
     {
       "ident": "DIAO",
@@ -201,17 +212,6 @@
       "gps_code": "DIDL",
       "iata_code": "DJO",
       "coordinates": "6.79281, -6.47319"
-    },
-    {
-      "ident": "DIFK",
-      "type": "closed",
-      "name": "Ferkessédougou Airport",
-      "elevation_ft": 1102.0,
-      "continent": "AF",
-      "iso_country": "CI",
-      "iso_region": "CI-SV",
-      "municipality": "Ferkessédougou",
-      "coordinates": "9.592774, -5.23344"
     },
     {
       "ident": "DIGA",

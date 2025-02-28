@@ -2,7 +2,7 @@
   "country_code": "IR",
   "country_name": "Iran",
   "total_airports": 290,
-  "last_updated": "2025-02-27T00:08:24.664602",
+  "last_updated": "2025-02-28T00:08:11.938274",
   "types_distribution": {
     "small_airport": 113,
     "closed": 22,
@@ -1841,6 +1841,135 @@
       "coordinates": "31.344387, 48.729561"
     },
     {
+      "ident": "IR-0174",
+      "type": "closed",
+      "name": "Asalouyeh Airport",
+      "elevation_ft": 15.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-18",
+      "municipality": "Asalouyeh",
+      "coordinates": "27.482359, 52.612897"
+    },
+    {
+      "ident": "IR-0175",
+      "type": "closed",
+      "name": "Ghale Morghi Airport",
+      "elevation_ft": 3627.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-23",
+      "municipality": "Tehran",
+      "coordinates": "35.644798, 51.380699"
+    },
+    {
+      "ident": "IR-0176",
+      "type": "closed",
+      "name": "Borazjan Airport",
+      "elevation_ft": 265.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-18",
+      "municipality": "Borazjan",
+      "coordinates": "29.266666, 51.200001"
+    },
+    {
+      "ident": "IR-0177",
+      "type": "closed",
+      "name": "Qasr-e Shirin Airport",
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-05",
+      "municipality": "Qasr-e Shirin",
+      "coordinates": "34.516666, 45.566666"
+    },
+    {
+      "ident": "IR-0178",
+      "type": "closed",
+      "name": "Qom International Airport (under contstruction)",
+      "elevation_ft": 3690.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-25",
+      "municipality": "Qom",
+      "coordinates": "34.58114, 50.657481"
+    },
+    {
+      "ident": "IR-0179",
+      "type": "closed",
+      "name": "Damghan Airport",
+      "elevation_ft": 3887.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-20",
+      "municipality": "Damghan",
+      "coordinates": "36.166698, 54.343899"
+    },
+    {
+      "ident": "IR-0180",
+      "type": "closed",
+      "name": "Baft Airport",
+      "elevation_ft": 7385.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-08",
+      "municipality": "Baft",
+      "coordinates": "29.2342, 56.606899"
+    },
+    {
+      "ident": "IR-0181",
+      "type": "closed",
+      "name": "Amol Airport",
+      "elevation_ft": 318.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-02",
+      "municipality": "Amol",
+      "coordinates": "36.470798, 52.3633"
+    },
+    {
+      "ident": "IR-0182",
+      "type": "closed",
+      "name": "Babolsar Airport",
+      "elevation_ft": -49.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-02",
+      "municipality": "Babolsar",
+      "coordinates": "36.711263, 52.679699"
+    },
+    {
+      "ident": "IR-0183",
+      "type": "closed",
+      "name": "Behshahr Airport",
+      "elevation_ft": 137.0,
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-02",
+      "municipality": "Behshahr",
+      "coordinates": "36.694401, 53.5425"
+    },
+    {
+      "ident": "IR-0184",
+      "type": "closed",
+      "name": "Ghaem Shahr Airport",
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-02",
+      "municipality": "Ghaem Shahr",
+      "coordinates": "36.466667, 52.866669"
+    },
+    {
+      "ident": "IR-0185",
+      "type": "closed",
+      "name": "Bafgh Airport",
+      "continent": "AS",
+      "iso_country": "IR",
+      "iso_region": "IR-21",
+      "municipality": "Bafgh",
+      "coordinates": "31.583332, 55.566666"
+    },
+    {
       "ident": "IR-OI24",
       "type": "small_airport",
       "name": "Gonbad-e Kavus Airport",
@@ -2059,17 +2188,6 @@
       "coordinates": "27.21269989013672, 54.318599700927734"
     },
     {
-      "ident": "OIBI",
-      "type": "closed",
-      "name": "Asalouyeh Airport",
-      "elevation_ft": 15.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-18",
-      "municipality": "Asalouyeh",
-      "coordinates": "27.482359, 52.612897"
-    },
-    {
       "ident": "OIBJ",
       "type": "medium_airport",
       "name": "Jam Airport",
@@ -2107,17 +2225,6 @@
       "gps_code": "OIBL",
       "iata_code": "BDH",
       "coordinates": "26.532283, 54.82484"
-    },
-    {
-      "ident": "OIBN",
-      "type": "closed",
-      "name": "Borazjan Airport",
-      "elevation_ft": 265.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-18",
-      "municipality": "Borazjan",
-      "coordinates": "29.266666, 51.200001"
     },
     {
       "ident": "OIBP",
@@ -2207,16 +2314,6 @@
       "municipality": "Abdanan",
       "gps_code": "OICD",
       "coordinates": "32.934502, 47.483398"
-    },
-    {
-      "ident": "OICG",
-      "type": "closed",
-      "name": "Qasr-e Shirin Airport",
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-05",
-      "municipality": "Qasr-e Shirin",
-      "coordinates": "34.516666, 45.566666"
     },
     {
       "ident": "OICI",
@@ -2481,17 +2578,6 @@
       "coordinates": "35.416099548339844, 51.152198791503906"
     },
     {
-      "ident": "OIIG",
-      "type": "closed",
-      "name": "Ghale Morghi Airport",
-      "elevation_ft": 3627.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-23",
-      "municipality": "Tehran",
-      "coordinates": "35.644798, 51.380699"
-    },
-    {
       "ident": "OIII",
       "type": "large_airport",
       "name": "Mehrabad International Airport",
@@ -2543,17 +2629,6 @@
       "coordinates": "35.7761, 50.826698"
     },
     {
-      "ident": "OIIQ",
-      "type": "closed",
-      "name": "Qom International Airport (under contstruction)",
-      "elevation_ft": 3690.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-25",
-      "municipality": "Qom",
-      "coordinates": "34.58114, 50.657481"
-    },
-    {
       "ident": "OIIS",
       "type": "small_airport",
       "name": "Semnan Municipal Airport",
@@ -2567,17 +2642,6 @@
       "coordinates": "35.591099, 53.495098"
     },
     {
-      "ident": "OIIU",
-      "type": "closed",
-      "name": "Damghan Airport",
-      "elevation_ft": 3887.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-20",
-      "municipality": "Damghan",
-      "coordinates": "36.166698, 54.343899"
-    },
-    {
       "ident": "OIKB",
       "type": "medium_airport",
       "name": "Bandar Abbas International Airport",
@@ -2589,17 +2653,6 @@
       "gps_code": "OIKB",
       "iata_code": "BND",
       "coordinates": "27.218299865722656, 56.37779998779297"
-    },
-    {
-      "ident": "OIKF",
-      "type": "closed",
-      "name": "Baft Airport",
-      "elevation_ft": 7385.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-08",
-      "municipality": "Baft",
-      "coordinates": "29.2342, 56.606899"
     },
     {
       "ident": "OIKJ",
@@ -2819,28 +2872,6 @@
       "coordinates": "37.627899, 56.1731"
     },
     {
-      "ident": "OINA",
-      "type": "closed",
-      "name": "Amol Airport",
-      "elevation_ft": 318.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-02",
-      "municipality": "Amol",
-      "coordinates": "36.470798, 52.3633"
-    },
-    {
-      "ident": "OINB",
-      "type": "closed",
-      "name": "Babolsar Airport",
-      "elevation_ft": -49.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-02",
-      "municipality": "Babolsar",
-      "coordinates": "36.711263, 52.679699"
-    },
-    {
       "ident": "OINE",
       "type": "small_airport",
       "name": "Kalaleh Airport",
@@ -2865,27 +2896,6 @@
       "gps_code": "OING",
       "iata_code": "GBT",
       "coordinates": "36.909400939899996, 54.4012985229"
-    },
-    {
-      "ident": "OINH",
-      "type": "closed",
-      "name": "Behshahr Airport",
-      "elevation_ft": 137.0,
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-02",
-      "municipality": "Behshahr",
-      "coordinates": "36.694401, 53.5425"
-    },
-    {
-      "ident": "OINI",
-      "type": "closed",
-      "name": "Ghaem Shahr Airport",
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-02",
-      "municipality": "Ghaem Shahr",
-      "coordinates": "36.466667, 52.866669"
     },
     {
       "ident": "OINJ",
@@ -3192,16 +3202,6 @@
       "gps_code": "OITZ",
       "iata_code": "JWN",
       "coordinates": "36.7737007141, 48.3594017029"
-    },
-    {
-      "ident": "OIYB",
-      "type": "closed",
-      "name": "Bafgh Airport",
-      "continent": "AS",
-      "iso_country": "IR",
-      "iso_region": "IR-21",
-      "municipality": "Bafgh",
-      "coordinates": "31.583332, 55.566666"
     },
     {
       "ident": "OIYY",

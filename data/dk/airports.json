@@ -2,7 +2,7 @@
   "country_code": "DK",
   "country_name": "Denmark",
   "total_airports": 145,
-  "last_updated": "2025-02-27T00:08:24.578605",
+  "last_updated": "2025-02-28T00:08:11.850673",
   "types_distribution": {
     "closed": 12,
     "small_airport": 85,
@@ -607,6 +607,83 @@
       "coordinates": "56.05378, 9.66614"
     },
     {
+      "ident": "DK-0058",
+      "type": "closed",
+      "name": "Allerød Airport",
+      "elevation_ft": 135.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-84",
+      "municipality": "Allerød",
+      "coordinates": "55.870300293, 12.3155002594"
+    },
+    {
+      "ident": "DK-0059",
+      "type": "closed",
+      "name": "Hadsund Airfield",
+      "elevation_ft": 8.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-81",
+      "municipality": "Hadsund",
+      "coordinates": "56.755924, 10.228829"
+    },
+    {
+      "ident": "DK-0060",
+      "type": "closed",
+      "name": "Ro Airport",
+      "elevation_ft": 325.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-84",
+      "municipality": "Ro",
+      "coordinates": "55.2103004456, 14.8786001205"
+    },
+    {
+      "ident": "DK-0061",
+      "type": "closed",
+      "name": "Vandel Air Base",
+      "elevation_ft": 250.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-83",
+      "municipality": "Vandel",
+      "coordinates": "55.697936, 9.193081"
+    },
+    {
+      "ident": "DK-0062",
+      "type": "closed",
+      "name": "Værløse Air Base",
+      "elevation_ft": 42.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-84",
+      "municipality": "Kirke Værløse",
+      "coordinates": "55.769501, 12.3239"
+    },
+    {
+      "ident": "DK-0063",
+      "type": "closed",
+      "name": "Nakskov Airfield",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-85",
+      "municipality": "Nakskov",
+      "coordinates": "54.8172, 11.1308"
+    },
+    {
+      "ident": "DK-0064",
+      "type": "closed",
+      "name": "Avnø Air Base",
+      "elevation_ft": 13.0,
+      "continent": "EU",
+      "iso_country": "DK",
+      "iso_region": "DK-85",
+      "municipality": "Avnø",
+      "coordinates": "55.083, 11.783"
+    },
+    {
       "ident": "EKAC",
       "type": "seaplane_base",
       "name": "Aarhus Seaplane Terminal",
@@ -653,17 +730,6 @@
       "coordinates": "56.303331, 10.618286"
     },
     {
-      "ident": "EKAL",
-      "type": "closed",
-      "name": "Allerød Airport",
-      "elevation_ft": 135.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-84",
-      "municipality": "Allerød",
-      "coordinates": "55.870300293, 12.3155002594"
-    },
-    {
       "ident": "EKAR",
       "type": "heliport",
       "name": "South (Syd) Arne Helideck",
@@ -684,17 +750,6 @@
       "municipality": "Anholt",
       "gps_code": "EKAT",
       "coordinates": "56.698347, 11.555718"
-    },
-    {
-      "ident": "EKAV",
-      "type": "closed",
-      "name": "Avnø Air Base",
-      "elevation_ft": 13.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-85",
-      "municipality": "Avnø",
-      "coordinates": "55.083, 11.783"
     },
     {
       "ident": "EKBH",
@@ -1042,17 +1097,6 @@
       "coordinates": "55.508949279785156, 7.874917030334473"
     },
     {
-      "ident": "EKHS",
-      "type": "closed",
-      "name": "Hadsund Airfield",
-      "elevation_ft": 8.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-81",
-      "municipality": "Hadsund",
-      "coordinates": "56.755924, 10.228829"
-    },
-    {
       "ident": "EKHV",
       "type": "small_airport",
       "name": "Haderslev Airfield",
@@ -1197,17 +1241,6 @@
       "coordinates": "56.824402, 8.78667"
     },
     {
-      "ident": "EKNS",
-      "type": "closed",
-      "name": "Nakskov Airfield",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-85",
-      "municipality": "Nakskov",
-      "coordinates": "54.8172, 11.1308"
-    },
-    {
       "ident": "EKOD",
       "type": "medium_airport",
       "name": "Odense Hans Christian Andersen Airport",
@@ -1302,17 +1335,6 @@
       "gps_code": "EKRN",
       "iata_code": "RNN",
       "coordinates": "55.063301, 14.7596"
-    },
-    {
-      "ident": "EKRR",
-      "type": "closed",
-      "name": "Ro Airport",
-      "elevation_ft": 325.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-84",
-      "municipality": "Ro",
-      "coordinates": "55.2103004456, 14.878600120500002"
     },
     {
       "ident": "EKRS",
@@ -1538,17 +1560,6 @@
       "coordinates": "55.716529846191406, 4.750306129455566"
     },
     {
-      "ident": "EKVA",
-      "type": "closed",
-      "name": "Vandel Air Base",
-      "elevation_ft": 250.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-83",
-      "municipality": "Vandel",
-      "coordinates": "55.697936, 9.193081"
-    },
-    {
       "ident": "EKVB",
       "type": "small_airport",
       "name": "Viborg Airfield",
@@ -1596,17 +1607,6 @@
       "gps_code": "EKVJ",
       "iata_code": "STA",
       "coordinates": "55.990101, 8.35391"
-    },
-    {
-      "ident": "EKVL",
-      "type": "closed",
-      "name": "Værløse Air Base",
-      "elevation_ft": 42.0,
-      "continent": "EU",
-      "iso_country": "DK",
-      "iso_region": "DK-84",
-      "municipality": "Kirke Værløse",
-      "coordinates": "55.769501, 12.3239"
     },
     {
       "ident": "EKYT",

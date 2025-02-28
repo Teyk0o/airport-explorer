@@ -2,7 +2,7 @@
   "country_code": "DO",
   "country_name": "Dominican Republic",
   "total_airports": 48,
-  "last_updated": "2025-02-27T00:08:24.580806",
+  "last_updated": "2025-02-28T00:08:11.852895",
   "types_distribution": {
     "closed": 8,
     "heliport": 8,
@@ -113,6 +113,55 @@
       "iso_region": "DO-12",
       "municipality": "La Romana",
       "coordinates": "18.41, -68.939"
+    },
+    {
+      "ident": "DO-0012",
+      "type": "closed",
+      "name": "Samaná El Portillo Airport",
+      "elevation_ft": 30.0,
+      "iso_country": "DO",
+      "iso_region": "DO-20",
+      "municipality": "Samana",
+      "coordinates": "19.32139, -69.495653"
+    },
+    {
+      "ident": "DO-0013",
+      "type": "closed",
+      "name": "Herrera Airport",
+      "elevation_ft": 190.0,
+      "iso_country": "DO",
+      "iso_region": "DO-01",
+      "municipality": "Santo Domingo",
+      "coordinates": "18.4696998596, -69.9693984985"
+    },
+    {
+      "ident": "DO-0014",
+      "type": "closed",
+      "name": "Sabana de La Mar Airport",
+      "elevation_ft": 15.0,
+      "iso_country": "DO",
+      "iso_region": "DO-30",
+      "municipality": "Sabana de La Mar",
+      "coordinates": "19.061898, -69.385201"
+    },
+    {
+      "ident": "DO-0015",
+      "type": "closed",
+      "name": "San Juan Airport",
+      "elevation_ft": 1496.0,
+      "iso_country": "DO",
+      "iso_region": "DO-22",
+      "municipality": "San Juan",
+      "coordinates": "18.8333320618, -71.2333297729"
+    },
+    {
+      "ident": "DO-0016",
+      "type": "closed",
+      "name": "Jimaní Airport",
+      "iso_country": "DO",
+      "iso_region": "DO-10",
+      "municipality": "Jimaní",
+      "coordinates": "18.492451, -71.871663"
     },
     {
       "ident": "MDAB",
@@ -295,16 +344,6 @@
       "coordinates": "19.584112, -70.956724"
     },
     {
-      "ident": "MDHE",
-      "type": "closed",
-      "name": "Herrera Airport",
-      "elevation_ft": 190.0,
-      "iso_country": "DO",
-      "iso_region": "DO-01",
-      "municipality": "Santo Domingo",
-      "coordinates": "18.4696998596, -69.9693984985"
-    },
-    {
       "ident": "MDHN",
       "type": "small_airport",
       "name": "Juancho Enriquillo Airport",
@@ -326,15 +365,6 @@
       "gps_code": "MDJB",
       "iata_code": "JBQ",
       "coordinates": "18.572500228881836, -69.98560333251953"
-    },
-    {
-      "ident": "MDJI",
-      "type": "closed",
-      "name": "Jimaní Airport",
-      "iso_country": "DO",
-      "iso_region": "DO-10",
-      "municipality": "Jimaní",
-      "coordinates": "18.492451, -71.871663"
     },
     {
       "ident": "MDLL",
@@ -415,16 +445,6 @@
       "coordinates": "19.5977273869, -71.205970645"
     },
     {
-      "ident": "MDPO",
-      "type": "closed",
-      "name": "Samaná El Portillo Airport",
-      "elevation_ft": 30.0,
-      "iso_country": "DO",
-      "iso_region": "DO-20",
-      "municipality": "Samana",
-      "coordinates": "19.32139, -69.495653"
-    },
-    {
       "ident": "MDPP",
       "type": "medium_airport",
       "name": "Gregorio Luperon International Airport",
@@ -448,16 +468,6 @@
       "coordinates": "18.825500488299998, -71.2313995361"
     },
     {
-      "ident": "MDSB",
-      "type": "closed",
-      "name": "Sabana de La Mar Airport",
-      "elevation_ft": 15.0,
-      "iso_country": "DO",
-      "iso_region": "DO-30",
-      "municipality": "Sabana de La Mar",
-      "coordinates": "19.061898, -69.385201"
-    },
-    {
       "ident": "MDSD",
       "type": "large_airport",
       "name": "Las Américas International Airport",
@@ -479,16 +489,6 @@
       "municipality": "San Isidro",
       "gps_code": "MDSI",
       "coordinates": "18.503700256347656, -69.76170349121094"
-    },
-    {
-      "ident": "MDSJ",
-      "type": "closed",
-      "name": "San Juan Airport",
-      "elevation_ft": 1496.0,
-      "iso_country": "DO",
-      "iso_region": "DO-22",
-      "municipality": "San Juan",
-      "coordinates": "18.833332061799997, -71.2333297729"
     },
     {
       "ident": "MDSP",

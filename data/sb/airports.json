@@ -2,13 +2,13 @@
   "country_code": "SB",
   "country_name": "Solomon Islands",
   "total_airports": 40,
-  "last_updated": "2025-02-27T00:08:24.336168",
+  "last_updated": "2025-02-28T00:08:11.598909",
   "types_distribution": {
     "small_airport": 34,
     "large_airport": 1,
     "medium_airport": 1,
-    "closed": 3,
-    "heliport": 1
+    "heliport": 1,
+    "closed": 3
   },
   "airports": [
     {
@@ -262,17 +262,6 @@
       "coordinates": "-9.641670227050781, 161.4250030517578"
     },
     {
-      "ident": "AGGQ",
-      "type": "closed",
-      "name": "Ontong Java Atoll Airstrip",
-      "elevation_ft": 10.0,
-      "continent": "OC",
-      "iso_country": "SB",
-      "iso_region": "SB-ML",
-      "municipality": "Ontong Java Atoll",
-      "coordinates": "-5.515, 159.527778"
-    },
-    {
       "ident": "AGGR",
       "type": "small_airport",
       "name": "Rennell/Tingoa Airport",
@@ -475,7 +464,18 @@
       "coordinates": "-9.108, 160.149166667"
     },
     {
-      "ident": "ANH",
+      "ident": "SB-0001",
+      "type": "closed",
+      "name": "Ontong Java Atoll Airstrip",
+      "elevation_ft": 10.0,
+      "continent": "OC",
+      "iso_country": "SB",
+      "iso_region": "SB-ML",
+      "municipality": "Ontong Java Atoll",
+      "coordinates": "-5.515, 159.527778"
+    },
+    {
+      "ident": "SB-0002",
       "type": "closed",
       "name": "Anuha Island Resort Airport",
       "elevation_ft": 22.0,
@@ -484,6 +484,17 @@
       "iso_region": "SB-CE",
       "municipality": "Anhua Island",
       "coordinates": "-9.001389, 160.225"
+    },
+    {
+      "ident": "SB-0003",
+      "type": "closed",
+      "name": "Tarapaina Airport",
+      "elevation_ft": 80.0,
+      "continent": "OC",
+      "iso_country": "SB",
+      "iso_region": "SB-ML",
+      "municipality": "Tarapaina",
+      "coordinates": "-9.414, 161.358"
     },
     {
       "ident": "SB-VIU",
@@ -497,17 +508,6 @@
       "gps_code": "AGVH",
       "iata_code": "VIU",
       "coordinates": "-8.5085, 157.69"
-    },
-    {
-      "ident": "TAA",
-      "type": "closed",
-      "name": "Tarapaina Airport",
-      "elevation_ft": 80.0,
-      "continent": "OC",
-      "iso_country": "SB",
-      "iso_region": "SB-ML",
-      "municipality": "Tarapaina",
-      "coordinates": "-9.414, 161.358"
     }
   ]
 }

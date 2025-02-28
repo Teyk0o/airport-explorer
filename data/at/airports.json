@@ -2,7 +2,7 @@
   "country_code": "AT",
   "country_name": "Austria",
   "total_airports": 184,
-  "last_updated": "2025-02-27T00:08:24.373439",
+  "last_updated": "2025-02-28T00:08:11.636457",
   "types_distribution": {
     "heliport": 112,
     "seaplane_base": 1,
@@ -334,6 +334,61 @@
       "coordinates": "46.65278, 13.89145"
     },
     {
+      "ident": "AT-0030",
+      "type": "closed",
+      "name": "Aspern Airfield",
+      "elevation_ft": 516.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-9",
+      "municipality": "Vienna",
+      "coordinates": "48.2244, 16.5082"
+    },
+    {
+      "ident": "AT-0031",
+      "type": "closed",
+      "name": "Leopoldsdorf im Marchfelde Airfield",
+      "elevation_ft": 486.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Leopoldsdorf im Marchfelde",
+      "coordinates": "48.2267, 16.672199"
+    },
+    {
+      "ident": "AT-0032",
+      "type": "closed",
+      "name": "Trausdorf Airport",
+      "elevation_ft": 525.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-1",
+      "municipality": "Trausdorf an der Wulka",
+      "coordinates": "47.798024, 16.558172"
+    },
+    {
+      "ident": "AT-0033",
+      "type": "closed",
+      "name": "Carinthia State Police Directorate Heliport",
+      "elevation_ft": 1532.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Klagenfurt am Wörthersee",
+      "coordinates": "46.620018, 14.307845"
+    },
+    {
+      "ident": "AT-0034",
+      "type": "closed",
+      "name": "Kitzbühel Hospital Helipad",
+      "elevation_ft": 2510.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Kitzbühel",
+      "coordinates": "47.449756, 12.396033"
+    },
+    {
       "ident": "DE-0354",
       "type": "small_airport",
       "name": "Ternberg Landing Field",
@@ -471,17 +526,6 @@
       "coordinates": "48.412753, 15.615224"
     },
     {
-      "ident": "LOAL",
-      "type": "closed",
-      "name": "Leopoldsdorf im Marchfelde Airfield",
-      "elevation_ft": 486.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Leopoldsdorf im Marchfelde",
-      "coordinates": "48.2267, 16.672199"
-    },
-    {
       "ident": "LOAM",
       "type": "heliport",
       "name": "Wien-Meidling Heliport",
@@ -561,17 +605,6 @@
       "municipality": "Hundsheim",
       "gps_code": "LOAS",
       "coordinates": "48.099157, 16.933527"
-    },
-    {
-      "ident": "LOAT",
-      "type": "closed",
-      "name": "Trausdorf Airport",
-      "elevation_ft": 525.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-1",
-      "municipality": "Trausdorf an der Wulka",
-      "coordinates": "47.798024, 16.558172"
     },
     {
       "ident": "LOAU",
@@ -981,17 +1014,6 @@
       "municipality": "Hartberg",
       "gps_code": "LODH",
       "coordinates": "47.273333, 15.966111"
-    },
-    {
-      "ident": "LOIA",
-      "type": "closed",
-      "name": "Kitzbühel Hospital Helipad",
-      "elevation_ft": 2510.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Kitzbühel",
-      "coordinates": "47.449756, 12.396033"
     },
     {
       "ident": "LOIB",
@@ -1692,17 +1714,6 @@
       "coordinates": "46.73444366455078, 14.087778091430664"
     },
     {
-      "ident": "LOKY",
-      "type": "closed",
-      "name": "Carinthia State Police Directorate Heliport",
-      "elevation_ft": 1532.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Klagenfurt am Wörthersee",
-      "coordinates": "46.620018, 14.307845"
-    },
-    {
       "ident": "LOKZ",
       "type": "heliport",
       "name": "Zwatzhof Heliport",
@@ -2130,17 +2141,6 @@
       "municipality": "Zeltweg",
       "gps_code": "LOXZ",
       "coordinates": "47.202801, 14.7442"
-    },
-    {
-      "ident": "X-VIE",
-      "type": "closed",
-      "name": "Aspern Airfield",
-      "elevation_ft": 516.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-9",
-      "municipality": "Vienna",
-      "coordinates": "48.2244, 16.5082"
     }
   ]
 }

@@ -2,26 +2,15 @@
   "country_code": "SL",
   "country_name": "Sierra Leone",
   "total_airports": 12,
-  "last_updated": "2025-02-27T00:08:24.639782",
+  "last_updated": "2025-02-28T00:08:11.913093",
   "types_distribution": {
-    "closed": 1,
     "medium_airport": 3,
     "small_airport": 4,
     "large_airport": 1,
-    "heliport": 3
+    "heliport": 3,
+    "closed": 1
   },
   "airports": [
-    {
-      "ident": "GFBN",
-      "type": "closed",
-      "name": "Sherbro International Airport",
-      "elevation_ft": 14.0,
-      "continent": "AF",
-      "iso_country": "SL",
-      "iso_region": "SL-S",
-      "municipality": "Bonthe",
-      "coordinates": "7.53242, -12.5189"
-    },
     {
       "ident": "GFBO",
       "type": "medium_airport",
@@ -153,6 +142,17 @@
       "iso_country": "SL",
       "iso_region": "SL-W",
       "coordinates": "8.48768473679, -13.288103342100001"
+    },
+    {
+      "ident": "SL-0004",
+      "type": "closed",
+      "name": "Sherbro International Airport",
+      "elevation_ft": 14.0,
+      "continent": "AF",
+      "iso_country": "SL",
+      "iso_region": "SL-S",
+      "municipality": "Bonthe",
+      "coordinates": "7.53242, -12.5189"
     }
   ]
 }

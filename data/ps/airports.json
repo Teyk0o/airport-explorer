@@ -2,35 +2,13 @@
   "country_code": "PS",
   "country_name": "Palestinian Territory",
   "total_airports": 7,
-  "last_updated": "2025-02-27T00:08:24.722592",
+  "last_updated": "2025-02-28T00:08:12.019312",
   "types_distribution": {
-    "closed": 4,
     "small_airport": 1,
+    "closed": 4,
     "heliport": 2
   },
   "airports": [
-    {
-      "ident": "LLAZ",
-      "type": "closed",
-      "name": "Gush Katif Airport",
-      "elevation_ft": 112.0,
-      "continent": "AS",
-      "iso_country": "PS",
-      "iso_region": "PS-KYS",
-      "municipality": "Khan Yunis",
-      "coordinates": "31.36705, 34.29451"
-    },
-    {
-      "ident": "LVGZ",
-      "type": "closed",
-      "name": "Yasser Arafat International Airport",
-      "elevation_ft": 320.0,
-      "continent": "AS",
-      "iso_country": "PS",
-      "iso_region": "PS-RFH",
-      "municipality": "Rafah",
-      "coordinates": "31.246401, 34.2761"
-    },
     {
       "ident": "PS-0001",
       "type": "small_airport",
@@ -69,6 +47,28 @@
       "iso_country": "PS",
       "iso_region": "PS-GZA",
       "coordinates": "31.472586, 34.478874"
+    },
+    {
+      "ident": "PS-0005",
+      "type": "closed",
+      "name": "Gush Katif Airport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-KYS",
+      "municipality": "Khan Yunis",
+      "coordinates": "31.36705, 34.29451"
+    },
+    {
+      "ident": "PS-0006",
+      "type": "closed",
+      "name": "Yasser Arafat International Airport",
+      "elevation_ft": 320.0,
+      "continent": "AS",
+      "iso_country": "PS",
+      "iso_region": "PS-RFH",
+      "municipality": "Rafah",
+      "coordinates": "31.246401, 34.2761"
     },
     {
       "ident": "ZDM",

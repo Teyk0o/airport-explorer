@@ -2,7 +2,7 @@
   "country_code": "PR",
   "country_name": "Puerto Rico",
   "total_airports": 70,
-  "last_updated": "2025-02-27T00:08:24.281774",
+  "last_updated": "2025-02-28T00:08:11.556990",
   "types_distribution": {
     "small_airport": 11,
     "heliport": 40,
@@ -83,16 +83,6 @@
       "gps_code": "28PR",
       "local_code": "28PR",
       "coordinates": "18.108699798583984, -67.03939819335938"
-    },
-    {
-      "ident": "2PR2",
-      "type": "closed",
-      "name": "Caribbean Constr Main Office Heliport",
-      "elevation_ft": 311.0,
-      "iso_country": "PR",
-      "iso_region": "PR-U-A",
-      "municipality": "Guaynabo",
-      "coordinates": "18.314792, -66.093517"
     },
     {
       "ident": "70PR",
@@ -198,7 +188,37 @@
       "coordinates": "18.46689, -66.30187"
     },
     {
-      "ident": "PR-DDP",
+      "ident": "PR-0009",
+      "type": "closed",
+      "name": "Diego Jiménez Torres Airport",
+      "elevation_ft": 64.0,
+      "iso_country": "PR",
+      "iso_region": "PR-U-A",
+      "municipality": "Fajardo",
+      "coordinates": "18.308901, -65.661903"
+    },
+    {
+      "ident": "PR-0010",
+      "type": "closed",
+      "name": "Boqueron Airport",
+      "elevation_ft": 373.0,
+      "iso_country": "PR",
+      "iso_region": "PR-U-A",
+      "municipality": "Las Piedras",
+      "coordinates": "18.2019, -65.839104"
+    },
+    {
+      "ident": "PR-0011",
+      "type": "closed",
+      "name": "San Juan Steam Plant Heliport",
+      "elevation_ft": 60.0,
+      "iso_country": "PR",
+      "iso_region": "PR-U-A",
+      "municipality": "San Juan",
+      "coordinates": "18.42794, -66.105605"
+    },
+    {
+      "ident": "PR-0012",
       "type": "closed",
       "name": "Dorado Beach Airport",
       "elevation_ft": 75.0,
@@ -206,6 +226,36 @@
       "iso_region": "PR-U-A",
       "municipality": "Dorado",
       "coordinates": "18.4649657136, -66.295580864"
+    },
+    {
+      "ident": "PR-0013",
+      "type": "closed",
+      "name": "Palmas del Mar Airstrip",
+      "elevation_ft": 100.0,
+      "iso_country": "PR",
+      "iso_region": "PR-U-A",
+      "municipality": "Palmas del Mar",
+      "coordinates": "18.086200714111, -65.796501159668"
+    },
+    {
+      "ident": "PR-0014",
+      "type": "closed",
+      "name": "Vieques Airport",
+      "elevation_ft": 19.0,
+      "iso_country": "PR",
+      "iso_region": "PR-U-A",
+      "municipality": "Vieques Island",
+      "coordinates": "18.115801, -65.422699"
+    },
+    {
+      "ident": "PR-0015",
+      "type": "closed",
+      "name": "Caribbean Constr Main Office Heliport",
+      "elevation_ft": 311.0,
+      "iso_country": "PR",
+      "iso_region": "PR-U-A",
+      "municipality": "Guaynabo",
+      "coordinates": "18.314792, -66.093517"
     },
     {
       "ident": "PR-HUC",
@@ -218,16 +268,6 @@
       "iata_code": "HUC",
       "local_code": "X63",
       "coordinates": "18.138082, -65.800728"
-    },
-    {
-      "ident": "PR-PPD",
-      "type": "closed",
-      "name": "Palmas del Mar Airstrip",
-      "elevation_ft": 100.0,
-      "iso_country": "PR",
-      "iso_region": "PR-U-A",
-      "municipality": "Palmas del Mar",
-      "coordinates": "18.086200714111, -65.796501159668"
     },
     {
       "ident": "PR01",
@@ -287,16 +327,6 @@
       "gps_code": "PR06",
       "local_code": "PR06",
       "coordinates": "18.299999237060547, -65.2833023071289"
-    },
-    {
-      "ident": "PR07",
-      "type": "closed",
-      "name": "Boqueron Airport",
-      "elevation_ft": 373.0,
-      "iso_country": "PR",
-      "iso_region": "PR-U-A",
-      "municipality": "Las Piedras",
-      "coordinates": "18.2019, -65.839104"
     },
     {
       "ident": "PR08",
@@ -560,16 +590,6 @@
       "coordinates": "18.411100387573242, -66.10160064697266"
     },
     {
-      "ident": "PR31",
-      "type": "closed",
-      "name": "San Juan Steam Plant Heliport",
-      "elevation_ft": 60.0,
-      "iso_country": "PR",
-      "iso_region": "PR-U-A",
-      "municipality": "San Juan",
-      "coordinates": "18.42794, -66.105605"
-    },
-    {
       "ident": "PR32",
       "type": "heliport",
       "name": "Hospital Alejandro Otero Lopez Heliport",
@@ -704,16 +724,6 @@
       "coordinates": "18.4949, -67.129402"
     },
     {
-      "ident": "TJCG",
-      "type": "closed",
-      "name": "Vieques Airport",
-      "elevation_ft": 19.0,
-      "iso_country": "PR",
-      "iso_region": "PR-U-A",
-      "municipality": "Vieques Island",
-      "coordinates": "18.115801, -65.422699"
-    },
-    {
       "ident": "TJCP",
       "type": "medium_airport",
       "name": "Benjamin Rivera Noriega Airport",
@@ -725,16 +735,6 @@
       "iata_code": "CPX",
       "local_code": "CPX",
       "coordinates": "18.312954, -65.303893"
-    },
-    {
-      "ident": "TJFA",
-      "type": "closed",
-      "name": "Diego Jiménez Torres Airport",
-      "elevation_ft": 64.0,
-      "iso_country": "PR",
-      "iso_region": "PR-U-A",
-      "municipality": "Fajardo",
-      "coordinates": "18.308901, -65.661903"
     },
     {
       "ident": "TJIG",

@@ -2,12 +2,12 @@
   "country_code": "MK",
   "country_name": "Macedonia",
   "total_airports": 31,
-  "last_updated": "2025-02-27T00:08:24.728590",
+  "last_updated": "2025-02-28T00:08:12.002375",
   "types_distribution": {
     "small_airport": 11,
-    "closed": 7,
     "medium_airport": 1,
     "large_airport": 1,
+    "closed": 7,
     "heliport": 11
   },
   "airports": [
@@ -34,28 +34,6 @@
       "coordinates": "42.154242, 21.699328"
     },
     {
-      "ident": "LW68",
-      "type": "closed",
-      "name": "Srpci Airfield",
-      "elevation_ft": 1900.0,
-      "continent": "EU",
-      "iso_country": "MK",
-      "iso_region": "MK-005",
-      "municipality": "Srpci",
-      "coordinates": "41.151605, 21.406839"
-    },
-    {
-      "ident": "LW69",
-      "type": "closed",
-      "name": "Dolneni Airport",
-      "elevation_ft": 1970.0,
-      "continent": "EU",
-      "iso_country": "MK",
-      "iso_region": "MK-005",
-      "municipality": "Dolneni",
-      "coordinates": "41.429551, 21.402176"
-    },
-    {
       "ident": "LW70",
       "type": "small_airport",
       "name": "Veles Airfield",
@@ -76,17 +54,6 @@
       "iso_region": "MK-001",
       "municipality": "Peshirovo",
       "coordinates": "41.828073, 21.986585"
-    },
-    {
-      "ident": "LW72",
-      "type": "closed",
-      "name": "Negotino Airfield",
-      "elevation_ft": 500.0,
-      "continent": "EU",
-      "iso_country": "MK",
-      "iso_region": "MK-001",
-      "municipality": "Crveni Bregovi",
-      "coordinates": "41.51788, 22.088066"
     },
     {
       "ident": "LW73",
@@ -120,17 +87,6 @@
       "iso_region": "MK-004",
       "municipality": "Brazda",
       "coordinates": "42.0594, 21.388514"
-    },
-    {
-      "ident": "LW76",
-      "type": "closed",
-      "name": "Mavrovica Airfield",
-      "elevation_ft": 1237.0,
-      "continent": "EU",
-      "iso_country": "MK",
-      "iso_region": "MK-001",
-      "municipality": "Mavrovica",
-      "coordinates": "41.912399, 21.9554"
     },
     {
       "ident": "LWOH",
@@ -352,6 +308,50 @@
       "iso_region": "MK-005",
       "municipality": "Ostriltsi",
       "coordinates": "41.34004, 21.25599"
+    },
+    {
+      "ident": "MK-0019",
+      "type": "closed",
+      "name": "Srpci Airfield",
+      "elevation_ft": 1900.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-005",
+      "municipality": "Srpci",
+      "coordinates": "41.151605, 21.406839"
+    },
+    {
+      "ident": "MK-0020",
+      "type": "closed",
+      "name": "Dolneni Airport",
+      "elevation_ft": 1970.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-005",
+      "municipality": "Dolneni",
+      "coordinates": "41.429551, 21.402176"
+    },
+    {
+      "ident": "MK-0021",
+      "type": "closed",
+      "name": "Negotino Airfield",
+      "elevation_ft": 500.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-001",
+      "municipality": "Crveni Bregovi",
+      "coordinates": "41.51788, 22.088066"
+    },
+    {
+      "ident": "MK-0022",
+      "type": "closed",
+      "name": "Mavrovica Airfield",
+      "elevation_ft": 1237.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-001",
+      "municipality": "Mavrovica",
+      "coordinates": "41.912399, 21.9554"
     }
   ]
 }

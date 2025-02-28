@@ -2,14 +2,14 @@
   "country_code": "SE",
   "country_name": "Sweden",
   "total_airports": 255,
-  "last_updated": "2025-02-27T00:08:24.605151",
+  "last_updated": "2025-02-28T00:08:11.877140",
   "types_distribution": {
     "medium_airport": 44,
-    "closed": 37,
     "small_airport": 160,
     "heliport": 11,
     "large_airport": 2,
-    "seaplane_base": 1
+    "seaplane_base": 1,
+    "closed": 37
   },
   "airports": [
     {
@@ -25,15 +25,6 @@
       "coordinates": "58.402302, 15.5257"
     },
     {
-      "ident": "ESCK",
-      "type": "closed",
-      "name": "Bråvalla Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-E",
-      "coordinates": "58.610901, 16.1036"
-    },
-    {
       "ident": "ESCM",
       "type": "small_airport",
       "name": "Ärna Air Base",
@@ -44,28 +35,6 @@
       "municipality": "Uppsala",
       "gps_code": "ESCM",
       "coordinates": "59.897301, 17.5886"
-    },
-    {
-      "ident": "ESCN",
-      "type": "closed",
-      "name": "Stockholm Tullinge Airport",
-      "elevation_ft": 180.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-AB",
-      "municipality": "Stockholm",
-      "coordinates": "59.17940139770508, 17.907800674438477"
-    },
-    {
-      "ident": "ESCY",
-      "type": "closed",
-      "name": "Nyge Airport",
-      "elevation_ft": 7.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-D",
-      "municipality": "Nyköping",
-      "coordinates": "58.7456016541, 17.0489006042"
     },
     {
       "ident": "ESDF",
@@ -105,55 +74,6 @@
       "coordinates": "56.134407, 13.875647"
     },
     {
-      "ident": "ESFH",
-      "type": "closed",
-      "name": "Hasslosa Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-Q",
-      "municipality": "Hasslosa",
-      "coordinates": "58.409698486328, 13.26309967041"
-    },
-    {
-      "ident": "ESFI",
-      "type": "closed",
-      "name": "Knislinge Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-M",
-      "municipality": "Knislinge",
-      "coordinates": "56.18719863889999, 14.136300087"
-    },
-    {
-      "ident": "ESFJ",
-      "type": "closed",
-      "name": "Sjöbo Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-M",
-      "municipality": "Sjöbo",
-      "coordinates": "55.64899826049805, 13.626099586486816"
-    },
-    {
-      "ident": "ESFM",
-      "type": "closed",
-      "name": "Moholm Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-Q",
-      "municipality": "Moholm",
-      "coordinates": "58.5975, 14.1109"
-    },
-    {
-      "ident": "ESFQ",
-      "type": "closed",
-      "name": "Kosta Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-G",
-      "coordinates": "56.844501, 15.4528"
-    },
-    {
       "ident": "ESFR",
       "type": "medium_airport",
       "name": "Råda Air Base",
@@ -176,26 +96,6 @@
       "municipality": "Sandvik",
       "gps_code": "ESFS",
       "coordinates": "57.0681, 16.8613"
-    },
-    {
-      "ident": "ESFU",
-      "type": "closed",
-      "name": "Urasa Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-G",
-      "municipality": "Växjö",
-      "coordinates": "56.6814002991, 14.946700096099999"
-    },
-    {
-      "ident": "ESFY",
-      "type": "closed",
-      "name": "Byholma Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-G",
-      "municipality": "Byholma",
-      "coordinates": "56.7834014893, 13.6014003754"
     },
     {
       "ident": "ESGA",
@@ -496,15 +396,6 @@
       "coordinates": "60.132801, 18.1049"
     },
     {
-      "ident": "ESKB",
-      "type": "closed",
-      "name": "Barkarby Airport",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-AB",
-      "coordinates": "59.414474, 17.882137"
-    },
-    {
       "ident": "ESKC",
       "type": "small_airport",
       "name": "Uppsala-Sundbro Airfield",
@@ -645,26 +536,6 @@
       "coordinates": "59.6759, 12.6394"
     },
     {
-      "ident": "ESKX",
-      "type": "closed",
-      "name": "Björkvik Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-D",
-      "municipality": "Björkvik",
-      "coordinates": "58.790798, 16.571199"
-    },
-    {
-      "ident": "ESMA",
-      "type": "closed",
-      "name": "Emmaboda Airfield",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-H",
-      "municipality": "Emmaboda",
-      "coordinates": "56.610802, 15.6048"
-    },
-    {
       "ident": "ESMB",
       "type": "small_airport",
       "name": "Borglanda Airfield",
@@ -687,17 +558,6 @@
       "municipality": "Eksjö",
       "gps_code": "ESMC",
       "coordinates": "57.670601, 14.943"
-    },
-    {
-      "ident": "ESMD",
-      "type": "closed",
-      "name": "Hässleholm Vankivar Airport",
-      "elevation_ft": 180.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-M",
-      "municipality": "Hässleholm",
-      "coordinates": "56.18470001220703, 13.750300407409668"
     },
     {
       "ident": "ESME",
@@ -797,17 +657,6 @@
       "coordinates": "55.945999, 12.87"
     },
     {
-      "ident": "ESMN",
-      "type": "closed",
-      "name": "Lund Airfield",
-      "elevation_ft": 79.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-M",
-      "municipality": "Lund",
-      "coordinates": "55.684399, 13.2108"
-    },
-    {
       "ident": "ESMO",
       "type": "small_airport",
       "name": "Oskarshamn Airport",
@@ -843,16 +692,6 @@
       "gps_code": "ESMQ",
       "iata_code": "KLR",
       "coordinates": "56.685501, 16.2876"
-    },
-    {
-      "ident": "ESMR",
-      "type": "closed",
-      "name": "Trelleborg Airport",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-M",
-      "municipality": "Trelleborg",
-      "coordinates": "55.3833007812, 13.0310001373"
     },
     {
       "ident": "ESMS",
@@ -902,16 +741,6 @@
       "iso_region": "SE-F",
       "gps_code": "ESMV",
       "coordinates": "57.292198, 14.1372"
-    },
-    {
-      "ident": "ESMW",
-      "type": "closed",
-      "name": "Tingsryd Airport",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-G",
-      "municipality": "Tingsryd",
-      "coordinates": "56.5331, 14.9641"
     },
     {
       "ident": "ESMX",
@@ -1011,17 +840,6 @@
       "coordinates": "66.529093, 22.356319"
     },
     {
-      "ident": "ESNF",
-      "type": "closed",
-      "name": "Färila Air Base",
-      "elevation_ft": 676.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-X",
-      "municipality": "Färila",
-      "coordinates": "61.897999, 15.7053"
-    },
-    {
       "ident": "ESNG",
       "type": "medium_airport",
       "name": "Gällivare Airport",
@@ -1033,26 +851,6 @@
       "gps_code": "ESNG",
       "iata_code": "GEV",
       "coordinates": "67.13240051269531, 20.814599990844727"
-    },
-    {
-      "ident": "ESNH",
-      "type": "closed",
-      "name": "Hudiksvall Airport",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-X",
-      "municipality": "Hudiksvall",
-      "coordinates": "61.768101, 17.0807"
-    },
-    {
-      "ident": "ESNI",
-      "type": "closed",
-      "name": "Kubbe Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-Y",
-      "municipality": "Kubbe",
-      "coordinates": "63.632499694824, 17.936000823975"
     },
     {
       "ident": "ESNJ",
@@ -1176,15 +974,6 @@
       "gps_code": "ESNS",
       "iata_code": "SFT",
       "coordinates": "64.62480163574219, 21.076900482177734"
-    },
-    {
-      "ident": "ESNT",
-      "type": "closed",
-      "name": "Sättna Airport",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-Y",
-      "coordinates": "62.4814, 17.002899"
     },
     {
       "ident": "ESNU",
@@ -1339,25 +1128,6 @@
       "municipality": "Vidsel",
       "gps_code": "ESPE",
       "coordinates": "65.875298, 20.1499"
-    },
-    {
-      "ident": "ESPG",
-      "type": "closed",
-      "name": "Boden Army Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-BD",
-      "municipality": "Boden",
-      "coordinates": "65.810302734375, 21.691299438477"
-    },
-    {
-      "ident": "ESPJ",
-      "type": "closed",
-      "name": "Hede Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-BD",
-      "coordinates": "65.838302612305, 21.468799591064"
     },
     {
       "ident": "ESQO",
@@ -1552,17 +1322,6 @@
       "coordinates": "58.586299896240234, 16.250600814819336"
     },
     {
-      "ident": "ESSQ",
-      "type": "closed",
-      "name": "Karlstad South Airport",
-      "elevation_ft": 148.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-S",
-      "municipality": "Karlstad",
-      "coordinates": "59.359199523899996, 13.4660997391"
-    },
-    {
       "ident": "ESST",
       "type": "medium_airport",
       "name": "Torsby Airport",
@@ -1664,16 +1423,6 @@
       "coordinates": "58.630009, 11.314459"
     },
     {
-      "ident": "ESTG",
-      "type": "closed",
-      "name": "Grönhögen Airport",
-      "elevation_ft": 10.0,
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-H",
-      "coordinates": "56.275002, 16.42"
-    },
-    {
       "ident": "ESTL",
       "type": "medium_airport",
       "name": "Ljungbyhed Airfield",
@@ -1686,16 +1435,6 @@
       "coordinates": "56.082802, 13.2125"
     },
     {
-      "ident": "ESTO",
-      "type": "closed",
-      "name": "Tomelilla Airfield",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-M",
-      "municipality": "Tomelilla",
-      "coordinates": "55.543301, 14.0009"
-    },
-    {
       "ident": "ESTT",
       "type": "small_airport",
       "name": "Vellinge Airfield",
@@ -1706,16 +1445,6 @@
       "municipality": "Trelleborg",
       "gps_code": "ESTT",
       "coordinates": "55.391202, 13.022103"
-    },
-    {
-      "ident": "ESUA",
-      "type": "closed",
-      "name": "Åmsele Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-AC",
-      "municipality": "Åmsele",
-      "coordinates": "64.570602416992, 19.314100265503"
     },
     {
       "ident": "ESUB",
@@ -1753,16 +1482,6 @@
       "gps_code": "ESUE",
       "iata_code": "IDB",
       "coordinates": "61.869701, 12.6894"
-    },
-    {
-      "ident": "ESUF",
-      "type": "closed",
-      "name": "Fällfors Air Base",
-      "continent": "EU",
-      "iso_country": "SE",
-      "iso_region": "SE-AC",
-      "municipality": "Fällfors",
-      "coordinates": "65.107597351074, 20.761100769043"
     },
     {
       "ident": "ESUG",
@@ -2852,6 +2571,287 @@
       "iso_country": "SE",
       "iso_region": "SE-Z",
       "coordinates": "64.45328, 15.57484"
+    },
+    {
+      "ident": "SE-0085",
+      "type": "closed",
+      "name": "Bråvalla Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-E",
+      "coordinates": "58.610901, 16.1036"
+    },
+    {
+      "ident": "SE-0086",
+      "type": "closed",
+      "name": "Barkarby Airport",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-AB",
+      "coordinates": "59.414474, 17.882137"
+    },
+    {
+      "ident": "SE-0087",
+      "type": "closed",
+      "name": "Emmaboda Airfield",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-H",
+      "municipality": "Emmaboda",
+      "coordinates": "56.610802, 15.6048"
+    },
+    {
+      "ident": "SE-0088",
+      "type": "closed",
+      "name": "Hudiksvall Airport",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-X",
+      "municipality": "Hudiksvall",
+      "coordinates": "61.768101, 17.0807"
+    },
+    {
+      "ident": "SE-0089",
+      "type": "closed",
+      "name": "Sättna Airport",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-Y",
+      "coordinates": "62.4814, 17.002899"
+    },
+    {
+      "ident": "SE-0090",
+      "type": "closed",
+      "name": "Hasslosa Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-Q",
+      "municipality": "Hasslosa",
+      "coordinates": "58.409698486328, 13.26309967041"
+    },
+    {
+      "ident": "SE-0091",
+      "type": "closed",
+      "name": "Knislinge Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-M",
+      "municipality": "Knislinge",
+      "coordinates": "56.1871986389, 14.136300087"
+    },
+    {
+      "ident": "SE-0092",
+      "type": "closed",
+      "name": "Sjöbo Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-M",
+      "municipality": "Sjöbo",
+      "coordinates": "55.648998260498, 13.626099586487"
+    },
+    {
+      "ident": "SE-0093",
+      "type": "closed",
+      "name": "Moholm Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-Q",
+      "municipality": "Moholm",
+      "coordinates": "58.5975, 14.1109"
+    },
+    {
+      "ident": "SE-0094",
+      "type": "closed",
+      "name": "Kosta Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-G",
+      "coordinates": "56.844501, 15.4528"
+    },
+    {
+      "ident": "SE-0095",
+      "type": "closed",
+      "name": "Urasa Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-G",
+      "municipality": "Växjö",
+      "coordinates": "56.6814002991, 14.9467000961"
+    },
+    {
+      "ident": "SE-0096",
+      "type": "closed",
+      "name": "Byholma Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-G",
+      "municipality": "Byholma",
+      "coordinates": "56.7834014893, 13.6014003754"
+    },
+    {
+      "ident": "SE-0097",
+      "type": "closed",
+      "name": "Björkvik Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-D",
+      "municipality": "Björkvik",
+      "coordinates": "58.790798, 16.571199"
+    },
+    {
+      "ident": "SE-0098",
+      "type": "closed",
+      "name": "Trelleborg Airport",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-M",
+      "municipality": "Trelleborg",
+      "coordinates": "55.3833007812, 13.0310001373"
+    },
+    {
+      "ident": "SE-0099",
+      "type": "closed",
+      "name": "Tingsryd Airport",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-G",
+      "municipality": "Tingsryd",
+      "coordinates": "56.5331, 14.9641"
+    },
+    {
+      "ident": "SE-0100",
+      "type": "closed",
+      "name": "Färila Air Base",
+      "elevation_ft": 676.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-X",
+      "municipality": "Färila",
+      "coordinates": "61.897999, 15.7053"
+    },
+    {
+      "ident": "SE-0101",
+      "type": "closed",
+      "name": "Kubbe Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-Y",
+      "municipality": "Kubbe",
+      "coordinates": "63.632499694824, 17.936000823975"
+    },
+    {
+      "ident": "SE-0102",
+      "type": "closed",
+      "name": "Boden Army Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-BD",
+      "municipality": "Boden",
+      "coordinates": "65.810302734375, 21.691299438477"
+    },
+    {
+      "ident": "SE-0103",
+      "type": "closed",
+      "name": "Hede Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-BD",
+      "coordinates": "65.838302612305, 21.468799591064"
+    },
+    {
+      "ident": "SE-0104",
+      "type": "closed",
+      "name": "Tomelilla Airfield",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-M",
+      "municipality": "Tomelilla",
+      "coordinates": "55.543301, 14.0009"
+    },
+    {
+      "ident": "SE-0105",
+      "type": "closed",
+      "name": "Åmsele Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-AC",
+      "municipality": "Åmsele",
+      "coordinates": "64.570602416992, 19.314100265503"
+    },
+    {
+      "ident": "SE-0106",
+      "type": "closed",
+      "name": "Fällfors Air Base",
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-AC",
+      "municipality": "Fällfors",
+      "coordinates": "65.107597351074, 20.761100769043"
+    },
+    {
+      "ident": "SE-0107",
+      "type": "closed",
+      "name": "Grönhögen Airport",
+      "elevation_ft": 10.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-H",
+      "coordinates": "56.275002, 16.42"
+    },
+    {
+      "ident": "SE-0108",
+      "type": "closed",
+      "name": "Hässleholm Vankivar Airport",
+      "elevation_ft": 180.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-M",
+      "municipality": "Hässleholm",
+      "coordinates": "56.184700012207, 13.75030040741"
+    },
+    {
+      "ident": "SE-0109",
+      "type": "closed",
+      "name": "Karlstad South Airport",
+      "elevation_ft": 148.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-S",
+      "municipality": "Karlstad",
+      "coordinates": "59.3591995239, 13.4660997391"
+    },
+    {
+      "ident": "SE-0110",
+      "type": "closed",
+      "name": "Lund Airfield",
+      "elevation_ft": 79.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-M",
+      "municipality": "Lund",
+      "coordinates": "55.684399, 13.2108"
+    },
+    {
+      "ident": "SE-0111",
+      "type": "closed",
+      "name": "Stockholm Tullinge Airport",
+      "elevation_ft": 180.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-AB",
+      "municipality": "Stockholm",
+      "coordinates": "59.179401397705, 17.907800674438"
+    },
+    {
+      "ident": "SE-0112",
+      "type": "closed",
+      "name": "Nyge Airport",
+      "elevation_ft": 7.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-D",
+      "municipality": "Nyköping",
+      "coordinates": "58.7456016541, 17.0489006042"
     }
   ]
 }

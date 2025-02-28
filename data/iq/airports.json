@@ -2,7 +2,7 @@
   "country_code": "IQ",
   "country_name": "Iraq",
   "total_airports": 90,
-  "last_updated": "2025-02-27T00:08:24.663648",
+  "last_updated": "2025-02-28T00:08:11.937340",
   "types_distribution": {
     "small_airport": 41,
     "closed": 7,
@@ -679,6 +679,27 @@
       "coordinates": "33.67276, 39.95513"
     },
     {
+      "ident": "IQ-0069",
+      "type": "closed",
+      "name": "Umm Qasr Airport",
+      "continent": "AS",
+      "iso_country": "IQ",
+      "iso_region": "IQ-BA",
+      "municipality": "Umm Qasr",
+      "coordinates": "30.021374, 47.921851"
+    },
+    {
+      "ident": "IQ-0070",
+      "type": "closed",
+      "name": "Duhok International Airport (under construction)",
+      "elevation_ft": 1598.0,
+      "continent": "AS",
+      "iso_country": "IQ",
+      "iso_region": "IQ-DA",
+      "municipality": "Sêmêl",
+      "coordinates": "36.9249, 42.7331"
+    },
+    {
       "ident": "ORAA",
       "type": "medium_airport",
       "name": "Al Asad Air Base",
@@ -767,17 +788,6 @@
       "municipality": "Bashur",
       "gps_code": "ORBR",
       "coordinates": "36.5336990356, 44.3399009705"
-    },
-    {
-      "ident": "ORDD",
-      "type": "closed",
-      "name": "Duhok International Airport (under construction)",
-      "elevation_ft": 1598.0,
-      "continent": "AS",
-      "iso_country": "IQ",
-      "iso_region": "IQ-DA",
-      "municipality": "Sêmêl",
-      "coordinates": "36.9249, 42.7331"
     },
     {
       "ident": "ORER",
@@ -929,16 +939,6 @@
       "municipality": "Al Kut",
       "gps_code": "ORUB",
       "coordinates": "32.481998, 45.757099"
-    },
-    {
-      "ident": "ORUQ",
-      "type": "closed",
-      "name": "Umm Qasr Airport",
-      "continent": "AS",
-      "iso_country": "IQ",
-      "iso_region": "IQ-BA",
-      "municipality": "Umm Qasr",
-      "coordinates": "30.021374, 47.921851"
     },
     {
       "ident": "ORWH",

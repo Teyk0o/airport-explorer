@@ -2,11 +2,11 @@
   "country_code": "BI",
   "country_name": "Burundi",
   "total_airports": 7,
-  "last_updated": "2025-02-27T00:08:24.413165",
+  "last_updated": "2025-02-28T00:08:11.686480",
   "types_distribution": {
     "small_airport": 5,
-    "medium_airport": 1,
-    "closed": 1
+    "closed": 1,
+    "medium_airport": 1
   },
   "airports": [
     {
@@ -29,6 +29,17 @@
       "iso_region": "BI-NG",
       "municipality": "Ngozi",
       "coordinates": "-2.879447, 29.832178"
+    },
+    {
+      "ident": "BI-0003",
+      "type": "closed",
+      "name": "Nyanza-Lac Airport",
+      "elevation_ft": 2559.0,
+      "continent": "AF",
+      "iso_country": "BI",
+      "iso_region": "BI-MA",
+      "municipality": "Nyanza-Lac",
+      "coordinates": "-4.339434, 29.598245"
     },
     {
       "ident": "HBBA",
@@ -67,17 +78,6 @@
       "municipality": "Gihohi",
       "gps_code": "HBBK",
       "coordinates": "-4.0342, 30.1318"
-    },
-    {
-      "ident": "HBBL",
-      "type": "closed",
-      "name": "Nyanza-Lac Airport",
-      "elevation_ft": 2559.0,
-      "continent": "AF",
-      "iso_country": "BI",
-      "iso_region": "BI-MA",
-      "municipality": "Nyanza-Lac",
-      "coordinates": "-4.339434, 29.598245"
     },
     {
       "ident": "HBBO",

@@ -2,7 +2,7 @@
   "country_code": "MY",
   "country_name": "Malaysia",
   "total_airports": 136,
-  "last_updated": "2025-02-27T00:08:24.719554",
+  "last_updated": "2025-02-28T00:08:11.993445",
   "types_distribution": {
     "small_airport": 71,
     "heliport": 24,
@@ -509,7 +509,29 @@
       "coordinates": "2.7542, 101.7043"
     },
     {
-      "ident": "MY-GTB",
+      "ident": "MY-0048",
+      "type": "closed",
+      "name": "Simanggang Airport",
+      "elevation_ft": 47.0,
+      "continent": "AS",
+      "iso_country": "MY",
+      "iso_region": "MY-13",
+      "municipality": "Sri Aman",
+      "coordinates": "1.2219, 111.4636"
+    },
+    {
+      "ident": "MY-0049",
+      "type": "closed",
+      "name": "Bentong Airport",
+      "elevation_ft": 350.0,
+      "continent": "AS",
+      "iso_country": "MY",
+      "iso_region": "MY-06",
+      "municipality": "Bentong",
+      "coordinates": "3.550811, 101.894041"
+    },
+    {
+      "ident": "MY-0050",
       "type": "closed",
       "name": "Genting Airport",
       "elevation_ft": 13.0,
@@ -518,6 +540,50 @@
       "iso_region": "MY-13",
       "municipality": "Genting",
       "coordinates": "2.11666703224, 111.699996948"
+    },
+    {
+      "ident": "MY-0051",
+      "type": "closed",
+      "name": "Mostyn Airport",
+      "elevation_ft": 200.0,
+      "continent": "AS",
+      "iso_country": "MY",
+      "iso_region": "MY-12",
+      "municipality": "Mostyn",
+      "coordinates": "4.616666, 118.150002"
+    },
+    {
+      "ident": "MY-0052",
+      "type": "closed",
+      "name": "Bahau Airport",
+      "elevation_ft": 214.0,
+      "continent": "AS",
+      "iso_country": "MY",
+      "iso_region": "MY-05",
+      "municipality": "Bahau",
+      "coordinates": "2.81667, 102.417"
+    },
+    {
+      "ident": "MY-0053",
+      "type": "closed",
+      "name": "Sungai Petani Airport",
+      "elevation_ft": 90.0,
+      "continent": "AS",
+      "iso_country": "MY",
+      "iso_region": "MY-02",
+      "municipality": "Sungai Petani",
+      "coordinates": "5.623781, 100.541963"
+    },
+    {
+      "ident": "MY-0054",
+      "type": "closed",
+      "name": "Lutong Airport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "MY",
+      "iso_region": "MY-13",
+      "municipality": "Lutong",
+      "coordinates": "4.454601, 114.003518"
     },
     {
       "ident": "MY-GTK",
@@ -553,17 +619,6 @@
       "iso_region": "MY-13",
       "municipality": "Long Lama",
       "coordinates": "3.76667, 114.466667"
-    },
-    {
-      "ident": "MY-MZS",
-      "type": "closed",
-      "name": "Mostyn Airport",
-      "elevation_ft": 200.0,
-      "continent": "AS",
-      "iso_country": "MY",
-      "iso_region": "MY-12",
-      "municipality": "Mostyn",
-      "coordinates": "4.616666, 118.150002"
     },
     {
       "ident": "MY-SPT",
@@ -835,17 +890,6 @@
       "coordinates": "4.84917, 115.407997"
     },
     {
-      "ident": "WBGY",
-      "type": "closed",
-      "name": "Simanggang Airport",
-      "elevation_ft": 47.0,
-      "continent": "AS",
-      "iso_country": "MY",
-      "iso_region": "MY-13",
-      "municipality": "Sri Aman",
-      "coordinates": "1.2219, 111.4636"
-    },
-    {
       "ident": "WBGZ",
       "type": "medium_airport",
       "name": "Bario Airport",
@@ -1104,17 +1148,6 @@
       "coordinates": "2.17784, 111.202003"
     },
     {
-      "ident": "WMAA",
-      "type": "closed",
-      "name": "Bahau Airport",
-      "elevation_ft": 214.0,
-      "continent": "AS",
-      "iso_country": "MY",
-      "iso_region": "MY-05",
-      "municipality": "Bahau",
-      "coordinates": "2.81667, 102.417"
-    },
-    {
       "ident": "WMAB",
       "type": "small_airport",
       "name": "Batu Pahat Airport",
@@ -1137,17 +1170,6 @@
       "municipality": "Benta",
       "gps_code": "WMAC",
       "coordinates": "4.048643, 101.985569"
-    },
-    {
-      "ident": "WMAD",
-      "type": "closed",
-      "name": "Bentong Airport",
-      "elevation_ft": 350.0,
-      "continent": "AS",
-      "iso_country": "MY",
-      "iso_region": "MY-06",
-      "municipality": "Bentong",
-      "coordinates": "3.550811, 101.894041"
     },
     {
       "ident": "WMAE",
@@ -1295,17 +1317,6 @@
       "gps_code": "WMBA",
       "iata_code": "SWY",
       "coordinates": "4.2222, 100.6993"
-    },
-    {
-      "ident": "WMBB",
-      "type": "closed",
-      "name": "Sungai Petani Airport",
-      "elevation_ft": 90.0,
-      "continent": "AS",
-      "iso_country": "MY",
-      "iso_region": "MY-02",
-      "municipality": "Sungai Petani",
-      "coordinates": "5.623781, 100.541963"
     },
     {
       "ident": "WMBE",
@@ -1559,17 +1570,6 @@
       "municipality": "Lumut",
       "gps_code": "WMLH",
       "coordinates": "4.233307, 100.616276"
-    },
-    {
-      "ident": "WMLU",
-      "type": "closed",
-      "name": "Lutong Airport",
-      "elevation_ft": 16.0,
-      "continent": "AS",
-      "iso_country": "MY",
-      "iso_region": "MY-13",
-      "municipality": "Lutong",
-      "coordinates": "4.454601, 114.003518"
     },
     {
       "ident": "WMPA",

@@ -2,12 +2,12 @@
   "country_code": "SV",
   "country_name": "El Salvador",
   "total_airports": 29,
-  "last_updated": "2025-02-27T00:08:24.732778",
+  "last_updated": "2025-02-28T00:08:12.006496",
   "types_distribution": {
     "small_airport": 25,
-    "closed": 2,
     "large_airport": 1,
-    "medium_airport": 1
+    "medium_airport": 1,
+    "closed": 2
   },
   "airports": [
     {
@@ -143,16 +143,6 @@
       "gps_code": "MSLD",
       "local_code": "MS1B",
       "coordinates": "13.7262, -88.106697"
-    },
-    {
-      "ident": "MSLG",
-      "type": "closed",
-      "name": "La Gloria Airport",
-      "elevation_ft": 2163.0,
-      "iso_country": "SV",
-      "iso_region": "SV-SS",
-      "municipality": "San Salvador",
-      "coordinates": "13.71474, -89.191345"
     },
     {
       "ident": "MSLM",
@@ -326,6 +316,16 @@
       "iso_region": "SV-US",
       "municipality": "Puerto El Triunfo",
       "coordinates": "13.29613, -88.53113"
+    },
+    {
+      "ident": "SV-0007",
+      "type": "closed",
+      "name": "La Gloria Airport",
+      "elevation_ft": 2163.0,
+      "iso_country": "SV",
+      "iso_region": "SV-SS",
+      "municipality": "San Salvador",
+      "coordinates": "13.71474, -89.191345"
     }
   ]
 }
