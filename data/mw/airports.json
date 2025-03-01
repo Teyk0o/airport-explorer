@@ -2,11 +2,11 @@
   "country_code": "MW",
   "country_name": "Malawi",
   "total_airports": 30,
-  "last_updated": "2025-02-28T00:08:11.910241",
+  "last_updated": "2025-03-01T00:09:11.997939",
   "types_distribution": {
     "small_airport": 22,
-    "medium_airport": 6,
-    "closed": 2
+    "medium_airport": 5,
+    "closed": 3
   },
   "airports": [
     {
@@ -209,19 +209,6 @@
       "coordinates": "-13.8, 32.900002"
     },
     {
-      "ident": "FWMG",
-      "type": "medium_airport",
-      "name": "Mangochi Airport",
-      "elevation_ft": 1580.0,
-      "continent": "AF",
-      "iso_country": "MW",
-      "iso_region": "MW-MG",
-      "municipality": "Mangochi",
-      "gps_code": "FWMG",
-      "iata_code": "MAI",
-      "coordinates": "-14.483, 35.266998"
-    },
-    {
       "ident": "FWMY",
       "type": "small_airport",
       "name": "Monkey Bay Airport",
@@ -364,6 +351,17 @@
       "iso_region": "MW-DE",
       "municipality": "Dedza",
       "coordinates": "-14.383, 34.317001"
+    },
+    {
+      "ident": "MW-0004",
+      "type": "closed",
+      "name": "Mangochi Airport",
+      "elevation_ft": 1580.0,
+      "continent": "AF",
+      "iso_country": "MW",
+      "iso_region": "MW-MG",
+      "municipality": "Mangochi",
+      "coordinates": "-14.483, 35.266998"
     },
     {
       "ident": "VUU",

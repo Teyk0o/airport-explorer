@@ -2,7 +2,7 @@
   "country_code": "BG",
   "country_name": "Bulgaria",
   "total_airports": 229,
-  "last_updated": "2025-02-28T00:08:11.661155",
+  "last_updated": "2025-03-01T00:09:11.736613",
   "types_distribution": {
     "closed": 114,
     "small_airport": 98,
@@ -296,17 +296,6 @@
       "iso_region": "BG-04",
       "municipality": "Polikraishte",
       "coordinates": "43.199333, 25.640889"
-    },
-    {
-      "ident": "BG-0027",
-      "type": "small_airport",
-      "name": "Alfa-Metal Airfield",
-      "elevation_ft": 2026.0,
-      "continent": "EU",
-      "iso_country": "BG",
-      "iso_region": "BG-07",
-      "municipality": "Gabrovo",
-      "coordinates": "42.948664, 25.358928"
     },
     {
       "ident": "BG-0028",
@@ -2141,6 +2130,17 @@
       "municipality": "Kamenets",
       "local_code": "LB42",
       "coordinates": "43.327301, 25.003401"
+    },
+    {
+      "ident": "LBAM",
+      "type": "small_airport",
+      "name": "Alfa-Metal Airfield",
+      "elevation_ft": 2026.0,
+      "continent": "EU",
+      "iso_country": "BG",
+      "iso_region": "BG-07",
+      "municipality": "Gabrovo",
+      "coordinates": "42.948664, 25.358928"
     },
     {
       "ident": "LBBA",

@@ -2,7 +2,7 @@
   "country_code": "RU",
   "country_name": "Russia",
   "total_airports": 1706,
-  "last_updated": "2025-02-28T00:08:11.836401",
+  "last_updated": "2025-03-01T00:09:11.923500",
   "types_distribution": {
     "small_airport": 650,
     "medium_airport": 238,
@@ -419,19 +419,6 @@
       "iso_region": "RU-ARK",
       "municipality": "Verkhnyaya Toyma",
       "coordinates": "62.239632, 45.019784"
-    },
-    {
-      "ident": "RU-0035",
-      "type": "medium_airport",
-      "name": "Grozny Airport",
-      "elevation_ft": 548.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-CE",
-      "municipality": "Grozny",
-      "gps_code": "URMG",
-      "iata_code": "GRV",
-      "coordinates": "43.388106, 45.699772"
     },
     {
       "ident": "RU-0036",
@@ -11251,6 +11238,67 @@
       "coordinates": "54.372734, 21.768279"
     },
     {
+      "ident": "RU-10045",
+      "type": "heliport",
+      "name": "Chilisu-Anzas Heliport",
+      "elevation_ft": 1809.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "municipality": "Chilisu-Anzas",
+      "local_code": "UNAZ",
+      "coordinates": "52.682598, 88.358185"
+    },
+    {
+      "ident": "RU-10046",
+      "type": "small_airport",
+      "name": "Kirovsk-Apatity Airport",
+      "elevation_ft": 515.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MUR",
+      "municipality": "Apatity",
+      "iata_code": "KVK",
+      "local_code": "ULMK",
+      "coordinates": "67.463303, 33.588299"
+    },
+    {
+      "ident": "RU-10047",
+      "type": "medium_airport",
+      "name": "Rtishchevo Air Base",
+      "elevation_ft": 673.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-SAR",
+      "municipality": "Rtishchevo",
+      "local_code": "XWPR",
+      "coordinates": "52.297317, 43.7241"
+    },
+    {
+      "ident": "RU-10048",
+      "type": "medium_airport",
+      "name": "Semyazino Airport",
+      "elevation_ft": 554.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLA",
+      "municipality": "Vladimir",
+      "local_code": "UUBL",
+      "coordinates": "56.127423, 40.315202"
+    },
+    {
+      "ident": "RU-10049",
+      "type": "medium_airport",
+      "name": "Soltsy-2 Air Base",
+      "elevation_ft": 131.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-NGR",
+      "municipality": "Soltsy",
+      "local_code": "XLLL",
+      "coordinates": "58.139545, 30.33042"
+    },
+    {
       "ident": "RU-1005",
       "type": "heliport",
       "name": "Mys Kamennyi",
@@ -11259,6 +11307,127 @@
       "iso_region": "RU-YAN",
       "municipality": "Mys Kamennyi",
       "coordinates": "68.713735, 73.096268"
+    },
+    {
+      "ident": "RU-10050",
+      "type": "small_airport",
+      "name": "Klokovo Airfield",
+      "elevation_ft": 499.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "municipality": "Tula",
+      "iata_code": "TYA",
+      "local_code": "UUBT",
+      "coordinates": "54.239, 37.6"
+    },
+    {
+      "ident": "RU-10051",
+      "type": "small_airport",
+      "name": "Mezen Airfield",
+      "elevation_ft": 46.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ARK",
+      "municipality": "Mezen",
+      "local_code": "ULAE",
+      "coordinates": "65.878334, 44.215"
+    },
+    {
+      "ident": "RU-10052",
+      "type": "small_airport",
+      "name": "Stary Oskol Airfield",
+      "elevation_ft": 719.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BEL",
+      "municipality": "Stary Oskol",
+      "local_code": "UUOS",
+      "coordinates": "51.329216, 37.768848"
+    },
+    {
+      "ident": "RU-10053",
+      "type": "medium_airport",
+      "name": "Yermolino Air Base",
+      "elevation_ft": 640.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "municipality": "Balabanovo",
+      "local_code": "UUWE",
+      "coordinates": "55.228333, 36.608334"
+    },
+    {
+      "ident": "RU-10054",
+      "type": "medium_airport",
+      "name": "Myachkovo Airfield",
+      "elevation_ft": 410.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MOS",
+      "municipality": "Moscow",
+      "local_code": "UUBM",
+      "coordinates": "55.560001, 37.985001"
+    },
+    {
+      "ident": "RU-10055",
+      "type": "medium_airport",
+      "name": "Staraya Russa Air Base",
+      "elevation_ft": 82.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-NGR",
+      "municipality": "Staraya Russa",
+      "local_code": "XLNR",
+      "coordinates": "57.961399, 31.384399"
+    },
+    {
+      "ident": "RU-10056",
+      "type": "medium_airport",
+      "name": "Fedotovo Naval Air Base",
+      "elevation_ft": 574.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLG",
+      "municipality": "Kipelovo",
+      "local_code": "XLWF",
+      "coordinates": "59.190372, 39.123459"
+    },
+    {
+      "ident": "RU-10057",
+      "type": "medium_airport",
+      "name": "Severomorsk-1 Naval Air Base",
+      "elevation_ft": 239.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MUR",
+      "municipality": "Severomorsk",
+      "local_code": "XLMD",
+      "coordinates": "69.03167, 33.418331"
+    },
+    {
+      "ident": "RU-10058",
+      "type": "medium_airport",
+      "name": "Severomorsk-3 Naval Air Base",
+      "elevation_ft": 564.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MUR",
+      "municipality": "Severomorsk",
+      "local_code": "XLMV",
+      "coordinates": "68.866669, 33.716667"
+    },
+    {
+      "ident": "RU-10059",
+      "type": "medium_airport",
+      "name": "Dyagilevo Air Base",
+      "elevation_ft": 440.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-RYA",
+      "municipality": "Ryazan",
+      "local_code": "XUBD",
+      "coordinates": "54.642284, 39.569047"
     },
     {
       "ident": "RU-1006",
@@ -11271,6 +11440,122 @@
       "coordinates": "68.888827, 70.302984"
     },
     {
+      "ident": "RU-10060",
+      "type": "small_airport",
+      "name": "Veshenskaya Airfield",
+      "elevation_ft": 253.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ROS",
+      "local_code": "URRW",
+      "coordinates": "49.656601, 41.700699"
+    },
+    {
+      "ident": "RU-10061",
+      "type": "small_airport",
+      "name": "Icha Airport",
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KAM",
+      "municipality": "Icha",
+      "local_code": "UHJI",
+      "coordinates": "55.595402, 155.619003"
+    },
+    {
+      "ident": "RU-10062",
+      "type": "medium_airport",
+      "name": "Khanskaya Air Base",
+      "elevation_ft": 600.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "municipality": "Maykop",
+      "local_code": "XRKH",
+      "coordinates": "44.68, 40.035"
+    },
+    {
+      "ident": "RU-10063",
+      "type": "small_airport",
+      "name": "Velsk Airfield",
+      "elevation_ft": 360.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ARK",
+      "municipality": "Velsk",
+      "local_code": "ULKW",
+      "coordinates": "61.040001, 42.099998"
+    },
+    {
+      "ident": "RU-10064",
+      "type": "small_airport",
+      "name": "Vytegra Airfield",
+      "elevation_ft": 217.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLG",
+      "municipality": "Vytegra",
+      "local_code": "ULWR",
+      "coordinates": "61.032001, 36.435001"
+    },
+    {
+      "ident": "RU-10065",
+      "type": "small_airport",
+      "name": "Pudozh",
+      "elevation_ft": 144.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KR",
+      "municipality": "Pudozh",
+      "local_code": "ULPA",
+      "coordinates": "61.825001, 36.580002"
+    },
+    {
+      "ident": "RU-10066",
+      "type": "small_airport",
+      "name": "Borovichi Airfield",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-NGR",
+      "municipality": "Borovichi",
+      "local_code": "ULNB",
+      "coordinates": "58.436001, 33.889"
+    },
+    {
+      "ident": "RU-10067",
+      "type": "small_airport",
+      "name": "Karpogory Airfield",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ARK",
+      "municipality": "Karpogory",
+      "local_code": "ULAP",
+      "coordinates": "64.013, 44.455002"
+    },
+    {
+      "ident": "RU-10068",
+      "type": "small_airport",
+      "name": "Pertominsk Airstrip",
+      "elevation_ft": 56.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ARK",
+      "municipality": "Pertominsk",
+      "local_code": "ULAT",
+      "coordinates": "64.790463, 38.422472"
+    },
+    {
+      "ident": "RU-10069",
+      "type": "small_airport",
+      "name": "Lopshenga Airstrip",
+      "elevation_ft": 49.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ARK",
+      "municipality": "Lopshenga",
+      "local_code": "ULBL",
+      "coordinates": "64.980003, 37.693001"
+    },
+    {
       "ident": "RU-1007",
       "type": "heliport",
       "name": "KU №2 (57-Y KILOMETR)",
@@ -11281,6 +11566,125 @@
       "coordinates": "69.782426, 68.355764"
     },
     {
+      "ident": "RU-10070",
+      "type": "small_airport",
+      "name": "Trufanovo Airfield",
+      "elevation_ft": 417.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLG",
+      "municipality": "Vologda",
+      "local_code": "XLWT",
+      "coordinates": "59.308998, 39.849998"
+    },
+    {
+      "ident": "RU-10071",
+      "type": "small_airport",
+      "name": "Krasnoshchelye Airstrip",
+      "elevation_ft": 492.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MUR",
+      "municipality": "Krasnoshchelye",
+      "local_code": "ULMX",
+      "coordinates": "67.348, 37.077"
+    },
+    {
+      "ident": "RU-10072",
+      "type": "small_airport",
+      "name": "Sosnovka Airfield",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-PNZ",
+      "municipality": "Penza",
+      "local_code": "XWPD",
+      "coordinates": "53.261002, 45.277"
+    },
+    {
+      "ident": "RU-10073",
+      "type": "small_airport",
+      "name": "Nizhnyaya Pesha Airport",
+      "elevation_ft": 32.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-NEN",
+      "municipality": "Nizhnyaya Pesha",
+      "local_code": "ULAV",
+      "coordinates": "66.7391, 47.728815"
+    },
+    {
+      "ident": "RU-10074",
+      "type": "small_airport",
+      "name": "Shoyna Airstrip",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-NEN",
+      "municipality": "Shoyna",
+      "local_code": "ULBO",
+      "coordinates": "67.869003, 44.151001"
+    },
+    {
+      "ident": "RU-10075",
+      "type": "small_airport",
+      "name": "Shenkursk Airfield",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ARK",
+      "municipality": "Shenkursk",
+      "local_code": "ULAN",
+      "coordinates": "62.117001, 42.882999"
+    },
+    {
+      "ident": "RU-10076",
+      "type": "medium_airport",
+      "name": "Smolensk North Airport",
+      "elevation_ft": 820.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-SMO",
+      "municipality": "Smolensk",
+      "iata_code": "LNX",
+      "local_code": "XUBS",
+      "coordinates": "54.824, 32.025"
+    },
+    {
+      "ident": "RU-10077",
+      "type": "medium_airport",
+      "name": "Yeysk Airport",
+      "elevation_ft": 60.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KDA",
+      "municipality": "Yeysk",
+      "iata_code": "EIK",
+      "local_code": "URKE",
+      "coordinates": "46.68, 38.21"
+    },
+    {
+      "ident": "RU-10078",
+      "type": "small_airport",
+      "name": "Morozovsk Air Base",
+      "elevation_ft": 400.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ROS",
+      "municipality": "Morozovsk",
+      "local_code": "XRRM",
+      "coordinates": "48.313, 41.791"
+    },
+    {
+      "ident": "RU-10079",
+      "type": "heliport",
+      "name": "Kem Helipad",
+      "elevation_ft": 82.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KR",
+      "municipality": "Kem",
+      "local_code": "ULPE",
+      "coordinates": "64.96, 34.64"
+    },
+    {
       "ident": "RU-1008",
       "type": "heliport",
       "name": "KU №3 (88-Y KILOMETR)",
@@ -11289,6 +11693,114 @@
       "iso_region": "RU-YAN",
       "municipality": "Bovanenkovo",
       "coordinates": "69.523798, 68.425373"
+    },
+    {
+      "ident": "RU-10080",
+      "type": "heliport",
+      "name": "Afipsky Heliport",
+      "elevation_ft": 80.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KDA",
+      "municipality": "Afipski",
+      "local_code": "URKF",
+      "coordinates": "44.873, 38.829"
+    },
+    {
+      "ident": "RU-10081",
+      "type": "small_airport",
+      "name": "Remontnoye Airfield",
+      "elevation_ft": 409.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ROS",
+      "municipality": "Remontnoye",
+      "local_code": "URRE",
+      "coordinates": "46.544302, 43.6457"
+    },
+    {
+      "ident": "RU-10082",
+      "type": "small_airport",
+      "name": "Belozersk Airfield",
+      "elevation_ft": 399.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VLG",
+      "municipality": "Belozersk",
+      "local_code": "ULWB",
+      "coordinates": "60.015745, 37.755371"
+    },
+    {
+      "ident": "RU-10083",
+      "type": "small_airport",
+      "name": "Tomarovka Aerodrome",
+      "elevation_ft": 656.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BEL",
+      "municipality": "Pushkarnoye",
+      "local_code": "XUOP",
+      "coordinates": "50.6945, 36.2922"
+    },
+    {
+      "ident": "RU-10084",
+      "type": "heliport",
+      "name": "Taravey Heliport",
+      "elevation_ft": 68.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-NEN",
+      "municipality": "Varandey",
+      "local_code": "ULDX",
+      "coordinates": "68.658434, 58.43673"
+    },
+    {
+      "ident": "RU-10085",
+      "type": "small_airport",
+      "name": "Pirovskoye Airfield",
+      "elevation_ft": 645.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KYA",
+      "municipality": "Pirovskoye",
+      "local_code": "UNIO",
+      "coordinates": "57.608942, 92.303195"
+    },
+    {
+      "ident": "RU-10086",
+      "type": "small_airport",
+      "name": "Ust-Pit Airfield",
+      "elevation_ft": 239.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KYA",
+      "municipality": "Ust-Pit",
+      "local_code": "UNJC",
+      "coordinates": "58.99397, 91.748865"
+    },
+    {
+      "ident": "RU-10087",
+      "type": "small_airport",
+      "name": "Mayskoye Airfield",
+      "elevation_ft": 241.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KYA",
+      "municipality": "Mayskoye",
+      "local_code": "UNJJ",
+      "coordinates": "60.014497, 89.428082"
+    },
+    {
+      "ident": "RU-10088",
+      "type": "heliport",
+      "name": "Nikel Heliport",
+      "elevation_ft": 154.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MUR",
+      "municipality": "Nikel",
+      "local_code": "ULMI",
+      "coordinates": "69.412289, 30.189975"
     },
     {
       "ident": "RU-1009",
@@ -14324,16 +14836,6 @@
       "coordinates": "54.695999, 135.285995"
     },
     {
-      "ident": "UHJI",
-      "type": "small_airport",
-      "name": "Icha Airport",
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-KAM",
-      "municipality": "Icha",
-      "coordinates": "55.595402, 155.619003"
-    },
-    {
       "ident": "UHK1",
       "type": "small_airport",
       "name": "Kalinka Airport",
@@ -15496,18 +15998,6 @@
       "coordinates": "64.60030364990234, 40.71670150756836"
     },
     {
-      "ident": "ULAE",
-      "type": "small_airport",
-      "name": "Mezen Airfield",
-      "elevation_ft": 46.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ARK",
-      "municipality": "Mezen",
-      "local_code": "ULAE",
-      "coordinates": "65.878334, 44.215"
-    },
-    {
       "ident": "ULAH",
       "type": "medium_airport",
       "name": "Vaskovo Airport",
@@ -15520,18 +16010,6 @@
       "iata_code": "VKV",
       "local_code": "XLAH",
       "coordinates": "64.441704, 40.4217"
-    },
-    {
-      "ident": "ULAK",
-      "type": "medium_airport",
-      "name": "Severomorsk-1 Naval Air Base",
-      "elevation_ft": 239.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-MUR",
-      "municipality": "Severomorsk",
-      "local_code": "XLMD",
-      "coordinates": "69.03167, 33.418331"
     },
     {
       "ident": "ULAL",
@@ -15560,17 +16038,6 @@
       "coordinates": "67.639999, 53.121899"
     },
     {
-      "ident": "ULAN",
-      "type": "small_airport",
-      "name": "Shenkursk Airfield",
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ARK",
-      "municipality": "Shenkursk",
-      "local_code": "ULAN",
-      "coordinates": "62.117001, 42.882999"
-    },
-    {
       "ident": "ULAO",
       "type": "small_airport",
       "name": "Onega Airfield",
@@ -15581,17 +16048,6 @@
       "municipality": "Onega",
       "gps_code": "ULAO",
       "coordinates": "63.909376, 38.121786"
-    },
-    {
-      "ident": "ULAP",
-      "type": "small_airport",
-      "name": "Karpogory Airfield",
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ARK",
-      "municipality": "Karpogory",
-      "local_code": "ULAP",
-      "coordinates": "64.013, 44.455002"
     },
     {
       "ident": "ULAR",
@@ -15619,42 +16075,6 @@
       "coordinates": "65.029999, 35.733334"
     },
     {
-      "ident": "ULAT",
-      "type": "small_airport",
-      "name": "Pertominsk Airstrip",
-      "elevation_ft": 56.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ARK",
-      "municipality": "Pertominsk",
-      "local_code": "ULAT",
-      "coordinates": "64.790463, 38.422472"
-    },
-    {
-      "ident": "ULAV",
-      "type": "small_airport",
-      "name": "Nizhnyaya Pesha Airport",
-      "elevation_ft": 32.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-NEN",
-      "municipality": "Nizhnyaya Pesha",
-      "local_code": "ULAV",
-      "coordinates": "66.7391, 47.728815"
-    },
-    {
-      "ident": "ULBL",
-      "type": "small_airport",
-      "name": "Lopshenga Airstrip",
-      "elevation_ft": 49.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ARK",
-      "municipality": "Lopshenga",
-      "local_code": "ULBL",
-      "coordinates": "64.980003, 37.693001"
-    },
-    {
       "ident": "ULBM",
       "type": "small_airport",
       "name": "Purnema Airfield",
@@ -15665,17 +16085,6 @@
       "municipality": "Purnema",
       "gps_code": "ULBM",
       "coordinates": "64.3854, 37.441235"
-    },
-    {
-      "ident": "ULBO",
-      "type": "small_airport",
-      "name": "Shoyna Airstrip",
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-NEN",
-      "municipality": "Shoyna",
-      "local_code": "ULBO",
-      "coordinates": "67.869003, 44.151001"
     },
     {
       "ident": "ULBZ",
@@ -15726,18 +16135,6 @@
       "gps_code": "ULDW",
       "iata_code": "VRI",
       "coordinates": "68.848503, 58.201401"
-    },
-    {
-      "ident": "ULDX",
-      "type": "heliport",
-      "name": "Taravey Heliport",
-      "elevation_ft": 68.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-NEN",
-      "municipality": "Varandey",
-      "local_code": "ULDX",
-      "coordinates": "68.658434, 58.43673"
     },
     {
       "ident": "ULEH",
@@ -15812,18 +16209,6 @@
       "coordinates": "60.994998931884766, 46.869998931884766"
     },
     {
-      "ident": "ULKW",
-      "type": "small_airport",
-      "name": "Velsk Airfield",
-      "elevation_ft": 360.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ARK",
-      "municipality": "Velsk",
-      "local_code": "ULKW",
-      "coordinates": "61.040001, 42.099998"
-    },
-    {
       "ident": "ULLD",
       "type": "heliport",
       "name": "Varshavskaya Heliport",
@@ -15873,31 +16258,6 @@
       "coordinates": "66.696999, 34.387001"
     },
     {
-      "ident": "ULMI",
-      "type": "heliport",
-      "name": "Nikel Heliport",
-      "elevation_ft": 154.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-MUR",
-      "municipality": "Nikel",
-      "local_code": "ULMI",
-      "coordinates": "69.412289, 30.189975"
-    },
-    {
-      "ident": "ULMK",
-      "type": "small_airport",
-      "name": "Kirovsk-Apatity Airport",
-      "elevation_ft": 515.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-MUR",
-      "municipality": "Apatity",
-      "iata_code": "KVK",
-      "local_code": "ULMK",
-      "coordinates": "67.463303, 33.588299"
-    },
-    {
       "ident": "ULMM",
       "type": "medium_airport",
       "name": "Murmansk Airport",
@@ -15911,29 +16271,6 @@
       "coordinates": "68.78170013427734, 32.75080108642578"
     },
     {
-      "ident": "ULMX",
-      "type": "small_airport",
-      "name": "Krasnoshchelye Airstrip",
-      "elevation_ft": 492.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-MUR",
-      "municipality": "Krasnoshchelye",
-      "local_code": "ULMX",
-      "coordinates": "67.348, 37.077"
-    },
-    {
-      "ident": "ULNB",
-      "type": "small_airport",
-      "name": "Borovichi Airfield",
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-NGR",
-      "municipality": "Borovichi",
-      "local_code": "ULNB",
-      "coordinates": "58.436001, 33.889"
-    },
-    {
       "ident": "ULNP",
       "type": "small_airport",
       "name": "Pestovo Airfield",
@@ -15943,18 +16280,6 @@
       "municipality": "Pestovo",
       "gps_code": "ULNP",
       "coordinates": "58.608002, 35.779999"
-    },
-    {
-      "ident": "ULNR",
-      "type": "medium_airport",
-      "name": "Staraya Russa Air Base",
-      "elevation_ft": 82.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-NGR",
-      "municipality": "Staraya Russa",
-      "local_code": "XLNR",
-      "coordinates": "57.961399, 31.384399"
     },
     {
       "ident": "ULOO",
@@ -15968,18 +16293,6 @@
       "gps_code": "ULOO",
       "iata_code": "PKV",
       "coordinates": "57.78390121459961, 28.395599365234375"
-    },
-    {
-      "ident": "ULPA",
-      "type": "small_airport",
-      "name": "Pudozh",
-      "elevation_ft": 144.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-KR",
-      "municipality": "Pudozh",
-      "local_code": "ULPA",
-      "coordinates": "61.825001, 36.580002"
     },
     {
       "ident": "ULPB",
@@ -16066,18 +16379,6 @@
       "coordinates": "60.268033, 29.234033"
     },
     {
-      "ident": "ULWB",
-      "type": "small_airport",
-      "name": "Belozersk Airfield",
-      "elevation_ft": 399.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLG",
-      "municipality": "Belozersk",
-      "local_code": "ULWB",
-      "coordinates": "60.015745, 37.755371"
-    },
-    {
       "ident": "ULWC",
       "type": "medium_airport",
       "name": "Cherepovets Airport",
@@ -16100,18 +16401,6 @@
       "municipality": "Kichmengskiy Gorodok",
       "gps_code": "ULWK",
       "coordinates": "59.97700119018555, 45.82500076293945"
-    },
-    {
-      "ident": "ULWR",
-      "type": "small_airport",
-      "name": "Vytegra Airfield",
-      "elevation_ft": 217.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLG",
-      "municipality": "Vytegra",
-      "local_code": "ULWR",
-      "coordinates": "61.032001, 36.435001"
     },
     {
       "ident": "ULWU",
@@ -16188,18 +16477,6 @@
       "municipality": "Kazantsevo",
       "gps_code": "UNAU",
       "coordinates": "53.385176, 92.044718"
-    },
-    {
-      "ident": "UNAZ",
-      "type": "heliport",
-      "name": "Chilisu-Anzas Heliport",
-      "elevation_ft": 1809.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-KEM",
-      "municipality": "Chilisu-Anzas",
-      "local_code": "UNAZ",
-      "coordinates": "52.682598, 88.358185"
     },
     {
       "ident": "UNBA",
@@ -16415,18 +16692,6 @@
       "coordinates": "60.255001, 90.195"
     },
     {
-      "ident": "UNIO",
-      "type": "small_airport",
-      "name": "Pirovskoye Airfield",
-      "elevation_ft": 645.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-KYA",
-      "municipality": "Pirovskoye",
-      "local_code": "UNIO",
-      "coordinates": "57.608942, 92.303195"
-    },
-    {
       "ident": "UNIP",
       "type": "medium_airport",
       "name": "Podkamennaya Tunguska Airport",
@@ -16477,30 +16742,6 @@
       "gps_code": "UNIW",
       "iata_code": "VAQ",
       "coordinates": "60.356229, 102.309641"
-    },
-    {
-      "ident": "UNJC",
-      "type": "small_airport",
-      "name": "Ust-Pit Airfield",
-      "elevation_ft": 239.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-KYA",
-      "municipality": "Ust-Pit",
-      "local_code": "UNJC",
-      "coordinates": "58.99397, 91.748865"
-    },
-    {
-      "ident": "UNJJ",
-      "type": "small_airport",
-      "name": "Mayskoye Airfield",
-      "elevation_ft": 241.0,
-      "continent": "AS",
-      "iso_country": "RU",
-      "iso_region": "RU-KYA",
-      "municipality": "Mayskoye",
-      "local_code": "UNJJ",
-      "coordinates": "60.014497, 89.428082"
     },
     {
       "ident": "UNKB",
@@ -16966,31 +17207,6 @@
       "coordinates": "45.002102, 37.347301"
     },
     {
-      "ident": "URKE",
-      "type": "medium_airport",
-      "name": "Yeysk Airport",
-      "elevation_ft": 60.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-KDA",
-      "municipality": "Yeysk",
-      "iata_code": "EIK",
-      "local_code": "URKE",
-      "coordinates": "46.68, 38.21"
-    },
-    {
-      "ident": "URKF",
-      "type": "heliport",
-      "name": "Afipsky Heliport",
-      "elevation_ft": 80.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-KDA",
-      "municipality": "Afipski",
-      "local_code": "URKF",
-      "coordinates": "44.873, 38.829"
-    },
-    {
       "ident": "URKG",
       "type": "medium_airport",
       "name": "Gelendzhik Airport",
@@ -17002,18 +17218,6 @@
       "gps_code": "URKG",
       "iata_code": "GDZ",
       "coordinates": "44.5820926295, 38.0124807358"
-    },
-    {
-      "ident": "URKH",
-      "type": "medium_airport",
-      "name": "Khanskaya Air Base",
-      "elevation_ft": 600.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-AD",
-      "municipality": "Maykop",
-      "local_code": "XRKH",
-      "coordinates": "44.68, 40.035"
     },
     {
       "ident": "URKK",
@@ -17066,14 +17270,15 @@
     {
       "ident": "URMG",
       "type": "medium_airport",
-      "name": "Khankala Air Base",
+      "name": "Grozny Airport",
       "elevation_ft": 548.0,
-      "continent": "AS",
+      "continent": "EU",
       "iso_country": "RU",
       "iso_region": "RU-CE",
       "municipality": "Grozny",
-      "gps_code": "XRMU",
-      "coordinates": "43.2981, 45.7841"
+      "gps_code": "URMG",
+      "iata_code": "GRV",
+      "coordinates": "43.388106, 45.699772"
     },
     {
       "ident": "URML",
@@ -17166,30 +17371,6 @@
       "coordinates": "69.375, 86.15667"
     },
     {
-      "ident": "URPE",
-      "type": "heliport",
-      "name": "Kem Helipad",
-      "elevation_ft": 82.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-KR",
-      "municipality": "Kem",
-      "local_code": "ULPE",
-      "coordinates": "64.96, 34.64"
-    },
-    {
-      "ident": "URRE",
-      "type": "small_airport",
-      "name": "Remontnoye Airfield",
-      "elevation_ft": 409.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ROS",
-      "municipality": "Remontnoye",
-      "local_code": "URRE",
-      "coordinates": "46.544302, 43.6457"
-    },
-    {
       "ident": "URRH",
       "type": "small_airport",
       "name": "Shakhty Airfield",
@@ -17199,18 +17380,6 @@
       "municipality": "Shakhty",
       "gps_code": "URRH",
       "coordinates": "47.697, 40.287"
-    },
-    {
-      "ident": "URRM",
-      "type": "small_airport",
-      "name": "Morozovsk Air Base",
-      "elevation_ft": 400.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ROS",
-      "municipality": "Morozovsk",
-      "local_code": "XRRM",
-      "coordinates": "48.313, 41.791"
     },
     {
       "ident": "URRN",
@@ -17247,17 +17416,6 @@
       "gps_code": "URRT",
       "iata_code": "TGK",
       "coordinates": "47.1983333, 38.8491667"
-    },
-    {
-      "ident": "URRW",
-      "type": "small_airport",
-      "name": "Veshenskaya Airfield",
-      "elevation_ft": 253.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-ROS",
-      "local_code": "URRW",
-      "coordinates": "49.656601, 41.700699"
     },
     {
       "ident": "URSS",
@@ -17940,18 +18098,6 @@
       "coordinates": "54.5499992371, 36.3666687012"
     },
     {
-      "ident": "UUBD",
-      "type": "medium_airport",
-      "name": "Dyagilevo Air Base",
-      "elevation_ft": 440.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-RYA",
-      "municipality": "Ryazan",
-      "local_code": "XUBD",
-      "coordinates": "54.642284, 39.569047"
-    },
-    {
       "ident": "UUBI",
       "type": "medium_airport",
       "name": "Ivanovo South Airport",
@@ -17976,30 +18122,6 @@
       "gps_code": "UUBK",
       "iata_code": "RYB",
       "coordinates": "58.104198, 38.929401"
-    },
-    {
-      "ident": "UUBL",
-      "type": "medium_airport",
-      "name": "Semyazino Airport",
-      "elevation_ft": 554.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLA",
-      "municipality": "Vladimir",
-      "local_code": "UUBL",
-      "coordinates": "56.127423, 40.315202"
-    },
-    {
-      "ident": "UUBM",
-      "type": "medium_airport",
-      "name": "Myachkovo Airfield",
-      "elevation_ft": 410.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-MOS",
-      "municipality": "Moscow",
-      "local_code": "UUBM",
-      "coordinates": "55.560001, 37.985001"
     },
     {
       "ident": "UUBN",
@@ -18265,30 +18387,6 @@
       "coordinates": "51.81420135498047, 39.22959899902344"
     },
     {
-      "ident": "UUOP",
-      "type": "small_airport",
-      "name": "Tomarovka Aerodrome",
-      "elevation_ft": 656.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-BEL",
-      "municipality": "Pushkarnoye",
-      "local_code": "XUOP",
-      "coordinates": "50.6945, 36.2922"
-    },
-    {
-      "ident": "UUOS",
-      "type": "small_airport",
-      "name": "Stary Oskol Airfield",
-      "elevation_ft": 719.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-BEL",
-      "municipality": "Stary Oskol",
-      "local_code": "UUOS",
-      "coordinates": "51.329216, 37.768848"
-    },
-    {
       "ident": "UUOT",
       "type": "medium_airport",
       "name": "Donskoye Airport",
@@ -18360,18 +18458,6 @@
       "coordinates": "56.553558, 36.559481"
     },
     {
-      "ident": "UUWE",
-      "type": "medium_airport",
-      "name": "Yermolino Air Base",
-      "elevation_ft": 640.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-KLU",
-      "municipality": "Balabanovo",
-      "local_code": "UUWE",
-      "coordinates": "55.228333, 36.608334"
-    },
-    {
       "ident": "UUWK",
       "type": "small_airport",
       "name": "Kudinovo Airfield",
@@ -18382,19 +18468,6 @@
       "municipality": "Kudinovo",
       "gps_code": "UUWK",
       "coordinates": "55.023839, 36.244583"
-    },
-    {
-      "ident": "UUWV",
-      "type": "small_airport",
-      "name": "Klokovo Airfield",
-      "elevation_ft": 499.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-TUL",
-      "municipality": "Tula",
-      "iata_code": "TYA",
-      "local_code": "UUBT",
-      "coordinates": "54.239, 37.6"
     },
     {
       "ident": "UUWW",
@@ -18967,52 +19040,16 @@
       "coordinates": "53.504902, 50.164299"
     },
     {
-      "ident": "XLLL",
+      "ident": "XRMU",
       "type": "medium_airport",
-      "name": "Soltsy-2 Air Base",
-      "elevation_ft": 131.0,
-      "continent": "EU",
+      "name": "Khankala Air Base",
+      "elevation_ft": 548.0,
+      "continent": "AS",
       "iso_country": "RU",
-      "iso_region": "RU-NGR",
-      "municipality": "Soltsy",
-      "local_code": "XLLL",
-      "coordinates": "58.139545, 30.33042"
-    },
-    {
-      "ident": "XLMV",
-      "type": "medium_airport",
-      "name": "Severomorsk-3 Naval Air Base",
-      "elevation_ft": 564.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-MUR",
-      "municipality": "Severomorsk",
-      "local_code": "XLMV",
-      "coordinates": "68.866669, 33.716667"
-    },
-    {
-      "ident": "XLWF",
-      "type": "medium_airport",
-      "name": "Fedotovo Naval Air Base",
-      "elevation_ft": 574.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLG",
-      "municipality": "Kipelovo",
-      "local_code": "XLWF",
-      "coordinates": "59.190372, 39.123459"
-    },
-    {
-      "ident": "XLWT",
-      "type": "small_airport",
-      "name": "Trufanovo Airfield",
-      "elevation_ft": 417.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-VLG",
-      "municipality": "Vologda",
-      "local_code": "XLWT",
-      "coordinates": "59.308998, 39.849998"
+      "iso_region": "RU-CE",
+      "municipality": "Grozny",
+      "gps_code": "XRMU",
+      "coordinates": "43.2981, 45.7841"
     },
     {
       "ident": "XRWL",
@@ -19025,42 +19062,6 @@
       "municipality": "Kamyshin",
       "gps_code": "XRWL",
       "coordinates": "50.201698, 45.208302"
-    },
-    {
-      "ident": "XUBS",
-      "type": "medium_airport",
-      "name": "Smolensk North Airport",
-      "elevation_ft": 820.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-SMO",
-      "municipality": "Smolensk",
-      "iata_code": "LNX",
-      "local_code": "XUBS",
-      "coordinates": "54.824, 32.025"
-    },
-    {
-      "ident": "XWPD",
-      "type": "small_airport",
-      "name": "Sosnovka Airfield",
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-PNZ",
-      "municipality": "Penza",
-      "local_code": "XWPD",
-      "coordinates": "53.261002, 45.277"
-    },
-    {
-      "ident": "XWPR",
-      "type": "medium_airport",
-      "name": "Rtishchevo Air Base",
-      "elevation_ft": 673.0,
-      "continent": "EU",
-      "iso_country": "RU",
-      "iso_region": "RU-SAR",
-      "municipality": "Rtishchevo",
-      "local_code": "XWPR",
-      "coordinates": "52.297317, 43.7241"
     }
   ]
 }

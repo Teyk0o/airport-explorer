@@ -2,11 +2,11 @@
   "country_code": "CN",
   "country_name": "China",
   "total_airports": 725,
-  "last_updated": "2025-02-28T00:08:11.590947",
+  "last_updated": "2025-03-01T00:09:11.665542",
   "types_distribution": {
-    "small_airport": 244,
+    "small_airport": 243,
     "medium_airport": 274,
-    "closed": 56,
+    "closed": 57,
     "heliport": 107,
     "seaplane_base": 3,
     "balloonport": 2,
@@ -37,18 +37,6 @@
       "gps_code": "ZBAL",
       "iata_code": "AXF",
       "coordinates": "38.74831, 105.58858"
-    },
-    {
-      "ident": "AZJ",
-      "type": "small_airport",
-      "name": "Zhenjiang Dalu Airport",
-      "elevation_ft": 16.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-32",
-      "municipality": "Zhenjiang",
-      "iata_code": "AZJ",
-      "coordinates": "32.23649, 119.718683"
     },
     {
       "ident": "CN-0001",
@@ -864,18 +852,6 @@
       "iso_region": "CN-21",
       "municipality": "Fengcheng, Dandong",
       "coordinates": "40.5402, 124.2295"
-    },
-    {
-      "ident": "CN-0089",
-      "type": "medium_airport",
-      "name": "Lianyungang Huaguoshan International Airport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-32",
-      "municipality": "Lianyungang",
-      "gps_code": "ZSLG",
-      "iata_code": "LYG",
-      "coordinates": "34.41406, 119.17899"
     },
     {
       "ident": "CN-0090",
@@ -3590,18 +3566,6 @@
       "coordinates": "40.694827, 89.075604"
     },
     {
-      "ident": "CN-0353",
-      "type": "medium_airport",
-      "name": "Zhanjiang Wuchuan Airport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-44",
-      "municipality": "Zhanjiang",
-      "gps_code": "ZGZJ",
-      "iata_code": "ZHA",
-      "coordinates": "21.481667, 110.590278"
-    },
-    {
       "ident": "CN-0354",
       "type": "medium_airport",
       "name": "Ali Pulan Airport",
@@ -4522,6 +4486,72 @@
       "coordinates": "36.033333, 103.86667"
     },
     {
+      "ident": "CN-0441",
+      "type": "small_airport",
+      "name": "Jinzhou Xiaolingzi Air Base",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-21",
+      "municipality": "Jinzhou (Taihe)",
+      "coordinates": "41.101398, 121.061996"
+    },
+    {
+      "ident": "CN-0442",
+      "type": "closed",
+      "name": "Yibin Caiba Airport",
+      "elevation_ft": 924.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-51",
+      "municipality": "Yibin (Cuiping)",
+      "coordinates": "28.800556, 104.545"
+    },
+    {
+      "ident": "CN-0443",
+      "type": "small_airport",
+      "name": "Yantai Laishan Airport",
+      "elevation_ft": 59.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-37",
+      "municipality": "Yantai",
+      "coordinates": "37.396825, 121.369571"
+    },
+    {
+      "ident": "CN-0444",
+      "type": "small_airport",
+      "name": "Baitabu Air Base",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-32",
+      "municipality": "Lianyungang (Donghai)",
+      "local_code": "ZSLG",
+      "coordinates": "34.571302, 118.873143"
+    },
+    {
+      "ident": "CN-0445",
+      "type": "small_airport",
+      "name": "Beijing Nanyuan Air Base",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-11",
+      "municipality": "Beijing",
+      "local_code": "ZBNY",
+      "coordinates": "39.782158, 116.386299"
+    },
+    {
+      "ident": "CN-0446",
+      "type": "medium_airport",
+      "name": "Jining Qufu Airport",
+      "elevation_ft": 134.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-37",
+      "municipality": "Jining",
+      "local_code": "ZLJN",
+      "coordinates": "35.292778, 116.346667"
+    },
+    {
       "ident": "CN-JNZ",
       "type": "medium_airport",
       "name": "Sanshilipu Air Base",
@@ -4556,19 +4586,6 @@
       "coordinates": "42.0155, 101.0005"
     },
     {
-      "ident": "ENY",
-      "type": "medium_airport",
-      "name": "Yan'an Nanniwan Airport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-61",
-      "municipality": "Yan'an (Baota)",
-      "gps_code": "ZLYA",
-      "iata_code": "ENY",
-      "local_code": "ENY",
-      "coordinates": "36.479413, 109.464083"
-    },
-    {
       "ident": "HSJ",
       "type": "small_airport",
       "name": "Zhengzhou Shangjie Airport",
@@ -4591,18 +4608,6 @@
       "municipality": "Chengdu (Jintang)",
       "iata_code": "HZU",
       "coordinates": "30.677339, 104.529397"
-    },
-    {
-      "ident": "JNZ",
-      "type": "medium_airport",
-      "name": "Jinzhou Bay Airport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-21",
-      "municipality": "Jinzhou (Linghai)",
-      "gps_code": "ZYJZ",
-      "iata_code": "JNZ",
-      "coordinates": "40.936032, 121.277114"
     },
     {
       "ident": "JUH",
@@ -4694,20 +4699,6 @@
       "coordinates": "39.886663, 79.233408"
     },
     {
-      "ident": "WUZ",
-      "type": "medium_airport",
-      "name": "Wuzhou Xijiang Airport",
-      "elevation_ft": 357.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-45",
-      "municipality": "Tangbu",
-      "gps_code": "ZGWZ",
-      "iata_code": "WUZ",
-      "local_code": "WUZ",
-      "coordinates": "23.40316, 111.09331"
-    },
-    {
       "ident": "WZQ",
       "type": "small_airport",
       "name": "Urad Middle Banner Airport",
@@ -4732,20 +4723,6 @@
       "coordinates": "48.575585, 116.939382"
     },
     {
-      "ident": "YBP",
-      "type": "medium_airport",
-      "name": "Yibin Wuliangye Airport",
-      "elevation_ft": 1378.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-51",
-      "municipality": "Yibin (Cuiping)",
-      "gps_code": "ZUYB",
-      "iata_code": "YBP",
-      "local_code": "YBP",
-      "coordinates": "28.858431, 104.526157"
-    },
-    {
       "ident": "YEH",
       "type": "small_airport",
       "name": "Yinchuan Helanshan Air Base",
@@ -4768,19 +4745,6 @@
       "municipality": "Chongqing",
       "iata_code": "YGA",
       "coordinates": "29.356667, 106.010441"
-    },
-    {
-      "ident": "YNT",
-      "type": "large_airport",
-      "name": "Yantai Penglai International Airport",
-      "elevation_ft": 154.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-37",
-      "municipality": "Yantai",
-      "gps_code": "ZSYT",
-      "iata_code": "YNT",
-      "coordinates": "37.659724, 120.978124"
     },
     {
       "ident": "ZBAA",
@@ -5009,16 +4973,6 @@
       "gps_code": "ZBMZ",
       "iata_code": "NZH",
       "coordinates": "49.566667, 117.33"
-    },
-    {
-      "ident": "ZBNY",
-      "type": "small_airport",
-      "name": "Beijing Nanyuan Air Base",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-11",
-      "municipality": "Beijing",
-      "coordinates": "39.782158, 116.386299"
     },
     {
       "ident": "ZBOW",
@@ -5541,6 +5495,20 @@
       "coordinates": "22.639299, 113.810997"
     },
     {
+      "ident": "ZGWZ",
+      "type": "medium_airport",
+      "name": "Wuzhou Xijiang Airport",
+      "elevation_ft": 357.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-45",
+      "municipality": "Tangbu",
+      "gps_code": "ZGWZ",
+      "iata_code": "WUZ",
+      "local_code": "WUZ",
+      "coordinates": "23.40316, 111.09331"
+    },
+    {
       "ident": "ZGXN",
       "type": "small_airport",
       "name": "Xingning Air Base",
@@ -5615,6 +5583,18 @@
       "gps_code": "ZGZH",
       "iata_code": "LZH",
       "coordinates": "24.2075, 109.390999"
+    },
+    {
+      "ident": "ZGZJ",
+      "type": "medium_airport",
+      "name": "Zhanjiang Wuchuan Airport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhanjiang",
+      "gps_code": "ZGZJ",
+      "iata_code": "ZHA",
+      "coordinates": "21.481667, 110.590278"
     },
     {
       "ident": "ZHAY",
@@ -6001,17 +5981,6 @@
       "coordinates": "38.542222, 102.348333"
     },
     {
-      "ident": "ZLJN",
-      "type": "medium_airport",
-      "name": "Jining Qufu Airport",
-      "elevation_ft": 134.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-37",
-      "municipality": "Jining",
-      "coordinates": "35.292778, 116.346667"
-    },
-    {
       "ident": "ZLJQ",
       "type": "small_airport",
       "name": "Jiayuguan Airport",
@@ -6136,6 +6105,19 @@
       "gps_code": "ZLXY",
       "iata_code": "XIY",
       "coordinates": "34.447102, 108.751999"
+    },
+    {
+      "ident": "ZLYA",
+      "type": "medium_airport",
+      "name": "Yan'an Nanniwan Airport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-61",
+      "municipality": "Yan'an (Baota)",
+      "gps_code": "ZLYA",
+      "iata_code": "ENY",
+      "local_code": "ENY",
+      "coordinates": "36.479413, 109.464083"
     },
     {
       "ident": "ZLYL",
@@ -6444,6 +6426,18 @@
       "coordinates": "28.864815, 115.90271"
     },
     {
+      "ident": "ZSDL",
+      "type": "small_airport",
+      "name": "Zhenjiang Dalu Airport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-32",
+      "municipality": "Zhenjiang",
+      "iata_code": "AZJ",
+      "coordinates": "32.23649, 119.718683"
+    },
+    {
       "ident": "ZSDY",
       "type": "medium_airport",
       "name": "Dongying Shengli Airport",
@@ -6586,13 +6580,15 @@
     },
     {
       "ident": "ZSLG",
-      "type": "small_airport",
-      "name": "Baitabu Air Base",
+      "type": "medium_airport",
+      "name": "Lianyungang Huaguoshan International Airport",
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-32",
-      "municipality": "Lianyungang (Donghai)",
-      "coordinates": "34.571302, 118.873143"
+      "municipality": "Lianyungang",
+      "gps_code": "ZSLG",
+      "iata_code": "LYG",
+      "coordinates": "34.41406, 119.17899"
     },
     {
       "ident": "ZSLO",
@@ -6968,14 +6964,16 @@
     },
     {
       "ident": "ZSYT",
-      "type": "small_airport",
-      "name": "Yantai Laishan Airport",
-      "elevation_ft": 59.0,
+      "type": "large_airport",
+      "name": "Yantai Penglai International Airport",
+      "elevation_ft": 154.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-37",
       "municipality": "Yantai",
-      "coordinates": "37.396825, 121.369571"
+      "gps_code": "ZSYT",
+      "iata_code": "YNT",
+      "coordinates": "37.659724, 120.978124"
     },
     {
       "ident": "ZSYW",
@@ -7516,14 +7514,17 @@
     },
     {
       "ident": "ZUYB",
-      "type": "small_airport",
-      "name": "Yibin Caiba Airport",
-      "elevation_ft": 924.0,
+      "type": "medium_airport",
+      "name": "Yibin Wuliangye Airport",
+      "elevation_ft": 1378.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-51",
       "municipality": "Yibin (Cuiping)",
-      "coordinates": "28.800556, 104.545"
+      "gps_code": "ZUYB",
+      "iata_code": "YBP",
+      "local_code": "YBP",
+      "coordinates": "28.858431, 104.526157"
     },
     {
       "ident": "ZUYI",
@@ -8101,13 +8102,15 @@
     },
     {
       "ident": "ZYJZ",
-      "type": "small_airport",
-      "name": "Jinzhou Xiaolingzi Air Base",
+      "type": "medium_airport",
+      "name": "Jinzhou Bay Airport",
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-21",
-      "municipality": "Jinzhou (Taihe)",
-      "coordinates": "41.101398, 121.061996"
+      "municipality": "Jinzhou (Linghai)",
+      "gps_code": "ZYJZ",
+      "iata_code": "JNZ",
+      "coordinates": "40.936032, 121.277114"
     },
     {
       "ident": "ZYLD",

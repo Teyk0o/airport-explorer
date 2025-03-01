@@ -2,7 +2,7 @@
   "country_code": "XK",
   "country_name": "Kosovo",
   "total_airports": 14,
-  "last_updated": "2025-02-28T00:08:11.624072",
+  "last_updated": "2025-03-01T00:09:11.699199",
   "types_distribution": {
     "closed": 4,
     "medium_airport": 1,
@@ -57,17 +57,6 @@
       "municipality": "Sojevë / Camp Bondsteel",
       "gps_code": "LYBS",
       "coordinates": "42.36632, 21.24234"
-    },
-    {
-      "ident": "LYDK",
-      "type": "small_airport",
-      "name": "Gjakovë Air Base",
-      "elevation_ft": 1370.0,
-      "continent": "EU",
-      "iso_country": "XK",
-      "iso_region": "XK-07",
-      "municipality": "Gjakovë",
-      "coordinates": "42.435066, 20.427768"
     },
     {
       "ident": "XK-0001",
@@ -167,6 +156,18 @@
       "iso_region": "XK-01",
       "municipality": "Dumosh",
       "coordinates": "42.849898, 21.221705"
+    },
+    {
+      "ident": "XK-0010",
+      "type": "small_airport",
+      "name": "Gjakovë Air Base",
+      "elevation_ft": 1370.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-07",
+      "municipality": "Gjakovë",
+      "local_code": "LYDK",
+      "coordinates": "42.435066, 20.427768"
     }
   ]
 }

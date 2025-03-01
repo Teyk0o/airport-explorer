@@ -2,7 +2,7 @@
   "country_code": "CL",
   "country_name": "Chile",
   "total_airports": 511,
-  "last_updated": "2025-02-28T00:08:11.807203",
+  "last_updated": "2025-03-01T00:09:11.893751",
   "types_distribution": {
     "closed": 19,
     "small_airport": 345,
@@ -167,19 +167,6 @@
       "iso_region": "CL-AT",
       "municipality": "Domeyko",
       "coordinates": "-28.96787, -70.922703"
-    },
-    {
-      "ident": "CL-0015",
-      "type": "medium_airport",
-      "name": "Nuevo Chaitén Airport",
-      "elevation_ft": 95.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-LL",
-      "municipality": "Chaitén",
-      "gps_code": "SCTN",
-      "iata_code": "WCH",
-      "coordinates": "-42.781943, -72.834999"
     },
     {
       "ident": "CL-0016",
@@ -358,6 +345,18 @@
       "iso_region": "CL-MA",
       "municipality": "San Gregorio",
       "coordinates": "-52.393909, -69.756446"
+    },
+    {
+      "ident": "CL-0032",
+      "type": "small_airport",
+      "name": "Meseta Cosmelli Airport",
+      "elevation_ft": 950.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-AI",
+      "municipality": "Puerto Guadal",
+      "local_code": "SCMC",
+      "coordinates": "-46.74606, -72.527319"
     },
     {
       "ident": "CL-SC49",
@@ -2669,17 +2668,6 @@
       "coordinates": "-43.787633, -72.950994"
     },
     {
-      "ident": "SCMC",
-      "type": "small_airport",
-      "name": "Meseta Cosmelli Airport",
-      "elevation_ft": 950.0,
-      "continent": "SA",
-      "iso_country": "CL",
-      "iso_region": "CL-AI",
-      "municipality": "Puerto Guadal",
-      "coordinates": "-46.74606, -72.527319"
-    },
-    {
       "ident": "SCME",
       "type": "small_airport",
       "name": "Los Cuatro Diablos Airport",
@@ -4192,6 +4180,19 @@
       "municipality": "Curico",
       "gps_code": "SCTM",
       "coordinates": "-34.9689, -70.9333"
+    },
+    {
+      "ident": "SCTN",
+      "type": "medium_airport",
+      "name": "Nuevo Chaitén Airport",
+      "elevation_ft": 95.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Chaitén",
+      "gps_code": "SCTN",
+      "iata_code": "WCH",
+      "coordinates": "-42.781943, -72.834999"
     },
     {
       "ident": "SCTO",

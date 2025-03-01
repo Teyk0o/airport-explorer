@@ -2,7 +2,7 @@
   "country_code": "ZA",
   "country_name": "South Africa",
   "total_airports": 652,
-  "last_updated": "2025-02-28T00:08:11.882048",
+  "last_updated": "2025-03-01T00:09:11.969750",
   "types_distribution": {
     "medium_airport": 57,
     "small_airport": 514,
@@ -98,17 +98,6 @@
       "municipality": "Aliwal North",
       "gps_code": "FAAN",
       "coordinates": "-30.681072, 26.730141"
-    },
-    {
-      "ident": "FAAP",
-      "type": "small_airport",
-      "name": "Arnot Power Station Airport",
-      "elevation_ft": 5594.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-MP",
-      "municipality": "Arnot Power Station",
-      "coordinates": "-25.941099166900003, 29.810300827"
     },
     {
       "ident": "FAAS",
@@ -512,17 +501,6 @@
       "coordinates": "-30.9886, 22.131701"
     },
     {
-      "ident": "FACO",
-      "type": "small_airport",
-      "name": "Alkantpan Copper Airport",
-      "elevation_ft": 3589.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-NC",
-      "municipality": "Cooperton",
-      "coordinates": "-29.906401, 22.3167"
-    },
-    {
       "ident": "FACR",
       "type": "small_airport",
       "name": "Carltonville Airport",
@@ -752,17 +730,6 @@
       "gps_code": "FADQ",
       "iata_code": "PZL",
       "coordinates": "-27.84939956665039, 32.30970001220703"
-    },
-    {
-      "ident": "FADR",
-      "type": "small_airport",
-      "name": "Dunnottar Airfield",
-      "elevation_ft": 5241.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-GT",
-      "municipality": "Dunnottar",
-      "coordinates": "-26.3543156175, 28.466791153"
     },
     {
       "ident": "FADS",
@@ -3169,18 +3136,6 @@
       "municipality": "Swellendam",
       "gps_code": "FASX",
       "coordinates": "-34.04819869995117, 20.474599838256836"
-    },
-    {
-      "ident": "FASY",
-      "type": "small_airport",
-      "name": "Baragwanath Aerodrome",
-      "elevation_ft": 5420.0,
-      "continent": "AF",
-      "iso_country": "ZA",
-      "iso_region": "ZA-GT",
-      "municipality": "Hiltonia",
-      "local_code": "5407",
-      "coordinates": "-26.349199, 27.7794"
     },
     {
       "ident": "FASZ",
@@ -7478,6 +7433,54 @@
       "iso_region": "ZA-NP",
       "municipality": "Potgietersus",
       "coordinates": "-24.233334, 28.983334"
+    },
+    {
+      "ident": "ZA-0338",
+      "type": "small_airport",
+      "name": "Alkantpan Copper Airport",
+      "elevation_ft": 3589.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NC",
+      "municipality": "Cooperton",
+      "local_code": "FACO",
+      "coordinates": "-29.906401, 22.3167"
+    },
+    {
+      "ident": "ZA-0339",
+      "type": "small_airport",
+      "name": "Arnot Power Station Airport",
+      "elevation_ft": 5594.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-MP",
+      "municipality": "Arnot Power Station",
+      "local_code": "FAAP",
+      "coordinates": "-25.9410991669, 29.810300827"
+    },
+    {
+      "ident": "ZA-0340",
+      "type": "small_airport",
+      "name": "Baragwanath Aerodrome",
+      "elevation_ft": 5420.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-GT",
+      "municipality": "Hiltonia",
+      "local_code": "5407",
+      "coordinates": "-26.349199, 27.7794"
+    },
+    {
+      "ident": "ZA-0341",
+      "type": "small_airport",
+      "name": "Dunnottar Airfield",
+      "elevation_ft": 5241.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-GT",
+      "municipality": "Dunnottar",
+      "local_code": "FADR",
+      "coordinates": "-26.3543156175, 28.466791153"
     },
     {
       "ident": "ZA-KIG",

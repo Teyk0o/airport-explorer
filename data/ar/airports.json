@@ -2,7 +2,7 @@
   "country_code": "AR",
   "country_name": "Argentina",
   "total_airports": 946,
-  "last_updated": "2025-02-28T00:08:11.627587",
+  "last_updated": "2025-03-01T00:09:11.702578",
   "types_distribution": {
     "small_airport": 687,
     "closed": 42,
@@ -8856,6 +8856,42 @@
       "coordinates": "-27.4657001495, -58.9790000916"
     },
     {
+      "ident": "AR-0755",
+      "type": "small_airport",
+      "name": "La Paz Airport",
+      "elevation_ft": 200.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-E",
+      "municipality": "La Paz",
+      "local_code": "LPZ",
+      "coordinates": "-30.7833, -59.6"
+    },
+    {
+      "ident": "AR-0756",
+      "type": "small_airport",
+      "name": "San Pedro Airport",
+      "elevation_ft": 88.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-B",
+      "municipality": "San Pedro",
+      "local_code": "PED",
+      "coordinates": "-33.704077, -59.725788"
+    },
+    {
+      "ident": "AR-0757",
+      "type": "small_airport",
+      "name": "Lago Viedma Airstrip",
+      "elevation_ft": 903.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-Z",
+      "municipality": "El Chaltén",
+      "local_code": "SCDV",
+      "coordinates": "-49.410757, -72.780266"
+    },
+    {
       "ident": "CSA",
       "type": "small_airport",
       "name": "Aerocampo CSA airport",
@@ -10029,18 +10065,6 @@
       "coordinates": "-35.493599, -69.574303"
     },
     {
-      "ident": "SAMP",
-      "type": "small_airport",
-      "name": "La Paz Airport",
-      "elevation_ft": 200.0,
-      "continent": "SA",
-      "iso_country": "AR",
-      "iso_region": "AR-E",
-      "municipality": "La Paz",
-      "local_code": "LPZ",
-      "coordinates": "-30.7833, -59.6"
-    },
-    {
       "ident": "SAMQ",
       "type": "small_airport",
       "name": "Mendoza Airpark",
@@ -10822,18 +10846,6 @@
       "coordinates": "-40.7512, -65.0343"
     },
     {
-      "ident": "SAVO",
-      "type": "small_airport",
-      "name": "San Pedro Airport",
-      "elevation_ft": 88.0,
-      "continent": "SA",
-      "iso_country": "AR",
-      "iso_region": "AR-B",
-      "municipality": "San Pedro",
-      "local_code": "PED",
-      "coordinates": "-33.704077, -59.725788"
-    },
-    {
       "ident": "SAVP",
       "type": "small_airport",
       "name": "Paso De Los Indios Airport",
@@ -11451,17 +11463,6 @@
       "iata_code": "CPC",
       "local_code": "CHP",
       "coordinates": "-40.075401, -71.137299"
-    },
-    {
-      "ident": "SCDV",
-      "type": "small_airport",
-      "name": "Lago Viedma Airstrip",
-      "elevation_ft": 903.0,
-      "continent": "SA",
-      "iso_country": "AR",
-      "iso_region": "AR-Z",
-      "municipality": "El Chaltén",
-      "coordinates": "-49.410757, -72.780266"
     }
   ]
 }

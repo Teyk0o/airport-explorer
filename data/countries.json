@@ -76,9 +76,9 @@
   {
     "code": "AQ",
     "name": "Antarctica",
-    "airport_count": 41,
+    "airport_count": 40,
     "types_distribution": {
-      "small_airport": 27,
+      "small_airport": 26,
       "closed": 4,
       "heliport": 5,
       "medium_airport": 5
@@ -492,9 +492,9 @@
     "name": "China",
     "airport_count": 725,
     "types_distribution": {
-      "small_airport": 244,
+      "small_airport": 243,
       "medium_airport": 274,
-      "closed": 56,
+      "closed": 57,
       "heliport": 107,
       "seaplane_base": 3,
       "balloonport": 2,
@@ -620,10 +620,10 @@
     "name": "Democratic Republic of the Congo",
     "airport_count": 306,
     "types_distribution": {
-      "small_airport": 251,
+      "small_airport": 250,
       "medium_airport": 22,
       "heliport": 1,
-      "closed": 31,
+      "closed": 32,
       "large_airport": 1
     }
   },
@@ -1214,13 +1214,13 @@
     "name": "Japan",
     "airport_count": 3738,
     "types_distribution": {
-      "medium_airport": 95,
       "seaplane_base": 6,
       "heliport": 3030,
       "closed": 419,
       "small_airport": 173,
       "balloonport": 3,
-      "large_airport": 12
+      "large_airport": 12,
+      "medium_airport": 95
     }
   },
   {
@@ -1257,9 +1257,9 @@
   {
     "code": "KE",
     "name": "Kenya",
-    "airport_count": 374,
+    "airport_count": 373,
     "types_distribution": {
-      "small_airport": 352,
+      "small_airport": 351,
       "medium_airport": 15,
       "large_airport": 2,
       "closed": 5
@@ -1444,8 +1444,8 @@
     "airport_count": 30,
     "types_distribution": {
       "small_airport": 22,
-      "medium_airport": 6,
-      "closed": 2
+      "medium_airport": 5,
+      "closed": 3
     }
   },
   {
@@ -1892,10 +1892,10 @@
     "airport_count": 797,
     "types_distribution": {
       "small_airport": 196,
-      "medium_airport": 54,
       "heliport": 400,
       "closed": 137,
       "seaplane_base": 6,
+      "medium_airport": 54,
       "balloonport": 1,
       "large_airport": 3
     }
@@ -2390,9 +2390,9 @@
   {
     "code": "TZ",
     "name": "Tanzania",
-    "airport_count": 211,
+    "airport_count": 210,
     "types_distribution": {
-      "small_airport": 195,
+      "small_airport": 194,
       "medium_airport": 10,
       "large_airport": 2,
       "closed": 4
@@ -2431,9 +2431,9 @@
   {
     "code": "TT",
     "name": "Trinidad and Tobago",
-    "airport_count": 4,
+    "airport_count": 3,
     "types_distribution": {
-      "small_airport": 2,
+      "small_airport": 1,
       "medium_airport": 2
     }
   },
@@ -2454,8 +2454,8 @@
     "airport_count": 386,
     "types_distribution": {
       "small_airport": 52,
-      "large_airport": 9,
-      "medium_airport": 55,
+      "large_airport": 8,
+      "medium_airport": 56,
       "heliport": 240,
       "closed": 28,
       "balloonport": 1,
@@ -2636,13 +2636,13 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 95,
+    "airport_count": 94,
     "types_distribution": {
       "small_airport": 16,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,
-      "medium_airport": 23,
+      "medium_airport": 22,
       "large_airport": 2
     }
   },

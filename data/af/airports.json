@@ -2,7 +2,7 @@
   "country_code": "AF",
   "country_name": "Afghanistan",
   "total_airports": 79,
-  "last_updated": "2025-02-28T00:08:11.597195",
+  "last_updated": "2025-03-01T00:09:11.671938",
   "types_distribution": {
     "small_airport": 59,
     "closed": 3,
@@ -191,6 +191,101 @@
       "coordinates": "33.159585, 68.821332"
     },
     {
+      "ident": "AF-0019",
+      "type": "heliport",
+      "name": "Toorghodi Heliport",
+      "elevation_ft": 2600.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-HER",
+      "municipality": "Kara Tapa",
+      "local_code": "OATD",
+      "coordinates": "35.222198486328, 62.290599822998"
+    },
+    {
+      "ident": "AF-0020",
+      "type": "small_airport",
+      "name": "Andkhoy Airport",
+      "elevation_ft": 900.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-FYB",
+      "municipality": "Andkhoy",
+      "local_code": "OAAK",
+      "coordinates": "36.942659, 65.206746"
+    },
+    {
+      "ident": "AF-0021",
+      "type": "small_airport",
+      "name": "Logar Airport",
+      "elevation_ft": 6333.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-LOW",
+      "local_code": "OALG",
+      "coordinates": "33.986499786377, 69.023101806641"
+    },
+    {
+      "ident": "AF-0022",
+      "type": "small_airport",
+      "name": "Lal (Sarjangal) Airport",
+      "elevation_ft": 9220.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-GHO",
+      "municipality": "Lal",
+      "local_code": "OALL",
+      "coordinates": "34.506716, 66.298068"
+    },
+    {
+      "ident": "AF-0023",
+      "type": "small_airport",
+      "name": "Muqur Airport",
+      "elevation_ft": 6600.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-GHA",
+      "municipality": "Muqur",
+      "local_code": "OAMK",
+      "coordinates": "32.879601, 67.848602"
+    },
+    {
+      "ident": "AF-0024",
+      "type": "small_airport",
+      "name": "Panjab Airport",
+      "elevation_ft": 8800.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-BAM",
+      "municipality": "Panjab",
+      "local_code": "OAPJ",
+      "coordinates": "34.391726, 67.020445"
+    },
+    {
+      "ident": "AF-0025",
+      "type": "small_airport",
+      "name": "Taywarah Airport",
+      "elevation_ft": 7370.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-GHO",
+      "municipality": "Taywarah",
+      "local_code": "OATW",
+      "coordinates": "33.54309, 64.42542"
+    },
+    {
+      "ident": "AF-0026",
+      "type": "small_airport",
+      "name": "Yakawlang (Yakolang) Airport",
+      "elevation_ft": 8700.0,
+      "continent": "AS",
+      "iso_country": "AF",
+      "iso_region": "AF-GHO",
+      "municipality": "Yakawlang",
+      "local_code": "OAYL",
+      "coordinates": "34.513302, 66.303101"
+    },
+    {
       "ident": "AF04",
       "type": "small_airport",
       "name": "Helmand Airport",
@@ -288,17 +383,6 @@
       "iso_region": "AF-PKA",
       "municipality": "Gomal",
       "coordinates": "32.336899, 68.940598"
-    },
-    {
-      "ident": "OAAK",
-      "type": "small_airport",
-      "name": "Andkhoy Airport",
-      "elevation_ft": 900.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-FYB",
-      "municipality": "Andkhoy",
-      "coordinates": "36.942659, 65.206746"
     },
     {
       "ident": "OABN",
@@ -557,27 +641,6 @@
       "coordinates": "33.284605, 69.80734"
     },
     {
-      "ident": "OALG",
-      "type": "small_airport",
-      "name": "Logar Airport",
-      "elevation_ft": 6333.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-LOW",
-      "coordinates": "33.98649978637695, 69.02310180664062"
-    },
-    {
-      "ident": "OALL",
-      "type": "small_airport",
-      "name": "Lal (Sarjangal) Airport",
-      "elevation_ft": 9220.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-GHO",
-      "municipality": "Lal",
-      "coordinates": "34.506716, 66.298068"
-    },
-    {
       "ident": "OALP",
       "type": "small_airport",
       "name": "Little Pamir Airport",
@@ -588,17 +651,6 @@
       "municipality": "Erghail",
       "gps_code": "OALP",
       "coordinates": "37.244444, 74.251944"
-    },
-    {
-      "ident": "OAMK",
-      "type": "small_airport",
-      "name": "Muqur Airport",
-      "elevation_ft": 6600.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-GHA",
-      "municipality": "Muqur",
-      "coordinates": "32.879601, 67.848602"
     },
     {
       "ident": "OAMN",
@@ -660,17 +712,6 @@
       "gps_code": "OAOG",
       "iata_code": "URN",
       "coordinates": "32.939933, 69.150064"
-    },
-    {
-      "ident": "OAPJ",
-      "type": "small_airport",
-      "name": "Panjab Airport",
-      "elevation_ft": 8800.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-BAM",
-      "municipality": "Panjab",
-      "coordinates": "34.391726, 67.020445"
     },
     {
       "ident": "OAQA",
@@ -824,17 +865,6 @@
       "coordinates": "37.497642, 71.508484"
     },
     {
-      "ident": "OATD",
-      "type": "heliport",
-      "name": "Toorghodi Heliport",
-      "elevation_ft": 2600.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-HER",
-      "municipality": "Kara Tapa",
-      "coordinates": "35.222198486328125, 62.29059982299805"
-    },
-    {
       "ident": "OATN",
       "type": "small_airport",
       "name": "Tarinkot Airport",
@@ -861,17 +891,6 @@
       "coordinates": "36.770699, 69.531998"
     },
     {
-      "ident": "OATW",
-      "type": "small_airport",
-      "name": "Taywarah Airport",
-      "elevation_ft": 7370.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-GHO",
-      "municipality": "Taywarah",
-      "coordinates": "33.54309, 64.42542"
-    },
-    {
       "ident": "OAUZ",
       "type": "medium_airport",
       "name": "Kunduz Airport",
@@ -883,17 +902,6 @@
       "gps_code": "OAUZ",
       "iata_code": "UND",
       "coordinates": "36.6651, 68.910797"
-    },
-    {
-      "ident": "OAYL",
-      "type": "small_airport",
-      "name": "Yakawlang (Yakolang) Airport",
-      "elevation_ft": 8700.0,
-      "continent": "AS",
-      "iso_country": "AF",
-      "iso_region": "AF-GHO",
-      "municipality": "Yakawlang",
-      "coordinates": "34.513302, 66.303101"
     },
     {
       "ident": "OAYQ",

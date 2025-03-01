@@ -1,10 +1,10 @@
 {
   "country_code": "AQ",
   "country_name": "Antarctica",
-  "total_airports": 41,
-  "last_updated": "2025-02-28T00:08:11.559617",
+  "total_airports": 40,
+  "last_updated": "2025-03-01T00:09:11.640664",
   "types_distribution": {
-    "small_airport": 27,
+    "small_airport": 26,
     "closed": 4,
     "heliport": 5,
     "medium_airport": 5
@@ -66,15 +66,6 @@
       "iso_region": "AQ-U-A",
       "municipality": "Ellsworth Station",
       "coordinates": "-77.650008, -41.0333"
-    },
-    {
-      "ident": "AQ-0005",
-      "type": "small_airport",
-      "name": "Navaid",
-      "continent": "AN",
-      "iso_country": "AQ",
-      "iso_region": "AQ-U-A",
-      "coordinates": "-89.998, 139.273"
     },
     {
       "ident": "AQ-0006",
@@ -435,7 +426,7 @@
       "continent": "AN",
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
-      "municipality": "Union Glacier Camp",
+      "municipality": "Union Glacier",
       "gps_code": "SCGC",
       "iata_code": "UGL",
       "coordinates": "-79.777778, -83.320833"

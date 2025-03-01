@@ -2,7 +2,7 @@
   "country_code": "HR",
   "country_name": "Croatia",
   "total_airports": 70,
-  "last_updated": "2025-02-28T00:08:11.923671",
+  "last_updated": "2025-03-01T00:09:12.011217",
   "types_distribution": {
     "small_airport": 37,
     "closed": 18,
@@ -414,6 +414,18 @@
       "coordinates": "42.923159, 17.17049"
     },
     {
+      "ident": "HR-0039",
+      "type": "heliport",
+      "name": "Firule Heliport",
+      "elevation_ft": 77.0,
+      "continent": "EU",
+      "iso_country": "HR",
+      "iso_region": "HR-17",
+      "municipality": "Split",
+      "local_code": "LDSF",
+      "coordinates": "43.502799, 16.462942"
+    },
+    {
       "ident": "LDDU",
       "type": "medium_airport",
       "name": "Dubrovnik Ruđer Bošković Airport",
@@ -598,17 +610,6 @@
       "gps_code": "LDSB",
       "iata_code": "BWK",
       "coordinates": "43.284454, 16.678362"
-    },
-    {
-      "ident": "LDSF",
-      "type": "heliport",
-      "name": "Firule Heliport",
-      "elevation_ft": 77.0,
-      "continent": "EU",
-      "iso_country": "HR",
-      "iso_region": "HR-17",
-      "municipality": "Split",
-      "coordinates": "43.502799, 16.462942"
     },
     {
       "ident": "LDSH",

@@ -2,7 +2,7 @@
   "country_code": "NL",
   "country_name": "Netherlands",
   "total_airports": 274,
-  "last_updated": "2025-02-28T00:08:11.863086",
+  "last_updated": "2025-03-01T00:09:11.950761",
   "types_distribution": {
     "heliport": 194,
     "small_airport": 28,
@@ -879,17 +879,6 @@
       "coordinates": "53.4911, 5.9413"
     },
     {
-      "ident": "EHMC",
-      "type": "heliport",
-      "name": "Air Operations Control Station Nieuw Milligen Heliport",
-      "elevation_ft": 171.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-GE",
-      "municipality": "Uddel",
-      "coordinates": "52.236685, 5.749192"
-    },
-    {
       "ident": "EHMF",
       "type": "heliport",
       "name": "L5-C Heliport",
@@ -931,17 +920,6 @@
       "municipality": "Middelburg",
       "gps_code": "EHMZ",
       "coordinates": "51.512199, 3.73111"
-    },
-    {
-      "ident": "EHND",
-      "type": "small_airport",
-      "name": "Vliegveld Numansdorp",
-      "elevation_ft": 3.0,
-      "continent": "EU",
-      "iso_country": "NL",
-      "iso_region": "NL-ZH",
-      "municipality": "Numansdorp",
-      "coordinates": "51.753056, 4.455278"
     },
     {
       "ident": "EHOW",
@@ -2878,6 +2856,30 @@
       "iso_country": "NL",
       "iso_region": "NL-FL",
       "coordinates": "52.73071, 5.746676"
+    },
+    {
+      "ident": "NL-0148",
+      "type": "heliport",
+      "name": "Air Operations Control Station Nieuw Milligen Heliport",
+      "elevation_ft": 171.0,
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-GE",
+      "municipality": "Uddel",
+      "local_code": "EHMC",
+      "coordinates": "52.236685, 5.749192"
+    },
+    {
+      "ident": "NL-0149",
+      "type": "small_airport",
+      "name": "Vliegveld Numansdorp",
+      "elevation_ft": 3.0,
+      "continent": "EU",
+      "iso_country": "NL",
+      "iso_region": "NL-ZH",
+      "municipality": "Numansdorp",
+      "local_code": "EHND",
+      "coordinates": "51.753056, 4.455278"
     }
   ]
 }

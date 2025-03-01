@@ -2,7 +2,7 @@
   "country_code": "AU",
   "country_name": "Australia",
   "total_airports": 2683,
-  "last_updated": "2025-02-28T00:08:11.600017",
+  "last_updated": "2025-03-01T00:09:11.674661",
   "types_distribution": {
     "small_airport": 2021,
     "closed": 82,
@@ -7477,6 +7477,89 @@
       "coordinates": "-12.133333, 125.016667"
     },
     {
+      "ident": "AU-0702",
+      "type": "small_airport",
+      "name": "Bulloo Downs Station Airport",
+      "elevation_ft": 1899.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "local_code": "YBUO",
+      "coordinates": "-24.013905, 119.555805"
+    },
+    {
+      "ident": "AU-0703",
+      "type": "small_airport",
+      "name": "Navarra Airport",
+      "elevation_ft": 670.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Isisford",
+      "local_code": "YNVRA",
+      "coordinates": "-24.854178, 143.669538"
+    },
+    {
+      "ident": "AU-0704",
+      "type": "heliport",
+      "name": "Batemans Bay Helipad",
+      "elevation_ft": 3.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Batemans Bay",
+      "local_code": "YXBM",
+      "coordinates": "-35.71301, 150.1872"
+    },
+    {
+      "ident": "AU-0705",
+      "type": "heliport",
+      "name": "Copmanhurst Oval Helipad",
+      "elevation_ft": 63.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Copmanhurst",
+      "local_code": "OZHIF",
+      "coordinates": "-29.5892, 152.77316"
+    },
+    {
+      "ident": "AU-0706",
+      "type": "heliport",
+      "name": "Drake Oval Helicopter Landing Site",
+      "elevation_ft": 1604.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Drake",
+      "local_code": "OZHIG",
+      "coordinates": "-28.9257, 152.3762"
+    },
+    {
+      "ident": "AU-0707",
+      "type": "heliport",
+      "name": "Bulahdelah Helicopter Landing Site",
+      "elevation_ft": 13.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Bulahdelah",
+      "local_code": "YXUH",
+      "coordinates": "-32.4, 152.2"
+    },
+    {
+      "ident": "AU-0708",
+      "type": "small_airport",
+      "name": "Manna Hill Airport",
+      "elevation_ft": 1194.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Mannahill",
+      "local_code": "YKOA",
+      "coordinates": "-32.427842, 140.006164"
+    },
+    {
       "ident": "AU-AGW",
       "type": "small_airport",
       "name": "Agnew Airport",
@@ -10845,16 +10928,6 @@
       "coordinates": "-33.3783, 115.677002"
     },
     {
-      "ident": "YBUO",
-      "type": "small_airport",
-      "name": "Bulloo Downs Station Airport",
-      "elevation_ft": 1899.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-WA",
-      "coordinates": "-24.013905, 119.555805"
-    },
-    {
       "ident": "YBUP",
       "type": "small_airport",
       "name": "Bunyip Airport",
@@ -12306,18 +12379,6 @@
       "coordinates": "-12.903300285339355, 132.53199768066406"
     },
     {
-      "ident": "YCOP",
-      "type": "heliport",
-      "name": "Copmanhurst Oval Helipad",
-      "elevation_ft": 63.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Copmanhurst",
-      "local_code": "OZHIF",
-      "coordinates": "-29.5892, 152.77316"
-    },
-    {
       "ident": "YCOR",
       "type": "medium_airport",
       "name": "Corowa Airport",
@@ -13239,18 +13300,6 @@
       "gps_code": "YDIX",
       "iata_code": "DXD",
       "coordinates": "-15.1174944348, 143.316049576"
-    },
-    {
-      "ident": "YDKE",
-      "type": "heliport",
-      "name": "Drake Oval Helicopter Landing Site",
-      "elevation_ft": 1604.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Drake",
-      "local_code": "OZHIG",
-      "coordinates": "-28.9257, 152.3762"
     },
     {
       "ident": "YDKI",
@@ -17613,17 +17662,6 @@
       "coordinates": "-36.340918, 141.267964"
     },
     {
-      "ident": "YKOA",
-      "type": "small_airport",
-      "name": "Manna Hill Airport",
-      "elevation_ft": 1194.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-SA",
-      "municipality": "Mannahill",
-      "coordinates": "-32.427842, 140.006164"
-    },
-    {
       "ident": "YKOG",
       "type": "small_airport",
       "name": "Koongarra Airport",
@@ -21753,18 +21791,6 @@
       "coordinates": "-35.78329849243164, 143.6999969482422"
     },
     {
-      "ident": "YNVR",
-      "type": "small_airport",
-      "name": "Navarra Airport",
-      "elevation_ft": 670.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-QLD",
-      "municipality": "Isisford",
-      "local_code": "YNVRA",
-      "coordinates": "-24.854178, 143.669538"
-    },
-    {
       "ident": "YNWL",
       "type": "small_airport",
       "name": "North Well Airport",
@@ -24761,7 +24787,7 @@
       "iso_region": "AU-TAS",
       "gps_code": "YSRN",
       "iata_code": "SRN",
-      "coordinates": "-42.154998779296875, 145.29200744628906"
+      "coordinates": "-42.154999, 145.292007"
     },
     {
       "ident": "YSRT",
@@ -27867,17 +27893,6 @@
       "coordinates": "-25.506941, 152.050651"
     },
     {
-      "ident": "YXBM",
-      "type": "heliport",
-      "name": "Batemans Bay Helipad",
-      "elevation_ft": 3.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Batemans Bay",
-      "coordinates": "-35.71301, 150.1872"
-    },
-    {
       "ident": "YXBS",
       "type": "heliport",
       "name": "Beaudesert Hospital Helipad",
@@ -29473,17 +29488,6 @@
       "municipality": "Texas",
       "gps_code": "YXTX",
       "coordinates": "-28.855368, 151.178945"
-    },
-    {
-      "ident": "YXUH",
-      "type": "heliport",
-      "name": "Bulahdelah Helicopter Landing Site",
-      "elevation_ft": 13.0,
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-NSW",
-      "municipality": "Bulahdelah",
-      "coordinates": "-32.4, 152.2"
     },
     {
       "ident": "YXUS",

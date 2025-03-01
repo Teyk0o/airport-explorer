@@ -2,7 +2,7 @@
   "country_code": "IT",
   "country_name": "Italy",
   "total_airports": 942,
-  "last_updated": "2025-02-28T00:08:11.969622",
+  "last_updated": "2025-03-01T00:09:12.028771",
   "types_distribution": {
     "small_airport": 581,
     "closed": 119,
@@ -9034,6 +9034,18 @@
       "coordinates": "42.0844444, 12.2183333"
     },
     {
+      "ident": "IT-0808",
+      "type": "small_airport",
+      "name": "Aviosuperficie Airone",
+      "elevation_ft": 82.0,
+      "continent": "EU",
+      "iso_country": "IT",
+      "iso_region": "IT-82",
+      "municipality": "Gela",
+      "local_code": "LICL",
+      "coordinates": "37.113977, 14.214206"
+    },
+    {
       "ident": "IT-TQR",
       "type": "heliport",
       "name": "San Domino Island Heliport",
@@ -9376,17 +9388,6 @@
       "iata_code": "PMO",
       "local_code": "PA03",
       "coordinates": "38.175999, 13.091"
-    },
-    {
-      "ident": "LICL",
-      "type": "small_airport",
-      "name": "Aviosuperficie Airone",
-      "elevation_ft": 82.0,
-      "continent": "EU",
-      "iso_country": "IT",
-      "iso_region": "IT-82",
-      "municipality": "Gela",
-      "coordinates": "37.113977, 14.214206"
     },
     {
       "ident": "LICP",

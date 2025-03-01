@@ -1,10 +1,10 @@
 {
   "country_code": "TZ",
   "country_name": "Tanzania",
-  "total_airports": 211,
-  "last_updated": "2025-02-28T00:08:11.926905",
+  "total_airports": 210,
+  "last_updated": "2025-03-01T00:09:12.014477",
   "types_distribution": {
-    "small_airport": 195,
+    "small_airport": 194,
     "medium_airport": 10,
     "large_airport": 2,
     "closed": 4
@@ -2383,18 +2383,6 @@
       "gps_code": "HTRU",
       "iata_code": "GIT",
       "coordinates": "-2.813667, 32.172472"
-    },
-    {
-      "ident": "TZ-LUY",
-      "type": "small_airport",
-      "name": "Lushoto Airport",
-      "elevation_ft": 5360.0,
-      "continent": "AF",
-      "iso_country": "TZ",
-      "iso_region": "TZ-25",
-      "municipality": "Lushoto",
-      "iata_code": "LUY",
-      "coordinates": "-4.783259868621826, 38.30419921875"
     }
   ]
 }

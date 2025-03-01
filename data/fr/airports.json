@@ -2,7 +2,7 @@
   "country_code": "FR",
   "country_name": "France",
   "total_airports": 1709,
-  "last_updated": "2025-02-28T00:08:11.893240",
+  "last_updated": "2025-03-01T00:09:11.980808",
   "types_distribution": {
     "heliport": 394,
     "small_airport": 1052,
@@ -14162,6 +14162,66 @@
       "coordinates": "43.279701, 2.20885"
     },
     {
+      "ident": "FR-1273",
+      "type": "small_airport",
+      "name": "Bruyères de Vouzon Airfield",
+      "elevation_ft": 413.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-CVL",
+      "municipality": "Vouzon, Loir-et-Cher",
+      "local_code": "LF4131",
+      "coordinates": "47.655403, 1.988088"
+    },
+    {
+      "ident": "FR-1274",
+      "type": "small_airport",
+      "name": "Saint-Claude Pratz Airfield",
+      "elevation_ft": 2051.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-BFC",
+      "municipality": "Lavans-lès-Saint-Claude, Jura",
+      "local_code": "LF3923",
+      "coordinates": "46.384722, 5.770278"
+    },
+    {
+      "ident": "FR-1275",
+      "type": "small_airport",
+      "name": "Saint-Étienne-en-Dévoluy AltiSurface",
+      "elevation_ft": 6201.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-PAC",
+      "municipality": "Dévoluy",
+      "local_code": "LF0538",
+      "coordinates": "44.667877, 5.904735"
+    },
+    {
+      "ident": "FR-1276",
+      "type": "small_airport",
+      "name": "Marville Montmédy Airfield",
+      "elevation_ft": 909.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-GES",
+      "municipality": "Marville, Meuse",
+      "local_code": "LF5526",
+      "coordinates": "49.456944, 5.411389"
+    },
+    {
+      "ident": "FR-1277",
+      "type": "small_airport",
+      "name": "Condat sur Vézère",
+      "elevation_ft": 499.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-NAQ",
+      "municipality": "Condat sur Vézère",
+      "local_code": "LF2423",
+      "coordinates": "45.103885, 1.215121"
+    },
+    {
       "ident": "FR-JCA",
       "type": "heliport",
       "name": "Cannes Croisette Heliport",
@@ -15321,18 +15381,6 @@
       "coordinates": "44.876049, -0.480416"
     },
     {
-      "ident": "LFDZ",
-      "type": "small_airport",
-      "name": "Condat sur Vézère",
-      "elevation_ft": 499.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-NAQ",
-      "municipality": "Condat sur Vézère",
-      "local_code": "LF2423",
-      "coordinates": "45.103885, 1.215121"
-    },
-    {
       "ident": "LFEA",
       "type": "small_airport",
       "name": "Aérodrome de Belle Île",
@@ -15738,18 +15786,6 @@
       "iso_region": "FR-CVL",
       "gps_code": "LFFL",
       "coordinates": "48.5158, 1.64"
-    },
-    {
-      "ident": "LFFM",
-      "type": "small_airport",
-      "name": "Bruyères de Vouzon Airfield",
-      "elevation_ft": 413.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-CVL",
-      "municipality": "Vouzon, Loir-et-Cher",
-      "local_code": "LF4131",
-      "coordinates": "47.655403, 1.988088"
     },
     {
       "ident": "LFFN",
@@ -17015,18 +17051,6 @@
       "coordinates": "45.694121, 5.691533"
     },
     {
-      "ident": "LFKZ",
-      "type": "small_airport",
-      "name": "Saint-Claude Pratz Airfield",
-      "elevation_ft": 2051.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-BFC",
-      "municipality": "Lavans-lès-Saint-Claude, Jura",
-      "local_code": "LF3923",
-      "coordinates": "46.384722, 5.770278"
-    },
-    {
       "ident": "LFLA",
       "type": "medium_airport",
       "name": "Auxerre-Branches Airport",
@@ -17826,18 +17850,6 @@
       "iso_region": "FR-OCC",
       "gps_code": "LFNX",
       "coordinates": "43.6408, 3.14556"
-    },
-    {
-      "ident": "LFNY",
-      "type": "small_airport",
-      "name": "Saint-Étienne-en-Dévoluy AltiSurface",
-      "elevation_ft": 6201.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-PAC",
-      "municipality": "Dévoluy",
-      "local_code": "LF0538",
-      "coordinates": "44.667877, 5.904735"
     },
     {
       "ident": "LFNZ",
@@ -19427,18 +19439,6 @@
       "municipality": "Niergnies, Nord",
       "gps_code": "LFYG",
       "coordinates": "50.140533, 3.263226"
-    },
-    {
-      "ident": "LFYK",
-      "type": "small_airport",
-      "name": "Marville Montmédy Airfield",
-      "elevation_ft": 909.0,
-      "continent": "EU",
-      "iso_country": "FR",
-      "iso_region": "FR-GES",
-      "municipality": "Marville, Meuse",
-      "local_code": "LF5526",
-      "coordinates": "49.456944, 5.411389"
     },
     {
       "ident": "LFYR",

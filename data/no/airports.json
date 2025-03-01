@@ -2,7 +2,7 @@
   "country_code": "NO",
   "country_name": "Norway",
   "total_airports": 299,
-  "last_updated": "2025-02-28T00:08:11.868040",
+  "last_updated": "2025-03-01T00:09:11.955724",
   "types_distribution": {
     "small_airport": 103,
     "heliport": 113,
@@ -1346,17 +1346,6 @@
       "gps_code": "ENRY",
       "iata_code": "RYG",
       "coordinates": "59.378817, 10.785439"
-    },
-    {
-      "ident": "ENSA",
-      "type": "small_airport",
-      "name": "Svea Airport",
-      "elevation_ft": 32.0,
-      "continent": "EU",
-      "iso_country": "NO",
-      "iso_region": "NO-21",
-      "municipality": "Svea",
-      "coordinates": "77.896944, 16.725"
     },
     {
       "ident": "ENSB",
@@ -3331,6 +3320,18 @@
       "iso_region": "NO-18",
       "municipality": "Værøy",
       "coordinates": "67.68920135498, 12.680000305176"
+    },
+    {
+      "ident": "NO-0127",
+      "type": "small_airport",
+      "name": "Svea Airport",
+      "elevation_ft": 32.0,
+      "continent": "EU",
+      "iso_country": "NO",
+      "iso_region": "NO-21",
+      "municipality": "Svea",
+      "local_code": "ENSA",
+      "coordinates": "77.896944, 16.725"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "HN",
   "country_name": "Honduras",
   "total_airports": 159,
-  "last_updated": "2025-02-28T00:08:11.921133",
+  "last_updated": "2025-03-01T00:09:12.008708",
   "types_distribution": {
     "small_airport": 121,
     "closed": 24,
@@ -302,6 +302,17 @@
       "coordinates": "16.008354, -85.968149"
     },
     {
+      "ident": "HN-0030",
+      "type": "small_airport",
+      "name": "Concepción Airport",
+      "elevation_ft": 560.0,
+      "iso_country": "HN",
+      "iso_region": "HN-IN",
+      "municipality": "Concepción",
+      "local_code": "MHCC",
+      "coordinates": "14.0266666412, -88.3441696167"
+    },
+    {
       "ident": "HN-MOP",
       "type": "small_airport",
       "name": "Los Pollos Airport",
@@ -530,16 +541,6 @@
       "municipality": "Cocobila",
       "gps_code": "MHCB",
       "coordinates": "15.888333320617676, -84.75555419921875"
-    },
-    {
-      "ident": "MHCC",
-      "type": "small_airport",
-      "name": "Concepción Airport",
-      "elevation_ft": 560.0,
-      "iso_country": "HN",
-      "iso_region": "HN-IN",
-      "municipality": "Concepción",
-      "coordinates": "14.026666641199999, -88.3441696167"
     },
     {
       "ident": "MHCI",

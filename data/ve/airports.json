@@ -2,7 +2,7 @@
   "country_code": "VE",
   "country_name": "Venezuela",
   "total_airports": 604,
-  "last_updated": "2025-02-28T00:08:12.023488",
+  "last_updated": "2025-03-01T00:09:12.111496",
   "types_distribution": {
     "small_airport": 456,
     "medium_airport": 46,
@@ -345,16 +345,6 @@
       "coordinates": "9.666666984558105, -72.58333587646484"
     },
     {
-      "ident": "SVBF",
-      "type": "small_airport",
-      "name": "Hato Urañon Airport",
-      "elevation_ft": 410.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-C",
-      "coordinates": "6.99328, -67.19261"
-    },
-    {
       "ident": "SVBG",
       "type": "small_airport",
       "name": "La Batalla Airport",
@@ -475,13 +465,12 @@
       "type": "medium_airport",
       "name": "Escuela Mariscal Sucre Airport",
       "elevation_ft": 1338.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-D",
       "municipality": "Maracay",
       "gps_code": "SVBS",
       "iata_code": "MYC",
-      "coordinates": "10.249978065490723, -67.64942169189453"
+      "coordinates": "10.249978, -67.649422"
     },
     {
       "ident": "SVBT",
@@ -1488,7 +1477,6 @@
       "type": "small_airport",
       "name": "Higuerote Airport",
       "elevation_ft": 12.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "Higuerote",
@@ -2146,7 +2134,6 @@
       "type": "medium_airport",
       "name": "Alberto Carnevalli Airport",
       "elevation_ft": 5007.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-L",
       "municipality": "Mérida",
@@ -2759,13 +2746,12 @@
       "type": "medium_airport",
       "name": "Cacique Aramare Airport",
       "elevation_ft": 245.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "municipality": "Puerto Ayacucho",
       "gps_code": "SVPA",
       "iata_code": "PYH",
-      "coordinates": "5.6199898719788, -67.606101989746"
+      "coordinates": "5.61999, -67.606102"
     },
     {
       "ident": "SVPB",
@@ -3168,16 +3154,6 @@
       "iso_region": "VE-B",
       "gps_code": "SVQQ",
       "coordinates": "9.850000381469727, -65.31666564941406"
-    },
-    {
-      "ident": "SVQR",
-      "type": "small_airport",
-      "name": "Santa Rita Airport",
-      "elevation_ft": 367.0,
-      "iso_country": "VE",
-      "iso_region": "VE-C",
-      "municipality": "El Diero",
-      "coordinates": "7.516667, -68.683334"
     },
     {
       "ident": "SVQS",
@@ -6693,6 +6669,28 @@
       "iso_region": "VE-V",
       "municipality": "Cabimas",
       "coordinates": "10.370879, -71.412098"
+    },
+    {
+      "ident": "VE-0231",
+      "type": "small_airport",
+      "name": "Hato Urañon Airport",
+      "elevation_ft": 410.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-C",
+      "local_code": "SVBF",
+      "coordinates": "6.99328, -67.19261"
+    },
+    {
+      "ident": "VE-0232",
+      "type": "small_airport",
+      "name": "Santa Rita Airport",
+      "elevation_ft": 367.0,
+      "iso_country": "VE",
+      "iso_region": "VE-C",
+      "municipality": "El Diero",
+      "local_code": "SVQR",
+      "coordinates": "7.516667, -68.683334"
     }
   ]
 }

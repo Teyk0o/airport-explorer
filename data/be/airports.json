@@ -2,7 +2,7 @@
   "country_code": "BE",
   "country_name": "Belgium",
   "total_airports": 201,
-  "last_updated": "2025-02-28T00:08:11.646161",
+  "last_updated": "2025-03-01T00:09:11.721570",
   "types_distribution": {
     "closed": 40,
     "heliport": 111,
@@ -808,6 +808,30 @@
       "coordinates": "51.007703, 3.045058"
     },
     {
+      "ident": "BE-0074",
+      "type": "heliport",
+      "name": "Liège  heliport",
+      "elevation_ft": 160.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-WLG",
+      "municipality": "Liège",
+      "local_code": "EBLO",
+      "coordinates": "50.630727, 5.571717"
+    },
+    {
+      "ident": "BE-0075",
+      "type": "heliport",
+      "name": "Aalst Hospital Helistrip",
+      "elevation_ft": 141.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Aalst",
+      "local_code": "EBAL",
+      "coordinates": "50.943087, 4.055763"
+    },
+    {
       "ident": "EBAG",
       "type": "heliport",
       "name": "Grâce-Hollogne Agusta Heliport",
@@ -818,17 +842,6 @@
       "municipality": "Grâce-Hollogne",
       "gps_code": "EBAG",
       "coordinates": "50.640081, 5.457585"
-    },
-    {
-      "ident": "EBAL",
-      "type": "heliport",
-      "name": "Aalst Hospital Helistrip",
-      "elevation_ft": 141.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-VOV",
-      "municipality": "Aalst",
-      "coordinates": "50.943087, 4.055763"
     },
     {
       "ident": "EBAM",
@@ -1551,17 +1564,6 @@
       "municipality": "Meulebeke",
       "gps_code": "EBLM",
       "coordinates": "50.931667, 3.293889"
-    },
-    {
-      "ident": "EBLO",
-      "type": "heliport",
-      "name": "Liège  heliport",
-      "elevation_ft": 160.0,
-      "continent": "EU",
-      "iso_country": "BE",
-      "iso_region": "BE-WLG",
-      "municipality": "Liège",
-      "coordinates": "50.630727, 5.571717"
     },
     {
       "ident": "EBLR",

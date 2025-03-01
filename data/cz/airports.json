@@ -2,7 +2,7 @@
   "country_code": "CZ",
   "country_name": "Czech Republic",
   "total_airports": 384,
-  "last_updated": "2025-02-28T00:08:11.816244",
+  "last_updated": "2025-03-01T00:09:11.902998",
   "types_distribution": {
     "heliport": 107,
     "closed": 25,
@@ -3001,6 +3001,30 @@
       "coordinates": "49.431173, 13.797095"
     },
     {
+      "ident": "CZ-0273",
+      "type": "small_airport",
+      "name": "Hradčany Airfield",
+      "elevation_ft": 912.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-LI",
+      "municipality": "Kuřívody",
+      "local_code": "LKHRAD",
+      "coordinates": "50.619247, 14.732753"
+    },
+    {
+      "ident": "CZ-0274",
+      "type": "small_airport",
+      "name": "Zlín Štípa Airfield",
+      "elevation_ft": 1086.0,
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-ZL",
+      "municipality": "Zlín",
+      "local_code": "LKSTIP",
+      "coordinates": "49.272778, 17.746389"
+    },
+    {
       "ident": "LKBA",
       "type": "small_airport",
       "name": "Břeclav Airfield",
@@ -3296,18 +3320,6 @@
       "municipality": "Hranice",
       "gps_code": "LKHN",
       "coordinates": "49.5461, 17.704399"
-    },
-    {
-      "ident": "LKHR",
-      "type": "small_airport",
-      "name": "Hradčany Airfield",
-      "elevation_ft": 912.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-LI",
-      "municipality": "Kuřívody",
-      "local_code": "LKHRAD",
-      "coordinates": "50.619247, 14.732753"
     },
     {
       "ident": "LKHS",
@@ -4040,18 +4052,6 @@
       "municipality": "Soběslav",
       "gps_code": "LKSO",
       "coordinates": "49.2455, 14.712993"
-    },
-    {
-      "ident": "LKSP",
-      "type": "small_airport",
-      "name": "Zlín Štípa Airfield",
-      "elevation_ft": 1086.0,
-      "continent": "EU",
-      "iso_country": "CZ",
-      "iso_region": "CZ-ZL",
-      "municipality": "Zlín",
-      "local_code": "LKSTIP",
-      "coordinates": "49.272778, 17.746389"
     },
     {
       "ident": "LKSR",

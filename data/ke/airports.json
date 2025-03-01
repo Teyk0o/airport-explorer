@@ -1,10 +1,10 @@
 {
   "country_code": "KE",
   "country_name": "Kenya",
-  "total_airports": 374,
-  "last_updated": "2025-02-28T00:08:11.689112",
+  "total_airports": 373,
+  "last_updated": "2025-03-01T00:09:11.764982",
   "types_distribution": {
-    "small_airport": 352,
+    "small_airport": 351,
     "medium_airport": 15,
     "large_airport": 2,
     "closed": 5
@@ -37,17 +37,6 @@
       "coordinates": "-2.645050048828125, 37.25310134887695"
     },
     {
-      "ident": "HKBA",
-      "type": "small_airport",
-      "name": "Busia Airport",
-      "elevation_ft": 3989.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-900",
-      "municipality": "Busia",
-      "coordinates": "0.4570850133895874, 34.130279541015625"
-    },
-    {
       "ident": "HKBR",
       "type": "small_airport",
       "name": "Bura East Airport",
@@ -58,28 +47,6 @@
       "municipality": "Bura",
       "gps_code": "HKBR",
       "coordinates": "-1.1, 39.950001"
-    },
-    {
-      "ident": "HKBU",
-      "type": "small_airport",
-      "name": "Bungoma Airport",
-      "elevation_ft": 4726.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-900",
-      "municipality": "Bungoma",
-      "coordinates": "0.5762079954147339, 34.55345153808594"
-    },
-    {
-      "ident": "HKED",
-      "type": "small_airport",
-      "name": "Eldoret Boma Airport",
-      "elevation_ft": 7050.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-700",
-      "municipality": "Eldoret",
-      "coordinates": "0.536926, 35.280518"
     },
     {
       "ident": "HKEL",
@@ -371,17 +338,6 @@
       "coordinates": "3.12197, 35.6087"
     },
     {
-      "ident": "HKLT",
-      "type": "small_airport",
-      "name": "Loitokitok Airport",
-      "elevation_ft": 5320.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-700",
-      "municipality": "Loitokitok",
-      "coordinates": "-2.9098849296569824, 37.52610778808594"
-    },
-    {
       "ident": "HKLU",
       "type": "medium_airport",
       "name": "Manda Airport",
@@ -432,17 +388,6 @@
       "gps_code": "HKMB",
       "iata_code": "RBT",
       "coordinates": "2.344254, 37.999996"
-    },
-    {
-      "ident": "HKMG",
-      "type": "small_airport",
-      "name": "Magadi Airport",
-      "elevation_ft": 1955.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-700",
-      "municipality": "Magadi",
-      "coordinates": "-1.9480570554733276, 36.28333282470703"
     },
     {
       "ident": "HKMI",
@@ -508,17 +453,6 @@
       "coordinates": "-4.03483, 39.5942"
     },
     {
-      "ident": "HKMR",
-      "type": "small_airport",
-      "name": "Mackinnon Road Airport",
-      "elevation_ft": 1446.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-300",
-      "municipality": "Mackinnon Road",
-      "coordinates": "-3.730548, 39.039413"
-    },
-    {
       "ident": "HKMS",
       "type": "medium_airport",
       "name": "Mara Serena Lodge Airstrip",
@@ -530,17 +464,6 @@
       "gps_code": "HKMS",
       "iata_code": "MRE",
       "coordinates": "-1.406111, 35.008057"
-    },
-    {
-      "ident": "HKMT",
-      "type": "small_airport",
-      "name": "Mtito Andei Airport",
-      "elevation_ft": 2397.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-300",
-      "municipality": "Mtito",
-      "coordinates": "-2.7170820236206055, 38.197566986083984"
     },
     {
       "ident": "HKMU",
@@ -665,17 +588,6 @@
       "municipality": "Nairobi",
       "gps_code": "HKRE",
       "coordinates": "-1.2772699594499999, 36.8623008728"
-    },
-    {
-      "ident": "HKSA",
-      "type": "small_airport",
-      "name": "Embakasi Airport",
-      "elevation_ft": 5357.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-110",
-      "municipality": "Embakasi",
-      "coordinates": "-1.2982189655303955, 36.91554641723633"
     },
     {
       "ident": "HKSB",
@@ -3820,7 +3732,7 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Banisa",
-      "coordinates": "3.893599, 40.314748"
+      "coordinates": "3.897056, 40.320253"
     },
     {
       "ident": "KE-6873",
@@ -3831,17 +3743,6 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "coordinates": "0.6166669726371765, 35.29999923706055"
-    },
-    {
-      "ident": "KE-6874",
-      "type": "small_airport",
-      "name": "Impala Farm Airport",
-      "elevation_ft": 5500.0,
-      "continent": "AF",
-      "iso_country": "KE",
-      "iso_region": "KE-700",
-      "municipality": "Impala Farm",
-      "coordinates": "0.3666670024394989, 36.91666793823242"
     },
     {
       "ident": "KE-6878",
@@ -4030,6 +3931,102 @@
       "iso_region": "KE-700",
       "municipality": "Kapchomuswo",
       "coordinates": "0.536848, 35.728044"
+    },
+    {
+      "ident": "KE-6997",
+      "type": "small_airport",
+      "name": "Busia Airport",
+      "elevation_ft": 3989.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-900",
+      "municipality": "Busia",
+      "local_code": "HKBA",
+      "coordinates": "0.45708501338959, 34.130279541016"
+    },
+    {
+      "ident": "KE-6998",
+      "type": "small_airport",
+      "name": "Bungoma Airport",
+      "elevation_ft": 4726.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-900",
+      "municipality": "Bungoma",
+      "local_code": "HKBU",
+      "coordinates": "0.57620799541473, 34.553451538086"
+    },
+    {
+      "ident": "KE-6999",
+      "type": "small_airport",
+      "name": "Eldoret Boma Airport",
+      "elevation_ft": 7050.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-700",
+      "municipality": "Eldoret",
+      "local_code": "HKED",
+      "coordinates": "0.536926, 35.280518"
+    },
+    {
+      "ident": "KE-7000",
+      "type": "small_airport",
+      "name": "Loitokitok Airport",
+      "elevation_ft": 5320.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-700",
+      "municipality": "Loitokitok",
+      "local_code": "HKLT",
+      "coordinates": "-2.909884929657, 37.526107788086"
+    },
+    {
+      "ident": "KE-7001",
+      "type": "small_airport",
+      "name": "Magadi Airport",
+      "elevation_ft": 1955.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-700",
+      "municipality": "Magadi",
+      "local_code": "HKMG",
+      "coordinates": "-1.9480570554733, 36.283332824707"
+    },
+    {
+      "ident": "KE-7002",
+      "type": "small_airport",
+      "name": "Mackinnon Road Airport",
+      "elevation_ft": 1446.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-300",
+      "municipality": "Mackinnon Road",
+      "local_code": "HKMR",
+      "coordinates": "-3.730548, 39.039413"
+    },
+    {
+      "ident": "KE-7003",
+      "type": "small_airport",
+      "name": "Mtito Andei Airport",
+      "elevation_ft": 2397.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-300",
+      "municipality": "Mtito",
+      "local_code": "HKMT",
+      "coordinates": "-2.7170820236206, 38.197566986084"
+    },
+    {
+      "ident": "KE-7004",
+      "type": "small_airport",
+      "name": "Embakasi Airport",
+      "elevation_ft": 5357.0,
+      "continent": "AF",
+      "iso_country": "KE",
+      "iso_region": "KE-110",
+      "municipality": "Embakasi",
+      "local_code": "HKSA",
+      "coordinates": "-1.2982189655304, 36.915546417236"
     },
     {
       "ident": "KE-KIU",

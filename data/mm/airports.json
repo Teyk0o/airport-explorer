@@ -2,7 +2,7 @@
   "country_code": "MM",
   "country_name": "Myanmar",
   "total_airports": 82,
-  "last_updated": "2025-02-28T00:08:12.004344",
+  "last_updated": "2025-03-01T00:09:12.092251",
   "types_distribution": {
     "closed": 2,
     "small_airport": 53,
@@ -259,19 +259,6 @@
       "gps_code": "VYDW",
       "iata_code": "TVY",
       "coordinates": "14.103899955749512, 98.20359802246094"
-    },
-    {
-      "ident": "VYEL",
-      "type": "medium_airport",
-      "name": "Nay Pyi Taw International Airport",
-      "elevation_ft": 302.0,
-      "continent": "AS",
-      "iso_country": "MM",
-      "iso_region": "MM-04",
-      "municipality": "Pyinmana",
-      "gps_code": "VYNT",
-      "iata_code": "NYT",
-      "coordinates": "19.623501, 96.200996"
     },
     {
       "ident": "VYFS",
@@ -719,6 +706,19 @@
     },
     {
       "ident": "VYNT",
+      "type": "medium_airport",
+      "name": "Nay Pyi Taw International Airport",
+      "elevation_ft": 302.0,
+      "continent": "AS",
+      "iso_country": "MM",
+      "iso_region": "MM-04",
+      "municipality": "Pyinmana",
+      "gps_code": "VYNT",
+      "iata_code": "NYT",
+      "coordinates": "19.623501, 96.200996"
+    },
+    {
+      "ident": "VYNU",
       "type": "small_airport",
       "name": "Namtu Airport",
       "elevation_ft": 2000.0,

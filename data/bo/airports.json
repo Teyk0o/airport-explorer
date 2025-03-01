@@ -2,7 +2,7 @@
   "country_code": "BO",
   "country_name": "Bolivia",
   "total_airports": 205,
-  "last_updated": "2025-02-28T00:08:11.692646",
+  "last_updated": "2025-03-01T00:09:11.768563",
   "types_distribution": {
     "small_airport": 182,
     "heliport": 3,
@@ -202,6 +202,18 @@
       "iso_region": "BO-S",
       "municipality": "Abapó",
       "coordinates": "-18.63447, -62.936735"
+    },
+    {
+      "ident": "BO-0021",
+      "type": "small_airport",
+      "name": "San Juan Estancias Airport",
+      "elevation_ft": 820.0,
+      "continent": "SA",
+      "iso_country": "BO",
+      "iso_region": "BO-B",
+      "municipality": "Cercado",
+      "local_code": "SLJN",
+      "coordinates": "-14.162648, -64.759276"
     },
     {
       "ident": "BO-BVL",
@@ -1139,17 +1151,6 @@
       "gps_code": "SLJE",
       "iata_code": "SJS",
       "coordinates": "-17.830799, -60.743099"
-    },
-    {
-      "ident": "SLJN",
-      "type": "small_airport",
-      "name": "San Juan Estancias Airport",
-      "elevation_ft": 820.0,
-      "continent": "SA",
-      "iso_country": "BO",
-      "iso_region": "BO-B",
-      "municipality": "Cercado",
-      "coordinates": "-14.162648, -64.759276"
     },
     {
       "ident": "SLJO",

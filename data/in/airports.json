@@ -2,7 +2,7 @@
   "country_code": "IN",
   "country_name": "India",
   "total_airports": 630,
-  "last_updated": "2025-02-28T00:08:11.930348",
+  "last_updated": "2025-03-01T00:09:12.017941",
   "types_distribution": {
     "heliport": 283,
     "small_airport": 181,
@@ -3945,6 +3945,18 @@
       "coordinates": "15.8063, 79.4882"
     },
     {
+      "ident": "IN-0382",
+      "type": "small_airport",
+      "name": "Gandhinagar Airfield",
+      "elevation_ft": 1959.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-MM",
+      "municipality": "Nashik",
+      "local_code": "VANR",
+      "coordinates": "19.963699, 73.807602"
+    },
+    {
       "ident": "IN-JGB",
       "type": "small_airport",
       "name": "Jagdalpur Airport",
@@ -4575,17 +4587,6 @@
       "gps_code": "VANP",
       "iata_code": "NAG",
       "coordinates": "21.092199, 79.047203"
-    },
-    {
-      "ident": "VANR",
-      "type": "small_airport",
-      "name": "Gandhinagar Airfield",
-      "elevation_ft": 1959.0,
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-MM",
-      "municipality": "Nashik",
-      "coordinates": "19.963699, 73.807602"
     },
     {
       "ident": "VAOZ",

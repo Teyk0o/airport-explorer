@@ -2,7 +2,7 @@
   "country_code": "ES",
   "country_name": "Spain",
   "total_airports": 560,
-  "last_updated": "2025-02-28T00:08:11.585966",
+  "last_updated": "2025-03-01T00:09:11.660534",
   "types_distribution": {
     "heliport": 162,
     "small_airport": 311,
@@ -3868,6 +3868,28 @@
       "coordinates": "42.56736, -1.2889"
     },
     {
+      "ident": "ES-0365",
+      "type": "small_airport",
+      "name": "Aeródromo de Linares",
+      "elevation_ft": 1033.0,
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-AN",
+      "municipality": "Linares",
+      "local_code": "LELI",
+      "coordinates": "38.133211, -3.642554"
+    },
+    {
+      "ident": "ES-0366",
+      "type": "small_airport",
+      "name": "El Rinconcillo de Guadalupe",
+      "continent": "EU",
+      "iso_country": "ES",
+      "iso_region": "ES-EX",
+      "local_code": "LEGP",
+      "coordinates": "39.594127, -6.206276"
+    },
+    {
       "ident": "GCAD",
       "type": "heliport",
       "name": "Adeje Heliport",
@@ -4717,15 +4739,6 @@
       "coordinates": "41.904639, 2.761774"
     },
     {
-      "ident": "LEGP",
-      "type": "small_airport",
-      "name": "El Rinconcillo de Guadalupe",
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-EX",
-      "coordinates": "39.594127, -6.206276"
-    },
-    {
       "ident": "LEGR",
       "type": "medium_airport",
       "name": "F.G.L. Airport Granada-Jaén Airport",
@@ -5085,17 +5098,6 @@
       "municipality": "Cánovas",
       "gps_code": "LELH",
       "coordinates": "37.748901, -1.30216"
-    },
-    {
-      "ident": "LELI",
-      "type": "small_airport",
-      "name": "Aeródromo de Linares",
-      "elevation_ft": 1033.0,
-      "continent": "EU",
-      "iso_country": "ES",
-      "iso_region": "ES-AN",
-      "municipality": "Linares",
-      "coordinates": "38.133211, -3.642554"
     },
     {
       "ident": "LELL",

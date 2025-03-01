@@ -2,7 +2,7 @@
   "country_code": "BY",
   "country_name": "Belarus",
   "total_airports": 70,
-  "last_updated": "2025-02-28T00:08:11.769789",
+  "last_updated": "2025-03-01T00:09:11.847207",
   "types_distribution": {
     "medium_airport": 9,
     "closed": 20,
@@ -602,6 +602,18 @@
       "coordinates": "53.303, 24.369"
     },
     {
+      "ident": "BY-9938",
+      "type": "small_airport",
+      "name": "Shchuchyn",
+      "elevation_ft": 575.0,
+      "continent": "EU",
+      "iso_country": "BY",
+      "iso_region": "BY-HR",
+      "municipality": "Shchuchyn",
+      "local_code": "XMDU",
+      "coordinates": "53.598206, 24.763414"
+    },
+    {
       "ident": "UMBB",
       "type": "medium_airport",
       "name": "Brest Airport",
@@ -625,18 +637,6 @@
       "municipality": "Barysava",
       "gps_code": "UMBK",
       "coordinates": "52.164, 24.3999"
-    },
-    {
-      "ident": "UMDU",
-      "type": "small_airport",
-      "name": "Shchuchyn",
-      "elevation_ft": 575.0,
-      "continent": "EU",
-      "iso_country": "BY",
-      "iso_region": "BY-HR",
-      "municipality": "Shchuchyn",
-      "local_code": "XMDU",
-      "coordinates": "53.598206, 24.763414"
     },
     {
       "ident": "UMGG",
@@ -709,7 +709,7 @@
       "municipality": "Hrodna",
       "gps_code": "UMMG",
       "iata_code": "GNA",
-      "coordinates": "53.60200119018555, 24.053800582885742"
+      "coordinates": "53.602001, 24.053801"
     },
     {
       "ident": "UMMS",

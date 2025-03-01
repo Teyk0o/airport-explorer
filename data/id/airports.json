@@ -2,7 +2,7 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 638,
-  "last_updated": "2025-02-28T00:08:11.638764",
+  "last_updated": "2025-03-01T00:09:11.714026",
   "types_distribution": {
     "small_airport": 471,
     "closed": 46,
@@ -158,18 +158,6 @@
       "gps_code": "WIMO",
       "local_code": "LSE",
       "coordinates": "-0.01924, 98.30097"
-    },
-    {
-      "ident": "ID-0013",
-      "type": "small_airport",
-      "name": "Lieutenant Colonel Wisnu Airfield",
-      "elevation_ft": 16.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-BA",
-      "municipality": "Gerokgak, Buleleng",
-      "gps_code": "WADE",
-      "coordinates": "-8.139292, 114.615367"
     },
     {
       "ident": "ID-0014",
@@ -3268,32 +3256,6 @@
       "coordinates": "-0.427165, 102.996126"
     },
     {
-      "ident": "ID-0286",
-      "type": "medium_airport",
-      "name": "Namniwel Airport",
-      "elevation_ft": 7.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-MA",
-      "municipality": "Namniwel",
-      "gps_code": "WAPN",
-      "iata_code": "NAM",
-      "coordinates": "-3.143159, 126.976469"
-    },
-    {
-      "ident": "ID-0287",
-      "type": "medium_airport",
-      "name": "Tebelian Airport",
-      "elevation_ft": 97.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-KB",
-      "municipality": "Sintang",
-      "gps_code": "WIOS",
-      "iata_code": "SQG",
-      "coordinates": "-0.045214, 111.458049"
-    },
-    {
       "ident": "ID-0288",
       "type": "small_airport",
       "name": "Siboru Airport",
@@ -3303,19 +3265,6 @@
       "iso_region": "ID-PB",
       "municipality": "Fakfak",
       "coordinates": "-2.928056, 132.089447"
-    },
-    {
-      "ident": "ID-0289",
-      "type": "small_airport",
-      "name": "Douw Aturure Airport",
-      "elevation_ft": 22.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PT",
-      "municipality": "Nabire",
-      "gps_code": "WABI",
-      "iata_code": "NBX",
-      "coordinates": "-3.398056, 135.397217"
     },
     {
       "ident": "ID-0290",
@@ -3328,19 +3277,6 @@
       "gps_code": "WIOD",
       "iata_code": "SKJ",
       "coordinates": "0.789936, 108.960395"
-    },
-    {
-      "ident": "ID-0291",
-      "type": "small_airport",
-      "name": "Bolaang Mongondow Airport",
-      "elevation_ft": 28.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SA",
-      "municipality": "Lolak",
-      "gps_code": "WAMI",
-      "iata_code": "LKM",
-      "coordinates": "0.88855, 124.033634"
     },
     {
       "ident": "ID-0292",
@@ -3442,18 +3378,6 @@
       "iso_region": "ID-BB",
       "municipality": "Toboali",
       "coordinates": "-2.96808, 106.47341"
-    },
-    {
-      "ident": "ID-0302",
-      "type": "small_airport",
-      "name": "Nusantara Airport (under construction)",
-      "elevation_ft": 23.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-KI",
-      "municipality": "Nusantara",
-      "gps_code": "WALK",
-      "coordinates": "-1.158611, 116.708054"
     },
     {
       "ident": "ID-0303",
@@ -3852,6 +3776,91 @@
       "coordinates": "-7.218275, 112.712616"
     },
     {
+      "ident": "ID-0339",
+      "type": "medium_airport",
+      "name": "Nabire Airport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PT",
+      "municipality": "Nabire",
+      "local_code": "WABI",
+      "coordinates": "-3.368586, 135.496702"
+    },
+    {
+      "ident": "ID-0340",
+      "type": "medium_airport",
+      "name": "Tabing Airport",
+      "elevation_ft": 9.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SB",
+      "municipality": "Padang",
+      "local_code": "WIMG",
+      "coordinates": "-0.874989, 100.351997"
+    },
+    {
+      "ident": "ID-0341",
+      "type": "medium_airport",
+      "name": "Susilo Airport",
+      "elevation_ft": 98.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KB",
+      "municipality": "Sintang",
+      "local_code": "WIOS",
+      "coordinates": "0.063851, 111.473572"
+    },
+    {
+      "ident": "ID-0342",
+      "type": "small_airport",
+      "name": "Helvetia Airport",
+      "elevation_ft": 49.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SU",
+      "municipality": "Medan",
+      "local_code": "WIMH",
+      "coordinates": "3.68306, 98.644203"
+    },
+    {
+      "ident": "ID-0343",
+      "type": "small_airport",
+      "name": "Kota Mobagu/Mopait Airport",
+      "elevation_ft": 584.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SA",
+      "municipality": "Kota Mobagu",
+      "iata_code": "BJG",
+      "local_code": "WAMB",
+      "coordinates": "0.686111, 124.273611"
+    },
+    {
+      "ident": "ID-0344",
+      "type": "small_airport",
+      "name": "Labuhan Bilik Airport",
+      "elevation_ft": 18.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SU",
+      "municipality": "Labuhan Bilik-Sumatra Island",
+      "local_code": "WIMA",
+      "coordinates": "2.5129, 100.179001"
+    },
+    {
+      "ident": "ID-0345",
+      "type": "small_airport",
+      "name": "Tebing Tinggi Airport",
+      "elevation_ft": 69.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-SU",
+      "municipality": "Tabbing Tinggi-Sumatra Island",
+      "local_code": "WIMT",
+      "coordinates": "3.366667, 99.116669"
+    },
+    {
       "ident": "ID-AAS",
       "type": "small_airport",
       "name": "Apalapsili Airport",
@@ -4091,18 +4100,6 @@
       "coordinates": "-3.9256, 138.4555"
     },
     {
-      "ident": "ID-WA19",
-      "type": "small_airport",
-      "name": "Pagerungan Airport",
-      "elevation_ft": 13.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JI",
-      "municipality": "Sapeken",
-      "gps_code": "WARP",
-      "coordinates": "-6.956515, 115.931107"
-    },
-    {
       "ident": "ID-ZGP",
       "type": "medium_airport",
       "name": "Bilogai-Sugapa Airport",
@@ -4314,14 +4311,16 @@
     },
     {
       "ident": "WABI",
-      "type": "medium_airport",
-      "name": "Nabire Airport",
-      "elevation_ft": 20.0,
+      "type": "small_airport",
+      "name": "Douw Aturure Airport",
+      "elevation_ft": 22.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Nabire",
-      "coordinates": "-3.368586, 135.496702"
+      "gps_code": "WABI",
+      "iata_code": "NBX",
+      "coordinates": "-3.398056, 135.397217"
     },
     {
       "ident": "WABK",
@@ -4361,6 +4360,19 @@
       "gps_code": "WAYK",
       "iata_code": "KOX",
       "coordinates": "-4.71075, 136.43515"
+    },
+    {
+      "ident": "WABO",
+      "type": "medium_airport",
+      "name": "Stevanus Rumbewas Airport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Serui",
+      "gps_code": "WABO",
+      "iata_code": "ZRI",
+      "coordinates": "-1.82842, 136.062402"
     },
     {
       "ident": "WABP",
@@ -4438,6 +4450,18 @@
       "gps_code": "WADD",
       "iata_code": "DPS",
       "coordinates": "-8.748409, 115.167123"
+    },
+    {
+      "ident": "WADE",
+      "type": "small_airport",
+      "name": "Lieutenant Colonel Wisnu Airfield",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-BA",
+      "municipality": "Gerokgak, Buleleng",
+      "gps_code": "WADE",
+      "coordinates": "-8.139292, 114.615367"
     },
     {
       "ident": "WADL",
@@ -4532,6 +4556,19 @@
       "coordinates": "0.831012, 127.381611"
     },
     {
+      "ident": "WAES",
+      "type": "small_airport",
+      "name": "Emalamo Sanana Airport",
+      "elevation_ft": 11.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-MU",
+      "municipality": "Sanana",
+      "gps_code": "WAES",
+      "iata_code": "SQN",
+      "coordinates": "-2.097833, 125.963833"
+    },
+    {
       "ident": "WAEW",
       "type": "medium_airport",
       "name": "Pitu Airport",
@@ -4595,6 +4632,19 @@
       "gps_code": "WAFJ",
       "iata_code": "MJU",
       "coordinates": "-2.590017, 119.025051"
+    },
+    {
+      "ident": "WAFL",
+      "type": "small_airport",
+      "name": "Sultan Bantilan Airport",
+      "elevation_ft": 17.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-ST",
+      "municipality": "Toli Toli-Celebes Island",
+      "gps_code": "WAFL",
+      "iata_code": "TLI",
+      "coordinates": "1.123428, 120.793658"
     },
     {
       "ident": "WAFM",
@@ -5106,16 +5156,15 @@
     },
     {
       "ident": "WALK",
-      "type": "medium_airport",
-      "name": "Kalimarau Airport",
-      "elevation_ft": 59.0,
+      "type": "small_airport",
+      "name": "Nusantara Airport (under construction)",
+      "elevation_ft": 23.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-KI",
-      "municipality": "Tanjung Redeb - Borneo Island",
-      "gps_code": "WAQT",
-      "iata_code": "BEJ",
-      "coordinates": "2.1555, 117.431999"
+      "municipality": "Nusantara",
+      "gps_code": "WALK",
+      "coordinates": "-1.158611, 116.708054"
     },
     {
       "ident": "WALL",
@@ -5221,18 +5270,6 @@
       "coordinates": "1.83833, 127.786003"
     },
     {
-      "ident": "WAMB",
-      "type": "small_airport",
-      "name": "Kota Mobagu/Mopait Airport",
-      "elevation_ft": 584.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SA",
-      "municipality": "Kota Mobagu",
-      "iata_code": "BJG",
-      "coordinates": "0.686111, 124.273611"
-    },
-    {
       "ident": "WAMD",
       "type": "small_airport",
       "name": "Jailolo/Kuripasai Airport",
@@ -5286,15 +5323,15 @@
     {
       "ident": "WAMI",
       "type": "small_airport",
-      "name": "Sultan Bantilan Airport",
-      "elevation_ft": 17.0,
+      "name": "Bolaang Mongondow Airport",
+      "elevation_ft": 28.0,
       "continent": "AS",
       "iso_country": "ID",
-      "iso_region": "ID-ST",
-      "municipality": "Toli Toli-Celebes Island",
-      "gps_code": "WAFL",
-      "iata_code": "TLI",
-      "coordinates": "1.123428, 120.793658"
+      "iso_region": "ID-SA",
+      "municipality": "Lolak",
+      "gps_code": "WAMI",
+      "iata_code": "LKM",
+      "coordinates": "0.88855, 124.033634"
     },
     {
       "ident": "WAMJ",
@@ -5691,16 +5728,16 @@
     },
     {
       "ident": "WAPN",
-      "type": "small_airport",
-      "name": "Emalamo Sanana Airport",
-      "elevation_ft": 11.0,
+      "type": "medium_airport",
+      "name": "Namniwel Airport",
+      "elevation_ft": 7.0,
       "continent": "AS",
       "iso_country": "ID",
-      "iso_region": "ID-MU",
-      "municipality": "Sanana",
-      "gps_code": "WAES",
-      "iata_code": "SQN",
-      "coordinates": "-2.097833, 125.963833"
+      "iso_region": "ID-MA",
+      "municipality": "Namniwel",
+      "gps_code": "WAPN",
+      "iata_code": "NAM",
+      "coordinates": "-3.143159, 126.976469"
     },
     {
       "ident": "WAPO",
@@ -5802,6 +5839,19 @@
       "coordinates": "3.575278, 116.619722"
     },
     {
+      "ident": "WAQT",
+      "type": "medium_airport",
+      "name": "Kalimarau Airport",
+      "elevation_ft": 59.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KI",
+      "municipality": "Tanjung Redeb - Borneo Island",
+      "gps_code": "WAQT",
+      "iata_code": "BEJ",
+      "coordinates": "2.1555, 117.431999"
+    },
+    {
       "ident": "WARA",
       "type": "medium_airport",
       "name": "Abdul Rachman Saleh Airport",
@@ -5864,6 +5914,18 @@
       "gps_code": "WAHH",
       "iata_code": "JOG",
       "coordinates": "-7.78818, 110.431999"
+    },
+    {
+      "ident": "WARP",
+      "type": "small_airport",
+      "name": "Pagerungan Airport",
+      "elevation_ft": 13.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Sapeken",
+      "gps_code": "WARP",
+      "coordinates": "-6.956515, 115.931107"
     },
     {
       "ident": "WARQ",
@@ -6073,6 +6135,19 @@
       "gps_code": "WAUU",
       "iata_code": "MKW",
       "coordinates": "-0.891833, 134.048996"
+    },
+    {
+      "ident": "WASS",
+      "type": "medium_airport",
+      "name": "Domine Eduard Osok Airport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PB",
+      "municipality": "Sorong",
+      "gps_code": "WASS",
+      "iata_code": "SOQ",
+      "coordinates": "-0.894, 131.287"
     },
     {
       "ident": "WAST",
@@ -6411,19 +6486,6 @@
       "gps_code": "WAWW",
       "iata_code": "KDI",
       "coordinates": "-4.08161, 122.417999"
-    },
-    {
-      "ident": "WAXX",
-      "type": "medium_airport",
-      "name": "Domine Eduard Osok Airport",
-      "elevation_ft": 10.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PB",
-      "municipality": "Sorong",
-      "gps_code": "WASS",
-      "iata_code": "SOQ",
-      "coordinates": "-0.894, 131.287"
     },
     {
       "ident": "WAYH",
@@ -6908,17 +6970,6 @@
       "coordinates": "-5.211562, 103.936501"
     },
     {
-      "ident": "WIMA",
-      "type": "small_airport",
-      "name": "Labuhan Bilik Airport",
-      "elevation_ft": 18.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Labuhan Bilik-Sumatra Island",
-      "coordinates": "2.5129, 100.179001"
-    },
-    {
       "ident": "WIMB",
       "type": "medium_airport",
       "name": "Binaka Airport",
@@ -6954,28 +7005,6 @@
       "gps_code": "WIMF",
       "iata_code": "JHN",
       "coordinates": "0.948056, 99.533333"
-    },
-    {
-      "ident": "WIMG",
-      "type": "medium_airport",
-      "name": "Tabing Airport",
-      "elevation_ft": 9.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SB",
-      "municipality": "Padang",
-      "coordinates": "-0.874989, 100.351997"
-    },
-    {
-      "ident": "WIMH",
-      "type": "small_airport",
-      "name": "Helvetia Airport",
-      "elevation_ft": 49.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Medan",
-      "coordinates": "3.68306, 98.644203"
     },
     {
       "ident": "WIMK",
@@ -7041,17 +7070,6 @@
       "gps_code": "WIMS",
       "iata_code": "FLZ",
       "coordinates": "1.557127, 98.887145"
-    },
-    {
-      "ident": "WIMT",
-      "type": "small_airport",
-      "name": "Tebing Tinggi Airport",
-      "elevation_ft": 69.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Tabbing Tinggi-Sumatra Island",
-      "coordinates": "3.366667, 99.116669"
     },
     {
       "ident": "WIMU",
@@ -7171,13 +7189,15 @@
     {
       "ident": "WIOS",
       "type": "medium_airport",
-      "name": "Susilo Airport",
-      "elevation_ft": 98.0,
+      "name": "Tebelian Airport",
+      "elevation_ft": 97.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Sintang",
-      "coordinates": "0.063851, 111.473572"
+      "gps_code": "WIOS",
+      "iata_code": "SQG",
+      "coordinates": "-0.045214, 111.458049"
     },
     {
       "ident": "WIPA",
@@ -7646,19 +7666,6 @@
       "municipality": "Senipah",
       "gps_code": "WALY",
       "coordinates": "-0.975679, 117.147701"
-    },
-    {
-      "ident": "ZRI",
-      "type": "medium_airport",
-      "name": "Stevanus Rumbewas Airport",
-      "elevation_ft": 20.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-PA",
-      "municipality": "Serui",
-      "gps_code": "WABO",
-      "iata_code": "ZRI",
-      "coordinates": "-1.82842, 136.062402"
     }
   ]
 }

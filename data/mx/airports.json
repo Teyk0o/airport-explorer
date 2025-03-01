@@ -2,7 +2,7 @@
   "country_code": "MX",
   "country_name": "Mexico",
   "total_airports": 2681,
-  "last_updated": "2025-02-28T00:08:11.664994",
+  "last_updated": "2025-03-01T00:09:11.740641",
   "types_distribution": {
     "small_airport": 1511,
     "heliport": 487,
@@ -1402,17 +1402,6 @@
       "gps_code": "MMPN",
       "iata_code": "UPN",
       "coordinates": "19.3967, -102.039001"
-    },
-    {
-      "ident": "MMPO",
-      "type": "small_airport",
-      "name": "Pinotepa Nacional Airport",
-      "elevation_ft": 833.0,
-      "iso_country": "MX",
-      "iso_region": "MX-OAX",
-      "municipality": "Santiago Pinotepa Nacional",
-      "local_code": "MCN",
-      "coordinates": "16.37921, -98.1171"
     },
     {
       "ident": "MMPP",
@@ -28172,6 +28161,17 @@
       "iso_region": "MX-BCS",
       "municipality": "Comondú",
       "coordinates": "25.0552, -111.6874"
+    },
+    {
+      "ident": "MX-2520",
+      "type": "small_airport",
+      "name": "Pinotepa Nacional Airport",
+      "elevation_ft": 833.0,
+      "iso_country": "MX",
+      "iso_region": "MX-OAX",
+      "municipality": "Santiago Pinotepa Nacional",
+      "local_code": "MCN",
+      "coordinates": "16.37921, -98.1171"
     },
     {
       "ident": "MX-AJS",

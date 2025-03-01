@@ -2,12 +2,12 @@
   "country_code": "CD",
   "country_name": "Democratic Republic of the Congo",
   "total_airports": 306,
-  "last_updated": "2025-02-28T00:08:11.800939",
+  "last_updated": "2025-03-01T00:09:11.878737",
   "types_distribution": {
-    "small_airport": 251,
+    "small_airport": 250,
     "medium_airport": 22,
     "heliport": 1,
-    "closed": 31,
+    "closed": 32,
     "large_airport": 1
   },
   "airports": [
@@ -2816,14 +2816,13 @@
     },
     {
       "ident": "FZQI",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Kamatanda Airport",
       "elevation_ft": 4261.0,
       "continent": "AF",
       "iso_country": "CD",
       "iso_region": "CD-HK",
       "municipality": "Kamatanda",
-      "gps_code": "FZQI",
       "coordinates": "-10.833, 26.75"
     },
     {

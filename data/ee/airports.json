@@ -2,7 +2,7 @@
   "country_code": "EE",
   "country_name": "Estonia",
   "total_airports": 60,
-  "last_updated": "2025-02-28T00:08:11.858072",
+  "last_updated": "2025-03-01T00:09:11.945685",
   "types_distribution": {
     "closed": 16,
     "seaplane_base": 1,
@@ -269,6 +269,18 @@
       "iso_region": "EE-7B",
       "municipality": "Tartu",
       "coordinates": "58.404701, 26.7761"
+    },
+    {
+      "ident": "EE-9281",
+      "type": "small_airport",
+      "name": "Rakvere Airfield",
+      "elevation_ft": 240.0,
+      "continent": "EU",
+      "iso_country": "EE",
+      "iso_region": "EE-59",
+      "municipality": "Rakvere",
+      "local_code": "EERE",
+      "coordinates": "59.364032, 26.35874"
     },
     {
       "ident": "EEAA",
@@ -542,17 +554,6 @@
       "municipality": "Riidaja",
       "gps_code": "EERD",
       "coordinates": "58.085278, 25.898889"
-    },
-    {
-      "ident": "EERE",
-      "type": "small_airport",
-      "name": "Rakvere Airfield",
-      "elevation_ft": 240.0,
-      "continent": "EU",
-      "iso_country": "EE",
-      "iso_region": "EE-59",
-      "municipality": "Rakvere",
-      "coordinates": "59.364032, 26.35874"
     },
     {
       "ident": "EERI",

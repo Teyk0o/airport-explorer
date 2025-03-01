@@ -2,7 +2,7 @@
   "country_code": "EC",
   "country_name": "Ecuador",
   "total_airports": 357,
-  "last_updated": "2025-02-28T00:08:11.854762",
+  "last_updated": "2025-03-01T00:09:11.942055",
   "types_distribution": {
     "small_airport": 301,
     "closed": 12,
@@ -778,6 +778,18 @@
       "iso_region": "EC-R",
       "municipality": "Buena Fe",
       "coordinates": "-0.837328, -79.486759"
+    },
+    {
+      "ident": "EC-0070",
+      "type": "heliport",
+      "name": "Mariscal Sucre Air Base",
+      "elevation_ft": 9228.0,
+      "continent": "SA",
+      "iso_country": "EC",
+      "iso_region": "EC-P",
+      "municipality": "Quito",
+      "local_code": "SEQU",
+      "coordinates": "-0.136782, -78.490598"
     },
     {
       "ident": "EC-MZD",
@@ -3199,17 +3211,6 @@
       "iata_code": "UIO",
       "local_code": "UIO",
       "coordinates": "-0.125399, -78.354306"
-    },
-    {
-      "ident": "SEQU",
-      "type": "heliport",
-      "name": "Mariscal Sucre Air Base",
-      "elevation_ft": 9228.0,
-      "continent": "SA",
-      "iso_country": "EC",
-      "iso_region": "EC-P",
-      "municipality": "Quito",
-      "coordinates": "-0.136782, -78.490598"
     },
     {
       "ident": "SERB",

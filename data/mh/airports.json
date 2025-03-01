@@ -2,7 +2,7 @@
   "country_code": "MH",
   "country_name": "Marshall Islands",
   "total_airports": 36,
-  "last_updated": "2025-02-28T00:08:11.557922",
+  "last_updated": "2025-03-01T00:09:11.638976",
   "types_distribution": {
     "small_airport": 31,
     "closed": 3,
@@ -113,6 +113,19 @@
       "iso_region": "MH-NMU",
       "municipality": "Loen Island",
       "coordinates": "7.7575, 168.2357"
+    },
+    {
+      "ident": "MH-0004",
+      "type": "small_airport",
+      "name": "Ujae Atoll Airport",
+      "elevation_ft": 29.0,
+      "continent": "OC",
+      "iso_country": "MH",
+      "iso_region": "MH-UJA",
+      "municipality": "Ujae Atoll",
+      "iata_code": "UJE",
+      "local_code": "UJAP",
+      "coordinates": "8.92805957794, 165.761993408"
     },
     {
       "ident": "MH-AIM",
@@ -441,18 +454,6 @@
       "municipality": "Tabal Island",
       "iata_code": "TBV",
       "coordinates": "8.3027, 171.1615"
-    },
-    {
-      "ident": "UJAP",
-      "type": "small_airport",
-      "name": "Ujae Atoll Airport",
-      "elevation_ft": 29.0,
-      "continent": "OC",
-      "iso_country": "MH",
-      "iso_region": "MH-UJA",
-      "municipality": "Ujae Atoll",
-      "iata_code": "UJE",
-      "coordinates": "8.92805957794, 165.761993408"
     }
   ]
 }

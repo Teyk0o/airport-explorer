@@ -2,7 +2,7 @@
   "country_code": "AT",
   "country_name": "Austria",
   "total_airports": 184,
-  "last_updated": "2025-02-28T00:08:11.636457",
+  "last_updated": "2025-03-01T00:09:11.711676",
   "types_distribution": {
     "heliport": 112,
     "seaplane_base": 1,
@@ -132,16 +132,6 @@
       "iso_region": "AT-3",
       "municipality": "Poysdorf",
       "coordinates": "48.6976, 16.6598"
-    },
-    {
-      "ident": "AT-0012",
-      "type": "heliport",
-      "name": "Dornbirn City Hospital Heliport",
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-8",
-      "municipality": "Dornbirn",
-      "coordinates": "47.406315, 9.740058"
     },
     {
       "ident": "AT-0013",
@@ -389,6 +379,654 @@
       "coordinates": "47.449756, 12.396033"
     },
     {
+      "ident": "AT-0035",
+      "type": "heliport",
+      "name": "Kittsee Heliport",
+      "elevation_ft": 446.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-1",
+      "municipality": "Kittsee",
+      "local_code": "LOAC",
+      "coordinates": "48.09321, 17.06593"
+    },
+    {
+      "ident": "AT-0036",
+      "type": "heliport",
+      "name": "Oberpullendorf Heliport",
+      "elevation_ft": 909.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-1",
+      "municipality": "Oberpullendorf",
+      "local_code": "LOAO",
+      "coordinates": "47.507738, 16.511697"
+    },
+    {
+      "ident": "AT-0037",
+      "type": "heliport",
+      "name": "Schwerpunkt Heliport",
+      "elevation_ft": 1076.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-1",
+      "municipality": "Oberwart",
+      "local_code": "LOGR",
+      "coordinates": "47.279549, 16.201566"
+    },
+    {
+      "ident": "AT-0038",
+      "type": "heliport",
+      "name": "Bad Kleinkircheim Heliport",
+      "elevation_ft": 3399.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Bad Kleinkircheim",
+      "local_code": "LOKB",
+      "coordinates": "46.811943054199, 13.783888816833"
+    },
+    {
+      "ident": "AT-0039",
+      "type": "heliport",
+      "name": "Föderlach Heliport",
+      "elevation_ft": 1619.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Villach",
+      "local_code": "LOKD",
+      "coordinates": "46.601768493652, 13.949712753296"
+    },
+    {
+      "ident": "AT-0040",
+      "type": "heliport",
+      "name": "Wietersdorf Heliport",
+      "elevation_ft": 2070.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Wietersdorf",
+      "local_code": "LOKI",
+      "coordinates": "46.847778320312, 14.536944389343"
+    },
+    {
+      "ident": "AT-0041",
+      "type": "heliport",
+      "name": "Hallegg Heliport",
+      "elevation_ft": 1493.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Halleg",
+      "local_code": "LOKK",
+      "coordinates": "46.648056030273, 14.245833396912"
+    },
+    {
+      "ident": "AT-0042",
+      "type": "heliport",
+      "name": "Deutsch-Ordens-Spital Heliport",
+      "elevation_ft": 2113.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Friesach",
+      "local_code": "LOKP",
+      "coordinates": "46.94722366333, 14.410833358765"
+    },
+    {
+      "ident": "AT-0043",
+      "type": "heliport",
+      "name": "St. Andrä Im Lavanttal Heliport",
+      "elevation_ft": 1414.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "St. Andrä",
+      "local_code": "LOKS",
+      "coordinates": "46.758331298828, 14.825555801392"
+    },
+    {
+      "ident": "AT-0044",
+      "type": "heliport",
+      "name": "Villach Heliport",
+      "elevation_ft": 1732.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Villach",
+      "local_code": "LOKT",
+      "coordinates": "46.615692138672, 13.857175827026"
+    },
+    {
+      "ident": "AT-0045",
+      "type": "heliport",
+      "name": "Carinthia University Hospital Rooftop Helipad 2",
+      "elevation_ft": 1506.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Klagenfurt am Wörthersee",
+      "local_code": "LOKU",
+      "coordinates": "46.617901, 14.295486"
+    },
+    {
+      "ident": "AT-0046",
+      "type": "heliport",
+      "name": "Febau Heliport",
+      "elevation_ft": 1568.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Völkermarkt",
+      "local_code": "LOKV",
+      "coordinates": "46.661109924316, 14.615833282471"
+    },
+    {
+      "ident": "AT-0047",
+      "type": "heliport",
+      "name": "Zwatzhof Heliport",
+      "elevation_ft": 2500.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Zwatzhof",
+      "local_code": "LOKZ",
+      "coordinates": "46.975555419922, 14.274722099304"
+    },
+    {
+      "ident": "AT-0048",
+      "type": "heliport",
+      "name": "Patergassen Heliport",
+      "elevation_ft": 3576.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Patergassen",
+      "local_code": "LOMP",
+      "coordinates": "46.819442749023, 13.857221603394"
+    },
+    {
+      "ident": "AT-0049",
+      "type": "heliport",
+      "name": "Dachlandeplatz Heliport",
+      "elevation_ft": 1575.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Wolfsberg",
+      "local_code": "LOMW",
+      "coordinates": "46.832500457764, 14.848055839539"
+    },
+    {
+      "ident": "AT-0050",
+      "type": "heliport",
+      "name": "Eisenstadt Heliport",
+      "elevation_ft": 748.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-1",
+      "municipality": "Eisenstadt",
+      "local_code": "LOAE",
+      "coordinates": "47.84677, 16.51345"
+    },
+    {
+      "ident": "AT-0051",
+      "type": "heliport",
+      "name": "Baden Heliport",
+      "elevation_ft": 733.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Baden",
+      "local_code": "LOAF",
+      "coordinates": "48.000612, 16.255796"
+    },
+    {
+      "ident": "AT-0052",
+      "type": "heliport",
+      "name": "Horn Heliport",
+      "elevation_ft": 1012.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Horn",
+      "local_code": "LOAH",
+      "coordinates": "48.669249, 15.660705"
+    },
+    {
+      "ident": "AT-0053",
+      "type": "heliport",
+      "name": "Krems Heliport",
+      "elevation_ft": 647.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Krems",
+      "local_code": "LOAK",
+      "coordinates": "48.412753, 15.615224"
+    },
+    {
+      "ident": "AT-0054",
+      "type": "heliport",
+      "name": "Amstetten Hospital Heliport",
+      "elevation_ft": 947.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Amstetten",
+      "local_code": "LOAQ",
+      "coordinates": "48.126714, 14.880871"
+    },
+    {
+      "ident": "AT-0055",
+      "type": "heliport",
+      "name": "Wiener Neustadt ÖAMTC Heliport",
+      "elevation_ft": 900.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Wiener Neustadt",
+      "local_code": "LOAW",
+      "coordinates": "47.845135, 16.251601"
+    },
+    {
+      "ident": "AT-0056",
+      "type": "heliport",
+      "name": "Sankt Pölten Heliport",
+      "elevation_ft": 997.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Sankt Pölten",
+      "local_code": "LOAX",
+      "coordinates": "48.213279, 15.627702"
+    },
+    {
+      "ident": "AT-0057",
+      "type": "heliport",
+      "name": "Kilb Heliport",
+      "elevation_ft": 1388.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Kilb",
+      "local_code": "LOAY",
+      "coordinates": "48.086067, 15.428381"
+    },
+    {
+      "ident": "AT-0058",
+      "type": "heliport",
+      "name": "Zwettl Heliport",
+      "elevation_ft": 1900.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Zwettl",
+      "local_code": "LOAZ",
+      "coordinates": "48.599721, 15.163697"
+    },
+    {
+      "ident": "AT-0059",
+      "type": "heliport",
+      "name": "Goldeck Talstation Heliport",
+      "elevation_ft": 1761.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-5",
+      "municipality": "Goldeck Talstation",
+      "local_code": "LOKO",
+      "coordinates": "46.793151855469, 13.483258247375"
+    },
+    {
+      "ident": "AT-0060",
+      "type": "heliport",
+      "name": "St. Johann Im Pongau Heliport",
+      "elevation_ft": 1803.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-5",
+      "municipality": "St. Johann Im Pongau",
+      "local_code": "LOSJ",
+      "coordinates": "47.39416885376, 13.222222328186"
+    },
+    {
+      "ident": "AT-0061",
+      "type": "heliport",
+      "name": "Dachlandeplatz Heliport",
+      "elevation_ft": 1452.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-5",
+      "municipality": "Salzburg",
+      "local_code": "LOSL",
+      "coordinates": "47.805839538574, 13.027724266052"
+    },
+    {
+      "ident": "AT-0062",
+      "type": "heliport",
+      "name": "Schwarzach Heliport",
+      "elevation_ft": 2046.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-5",
+      "municipality": "Schwarzach",
+      "local_code": "LOSS",
+      "coordinates": "47.324443817139, 13.154999732971"
+    },
+    {
+      "ident": "AT-0063",
+      "type": "heliport",
+      "name": "Schwarzenbergkaserne Military Heliport",
+      "elevation_ft": 1433.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-5",
+      "municipality": "Salzburg",
+      "local_code": "LOXS",
+      "coordinates": "47.797500610352, 12.981666564941"
+    },
+    {
+      "ident": "AT-0064",
+      "type": "heliport",
+      "name": "Judenburg Heliport",
+      "elevation_ft": 2448.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-6",
+      "municipality": "Judenburg",
+      "local_code": "LOGJ",
+      "coordinates": "47.165000915527, 14.654999732971"
+    },
+    {
+      "ident": "AT-0065",
+      "type": "heliport",
+      "name": "Zams ÖAMTC Heliport",
+      "elevation_ft": 2513.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Zams",
+      "local_code": "LOIL",
+      "coordinates": "47.176235, 10.611887"
+    },
+    {
+      "ident": "AT-0066",
+      "type": "heliport",
+      "name": "Tyrol State Fire Brigade School Heliport",
+      "elevation_ft": 2423.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Telfs",
+      "local_code": "LOIN",
+      "coordinates": "47.308638, 11.050546"
+    },
+    {
+      "ident": "AT-0067",
+      "type": "heliport",
+      "name": "Sölden Heliport",
+      "elevation_ft": 4764.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Sölden",
+      "local_code": "LOIO",
+      "coordinates": "46.946556, 11.018499"
+    },
+    {
+      "ident": "AT-0068",
+      "type": "heliport",
+      "name": "Ischgl Idalp Heliport",
+      "elevation_ft": 7522.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Ischgl",
+      "local_code": "LOIP",
+      "coordinates": "46.980419, 10.315908"
+    },
+    {
+      "ident": "AT-0069",
+      "type": "heliport",
+      "name": "Swarovski Heliport",
+      "elevation_ft": 1818.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Wattens",
+      "local_code": "LOIS",
+      "coordinates": "47.294643, 11.600066"
+    },
+    {
+      "ident": "AT-0070",
+      "type": "heliport",
+      "name": "Innsbruck University Hospital Heliport",
+      "elevation_ft": 2057.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Innsbruck",
+      "local_code": "LOIU",
+      "coordinates": "47.261018, 11.384733"
+    },
+    {
+      "ident": "AT-0071",
+      "type": "heliport",
+      "name": "Sankt Vinzenz Heliport",
+      "elevation_ft": 2546.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Zams",
+      "local_code": "LOIV",
+      "coordinates": "47.16131, 10.593883"
+    },
+    {
+      "ident": "AT-0072",
+      "type": "heliport",
+      "name": "Waidring Heliport",
+      "elevation_ft": 2493.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Waidring",
+      "local_code": "LOIW",
+      "coordinates": "47.585304, 12.592628"
+    },
+    {
+      "ident": "AT-0073",
+      "type": "heliport",
+      "name": "Schwaz Heliport",
+      "elevation_ft": 1827.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Schwaz",
+      "local_code": "LOIZ",
+      "coordinates": "47.343887, 11.704742"
+    },
+    {
+      "ident": "AT-0074",
+      "type": "heliport",
+      "name": "Kaltenbach Heliport",
+      "elevation_ft": 1791.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Kaltenbach",
+      "local_code": "LOJK",
+      "coordinates": "47.284914, 11.880088"
+    },
+    {
+      "ident": "AT-0075",
+      "type": "heliport",
+      "name": "Mayrhofen Heliport",
+      "elevation_ft": 2000.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Mayrhofen",
+      "local_code": "LOJM",
+      "coordinates": "47.17763, 11.867096"
+    },
+    {
+      "ident": "AT-0076",
+      "type": "heliport",
+      "name": "Innsbruck Air Rescue Center ÖAMTC Heliport",
+      "elevation_ft": 1998.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Innsbruck",
+      "local_code": "LOJO",
+      "coordinates": "47.255034, 11.345485"
+    },
+    {
+      "ident": "AT-0077",
+      "type": "heliport",
+      "name": "Karres Heliport",
+      "elevation_ft": 2534.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Karres",
+      "local_code": "LOJP",
+      "coordinates": "47.218956, 10.768817"
+    },
+    {
+      "ident": "AT-0078",
+      "type": "heliport",
+      "name": "Zugspitzarena Heliport",
+      "elevation_ft": 3666.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Ehrwald",
+      "local_code": "LOJZ",
+      "coordinates": "47.419359, 10.926628"
+    },
+    {
+      "ident": "AT-0079",
+      "type": "heliport",
+      "name": "Glock Heliport",
+      "elevation_ft": 1539.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-2",
+      "municipality": "Ferlach",
+      "local_code": "LOKC",
+      "coordinates": "46.522736, 14.29705"
+    },
+    {
+      "ident": "AT-0080",
+      "type": "heliport",
+      "name": "Feldkirchen-Waiern Heliport",
+      "elevation_ft": 2014.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Feldkirchen-Waiern",
+      "local_code": "LOKX",
+      "coordinates": "46.734443664551, 14.087778091431"
+    },
+    {
+      "ident": "AT-0081",
+      "type": "heliport",
+      "name": "Hochfilzen Heliport",
+      "elevation_ft": 3484.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Hochfilzen",
+      "local_code": "LOXH",
+      "coordinates": "47.477500915527, 12.650278091431"
+    },
+    {
+      "ident": "AT-0082",
+      "type": "heliport",
+      "name": "Schwaz Military Heliport",
+      "elevation_ft": 1774.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Schwaz",
+      "local_code": "LOXI",
+      "coordinates": "47.334998, 11.697559"
+    },
+    {
+      "ident": "AT-0083",
+      "type": "heliport",
+      "name": "Feldkirch Heliport",
+      "elevation_ft": 1449.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-8",
+      "municipality": "Feldkirch",
+      "local_code": "LOIQ",
+      "coordinates": "47.274818, 9.591209"
+    },
+    {
+      "ident": "AT-0084",
+      "type": "heliport",
+      "name": "Bregenz Heliport",
+      "elevation_ft": 1492.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-8",
+      "municipality": "Bregenz",
+      "local_code": "LOIX",
+      "coordinates": "47.496662, 9.745111"
+    },
+    {
+      "ident": "AT-0085",
+      "type": "heliport",
+      "name": "Doctor Schenk Sanatorium Schruns Heliport",
+      "elevation_ft": 2240.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-8",
+      "municipality": "Schruns",
+      "local_code": "LOIY",
+      "coordinates": "47.073796, 9.913287"
+    },
+    {
+      "ident": "AT-0086",
+      "type": "heliport",
+      "name": "Wien-Aspern ÖAMTC Heliport",
+      "elevation_ft": 516.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-9",
+      "municipality": "Aspern",
+      "local_code": "LOAJ",
+      "coordinates": "48.222244, 16.512693"
+    },
+    {
+      "ident": "AT-0087",
+      "type": "heliport",
+      "name": "Wien-Meidling Heliport",
+      "elevation_ft": 737.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-9",
+      "municipality": "Vienna",
+      "local_code": "LOAM",
+      "coordinates": "48.173743, 16.322633"
+    },
+    {
+      "ident": "AT-0088",
+      "type": "heliport",
+      "name": "Vienna University Hospital Heliport",
+      "elevation_ft": 689.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-9",
+      "municipality": "Wien",
+      "local_code": "LOBA",
+      "coordinates": "48.221426, 16.346201"
+    },
+    {
       "ident": "DE-0354",
       "type": "small_airport",
       "name": "Ternberg Landing Field",
@@ -424,17 +1062,6 @@
       "coordinates": "48.922222, 15.296944"
     },
     {
-      "ident": "LOAC",
-      "type": "heliport",
-      "name": "Kittsee Heliport",
-      "elevation_ft": 446.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-1",
-      "municipality": "Kittsee",
-      "coordinates": "48.09321, 17.06593"
-    },
-    {
       "ident": "LOAD",
       "type": "small_airport",
       "name": "Völtendorf Airfield",
@@ -445,28 +1072,6 @@
       "municipality": "Ober-Grafendorf",
       "gps_code": "LOAD",
       "coordinates": "48.160081, 15.58677"
-    },
-    {
-      "ident": "LOAE",
-      "type": "heliport",
-      "name": "Eisenstadt Heliport",
-      "elevation_ft": 748.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-1",
-      "municipality": "Eisenstadt",
-      "coordinates": "47.84677, 16.51345"
-    },
-    {
-      "ident": "LOAF",
-      "type": "heliport",
-      "name": "Baden Heliport",
-      "elevation_ft": 733.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Baden",
-      "coordinates": "48.000612, 16.255796"
     },
     {
       "ident": "LOAG",
@@ -481,17 +1086,6 @@
       "coordinates": "48.446155, 15.635011"
     },
     {
-      "ident": "LOAH",
-      "type": "heliport",
-      "name": "Horn Heliport",
-      "elevation_ft": 1012.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Horn",
-      "coordinates": "48.669249, 15.660705"
-    },
-    {
       "ident": "LOAI",
       "type": "heliport",
       "name": "Wiener Neustadt Hospital Heliport",
@@ -502,39 +1096,6 @@
       "gps_code": "LOAI",
       "local_code": "LOAI",
       "coordinates": "47.8159, 16.24713"
-    },
-    {
-      "ident": "LOAJ",
-      "type": "heliport",
-      "name": "Wien-Aspern ÖAMTC Heliport",
-      "elevation_ft": 516.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-9",
-      "municipality": "Aspern",
-      "coordinates": "48.222244, 16.512693"
-    },
-    {
-      "ident": "LOAK",
-      "type": "heliport",
-      "name": "Krems Heliport",
-      "elevation_ft": 647.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Krems",
-      "coordinates": "48.412753, 15.615224"
-    },
-    {
-      "ident": "LOAM",
-      "type": "heliport",
-      "name": "Wien-Meidling Heliport",
-      "elevation_ft": 737.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-9",
-      "municipality": "Vienna",
-      "coordinates": "48.173743, 16.322633"
     },
     {
       "ident": "LOAN",
@@ -549,17 +1110,6 @@
       "coordinates": "47.8433, 16.260099"
     },
     {
-      "ident": "LOAO",
-      "type": "heliport",
-      "name": "Oberpullendorf Heliport",
-      "elevation_ft": 909.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-1",
-      "municipality": "Oberpullendorf",
-      "coordinates": "47.507738, 16.511697"
-    },
-    {
       "ident": "LOAP",
       "type": "heliport",
       "name": "Waidhofen an der Ybbs Hospital Heliport",
@@ -570,17 +1120,6 @@
       "municipality": "Waidhofen an der Ybbs",
       "gps_code": "LOAP",
       "coordinates": "47.952692, 14.788011"
-    },
-    {
-      "ident": "LOAQ",
-      "type": "heliport",
-      "name": "Amstetten Hospital Heliport",
-      "elevation_ft": 947.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Amstetten",
-      "coordinates": "48.126714, 14.880871"
     },
     {
       "ident": "LOAR",
@@ -629,61 +1168,6 @@
       "municipality": "Bad Vöslau",
       "gps_code": "LOAV",
       "coordinates": "47.965, 16.26"
-    },
-    {
-      "ident": "LOAW",
-      "type": "heliport",
-      "name": "Wiener Neustadt ÖAMTC Heliport",
-      "elevation_ft": 900.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Wiener Neustadt",
-      "coordinates": "47.845135, 16.251601"
-    },
-    {
-      "ident": "LOAX",
-      "type": "heliport",
-      "name": "Sankt Pölten Heliport",
-      "elevation_ft": 997.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Sankt Pölten",
-      "coordinates": "48.213279, 15.627702"
-    },
-    {
-      "ident": "LOAY",
-      "type": "heliport",
-      "name": "Kilb Heliport",
-      "elevation_ft": 1388.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Kilb",
-      "coordinates": "48.086067, 15.428381"
-    },
-    {
-      "ident": "LOAZ",
-      "type": "heliport",
-      "name": "Zwettl Heliport",
-      "elevation_ft": 1900.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-3",
-      "municipality": "Zwettl",
-      "coordinates": "48.599721, 15.163697"
-    },
-    {
-      "ident": "LOBA",
-      "type": "heliport",
-      "name": "Vienna University Hospital Heliport",
-      "elevation_ft": 689.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-9",
-      "municipality": "Wien",
-      "coordinates": "48.221426, 16.346201"
     },
     {
       "ident": "LOBD",
@@ -887,17 +1371,6 @@
       "coordinates": "47.493364, 14.49558"
     },
     {
-      "ident": "LOGJ",
-      "type": "heliport",
-      "name": "Judenburg Heliport",
-      "elevation_ft": 2448.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-6",
-      "municipality": "Judenburg",
-      "coordinates": "47.165000915527344, 14.654999732971191"
-    },
-    {
       "ident": "LOGK",
       "type": "small_airport",
       "name": "Kapfenberg Airfield",
@@ -956,17 +1429,6 @@
       "municipality": "Pinkafeld",
       "gps_code": "LOGP",
       "coordinates": "47.386684, 16.112673"
-    },
-    {
-      "ident": "LOGR",
-      "type": "heliport",
-      "name": "Schwerpunkt Heliport",
-      "elevation_ft": 1076.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-1",
-      "municipality": "Oberwart",
-      "coordinates": "47.279549, 16.201566"
     },
     {
       "ident": "LOGT",
@@ -1138,17 +1600,6 @@
       "coordinates": "47.564713, 12.127576"
     },
     {
-      "ident": "LOIL",
-      "type": "heliport",
-      "name": "Zams ÖAMTC Heliport",
-      "elevation_ft": 2513.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Zams",
-      "coordinates": "47.176235, 10.611887"
-    },
-    {
       "ident": "LOIM",
       "type": "heliport",
       "name": "Langkampfen - Au Heliport",
@@ -1159,50 +1610,6 @@
       "municipality": "Langkampfen",
       "gps_code": "LOIM",
       "coordinates": "47.5661125183, 12.1350002289"
-    },
-    {
-      "ident": "LOIN",
-      "type": "heliport",
-      "name": "Tyrol State Fire Brigade School Heliport",
-      "elevation_ft": 2423.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Telfs",
-      "coordinates": "47.308638, 11.050546"
-    },
-    {
-      "ident": "LOIO",
-      "type": "heliport",
-      "name": "Sölden Heliport",
-      "elevation_ft": 4764.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Sölden",
-      "coordinates": "46.946556, 11.018499"
-    },
-    {
-      "ident": "LOIP",
-      "type": "heliport",
-      "name": "Ischgl Idalp Heliport",
-      "elevation_ft": 7522.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Ischgl",
-      "coordinates": "46.980419, 10.315908"
-    },
-    {
-      "ident": "LOIQ",
-      "type": "heliport",
-      "name": "Feldkirch Heliport",
-      "elevation_ft": 1449.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-8",
-      "municipality": "Feldkirch",
-      "coordinates": "47.274818, 9.591209"
     },
     {
       "ident": "LOIR",
@@ -1217,17 +1624,6 @@
       "coordinates": "47.470897, 10.6913"
     },
     {
-      "ident": "LOIS",
-      "type": "heliport",
-      "name": "Swarovski Heliport",
-      "elevation_ft": 1818.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Wattens",
-      "coordinates": "47.294643, 11.600066"
-    },
-    {
       "ident": "LOIT",
       "type": "heliport",
       "name": "Sankt Johann in Tirol Hospital Heliport",
@@ -1238,72 +1634,6 @@
       "municipality": "Sankt Johann In Tirol",
       "gps_code": "LOIT",
       "coordinates": "47.520935, 12.429672"
-    },
-    {
-      "ident": "LOIU",
-      "type": "heliport",
-      "name": "Innsbruck University Hospital Heliport",
-      "elevation_ft": 2057.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Innsbruck",
-      "coordinates": "47.261018, 11.384733"
-    },
-    {
-      "ident": "LOIV",
-      "type": "heliport",
-      "name": "Sankt Vinzenz Heliport",
-      "elevation_ft": 2546.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Zams",
-      "coordinates": "47.16131, 10.593883"
-    },
-    {
-      "ident": "LOIW",
-      "type": "heliport",
-      "name": "Waidring Heliport",
-      "elevation_ft": 2493.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Waidring",
-      "coordinates": "47.585304, 12.592628"
-    },
-    {
-      "ident": "LOIX",
-      "type": "heliport",
-      "name": "Bregenz Heliport",
-      "elevation_ft": 1492.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-8",
-      "municipality": "Bregenz",
-      "coordinates": "47.496662, 9.745111"
-    },
-    {
-      "ident": "LOIY",
-      "type": "heliport",
-      "name": "Doctor Schenk Sanatorium Schruns Heliport",
-      "elevation_ft": 2240.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-8",
-      "municipality": "Schruns",
-      "coordinates": "47.073796, 9.913287"
-    },
-    {
-      "ident": "LOIZ",
-      "type": "heliport",
-      "name": "Schwaz Heliport",
-      "elevation_ft": 1827.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Schwaz",
-      "coordinates": "47.343887, 11.704742"
     },
     {
       "ident": "LOJB",
@@ -1331,6 +1661,16 @@
       "coordinates": "47.48886, 12.36512"
     },
     {
+      "ident": "LOJD",
+      "type": "heliport",
+      "name": "Dornbirn City Hospital Heliport",
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-8",
+      "municipality": "Dornbirn",
+      "coordinates": "47.406315, 9.740058"
+    },
+    {
       "ident": "LOJH",
       "type": "heliport",
       "name": "Hochgurgl Heliport",
@@ -1355,50 +1695,6 @@
       "gps_code": "LOJI",
       "local_code": "LOJI",
       "coordinates": "47.21341, 10.70015"
-    },
-    {
-      "ident": "LOJK",
-      "type": "heliport",
-      "name": "Kaltenbach Heliport",
-      "elevation_ft": 1791.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Kaltenbach",
-      "coordinates": "47.284914, 11.880088"
-    },
-    {
-      "ident": "LOJM",
-      "type": "heliport",
-      "name": "Mayrhofen Heliport",
-      "elevation_ft": 2000.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Mayrhofen",
-      "coordinates": "47.17763, 11.867096"
-    },
-    {
-      "ident": "LOJO",
-      "type": "heliport",
-      "name": "Innsbruck Air Rescue Center ÖAMTC Heliport",
-      "elevation_ft": 1998.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Innsbruck",
-      "coordinates": "47.255034, 11.345485"
-    },
-    {
-      "ident": "LOJP",
-      "type": "heliport",
-      "name": "Karres Heliport",
-      "elevation_ft": 2534.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Karres",
-      "coordinates": "47.218956, 10.768817"
     },
     {
       "ident": "LOJR",
@@ -1439,17 +1735,6 @@
       "coordinates": "47.133498, 11.70391"
     },
     {
-      "ident": "LOJZ",
-      "type": "heliport",
-      "name": "Zugspitzarena Heliport",
-      "elevation_ft": 3666.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Ehrwald",
-      "coordinates": "47.419359, 10.926628"
-    },
-    {
       "ident": "LOKA",
       "type": "heliport",
       "name": "Klagenfurt Clinic Heliport",
@@ -1460,39 +1745,6 @@
       "municipality": "Klagenfurt am Wörthersee",
       "gps_code": "LOKA",
       "coordinates": "46.635386, 14.306521"
-    },
-    {
-      "ident": "LOKB",
-      "type": "heliport",
-      "name": "Bad Kleinkircheim Heliport",
-      "elevation_ft": 3399.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Bad Kleinkircheim",
-      "coordinates": "46.81194305419922, 13.783888816833496"
-    },
-    {
-      "ident": "LOKC",
-      "type": "heliport",
-      "name": "Glock Heliport",
-      "elevation_ft": 1539.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Ferlach",
-      "coordinates": "46.522736, 14.29705"
-    },
-    {
-      "ident": "LOKD",
-      "type": "heliport",
-      "name": "Föderlach Heliport",
-      "elevation_ft": 1619.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Villach",
-      "coordinates": "46.601768493652344, 13.949712753295898"
     },
     {
       "ident": "LOKF",
@@ -1531,17 +1783,6 @@
       "coordinates": "46.927491, 14.431848"
     },
     {
-      "ident": "LOKI",
-      "type": "heliport",
-      "name": "Wietersdorf Heliport",
-      "elevation_ft": 2070.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Wietersdorf",
-      "coordinates": "46.8477783203125, 14.536944389343262"
-    },
-    {
       "ident": "LOKJ",
       "type": "heliport",
       "name": "Lienz Hospital Heliport",
@@ -1552,17 +1793,6 @@
       "municipality": "Lienz",
       "gps_code": "LOKJ",
       "coordinates": "46.834961, 12.764722"
-    },
-    {
-      "ident": "LOKK",
-      "type": "heliport",
-      "name": "Hallegg Heliport",
-      "elevation_ft": 1493.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Halleg",
-      "coordinates": "46.64805603027344, 14.245833396911621"
     },
     {
       "ident": "LOKL",
@@ -1601,28 +1831,6 @@
       "coordinates": "46.5811, 13.6292"
     },
     {
-      "ident": "LOKO",
-      "type": "heliport",
-      "name": "Goldeck Talstation Heliport",
-      "elevation_ft": 1761.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-5",
-      "municipality": "Goldeck Talstation",
-      "coordinates": "46.79315185546875, 13.483258247375488"
-    },
-    {
-      "ident": "LOKP",
-      "type": "heliport",
-      "name": "Deutsch-Ordens-Spital Heliport",
-      "elevation_ft": 2113.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Friesach",
-      "coordinates": "46.94722366333008, 14.410833358764648"
-    },
-    {
       "ident": "LOKQ",
       "type": "heliport",
       "name": "Lienz-Nikolsdorf ÖAMTC Heliport",
@@ -1647,50 +1855,6 @@
       "coordinates": "46.743139, 14.413134"
     },
     {
-      "ident": "LOKS",
-      "type": "heliport",
-      "name": "St. Andrä Im Lavanttal Heliport",
-      "elevation_ft": 1414.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "St. Andrä",
-      "coordinates": "46.758331298828125, 14.825555801391602"
-    },
-    {
-      "ident": "LOKT",
-      "type": "heliport",
-      "name": "Villach Heliport",
-      "elevation_ft": 1732.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Villach",
-      "coordinates": "46.615692138671875, 13.857175827026367"
-    },
-    {
-      "ident": "LOKU",
-      "type": "heliport",
-      "name": "Carinthia University Hospital Rooftop Helipad 2",
-      "elevation_ft": 1506.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Klagenfurt am Wörthersee",
-      "coordinates": "46.617901, 14.295486"
-    },
-    {
-      "ident": "LOKV",
-      "type": "heliport",
-      "name": "Febau Heliport",
-      "elevation_ft": 1568.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Völkermarkt",
-      "coordinates": "46.661109924316406, 14.615833282470703"
-    },
-    {
       "ident": "LOKW",
       "type": "small_airport",
       "name": "Wolfsberg Airfield",
@@ -1701,28 +1865,6 @@
       "municipality": "Wolfsberg",
       "gps_code": "LOKW",
       "coordinates": "46.818202, 14.825154"
-    },
-    {
-      "ident": "LOKX",
-      "type": "heliport",
-      "name": "Feldkirchen-Waiern Heliport",
-      "elevation_ft": 2014.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Feldkirchen-Waiern",
-      "coordinates": "46.73444366455078, 14.087778091430664"
-    },
-    {
-      "ident": "LOKZ",
-      "type": "heliport",
-      "name": "Zwatzhof Heliport",
-      "elevation_ft": 2500.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Zwatzhof",
-      "coordinates": "46.975555419921875, 14.2747220993042"
     },
     {
       "ident": "LOLA",
@@ -1893,28 +2035,6 @@
       "coordinates": "48.182513, 14.039283"
     },
     {
-      "ident": "LOMP",
-      "type": "heliport",
-      "name": "Patergassen Heliport",
-      "elevation_ft": 3576.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Patergassen",
-      "coordinates": "46.81944274902344, 13.857221603393555"
-    },
-    {
-      "ident": "LOMW",
-      "type": "heliport",
-      "name": "Dachlandeplatz Heliport",
-      "elevation_ft": 1575.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-2",
-      "municipality": "Wolfsberg",
-      "coordinates": "46.83250045776367, 14.848055839538574"
-    },
-    {
       "ident": "LOPE",
       "type": "heliport",
       "name": "Elisabethinen Hospital Helipad",
@@ -1927,28 +2047,6 @@
       "coordinates": "48.305416, 14.294207"
     },
     {
-      "ident": "LOSJ",
-      "type": "heliport",
-      "name": "St. Johann Im Pongau Heliport",
-      "elevation_ft": 1803.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-5",
-      "municipality": "St. Johann Im Pongau",
-      "coordinates": "47.394168853759766, 13.222222328186035"
-    },
-    {
-      "ident": "LOSL",
-      "type": "heliport",
-      "name": "Dachlandeplatz Heliport",
-      "elevation_ft": 1452.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-5",
-      "municipality": "Salzburg",
-      "coordinates": "47.80583953857422, 13.027724266052246"
-    },
-    {
       "ident": "LOSM",
       "type": "small_airport",
       "name": "Mauterndorf Airfield",
@@ -1959,17 +2057,6 @@
       "municipality": "Mauterndorf",
       "gps_code": "LOSM",
       "coordinates": "47.131995, 13.695867"
-    },
-    {
-      "ident": "LOSS",
-      "type": "heliport",
-      "name": "Schwarzach Heliport",
-      "elevation_ft": 2046.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-5",
-      "municipality": "Schwarzach",
-      "coordinates": "47.32444381713867, 13.154999732971191"
     },
     {
       "ident": "LOWG",
@@ -2074,28 +2161,6 @@
       "coordinates": "47.53573, 14.141488"
     },
     {
-      "ident": "LOXH",
-      "type": "heliport",
-      "name": "Hochfilzen Heliport",
-      "elevation_ft": 3484.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Hochfilzen",
-      "coordinates": "47.477500915527344, 12.650278091430664"
-    },
-    {
-      "ident": "LOXI",
-      "type": "heliport",
-      "name": "Schwaz Military Heliport",
-      "elevation_ft": 1774.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-7",
-      "municipality": "Schwaz",
-      "coordinates": "47.334998, 11.697559"
-    },
-    {
       "ident": "LOXN",
       "type": "small_airport",
       "name": "Wiener Neustadt West Airport",
@@ -2106,17 +2171,6 @@
       "municipality": "Wiener Neustadt",
       "gps_code": "LOXN",
       "coordinates": "47.836933, 16.221838"
-    },
-    {
-      "ident": "LOXS",
-      "type": "heliport",
-      "name": "Schwarzenbergkaserne Military Heliport",
-      "elevation_ft": 1433.0,
-      "continent": "EU",
-      "iso_country": "AT",
-      "iso_region": "AT-5",
-      "municipality": "Salzburg",
-      "coordinates": "47.79750061035156, 12.981666564941406"
     },
     {
       "ident": "LOXT",

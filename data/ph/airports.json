@@ -2,28 +2,17 @@
   "country_code": "PH",
   "country_name": "Philippines",
   "total_airports": 797,
-  "last_updated": "2025-02-28T00:08:11.566800",
+  "last_updated": "2025-03-01T00:09:11.885434",
   "types_distribution": {
     "small_airport": 196,
-    "medium_airport": 54,
     "heliport": 400,
     "closed": 137,
     "seaplane_base": 6,
+    "medium_airport": 54,
     "balloonport": 1,
     "large_airport": 3
   },
   "airports": [
-    {
-      "ident": "ACFC",
-      "type": "small_airport",
-      "name": "Woodland Airpark",
-      "elevation_ft": 100.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-PAM",
-      "municipality": "Magalang",
-      "coordinates": "15.254326, 120.677772"
-    },
     {
       "ident": "CGG",
       "type": "small_airport",
@@ -83,19 +72,6 @@
       "municipality": "Lebak",
       "iata_code": "LWA",
       "coordinates": "6.6739, 124.0581"
-    },
-    {
-      "ident": "PH-0001",
-      "type": "medium_airport",
-      "name": "Laguindingan International Airport",
-      "elevation_ft": 190.0,
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-MSR",
-      "municipality": "Laguindingan",
-      "gps_code": "RPMY",
-      "iata_code": "CGY",
-      "coordinates": "8.612203, 124.456496"
     },
     {
       "ident": "PH-0002",
@@ -7208,6 +7184,18 @@
       "coordinates": "5.566779, 120.841627"
     },
     {
+      "ident": "PH-0687",
+      "type": "small_airport",
+      "name": "Woodland Airpark",
+      "elevation_ft": 100.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-PAM",
+      "municipality": "Magalang",
+      "local_code": "ACFC",
+      "coordinates": "15.254326, 120.677772"
+    },
+    {
       "ident": "PRNO",
       "type": "small_airport",
       "name": "Siocon Airport",
@@ -7808,6 +7796,19 @@
       "municipality": "Liloy",
       "gps_code": "RPMX",
       "coordinates": "8.102059, 122.670422"
+    },
+    {
+      "ident": "RPMY",
+      "type": "medium_airport",
+      "name": "Laguindingan International Airport",
+      "elevation_ft": 190.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-MSR",
+      "municipality": "Laguindingan",
+      "gps_code": "RPMY",
+      "iata_code": "CGY",
+      "coordinates": "8.612203, 124.456496"
     },
     {
       "ident": "RPMZ",

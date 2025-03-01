@@ -2,7 +2,7 @@
   "country_code": "PL",
   "country_name": "Poland",
   "total_airports": 383,
-  "last_updated": "2025-02-28T00:08:11.870751",
+  "last_updated": "2025-03-01T00:09:11.958441",
   "types_distribution": {
     "small_airport": 288,
     "heliport": 16,
@@ -59,17 +59,6 @@
       "coordinates": "52.269199, 20.907203"
     },
     {
-      "ident": "EPBD",
-      "type": "small_airport",
-      "name": "Bydgoszcz Aeroklub Airfield",
-      "elevation_ft": 230.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-KP",
-      "municipality": "Bydgoszcz",
-      "coordinates": "53.105214, 17.960376"
-    },
-    {
       "ident": "EPBH",
       "type": "heliport",
       "name": "Bydgoszcz Baza Lpr Heliport",
@@ -91,17 +80,6 @@
       "municipality": "Białystok",
       "gps_code": "EPBK",
       "coordinates": "53.101398, 23.170601"
-    },
-    {
-      "ident": "EPBS",
-      "type": "small_airport",
-      "name": "Borne Sulinowo Airfield",
-      "elevation_ft": 469.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-ZP",
-      "municipality": "Borne Sulinowo",
-      "coordinates": "53.576149, 16.527729"
     },
     {
       "ident": "EPBY",
@@ -1078,16 +1056,6 @@
       "iso_region": "PL-ZP",
       "gps_code": "EPSN",
       "coordinates": "53.790599823, 15.826299667399999"
-    },
-    {
-      "ident": "EPSO",
-      "type": "small_airport",
-      "name": "Sochaczew Air Base",
-      "elevation_ft": 259.0,
-      "continent": "EU",
-      "iso_country": "PL",
-      "iso_region": "PL-MZ",
-      "coordinates": "52.198601, 20.292801"
     },
     {
       "ident": "EPSS",
@@ -4211,6 +4179,41 @@
       "iso_region": "PL-MA",
       "municipality": "Kraków",
       "coordinates": "50.084353, 19.99031"
+    },
+    {
+      "ident": "PL-0273",
+      "type": "small_airport",
+      "name": "Sochaczew Air Base",
+      "elevation_ft": 259.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-MZ",
+      "local_code": "EPSO",
+      "coordinates": "52.198601, 20.292801"
+    },
+    {
+      "ident": "PL-0274",
+      "type": "small_airport",
+      "name": "Bydgoszcz Aeroklub Airfield",
+      "elevation_ft": 230.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-KP",
+      "municipality": "Bydgoszcz",
+      "local_code": "EPBD",
+      "coordinates": "53.105214, 17.960376"
+    },
+    {
+      "ident": "PL-0275",
+      "type": "small_airport",
+      "name": "Borne Sulinowo Airfield",
+      "elevation_ft": 469.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-ZP",
+      "municipality": "Borne Sulinowo",
+      "local_code": "EPBS",
+      "coordinates": "53.576149, 16.527729"
     }
   ]
 }

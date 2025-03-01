@@ -2,7 +2,7 @@
   "country_code": "DE",
   "country_name": "Germany",
   "total_airports": 1396,
-  "last_updated": "2025-02-28T00:08:11.824027",
+  "last_updated": "2025-03-01T00:09:11.910785",
   "types_distribution": {
     "heliport": 447,
     "closed": 105,
@@ -9832,6 +9832,30 @@
       "coordinates": "49.855, 7.603333"
     },
     {
+      "ident": "DE-0910",
+      "type": "small_airport",
+      "name": "Rheinstetten Glider Field",
+      "elevation_ft": 380.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-BW",
+      "municipality": "Rheinstetten",
+      "local_code": "RHST",
+      "coordinates": "48.9777, 8.3425"
+    },
+    {
+      "ident": "DE-0911",
+      "type": "heliport",
+      "name": "Christoph Hansa ADAC Helipad",
+      "elevation_ft": 136.0,
+      "continent": "EU",
+      "iso_country": "DE",
+      "iso_region": "DE-HH",
+      "municipality": "Hamburg",
+      "local_code": "HHBG",
+      "coordinates": "53.507971, 10.173382"
+    },
+    {
       "ident": "EDAB",
       "type": "small_airport",
       "name": "Bautzen Airfield",
@@ -15722,28 +15746,6 @@
       "iso_region": "DE-NI",
       "gps_code": "ETWM",
       "coordinates": "52.723202, 7.32633"
-    },
-    {
-      "ident": "HHBG",
-      "type": "heliport",
-      "name": "Christoph Hansa ADAC Helipad",
-      "elevation_ft": 136.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-HH",
-      "municipality": "Hamburg",
-      "coordinates": "53.507971, 10.173382"
-    },
-    {
-      "ident": "RHST",
-      "type": "small_airport",
-      "name": "Rheinstetten Glider Field",
-      "elevation_ft": 380.0,
-      "continent": "EU",
-      "iso_country": "DE",
-      "iso_region": "DE-BW",
-      "municipality": "Rheinstetten",
-      "coordinates": "48.9777, 8.3425"
     }
   ]
 }

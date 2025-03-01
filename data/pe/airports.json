@@ -2,7 +2,7 @@
   "country_code": "PE",
   "country_name": "Peru",
   "total_airports": 206,
-  "last_updated": "2025-02-28T00:08:12.016932",
+  "last_updated": "2025-03-01T00:09:12.104850",
   "types_distribution": {
     "small_airport": 143,
     "closed": 25,
@@ -363,18 +363,6 @@
       "coordinates": "-15.63627, -71.61376"
     },
     {
-      "ident": "PE-0033",
-      "type": "small_airport",
-      "name": "Bolognesi Airport",
-      "elevation_ft": 630.0,
-      "continent": "SA",
-      "iso_country": "PE",
-      "iso_region": "PE-UCA",
-      "municipality": "Bolognesi",
-      "gps_code": "SPBL",
-      "coordinates": "-10.029555, -73.943375"
-    },
-    {
       "ident": "PE-0034",
       "type": "heliport",
       "name": "Central FAP Hospital Helipad",
@@ -617,6 +605,19 @@
       "coordinates": "-13.959167, -73.185837"
     },
     {
+      "ident": "PE-0056",
+      "type": "small_airport",
+      "name": "Huallaga Airport",
+      "elevation_ft": 980.0,
+      "continent": "SA",
+      "iso_country": "PE",
+      "iso_region": "PE-SAM",
+      "municipality": "Bellavista",
+      "iata_code": "BLP",
+      "local_code": "SPBL",
+      "coordinates": "-7.06056, -76.582199"
+    },
+    {
       "ident": "SOML",
       "type": "small_airport",
       "name": "Malin Airport",
@@ -793,14 +794,14 @@
     {
       "ident": "SPBL",
       "type": "small_airport",
-      "name": "Huallaga Airport",
-      "elevation_ft": 980.0,
+      "name": "Bolognesi Airport",
+      "elevation_ft": 630.0,
       "continent": "SA",
       "iso_country": "PE",
-      "iso_region": "PE-SAM",
-      "municipality": "Bellavista",
-      "iata_code": "BLP",
-      "coordinates": "-7.06056, -76.582199"
+      "iso_region": "PE-UCA",
+      "municipality": "Bolognesi",
+      "gps_code": "SPBL",
+      "coordinates": "-10.029555, -73.943375"
     },
     {
       "ident": "SPBQ",

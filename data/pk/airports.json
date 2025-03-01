@@ -2,7 +2,7 @@
   "country_code": "PK",
   "country_name": "Pakistan",
   "total_airports": 189,
-  "last_updated": "2025-02-28T00:08:12.014016",
+  "last_updated": "2025-03-01T00:09:12.101940",
   "types_distribution": {
     "small_airport": 77,
     "medium_airport": 37,
@@ -528,14 +528,15 @@
     {
       "ident": "OPGD",
       "type": "medium_airport",
-      "name": "Gwadar International Airport",
-      "elevation_ft": 36.0,
+      "name": "New Gwadar International Airport",
+      "elevation_ft": 61.0,
       "continent": "AS",
       "iso_country": "PK",
       "iso_region": "PK-BA",
-      "municipality": "Gwadar",
+      "municipality": "Gurandani",
       "gps_code": "OPGD",
-      "coordinates": "25.232391, 62.327671"
+      "iata_code": "GWD",
+      "coordinates": "25.296733, 62.498822"
     },
     {
       "ident": "OPGT",
@@ -549,6 +550,18 @@
       "gps_code": "OPGT",
       "iata_code": "GIL",
       "coordinates": "35.918800354003906, 74.33360290527344"
+    },
+    {
+      "ident": "OPGW",
+      "type": "medium_airport",
+      "name": "Gwadar International Airport",
+      "elevation_ft": 36.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-BA",
+      "municipality": "Gwadar",
+      "gps_code": "OPGW",
+      "coordinates": "25.232391, 62.327671"
     },
     {
       "ident": "OPIS",
@@ -1680,18 +1693,6 @@
       "iso_region": "PK-KP",
       "municipality": "Abbottabad",
       "coordinates": "34.19513, 73.24391"
-    },
-    {
-      "ident": "PK-0044",
-      "type": "medium_airport",
-      "name": "New Gwadar International Airport",
-      "elevation_ft": 61.0,
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-BA",
-      "municipality": "Gurandani",
-      "iata_code": "GWD",
-      "coordinates": "25.296733, 62.498822"
     },
     {
       "ident": "PK-0045",

@@ -2,30 +2,17 @@
   "country_code": "JP",
   "country_name": "Japan",
   "total_airports": 3738,
-  "last_updated": "2025-02-28T00:08:11.941438",
+  "last_updated": "2025-03-01T00:09:12.038437",
   "types_distribution": {
-    "medium_airport": 95,
     "seaplane_base": 6,
     "heliport": 3030,
     "closed": 419,
     "small_airport": 173,
     "balloonport": 3,
-    "large_airport": 12
+    "large_airport": 12,
+    "medium_airport": 95
   },
   "airports": [
-    {
-      "ident": "ISG",
-      "type": "medium_airport",
-      "name": "New Ishigaki Airport",
-      "elevation_ft": 102.0,
-      "continent": "AS",
-      "iso_country": "JP",
-      "iso_region": "JP-47",
-      "municipality": "Ishigaki",
-      "gps_code": "ROIG",
-      "iata_code": "ISG",
-      "coordinates": "24.396389, 124.245"
-    },
     {
       "ident": "JP-0001",
       "type": "seaplane_base",
@@ -38691,6 +38678,19 @@
       "gps_code": "RODN",
       "iata_code": "DNA",
       "coordinates": "26.351667, 127.769444"
+    },
+    {
+      "ident": "ROIG",
+      "type": "medium_airport",
+      "name": "New Ishigaki Airport",
+      "elevation_ft": 102.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "gps_code": "ROIG",
+      "iata_code": "ISG",
+      "coordinates": "24.396389, 124.245"
     },
     {
       "ident": "ROKJ",
