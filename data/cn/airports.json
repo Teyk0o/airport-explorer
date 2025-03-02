@@ -1,13 +1,13 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 725,
-  "last_updated": "2025-03-01T00:09:11.665542",
+  "total_airports": 716,
+  "last_updated": "2025-03-02T00:08:53.526916",
   "types_distribution": {
-    "small_airport": 243,
+    "small_airport": 241,
     "medium_airport": 274,
     "closed": 57,
-    "heliport": 107,
+    "heliport": 100,
     "seaplane_base": 3,
     "balloonport": 2,
     "large_airport": 39
@@ -1401,16 +1401,6 @@
       "coordinates": "31.909401, 117.658997"
     },
     {
-      "ident": "CN-0148",
-      "type": "heliport",
-      "name": "Zhaoshu Dao (Tree Island) Heliport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Zhaoshu Dao / Tree Island)",
-      "coordinates": "16.9782, 112.2664"
-    },
-    {
       "ident": "CN-0149",
       "type": "medium_airport",
       "name": "Fuzhou Air Base",
@@ -1420,28 +1410,6 @@
       "iso_region": "CN-35",
       "municipality": "Fuzhou (Cangshan)",
       "coordinates": "26.003857, 119.312832"
-    },
-    {
-      "ident": "CN-0150",
-      "type": "heliport",
-      "name": "Shanhu Dao (Pattle Island) Heliport",
-      "elevation_ft": 10.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Shanhu Dao / Pattle Island)",
-      "coordinates": "16.535115, 111.608675"
-    },
-    {
-      "ident": "CN-0151",
-      "type": "heliport",
-      "name": "Jinyin Dao (Money Island) Heliport",
-      "elevation_ft": 23.0,
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Jinyin Dao / Money Island)",
-      "coordinates": "16.447476, 111.507111"
     },
     {
       "ident": "CN-0152",
@@ -3292,39 +3260,9 @@
       "coordinates": "9.908255, 114.49831"
     },
     {
-      "ident": "CN-0325",
-      "type": "heliport",
-      "name": "Lingyang Jiao (Antelope Reef) Heliport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Lingyang Dao / Antelope Reef)",
-      "coordinates": "16.44635, 111.606529"
-    },
-    {
-      "ident": "CN-0326",
-      "type": "heliport",
-      "name": "Chenhang Dao (Duncan Island) Heliport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Chenhang Dao / Duncan Island)",
-      "coordinates": "16.454206, 111.706946"
-    },
-    {
-      "ident": "CN-0327",
-      "type": "heliport",
-      "name": "Zhongjian Dao (Triton Island) Heliport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Zhongjian Dao / Triton Island)",
-      "coordinates": "15.782977, 111.198893"
-    },
-    {
       "ident": "CN-0328",
       "type": "heliport",
-      "name": "Xixiangtang Poiice Heliport",
+      "name": "Xixiangtang Police Heliport",
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-45",
@@ -4059,22 +3997,12 @@
       "coordinates": "24.5556, 118.3534"
     },
     {
-      "ident": "CN-0400",
-      "type": "heliport",
-      "name": "Bei Dao (North Island) Heliport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Bei Dao / North Island)",
-      "coordinates": "16.96058, 112.3147"
-    },
-    {
       "ident": "CN-0401",
       "type": "medium_airport",
-      "name": "Ningxiang",
+      "name": "Ningxiang Airport",
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-U-A",
+      "iso_region": "CN-43",
       "coordinates": "27.987589, 112.604971"
     },
     {
@@ -4105,7 +4033,7 @@
       "name": "Shidaojiao",
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-U-A",
+      "iso_region": "CN-37",
       "coordinates": "36.47054, 120.951246"
     },
     {
@@ -4129,10 +4057,10 @@
     {
       "ident": "CN-0407",
       "type": "small_airport",
-      "name": "EAST RED",
+      "name": "East Red Airport",
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-U-A",
+      "iso_region": "CN-44",
       "coordinates": "24.170412, 114.799213"
     },
     {
@@ -4147,15 +4075,6 @@
     },
     {
       "ident": "CN-0409",
-      "type": "small_airport",
-      "name": "Triton Island",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-U-A",
-      "coordinates": "15.783767, 111.200759"
-    },
-    {
-      "ident": "CN-0410",
       "type": "small_airport",
       "name": "Triton Island",
       "continent": "AS",
@@ -4329,10 +4248,10 @@
     {
       "ident": "CN-0426",
       "type": "small_airport",
-      "name": "Huhe Tata",
+      "name": "Huhe Tata Airport",
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-U-A",
+      "iso_region": "CN-15",
       "coordinates": "39.665872, 105.464137"
     },
     {
@@ -4392,10 +4311,10 @@
     {
       "ident": "CN-0432",
       "type": "small_airport",
-      "name": "Taizhou Bay",
+      "name": "Taizhou Bay Airport",
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-U-A",
+      "iso_region": "CN-33",
       "coordinates": "28.572398, 121.576485"
     },
     {
@@ -5164,7 +5083,7 @@
     {
       "ident": "ZBYN",
       "type": "large_airport",
-      "name": "Taiyuan Wusu Airport",
+      "name": "Taiyuan Wusu International Airport",
       "elevation_ft": 2575.0,
       "continent": "AS",
       "iso_country": "CN",
@@ -5628,7 +5547,7 @@
       "elevation_ft": 86.0,
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-13",
+      "iso_region": "CN-42",
       "municipality": "Ezhou",
       "gps_code": "ZHEC",
       "iata_code": "EHU",
@@ -5826,18 +5745,6 @@
       "gps_code": "ZJSY",
       "iata_code": "SYX",
       "coordinates": "18.3029, 109.412003"
-    },
-    {
-      "ident": "ZJYX",
-      "type": "small_airport",
-      "name": "Yongxing Dao (Woody Island) Airport",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-46",
-      "municipality": "Sansha (Yongxing Dao / Woody Island)",
-      "gps_code": "ZJYX",
-      "iata_code": "XYI",
-      "coordinates": "16.8328, 112.344002"
     },
     {
       "ident": "ZLAK",
@@ -6954,6 +6861,7 @@
       "ident": "ZSYN",
       "type": "medium_airport",
       "name": "Yancheng Nanyang International Airport",
+      "elevation_ft": 10.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-32",

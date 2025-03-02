@@ -2,10 +2,10 @@
   "country_code": "BR",
   "country_name": "Brazil",
   "total_airports": 7434,
-  "last_updated": "2025-03-01T00:09:11.772135",
+  "last_updated": "2025-03-02T00:08:53.631441",
   "types_distribution": {
-    "small_airport": 5147,
-    "closed": 285,
+    "small_airport": 5146,
+    "closed": 286,
     "heliport": 1867,
     "medium_airport": 124,
     "large_airport": 11
@@ -26429,7 +26429,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Chapada dos Guimarães",
-      "local_code": "SIGF",
       "coordinates": "-14.99125, -55.817712"
     },
     {
@@ -26441,8 +26440,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Vila Rica",
-      "local_code": "SJGP",
-      "coordinates": "-10.042222222222, -51.589166666667"
+      "coordinates": "-10.042222, -51.589167"
     },
     {
       "ident": "BR-2165",
@@ -26465,7 +26463,6 @@
       "iso_country": "BR",
       "iso_region": "BR-BA",
       "municipality": "Adustina",
-      "local_code": "SNAH",
       "coordinates": "-10.5809, -38.088799"
     },
     {
@@ -26477,7 +26474,6 @@
       "iso_country": "BR",
       "iso_region": "BR-BA",
       "municipality": "Amargosa",
-      "local_code": "SNAZ",
       "coordinates": "-12.9936, -39.639902"
     },
     {
@@ -26489,8 +26485,7 @@
       "iso_country": "BR",
       "iso_region": "BR-BA",
       "municipality": "Juazeiro",
-      "local_code": "SNBD",
-      "coordinates": "-9.462010383606, -40.824298858643"
+      "coordinates": "-9.46201, -40.824299"
     },
     {
       "ident": "BR-2169",
@@ -26500,9 +26495,8 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PA",
-      "municipality": "Ipixuna Do Pará",
-      "local_code": "SNBV",
-      "coordinates": "-2.5233099460602, -47.517398834229"
+      "municipality": "Ipixuna do Pará",
+      "coordinates": "-2.52331, -47.517399"
     },
     {
       "ident": "BR-2170",
@@ -26513,8 +26507,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MG",
       "municipality": "Bambuí",
-      "local_code": "SNBY",
-      "coordinates": "-20.036399841309, -45.972301483154"
+      "coordinates": "-20.0364, -45.972301"
     },
     {
       "ident": "BR-2171",
@@ -26526,7 +26519,6 @@
       "iso_region": "BR-MG",
       "municipality": "Leopoldina",
       "iata_code": "LEP",
-      "local_code": "SNDN",
       "coordinates": "-21.468226, -42.727076"
     },
     {
@@ -26537,9 +26529,8 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PE",
-      "municipality": "Belém De São Francisco",
-      "local_code": "SNFR",
-      "coordinates": "-8.7695903778076, -38.949600219727"
+      "municipality": "Belém de São Francisco",
+      "coordinates": "-8.76959, -38.9496"
     },
     {
       "ident": "BR-2173",
@@ -26550,8 +26541,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MG",
       "municipality": "Sacramento",
-      "local_code": "SNJW",
-      "coordinates": "-20.040300369263, -47.421501159668"
+      "coordinates": "-20.0403, -47.421501"
     },
     {
       "ident": "BR-2174",
@@ -26562,20 +26552,18 @@
       "iso_country": "BR",
       "iso_region": "BR-MG",
       "municipality": "Ituiutaba",
-      "local_code": "SNND",
       "coordinates": "-18.935313, -49.473345"
     },
     {
       "ident": "BR-2175",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Carinhanha Airport",
       "elevation_ft": 1483.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-BA",
       "municipality": "Carinhanha",
-      "local_code": "SNNH",
-      "coordinates": "-14.298500061035, -43.797298431396"
+      "coordinates": "-14.299432, -43.797694"
     },
     {
       "ident": "BR-2176",
@@ -26586,8 +26574,9 @@
       "iso_country": "BR",
       "iso_region": "BR-MG",
       "municipality": "Nova Ponte",
-      "local_code": "SNNT",
-      "coordinates": "-19.198400497437, -47.728698730469"
+      "gps_code": "SSYD",
+      "local_code": "MG0193",
+      "coordinates": "-19.1984, -47.728699"
     },
     {
       "ident": "BR-2177",
@@ -26598,7 +26587,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Sorriso",
-      "local_code": "SNOO",
       "coordinates": "-13.395093, -55.642545"
     },
     {
@@ -26610,7 +26598,6 @@
       "iso_country": "BR",
       "iso_region": "BR-PE",
       "municipality": "Ouricuri",
-      "local_code": "SNOY",
       "coordinates": "-7.87652, -40.091801"
     },
     {
@@ -87782,8 +87769,7 @@
       "iso_country": "BR",
       "iso_region": "BR-TO",
       "municipality": "Pau D`Arco",
-      "gps_code": "SSYD",
-      "coordinates": "-7.548056125640869, -49.20805740356445"
+      "coordinates": "-7.548056, -49.208057"
     },
     {
       "ident": "SSYE",

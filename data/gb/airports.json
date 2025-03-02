@@ -2,7 +2,7 @@
   "country_code": "GB",
   "country_name": "United Kingdom",
   "total_airports": 1523,
-  "last_updated": "2025-03-01T00:09:11.723737",
+  "last_updated": "2025-03-02T00:08:53.584036",
   "types_distribution": {
     "closed": 351,
     "small_airport": 964,
@@ -23,27 +23,6 @@
       "iso_region": "GB-ENG",
       "municipality": "Cambridge, Cambridgeshire",
       "coordinates": "52.051389, 0.378611"
-    },
-    {
-      "ident": "EG03",
-      "type": "small_airport",
-      "name": "Badminton Airfield",
-      "elevation_ft": 495.0,
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Badminton, Gloucestershire",
-      "coordinates": "51.548417, -2.303181"
-    },
-    {
-      "ident": "EG19",
-      "type": "small_airport",
-      "name": "Boon Hill Farm Airstrip",
-      "continent": "EU",
-      "iso_country": "GB",
-      "iso_region": "GB-ENG",
-      "municipality": "Fadmoor, Kirbymoorside",
-      "coordinates": "54.308086, -0.983105"
     },
     {
       "ident": "EG34",
@@ -1249,7 +1228,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "London/Gatwick, West Sussex",
+      "municipality": "London",
       "gps_code": "EGKK",
       "iata_code": "LGW",
       "coordinates": "51.148771, -0.192089"
@@ -2890,7 +2869,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Wigton, Cumbria",
-      "local_code": "EG37",
       "coordinates": "54.882099, -3.204731"
     },
     {
@@ -3637,7 +3615,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Brackley, Northmanptonshire",
-      "local_code": "EG2A",
       "coordinates": "52.028717, -1.207157"
     },
     {
@@ -16068,7 +16045,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Selby, North Yorkshire",
-      "local_code": "EGBR",
       "coordinates": "53.802794, -0.917179"
     },
     {
@@ -16103,7 +16079,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Cark",
-      "local_code": "CARK",
       "coordinates": "54.163753, -2.962299"
     },
     {
@@ -16129,6 +16104,27 @@
       "municipality": "Bognor Regis, West Sussex",
       "local_code": "EGKC",
       "coordinates": "50.801667, -0.658847"
+    },
+    {
+      "ident": "GB-1281",
+      "type": "small_airport",
+      "name": "Badminton Airfield",
+      "elevation_ft": 495.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Badminton, Gloucestershire",
+      "coordinates": "51.548417, -2.303181"
+    },
+    {
+      "ident": "GB-1282",
+      "type": "small_airport",
+      "name": "Boon Hill Farm Airstrip",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Fadmoor, Kirbymoorside",
+      "coordinates": "54.308086, -0.983105"
     },
     {
       "ident": "GB-DOC",

@@ -1,0 +1,104 @@
+{
+  "country_code": "XP",
+  "country_name": "XP",
+  "total_airports": 9,
+  "last_updated": "2025-03-02T00:08:53.975168",
+  "types_distribution": {
+    "heliport": 7,
+    "small_airport": 2
+  },
+  "airports": [
+    {
+      "ident": "XP-0001",
+      "type": "heliport",
+      "name": "Zhongjian Dao (Triton Island) Heliport",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Triton Island",
+      "coordinates": "15.782977, 111.198893"
+    },
+    {
+      "ident": "XP-0002",
+      "type": "small_airport",
+      "name": "Triton Island Airbase",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Triton Island",
+      "coordinates": "15.783767, 111.200759"
+    },
+    {
+      "ident": "XP-0003",
+      "type": "small_airport",
+      "name": "Yongxing Dao Airbase",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Woody Island",
+      "coordinates": "16.8328, 112.344002"
+    },
+    {
+      "ident": "XP-0004",
+      "type": "heliport",
+      "name": "Chenhang Dao Heliport",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Duncan Island",
+      "coordinates": "16.454206, 111.706946"
+    },
+    {
+      "ident": "XP-0005",
+      "type": "heliport",
+      "name": "Lingyang Jiao Heliport",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Antelope Reef",
+      "coordinates": "16.44635, 111.606529"
+    },
+    {
+      "ident": "XP-0006",
+      "type": "heliport",
+      "name": "Jinyin Dao Heliport",
+      "elevation_ft": 23.0,
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Money Island",
+      "coordinates": "16.447476, 111.507111"
+    },
+    {
+      "ident": "XP-0007",
+      "type": "heliport",
+      "name": "Shanhu Dao Heliport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Pattle Island",
+      "coordinates": "16.535115, 111.608675"
+    },
+    {
+      "ident": "XP-0008",
+      "type": "heliport",
+      "name": "Bei Dao Heliport",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "North Island",
+      "coordinates": "16.96058, 112.3147"
+    },
+    {
+      "ident": "XP-0009",
+      "type": "heliport",
+      "name": "Zhaoshu Dao Heliport",
+      "continent": "AS",
+      "iso_country": "XP",
+      "iso_region": "XP-U-A",
+      "municipality": "Tree Island",
+      "coordinates": "16.9782, 112.2664"
+    }
+  ]
+}

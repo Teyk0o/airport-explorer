@@ -327,8 +327,8 @@
     "name": "Brazil",
     "airport_count": 7434,
     "types_distribution": {
-      "small_airport": 5147,
-      "closed": 285,
+      "small_airport": 5146,
+      "closed": 286,
       "heliport": 1867,
       "medium_airport": 124,
       "large_airport": 11
@@ -490,12 +490,12 @@
   {
     "code": "CN",
     "name": "China",
-    "airport_count": 725,
+    "airport_count": 716,
     "types_distribution": {
-      "small_airport": 243,
+      "small_airport": 241,
       "medium_airport": 274,
       "closed": 57,
-      "heliport": 107,
+      "heliport": 100,
       "seaplane_base": 3,
       "balloonport": 2,
       "large_airport": 39
@@ -594,9 +594,9 @@
   {
     "code": "CY",
     "name": "Cyprus",
-    "airport_count": 91,
+    "airport_count": 90,
     "types_distribution": {
-      "small_airport": 10,
+      "small_airport": 9,
       "closed": 8,
       "heliport": 68,
       "medium_airport": 4,
@@ -883,11 +883,11 @@
   {
     "code": "DE",
     "name": "Germany",
-    "airport_count": 1396,
+    "airport_count": 1395,
     "types_distribution": {
       "heliport": 447,
       "closed": 105,
-      "small_airport": 769,
+      "small_airport": 768,
       "balloonport": 2,
       "medium_airport": 62,
       "large_airport": 10,
@@ -2081,11 +2081,10 @@
   {
     "code": "SM",
     "name": "San Marino",
-    "airport_count": 3,
+    "airport_count": 2,
     "types_distribution": {
       "small_airport": 1,
-      "closed": 1,
-      "heliport": 1
+      "closed": 1
     }
   },
   {
@@ -2247,13 +2246,13 @@
   {
     "code": "KR",
     "name": "South Korea",
-    "airport_count": 1408,
+    "airport_count": 1409,
     "types_distribution": {
       "heliport": 1280,
       "closed": 36,
       "small_airport": 69,
-      "large_airport": 5,
-      "medium_airport": 18
+      "medium_airport": 19,
+      "large_airport": 5
     }
   },
   {
@@ -2664,6 +2663,15 @@
       "heliport": 15,
       "closed": 1,
       "medium_airport": 4
+    }
+  },
+  {
+    "code": "XP",
+    "name": "XP",
+    "airport_count": 9,
+    "types_distribution": {
+      "heliport": 7,
+      "small_airport": 2
     }
   },
   {

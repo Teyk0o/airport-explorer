@@ -2,7 +2,7 @@
   "country_code": "MK",
   "country_name": "Macedonia",
   "total_airports": 31,
-  "last_updated": "2025-03-01T00:09:12.090346",
+  "last_updated": "2025-03-02T00:08:53.944196",
   "types_distribution": {
     "small_airport": 11,
     "medium_airport": 1,
@@ -115,6 +115,17 @@
       "coordinates": "41.958087, 21.622581"
     },
     {
+      "ident": "LWST",
+      "type": "small_airport",
+      "name": "Suchevo Recreational Airfield",
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-002",
+      "municipality": "Štip",
+      "gps_code": "LWST",
+      "coordinates": "41.759745, 22.147781"
+    },
+    {
       "ident": "MK-0001",
       "type": "closed",
       "name": "Gradsko Airfield",
@@ -124,16 +135,6 @@
       "iso_region": "MK-001",
       "municipality": "Gradsko",
       "coordinates": "41.552799, 21.948817"
-    },
-    {
-      "ident": "MK-0002",
-      "type": "small_airport",
-      "name": "Suchevo Recreational Airfield",
-      "continent": "EU",
-      "iso_country": "MK",
-      "iso_region": "MK-002",
-      "municipality": "Štip",
-      "coordinates": "41.759745, 22.147781"
     },
     {
       "ident": "MK-0003",
