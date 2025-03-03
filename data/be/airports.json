@@ -1,11 +1,11 @@
 {
   "country_code": "BE",
   "country_name": "Belgium",
-  "total_airports": 201,
-  "last_updated": "2025-03-02T00:08:53.581884",
+  "total_airports": 202,
+  "last_updated": "2025-03-03T00:08:51.275328",
   "types_distribution": {
     "closed": 40,
-    "heliport": 111,
+    "heliport": 112,
     "balloonport": 1,
     "small_airport": 37,
     "medium_airport": 10,
@@ -1299,6 +1299,18 @@
       "municipality": "Ham",
       "gps_code": "EBHA",
       "coordinates": "51.079179, 5.108932"
+    },
+    {
+      "ident": "EBHC",
+      "type": "heliport",
+      "name": "Hof Van Cleve Heliport",
+      "elevation_ft": 193.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Kruisem",
+      "gps_code": "EBHC",
+      "coordinates": "50.903791, 3.509388"
     },
     {
       "ident": "EBHF",
