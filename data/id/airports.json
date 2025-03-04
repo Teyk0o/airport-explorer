@@ -1,11 +1,11 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 638,
-  "last_updated": "2025-03-03T00:08:51.267864",
+  "total_airports": 633,
+  "last_updated": "2025-03-04T00:08:18.472886",
   "types_distribution": {
-    "small_airport": 471,
-    "closed": 46,
+    "small_airport": 467,
+    "closed": 45,
     "heliport": 43,
     "large_airport": 8,
     "medium_airport": 70
@@ -82,17 +82,6 @@
       "iso_region": "ID-PP",
       "municipality": "Okpahik",
       "coordinates": "-4.697855, 140.770547"
-    },
-    {
-      "ident": "ID-0005",
-      "type": "small_airport",
-      "name": "Ketapang Airport",
-      "elevation_ft": 170.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-JI",
-      "municipality": "Ketapang-Madura Island",
-      "coordinates": "-6.899862766265869, 113.28289031982422"
     },
     {
       "ident": "ID-0006",
@@ -1482,17 +1471,6 @@
       "municipality": "Puldamat",
       "local_code": "PUL",
       "coordinates": "-4.3196, 139.8704"
-    },
-    {
-      "ident": "ID-0127",
-      "type": "small_airport",
-      "name": "Rantau Prapat/Padang Halaban Airport",
-      "elevation_ft": 74.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Rantau Prapat/Padang Halaban",
-      "coordinates": "2.3154, 99.8277"
     },
     {
       "ident": "ID-0128",
@@ -3299,16 +3277,6 @@
       "coordinates": "-8.592566, 116.793819"
     },
     {
-      "ident": "ID-0294",
-      "type": "closed",
-      "name": "Tabanio Airfield",
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-KS",
-      "municipality": "Tabanio",
-      "coordinates": "-3.76366, 114.60923"
-    },
-    {
       "ident": "ID-0295",
       "type": "small_airport",
       "name": "Sungai Nusa Airstrip",
@@ -3729,7 +3697,7 @@
       "iso_country": "ID",
       "iso_region": "ID-SU",
       "municipality": "Pematangsiantar",
-      "coordinates": "2.949968, 99.050009"
+      "coordinates": "2.946003, 99.02417"
     },
     {
       "ident": "ID-0335",
@@ -3835,18 +3803,6 @@
       "iata_code": "BJG",
       "local_code": "WAMB",
       "coordinates": "0.686111, 124.273611"
-    },
-    {
-      "ident": "ID-0344",
-      "type": "small_airport",
-      "name": "Labuhan Bilik Airport",
-      "elevation_ft": 18.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-SU",
-      "municipality": "Labuhan Bilik-Sumatra Island",
-      "local_code": "WIMA",
-      "coordinates": "2.5129, 100.179001"
     },
     {
       "ident": "ID-0345",
@@ -6598,18 +6554,6 @@
       "coordinates": "-6.98277997971, 107.572998047"
     },
     {
-      "ident": "WIAP",
-      "type": "small_airport",
-      "name": "Banyumas Airport",
-      "elevation_ft": 92.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-BT",
-      "municipality": "Banyumas-Java Island",
-      "gps_code": "WIAP",
-      "coordinates": "-6.464849948883057, 105.96900177001953"
-    },
-    {
       "ident": "WIBB",
       "type": "medium_airport",
       "name": "Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",
@@ -6968,6 +6912,19 @@
       "gps_code": "WILP",
       "iata_code": "TFY",
       "coordinates": "-5.211562, 103.936501"
+    },
+    {
+      "ident": "WIMA",
+      "type": "small_airport",
+      "name": "Malikus Saleh Airport",
+      "elevation_ft": 90.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-AC",
+      "municipality": "Lhok Seumawe-Sumatra Island",
+      "gps_code": "WIMA",
+      "iata_code": "LSW",
+      "coordinates": "5.22668, 96.950302"
     },
     {
       "ident": "WIMB",
@@ -7428,19 +7385,6 @@
       "gps_code": "WITL",
       "iata_code": "LSX",
       "coordinates": "5.06951, 97.259201"
-    },
-    {
-      "ident": "WITM",
-      "type": "small_airport",
-      "name": "Malikus Saleh Airport",
-      "elevation_ft": 90.0,
-      "continent": "AS",
-      "iso_country": "ID",
-      "iso_region": "ID-AC",
-      "municipality": "Lhok Seumawe-Sumatra Island",
-      "gps_code": "WIMA",
-      "iata_code": "LSW",
-      "coordinates": "5.22668, 96.950302"
     },
     {
       "ident": "WITN",

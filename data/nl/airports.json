@@ -2,13 +2,13 @@
   "country_code": "NL",
   "country_name": "Netherlands",
   "total_airports": 274,
-  "last_updated": "2025-03-03T00:08:51.497887",
+  "last_updated": "2025-03-04T00:08:18.705567",
   "types_distribution": {
     "heliport": 194,
-    "small_airport": 28,
+    "small_airport": 27,
     "large_airport": 2,
     "medium_airport": 12,
-    "closed": 38
+    "closed": 39
   },
   "airports": [
     {
@@ -2871,14 +2871,13 @@
     },
     {
       "ident": "NL-0149",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Vliegveld Numansdorp",
       "elevation_ft": 3.0,
       "continent": "EU",
       "iso_country": "NL",
       "iso_region": "NL-ZH",
       "municipality": "Numansdorp",
-      "local_code": "EHND",
       "coordinates": "51.753056, 4.455278"
     }
   ]

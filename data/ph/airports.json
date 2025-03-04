@@ -2,7 +2,7 @@
   "country_code": "PH",
   "country_name": "Philippines",
   "total_airports": 797,
-  "last_updated": "2025-03-03T00:08:51.433972",
+  "last_updated": "2025-03-04T00:08:18.641242",
   "types_distribution": {
     "small_airport": 196,
     "heliport": 400,
@@ -7466,6 +7466,7 @@
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-MDC",
+      "municipality": "Lubang",
       "gps_code": "RPLU",
       "iata_code": "LBX",
       "coordinates": "13.8554, 120.105003"
@@ -7642,9 +7643,10 @@
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-SLU",
+      "municipality": "Jolo",
       "gps_code": "RPMJ",
       "iata_code": "JOL",
-      "coordinates": "6.0536699295043945, 121.01100158691406"
+      "coordinates": "6.05367, 121.011002"
     },
     {
       "ident": "RPML",
@@ -8127,6 +8129,7 @@
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-LUN",
+      "municipality": "San Fernando",
       "gps_code": "RPUS",
       "iata_code": "SFE",
       "coordinates": "16.5956, 120.303001"

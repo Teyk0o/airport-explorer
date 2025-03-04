@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7434,
-  "last_updated": "2025-03-03T00:08:51.325205",
+  "total_airports": 7438,
+  "last_updated": "2025-03-04T00:08:18.530775",
   "types_distribution": {
-    "small_airport": 5145,
+    "small_airport": 5148,
     "closed": 287,
-    "heliport": 1867,
+    "heliport": 1868,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -26811,7 +26811,6 @@
       "iso_country": "BR",
       "iso_region": "BR-GO",
       "municipality": "Caçu",
-      "local_code": "SWCG",
       "coordinates": "-18.491501, -51.298801"
     },
     {
@@ -26823,20 +26822,20 @@
       "iso_country": "BR",
       "iso_region": "BR-GO",
       "municipality": "São Miguel do Araguaia",
-      "local_code": "SWID",
       "coordinates": "-13.3149, -49.774899"
     },
     {
       "ident": "BR-2199",
       "type": "small_airport",
       "name": "Fazenda Santa Maria Airport",
-      "elevation_ft": 525.0,
+      "elevation_ft": 630.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Lambari d`Oeste",
-      "local_code": "SWSM",
-      "coordinates": "-15.35833, -57.69444"
+      "gps_code": "SBOM",
+      "local_code": "MT0644",
+      "coordinates": "-15.376891, -57.682109"
     },
     {
       "ident": "BR-2200",
@@ -26847,8 +26846,7 @@
       "iso_country": "BR",
       "iso_region": "BR-AM",
       "municipality": "Urucará",
-      "local_code": "SWWK",
-      "coordinates": "-2.5288898944855, -57.755798339844"
+      "coordinates": "-2.52889, -57.755798"
     },
     {
       "ident": "BR-2201",
@@ -26871,7 +26869,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "São José do Rio Claro",
-      "local_code": "SWXK",
       "coordinates": "-13.274331, -56.892163"
     },
     {
@@ -26883,18 +26880,18 @@
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Sinop",
-      "local_code": "SWYQ",
       "coordinates": "-11.4678, -56.437599"
     },
     {
       "ident": "BR-2204",
       "type": "small_airport",
       "name": "Usina São Simão Airport",
-      "elevation_ft": 1716.0,
+      "elevation_ft": 1713.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-GO",
       "municipality": "São Simão",
+      "gps_code": "SSYO",
       "local_code": "GO0112",
       "coordinates": "-18.9865, -50.563599"
     },
@@ -26919,8 +26916,7 @@
       "iso_country": "BR",
       "iso_region": "BR-BA",
       "municipality": "Boquira",
-      "local_code": "SNBO",
-      "coordinates": "-12.790599822998, -42.728900909424"
+      "coordinates": "-12.789301, -42.727432"
     },
     {
       "ident": "BR-2207",
@@ -41100,19 +41096,6 @@
       "gps_code": "SBOL",
       "local_code": "GO0298",
       "coordinates": "-18.920278, -52.001389"
-    },
-    {
-      "ident": "SBOM",
-      "type": "small_airport",
-      "name": "Fazenda Santa Maria Airport",
-      "elevation_ft": 630.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-MT",
-      "municipality": "Lambari d'Oeste",
-      "gps_code": "SBOM",
-      "local_code": "MT0644",
-      "coordinates": "-15.376891, -57.682109"
     },
     {
       "ident": "SBON",
@@ -79002,6 +78985,71 @@
       "coordinates": "-16.067222595214844, -41.16722106933594"
     },
     {
+      "ident": "SNQ4",
+      "type": "heliport",
+      "name": "Latam Três Rios Heliport",
+      "elevation_ft": 909.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Três Rios",
+      "gps_code": "SNQ4",
+      "local_code": "RJ0395",
+      "coordinates": "-22.129957, -43.228512"
+    },
+    {
+      "ident": "SNQ6",
+      "type": "small_airport",
+      "name": "Fazenda Água Branca Airport",
+      "elevation_ft": 535.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Cáceres",
+      "gps_code": "SNQ6",
+      "local_code": "MT1097",
+      "coordinates": "-16.15358, -58.515216"
+    },
+    {
+      "ident": "SNQ7",
+      "type": "small_airport",
+      "name": "Fazenda Santa Rita Airstrip",
+      "elevation_ft": 991.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Anaurilândia",
+      "gps_code": "SNQ7",
+      "local_code": "MS0774",
+      "coordinates": "-22.279006, -53.019684"
+    },
+    {
+      "ident": "SNQ8",
+      "type": "small_airport",
+      "name": "Fazenda América Airport",
+      "elevation_ft": 590.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Porto Velho",
+      "gps_code": "SNQ8",
+      "local_code": "RO0109",
+      "coordinates": "-9.525219, -65.946698"
+    },
+    {
+      "ident": "SNQ9",
+      "type": "small_airport",
+      "name": "Fazenda Santa Rita Airport",
+      "elevation_ft": 164.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Tomé-Açu",
+      "gps_code": "SNQ9",
+      "local_code": "PA0425",
+      "coordinates": "-2.142919, -48.070794"
+    },
+    {
       "ident": "SNQA",
       "type": "small_airport",
       "name": "Fazenda Tracajá Airport",
@@ -87839,9 +87887,8 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
-      "municipality": "Chapada Dos Guimarães",
-      "gps_code": "SSYO",
-      "coordinates": "-15.262499809265137, -55.614723205566406"
+      "municipality": "Chapada dos Guimarães",
+      "coordinates": "-15.2625, -55.614723"
     },
     {
       "ident": "SSYQ",
