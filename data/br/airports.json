@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7438,
-  "last_updated": "2025-03-04T00:08:18.530775",
+  "total_airports": 7441,
+  "last_updated": "2025-03-05T00:08:23.814532",
   "types_distribution": {
-    "small_airport": 5148,
-    "closed": 287,
-    "heliport": 1868,
+    "small_airport": 5145,
+    "closed": 292,
+    "heliport": 1869,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -26927,7 +26927,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Barretos",
-      "local_code": "SDFB",
       "coordinates": "-20.428899, -48.562077"
     },
     {
@@ -26939,7 +26938,6 @@
       "iso_country": "BR",
       "iso_region": "BR-GO",
       "municipality": "Cavalcante",
-      "local_code": "SWCW",
       "coordinates": "-13.778604, -47.412121"
     },
     {
@@ -26951,6 +26949,7 @@
       "iso_country": "BR",
       "iso_region": "BR-AL",
       "municipality": "Barra de Santo Antônio",
+      "gps_code": "SIQX",
       "local_code": "AL0004",
       "coordinates": "-9.373161, -35.539736"
     },
@@ -26963,7 +26962,6 @@
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Centenário do Sul",
-      "local_code": "SSZS",
       "coordinates": "-22.830515, -51.6036"
     },
     {
@@ -26975,8 +26973,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MA",
       "municipality": "Colinas",
-      "local_code": "SNKL",
-      "coordinates": "-5.9669399261475, -44.233898162842"
+      "coordinates": "-5.966951, -44.233897"
     },
     {
       "ident": "BR-2212",
@@ -26986,33 +26983,30 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MG",
-      "municipality": "Conceição Das Alagoas",
-      "local_code": "SNVG",
-      "coordinates": "-20.033899307251, -48.233898162842"
+      "municipality": "Conceição das Alagoas",
+      "coordinates": "-20.008583, -48.25201"
     },
     {
       "ident": "BR-2213",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Grajaú Airport",
       "elevation_ft": 773.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MA",
       "municipality": "Grajaú",
-      "local_code": "SNGJ",
       "coordinates": "-5.806353, -46.116636"
     },
     {
       "ident": "BR-2214",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Guaporé Airport",
       "elevation_ft": 1558.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-RS",
       "municipality": "Guaporé",
-      "local_code": "RS0033",
-      "coordinates": "-28.894699, -51.855301"
+      "coordinates": "-28.894847, -51.855331"
     },
     {
       "ident": "BR-2215",
@@ -27023,7 +27017,6 @@
       "iso_country": "BR",
       "iso_region": "BR-GO",
       "municipality": "Iaciara",
-      "local_code": "SWIA",
       "coordinates": "-14.107609, -46.666918"
     },
     {
@@ -27035,7 +27028,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Costa Rica",
-      "local_code": "SSYB",
       "coordinates": "-18.684504, -53.287468"
     },
     {
@@ -27047,8 +27039,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Ipiguá",
-      "local_code": "SISP",
-      "coordinates": "-20.703899383545, -49.391399383545"
+      "coordinates": "-20.703899, -49.391399"
     },
     {
       "ident": "BR-2218",
@@ -27059,43 +27050,39 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Selvíria",
-      "local_code": "SSJE",
-      "coordinates": "-20.352222, -51.555833"
+      "coordinates": "-20.353197, -51.544644"
     },
     {
       "ident": "BR-2219",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Livramento do Brumado Airport",
       "elevation_ft": 1615.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-BA",
-      "municipality": "Livramento De Nossa Senhora",
-      "local_code": "SNLB",
+      "municipality": "Livramento de Nossa Senhora",
       "coordinates": "-13.6613, -41.8571"
     },
     {
       "ident": "BR-2220",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Machado Airport",
       "elevation_ft": 2969.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MG",
       "municipality": "Machado",
-      "local_code": "MG0046",
       "coordinates": "-21.678101, -45.840604"
     },
     {
       "ident": "BR-2221",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Hugo Werner Airport",
       "elevation_ft": 2690.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SC",
       "municipality": "Mafra",
-      "local_code": "SC0021",
       "coordinates": "-26.160147, -49.832236"
     },
     {
@@ -30324,7 +30311,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Porto Estrela",
-      "local_code": "SIQX",
       "coordinates": "-15.647606, -57.470176"
     },
     {
@@ -60784,7 +60770,7 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PA",
-      "municipality": "Marajó Park Resort",
+      "municipality": "Chaves",
       "gps_code": "SISO",
       "local_code": "PA0056",
       "coordinates": "-0.091667, -49.580555"
@@ -74869,6 +74855,32 @@
       "coordinates": "-8.118767, -34.915419"
     },
     {
+      "ident": "SN9G",
+      "type": "small_airport",
+      "name": "Fazenda Nascente Airport",
+      "elevation_ft": 1762.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MS",
+      "municipality": "Rio Verde de Mato Grosso",
+      "gps_code": "SN9G",
+      "local_code": "MS0744",
+      "coordinates": "-18.650779, -54.885994"
+    },
+    {
+      "ident": "SN9H",
+      "type": "heliport",
+      "name": "Das Aroeiras Heliport",
+      "elevation_ft": 10.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Angra dos Reis",
+      "gps_code": "SN9H",
+      "local_code": "RJ0362",
+      "coordinates": "-22.951368, -44.397865"
+    },
+    {
       "ident": "SN9I",
       "type": "small_airport",
       "name": "Fazenda San José II Airport",
@@ -74880,6 +74892,19 @@
       "gps_code": "SN9I",
       "local_code": "MS0749",
       "coordinates": "-19.952672, -53.977908"
+    },
+    {
+      "ident": "SN9J",
+      "type": "small_airport",
+      "name": "Fazenda Mocambo Airport",
+      "elevation_ft": 16.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Soure",
+      "gps_code": "SN9J",
+      "local_code": "MT1052",
+      "coordinates": "-0.292883, -48.778092"
     },
     {
       "ident": "SN9P",

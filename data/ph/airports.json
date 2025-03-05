@@ -1,12 +1,12 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 797,
-  "last_updated": "2025-03-04T00:08:18.641242",
+  "total_airports": 799,
+  "last_updated": "2025-03-05T00:08:23.960867",
   "types_distribution": {
-    "small_airport": 196,
-    "heliport": 400,
-    "closed": 137,
+    "small_airport": 194,
+    "heliport": 401,
+    "closed": 140,
     "seaplane_base": 6,
     "medium_airport": 54,
     "balloonport": 1,
@@ -1711,7 +1711,7 @@
     },
     {
       "ident": "PH-0164",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Sangi Airstrip",
       "continent": "AS",
       "iso_country": "PH",
@@ -1994,7 +1994,7 @@
     },
     {
       "ident": "PH-0192",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Doña Flavia Airstrip",
       "elevation_ft": 184.0,
       "continent": "AS",
@@ -7196,6 +7196,28 @@
       "coordinates": "15.254326, 120.677772"
     },
     {
+      "ident": "PH-0688",
+      "type": "closed",
+      "name": "Menzi Airstrip",
+      "elevation_ft": 1270.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BUK",
+      "municipality": "Talakag",
+      "coordinates": "8.24317, 124.60197"
+    },
+    {
+      "ident": "PH-0689",
+      "type": "heliport",
+      "name": "FDC Misamis Coal Power Plant Heliport",
+      "elevation_ft": 7.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-MSR",
+      "municipality": "Villanueva",
+      "coordinates": "8.56424, 124.74622"
+    },
+    {
       "ident": "PRNO",
       "type": "small_airport",
       "name": "Siocon Airport",
@@ -7848,7 +7870,7 @@
       "iso_region": "PH-CEB",
       "municipality": "Santa Fe",
       "gps_code": "RPSB",
-      "coordinates": "11.1624, 123.7848"
+      "coordinates": "11.161748, 123.7849"
     },
     {
       "ident": "RPSD",
@@ -7878,7 +7900,7 @@
     {
       "ident": "RPSN",
       "type": "small_airport",
-      "name": "Ubay Airport",
+      "name": "Ubay Community Airport",
       "elevation_ft": 7.0,
       "continent": "AS",
       "iso_country": "PH",
@@ -8511,7 +8533,7 @@
       "iso_region": "PH-SIG",
       "municipality": "Siquijor",
       "gps_code": "RPVZ",
-      "coordinates": "9.212275, 123.470685"
+      "coordinates": "9.208585, 123.466976"
     },
     {
       "ident": "XMA",
