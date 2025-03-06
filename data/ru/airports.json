@@ -1,14 +1,14 @@
 {
   "country_code": "RU",
   "country_name": "Russia",
-  "total_airports": 1706,
-  "last_updated": "2025-03-05T00:08:24.006644",
+  "total_airports": 1717,
+  "last_updated": "2025-03-06T00:08:37.989684",
   "types_distribution": {
     "small_airport": 650,
-    "medium_airport": 238,
-    "closed": 310,
+    "medium_airport": 239,
+    "closed": 314,
     "large_airport": 16,
-    "heliport": 488,
+    "heliport": 494,
     "seaplane_base": 4
   },
   "airports": [
@@ -6852,10 +6852,12 @@
       "ident": "RU-0641",
       "type": "heliport",
       "name": "Sayanaero Heliport",
-      "continent": "EU",
+      "elevation_ft": 889.0,
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KYA",
       "municipality": "Selivanikha",
+      "local_code": "HD9N",
       "coordinates": "53.65735, 91.57505"
     },
     {
@@ -11803,6 +11805,18 @@
       "coordinates": "69.412289, 30.189975"
     },
     {
+      "ident": "RU-10089",
+      "type": "heliport",
+      "name": "Gazprom Heliport",
+      "elevation_ft": 682.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ORE",
+      "municipality": "Abdulino",
+      "local_code": "HCZ2",
+      "coordinates": "53.657921, 53.652819"
+    },
+    {
       "ident": "RU-1009",
       "type": "heliport",
       "name": "KS-41 Baydaratskaya",
@@ -11811,6 +11825,122 @@
       "iso_region": "RU-YAN",
       "municipality": "Bovanenkovo",
       "coordinates": "69.285819, 68.160113"
+    },
+    {
+      "ident": "RU-10090",
+      "type": "heliport",
+      "name": "Abinskiy EMZ Heliport",
+      "elevation_ft": 143.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KDA",
+      "municipality": "Abinskiy",
+      "local_code": "HJ8Z",
+      "coordinates": "44.87513, 38.132451"
+    },
+    {
+      "ident": "RU-10091",
+      "type": "heliport",
+      "name": "Aborino Heliport",
+      "elevation_ft": 446.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-MOS",
+      "municipality": "Aborino",
+      "local_code": "HA9G",
+      "coordinates": "55.855923, 38.271471"
+    },
+    {
+      "ident": "RU-10092",
+      "type": "heliport",
+      "name": "Abrau-Dyurso Heliport",
+      "elevation_ft": 367.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KDA",
+      "municipality": "Abrau-Dyurso",
+      "local_code": "HE79",
+      "coordinates": "44.700515, 37.603042"
+    },
+    {
+      "ident": "RU-10093",
+      "type": "heliport",
+      "name": "Babaevo KS-22 Heliport",
+      "elevation_ft": 453.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "municipality": "Babaevo",
+      "local_code": "HCG7",
+      "coordinates": "59.366841, 35.991728"
+    },
+    {
+      "ident": "RU-10094",
+      "type": "heliport",
+      "name": "Babushkino Heliport",
+      "elevation_ft": 91.0,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-SAK",
+      "municipality": "Babushkino",
+      "local_code": "HH7H",
+      "coordinates": "50.6362, 156.40657"
+    },
+    {
+      "ident": "RU-10095",
+      "type": "closed",
+      "name": "Abdulino Airfield",
+      "elevation_ft": 700.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ORE",
+      "municipality": "Abdulino",
+      "coordinates": "53.681602, 53.625668"
+    },
+    {
+      "ident": "RU-10096",
+      "type": "closed",
+      "name": "Abdulino Airfield",
+      "elevation_ft": 700.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ORE",
+      "municipality": "Abdulino",
+      "coordinates": "53.681602, 53.625668"
+    },
+    {
+      "ident": "RU-10097",
+      "type": "closed",
+      "name": "Abinsk Airfield",
+      "elevation_ft": 78.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KDA",
+      "municipality": "Abinsk",
+      "coordinates": "44.904915, 38.176651"
+    },
+    {
+      "ident": "RU-10098",
+      "type": "closed",
+      "name": "Ada Airfield",
+      "elevation_ft": 2700.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KHA",
+      "municipality": "Ada",
+      "coordinates": "47.14064, 137.538498"
+    },
+    {
+      "ident": "RU-10099",
+      "type": "small_airport",
+      "name": "Gagarin Aerodrome",
+      "elevation_ft": 624.0,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-SMO",
+      "municipality": "Rodomanovo",
+      "local_code": "ZD92",
+      "coordinates": "55.6371, 34.828751"
     },
     {
       "ident": "RU-1010",
@@ -16405,16 +16535,16 @@
     },
     {
       "ident": "ULWU",
-      "type": "small_airport",
+      "type": "medium_airport",
       "name": "Velikiy Ustyug Airport",
       "elevation_ft": 331.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-VLG",
       "municipality": "Velikiy Ustyug",
       "gps_code": "ULWU",
       "iata_code": "VUS",
-      "coordinates": "60.788299560546875, 46.2599983215332"
+      "coordinates": "60.7883, 46.259998"
     },
     {
       "ident": "ULWW",
@@ -16459,7 +16589,7 @@
       "type": "medium_airport",
       "name": "Abakan International Airport",
       "elevation_ft": 831.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KK",
       "municipality": "Abakan",
@@ -16812,7 +16942,7 @@
       "type": "medium_airport",
       "name": "Achinsk Airport",
       "elevation_ft": 1033.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KYA",
       "municipality": "Achinsk",

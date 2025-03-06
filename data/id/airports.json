@@ -1,12 +1,12 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 633,
-  "last_updated": "2025-03-05T00:08:23.744294",
+  "total_airports": 639,
+  "last_updated": "2025-03-06T00:08:37.784553",
   "types_distribution": {
-    "small_airport": 467,
+    "small_airport": 468,
     "closed": 45,
-    "heliport": 43,
+    "heliport": 48,
     "large_airport": 8,
     "medium_airport": 70
   },
@@ -3270,6 +3270,7 @@
       "ident": "ID-0293",
       "type": "closed",
       "name": "Amman Mineral Nusa Tenggara Airport (under construction)",
+      "elevation_ft": 33.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
@@ -3741,7 +3742,7 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Surabaya",
-      "coordinates": "-7.218275, 112.712616"
+      "coordinates": "-7.217473, 112.712343"
     },
     {
       "ident": "ID-0339",
@@ -3776,7 +3777,6 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Sintang",
-      "local_code": "WIOS",
       "coordinates": "0.063851, 111.473572"
     },
     {
@@ -3815,6 +3815,72 @@
       "municipality": "Tabbing Tinggi-Sumatra Island",
       "local_code": "WIMT",
       "coordinates": "3.366667, 99.116669"
+    },
+    {
+      "ident": "ID-0346",
+      "type": "heliport",
+      "name": "Giliyang Heliport",
+      "elevation_ft": 59.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Sumenep",
+      "coordinates": "-7.00218, 114.17324"
+    },
+    {
+      "ident": "ID-0347",
+      "type": "heliport",
+      "name": "PT Free Port Manyar Heliport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Gresik",
+      "coordinates": "-7.08359, 112.60498"
+    },
+    {
+      "ident": "ID-0348",
+      "type": "heliport",
+      "name": "Lamongan Shorebase Heliport",
+      "elevation_ft": 141.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Lamongan",
+      "coordinates": "-6.86911, 112.41675"
+    },
+    {
+      "ident": "ID-0349",
+      "type": "heliport",
+      "name": "Holcim Tuban Heliport",
+      "elevation_ft": 105.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Tuban",
+      "coordinates": "-6.81441, 111.88536"
+    },
+    {
+      "ident": "ID-0350",
+      "type": "heliport",
+      "name": "Pacitan Air Base",
+      "elevation_ft": 23.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Pacitan",
+      "coordinates": "-8.21185, 111.08605"
+    },
+    {
+      "ident": "ID-0351",
+      "type": "small_airport",
+      "name": "Sumbawa Barat Airport",
+      "elevation_ft": 33.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Sumbawa Barat",
+      "coordinates": "-8.99519, 116.7444"
     },
     {
       "ident": "ID-AAS",
@@ -5828,10 +5894,10 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JT",
-      "municipality": "Tjepu-Java Island",
+      "municipality": "Blora",
       "gps_code": "WARC",
       "iata_code": "CPF",
-      "coordinates": "-7.19484166667, 111.548166667"
+      "coordinates": "-7.195522, 111.545287"
     },
     {
       "ident": "WARE",
@@ -5849,19 +5915,19 @@
     {
       "ident": "WARI",
       "type": "small_airport",
-      "name": "Iswahyudi Airport",
+      "name": "Iswahjudi Air Base",
       "elevation_ft": 361.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Madiun-Java Island",
+      "municipality": "Magetan",
       "gps_code": "WARI",
       "coordinates": "-7.61577, 111.433998"
     },
     {
       "ident": "WARJ",
       "type": "medium_airport",
-      "name": "Adisutjipto International Airport",
+      "name": "Adisutjipto Airport",
       "elevation_ft": 379.0,
       "continent": "AS",
       "iso_country": "ID",
@@ -5886,7 +5952,7 @@
     {
       "ident": "WARQ",
       "type": "medium_airport",
-      "name": "Adisumarmo International Airport",
+      "name": "Adisumarmo Airport",
       "elevation_ft": 421.0,
       "continent": "AS",
       "iso_country": "ID",
@@ -5930,11 +5996,11 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Sumenep-Madura Island",
+      "municipality": "Sumenep",
       "gps_code": "WART",
       "iata_code": "SUP",
       "local_code": "TRJ",
-      "coordinates": "-7.0242, 113.89023"
+      "coordinates": "-7.022391, 113.887699"
     },
     {
       "ident": "WARW",
@@ -6512,10 +6578,10 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-YO",
-      "municipality": "Wonosari-Java Island",
+      "municipality": "Gunung Kidul",
       "gps_code": "WI1G",
       "local_code": "WI1G",
-      "coordinates": "-7.916590213775635, 110.56400299072266"
+      "coordinates": "-7.916865, 110.565354"
     },
     {
       "ident": "WIAG",
@@ -7077,7 +7143,7 @@
       "municipality": "Nanga Pinoh-Borneo Island",
       "gps_code": "WIOG",
       "iata_code": "NPO",
-      "coordinates": "-0.34886899590492, 111.74800109863"
+      "coordinates": "-0.34864, 111.746155"
     },
     {
       "ident": "WIOI",
@@ -7141,7 +7207,7 @@
       "municipality": "Putussibau-Borneo Island",
       "gps_code": "WIOP",
       "iata_code": "PSU",
-      "coordinates": "0.8355780243873596, 112.93699645996094"
+      "coordinates": "0.834579, 112.940217"
     },
     {
       "ident": "WIOS",

@@ -1,10 +1,10 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7441,
-  "last_updated": "2025-03-05T00:08:23.814532",
+  "total_airports": 7442,
+  "last_updated": "2025-03-06T00:08:37.842804",
   "types_distribution": {
-    "small_airport": 5145,
+    "small_airport": 5146,
     "closed": 292,
     "heliport": 1869,
     "medium_airport": 124,
@@ -1667,10 +1667,13 @@
       "ident": "BR-0153",
       "type": "small_airport",
       "name": "Crixás Airport",
+      "elevation_ft": 1542.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-GO",
       "municipality": "Crixás",
+      "gps_code": "SN9Z",
+      "local_code": "GO0348",
       "coordinates": "-14.538299, -49.934767"
     },
     {
@@ -74905,6 +74908,19 @@
       "gps_code": "SN9J",
       "local_code": "MT1052",
       "coordinates": "-0.292883, -48.778092"
+    },
+    {
+      "ident": "SN9K",
+      "type": "small_airport",
+      "name": "Fazenda Santa Emília Airport",
+      "elevation_ft": 1220.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Marcelândia",
+      "gps_code": "SN9K",
+      "local_code": "MT1052",
+      "coordinates": "-10.751652, -53.805425"
     },
     {
       "ident": "SN9P",

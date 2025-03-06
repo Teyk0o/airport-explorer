@@ -1,10 +1,10 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 94,
-  "last_updated": "2025-03-05T00:08:24.128879",
+  "total_airports": 95,
+  "last_updated": "2025-03-06T00:08:38.074518",
   "types_distribution": {
-    "small_airport": 16,
+    "small_airport": 17,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
@@ -683,6 +683,15 @@
       "iso_region": "VN-SCC",
       "municipality": "Quảng Ngãi",
       "coordinates": "15.115474, 108.771816"
+    },
+    {
+      "ident": "VN-0078",
+      "type": "small_airport",
+      "name": "Sin88",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-U-A",
+      "coordinates": "21.034977, 105.823845"
     },
     {
       "ident": "VV02",
