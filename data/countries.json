@@ -883,9 +883,9 @@
   {
     "code": "DE",
     "name": "Germany",
-    "airport_count": 1395,
+    "airport_count": 1396,
     "types_distribution": {
-      "heliport": 447,
+      "heliport": 448,
       "closed": 105,
       "small_airport": 768,
       "balloonport": 2,
@@ -1103,9 +1103,9 @@
   {
     "code": "ID",
     "name": "Indonesia",
-    "airport_count": 639,
+    "airport_count": 641,
     "types_distribution": {
-      "small_airport": 468,
+      "small_airport": 470,
       "closed": 45,
       "heliport": 48,
       "large_airport": 8,
@@ -1212,10 +1212,10 @@
   {
     "code": "JP",
     "name": "Japan",
-    "airport_count": 3738,
+    "airport_count": 3744,
     "types_distribution": {
       "seaplane_base": 6,
-      "heliport": 3030,
+      "heliport": 3036,
       "closed": 419,
       "small_airport": 173,
       "balloonport": 3,
@@ -1889,11 +1889,11 @@
   {
     "code": "PH",
     "name": "Philippines",
-    "airport_count": 810,
+    "airport_count": 822,
     "types_distribution": {
-      "small_airport": 196,
-      "heliport": 404,
-      "closed": 146,
+      "small_airport": 200,
+      "heliport": 406,
+      "closed": 152,
       "seaplane_base": 6,
       "medium_airport": 54,
       "balloonport": 1,
@@ -2367,10 +2367,10 @@
   {
     "code": "TW",
     "name": "Taiwan",
-    "airport_count": 122,
+    "airport_count": 124,
     "types_distribution": {
       "medium_airport": 19,
-      "small_airport": 34,
+      "small_airport": 36,
       "large_airport": 2,
       "heliport": 55,
       "closed": 11,
@@ -2556,14 +2556,14 @@
   {
     "code": "US",
     "name": "United States",
-    "airport_count": 31992,
+    "airport_count": 31997,
     "types_distribution": {
-      "heliport": 8130,
-      "small_airport": 15212,
+      "heliport": 8131,
+      "small_airport": 15208,
       "seaplane_base": 647,
       "balloonport": 29,
+      "closed": 7079,
       "medium_airport": 832,
-      "closed": 7071,
       "large_airport": 71
     }
   },
@@ -2635,13 +2635,13 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 95,
+    "airport_count": 96,
     "types_distribution": {
       "small_airport": 17,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,
-      "medium_airport": 22,
+      "medium_airport": 23,
       "large_airport": 2
     }
   },

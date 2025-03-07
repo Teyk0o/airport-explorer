@@ -1,10 +1,10 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 639,
-  "last_updated": "2025-03-06T00:08:37.784553",
+  "total_airports": 641,
+  "last_updated": "2025-03-07T00:08:14.408681",
   "types_distribution": {
-    "small_airport": 468,
+    "small_airport": 470,
     "closed": 45,
     "heliport": 48,
     "large_airport": 8,
@@ -3835,7 +3835,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Gresik",
+      "municipality": "Manyar, Gresik",
       "coordinates": "-7.08359, 112.60498"
     },
     {
@@ -3881,6 +3881,28 @@
       "iso_region": "ID-NB",
       "municipality": "Sumbawa Barat",
       "coordinates": "-8.99519, 116.7444"
+    },
+    {
+      "ident": "ID-0352",
+      "type": "small_airport",
+      "name": "Bukit Mulia Airport",
+      "elevation_ft": 82.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KS",
+      "municipality": "Kintap, Tanah Laut",
+      "coordinates": "-3.79107, 115.29557"
+    },
+    {
+      "ident": "ID-0353",
+      "type": "small_airport",
+      "name": "Kintap Airport",
+      "elevation_ft": 66.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KS",
+      "municipality": "Kintap, Tanah Laut",
+      "coordinates": "-3.8244, 115.1825"
     },
     {
       "ident": "ID-AAS",
@@ -4455,7 +4477,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
-      "municipality": "Bima",
+      "municipality": "Palibelo, Bima",
       "gps_code": "WADB",
       "iata_code": "BMU",
       "coordinates": "-8.537184, 118.685002"
@@ -4501,12 +4523,12 @@
     {
       "ident": "WADS",
       "type": "small_airport",
-      "name": "Sumbawa Besar Airport",
+      "name": "Sultan Muhammad Kaharuddin III Airport",
       "elevation_ft": 16.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
-      "municipality": "Sumbawa Island",
+      "municipality": "Sumbawa Besar",
       "gps_code": "WADS",
       "iata_code": "SWQ",
       "coordinates": "-8.48904, 117.412003"
@@ -4532,10 +4554,10 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NB",
-      "municipality": "Lunyuk-Simbawa Island",
+      "municipality": "Lunyuk",
       "gps_code": "WADU",
       "iata_code": "LYK",
-      "coordinates": "-8.9889, 117.2158"
+      "coordinates": "-8.989931, 117.216018"
     },
     {
       "ident": "WADW",
@@ -4703,7 +4725,7 @@
       "municipality": "Poso-Celebes Island",
       "gps_code": "WAFP",
       "iata_code": "PSJ",
-      "coordinates": "-1.41675, 120.657997"
+      "coordinates": "-1.414121, 120.659241"
     },
     {
       "ident": "WAFS",
@@ -5337,10 +5359,10 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-SA",
-      "municipality": "Tahuna-Sangihe Island",
+      "municipality": "Tabukan Utara, Sangihe Islands",
       "gps_code": "WAMH",
       "iata_code": "NAH",
-      "coordinates": "3.68321, 125.528"
+      "coordinates": "3.68478, 125.527162"
     },
     {
       "ident": "WAMI",
@@ -5468,7 +5490,7 @@
       "municipality": "Buol-Celebes Island",
       "gps_code": "WAFY",
       "iata_code": "UOL",
-      "coordinates": "1.1027, 121.4141"
+      "coordinates": "1.102318, 121.413358"
     },
     {
       "ident": "WAOC",
@@ -5486,13 +5508,14 @@
     {
       "ident": "WAOG",
       "type": "small_airport",
-      "name": "Sebuku Airport",
+      "name": "Sekapung Airport",
       "elevation_ft": 7.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-KS",
+      "municipality": "Sekapung, Kotabaru",
       "gps_code": "WAOG",
-      "coordinates": "-3.626667, 116.368614"
+      "coordinates": "-3.626954, 116.370352"
     },
     {
       "ident": "WAOH",
@@ -5502,9 +5525,9 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-KS",
-      "municipality": "Mekar Putih",
+      "municipality": "Mekar Putih, Kotabaru",
       "gps_code": "WAOH",
-      "coordinates": "-3.98991, 116.101997"
+      "coordinates": "-3.989646, 116.101499"
     },
     {
       "ident": "WAOI",
@@ -6005,12 +6028,12 @@
     {
       "ident": "WARW",
       "type": "small_airport",
-      "name": "Bawean - Harun Thohir Airport",
+      "name": "Bawean Harun Thohir Airport",
       "elevation_ft": 93.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JI",
-      "municipality": "Bawean",
+      "municipality": "Tambak, Gresik",
       "gps_code": "WARW",
       "iata_code": "BXW",
       "coordinates": "-5.723628, 112.678889"
@@ -6226,15 +6249,15 @@
     {
       "ident": "WATB",
       "type": "small_airport",
-      "name": "Bajawa Soa Airport",
+      "name": "Bajawa Soa (Turelelo) Airport",
       "elevation_ft": 4326.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NT",
-      "municipality": "Soa",
+      "municipality": "Soa, Ngada",
       "gps_code": "WATB",
       "iata_code": "BJW",
-      "coordinates": "-8.707435, 121.057427"
+      "coordinates": "-8.70777, 121.058243"
     },
     {
       "ident": "WATC",
@@ -6270,7 +6293,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NT",
-      "municipality": "Satar Tacik",
+      "municipality": "Satar Tacik, Manggarai",
       "gps_code": "WATG",
       "iata_code": "RTG",
       "coordinates": "-8.596171, 120.478177"
@@ -6309,7 +6332,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NT",
-      "municipality": "Labuan Bajo",
+      "municipality": "Labuan Bajo, Manggarai Barat",
       "gps_code": "WATO",
       "iata_code": "LBJ",
       "coordinates": "-8.480694, 119.888306"
@@ -7168,7 +7191,7 @@
       "municipality": "Ketapang",
       "gps_code": "WIOK",
       "iata_code": "KTG",
-      "coordinates": "-1.816845, 109.963331"
+      "coordinates": "-1.817165, 109.963469"
     },
     {
       "ident": "WION",

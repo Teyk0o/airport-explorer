@@ -2,7 +2,7 @@
   "country_code": "CN",
   "country_name": "China",
   "total_airports": 716,
-  "last_updated": "2025-03-06T00:08:37.736974",
+  "last_updated": "2025-03-07T00:08:14.361615",
   "types_distribution": {
     "small_airport": 241,
     "medium_airport": 274,
@@ -1491,10 +1491,12 @@
       "ident": "CN-0159",
       "type": "closed",
       "name": "Longyou Air Base",
+      "elevation_ft": 236.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "coordinates": "29.1131, 119.177002"
+      "municipality": "Quzhou (Longyou)",
+      "coordinates": "29.115821, 119.176582"
     },
     {
       "ident": "CN-0160",
@@ -2318,7 +2320,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "municipality": "Jinhua",
+      "municipality": "Jinhua (Dongyang)",
       "coordinates": "29.12513, 120.24343"
     },
     {
@@ -4204,12 +4206,12 @@
     {
       "ident": "CN-0422",
       "type": "small_airport",
-      "name": "Lishui Airport (under construction)",
+      "name": "Lishui Airport",
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "municipality": "Lishui",
-      "gps_code": "ZSLR",
+      "municipality": "Lishui (Liandu)",
+      "gps_code": "ZSLI",
       "iata_code": "LIJ",
       "coordinates": "28.3727, 119.839"
     },
@@ -6477,13 +6479,14 @@
       "ident": "ZSJU",
       "type": "medium_airport",
       "name": "Quzhou Airport",
+      "elevation_ft": 213.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "municipality": "Quzhou",
+      "municipality": "Quzhou (Kezheng)",
       "gps_code": "ZSJU",
       "iata_code": "JUZ",
-      "coordinates": "28.965799, 118.899002"
+      "coordinates": "28.96613, 118.898793"
     },
     {
       "ident": "ZSLG",
@@ -6500,15 +6503,15 @@
     {
       "ident": "ZSLO",
       "type": "medium_airport",
-      "name": "Longyan Guanzhishan Airport",
+      "name": "Liancheng Guanzhishan Airport",
       "elevation_ft": 1225.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-35",
-      "municipality": "Longyan",
+      "municipality": "Longyan (Liancheng)",
       "gps_code": "ZSLO",
       "iata_code": "LCX",
-      "coordinates": "25.6747, 116.747002"
+      "coordinates": "25.67592, 116.745907"
     },
     {
       "ident": "ZSLQ",
@@ -6517,7 +6520,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "municipality": "Huangyan",
+      "municipality": "Taizhou (Luqiao)",
       "gps_code": "ZSLQ",
       "iata_code": "HYN",
       "coordinates": "28.562201, 121.429001"
@@ -6672,7 +6675,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-35",
-      "municipality": "Sanming",
+      "municipality": "Sanming (Sha)",
       "gps_code": "ZSSM",
       "iata_code": "SQJ",
       "coordinates": "26.4263, 117.8336"
@@ -6685,7 +6688,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-36",
-      "municipality": "Shangrao",
+      "municipality": "Shangrao (Hengfeng)",
       "gps_code": "ZSSR",
       "iata_code": "SQD",
       "coordinates": "28.3797, 117.9643"
@@ -6813,10 +6816,10 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "municipality": "Wenzhou",
+      "municipality": "Wenzhou (Longwan)",
       "gps_code": "ZSWZ",
       "iata_code": "WNZ",
-      "coordinates": "27.912201, 120.851997"
+      "coordinates": "27.910572, 120.853465"
     },
     {
       "ident": "ZSXZ",
@@ -6891,10 +6894,10 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-33",
-      "municipality": "Yiwu",
+      "municipality": "Jinhua (Yiwu)",
       "gps_code": "ZSYW",
       "iata_code": "YIW",
-      "coordinates": "29.3446998596, 120.031997681"
+      "coordinates": "29.342095, 120.03116"
     },
     {
       "ident": "ZSZS",

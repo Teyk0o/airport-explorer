@@ -1,11 +1,11 @@
 {
   "country_code": "TW",
   "country_name": "Taiwan",
-  "total_airports": 122,
-  "last_updated": "2025-03-06T00:08:38.170916",
+  "total_airports": 124,
+  "last_updated": "2025-03-07T00:08:14.794167",
   "types_distribution": {
     "medium_airport": 19,
-    "small_airport": 34,
+    "small_airport": 36,
     "large_airport": 2,
     "heliport": 55,
     "closed": 11,
@@ -53,14 +53,14 @@
     {
       "ident": "RCDC",
       "type": "medium_airport",
-      "name": "Pingtung South Airport",
+      "name": "Pingtung Air Force Base",
       "elevation_ft": 78.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Pingtung",
       "gps_code": "RCDC",
-      "coordinates": "22.672399520874023, 120.46199798583984"
+      "coordinates": "22.6724, 120.461998"
     },
     {
       "ident": "RCDI",
@@ -103,15 +103,15 @@
     {
       "ident": "RCGI",
       "type": "small_airport",
-      "name": "Lyudao Airport",
+      "name": "Lüdao Airport",
       "elevation_ft": 28.0,
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TTT",
-      "municipality": "Lyudao",
+      "municipality": "Lüdao",
       "gps_code": "RCGI",
       "iata_code": "GNI",
-      "coordinates": "22.673900604248047, 121.46600341796875"
+      "coordinates": "22.673901, 121.466003"
     },
     {
       "ident": "RCKH",
@@ -147,7 +147,7 @@
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-PIF",
-      "municipality": "Hengchung",
+      "municipality": "Hengchun",
       "gps_code": "RCKW",
       "iata_code": "HCN",
       "coordinates": "22.0411, 120.730003"
@@ -302,7 +302,7 @@
     {
       "ident": "RCSQ",
       "type": "medium_airport",
-      "name": "Pingtung North Airport",
+      "name": "Pingtung Air Force Base North",
       "elevation_ft": 97.0,
       "continent": "AS",
       "iso_country": "TW",
@@ -310,7 +310,7 @@
       "municipality": "Pingtung",
       "gps_code": "RCSQ",
       "iata_code": "PIF",
-      "coordinates": "22.700199127197266, 120.48200225830078"
+      "coordinates": "22.700199, 120.482002"
     },
     {
       "ident": "RCSS",
@@ -1346,6 +1346,28 @@
       "iso_region": "TW-ILA",
       "municipality": "Ilan",
       "coordinates": "24.730617, 121.752031"
+    },
+    {
+      "ident": "TW-0093",
+      "type": "small_airport",
+      "name": "Ligang West Airfield",
+      "elevation_ft": 151.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-PIF",
+      "municipality": "Ligang",
+      "coordinates": "22.78397, 120.53482"
+    },
+    {
+      "ident": "TW-0094",
+      "type": "small_airport",
+      "name": "Ligang East Airfield",
+      "elevation_ft": 157.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-PIF",
+      "municipality": "Ligang",
+      "coordinates": "22.78034, 120.54403"
     }
   ]
 }

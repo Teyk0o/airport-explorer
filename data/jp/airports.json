@@ -1,11 +1,11 @@
 {
   "country_code": "JP",
   "country_name": "Japan",
-  "total_airports": 3738,
-  "last_updated": "2025-03-06T00:08:38.101928",
+  "total_airports": 3744,
+  "last_updated": "2025-03-07T00:08:14.725565",
   "types_distribution": {
     "seaplane_base": 6,
-    "heliport": 3030,
+    "heliport": 3036,
     "closed": 419,
     "small_airport": 173,
     "balloonport": 3,
@@ -37028,6 +37028,72 @@
       "coordinates": "36.232271, 139.493043"
     },
     {
+      "ident": "JP-3594",
+      "type": "heliport",
+      "name": "Ishigaki City Hall Heliport",
+      "elevation_ft": 92.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "coordinates": "24.34502, 124.18608"
+    },
+    {
+      "ident": "JP-3595",
+      "type": "heliport",
+      "name": "Okinawa Prefectural Yaeyama Hospital Heliport",
+      "elevation_ft": 85.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "coordinates": "24.34217, 124.18439"
+    },
+    {
+      "ident": "JP-3596",
+      "type": "heliport",
+      "name": "Nakanihon Air Service Ishigaki Operations Center Heliport",
+      "elevation_ft": 82.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "coordinates": "24.39167, 124.19562"
+    },
+    {
+      "ident": "JP-3597",
+      "type": "heliport",
+      "name": "Ishigakijima Central Sango Heliport",
+      "elevation_ft": 155.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "coordinates": "24.38053, 124.18335"
+    },
+    {
+      "ident": "JP-3598",
+      "type": "heliport",
+      "name": "Kohama Heliport",
+      "elevation_ft": 151.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Ishigaki",
+      "coordinates": "24.34457, 123.98119"
+    },
+    {
+      "ident": "JP-3599",
+      "type": "heliport",
+      "name": "Iriomote Jungle Beach Heliport",
+      "elevation_ft": 39.0,
+      "continent": "AS",
+      "iso_country": "JP",
+      "iso_region": "JP-47",
+      "municipality": "Taketomi",
+      "coordinates": "24.38327, 123.9068"
+    },
+    {
       "ident": "RJ01",
       "type": "heliport",
       "name": "Akasaka Press Center (Hardy Barracks) Heliport",
@@ -38739,10 +38805,10 @@
       "continent": "AS",
       "iso_country": "JP",
       "iso_region": "JP-47",
-      "municipality": "Miyako City",
+      "municipality": "Miyakojima",
       "gps_code": "ROMY",
       "iata_code": "MMY",
-      "coordinates": "24.782800674399997, 125.294998169"
+      "coordinates": "24.782801, 125.294998"
     },
     {
       "ident": "RORA",
@@ -38799,7 +38865,7 @@
     {
       "ident": "RORS",
       "type": "medium_airport",
-      "name": "Miyako Shimojishima Airport",
+      "name": "Shimojishima Airport",
       "elevation_ft": 54.0,
       "continent": "AS",
       "iso_country": "JP",
@@ -38820,7 +38886,7 @@
       "municipality": "Tarama",
       "gps_code": "RORT",
       "iata_code": "TRA",
-      "coordinates": "24.653900146499996, 124.675003052"
+      "coordinates": "24.653793, 124.675453"
     },
     {
       "ident": "RORY",

@@ -1,12 +1,12 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 810,
-  "last_updated": "2025-03-06T00:08:37.952260",
+  "total_airports": 822,
+  "last_updated": "2025-03-07T00:08:14.574699",
   "types_distribution": {
-    "small_airport": 196,
-    "heliport": 404,
-    "closed": 146,
+    "small_airport": 200,
+    "heliport": 406,
+    "closed": 152,
     "seaplane_base": 6,
     "medium_airport": 54,
     "balloonport": 1,
@@ -1584,7 +1584,7 @@
       "name": "Camp Panacan Heliport",
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DAS",
+      "iso_region": "PH-DVO",
       "municipality": "Davao",
       "coordinates": "7.153643, 125.661648"
     },
@@ -1687,9 +1687,9 @@
       "name": "Naval Station Romulo Espaldon Heliport",
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-ZAS",
+      "iso_region": "PH-ZMC",
       "municipality": "Zamboanga",
-      "coordinates": "6.916144, 122.03874"
+      "coordinates": "6.916128, 122.038804"
     },
     {
       "ident": "PH-0162",
@@ -1697,7 +1697,7 @@
       "name": "Edwin Andrews Air Force Base Heliport",
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-ZAS",
+      "iso_region": "PH-ZMC",
       "municipality": "Zamboanga",
       "coordinates": "6.924595, 122.065895"
     },
@@ -2056,7 +2056,7 @@
       "elevation_ft": 2402.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DAS",
+      "iso_region": "PH-DVO",
       "municipality": "Davao",
       "coordinates": "7.09551, 125.39023"
     },
@@ -2509,7 +2509,7 @@
       "name": "Camp John Hay Forest Lodge Helipad",
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-BEN",
+      "iso_region": "PH-BAG",
       "municipality": "Baguio",
       "coordinates": "16.40193, 120.61779"
     },
@@ -2520,7 +2520,7 @@
       "elevation_ft": 4895.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-BEN",
+      "iso_region": "PH-BAG",
       "municipality": "Baguio",
       "coordinates": "16.40271, 120.61718"
     },
@@ -2531,7 +2531,7 @@
       "elevation_ft": 4905.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-BEN",
+      "iso_region": "PH-BAG",
       "municipality": "Baguio",
       "coordinates": "16.40269, 120.61818"
     },
@@ -2794,9 +2794,10 @@
       "ident": "PH-0270",
       "type": "small_airport",
       "name": "Lamitan Airstrip",
+      "elevation_ft": 23.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DVO",
+      "iso_region": "PH-DOC",
       "municipality": "Don Marcelino",
       "coordinates": "6.07693, 125.70159"
     },
@@ -4340,7 +4341,7 @@
       "elevation_ft": 66.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DAS",
+      "iso_region": "PH-DVO",
       "municipality": "Davao",
       "coordinates": "7.15427, 125.58166"
     },
@@ -4470,7 +4471,7 @@
       "elevation_ft": 732.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DAS",
+      "iso_region": "PH-DVO",
       "municipality": "Davao",
       "coordinates": "7.2289, 125.45724"
     },
@@ -4537,19 +4538,19 @@
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-SUR",
-      "municipality": "Diatagon",
+      "municipality": "Lianga",
       "coordinates": "8.66363, 126.13471"
     },
     {
       "ident": "PH-0440",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Lanuza (Carmen) Airport",
       "elevation_ft": 43.0,
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-SUR",
       "municipality": "Carmen",
-      "coordinates": "9.23083, 125.99777"
+      "coordinates": "9.231363, 125.997923"
     },
     {
       "ident": "PH-0441",
@@ -5394,7 +5395,7 @@
       "elevation_ft": 50.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-ZAS",
+      "iso_region": "PH-ZMC",
       "municipality": "Zamboanga",
       "coordinates": "6.918178, 122.038702"
     },
@@ -5747,12 +5748,12 @@
     },
     {
       "ident": "PH-0552",
-      "type": "closed",
+      "type": "small_airport",
       "name": "Matling Industrial and Commercial Corporation Airstrip",
       "elevation_ft": 505.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DAV",
+      "iso_region": "PH-LAS",
       "municipality": "Malabang",
       "coordinates": "7.63444, 124.09113"
     },
@@ -6893,7 +6894,7 @@
       "elevation_ft": 5102.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-BEN",
+      "iso_region": "PH-BAG",
       "municipality": "Baguio",
       "coordinates": "16.42034, 120.57202"
     },
@@ -7341,6 +7342,138 @@
       "coordinates": "15.80827, 121.11392"
     },
     {
+      "ident": "PH-0701",
+      "type": "closed",
+      "name": "Farm 7 Airfield",
+      "elevation_ft": 118.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAV",
+      "municipality": "Tagum",
+      "coordinates": "7.47344, 125.84208"
+    },
+    {
+      "ident": "PH-0702",
+      "type": "closed",
+      "name": "Dansalan Airfield",
+      "elevation_ft": 2467.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-LAS",
+      "municipality": "Marawi",
+      "coordinates": "8.01078, 124.27825"
+    },
+    {
+      "ident": "PH-0703",
+      "type": "heliport",
+      "name": "Camp Ranao Heliport",
+      "elevation_ft": 2461.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-LAS",
+      "municipality": "Marawi",
+      "coordinates": "8.007904, 124.282676"
+    },
+    {
+      "ident": "PH-0704",
+      "type": "closed",
+      "name": "Polomolok (Dole Cannery) Airstrip",
+      "elevation_ft": 1260.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-SCO",
+      "municipality": "Polomolok",
+      "coordinates": "6.24275, 125.09656"
+    },
+    {
+      "ident": "PH-0705",
+      "type": "closed",
+      "name": "Malubal Airstrip",
+      "elevation_ft": 1227.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ZSI",
+      "municipality": "Roseller Lim",
+      "coordinates": "7.70255, 122.4117"
+    },
+    {
+      "ident": "PH-0706",
+      "type": "small_airport",
+      "name": "Mangal Airstrip",
+      "elevation_ft": 226.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BAS",
+      "municipality": "Sumisip",
+      "coordinates": "6.42516, 121.97919"
+    },
+    {
+      "ident": "PH-0707",
+      "type": "closed",
+      "name": "San Luis Airstrip",
+      "elevation_ft": 69.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAO",
+      "municipality": "Caraga",
+      "coordinates": "7.43289, 126.54515"
+    },
+    {
+      "ident": "PH-0708",
+      "type": "small_airport",
+      "name": "SODACO Airstrip",
+      "elevation_ft": 177.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAO",
+      "municipality": "San Isidro",
+      "coordinates": "6.82674, 126.10011"
+    },
+    {
+      "ident": "PH-0709",
+      "type": "small_airport",
+      "name": "Lebak Airstrip",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-SUK",
+      "municipality": "Lebak",
+      "coordinates": "6.62178, 124.055"
+    },
+    {
+      "ident": "PH-0710",
+      "type": "small_airport",
+      "name": "T'Boli Airport",
+      "elevation_ft": 1430.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-SCO",
+      "municipality": "T'Boli",
+      "coordinates": "6.23948, 124.80785"
+    },
+    {
+      "ident": "PH-0711",
+      "type": "closed",
+      "name": "Padada Airstrip",
+      "elevation_ft": 36.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAS",
+      "municipality": "Hagonoy",
+      "coordinates": "6.6953, 125.34318"
+    },
+    {
+      "ident": "PH-0712",
+      "type": "heliport",
+      "name": "Padada Heliport",
+      "elevation_ft": 36.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAS",
+      "municipality": "Hagonoy",
+      "coordinates": "6.69916, 125.33645"
+    },
+    {
       "ident": "PRNO",
       "type": "small_airport",
       "name": "Siocon Airport",
@@ -7399,7 +7532,7 @@
       "elevation_ft": 16.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DVO",
+      "iso_region": "PH-DOC",
       "municipality": "Malita",
       "gps_code": "RP17",
       "local_code": "RP17",
@@ -7710,7 +7843,7 @@
       "elevation_ft": 96.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-DAS",
+      "iso_region": "PH-DVO",
       "municipality": "Davao",
       "gps_code": "RPMD",
       "iata_code": "DVO",
@@ -7965,7 +8098,7 @@
       "elevation_ft": 33.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-ZAS",
+      "iso_region": "PH-ZMC",
       "municipality": "Zamboanga",
       "gps_code": "RPMZ",
       "iata_code": "ZAM",
@@ -8077,8 +8210,8 @@
       "elevation_ft": 4251.0,
       "continent": "AS",
       "iso_country": "PH",
-      "iso_region": "PH-BEN",
-      "municipality": "Baguio City",
+      "iso_region": "PH-BAG",
+      "municipality": "Baguio",
       "gps_code": "RPUB",
       "iata_code": "BAG",
       "coordinates": "16.375034, 120.619949"
