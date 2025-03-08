@@ -2,11 +2,11 @@
   "country_code": "PH",
   "country_name": "Philippines",
   "total_airports": 822,
-  "last_updated": "2025-03-07T00:08:14.574699",
+  "last_updated": "2025-03-08T00:06:36.719176",
   "types_distribution": {
     "small_airport": 200,
-    "heliport": 406,
-    "closed": 152,
+    "heliport": 404,
+    "closed": 154,
     "seaplane_base": 6,
     "medium_airport": 54,
     "balloonport": 1,
@@ -2742,7 +2742,7 @@
     },
     {
       "ident": "PH-0265",
-      "type": "heliport",
+      "type": "closed",
       "name": "SM Mall of Asia South Wing Helipad",
       "continent": "AS",
       "iso_country": "PH",
@@ -3164,7 +3164,7 @@
     {
       "ident": "PH-0307",
       "type": "heliport",
-      "name": "The Peninsula Heliport",
+      "name": "The Peninsula Manila Heliport",
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-00",
@@ -4172,16 +4172,6 @@
       "iso_region": "PH-00",
       "municipality": "Makati",
       "coordinates": "14.5581, 121.02409"
-    },
-    {
-      "ident": "PH-0406",
-      "type": "heliport",
-      "name": "L V Locsin Building Helipad",
-      "continent": "AS",
-      "iso_country": "PH",
-      "iso_region": "PH-00",
-      "municipality": "Makati",
-      "coordinates": "14.55448, 121.02384"
     },
     {
       "ident": "PH-0407",
@@ -7472,6 +7462,17 @@
       "iso_region": "PH-DAS",
       "municipality": "Hagonoy",
       "coordinates": "6.69916, 125.33645"
+    },
+    {
+      "ident": "PH-0713",
+      "type": "closed",
+      "name": "Candon Airport (under construction)",
+      "elevation_ft": 23.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ILS",
+      "municipality": "Candon",
+      "coordinates": "17.16532, 120.44775"
     },
     {
       "ident": "PRNO",

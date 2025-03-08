@@ -1,12 +1,12 @@
 {
   "country_code": "AT",
   "country_name": "Austria",
-  "total_airports": 184,
-  "last_updated": "2025-03-07T00:08:14.406366",
+  "total_airports": 188,
+  "last_updated": "2025-03-08T00:06:36.550971",
   "types_distribution": {
     "heliport": 112,
     "seaplane_base": 1,
-    "closed": 9,
+    "closed": 13,
     "small_airport": 54,
     "medium_airport": 7,
     "large_airport": 1
@@ -1000,7 +1000,7 @@
       "iso_region": "AT-9",
       "municipality": "Aspern",
       "local_code": "LOAJ",
-      "coordinates": "48.222244, 16.512693"
+      "coordinates": "48.222772, 16.512824"
     },
     {
       "ident": "AT-0087",
@@ -1025,6 +1025,50 @@
       "municipality": "Wien",
       "local_code": "LOBA",
       "coordinates": "48.221426, 16.346201"
+    },
+    {
+      "ident": "AT-0089",
+      "type": "closed",
+      "name": "Fels am Wagram Airfield",
+      "elevation_ft": 768.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Fels am Wagram",
+      "coordinates": "48.43317, 15.80151"
+    },
+    {
+      "ident": "AT-0090",
+      "type": "closed",
+      "name": "Markersdorf Airfield",
+      "elevation_ft": 840.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-3",
+      "municipality": "Markersdorf-Haindorf",
+      "coordinates": "48.18544, 15.49419"
+    },
+    {
+      "ident": "AT-0091",
+      "type": "closed",
+      "name": "Reichenau Airport",
+      "elevation_ft": 1886.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-7",
+      "municipality": "Innsbruck",
+      "coordinates": "47.271238, 11.421206"
+    },
+    {
+      "ident": "AT-0092",
+      "type": "closed",
+      "name": "Raffelding Airfield",
+      "elevation_ft": 869.0,
+      "continent": "EU",
+      "iso_country": "AT",
+      "iso_region": "AT-4",
+      "municipality": "Alkoven",
+      "coordinates": "48.29197, 14.05555"
     },
     {
       "ident": "DE-0354",

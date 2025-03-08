@@ -1,12 +1,12 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 641,
-  "last_updated": "2025-03-07T00:08:14.408681",
+  "total_airports": 646,
+  "last_updated": "2025-03-08T00:06:36.553269",
   "types_distribution": {
     "small_airport": 470,
     "closed": 45,
-    "heliport": 48,
+    "heliport": 53,
     "large_airport": 8,
     "medium_airport": 70
   },
@@ -3903,6 +3903,60 @@
       "iso_region": "ID-KS",
       "municipality": "Kintap, Tanah Laut",
       "coordinates": "-3.8244, 115.1825"
+    },
+    {
+      "ident": "ID-0354",
+      "type": "heliport",
+      "name": "Lombok Private Villa Estate Heliport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-NB",
+      "municipality": "Gangga, Lombok Utara",
+      "coordinates": "-8.33523, 116.18193"
+    },
+    {
+      "ident": "ID-0355",
+      "type": "heliport",
+      "name": "Gudang Garam Heliport",
+      "elevation_ft": 33.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Paiton, Probolinggo",
+      "coordinates": "-7.71802, 113.52407"
+    },
+    {
+      "ident": "ID-0356",
+      "type": "heliport",
+      "name": "UMM Heliport",
+      "elevation_ft": 1778.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Karang Ploso, Malang",
+      "coordinates": "-7.92155, 112.59729"
+    },
+    {
+      "ident": "ID-0357",
+      "type": "heliport",
+      "name": "Office Tower PT Gudang Garam Tbk Kediri Heliport",
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Kediri",
+      "coordinates": "-7.80766, 112.00982"
+    },
+    {
+      "ident": "ID-0358",
+      "type": "heliport",
+      "name": "Surya Air Gudang Garam Heliport",
+      "elevation_ft": 246.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-JI",
+      "municipality": "Kediri",
+      "coordinates": "-7.79019, 112.01084"
     },
     {
       "ident": "ID-AAS",

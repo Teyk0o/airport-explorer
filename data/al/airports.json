@@ -1,11 +1,11 @@
 {
   "country_code": "AL",
   "country_name": "Albania",
-  "total_airports": 20,
-  "last_updated": "2025-03-07T00:08:14.393821",
+  "total_airports": 21,
+  "last_updated": "2025-03-08T00:06:36.538352",
   "types_distribution": {
     "heliport": 9,
-    "closed": 8,
+    "closed": 9,
     "medium_airport": 2,
     "large_airport": 1
   },
@@ -184,6 +184,17 @@
       "iso_region": "AL-12",
       "municipality": "Sarandë",
       "coordinates": "39.876113, 20.037663"
+    },
+    {
+      "ident": "AL-0018",
+      "type": "closed",
+      "name": "Shijak Airfield",
+      "elevation_ft": 72.0,
+      "continent": "EU",
+      "iso_country": "AL",
+      "iso_region": "AL-02",
+      "municipality": "Shijak",
+      "coordinates": "41.33102, 19.54983"
     },
     {
       "ident": "LAFK",

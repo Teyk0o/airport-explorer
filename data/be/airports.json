@@ -1,10 +1,10 @@
 {
   "country_code": "BE",
   "country_name": "Belgium",
-  "total_airports": 202,
-  "last_updated": "2025-03-07T00:08:14.416109",
+  "total_airports": 215,
+  "last_updated": "2025-03-08T00:06:36.560682",
   "types_distribution": {
-    "closed": 40,
+    "closed": 53,
     "heliport": 112,
     "balloonport": 1,
     "small_airport": 37,
@@ -830,6 +830,145 @@
       "municipality": "Aalst",
       "local_code": "EBAL",
       "coordinates": "50.943087, 4.055763"
+    },
+    {
+      "ident": "BE-0076",
+      "type": "closed",
+      "name": "Gontrode Airfrield",
+      "elevation_ft": 82.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Melle",
+      "coordinates": "50.98189, 3.78642"
+    },
+    {
+      "ident": "BE-0077",
+      "type": "closed",
+      "name": "Brussels Heliport",
+      "elevation_ft": 62.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-BRU",
+      "municipality": "Brussels",
+      "coordinates": "50.86063, 4.35137"
+    },
+    {
+      "ident": "BE-0078",
+      "type": "closed",
+      "name": "Brussels Expo58 Heliport",
+      "elevation_ft": 220.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-BRU",
+      "municipality": "Brussels",
+      "coordinates": "50.89932, 4.33196"
+    },
+    {
+      "ident": "BE-0079",
+      "type": "closed",
+      "name": "Ursel Airfield",
+      "elevation_ft": 43.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Maldegem",
+      "coordinates": "51.17082, 3.4642"
+    },
+    {
+      "ident": "BE-0080",
+      "type": "closed",
+      "name": "Maldegem Airfield",
+      "elevation_ft": 43.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Maldegem",
+      "coordinates": "51.19713, 3.47768"
+    },
+    {
+      "ident": "BE-0081",
+      "type": "closed",
+      "name": "Oostakker Airfield",
+      "elevation_ft": 33.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Lochristi",
+      "coordinates": "51.09728, 3.80086"
+    },
+    {
+      "ident": "BE-0082",
+      "type": "closed",
+      "name": "Evere Airfield",
+      "elevation_ft": 200.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-BRU",
+      "municipality": "Evere",
+      "coordinates": "50.87155, 4.42024"
+    },
+    {
+      "ident": "BE-0083",
+      "type": "closed",
+      "name": "Merchtem Airfield",
+      "elevation_ft": 150.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VBR",
+      "municipality": "Merchtem",
+      "coordinates": "50.93815, 4.20585"
+    },
+    {
+      "ident": "BE-0084",
+      "type": "closed",
+      "name": "Beerse Airfield",
+      "elevation_ft": 92.0,
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VAN",
+      "municipality": "Beerse",
+      "coordinates": "51.31923, 4.79541"
+    },
+    {
+      "ident": "BE-0085",
+      "type": "closed",
+      "name": "Waasmunster Airfield",
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Waasmunster",
+      "coordinates": "51.12715, 4.06294"
+    },
+    {
+      "ident": "BE-0086",
+      "type": "closed",
+      "name": "Sint-Niklaas Airfield",
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VOV",
+      "municipality": "Sint-Niklaas",
+      "coordinates": "51.17213, 4.19202"
+    },
+    {
+      "ident": "BE-0087",
+      "type": "closed",
+      "name": "Keerbergen Airfield",
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VBR",
+      "municipality": "Keerbergen",
+      "coordinates": "51.00672, 4.67558"
+    },
+    {
+      "ident": "BE-0088",
+      "type": "closed",
+      "name": "Blakenberg Airfield",
+      "continent": "EU",
+      "iso_country": "BE",
+      "iso_region": "BE-VLI",
+      "municipality": "Halen",
+      "coordinates": "50.94458, 5.05254"
     },
     {
       "ident": "EBAG",

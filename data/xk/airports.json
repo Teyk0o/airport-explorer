@@ -1,13 +1,13 @@
 {
   "country_code": "XK",
   "country_name": "Kosovo",
-  "total_airports": 14,
-  "last_updated": "2025-03-07T00:08:14.394166",
+  "total_airports": 22,
+  "last_updated": "2025-03-08T00:06:36.538777",
   "types_distribution": {
-    "closed": 4,
+    "closed": 12,
     "medium_airport": 1,
-    "heliport": 6,
-    "small_airport": 3
+    "heliport": 8,
+    "small_airport": 1
   },
   "airports": [
     {
@@ -61,18 +61,18 @@
     {
       "ident": "XK-0001",
       "type": "closed",
-      "name": "Kaçanik Agricultural Airport",
+      "name": "Ferizaj Airfield",
       "elevation_ft": 1916.0,
       "continent": "EU",
       "iso_country": "XK",
       "iso_region": "XK-05",
-      "municipality": "Kaçanik",
+      "municipality": "Ferizaj",
       "coordinates": "42.346508, 21.194129"
     },
     {
       "ident": "XK-0002",
-      "type": "small_airport",
-      "name": "Jagodë Cropduster Strip",
+      "type": "closed",
+      "name": "Krusheva Airfield",
       "elevation_ft": 1634.0,
       "continent": "EU",
       "iso_country": "XK",
@@ -82,8 +82,8 @@
     },
     {
       "ident": "XK-0003",
-      "type": "small_airport",
-      "name": "Banjë Cropduster Strip",
+      "type": "closed",
+      "name": "Malisheva Airfield",
       "elevation_ft": 1943.0,
       "continent": "EU",
       "iso_country": "XK",
@@ -167,6 +167,94 @@
       "iso_region": "XK-07",
       "municipality": "Gjakovë",
       "coordinates": "42.435066, 20.427768"
+    },
+    {
+      "ident": "XK-0011",
+      "type": "closed",
+      "name": "Gjilan Airfield",
+      "elevation_ft": 1867.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-06",
+      "municipality": "Gjilan",
+      "coordinates": "42.46204, 21.44515"
+    },
+    {
+      "ident": "XK-0012",
+      "type": "closed",
+      "name": "Marinë Airfield",
+      "elevation_ft": 2123.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-07",
+      "municipality": "Morinë",
+      "coordinates": "42.70257, 20.82276"
+    },
+    {
+      "ident": "XK-0013",
+      "type": "closed",
+      "name": "Rahovec Airfield",
+      "elevation_ft": 1243.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-07",
+      "municipality": "Rahovec",
+      "coordinates": "42.37305, 20.61994"
+    },
+    {
+      "ident": "XK-0014",
+      "type": "closed",
+      "name": "Dubrava Airfield",
+      "elevation_ft": 1720.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-03",
+      "municipality": "Dubravë",
+      "coordinates": "42.7716, 20.54152"
+    },
+    {
+      "ident": "XK-0015",
+      "type": "closed",
+      "name": "Jashanica Airfield",
+      "elevation_ft": 16.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-03",
+      "municipality": "Klina",
+      "coordinates": "42.66261, 20.66298"
+    },
+    {
+      "ident": "XK-0016",
+      "type": "closed",
+      "name": "Prizren Airfield",
+      "elevation_ft": 1302.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-04",
+      "municipality": "Prizren",
+      "coordinates": "42.24272, 20.72063"
+    },
+    {
+      "ident": "XK-0017",
+      "type": "heliport",
+      "name": "Prizren Heliport",
+      "elevation_ft": 1490.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-04",
+      "municipality": "Prizren",
+      "coordinates": "42.22165, 20.749683"
+    },
+    {
+      "ident": "XK-0018",
+      "type": "heliport",
+      "name": "University Clinical Center of Kosovo Heliport",
+      "elevation_ft": 1978.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-01",
+      "municipality": "Pristina",
+      "coordinates": "42.64596, 21.1627"
     }
   ]
 }

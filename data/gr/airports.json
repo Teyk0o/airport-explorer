@@ -1,11 +1,11 @@
 {
   "country_code": "GR",
   "country_name": "Greece",
-  "total_airports": 160,
-  "last_updated": "2025-03-07T00:08:14.691343",
+  "total_airports": 162,
+  "last_updated": "2025-03-08T00:06:36.833691",
   "types_distribution": {
     "small_airport": 54,
-    "closed": 19,
+    "closed": 21,
     "heliport": 59,
     "medium_airport": 25,
     "large_airport": 3
@@ -925,6 +925,7 @@
       "continent": "EU",
       "iso_country": "GR",
       "iso_region": "GR-J",
+      "municipality": "Gialova",
       "coordinates": "36.938325, 21.716473"
     },
     {
@@ -1058,13 +1059,13 @@
     {
       "ident": "GR-0099",
       "type": "closed",
-      "name": "Marathon Wasser Airport",
+      "name": "Marathonas Airport",
       "elevation_ft": 3.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "GR",
       "iso_region": "GR-I",
-      "municipality": "Marathon",
-      "coordinates": "38.143902, 24.0128"
+      "municipality": "Marathonas",
+      "coordinates": "38.148671, 24.013084"
     },
     {
       "ident": "GR-0100",
@@ -1089,6 +1090,28 @@
       "coordinates": "39.3838996887, 22.9174003601"
     },
     {
+      "ident": "GR-0102",
+      "type": "closed",
+      "name": "Skiathos Heliport",
+      "elevation_ft": 10.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-E",
+      "municipality": "Platanias",
+      "coordinates": "39.14462, 23.44039"
+    },
+    {
+      "ident": "GR-0103",
+      "type": "closed",
+      "name": "Sarantapicho Airfield",
+      "elevation_ft": 4308.0,
+      "continent": "EU",
+      "iso_country": "GR",
+      "iso_region": "GR-J",
+      "municipality": "Sarantapicho",
+      "coordinates": "38.02697, 22.37193"
+    },
+    {
       "ident": "LG54",
       "type": "small_airport",
       "name": "Tympaki Air Base",
@@ -1103,13 +1126,13 @@
     {
       "ident": "LG55",
       "type": "small_airport",
-      "name": "Triodhon Airfield",
+      "name": "Triodos Airfield",
       "elevation_ft": 36.0,
       "continent": "EU",
       "iso_country": "GR",
       "iso_region": "GR-J",
-      "municipality": "Triodhon",
-      "coordinates": "37.094101, 21.9904"
+      "municipality": "Triodos",
+      "coordinates": "37.094387, 21.990736"
     },
     {
       "ident": "LG56",
