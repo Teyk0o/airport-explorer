@@ -1,12 +1,12 @@
 {
   "country_code": "XK",
   "country_name": "Kosovo",
-  "total_airports": 22,
-  "last_updated": "2025-03-08T00:06:36.538777",
+  "total_airports": 25,
+  "last_updated": "2025-03-09T00:07:40.858490",
   "types_distribution": {
     "closed": 12,
     "medium_airport": 1,
-    "heliport": 8,
+    "heliport": 11,
     "small_airport": 1
   },
   "airports": [
@@ -255,6 +255,39 @@
       "iso_region": "XK-01",
       "municipality": "Pristina",
       "coordinates": "42.64596, 21.1627"
+    },
+    {
+      "ident": "XK-0019",
+      "type": "heliport",
+      "name": "UNMIK Mitrovica Heliport",
+      "elevation_ft": 1657.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-02",
+      "municipality": "Mitrovica",
+      "coordinates": "42.89382, 20.87722"
+    },
+    {
+      "ident": "XK-0020",
+      "type": "heliport",
+      "name": "Gjakova Heliport",
+      "elevation_ft": 1204.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-07",
+      "municipality": "Gjakova",
+      "coordinates": "42.38589, 20.43589"
+    },
+    {
+      "ident": "XK-0021",
+      "type": "heliport",
+      "name": "Camp Villaggio Italia Heliport",
+      "elevation_ft": 2021.0,
+      "continent": "EU",
+      "iso_country": "XK",
+      "iso_region": "XK-03",
+      "municipality": "Peja",
+      "coordinates": "42.63094, 20.28684"
     }
   ]
 }

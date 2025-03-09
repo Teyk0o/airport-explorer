@@ -1,14 +1,14 @@
 {
   "country_code": "RO",
   "country_name": "Romania",
-  "total_airports": 143,
-  "last_updated": "2025-03-08T00:06:36.913698",
+  "total_airports": 145,
+  "last_updated": "2025-03-09T00:07:41.235793",
   "types_distribution": {
     "medium_airport": 21,
     "heliport": 24,
     "small_airport": 81,
     "large_airport": 1,
-    "closed": 16
+    "closed": 18
   },
   "airports": [
     {
@@ -1618,6 +1618,26 @@
       "iso_region": "RO-GR",
       "municipality": "Comana",
       "coordinates": "44.225, 26.121389"
+    },
+    {
+      "ident": "RO-0109",
+      "type": "closed",
+      "name": "Galați Airport",
+      "continent": "EU",
+      "iso_country": "RO",
+      "iso_region": "RO-GL",
+      "municipality": "Galați",
+      "coordinates": "45.45379, 28.04489"
+    },
+    {
+      "ident": "RO-0110",
+      "type": "closed",
+      "name": "Pipera Airfield",
+      "continent": "EU",
+      "iso_country": "RO",
+      "iso_region": "RO-B",
+      "municipality": "Bucharest",
+      "coordinates": "44.47989, 26.11666"
     }
   ]
 }

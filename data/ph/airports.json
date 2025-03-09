@@ -1,12 +1,12 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 822,
-  "last_updated": "2025-03-08T00:06:36.719176",
+  "total_airports": 835,
+  "last_updated": "2025-03-09T00:07:41.039499",
   "types_distribution": {
     "small_airport": 200,
-    "heliport": 404,
-    "closed": 154,
+    "heliport": 406,
+    "closed": 165,
     "seaplane_base": 6,
     "medium_airport": 54,
     "balloonport": 1,
@@ -7473,6 +7473,138 @@
       "iso_region": "PH-ILS",
       "municipality": "Candon",
       "coordinates": "17.16532, 120.44775"
+    },
+    {
+      "ident": "PH-0714",
+      "type": "closed",
+      "name": "Anakan (Side 2) Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-MSR",
+      "municipality": "Gingoog",
+      "coordinates": "8.84394, 125.15737"
+    },
+    {
+      "ident": "PH-0715",
+      "type": "heliport",
+      "name": "Camp Evangelista Heliport",
+      "elevation_ft": 66.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-CGY",
+      "municipality": "Cagayan de Oro",
+      "coordinates": "8.48901, 124.62447"
+    },
+    {
+      "ident": "PH-0716",
+      "type": "closed",
+      "name": "Patag Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-CGY",
+      "municipality": "Cagayan de Oro",
+      "coordinates": "8.48605, 124.6167"
+    },
+    {
+      "ident": "PH-0717",
+      "type": "closed",
+      "name": "Del Monte Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BUK",
+      "municipality": "Manolo Fortich",
+      "coordinates": "8.36872, 124.83183"
+    },
+    {
+      "ident": "PH-0718",
+      "type": "closed",
+      "name": "Dalirig Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BUK",
+      "municipality": "Manolo Fortich",
+      "coordinates": "8.3908, 124.92299"
+    },
+    {
+      "ident": "PH-0719",
+      "type": "closed",
+      "name": "Matina Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DVO",
+      "municipality": "Davao",
+      "coordinates": "7.04914, 125.57996"
+    },
+    {
+      "ident": "PH-0720",
+      "type": "closed",
+      "name": "Licanan Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAV",
+      "municipality": "Panabo",
+      "coordinates": "7.28433, 125.67018"
+    },
+    {
+      "ident": "PH-0721",
+      "type": "closed",
+      "name": "Libby Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DVO",
+      "municipality": "Davao",
+      "coordinates": "7.06334, 125.51181"
+    },
+    {
+      "ident": "PH-0722",
+      "type": "closed",
+      "name": "Valencia Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BUK",
+      "municipality": "Valencia",
+      "coordinates": "7.91162, 125.09993"
+    },
+    {
+      "ident": "PH-0723",
+      "type": "closed",
+      "name": "Digos (Daliao) Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-DAS",
+      "municipality": "Digos",
+      "coordinates": "6.74756, 125.36152"
+    },
+    {
+      "ident": "PH-0724",
+      "type": "closed",
+      "name": "Wolfe Field",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ZMC",
+      "municipality": "Zamboanga",
+      "coordinates": "6.9335, 122.08354"
+    },
+    {
+      "ident": "PH-0725",
+      "type": "closed",
+      "name": "Calarian Airfield",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ZMC",
+      "municipality": "Zamboanga",
+      "coordinates": "6.92322, 122.03326"
+    },
+    {
+      "ident": "PH-0726",
+      "type": "heliport",
+      "name": "NGCP Pitogo Substation Heliport",
+      "elevation_ft": 72.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-ZMC",
+      "municipality": "Zamboanga",
+      "coordinates": "6.94063, 121.99108"
     },
     {
       "ident": "PRNO",

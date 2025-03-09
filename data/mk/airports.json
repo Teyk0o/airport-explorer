@@ -1,14 +1,14 @@
 {
   "country_code": "MK",
   "country_name": "Macedonia",
-  "total_airports": 31,
-  "last_updated": "2025-03-08T00:06:36.918778",
+  "total_airports": 33,
+  "last_updated": "2025-03-09T00:07:41.240908",
   "types_distribution": {
     "small_airport": 11,
     "medium_airport": 1,
     "large_airport": 1,
     "closed": 7,
-    "heliport": 11
+    "heliport": 13
   },
   "airports": [
     {
@@ -353,6 +353,28 @@
       "iso_region": "MK-001",
       "municipality": "Mavrovica",
       "coordinates": "41.912399, 21.9554"
+    },
+    {
+      "ident": "MK-0023",
+      "type": "heliport",
+      "name": "Veles General Hospital Heliport",
+      "elevation_ft": 768.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-001",
+      "municipality": "Veles",
+      "coordinates": "41.71446, 21.77594"
+    },
+    {
+      "ident": "MK-0024",
+      "type": "heliport",
+      "name": "Ilinden Barracks Heliport",
+      "elevation_ft": 968.0,
+      "continent": "EU",
+      "iso_country": "MK",
+      "iso_region": "MK-002",
+      "municipality": "Štip",
+      "coordinates": "41.75616, 22.18812"
     }
   ]
 }
