@@ -2,7 +2,7 @@
   "country_code": "CZ",
   "country_name": "Czech Republic",
   "total_airports": 384,
-  "last_updated": "2025-03-09T00:07:41.057136",
+  "last_updated": "2025-03-10T00:07:27.602713",
   "types_distribution": {
     "heliport": 107,
     "closed": 25,
@@ -869,12 +869,14 @@
     {
       "ident": "CZ-0078",
       "type": "small_airport",
-      "name": "Polepy",
+      "name": "Polepy Airfield",
+      "elevation_ft": 692.0,
       "continent": "EU",
       "iso_country": "CZ",
       "iso_region": "CZ-US",
+      "municipality": "Polepy",
       "local_code": "LKPOLE",
-      "coordinates": "50.521389, 14.271667"
+      "coordinates": "50.520273, 14.272242"
     },
     {
       "ident": "CZ-0079",
@@ -1219,7 +1221,7 @@
     {
       "ident": "CZ-0109",
       "type": "small_airport",
-      "name": "Dušníky ULM",
+      "name": "Dušníky Ultralight Airfield",
       "elevation_ft": 728.0,
       "continent": "EU",
       "iso_country": "CZ",
@@ -2777,11 +2779,12 @@
     {
       "ident": "CZ-0252",
       "type": "small_airport",
-      "name": "Terezin Airfield",
+      "name": "Terezín Airfield",
       "elevation_ft": 482.0,
       "continent": "EU",
       "iso_country": "CZ",
       "iso_region": "CZ-US",
+      "municipality": "Terezín",
       "local_code": "LKTERE",
       "coordinates": "50.519444, 14.155833"
     },
@@ -2994,10 +2997,11 @@
       "ident": "CZ-0272",
       "type": "closed",
       "name": "Blátna Air Base",
+      "elevation_ft": 1594.0,
       "continent": "EU",
       "iso_country": "CZ",
       "iso_region": "CZ-JC",
-      "municipality": "Blátna",
+      "municipality": "Tchořovice",
       "coordinates": "49.431173, 13.797095"
     },
     {
@@ -3992,7 +3996,7 @@
       "iso_region": "CZ-PL",
       "municipality": "Staňkov",
       "gps_code": "LKSA",
-      "coordinates": "49.566667, 13.048611"
+      "coordinates": "49.566515, 13.04867"
     },
     {
       "ident": "LKSB",
@@ -4004,7 +4008,7 @@
       "iso_region": "CZ-OL",
       "municipality": "Mostkovice",
       "gps_code": "LKSB",
-      "coordinates": "49.486099, 17.055599"
+      "coordinates": "49.48739, 17.05261"
     },
     {
       "ident": "LKSK",
@@ -4026,8 +4030,9 @@
       "continent": "EU",
       "iso_country": "CZ",
       "iso_region": "CZ-PA",
+      "municipality": "Solnice",
       "gps_code": "LKSL",
-      "coordinates": "50.195278, 16.248056"
+      "coordinates": "50.1954, 16.247976"
     },
     {
       "ident": "LKSN",
@@ -4039,7 +4044,7 @@
       "iso_region": "CZ-ST",
       "municipality": "Slaný",
       "gps_code": "LKSN",
-      "coordinates": "50.216702, 14.0886"
+      "coordinates": "50.21639, 14.087845"
     },
     {
       "ident": "LKSO",
@@ -4056,12 +4061,12 @@
     {
       "ident": "LKSR",
       "type": "small_airport",
-      "name": "Strunkovice Airfield",
+      "name": "Prachatice Airfield",
       "elevation_ft": 1572.0,
       "continent": "EU",
       "iso_country": "CZ",
       "iso_region": "CZ-JC",
-      "municipality": "Strunkovice",
+      "municipality": "Prachatice",
       "gps_code": "LKSR",
       "coordinates": "49.0825, 14.0758"
     },
@@ -4092,7 +4097,7 @@
     {
       "ident": "LKSZ",
       "type": "small_airport",
-      "name": "Letiště Sazená",
+      "name": "Sazená Airfield",
       "elevation_ft": 761.0,
       "continent": "EU",
       "iso_country": "CZ",

@@ -1,13 +1,13 @@
 {
   "country_code": "IE",
   "country_name": "Ireland",
-  "total_airports": 125,
-  "last_updated": "2025-03-09T00:07:41.105920",
+  "total_airports": 128,
+  "last_updated": "2025-03-10T00:07:27.652402",
   "types_distribution": {
-    "small_airport": 88,
+    "small_airport": 89,
+    "heliport": 10,
     "medium_airport": 9,
     "large_airport": 2,
-    "heliport": 8,
     "seaplane_base": 1,
     "closed": 17
   },
@@ -23,6 +23,30 @@
       "municipality": "Abbeyshrule",
       "gps_code": "EIAB",
       "coordinates": "53.59170150756836, -7.645559787750244"
+    },
+    {
+      "ident": "EIAC",
+      "type": "heliport",
+      "name": "Custume Barracks Heliport",
+      "elevation_ft": 135.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-WH",
+      "municipality": "Athlone",
+      "gps_code": "EIAC",
+      "coordinates": "53.42408, -7.947587"
+    },
+    {
+      "ident": "EIAH",
+      "type": "heliport",
+      "name": "Adona Heliport",
+      "elevation_ft": 220.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-D",
+      "municipality": "Dublin",
+      "gps_code": "EIAH",
+      "coordinates": "53.442752, -6.26176"
     },
     {
       "ident": "EIBA",
@@ -98,6 +122,18 @@
       "gps_code": "EICA",
       "iata_code": "NNR",
       "coordinates": "53.23030090332031, -9.467780113220215"
+    },
+    {
+      "ident": "EICD",
+      "type": "small_airport",
+      "name": "Craddenstown Airfield",
+      "elevation_ft": 256.0,
+      "continent": "EU",
+      "iso_country": "IE",
+      "iso_region": "IE-WH",
+      "municipality": "Craddenstown",
+      "gps_code": "EICD",
+      "coordinates": "53.542749, -7.061153"
     },
     {
       "ident": "EICK",
@@ -544,6 +580,7 @@
       "iso_country": "IE",
       "iso_region": "IE-MH",
       "municipality": "Staffordstown",
+      "gps_code": "EIDG",
       "coordinates": "53.422468, -6.546232"
     },
     {
@@ -688,6 +725,7 @@
       "iso_country": "IE",
       "iso_region": "IE-KY",
       "municipality": "Abbeyfeale",
+      "gps_code": "EIRE",
       "coordinates": "52.395797, -9.34006"
     },
     {
@@ -1008,12 +1046,13 @@
     {
       "ident": "IE-0050",
       "type": "small_airport",
-      "name": "Milltownpass Airfield",
+      "name": "Mullingar-Milltownpass Airfield",
       "elevation_ft": 281.0,
       "continent": "EU",
       "iso_country": "IE",
       "iso_region": "IE-WH",
       "municipality": "Milltownpass",
+      "gps_code": "EIMP",
       "coordinates": "53.452082, -7.237543"
     },
     {

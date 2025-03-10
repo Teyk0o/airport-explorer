@@ -2,7 +2,7 @@
   "country_code": "BN",
   "country_name": "Brunei",
   "total_airports": 16,
-  "last_updated": "2025-03-09T00:07:40.927411",
+  "last_updated": "2025-03-10T00:07:27.470761",
   "types_distribution": {
     "heliport": 14,
     "small_airport": 1,
@@ -112,11 +112,13 @@
     {
       "ident": "BN-0011",
       "type": "heliport",
-      "name": "Seria Heliport",
+      "name": "Medicina Lines Heliport",
+      "elevation_ft": 10.0,
       "continent": "AS",
       "iso_country": "BN",
       "iso_region": "BN-BE",
       "municipality": "Seria",
+      "gps_code": "WBML",
       "coordinates": "4.608473, 114.327288"
     },
     {

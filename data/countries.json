@@ -325,9 +325,9 @@
   {
     "code": "BR",
     "name": "Brazil",
-    "airport_count": 7442,
+    "airport_count": 7448,
     "types_distribution": {
-      "small_airport": 5146,
+      "small_airport": 5152,
       "closed": 292,
       "heliport": 1869,
       "medium_airport": 124,
@@ -1140,12 +1140,12 @@
   {
     "code": "IE",
     "name": "Ireland",
-    "airport_count": 125,
+    "airport_count": 128,
     "types_distribution": {
-      "small_airport": 88,
+      "small_airport": 89,
+      "heliport": 10,
       "medium_airport": 9,
       "large_airport": 2,
-      "heliport": 8,
       "seaplane_base": 1,
       "closed": 17
     }
@@ -1891,9 +1891,9 @@
     "name": "Philippines",
     "airport_count": 835,
     "types_distribution": {
-      "small_airport": 200,
+      "small_airport": 199,
       "heliport": 406,
-      "closed": 165,
+      "closed": 166,
       "seaplane_base": 6,
       "medium_airport": 54,
       "balloonport": 1,
@@ -2556,10 +2556,10 @@
   {
     "code": "US",
     "name": "United States",
-    "airport_count": 32001,
+    "airport_count": 32002,
     "types_distribution": {
       "heliport": 8129,
-      "small_airport": 15212,
+      "small_airport": 15213,
       "seaplane_base": 647,
       "balloonport": 29,
       "closed": 7081,

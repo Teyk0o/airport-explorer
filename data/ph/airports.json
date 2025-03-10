@@ -2,11 +2,11 @@
   "country_code": "PH",
   "country_name": "Philippines",
   "total_airports": 835,
-  "last_updated": "2025-03-09T00:07:41.039499",
+  "last_updated": "2025-03-10T00:07:27.584263",
   "types_distribution": {
-    "small_airport": 200,
+    "small_airport": 199,
     "heliport": 406,
-    "closed": 165,
+    "closed": 166,
     "seaplane_base": 6,
     "medium_airport": 54,
     "balloonport": 1,
@@ -4408,7 +4408,7 @@
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-NEC",
-      "municipality": "Sipalay",
+      "municipality": "Hinobaan",
       "coordinates": "9.664463, 122.535617"
     },
     {
@@ -5941,14 +5941,14 @@
     },
     {
       "ident": "PH-0571",
-      "type": "small_airport",
-      "name": "Bacuyangan Airport",
+      "type": "closed",
+      "name": "Bacuyangan Airfield",
       "elevation_ft": 20.0,
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-NEC",
-      "municipality": "Hinoba-an",
-      "coordinates": "9.63517, 122.46013"
+      "municipality": "Hinobaan",
+      "coordinates": "9.633839, 122.459548"
     },
     {
       "ident": "PH-0572",
@@ -7217,13 +7217,13 @@
     {
       "ident": "PH-0690",
       "type": "heliport",
-      "name": "Coast Guard SAR Base Hinoba-an Heliport",
+      "name": "Coast Guard SAR Base Hinobaan Heliport",
       "elevation_ft": 23.0,
       "continent": "AS",
       "iso_country": "PH",
       "iso_region": "PH-NEC",
-      "municipality": "Hinoba-an",
-      "coordinates": "9.66354, 122.45373"
+      "municipality": "Hinobaan",
+      "coordinates": "9.663452, 122.453851"
     },
     {
       "ident": "PH-0691",

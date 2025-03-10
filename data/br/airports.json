@@ -1,10 +1,10 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7442,
-  "last_updated": "2025-03-09T00:07:40.931230",
+  "total_airports": 7448,
+  "last_updated": "2025-03-10T00:07:27.474497",
   "types_distribution": {
-    "small_airport": 5146,
+    "small_airport": 5152,
     "closed": 292,
     "heliport": 1869,
     "medium_airport": 124,
@@ -74916,6 +74916,45 @@
       "coordinates": "-10.751652, -53.805425"
     },
     {
+      "ident": "SN9M",
+      "type": "small_airport",
+      "name": "Fazenda Castanhal Airport",
+      "elevation_ft": 538.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Rondolândia",
+      "gps_code": "SN9M",
+      "local_code": "MT1053",
+      "coordinates": "-10.36115, -61.077316"
+    },
+    {
+      "ident": "SN9N",
+      "type": "small_airport",
+      "name": "Bemad Portel Airport",
+      "elevation_ft": 61.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Portel",
+      "gps_code": "SN9N",
+      "local_code": "PA0411",
+      "coordinates": "-1.965539, -50.810506"
+    },
+    {
+      "ident": "SN9O",
+      "type": "small_airport",
+      "name": "Fazenda Pataca Airport",
+      "elevation_ft": 1010.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Novo Progresso",
+      "gps_code": "SN9O",
+      "local_code": "PA0403",
+      "coordinates": "-9.307594, -56.031803"
+    },
+    {
       "ident": "SN9P",
       "type": "small_airport",
       "name": "Fazenda Senhora Santana Airport",
@@ -74927,6 +74966,45 @@
       "gps_code": "SN9P",
       "local_code": "MG0611",
       "coordinates": "-17.007289, -46.481097"
+    },
+    {
+      "ident": "SN9Q",
+      "type": "small_airport",
+      "name": "Zeildo Lacerda Airport",
+      "elevation_ft": 344.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Placas",
+      "gps_code": "SN9Q",
+      "local_code": "PA0292",
+      "coordinates": "-3.891944, -54.241667"
+    },
+    {
+      "ident": "SN9S",
+      "type": "small_airport",
+      "name": "Fazenda Rancho Fundo Airport",
+      "elevation_ft": 789.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Novo Progresso",
+      "gps_code": "SN9S",
+      "local_code": "PA0388",
+      "coordinates": "-9.255228, -56.011751"
+    },
+    {
+      "ident": "SN9T",
+      "type": "small_airport",
+      "name": "Fazenda Cristalina Airports",
+      "elevation_ft": 1253.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nova Maringá",
+      "gps_code": "SN9T",
+      "local_code": "MT1026",
+      "coordinates": "-12.485724, -57.19793"
     },
     {
       "ident": "SN9U",
