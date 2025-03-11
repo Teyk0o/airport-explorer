@@ -2,10 +2,10 @@
   "country_code": "BR",
   "country_name": "Brazil",
   "total_airports": 7448,
-  "last_updated": "2025-03-10T00:07:27.474497",
+  "last_updated": "2025-03-11T00:08:27.186785",
   "types_distribution": {
-    "small_airport": 5152,
-    "closed": 292,
+    "small_airport": 5151,
+    "closed": 293,
     "heliport": 1869,
     "medium_airport": 124,
     "large_airport": 11
@@ -26900,14 +26900,13 @@
     },
     {
       "ident": "BR-2205",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Araguaiana Airport",
       "elevation_ft": 994.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Araguaiana",
-      "local_code": "MT0026",
       "coordinates": "-15.708652, -51.837865"
     },
     {
@@ -27234,7 +27233,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Guaíra",
-      "local_code": "SSUX",
       "coordinates": "-20.483834, -48.373594"
     },
     {

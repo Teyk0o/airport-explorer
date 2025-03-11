@@ -1,13 +1,13 @@
 {
   "country_code": "SB",
   "country_name": "Solomon Islands",
-  "total_airports": 40,
-  "last_updated": "2025-03-10T00:07:27.377573",
+  "total_airports": 41,
+  "last_updated": "2025-03-11T00:08:27.089875",
   "types_distribution": {
     "small_airport": 34,
     "large_airport": 1,
     "medium_airport": 1,
-    "heliport": 1,
+    "heliport": 2,
     "closed": 3
   },
   "airports": [
@@ -338,6 +338,18 @@
       "coordinates": "-9.092816, 159.21841"
     },
     {
+      "ident": "AGIN",
+      "type": "heliport",
+      "name": "Isuna Heliport",
+      "elevation_ft": 26.0,
+      "continent": "OC",
+      "iso_country": "SB",
+      "iso_region": "SB-GU",
+      "municipality": "Veravaulo",
+      "gps_code": "AGIN",
+      "coordinates": "-9.805809, 159.962722"
+    },
+    {
       "ident": "AGKG",
       "type": "small_airport",
       "name": "Kaghau Airport",
@@ -509,7 +521,7 @@
       "municipality": "Viru",
       "gps_code": "AGVH",
       "iata_code": "VIU",
-      "coordinates": "-8.5085, 157.69"
+      "coordinates": "-8.508457, 157.689986"
     }
   ]
 }

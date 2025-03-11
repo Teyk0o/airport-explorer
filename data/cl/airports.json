@@ -1,12 +1,12 @@
 {
   "country_code": "CL",
   "country_name": "Chile",
-  "total_airports": 511,
-  "last_updated": "2025-03-10T00:07:27.593506",
+  "total_airports": 514,
+  "last_updated": "2025-03-11T00:08:27.304329",
   "types_distribution": {
     "closed": 19,
-    "small_airport": 345,
-    "heliport": 114,
+    "small_airport": 347,
+    "heliport": 115,
     "medium_airport": 32,
     "large_airport": 1
   },
@@ -359,6 +359,28 @@
       "coordinates": "-46.74606, -72.527319"
     },
     {
+      "ident": "CL-0033",
+      "type": "small_airport",
+      "name": "Paso El León Airstrip",
+      "elevation_ft": 1394.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Paso El León",
+      "coordinates": "-41.50647, -71.85189"
+    },
+    {
+      "ident": "CL-0034",
+      "type": "heliport",
+      "name": "Paso El León Police Station Heliport",
+      "elevation_ft": 1358.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Paso El León",
+      "coordinates": "-41.50454, -71.86033"
+    },
+    {
       "ident": "CL-SC49",
       "type": "small_airport",
       "name": "Oficina Victoria Airport",
@@ -560,10 +582,10 @@
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-LL",
-      "municipality": "Alto Palena",
+      "municipality": "Palena",
       "gps_code": "SCAP",
       "iata_code": "WAP",
-      "coordinates": "-43.6119003296, -71.806098938"
+      "coordinates": "-43.611492, -71.805452"
     },
     {
       "ident": "SCAQ",
@@ -593,12 +615,12 @@
     {
       "ident": "SCAS",
       "type": "small_airport",
-      "name": "Cabo 1° Juan Román Airport",
+      "name": "Cabo Juan Román Airfield",
       "elevation_ft": 30.0,
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-AI",
-      "municipality": "Puerto Aysen",
+      "municipality": "Puerto Aysén",
       "gps_code": "SCAS",
       "iata_code": "WPA",
       "coordinates": "-45.3992, -72.670303"
@@ -2036,9 +2058,9 @@
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-AI",
-      "municipality": "Isla Las Huichas",
+      "municipality": "Caleta Andrade",
       "gps_code": "SCIH",
-      "coordinates": "-45.147777, -73.508614"
+      "coordinates": "-45.149121, -73.513118"
     },
     {
       "ident": "SCII",
@@ -2182,7 +2204,7 @@
       "iso_region": "CL-LL",
       "municipality": "Osorno",
       "gps_code": "SCJK",
-      "coordinates": "-40.884445, -72.368889"
+      "coordinates": "-40.889708, -72.371812"
     },
     {
       "ident": "SCJO",
@@ -2435,7 +2457,7 @@
       "iso_region": "CL-LL",
       "municipality": "Llanada Grande",
       "gps_code": "SCLD",
-      "coordinates": "-41.866699, -71.934402"
+      "coordinates": "-41.87189, -71.937241"
     },
     {
       "ident": "SCLE",
@@ -2495,7 +2517,7 @@
       "iso_region": "CL-AI",
       "municipality": "La Junta",
       "gps_code": "SCLJ",
-      "coordinates": "-43.975277, -72.413055"
+      "coordinates": "-43.978111, -72.413352"
     },
     {
       "ident": "SCLK",
@@ -2908,6 +2930,18 @@
       "coordinates": "-31.873056, -70.618332"
     },
     {
+      "ident": "SCNL",
+      "type": "small_airport",
+      "name": "Villa Cerro Castillo Airport",
+      "elevation_ft": 997.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-AI",
+      "municipality": "Villa Cerro Castillo",
+      "gps_code": "SCNL",
+      "coordinates": "-46.12999, -72.14587"
+    },
+    {
       "ident": "SCNM",
       "type": "small_airport",
       "name": "Las Misiones Airport",
@@ -3001,7 +3035,7 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Octay",
       "gps_code": "SCOC",
-      "coordinates": "-40.993057, -72.659721"
+      "coordinates": "-40.991103, -72.661123"
     },
     {
       "ident": "SCOE",
@@ -3219,7 +3253,7 @@
       "iso_region": "CL-AI",
       "municipality": "Puyuhuapi",
       "gps_code": "SCPH",
-      "coordinates": "-44.385601, -72.5942"
+      "coordinates": "-44.382948, -72.593631"
     },
     {
       "ident": "SCPI",
@@ -3243,7 +3277,7 @@
       "iso_region": "CL-AI",
       "municipality": "Puerto Cisnes",
       "gps_code": "SCPK",
-      "coordinates": "-44.758657, -72.698325"
+      "coordinates": "-44.759304, -72.697763"
     },
     {
       "ident": "SCPL",
@@ -3364,7 +3398,7 @@
       "iso_region": "CL-LL",
       "municipality": "Peulla",
       "gps_code": "SCPU",
-      "coordinates": "-41.054165, -72.008331"
+      "coordinates": "-41.057078, -72.013525"
     },
     {
       "ident": "SCPV",
@@ -3413,7 +3447,7 @@
       "iso_region": "CL-MA",
       "municipality": "Cerro Castillo",
       "gps_code": "SCPY",
-      "coordinates": "-51.262222, -72.337502"
+      "coordinates": "-51.260222, -72.336836"
     },
     {
       "ident": "SCQC",
@@ -3678,9 +3712,9 @@
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-LL",
-      "municipality": "Río Frío",
+      "municipality": "Cochamó",
       "gps_code": "SCRI",
-      "coordinates": "-41.74282, -71.909981"
+      "coordinates": "-41.742523, -71.909854"
     },
     {
       "ident": "SCRL",
@@ -5110,14 +5144,14 @@
     {
       "ident": "SHCY",
       "type": "heliport",
-      "name": "Hospital de Coyhaique Heliport",
+      "name": "Coyhaique Regional Hospital Heliport",
       "elevation_ft": 915.0,
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-AI",
       "municipality": "Coyhaique",
       "gps_code": "SHCY",
-      "coordinates": "-45.56888961791992, -72.07555389404297"
+      "coordinates": "-45.568792, -72.075629"
     },
     {
       "ident": "SHDG",

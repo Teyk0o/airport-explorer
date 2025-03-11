@@ -1,12 +1,12 @@
 {
   "country_code": "AR",
   "country_name": "Argentina",
-  "total_airports": 946,
-  "last_updated": "2025-03-10T00:07:27.406005",
+  "total_airports": 948,
+  "last_updated": "2025-03-11T00:08:27.118432",
   "types_distribution": {
-    "small_airport": 687,
+    "small_airport": 688,
     "closed": 42,
-    "heliport": 146,
+    "heliport": 147,
     "balloonport": 1,
     "medium_airport": 68,
     "large_airport": 2
@@ -554,9 +554,9 @@
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-R",
-      "municipality": "San Carlos De Bariloche",
+      "municipality": "San Carlos de Bariloche",
       "local_code": "HBA",
-      "coordinates": "-41.1612, -71.3659"
+      "coordinates": "-41.161162, -71.365693"
     },
     {
       "ident": "AR-0046",
@@ -1310,14 +1310,14 @@
     {
       "ident": "AR-0109",
       "type": "heliport",
-      "name": "Complejo Llao Llao Heliport",
+      "name": "Llao Llao Complex Heliport",
       "elevation_ft": 2542.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-R",
-      "municipality": "San Carlos De Bariloche",
+      "municipality": "San Carlos de Bariloche",
       "local_code": "HLL",
-      "coordinates": "-41.0544, -71.5339"
+      "coordinates": "-41.054708, -71.533871"
     },
     {
       "ident": "AR-0110",
@@ -1615,8 +1615,9 @@
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-U",
-      "municipality": "El Corcovado - Esquel",
-      "coordinates": "-43.533599853515625, -71.48470306396484"
+      "municipality": "Corcovado",
+      "gps_code": "SAE8",
+      "coordinates": "-43.5336, -71.484703"
     },
     {
       "ident": "AR-0135",
@@ -2815,14 +2816,14 @@
     {
       "ident": "AR-0235",
       "type": "small_airport",
-      "name": "Lago Buenos Aires Airport",
-      "elevation_ft": 1312.0,
+      "name": "Lago Buenos Aires (Aeroclub Perito Moreno) Airfield",
+      "elevation_ft": 1257.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-Z",
-      "municipality": "Lago Buenos Aires",
+      "municipality": "Perito Moreno",
       "local_code": "BAI",
-      "coordinates": "-46.5764007568, -70.948600769"
+      "coordinates": "-46.576307, -70.947871"
     },
     {
       "ident": "AR-0236",
@@ -2851,12 +2852,12 @@
     {
       "ident": "AR-0238",
       "type": "small_airport",
-      "name": "Lago Nahuel Huapi Airport",
+      "name": "Lago Nahuel Huapi Airfield",
       "elevation_ft": 2558.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-R",
-      "municipality": "Nahuel Huapi",
+      "municipality": "San Carlos de Bariloche",
       "local_code": "LNH",
       "coordinates": "-41.096709, -71.178021"
     },
@@ -4890,7 +4891,7 @@
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-U",
-      "municipality": "El Corcovado",
+      "municipality": "El Colorado",
       "local_code": "VEC",
       "coordinates": "-43.72139, -71.24556"
     },
@@ -8892,6 +8893,28 @@
       "coordinates": "-49.410757, -72.780266"
     },
     {
+      "ident": "AR-0758",
+      "type": "small_airport",
+      "name": "Lago Buenos Aires (Los Antiguos) Airfield",
+      "elevation_ft": 948.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-Z",
+      "municipality": "Los Antiguos",
+      "coordinates": "-46.55788, -71.61054"
+    },
+    {
+      "ident": "AR-0759",
+      "type": "small_airport",
+      "name": "Estancia Victoria Airstrip",
+      "elevation_ft": 1010.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-Z",
+      "municipality": "Ingeniero Pallavicini",
+      "coordinates": "-46.27989, -71.6778"
+    },
+    {
       "ident": "CSA",
       "type": "small_airport",
       "name": "Aerocampo CSA airport",
@@ -10736,12 +10759,12 @@
     {
       "ident": "SAVB",
       "type": "medium_airport",
-      "name": "El Bolson Airport",
+      "name": "El Bolsón Airfield",
       "elevation_ft": 1141.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-R",
-      "municipality": "El Bolson",
+      "municipality": "El Bolsón",
       "gps_code": "SAVB",
       "iata_code": "EHL",
       "local_code": "BOL",
@@ -11056,7 +11079,7 @@
     {
       "ident": "SAWP",
       "type": "medium_airport",
-      "name": "Perito Moreno Airport",
+      "name": "Perito Moreno Jalil Hamer Airport",
       "elevation_ft": 1410.0,
       "continent": "SA",
       "iso_country": "AR",
@@ -11260,8 +11283,8 @@
     },
     {
       "ident": "SAZK",
-      "type": "small_airport",
-      "name": "Cerro Catedral Airport",
+      "type": "heliport",
+      "name": "Cerro Catedral Heliport",
       "elevation_ft": 3450.0,
       "continent": "SA",
       "iso_country": "AR",
@@ -11269,7 +11292,7 @@
       "municipality": "Cerro Catedral",
       "gps_code": "SAZK",
       "local_code": "CDM",
-      "coordinates": "-41.1633, -71.442703"
+      "coordinates": "-41.170704, -71.4418"
     },
     {
       "ident": "SAZL",
@@ -11371,7 +11394,7 @@
     {
       "ident": "SAZS",
       "type": "medium_airport",
-      "name": "San Carlos De Bariloche Airport",
+      "name": "San Carlos de Bariloche Airport",
       "elevation_ft": 2774.0,
       "continent": "SA",
       "iso_country": "AR",

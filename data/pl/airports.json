@@ -1,10 +1,10 @@
 {
   "country_code": "PL",
   "country_name": "Poland",
-  "total_airports": 383,
-  "last_updated": "2025-03-10T00:07:27.657811",
+  "total_airports": 386,
+  "last_updated": "2025-03-11T00:08:27.368089",
   "types_distribution": {
-    "small_airport": 288,
+    "small_airport": 291,
     "heliport": 16,
     "medium_airport": 24,
     "large_airport": 3,
@@ -4188,7 +4188,7 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MZ",
-      "local_code": "EPSO",
+      "gps_code": "EPSO",
       "coordinates": "52.198601, 20.292801"
     },
     {
@@ -4212,8 +4212,40 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Borne Sulinowo",
-      "local_code": "EPBS",
       "coordinates": "53.576149, 16.527729"
+    },
+    {
+      "ident": "PL-0276",
+      "type": "small_airport",
+      "name": "Dargomyśl-Dębno Airfield",
+      "elevation_ft": 180.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-ZP",
+      "municipality": "Dębno",
+      "coordinates": "52.72012, 14.6292"
+    },
+    {
+      "ident": "PL-0277",
+      "type": "small_airport",
+      "name": "Cedynia Paraglider Field",
+      "elevation_ft": 213.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-ZP",
+      "municipality": "Cedynia",
+      "coordinates": "52.83686, 14.31083"
+    },
+    {
+      "ident": "PL-0278",
+      "type": "small_airport",
+      "name": "Czerwonak Paraglider Field",
+      "elevation_ft": 210.0,
+      "continent": "EU",
+      "iso_country": "PL",
+      "iso_region": "PL-ZP",
+      "municipality": "Murowana Goślina",
+      "coordinates": "52.56005, 16.9934"
     }
   ]
 }

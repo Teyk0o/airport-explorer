@@ -2,13 +2,13 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 646,
-  "last_updated": "2025-03-10T00:07:27.417208",
+  "last_updated": "2025-03-11T00:08:27.129537",
   "types_distribution": {
-    "small_airport": 470,
+    "small_airport": 469,
     "closed": 45,
     "heliport": 53,
     "large_airport": 8,
-    "medium_airport": 70
+    "medium_airport": 71
   },
   "airports": [
     {
@@ -3753,7 +3753,6 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Nabire",
-      "local_code": "WABI",
       "coordinates": "-3.368586, 135.496702"
     },
     {
@@ -3765,7 +3764,6 @@
       "iso_country": "ID",
       "iso_region": "ID-SB",
       "municipality": "Padang",
-      "local_code": "WIMG",
       "coordinates": "-0.874989, 100.351997"
     },
     {
@@ -4409,7 +4407,7 @@
     },
     {
       "ident": "WABI",
-      "type": "small_airport",
+      "type": "medium_airport",
       "name": "Douw Aturure Airport",
       "elevation_ft": 22.0,
       "continent": "AS",
@@ -4418,7 +4416,7 @@
       "municipality": "Nabire",
       "gps_code": "WABI",
       "iata_code": "NBX",
-      "coordinates": "-3.398056, 135.397217"
+      "coordinates": "-3.397973, 135.393071"
     },
     {
       "ident": "WABK",

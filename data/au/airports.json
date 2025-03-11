@@ -1,12 +1,12 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2683,
-  "last_updated": "2025-03-10T00:07:27.378539",
+  "total_airports": 2717,
+  "last_updated": "2025-03-11T00:08:27.090877",
   "types_distribution": {
-    "small_airport": 2021,
-    "closed": 82,
-    "heliport": 385,
+    "small_airport": 2046,
+    "closed": 84,
+    "heliport": 392,
     "seaplane_base": 4,
     "medium_airport": 185,
     "large_airport": 6
@@ -293,7 +293,7 @@
       "iso_region": "AU-TAS",
       "municipality": "Woodbury",
       "gps_code": "YWOD",
-      "coordinates": "-42.165195, 147.44778"
+      "coordinates": "-42.162421, 147.45011"
     },
     {
       "ident": "AU-0024",
@@ -333,7 +333,8 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "coordinates": "-40.899166107177734, 147.86471557617188"
+      "municipality": "Dorset",
+      "coordinates": "-40.89821, 147.86132"
     },
     {
       "ident": "AU-0028",
@@ -3408,7 +3409,8 @@
     {
       "ident": "AU-0311",
       "type": "small_airport",
-      "name": "Wallaroo private strip",
+      "name": "Wallaroo Private Airstrip",
+      "elevation_ft": 1686.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
@@ -3551,7 +3553,8 @@
     {
       "ident": "AU-0325",
       "type": "small_airport",
-      "name": "Musselroe Bay Private airstrip",
+      "name": "Musselroe Bay Private Airstrip",
+      "elevation_ft": 135.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
@@ -3565,7 +3568,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "North Campbell",
+      "municipality": "Campbell Town",
       "coordinates": "-41.895912, 147.477898"
     },
     {
@@ -3649,27 +3652,18 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
-      "municipality": "Sunbury East",
+      "municipality": "Sunbury",
       "coordinates": "-37.529859, 144.749147"
-    },
-    {
-      "ident": "AU-0335",
-      "type": "small_airport",
-      "name": "Maygars Hill Winery Airstrip",
-      "continent": "OC",
-      "iso_country": "AU",
-      "iso_region": "AU-VIC",
-      "municipality": "Euroa",
-      "coordinates": "-36.815345, 145.467041"
     },
     {
       "ident": "AU-0336",
       "type": "small_airport",
-      "name": "Stoney Creek (buffalo) airfield",
+      "name": "Stony Creek (Buffalo) Airfield",
+      "elevation_ft": 197.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
-      "municipality": "Stoney creek",
+      "municipality": "Stony Creek",
       "coordinates": "-38.605335, 146.054201"
     },
     {
@@ -3716,6 +3710,7 @@
       "ident": "AU-0341",
       "type": "small_airport",
       "name": "Violet Town Airfield",
+      "elevation_ft": 558.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
@@ -4264,12 +4259,13 @@
     {
       "ident": "AU-0395",
       "type": "small_airport",
-      "name": "Oura private airstrip",
+      "name": "Oura Private Airstrip",
+      "elevation_ft": 659.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
       "municipality": "Oura",
-      "coordinates": "-35.064658, 147.688231"
+      "coordinates": "-35.06493, 147.68763"
     },
     {
       "ident": "AU-0396",
@@ -6710,13 +6706,13 @@
     {
       "ident": "AU-0627",
       "type": "small_airport",
-      "name": "Cranborne Airfield",
+      "name": "Cranbourn Airfield",
       "elevation_ft": 300.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "Cranbourne",
-      "coordinates": "-41.161161, 147.014794"
+      "municipality": "Mount Direction",
+      "coordinates": "-41.161173, 147.015096"
     },
     {
       "ident": "AU-0628",
@@ -7484,7 +7480,6 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "local_code": "YBUO",
       "coordinates": "-24.013905, 119.555805"
     },
     {
@@ -7558,6 +7553,377 @@
       "municipality": "Mannahill",
       "local_code": "YKOA",
       "coordinates": "-32.427842, 140.006164"
+    },
+    {
+      "ident": "AU-0709",
+      "type": "heliport",
+      "name": "Port Arthur Heliport",
+      "elevation_ft": 66.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Port Arthur",
+      "coordinates": "-43.10447, 147.85934"
+    },
+    {
+      "ident": "AU-0710",
+      "type": "small_airport",
+      "name": "Stony Head Military Area Airstrip",
+      "elevation_ft": 177.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Stony Head",
+      "coordinates": "-41.03384, 146.99581"
+    },
+    {
+      "ident": "AU-0711",
+      "type": "small_airport",
+      "name": "Tomahawk Airstrip",
+      "elevation_ft": 20.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Tomahawk",
+      "coordinates": "-40.88195, 147.73075"
+    },
+    {
+      "ident": "AU-0712",
+      "type": "small_airport",
+      "name": "Lady Barron Grass Airstrip",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Lady Barron",
+      "coordinates": "-40.20237, 148.23391"
+    },
+    {
+      "ident": "AU-0713",
+      "type": "small_airport",
+      "name": "Five Mile Jim Airstrip",
+      "elevation_ft": 121.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Wingaroo",
+      "coordinates": "-39.913857, 147.953868"
+    },
+    {
+      "ident": "AU-0714",
+      "type": "small_airport",
+      "name": "Withers Hall Airstrip",
+      "elevation_ft": 151.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Palana",
+      "coordinates": "-39.78193, 147.93237"
+    },
+    {
+      "ident": "AU-0715",
+      "type": "small_airport",
+      "name": "Sheiling Airstrip",
+      "elevation_ft": 141.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Palana",
+      "coordinates": "-39.76634, 147.90124"
+    },
+    {
+      "ident": "AU-0716",
+      "type": "small_airport",
+      "name": "North East River Airstrip",
+      "elevation_ft": 479.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Palana",
+      "coordinates": "-39.75216, 147.92466"
+    },
+    {
+      "ident": "AU-0717",
+      "type": "small_airport",
+      "name": "Deal Island Airfield",
+      "elevation_ft": 203.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Palana",
+      "coordinates": "-39.47036, 147.318"
+    },
+    {
+      "ident": "AU-0718",
+      "type": "small_airport",
+      "name": "Madge's Island Airfield",
+      "elevation_ft": 318.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-TAS",
+      "municipality": "Palana",
+      "coordinates": "-39.22456, 146.98645"
+    },
+    {
+      "ident": "AU-0719",
+      "type": "heliport",
+      "name": "South East Point Emergency Heliport",
+      "elevation_ft": 148.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Wilsons Promontory",
+      "coordinates": "-39.12651, 146.42367"
+    },
+    {
+      "ident": "AU-0720",
+      "type": "heliport",
+      "name": "Telegraph Track Emergency Heliport",
+      "elevation_ft": 896.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Wilsons Promontory",
+      "coordinates": "-39.09819, 146.38207"
+    },
+    {
+      "ident": "AU-0721",
+      "type": "small_airport",
+      "name": "Yanakie Airstrip",
+      "elevation_ft": 62.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Yanakie",
+      "coordinates": "-38.80677, 146.19307"
+    },
+    {
+      "ident": "AU-0722",
+      "type": "closed",
+      "name": "Monomeith Park Airfield",
+      "elevation_ft": 52.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Caldermeade",
+      "coordinates": "-38.21357, 145.56665"
+    },
+    {
+      "ident": "AU-0723",
+      "type": "small_airport",
+      "name": "Flying Circus Airfield",
+      "elevation_ft": 1138.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Clarkefield",
+      "coordinates": "-37.47852, 144.71962"
+    },
+    {
+      "ident": "AU-0724",
+      "type": "small_airport",
+      "name": "Legate Airfield",
+      "elevation_ft": 1106.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Clarkefield",
+      "coordinates": "-37.48196, 144.73372"
+    },
+    {
+      "ident": "AU-0725",
+      "type": "small_airport",
+      "name": "Marshall Airfield",
+      "elevation_ft": 1106.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Clarkefield",
+      "coordinates": "-37.48231, 144.73494"
+    },
+    {
+      "ident": "AU-0726",
+      "type": "small_airport",
+      "name": "Emu Creek Airfield",
+      "elevation_ft": 1106.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Clarkefield",
+      "coordinates": "-37.47136, 144.76829"
+    },
+    {
+      "ident": "AU-0727",
+      "type": "small_airport",
+      "name": "Valken Farm Airstrip",
+      "elevation_ft": 1476.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Romsey",
+      "coordinates": "-37.39168, 144.76043"
+    },
+    {
+      "ident": "AU-0728",
+      "type": "small_airport",
+      "name": "Rochford Airstrip",
+      "elevation_ft": 1886.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Rochford",
+      "coordinates": "-37.3019, 144.67078"
+    },
+    {
+      "ident": "AU-0729",
+      "type": "small_airport",
+      "name": "The Boreen Airstrip",
+      "elevation_ft": 1158.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Darraweit Guim",
+      "coordinates": "-37.43535, 144.824"
+    },
+    {
+      "ident": "AU-0730",
+      "type": "small_airport",
+      "name": "Blue Tongue Airfield",
+      "elevation_ft": 1220.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Bolinda",
+      "coordinates": "-37.43064, 144.8096"
+    },
+    {
+      "ident": "AU-0731",
+      "type": "small_airport",
+      "name": "Arkells Airfield",
+      "elevation_ft": 1362.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Bylands",
+      "coordinates": "-37.36936, 144.94017"
+    },
+    {
+      "ident": "AU-0732",
+      "type": "heliport",
+      "name": "Winton Motor Raceway Heliport",
+      "elevation_ft": 594.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Winton",
+      "coordinates": "-36.52245, 146.08882"
+    },
+    {
+      "ident": "AU-0733",
+      "type": "small_airport",
+      "name": "Everton (Tarrawingee) Airport",
+      "elevation_ft": 545.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Tarrawingee",
+      "coordinates": "-36.41171, 146.49034"
+    },
+    {
+      "ident": "AU-0734",
+      "type": "small_airport",
+      "name": "Bullawa Airstrip",
+      "elevation_ft": 810.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Uranquinty",
+      "coordinates": "-35.2511, 147.24152"
+    },
+    {
+      "ident": "AU-0735",
+      "type": "heliport",
+      "name": "Wagga Wagga Base Hospital Heliport",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Wagga Wagga",
+      "coordinates": "-35.11899, 147.35719"
+    },
+    {
+      "ident": "AU-0736",
+      "type": "small_airport",
+      "name": "Deltroit Station Airstrip",
+      "elevation_ft": 856.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Mundarlo",
+      "coordinates": "-35.16922, 147.80606"
+    },
+    {
+      "ident": "AU-0737",
+      "type": "small_airport",
+      "name": "Bondo Airstrip",
+      "elevation_ft": 2703.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Tumorrama",
+      "coordinates": "-35.24817, 148.46717"
+    },
+    {
+      "ident": "AU-0738",
+      "type": "closed",
+      "name": "Tralee Airport",
+      "elevation_ft": 2100.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Tralee",
+      "coordinates": "-35.40011, 149.16566"
+    },
+    {
+      "ident": "AU-0739",
+      "type": "heliport",
+      "name": "Winters Helicopter Landing Paddock",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Bungendore",
+      "coordinates": "-35.34682, 149.50766"
+    },
+    {
+      "ident": "AU-0740",
+      "type": "small_airport",
+      "name": "Rutland Plains Homestead Airport",
+      "elevation_ft": 95.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Maramie",
+      "coordinates": "-15.83381, 142.01949"
+    },
+    {
+      "ident": "AU-0741",
+      "type": "small_airport",
+      "name": "Mungana Mine Airport",
+      "elevation_ft": 1191.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Chillagoe",
+      "coordinates": "-17.12575, 144.39358"
+    },
+    {
+      "ident": "AU-0742",
+      "type": "small_airport",
+      "name": "Mont Albion Station Airstrip",
+      "elevation_ft": 2329.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Irvinebank",
+      "coordinates": "-17.39085, 145.17807"
     },
     {
       "ident": "AU-AGW",
@@ -10052,6 +10418,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Benalla",
       "gps_code": "YBLA",
       "iata_code": "BLN",
       "coordinates": "-36.551899, 146.007004"
@@ -10168,6 +10535,18 @@
       "gps_code": "YBLN",
       "iata_code": "BQB",
       "coordinates": "-33.688423, 115.401596"
+    },
+    {
+      "ident": "YBLO",
+      "type": "small_airport",
+      "name": "Bullio Airport",
+      "elevation_ft": 2133.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Bullio",
+      "gps_code": "YBLO",
+      "coordinates": "-34.357532, 150.16644"
     },
     {
       "ident": "YBLT",
@@ -11268,8 +11647,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Campbell Town",
       "gps_code": "YCAE",
-      "coordinates": "-41.96722412109375, 147.53054809570312"
+      "coordinates": "-41.967224, 147.530548"
     },
     {
       "ident": "YCAG",
@@ -11411,13 +11791,14 @@
     {
       "ident": "YCBG",
       "type": "small_airport",
-      "name": "Hobart Cambridge Airport",
+      "name": "Cambridge Aerodrome",
       "elevation_ft": 67.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Cambridge",
       "gps_code": "YCBG",
-      "coordinates": "-42.82638, 147.478637"
+      "coordinates": "-42.827498, 147.478337"
     },
     {
       "ident": "YCBH",
@@ -11435,12 +11816,14 @@
       "ident": "YCBN",
       "type": "small_airport",
       "name": "Cape Barren Island Airport",
+      "elevation_ft": 154.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Cape Barren Island",
       "gps_code": "YCBN",
       "iata_code": "CBI",
-      "coordinates": "-40.391700744628906, 148.01699829101562"
+      "coordinates": "-40.390537, 148.016933"
     },
     {
       "ident": "YCBO",
@@ -11929,11 +12312,13 @@
       "ident": "YCKD",
       "type": "small_airport",
       "name": "Clarke Island Airport",
+      "elevation_ft": 197.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Cape Barren Island",
       "gps_code": "YCKD",
-      "coordinates": "-40.516700744628906, 148.13299560546875"
+      "coordinates": "-40.518719, 148.125929"
     },
     {
       "ident": "YCKI",
@@ -13070,7 +13455,7 @@
       "municipality": "Maramie",
       "gps_code": "YDBR",
       "iata_code": "DNB",
-      "coordinates": "-16.047203, 142.393915"
+      "coordinates": "-16.047394, 142.394415"
     },
     {
       "ident": "YDBY",
@@ -14103,7 +14488,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
-      "municipality": "Baddaginnie",
+      "municipality": "Violet Town",
       "gps_code": "YELS",
       "coordinates": "-36.551196, 145.805061"
     },
@@ -14339,7 +14724,7 @@
       "iso_region": "AU-VIC",
       "municipality": "Euroa",
       "gps_code": "YEUA",
-      "coordinates": "-36.7447013855, 145.513000488"
+      "coordinates": "-36.743703, 145.512697"
     },
     {
       "ident": "YEUD",
@@ -14468,11 +14853,13 @@
       "ident": "YFCK",
       "type": "small_airport",
       "name": "Fish Creek Airport",
+      "elevation_ft": 217.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Fish Creek",
       "gps_code": "YFCK",
-      "coordinates": "-38.71500015258789, 146.05299377441406"
+      "coordinates": "-38.708603, 146.054399"
     },
     {
       "ident": "YFCU",
@@ -14551,7 +14938,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "Flinders Island",
+      "municipality": "Whitemark",
       "gps_code": "YFLI",
       "iata_code": "FLS",
       "coordinates": "-40.091702, 147.992996"
@@ -15654,12 +16041,12 @@
     {
       "ident": "YGTO",
       "type": "small_airport",
-      "name": "Georgetown Airport",
+      "name": "George Town Airport",
       "elevation_ft": 131.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "Georgetown",
+      "municipality": "George Town",
       "gps_code": "YGTO",
       "iata_code": "GEE",
       "coordinates": "-41.079491, 146.839061"
@@ -15815,6 +16202,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
+      "municipality": "Holbrook",
       "gps_code": "YHBK",
       "coordinates": "-35.680142, 147.322418"
     },
@@ -16512,12 +16900,14 @@
     {
       "ident": "YILA",
       "type": "small_airport",
-      "name": "Milawa Vineyard Airport",
+      "name": "Milawa (Brown Brothers) Airport",
+      "elevation_ft": 525.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Milawa",
       "gps_code": "YILA",
-      "coordinates": "-36.4561968657, 146.43306303"
+      "coordinates": "-36.456197, 146.433063"
     },
     {
       "ident": "YILF",
@@ -16799,15 +17189,17 @@
       "iso_region": "AU-ACT",
       "municipality": "Jervis Bay Territory",
       "gps_code": "YJBY",
-      "coordinates": "-35.147202, 150.697006"
+      "coordinates": "-35.145811, 150.696285"
     },
     {
       "ident": "YJCO",
       "type": "small_airport",
       "name": "Jericho Airport",
+      "elevation_ft": 1375.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Jericho",
       "gps_code": "YJCO",
       "coordinates": "-42.368329, 147.33605"
     },
@@ -17125,7 +17517,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Kambalda",
+      "municipality": "Kambalda West",
       "gps_code": "YKBL",
       "iata_code": "KDB",
       "coordinates": "-31.1907, 121.5978"
@@ -17182,10 +17574,12 @@
     {
       "ident": "YKCK",
       "type": "small_airport",
-      "name": "Killiecrankie Airport",
+      "name": "Killiecrankie Airfield",
+      "elevation_ft": 144.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Killiecrankie",
       "gps_code": "YKCK",
       "coordinates": "-39.848801, 147.858002"
     },
@@ -17866,14 +18260,14 @@
     {
       "ident": "YKWR",
       "type": "small_airport",
-      "name": "YKWR Koo Wee Rup airfield also known as Aardel Port",
+      "name": "Koo Wee Rup (Aardel Port) Airfield",
       "elevation_ft": 50.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
       "municipality": "Koo Wee Rup",
       "gps_code": "YKWR",
-      "coordinates": "-38.168411, 145.486121"
+      "coordinates": "-38.16887, 145.486722"
     },
     {
       "ident": "YKYB",
@@ -17914,9 +18308,11 @@
       "ident": "YLAG",
       "type": "small_airport",
       "name": "Lagoon Bay Airport",
+      "elevation_ft": 7.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Dunalley",
       "gps_code": "YLAG",
       "coordinates": "-42.886934, 147.954863"
     },
@@ -18047,18 +18443,20 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Locksley",
       "gps_code": "YLCS",
-      "coordinates": "-36.814998626708984, 145.34800720214844"
+      "coordinates": "-36.814999, 145.348007"
     },
     {
       "ident": "YLDB",
       "type": "small_airport",
-      "name": "Lady Barron (Flinders Is) Airport",
+      "name": "Lady Barron Aerodrome",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Lady Barron",
       "gps_code": "YLDB",
-      "coordinates": "-40.20000076293945, 148.25"
+      "coordinates": "-40.195811, 148.244642"
     },
     {
       "ident": "YLDO",
@@ -18125,8 +18523,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Leongatha South",
       "gps_code": "YLEG",
-      "coordinates": "-38.493099212646484, 145.86000061035156"
+      "coordinates": "-38.496472, 145.860565"
     },
     {
       "ident": "YLEO",
@@ -18217,6 +18616,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Longford",
       "gps_code": "YLGD",
       "coordinates": "-41.691234, 147.143296"
     },
@@ -18546,11 +18946,13 @@
       "ident": "YLOD",
       "type": "small_airport",
       "name": "Longwood Airport",
+      "elevation_ft": 633.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Longwood East",
       "gps_code": "YLOD",
-      "coordinates": "-36.801648, 145.459868"
+      "coordinates": "-36.814219, 145.46579"
     },
     {
       "ident": "YLOH",
@@ -19050,7 +19452,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
-      "municipality": "Albury",
+      "municipality": "East Albury",
       "gps_code": "YMAY",
       "iata_code": "ABX",
       "coordinates": "-36.066758, 146.959148"
@@ -19672,10 +20074,10 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "Hobart",
+      "municipality": "Hobart (Cambridge)",
       "gps_code": "YMHB",
       "iata_code": "HBA",
-      "coordinates": "-42.836101532, 147.509994507"
+      "coordinates": "-42.8371, 147.51295"
     },
     {
       "ident": "YMHL",
@@ -20063,10 +20465,10 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "Launceston",
+      "municipality": "Launceston (Western Junction)",
       "gps_code": "YMLT",
       "iata_code": "LST",
-      "coordinates": "-41.54529953, 147.214004517"
+      "coordinates": "-41.544935, 147.210785"
     },
     {
       "ident": "YMLX",
@@ -20107,7 +20509,7 @@
     {
       "ident": "YMML",
       "type": "large_airport",
-      "name": "Melbourne International Airport",
+      "name": "Melbourne Airport",
       "elevation_ft": 434.0,
       "continent": "OC",
       "iso_country": "AU",
@@ -20115,7 +20517,7 @@
       "municipality": "Melbourne",
       "gps_code": "YMML",
       "iata_code": "MEL",
-      "coordinates": "-37.673302, 144.843002"
+      "coordinates": "-37.661548, 144.836432"
     },
     {
       "ident": "YMMN",
@@ -20224,8 +20626,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Mangalore",
       "gps_code": "YMNG",
-      "coordinates": "-36.888301849365234, 145.1840057373047"
+      "coordinates": "-36.888302, 145.184006"
     },
     {
       "ident": "YMNK",
@@ -21644,11 +22047,12 @@
     {
       "ident": "YNSM",
       "type": "small_airport",
-      "name": "Norseman Airport",
+      "name": "Norseman Aerodrome",
       "elevation_ft": 263.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Norseman",
       "gps_code": "YNSM",
       "iata_code": "NSM",
       "coordinates": "-32.203, 121.758127"
@@ -22485,14 +22889,14 @@
     {
       "ident": "YPEF",
       "type": "small_airport",
-      "name": "Penfield Airfield",
+      "name": "Sunbury (Penfield) Airfield",
       "elevation_ft": 1150.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
       "municipality": "Sunbury",
       "gps_code": "YPEF",
-      "coordinates": "-37.5133018494, 144.697998047"
+      "coordinates": "-37.511586, 144.700299"
     },
     {
       "ident": "YPEN",
@@ -22716,8 +23120,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Puckapunyal",
       "gps_code": "YPKL",
-      "coordinates": "-37, 145.06300354003906"
+      "coordinates": "-36.998062, 145.064181"
     },
     {
       "ident": "YPKS",
@@ -23612,7 +24017,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
-      "municipality": "Riddell",
+      "municipality": "Clarkefield",
       "gps_code": "YRID",
       "coordinates": "-37.478705, 144.721098"
     },
@@ -23884,9 +24289,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
-      "municipality": "Launceston",
+      "municipality": "Dilston",
       "gps_code": "YRST",
-      "coordinates": "-41.331632, 147.049568"
+      "coordinates": "-41.332695, 147.049937"
     },
     {
       "ident": "YRSV",
@@ -23908,7 +24313,7 @@
       "iso_region": "AU-VIC",
       "municipality": "Romsey",
       "gps_code": "YRSY",
-      "coordinates": "-37.391667, 144.738333"
+      "coordinates": "-37.392401, 144.737796"
     },
     {
       "ident": "YRTI",
@@ -24152,7 +24557,7 @@
     {
       "ident": "YSCB",
       "type": "medium_airport",
-      "name": "Canberra International Airport",
+      "name": "Canberra Airport",
       "elevation_ft": 1886.0,
       "continent": "OC",
       "iso_country": "AU",
@@ -24999,12 +25404,12 @@
     {
       "ident": "YSWG",
       "type": "medium_airport",
-      "name": "Wagga Wagga City Airport",
+      "name": "Wagga Wagga Airport",
       "elevation_ft": 724.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
-      "municipality": "Wagga Wagga",
+      "municipality": "Forest Hill",
       "gps_code": "YSWG",
       "iata_code": "WGA",
       "coordinates": "-35.163484, 147.46832"
@@ -25203,13 +25608,15 @@
     },
     {
       "ident": "YTDL",
-      "type": "small_airport",
-      "name": "Tidal River Airport",
+      "type": "heliport",
+      "name": "Tidal River Heliport",
+      "elevation_ft": 43.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Wilsons Promontory",
       "gps_code": "YTDL",
-      "coordinates": "-39.03419876098633, 146.32699584960938"
+      "coordinates": "-39.03146, 146.328529"
     },
     {
       "ident": "YTDM",
@@ -25686,11 +26093,12 @@
     {
       "ident": "YTMU",
       "type": "medium_airport",
-      "name": "Tumut Airport",
+      "name": "Tumut Aerodrome",
       "elevation_ft": 878.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
+      "municipality": "Tumut",
       "gps_code": "YTMU",
       "iata_code": "TUM",
       "coordinates": "-35.26832, 148.240526"
@@ -26045,8 +26453,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Tunbridge",
       "gps_code": "YTUN",
-      "coordinates": "-42.112892, 147.364431"
+      "coordinates": "-42.110977, 147.362383"
     },
     {
       "ident": "YTUY",
@@ -26296,6 +26705,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-TAS",
+      "municipality": "Epping Forest",
       "gps_code": "YVAF",
       "coordinates": "-41.808754, 147.296525"
     },
@@ -26812,9 +27222,10 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
+      "municipality": "Laceby",
       "gps_code": "YWGT",
       "iata_code": "WGT",
-      "coordinates": "-36.41579818725586, 146.3070068359375"
+      "coordinates": "-36.417914, 146.306896"
     },
     {
       "ident": "YWGW",
@@ -26955,11 +27366,13 @@
       "ident": "YWJS",
       "type": "small_airport",
       "name": "Wee Jasper Airport",
+      "elevation_ft": 1211.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
+      "municipality": "Wee Jasper",
       "gps_code": "YWJS",
-      "coordinates": "-35.133602, 148.687763"
+      "coordinates": "-35.130154, 148.690053"
     },
     {
       "ident": "YWKB",
@@ -27087,13 +27500,14 @@
     {
       "ident": "YWLP",
       "type": "small_airport",
-      "name": "Wilsons Promontory Airport (Yannakie Airport)",
+      "name": "Wilsons Promontory Airport (Yanakie Airport)",
+      "elevation_ft": 89.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-VIC",
       "municipality": "Wilsons Promontory",
       "gps_code": "YWLP",
-      "coordinates": "-38.949506, 146.284418"
+      "coordinates": "-38.949897, 146.28383"
     },
     {
       "ident": "YWLU",
@@ -29533,7 +29947,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
-      "municipality": "Wagga",
+      "municipality": "Wagga Wagga",
       "gps_code": "YXWG",
       "local_code": "YXWG",
       "coordinates": "-35.11434, 147.3541"
