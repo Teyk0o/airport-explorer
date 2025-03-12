@@ -1,11 +1,11 @@
 {
   "country_code": "CL",
   "country_name": "Chile",
-  "total_airports": 514,
-  "last_updated": "2025-03-11T00:08:27.304329",
+  "total_airports": 516,
+  "last_updated": "2025-03-12T00:08:12.242408",
   "types_distribution": {
-    "closed": 19,
-    "small_airport": 347,
+    "closed": 22,
+    "small_airport": 346,
     "heliport": 115,
     "medium_airport": 32,
     "large_airport": 1
@@ -195,7 +195,7 @@
     {
       "ident": "CL-0018",
       "type": "closed",
-      "name": "Osorno Pampa Ale Airport",
+      "name": "Osorno Pampa Alegre Airport",
       "elevation_ft": 79.0,
       "continent": "SA",
       "iso_country": "CL",
@@ -381,6 +381,28 @@
       "coordinates": "-41.50454, -71.86033"
     },
     {
+      "ident": "CL-0035",
+      "type": "closed",
+      "name": "El Arrayán Airfield",
+      "elevation_ft": 341.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Puerto Varas",
+      "coordinates": "-41.40244, -72.94333"
+    },
+    {
+      "ident": "CL-0036",
+      "type": "closed",
+      "name": "Basso Field",
+      "elevation_ft": 236.0,
+      "continent": "SA",
+      "iso_country": "CL",
+      "iso_region": "CL-LL",
+      "municipality": "Trumao",
+      "coordinates": "-40.40695, -73.16096"
+    },
+    {
       "ident": "CL-SC49",
       "type": "small_airport",
       "name": "Oficina Victoria Airport",
@@ -406,15 +428,14 @@
     },
     {
       "ident": "SCAA",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Añorada Airport",
       "elevation_ft": 459.0,
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Frutillar",
-      "gps_code": "SCAA",
-      "coordinates": "-41.042778015100005, -73.04750061040001"
+      "coordinates": "-41.042778, -73.047501"
     },
     {
       "ident": "SCAB",
@@ -1102,7 +1123,7 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Varas",
       "gps_code": "SCDD",
-      "coordinates": "-41.234722, -72.514999"
+      "coordinates": "-41.235473, -72.514667"
     },
     {
       "ident": "SCDG",
@@ -1466,7 +1487,7 @@
       "iso_region": "CL-LL",
       "municipality": "Frutillar",
       "gps_code": "SCFI",
-      "coordinates": "-41.095001, -73.126663"
+      "coordinates": "-41.091965, -73.127023"
     },
     {
       "ident": "SCFJ",
@@ -2209,7 +2230,7 @@
     {
       "ident": "SCJO",
       "type": "medium_airport",
-      "name": "Cañal Bajo Carlos - Hott Siebert Airport",
+      "name": "Cañal Bajo Carlos Hott Siebert Airport",
       "elevation_ft": 187.0,
       "continent": "SA",
       "iso_country": "CL",
@@ -3229,7 +3250,7 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Montt",
       "gps_code": "SCPF",
-      "coordinates": "-41.457779, -72.91861"
+      "coordinates": "-41.455685, -72.918704"
     },
     {
       "ident": "SCPG",
@@ -3362,7 +3383,7 @@
       "iso_region": "CL-LL",
       "municipality": "Purranque",
       "gps_code": "SCPR",
-      "coordinates": "-40.943333, -73.169998"
+      "coordinates": "-40.941038, -73.168894"
     },
     {
       "ident": "SCPS",

@@ -2,7 +2,7 @@
   "country_code": "RU",
   "country_name": "Russia",
   "total_airports": 1717,
-  "last_updated": "2025-03-11T00:08:27.333324",
+  "last_updated": "2025-03-12T00:08:12.271897",
   "types_distribution": {
     "small_airport": 650,
     "medium_airport": 239,
@@ -11256,13 +11256,13 @@
       "type": "small_airport",
       "name": "Kirovsk-Apatity Airport",
       "elevation_ft": 515.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-MUR",
       "municipality": "Apatity",
+      "gps_code": "ULMK",
       "iata_code": "KVK",
-      "local_code": "ULMK",
-      "coordinates": "67.463303, 33.588299"
+      "coordinates": "67.462851, 33.585294"
     },
     {
       "ident": "RU-10047",
@@ -11281,11 +11281,12 @@
       "type": "medium_airport",
       "name": "Semyazino Airport",
       "elevation_ft": 554.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-VLA",
       "municipality": "Vladimir",
-      "local_code": "UUBL",
+      "gps_code": "UUBL",
+      "local_code": "XUBL",
       "coordinates": "56.127423, 40.315202"
     },
     {
@@ -11293,7 +11294,7 @@
       "type": "medium_airport",
       "name": "Soltsy-2 Air Base",
       "elevation_ft": 131.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-NGR",
       "municipality": "Soltsy",

@@ -2,7 +2,7 @@
   "country_code": "AF",
   "country_name": "Afghanistan",
   "total_airports": 79,
-  "last_updated": "2025-03-11T00:08:27.088138",
+  "last_updated": "2025-03-12T00:08:12.023452",
   "types_distribution": {
     "small_airport": 59,
     "closed": 3,
@@ -200,7 +200,7 @@
       "iso_region": "AF-HER",
       "municipality": "Kara Tapa",
       "local_code": "OATD",
-      "coordinates": "35.222198486328, 62.290599822998"
+      "coordinates": "35.222198, 62.2906"
     },
     {
       "ident": "AF-0020",
@@ -211,7 +211,7 @@
       "iso_country": "AF",
       "iso_region": "AF-FYB",
       "municipality": "Andkhoy",
-      "local_code": "OAAK",
+      "gps_code": "OAAK",
       "coordinates": "36.942659, 65.206746"
     },
     {
@@ -234,7 +234,7 @@
       "iso_country": "AF",
       "iso_region": "AF-GHO",
       "municipality": "Lal",
-      "local_code": "OALL",
+      "gps_code": "OALL",
       "coordinates": "34.506716, 66.298068"
     },
     {

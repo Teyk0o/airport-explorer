@@ -1,14 +1,14 @@
 {
   "country_code": "MX",
   "country_name": "Mexico",
-  "total_airports": 2681,
-  "last_updated": "2025-03-11T00:08:27.155885",
+  "total_airports": 2685,
+  "last_updated": "2025-03-12T00:08:12.092808",
   "types_distribution": {
-    "small_airport": 1511,
-    "heliport": 487,
+    "small_airport": 1512,
+    "heliport": 488,
     "medium_airport": 56,
     "large_airport": 12,
-    "closed": 602,
+    "closed": 604,
     "seaplane_base": 6,
     "balloonport": 7
   },
@@ -143,14 +143,14 @@
     {
       "ident": "MM20",
       "type": "small_airport",
-      "name": "Ingeniero Juan Antonio Perdomo Diaz Airport",
+      "name": "Ingeniero Juan Antonio Perdomo Díaz Airport",
       "elevation_ft": 2960.0,
       "iso_country": "MX",
       "iso_region": "MX-VER",
-      "municipality": "Cordoba",
+      "municipality": "Córdoba",
       "gps_code": "MM20",
       "local_code": "CRV",
-      "coordinates": "18.874201, -96.958199"
+      "coordinates": "18.873172, -96.957255"
     },
     {
       "ident": "MM22",
@@ -1002,13 +1002,14 @@
     {
       "ident": "MMHC",
       "type": "small_airport",
-      "name": "Tehuacan Airport",
+      "name": "Tehuacán National Airport",
       "elevation_ft": 5509.0,
       "iso_country": "MX",
       "iso_region": "MX-PUE",
+      "municipality": "Tehuacán",
       "gps_code": "MMHC",
       "iata_code": "TCN",
-      "coordinates": "18.4972, -97.419899"
+      "coordinates": "18.49722, -97.42011"
     },
     {
       "ident": "MMHO",
@@ -1078,10 +1079,10 @@
       "elevation_ft": 3127.0,
       "iso_country": "MX",
       "iso_region": "MX-VER",
-      "municipality": "Xalapa",
+      "municipality": "Emiliano Zapata",
       "gps_code": "MMJA",
       "iata_code": "JAL",
-      "coordinates": "19.4751, -96.797501"
+      "coordinates": "19.475107, -96.797008"
     },
     {
       "ident": "MMJC",
@@ -8957,11 +8958,11 @@
     {
       "ident": "MX-0660",
       "type": "heliport",
-      "name": "Hospital General de Teziutlan Heliport",
+      "name": "Teziutlán General Hospital Heliport",
       "elevation_ft": 6302.0,
       "iso_country": "MX",
       "iso_region": "MX-PUE",
-      "municipality": "Teziutlan",
+      "municipality": "Teziutlán",
       "local_code": "HUQ",
       "coordinates": "19.821944, -97.376916"
     },
@@ -9213,7 +9214,7 @@
       "elevation_ft": 44.0,
       "iso_country": "MX",
       "iso_region": "MX-VER",
-      "municipality": "Jalapa",
+      "municipality": "Xalapa",
       "local_code": "HLL",
       "coordinates": "19.512319, -96.945087"
     },
@@ -17725,11 +17726,11 @@
     {
       "ident": "MX-1485",
       "type": "heliport",
-      "name": "JV Jalapa Helipad",
+      "name": "Torre Mayor Heliport",
       "elevation_ft": 4282.0,
       "iso_country": "MX",
       "iso_region": "MX-VER",
-      "municipality": "Jalapa",
+      "municipality": "Xalapa",
       "local_code": "HJX",
       "coordinates": "19.515028, -96.882259"
     },
@@ -28172,6 +28173,46 @@
       "municipality": "Santiago Pinotepa Nacional",
       "local_code": "MCN",
       "coordinates": "16.37921, -98.1171"
+    },
+    {
+      "ident": "MX-2521",
+      "type": "small_airport",
+      "name": "San Juan Bautista Cuicatlán Airstrip",
+      "elevation_ft": 2209.0,
+      "iso_country": "MX",
+      "iso_region": "MX-OAX",
+      "municipality": "San Juan Bautista Cuicatlán",
+      "coordinates": "17.80117, -96.96994"
+    },
+    {
+      "ident": "MX-2522",
+      "type": "closed",
+      "name": "Teotitlán de Flores Magón Airport",
+      "elevation_ft": 3003.0,
+      "iso_country": "MX",
+      "iso_region": "MX-OAX",
+      "municipality": "Teotitlán de Flores Magón",
+      "coordinates": "18.11551, -97.09013"
+    },
+    {
+      "ident": "MX-2523",
+      "type": "closed",
+      "name": "San Lucas el Viejo Airstrip",
+      "elevation_ft": 6287.0,
+      "iso_country": "MX",
+      "iso_region": "MX-PUE",
+      "municipality": "Xochitlán Todos Santos",
+      "coordinates": "18.68389, -97.73086"
+    },
+    {
+      "ident": "MX-2524",
+      "type": "heliport",
+      "name": "Zongozotla Heliport",
+      "elevation_ft": 3694.0,
+      "iso_country": "MX",
+      "iso_region": "MX-PUE",
+      "municipality": "Zongozotla",
+      "coordinates": "19.98426, -97.72634"
     },
     {
       "ident": "MX-AJS",

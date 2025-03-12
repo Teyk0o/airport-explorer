@@ -46,10 +46,10 @@
   {
     "code": "AD",
     "name": "Andorra",
-    "airport_count": 3,
+    "airport_count": 4,
     "types_distribution": {
       "heliport": 2,
-      "closed": 1
+      "closed": 2
     }
   },
   {
@@ -478,10 +478,10 @@
   {
     "code": "CL",
     "name": "Chile",
-    "airport_count": 514,
+    "airport_count": 516,
     "types_distribution": {
-      "closed": 19,
-      "small_airport": 347,
+      "closed": 22,
+      "small_airport": 346,
       "heliport": 115,
       "medium_airport": 32,
       "large_airport": 1
@@ -522,9 +522,9 @@
     "name": "Colombia",
     "airport_count": 733,
     "types_distribution": {
-      "small_airport": 602,
+      "small_airport": 601,
       "heliport": 57,
-      "closed": 14,
+      "closed": 15,
       "medium_airport": 59,
       "large_airport": 1
     }
@@ -729,9 +729,10 @@
   {
     "code": "ER",
     "name": "Eritrea",
-    "airport_count": 10,
+    "airport_count": 12,
     "types_distribution": {
-      "small_airport": 7,
+      "small_airport": 8,
+      "closed": 1,
       "medium_airport": 3
     }
   },
@@ -1549,13 +1550,13 @@
   {
     "code": "MX",
     "name": "Mexico",
-    "airport_count": 2681,
+    "airport_count": 2685,
     "types_distribution": {
-      "small_airport": 1511,
-      "heliport": 487,
+      "small_airport": 1512,
+      "heliport": 488,
       "medium_airport": 56,
       "large_airport": 12,
-      "closed": 602,
+      "closed": 604,
       "seaplane_base": 6,
       "balloonport": 7
     }
@@ -2258,9 +2259,9 @@
   {
     "code": "SS",
     "name": "South Sudan",
-    "airport_count": 91,
+    "airport_count": 92,
     "types_distribution": {
-      "small_airport": 84,
+      "small_airport": 85,
       "large_airport": 1,
       "medium_airport": 3,
       "heliport": 2,
@@ -2297,13 +2298,13 @@
   {
     "code": "SD",
     "name": "Sudan",
-    "airport_count": 57,
+    "airport_count": 58,
     "types_distribution": {
-      "small_airport": 33,
+      "small_airport": 35,
       "medium_airport": 9,
       "large_airport": 1,
       "heliport": 8,
-      "closed": 6
+      "closed": 5
     }
   },
   {
@@ -2542,13 +2543,13 @@
   {
     "code": "GB",
     "name": "United Kingdom",
-    "airport_count": 1523,
+    "airport_count": 1531,
     "types_distribution": {
       "closed": 351,
       "small_airport": 964,
       "large_airport": 9,
       "medium_airport": 80,
-      "heliport": 113,
+      "heliport": 121,
       "balloonport": 2,
       "seaplane_base": 4
     }
@@ -2556,13 +2557,13 @@
   {
     "code": "US",
     "name": "United States",
-    "airport_count": 32002,
+    "airport_count": 32005,
     "types_distribution": {
       "heliport": 8129,
       "small_airport": 15212,
       "seaplane_base": 647,
       "balloonport": 29,
-      "closed": 7082,
+      "closed": 7085,
       "medium_airport": 832,
       "large_airport": 71
     }
@@ -2635,13 +2636,13 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 95,
+    "airport_count": 97,
     "types_distribution": {
-      "small_airport": 17,
+      "small_airport": 18,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,
-      "medium_airport": 22,
+      "medium_airport": 23,
       "large_airport": 2
     }
   },

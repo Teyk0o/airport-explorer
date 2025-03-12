@@ -1,10 +1,11 @@
 {
   "country_code": "ER",
   "country_name": "Eritrea",
-  "total_airports": 10,
-  "last_updated": "2025-03-11T00:08:27.371521",
+  "total_airports": 12,
+  "last_updated": "2025-03-12T00:08:12.309663",
   "types_distribution": {
-    "small_airport": 7,
+    "small_airport": 8,
+    "closed": 1,
     "medium_airport": 3
   },
   "airports": [
@@ -50,6 +51,27 @@
       "coordinates": "14.32168, 36.63028"
     },
     {
+      "ident": "ER-0005",
+      "type": "closed",
+      "name": "Otumlo Airfield",
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-SK",
+      "municipality": "Massawa",
+      "coordinates": "15.61353, 39.44008"
+    },
+    {
+      "ident": "ER-0006",
+      "type": "small_airport",
+      "name": "Keren Airfield",
+      "elevation_ft": 4678.0,
+      "continent": "AF",
+      "iso_country": "ER",
+      "iso_region": "ER-AN",
+      "municipality": "Keren",
+      "coordinates": "15.78437, 38.42529"
+    },
+    {
       "ident": "HHAG",
       "type": "small_airport",
       "name": "Agordat Airport",
@@ -58,7 +80,7 @@
       "iso_region": "ER-GB",
       "municipality": "Agordat",
       "gps_code": "HHAG",
-      "coordinates": "15.53783, 37.855481"
+      "coordinates": "15.536313, 37.865546"
     },
     {
       "ident": "HHAS",

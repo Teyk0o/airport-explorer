@@ -1,10 +1,10 @@
 {
   "country_code": "SS",
   "country_name": "South Sudan",
-  "total_airports": 91,
-  "last_updated": "2025-03-11T00:08:27.076071",
+  "total_airports": 92,
+  "last_updated": "2025-03-12T00:08:12.011259",
   "types_distribution": {
-    "small_airport": 84,
+    "small_airport": 85,
     "large_airport": 1,
     "medium_airport": 3,
     "heliport": 2,
@@ -189,7 +189,7 @@
       "elevation_ft": 2000.0,
       "continent": "AF",
       "iso_country": "SS",
-      "iso_region": "SS-JG",
+      "iso_region": "SS-PIB",
       "municipality": "Pochalla",
       "gps_code": "HJPO",
       "coordinates": "7.178563, 34.097359"
@@ -201,8 +201,8 @@
       "elevation_ft": 1377.0,
       "continent": "AF",
       "iso_country": "SS",
-      "iso_region": "SS-JG",
-      "municipality": "Pibor Post",
+      "iso_region": "SS-PIB",
+      "municipality": "Pibor",
       "gps_code": "HJPB",
       "coordinates": "6.798561, 33.125904"
     },
@@ -839,7 +839,7 @@
       "name": "Nimni Airport",
       "continent": "AF",
       "iso_country": "SS",
-      "iso_region": "SS-JG",
+      "iso_region": "SS-UY",
       "municipality": "Nimni",
       "coordinates": "9.31332, 30.01904"
     },
@@ -1020,6 +1020,17 @@
       "iso_region": "SS-WR",
       "municipality": "Gogrial",
       "coordinates": "8.53776, 28.09541"
+    },
+    {
+      "ident": "SS-0066",
+      "type": "small_airport",
+      "name": "Abiemnom Airstrip",
+      "elevation_ft": 1316.0,
+      "continent": "AF",
+      "iso_country": "SS",
+      "iso_region": "SS-RUW",
+      "municipality": "Abiemnom",
+      "coordinates": "9.41258, 28.83009"
     }
   ]
 }

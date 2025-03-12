@@ -1,11 +1,11 @@
 {
   "country_code": "AD",
   "country_name": "Andorra",
-  "total_airports": 3,
-  "last_updated": "2025-03-11T00:08:27.071292",
+  "total_airports": 4,
+  "last_updated": "2025-03-12T00:08:12.006495",
   "types_distribution": {
     "heliport": 2,
-    "closed": 1
+    "closed": 2
   },
   "airports": [
     {
@@ -27,6 +27,16 @@
       "iso_region": "AD-04",
       "municipality": "La Massana",
       "coordinates": "42.544983, 1.452258"
+    },
+    {
+      "ident": "AD-0003",
+      "type": "closed",
+      "name": "789WIN",
+      "elevation_ft": 5.0,
+      "continent": "EU",
+      "iso_country": "AD",
+      "iso_region": "AD-03",
+      "coordinates": "0.000004, -0.000003"
     },
     {
       "ident": "AD-ALV",

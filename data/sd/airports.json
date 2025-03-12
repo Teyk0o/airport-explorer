@@ -1,14 +1,14 @@
 {
   "country_code": "SD",
   "country_name": "Sudan",
-  "total_airports": 57,
-  "last_updated": "2025-03-11T00:08:27.071518",
+  "total_airports": 58,
+  "last_updated": "2025-03-12T00:08:12.006711",
   "types_distribution": {
-    "small_airport": 33,
+    "small_airport": 35,
     "medium_airport": 9,
     "large_airport": 1,
     "heliport": 8,
-    "closed": 6
+    "closed": 5
   },
   "airports": [
     {
@@ -499,17 +499,6 @@
       "coordinates": "12.49281, 32.85269"
     },
     {
-      "ident": "SD-0012",
-      "type": "heliport",
-      "name": "Shendi Heliport",
-      "elevation_ft": 1194.0,
-      "continent": "AF",
-      "iso_country": "SD",
-      "iso_region": "SD-04",
-      "municipality": "Shendi",
-      "coordinates": "16.71051, 33.4459"
-    },
-    {
       "ident": "SD-0013",
       "type": "small_airport",
       "name": "Sinjah Airport",
@@ -579,7 +568,7 @@
       "elevation_ft": 1319.0,
       "continent": "AF",
       "iso_country": "SD",
-      "iso_region": "SD-U-A",
+      "iso_region": "SD-ABY",
       "municipality": "Agok",
       "coordinates": "9.360009, 28.584035"
     },
@@ -595,10 +584,10 @@
     {
       "ident": "SD-0021",
       "type": "heliport",
-      "name": "UNISFA Heliport Abyei",
+      "name": "UNISFA Abyei Heliport",
       "continent": "AF",
       "iso_country": "SD",
-      "iso_region": "SD-13",
+      "iso_region": "SD-ABY",
       "municipality": "Abyei",
       "coordinates": "9.584456, 28.442977"
     },
@@ -608,7 +597,7 @@
       "name": "UNISFA Abyei East Helipad",
       "continent": "AF",
       "iso_country": "SD",
-      "iso_region": "SD-13",
+      "iso_region": "SD-ABY",
       "municipality": "Abyei",
       "coordinates": "9.585896, 28.449796"
     },
@@ -618,7 +607,7 @@
       "name": "Athony Airstrip",
       "continent": "AF",
       "iso_country": "SD",
-      "iso_region": "SD-13",
+      "iso_region": "SD-ABY",
       "municipality": "Awolnhom",
       "coordinates": "9.468244, 28.466196"
     },
@@ -644,14 +633,15 @@
     },
     {
       "ident": "SD-0026",
-      "type": "closed",
+      "type": "small_airport",
       "name": "Shendi Airport",
       "elevation_ft": 1181.0,
       "continent": "AF",
       "iso_country": "SD",
       "iso_region": "SD-04",
       "municipality": "Shendi",
-      "coordinates": "16.67426, 33.44956"
+      "gps_code": "HSND",
+      "coordinates": "16.703775, 33.446395"
     },
     {
       "ident": "SD-0027",
@@ -674,6 +664,28 @@
       "iso_region": "SD-07",
       "municipality": "Wad Medani",
       "coordinates": "14.383451, 33.526679"
+    },
+    {
+      "ident": "SD-0029",
+      "type": "small_airport",
+      "name": "Sennar Sugar Factory Airfield",
+      "elevation_ft": 1470.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-25",
+      "municipality": "Barqu",
+      "coordinates": "13.76607, 33.42155"
+    },
+    {
+      "ident": "SD-0030",
+      "type": "heliport",
+      "name": "Wad Madani Heliport",
+      "elevation_ft": 1322.0,
+      "continent": "AF",
+      "iso_country": "SD",
+      "iso_region": "SD-07",
+      "municipality": "Wad Madani",
+      "coordinates": "14.40665, 33.53447"
     }
   ]
 }

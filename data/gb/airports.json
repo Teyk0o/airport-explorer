@@ -1,14 +1,14 @@
 {
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "total_airports": 1523,
-  "last_updated": "2025-03-11T00:08:27.139304",
+  "total_airports": 1531,
+  "last_updated": "2025-03-12T00:08:12.075944",
   "types_distribution": {
     "closed": 351,
     "small_airport": 964,
     "large_airport": 9,
     "medium_airport": 80,
-    "heliport": 113,
+    "heliport": 121,
     "balloonport": 2,
     "seaplane_base": 4
   },
@@ -15984,7 +15984,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Woodbridge, Suffolk",
-      "local_code": "EGVG",
       "coordinates": "52.09, 1.40583"
     },
     {
@@ -16008,7 +16007,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Braintree, Essex",
-      "local_code": "EGVT",
       "coordinates": "51.971901, 0.509444"
     },
     {
@@ -16064,7 +16062,6 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "local_code": "EGZV",
       "coordinates": "51.170505, -4.670758"
     },
     {
@@ -16122,6 +16119,78 @@
       "iso_region": "GB-ENG",
       "municipality": "Fadmoor, Kirbymoorside",
       "coordinates": "54.308086, -0.983105"
+    },
+    {
+      "ident": "GB-1283",
+      "type": "heliport",
+      "name": "Addiston Mains Farm",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.915381, -3.349063"
+    },
+    {
+      "ident": "GB-1284",
+      "type": "heliport",
+      "name": "RIE Rooftop",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.921057, -3.137"
+    },
+    {
+      "ident": "GB-1285",
+      "type": "heliport",
+      "name": "Gilmerton",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.901433, -3.125167"
+    },
+    {
+      "ident": "GB-1286",
+      "type": "heliport",
+      "name": "Burncastle",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.759817, -2.725083"
+    },
+    {
+      "ident": "GB-1287",
+      "type": "heliport",
+      "name": "Queen Elizabeth Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.861634, -4.342079"
+    },
+    {
+      "ident": "GB-1288",
+      "type": "heliport",
+      "name": "Golden Jubilee Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.904682, -4.423336"
+    },
+    {
+      "ident": "GB-1289",
+      "type": "heliport",
+      "name": "Ninewells Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "56.462599, -3.041693"
+    },
+    {
+      "ident": "GB-1290",
+      "type": "heliport",
+      "name": "Mull Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "56.480334, -5.716173"
     },
     {
       "ident": "GB-DOC",

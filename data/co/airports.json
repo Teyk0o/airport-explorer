@@ -2,11 +2,11 @@
   "country_code": "CO",
   "country_name": "Colombia",
   "total_airports": 733,
-  "last_updated": "2025-03-11T00:08:27.064593",
+  "last_updated": "2025-03-12T00:08:11.999793",
   "types_distribution": {
-    "small_airport": 602,
+    "small_airport": 601,
     "heliport": 57,
-    "closed": 14,
+    "closed": 15,
     "medium_airport": 59,
     "large_airport": 1
   },
@@ -1597,12 +1597,11 @@
       "type": "small_airport",
       "name": "Araguanen Airport",
       "elevation_ft": 784.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
       "municipality": "Yopal",
       "local_code": "ARG",
-      "coordinates": "5.413056, -72.283056"
+      "coordinates": "5.413221, -72.28317"
     },
     {
       "ident": "SK-051",
@@ -1823,15 +1822,13 @@
     },
     {
       "ident": "SK-069",
-      "type": "small_airport",
+      "type": "closed",
       "name": "El Porvenir Airport",
       "elevation_ft": 787.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
       "municipality": "Aguazul",
-      "local_code": "AZG",
-      "coordinates": "5.199722, -72.406667"
+      "coordinates": "5.19347, -72.40347"
     },
     {
       "ident": "SK-070",
@@ -1886,12 +1883,11 @@
       "type": "small_airport",
       "name": "El Zamuro Airport",
       "elevation_ft": 688.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
-      "municipality": "El Yopal",
+      "municipality": "Yopal",
       "local_code": "ELZ",
-      "coordinates": "5.124444, -72.336944"
+      "coordinates": "5.14919, -72.35147"
     },
     {
       "ident": "SK-075",
@@ -1922,24 +1918,22 @@
       "type": "small_airport",
       "name": "Fasca Main Base Airport",
       "elevation_ft": 853.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
       "municipality": "Aguazul",
       "local_code": "FCA",
-      "coordinates": "5.155278, -72.520833"
+      "coordinates": "5.153112, -72.516871"
     },
     {
       "ident": "SK-078",
       "type": "small_airport",
       "name": "Germania Airport",
       "elevation_ft": 702.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
       "municipality": "Yopal",
       "local_code": "YPP",
-      "coordinates": "5.186111, -72.32"
+      "coordinates": "5.187451, -72.31939"
     },
     {
       "ident": "SK-079",
@@ -1982,12 +1976,11 @@
       "type": "small_airport",
       "name": "Jamaica Airport",
       "elevation_ft": 751.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
       "municipality": "Aguazul",
       "local_code": "AGJ",
-      "coordinates": "5.092778, -72.450278"
+      "coordinates": "5.090241, -72.447047"
     },
     {
       "ident": "SK-083",
@@ -8915,12 +8908,11 @@
     {
       "ident": "SKYP",
       "type": "medium_airport",
-      "name": "El Yopal Airport",
+      "name": "El Alcaravan - Yopal Airport",
       "elevation_ft": 1028.0,
-      "continent": "SA",
       "iso_country": "CO",
       "iso_region": "CO-CAS",
-      "municipality": "El Yopal",
+      "municipality": "Yopal",
       "gps_code": "SKYP",
       "iata_code": "EYP",
       "local_code": "EYP",
