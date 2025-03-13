@@ -1,10 +1,10 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7448,
-  "last_updated": "2025-03-12T00:08:12.123654",
+  "total_airports": 7454,
+  "last_updated": "2025-03-13T00:08:40.083655",
   "types_distribution": {
-    "small_airport": 5151,
+    "small_airport": 5157,
     "closed": 293,
     "heliport": 1869,
     "medium_airport": 124,
@@ -2062,7 +2062,6 @@
       "iso_country": "BR",
       "iso_region": "BR-PE",
       "municipality": "Palmares",
-      "local_code": "SDDL",
       "coordinates": "-8.685695, -35.57579"
     },
     {
@@ -8564,12 +8563,12 @@
     {
       "ident": "BR-0715",
       "type": "small_airport",
-      "name": "Granja 4 Irmãos - Taim Airport",
+      "name": "Granja 4 Irmãos Airport",
       "elevation_ft": 56.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-RS",
-      "municipality": "Rio Grande",
+      "municipality": "Taim",
       "gps_code": "SJHV",
       "local_code": "RS0123",
       "coordinates": "-32.264038, -52.567134"
@@ -27291,7 +27290,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDAQ",
       "coordinates": "-23.634496, -46.640063"
     },
     {
@@ -27303,7 +27301,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Amparo",
-      "local_code": "SDAR",
       "coordinates": "-22.748611, -46.685555"
     },
     {
@@ -27315,6 +27312,7 @@
       "iso_country": "BR",
       "iso_region": "BR-RJ",
       "municipality": "Areal",
+      "gps_code": "SDOZ",
       "local_code": "RJ0051",
       "coordinates": "-22.207386, -43.096355"
     },
@@ -27327,7 +27325,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDBR",
       "coordinates": "-23.596111, -46.68528"
     },
     {
@@ -27339,19 +27336,17 @@
       "iso_country": "BR",
       "iso_region": "BR-MG",
       "municipality": "Pirapora",
-      "local_code": "SDCE",
-      "coordinates": "-17.438334, -44.936943"
+      "coordinates": "-17.439232, -44.937526"
     },
     {
       "ident": "BR-2244",
       "type": "heliport",
-      "name": "Centro Empresarial Mourisco Heliport",
+      "name": "Centro Empresarial Mourisco Helipad",
       "elevation_ft": 119.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-RJ",
-      "municipality": "Rio De Janeiro",
-      "local_code": "SDCX",
+      "municipality": "Rio de Janeiro",
       "coordinates": "-22.950661, -43.180597"
     },
     {
@@ -27363,7 +27358,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Santo André",
-      "local_code": "SDDA",
       "coordinates": "-23.642814, -46.53343"
     },
     {
@@ -27375,8 +27369,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Tatuí",
-      "local_code": "SDDL",
-      "coordinates": "-23.307501, -47.933887"
+      "coordinates": "-23.307971, -47.933743"
     },
     {
       "ident": "BR-2247",
@@ -27387,19 +27380,17 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDEF",
       "coordinates": "-23.623647, -46.696808"
     },
     {
       "ident": "BR-2248",
       "type": "heliport",
-      "name": "Centro Empresarial Vari Heliport",
+      "name": "Centro Empresarial Vari Helipad",
       "elevation_ft": 2668.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDEV",
       "coordinates": "-23.499675, -46.622924"
     },
     {
@@ -39354,6 +39345,72 @@
       "municipality": "Figueirópolis d'Oeste",
       "local_code": "SSVT",
       "coordinates": "-15.566667, -58.616111"
+    },
+    {
+      "ident": "BR-3245",
+      "type": "small_airport",
+      "name": "Granja Chasqueiro Airstrip",
+      "elevation_ft": 92.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Arroio Grande",
+      "coordinates": "-32.21094, -52.96188"
+    },
+    {
+      "ident": "BR-3246",
+      "type": "small_airport",
+      "name": "Granja Luiza Airstrip",
+      "elevation_ft": 26.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Arroio Grande",
+      "coordinates": "-32.14963, -52.77966"
+    },
+    {
+      "ident": "BR-3247",
+      "type": "small_airport",
+      "name": "Santa Isabel do Sul Airstrip",
+      "elevation_ft": 33.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Santa Isabel do Sul",
+      "coordinates": "-32.10042, -52.60265"
+    },
+    {
+      "ident": "BR-3248",
+      "type": "small_airport",
+      "name": "Estância Sangradouro Airstrip",
+      "elevation_ft": 20.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Santa Isabel do Sul",
+      "coordinates": "-32.10729, -52.66101"
+    },
+    {
+      "ident": "BR-3249",
+      "type": "small_airport",
+      "name": "Granja Santa Maria Airstrip",
+      "elevation_ft": 23.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Taim",
+      "coordinates": "-32.41501, -52.52974"
+    },
+    {
+      "ident": "BR-3250",
+      "type": "small_airport",
+      "name": "Agropecuária Proteção Airstrip",
+      "elevation_ft": 16.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Siola",
+      "coordinates": "-32.12129, -52.41537"
     },
     {
       "ident": "BR-ALT",

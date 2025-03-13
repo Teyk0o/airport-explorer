@@ -133,8 +133,8 @@
     "name": "Australia",
     "airport_count": 2717,
     "types_distribution": {
-      "small_airport": 2046,
-      "closed": 84,
+      "small_airport": 2045,
+      "closed": 85,
       "heliport": 392,
       "seaplane_base": 4,
       "medium_airport": 185,
@@ -325,9 +325,9 @@
   {
     "code": "BR",
     "name": "Brazil",
-    "airport_count": 7448,
+    "airport_count": 7454,
     "types_distribution": {
-      "small_airport": 5151,
+      "small_airport": 5157,
       "closed": 293,
       "heliport": 1869,
       "medium_airport": 124,
@@ -2344,10 +2344,10 @@
   {
     "code": "CH",
     "name": "Switzerland",
-    "airport_count": 127,
+    "airport_count": 129,
     "types_distribution": {
       "heliport": 52,
-      "small_airport": 50,
+      "small_airport": 52,
       "closed": 12,
       "medium_airport": 11,
       "large_airport": 2
@@ -2543,13 +2543,13 @@
   {
     "code": "GB",
     "name": "United Kingdom",
-    "airport_count": 1531,
+    "airport_count": 1536,
     "types_distribution": {
-      "closed": 351,
+      "closed": 352,
       "small_airport": 964,
       "large_airport": 9,
       "medium_airport": 80,
-      "heliport": 121,
+      "heliport": 125,
       "balloonport": 2,
       "seaplane_base": 4
     }
@@ -2636,13 +2636,13 @@
   {
     "code": "VN",
     "name": "Vietnam",
-    "airport_count": 97,
+    "airport_count": 95,
     "types_distribution": {
-      "small_airport": 18,
+      "small_airport": 17,
       "closed": 28,
       "heliport": 25,
       "seaplane_base": 1,
-      "medium_airport": 23,
+      "medium_airport": 22,
       "large_airport": 2
     }
   },

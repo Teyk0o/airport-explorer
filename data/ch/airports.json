@@ -1,11 +1,11 @@
 {
   "country_code": "CH",
   "country_name": "Switzerland",
-  "total_airports": 127,
-  "last_updated": "2025-03-12T00:08:12.240479",
+  "total_airports": 129,
+  "last_updated": "2025-03-13T00:08:40.201113",
   "types_distribution": {
     "heliport": 52,
-    "small_airport": 50,
+    "small_airport": 52,
     "closed": 12,
     "medium_airport": 11,
     "large_airport": 2
@@ -1025,13 +1025,24 @@
     {
       "ident": "LSVD",
       "type": "small_airport",
-      "name": "Clariden-Hüfifirn",
+      "name": "Clariden-Hüfifirn Mountain Landing Site",
       "continent": "EU",
       "iso_country": "CH",
       "iso_region": "CH-GL",
       "municipality": "Plateau nördlich Planurahütte",
       "gps_code": "LSVD",
       "coordinates": "46.821944, 8.880277"
+    },
+    {
+      "ident": "LSVP",
+      "type": "small_airport",
+      "name": "Petersgrat Mountain Landing Site",
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-BE",
+      "municipality": "Firnplateau",
+      "gps_code": "LSVP",
+      "coordinates": "46.468889, 7.828333"
     },
     {
       "ident": "LSXG",
@@ -1170,15 +1181,26 @@
       "coordinates": "46.71096, 8.20148"
     },
     {
+      "ident": "LSYK",
+      "type": "small_airport",
+      "name": "Kanderfirn Mountain Landing Site",
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-BE",
+      "municipality": "West of Mutthorn hut",
+      "gps_code": "LSYK",
+      "coordinates": "46.485833, 7.828333"
+    },
+    {
       "ident": "LSYX",
       "type": "small_airport",
-      "name": "Glacier du Trient Altisurface",
+      "name": "Glacier du Trient Mountain Landing Site",
       "continent": "EU",
       "iso_country": "CH",
       "iso_region": "CH-VS",
       "municipality": "Firnrand",
       "gps_code": "LSYX",
-      "coordinates": "45.990702, 7.02228"
+      "coordinates": "45.9883, 7.0425"
     },
     {
       "ident": "LSZA",

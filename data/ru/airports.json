@@ -2,7 +2,7 @@
   "country_code": "RU",
   "country_name": "Russia",
   "total_airports": 1717,
-  "last_updated": "2025-03-12T00:08:12.271897",
+  "last_updated": "2025-03-13T00:08:40.232263",
   "types_distribution": {
     "small_airport": 650,
     "medium_airport": 239,
@@ -1589,11 +1589,11 @@
       "ident": "RU-0143",
       "type": "heliport",
       "name": "Avachinskiy Heliport",
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Yelizovo",
-      "coordinates": "53.15999984741211, 158.38499450683594"
+      "coordinates": "53.16, 158.384995"
     },
     {
       "ident": "RU-0144",
@@ -2119,11 +2119,11 @@
       "ident": "RU-0194",
       "type": "closed",
       "name": "Sinegorye Airport",
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-MAG",
       "municipality": "Sinegorye",
-      "coordinates": "62.26499938964844, 150.75"
+      "coordinates": "62.262558, 150.752421"
     },
     {
       "ident": "RU-0195",
@@ -5076,7 +5076,7 @@
       "type": "small_airport",
       "name": "Lamutskoye Airport",
       "elevation_ft": 601.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-CHU",
       "municipality": "Lamutskoye",
@@ -5232,7 +5232,7 @@
       "type": "closed",
       "name": "Baranikha Airport",
       "elevation_ft": 712.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-CHU",
       "municipality": "Baranikha",
@@ -5854,7 +5854,7 @@
       "ident": "RU-0544",
       "type": "heliport",
       "name": "Vilkovo Heliport",
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Vilkovo",
@@ -5874,7 +5874,7 @@
       "ident": "RU-0546",
       "type": "heliport",
       "name": "Vityaz'-Aero Heliport",
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Nikolayevka",
@@ -5927,11 +5927,11 @@
       "ident": "RU-0551",
       "type": "heliport",
       "name": "Koryaki Heliport",
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Koryaki",
-      "local_code": "PP42",
+      "local_code": "UHPC",
       "coordinates": "53.25887, 158.21443"
     },
     {
@@ -7806,10 +7806,12 @@
       "ident": "RU-0731",
       "type": "heliport",
       "name": "Il'pyrskoye Heliport",
-      "continent": "EU",
+      "elevation_ft": 14.0,
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Il'pyrskoye",
+      "local_code": "HD03",
       "coordinates": "59.96632, 164.20118"
     },
     {
@@ -11256,12 +11258,13 @@
       "type": "small_airport",
       "name": "Kirovsk-Apatity Airport",
       "elevation_ft": 515.0,
-      "continent": "AS",
+      "continent": "EU",
       "iso_country": "RU",
       "iso_region": "RU-MUR",
       "municipality": "Apatity",
       "gps_code": "ULMK",
       "iata_code": "KVK",
+      "local_code": "ULMK",
       "coordinates": "67.462851, 33.585294"
     },
     {
@@ -11281,12 +11284,12 @@
       "type": "medium_airport",
       "name": "Semyazino Airport",
       "elevation_ft": 554.0,
-      "continent": "AS",
+      "continent": "EU",
       "iso_country": "RU",
       "iso_region": "RU-VLA",
       "municipality": "Vladimir",
       "gps_code": "UUBL",
-      "local_code": "XUBL",
+      "local_code": "UUBL",
       "coordinates": "56.127423, 40.315202"
     },
     {
@@ -11294,10 +11297,11 @@
       "type": "medium_airport",
       "name": "Soltsy-2 Air Base",
       "elevation_ft": 131.0,
-      "continent": "AS",
+      "continent": "EU",
       "iso_country": "RU",
       "iso_region": "RU-NGR",
       "municipality": "Soltsy",
+      "gps_code": "XLLL",
       "local_code": "XLLL",
       "coordinates": "58.139545, 30.33042"
     },
@@ -12778,7 +12782,7 @@
       "type": "closed",
       "name": "Uka Airport",
       "elevation_ft": 10.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Uka",
@@ -14181,13 +14185,13 @@
       "type": "medium_airport",
       "name": "Ust-Nera Airport",
       "elevation_ft": 1805.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-SA",
       "municipality": "Ust-Nera",
       "gps_code": "UEMT",
       "iata_code": "USR",
-      "coordinates": "64.550003051758, 143.11500549316"
+      "coordinates": "64.550003, 143.115005"
     },
     {
       "ident": "UEMU",
@@ -15366,11 +15370,12 @@
       "type": "small_airport",
       "name": "Ust-Pakhachi Airport",
       "elevation_ft": 10.0,
-      "continent": "EU",
+      "continent": "AS",
       "iso_country": "RU",
       "iso_region": "RU-KAM",
       "municipality": "Ust-Pakhachi",
       "gps_code": "UHPA",
+      "local_code": "UHPA",
       "coordinates": "60.556587, 169.107707"
     },
     {

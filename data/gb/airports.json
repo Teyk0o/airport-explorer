@@ -1,14 +1,14 @@
 {
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "total_airports": 1531,
-  "last_updated": "2025-03-12T00:08:12.075944",
+  "total_airports": 1536,
+  "last_updated": "2025-03-13T00:08:40.035473",
   "types_distribution": {
-    "closed": 351,
+    "closed": 352,
     "small_airport": 964,
     "large_airport": 9,
     "medium_airport": 80,
-    "heliport": 121,
+    "heliport": 125,
     "balloonport": 2,
     "seaplane_base": 4
   },
@@ -16044,14 +16044,13 @@
     },
     {
       "ident": "GB-1276",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Hullavington Airfield",
       "elevation_ft": 327.0,
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Hullavington",
-      "local_code": "EGDV",
       "coordinates": "51.526732, -2.141555"
     },
     {
@@ -16191,6 +16190,51 @@
       "iso_country": "GB",
       "iso_region": "GB-SCT",
       "coordinates": "56.480334, -5.716173"
+    },
+    {
+      "ident": "GB-1291",
+      "type": "heliport",
+      "name": "RAF Spadeadam",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "coordinates": "55.057248, -2.565286"
+    },
+    {
+      "ident": "GB-1292",
+      "type": "heliport",
+      "name": "HMS Caledonia",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "56.032196, -3.451508"
+    },
+    {
+      "ident": "GB-1293",
+      "type": "heliport",
+      "name": "Campbeltown Hospital Helipad",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.420022, -5.605644"
+    },
+    {
+      "ident": "GB-1294",
+      "type": "heliport",
+      "name": "Royal Alexandria Hospital Paisley",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.834334, -4.435032"
+    },
+    {
+      "ident": "GB-1295",
+      "type": "small_airport",
+      "name": "Laurencekirk",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "56.870087, -2.462225"
     },
     {
       "ident": "GB-DOC",

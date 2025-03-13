@@ -2,10 +2,10 @@
   "country_code": "AU",
   "country_name": "Australia",
   "total_airports": 2717,
-  "last_updated": "2025-03-12T00:08:12.026242",
+  "last_updated": "2025-03-13T00:08:39.986233",
   "types_distribution": {
-    "small_airport": 2046,
-    "closed": 84,
+    "small_airport": 2045,
+    "closed": 85,
     "heliport": 392,
     "seaplane_base": 4,
     "medium_airport": 185,
@@ -15494,12 +15494,11 @@
     },
     {
       "ident": "YGHG",
-      "type": "small_airport",
-      "name": "Glen Harding Airport - CLOSED",
+      "type": "closed",
+      "name": "Glen Harding Airport",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
-      "gps_code": "YGHG",
       "coordinates": "-18.248608, 145.125958"
     },
     {
