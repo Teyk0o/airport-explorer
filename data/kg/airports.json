@@ -2,7 +2,7 @@
   "country_code": "KG",
   "country_name": "Kyrgyzstan",
   "total_airports": 56,
-  "last_updated": "2025-03-13T00:08:40.374703",
+  "last_updated": "2025-03-14T00:08:07.352516",
   "types_distribution": {
     "medium_airport": 5,
     "small_airport": 22,
@@ -20,7 +20,7 @@
       "iso_country": "KG",
       "iso_region": "KG-J",
       "municipality": "Jalal-Abad",
-      "gps_code": "UAFJ",
+      "gps_code": "UCFD",
       "coordinates": "40.944401, 72.977798"
     },
     {
@@ -526,12 +526,12 @@
       "ident": "UA30",
       "type": "medium_airport",
       "name": "Batken Airport",
-      "elevation_ft": 3517.0,
+      "elevation_ft": 3602.0,
       "continent": "AS",
       "iso_country": "KG",
       "iso_region": "KG-B",
       "municipality": "Batken",
-      "gps_code": "UAFB",
+      "gps_code": "UCFB",
       "coordinates": "40.042899, 70.83784"
     },
     {
@@ -560,13 +560,13 @@
     {
       "ident": "UAFI",
       "type": "small_airport",
-      "name": "Isfana Airport",
-      "elevation_ft": 4625.0,
+      "name": "Razzakov Airport",
+      "elevation_ft": 4840.0,
       "continent": "AS",
       "iso_country": "KG",
       "iso_region": "KG-B",
       "municipality": "Isfana",
-      "gps_code": "UAFI",
+      "gps_code": "UCFR",
       "coordinates": "39.824737, 69.56882"
     },
     {
@@ -604,8 +604,9 @@
       "iso_country": "KG",
       "iso_region": "KG-Y",
       "municipality": "Karakol",
-      "gps_code": "UCFP",
-      "coordinates": "42.508098602299995, 78.4077987671"
+      "gps_code": "UCFK",
+      "iata_code": "IKG",
+      "coordinates": "42.508099, 78.407799"
     },
     {
       "ident": "UAFW",

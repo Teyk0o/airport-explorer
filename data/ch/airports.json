@@ -1,11 +1,11 @@
 {
   "country_code": "CH",
   "country_name": "Switzerland",
-  "total_airports": 129,
-  "last_updated": "2025-03-13T00:08:40.201113",
+  "total_airports": 130,
+  "last_updated": "2025-03-14T00:08:07.179662",
   "types_distribution": {
     "heliport": 52,
-    "small_airport": 52,
+    "small_airport": 53,
     "closed": 12,
     "medium_airport": 11,
     "large_airport": 2
@@ -1190,6 +1190,17 @@
       "municipality": "West of Mutthorn hut",
       "gps_code": "LSYK",
       "coordinates": "46.485833, 7.828333"
+    },
+    {
+      "ident": "LSYR",
+      "type": "small_airport",
+      "name": "Rosa Blanche Mountain Landing Site",
+      "continent": "EU",
+      "iso_country": "CH",
+      "iso_region": "CH-VS",
+      "municipality": "Grat südlich Gipfel",
+      "gps_code": "LSYR",
+      "coordinates": "46.060833, 7.354722"
     },
     {
       "ident": "LSYX",

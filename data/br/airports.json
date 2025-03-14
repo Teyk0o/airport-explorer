@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7454,
-  "last_updated": "2025-03-13T00:08:40.083655",
+  "total_airports": 7458,
+  "last_updated": "2025-03-14T00:08:07.063507",
   "types_distribution": {
-    "small_airport": 5157,
-    "closed": 293,
-    "heliport": 1869,
+    "small_airport": 5159,
+    "closed": 294,
+    "heliport": 1870,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -20625,7 +20625,7 @@
       "municipality": "Venda Nova do Imigrante",
       "gps_code": "SSDC",
       "local_code": "ES0027",
-      "coordinates": "-20.388889, -41.078611"
+      "coordinates": "-20.389449, -41.079437"
     },
     {
       "ident": "BR-1674",
@@ -27402,20 +27402,18 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Bela Vista",
-      "local_code": "SDFE",
       "coordinates": "-22.068056, -56.702499"
     },
     {
       "ident": "BR-2250",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Fazenda Fittipaldi Citrus Airport",
       "elevation_ft": 1673.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Araraquara",
-      "local_code": "SDFF",
-      "coordinates": "-21.854445, -48.295832"
+      "coordinates": "-21.853128, -48.295255"
     },
     {
       "ident": "BR-2251",
@@ -27426,7 +27424,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Arapeí",
-      "local_code": "SDFG",
       "coordinates": "-22.659611, -44.464942"
     },
     {
@@ -27438,7 +27435,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Teodoro Sampaio",
-      "local_code": "SDFM",
       "coordinates": "-22.289652, -52.254839"
     },
     {
@@ -27450,8 +27446,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDGM",
-      "coordinates": "-23.654167, -46.716667"
+      "coordinates": "-23.653982, -46.716374"
     },
     {
       "ident": "BR-2254",
@@ -27462,7 +27457,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Avaré",
-      "local_code": "SDGP",
       "coordinates": "-23.221801, -48.790794"
     },
     {
@@ -27474,8 +27468,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDGQ",
-      "coordinates": "-23.5627784729, -46.655834197998"
+      "coordinates": "-23.563063, -46.656214"
     },
     {
       "ident": "BR-2256",
@@ -27486,8 +27479,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Campos Novos Paulista",
-      "local_code": "SDGT",
-      "coordinates": "-22.525001, -50.045832"
+      "coordinates": "-22.530343, -50.063156"
     },
     {
       "ident": "BR-2257",
@@ -27498,8 +27490,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Guariba",
-      "local_code": "SDGU",
-      "coordinates": "-21.404443740845, -48.303333282471"
+      "coordinates": "-21.404444, -48.303333"
     },
     {
       "ident": "BR-2258",
@@ -27510,20 +27501,18 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Cotia",
-      "local_code": "SDGV",
-      "coordinates": "-23.599443435669, -46.832500457764"
+      "coordinates": "-23.598354, -46.831475"
     },
     {
       "ident": "BR-2259",
       "type": "heliport",
-      "name": "Shering Plough Heliport",
+      "name": "Mantecorp Helipad",
       "elevation_ft": 2494.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDGX",
-      "coordinates": "-23.626943588257, -46.707778930664"
+      "coordinates": "-23.627201, -46.708118"
     },
     {
       "ident": "BR-2260",
@@ -27534,8 +27523,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Paulínea",
-      "local_code": "SDHH",
-      "coordinates": "-22.757499694824, -47.158054351807"
+      "coordinates": "-22.7575, -47.158054"
     },
     {
       "ident": "BR-2261",
@@ -39413,6 +39401,28 @@
       "coordinates": "-32.12129, -52.41537"
     },
     {
+      "ident": "BR-3251",
+      "type": "small_airport",
+      "name": "Cancha da Coxilha Airstrip",
+      "elevation_ft": 46.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Povo Novo",
+      "coordinates": "-32.08169, -52.30094"
+    },
+    {
+      "ident": "BR-3252",
+      "type": "small_airport",
+      "name": "Granja Mangueira Agropecuária Airstrip",
+      "elevation_ft": 72.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RS",
+      "municipality": "Vila Princesa",
+      "coordinates": "-31.61955, -52.28224"
+    },
+    {
       "ident": "BR-ALT",
       "type": "small_airport",
       "name": "Alenquer Municipal Airport",
@@ -39580,7 +39590,7 @@
     {
       "ident": "SBAN",
       "type": "medium_airport",
-      "name": "Base Aérea Airport",
+      "name": "Anápolis Airbase",
       "elevation_ft": 3731.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -39700,7 +39710,7 @@
       "gps_code": "SBBH",
       "iata_code": "PLU",
       "local_code": "MG0003",
-      "coordinates": "-19.8512, -43.9506"
+      "coordinates": "-19.85074, -43.950316"
     },
     {
       "ident": "SBBI",
@@ -82398,6 +82408,32 @@
       "gps_code": "SS4H",
       "local_code": "MT1067",
       "coordinates": "-13.815586, -57.664089"
+    },
+    {
+      "ident": "SS4I",
+      "type": "small_airport",
+      "name": "Fazenda Reunidas Airport",
+      "elevation_ft": 1698.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-TO",
+      "municipality": "Lizarda",
+      "gps_code": "SS4I",
+      "local_code": "TO0148",
+      "coordinates": "-9.414807, -46.694607"
+    },
+    {
+      "ident": "SS4J",
+      "type": "heliport",
+      "name": "ALPS Heliport",
+      "elevation_ft": 2116.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MG",
+      "municipality": "Timóteo",
+      "gps_code": "SS4J",
+      "local_code": "MG0566",
+      "coordinates": "-19.550156, -42.606153"
     },
     {
       "ident": "SS4N",
