@@ -1,10 +1,10 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2717,
-  "last_updated": "2025-03-14T00:08:06.966801",
+  "total_airports": 2718,
+  "last_updated": "2025-03-15T00:08:15.948764",
   "types_distribution": {
-    "small_airport": 2045,
+    "small_airport": 2046,
     "closed": 85,
     "heliport": 392,
     "seaplane_base": 4,
@@ -7926,6 +7926,17 @@
       "coordinates": "-17.39085, 145.17807"
     },
     {
+      "ident": "AU-0743",
+      "type": "small_airport",
+      "name": "Bullabulling Airfield",
+      "elevation_ft": 1342.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Bullabulling",
+      "coordinates": "-30.97532, 121.08068"
+    },
+    {
       "ident": "AU-AGW",
       "type": "small_airport",
       "name": "Agnew Airport",
@@ -10295,9 +10306,10 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
+      "municipality": "Bedourie",
       "gps_code": "YBIE",
       "iata_code": "BEU",
-      "coordinates": "-24.346099853515625, 139.4600067138672"
+      "coordinates": "-24.3461, 139.460007"
     },
     {
       "ident": "YBII",
@@ -12391,12 +12403,14 @@
     {
       "ident": "YCLG",
       "type": "small_airport",
-      "name": "Coolgardie Airport    (Bullabulling)?",
+      "name": "Coolgardie Airport",
+      "elevation_ft": 1319.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Coolgardie",
       "gps_code": "YCLG",
-      "coordinates": "-30.97645, 121.079979"
+      "coordinates": "-30.89727, 121.19502"
     },
     {
       "ident": "YCLM",

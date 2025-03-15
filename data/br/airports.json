@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7458,
-  "last_updated": "2025-03-14T00:08:07.063507",
+  "total_airports": 7463,
+  "last_updated": "2025-03-15T00:08:16.045327",
   "types_distribution": {
-    "small_airport": 5159,
+    "small_airport": 5162,
     "closed": 294,
-    "heliport": 1870,
+    "heliport": 1872,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -7907,7 +7907,7 @@
     {
       "ident": "BR-0663",
       "type": "small_airport",
-      "name": "Clube de Aviação Experimental do Paraná Airport",
+      "name": "Paraná Experimental Aviation Club Airport",
       "elevation_ft": 1617.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -26763,7 +26763,7 @@
     {
       "ident": "BR-2193",
       "type": "small_airport",
-      "name": "Porecatu Airport",
+      "name": "Porecatu Municipal Airport",
       "elevation_ft": 1424.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -39880,7 +39880,7 @@
     {
       "ident": "SBCD",
       "type": "small_airport",
-      "name": "Caçador Airport",
+      "name": "Doctor Carlos Alberto da Costa Neves Airport",
       "elevation_ft": 3376.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -40725,7 +40725,7 @@
     {
       "ident": "SBLO",
       "type": "medium_airport",
-      "name": "Governador José Richa Airport",
+      "name": "Governor José Richa Airport",
       "elevation_ft": 1867.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -40734,7 +40734,7 @@
       "gps_code": "SBLO",
       "iata_code": "LDB",
       "local_code": "PR0003",
-      "coordinates": "-23.333599, -51.1301"
+      "coordinates": "-23.334375, -51.128365"
     },
     {
       "ident": "SBLP",
@@ -44557,7 +44557,7 @@
       "municipality": "Porto União",
       "gps_code": "SDA6",
       "local_code": "SC0184",
-      "coordinates": "-26.267222, -51.028889"
+      "coordinates": "-26.267458, -51.028055"
     },
     {
       "ident": "SDA7",
@@ -52227,7 +52227,7 @@
       "iso_region": "BR-SP",
       "municipality": "Regente Feijó",
       "gps_code": "SDYJ",
-      "coordinates": "-22.225555419921875, -51.34805679321289"
+      "coordinates": "-22.226225, -51.348806"
     },
     {
       "ident": "SDYK",
@@ -52264,7 +52264,7 @@
       "iso_region": "BR-SP",
       "municipality": "Taciba",
       "gps_code": "SDYN",
-      "coordinates": "-22.58888816833496, -51.29888916015625"
+      "coordinates": "-22.584782, -51.304197"
     },
     {
       "ident": "SDYO",
@@ -78618,7 +78618,7 @@
       "iso_region": "BR-PR",
       "municipality": "Guarapuava",
       "gps_code": "SNNM",
-      "coordinates": "-25.566110610961914, -51.496665954589844"
+      "coordinates": "-25.56845, -51.495128"
     },
     {
       "ident": "SNNN",
@@ -82228,6 +82228,58 @@
       "coordinates": "-29.699328, -53.493256"
     },
     {
+      "ident": "SS3W",
+      "type": "small_airport",
+      "name": "Fazenda Matão Airport",
+      "elevation_ft": 1404.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nova Brasilândia",
+      "gps_code": "SS3W",
+      "local_code": "MT1098",
+      "coordinates": "-14.6723, -55.212586"
+    },
+    {
+      "ident": "SS3X",
+      "type": "heliport",
+      "name": "DBJ Heliport",
+      "elevation_ft": 2060.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-SP",
+      "municipality": "Porto Feliz",
+      "gps_code": "SS3X",
+      "local_code": "SP1484",
+      "coordinates": "-23.284867, -47.546789"
+    },
+    {
+      "ident": "SS3Y",
+      "type": "heliport",
+      "name": "Ecoparque Heliport",
+      "elevation_ft": 2382.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PR",
+      "municipality": "Cascavel",
+      "gps_code": "SS3Y",
+      "local_code": "PR0247",
+      "coordinates": "-24.997753, -53.541728"
+    },
+    {
+      "ident": "SS3Z",
+      "type": "small_airport",
+      "name": "PSA Agro Airport",
+      "elevation_ft": 820.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Amarante do Maranhão",
+      "gps_code": "SS3Z",
+      "local_code": "MA0204",
+      "coordinates": "-5.445664, -46.784831"
+    },
+    {
       "ident": "SS42",
       "type": "small_airport",
       "name": "Grupo Plenitude Airstrip",
@@ -82434,6 +82486,19 @@
       "gps_code": "SS4J",
       "local_code": "MG0566",
       "coordinates": "-19.550156, -42.606153"
+    },
+    {
+      "ident": "SS4K",
+      "type": "small_airport",
+      "name": "Fazenda 3 Rios Airstrip",
+      "elevation_ft": 1637.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MA",
+      "municipality": "Balsas",
+      "gps_code": "SS4K",
+      "local_code": "MA0196",
+      "coordinates": "-9.029508, -46.78543"
     },
     {
       "ident": "SS4N",
@@ -85792,12 +85857,12 @@
     {
       "ident": "SSOE",
       "type": "small_airport",
-      "name": "São Miguel do Oeste Airport",
+      "name": "São Miguel do Oeste Hélio Wasum Airport",
       "elevation_ft": 2180.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SC",
-      "municipality": "São Miguel Do Oeste",
+      "municipality": "São Miguel do Oeste",
       "gps_code": "SSOE",
       "iata_code": "SQX",
       "local_code": "SSOE",
@@ -85851,7 +85916,7 @@
       "iso_region": "BR-PR",
       "municipality": "Londrina",
       "gps_code": "SSOK",
-      "coordinates": "-23.214167, -51.185833"
+      "coordinates": "-23.21456, -51.1836"
     },
     {
       "ident": "SSOL",
@@ -86891,14 +86956,14 @@
     {
       "ident": "SSSZ",
       "type": "small_airport",
-      "name": "Sertanópolis Airport",
+      "name": "Sertanópolis Municipal Airport",
       "elevation_ft": 1181.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Sertanópolis",
       "gps_code": "SSSZ",
-      "coordinates": "-23.06220054626465, -51.01390075683594"
+      "coordinates": "-23.062201, -51.013901"
     },
     {
       "ident": "SSTA",
@@ -87326,7 +87391,7 @@
     {
       "ident": "SSUV",
       "type": "small_airport",
-      "name": "União da Vitória Airport",
+      "name": "José Cleto Airport",
       "elevation_ft": 2467.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -89488,7 +89553,7 @@
     {
       "ident": "SWEP",
       "type": "small_airport",
-      "name": "Estância Punta del Este",
+      "name": "Estância Punta del Este Airport",
       "elevation_ft": 1148.0,
       "continent": "SA",
       "iso_country": "BR",
@@ -89496,7 +89561,7 @@
       "municipality": "Sertaneja",
       "gps_code": "SWEP",
       "local_code": "PR0198",
-      "coordinates": "-22.804612, -50.984144"
+      "coordinates": "-22.804394, -50.982379"
     },
     {
       "ident": "SWET",

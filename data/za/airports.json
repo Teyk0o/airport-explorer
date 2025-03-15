@@ -2,13 +2,13 @@
   "country_code": "ZA",
   "country_name": "South Africa",
   "total_airports": 652,
-  "last_updated": "2025-03-14T00:08:07.256784",
+  "last_updated": "2025-03-15T00:08:16.238081",
   "types_distribution": {
     "medium_airport": 57,
-    "small_airport": 514,
+    "small_airport": 513,
     "large_airport": 3,
     "heliport": 49,
-    "closed": 28,
+    "closed": 29,
     "balloonport": 1
   },
   "airports": [
@@ -5234,14 +5234,14 @@
     },
     {
       "ident": "ZA-0127",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Skaapvlei Airport",
       "elevation_ft": 420.0,
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
-      "municipality": "Skaapvlei Farmstead",
-      "coordinates": "-31.4996, 18.0643"
+      "municipality": "Skaapvlei",
+      "coordinates": "-31.499668, 18.064399"
     },
     {
       "ident": "ZA-0128",

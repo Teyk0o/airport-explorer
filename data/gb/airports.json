@@ -1,14 +1,14 @@
 {
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "total_airports": 1536,
-  "last_updated": "2025-03-14T00:08:07.015879",
+  "total_airports": 1542,
+  "last_updated": "2025-03-15T00:08:15.997602",
   "types_distribution": {
     "closed": 352,
     "small_airport": 964,
     "large_airport": 9,
     "medium_airport": 80,
-    "heliport": 125,
+    "heliport": 131,
     "balloonport": 2,
     "seaplane_base": 4
   },
@@ -16095,7 +16095,6 @@
       "iso_country": "GB",
       "iso_region": "GB-ENG",
       "municipality": "Bognor Regis, West Sussex",
-      "local_code": "EGKC",
       "coordinates": "50.801667, -0.658847"
     },
     {
@@ -16176,11 +16175,13 @@
     {
       "ident": "GB-1289",
       "type": "heliport",
-      "name": "Ninewells Hospital",
+      "name": "Ninewells Hospital Heliport",
+      "elevation_ft": 179.0,
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-SCT",
-      "coordinates": "56.462599, -3.041693"
+      "municipality": "Dundee",
+      "coordinates": "56.462555, -3.041788"
     },
     {
       "ident": "GB-1290",
@@ -16235,6 +16236,60 @@
       "iso_country": "GB",
       "iso_region": "GB-SCT",
       "coordinates": "56.870087, -2.462225"
+    },
+    {
+      "ident": "GB-1296",
+      "type": "heliport",
+      "name": "Scottish Police HQ Tullieallan",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "56.07762, -3.711953"
+    },
+    {
+      "ident": "GB-1297",
+      "type": "heliport",
+      "name": "Galloway Community Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "54.899029, -5.020642"
+    },
+    {
+      "ident": "GB-1298",
+      "type": "heliport",
+      "name": "Ayr University Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.43076, -4.598218"
+    },
+    {
+      "ident": "GB-1299",
+      "type": "heliport",
+      "name": "Crosshouse University Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.613234, -4.544758"
+    },
+    {
+      "ident": "GB-1300",
+      "type": "heliport",
+      "name": "Dumfries Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.060637, -3.66087"
+    },
+    {
+      "ident": "GB-1301",
+      "type": "heliport",
+      "name": "Wishaw Hospital",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.774133, -3.937385"
     },
     {
       "ident": "GB-DOC",
