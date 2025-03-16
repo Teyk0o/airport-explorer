@@ -2,7 +2,7 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 646,
-  "last_updated": "2025-03-15T00:08:15.987885",
+  "last_updated": "2025-03-16T00:09:13.589854",
   "types_distribution": {
     "small_airport": 469,
     "closed": 45,
@@ -3218,6 +3218,7 @@
       "iso_country": "ID",
       "iso_region": "ID-SB",
       "municipality": "West Pasaman",
+      "gps_code": "WIEP",
       "local_code": "PNN",
       "coordinates": "0.076713, 99.783846"
     },
@@ -4481,7 +4482,6 @@
       "municipality": "Timika",
       "gps_code": "WAYY",
       "iata_code": "TIM",
-      "local_code": "WAYY",
       "coordinates": "-4.52978, 136.887388"
     },
     {
@@ -5547,7 +5547,7 @@
     {
       "ident": "WAOC",
       "type": "small_airport",
-      "name": "Batu Licin Airport",
+      "name": "Bersujud Airport",
       "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "ID",
@@ -5946,7 +5946,7 @@
       "municipality": "Tanjung Redeb - Borneo Island",
       "gps_code": "WAQT",
       "iata_code": "BEJ",
-      "coordinates": "2.1555, 117.431999"
+      "coordinates": "2.14776, 117.430705"
     },
     {
       "ident": "WARA",
@@ -6444,15 +6444,15 @@
     {
       "ident": "WATW",
       "type": "small_airport",
-      "name": "Lembata Wonopito Airport",
+      "name": "Wonopito Airport",
       "elevation_ft": 25.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-NT",
-      "municipality": "Nubatukan",
+      "municipality": "Lewoleba",
       "gps_code": "WATW",
       "iata_code": "LWE",
-      "coordinates": "-8.36119, 123.43879"
+      "coordinates": "-8.361805, 123.438554"
     },
     {
       "ident": "WAVV",
@@ -7125,7 +7125,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-SU",
-      "municipality": "Medan",
+      "municipality": "Beringin",
       "gps_code": "WIMM",
       "iata_code": "KNO",
       "coordinates": "3.637847, 98.870566"
@@ -7441,12 +7441,12 @@
     {
       "ident": "WIPY",
       "type": "small_airport",
-      "name": "Bentayan Airport",
+      "name": "Atung Bungsu Airport",
       "elevation_ft": 40.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-SS",
-      "municipality": "Bentayan-Sumatra Island",
+      "municipality": "Bentayan",
       "gps_code": "WIPY",
       "iata_code": "PXA",
       "coordinates": "-4.0225, 103.379167"

@@ -1,14 +1,14 @@
 {
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "total_airports": 1542,
-  "last_updated": "2025-03-15T00:08:15.997602",
+  "total_airports": 1548,
+  "last_updated": "2025-03-16T00:09:13.599598",
   "types_distribution": {
     "closed": 352,
-    "small_airport": 964,
+    "small_airport": 965,
     "large_airport": 9,
     "medium_airport": 80,
-    "heliport": 131,
+    "heliport": 136,
     "balloonport": 2,
     "seaplane_base": 4
   },
@@ -16290,6 +16290,62 @@
       "iso_country": "GB",
       "iso_region": "GB-SCT",
       "coordinates": "55.774133, -3.937385"
+    },
+    {
+      "ident": "GB-1302",
+      "type": "heliport",
+      "name": "Holyrood Palace temp landing site",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.952523, -3.16835"
+    },
+    {
+      "ident": "GB-1303",
+      "type": "heliport",
+      "name": "Fettes Police HQ",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.961107, -3.226444"
+    },
+    {
+      "ident": "GB-1304",
+      "type": "heliport",
+      "name": "Cringletie House Hotel",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.688258, -3.219197"
+    },
+    {
+      "ident": "GB-1305",
+      "type": "heliport",
+      "name": "Cumbrae Helipad",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.746395, -4.939486"
+    },
+    {
+      "ident": "GB-1306",
+      "type": "heliport",
+      "name": "Mid Argyll Hospital Heliport",
+      "elevation_ft": 199.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "municipality": "Lochgilphead, Argyll and Bute",
+      "coordinates": "56.040076, -5.420863"
+    },
+    {
+      "ident": "GB-1307",
+      "type": "small_airport",
+      "name": "Polmont",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.980548, -3.694702"
     },
     {
       "ident": "GB-DOC",

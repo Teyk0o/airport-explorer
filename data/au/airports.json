@@ -1,11 +1,11 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2718,
-  "last_updated": "2025-03-15T00:08:15.948764",
+  "total_airports": 2724,
+  "last_updated": "2025-03-16T00:09:13.550744",
   "types_distribution": {
-    "small_airport": 2046,
-    "closed": 85,
+    "small_airport": 2050,
+    "closed": 87,
     "heliport": 392,
     "seaplane_base": 4,
     "medium_airport": 185,
@@ -4517,12 +4517,12 @@
     {
       "ident": "AU-0420",
       "type": "small_airport",
-      "name": "2480 Mandalay-Purnanga-Glendara Rd airstrip",
+      "name": "Glendara Road Airstrip",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
       "municipality": "Wilcannia",
-      "coordinates": "-30.584736, 143.347616"
+      "coordinates": "-30.584612, 143.347566"
     },
     {
       "ident": "AU-0421",
@@ -7935,6 +7935,70 @@
       "iso_region": "AU-WA",
       "municipality": "Bullabulling",
       "coordinates": "-30.97532, 121.08068"
+    },
+    {
+      "ident": "AU-0744",
+      "type": "small_airport",
+      "name": "Anna Plains South Airstrip",
+      "elevation_ft": 118.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Eighty Mile Beach",
+      "coordinates": "-19.58073, 121.32916"
+    },
+    {
+      "ident": "AU-0745",
+      "type": "small_airport",
+      "name": "Rodds Bay Airstrip",
+      "elevation_ft": 180.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Rodds Bay",
+      "coordinates": "-24.09255, 151.63112"
+    },
+    {
+      "ident": "AU-0746",
+      "type": "closed",
+      "name": "Former Nyapari Airstrip",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Nyapari",
+      "coordinates": "-26.178525, 130.2192"
+    },
+    {
+      "ident": "AU-0747",
+      "type": "closed",
+      "name": "Kalka Airstrip",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Kalka",
+      "coordinates": "-26.10849, 129.15351"
+    },
+    {
+      "ident": "AU-0748",
+      "type": "small_airport",
+      "name": "Oakden Hills Airstrip",
+      "elevation_ft": 308.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Oakden Hills",
+      "coordinates": "-31.66598, 137.0361"
+    },
+    {
+      "ident": "AU-0749",
+      "type": "small_airport",
+      "name": "Mahanewo Road Airstrip",
+      "elevation_ft": 318.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Oakden Hills",
+      "coordinates": "-31.66526, 137.05512"
     },
     {
       "ident": "AU-AGW",
@@ -18661,6 +18725,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NT",
+      "municipality": "Baines",
       "gps_code": "YLGU",
       "coordinates": "-15.215372, 129.448629"
     },
@@ -22275,12 +22340,13 @@
     {
       "ident": "YNYP",
       "type": "small_airport",
-      "name": "Nypari Airport",
+      "name": "Nyapari Airport",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-SA",
+      "municipality": "Nyapari",
       "gps_code": "YNYP",
-      "coordinates": "-26.200000762939453, 130.23300170898438"
+      "coordinates": "-26.187955, 130.192291"
     },
     {
       "ident": "YOAD",

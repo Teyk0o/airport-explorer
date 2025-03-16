@@ -1,13 +1,13 @@
 {
   "country_code": "EE",
   "country_name": "Estonia",
-  "total_airports": 60,
-  "last_updated": "2025-03-15T00:08:16.214348",
+  "total_airports": 61,
+  "last_updated": "2025-03-16T00:09:13.817248",
   "types_distribution": {
     "closed": 16,
     "seaplane_base": 1,
     "small_airport": 28,
-    "heliport": 9,
+    "heliport": 10,
     "medium_airport": 5,
     "large_airport": 1
   },
@@ -316,6 +316,7 @@
       "iso_region": "EE-37",
       "municipality": "Tallinn",
       "gps_code": "EECL",
+      "iata_code": "CHE",
       "coordinates": "59.448015, 24.753313"
     },
     {
@@ -435,7 +436,7 @@
       "iso_region": "EE-67",
       "municipality": "Saareküla",
       "gps_code": "EEKU",
-      "coordinates": "58.1483, 24.002501"
+      "coordinates": "58.148039, 23.998523"
     },
     {
       "ident": "EELM",
@@ -553,7 +554,7 @@
       "iso_region": "EE-82",
       "municipality": "Riidaja",
       "gps_code": "EERD",
-      "coordinates": "58.085278, 25.898889"
+      "coordinates": "58.08457, 25.89877"
     },
     {
       "ident": "EERI",
@@ -565,7 +566,7 @@
       "iso_region": "EE-65",
       "municipality": "Suurküla",
       "gps_code": "EERI",
-      "coordinates": "57.9399986267, 26.9790000916"
+      "coordinates": "57.939999, 26.979"
     },
     {
       "ident": "EERU",
@@ -577,7 +578,7 @@
       "iso_region": "EE-74",
       "municipality": "Ringsu",
       "gps_code": "EERU",
-      "coordinates": "57.783901, 23.2661"
+      "coordinates": "57.78559, 23.262377"
     },
     {
       "ident": "EESE",
@@ -589,7 +590,7 @@
       "iso_region": "EE-74",
       "municipality": "Salme",
       "gps_code": "EESE",
-      "coordinates": "58.1319444, 22.2583333"
+      "coordinates": "58.131944, 22.258333"
     },
     {
       "ident": "EESI",
@@ -667,12 +668,25 @@
       "ident": "EEVO",
       "type": "small_airport",
       "name": "Vormsi Airfield",
+      "elevation_ft": 23.0,
       "continent": "EU",
       "iso_country": "EE",
       "iso_region": "EE-57",
       "municipality": "Vormsi Island",
       "gps_code": "EEVO",
-      "coordinates": "58.98516, 23.251372"
+      "coordinates": "58.985169, 23.252056"
+    },
+    {
+      "ident": "EEVP",
+      "type": "heliport",
+      "name": "Vihterpalu Manor Heliport",
+      "elevation_ft": 30.0,
+      "continent": "EU",
+      "iso_country": "EE",
+      "iso_region": "EE-37",
+      "municipality": "Vihterpalu",
+      "gps_code": "EEVP",
+      "coordinates": "59.263571, 23.875469"
     },
     {
       "ident": "EEVU",

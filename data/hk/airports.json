@@ -1,11 +1,11 @@
 {
   "country_code": "HK",
   "country_name": "Hong Kong",
-  "total_airports": 103,
-  "last_updated": "2025-03-15T00:08:16.274368",
+  "total_airports": 104,
+  "last_updated": "2025-03-16T00:09:13.877957",
   "types_distribution": {
     "closed": 7,
-    "heliport": 94,
+    "heliport": 95,
     "large_airport": 1,
     "medium_airport": 1
   },
@@ -1025,6 +1025,17 @@
       "iso_region": "HK-KLN",
       "municipality": "Kowloon City",
       "coordinates": "22.320304, 114.198074"
+    },
+    {
+      "ident": "HK-0100",
+      "type": "heliport",
+      "name": "Cheung Lek Mei Heliport",
+      "elevation_ft": 1066.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Tai Po",
+      "coordinates": "22.41249, 114.1865"
     },
     {
       "ident": "HK07",

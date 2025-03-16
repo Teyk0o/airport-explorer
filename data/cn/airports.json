@@ -1,13 +1,13 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 716,
-  "last_updated": "2025-03-15T00:08:15.940009",
+  "total_airports": 718,
+  "last_updated": "2025-03-16T00:09:13.541721",
   "types_distribution": {
     "small_airport": 241,
     "medium_airport": 274,
     "closed": 57,
-    "heliport": 100,
+    "heliport": 102,
     "seaplane_base": 3,
     "balloonport": 2,
     "large_airport": 39
@@ -4470,6 +4470,26 @@
       "municipality": "Jining",
       "local_code": "ZLJN",
       "coordinates": "35.292778, 116.346667"
+    },
+    {
+      "ident": "CN-0447",
+      "type": "heliport",
+      "name": "China Mobile Building Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen",
+      "coordinates": "22.54393, 114.05872"
+    },
+    {
+      "ident": "CN-0448",
+      "type": "heliport",
+      "name": "Allianz Tower Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen",
+      "coordinates": "22.545155, 114.058551"
     },
     {
       "ident": "CN-JNZ",
