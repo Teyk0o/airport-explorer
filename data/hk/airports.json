@@ -1,11 +1,11 @@
 {
   "country_code": "HK",
   "country_name": "Hong Kong",
-  "total_airports": 104,
-  "last_updated": "2025-03-16T00:09:13.877957",
+  "total_airports": 126,
+  "last_updated": "2025-03-17T00:09:07.802766",
   "types_distribution": {
-    "closed": 7,
-    "heliport": 95,
+    "closed": 8,
+    "heliport": 116,
     "large_airport": 1,
     "medium_airport": 1
   },
@@ -44,6 +44,7 @@
       "ident": "HK-0004",
       "type": "heliport",
       "name": "Ping Chau Helipad",
+      "elevation_ft": 118.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
@@ -53,12 +54,14 @@
     {
       "ident": "HK-0005",
       "type": "heliport",
-      "name": "Cheung Chau Helipad",
+      "name": "Cheung Chau Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.207958, 114.033526"
+      "local_code": "CC04",
+      "coordinates": "22.207961, 114.033558"
     },
     {
       "ident": "HK-0006",
@@ -74,11 +77,13 @@
     {
       "ident": "HK-0007",
       "type": "heliport",
-      "name": "Stanley Helipad",
+      "name": "Hong Kong Sea School Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-HK",
       "municipality": "Southern",
+      "local_code": "HK15",
       "coordinates": "22.219076, 114.215286"
     },
     {
@@ -154,22 +159,26 @@
     {
       "ident": "HK-0015",
       "type": "heliport",
-      "name": "Black Point Helipad",
+      "name": "Black Point Radar Station Heliport",
+      "elevation_ft": 404.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.406496, 113.906604"
+      "local_code": "CP02",
+      "coordinates": "22.406562, 113.906441"
     },
     {
       "ident": "HK-0016",
       "type": "heliport",
       "name": "Castle Peak Power Station Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.378437, 113.91729"
+      "local_code": "CP08",
+      "coordinates": "22.378441, 113.917262"
     },
     {
       "ident": "HK-0017",
@@ -264,42 +273,50 @@
     {
       "ident": "HK-0026",
       "type": "heliport",
-      "name": "Peng Chau Helipad",
+      "name": "Peng Chau North Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "HK01",
       "coordinates": "22.290228, 114.036466"
     },
     {
       "ident": "HK-0027",
       "type": "heliport",
-      "name": "Discovery Bay Marina Heliport",
+      "name": "Discovery Bay Heliport",
+      "elevation_ft": 13.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "LT17",
       "coordinates": "22.29215, 114.02367"
     },
     {
       "ident": "HK-0028",
       "type": "heliport",
-      "name": "Hei Ling Chau/Nei Kwu Heliport",
+      "name": "Hei Ling Chau Heliport",
+      "elevation_ft": 272.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "CC03",
       "coordinates": "22.248, 114.04213"
     },
     {
       "ident": "HK-0029",
       "type": "heliport",
-      "name": "Hei Ling Chau/Lai Sun Heliport",
+      "name": "Hei Ling Chau Addiction Treatment Centre Heliport",
+      "elevation_ft": 239.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.256144, 114.030672"
+      "local_code": "CC05",
+      "coordinates": "22.256247, 114.03066"
     },
     {
       "ident": "HK-0030",
@@ -324,32 +341,38 @@
     {
       "ident": "HK-0032",
       "type": "heliport",
-      "name": "Lamma Island/Yung Shue Wan Helipad",
+      "name": "Lamma Yung Shue Wan Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.224873, 114.10873"
+      "local_code": "HK02",
+      "coordinates": "22.224869, 114.10869"
     },
     {
       "ident": "HK-0033",
       "type": "heliport",
-      "name": "Lamma Power Station Helipad",
+      "name": "Lamma Power Station Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "HK05",
       "coordinates": "22.219311, 114.103827"
     },
     {
       "ident": "HK-0034",
       "type": "heliport",
-      "name": "Lamma Island/Mo Tat Helipad",
+      "name": "Lamma Mo Tat Heliport",
+      "elevation_ft": 72.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.202177, 114.146318"
+      "local_code": "HK04",
+      "coordinates": "22.202265, 114.146239"
     },
     {
       "ident": "HK-0035",
@@ -384,41 +407,47 @@
     {
       "ident": "HK-0038",
       "type": "heliport",
-      "name": "Nam Long Shan (Brick Hill) Helipad",
+      "name": "Nam Long Shan (Brick Hill) Heliport",
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-HK",
-      "municipality": "Southern",
-      "coordinates": "22.24053, 114.1731"
+      "municipality": "Southern District",
+      "local_code": "HK21",
+      "coordinates": "22.240588, 114.173145"
     },
     {
       "ident": "HK-0039",
       "type": "heliport",
-      "name": "Pui To Shan (Castle Peak) Helipad",
+      "name": "Castle Peak Transmitters Heliport",
+      "elevation_ft": 1759.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
+      "local_code": "CP03",
       "coordinates": "22.38947, 113.95305"
     },
     {
       "ident": "HK-0040",
       "type": "heliport",
-      "name": "Kau Keng Shan Helipad",
+      "name": "Kai Keng Shan Helipad",
+      "elevation_ft": 1608.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.38884, 113.99524"
+      "coordinates": "22.388736, 113.99522"
     },
     {
       "ident": "HK-0041",
       "type": "heliport",
-      "name": "Fei Ngo Shan (Kowloon Peak) Helipad",
+      "name": "Kowloon Peak Heliport",
+      "elevation_ft": 1929.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Wong Tai Sin",
+      "local_code": "KL08",
       "coordinates": "22.34098, 114.22318"
     },
     {
@@ -480,7 +509,7 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "local_code": "MWO",
+      "local_code": "LT16",
       "coordinates": "22.2608, 114.00622"
     },
     {
@@ -534,104 +563,28 @@
       "coordinates": "22.43938, 114.18048"
     },
     {
-      "ident": "HK-0053",
-      "type": "heliport",
-      "name": "Island Resort Tower 1 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.26666, 114.25025"
-    },
-    {
-      "ident": "HK-0054",
-      "type": "heliport",
-      "name": "Island Resort Tower 2 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.266425, 114.249995"
-    },
-    {
-      "ident": "HK-0055",
-      "type": "heliport",
-      "name": "Island Resort Tower 3 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.26556, 114.25131"
-    },
-    {
-      "ident": "HK-0056",
-      "type": "heliport",
-      "name": "Island Resort Tower 5 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.265776, 114.251521"
-    },
-    {
-      "ident": "HK-0057",
-      "type": "heliport",
-      "name": "Island Resort Tower 6 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.266113, 114.251632"
-    },
-    {
-      "ident": "HK-0058",
-      "type": "heliport",
-      "name": "Island Resort Tower 7 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.26632, 114.251371"
-    },
-    {
-      "ident": "HK-0059",
-      "type": "heliport",
-      "name": "Island Resort Tower 8 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.266647, 114.251022"
-    },
-    {
-      "ident": "HK-0060",
-      "type": "heliport",
-      "name": "Island Resort Tower 9 Helipad",
-      "continent": "AS",
-      "iso_country": "HK",
-      "iso_region": "HK-HK",
-      "municipality": "Eastern",
-      "coordinates": "22.266887, 114.250733"
-    },
-    {
       "ident": "HK-0061",
       "type": "heliport",
-      "name": "Sha Chau Helipad",
+      "name": "Sha Chau Approach Surveillance Radar Station Heliport",
+      "elevation_ft": 115.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.345611, 113.889741"
+      "local_code": "LT28",
+      "coordinates": "22.345667, 113.889775"
     },
     {
       "ident": "HK-0062",
       "type": "heliport",
-      "name": "Shek Kwu Chau Helipad",
+      "name": "Shek Kwu Chau Doctors House Heliport",
+      "elevation_ft": 95.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.194483, 113.993546"
+      "local_code": "CC02",
+      "coordinates": "22.194421, 113.993517"
     },
     {
       "ident": "HK-0063",
@@ -652,17 +605,20 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "LT06",
       "coordinates": "22.222866, 113.908728"
     },
     {
       "ident": "HK-0065",
       "type": "heliport",
-      "name": "Tung Lung Chau Helipad",
+      "name": "Tung Lung Island Upper Heliport",
+      "elevation_ft": 764.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
-      "coordinates": "22.248285, 114.29208"
+      "local_code": "HK19",
+      "coordinates": "22.248222, 114.291921"
     },
     {
       "ident": "HK-0066",
@@ -717,11 +673,13 @@
     {
       "ident": "HK-0071",
       "type": "heliport",
-      "name": "Tai A Chau Number 1 Helipad",
+      "name": "Soko Islands Heliport",
+      "elevation_ft": 144.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "LT08",
       "coordinates": "22.16357, 113.91086"
     },
     {
@@ -768,34 +726,37 @@
     {
       "ident": "HK-0076",
       "type": "heliport",
-      "name": "Northwest Tsing Yi Interchange Helipad",
+      "name": "Tsing Yi West Heliport",
       "elevation_ft": 184.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Kwai Tsing",
+      "local_code": "KL20",
       "coordinates": "22.35282, 114.08419"
     },
     {
       "ident": "HK-0077",
       "type": "heliport",
-      "name": "Chi Ma Wan Heliport",
+      "name": "Chi Ma Wan Prison Heliport",
       "elevation_ft": 243.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "LT14",
       "coordinates": "22.23393, 114.0011"
     },
     {
       "ident": "HK-0078",
       "type": "heliport",
-      "name": "Sea Ranch Heliport",
+      "name": "Sea Ranch Lantau Heliport",
       "elevation_ft": 131.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
+      "local_code": "LT13",
       "coordinates": "22.21343, 113.98862"
     },
     {
@@ -843,13 +804,14 @@
     {
       "ident": "HK-0083",
       "type": "heliport",
-      "name": "Kau Yi Chau Helipad",
+      "name": "Kau Yi Chau Radar Station Heliport",
       "elevation_ft": 348.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.284033, 114.076179"
+      "local_code": "HK13",
+      "coordinates": "22.283669, 114.075829"
     },
     {
       "ident": "HK-0084",
@@ -888,7 +850,8 @@
     {
       "ident": "HK-0087",
       "type": "heliport",
-      "name": "Tai Chuen Helipad",
+      "name": "East Lantau Radar Station Heliport",
+      "elevation_ft": 620.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
@@ -1000,19 +963,25 @@
     {
       "ident": "HK-0097",
       "type": "heliport",
-      "name": "Sok Kwu Wan Playground Helipad",
+      "name": "Lamma Sok Kwu Wan Emergency Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "HK03",
       "coordinates": "22.206218, 114.132499"
     },
     {
       "ident": "HK-0098",
       "type": "heliport",
       "name": "Peng Chau Mini Soccer Pitch Helipad",
+      "elevation_ft": 66.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "HK01A",
       "coordinates": "22.288128, 114.03873"
     },
     {
@@ -1038,16 +1007,369 @@
       "coordinates": "22.41249, 114.1865"
     },
     {
+      "ident": "HK-0101",
+      "type": "heliport",
+      "name": "Tai Shek Mo Heliport",
+      "elevation_ft": 568.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "North District",
+      "coordinates": "22.52282, 114.10725"
+    },
+    {
+      "ident": "HK-0102",
+      "type": "heliport",
+      "name": "Wo Hop Shek Cemetery Heliport",
+      "elevation_ft": 1102.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Fanling",
+      "coordinates": "22.47148, 114.13605"
+    },
+    {
+      "ident": "HK-0103",
+      "type": "closed",
+      "name": "Shek Kong Village Heliport",
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Tai Lam",
+      "coordinates": "22.42769, 114.10826"
+    },
+    {
+      "ident": "HK-0104",
+      "type": "heliport",
+      "name": "Kau Tung Heliport",
+      "elevation_ft": 220.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Sai Kung",
+      "coordinates": "22.35605, 114.32358"
+    },
+    {
+      "ident": "HK-0105",
+      "type": "heliport",
+      "name": "Mai Po Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Yuen Long",
+      "coordinates": "22.48224, 114.03248"
+    },
+    {
+      "ident": "HK-0106",
+      "type": "heliport",
+      "name": "Pak Hok Chau Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Yuen Long",
+      "coordinates": "22.49612, 114.04836"
+    },
+    {
+      "ident": "HK-0107",
+      "type": "heliport",
+      "name": "Lok Ma Chau Heliport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Yuen Long",
+      "local_code": "P02",
+      "coordinates": "22.511474, 114.073745"
+    },
+    {
+      "ident": "HK-0108",
+      "type": "heliport",
+      "name": "San Wai/Tai Ling Ranges Emergency Heliport",
+      "elevation_ft": 125.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "North District",
+      "coordinates": "22.51053, 114.14183"
+    },
+    {
+      "ident": "HK-0109",
+      "type": "heliport",
+      "name": "Tai Mo To (West Brother) Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Tuen Mun",
+      "local_code": "LT37",
+      "coordinates": "22.33003, 113.96767"
+    },
+    {
+      "ident": "HK-0110",
+      "type": "heliport",
+      "name": "Siu Mo To (East Brother) Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Tuen Mun",
+      "local_code": "LT31",
+      "coordinates": "22.33826, 113.98195"
+    },
+    {
+      "ident": "HK-0111",
+      "type": "heliport",
+      "name": "Lamma Transmitting Station Heliport",
+      "elevation_ft": 761.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "HK06",
+      "coordinates": "22.20539, 114.13867"
+    },
+    {
+      "ident": "HK-0112",
+      "type": "heliport",
+      "name": "Hong Kong Police College Alternate Helipad",
+      "elevation_ft": 30.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-HK",
+      "municipality": "Southern District",
+      "local_code": "HK09A",
+      "coordinates": "22.24745, 114.173"
+    },
+    {
+      "ident": "HK-0113",
+      "type": "heliport",
+      "name": "Stanley Village School Emergency Heliport",
+      "elevation_ft": 52.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-HK",
+      "municipality": "Southern District",
+      "local_code": "HK10",
+      "coordinates": "22.21548, 114.21455"
+    },
+    {
+      "ident": "HK-0114",
+      "type": "heliport",
+      "name": "Stanley Fort Emergency Heliport",
+      "elevation_ft": 381.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-HK",
+      "municipality": "Southern District",
+      "local_code": "HK11",
+      "coordinates": "22.20049, 114.21782"
+    },
+    {
+      "ident": "HK-0115",
+      "type": "heliport",
+      "name": "Stanley Prison Emergency Heliport",
+      "elevation_ft": 72.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-HK",
+      "municipality": "Southern District",
+      "local_code": "HK12",
+      "coordinates": "22.21053, 114.21853"
+    },
+    {
+      "ident": "HK-0116",
+      "type": "heliport",
+      "name": "Cape Collinson Prison Heliport",
+      "elevation_ft": 112.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-HK",
+      "municipality": "Eastern District",
+      "local_code": "HK18",
+      "coordinates": "22.24935, 114.25364"
+    },
+    {
+      "ident": "HK-0117",
+      "type": "heliport",
+      "name": "Ngong Shuen Barracks Depot Emergency Heliport",
+      "elevation_ft": 26.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-KLN",
+      "municipality": "Sham Shui Po",
+      "local_code": "KL05",
+      "coordinates": "22.321029, 114.140817"
+    },
+    {
+      "ident": "HK-0118",
+      "type": "heliport",
+      "name": "PLA Base Ngong Shuen Chau Heliport",
+      "elevation_ft": 26.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-KLN",
+      "municipality": "Sham Shui Po",
+      "local_code": "KL11",
+      "coordinates": "22.31912, 114.13497"
+    },
+    {
+      "ident": "HK-0119",
+      "type": "heliport",
+      "name": "Hong Kong Police Sports and Recreation Club Boundary Street Emergency Heliport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-KLN",
+      "municipality": "Sham Shui Po",
+      "local_code": "KL16",
+      "coordinates": "22.32714, 114.16976"
+    },
+    {
+      "ident": "HK-0120",
+      "type": "heliport",
+      "name": "Shek Kwu Chau Radar Station Heliport",
+      "elevation_ft": 512.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "CC01",
+      "coordinates": "22.19702, 113.98707"
+    },
+    {
+      "ident": "HK-0121",
+      "type": "heliport",
+      "name": "Cheung Chau Stadium Emergency Heliport",
+      "elevation_ft": 75.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "CC06",
+      "coordinates": "22.20631, 114.03315"
+    },
+    {
+      "ident": "HK-0122",
+      "type": "heliport",
+      "name": "Hill 275 Heliport",
+      "elevation_ft": 892.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT23",
+      "coordinates": "22.24976, 113.98971"
+    },
+    {
+      "ident": "HK-0123",
+      "type": "heliport",
+      "name": "Clear Water Bay and Country Club Emergency Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Sai Kung",
+      "local_code": "HK25",
+      "coordinates": "22.26986, 114.30402"
+    },
+    {
+      "ident": "HK-0124",
+      "type": "heliport",
+      "name": "Soko Football Pitch Emergency Heliport",
+      "elevation_ft": 10.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT08A",
+      "coordinates": "22.16613, 113.91276"
+    },
+    {
+      "ident": "HK-0125",
+      "type": "heliport",
+      "name": "Yim Tin Pok Playground Emergency Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT03",
+      "coordinates": "22.25138, 113.86373"
+    },
+    {
+      "ident": "HK-0126",
+      "type": "heliport",
+      "name": "Sha Lo Wan Emergency Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT05",
+      "coordinates": "22.28937, 113.90243"
+    },
+    {
+      "ident": "HK-0127",
+      "type": "heliport",
+      "name": "Tung Chung Bay Emergency Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT10",
+      "coordinates": "22.2802, 113.93057"
+    },
+    {
+      "ident": "HK-0128",
+      "type": "heliport",
+      "name": "Luk Tei Heliport",
+      "elevation_ft": 528.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT12",
+      "coordinates": "22.25783, 113.98398"
+    },
+    {
+      "ident": "HK-0129",
+      "type": "heliport",
+      "name": "Pui O Emergency Heliport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Islands",
+      "local_code": "LT19",
+      "coordinates": "22.24132, 113.97744"
+    },
+    {
+      "ident": "HK-0130",
+      "type": "heliport",
+      "name": "Sha Chau Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "HK",
+      "iso_region": "HK-NT",
+      "municipality": "Tuen Mun",
+      "local_code": "LT34",
+      "coordinates": "22.34587, 113.89249"
+    },
+    {
       "ident": "HK07",
       "type": "heliport",
-      "name": "HKGFS New Wan Chai Heliport",
+      "name": "HKGFS  Wan Chai Heliport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "HK",
       "iso_region": "HK-HK",
       "municipality": "Wan Chai",
       "gps_code": "HK07",
       "local_code": "HK07",
-      "coordinates": "22.285086, 114.174289"
+      "coordinates": "22.285045, 114.174277"
     },
     {
       "ident": "VHHH",

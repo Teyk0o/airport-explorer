@@ -1,11 +1,11 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 835,
-  "last_updated": "2025-03-16T00:09:13.757635",
+  "total_airports": 837,
+  "last_updated": "2025-03-17T00:09:07.682000",
   "types_distribution": {
     "small_airport": 199,
-    "heliport": 406,
+    "heliport": 408,
     "closed": 166,
     "seaplane_base": 6,
     "medium_airport": 54,
@@ -7605,6 +7605,26 @@
       "iso_region": "PH-ZMC",
       "municipality": "Zamboanga",
       "coordinates": "6.94063, 121.99108"
+    },
+    {
+      "ident": "PH-0727",
+      "type": "heliport",
+      "name": "Primex Tower Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "San Juan",
+      "coordinates": "14.60177, 121.0587"
+    },
+    {
+      "ident": "PH-0728",
+      "type": "heliport",
+      "name": "NexGen Tower Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Pasay",
+      "coordinates": "14.53525, 120.98699"
     },
     {
       "ident": "PRNO",

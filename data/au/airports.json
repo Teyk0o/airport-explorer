@@ -1,10 +1,10 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2724,
-  "last_updated": "2025-03-16T00:09:13.550744",
+  "total_airports": 2725,
+  "last_updated": "2025-03-17T00:09:07.476243",
   "types_distribution": {
-    "small_airport": 2050,
+    "small_airport": 2051,
     "closed": 87,
     "heliport": 392,
     "seaplane_base": 4,
@@ -7999,6 +7999,17 @@
       "iso_region": "AU-SA",
       "municipality": "Oakden Hills",
       "coordinates": "-31.66526, 137.05512"
+    },
+    {
+      "ident": "AU-0750",
+      "type": "small_airport",
+      "name": "Collins Island Airfield",
+      "elevation_ft": 30.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Stanage",
+      "coordinates": "-22.23913, 150.30179"
     },
     {
       "ident": "AU-AGW",
@@ -28068,7 +28079,7 @@
       "iso_region": "AU-NSW",
       "municipality": "Wentworth",
       "gps_code": "YWTO",
-      "coordinates": "-34.088299, 141.891998"
+      "coordinates": "-34.086196, 141.891114"
     },
     {
       "ident": "YWTV",

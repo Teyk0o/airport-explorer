@@ -1,13 +1,13 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 718,
-  "last_updated": "2025-03-16T00:09:13.541721",
+  "total_airports": 723,
+  "last_updated": "2025-03-17T00:09:07.467185",
   "types_distribution": {
     "small_airport": 241,
     "medium_airport": 274,
     "closed": 57,
-    "heliport": 102,
+    "heliport": 107,
     "seaplane_base": 3,
     "balloonport": 2,
     "large_airport": 39
@@ -1067,7 +1067,7 @@
       "iso_country": "CN",
       "iso_region": "CN-44",
       "municipality": "Shenzhen (Longgang)",
-      "coordinates": "22.59417, 114.5378"
+      "coordinates": "22.594102, 114.53767"
     },
     {
       "ident": "CN-0114",
@@ -1117,7 +1117,7 @@
       "iso_country": "CN",
       "iso_region": "CN-44",
       "municipality": "Shenzhen (Longgang)",
-      "coordinates": "22.61466, 114.37446"
+      "coordinates": "22.614662, 114.374472"
     },
     {
       "ident": "CN-0119",
@@ -2923,7 +2923,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
-      "municipality": "Shenzhen",
+      "municipality": "Shenzhen (Longgang)",
       "coordinates": "22.61392, 114.37731"
     },
     {
@@ -4478,7 +4478,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
-      "municipality": "Shenzhen",
+      "municipality": "Shenzhen (Futian)",
       "coordinates": "22.54393, 114.05872"
     },
     {
@@ -4488,8 +4488,60 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
-      "municipality": "Shenzhen",
+      "municipality": "Shenzhen (Futian)",
       "coordinates": "22.545155, 114.058551"
+    },
+    {
+      "ident": "CN-0449",
+      "type": "heliport",
+      "name": "Wailingding Heliport",
+      "elevation_ft": 243.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Xiangzhou, Zhuhai",
+      "coordinates": "22.09541, 114.04812"
+    },
+    {
+      "ident": "CN-0450",
+      "type": "heliport",
+      "name": "Qixingwan Heliport",
+      "elevation_ft": 49.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Longgang)",
+      "coordinates": "22.56597, 114.5319"
+    },
+    {
+      "ident": "CN-0451",
+      "type": "heliport",
+      "name": "Union Plaza Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53236, 114.06379"
+    },
+    {
+      "ident": "CN-0452",
+      "type": "heliport",
+      "name": "Excellence Century Plaza Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53489, 114.05887"
+    },
+    {
+      "ident": "CN-0453",
+      "type": "heliport",
+      "name": "Fortune Tower Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53604, 114.05881"
     },
     {
       "ident": "CN-JNZ",
@@ -5375,13 +5427,14 @@
     {
       "ident": "ZGNT",
       "type": "heliport",
-      "name": "Shenzhen Nantou Heliport & runway",
+      "name": "Shenzhen Nantou Heliport",
+      "elevation_ft": 82.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
       "municipality": "Shenzhen (Nanshan)",
       "gps_code": "ZGNT",
-      "coordinates": "22.558736, 113.925612"
+      "coordinates": "22.558993, 113.924824"
     },
     {
       "ident": "ZGOW",

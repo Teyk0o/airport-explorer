@@ -1,15 +1,15 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 96,
-  "last_updated": "2025-03-16T00:09:13.881359",
+  "total_airports": 91,
+  "last_updated": "2025-03-17T00:09:07.806433",
   "types_distribution": {
-    "small_airport": 17,
+    "small_airport": 15,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
-    "medium_airport": 22,
-    "large_airport": 3
+    "medium_airport": 20,
+    "large_airport": 2
   },
   "airports": [
     {
@@ -581,35 +581,6 @@
       "coordinates": "58, 172"
     },
     {
-      "ident": "VN-0067",
-      "type": "small_airport",
-      "name": "888Bet",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-U-A",
-      "municipality": "Tân An",
-      "local_code": "2423",
-      "coordinates": "12, 12"
-    },
-    {
-      "ident": "VN-0068",
-      "type": "medium_airport",
-      "name": "kqxsstudio",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-CH",
-      "coordinates": "55, 56"
-    },
-    {
-      "ident": "VN-0069",
-      "type": "medium_airport",
-      "name": "kqxsstudio",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-NC",
-      "coordinates": "53, 178"
-    },
-    {
       "ident": "VN-0070",
       "type": "closed",
       "name": "Nha Trang Air Base",
@@ -683,24 +654,6 @@
       "iso_region": "VN-SCC",
       "municipality": "Quảng Ngãi",
       "coordinates": "15.115474, 108.771816"
-    },
-    {
-      "ident": "VN-0078",
-      "type": "small_airport",
-      "name": "Sin88",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-U-A",
-      "coordinates": "21.034977, 105.823845"
-    },
-    {
-      "ident": "VN-0079",
-      "type": "large_airport",
-      "name": "Nhà cái MI88",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-U-A",
-      "coordinates": "0.000001, 0.000001"
     },
     {
       "ident": "VV02",
