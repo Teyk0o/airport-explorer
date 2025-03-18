@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7463,
-  "last_updated": "2025-03-17T00:09:07.572968",
+  "total_airports": 7462,
+  "last_updated": "2025-03-18T00:08:12.945378",
   "types_distribution": {
     "small_airport": 5162,
     "closed": 294,
-    "heliport": 1872,
+    "heliport": 1871,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -14398,7 +14398,7 @@
       "ident": "BR-1171",
       "type": "small_airport",
       "name": "Jorge Luiz Stocco Airport",
-      "elevation_ft": 3412.0,
+      "elevation_ft": 3438.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
@@ -20530,19 +20530,6 @@
       "iso_region": "BR-BA",
       "municipality": "Santa Cruz Cabrália",
       "coordinates": "-16.1585, -38.96344"
-    },
-    {
-      "ident": "BR-1666",
-      "type": "heliport",
-      "name": "Cidade Helipad",
-      "elevation_ft": 2634.0,
-      "continent": "SA",
-      "iso_country": "BR",
-      "iso_region": "BR-SP",
-      "municipality": "São Paulo",
-      "gps_code": "SDIA",
-      "local_code": "SP0353",
-      "coordinates": "-23.545891, -46.632532"
     },
     {
       "ident": "BR-1667",
@@ -27534,7 +27521,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Santo André",
-      "local_code": "SDHK",
       "coordinates": "-23.663, -46.5078"
     },
     {
@@ -27546,7 +27532,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDHM",
       "coordinates": "-23.595577, -46.745076"
     },
     {
@@ -27558,20 +27543,20 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São José Dos Campos",
-      "local_code": "SDHS",
       "coordinates": "-23.242727, -45.932485"
     },
     {
       "ident": "BR-2264",
       "type": "heliport",
-      "name": "Itaú - Boavista Heliport",
-      "elevation_ft": 2525.0,
+      "name": "Cidade Heliport",
+      "elevation_ft": 2634.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDIA",
-      "coordinates": "-23.545833587646, -46.629722595215"
+      "gps_code": "SDIA",
+      "local_code": "SP0353",
+      "coordinates": "-23.545891, -46.632532"
     },
     {
       "ident": "BR-2265",
@@ -29225,7 +29210,6 @@
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Foz do Iguaçu",
-      "local_code": "SIFS",
       "coordinates": "-25.51133, -54.583901"
     },
     {
@@ -33719,14 +33703,13 @@
     {
       "ident": "BR-2777",
       "type": "small_airport",
-      "name": "Garimbo Tocantinzinho Airport",
+      "name": "Garimpo Tocantinzinho Airport",
       "elevation_ft": 590.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PA",
       "municipality": "Itaituba",
-      "local_code": "SNFL",
-      "coordinates": "-6.0505561828613, -56.302223205566"
+      "coordinates": "-6.062265, -56.302897"
     },
     {
       "ident": "BR-2778",
@@ -50558,7 +50541,8 @@
       "iso_region": "BR-SP",
       "municipality": "Guariba",
       "gps_code": "SDSV",
-      "coordinates": "-21.327777862548828, -48.171112060546875"
+      "local_code": "SP0145",
+      "coordinates": "-21.333695, -48.171099"
     },
     {
       "ident": "SDSW",
@@ -50863,13 +50847,14 @@
       "ident": "SDTS",
       "type": "small_airport",
       "name": "Fazenda Planalto Airport",
-      "elevation_ft": 2329.0,
+      "elevation_ft": 2238.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Jaraguari",
       "gps_code": "SDTS",
-      "coordinates": "-20.341388702392578, -54.41583251953125"
+      "local_code": "MS0055",
+      "coordinates": "-20.338452, -54.415966"
     },
     {
       "ident": "SDTT",
@@ -50887,14 +50872,15 @@
     {
       "ident": "SDTU",
       "type": "heliport",
-      "name": "Itausa Heliport",
-      "elevation_ft": 2536.0,
+      "name": "Itausa Helipad",
+      "elevation_ft": 2774.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
       "gps_code": "SDTU",
-      "coordinates": "-23.63638889, -46.64194444"
+      "local_code": "SP0428",
+      "coordinates": "-23.636332, -46.641921"
     },
     {
       "ident": "SDTV",
@@ -69979,7 +69965,7 @@
       "municipality": "São Desidério",
       "gps_code": "SDTV",
       "local_code": "BA0079",
-      "coordinates": "-12.607222, -46.239445"
+      "coordinates": "-12.607373, -46.23946"
     },
     {
       "ident": "SJOZ",

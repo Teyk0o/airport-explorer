@@ -1,14 +1,14 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 91,
-  "last_updated": "2025-03-17T00:09:07.806433",
+  "total_airports": 92,
+  "last_updated": "2025-03-18T00:08:13.181425",
   "types_distribution": {
     "small_airport": 15,
     "closed": 28,
     "heliport": 25,
     "seaplane_base": 1,
-    "medium_airport": 20,
+    "medium_airport": 21,
     "large_airport": 2
   },
   "airports": [
@@ -272,7 +272,7 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Sinh Tồn)",
-      "coordinates": "10.373477, 114.481165"
+      "coordinates": "10.373569, 114.481078"
     },
     {
       "ident": "VN-0026",
@@ -654,6 +654,17 @@
       "iso_region": "VN-SCC",
       "municipality": "Quảng Ngãi",
       "coordinates": "15.115474, 108.771816"
+    },
+    {
+      "ident": "VN-0077",
+      "type": "medium_airport",
+      "name": "69vn Nhà Cái",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-SE",
+      "municipality": "Ho Chi Minh City",
+      "local_code": "VN23",
+      "coordinates": "0.000006, -0.000006"
     },
     {
       "ident": "VV02",

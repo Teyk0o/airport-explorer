@@ -1,13 +1,13 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 723,
-  "last_updated": "2025-03-17T00:09:07.467185",
+  "total_airports": 734,
+  "last_updated": "2025-03-18T00:08:12.838168",
   "types_distribution": {
-    "small_airport": 241,
+    "small_airport": 238,
     "medium_airport": 274,
-    "closed": 57,
-    "heliport": 107,
+    "closed": 58,
+    "heliport": 120,
     "seaplane_base": 3,
     "balloonport": 2,
     "large_airport": 39
@@ -135,12 +135,13 @@
       "ident": "CN-0010",
       "type": "small_airport",
       "name": "Zhuhai Jiuzhou Airport",
+      "elevation_ft": 3.0,
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
       "municipality": "Zhuhai (Xiangzhou)",
       "local_code": "A97",
-      "coordinates": "22.25211, 113.59031"
+      "coordinates": "22.252075, 113.590229"
     },
     {
       "ident": "CN-0011",
@@ -2901,7 +2902,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
-      "municipality": "Zhuhai",
+      "municipality": "Zhuhai (Doumen)",
       "coordinates": "22.33594, 113.18911"
     },
     {
@@ -3207,7 +3208,7 @@
       "iso_country": "CN",
       "iso_region": "CN-46",
       "municipality": "Sansha (Huayang Jiao / Cuarteron Reef)",
-      "coordinates": "8.864252, 112.83202"
+      "coordinates": "8.864276, 112.831933"
     },
     {
       "ident": "CN-0320",
@@ -4015,7 +4016,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
-      "municipality": "Zhuhai",
+      "municipality": "Zhuhai (Xiangzhou)",
       "coordinates": "22.25068, 113.59634"
     },
     {
@@ -4050,10 +4051,11 @@
     {
       "ident": "CN-0406",
       "type": "balloonport",
-      "name": "Balloon Launch Facility",
+      "name": "Hele Balloon Launch Facility",
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-46",
+      "municipality": "Wanning (Hele)",
       "coordinates": "18.939119, 110.473006"
     },
     {
@@ -4074,24 +4076,6 @@
       "iso_region": "CN-65",
       "municipality": "Yining City",
       "coordinates": "43.922187, 81.355219"
-    },
-    {
-      "ident": "CN-0409",
-      "type": "small_airport",
-      "name": "Triton Island",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-U-A",
-      "coordinates": "15.783767, 111.200759"
-    },
-    {
-      "ident": "CN-0411",
-      "type": "small_airport",
-      "name": "Xinjiang",
-      "continent": "AS",
-      "iso_country": "CN",
-      "iso_region": "CN-U-A",
-      "coordinates": "41.214308, 91.525848"
     },
     {
       "ident": "CN-0412",
@@ -4240,12 +4224,14 @@
     },
     {
       "ident": "CN-0425",
-      "type": "small_airport",
-      "name": "Xinjiang",
+      "type": "closed",
+      "name": "Ruoqiang Target Airfield",
+      "elevation_ft": 3080.0,
       "continent": "AS",
       "iso_country": "CN",
-      "iso_region": "CN-U-A",
-      "coordinates": "39.151478, 88.608624"
+      "iso_region": "CN-65",
+      "municipality": "Bayingolin (Ruoqiang)",
+      "coordinates": "39.15203, 88.606512"
     },
     {
       "ident": "CN-0426",
@@ -4499,7 +4485,7 @@
       "continent": "AS",
       "iso_country": "CN",
       "iso_region": "CN-44",
-      "municipality": "Xiangzhou, Zhuhai",
+      "municipality": "Zhuhai (Xiangzhou)",
       "coordinates": "22.09541, 114.04812"
     },
     {
@@ -4542,6 +4528,141 @@
       "iso_region": "CN-44",
       "municipality": "Shenzhen (Futian)",
       "coordinates": "22.53604, 114.05881"
+    },
+    {
+      "ident": "CN-0454",
+      "type": "heliport",
+      "name": "Dinghe Tower Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53621, 114.05757"
+    },
+    {
+      "ident": "CN-0455",
+      "type": "heliport",
+      "name": "Shenzhen International Chamber of Commerce Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53585, 114.05188"
+    },
+    {
+      "ident": "CN-0456",
+      "type": "heliport",
+      "name": "Times Square Excellence Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53697, 114.05186"
+    },
+    {
+      "ident": "CN-0457",
+      "type": "heliport",
+      "name": "Information Hub Building Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.5381, 114.05066"
+    },
+    {
+      "ident": "CN-0458",
+      "type": "heliport",
+      "name": "Great China International Exchange Square Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.53909, 114.05692"
+    },
+    {
+      "ident": "CN-0459",
+      "type": "heliport",
+      "name": "Nord Center Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.54597, 114.05855"
+    },
+    {
+      "ident": "CN-0460",
+      "type": "heliport",
+      "name": "CGN Building Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.54404, 114.06205"
+    },
+    {
+      "ident": "CN-0461",
+      "type": "heliport",
+      "name": "Life Insurance Building Heliport",
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Shenzhen (Futian)",
+      "coordinates": "22.54895, 114.05856"
+    },
+    {
+      "ident": "CN-0462",
+      "type": "heliport",
+      "name": "Shangjiao Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhuhai (Xiangzhou)",
+      "coordinates": "22.144835, 113.703067"
+    },
+    {
+      "ident": "CN-0463",
+      "type": "heliport",
+      "name": "Beijian Dao Heliport",
+      "elevation_ft": 197.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhuhai (Xiangzhou)",
+      "coordinates": "21.89608, 114.03891"
+    },
+    {
+      "ident": "CN-0464",
+      "type": "heliport",
+      "name": "Huangmaozhou Heliport",
+      "elevation_ft": 174.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhuhai (Xiangzhou)",
+      "coordinates": "21.82326, 113.95749"
+    },
+    {
+      "ident": "CN-0465",
+      "type": "heliport",
+      "name": "Wanshan Heliport",
+      "elevation_ft": 16.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhuhai (Xiangzhou)",
+      "coordinates": "21.93017, 113.7255"
+    },
+    {
+      "ident": "CN-0466",
+      "type": "heliport",
+      "name": "Niulong Heliport",
+      "elevation_ft": 253.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-44",
+      "municipality": "Zhuhai (Jinwan)",
+      "coordinates": "21.886534, 113.267262"
     },
     {
       "ident": "CN-JNZ",

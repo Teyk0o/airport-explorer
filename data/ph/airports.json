@@ -1,12 +1,12 @@
 {
   "country_code": "PH",
   "country_name": "Philippines",
-  "total_airports": 837,
-  "last_updated": "2025-03-17T00:09:07.682000",
+  "total_airports": 846,
+  "last_updated": "2025-03-18T00:08:13.055687",
   "types_distribution": {
     "small_airport": 199,
-    "heliport": 408,
-    "closed": 166,
+    "heliport": 416,
+    "closed": 167,
     "seaplane_base": 6,
     "medium_airport": 54,
     "balloonport": 1,
@@ -418,7 +418,7 @@
       "iso_country": "PH",
       "iso_region": "PH-00",
       "municipality": "Pasig",
-      "coordinates": "14.587541, 121.060526"
+      "coordinates": "14.587555, 121.060106"
     },
     {
       "ident": "PH-0036",
@@ -7625,6 +7625,98 @@
       "iso_region": "PH-00",
       "municipality": "Pasay",
       "coordinates": "14.53525, 120.98699"
+    },
+    {
+      "ident": "PH-0729",
+      "type": "heliport",
+      "name": "LausGroup Heliport",
+      "elevation_ft": 26.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-PAM",
+      "municipality": "San Fernando",
+      "coordinates": "15.04617, 120.688"
+    },
+    {
+      "ident": "PH-0730",
+      "type": "heliport",
+      "name": "GLAS Tower Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Pasig",
+      "coordinates": "14.58719, 121.06069"
+    },
+    {
+      "ident": "PH-0731",
+      "type": "closed",
+      "name": "Ubihan Heliport",
+      "elevation_ft": 3.0,
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-BUL",
+      "municipality": "Meycauayan",
+      "coordinates": "14.75178, 120.90964"
+    },
+    {
+      "ident": "PH-0732",
+      "type": "heliport",
+      "name": "Grand Hyatt Manila Residences South Tower Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Taguig",
+      "coordinates": "14.55647, 121.05183"
+    },
+    {
+      "ident": "PH-0733",
+      "type": "heliport",
+      "name": "Philplans Corporate Center Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Taguig",
+      "coordinates": "14.56054, 121.05624"
+    },
+    {
+      "ident": "PH-0734",
+      "type": "heliport",
+      "name": "RCBC Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Taguig",
+      "coordinates": "14.55896, 121.05646"
+    },
+    {
+      "ident": "PH-0735",
+      "type": "heliport",
+      "name": "Parkway Global Tower Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Taguig",
+      "coordinates": "14.55851, 121.05694"
+    },
+    {
+      "ident": "PH-0736",
+      "type": "heliport",
+      "name": "Uptown Mall Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-00",
+      "municipality": "Taguig",
+      "coordinates": "14.55629, 121.05505"
+    },
+    {
+      "ident": "PH-0737",
+      "type": "heliport",
+      "name": "Kota Island (Loaita Island) Heliport",
+      "continent": "AS",
+      "iso_country": "PH",
+      "iso_region": "PH-PLW",
+      "municipality": "Kalayaan (Kota Island / Loaita Island)",
+      "coordinates": "10.66828, 114.423556"
     },
     {
       "ident": "PRNO",

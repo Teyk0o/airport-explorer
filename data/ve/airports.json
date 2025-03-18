@@ -1,14 +1,14 @@
 {
   "country_code": "VE",
   "country_name": "Venezuela",
-  "total_airports": 604,
-  "last_updated": "2025-03-17T00:09:07.906518",
+  "total_airports": 612,
+  "last_updated": "2025-03-18T00:08:13.282854",
   "types_distribution": {
-    "small_airport": 456,
+    "small_airport": 461,
     "medium_airport": 46,
     "large_airport": 2,
     "heliport": 88,
-    "closed": 12
+    "closed": 15
   },
   "airports": [
     {
@@ -103,17 +103,6 @@
       "municipality": "Coco de Mono",
       "gps_code": "SVAH",
       "coordinates": "10.033332824707031, -69.16666412353516"
-    },
-    {
-      "ident": "SVAI",
-      "type": "small_airport",
-      "name": "Arichuna Airport",
-      "elevation_ft": 145.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-J",
-      "gps_code": "SVAI",
-      "coordinates": "7.866666793823242, -67.03333282470703"
     },
     {
       "ident": "SVAJ",
@@ -446,8 +435,9 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
+      "municipality": "San Fernando de Apure",
       "gps_code": "SVBP",
-      "coordinates": "7.599999904632568, -67.19999694824219"
+      "coordinates": "7.590715, -67.207841"
     },
     {
       "ident": "SVBR",
@@ -608,7 +598,6 @@
       "type": "medium_airport",
       "name": "Calabozo Airport",
       "elevation_ft": 328.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Guarico",
@@ -681,14 +670,13 @@
     {
       "ident": "SVCS",
       "type": "medium_airport",
-      "name": "Oscar Machado Zuluaga Airport",
+      "name": "Caracas Óscar Machado Zuloaga International Airport",
       "elevation_ft": 2145.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
-      "municipality": "Caracas",
+      "municipality": "Charallave",
       "gps_code": "SVCS",
-      "coordinates": "10.286111, -66.816109"
+      "coordinates": "10.286874, -66.815847"
     },
     {
       "ident": "SVCT",
@@ -762,14 +750,13 @@
     {
       "ident": "SVCZ",
       "type": "small_airport",
-      "name": "Capitán Manuel Ríos Airbase",
+      "name": "Captain Manuel Ríos Air Base",
       "elevation_ft": 595.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Carrizal",
       "gps_code": "SVCZ",
-      "coordinates": "9.372650146484375, -66.92279815673828"
+      "coordinates": "9.37265, -66.922798"
     },
     {
       "ident": "SVDA",
@@ -1149,11 +1136,11 @@
       "type": "small_airport",
       "name": "El Flagelo Airport",
       "elevation_ft": 663.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
+      "municipality": "Francisco de Miranda",
       "gps_code": "SVFG",
-      "coordinates": "9.188332557678223, -67.01667022705078"
+      "coordinates": "9.1856, -67.032452"
     },
     {
       "ident": "SVFK",
@@ -1183,10 +1170,9 @@
       "type": "medium_airport",
       "name": "Generalissimo Francisco de Miranda Air Base",
       "elevation_ft": 2739.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
-      "municipality": "La Carlota",
+      "municipality": "Caracas",
       "gps_code": "SVFM",
       "coordinates": "10.485033, -66.843513"
     },
@@ -1719,13 +1705,14 @@
     {
       "ident": "SVJL",
       "type": "small_airport",
-      "name": "Los Lajeros Airport",
+      "name": "Fleitera Airport",
       "elevation_ft": 132.0,
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
+      "municipality": "Guayabal",
       "gps_code": "SVJL",
-      "coordinates": "8.016667366027832, -67.38333129882812"
+      "coordinates": "7.995295, -67.403704"
     },
     {
       "ident": "SVJM",
@@ -2190,12 +2177,11 @@
     {
       "ident": "SVMI",
       "type": "large_airport",
-      "name": "Simón Bolívar International Airport",
+      "name": "Maiquetía Simón Bolívar International Airport",
       "elevation_ft": 234.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-X",
-      "municipality": "Caracas",
+      "municipality": "Maiquetía",
       "gps_code": "SVMI",
       "iata_code": "CCS",
       "coordinates": "10.601194, -66.991222"
@@ -2270,11 +2256,11 @@
     {
       "ident": "SVMP",
       "type": "medium_airport",
-      "name": "Metropolitano Airport",
+      "name": "Metropolitano International Airport",
       "elevation_ft": 574.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
+      "municipality": "Ocumare del Tuy",
       "gps_code": "SVMP",
       "coordinates": "10.133169, -66.787827"
     },
@@ -3156,17 +3142,6 @@
       "coordinates": "9.850000381469727, -65.31666564941406"
     },
     {
-      "ident": "SVQS",
-      "type": "small_airport",
-      "name": "Santa Rita Airport",
-      "elevation_ft": 210.0,
-      "continent": "SA",
-      "iso_country": "VE",
-      "iso_region": "VE-J",
-      "gps_code": "SVQS",
-      "coordinates": "7.6666669845581055, -66.80000305175781"
-    },
-    {
       "ident": "SVQT",
       "type": "small_airport",
       "name": "Los Quitasoles Airport",
@@ -3657,12 +3632,12 @@
     {
       "ident": "SVSR",
       "type": "medium_airport",
-      "name": "San Fernando De Apure Airport",
+      "name": "San Fernando de Apure Las Flecheras National Airport",
       "elevation_ft": 154.0,
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "municipality": "Inglaterra",
+      "municipality": "San Fernando de Apure",
       "gps_code": "SVSR",
       "iata_code": "SFD",
       "coordinates": "7.88332, -67.444"
@@ -3821,7 +3796,7 @@
     {
       "ident": "SVTK",
       "type": "small_airport",
-      "name": "La Trinidad De Arichuna Airport",
+      "name": "La Trinidad de Orichuna Airport",
       "elevation_ft": 328.0,
       "iso_country": "VE",
       "iso_region": "VE-C",
@@ -4480,10 +4455,10 @@
       "type": "heliport",
       "name": "Balgres  Heliport",
       "elevation_ft": 600.0,
-      "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
-      "coordinates": "10.15250015258789, -66.7471694946289"
+      "municipality": "San Francisco de Yare",
+      "coordinates": "10.152201, -66.746803"
     },
     {
       "ident": "VE-0019",
@@ -6691,6 +6666,117 @@
       "municipality": "El Diero",
       "local_code": "SVQR",
       "coordinates": "7.516667, -68.683334"
+    },
+    {
+      "ident": "VE-0233",
+      "type": "small_airport",
+      "name": "La Urbana Airfield",
+      "elevation_ft": 157.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-F",
+      "municipality": "La Urbana",
+      "coordinates": "7.12859, -66.9235"
+    },
+    {
+      "ident": "VE-0234",
+      "type": "small_airport",
+      "name": "Hato Santa Rita Airfield",
+      "elevation_ft": 131.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-C",
+      "municipality": "San Fernando de Apure",
+      "gps_code": "SVQS",
+      "coordinates": "7.57581, -67.01453"
+    },
+    {
+      "ident": "VE-0235",
+      "type": "closed",
+      "name": "Arichuna Airport",
+      "elevation_ft": 144.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-C",
+      "municipality": "San Fernando de Apure",
+      "coordinates": "7.71426, -67.11603"
+    },
+    {
+      "ident": "VE-0236",
+      "type": "small_airport",
+      "name": "Hato Santa Rosa Airfield",
+      "elevation_ft": 184.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Corocito",
+      "coordinates": "8.27121, -67.61337"
+    },
+    {
+      "ident": "VE-0237",
+      "type": "closed",
+      "name": "Bancos de San Pedro Airfield",
+      "elevation_ft": 253.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Bancos de San Pedro",
+      "coordinates": "8.75015, -67.54335"
+    },
+    {
+      "ident": "VE-0238",
+      "type": "small_airport",
+      "name": "Rancho Bonito Airstrip",
+      "elevation_ft": 269.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Los Naranjos",
+      "coordinates": "8.89058, -67.56241"
+    },
+    {
+      "ident": "VE-0239",
+      "type": "small_airport",
+      "name": "Kilómetro 18 Airstrip",
+      "elevation_ft": 282.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Los Naranjos",
+      "coordinates": "8.86984, -67.50918"
+    },
+    {
+      "ident": "VE-0240",
+      "type": "small_airport",
+      "name": "Parcela 13 Airstrip",
+      "elevation_ft": 295.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Calabozo",
+      "coordinates": "8.9317, -67.47298"
+    },
+    {
+      "ident": "VE-0241",
+      "type": "small_airport",
+      "name": "San Antonio Airstrip",
+      "elevation_ft": 655.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Francisco de Miranda",
+      "coordinates": "9.16006, -67.01918"
+    },
+    {
+      "ident": "VE-0242",
+      "type": "closed",
+      "name": "Fundo Majomito Airstrip",
+      "elevation_ft": 594.0,
+      "continent": "SA",
+      "iso_country": "VE",
+      "iso_region": "VE-J",
+      "municipality": "Julián Mellado",
+      "coordinates": "9.48593, -67.01622"
     }
   ]
 }

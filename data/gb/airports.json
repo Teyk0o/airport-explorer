@@ -1,14 +1,14 @@
 {
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "total_airports": 1552,
-  "last_updated": "2025-03-17T00:09:07.525163",
+  "total_airports": 1555,
+  "last_updated": "2025-03-18T00:08:12.897057",
   "types_distribution": {
     "closed": 353,
-    "small_airport": 967,
+    "small_airport": 968,
     "large_airport": 9,
     "medium_airport": 80,
-    "heliport": 137,
+    "heliport": 139,
     "balloonport": 2,
     "seaplane_base": 4
   },
@@ -2408,9 +2408,9 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Perranporth",
+      "municipality": "Perranporth, Cornwall",
       "gps_code": "EGTP",
-      "coordinates": "50.33169937133789, -5.177499771118164"
+      "coordinates": "50.331699, -5.1775"
     },
     {
       "ident": "EGTR",
@@ -2444,7 +2444,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Malmesbury",
+      "municipality": "Malmesbury, Wiltshire",
       "gps_code": "EGTW",
       "coordinates": "51.632198, -2.01472"
     },
@@ -5686,11 +5686,12 @@
     {
       "ident": "GB-0265",
       "type": "small_airport",
-      "name": "Lower Withial Fram Airstrip",
+      "name": "Lower Withial Farm Airstrip",
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "coordinates": "51.1253177, -2.5965937"
+      "municipality": "Shepton Mallet, Somerset",
+      "coordinates": "51.125318, -2.596594"
     },
     {
       "ident": "GB-0266",
@@ -5719,8 +5720,8 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Sheepwash",
-      "coordinates": "50.8421544, -4.1670387"
+      "municipality": "Sheepwash, Devon",
+      "coordinates": "50.842154, -4.167039"
     },
     {
       "ident": "GB-0269",
@@ -6311,7 +6312,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Huntshaw Cross",
+      "municipality": "Torrington, Devon",
       "coordinates": "50.976851, -4.097184"
     },
     {
@@ -7303,6 +7304,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
+      "municipality": "Thornbury, Bristol",
       "coordinates": "51.613936, -2.530866"
     },
     {
@@ -7558,6 +7560,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
+      "municipality": "Marlborough, Wiltshire",
       "coordinates": "51.4237, -1.77079"
     },
     {
@@ -7985,8 +7988,8 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Bealbury",
-      "coordinates": "50.4752449, -4.3084034"
+      "municipality": "Bealbury, Cornwall",
+      "coordinates": "50.475245, -4.308403"
     },
     {
       "ident": "GB-0489",
@@ -8260,10 +8263,11 @@
     {
       "ident": "GB-0515",
       "type": "heliport",
-      "name": "Weston-super-Mare Heliport",
+      "name": "Weston-Super-Mare Heliport",
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
+      "municipality": "Weston-Super-Mare, Somerset",
       "coordinates": "51.3389, -2.9326"
     },
     {
@@ -9558,7 +9562,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Liskeard",
+      "municipality": "Liskeard, Cornwall",
       "coordinates": "50.414315, -4.394102"
     },
     {
@@ -11577,7 +11581,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Ebrington (Glos)",
+      "municipality": "Ebrington, Gloucestershire",
       "coordinates": "52.0533, -1.729"
     },
     {
@@ -11667,7 +11671,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Pitney (Somerset)",
+      "municipality": "Pitney, Somerset",
       "coordinates": "51.0621, -2.7969"
     },
     {
@@ -13378,6 +13382,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
+      "municipality": "Taunton, Somerset",
       "coordinates": "51.051996, -3.00549"
     },
     {
@@ -14919,6 +14924,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
+      "municipality": "Devon",
       "coordinates": "50.50611, -3.72891"
     },
     {
@@ -15586,7 +15592,7 @@
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-ENG",
-      "municipality": "Penzance",
+      "municipality": "Penzance, Cornwall",
       "coordinates": "50.128101, -5.51845"
     },
     {
@@ -16384,6 +16390,25 @@
       "coordinates": "55.813033, -3.064963"
     },
     {
+      "ident": "GB-1312",
+      "type": "small_airport",
+      "name": "Carlung Farm",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-SCT",
+      "coordinates": "55.704234, -4.877671"
+    },
+    {
+      "ident": "GB-1313",
+      "type": "heliport",
+      "name": "Hartland Point Heliport",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Bideford, Devon",
+      "coordinates": "51.0187, -4.51816"
+    },
+    {
       "ident": "GB-DOC",
       "type": "small_airport",
       "name": "Dornoch Airfield",
@@ -16548,6 +16573,17 @@
       "iso_region": "GB-ENG",
       "municipality": "Sealand",
       "coordinates": "51.894444, 1.4825"
+    },
+    {
+      "ident": "ZZ-0004",
+      "type": "heliport",
+      "name": "Penzance Heliport",
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-ENG",
+      "municipality": "Penzance, Cornwall",
+      "iata_code": "PZE",
+      "coordinates": "50.130376, -5.513946"
     }
   ]
 }

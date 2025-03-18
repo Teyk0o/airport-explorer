@@ -1,13 +1,13 @@
 {
   "country_code": "TW",
   "country_name": "Taiwan",
-  "total_airports": 124,
-  "last_updated": "2025-03-17T00:09:07.903824",
+  "total_airports": 125,
+  "last_updated": "2025-03-18T00:08:13.280079",
   "types_distribution": {
     "medium_airport": 19,
     "small_airport": 36,
     "large_airport": 2,
-    "heliport": 55,
+    "heliport": 56,
     "closed": 11,
     "balloonport": 1
   },
@@ -957,7 +957,7 @@
     {
       "ident": "TW-0056",
       "type": "heliport",
-      "name": "Sanxing Heliport",
+      "name": "Sanxing Camp Hongtsailin Heliport",
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-ILA",
@@ -1368,6 +1368,17 @@
       "iso_region": "TW-PIF",
       "municipality": "Ligang",
       "coordinates": "22.78034, 120.54403"
+    },
+    {
+      "ident": "TW-0095",
+      "type": "heliport",
+      "name": "Camp Waipu Heliport",
+      "elevation_ft": 20.0,
+      "continent": "AS",
+      "iso_country": "TW",
+      "iso_region": "TW-MIA",
+      "municipality": "Houlong",
+      "coordinates": "24.65642, 120.78092"
     }
   ]
 }
