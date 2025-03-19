@@ -2,7 +2,7 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 650,
-  "last_updated": "2025-03-18T00:08:12.886848",
+  "last_updated": "2025-03-19T00:08:27.185619",
   "types_distribution": {
     "small_airport": 473,
     "closed": 45,
@@ -3253,6 +3253,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-KB",
+      "municipality": "Singkawang",
       "gps_code": "WIOD",
       "iata_code": "SKJ",
       "coordinates": "0.789936, 108.960395"
@@ -3787,7 +3788,6 @@
       "iso_country": "ID",
       "iso_region": "ID-SU",
       "municipality": "Medan",
-      "local_code": "WIMH",
       "coordinates": "3.68306, 98.644203"
     },
     {
@@ -5927,11 +5927,12 @@
     {
       "ident": "WAQC",
       "type": "small_airport",
-      "name": "Berau/Maratua Airport",
+      "name": "Maratua Airport",
       "elevation_ft": 43.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-KI",
+      "municipality": "Maratua",
       "gps_code": "WAQC",
       "iata_code": "RTU",
       "coordinates": "2.19759, 118.599361"
@@ -7138,6 +7139,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-SS",
+      "municipality": "Mandailing",
       "gps_code": "WIMF",
       "iata_code": "JHN",
       "coordinates": "0.948056, 99.533333"

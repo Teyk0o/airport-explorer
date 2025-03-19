@@ -2,14 +2,14 @@
   "country_code": "NO",
   "country_name": "Norway",
   "total_airports": 299,
-  "last_updated": "2025-03-18T00:08:13.125896",
+  "last_updated": "2025-03-19T00:08:27.441614",
   "types_distribution": {
-    "small_airport": 103,
+    "small_airport": 102,
     "heliport": 113,
     "medium_airport": 39,
     "large_airport": 5,
     "seaplane_base": 7,
-    "closed": 32
+    "closed": 33
   },
   "airports": [
     {
@@ -3324,14 +3324,13 @@
     },
     {
       "ident": "NO-0127",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Svea Airport",
       "elevation_ft": 32.0,
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-21",
       "municipality": "Svea",
-      "local_code": "ENSA",
       "coordinates": "77.896944, 16.725"
     }
   ]

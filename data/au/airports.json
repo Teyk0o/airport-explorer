@@ -1,11 +1,11 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2725,
-  "last_updated": "2025-03-18T00:08:12.847249",
+  "total_airports": 2736,
+  "last_updated": "2025-03-19T00:08:27.145976",
   "types_distribution": {
-    "small_airport": 2051,
-    "closed": 87,
+    "small_airport": 2058,
+    "closed": 91,
     "heliport": 392,
     "seaplane_base": 4,
     "medium_airport": 185,
@@ -275,13 +275,13 @@
     {
       "ident": "AU-0022",
       "type": "small_airport",
-      "name": "Cardabia Station Airstrip",
+      "name": "Cardabia Homestead Airstrip",
       "elevation_ft": 5.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Indigenous Land Corporation",
-      "coordinates": "-23.10602378845215, 113.80522918701172"
+      "municipality": "Lyndon",
+      "coordinates": "-23.106024, 113.805229"
     },
     {
       "ident": "AU-0023",
@@ -424,8 +424,8 @@
     },
     {
       "ident": "AU-0036",
-      "type": "small_airport",
-      "name": "New Norcia airstrip",
+      "type": "closed",
+      "name": "New Norcia Airstrip",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
@@ -435,11 +435,13 @@
     {
       "ident": "AU-0037",
       "type": "small_airport",
-      "name": "New Norcia North",
+      "name": "Glentromie Airstrip",
+      "elevation_ft": 768.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "coordinates": "-30.921002743299997, 116.23998642"
+      "municipality": "Glentromie",
+      "coordinates": "-30.91983, 116.234949"
     },
     {
       "ident": "AU-0038",
@@ -489,8 +491,8 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Nain",
-      "coordinates": "-28.071222965900002, 114.477367401"
+      "municipality": "Yallabatharra",
+      "coordinates": "-28.071223, 114.477367"
     },
     {
       "ident": "AU-0043",
@@ -540,7 +542,8 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "coordinates": "-21.884040258800002, 114.006564617"
+      "municipality": "Exmouth",
+      "coordinates": "-21.881568, 114.00944"
     },
     {
       "ident": "AU-0048",
@@ -836,7 +839,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Warroora Station",
+      "municipality": "Lyndon",
       "coordinates": "-23.47487, 113.79925"
     },
     {
@@ -974,10 +977,12 @@
       "ident": "AU-0085",
       "type": "small_airport",
       "name": "Nambung Station Private Airstrip",
+      "elevation_ft": 158.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "coordinates": "-30.577798, 115.225055"
+      "municipality": "Nambung",
+      "coordinates": "-30.576795, 115.235019"
     },
     {
       "ident": "AU-0086",
@@ -4040,12 +4045,13 @@
     {
       "ident": "AU-0374",
       "type": "small_airport",
-      "name": "private airfield",
+      "name": "Taylors Private Airfield",
+      "elevation_ft": 482.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
       "municipality": "Howatharra",
-      "coordinates": "-28.526604, 114.634684"
+      "coordinates": "-28.52662, 114.633045"
     },
     {
       "ident": "AU-0375",
@@ -6065,12 +6071,14 @@
     {
       "ident": "AU-0565",
       "type": "small_airport",
-      "name": "Moora airstrip",
+      "name": "Moora Airport",
+      "elevation_ft": 659.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
       "municipality": "Moora",
-      "coordinates": "-30.68557, 115.983224"
+      "gps_code": "YMRO",
+      "coordinates": "-30.684896, 115.982059"
     },
     {
       "ident": "AU-0566",
@@ -6330,11 +6338,12 @@
     {
       "ident": "AU-0591",
       "type": "small_airport",
-      "name": "Coburn station airstrip",
+      "name": "Coburn Station Airstrip",
+      "elevation_ft": 315.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Coburn WA 6532",
+      "municipality": "Coburn",
       "coordinates": "-26.698213, 114.308131"
     },
     {
@@ -6440,12 +6449,12 @@
     {
       "ident": "AU-0602",
       "type": "small_airport",
-      "name": "Darling downs Airspray",
+      "name": "Darling Downs Airspray Airstrip",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
       "municipality": "Dalby",
-      "coordinates": "-27.19423, 151.116943"
+      "coordinates": "-27.193938, 151.11599"
     },
     {
       "ident": "AU-0603",
@@ -6832,6 +6841,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Dirk Hartog Island",
       "gps_code": "YDHD",
       "coordinates": "-26.007194, 113.159072"
     },
@@ -8010,6 +8020,125 @@
       "iso_region": "AU-QLD",
       "municipality": "Stanage",
       "coordinates": "-22.23913, 150.30179"
+    },
+    {
+      "ident": "AU-0751",
+      "type": "small_airport",
+      "name": "Beermullah Airstrip",
+      "elevation_ft": 249.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Boonanarring",
+      "coordinates": "-31.26789, 115.83878"
+    },
+    {
+      "ident": "AU-0752",
+      "type": "small_airport",
+      "name": "Waddi Bush Camp Airstrip",
+      "elevation_ft": 706.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Badgingarra",
+      "coordinates": "-30.52886, 115.50132"
+    },
+    {
+      "ident": "AU-0753",
+      "type": "small_airport",
+      "name": "Howatharra Airstrip",
+      "elevation_ft": 413.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Howatharra",
+      "coordinates": "-28.53267, 114.63441"
+    },
+    {
+      "ident": "AU-0754",
+      "type": "small_airport",
+      "name": "Lynton Airfield",
+      "elevation_ft": 39.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Yallabatharra",
+      "coordinates": "-28.21283, 114.30641"
+    },
+    {
+      "ident": "AU-0755",
+      "type": "small_airport",
+      "name": "Hamelin Airstrip",
+      "elevation_ft": 105.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Hamelin Pool",
+      "coordinates": "-26.42178, 114.21108"
+    },
+    {
+      "ident": "AU-0756",
+      "type": "small_airport",
+      "name": "Carrarang Airstrip",
+      "elevation_ft": 3.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Useless Loop",
+      "coordinates": "-26.45249, 113.51192"
+    },
+    {
+      "ident": "AU-0757",
+      "type": "closed",
+      "name": "Whale Bone Point Airfield",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Shark Bay",
+      "coordinates": "-26.20587, 113.70204"
+    },
+    {
+      "ident": "AU-0758",
+      "type": "closed",
+      "name": "Ocean Park Airstrip",
+      "elevation_ft": 98.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Shark Bay",
+      "coordinates": "-25.98542, 113.57387"
+    },
+    {
+      "ident": "AU-0759",
+      "type": "small_airport",
+      "name": "Lake MacLeod Airstrip",
+      "elevation_ft": 36.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "MacLeod",
+      "coordinates": "-24.40426, 113.49222"
+    },
+    {
+      "ident": "AU-0760",
+      "type": "closed",
+      "name": "Ningaloo Station Airfield",
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Ningaloo",
+      "coordinates": "-22.67695, 113.69082"
+    },
+    {
+      "ident": "AU-0761",
+      "type": "small_airport",
+      "name": "Wilderness Island Airstrip",
+      "elevation_ft": 16.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-WA",
+      "municipality": "Exmouth",
+      "coordinates": "-22.06749, 114.52624"
     },
     {
       "ident": "AU-AGW",
@@ -10514,11 +10643,13 @@
       "ident": "YBLB",
       "type": "small_airport",
       "name": "Billabong Road House Airport",
+      "elevation_ft": 443.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Meadow",
       "gps_code": "YBLB",
-      "coordinates": "-26.816699981689453, 114.61699676513672"
+      "coordinates": "-26.821394, 114.6112"
     },
     {
       "ident": "YBLC",
@@ -12883,6 +13014,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Lyndon",
       "gps_code": "YCOY",
       "coordinates": "-23.128851, 113.780626"
     },
@@ -14149,7 +14281,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Dongara",
+      "municipality": "Port Denison",
       "gps_code": "YDRA",
       "iata_code": "DOX",
       "coordinates": "-29.298128, 114.927334"
@@ -14911,6 +15043,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Exmouth",
       "gps_code": "YEXM",
       "iata_code": "EXM",
       "coordinates": "-22.040677, 114.102663"
@@ -15295,8 +15428,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "MacLeod",
       "gps_code": "YGAR",
-      "coordinates": "-23.791549682617188, 113.52893829345703"
+      "coordinates": "-23.79155, 113.528938"
     },
     {
       "ident": "YGAS",
@@ -15500,7 +15634,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Geraldton",
+      "municipality": "Moonyoonooka",
       "gps_code": "YGEL",
       "iata_code": "GET",
       "coordinates": "-28.796101, 114.707001"
@@ -15610,7 +15744,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Macleod",
+      "municipality": "MacLeod",
       "gps_code": "YGHS",
       "coordinates": "-23.825748, 113.530505"
     },
@@ -15701,6 +15835,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Exmouth Gulf",
       "gps_code": "YGIR",
       "coordinates": "-22.679977, 114.371088"
     },
@@ -19799,9 +19934,11 @@
       "ident": "YMDR",
       "type": "small_airport",
       "name": "Minderoo Station Airport",
+      "elevation_ft": 75.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "Talandji",
       "gps_code": "YMDR",
       "coordinates": "-21.993059, 115.053066"
     },
@@ -21791,6 +21928,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
+      "municipality": "East Bowes",
       "gps_code": "YNHP",
       "coordinates": "-28.342045, 114.716964"
     },
@@ -27942,7 +28080,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Warroora Homestead",
+      "municipality": "Lyndon",
       "gps_code": "YWRR",
       "coordinates": "-23.44609, 113.84853"
     },
