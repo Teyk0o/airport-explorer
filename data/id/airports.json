@@ -1,10 +1,10 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 650,
-  "last_updated": "2025-03-19T00:08:27.185619",
+  "total_airports": 652,
+  "last_updated": "2025-03-20T00:08:25.982833",
   "types_distribution": {
-    "small_airport": 473,
+    "small_airport": 475,
     "closed": 45,
     "heliport": 53,
     "large_airport": 8,
@@ -3956,6 +3956,28 @@
       "iso_region": "ID-JI",
       "municipality": "Kediri",
       "coordinates": "-7.79019, 112.01084"
+    },
+    {
+      "ident": "ID-0359",
+      "type": "small_airport",
+      "name": "Tomboki Airstrip",
+      "elevation_ft": 6558.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Tomboki",
+      "coordinates": "-4.2295, 139.45225"
+    },
+    {
+      "ident": "ID-0360",
+      "type": "small_airport",
+      "name": "Nisikni Airstrip",
+      "elevation_ft": 7503.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PA",
+      "municipality": "Nisikni",
+      "coordinates": "-4.24745, 139.47418"
     },
     {
       "ident": "ID-AAS",

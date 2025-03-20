@@ -1,12 +1,12 @@
 {
   "country_code": "AR",
   "country_name": "Argentina",
-  "total_airports": 948,
-  "last_updated": "2025-03-19T00:08:27.174101",
+  "total_airports": 953,
+  "last_updated": "2025-03-20T00:08:25.971426",
   "types_distribution": {
-    "small_airport": 688,
+    "small_airport": 692,
     "closed": 42,
-    "heliport": 147,
+    "heliport": 148,
     "balloonport": 1,
     "medium_airport": 68,
     "large_airport": 2
@@ -5965,7 +5965,7 @@
     {
       "ident": "AR-0500",
       "type": "small_airport",
-      "name": "Camarones Field",
+      "name": "Camarones Airfield",
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-U",
@@ -6903,11 +6903,12 @@
     {
       "ident": "AR-0581",
       "type": "small_airport",
-      "name": "Aeródromo de Fortin Cabo Lugones",
+      "name": "Fortin Lugones Airport",
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-P",
-      "municipality": "Fortin Cabo Lugones",
+      "municipality": "Fortin Lugones",
+      "local_code": "2985",
       "coordinates": "-24.300451, -59.830954"
     },
     {
@@ -7234,6 +7235,7 @@
       "ident": "AR-0609",
       "type": "small_airport",
       "name": "Estancia Bahía Laura Airport",
+      "elevation_ft": 49.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-Z",
@@ -7395,6 +7397,7 @@
       "iso_country": "AR",
       "iso_region": "AR-P",
       "municipality": "Ingeniero Juárez",
+      "local_code": "2987",
       "coordinates": "-23.904822, -61.820092"
     },
     {
@@ -8912,6 +8915,66 @@
       "iso_region": "AR-Z",
       "municipality": "Ingeniero Pallavicini",
       "coordinates": "-46.27989, -71.6778"
+    },
+    {
+      "ident": "AR-0760",
+      "type": "small_airport",
+      "name": "El Aduar Airstrip",
+      "elevation_ft": 197.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-S",
+      "municipality": "Intiyaco",
+      "local_code": "176",
+      "coordinates": "-28.574444, -60.2625"
+    },
+    {
+      "ident": "AR-0761",
+      "type": "small_airport",
+      "name": "El Chou Airstrip",
+      "elevation_ft": 264.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-E",
+      "municipality": "Hasenkamp",
+      "local_code": "2989",
+      "coordinates": "-31.491111, -59.597222"
+    },
+    {
+      "ident": "AR-0762",
+      "type": "small_airport",
+      "name": "Santa Teresa Airstrip",
+      "elevation_ft": 367.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-H",
+      "municipality": "General Capdevila",
+      "local_code": "2984",
+      "coordinates": "-27.454674, -61.49453"
+    },
+    {
+      "ident": "AR-0763",
+      "type": "small_airport",
+      "name": "Estancia 10 Noviembre Airstrip",
+      "elevation_ft": 240.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-B",
+      "municipality": "Carlos Tejedor",
+      "local_code": "245",
+      "coordinates": "-35.58308, -62.481018"
+    },
+    {
+      "ident": "AR-0764",
+      "type": "heliport",
+      "name": "Granadero Baigorria Heliport",
+      "elevation_ft": 98.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-S",
+      "municipality": "Granadero Baigorria",
+      "local_code": "2947",
+      "coordinates": "-32.868447, -60.69981"
     },
     {
       "ident": "CSA",

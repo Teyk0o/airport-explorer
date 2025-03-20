@@ -2,22 +2,21 @@
   "country_code": "VI",
   "country_name": "U.S. Virgin Islands",
   "total_airports": 9,
-  "last_updated": "2025-03-19T00:08:27.597207",
+  "last_updated": "2025-03-20T00:08:26.378009",
   "types_distribution": {
     "seaplane_base": 3,
     "medium_airport": 2,
-    "closed": 1,
-    "heliport": 3
+    "closed": 2,
+    "heliport": 2
   },
   "airports": [
     {
       "ident": "SJF",
       "type": "seaplane_base",
       "name": "Cruz Bay Seaplane Base",
-      "elevation_ft": 0.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
-      "municipality": "Saint John Island",
+      "iso_region": "VI-SJ",
+      "municipality": "Cruz Bay",
       "iata_code": "SJF",
       "coordinates": "18.3315, -64.796"
     },
@@ -27,7 +26,7 @@
       "name": "Cyril E. King Airport",
       "elevation_ft": 23.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
+      "iso_region": "VI-ST",
       "municipality": "Charlotte Amalie",
       "gps_code": "TIST",
       "iata_code": "STT",
@@ -40,12 +39,12 @@
       "name": "Henry E Rohlsen Airport",
       "elevation_ft": 74.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
+      "iso_region": "VI-SC",
       "municipality": "Christiansted",
       "gps_code": "TISX",
       "iata_code": "STX",
       "local_code": "STX",
-      "coordinates": "17.701567, -64.801634"
+      "coordinates": "17.701413, -64.802608"
     },
     {
       "ident": "VI-0001",
@@ -53,8 +52,8 @@
       "name": "Frenchman's Reef Heliport",
       "elevation_ft": 20.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
-      "municipality": "St Thomas",
+      "iso_region": "VI-ST",
+      "municipality": "Bakkeroe",
       "coordinates": "18.319921, -64.921882"
     },
     {
@@ -63,11 +62,11 @@
       "name": "DPS Heliport",
       "elevation_ft": 50.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
-      "municipality": "Frederiksted St Croix",
+      "iso_region": "VI-SC",
+      "municipality": "Frederiksted",
       "gps_code": "VI01",
       "local_code": "VI01",
-      "coordinates": "17.708900451660156, -64.79650115966797"
+      "coordinates": "17.709208, -64.796512"
     },
     {
       "ident": "VI02",
@@ -75,47 +74,45 @@
       "name": "St. Thomas Waterfront Heliport",
       "elevation_ft": 4.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
+      "iso_region": "VI-ST",
       "municipality": "Charlotte Amalie",
       "gps_code": "VI02",
       "local_code": "VI02",
-      "coordinates": "18.338600158691406, -64.93930053710938"
+      "coordinates": "18.338482, -64.93994"
     },
     {
       "ident": "VI04",
-      "type": "heliport",
+      "type": "closed",
       "name": "Stouffer Grand Beach Resort Heliport",
       "elevation_ft": 125.0,
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
+      "iso_region": "VI-ST",
       "municipality": "Charlotte Amalie",
-      "gps_code": "VI04",
-      "local_code": "VI04",
-      "coordinates": "18.345800399780273, -64.90399932861328"
+      "coordinates": "18.345788, -64.904031"
     },
     {
       "ident": "VI22",
       "type": "seaplane_base",
       "name": "Charlotte Amalie Harbor Seaplane Base",
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
-      "municipality": "Charlotte Amalie St Thomas",
+      "iso_region": "VI-ST",
+      "municipality": "Charlotte Amalie",
       "gps_code": "VI22",
       "iata_code": "SPB",
       "local_code": "VI22",
-      "coordinates": "18.338600158691406, -64.9406967163086"
+      "coordinates": "18.338204, -64.939675"
     },
     {
       "ident": "VI32",
       "type": "seaplane_base",
       "name": "Christiansted Harbor Seaplane Base",
       "iso_country": "VI",
-      "iso_region": "VI-U-A",
-      "municipality": "Christiansted St Croix",
+      "iso_region": "VI-SC",
+      "municipality": "Christiansted",
       "gps_code": "VI32",
       "iata_code": "SSB",
       "local_code": "VI32",
-      "coordinates": "17.74720001220703, -64.70490264892578"
+      "coordinates": "17.7472, -64.704903"
     }
   ]
 }

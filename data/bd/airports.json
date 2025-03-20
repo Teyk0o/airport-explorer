@@ -1,10 +1,10 @@
 {
   "country_code": "BD",
   "country_name": "Bangladesh",
-  "total_airports": 57,
-  "last_updated": "2025-03-19T00:08:27.192628",
+  "total_airports": 58,
+  "last_updated": "2025-03-20T00:08:25.989736",
   "types_distribution": {
-    "heliport": 35,
+    "heliport": 36,
     "closed": 5,
     "small_airport": 8,
     "medium_airport": 8,
@@ -451,6 +451,17 @@
       "iso_region": "BD-4",
       "municipality": "Bagerhat",
       "coordinates": "22.6486, 89.6454"
+    },
+    {
+      "ident": "BD-0043",
+      "type": "heliport",
+      "name": "Chapal Nawabganj Heliport",
+      "elevation_ft": 75.0,
+      "continent": "AS",
+      "iso_country": "BD",
+      "iso_region": "BD-5",
+      "municipality": "Nawabganj",
+      "coordinates": "24.586668, 88.283111"
     },
     {
       "ident": "VGBG",

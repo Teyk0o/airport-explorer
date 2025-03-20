@@ -1,10 +1,10 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2736,
-  "last_updated": "2025-03-19T00:08:27.145976",
+  "total_airports": 2743,
+  "last_updated": "2025-03-20T00:08:25.943463",
   "types_distribution": {
-    "small_airport": 2058,
+    "small_airport": 2065,
     "closed": 91,
     "heliport": 392,
     "seaplane_base": 4,
@@ -3827,21 +3827,23 @@
     {
       "ident": "AU-0352",
       "type": "small_airport",
-      "name": "Quail island airstrip",
+      "name": "Quail Island Airstrip",
+      "elevation_ft": 72.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
-      "municipality": "Quail island",
+      "municipality": "Stanage",
       "coordinates": "-22.13068, 149.997285"
     },
     {
       "ident": "AU-0353",
       "type": "small_airport",
-      "name": "Stanage (Long island) Airstrip",
+      "name": "Long Island Airstrip",
+      "elevation_ft": 75.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
-      "municipality": "Stanage QLD 4702",
+      "municipality": "Stanage",
       "coordinates": "-22.149783, 149.918143"
     },
     {
@@ -8139,6 +8141,83 @@
       "iso_region": "AU-WA",
       "municipality": "Exmouth",
       "coordinates": "-22.06749, 114.52624"
+    },
+    {
+      "ident": "AU-0762",
+      "type": "small_airport",
+      "name": "Rongold Station Airstrip",
+      "elevation_ft": 135.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Wentworth",
+      "coordinates": "-33.88356, 141.9894"
+    },
+    {
+      "ident": "AU-0763",
+      "type": "small_airport",
+      "name": "Knox Creek Airstrip",
+      "elevation_ft": 33.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Aurukun",
+      "coordinates": "-14.05107, 141.68185"
+    },
+    {
+      "ident": "AU-0764",
+      "type": "small_airport",
+      "name": "Lelma Airstrip",
+      "elevation_ft": 217.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Pooncarie",
+      "coordinates": "-33.6727, 142.41891"
+    },
+    {
+      "ident": "AU-0765",
+      "type": "small_airport",
+      "name": "Yeppoon Aerodrome",
+      "elevation_ft": 177.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Inverness",
+      "coordinates": "-23.12221, 150.71837"
+    },
+    {
+      "ident": "AU-0766",
+      "type": "small_airport",
+      "name": "Pootnoura Airfield",
+      "elevation_ft": 886.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Manguri",
+      "coordinates": "-28.466279, 134.190487"
+    },
+    {
+      "ident": "AU-0767",
+      "type": "small_airport",
+      "name": "Mildura (Sunraysia Gliding Club) Airfield",
+      "elevation_ft": 180.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-VIC",
+      "municipality": "Koorlong",
+      "coordinates": "-34.262146, 142.057185"
+    },
+    {
+      "ident": "AU-0768",
+      "type": "small_airport",
+      "name": "Orange Creek Airstrip",
+      "elevation_ft": 1585.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NT",
+      "municipality": "Hugh",
+      "coordinates": "-24.37092, 133.43785"
     },
     {
       "ident": "AU-AGW",
@@ -27262,9 +27341,10 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
+      "municipality": "Windorah",
       "gps_code": "YWDH",
       "iata_code": "WNR",
-      "coordinates": "-25.41309928894043, 142.66700744628906"
+      "coordinates": "-25.410641, 142.668428"
     },
     {
       "ident": "YWDJ",

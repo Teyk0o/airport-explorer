@@ -1,14 +1,14 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 93,
-  "last_updated": "2025-03-19T00:08:27.497261",
+  "total_airports": 91,
+  "last_updated": "2025-03-20T00:08:26.276016",
   "types_distribution": {
     "small_airport": 15,
-    "closed": 28,
-    "heliport": 25,
+    "closed": 27,
+    "heliport": 26,
     "seaplane_base": 1,
-    "medium_airport": 22,
+    "medium_airport": 20,
     "large_airport": 2
   },
   "airports": [
@@ -142,14 +142,15 @@
     },
     {
       "ident": "VN-0012",
-      "type": "closed",
+      "type": "heliport",
       "name": "Nước Mặn (Marble Mountain) Air Facility",
       "elevation_ft": 29.0,
       "continent": "AS",
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Da Nang",
-      "coordinates": "16.029341, 108.252693"
+      "gps_code": "VVNM",
+      "coordinates": "16.028581, 108.252851"
     },
     {
       "ident": "VN-0013",
@@ -654,26 +655,6 @@
       "iso_region": "VN-SCC",
       "municipality": "Quảng Ngãi",
       "coordinates": "15.115474, 108.771816"
-    },
-    {
-      "ident": "VN-0077",
-      "type": "medium_airport",
-      "name": "69vn Nhà Cái",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-SE",
-      "municipality": "Ho Chi Minh City",
-      "local_code": "VN23",
-      "coordinates": "0.000006, -0.000006"
-    },
-    {
-      "ident": "VN-0079",
-      "type": "medium_airport",
-      "name": "88NN",
-      "continent": "AS",
-      "iso_country": "VN",
-      "iso_region": "VN-U-A",
-      "coordinates": "0.000001, -0.000001"
     },
     {
       "ident": "VV02",

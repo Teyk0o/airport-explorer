@@ -1,10 +1,10 @@
 {
   "country_code": "IN",
   "country_name": "India",
-  "total_airports": 630,
-  "last_updated": "2025-03-19T00:08:27.505200",
+  "total_airports": 634,
+  "last_updated": "2025-03-20T00:08:26.283936",
   "types_distribution": {
-    "heliport": 283,
+    "heliport": 287,
     "small_airport": 181,
     "closed": 31,
     "medium_airport": 122,
@@ -3127,12 +3127,12 @@
     {
       "ident": "IN-0306",
       "type": "heliport",
-      "name": "Khaltsi Heliport",
+      "name": "Khalatse Zerthang Heliport",
       "elevation_ft": 9829.0,
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-LA",
-      "municipality": "Khaltsi",
+      "municipality": "Khalatse",
       "coordinates": "34.31879, 76.90241"
     },
     {
@@ -3955,6 +3955,50 @@
       "municipality": "Nashik",
       "gps_code": "VANR",
       "coordinates": "19.963699, 73.807602"
+    },
+    {
+      "ident": "IN-0383",
+      "type": "heliport",
+      "name": "Nilgrar Heliport",
+      "elevation_ft": 8953.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-JK",
+      "municipality": "Sonamarg",
+      "coordinates": "34.28701, 75.32843"
+    },
+    {
+      "ident": "IN-0384",
+      "type": "heliport",
+      "name": "Sonamarg Heliport",
+      "elevation_ft": 8776.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-JK",
+      "municipality": "Sonamarg",
+      "coordinates": "34.30261, 75.28678"
+    },
+    {
+      "ident": "IN-0385",
+      "type": "heliport",
+      "name": "Sonamarg (Namrose Resorts) Heliport",
+      "elevation_ft": 8694.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-JK",
+      "municipality": "Sonamarg",
+      "coordinates": "34.30778, 75.27828"
+    },
+    {
+      "ident": "IN-0386",
+      "type": "heliport",
+      "name": "Pahalgam Heliport",
+      "elevation_ft": 6982.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-JK",
+      "municipality": "Pahalgam",
+      "coordinates": "34.01434, 75.31333"
     },
     {
       "ident": "IN-JGB",
