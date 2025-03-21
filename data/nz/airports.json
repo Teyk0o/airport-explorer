@@ -2,7 +2,7 @@
   "country_code": "NZ",
   "country_name": "New Zealand",
   "total_airports": 285,
-  "last_updated": "2025-03-20T00:08:26.364684",
+  "last_updated": "2025-03-21T00:08:21.500318",
   "types_distribution": {
     "small_airport": 168,
     "closed": 14,
@@ -1043,14 +1043,15 @@
     {
       "ident": "NZAS",
       "type": "small_airport",
-      "name": "Ashburton Aerodrome",
+      "name": "Ashburton Airport",
       "elevation_ft": 302.0,
       "continent": "OC",
       "iso_country": "NZ",
       "iso_region": "NZ-CAN",
+      "municipality": "Ashburton",
       "gps_code": "NZAS",
       "iata_code": "ASG",
-      "coordinates": "-43.90330123901367, 171.7969970703125"
+      "coordinates": "-43.903301, 171.796997"
     },
     {
       "ident": "NZBA",
@@ -1152,14 +1153,15 @@
     {
       "ident": "NZCX",
       "type": "small_airport",
-      "name": "Coromandel Aerodrome",
+      "name": "Coromandel Airport",
       "elevation_ft": 10.0,
       "continent": "OC",
       "iso_country": "NZ",
       "iso_region": "NZ-WKO",
+      "municipality": "Coromandel",
       "gps_code": "NZCX",
       "iata_code": "CMV",
-      "coordinates": "-36.79169845581055, 175.50900268554688"
+      "coordinates": "-36.791698, 175.509003"
     },
     {
       "ident": "NZDA",
@@ -1169,9 +1171,10 @@
       "continent": "OC",
       "iso_country": "NZ",
       "iso_region": "NZ-NTL",
+      "municipality": "Dargaville",
       "gps_code": "NZDA",
       "iata_code": "DGR",
-      "coordinates": "-35.939701080322266, 173.8939971923828"
+      "coordinates": "-35.939701, 173.893997"
     },
     {
       "ident": "NZDC",

@@ -2,7 +2,7 @@
   "country_code": "BR",
   "country_name": "Brazil",
   "total_airports": 7462,
-  "last_updated": "2025-03-20T00:08:26.040890",
+  "last_updated": "2025-03-21T00:08:21.181693",
   "types_distribution": {
     "small_airport": 5162,
     "closed": 294,
@@ -27818,7 +27818,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Osasco",
-      "local_code": "SDOM",
       "coordinates": "-23.5366, -46.7768"
     },
     {
@@ -27830,8 +27829,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Jacareí",
-      "local_code": "SDOY",
-      "coordinates": "-23.213888168335, -45.998611450195"
+      "coordinates": "-23.213888, -45.998611"
     },
     {
       "ident": "BR-2291",
@@ -27842,8 +27840,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Andradina",
-      "local_code": "SDPG",
-      "coordinates": "-21.054443359375, -51.406112670898"
+      "coordinates": "-21.054443, -51.406113"
     },
     {
       "ident": "BR-2292",
@@ -27854,8 +27851,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDPH",
-      "coordinates": "-23.538610458374, -46.652778625488"
+      "coordinates": "-23.53861, -46.652779"
     },
     {
       "ident": "BR-2293",
@@ -27866,8 +27862,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Campinas",
-      "local_code": "SDPR",
-      "coordinates": "-22.942777633667, -47.149723052979"
+      "coordinates": "-22.941962, -47.149385"
     },
     {
       "ident": "BR-2294",
@@ -27878,8 +27873,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Santa Isabel",
-      "local_code": "SDPS",
-      "coordinates": "-23.356388092041, -46.279998779297"
+      "coordinates": "-23.356258, -46.280099"
     },
     {
       "ident": "BR-2295",
@@ -27890,7 +27884,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Ponta Porã",
-      "local_code": "SDQE",
       "coordinates": "-22.569445, -55.636112"
     },
     {
@@ -27902,8 +27895,7 @@
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Tibagi",
-      "local_code": "SDQH",
-      "coordinates": "-24.64999961853, -50.362499237061"
+      "coordinates": "-24.65, -50.362499"
     },
     {
       "ident": "BR-2297",
@@ -27914,20 +27906,18 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Nioaque",
-      "local_code": "SDQN",
-      "coordinates": "-20.898611068726, -55.709999084473"
+      "coordinates": "-20.898611, -55.710533"
     },
     {
       "ident": "BR-2298",
       "type": "heliport",
-      "name": "Berrini Heliport",
+      "name": "Berrini 550 Helipad",
       "elevation_ft": 2572.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDQS",
-      "coordinates": "-23.601110458374, -46.691665649414"
+      "coordinates": "-23.601632, -46.692032"
     },
     {
       "ident": "BR-2299",
@@ -27937,7 +27927,8 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-SP",
-      "municipality": "Santa Rita Do Passa Quatro",
+      "municipality": "Santa Rita do Passa Quatro",
+      "gps_code": "SIOR",
       "local_code": "SP0191",
       "coordinates": "-21.641922, -47.469993"
     },
@@ -27950,20 +27941,20 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
-      "local_code": "SDRL",
-      "coordinates": "-23.567222595215, -46.692779541016"
+      "coordinates": "-23.567295, -46.694114"
     },
     {
       "ident": "BR-2301",
       "type": "small_airport",
-      "name": "Agropastoril bom Pastor Airport",
-      "elevation_ft": 1034.0,
+      "name": "Agropastoril Bom Pastor Airport",
+      "elevation_ft": 1129.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-MT",
       "municipality": "Rondonópolis",
+      "gps_code": "SDWC",
       "local_code": "MT0070",
-      "coordinates": "-16.465555, -54.711945"
+      "coordinates": "-16.466992, -54.714028"
     },
     {
       "ident": "BR-2302",
@@ -27974,8 +27965,7 @@
       "iso_country": "BR",
       "iso_region": "BR-BA",
       "municipality": "Porto Seguro",
-      "local_code": "SDRQ",
-      "coordinates": "-16.44055557251, -39.083332061768"
+      "coordinates": "-16.440556, -39.083332"
     },
     {
       "ident": "BR-2303",
@@ -51570,13 +51560,12 @@
       "ident": "SDWC",
       "type": "small_airport",
       "name": "Aldeia Baú Airport",
-      "elevation_ft": 699.0,
+      "elevation_ft": 797.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PA",
       "municipality": "Altamira",
-      "gps_code": "SDWC",
-      "coordinates": "-7.360278129577637, -54.8297233581543"
+      "coordinates": "-7.35579, -54.826347"
     },
     {
       "ident": "SDWH",
@@ -89226,7 +89215,7 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-GO",
-      "municipality": "São Miguel Do Araguaia",
+      "municipality": "São Miguel do Araguaia",
       "gps_code": "SDPH",
       "local_code": "GO0042",
       "coordinates": "-12.822572, -50.328188"
