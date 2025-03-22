@@ -2,12 +2,12 @@
   "country_code": "UA",
   "country_name": "Ukraine",
   "total_airports": 271,
-  "last_updated": "2025-03-21T00:08:21.256177",
+  "last_updated": "2025-03-22T00:08:14.142387",
   "types_distribution": {
     "small_airport": 118,
-    "closed": 74,
+    "closed": 75,
     "medium_airport": 32,
-    "heliport": 45,
+    "heliport": 44,
     "large_airport": 2
   },
   "airports": [
@@ -176,7 +176,7 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-43",
-      "municipality": "Mirnyi",
+      "municipality": "Myrnyi",
       "coordinates": "45.325884, 33.050407"
     },
     {
@@ -585,11 +585,12 @@
       "ident": "UA-0052",
       "type": "small_airport",
       "name": "Korotych Airfield",
+      "elevation_ft": 410.0,
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-63",
-      "municipality": "Lyubotin",
-      "coordinates": "49.971, 36.011"
+      "municipality": "Novyy Korotych",
+      "coordinates": "49.97482, 36.01425"
     },
     {
       "ident": "UA-0053",
@@ -1960,21 +1961,13 @@
       "coordinates": "47.657898, 33.752977"
     },
     {
-      "ident": "UA-0185",
-      "type": "heliport",
-      "name": "Novoozerne",
-      "continent": "EU",
-      "iso_country": "UA",
-      "iso_region": "UA-U-A",
-      "coordinates": "45.337599, 33.035567"
-    },
-    {
       "ident": "UA-0186",
-      "type": "small_airport",
-      "name": "Tarasivka",
+      "type": "closed",
+      "name": "Tarasivka Airfield",
       "continent": "EU",
       "iso_country": "UA",
-      "iso_region": "UA-U-A",
+      "iso_region": "UA-65",
+      "municipality": "Tarasivka",
       "coordinates": "46.424692, 33.05609"
     },
     {
@@ -2386,6 +2379,17 @@
       "coordinates": "50.462433, 26.010916"
     },
     {
+      "ident": "UA-9872",
+      "type": "small_airport",
+      "name": "Rakytne Airfield",
+      "elevation_ft": 577.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-63",
+      "municipality": "Rakytne",
+      "coordinates": "49.83241, 35.9175"
+    },
+    {
       "ident": "UK59",
       "type": "small_airport",
       "name": "Chuhuiv Air Base",
@@ -2635,7 +2639,7 @@
       "iso_region": "UA-63",
       "municipality": "Kharkiv",
       "gps_code": "UKHD",
-      "coordinates": "50.025002, 36.268902"
+      "coordinates": "50.024675, 36.266775"
     },
     {
       "ident": "UKHH",
@@ -2648,7 +2652,7 @@
       "municipality": "Kharkiv",
       "gps_code": "UKHH",
       "iata_code": "HRK",
-      "coordinates": "49.924801, 36.290001"
+      "coordinates": "49.926943, 36.290814"
     },
     {
       "ident": "UKHP",

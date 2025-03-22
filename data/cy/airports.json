@@ -2,7 +2,7 @@
   "country_code": "CY",
   "country_name": "Cyprus",
   "total_airports": 90,
-  "last_updated": "2025-03-21T00:08:21.307678",
+  "last_updated": "2025-03-22T00:08:14.193458",
   "types_distribution": {
     "small_airport": 9,
     "closed": 8,
@@ -308,11 +308,13 @@
     {
       "ident": "CY-0032",
       "type": "heliport",
-      "name": "UNFICYP Nicosia Airport Helipad",
+      "name": "UNFICYP Nicosia Airport Heliport",
+      "elevation_ft": 722.0,
       "continent": "AS",
       "iso_country": "CY",
       "iso_region": "CY-02",
       "municipality": "Lakatamia",
+      "gps_code": "LCNC",
       "coordinates": "35.145962, 33.283306"
     },
     {
@@ -856,7 +858,7 @@
       "iso_country": "CY",
       "iso_region": "CY-02",
       "municipality": "Nicosia",
-      "coordinates": "35.150799, 33.278702"
+      "coordinates": "35.154952, 33.272855"
     },
     {
       "ident": "LCEN",

@@ -2,13 +2,13 @@
   "country_code": "CR",
   "country_name": "Costa Rica",
   "total_airports": 144,
-  "last_updated": "2025-03-21T00:08:21.304853",
+  "last_updated": "2025-03-22T00:08:14.190653",
   "types_distribution": {
     "small_airport": 116,
     "closed": 4,
     "heliport": 8,
-    "medium_airport": 15,
-    "large_airport": 1
+    "medium_airport": 14,
+    "large_airport": 2
   },
   "airports": [
     {
@@ -1056,7 +1056,7 @@
     },
     {
       "ident": "MROC",
-      "type": "medium_airport",
+      "type": "large_airport",
       "name": "Juan Santamaría International Airport",
       "elevation_ft": 3021.0,
       "iso_country": "CR",

@@ -1,13 +1,13 @@
 {
   "country_code": "VI",
   "country_name": "U.S. Virgin Islands",
-  "total_airports": 9,
-  "last_updated": "2025-03-21T00:08:21.511168",
+  "total_airports": 11,
+  "last_updated": "2025-03-22T00:08:14.395331",
   "types_distribution": {
     "seaplane_base": 3,
     "medium_airport": 2,
     "closed": 2,
-    "heliport": 2
+    "heliport": 4
   },
   "airports": [
     {
@@ -55,6 +55,26 @@
       "iso_region": "VI-ST",
       "municipality": "Bakkeroe",
       "coordinates": "18.319921, -64.921882"
+    },
+    {
+      "ident": "VI-0002",
+      "type": "heliport",
+      "name": "St. John Heliport",
+      "elevation_ft": 705.0,
+      "iso_country": "VI",
+      "iso_region": "VI-SJ",
+      "municipality": "Susannaberg",
+      "coordinates": "18.34078, -64.77402"
+    },
+    {
+      "ident": "VI-0003",
+      "type": "heliport",
+      "name": "Schneider Regional Medical Center Heliport",
+      "elevation_ft": 85.0,
+      "iso_country": "VI",
+      "iso_region": "VI-ST",
+      "municipality": "Charlotte Amalie",
+      "coordinates": "18.3414, -64.91418"
     },
     {
       "ident": "VI01",

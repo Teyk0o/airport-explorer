@@ -1,10 +1,10 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2743,
-  "last_updated": "2025-03-21T00:08:21.084982",
+  "total_airports": 2744,
+  "last_updated": "2025-03-22T00:08:13.973562",
   "types_distribution": {
-    "small_airport": 2065,
+    "small_airport": 2066,
     "closed": 91,
     "heliport": 392,
     "seaplane_base": 4,
@@ -5291,10 +5291,12 @@
       "ident": "AU-0490",
       "type": "small_airport",
       "name": "Packsaddle Airport",
+      "elevation_ft": 342.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
       "municipality": "Packsaddle",
+      "gps_code": "YPAS",
       "coordinates": "-30.29424, 142.13758"
     },
     {
@@ -8218,6 +8220,17 @@
       "iso_region": "AU-NT",
       "municipality": "Hugh",
       "coordinates": "-24.37092, 133.43785"
+    },
+    {
+      "ident": "AU-0769",
+      "type": "small_airport",
+      "name": "Shannon's Creek Emergency Airstrip",
+      "elevation_ft": 353.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Packsaddle",
+      "coordinates": "-30.246177, 142.103173"
     },
     {
       "ident": "AU-AGW",

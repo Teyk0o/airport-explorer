@@ -1,10 +1,10 @@
 {
   "country_code": "IN",
   "country_name": "India",
-  "total_airports": 634,
-  "last_updated": "2025-03-21T00:08:21.421056",
+  "total_airports": 636,
+  "last_updated": "2025-03-22T00:08:14.306302",
   "types_distribution": {
-    "heliport": 287,
+    "heliport": 289,
     "small_airport": 181,
     "closed": 31,
     "medium_airport": 122,
@@ -3999,6 +3999,28 @@
       "iso_region": "IN-JK",
       "municipality": "Pahalgam",
       "coordinates": "34.01434, 75.31333"
+    },
+    {
+      "ident": "IN-0387",
+      "type": "heliport",
+      "name": "Sindhu Ghat Heliport",
+      "elevation_ft": 10581.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-LA",
+      "municipality": "Shey",
+      "coordinates": "34.082472, 77.61225"
+    },
+    {
+      "ident": "IN-0388",
+      "type": "heliport",
+      "name": "Army Hospital Leh Heliport",
+      "elevation_ft": 11293.0,
+      "continent": "AS",
+      "iso_country": "IN",
+      "iso_region": "IN-LA",
+      "municipality": "Leh",
+      "coordinates": "34.1608, 77.56775"
     },
     {
       "ident": "IN-JGB",

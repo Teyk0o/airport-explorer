@@ -1,11 +1,11 @@
 {
   "country_code": "AO",
   "country_name": "Angola",
-  "total_airports": 118,
-  "last_updated": "2025-03-21T00:08:21.111520",
+  "total_airports": 120,
+  "last_updated": "2025-03-22T00:08:13.999661",
   "types_distribution": {
-    "small_airport": 84,
-    "closed": 10,
+    "small_airport": 85,
+    "closed": 11,
     "heliport": 2,
     "medium_airport": 21,
     "large_airport": 1
@@ -554,13 +554,14 @@
     },
     {
       "ident": "AO-0054",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Tômbua Airport",
+      "elevation_ft": 144.0,
       "continent": "AF",
       "iso_country": "AO",
       "iso_region": "AO-NAM",
       "municipality": "Tômbua",
-      "coordinates": "-15.8004, 11.8857"
+      "coordinates": "-15.800486, 11.885896"
     },
     {
       "ident": "AO-0055",
@@ -699,6 +700,28 @@
       "iso_region": "AO-MOX",
       "municipality": "Lumbala",
       "coordinates": "-12.639877, 22.586821"
+    },
+    {
+      "ident": "AO-0068",
+      "type": "small_airport",
+      "name": "Espinheira Airfield",
+      "elevation_ft": 1493.0,
+      "continent": "AF",
+      "iso_country": "AO",
+      "iso_region": "AO-NAM",
+      "municipality": "Espinheira",
+      "coordinates": "-16.78214, 12.35133"
+    },
+    {
+      "ident": "AO-0069",
+      "type": "small_airport",
+      "name": "Praia do Capim Airfield",
+      "elevation_ft": 33.0,
+      "continent": "AF",
+      "iso_country": "AO",
+      "iso_region": "AO-NAM",
+      "municipality": "Praia do Capim",
+      "coordinates": "-15.73555, 11.92488"
     },
     {
       "ident": "AO-CNZ",

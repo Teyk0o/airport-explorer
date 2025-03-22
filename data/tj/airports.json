@@ -1,10 +1,11 @@
 {
   "country_code": "TJ",
   "country_name": "Tajikistan",
-  "total_airports": 19,
-  "last_updated": "2025-03-21T00:08:21.518174",
+  "total_airports": 20,
+  "last_updated": "2025-03-22T00:08:14.402175",
   "types_distribution": {
     "small_airport": 13,
+    "heliport": 1,
     "medium_airport": 6
   },
   "airports": [
@@ -105,6 +106,17 @@
       "coordinates": "40.34394, 70.512219"
     },
     {
+      "ident": "TJ-0010",
+      "type": "heliport",
+      "name": "Charkhbol Heliport",
+      "elevation_ft": 8330.0,
+      "continent": "AS",
+      "iso_country": "TJ",
+      "iso_region": "TJ-GB",
+      "municipality": "Ishkoshim",
+      "coordinates": "36.70939, 71.62661"
+    },
+    {
       "ident": "TJ-UT44",
       "type": "small_airport",
       "name": "Murghab Airport",
@@ -174,7 +186,7 @@
     {
       "ident": "UTDD",
       "type": "medium_airport",
-      "name": "Dushanbe Airport",
+      "name": "Dushanbe International Airport",
       "elevation_ft": 2575.0,
       "continent": "AS",
       "iso_country": "TJ",
@@ -182,7 +194,7 @@
       "municipality": "Dushanbe",
       "gps_code": "UTDD",
       "iata_code": "DYU",
-      "coordinates": "38.543301, 68.824997"
+      "coordinates": "38.543746, 68.822977"
     },
     {
       "ident": "UTDK",

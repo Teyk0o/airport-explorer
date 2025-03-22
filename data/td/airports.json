@@ -1,10 +1,10 @@
 {
   "country_code": "TD",
   "country_name": "Chad",
-  "total_airports": 45,
-  "last_updated": "2025-03-21T00:08:21.108246",
+  "total_airports": 46,
+  "last_updated": "2025-03-22T00:08:13.996636",
   "types_distribution": {
-    "small_airport": 38,
+    "small_airport": 39,
     "medium_airport": 4,
     "large_airport": 1,
     "closed": 2
@@ -96,7 +96,7 @@
       "municipality": "Moundou",
       "gps_code": "FTTD",
       "iata_code": "MQQ",
-      "coordinates": "8.62441, 16.0714"
+      "coordinates": "8.628503, 16.074241"
     },
     {
       "ident": "FTTE",
@@ -542,6 +542,17 @@
       "iso_region": "TD-CB",
       "municipality": "Naramay,",
       "coordinates": "10.198583, 16.868222"
+    },
+    {
+      "ident": "TD-0021",
+      "type": "small_airport",
+      "name": "Beladja Airfield",
+      "elevation_ft": 1322.0,
+      "continent": "AF",
+      "iso_country": "TD",
+      "iso_region": "TD-LO",
+      "municipality": "Beladja",
+      "coordinates": "8.71386, 16.40718"
     }
   ]
 }

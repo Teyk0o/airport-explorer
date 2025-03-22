@@ -1,16 +1,28 @@
 {
   "country_code": "NG",
   "country_name": "Nigeria",
-  "total_airports": 66,
-  "last_updated": "2025-03-21T00:08:21.344095",
+  "total_airports": 67,
+  "last_updated": "2025-03-22T00:08:14.229639",
   "types_distribution": {
-    "small_airport": 23,
+    "small_airport": 24,
     "large_airport": 2,
     "medium_airport": 24,
     "closed": 2,
     "heliport": 15
   },
   "airports": [
+    {
+      "ident": "DMDM",
+      "type": "small_airport",
+      "name": "Muhammadu Buhari International Cargo Airport",
+      "elevation_ft": 1250.0,
+      "continent": "AF",
+      "iso_country": "NG",
+      "iso_region": "NG-YO",
+      "municipality": "Kanguwol",
+      "gps_code": "DMDM",
+      "coordinates": "11.94411, 11.80845"
+    },
     {
       "ident": "DN50",
       "type": "small_airport",
@@ -499,10 +511,10 @@
       "continent": "AF",
       "iso_country": "NG",
       "iso_region": "NG-DE",
-      "municipality": "Warri",
+      "municipality": "Okpe",
       "gps_code": "DNSU",
       "iata_code": "QRW",
-      "coordinates": "5.59611, 5.81778"
+      "coordinates": "5.59821, 5.8187"
     },
     {
       "ident": "DNYO",

@@ -1,13 +1,13 @@
 {
   "country_code": "VG",
   "country_name": "British Virgin Islands",
-  "total_airports": 6,
-  "last_updated": "2025-03-21T00:08:21.519819",
+  "total_airports": 7,
+  "last_updated": "2025-03-22T00:08:14.403717",
   "types_distribution": {
     "seaplane_base": 2,
     "small_airport": 2,
     "medium_airport": 1,
-    "heliport": 1
+    "heliport": 2
   },
   "airports": [
     {
@@ -39,7 +39,7 @@
       "elevation_ft": 15.0,
       "iso_country": "VG",
       "iso_region": "VG-U-A",
-      "municipality": "Road Town",
+      "municipality": "Beef Island",
       "gps_code": "TUPJ",
       "iata_code": "EIS",
       "coordinates": "18.445492, -64.541707"
@@ -54,7 +54,7 @@
       "municipality": "Spanish Town",
       "gps_code": "TUPW",
       "iata_code": "VIJ",
-      "coordinates": "18.446399688720703, -64.42749786376953"
+      "coordinates": "18.446634, -64.427932"
     },
     {
       "ident": "VG-0001",
@@ -75,6 +75,16 @@
       "municipality": "Tortola",
       "iata_code": "RAD",
       "coordinates": "18.418273, -64.617369"
+    },
+    {
+      "ident": "VG-0003",
+      "type": "heliport",
+      "name": "Dr. D Orlando Smith Hospital Heliport",
+      "elevation_ft": 3.0,
+      "iso_country": "VG",
+      "iso_region": "VG-U-A",
+      "municipality": "Road Town",
+      "coordinates": "18.41726, -64.61737"
     }
   ]
 }

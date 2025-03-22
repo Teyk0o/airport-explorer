@@ -1,10 +1,10 @@
 {
   "country_code": "AW",
   "country_name": "Aruba",
-  "total_airports": 3,
-  "last_updated": "2025-03-21T00:08:21.123780",
+  "total_airports": 4,
+  "last_updated": "2025-03-22T00:08:14.011777",
   "types_distribution": {
-    "closed": 2,
+    "closed": 3,
     "large_airport": 1
   },
   "airports": [
@@ -25,6 +25,15 @@
       "iso_region": "AW-U-A",
       "municipality": "San Nicolas",
       "coordinates": "12.454544, -69.887499"
+    },
+    {
+      "ident": "AW-0003",
+      "type": "closed",
+      "name": "De Vuijst Field",
+      "iso_country": "AW",
+      "iso_region": "AW-U-A",
+      "municipality": "San Nicolas",
+      "coordinates": "12.4385, -69.88641"
     },
     {
       "ident": "TNCA",

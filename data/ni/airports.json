@@ -2,11 +2,11 @@
   "country_code": "NI",
   "country_name": "Nicaragua",
   "total_airports": 44,
-  "last_updated": "2025-03-21T00:08:21.494532",
+  "last_updated": "2025-03-22T00:08:14.378999",
   "types_distribution": {
-    "small_airport": 37,
+    "small_airport": 36,
     "medium_airport": 3,
-    "closed": 4
+    "closed": 5
   },
   "airports": [
     {
@@ -160,14 +160,13 @@
     },
     {
       "ident": "MNFF",
-      "type": "small_airport",
+      "type": "closed",
       "name": "El Bluff Airport",
       "elevation_ft": 1.0,
       "iso_country": "NI",
       "iso_region": "NI-AS",
       "municipality": "El Bluff",
-      "gps_code": "MNFF",
-      "coordinates": "11.989854, -83.691745"
+      "coordinates": "11.99229, -83.688731"
     },
     {
       "ident": "MNHG",
@@ -390,6 +389,7 @@
       "iso_country": "NI",
       "iso_region": "NI-GR",
       "municipality": "Malacataya",
+      "gps_code": "MNLL",
       "coordinates": "12.15303, -85.90848"
     },
     {

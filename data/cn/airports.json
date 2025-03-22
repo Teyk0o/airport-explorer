@@ -1,10 +1,10 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 734,
-  "last_updated": "2025-03-21T00:08:21.075784",
+  "total_airports": 735,
+  "last_updated": "2025-03-22T00:08:13.964623",
   "types_distribution": {
-    "small_airport": 238,
+    "small_airport": 239,
     "medium_airport": 274,
     "closed": 58,
     "heliport": 120,
@@ -4663,6 +4663,17 @@
       "iso_region": "CN-44",
       "municipality": "Zhuhai (Jinwan)",
       "coordinates": "21.886534, 113.267262"
+    },
+    {
+      "ident": "CN-0467",
+      "type": "small_airport",
+      "name": "Jingbian Haizetan Airport",
+      "elevation_ft": 4298.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-61",
+      "municipality": "Jingbian",
+      "coordinates": "37.76514, 108.847615"
     },
     {
       "ident": "CN-JNZ",

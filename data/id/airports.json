@@ -1,11 +1,11 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 652,
-  "last_updated": "2025-03-21T00:08:21.124104",
+  "total_airports": 655,
+  "last_updated": "2025-03-22T00:08:14.012079",
   "types_distribution": {
-    "small_airport": 475,
-    "closed": 45,
+    "small_airport": 477,
+    "closed": 46,
     "heliport": 53,
     "large_airport": 8,
     "medium_airport": 71
@@ -391,9 +391,9 @@
     {
       "ident": "ID-0035",
       "type": "small_airport",
-      "name": "Bomoani Airstrip",
+      "name": "Bomomani Airstrip",
       "elevation_ft": 4966.0,
-      "continent": "AS",
+      "continent": "OC",
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Bomomani",
@@ -1789,7 +1789,7 @@
       "type": "small_airport",
       "name": "Timepa Airstrip",
       "elevation_ft": 4940.0,
-      "continent": "AS",
+      "continent": "OC",
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Timepa",
@@ -1995,12 +1995,12 @@
     {
       "ident": "ID-0173",
       "type": "small_airport",
-      "name": "Apowo Airstrip",
+      "name": "Apouwo Airstrip",
       "elevation_ft": 5250.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-PT",
-      "municipality": "Apowo",
+      "municipality": "Apouwo",
       "coordinates": "-4.063248, 135.560018"
     },
     {
@@ -2555,7 +2555,7 @@
       "type": "small_airport",
       "name": "Ideduna Airstrip",
       "elevation_ft": 6001.0,
-      "continent": "AS",
+      "continent": "OC",
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Ideduna",
@@ -3749,9 +3749,9 @@
     {
       "ident": "ID-0339",
       "type": "medium_airport",
-      "name": "Nabire Airport",
+      "name": "Old Nabire Airport",
       "elevation_ft": 20.0,
-      "continent": "AS",
+      "continent": "OC",
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Nabire",
@@ -3978,6 +3978,39 @@
       "iso_region": "ID-PA",
       "municipality": "Nisikni",
       "coordinates": "-4.24745, 139.47418"
+    },
+    {
+      "ident": "ID-0361",
+      "type": "small_airport",
+      "name": "Menou Airstrip",
+      "elevation_ft": 4741.0,
+      "continent": "OC",
+      "iso_country": "ID",
+      "iso_region": "ID-PT",
+      "municipality": "Menou",
+      "coordinates": "-3.86487, 135.51802"
+    },
+    {
+      "ident": "ID-0362",
+      "type": "small_airport",
+      "name": "Apogomakida Airstrip",
+      "elevation_ft": 5988.0,
+      "continent": "OC",
+      "iso_country": "ID",
+      "iso_region": "ID-PT",
+      "municipality": "Apogomakida",
+      "coordinates": "-4.00453, 135.49515"
+    },
+    {
+      "ident": "ID-0363",
+      "type": "closed",
+      "name": "Sagan Airfield",
+      "elevation_ft": 69.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-PB",
+      "municipality": "Wasior",
+      "coordinates": "-2.78618, 134.52473"
     },
     {
       "ident": "ID-AAS",
@@ -4423,7 +4456,7 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-PT",
-      "municipality": "Wagethe",
+      "municipality": "Tigi",
       "gps_code": "WABA",
       "iata_code": "WET",
       "coordinates": "-4.05916, 136.281715"
@@ -4433,7 +4466,7 @@
       "type": "medium_airport",
       "name": "Douw Aturure Airport",
       "elevation_ft": 22.0,
-      "continent": "AS",
+      "continent": "OC",
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Nabire",
@@ -6338,13 +6371,13 @@
       "type": "small_airport",
       "name": "Wasior Airport",
       "elevation_ft": 49.0,
-      "continent": "AS",
+      "continent": "OC",
       "iso_country": "ID",
       "iso_region": "ID-PB",
-      "municipality": "Wasior-Papua Island",
+      "municipality": "Wasior",
       "gps_code": "WASW",
       "iata_code": "WSR",
-      "coordinates": "-2.721, 134.5061"
+      "coordinates": "-2.720434, 134.505902"
     },
     {
       "ident": "WATA",
@@ -7216,7 +7249,7 @@
       "municipality": "Parapat-Sumatra Island",
       "gps_code": "WIMP",
       "iata_code": "SIW",
-      "coordinates": "2.601944, 98.96389"
+      "coordinates": "2.601967, 98.962381"
     },
     {
       "ident": "WIMS",

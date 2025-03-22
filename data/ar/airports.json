@@ -1,10 +1,10 @@
 {
   "country_code": "AR",
   "country_name": "Argentina",
-  "total_airports": 953,
-  "last_updated": "2025-03-21T00:08:21.112866",
+  "total_airports": 955,
+  "last_updated": "2025-03-22T00:08:14.000968",
   "types_distribution": {
-    "small_airport": 692,
+    "small_airport": 694,
     "closed": 42,
     "heliport": 148,
     "balloonport": 1,
@@ -280,12 +280,12 @@
     {
       "ident": "AR-0023",
       "type": "small_airport",
-      "name": "Bahia Blanca Aeroclub Airport",
+      "name": "Bahía Blanca Aeroclub Airport",
       "elevation_ft": 49.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-B",
-      "municipality": "Bahia Blanca",
+      "municipality": "Bahía Blanca",
       "gps_code": "SA92",
       "local_code": "BHB",
       "coordinates": "-38.672059, -62.352846"
@@ -2159,12 +2159,12 @@
     {
       "ident": "AR-0180",
       "type": "small_airport",
-      "name": "Gonzalez Chaves Airport",
+      "name": "Gonzales Chaves Airport",
       "elevation_ft": 636.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-B",
-      "municipality": "Gonzalez Chaves",
+      "municipality": "Adolfo Gonzales Chaves",
       "gps_code": "SA6R",
       "local_code": "GVZ",
       "coordinates": "-38.02949, -60.135654"
@@ -3166,12 +3166,12 @@
     {
       "ident": "AR-0264",
       "type": "small_airport",
-      "name": "Maipu Airport",
+      "name": "Maipú Airport",
       "elevation_ft": 52.0,
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-B",
-      "municipality": "Maipu",
+      "municipality": "Maipú",
       "local_code": "MPU",
       "coordinates": "-36.8903, -57.8503"
     },
@@ -8977,6 +8977,28 @@
       "coordinates": "-32.868447, -60.69981"
     },
     {
+      "ident": "AR-0765",
+      "type": "small_airport",
+      "name": "Estancia El Destino Airfield",
+      "elevation_ft": 144.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-B",
+      "municipality": "Copetonas",
+      "coordinates": "-38.76672, -60.45403"
+    },
+    {
+      "ident": "AR-0766",
+      "type": "small_airport",
+      "name": "La Moderna Airfield",
+      "elevation_ft": 610.0,
+      "continent": "SA",
+      "iso_country": "AR",
+      "iso_region": "AR-B",
+      "municipality": "Adolfo Gonzales Chaves",
+      "coordinates": "-37.95225, -59.8382"
+    },
+    {
       "ident": "CSA",
       "type": "small_airport",
       "name": "Aerocampo CSA airport",
@@ -9307,9 +9329,9 @@
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-B",
-      "municipality": "Puerto Rosales",
+      "municipality": "Punta Alta",
       "gps_code": "SA27",
-      "coordinates": "-38.897098541259766, -62.01029968261719"
+      "coordinates": "-38.897434, -62.010217"
     },
     {
       "ident": "SA29",
@@ -11229,7 +11251,7 @@
       "continent": "SA",
       "iso_country": "AR",
       "iso_region": "AR-B",
-      "municipality": "Bahia Blanca",
+      "municipality": "Bahía Blanca",
       "gps_code": "SAZB",
       "iata_code": "BHI",
       "local_code": "BCA",
@@ -11470,7 +11492,7 @@
     {
       "ident": "SAZT",
       "type": "medium_airport",
-      "name": "Héroes De Malvinas Airport",
+      "name": "Héroes de Malvinas Airport",
       "elevation_ft": 574.0,
       "continent": "SA",
       "iso_country": "AR",
