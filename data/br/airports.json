@@ -1,10 +1,10 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7462,
-  "last_updated": "2025-03-22T00:08:14.069060",
+  "total_airports": 7463,
+  "last_updated": "2025-03-23T00:09:09.603947",
   "types_distribution": {
-    "small_airport": 5162,
+    "small_airport": 5163,
     "closed": 294,
     "heliport": 1871,
     "medium_airport": 124,
@@ -39356,6 +39356,17 @@
       "iso_region": "BR-RS",
       "municipality": "Vila Princesa",
       "coordinates": "-31.61955, -52.28224"
+    },
+    {
+      "ident": "BR-3253",
+      "type": "small_airport",
+      "name": "Boca da Mata Airstrip",
+      "elevation_ft": 1427.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RR",
+      "municipality": "Boca da Mata",
+      "coordinates": "4.34121, -61.13434"
     },
     {
       "ident": "BR-ALT",

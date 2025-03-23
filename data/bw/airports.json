@@ -1,11 +1,11 @@
 {
   "country_code": "BW",
   "country_name": "Botswana",
-  "total_airports": 134,
-  "last_updated": "2025-03-22T00:08:14.139769",
+  "total_airports": 140,
+  "last_updated": "2025-03-23T00:09:09.677123",
   "types_distribution": {
-    "small_airport": 115,
-    "closed": 12,
+    "small_airport": 120,
+    "closed": 13,
     "medium_airport": 6,
     "large_airport": 1
   },
@@ -212,7 +212,7 @@
     },
     {
       "ident": "BW-0019",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Etsha Airport",
       "elevation_ft": 3205.0,
       "continent": "AF",
@@ -414,6 +414,7 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Macatoo Camp",
       "coordinates": "-19.658743, 22.955112"
     },
     {
@@ -423,15 +424,18 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Sanctuary Stanley's Camp",
       "coordinates": "-19.626272, 23.279398"
     },
     {
       "ident": "BW-0040",
       "type": "small_airport",
-      "name": "Ketumetse Airport",
+      "name": "Motswiri Airstrip",
+      "elevation_ft": 3159.0,
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Motswiri Camp",
       "coordinates": "-18.771248, 23.041275"
     },
     {
@@ -441,6 +445,7 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Kashiambaras",
       "coordinates": "-18.787656, 22.829697"
     },
     {
@@ -450,6 +455,7 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Nxabega",
       "coordinates": "-19.464174, 22.777865"
     },
     {
@@ -486,9 +492,11 @@
       "ident": "BW-0046",
       "type": "small_airport",
       "name": "Xamaxai Airport",
+      "elevation_ft": 3192.0,
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Kashiambaras",
       "coordinates": "-18.878912, 22.713563"
     },
     {
@@ -705,6 +713,72 @@
       "coordinates": "-24.0170001984, 21.8829994202"
     },
     {
+      "ident": "BW-0067",
+      "type": "small_airport",
+      "name": "Lebala Airstrip",
+      "elevation_ft": 3114.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-NW",
+      "municipality": "Lebala Camp",
+      "coordinates": "-18.43366, 23.52996"
+    },
+    {
+      "ident": "BW-0068",
+      "type": "small_airport",
+      "name": "Kadizora Airstrip",
+      "elevation_ft": 3209.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-NW",
+      "municipality": "Nwanaeanoka",
+      "coordinates": "-18.90247, 22.59433"
+    },
+    {
+      "ident": "BW-0069",
+      "type": "small_airport",
+      "name": "Mopiri Airstrip",
+      "elevation_ft": 3203.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-NW",
+      "municipality": "Etsha",
+      "coordinates": "-19.09778, 22.36718"
+    },
+    {
+      "ident": "BW-0070",
+      "type": "small_airport",
+      "name": "Matsaudi Airstrip",
+      "elevation_ft": 3104.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-NW",
+      "municipality": "Sapakanes",
+      "coordinates": "-19.86015, 23.5993"
+    },
+    {
+      "ident": "BW-0071",
+      "type": "small_airport",
+      "name": "Kiri-Waka Airstrip",
+      "elevation_ft": 3110.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-NW",
+      "municipality": "Kiri-Waka",
+      "coordinates": "-19.776683, 23.221215"
+    },
+    {
+      "ident": "BW-0072",
+      "type": "small_airport",
+      "name": "Leopard Plains Airstrip",
+      "elevation_ft": 3068.0,
+      "continent": "AF",
+      "iso_country": "BW",
+      "iso_region": "BW-NW",
+      "municipality": "Motopi",
+      "coordinates": "-20.18091, 24.16769"
+    },
+    {
       "ident": "BW-HUK",
       "type": "small_airport",
       "name": "Hukuntsi Airport",
@@ -761,8 +835,9 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
+      "municipality": "Linyanti",
       "gps_code": "FBCH",
-      "coordinates": "-18.53402, 23.659027"
+      "coordinates": "-18.534381, 23.660149"
     },
     {
       "ident": "FBCM",
@@ -798,7 +873,7 @@
       "iso_region": "BW-NW",
       "municipality": "Delta Camp",
       "gps_code": "FBDT",
-      "coordinates": "-19.5323, 23.0925"
+      "coordinates": "-19.533698, 23.093792"
     },
     {
       "ident": "FBDV",
@@ -1010,7 +1085,7 @@
     {
       "ident": "FBKD",
       "type": "small_airport",
-      "name": "Kwando - Lagoon Airport",
+      "name": "Kwando Lagoon Airport",
       "elevation_ft": 3150.0,
       "continent": "AF",
       "iso_country": "BW",
@@ -1054,7 +1129,7 @@
       "iso_region": "BW-NW",
       "municipality": "Kiri Camp",
       "gps_code": "FBKI",
-      "coordinates": "-19.616197, 23.042473"
+      "coordinates": "-19.61594, 23.04234"
     },
     {
       "ident": "FBKK",
@@ -1096,14 +1171,14 @@
     {
       "ident": "FBKW",
       "type": "small_airport",
-      "name": "Kwando - Lebala Airport",
+      "name": "Kwando Lebala Airport",
       "elevation_ft": 3125.0,
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Lebala Camp",
       "gps_code": "FBKW",
-      "coordinates": "-18.360992, 23.530495"
+      "coordinates": "-18.36099, 23.53049"
     },
     {
       "ident": "FBKY",
@@ -1165,7 +1240,7 @@
       "municipality": "Maun",
       "gps_code": "FBMN",
       "iata_code": "MUB",
-      "coordinates": "-19.97260093688965, 23.431100845336914"
+      "coordinates": "-19.970491, 23.431409"
     },
     {
       "ident": "FBMU",
@@ -1218,12 +1293,12 @@
     {
       "ident": "FBNW",
       "type": "small_airport",
-      "name": "Ntswi Airport",
+      "name": "Moremi Crossing Airstrip",
       "elevation_ft": 3140.0,
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "municipality": "Gunn's Camp",
+      "municipality": "Moremi Crossing",
       "gps_code": "FBNW",
       "coordinates": "-19.52899, 23.139408"
     },

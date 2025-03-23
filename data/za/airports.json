@@ -1,11 +1,11 @@
 {
   "country_code": "ZA",
   "country_name": "South Africa",
-  "total_airports": 652,
-  "last_updated": "2025-03-22T00:08:14.258951",
+  "total_airports": 657,
+  "last_updated": "2025-03-23T00:09:09.800083",
   "types_distribution": {
     "medium_airport": 57,
-    "small_airport": 513,
+    "small_airport": 518,
     "large_airport": 3,
     "heliport": 49,
     "closed": 29,
@@ -1156,7 +1156,7 @@
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
       "gps_code": "FAGV",
-      "coordinates": "-23.91670036315918, 30.700000762939453"
+      "coordinates": "-23.91127, 30.696192"
     },
     {
       "ident": "FAGW",
@@ -7481,6 +7481,61 @@
       "municipality": "Dunnottar",
       "local_code": "FADR",
       "coordinates": "-26.3543156175, 28.466791153"
+    },
+    {
+      "ident": "ZA-0342",
+      "type": "small_airport",
+      "name": "Gravelotte Mine Airstrip",
+      "elevation_ft": 1824.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Gravelotte",
+      "coordinates": "-23.95812, 30.64612"
+    },
+    {
+      "ident": "ZA-0343",
+      "type": "small_airport",
+      "name": "Selati Airstrip",
+      "elevation_ft": 1663.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Gravelotte",
+      "coordinates": "-24.01165, 30.68418"
+    },
+    {
+      "ident": "ZA-0344",
+      "type": "small_airport",
+      "name": "Mica Village Airstrip",
+      "elevation_ft": 1486.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Gravelotte",
+      "coordinates": "-24.15865, 30.83891"
+    },
+    {
+      "ident": "ZA-0345",
+      "type": "small_airport",
+      "name": "Garonga Airstrip",
+      "elevation_ft": 1575.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Phalaborwa",
+      "coordinates": "-24.09922, 30.71658"
+    },
+    {
+      "ident": "ZA-0346",
+      "type": "small_airport",
+      "name": "Askari Airstrip",
+      "elevation_ft": 1575.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Tzaneen",
+      "coordinates": "-24.08148, 30.57187"
     },
     {
       "ident": "ZA-KIG",

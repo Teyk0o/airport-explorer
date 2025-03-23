@@ -2,11 +2,11 @@
   "country_code": "MW",
   "country_name": "Malawi",
   "total_airports": 30,
-  "last_updated": "2025-03-22T00:08:14.286176",
+  "last_updated": "2025-03-23T00:09:09.828202",
   "types_distribution": {
-    "small_airport": 22,
+    "small_airport": 21,
     "medium_airport": 5,
-    "closed": 3
+    "closed": 4
   },
   "airports": [
     {
@@ -137,27 +137,26 @@
     {
       "ident": "FWKI",
       "type": "medium_airport",
-      "name": "Lilongwe International Airport",
+      "name": "Kamuzu International Airport",
       "elevation_ft": 4035.0,
       "continent": "AF",
       "iso_country": "MW",
       "iso_region": "MW-LI",
-      "municipality": "Lilongwe",
+      "municipality": "Lumbadzi",
       "gps_code": "FWKI",
       "iata_code": "LLW",
-      "coordinates": "-13.7894001007, 33.78099823"
+      "coordinates": "-13.7894, 33.780998"
     },
     {
       "ident": "FWKK",
-      "type": "small_airport",
-      "name": "Nkhota Kota Airport",
+      "type": "closed",
+      "name": "Nkhotakota Aerodrome",
       "elevation_ft": 1720.0,
       "continent": "AF",
       "iso_country": "MW",
       "iso_region": "MW-NK",
-      "municipality": "Nkhota Kota",
-      "gps_code": "FWKK",
-      "coordinates": "-12.916999816894531, 34.266998291015625"
+      "municipality": "Nkhotakota",
+      "coordinates": "-12.922915, 34.281478"
     },
     {
       "ident": "FWLE",
@@ -328,6 +327,7 @@
       "iso_country": "MW",
       "iso_region": "MW-NB",
       "municipality": "Chintheche",
+      "gps_code": "FWCC",
       "coordinates": "-11.8353, 34.16446"
     },
     {

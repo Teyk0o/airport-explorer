@@ -1,15 +1,15 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3228,
-  "last_updated": "2025-03-22T00:08:14.146120",
+  "total_airports": 3231,
+  "last_updated": "2025-03-23T00:09:09.683882",
   "types_distribution": {
-    "closed": 827,
+    "closed": 829,
     "small_airport": 1208,
-    "heliport": 506,
+    "heliport": 508,
     "seaplane_base": 435,
     "balloonport": 1,
-    "medium_airport": 241,
+    "medium_airport": 240,
     "large_airport": 10
   },
   "airports": [
@@ -2621,7 +2621,7 @@
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Kettleby",
-      "coordinates": "44, -79.633331"
+      "coordinates": "43.994052, -79.640708"
     },
     {
       "ident": "CA-0296",
@@ -11217,6 +11217,33 @@
       "iso_region": "CA-AB",
       "municipality": "Beaver Mines",
       "coordinates": "49.46436, -114.17937"
+    },
+    {
+      "ident": "CA-1175",
+      "type": "heliport",
+      "name": "Vaughan Smart Centres Helipad",
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Vaughan",
+      "coordinates": "43.796453, -79.539267"
+    },
+    {
+      "ident": "CA-1176",
+      "type": "heliport",
+      "name": "Eagle's Nest Golf Club Helipad",
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Maple",
+      "coordinates": "43.866408, -79.492258"
+    },
+    {
+      "ident": "CA-1177",
+      "type": "heliport",
+      "name": "York Region EMS HQ Helipad",
+      "iso_country": "CA",
+      "iso_region": "CA-U-A",
+      "municipality": "Sharon",
+      "coordinates": "44.081187, -79.396305"
     },
     {
       "ident": "CA-CAB5",
@@ -26024,14 +26051,12 @@
     },
     {
       "ident": "CPL8",
-      "type": "heliport",
+      "type": "closed",
       "name": "Cardinal Couriers Heliport",
       "elevation_ft": 612.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "Toronto",
-      "gps_code": "CPL8",
-      "local_code": "CPL8",
       "coordinates": "43.631272, -79.664703"
     },
     {
@@ -34616,13 +34641,12 @@
     },
     {
       "ident": "CYZD",
-      "type": "medium_airport",
+      "type": "closed",
       "name": "Downsview Airport",
       "elevation_ft": 652.0,
       "iso_country": "CA",
       "iso_region": "CA-ON",
       "municipality": "North York",
-      "gps_code": "CYZD",
       "coordinates": "43.7425, -79.465599"
     },
     {

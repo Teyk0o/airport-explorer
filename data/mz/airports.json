@@ -1,13 +1,13 @@
 {
   "country_code": "MZ",
   "country_name": "Mozambique",
-  "total_airports": 100,
-  "last_updated": "2025-03-22T00:08:13.998299",
+  "total_airports": 102,
+  "last_updated": "2025-03-23T00:09:09.529722",
   "types_distribution": {
-    "small_airport": 77,
+    "small_airport": 78,
     "medium_airport": 14,
     "large_airport": 1,
-    "closed": 8
+    "closed": 9
   },
   "airports": [
     {
@@ -105,7 +105,7 @@
       "municipality": "Beira",
       "gps_code": "FQBR",
       "iata_code": "BEW",
-      "coordinates": "-19.79640007019043, 34.90760040283203"
+      "coordinates": "-19.7964, 34.9076"
     },
     {
       "ident": "FQCB",
@@ -1059,6 +1059,28 @@
       "iso_region": "MZ-T",
       "municipality": "Emboqui",
       "coordinates": "-15.60454, 32.41439"
+    },
+    {
+      "ident": "MZ-0060",
+      "type": "closed",
+      "name": "Nairrubi Airstrip",
+      "elevation_ft": 2247.0,
+      "continent": "AF",
+      "iso_country": "MZ",
+      "iso_region": "MZ-A",
+      "municipality": "Nairrubi",
+      "coordinates": "-13.4929, 36.0764"
+    },
+    {
+      "ident": "MZ-0061",
+      "type": "small_airport",
+      "name": "Mandimba Airport",
+      "elevation_ft": 2549.0,
+      "continent": "AF",
+      "iso_country": "MZ",
+      "iso_region": "MZ-A",
+      "municipality": "Mandimba",
+      "coordinates": "-14.33943, 35.663"
     },
     {
       "ident": "MZ-TGS",
