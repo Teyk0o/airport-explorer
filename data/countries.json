@@ -55,9 +55,9 @@
   {
     "code": "AO",
     "name": "Angola",
-    "airport_count": 120,
+    "airport_count": 121,
     "types_distribution": {
-      "small_airport": 85,
+      "small_airport": 86,
       "closed": 11,
       "heliport": 2,
       "medium_airport": 21,
@@ -422,11 +422,11 @@
   {
     "code": "CA",
     "name": "Canada",
-    "airport_count": 3231,
+    "airport_count": 3232,
     "types_distribution": {
       "closed": 829,
       "small_airport": 1208,
-      "heliport": 508,
+      "heliport": 509,
       "seaplane_base": 435,
       "balloonport": 1,
       "medium_airport": 240,
@@ -606,11 +606,11 @@
   {
     "code": "CZ",
     "name": "Czech Republic",
-    "airport_count": 384,
+    "airport_count": 385,
     "types_distribution": {
       "heliport": 107,
       "closed": 25,
-      "small_airport": 240,
+      "small_airport": 241,
       "medium_airport": 11,
       "large_airport": 1
     }
@@ -872,12 +872,12 @@
   {
     "code": "GE",
     "name": "Georgia",
-    "airport_count": 35,
+    "airport_count": 51,
     "types_distribution": {
       "closed": 10,
       "small_airport": 9,
       "medium_airport": 11,
-      "heliport": 4,
+      "heliport": 20,
       "large_airport": 1
     }
   },
@@ -1091,9 +1091,9 @@
   {
     "code": "IN",
     "name": "India",
-    "airport_count": 636,
+    "airport_count": 635,
     "types_distribution": {
-      "heliport": 289,
+      "heliport": 288,
       "small_airport": 181,
       "closed": 31,
       "medium_airport": 122,
@@ -1104,9 +1104,9 @@
   {
     "code": "ID",
     "name": "Indonesia",
-    "airport_count": 655,
+    "airport_count": 656,
     "types_distribution": {
-      "small_airport": 477,
+      "small_airport": 478,
       "closed": 46,
       "heliport": 53,
       "large_airport": 8,
@@ -2226,10 +2226,10 @@
   {
     "code": "ZA",
     "name": "South Africa",
-    "airport_count": 657,
+    "airport_count": 658,
     "types_distribution": {
       "medium_airport": 57,
-      "small_airport": 518,
+      "small_airport": 519,
       "large_airport": 3,
       "heliport": 49,
       "closed": 29,
@@ -2331,11 +2331,11 @@
   {
     "code": "SE",
     "name": "Sweden",
-    "airport_count": 255,
+    "airport_count": 256,
     "types_distribution": {
       "medium_airport": 44,
       "small_airport": 160,
-      "heliport": 11,
+      "heliport": 12,
       "large_airport": 2,
       "seaplane_base": 1,
       "closed": 37
@@ -2558,9 +2558,9 @@
   {
     "code": "US",
     "name": "United States",
-    "airport_count": 32007,
+    "airport_count": 32008,
     "types_distribution": {
-      "heliport": 8130,
+      "heliport": 8131,
       "small_airport": 15212,
       "seaplane_base": 647,
       "balloonport": 29,
@@ -2679,12 +2679,12 @@
   {
     "code": "YE",
     "name": "Yemen",
-    "airport_count": 44,
+    "airport_count": 45,
     "types_distribution": {
       "small_airport": 27,
-      "medium_airport": 10,
-      "heliport": 6,
-      "closed": 1
+      "medium_airport": 9,
+      "closed": 3,
+      "heliport": 6
     }
   },
   {
@@ -2702,12 +2702,12 @@
   {
     "code": "ZW",
     "name": "Zimbabwe",
-    "airport_count": 155,
+    "airport_count": 160,
     "types_distribution": {
-      "small_airport": 135,
+      "small_airport": 137,
       "medium_airport": 8,
       "large_airport": 1,
-      "closed": 6,
+      "closed": 9,
       "heliport": 5
     }
   }

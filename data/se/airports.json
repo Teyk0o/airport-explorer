@@ -1,12 +1,12 @@
 {
   "country_code": "SE",
   "country_name": "Sweden",
-  "total_airports": 255,
-  "last_updated": "2025-03-23T00:09:09.794989",
+  "total_airports": 256,
+  "last_updated": "2025-03-24T00:08:57.524777",
   "types_distribution": {
     "medium_airport": 44,
     "small_airport": 160,
-    "heliport": 11,
+    "heliport": 12,
     "large_airport": 2,
     "seaplane_base": 1,
     "closed": 37
@@ -2856,6 +2856,17 @@
       "iso_region": "SE-D",
       "municipality": "Nyköping",
       "coordinates": "58.7456016541, 17.0489006042"
+    },
+    {
+      "ident": "SE-0113",
+      "type": "heliport",
+      "name": "Kallax Flyg Heliport",
+      "elevation_ft": 1332.0,
+      "continent": "EU",
+      "iso_country": "SE",
+      "iso_region": "SE-BD",
+      "municipality": "Abisko",
+      "coordinates": "68.34579, 18.83074"
     }
   ]
 }

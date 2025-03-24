@@ -1,13 +1,13 @@
 {
   "country_code": "YE",
   "country_name": "Yemen",
-  "total_airports": 44,
-  "last_updated": "2025-03-23T00:09:09.740488",
+  "total_airports": 45,
+  "last_updated": "2025-03-24T00:08:57.471554",
   "types_distribution": {
     "small_airport": 27,
-    "medium_airport": 10,
-    "heliport": 6,
-    "closed": 1
+    "medium_airport": 9,
+    "closed": 3,
+    "heliport": 6
   },
   "airports": [
     {
@@ -79,7 +79,7 @@
       "elevation_ft": 651.0,
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-SN",
+      "iso_region": "YE-HJ",
       "municipality": "Abs",
       "gps_code": "OYBS",
       "iata_code": "EAB",
@@ -164,16 +164,14 @@
     },
     {
       "ident": "OYHD",
-      "type": "medium_airport",
-      "name": "Hodeidah International Airport",
+      "type": "closed",
+      "name": "Hodeida International Airport",
       "elevation_ft": 41.0,
       "continent": "AS",
       "iso_country": "YE",
       "iso_region": "YE-HU",
       "municipality": "Hodeida",
-      "gps_code": "OYHD",
-      "iata_code": "HOD",
-      "coordinates": "14.753000259399414, 42.97629928588867"
+      "coordinates": "14.753, 42.976299"
     },
     {
       "ident": "OYKM",
@@ -182,7 +180,7 @@
       "elevation_ft": 51.0,
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-MU",
+      "iso_region": "YE-HU",
       "municipality": "Kamaran",
       "gps_code": "OYKM",
       "iata_code": "KAM",
@@ -258,7 +256,7 @@
       "name": "As Salif Airport",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-MU",
+      "iso_region": "YE-HU",
       "municipality": "As Salif",
       "gps_code": "OYSF",
       "coordinates": "15.294577, 42.685954"
@@ -279,15 +277,15 @@
     {
       "ident": "OYSN",
       "type": "medium_airport",
-      "name": "Sana'a International Airport",
+      "name": "Sanaa International Airport",
       "elevation_ft": 7216.0,
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-SN",
-      "municipality": "Sana'a",
+      "iso_region": "YE-SA",
+      "municipality": "Sanaa",
       "gps_code": "OYSN",
       "iata_code": "SAH",
-      "coordinates": "15.476300239562988, 44.21969985961914"
+      "coordinates": "15.4763, 44.2197"
     },
     {
       "ident": "OYSQ",
@@ -296,11 +294,11 @@
       "elevation_ft": 146.0,
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-HD",
-      "municipality": "Socotra Islands",
+      "iso_region": "YE-SU",
+      "municipality": "Mori",
       "gps_code": "OYSQ",
       "iata_code": "SCT",
-      "coordinates": "12.63070011138916, 53.905799865722656"
+      "coordinates": "12.6307, 53.9058"
     },
     {
       "ident": "OYSY",
@@ -353,7 +351,7 @@
     },
     {
       "ident": "YE-0001",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Perim / Mayyun West Airfield",
       "continent": "AS",
       "iso_country": "YE",
@@ -474,56 +472,72 @@
     {
       "ident": "YE-0012",
       "type": "closed",
-      "name": "Mocha",
+      "name": "Mokha Airport",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-U-A",
+      "iso_region": "YE-TA",
+      "municipality": "Mokha",
       "coordinates": "13.296941, 43.231858"
     },
     {
       "ident": "YE-0013",
       "type": "small_airport",
-      "name": "Sayma",
+      "name": "Sayma Airfield",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-U-A",
+      "iso_region": "YE-TA",
+      "municipality": "Sayma",
       "coordinates": "13.020746, 43.467598"
     },
     {
       "ident": "YE-0014",
       "type": "small_airport",
-      "name": "Kharir",
+      "name": "Kharir Airfield",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-U-A",
-      "coordinates": "15.734984, 48.799187"
+      "iso_region": "YE-HD",
+      "municipality": "Kharir",
+      "coordinates": "15.734888, 48.793107"
     },
     {
       "ident": "YE-0015",
       "type": "small_airport",
-      "name": "Um Ghareb",
+      "name": "Um Ghareb Airfield",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-U-A",
+      "iso_region": "YE-HD",
+      "municipality": "Um Ghareb",
       "coordinates": "18.399411, 49.127599"
     },
     {
       "ident": "YE-0016",
       "type": "small_airport",
-      "name": "Aden New",
+      "name": "Little Aden Airfield",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-U-A",
-      "coordinates": "12.785641, 44.828894"
+      "iso_region": "YE-AD",
+      "municipality": "Little Aden",
+      "coordinates": "12.785666, 44.825802"
     },
     {
       "ident": "YE-0017",
       "type": "small_airport",
-      "name": "Kilmia",
+      "name": "Abd al-Kuri Air Base",
       "continent": "AS",
       "iso_country": "YE",
-      "iso_region": "YE-U-A",
+      "iso_region": "YE-SU",
+      "municipality": "Kilmia",
       "coordinates": "12.186662, 52.291746"
+    },
+    {
+      "ident": "YE-0018",
+      "type": "small_airport",
+      "name": "Perim Air Base",
+      "continent": "AS",
+      "iso_country": "YE",
+      "iso_region": "YE-TA",
+      "municipality": "Mayyun",
+      "coordinates": "12.66653, 43.40793"
     }
   ]
 }

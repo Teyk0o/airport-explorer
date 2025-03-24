@@ -1,13 +1,13 @@
 {
   "country_code": "GE",
   "country_name": "Georgia",
-  "total_airports": 35,
-  "last_updated": "2025-03-23T00:09:09.830267",
+  "total_airports": 51,
+  "last_updated": "2025-03-24T00:08:57.558963",
   "types_distribution": {
     "closed": 10,
     "small_airport": 9,
     "medium_airport": 11,
-    "heliport": 4,
+    "heliport": 20,
     "large_airport": 1
   },
   "airports": [
@@ -227,6 +227,181 @@
       "coordinates": "41.916, 44.566"
     },
     {
+      "ident": "GE-0022",
+      "type": "heliport",
+      "name": "Aviaservice Heliport",
+      "elevation_ft": 2339.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-TB",
+      "municipality": "Tbilisi",
+      "coordinates": "41.72479, 44.97401"
+    },
+    {
+      "ident": "GE-0023",
+      "type": "heliport",
+      "name": "Ivanishvili House Heliport",
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-TB",
+      "municipality": "Tbilisi",
+      "coordinates": "41.68763, 44.79866"
+    },
+    {
+      "ident": "GE-0024",
+      "type": "heliport",
+      "name": "Camp Avnevi Heliport",
+      "elevation_ft": 2884.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Avnevi",
+      "coordinates": "42.18971, 43.88836"
+    },
+    {
+      "ident": "GE-0025",
+      "type": "heliport",
+      "name": "Camp Didmukha Heliport",
+      "elevation_ft": 2776.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Didmukha",
+      "coordinates": "42.17613, 43.88801"
+    },
+    {
+      "ident": "GE-0026",
+      "type": "heliport",
+      "name": "Camp Dzvileti Heliport",
+      "elevation_ft": 2805.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Dzvileti",
+      "coordinates": "42.14103, 43.84496"
+    },
+    {
+      "ident": "GE-0027",
+      "type": "heliport",
+      "name": "Camp Seribalta Heliport",
+      "elevation_ft": 2539.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Seribalta",
+      "coordinates": "42.17419, 43.72795"
+    },
+    {
+      "ident": "GE-0028",
+      "type": "heliport",
+      "name": "Camp Djalabeti Heliport",
+      "elevation_ft": 3681.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Djalabeti",
+      "coordinates": "42.3952, 43.64011"
+    },
+    {
+      "ident": "GE-0029",
+      "type": "heliport",
+      "name": "Camp Disevi Heliport",
+      "elevation_ft": 3478.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Disevi",
+      "coordinates": "42.23183, 44.10906"
+    },
+    {
+      "ident": "GE-0030",
+      "type": "heliport",
+      "name": "Camp Arkhispiri Heliport",
+      "elevation_ft": 3012.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Arkhispiri",
+      "coordinates": "42.15318, 44.17262"
+    },
+    {
+      "ident": "GE-0031",
+      "type": "heliport",
+      "name": "Camp Ghromi Heliport",
+      "elevation_ft": 2894.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Ghromi",
+      "coordinates": "42.15932, 44.21771"
+    },
+    {
+      "ident": "GE-0032",
+      "type": "heliport",
+      "name": "Camp Gduleti Heliport",
+      "elevation_ft": 2595.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Gduleti",
+      "coordinates": "42.08269, 44.28294"
+    },
+    {
+      "ident": "GE-0033",
+      "type": "heliport",
+      "name": "Camp Orchosan Heliport",
+      "elevation_ft": 2884.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Orchosan",
+      "coordinates": "42.05813, 44.3294"
+    },
+    {
+      "ident": "GE-0034",
+      "type": "heliport",
+      "name": "Camp Akhmaji Heliport",
+      "elevation_ft": 2536.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Akhmaji",
+      "coordinates": "42.06112, 44.47762"
+    },
+    {
+      "ident": "GE-0035",
+      "type": "heliport",
+      "name": "Camp Balaani Heliport",
+      "elevation_ft": 3976.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Balaani",
+      "coordinates": "42.34201, 44.47185"
+    },
+    {
+      "ident": "GE-0036",
+      "type": "heliport",
+      "name": "Akhalgori Heliport",
+      "elevation_ft": 2638.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Akhalgori",
+      "coordinates": "42.11628, 44.48053"
+    },
+    {
+      "ident": "GE-0037",
+      "type": "heliport",
+      "name": "Zemo Tsubeni Heliport",
+      "elevation_ft": 4035.0,
+      "continent": "AS",
+      "iso_country": "GE",
+      "iso_region": "GE-SO",
+      "municipality": "Zemo Tsubeni",
+      "coordinates": "42.16369, 44.39625"
+    },
+    {
       "ident": "UG0U",
       "type": "medium_airport",
       "name": "Gudauta Air Base",
@@ -291,8 +466,8 @@
       "continent": "AS",
       "iso_country": "GE",
       "iso_region": "GE-TB",
-      "municipality": "Tbilisi",
-      "coordinates": "41.62799835205078, 45.030799865722656"
+      "municipality": "Gamarjveba 1",
+      "coordinates": "41.627998, 45.0308"
     },
     {
       "ident": "UG28",

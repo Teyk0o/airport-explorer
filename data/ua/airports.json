@@ -2,7 +2,7 @@
   "country_code": "UA",
   "country_name": "Ukraine",
   "total_airports": 271,
-  "last_updated": "2025-03-23T00:09:09.679959",
+  "last_updated": "2025-03-24T00:08:57.412580",
   "types_distribution": {
     "small_airport": 118,
     "closed": 75,
@@ -161,11 +161,11 @@
     {
       "ident": "UA-0013",
       "type": "small_airport",
-      "name": "Risovoye Airfield",
+      "name": "Rysove Airfield",
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-43",
-      "municipality": "Krasnoperekopsk",
+      "municipality": "Rysove",
       "coordinates": "45.995499, 33.681017"
     },
     {
@@ -193,10 +193,12 @@
       "ident": "UA-0016",
       "type": "small_airport",
       "name": "Yukharina Balka Airfield",
+      "elevation_ft": 335.0,
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
+      "gps_code": "UKFP",
       "coordinates": "44.549003, 33.488613"
     },
     {
@@ -1375,7 +1377,7 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-43",
-      "municipality": "Kurgannoye",
+      "municipality": "Kurhanne",
       "coordinates": "45.8541, 33.7062"
     },
     {
@@ -1406,7 +1408,7 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-43",
-      "municipality": "Pochetnoye",
+      "municipality": "Pochetne",
       "coordinates": "45.999861, 33.78224"
     },
     {
@@ -1422,22 +1424,22 @@
     {
       "ident": "UA-0135",
       "type": "small_airport",
-      "name": "Pryvillia Airfield",
+      "name": "Pryvillya Airfield",
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-65",
-      "municipality": "Pryvillia",
-      "coordinates": "46.1497, 33.4064"
+      "municipality": "Pryvillya",
+      "coordinates": "46.149626, 33.404544"
     },
     {
       "ident": "UA-0136",
       "type": "small_airport",
-      "name": "Lazume Airfield",
+      "name": "Lazurne Airfield",
       "elevation_ft": 3.0,
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-65",
-      "municipality": "Lazume",
+      "municipality": "Lazurne",
       "coordinates": "46.0838, 32.5075"
     },
     {
@@ -2545,12 +2547,12 @@
     {
       "ident": "UKFG",
       "type": "medium_airport",
-      "name": "Gvardeyskoe Air Base",
+      "name": "Gvardeyskoye (Hvardiiske) Air Base",
       "elevation_ft": 721.0,
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-43",
-      "municipality": "Sarabuz",
+      "municipality": "Hvardiiske",
       "gps_code": "UKFG",
       "local_code": "XRFG",
       "coordinates": "45.116192, 33.976625"
@@ -2563,7 +2565,7 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-43",
-      "municipality": "Novofedorovka",
+      "municipality": "Novofedorivka",
       "gps_code": "UKFI",
       "coordinates": "45.090611, 33.598536"
     },

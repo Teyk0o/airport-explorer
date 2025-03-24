@@ -1,12 +1,12 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3231,
-  "last_updated": "2025-03-23T00:09:09.683882",
+  "total_airports": 3232,
+  "last_updated": "2025-03-24T00:08:57.416475",
   "types_distribution": {
     "closed": 829,
     "small_airport": 1208,
-    "heliport": 508,
+    "heliport": 509,
     "seaplane_base": 435,
     "balloonport": 1,
     "medium_airport": 240,
@@ -11244,6 +11244,15 @@
       "iso_region": "CA-U-A",
       "municipality": "Sharon",
       "coordinates": "44.081187, -79.396305"
+    },
+    {
+      "ident": "CA-1178",
+      "type": "heliport",
+      "name": "Polson Pier Helipad",
+      "iso_country": "CA",
+      "iso_region": "CA-ON",
+      "municipality": "Toronto",
+      "coordinates": "43.641681, -79.35605"
     },
     {
       "ident": "CA-CAB5",

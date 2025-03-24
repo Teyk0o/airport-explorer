@@ -1,10 +1,10 @@
 {
   "country_code": "AO",
   "country_name": "Angola",
-  "total_airports": 120,
-  "last_updated": "2025-03-23T00:09:09.531242",
+  "total_airports": 121,
+  "last_updated": "2025-03-24T00:08:57.268460",
   "types_distribution": {
-    "small_airport": 85,
+    "small_airport": 86,
     "closed": 11,
     "heliport": 2,
     "medium_airport": 21,
@@ -722,6 +722,17 @@
       "iso_region": "AO-NAM",
       "municipality": "Praia do Capim",
       "coordinates": "-15.73555, 11.92488"
+    },
+    {
+      "ident": "AO-0070",
+      "type": "small_airport",
+      "name": "Dombe Grande Airfield",
+      "elevation_ft": 294.0,
+      "continent": "AF",
+      "iso_country": "AO",
+      "iso_region": "AO-BGU",
+      "municipality": "Dombe Grande",
+      "coordinates": "-13.00966, 13.10344"
     },
     {
       "ident": "AO-CNZ",

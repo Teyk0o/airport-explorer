@@ -1,12 +1,12 @@
 {
   "country_code": "CZ",
   "country_name": "Czech Republic",
-  "total_airports": 384,
-  "last_updated": "2025-03-23T00:09:09.733409",
+  "total_airports": 385,
+  "last_updated": "2025-03-24T00:08:57.464702",
   "types_distribution": {
     "heliport": 107,
     "closed": 25,
-    "small_airport": 240,
+    "small_airport": 241,
     "medium_airport": 11,
     "large_airport": 1
   },
@@ -3027,6 +3027,16 @@
       "municipality": "Zlín",
       "local_code": "LKSTIP",
       "coordinates": "49.272778, 17.746389"
+    },
+    {
+      "ident": "CZ-0275",
+      "type": "small_airport",
+      "name": "Trnávka Airstrip",
+      "continent": "EU",
+      "iso_country": "CZ",
+      "iso_region": "CZ-MO",
+      "local_code": "LKTRNA",
+      "coordinates": "49.69157, 18.16402"
     },
     {
       "ident": "LKBA",

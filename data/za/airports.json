@@ -1,11 +1,11 @@
 {
   "country_code": "ZA",
   "country_name": "South Africa",
-  "total_airports": 657,
-  "last_updated": "2025-03-23T00:09:09.800083",
+  "total_airports": 658,
+  "last_updated": "2025-03-24T00:08:57.529604",
   "types_distribution": {
     "medium_airport": 57,
-    "small_airport": 518,
+    "small_airport": 519,
     "large_airport": 3,
     "heliport": 49,
     "closed": 29,
@@ -7536,6 +7536,17 @@
       "iso_region": "ZA-NP",
       "municipality": "Tzaneen",
       "coordinates": "-24.08148, 30.57187"
+    },
+    {
+      "ident": "ZA-0347",
+      "type": "small_airport",
+      "name": "Wild Rivers Airfield",
+      "elevation_ft": 1637.0,
+      "continent": "AF",
+      "iso_country": "ZA",
+      "iso_region": "ZA-NP",
+      "municipality": "Hoedspruit",
+      "coordinates": "-24.27446, 30.8896"
     },
     {
       "ident": "ZA-KIG",

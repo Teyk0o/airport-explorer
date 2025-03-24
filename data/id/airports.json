@@ -1,10 +1,10 @@
 {
   "country_code": "ID",
   "country_name": "Indonesia",
-  "total_airports": 655,
-  "last_updated": "2025-03-23T00:09:09.544250",
+  "total_airports": 656,
+  "last_updated": "2025-03-24T00:08:57.281004",
   "types_distribution": {
-    "small_airport": 477,
+    "small_airport": 478,
     "closed": 46,
     "heliport": 53,
     "large_airport": 8,
@@ -2012,7 +2012,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Aurimi Wzil",
-      "coordinates": "-2.182, 138.4343"
+      "gps_code": "WREF",
+      "coordinates": "-2.182027, 138.434418"
     },
     {
       "ident": "ID-0175",
@@ -4053,15 +4054,15 @@
     {
       "ident": "ID-AKQ",
       "type": "small_airport",
-      "name": "Gunung Batin Airport",
+      "name": "Astra Ksetra Airport",
       "elevation_ft": 99.0,
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-LA",
-      "municipality": "Astraksetra",
+      "municipality": "Menggala",
       "gps_code": "WILM",
       "iata_code": "AKQ",
-      "coordinates": "-4.61114, 105.232002"
+      "coordinates": "-4.611588, 105.231968"
     },
     {
       "ident": "ID-BJG",
@@ -6572,7 +6573,7 @@
       "municipality": "Bau Bau",
       "gps_code": "WAWB",
       "iata_code": "BUW",
-      "coordinates": "-5.48688, 122.569"
+      "coordinates": "-5.486037, 122.569823"
     },
     {
       "ident": "WAWD",
@@ -7403,6 +7404,18 @@
       "gps_code": "WIOS",
       "iata_code": "SQG",
       "coordinates": "-0.045214, 111.458049"
+    },
+    {
+      "ident": "WIOV",
+      "type": "small_airport",
+      "name": "Babang Airstrip",
+      "elevation_ft": 135.0,
+      "continent": "AS",
+      "iso_country": "ID",
+      "iso_region": "ID-KB",
+      "municipality": "Jagoi",
+      "gps_code": "WIOV",
+      "coordinates": "1.340038, 109.911081"
     },
     {
       "ident": "WIPA",

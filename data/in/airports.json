@@ -1,10 +1,10 @@
 {
   "country_code": "IN",
   "country_name": "India",
-  "total_airports": 636,
-  "last_updated": "2025-03-23T00:09:09.848986",
+  "total_airports": 635,
+  "last_updated": "2025-03-24T00:08:57.577916",
   "types_distribution": {
-    "heliport": 289,
+    "heliport": 288,
     "small_airport": 181,
     "closed": 31,
     "medium_airport": 122,
@@ -1137,16 +1137,6 @@
       "coordinates": "19.81035, 85.84752"
     },
     {
-      "ident": "IN-0111",
-      "type": "heliport",
-      "name": "Rangeilunda Heliport",
-      "continent": "AS",
-      "iso_country": "IN",
-      "iso_region": "IN-OR",
-      "municipality": "Berhampur (Brahmapur)",
-      "coordinates": "19.293808, 84.876959"
-    },
-    {
       "ident": "IN-0112",
       "type": "heliport",
       "name": "Tata Steel Helipad",
@@ -1539,7 +1529,7 @@
     {
       "ident": "IN-0151",
       "type": "heliport",
-      "name": "Ashramam Helipad",
+      "name": "Ashramam Heliport",
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-KL",
@@ -5033,7 +5023,8 @@
     {
       "ident": "VEBM",
       "type": "small_airport",
-      "name": "Berhampur Airport",
+      "name": "Berhampur Rangeilunda Airport",
+      "elevation_ft": 100.0,
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-OR",
@@ -6671,7 +6662,7 @@
       "municipality": "Kochi",
       "gps_code": "VOCI",
       "iata_code": "COK",
-      "coordinates": "10.152, 76.401901"
+      "coordinates": "10.151047, 76.400838"
     },
     {
       "ident": "VOCL",

@@ -1,13 +1,13 @@
 {
   "country_code": "ZW",
   "country_name": "Zimbabwe",
-  "total_airports": 155,
-  "last_updated": "2025-03-23T00:09:09.826492",
+  "total_airports": 160,
+  "last_updated": "2025-03-24T00:08:57.555489",
   "types_distribution": {
-    "small_airport": 135,
+    "small_airport": 137,
     "medium_airport": 8,
     "large_airport": 1,
-    "closed": 6,
+    "closed": 9,
     "heliport": 5
   },
   "airports": [
@@ -662,7 +662,7 @@
       "iso_region": "ZW-MN",
       "municipality": "Mabikwa",
       "gps_code": "FVMF",
-      "coordinates": "-18.732999801635742, 27.533000946044922"
+      "coordinates": "-18.744805, 27.54682"
     },
     {
       "ident": "FVMH",
@@ -1058,10 +1058,10 @@
       "continent": "AF",
       "iso_country": "ZW",
       "iso_region": "ZW-MN",
-      "municipality": "Hwange",
+      "municipality": "Gwayi River Farms",
       "gps_code": "FVWN",
       "iata_code": "HWN",
-      "coordinates": "-18.629899978637695, 27.020999908447266"
+      "coordinates": "-18.6299, 27.021"
     },
     {
       "ident": "FVWT",
@@ -1768,6 +1768,58 @@
       "iso_region": "ZW-MA",
       "municipality": "Tonje",
       "coordinates": "-20.316999, 32.349998"
+    },
+    {
+      "ident": "ZW-0064",
+      "type": "small_airport",
+      "name": "Matetsi East Airstrip",
+      "elevation_ft": 2638.0,
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Hwange",
+      "coordinates": "-18.37304, 26.27076"
+    },
+    {
+      "ident": "ZW-0065",
+      "type": "closed",
+      "name": "Matetsi North 1 Airstrip",
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Hwange",
+      "coordinates": "-18.33451, 26.24529"
+    },
+    {
+      "ident": "ZW-0066",
+      "type": "closed",
+      "name": "Matetsi North 2 Airstrip",
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Hwange",
+      "coordinates": "-18.32959, 26.20575"
+    },
+    {
+      "ident": "ZW-0067",
+      "type": "small_airport",
+      "name": "Chawato Airfield",
+      "elevation_ft": 2855.0,
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Sinamatella Camp",
+      "coordinates": "-18.51297, 26.27256"
+    },
+    {
+      "ident": "ZW-0068",
+      "type": "closed",
+      "name": "Camp Selous Airstrip",
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Gwayi River Farms",
+      "coordinates": "-18.69297, 27.20127"
     }
   ]
 }
