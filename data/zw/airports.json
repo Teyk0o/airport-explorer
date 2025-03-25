@@ -1,10 +1,10 @@
 {
   "country_code": "ZW",
   "country_name": "Zimbabwe",
-  "total_airports": 160,
-  "last_updated": "2025-03-24T00:08:57.555489",
+  "total_airports": 161,
+  "last_updated": "2025-03-25T00:08:41.120037",
   "types_distribution": {
-    "small_airport": 137,
+    "small_airport": 138,
     "medium_airport": 8,
     "large_airport": 1,
     "closed": 9,
@@ -987,7 +987,7 @@
       "iso_region": "ZW-MV",
       "municipality": "Tinfields",
       "gps_code": "FVTD",
-      "coordinates": "-19.950000762939453, 31.433000564575195"
+      "coordinates": "-19.941665, 31.425944"
     },
     {
       "ident": "FVTE",
@@ -1820,6 +1820,17 @@
       "iso_region": "ZW-MN",
       "municipality": "Gwayi River Farms",
       "coordinates": "-18.69297, 27.20127"
+    },
+    {
+      "ident": "ZW-0069",
+      "type": "small_airport",
+      "name": "Umguza Airfield",
+      "elevation_ft": 4121.0,
+      "continent": "AF",
+      "iso_country": "ZW",
+      "iso_region": "ZW-MN",
+      "municipality": "Umguza",
+      "coordinates": "-19.91273, 28.54575"
     }
   ]
 }

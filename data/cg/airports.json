@@ -1,10 +1,11 @@
 {
   "country_code": "CG",
   "country_name": "Republic of the Congo",
-  "total_airports": 56,
-  "last_updated": "2025-03-24T00:08:57.446219",
+  "total_airports": 57,
+  "last_updated": "2025-03-25T00:08:41.009273",
   "types_distribution": {
     "small_airport": 50,
+    "closed": 1,
     "medium_airport": 6
   },
   "airports": [
@@ -60,6 +61,16 @@
       "iso_region": "CG-7",
       "municipality": "Thanry",
       "coordinates": "2.651304, 17.173194"
+    },
+    {
+      "ident": "CG-0006",
+      "type": "closed",
+      "name": "Obouya Airfield",
+      "continent": "AF",
+      "iso_country": "CG",
+      "iso_region": "CG-8",
+      "municipality": "Obouya",
+      "coordinates": "-0.92292, 15.71381"
     },
     {
       "ident": "CG-OKG",
@@ -482,7 +493,7 @@
       "municipality": "Kelle",
       "gps_code": "FCOK",
       "iata_code": "KEE",
-      "coordinates": "-0.083, 14.533"
+      "coordinates": "-0.071271, 14.506621"
     },
     {
       "ident": "FCOM",
@@ -495,7 +506,7 @@
       "municipality": "Makoua",
       "gps_code": "FCOM",
       "iata_code": "MKJ",
-      "coordinates": "-0.017, 15.583"
+      "coordinates": "-0.020842, 15.577746"
     },
     {
       "ident": "FCOO",
@@ -508,7 +519,7 @@
       "municipality": "Owando",
       "gps_code": "FCOO",
       "iata_code": "FTX",
-      "coordinates": "-0.53135, 15.9501"
+      "coordinates": "-0.524566, 15.93782"
     },
     {
       "ident": "FCOS",

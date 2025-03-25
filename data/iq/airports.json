@@ -1,13 +1,13 @@
 {
   "country_code": "IQ",
   "country_name": "Iraq",
-  "total_airports": 90,
-  "last_updated": "2025-03-24T00:08:57.584723",
+  "total_airports": 91,
+  "last_updated": "2025-03-25T00:08:41.148944",
   "types_distribution": {
     "small_airport": 41,
     "closed": 7,
     "medium_airport": 31,
-    "heliport": 10,
+    "heliport": 11,
     "large_airport": 1
   },
   "airports": [
@@ -698,6 +698,17 @@
       "iso_region": "IQ-DA",
       "municipality": "Sêmêl",
       "coordinates": "36.9249, 42.7331"
+    },
+    {
+      "ident": "IQ-0071",
+      "type": "heliport",
+      "name": "Tasluja Army Heliport",
+      "elevation_ft": 2612.0,
+      "continent": "AS",
+      "iso_country": "IQ",
+      "iso_region": "IQ-SW",
+      "municipality": "Tasluja",
+      "coordinates": "35.61258, 45.26013"
     },
     {
       "ident": "ORAA",

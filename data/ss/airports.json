@@ -1,14 +1,14 @@
 {
   "country_code": "SS",
   "country_name": "South Sudan",
-  "total_airports": 92,
-  "last_updated": "2025-03-24T00:08:57.227435",
+  "total_airports": 93,
+  "last_updated": "2025-03-25T00:08:40.789933",
   "types_distribution": {
     "small_airport": 85,
     "large_airport": 1,
     "medium_airport": 3,
     "heliport": 2,
-    "closed": 1
+    "closed": 2
   },
   "airports": [
     {
@@ -1031,6 +1031,16 @@
       "iso_region": "SS-RUW",
       "municipality": "Abiemnom",
       "coordinates": "9.41258, 28.83009"
+    },
+    {
+      "ident": "SS-0067",
+      "type": "closed",
+      "name": "Natinga Airstrip",
+      "continent": "AF",
+      "iso_country": "SS",
+      "iso_region": "SS-EE",
+      "municipality": "Natinga",
+      "coordinates": "4.30506, 34.07833"
     }
   ]
 }

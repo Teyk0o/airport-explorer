@@ -1,10 +1,10 @@
 {
   "country_code": "AO",
   "country_name": "Angola",
-  "total_airports": 121,
-  "last_updated": "2025-03-24T00:08:57.268460",
+  "total_airports": 122,
+  "last_updated": "2025-03-25T00:08:40.831360",
   "types_distribution": {
-    "small_airport": 86,
+    "small_airport": 87,
     "closed": 11,
     "heliport": 2,
     "medium_airport": 21,
@@ -735,6 +735,17 @@
       "coordinates": "-13.00966, 13.10344"
     },
     {
+      "ident": "AO-0071",
+      "type": "small_airport",
+      "name": "Canhoca Airstrip",
+      "elevation_ft": 469.0,
+      "continent": "AF",
+      "iso_country": "AO",
+      "iso_region": "AO-BGU",
+      "municipality": "Canhoca",
+      "coordinates": "-13.41936, 12.56508"
+    },
+    {
       "ident": "AO-CNZ",
       "type": "small_airport",
       "name": "Cangamba Airport",
@@ -1356,7 +1367,7 @@
       "municipality": "N'zeto",
       "gps_code": "FNZE",
       "iata_code": "ARZ",
-      "coordinates": "-7.25944, 12.8631"
+      "coordinates": "-7.259277, 12.862355"
     },
     {
       "ident": "FNZG",

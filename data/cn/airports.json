@@ -1,13 +1,13 @@
 {
   "country_code": "CN",
   "country_name": "China",
-  "total_airports": 735,
-  "last_updated": "2025-03-24T00:08:57.233375",
+  "total_airports": 736,
+  "last_updated": "2025-03-25T00:08:40.795946",
   "types_distribution": {
     "small_airport": 239,
     "medium_airport": 274,
     "closed": 58,
-    "heliport": 120,
+    "heliport": 121,
     "seaplane_base": 3,
     "balloonport": 2,
     "large_airport": 39
@@ -4676,6 +4676,17 @@
       "coordinates": "37.76514, 108.847615"
     },
     {
+      "ident": "CN-0468",
+      "type": "heliport",
+      "name": "Jiareke Heliport",
+      "elevation_ft": 15131.0,
+      "continent": "AS",
+      "iso_country": "CN",
+      "iso_region": "CN-54",
+      "municipality": "Zanda",
+      "coordinates": "31.58707, 79.95375"
+    },
+    {
       "ident": "CN-JNZ",
       "type": "medium_airport",
       "name": "Sanshilipu Air Base",
@@ -7128,7 +7139,7 @@
       "municipality": "Shiquanhe",
       "gps_code": "ZUAL",
       "iata_code": "NGQ",
-      "coordinates": "32.108611, 80.053056"
+      "coordinates": "32.09794, 80.053971"
     },
     {
       "ident": "ZUAS",
@@ -7876,7 +7887,7 @@
     {
       "ident": "ZWSH",
       "type": "medium_airport",
-      "name": "Kashgar Airport",
+      "name": "Kashgar Laining International Airport",
       "elevation_ft": 4529.0,
       "continent": "AS",
       "iso_country": "CN",
@@ -7884,7 +7895,7 @@
       "municipality": "Kashgar",
       "gps_code": "ZWSH",
       "iata_code": "KHG",
-      "coordinates": "39.5429000854, 76.0199966431"
+      "coordinates": "39.5429, 76.019997"
     },
     {
       "ident": "ZWSS",

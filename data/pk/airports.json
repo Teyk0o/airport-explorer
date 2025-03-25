@@ -1,14 +1,14 @@
 {
   "country_code": "PK",
   "country_name": "Pakistan",
-  "total_airports": 189,
-  "last_updated": "2025-03-24T00:08:57.659779",
+  "total_airports": 191,
+  "last_updated": "2025-03-25T00:08:41.224382",
   "types_distribution": {
     "small_airport": 77,
     "medium_airport": 37,
     "large_airport": 3,
     "closed": 24,
-    "heliport": 48
+    "heliport": 50
   },
   "airports": [
     {
@@ -1675,16 +1675,6 @@
       "coordinates": "34.18868, 73.25537"
     },
     {
-      "ident": "PK-0042",
-      "type": "heliport",
-      "name": "Pakistan Military Academy Physical Training Ground Helipad",
-      "continent": "AS",
-      "iso_country": "PK",
-      "iso_region": "PK-KP",
-      "municipality": "Abbottabad",
-      "coordinates": "34.18145, 73.24462"
-    },
-    {
       "ident": "PK-0043",
       "type": "heliport",
       "name": "Comsats University Helipad",
@@ -2166,6 +2156,39 @@
       "iso_region": "PK-KP",
       "municipality": "Mansehra",
       "coordinates": "34.333321, 73.200203"
+    },
+    {
+      "ident": "PK-0089",
+      "type": "heliport",
+      "name": "Army Medical Corps Center Cricket Pitch Emergency Helipad",
+      "elevation_ft": 3921.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-KP",
+      "municipality": "Abbottabad",
+      "coordinates": "34.15861, 73.22863"
+    },
+    {
+      "ident": "PK-0090",
+      "type": "heliport",
+      "name": "Army Medical Corps Center Athletic Field Emergency Helipad",
+      "elevation_ft": 3924.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-KP",
+      "municipality": "Abbottabad",
+      "coordinates": "34.15719, 73.22963"
+    },
+    {
+      "ident": "PK-0091",
+      "type": "heliport",
+      "name": "Army Medical Corps Center Lawn Emergency Helipad",
+      "elevation_ft": 3934.0,
+      "continent": "AS",
+      "iso_country": "PK",
+      "iso_region": "PK-KP",
+      "municipality": "Abbottabad",
+      "coordinates": "34.15998, 73.22833"
     },
     {
       "ident": "PK-BHC",

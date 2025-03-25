@@ -1,13 +1,13 @@
 {
   "country_code": "UA",
   "country_name": "Ukraine",
-  "total_airports": 271,
-  "last_updated": "2025-03-24T00:08:57.412580",
+  "total_airports": 275,
+  "last_updated": "2025-03-25T00:08:40.975645",
   "types_distribution": {
-    "small_airport": 118,
-    "closed": 75,
+    "small_airport": 119,
+    "closed": 77,
     "medium_airport": 32,
-    "heliport": 44,
+    "heliport": 45,
     "large_airport": 2
   },
   "airports": [
@@ -2390,6 +2390,48 @@
       "iso_region": "UA-63",
       "municipality": "Rakytne",
       "coordinates": "49.83241, 35.9175"
+    },
+    {
+      "ident": "UA-9873",
+      "type": "heliport",
+      "name": "Pekari Heliport",
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-71",
+      "municipality": "Pekari",
+      "coordinates": "49.69852, 31.560553"
+    },
+    {
+      "ident": "UA-9874",
+      "type": "small_airport",
+      "name": "Petrykivka Airfield",
+      "elevation_ft": 240.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-12",
+      "municipality": "Petrykivka",
+      "coordinates": "48.74488, 34.63659"
+    },
+    {
+      "ident": "UA-9875",
+      "type": "closed",
+      "name": "Polonne Airstrip",
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-68",
+      "municipality": "Polonne",
+      "coordinates": "50.11822, 27.45884"
+    },
+    {
+      "ident": "UA-9876",
+      "type": "closed",
+      "name": "Podorozhnje Airfield",
+      "elevation_ft": 456.0,
+      "continent": "EU",
+      "iso_country": "UA",
+      "iso_region": "UA-35",
+      "municipality": "Podorozhnje",
+      "coordinates": "49.03422, 33.10005"
     },
     {
       "ident": "UK59",

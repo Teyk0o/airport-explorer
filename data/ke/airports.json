@@ -2,7 +2,7 @@
   "country_code": "KE",
   "country_name": "Kenya",
   "total_airports": 373,
-  "last_updated": "2025-03-24T00:08:57.331110",
+  "last_updated": "2025-03-25T00:08:40.894376",
   "types_distribution": {
     "small_airport": 351,
     "medium_airport": 15,
@@ -314,12 +314,12 @@
     {
       "ident": "HKLK",
       "type": "medium_airport",
-      "name": "Lokichoggio Airport",
+      "name": "Lokichogio Airport",
       "elevation_ft": 2074.0,
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "municipality": "Lokichoggio",
+      "municipality": "Lokichogio",
       "gps_code": "HKLK",
       "iata_code": "LKG",
       "coordinates": "4.20412, 34.348202"
@@ -707,7 +707,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Oropoi",
-      "coordinates": "3.8084490299224854, 34.3600959777832"
+      "gps_code": "HKOL",
+      "coordinates": "3.810904, 34.360943"
     },
     {
       "ident": "KE-0005",
@@ -3644,7 +3645,7 @@
       "iso_region": "KE-700",
       "municipality": "Kakuma",
       "gps_code": "HKKM",
-      "coordinates": "3.716667, 34.866669"
+      "coordinates": "3.705094, 34.871293"
     },
     {
       "ident": "KE-6576",

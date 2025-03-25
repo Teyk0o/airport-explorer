@@ -2,7 +2,7 @@
   "country_code": "BR",
   "country_name": "Brazil",
   "total_airports": 7463,
-  "last_updated": "2025-03-24T00:08:57.338048",
+  "last_updated": "2025-03-25T00:08:40.901422",
   "types_distribution": {
     "small_airport": 5163,
     "closed": 294,
@@ -27999,9 +27999,8 @@
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-RJ",
-      "municipality": "Rio De Janeiro",
-      "local_code": "SDSF",
-      "coordinates": "-22.962778091431, -43.372501373291"
+      "municipality": "Rio de Janeiro",
+      "coordinates": "-22.962778, -43.372501"
     },
     {
       "ident": "BR-2306",
@@ -28012,8 +28011,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Manuel",
-      "local_code": "SDSG",
-      "coordinates": "-22.752500534058, -48.521110534668"
+      "coordinates": "-22.753851, -48.519993"
     },
     {
       "ident": "BR-2307",
@@ -28024,7 +28022,6 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Bauru",
-      "local_code": "SDSH",
       "coordinates": "-22.295555, -49.212223"
     },
     {
@@ -28036,6 +28033,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "São Paulo",
+      "gps_code": "SDZR",
       "local_code": "SP0460",
       "coordinates": "-23.56379, -46.654558"
     },
@@ -28048,8 +28046,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Piquerobi",
-      "local_code": "SDSO",
-      "coordinates": "-22.003889083862, -51.811111450195"
+      "coordinates": "-22.003889, -51.811111"
     },
     {
       "ident": "BR-2310",
@@ -28060,8 +28057,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Tatuí",
-      "local_code": "SDTA",
-      "coordinates": "-23.331943511963, -47.880001068115"
+      "coordinates": "-23.331944, -47.880001"
     },
     {
       "ident": "BR-2311",
@@ -52193,14 +52189,14 @@
       "ident": "SDYL",
       "type": "heliport",
       "name": "Flamingos Heliport",
-      "elevation_ft": 112.0,
+      "elevation_ft": 131.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-RJ",
-      "municipality": "Angra Dos Reis",
+      "municipality": "Angra dos Reis",
       "gps_code": "SDSO",
       "local_code": "RJ0057",
-      "coordinates": "-23.022986, -44.290159"
+      "coordinates": "-23.02296, -44.290109"
     },
     {
       "ident": "SDYN",
@@ -52604,8 +52600,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Guariba",
-      "gps_code": "SDZR",
-      "coordinates": "-21.412221908569336, -48.328609466552734"
+      "coordinates": "-21.406152, -48.315911"
     },
     {
       "ident": "SDZU",
