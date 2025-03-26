@@ -1,10 +1,10 @@
 {
   "country_code": "VN",
   "country_name": "Vietnam",
-  "total_airports": 90,
-  "last_updated": "2025-03-25T00:08:41.134329",
+  "total_airports": 91,
+  "last_updated": "2025-03-26T00:08:31.163863",
   "types_distribution": {
-    "small_airport": 15,
+    "small_airport": 16,
     "closed": 27,
     "heliport": 26,
     "seaplane_base": 1,
@@ -644,6 +644,15 @@
       "iso_region": "VN-SCC",
       "municipality": "Quảng Ngãi",
       "coordinates": "15.115474, 108.771816"
+    },
+    {
+      "ident": "VN-0077",
+      "type": "small_airport",
+      "name": "Nhà cái 368Bet",
+      "continent": "AS",
+      "iso_country": "VN",
+      "iso_region": "VN-CH",
+      "coordinates": "0.000001, 0.000001"
     },
     {
       "ident": "VV02",
