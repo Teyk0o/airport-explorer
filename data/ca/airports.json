@@ -1,11 +1,11 @@
 {
   "country_code": "CA",
   "country_name": "Canada",
-  "total_airports": 3232,
-  "last_updated": "2025-03-26T00:08:31.007387",
+  "total_airports": 3233,
+  "last_updated": "2025-03-27T00:08:20.939095",
   "types_distribution": {
     "closed": 829,
-    "small_airport": 1208,
+    "small_airport": 1209,
     "heliport": 509,
     "seaplane_base": 435,
     "balloonport": 1,
@@ -733,6 +733,7 @@
       "ident": "CA-0080",
       "type": "closed",
       "name": "Cape Parry DEW Line Station",
+      "elevation_ft": 39.0,
       "iso_country": "CA",
       "iso_region": "CA-NT",
       "municipality": "Cape Parry",
@@ -11253,6 +11254,17 @@
       "iso_region": "CA-ON",
       "municipality": "Toronto",
       "coordinates": "43.641681, -79.35605"
+    },
+    {
+      "ident": "CA-1179",
+      "type": "small_airport",
+      "name": "Cassiar Aerodrome",
+      "elevation_ft": 3618.0,
+      "iso_country": "CA",
+      "iso_region": "CA-BC",
+      "municipality": "Cassiar",
+      "local_code": "AU9",
+      "coordinates": "59.277137, -129.805044"
     },
     {
       "ident": "CA-CAB5",
