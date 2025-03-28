@@ -1,14 +1,14 @@
 {
   "country_code": "GB",
   "country_name": "United Kingdom",
-  "total_airports": 1555,
-  "last_updated": "2025-03-27T00:08:20.813070",
+  "total_airports": 1556,
+  "last_updated": "2025-03-28T00:08:23.632553",
   "types_distribution": {
     "closed": 353,
     "small_airport": 968,
     "large_airport": 9,
     "medium_airport": 80,
-    "heliport": 139,
+    "heliport": 140,
     "balloonport": 2,
     "seaplane_base": 4
   },
@@ -9215,10 +9215,12 @@
     {
       "ident": "GB-0608",
       "type": "closed",
-      "name": "RAF Templeton Air Base",
+      "name": "RAF Templeton",
+      "elevation_ft": 377.0,
       "continent": "EU",
       "iso_country": "GB",
       "iso_region": "GB-WLS",
+      "municipality": "Narberth, Pembrokeshire",
       "coordinates": "51.7648, -4.754015"
     },
     {
@@ -16407,6 +16409,17 @@
       "iso_region": "GB-ENG",
       "municipality": "Bideford, Devon",
       "coordinates": "51.0187, -4.51816"
+    },
+    {
+      "ident": "GB-1314",
+      "type": "heliport",
+      "name": "MoD Pendine Heliport",
+      "elevation_ft": 13.0,
+      "continent": "EU",
+      "iso_country": "GB",
+      "iso_region": "GB-WLS",
+      "municipality": "Carmarthen, Carmarthenshire",
+      "coordinates": "51.74725, -4.51791"
     },
     {
       "ident": "GB-DOC",

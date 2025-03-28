@@ -2,7 +2,7 @@
   "country_code": "PT",
   "country_name": "Portugal",
   "total_airports": 233,
-  "last_updated": "2025-03-27T00:08:21.046369",
+  "last_updated": "2025-03-28T00:08:23.871121",
   "types_distribution": {
     "small_airport": 97,
     "heliport": 65,
@@ -702,7 +702,7 @@
     {
       "ident": "LPPT",
       "type": "large_airport",
-      "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
+      "name": "Lisbon Humberto Delgado Airport",
       "elevation_ft": 374.0,
       "continent": "EU",
       "iso_country": "PT",
@@ -1540,12 +1540,13 @@
     {
       "ident": "PT-0058",
       "type": "small_airport",
-      "name": "Pista da Coudelaria Herdade do Pinheiro",
+      "name": "Pinheiro Airstrip",
+      "elevation_ft": 115.0,
       "continent": "EU",
       "iso_country": "PT",
       "iso_region": "PT-15",
       "municipality": "Alcácer do Sal",
-      "coordinates": "38.456513, -8.71749"
+      "coordinates": "38.45523, -8.715986"
     },
     {
       "ident": "PT-0059",

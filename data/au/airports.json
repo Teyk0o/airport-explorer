@@ -1,11 +1,11 @@
 {
   "country_code": "AU",
   "country_name": "Australia",
-  "total_airports": 2744,
-  "last_updated": "2025-03-27T00:08:20.764067",
+  "total_airports": 2753,
+  "last_updated": "2025-03-28T00:08:23.581124",
   "types_distribution": {
-    "small_airport": 2066,
-    "closed": 91,
+    "small_airport": 2073,
+    "closed": 93,
     "heliport": 392,
     "seaplane_base": 4,
     "medium_airport": 185,
@@ -312,8 +312,8 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-WA",
-      "municipality": "Northcliffe",
-      "coordinates": "-34.660112, 116.140758"
+      "municipality": "Boorara Brook",
+      "coordinates": "-34.660026, 116.140803"
     },
     {
       "ident": "AU-0026",
@@ -4102,7 +4102,7 @@
     {
       "ident": "AU-0379",
       "type": "small_airport",
-      "name": "Menindee Airport",
+      "name": "Karoola Airport",
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
@@ -5209,18 +5209,18 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-SA",
-      "municipality": "Coober Pedy",
+      "municipality": "Mount Willoughby",
       "coordinates": "-27.9768, 134.14569"
     },
     {
       "ident": "AU-0483",
       "type": "closed",
-      "name": "Painted Rock Road Airport",
+      "name": "Painted Desert Road Airport",
       "elevation_ft": 899.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-SA",
-      "municipality": "Coober Pedy",
+      "municipality": "Mount Willoughby",
       "coordinates": "-27.95417, 134.15453"
     },
     {
@@ -5236,8 +5236,8 @@
     },
     {
       "ident": "AU-0485",
-      "type": "small_airport",
-      "name": "Tolarno Station South Airport",
+      "type": "closed",
+      "name": "Willara Airport",
       "elevation_ft": 194.0,
       "continent": "OC",
       "iso_country": "AU",
@@ -5265,7 +5265,7 @@
       "iso_country": "AU",
       "iso_region": "AU-QLD",
       "municipality": "Tangorin",
-      "coordinates": "-21.05649, 144.20102"
+      "coordinates": "-21.056488, 144.2012"
     },
     {
       "ident": "AU-0488",
@@ -7995,12 +7995,13 @@
     {
       "ident": "AU-0748",
       "type": "small_airport",
-      "name": "Oakden Hills Airstrip",
+      "name": "Oakden Hills Airport",
       "elevation_ft": 308.0,
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-SA",
       "municipality": "Oakden Hills",
+      "gps_code": "YOKH",
       "coordinates": "-31.66598, 137.0361"
     },
     {
@@ -8190,7 +8191,7 @@
     },
     {
       "ident": "AU-0766",
-      "type": "small_airport",
+      "type": "closed",
       "name": "Pootnoura Airfield",
       "elevation_ft": 886.0,
       "continent": "OC",
@@ -8231,6 +8232,105 @@
       "iso_region": "AU-NSW",
       "municipality": "Packsaddle",
       "coordinates": "-30.246177, 142.103173"
+    },
+    {
+      "ident": "AU-0770",
+      "type": "small_airport",
+      "name": "Matheson Bore Airstrip",
+      "elevation_ft": 902.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Mount Willoughby",
+      "coordinates": "-28.26958, 134.1489"
+    },
+    {
+      "ident": "AU-0771",
+      "type": "small_airport",
+      "name": "Wirraminna Airport",
+      "elevation_ft": 446.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-SA",
+      "municipality": "Wirraminna",
+      "coordinates": "-31.19277, 136.21988"
+    },
+    {
+      "ident": "AU-0772",
+      "type": "small_airport",
+      "name": "Mount Sturgeon Airstrip",
+      "elevation_ft": 2638.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Porcupine",
+      "coordinates": "-20.1341, 144.28418"
+    },
+    {
+      "ident": "AU-0773",
+      "type": "small_airport",
+      "name": "Boonderoo Airstrip",
+      "elevation_ft": 2123.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Porcupine",
+      "coordinates": "-20.35307, 144.34526"
+    },
+    {
+      "ident": "AU-0774",
+      "type": "small_airport",
+      "name": "Maiden Springs Airstrip",
+      "elevation_ft": 2470.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Porcupine",
+      "coordinates": "-19.90363, 144.01572"
+    },
+    {
+      "ident": "AU-0775",
+      "type": "small_airport",
+      "name": "Blackbraes Station Airstrip",
+      "elevation_ft": 2996.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Lyndhurst",
+      "coordinates": "-19.54287, 144.19103"
+    },
+    {
+      "ident": "AU-0776",
+      "type": "small_airport",
+      "name": "Maitland Downs Station Airstrip",
+      "elevation_ft": 1850.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-QLD",
+      "municipality": "Lyndhurst",
+      "coordinates": "-19.02085, 144.46019"
+    },
+    {
+      "ident": "AU-0777",
+      "type": "small_airport",
+      "name": "Nocoleche Airfield",
+      "elevation_ft": 348.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Wanaaring",
+      "coordinates": "-29.84436, 144.11974"
+    },
+    {
+      "ident": "AU-0778",
+      "type": "small_airport",
+      "name": "Tilterweira Airfield",
+      "elevation_ft": 338.0,
+      "continent": "OC",
+      "iso_country": "AU",
+      "iso_region": "AU-NSW",
+      "municipality": "Wanaaring",
+      "coordinates": "-30.00809, 144.11175"
     },
     {
       "ident": "AU-AGW",
@@ -10094,7 +10194,7 @@
       "iso_region": "AU-SA",
       "municipality": "Bon Bon",
       "gps_code": "YBBO",
-      "coordinates": "-30.4067, 135.479996"
+      "coordinates": "-30.403091, 135.482042"
     },
     {
       "ident": "YBBT",
@@ -16927,8 +17027,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
+      "municipality": "Hungerford",
       "gps_code": "YHRD",
-      "coordinates": "-28.996261, 144.453145"
+      "coordinates": "-28.996261, 144.452801"
     },
     {
       "ident": "YHRG",
@@ -17046,9 +17147,10 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-QLD",
+      "municipality": "Hughenden",
       "gps_code": "YHUG",
       "iata_code": "HGD",
-      "coordinates": "-20.815000534057617, 144.22500610351562"
+      "coordinates": "-20.815001, 144.225006"
     },
     {
       "ident": "YHVH",
@@ -27050,7 +27152,7 @@
       "iso_region": "AU-SA",
       "municipality": "Mount Vivian",
       "gps_code": "YVIV",
-      "coordinates": "-30.5801, 135.72535"
+      "coordinates": "-30.580792, 135.72971"
     },
     {
       "ident": "YVLG",
@@ -27579,8 +27681,9 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-NSW",
+      "municipality": "White Cliffs",
       "gps_code": "YWHC",
-      "coordinates": "-30.853300094604492, 143.07200622558594"
+      "coordinates": "-30.85181, 143.071577"
     },
     {
       "ident": "YWHI",
@@ -27625,7 +27728,7 @@
       "continent": "OC",
       "iso_country": "AU",
       "iso_region": "AU-SA",
-      "municipality": "Coober Pedy",
+      "municipality": "Mount Willoughby",
       "gps_code": "YWIB",
       "coordinates": "-27.95816, 134.14951"
     },
