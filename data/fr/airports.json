@@ -1,12 +1,12 @@
 {
   "country_code": "FR",
   "country_name": "France",
-  "total_airports": 1709,
-  "last_updated": "2025-03-28T00:08:23.889502",
+  "total_airports": 1710,
+  "last_updated": "2025-03-29T00:08:20.538298",
   "types_distribution": {
     "heliport": 394,
     "small_airport": 1052,
-    "closed": 106,
+    "closed": 107,
     "seaplane_base": 19,
     "balloonport": 1,
     "medium_airport": 129,
@@ -14220,6 +14220,17 @@
       "municipality": "Condat sur Vézère",
       "local_code": "LF2423",
       "coordinates": "45.103885, 1.215121"
+    },
+    {
+      "ident": "FR-1278",
+      "type": "closed",
+      "name": "Jumel Ultralight Airfield",
+      "elevation_ft": 413.0,
+      "continent": "EU",
+      "iso_country": "FR",
+      "iso_region": "FR-HDF",
+      "municipality": "Jumel",
+      "coordinates": "49.757233, 2.302594"
     },
     {
       "ident": "FR-JCA",
