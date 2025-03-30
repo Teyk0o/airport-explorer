@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7463,
-  "last_updated": "2025-03-29T00:08:20.327132",
+  "total_airports": 7464,
+  "last_updated": "2025-03-30T00:09:12.123425",
   "types_distribution": {
-    "small_airport": 5163,
-    "closed": 294,
-    "heliport": 1871,
+    "small_airport": 5164,
+    "closed": 296,
+    "heliport": 1869,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -28068,8 +28068,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Itatinga",
-      "local_code": "SDTH",
-      "coordinates": "-23.147499084473, -48.495277404785"
+      "coordinates": "-23.147499, -48.495277"
     },
     {
       "ident": "BR-2312",
@@ -28080,8 +28079,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Porto Murtinho",
-      "local_code": "SDTR",
-      "coordinates": "-20.883333206177, -57.417778015137"
+      "coordinates": "-20.885438, -57.41945"
     },
     {
       "ident": "BR-2313",
@@ -28193,15 +28191,14 @@
     },
     {
       "ident": "BR-2322",
-      "type": "heliport",
+      "type": "closed",
       "name": "Life Hotel Heliport",
       "elevation_ft": 3183.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Curitiba",
-      "local_code": "SDVZ",
-      "coordinates": "-25.424722671509, -49.26916885376"
+      "coordinates": "-25.424723, -49.269169"
     },
     {
       "ident": "BR-2323",
@@ -28841,14 +28838,13 @@
     },
     {
       "ident": "BR-2376",
-      "type": "heliport",
+      "type": "closed",
       "name": "Centro Século XXI Heliport",
       "elevation_ft": 3286.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Curitiba",
-      "local_code": "SIDK",
       "coordinates": "-25.435204, -49.276568"
     },
     {
@@ -31840,14 +31836,14 @@
     {
       "ident": "BR-2626",
       "type": "heliport",
-      "name": "Valmor Weiss Heliport",
+      "name": "FIEP Heliport",
       "elevation_ft": 2920.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Curitiba",
-      "local_code": "SJHV",
-      "coordinates": "-25.448055267334, -49.24361038208"
+      "local_code": "PR0250",
+      "coordinates": "-25.4487, -49.2442"
     },
     {
       "ident": "BR-2627",
@@ -35673,7 +35669,6 @@
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Rio Branco do Ivaí",
-      "local_code": "SSKJ",
       "coordinates": "-24.30998, -51.408742"
     },
     {
@@ -38734,8 +38729,7 @@
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Foz do Iguaçu",
-      "local_code": "SSHY",
-      "coordinates": "-25.420556, -54.593056"
+      "coordinates": "-25.421175, -54.590002"
     },
     {
       "ident": "BR-3201",
@@ -39362,6 +39356,19 @@
       "iso_region": "BR-RR",
       "municipality": "Boca da Mata",
       "coordinates": "4.34121, -61.13434"
+    },
+    {
+      "ident": "BR-3254",
+      "type": "small_airport",
+      "name": "Fazenda Tosana Airstrip",
+      "elevation_ft": 10.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RJ",
+      "municipality": "Cabo Frio",
+      "gps_code": "SSTY",
+      "local_code": "RJ0027",
+      "coordinates": "-22.596944, -42.025"
     },
     {
       "ident": "BR-ALT",
@@ -56424,7 +56431,7 @@
       "ident": "SIDY",
       "type": "small_airport",
       "name": "Fazenda Yanduy Airport",
-      "elevation_ft": 985.0,
+      "elevation_ft": 1483.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
@@ -71007,13 +71014,13 @@
       "ident": "SJSU",
       "type": "small_airport",
       "name": "Fazenda São Marcus Airport",
-      "elevation_ft": 1083.0,
+      "elevation_ft": 958.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Alto Paraíso",
-      "gps_code": "SJSU",
-      "coordinates": "-23.564167, -53.797222"
+      "local_code": "PR0061",
+      "coordinates": "-23.561605, -53.795096"
     },
     {
       "ident": "SJSV",
@@ -71489,7 +71496,8 @@
       "iso_region": "BR-PR",
       "municipality": "Rio Branco do Sul",
       "gps_code": "SJUT",
-      "coordinates": "-25.185278, -49.316666"
+      "local_code": "PR0126",
+      "coordinates": "-25.1954, -49.3193"
     },
     {
       "ident": "SJUU",
@@ -80586,13 +80594,14 @@
       "ident": "SNWH",
       "type": "small_airport",
       "name": "Fazenda São Mateus Airport",
-      "elevation_ft": 1050.0,
+      "elevation_ft": 883.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Querência do Norte",
       "gps_code": "SNWH",
-      "coordinates": "-22.966667, -53.543331"
+      "local_code": "PR0069",
+      "coordinates": "-22.963045, -53.545769"
     },
     {
       "ident": "SNWI",
@@ -84106,7 +84115,8 @@
       "iso_region": "BR-PR",
       "municipality": "Santa Isabel do Ivaí",
       "gps_code": "SSGU",
-      "coordinates": "-23.193333, -53.328335"
+      "local_code": "PR0077",
+      "coordinates": "-23.186335, -53.326093"
     },
     {
       "ident": "SSGV",
@@ -84123,15 +84133,15 @@
     {
       "ident": "SSGW",
       "type": "small_airport",
-      "name": "Goioerê Airport",
+      "name": "Manoel Ribas Airport",
       "elevation_ft": 1608.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Goioerê",
       "gps_code": "SSGW",
-      "local_code": "SSGW",
-      "coordinates": "-24.220301, -53.044498"
+      "local_code": "PR0037",
+      "coordinates": "-24.220459, -53.044453"
     },
     {
       "ident": "SSGX",
@@ -84233,7 +84243,8 @@
       "iso_region": "BR-PR",
       "municipality": "Foz do Iguaçu",
       "gps_code": "SSHH",
-      "coordinates": "-25.604168, -54.49361"
+      "local_code": "PR0134",
+      "coordinates": "-25.608954, -54.493876"
     },
     {
       "ident": "SSHK",
@@ -84312,13 +84323,14 @@
       "ident": "SSHS",
       "type": "heliport",
       "name": "Helisul IV Heliport",
-      "elevation_ft": 676.0,
+      "elevation_ft": 689.0,
       "continent": "SA",
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Foz do Iguaçu",
       "gps_code": "SSHS",
-      "coordinates": "-25.613056, -54.398056"
+      "local_code": "PR0136",
+      "coordinates": "-25.612929, -54.481528"
     },
     {
       "ident": "SSHT",
@@ -84653,7 +84665,7 @@
       "iso_region": "BR-PR",
       "municipality": "Curitiba",
       "gps_code": "SSJF",
-      "coordinates": "-25.37444305419922, -49.22833251953125"
+      "coordinates": "-25.3762, -49.2277"
     },
     {
       "ident": "SSJG",
@@ -87151,8 +87163,7 @@
       "iso_country": "BR",
       "iso_region": "BR-PR",
       "municipality": "Cruzeiro do Iguaçu",
-      "gps_code": "SSTY",
-      "coordinates": "-25.5625, -53.176945"
+      "coordinates": "-25.556813, -53.166547"
     },
     {
       "ident": "SSUA",
