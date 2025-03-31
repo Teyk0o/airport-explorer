@@ -1,15 +1,15 @@
 {
   "country_code": "NZ",
   "country_name": "New Zealand",
-  "total_airports": 285,
-  "last_updated": "2025-03-30T00:09:12.449924",
+  "total_airports": 286,
+  "last_updated": "2025-03-31T00:09:31.352976",
   "types_distribution": {
     "small_airport": 168,
     "closed": 14,
     "heliport": 62,
     "large_airport": 3,
     "medium_airport": 35,
-    "seaplane_base": 3
+    "seaplane_base": 4
   },
   "airports": [
     {
@@ -1054,6 +1054,18 @@
       "coordinates": "-43.903301, 171.796997"
     },
     {
+      "ident": "NZAW",
+      "type": "seaplane_base",
+      "name": "Auckland Harbour Water Aerodrome",
+      "elevation_ft": 0.0,
+      "continent": "OC",
+      "iso_country": "NZ",
+      "iso_region": "NZ-AUK",
+      "municipality": "Aukland",
+      "gps_code": "NZAW",
+      "coordinates": "-36.833333, 174.766667"
+    },
+    {
       "ident": "NZBA",
       "type": "small_airport",
       "name": "Balclutha Aerodrome",
@@ -1063,7 +1075,7 @@
       "iso_region": "NZ-OTA",
       "municipality": "Balclutha",
       "gps_code": "NZBA",
-      "coordinates": "-46.245459, 169.74864"
+      "coordinates": "-46.245658, 169.748876"
     },
     {
       "ident": "NZBC",
@@ -1075,7 +1087,7 @@
       "iso_region": "NZ-AUK",
       "municipality": "Aukland",
       "gps_code": "NZBC",
-      "coordinates": "-36.84989929199219, 174.76199340820312"
+      "coordinates": "-36.849944, 174.762485"
     },
     {
       "ident": "NZBW",
@@ -1087,7 +1099,7 @@
       "iso_region": "NZ-CAN",
       "municipality": "Christchurch",
       "gps_code": "NZBW",
-      "coordinates": "-43.479698181152344, 172.68699645996094"
+      "coordinates": "-43.479648, 172.687041"
     },
     {
       "ident": "NZCB",
@@ -1099,7 +1111,7 @@
       "iso_region": "NZ-STL",
       "municipality": "Centre Bush",
       "gps_code": "NZCB",
-      "coordinates": "-46.040000915527344, 168.31199645996094"
+      "coordinates": "-46.040001, 168.311996"
     },
     {
       "ident": "NZCG",
@@ -1124,7 +1136,7 @@
       "municipality": "Christchurch",
       "gps_code": "NZCH",
       "iata_code": "CHC",
-      "coordinates": "-43.48939895629883, 172.53199768066406"
+      "coordinates": "-43.489029, 172.532065"
     },
     {
       "ident": "NZCI",
@@ -1148,7 +1160,7 @@
       "iso_country": "NZ",
       "iso_region": "NZ-OTA",
       "gps_code": "NZCS",
-      "coordinates": "-45.04859924316406, 169.17100524902344"
+      "coordinates": "-45.048599, 169.171005"
     },
     {
       "ident": "NZCX",
@@ -2295,7 +2307,7 @@
       "iso_region": "NZ-AUK",
       "municipality": "Dairy Flat",
       "gps_code": "NZNE",
-      "coordinates": "-36.656700134277344, 174.65499877929688"
+      "coordinates": "-36.6567, 174.654999"
     },
     {
       "ident": "NZNF",

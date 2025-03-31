@@ -2,13 +2,13 @@
   "country_code": "AE",
   "country_name": "United Arab Emirates",
   "total_airports": 255,
-  "last_updated": "2025-03-30T00:09:12.007330",
+  "last_updated": "2025-03-31T00:09:30.905355",
   "types_distribution": {
     "heliport": 204,
     "small_airport": 30,
-    "seaplane_base": 3,
-    "closed": 6,
+    "closed": 7,
     "medium_airport": 8,
+    "seaplane_base": 2,
     "large_airport": 4
   },
   "airports": [
@@ -55,13 +55,12 @@
     },
     {
       "ident": "AE-0006",
-      "type": "seaplane_base",
+      "type": "closed",
       "name": "Jebel Ali Seaplane Base",
       "continent": "AS",
       "iso_country": "AE",
       "iso_region": "AE-DU",
       "municipality": "Jebel Ali",
-      "iata_code": "DJH",
       "coordinates": "24.988967, 55.023796"
     },
     {

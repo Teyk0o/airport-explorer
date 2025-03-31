@@ -1,12 +1,12 @@
 {
   "country_code": "BR",
   "country_name": "Brazil",
-  "total_airports": 7464,
-  "last_updated": "2025-03-30T00:09:12.123425",
+  "total_airports": 7474,
+  "last_updated": "2025-03-31T00:09:31.022818",
   "types_distribution": {
-    "small_airport": 5164,
+    "small_airport": 5173,
     "closed": 296,
-    "heliport": 1869,
+    "heliport": 1870,
     "medium_airport": 124,
     "large_airport": 11
   },
@@ -28090,8 +28090,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Terenos",
-      "local_code": "SDTW",
-      "coordinates": "-20.326110839844, -55.100555419922"
+      "coordinates": "-20.326131, -55.100824"
     },
     {
       "ident": "BR-2314",
@@ -28102,8 +28101,7 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Corumbá",
-      "local_code": "SDTZ",
-      "coordinates": "-20.119167327881, -57.11194229126"
+      "coordinates": "-20.115919, -57.113103"
     },
     {
       "ident": "BR-2315",
@@ -28114,8 +28112,7 @@
       "iso_country": "BR",
       "iso_region": "BR-PA",
       "municipality": "Aveiro",
-      "local_code": "SDUA",
-      "coordinates": "-3.5086109638214, -56.31583404541"
+      "coordinates": "-3.510294, -56.311784"
     },
     {
       "ident": "BR-2316",
@@ -28126,8 +28123,7 @@
       "iso_country": "BR",
       "iso_region": "BR-SP",
       "municipality": "Penápolis",
-      "local_code": "SDUE",
-      "coordinates": "-21.511944, -50.121113"
+      "coordinates": "-21.510058, -50.121825"
     },
     {
       "ident": "BR-2317",
@@ -28138,7 +28134,6 @@
       "iso_country": "BR",
       "iso_region": "BR-MS",
       "municipality": "Ribas do Rio Pardo",
-      "local_code": "SDUH",
       "coordinates": "-21.542281, -53.345331"
     },
     {
@@ -79423,6 +79418,84 @@
       "coordinates": "-21.229444503799996, -47.795276641799994"
     },
     {
+      "ident": "SNR2",
+      "type": "small_airport",
+      "name": "Renascer Airstrip.",
+      "elevation_ft": 2906.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-BA",
+      "municipality": "Cândido Sales",
+      "gps_code": "SNR2",
+      "local_code": "BA0488",
+      "coordinates": "-15.416417, -41.354119"
+    },
+    {
+      "ident": "SNR3",
+      "type": "small_airport",
+      "name": "Tassiana Airport",
+      "elevation_ft": 1234.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Sinop",
+      "gps_code": "SNR3",
+      "local_code": "MT1114",
+      "coordinates": "-12.039232, -55.491976"
+    },
+    {
+      "ident": "SNR6",
+      "type": "small_airport",
+      "name": "Fazenda Vale Verde Airport",
+      "elevation_ft": 721.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-PA",
+      "municipality": "Santana do Araguaia",
+      "gps_code": "SNR6",
+      "local_code": "PA0352",
+      "coordinates": "-9.101959, -50.936136"
+    },
+    {
+      "ident": "SNR7",
+      "type": "small_airport",
+      "name": "Santa Agro 1 Airstrip",
+      "elevation_ft": 574.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Guajará-Mirim",
+      "gps_code": "SNR7",
+      "local_code": "RO0102",
+      "coordinates": "-10.636175, -65.02235"
+    },
+    {
+      "ident": "SNR8",
+      "type": "small_airport",
+      "name": "Fazenda Palotina Airstrip",
+      "elevation_ft": 1283.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Nova Maringá",
+      "gps_code": "SNR8",
+      "local_code": "MT1107",
+      "coordinates": "-13.171346, -56.988984"
+    },
+    {
+      "ident": "SNR9",
+      "type": "heliport",
+      "name": "Fazenda Aroeira Heliport",
+      "elevation_ft": 2221.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-GO",
+      "municipality": "Padre Bernardo",
+      "gps_code": "SNR9",
+      "local_code": "GO0383",
+      "coordinates": "-15.212852, -48.364774"
+    },
+    {
       "ident": "SNRB",
       "type": "small_airport",
       "name": "Fazenda Rosa de Maio Airport",
@@ -79646,6 +79719,58 @@
       "municipality": "Oliveira",
       "gps_code": "SNRZ",
       "coordinates": "-20.7146, -44.8653"
+    },
+    {
+      "ident": "SNS2",
+      "type": "small_airport",
+      "name": "Fazenda Boa Vista Airport",
+      "elevation_ft": 1237.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Cláudia",
+      "gps_code": "SNS2",
+      "local_code": "MT1117",
+      "coordinates": "-11.356481, -55.261347"
+    },
+    {
+      "ident": "SNS3",
+      "type": "small_airport",
+      "name": "Fazenda Nossa Senhora das Graças Airport",
+      "elevation_ft": 1234.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Colíder",
+      "gps_code": "SNS3",
+      "local_code": "MT1115",
+      "coordinates": "-10.883037, -55.550602"
+    },
+    {
+      "ident": "SNS4",
+      "type": "small_airport",
+      "name": "Fazenda São Paulo do Cravarí Airstrip",
+      "elevation_ft": 1286.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-MT",
+      "municipality": "Brasnorte",
+      "gps_code": "SNS4",
+      "local_code": "MT1109",
+      "coordinates": "-12.548542, -57.992213"
+    },
+    {
+      "ident": "SNS6",
+      "type": "small_airport",
+      "name": "Fazenda Nova Esperança Airport",
+      "elevation_ft": 466.0,
+      "continent": "SA",
+      "iso_country": "BR",
+      "iso_region": "BR-RO",
+      "municipality": "Cujubim",
+      "gps_code": "SNS6",
+      "local_code": "RO0112",
+      "coordinates": "-9.478919, -62.803341"
     },
     {
       "ident": "SNSC",
