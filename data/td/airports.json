@@ -2,7 +2,7 @@
   "country_code": "TD",
   "country_name": "Chad",
   "total_airports": 46,
-  "last_updated": "2025-08-01T00:18:22.427226",
+  "last_updated": "2025-08-25T10:08:40.552881",
   "types_distribution": {
     "small_airport": 39,
     "medium_airport": 4,
@@ -20,7 +20,8 @@
       "iso_region": "TD-SA",
       "municipality": "ZaKouma",
       "iata_code": "AKM",
-      "coordinates": "10.8902777778, 19.8172222222"
+      "coordinates": "10.8902777778, 19.8172222222",
+      "metar_available": false
     },
     {
       "ident": "AOD",
@@ -32,7 +33,8 @@
       "iso_region": "TD-SA",
       "municipality": "Abou-Deïa",
       "iata_code": "AOD",
-      "coordinates": "11.4773, 19.2874"
+      "coordinates": "11.4773, 19.2874",
+      "metar_available": false
     },
     {
       "ident": "FTFY",
@@ -44,7 +46,8 @@
       "iso_region": "TD-EO",
       "municipality": "Wadi Doum",
       "gps_code": "FTFY",
-      "coordinates": "18.52793, 20.188644"
+      "coordinates": "18.52793, 20.188644",
+      "metar_available": false
     },
     {
       "ident": "FTTA",
@@ -57,7 +60,8 @@
       "municipality": "Sarh",
       "gps_code": "FTTA",
       "iata_code": "SRH",
-      "coordinates": "9.14444, 18.374399"
+      "coordinates": "9.14444, 18.374399",
+      "metar_available": false
     },
     {
       "ident": "FTTB",
@@ -70,7 +74,8 @@
       "municipality": "Bongor",
       "gps_code": "FTTB",
       "iata_code": "OGR",
-      "coordinates": "10.288345, 15.379561"
+      "coordinates": "10.288345, 15.379561",
+      "metar_available": false
     },
     {
       "ident": "FTTC",
@@ -83,7 +88,8 @@
       "municipality": "Abeche",
       "gps_code": "FTTC",
       "iata_code": "AEH",
-      "coordinates": "13.847, 20.844299"
+      "coordinates": "13.847, 20.844299",
+      "metar_available": false
     },
     {
       "ident": "FTTD",
@@ -96,7 +102,8 @@
       "municipality": "Moundou",
       "gps_code": "FTTD",
       "iata_code": "MQQ",
-      "coordinates": "8.628503, 16.074241"
+      "coordinates": "8.628503, 16.074241",
+      "metar_available": false
     },
     {
       "ident": "FTTE",
@@ -108,7 +115,8 @@
       "iso_region": "TD-WF",
       "municipality": "Biltine",
       "gps_code": "FTTE",
-      "coordinates": "14.551908, 20.841834"
+      "coordinates": "14.551908, 20.841834",
+      "metar_available": false
     },
     {
       "ident": "FTTF",
@@ -120,7 +128,8 @@
       "iso_region": "TD-EO",
       "municipality": "Fada",
       "gps_code": "FTTF",
-      "coordinates": "17.19126, 21.50353"
+      "coordinates": "17.19126, 21.50353",
+      "metar_available": false
     },
     {
       "ident": "FTTG",
@@ -132,7 +141,8 @@
       "iso_region": "TD-SI",
       "municipality": "Goz-Beida",
       "gps_code": "FTTG",
-      "coordinates": "12.210946, 21.458472"
+      "coordinates": "12.210946, 21.458472",
+      "metar_available": false
     },
     {
       "ident": "FTTH",
@@ -145,7 +155,8 @@
       "municipality": "Lai",
       "gps_code": "FTTH",
       "iata_code": "LTC",
-      "coordinates": "9.3979, 16.3125"
+      "coordinates": "9.3979, 16.3125",
+      "metar_available": false
     },
     {
       "ident": "FTTI",
@@ -158,7 +169,8 @@
       "municipality": "Ati",
       "gps_code": "FTTI",
       "iata_code": "ATV",
-      "coordinates": "13.239778, 18.315893"
+      "coordinates": "13.239778, 18.315893",
+      "metar_available": false
     },
     {
       "ident": "FTTJ",
@@ -171,7 +183,8 @@
       "municipality": "N'Djamena",
       "gps_code": "FTTJ",
       "iata_code": "NDJ",
-      "coordinates": "12.1337, 15.034"
+      "coordinates": "12.1337, 15.034",
+      "metar_available": false
     },
     {
       "ident": "FTTK",
@@ -184,7 +197,8 @@
       "municipality": "Bokoro",
       "gps_code": "FTTK",
       "iata_code": "BKR",
-      "coordinates": "12.385511, 17.070989"
+      "coordinates": "12.385511, 17.070989",
+      "metar_available": false
     },
     {
       "ident": "FTTL",
@@ -197,7 +211,8 @@
       "municipality": "Bol",
       "gps_code": "FTTL",
       "iata_code": "OTC",
-      "coordinates": "13.443574, 14.739254"
+      "coordinates": "13.443574, 14.739254",
+      "metar_available": false
     },
     {
       "ident": "FTTM",
@@ -210,7 +225,8 @@
       "municipality": "Mongo",
       "gps_code": "FTTM",
       "iata_code": "MVO",
-      "coordinates": "12.17048, 18.675642"
+      "coordinates": "12.17048, 18.675642",
+      "metar_available": false
     },
     {
       "ident": "FTTN",
@@ -223,7 +239,8 @@
       "municipality": "Am Timan",
       "gps_code": "FTTN",
       "iata_code": "AMC",
-      "coordinates": "11.0340003967, 20.274000167799997"
+      "coordinates": "11.0340003967, 20.274000167799997",
+      "metar_available": false
     },
     {
       "ident": "FTTP",
@@ -236,7 +253,8 @@
       "municipality": "Pala",
       "gps_code": "FTTP",
       "iata_code": "PLF",
-      "coordinates": "9.37806, 14.925"
+      "coordinates": "9.37806, 14.925",
+      "metar_available": false
     },
     {
       "ident": "FTTR",
@@ -248,7 +266,8 @@
       "iso_region": "TD-TI",
       "municipality": "Zouar",
       "gps_code": "FTTR",
-      "coordinates": "20.44813, 16.57185"
+      "coordinates": "20.44813, 16.57185",
+      "metar_available": false
     },
     {
       "ident": "FTTS",
@@ -261,7 +280,8 @@
       "municipality": "Bousso",
       "gps_code": "FTTS",
       "iata_code": "OUT",
-      "coordinates": "10.483, 16.716999"
+      "coordinates": "10.483, 16.716999",
+      "metar_available": false
     },
     {
       "ident": "FTTU",
@@ -274,7 +294,8 @@
       "municipality": "Mao",
       "gps_code": "FTTU",
       "iata_code": "AMO",
-      "coordinates": "14.1456, 15.3144"
+      "coordinates": "14.1456, 15.3144",
+      "metar_available": false
     },
     {
       "ident": "FTTY",
@@ -287,7 +308,8 @@
       "municipality": "Faya-Largeau",
       "gps_code": "FTTY",
       "iata_code": "FYT",
-      "coordinates": "17.917101, 19.111099"
+      "coordinates": "17.917101, 19.111099",
+      "metar_available": false
     },
     {
       "ident": "FTTZ",
@@ -299,7 +321,8 @@
       "iso_region": "TD-TI",
       "municipality": "Bardai Zougra",
       "gps_code": "FTTZ",
-      "coordinates": "21.448426, 17.053271"
+      "coordinates": "21.448426, 17.053271",
+      "metar_available": false
     },
     {
       "ident": "MEF",
@@ -311,7 +334,8 @@
       "iso_region": "TD-GR",
       "municipality": "Melfi",
       "iata_code": "MEF",
-      "coordinates": "11.060192, 17.944495"
+      "coordinates": "11.060192, 17.944495",
+      "metar_available": false
     },
     {
       "ident": "OUM",
@@ -323,7 +347,8 @@
       "iso_region": "TD-BA",
       "municipality": "Oum Hadjer",
       "iata_code": "OUM",
-      "coordinates": "13.278244, 19.710256"
+      "coordinates": "13.278244, 19.710256",
+      "metar_available": false
     },
     {
       "ident": "TD-0001",
@@ -332,7 +357,8 @@
       "continent": "AF",
       "iso_country": "TD",
       "iso_region": "TD-TI",
-      "coordinates": "22.645195, 17.696527"
+      "coordinates": "22.645195, 17.696527",
+      "metar_available": false
     },
     {
       "ident": "TD-0002",
@@ -343,7 +369,8 @@
       "iso_country": "TD",
       "iso_region": "TD-LR",
       "municipality": "Doba",
-      "coordinates": "8.701775, 16.834947"
+      "coordinates": "8.701775, 16.834947",
+      "metar_available": false
     },
     {
       "ident": "TD-0003",
@@ -354,7 +381,8 @@
       "iso_country": "TD",
       "iso_region": "TD-LR",
       "municipality": "Baïbokoum",
-      "coordinates": "7.765304, 15.703935"
+      "coordinates": "7.765304, 15.703935",
+      "metar_available": false
     },
     {
       "ident": "TD-0004",
@@ -365,7 +393,8 @@
       "iso_country": "TD",
       "iso_region": "TD-MO",
       "municipality": "Léré",
-      "coordinates": "9.645894, 14.173201"
+      "coordinates": "9.645894, 14.173201",
+      "metar_available": false
     },
     {
       "ident": "TD-0005",
@@ -378,7 +407,8 @@
       "municipality": "Kélo",
       "gps_code": "FT14",
       "local_code": "FT14",
-      "coordinates": "9.31408, 15.786463"
+      "coordinates": "9.31408, 15.786463",
+      "metar_available": false
     },
     {
       "ident": "TD-0006",
@@ -389,7 +419,8 @@
       "iso_country": "TD",
       "iso_region": "TD-MA",
       "municipality": "Koumra",
-      "coordinates": "8.958891, 17.635592"
+      "coordinates": "8.958891, 17.635592",
+      "metar_available": false
     },
     {
       "ident": "TD-0007",
@@ -399,7 +430,8 @@
       "iso_country": "TD",
       "iso_region": "TD-MA",
       "municipality": "Goundi",
-      "coordinates": "9.382597, 17.380952"
+      "coordinates": "9.382597, 17.380952",
+      "metar_available": false
     },
     {
       "ident": "TD-0008",
@@ -410,7 +442,8 @@
       "iso_country": "TD",
       "iso_region": "TD-MC",
       "municipality": "Kyabé",
-      "coordinates": "9.447491, 18.927636"
+      "coordinates": "9.447491, 18.927636",
+      "metar_available": false
     },
     {
       "ident": "TD-0009",
@@ -421,7 +454,8 @@
       "iso_country": "TD",
       "iso_region": "TD-SA",
       "municipality": "Haraze",
-      "coordinates": "9.918697, 20.90368"
+      "coordinates": "9.918697, 20.90368",
+      "metar_available": false
     },
     {
       "ident": "TD-0010",
@@ -431,7 +465,8 @@
       "iso_country": "TD",
       "iso_region": "TD-MC",
       "municipality": "Sarh",
-      "coordinates": "8.974228, 18.496038"
+      "coordinates": "8.974228, 18.496038",
+      "metar_available": false
     },
     {
       "ident": "TD-0011",
@@ -442,7 +477,8 @@
       "iso_country": "TD",
       "iso_region": "TD-WF",
       "municipality": "Iriba",
-      "coordinates": "15.134124, 22.221355"
+      "coordinates": "15.134124, 22.221355",
+      "metar_available": false
     },
     {
       "ident": "TD-0012",
@@ -453,7 +489,8 @@
       "iso_country": "TD",
       "iso_region": "TD-MC",
       "municipality": "Souka Serhir",
-      "coordinates": "10.146546, 19.35757"
+      "coordinates": "10.146546, 19.35757",
+      "metar_available": false
     },
     {
       "ident": "TD-0013",
@@ -464,7 +501,8 @@
       "iso_country": "TD",
       "iso_region": "TD-WF",
       "municipality": "Guéréda",
-      "coordinates": "14.5642, 22.07495"
+      "coordinates": "14.5642, 22.07495",
+      "metar_available": false
     },
     {
       "ident": "TD-0014",
@@ -475,7 +513,8 @@
       "iso_country": "TD",
       "iso_region": "TD-EE",
       "municipality": "Amdjarass",
-      "coordinates": "15.97096, 22.770585"
+      "coordinates": "15.97096, 22.770585",
+      "metar_available": false
     },
     {
       "ident": "TD-0015",
@@ -486,7 +525,8 @@
       "iso_country": "TD",
       "iso_region": "TD-BG",
       "municipality": "Moussoro",
-      "coordinates": "13.645663, 16.501386"
+      "coordinates": "13.645663, 16.501386",
+      "metar_available": false
     },
     {
       "ident": "TD-0016",
@@ -497,7 +537,8 @@
       "iso_country": "TD",
       "iso_region": "TD-OD",
       "municipality": "Adré",
-      "coordinates": "13.481042, 22.179734"
+      "coordinates": "13.481042, 22.179734",
+      "metar_available": false
     },
     {
       "ident": "TD-0017",
@@ -508,7 +549,8 @@
       "iso_country": "TD",
       "iso_region": "TD-BO",
       "municipality": "Kouba Olanga",
-      "coordinates": "15.718333, 18.311667"
+      "coordinates": "15.718333, 18.311667",
+      "metar_available": false
     },
     {
       "ident": "TD-0018",
@@ -519,7 +561,8 @@
       "iso_country": "TD",
       "iso_region": "TD-BG",
       "municipality": "Salal",
-      "coordinates": "14.843333, 17.226667"
+      "coordinates": "14.843333, 17.226667",
+      "metar_available": false
     },
     {
       "ident": "TD-0019",
@@ -530,7 +573,8 @@
       "iso_country": "TD",
       "iso_region": "TD-EE",
       "municipality": "Amdjarass",
-      "coordinates": "16.073077, 22.849005"
+      "coordinates": "16.073077, 22.849005",
+      "metar_available": false
     },
     {
       "ident": "TD-0020",
@@ -541,7 +585,8 @@
       "iso_country": "TD",
       "iso_region": "TD-CB",
       "municipality": "Naramay,",
-      "coordinates": "10.198583, 16.868222"
+      "coordinates": "10.198583, 16.868222",
+      "metar_available": false
     },
     {
       "ident": "TD-0021",
@@ -552,7 +597,8 @@
       "iso_country": "TD",
       "iso_region": "TD-LO",
       "municipality": "Beladja",
-      "coordinates": "8.71386, 16.40718"
+      "coordinates": "8.71386, 16.40718",
+      "metar_available": false
     }
   ]
 }

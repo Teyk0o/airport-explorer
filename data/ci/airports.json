@@ -2,7 +2,7 @@
   "country_code": "CI",
   "country_name": "Ivory Coast",
   "total_airports": 31,
-  "last_updated": "2025-08-01T00:18:22.626073",
+  "last_updated": "2025-08-25T10:08:40.763093",
   "types_distribution": {
     "small_airport": 22,
     "heliport": 1,
@@ -19,7 +19,8 @@
       "iso_country": "CI",
       "iso_region": "CI-CM",
       "municipality": "Assouindé",
-      "coordinates": "5.17544, -3.47049"
+      "coordinates": "5.17544, -3.47049",
+      "metar_available": false
     },
     {
       "ident": "CI-0002",
@@ -29,7 +30,8 @@
       "iso_country": "CI",
       "iso_region": "CI-LG",
       "municipality": "Cosrou",
-      "coordinates": "5.3156, -4.6459"
+      "coordinates": "5.3156, -4.6459",
+      "metar_available": false
     },
     {
       "ident": "CI-0003",
@@ -39,7 +41,8 @@
       "iso_country": "CI",
       "iso_region": "CI-BS",
       "municipality": "Wèoulo",
-      "coordinates": "4.6874, -7.0773"
+      "coordinates": "4.6874, -7.0773",
+      "metar_available": false
     },
     {
       "ident": "CI-0004",
@@ -49,7 +52,8 @@
       "iso_country": "CI",
       "iso_region": "CI-AB",
       "municipality": "Abidjan",
-      "coordinates": "5.32812, -3.97654"
+      "coordinates": "5.32812, -3.97654",
+      "metar_available": false
     },
     {
       "ident": "CI-0005",
@@ -60,7 +64,8 @@
       "iso_country": "CI",
       "iso_region": "CI-MG",
       "municipality": "Zagné",
-      "coordinates": "6.215391, -7.500315"
+      "coordinates": "6.215391, -7.500315",
+      "metar_available": false
     },
     {
       "ident": "CI-0006",
@@ -71,7 +76,8 @@
       "iso_country": "CI",
       "iso_region": "CI-SV",
       "municipality": "Ferkessédougou",
-      "coordinates": "9.592774, -5.23344"
+      "coordinates": "9.592774, -5.23344",
+      "metar_available": false
     },
     {
       "ident": "DIAO",
@@ -84,7 +90,8 @@
       "municipality": "Aboisso",
       "gps_code": "DIAO",
       "iata_code": "ABO",
-      "coordinates": "5.461944, -3.234722"
+      "coordinates": "5.461944, -3.234722",
+      "metar_available": false
     },
     {
       "ident": "DIAP",
@@ -97,7 +104,8 @@
       "municipality": "Abidjan",
       "gps_code": "DIAP",
       "iata_code": "ABJ",
-      "coordinates": "5.26139, -3.92629"
+      "coordinates": "5.26139, -3.92629",
+      "metar_available": false
     },
     {
       "ident": "DIAU",
@@ -110,7 +118,8 @@
       "municipality": "Abengourou",
       "gps_code": "DIAU",
       "iata_code": "OGO",
-      "coordinates": "6.71556, -3.47028"
+      "coordinates": "6.71556, -3.47028",
+      "metar_available": false
     },
     {
       "ident": "DIBC",
@@ -122,7 +131,8 @@
       "iso_region": "CI-LC",
       "municipality": "Bocanda",
       "gps_code": "DIBC",
-      "coordinates": "7.033, -4.533"
+      "coordinates": "7.033, -4.533",
+      "metar_available": false
     },
     {
       "ident": "DIBI",
@@ -135,7 +145,8 @@
       "municipality": "Boundiali",
       "gps_code": "DIBI",
       "iata_code": "BXI",
-      "coordinates": "9.540571, -6.469831"
+      "coordinates": "9.540571, -6.469831",
+      "metar_available": false
     },
     {
       "ident": "DIBK",
@@ -148,7 +159,8 @@
       "municipality": "Bouaké",
       "gps_code": "DIBK",
       "iata_code": "BYK",
-      "coordinates": "7.7388, -5.07367"
+      "coordinates": "7.7388, -5.07367",
+      "metar_available": false
     },
     {
       "ident": "DIBN",
@@ -161,7 +173,8 @@
       "municipality": "Bouna",
       "gps_code": "DIBN",
       "iata_code": "BQO",
-      "coordinates": "9.255556, -3.033333"
+      "coordinates": "9.255556, -3.033333",
+      "metar_available": false
     },
     {
       "ident": "DIBU",
@@ -174,7 +187,8 @@
       "municipality": "Bondoukou",
       "gps_code": "DIBU",
       "iata_code": "BDK",
-      "coordinates": "8.01722, -2.76194"
+      "coordinates": "8.01722, -2.76194",
+      "metar_available": false
     },
     {
       "ident": "DIDB",
@@ -186,7 +200,8 @@
       "iso_region": "CI-LG",
       "municipality": "Dabou",
       "gps_code": "DIDB",
-      "coordinates": "5.351385116577148, -4.4034576416015625"
+      "coordinates": "5.351385116577148, -4.4034576416015625",
+      "metar_available": false
     },
     {
       "ident": "DIDK",
@@ -199,7 +214,8 @@
       "municipality": "Dimbokro",
       "gps_code": "DIDK",
       "iata_code": "DIM",
-      "coordinates": "6.65167, -4.64056"
+      "coordinates": "6.65167, -4.64056",
+      "metar_available": false
     },
     {
       "ident": "DIDL",
@@ -211,7 +227,8 @@
       "iso_region": "CI-SM",
       "gps_code": "DIDL",
       "iata_code": "DJO",
-      "coordinates": "6.79281, -6.47319"
+      "coordinates": "6.79281, -6.47319",
+      "metar_available": false
     },
     {
       "ident": "DIGA",
@@ -224,7 +241,8 @@
       "municipality": "Gagnoa",
       "gps_code": "DIGA",
       "iata_code": "GGN",
-      "coordinates": "6.102855, -5.986809"
+      "coordinates": "6.102855, -5.986809",
+      "metar_available": false
     },
     {
       "ident": "DIGL",
@@ -237,7 +255,8 @@
       "municipality": "Guiglo",
       "gps_code": "DIGL",
       "iata_code": "GGO",
-      "coordinates": "6.534711, -7.526847"
+      "coordinates": "6.534711, -7.526847",
+      "metar_available": false
     },
     {
       "ident": "DIGN",
@@ -250,7 +269,8 @@
       "municipality": "Grand-Béréby",
       "gps_code": "DIGN",
       "iata_code": "BBV",
-      "coordinates": "4.64341306686, -6.923961639400001"
+      "coordinates": "4.64341306686, -6.923961639400001",
+      "metar_available": false
     },
     {
       "ident": "DIKO",
@@ -263,7 +283,8 @@
       "municipality": "Korhogo",
       "gps_code": "DIKO",
       "iata_code": "HGO",
-      "coordinates": "9.38718, -5.55666"
+      "coordinates": "9.38718, -5.55666",
+      "metar_available": false
     },
     {
       "ident": "DIMN",
@@ -275,7 +296,8 @@
       "iso_region": "CI-MG",
       "gps_code": "DIMN",
       "iata_code": "MJC",
-      "coordinates": "7.27207, -7.58736"
+      "coordinates": "7.27207, -7.58736",
+      "metar_available": false
     },
     {
       "ident": "DIOD",
@@ -288,7 +310,8 @@
       "municipality": "Odienne",
       "gps_code": "DIOD",
       "iata_code": "KEO",
-      "coordinates": "9.539457, -7.56134"
+      "coordinates": "9.539457, -7.56134",
+      "metar_available": false
     },
     {
       "ident": "DIOF",
@@ -301,7 +324,8 @@
       "municipality": "Ouango Fitini",
       "gps_code": "DIOF",
       "iata_code": "OFI",
-      "coordinates": "9.6, -4.05"
+      "coordinates": "9.6, -4.05",
+      "metar_available": false
     },
     {
       "ident": "DISG",
@@ -314,7 +338,8 @@
       "municipality": "Séguéla",
       "gps_code": "DISG",
       "iata_code": "SEO",
-      "coordinates": "7.96, -6.644167"
+      "coordinates": "7.96, -6.644167",
+      "metar_available": false
     },
     {
       "ident": "DISP",
@@ -326,7 +351,8 @@
       "iso_region": "CI-BS",
       "gps_code": "DISP",
       "iata_code": "SPY",
-      "coordinates": "4.74672, -6.66082"
+      "coordinates": "4.74672, -6.66082",
+      "metar_available": false
     },
     {
       "ident": "DISS",
@@ -339,7 +365,8 @@
       "municipality": "Sassandra",
       "gps_code": "DISS",
       "iata_code": "ZSS",
-      "coordinates": "4.928888, -6.133156"
+      "coordinates": "4.928888, -6.133156",
+      "metar_available": false
     },
     {
       "ident": "DITB",
@@ -352,7 +379,8 @@
       "municipality": "Tabou",
       "gps_code": "DITB",
       "iata_code": "TXU",
-      "coordinates": "4.437809467315674, -7.362728118896484"
+      "coordinates": "4.437809467315674, -7.362728118896484",
+      "metar_available": false
     },
     {
       "ident": "DITM",
@@ -365,7 +393,8 @@
       "municipality": "Touba",
       "gps_code": "DITM",
       "iata_code": "TOZ",
-      "coordinates": "8.2934, -7.674"
+      "coordinates": "8.2934, -7.674",
+      "metar_available": false
     },
     {
       "ident": "DIYO",
@@ -378,7 +407,8 @@
       "municipality": "Yamoussoukro",
       "gps_code": "DIYO",
       "iata_code": "ASK",
-      "coordinates": "6.9031701088, -5.36558008194"
+      "coordinates": "6.9031701088, -5.36558008194",
+      "metar_available": false
     },
     {
       "ident": "KTC",
@@ -390,7 +420,8 @@
       "iso_region": "CI-VB",
       "municipality": "Katiola",
       "iata_code": "KTC",
-      "coordinates": "8.132858, -5.06487"
+      "coordinates": "8.132858, -5.06487",
+      "metar_available": false
     }
   ]
 }

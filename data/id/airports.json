@@ -2,7 +2,7 @@
   "country_code": "ID",
   "country_name": "Indonesia",
   "total_airports": 656,
-  "last_updated": "2025-08-01T00:18:22.443332",
+  "last_updated": "2025-08-25T10:08:40.570329",
   "types_distribution": {
     "small_airport": 478,
     "closed": 46,
@@ -22,7 +22,8 @@
       "municipality": "Kabir",
       "gps_code": "WATP",
       "iata_code": "AXO",
-      "coordinates": "-8.244832, 124.219108"
+      "coordinates": "-8.244832, 124.219108",
+      "metar_available": false
     },
     {
       "ident": "DEX",
@@ -35,7 +36,8 @@
       "municipality": "Dekai",
       "gps_code": "WAVD",
       "iata_code": "DEX",
-      "coordinates": "-4.8557, 139.482006"
+      "coordinates": "-4.8557, 139.482006",
+      "metar_available": false
     },
     {
       "ident": "ID-0001",
@@ -46,7 +48,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Namber-Numfoor Island",
-      "coordinates": "-1.0733499527, 134.830993652"
+      "coordinates": "-1.0733499527, 134.830993652",
+      "metar_available": false
     },
     {
       "ident": "ID-0002",
@@ -57,7 +60,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Kamiri-Numfoor Island",
-      "coordinates": "-0.9715039730070001, 134.809005737"
+      "coordinates": "-0.9715039730070001, 134.809005737",
+      "metar_available": false
     },
     {
       "ident": "ID-0003",
@@ -70,7 +74,8 @@
       "municipality": "Jakarta",
       "gps_code": "WIHG",
       "iata_code": "PPJ",
-      "coordinates": "-5.644444, 106.5625"
+      "coordinates": "-5.644444, 106.5625",
+      "metar_available": false
     },
     {
       "ident": "ID-0004",
@@ -81,7 +86,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Okpahik",
-      "coordinates": "-4.697855, 140.770547"
+      "coordinates": "-4.697855, 140.770547",
+      "metar_available": false
     },
     {
       "ident": "ID-0006",
@@ -92,7 +98,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta Selatan, Badung",
-      "coordinates": "-8.80779, 115.16264"
+      "coordinates": "-8.80779, 115.16264",
+      "metar_available": false
     },
     {
       "ident": "ID-0007",
@@ -103,7 +110,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KU",
       "municipality": "Malinau-Borneo Island",
-      "coordinates": "3.55264, 116.6256"
+      "coordinates": "3.55264, 116.6256",
+      "metar_available": false
     },
     {
       "ident": "ID-0008",
@@ -114,7 +122,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KI",
       "municipality": "Sokan-Borneo Island",
-      "coordinates": "2.16350007057, 117.68699646"
+      "coordinates": "2.16350007057, 117.68699646",
+      "metar_available": false
     },
     {
       "ident": "ID-0010",
@@ -123,7 +132,8 @@
       "continent": "AS",
       "iso_country": "ID",
       "iso_region": "ID-JB",
-      "coordinates": "-6.678375, 108.252219444"
+      "coordinates": "-6.678375, 108.252219444",
+      "metar_available": false
     },
     {
       "ident": "ID-0011",
@@ -133,7 +143,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta, Badung",
-      "coordinates": "-8.71527, 115.18479"
+      "coordinates": "-8.71527, 115.18479",
+      "metar_available": false
     },
     {
       "ident": "ID-0012",
@@ -146,7 +157,8 @@
       "municipality": "Pulau-Pulau Batu",
       "gps_code": "WIMO",
       "local_code": "LSE",
-      "coordinates": "-0.01924, 98.30097"
+      "coordinates": "-0.01924, 98.30097",
+      "metar_available": false
     },
     {
       "ident": "ID-0014",
@@ -157,7 +169,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Denpasar",
-      "coordinates": "-8.718024, 115.205471"
+      "coordinates": "-8.718024, 115.205471",
+      "metar_available": false
     },
     {
       "ident": "ID-0015",
@@ -168,7 +181,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta, Badung",
-      "coordinates": "-8.7283, 115.166393"
+      "coordinates": "-8.7283, 115.166393",
+      "metar_available": false
     },
     {
       "ident": "ID-0016",
@@ -179,7 +193,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Denpasar",
-      "coordinates": "-8.676952, 115.265071"
+      "coordinates": "-8.676952, 115.265071",
+      "metar_available": false
     },
     {
       "ident": "ID-0017",
@@ -190,7 +205,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KI",
       "municipality": "Samarinda",
-      "coordinates": "-0.484524, 117.157082"
+      "coordinates": "-0.484524, 117.157082",
+      "metar_available": false
     },
     {
       "ident": "ID-0018",
@@ -201,7 +217,8 @@
       "iso_country": "ID",
       "iso_region": "ID-MA",
       "municipality": "Selaru Island",
-      "coordinates": "-8.256, 130.842"
+      "coordinates": "-8.256, 130.842",
+      "metar_available": false
     },
     {
       "ident": "ID-0019",
@@ -213,7 +230,8 @@
       "iso_region": "ID-JI",
       "municipality": "Bhinar",
       "local_code": "PRO",
-      "coordinates": "-7.7169054, 113.597366"
+      "coordinates": "-7.7169054, 113.597366",
+      "metar_available": false
     },
     {
       "ident": "ID-0020",
@@ -223,7 +241,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Purwosari",
-      "coordinates": "-7.76384709931, 112.737796605"
+      "coordinates": "-7.76384709931, 112.737796605",
+      "metar_available": false
     },
     {
       "ident": "ID-0021",
@@ -234,7 +253,8 @@
       "iso_region": "ID-JI",
       "municipality": "Purwosari",
       "local_code": "UNK",
-      "coordinates": "-7.7683326, 112.7391373"
+      "coordinates": "-7.7683326, 112.7391373",
+      "metar_available": false
     },
     {
       "ident": "ID-0022",
@@ -245,7 +265,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Aboge",
-      "coordinates": "-6.0634, 139.267"
+      "coordinates": "-6.0634, 139.267",
+      "metar_available": false
     },
     {
       "ident": "ID-0023",
@@ -257,7 +278,8 @@
       "iso_region": "ID-PP",
       "municipality": "Aboyi",
       "local_code": "ABY",
-      "coordinates": "-4.288741, 140.640664"
+      "coordinates": "-4.288741, 140.640664",
+      "metar_available": false
     },
     {
       "ident": "ID-0024",
@@ -269,7 +291,8 @@
       "iso_region": "ID-PS",
       "municipality": "Amazu",
       "local_code": "AMZ",
-      "coordinates": "-5.6119, 139.6234"
+      "coordinates": "-5.6119, 139.6234",
+      "metar_available": false
     },
     {
       "ident": "ID-0025",
@@ -280,7 +303,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Ambisibil",
-      "coordinates": "-4.6712, 140.5746"
+      "coordinates": "-4.6712, 140.5746",
+      "metar_available": false
     },
     {
       "ident": "ID-0026",
@@ -292,7 +316,8 @@
       "iso_region": "ID-PP",
       "municipality": "Angguruk",
       "local_code": "ANG",
-      "coordinates": "-4.200167, 139.432554"
+      "coordinates": "-4.200167, 139.432554",
+      "metar_available": false
     },
     {
       "ident": "ID-0027",
@@ -304,7 +329,8 @@
       "iso_region": "ID-PP",
       "municipality": "Arsbol",
       "local_code": "ARS",
-      "coordinates": "-3.6941, 138.9372"
+      "coordinates": "-3.6941, 138.9372",
+      "metar_available": false
     },
     {
       "ident": "ID-0028",
@@ -316,7 +342,8 @@
       "iso_region": "ID-KB",
       "municipality": "Bentiang",
       "local_code": "BTG",
-      "coordinates": "0.9196, 109.9155"
+      "coordinates": "0.9196, 109.9155",
+      "metar_available": false
     },
     {
       "ident": "ID-0029",
@@ -329,7 +356,8 @@
       "municipality": "Nungai Beoga",
       "gps_code": "WAVO",
       "local_code": "BEO",
-      "coordinates": "-3.8165, 137.4252"
+      "coordinates": "-3.8165, 137.4252",
+      "metar_available": false
     },
     {
       "ident": "ID-0030",
@@ -340,7 +368,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Bime",
-      "coordinates": "-4.48558, 140.219843"
+      "coordinates": "-4.48558, 140.219843",
+      "metar_available": false
     },
     {
       "ident": "ID-0031",
@@ -351,7 +380,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Binsari",
-      "coordinates": "-4.725525, 140.792284"
+      "coordinates": "-4.725525, 140.792284",
+      "metar_available": false
     },
     {
       "ident": "ID-0032",
@@ -362,7 +392,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KU",
       "municipality": "Binuang",
-      "coordinates": "3.7147, 115.8517"
+      "coordinates": "3.7147, 115.8517",
+      "metar_available": false
     },
     {
       "ident": "ID-0033",
@@ -374,7 +405,8 @@
       "iso_region": "ID-PA",
       "municipality": "Biri",
       "local_code": "BIR",
-      "coordinates": "-2.87793, 137.76816"
+      "coordinates": "-2.87793, 137.76816",
+      "metar_available": false
     },
     {
       "ident": "ID-0034",
@@ -386,7 +418,8 @@
       "iso_region": "ID-PP",
       "municipality": "Bomela",
       "local_code": "BML",
-      "coordinates": "-4.693634, 139.912707"
+      "coordinates": "-4.693634, 139.912707",
+      "metar_available": false
     },
     {
       "ident": "ID-0035",
@@ -398,7 +431,8 @@
       "iso_region": "ID-PT",
       "municipality": "Bomomani",
       "local_code": "BMO",
-      "coordinates": "-3.960942, 135.939631"
+      "coordinates": "-3.960942, 135.939631",
+      "metar_available": false
     },
     {
       "ident": "ID-0036",
@@ -411,7 +445,8 @@
       "municipality": "Borme",
       "gps_code": "WAJY",
       "local_code": "BOR",
-      "coordinates": "-4.394362, 140.436348"
+      "coordinates": "-4.394362, 140.436348",
+      "metar_available": false
     },
     {
       "ident": "ID-0037",
@@ -423,7 +458,8 @@
       "iso_region": "ID-KU",
       "municipality": "Buduk Kabul",
       "local_code": "BDK",
-      "coordinates": "3.7978, 115.7065"
+      "coordinates": "3.7978, 115.7065",
+      "metar_available": false
     },
     {
       "ident": "ID-0038",
@@ -436,7 +472,8 @@
       "municipality": "Bugalaga",
       "gps_code": "WX53",
       "local_code": "GBL",
-      "coordinates": "-3.6235, 136.5963"
+      "coordinates": "-3.6235, 136.5963",
+      "metar_available": false
     },
     {
       "ident": "ID-0039",
@@ -447,7 +484,8 @@
       "iso_country": "ID",
       "iso_region": "ID-AC",
       "municipality": "Calang",
-      "coordinates": "4.612323, 95.623534"
+      "coordinates": "4.612323, 95.623534",
+      "metar_available": false
     },
     {
       "ident": "ID-0040",
@@ -459,7 +497,8 @@
       "iso_region": "ID-PS",
       "municipality": "Comoro",
       "local_code": "COM",
-      "coordinates": "-5.926349, 138.631461"
+      "coordinates": "-5.926349, 138.631461",
+      "metar_available": false
     },
     {
       "ident": "ID-0041",
@@ -471,7 +510,8 @@
       "iso_region": "ID-PT",
       "municipality": "Dagai",
       "local_code": "DAG",
-      "coordinates": "-3.305757, 137.94366"
+      "coordinates": "-3.305757, 137.94366",
+      "metar_available": false
     },
     {
       "ident": "ID-0042",
@@ -484,7 +524,8 @@
       "municipality": "Pertamina Oil & Gas Corp.",
       "gps_code": "WALO",
       "local_code": "DAT",
-      "coordinates": "2.006992, 115.151588"
+      "coordinates": "2.006992, 115.151588",
+      "metar_available": false
     },
     {
       "ident": "ID-0043",
@@ -496,7 +537,8 @@
       "iso_region": "ID-PT",
       "municipality": "Daufo",
       "local_code": "DOF",
-      "coordinates": "-3.1737, 137.2544"
+      "coordinates": "-3.1737, 137.2544",
+      "metar_available": false
     },
     {
       "ident": "ID-0044",
@@ -508,7 +550,8 @@
       "iso_region": "ID-PA",
       "municipality": "Derapos",
       "local_code": "DEP",
-      "coordinates": "-2.9737, 137.2234"
+      "coordinates": "-2.9737, 137.2234",
+      "metar_available": false
     },
     {
       "ident": "ID-0045",
@@ -520,7 +563,8 @@
       "iso_region": "ID-PA",
       "municipality": "Dou",
       "local_code": "DOU",
-      "coordinates": "-3.2625, 138.1484"
+      "coordinates": "-3.2625, 138.1484",
+      "metar_available": false
     },
     {
       "ident": "ID-0046",
@@ -532,7 +576,8 @@
       "iso_region": "ID-PA",
       "municipality": "Doyo Baru",
       "local_code": "DOB",
-      "coordinates": "-2.538781, 140.464293"
+      "coordinates": "-2.538781, 140.464293",
+      "metar_available": false
     },
     {
       "ident": "ID-0047",
@@ -544,7 +589,8 @@
       "iso_region": "ID-PT",
       "municipality": "Eaopoto",
       "local_code": "EPO",
-      "coordinates": "-3.9497, 136.3383"
+      "coordinates": "-3.9497, 136.3383",
+      "metar_available": false
     },
     {
       "ident": "ID-0048",
@@ -556,7 +602,8 @@
       "iso_region": "ID-KB",
       "municipality": "Engkadik",
       "local_code": "ENK",
-      "coordinates": "0.9797, 110.0282"
+      "coordinates": "0.9797, 110.0282",
+      "metar_available": false
     },
     {
       "ident": "ID-0049",
@@ -568,7 +615,8 @@
       "iso_region": "ID-PA",
       "municipality": "Eri",
       "local_code": "ERI",
-      "coordinates": "-2.6308, 138.1094"
+      "coordinates": "-2.6308, 138.1094",
+      "metar_available": false
     },
     {
       "ident": "ID-0050",
@@ -580,7 +628,8 @@
       "iso_region": "ID-PT",
       "municipality": "Faowi",
       "local_code": "FAO",
-      "coordinates": "-3.2301, 137.7262"
+      "coordinates": "-3.2301, 137.7262",
+      "metar_available": false
     },
     {
       "ident": "ID-0051",
@@ -591,7 +640,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Fef",
-      "coordinates": "-0.8103, 132.4326"
+      "coordinates": "-0.8103, 132.4326",
+      "metar_available": false
     },
     {
       "ident": "ID-0052",
@@ -603,7 +653,8 @@
       "iso_region": "ID-PA",
       "municipality": "Foao",
       "local_code": "FOA",
-      "coordinates": "-3.066, 139.099"
+      "coordinates": "-3.066, 139.099",
+      "metar_available": false
     },
     {
       "ident": "ID-0053",
@@ -615,7 +666,8 @@
       "iso_region": "ID-PB",
       "municipality": "Fruata",
       "local_code": "FRU",
-      "coordinates": "-2.9858, 133.5001"
+      "coordinates": "-2.9858, 133.5001",
+      "metar_available": false
     },
     {
       "ident": "ID-0054",
@@ -627,7 +679,8 @@
       "iso_region": "ID-PP",
       "municipality": "Geyarek",
       "local_code": "GEA",
-      "coordinates": "-4.650391, 138.752389"
+      "coordinates": "-4.650391, 138.752389",
+      "metar_available": false
     },
     {
       "ident": "ID-0055",
@@ -639,7 +692,8 @@
       "iso_region": "ID-KB",
       "municipality": "Gilgal",
       "local_code": "GIL",
-      "coordinates": "0.458, 111.0707"
+      "coordinates": "0.458, 111.0707",
+      "metar_available": false
     },
     {
       "ident": "ID-0056",
@@ -650,7 +704,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Gusimawa",
-      "coordinates": "-3.0423, 133.8779"
+      "coordinates": "-3.0423, 133.8779",
+      "metar_available": false
     },
     {
       "ident": "ID-0057",
@@ -662,7 +717,8 @@
       "iso_region": "ID-PA",
       "municipality": "Haya",
       "local_code": "HAY",
-      "coordinates": "-2.8156, 138.1099"
+      "coordinates": "-2.8156, 138.1099",
+      "metar_available": false
     },
     {
       "ident": "ID-0058",
@@ -673,7 +729,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Hing",
-      "coordinates": "-1.233, 133.9478"
+      "coordinates": "-1.233, 133.9478",
+      "metar_available": false
     },
     {
       "ident": "ID-0059",
@@ -685,7 +742,8 @@
       "iso_region": "ID-PT",
       "municipality": "Hitadipa",
       "local_code": "HIT",
-      "coordinates": "-3.734325, 137.116992"
+      "coordinates": "-3.734325, 137.116992",
+      "metar_available": false
     },
     {
       "ident": "ID-0060",
@@ -697,7 +755,8 @@
       "iso_region": "ID-PP",
       "municipality": "Holuwon",
       "local_code": "HOL",
-      "coordinates": "-4.480541, 139.273998"
+      "coordinates": "-4.480541, 139.273998",
+      "metar_available": false
     },
     {
       "ident": "ID-0061",
@@ -709,7 +768,8 @@
       "iso_region": "ID-PP",
       "municipality": "Hubliki",
       "local_code": "HUB",
-      "coordinates": "-3.732237, 139.286263"
+      "coordinates": "-3.732237, 139.286263",
+      "metar_available": false
     },
     {
       "ident": "ID-0062",
@@ -721,7 +781,8 @@
       "iso_region": "ID-PA",
       "municipality": "Hulu Atas",
       "local_code": "HUL",
-      "coordinates": "-3.6799, 140.22955"
+      "coordinates": "-3.6799, 140.22955",
+      "metar_available": false
     },
     {
       "ident": "ID-0063",
@@ -732,7 +793,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Ibele",
-      "coordinates": "-4.052, 138.796"
+      "coordinates": "-4.052, 138.796",
+      "metar_available": false
     },
     {
       "ident": "ID-0064",
@@ -744,7 +806,8 @@
       "iso_region": "ID-PA",
       "municipality": "Kaiy",
       "local_code": "KAI",
-      "coordinates": "-2.9871, 138.1062"
+      "coordinates": "-2.9871, 138.1062",
+      "metar_available": false
     },
     {
       "ident": "ID-0065",
@@ -755,7 +818,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Kaesah",
-      "coordinates": "-7.1088, 140.1265"
+      "coordinates": "-7.1088, 140.1265",
+      "metar_available": false
     },
     {
       "ident": "ID-0066",
@@ -766,7 +830,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Illaga",
-      "coordinates": "-3.9993, 137.65317"
+      "coordinates": "-3.9993, 137.65317",
+      "metar_available": false
     },
     {
       "ident": "ID-0067",
@@ -778,7 +843,8 @@
       "iso_region": "ID-PP",
       "municipality": "Ilugwa",
       "local_code": "ILG",
-      "coordinates": "-3.835894, 138.921683"
+      "coordinates": "-3.835894, 138.921683",
+      "metar_available": false
     },
     {
       "ident": "ID-0068",
@@ -790,7 +856,8 @@
       "iso_region": "ID-PT",
       "municipality": "Iratoi",
       "local_code": "IRA",
-      "coordinates": "-3.2389, 137.3339"
+      "coordinates": "-3.2389, 137.3339",
+      "metar_available": false
     },
     {
       "ident": "ID-0069",
@@ -802,7 +869,8 @@
       "iso_region": "ID-PB",
       "municipality": "Iray",
       "local_code": "IRY",
-      "coordinates": "-1.3297, 133.9115"
+      "coordinates": "-1.3297, 133.9115",
+      "metar_available": false
     },
     {
       "ident": "ID-0070",
@@ -814,7 +882,8 @@
       "iso_region": "ID-PP",
       "municipality": "Iwur",
       "local_code": "IWR",
-      "coordinates": "-5.139139, 140.717638"
+      "coordinates": "-5.139139, 140.717638",
+      "metar_available": false
     },
     {
       "ident": "ID-0071",
@@ -827,7 +896,8 @@
       "municipality": "Jila",
       "gps_code": "WAYJ",
       "local_code": "JIL",
-      "coordinates": "-4.24677, 137.59563"
+      "coordinates": "-4.24677, 137.59563",
+      "metar_available": false
     },
     {
       "ident": "ID-0072",
@@ -840,7 +910,8 @@
       "municipality": "Jita",
       "gps_code": "WAYN",
       "local_code": "JIT",
-      "coordinates": "-4.8564, 137.7019"
+      "coordinates": "-4.8564, 137.7019",
+      "metar_available": false
     },
     {
       "ident": "ID-0073",
@@ -852,7 +923,8 @@
       "iso_region": "ID-PP",
       "municipality": "Kanggime",
       "local_code": "KAN",
-      "coordinates": "-3.665978, 138.361559"
+      "coordinates": "-3.665978, 138.361559",
+      "metar_available": false
     },
     {
       "ident": "ID-0074",
@@ -864,7 +936,8 @@
       "iso_region": "ID-PA",
       "municipality": "Kasonaweja",
       "local_code": "KAS",
-      "coordinates": "-2.3007, 138.0327"
+      "coordinates": "-2.3007, 138.0327",
+      "metar_available": false
     },
     {
       "ident": "ID-0075",
@@ -876,7 +949,8 @@
       "iso_region": "ID-PA",
       "municipality": "Kaure",
       "local_code": "KAU",
-      "coordinates": "-3.469809, 140.362085"
+      "coordinates": "-3.469809, 140.362085",
+      "metar_available": false
     },
     {
       "ident": "ID-0076",
@@ -887,7 +961,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Kedembak",
-      "coordinates": "0.5906, 111.302"
+      "coordinates": "0.5906, 111.302",
+      "metar_available": false
     },
     {
       "ident": "ID-0077",
@@ -899,7 +974,8 @@
       "iso_region": "ID-KB",
       "municipality": "Kelansam",
       "local_code": "KEL",
-      "coordinates": "0.1228, 111.4197"
+      "coordinates": "0.1228, 111.4197",
+      "metar_available": false
     },
     {
       "ident": "ID-0078",
@@ -911,7 +987,8 @@
       "iso_region": "ID-PP",
       "municipality": "Keneyan",
       "local_code": "KEN",
-      "coordinates": "-4.5995, 138.3844"
+      "coordinates": "-4.5995, 138.3844",
+      "metar_available": false
     },
     {
       "ident": "ID-0079",
@@ -923,7 +1000,8 @@
       "iso_region": "ID-KB",
       "municipality": "Kerapak",
       "local_code": "KRA",
-      "coordinates": "0.0939, 111.9083"
+      "coordinates": "0.0939, 111.9083",
+      "metar_available": false
     },
     {
       "ident": "ID-0080",
@@ -935,7 +1013,8 @@
       "iso_region": "ID-PP",
       "municipality": "Kiwi",
       "local_code": "KIW",
-      "coordinates": "-4.697841, 140.722425"
+      "coordinates": "-4.697841, 140.722425",
+      "metar_available": false
     },
     {
       "ident": "ID-0081",
@@ -946,7 +1025,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Kobagma",
-      "coordinates": "-3.666539, 139.058758"
+      "coordinates": "-3.666539, 139.058758",
+      "metar_available": false
     },
     {
       "ident": "ID-0082",
@@ -958,7 +1038,8 @@
       "iso_region": "ID-PT",
       "municipality": "Komopa",
       "local_code": "KOM",
-      "coordinates": "-3.7998, 136.4775"
+      "coordinates": "-3.7998, 136.4775",
+      "metar_available": false
     },
     {
       "ident": "ID-0083",
@@ -970,7 +1051,8 @@
       "iso_region": "ID-PP",
       "municipality": "Koropun",
       "local_code": "KOR",
-      "coordinates": "-4.479226, 139.649894"
+      "coordinates": "-4.479226, 139.649894",
+      "metar_available": false
     },
     {
       "ident": "ID-0084",
@@ -982,7 +1064,8 @@
       "iso_region": "ID-KT",
       "municipality": "Kuala Kurun",
       "gps_code": "WAGA",
-      "coordinates": "-1.1277, 113.8746"
+      "coordinates": "-1.1277, 113.8746",
+      "metar_available": false
     },
     {
       "ident": "ID-0085",
@@ -993,7 +1076,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Kuala Randau",
-      "coordinates": "-0.5824, 110.4728"
+      "coordinates": "-0.5824, 110.4728",
+      "metar_available": false
     },
     {
       "ident": "ID-0086",
@@ -1005,7 +1089,8 @@
       "iso_region": "ID-PA",
       "municipality": "Kustera",
       "local_code": "KUS",
-      "coordinates": "-2.7467, 137.92"
+      "coordinates": "-2.7467, 137.92",
+      "metar_available": false
     },
     {
       "ident": "ID-0087",
@@ -1017,7 +1102,8 @@
       "iso_region": "ID-PA",
       "municipality": "Kwerba",
       "local_code": "KWE",
-      "coordinates": "-2.6434, 138.4087"
+      "coordinates": "-2.6434, 138.4087",
+      "metar_available": false
     },
     {
       "ident": "ID-0088",
@@ -1029,7 +1115,8 @@
       "iso_region": "ID-PP",
       "municipality": "Kwijawagi",
       "local_code": "KWI",
-      "coordinates": "-4.0256, 138.2046"
+      "coordinates": "-4.0256, 138.2046",
+      "metar_available": false
     },
     {
       "ident": "ID-0089",
@@ -1041,7 +1128,8 @@
       "iso_region": "ID-PA",
       "municipality": "Danau Bira",
       "local_code": "LAH",
-      "coordinates": "-2.4716, 137.9879"
+      "coordinates": "-2.4716, 137.9879",
+      "metar_available": false
     },
     {
       "ident": "ID-0090",
@@ -1053,7 +1141,8 @@
       "iso_region": "ID-PP",
       "municipality": "Landikma",
       "local_code": "LAN",
-      "coordinates": "-3.8212, 139.2423"
+      "coordinates": "-3.8212, 139.2423",
+      "metar_available": false
     },
     {
       "ident": "ID-0091",
@@ -1065,7 +1154,8 @@
       "iso_region": "ID-PP",
       "municipality": "Langda",
       "local_code": "LGD",
-      "coordinates": "-4.6785, 139.9745"
+      "coordinates": "-4.6785, 139.9745",
+      "metar_available": false
     },
     {
       "ident": "ID-0092",
@@ -1076,7 +1166,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Lokok",
-      "coordinates": "1.0215, 110.0505"
+      "coordinates": "1.0215, 110.0505",
+      "metar_available": false
     },
     {
       "ident": "ID-0093",
@@ -1087,7 +1178,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KU",
       "municipality": "Long Alango",
-      "coordinates": "2.9304, 115.8512"
+      "coordinates": "2.9304, 115.8512",
+      "metar_available": false
     },
     {
       "ident": "ID-0094",
@@ -1098,7 +1190,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KU",
       "municipality": "Long Rungan",
-      "coordinates": "3.5994, 115.8418"
+      "coordinates": "3.5994, 115.8418",
+      "metar_available": false
     },
     {
       "ident": "ID-0095",
@@ -1109,7 +1202,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KI",
       "municipality": "Long Segar",
-      "coordinates": "0.7981, 116.8157"
+      "coordinates": "0.7981, 116.8157",
+      "metar_available": false
     },
     {
       "ident": "ID-0096",
@@ -1121,7 +1215,8 @@
       "iso_region": "ID-PP",
       "municipality": "Luban",
       "local_code": "LUB",
-      "coordinates": "-4.213917, 140.559755"
+      "coordinates": "-4.213917, 140.559755",
+      "metar_available": false
     },
     {
       "ident": "ID-0097",
@@ -1132,7 +1227,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KU",
       "municipality": "Lumbis",
-      "coordinates": "4.3038, 116.2175"
+      "coordinates": "4.3038, 116.2175",
+      "metar_available": false
     },
     {
       "ident": "ID-0098",
@@ -1143,7 +1239,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Madya Raya",
-      "coordinates": "-0.865, 111.6637"
+      "coordinates": "-0.865, 111.6637",
+      "metar_available": false
     },
     {
       "ident": "ID-0099",
@@ -1155,7 +1252,8 @@
       "iso_region": "ID-PT",
       "municipality": "Magoda",
       "local_code": "MGD",
-      "coordinates": "-3.9906, 135.8532"
+      "coordinates": "-3.9906, 135.8532",
+      "metar_available": false
     },
     {
       "ident": "ID-0100",
@@ -1167,7 +1265,8 @@
       "iso_region": "ID-PP",
       "municipality": "Oklip",
       "local_code": "OKL",
-      "coordinates": "-4.762095, 140.780554"
+      "coordinates": "-4.762095, 140.780554",
+      "metar_available": false
     },
     {
       "ident": "ID-0101",
@@ -1178,7 +1277,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Kalca",
-      "coordinates": "-4.3636, 139.8351"
+      "coordinates": "-4.3636, 139.8351",
+      "metar_available": false
     },
     {
       "ident": "ID-0102",
@@ -1189,7 +1289,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Nanga Labang",
-      "coordinates": "0.228, 111.65084"
+      "coordinates": "0.228, 111.65084",
+      "metar_available": false
     },
     {
       "ident": "ID-0103",
@@ -1200,7 +1301,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Nanga Mawong",
-      "coordinates": "-0.4322, 112.3271"
+      "coordinates": "-0.4322, 112.3271",
+      "metar_available": false
     },
     {
       "ident": "ID-0104",
@@ -1212,7 +1314,8 @@
       "iso_region": "ID-KB",
       "municipality": "Nanga Merakai",
       "local_code": "MER",
-      "coordinates": "0.7024, 111.5225"
+      "coordinates": "0.7024, 111.5225",
+      "metar_available": false
     },
     {
       "ident": "ID-0105",
@@ -1223,7 +1326,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Nanga Nyabu",
-      "coordinates": "1.0152, 112.714"
+      "coordinates": "1.0152, 112.714",
+      "metar_available": false
     },
     {
       "ident": "ID-0106",
@@ -1234,7 +1338,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Nanga Ruan",
-      "coordinates": "0.6283, 113.1753"
+      "coordinates": "0.6283, 113.1753",
+      "metar_available": false
     },
     {
       "ident": "ID-0107",
@@ -1246,7 +1351,8 @@
       "iso_region": "ID-PB",
       "municipality": "Nenei",
       "local_code": "NEN",
-      "coordinates": "-1.492, 133.9956"
+      "coordinates": "-1.492, 133.9956",
+      "metar_available": false
     },
     {
       "ident": "ID-0108",
@@ -1257,7 +1363,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KU",
       "municipality": "Nian Baru",
-      "coordinates": "1.4032, 115.3267"
+      "coordinates": "1.4032, 115.3267",
+      "metar_available": false
     },
     {
       "ident": "ID-0109",
@@ -1269,7 +1376,8 @@
       "iso_region": "ID-PP",
       "municipality": "Nania",
       "local_code": "NIN",
-      "coordinates": "-4.362913, 139.30244"
+      "coordinates": "-4.362913, 139.30244",
+      "metar_available": false
     },
     {
       "ident": "ID-0110",
@@ -1281,7 +1389,8 @@
       "iso_region": "ID-PP",
       "municipality": "Nipsan",
       "local_code": "NIP",
-      "coordinates": "-4.116755, 139.647303"
+      "coordinates": "-4.116755, 139.647303",
+      "metar_available": false
     },
     {
       "ident": "ID-0111",
@@ -1293,7 +1402,8 @@
       "iso_region": "ID-PP",
       "municipality": "Okyap",
       "local_code": "OKY",
-      "coordinates": "-4.743448, 140.848267"
+      "coordinates": "-4.743448, 140.848267",
+      "metar_available": false
     },
     {
       "ident": "ID-0112",
@@ -1305,7 +1415,8 @@
       "iso_region": "ID-PP",
       "municipality": "Omban",
       "local_code": "OMB",
-      "coordinates": "-4.368741, 140.392535"
+      "coordinates": "-4.368741, 140.392535",
+      "metar_available": false
     },
     {
       "ident": "ID-0113",
@@ -1317,7 +1428,8 @@
       "iso_region": "ID-SN",
       "municipality": "Rampi",
       "gps_code": "WAFK",
-      "coordinates": "-2.1254, 120.2967"
+      "coordinates": "-2.1254, 120.2967",
+      "metar_available": false
     },
     {
       "ident": "ID-0114",
@@ -1328,7 +1440,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SB",
       "municipality": "Pulau Pagai-Selatan",
-      "coordinates": "-2.857831, 100.214446"
+      "coordinates": "-2.857831, 100.214446",
+      "metar_available": false
     },
     {
       "ident": "ID-0115",
@@ -1340,7 +1453,8 @@
       "iso_region": "ID-PA",
       "municipality": "Pagai",
       "local_code": "PAG",
-      "coordinates": "-3.5362, 139.7826"
+      "coordinates": "-3.5362, 139.7826",
+      "metar_available": false
     },
     {
       "ident": "ID-0116",
@@ -1351,7 +1465,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Panggema",
-      "coordinates": "-4.135396, 139.377151"
+      "coordinates": "-4.135396, 139.377151",
+      "metar_available": false
     },
     {
       "ident": "ID-0117",
@@ -1363,7 +1478,8 @@
       "iso_region": "ID-PA",
       "municipality": "Papasena",
       "local_code": "PAP",
-      "coordinates": "-2.915, 138.5876"
+      "coordinates": "-2.915, 138.5876",
+      "metar_available": false
     },
     {
       "ident": "ID-0118",
@@ -1375,7 +1491,8 @@
       "iso_region": "ID-PP",
       "municipality": "Pass Valley",
       "local_code": "PAV",
-      "coordinates": "-3.85876, 139.100268"
+      "coordinates": "-3.85876, 139.100268",
+      "metar_available": false
     },
     {
       "ident": "ID-0119",
@@ -1387,7 +1504,8 @@
       "iso_region": "ID-PP",
       "municipality": "Piramid",
       "local_code": "PYR",
-      "coordinates": "-3.901493, 138.764276"
+      "coordinates": "-3.901493, 138.764276",
+      "metar_available": false
     },
     {
       "ident": "ID-0120",
@@ -1398,7 +1516,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pit",
-      "coordinates": "-3.9819, 138.5338"
+      "coordinates": "-3.9819, 138.5338",
+      "metar_available": false
     },
     {
       "ident": "ID-0121",
@@ -1411,7 +1530,8 @@
       "municipality": "Pogapa",
       "gps_code": "WAYS",
       "local_code": "POG",
-      "coordinates": "-3.752, 136.8457"
+      "coordinates": "-3.752, 136.8457",
+      "metar_available": false
     },
     {
       "ident": "ID-0122",
@@ -1423,7 +1543,8 @@
       "iso_region": "ID-PP",
       "municipality": "Polimo",
       "local_code": "POL",
-      "coordinates": "-4.219223, 139.034607"
+      "coordinates": "-4.219223, 139.034607",
+      "metar_available": false
     },
     {
       "ident": "ID-0123",
@@ -1435,7 +1556,8 @@
       "iso_region": "ID-PP",
       "municipality": "Poga",
       "local_code": "PGA",
-      "coordinates": "-3.801567, 138.587449"
+      "coordinates": "-3.801567, 138.587449",
+      "metar_available": false
     },
     {
       "ident": "ID-0124",
@@ -1447,7 +1569,8 @@
       "iso_region": "ID-PP",
       "municipality": "Prongkoli",
       "local_code": "PRO",
-      "coordinates": "-4.188308, 139.342232"
+      "coordinates": "-4.188308, 139.342232",
+      "metar_available": false
     },
     {
       "ident": "ID-0125",
@@ -1458,7 +1581,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Owi Island",
-      "coordinates": "-1.2455, 136.2091"
+      "coordinates": "-1.2455, 136.2091",
+      "metar_available": false
     },
     {
       "ident": "ID-0126",
@@ -1470,7 +1594,8 @@
       "iso_region": "ID-PP",
       "municipality": "Puldamat",
       "local_code": "PUL",
-      "coordinates": "-4.3196, 139.8704"
+      "coordinates": "-4.3196, 139.8704",
+      "metar_available": false
     },
     {
       "ident": "ID-0128",
@@ -1481,7 +1606,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Riam Sejawak",
-      "coordinates": "0.9717, 111.0994"
+      "coordinates": "0.9717, 111.0994",
+      "metar_available": false
     },
     {
       "ident": "ID-0129",
@@ -1493,7 +1619,8 @@
       "iso_region": "ID-PA",
       "municipality": "Ros Bori - Yapen Island",
       "local_code": "ROS",
-      "coordinates": "-1.6586, 136.102"
+      "coordinates": "-1.6586, 136.102",
+      "metar_available": false
     },
     {
       "ident": "ID-0130",
@@ -1505,7 +1632,8 @@
       "iso_region": "ID-PP",
       "municipality": "Samboka",
       "local_code": "SAM",
-      "coordinates": "-4.836839, 139.714615"
+      "coordinates": "-4.836839, 139.714615",
+      "metar_available": false
     },
     {
       "ident": "ID-0131",
@@ -1517,7 +1645,8 @@
       "iso_region": "ID-PP",
       "municipality": "Sape",
       "local_code": "SAP",
-      "coordinates": "-4.7655, 140.5054"
+      "coordinates": "-4.7655, 140.5054",
+      "metar_available": false
     },
     {
       "ident": "ID-0132",
@@ -1528,7 +1657,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SA",
       "municipality": "Tahuna",
-      "coordinates": "3.60957, 125.50709"
+      "coordinates": "3.60957, 125.50709",
+      "metar_available": false
     },
     {
       "ident": "ID-0133",
@@ -1540,7 +1670,8 @@
       "iso_region": "ID-PP",
       "municipality": "Sela",
       "local_code": "SEL",
-      "coordinates": "-4.550661, 139.734453"
+      "coordinates": "-4.550661, 139.734453",
+      "metar_available": false
     },
     {
       "ident": "ID-0134",
@@ -1551,7 +1682,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Seradala",
-      "coordinates": "-4.9797, 139.9035"
+      "coordinates": "-4.9797, 139.9035",
+      "metar_available": false
     },
     {
       "ident": "ID-0135",
@@ -1563,7 +1695,8 @@
       "iso_region": "ID-KB",
       "municipality": "Serimbu",
       "local_code": "SER",
-      "coordinates": "0.741, 110.123"
+      "coordinates": "0.741, 110.123",
+      "metar_available": false
     },
     {
       "ident": "ID-0136",
@@ -1574,7 +1707,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Serukam",
-      "coordinates": "0.797, 109.3317"
+      "coordinates": "0.797, 109.3317",
+      "metar_available": false
     },
     {
       "ident": "ID-0137",
@@ -1586,7 +1720,8 @@
       "iso_region": "ID-PA",
       "municipality": "Sikari",
       "local_code": "SIK",
-      "coordinates": "-2.7616, 138.3859"
+      "coordinates": "-2.7616, 138.3859",
+      "metar_available": false
     },
     {
       "ident": "ID-0138",
@@ -1597,7 +1732,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Silimo",
-      "coordinates": "-4.466012, 138.943062"
+      "coordinates": "-4.466012, 138.943062",
+      "metar_available": false
     },
     {
       "ident": "ID-0139",
@@ -1609,7 +1745,8 @@
       "iso_region": "ID-AC",
       "municipality": "Singkil",
       "gps_code": "WIMI",
-      "coordinates": "2.269614, 97.967863"
+      "coordinates": "2.269614, 97.967863",
+      "metar_available": false
     },
     {
       "ident": "ID-0140",
@@ -1620,7 +1757,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Bandung",
-      "coordinates": "-6.915161, 107.600124"
+      "coordinates": "-6.915161, 107.600124",
+      "metar_available": false
     },
     {
       "ident": "ID-0141",
@@ -1632,7 +1770,8 @@
       "iso_region": "ID-PT",
       "municipality": "Siriwo",
       "local_code": "SIW",
-      "coordinates": "-3.5388, 135.948971"
+      "coordinates": "-3.5388, 135.948971",
+      "metar_available": false
     },
     {
       "ident": "ID-0142",
@@ -1644,7 +1783,8 @@
       "iso_region": "ID-PP",
       "municipality": "Soba",
       "local_code": "SOB",
-      "coordinates": "-4.345427, 139.179196"
+      "coordinates": "-4.345427, 139.179196",
+      "metar_available": false
     },
     {
       "ident": "ID-0143",
@@ -1655,7 +1795,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Sumo",
-      "coordinates": "-4.750469, 139.353338"
+      "coordinates": "-4.750469, 139.353338",
+      "metar_available": false
     },
     {
       "ident": "ID-0144",
@@ -1667,7 +1808,8 @@
       "iso_region": "ID-PP",
       "municipality": "Suntamon",
       "local_code": "SMT",
-      "coordinates": "-4.8083, 140.1715"
+      "coordinates": "-4.8083, 140.1715",
+      "metar_available": false
     },
     {
       "ident": "ID-0145",
@@ -1678,7 +1820,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Sungai Tontang",
-      "coordinates": "-0.731052, 110.376967"
+      "coordinates": "-0.731052, 110.376967",
+      "metar_available": false
     },
     {
       "ident": "ID-0146",
@@ -1689,7 +1832,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Suswa",
-      "coordinates": "-0.942, 132.298"
+      "coordinates": "-0.942, 132.298",
+      "metar_available": false
     },
     {
       "ident": "ID-0147",
@@ -1700,7 +1844,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Synopi",
-      "coordinates": "-0.842054, 132.926191"
+      "coordinates": "-0.842054, 132.926191",
+      "metar_available": false
     },
     {
       "ident": "ID-0148",
@@ -1712,7 +1857,8 @@
       "iso_region": "ID-PB",
       "municipality": "Taige",
       "local_code": "TGE",
-      "coordinates": "-1.3105, 133.8517"
+      "coordinates": "-1.3105, 133.8517",
+      "metar_available": false
     },
     {
       "ident": "ID-0149",
@@ -1724,7 +1870,8 @@
       "iso_region": "ID-PA",
       "municipality": "Taiyeve",
       "local_code": "TAV",
-      "coordinates": "-3.2331, 138.4458"
+      "coordinates": "-3.2331, 138.4458",
+      "metar_available": false
     },
     {
       "ident": "ID-0150",
@@ -1735,7 +1882,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Takar",
-      "coordinates": "-2.0375, 139.113"
+      "coordinates": "-2.0375, 139.113",
+      "metar_available": false
     },
     {
       "ident": "ID-0151",
@@ -1747,7 +1895,8 @@
       "iso_region": "ID-PP",
       "municipality": "Tangma",
       "local_code": "TNG",
-      "coordinates": "-4.25981, 139.046631"
+      "coordinates": "-4.25981, 139.046631",
+      "metar_available": false
     },
     {
       "ident": "ID-0152",
@@ -1759,7 +1908,8 @@
       "iso_region": "ID-KB",
       "municipality": "Tanjung Maju",
       "local_code": "TJM",
-      "coordinates": "-0.7102, 110.4991"
+      "coordinates": "-0.7102, 110.4991",
+      "metar_available": false
     },
     {
       "ident": "ID-0153",
@@ -1771,7 +1921,8 @@
       "iso_region": "ID-PA",
       "municipality": "Tayayi",
       "local_code": "TAI",
-      "coordinates": "-3.0447, 137.6217"
+      "coordinates": "-3.0447, 137.6217",
+      "metar_available": false
     },
     {
       "ident": "ID-0154",
@@ -1783,7 +1934,8 @@
       "iso_region": "ID-PB",
       "municipality": "Testega",
       "local_code": "TES",
-      "coordinates": "-1.378076, 133.594204"
+      "coordinates": "-1.378076, 133.594204",
+      "metar_available": false
     },
     {
       "ident": "ID-0155",
@@ -1795,7 +1947,8 @@
       "iso_region": "ID-PT",
       "municipality": "Timepa",
       "local_code": "TIP",
-      "coordinates": "-4.0047, 135.7872"
+      "coordinates": "-4.0047, 135.7872",
+      "metar_available": false
     },
     {
       "ident": "ID-0156",
@@ -1807,7 +1960,8 @@
       "iso_region": "ID-PT",
       "municipality": "Turmo",
       "local_code": "TUR",
-      "coordinates": "-3.273581, 137.558"
+      "coordinates": "-3.273581, 137.558",
+      "metar_available": false
     },
     {
       "ident": "ID-0157",
@@ -1818,7 +1972,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Waff",
-      "coordinates": "-2.3307, 138.7489"
+      "coordinates": "-2.3307, 138.7489",
+      "metar_available": false
     },
     {
       "ident": "ID-0158",
@@ -1830,7 +1985,8 @@
       "iso_region": "ID-PP",
       "municipality": "Walerek",
       "local_code": "WEL",
-      "coordinates": "-3.993361, 139.491977"
+      "coordinates": "-3.993361, 139.491977",
+      "metar_available": false
     },
     {
       "ident": "ID-0159",
@@ -1842,7 +1998,8 @@
       "iso_region": "ID-PP",
       "municipality": "Walma",
       "local_code": "WAL",
-      "coordinates": "-4.217782, 139.393555"
+      "coordinates": "-4.217782, 139.393555",
+      "metar_available": false
     },
     {
       "ident": "ID-0160",
@@ -1853,7 +2010,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Wandama",
-      "coordinates": "-4.5472, 138.55225"
+      "coordinates": "-4.5472, 138.55225",
+      "metar_available": false
     },
     {
       "ident": "ID-0161",
@@ -1865,7 +2023,8 @@
       "iso_region": "ID-PS",
       "municipality": "Wanggemalu",
       "local_code": "WNG",
-      "coordinates": "-5.4974, 139.9783"
+      "coordinates": "-5.4974, 139.9783",
+      "metar_available": false
     },
     {
       "ident": "ID-0162",
@@ -1877,7 +2036,8 @@
       "iso_region": "ID-PP",
       "municipality": "Wolo",
       "local_code": "WOL",
-      "coordinates": "-3.8505, 138.8603"
+      "coordinates": "-3.8505, 138.8603",
+      "metar_available": false
     },
     {
       "ident": "ID-0163",
@@ -1889,7 +2049,8 @@
       "iso_region": "ID-PP",
       "municipality": "Wunin",
       "local_code": "WUN",
-      "coordinates": "-3.650771, 138.554313"
+      "coordinates": "-3.650771, 138.554313",
+      "metar_available": false
     },
     {
       "ident": "ID-0164",
@@ -1900,7 +2061,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Yaniruma",
-      "coordinates": "-5.4206, 139.8197"
+      "coordinates": "-5.4206, 139.8197",
+      "metar_available": false
     },
     {
       "ident": "ID-0165",
@@ -1912,7 +2074,8 @@
       "iso_region": "ID-PP",
       "municipality": "Yapil",
       "local_code": "YAP",
-      "coordinates": "-4.540447, 140.565691"
+      "coordinates": "-4.540447, 140.565691",
+      "metar_available": false
     },
     {
       "ident": "ID-0166",
@@ -1924,7 +2087,8 @@
       "iso_region": "ID-PP",
       "municipality": "Yigi",
       "local_code": "YIG",
-      "coordinates": "-4.228468, 138.393778"
+      "coordinates": "-4.228468, 138.393778",
+      "metar_available": false
     },
     {
       "ident": "ID-0167",
@@ -1935,7 +2099,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Yogosem",
-      "coordinates": "-4.247695, 139.168977"
+      "coordinates": "-4.247695, 139.168977",
+      "metar_available": false
     },
     {
       "ident": "ID-0168",
@@ -1946,7 +2111,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Alama",
-      "coordinates": "-4.2631, 137.892387"
+      "coordinates": "-4.2631, 137.892387",
+      "metar_available": false
     },
     {
       "ident": "ID-0169",
@@ -1957,7 +2123,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Sawan, Buleleng",
-      "coordinates": "-8.12832, 115.17807"
+      "coordinates": "-8.12832, 115.17807",
+      "metar_available": false
     },
     {
       "ident": "ID-0170",
@@ -1967,7 +2134,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Arjasa",
-      "coordinates": "-6.86, 115.299"
+      "coordinates": "-6.86, 115.299",
+      "metar_available": false
     },
     {
       "ident": "ID-0171",
@@ -1978,7 +2146,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Aideralma",
-      "coordinates": "-4.3341, 137.8316"
+      "coordinates": "-4.3341, 137.8316",
+      "metar_available": false
     },
     {
       "ident": "ID-0172",
@@ -1991,7 +2160,8 @@
       "municipality": "Enggano",
       "gps_code": "WIGE",
       "iata_code": "ENG",
-      "coordinates": "-5.305621, 102.189546"
+      "coordinates": "-5.305621, 102.189546",
+      "metar_available": false
     },
     {
       "ident": "ID-0173",
@@ -2002,7 +2172,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Apouwo",
-      "coordinates": "-4.063248, 135.560018"
+      "coordinates": "-4.063248, 135.560018",
+      "metar_available": false
     },
     {
       "ident": "ID-0174",
@@ -2014,7 +2185,8 @@
       "iso_region": "ID-PA",
       "municipality": "Aurimi Wzil",
       "gps_code": "WREF",
-      "coordinates": "-2.182027, 138.434418"
+      "coordinates": "-2.182027, 138.434418",
+      "metar_available": false
     },
     {
       "ident": "ID-0175",
@@ -2026,7 +2198,8 @@
       "iso_region": "ID-PA",
       "municipality": "Bareri",
       "local_code": "BAR",
-      "coordinates": "-2.981793, 137.782715"
+      "coordinates": "-2.981793, 137.782715",
+      "metar_available": false
     },
     {
       "ident": "ID-0176",
@@ -2038,7 +2211,8 @@
       "iso_region": "ID-PP",
       "municipality": "Bari",
       "local_code": "BRI",
-      "coordinates": "-3.959166, 139.901563"
+      "coordinates": "-3.959166, 139.901563",
+      "metar_available": false
     },
     {
       "ident": "ID-0177",
@@ -2050,7 +2224,8 @@
       "iso_region": "ID-PS",
       "municipality": "Basiem",
       "local_code": "BAS",
-      "coordinates": "-6.058573, 138.383542"
+      "coordinates": "-6.058573, 138.383542",
+      "metar_available": false
     },
     {
       "ident": "ID-0178",
@@ -2062,7 +2237,8 @@
       "iso_region": "ID-PP",
       "municipality": "Awimbon",
       "local_code": "AWI",
-      "coordinates": "-5.165884, 140.381568"
+      "coordinates": "-5.165884, 140.381568",
+      "metar_available": false
     },
     {
       "ident": "ID-0179",
@@ -2074,7 +2250,8 @@
       "iso_region": "ID-KB",
       "municipality": "Anik",
       "local_code": "ANI",
-      "coordinates": "0.537465, 109.742062"
+      "coordinates": "0.537465, 109.742062",
+      "metar_available": false
     },
     {
       "ident": "ID-0180",
@@ -2087,7 +2264,8 @@
       "municipality": "Yaosakor",
       "gps_code": "WRMJ",
       "local_code": "YAO",
-      "coordinates": "-5.603899, 138.46525"
+      "coordinates": "-5.603899, 138.46525",
+      "metar_available": false
     },
     {
       "ident": "ID-0181",
@@ -2098,7 +2276,8 @@
       "iso_country": "ID",
       "iso_region": "ID-MU",
       "gps_code": "WAEH",
-      "coordinates": "0.468328, 127.945101"
+      "coordinates": "0.468328, 127.945101",
+      "metar_available": false
     },
     {
       "ident": "ID-0182",
@@ -2109,7 +2288,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KR",
       "municipality": "Batam City",
-      "coordinates": "1.103007, 103.797455"
+      "coordinates": "1.103007, 103.797455",
+      "metar_available": false
     },
     {
       "ident": "ID-0183",
@@ -2120,7 +2300,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BT",
       "municipality": "Serang",
-      "coordinates": "-6.14067, 106.1983"
+      "coordinates": "-6.14067, 106.1983",
+      "metar_available": false
     },
     {
       "ident": "ID-0184",
@@ -2131,7 +2312,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Arjasa",
-      "coordinates": "-6.87013, 115.2864"
+      "coordinates": "-6.87013, 115.2864",
+      "metar_available": false
     },
     {
       "ident": "ID-0185",
@@ -2142,7 +2324,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Sapeken",
-      "coordinates": "-7.15784, 115.78948"
+      "coordinates": "-7.15784, 115.78948",
+      "metar_available": false
     },
     {
       "ident": "ID-0186",
@@ -2154,7 +2337,8 @@
       "iso_region": "ID-BT",
       "municipality": "Pandeglang",
       "gps_code": "WIHI",
-      "coordinates": "-6.49155, 105.66967"
+      "coordinates": "-6.49155, 105.66967",
+      "metar_available": false
     },
     {
       "ident": "ID-0187",
@@ -2165,7 +2349,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Sukabumi",
-      "coordinates": "-7.37058, 106.48564"
+      "coordinates": "-7.37058, 106.48564",
+      "metar_available": false
     },
     {
       "ident": "ID-0188",
@@ -2176,7 +2361,8 @@
       "iso_country": "ID",
       "iso_region": "ID-AC",
       "municipality": "Banda Aceh",
-      "coordinates": "5.57766, 95.34874"
+      "coordinates": "5.57766, 95.34874",
+      "metar_available": false
     },
     {
       "ident": "ID-0189",
@@ -2187,7 +2373,8 @@
       "iso_country": "ID",
       "iso_region": "ID-AC",
       "municipality": "Takengon",
-      "coordinates": "4.624121, 96.843241"
+      "coordinates": "4.624121, 96.843241",
+      "metar_available": false
     },
     {
       "ident": "ID-0190",
@@ -2198,7 +2385,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SU",
       "municipality": "Teluk Dalam",
-      "coordinates": "0.58884, 97.71899"
+      "coordinates": "0.58884, 97.71899",
+      "metar_available": false
     },
     {
       "ident": "ID-0191",
@@ -2209,7 +2397,8 @@
       "iso_country": "ID",
       "iso_region": "ID-LA",
       "municipality": "Hutan",
-      "coordinates": "-5.92113, 104.55816"
+      "coordinates": "-5.92113, 104.55816",
+      "metar_available": false
     },
     {
       "ident": "ID-0192",
@@ -2219,7 +2408,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Biak",
-      "coordinates": "-1.17363, 136.05894"
+      "coordinates": "-1.17363, 136.05894",
+      "metar_available": false
     },
     {
       "ident": "ID-0193",
@@ -2230,7 +2420,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Kubibkop",
-      "coordinates": "-4.79436, 140.69447"
+      "coordinates": "-4.79436, 140.69447",
+      "metar_available": false
     },
     {
       "ident": "ID-0194",
@@ -2242,7 +2433,8 @@
       "iso_region": "ID-PS",
       "municipality": "Danowage",
       "gps_code": "WAKY",
-      "coordinates": "-5.2127, 140.017582"
+      "coordinates": "-5.2127, 140.017582",
+      "metar_available": false
     },
     {
       "ident": "ID-0195",
@@ -2253,7 +2445,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang",
-      "coordinates": "-4.891004, 140.74213"
+      "coordinates": "-4.891004, 140.74213",
+      "metar_available": false
     },
     {
       "ident": "ID-0196",
@@ -2264,7 +2457,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Tarup",
-      "coordinates": "-5.097671, 140.821627"
+      "coordinates": "-5.097671, 140.821627",
+      "metar_available": false
     },
     {
       "ident": "ID-0197",
@@ -2275,7 +2469,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang",
-      "coordinates": "-4.824475, 140.87378"
+      "coordinates": "-4.824475, 140.87378",
+      "metar_available": false
     },
     {
       "ident": "ID-0198",
@@ -2286,7 +2481,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Denom",
-      "coordinates": "-5.144915, 140.967065"
+      "coordinates": "-5.144915, 140.967065",
+      "metar_available": false
     },
     {
       "ident": "ID-0199",
@@ -2297,7 +2493,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Okbab",
-      "coordinates": "-4.586015, 140.499844"
+      "coordinates": "-4.586015, 140.499844",
+      "metar_available": false
     },
     {
       "ident": "ID-0200",
@@ -2308,7 +2505,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Alemson",
-      "coordinates": "-4.816571, 140.222819"
+      "coordinates": "-4.816571, 140.222819",
+      "metar_available": false
     },
     {
       "ident": "ID-0201",
@@ -2319,7 +2517,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.638376, 140.654907"
+      "coordinates": "-4.638376, 140.654907",
+      "metar_available": false
     },
     {
       "ident": "ID-0202",
@@ -2330,7 +2529,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.605771, 140.634806"
+      "coordinates": "-4.605771, 140.634806",
+      "metar_available": false
     },
     {
       "ident": "ID-0203",
@@ -2341,7 +2541,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Binban",
-      "coordinates": "-4.585309, 140.533962"
+      "coordinates": "-4.585309, 140.533962",
+      "metar_available": false
     },
     {
       "ident": "ID-0204",
@@ -2352,7 +2553,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Kaklup",
-      "coordinates": "-4.620771, 140.531688"
+      "coordinates": "-4.620771, 140.531688",
+      "metar_available": false
     },
     {
       "ident": "ID-0205",
@@ -2363,7 +2565,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.58066, 140.515995"
+      "coordinates": "-4.58066, 140.515995",
+      "metar_available": false
     },
     {
       "ident": "ID-0206",
@@ -2374,7 +2577,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.632613, 140.497466"
+      "coordinates": "-4.632613, 140.497466",
+      "metar_available": false
     },
     {
       "ident": "ID-0207",
@@ -2385,7 +2589,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.539485, 140.462018"
+      "coordinates": "-4.539485, 140.462018",
+      "metar_available": false
     },
     {
       "ident": "ID-0208",
@@ -2396,7 +2601,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Dumpasik",
-      "coordinates": "-4.455194, 140.508871"
+      "coordinates": "-4.455194, 140.508871",
+      "metar_available": false
     },
     {
       "ident": "ID-0209",
@@ -2407,7 +2613,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Bordamban",
-      "coordinates": "-4.439924, 140.484527"
+      "coordinates": "-4.439924, 140.484527",
+      "metar_available": false
     },
     {
       "ident": "ID-0210",
@@ -2418,7 +2625,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.464786, 140.393016"
+      "coordinates": "-4.464786, 140.393016",
+      "metar_available": false
     },
     {
       "ident": "ID-0211",
@@ -2429,7 +2637,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Hangmata",
-      "coordinates": "-4.49226, 140.657322"
+      "coordinates": "-4.49226, 140.657322",
+      "metar_available": false
     },
     {
       "ident": "ID-0212",
@@ -2440,7 +2649,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Arso",
-      "coordinates": "-2.933333, 140.78334"
+      "coordinates": "-2.933333, 140.78334",
+      "metar_available": false
     },
     {
       "ident": "ID-0213",
@@ -2451,7 +2661,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Biak",
-      "coordinates": "-1.173038, 136.081181"
+      "coordinates": "-1.173038, 136.081181",
+      "metar_available": false
     },
     {
       "ident": "ID-0214",
@@ -2463,7 +2674,8 @@
       "municipality": "Kabupaten Gayo Lues",
       "gps_code": "WIMG",
       "iata_code": "GYO",
-      "coordinates": "3.94548, 97.35968"
+      "coordinates": "3.94548, 97.35968",
+      "metar_available": false
     },
     {
       "ident": "ID-0215",
@@ -2474,7 +2686,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.463818, 140.262414"
+      "coordinates": "-4.463818, 140.262414",
+      "metar_available": false
     },
     {
       "ident": "ID-0216",
@@ -2485,7 +2698,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-4.354141, 140.260381"
+      "coordinates": "-4.354141, 140.260381",
+      "metar_available": false
     },
     {
       "ident": "ID-0217",
@@ -2495,7 +2709,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Pegunungan Bintang Regency",
-      "coordinates": "-5.179406, 140.520099"
+      "coordinates": "-5.179406, 140.520099",
+      "metar_available": false
     },
     {
       "ident": "ID-0218",
@@ -2506,7 +2721,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Kawor",
-      "coordinates": "-5.232712, 140.519992"
+      "coordinates": "-5.232712, 140.519992",
+      "metar_available": false
     },
     {
       "ident": "ID-0219",
@@ -2516,7 +2732,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Boven Digoel Regency",
-      "coordinates": "-5.278326, 140.681963"
+      "coordinates": "-5.278326, 140.681963",
+      "metar_available": false
     },
     {
       "ident": "ID-0220",
@@ -2528,7 +2745,8 @@
       "iso_region": "ID-PS",
       "municipality": "Boven Digoel Regency",
       "gps_code": "WAJT",
-      "coordinates": "-5.416371, 140.436231"
+      "coordinates": "-5.416371, 140.436231",
+      "metar_available": false
     },
     {
       "ident": "ID-0221",
@@ -2539,7 +2757,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Sentani",
-      "coordinates": "-2.561139, 140.479302"
+      "coordinates": "-2.561139, 140.479302",
+      "metar_available": false
     },
     {
       "ident": "ID-0222",
@@ -2550,7 +2769,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Begowre",
-      "coordinates": "-2.982106, 140.925279"
+      "coordinates": "-2.982106, 140.925279",
+      "metar_available": false
     },
     {
       "ident": "ID-0223",
@@ -2561,7 +2781,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Ideduna",
-      "coordinates": "-3.961954, 135.482025"
+      "coordinates": "-3.961954, 135.482025",
+      "metar_available": false
     },
     {
       "ident": "ID-0224",
@@ -2572,7 +2793,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Bias",
-      "coordinates": "-3.999569, 140.82041"
+      "coordinates": "-3.999569, 140.82041",
+      "metar_available": false
     },
     {
       "ident": "ID-0225",
@@ -2583,7 +2805,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Walibaru",
-      "coordinates": "-5.39973, 140.198652"
+      "coordinates": "-5.39973, 140.198652",
+      "metar_available": false
     },
     {
       "ident": "ID-0226",
@@ -2594,7 +2817,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Taria",
-      "coordinates": "-3.410527, 138.895308"
+      "coordinates": "-3.410527, 138.895308",
+      "metar_available": false
     },
     {
       "ident": "ID-0227",
@@ -2605,7 +2829,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Dadou",
-      "coordinates": "-3.686435, 136.063217"
+      "coordinates": "-3.686435, 136.063217",
+      "metar_available": false
     },
     {
       "ident": "ID-0228",
@@ -2616,7 +2841,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Daboto",
-      "coordinates": "-3.295335, 136.408213"
+      "coordinates": "-3.295335, 136.408213",
+      "metar_available": false
     },
     {
       "ident": "ID-0229",
@@ -2627,7 +2853,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Zotadi",
-      "coordinates": "-3.67449, 136.56833"
+      "coordinates": "-3.67449, 136.56833",
+      "metar_available": false
     },
     {
       "ident": "ID-0230",
@@ -2638,7 +2865,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Pagamba",
-      "coordinates": "-3.64307, 136.67854"
+      "coordinates": "-3.64307, 136.67854",
+      "metar_available": false
     },
     {
       "ident": "ID-0231",
@@ -2649,7 +2877,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JK",
       "municipality": "Jakarta",
-      "coordinates": "-6.147222, 106.85"
+      "coordinates": "-6.147222, 106.85",
+      "metar_available": false
     },
     {
       "ident": "ID-0232",
@@ -2660,7 +2889,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Yeimu",
-      "coordinates": "-4.551057, 139.336805"
+      "coordinates": "-4.551057, 139.336805",
+      "metar_available": false
     },
     {
       "ident": "ID-0233",
@@ -2670,7 +2900,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Supugi",
-      "coordinates": "-4.328303, 139.098995"
+      "coordinates": "-4.328303, 139.098995",
+      "metar_available": false
     },
     {
       "ident": "ID-0234",
@@ -2680,7 +2911,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Unggulpalek",
-      "coordinates": "-4.351211, 139.158046"
+      "coordinates": "-4.351211, 139.158046",
+      "metar_available": false
     },
     {
       "ident": "ID-0235",
@@ -2691,7 +2923,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Kota Pontianak",
-      "coordinates": "-0.02287, 109.33571"
+      "coordinates": "-0.02287, 109.33571",
+      "metar_available": false
     },
     {
       "ident": "ID-0236",
@@ -2701,7 +2934,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Tongas",
-      "coordinates": "-7.75999, 113.10563"
+      "coordinates": "-7.75999, 113.10563",
+      "metar_available": false
     },
     {
       "ident": "ID-0237",
@@ -2712,7 +2946,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Lekok, Pasuruan",
-      "coordinates": "-7.67253, 113.03682"
+      "coordinates": "-7.67253, 113.03682",
+      "metar_available": false
     },
     {
       "ident": "ID-0238",
@@ -2722,7 +2957,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Lumajang",
-      "coordinates": "-8.263041, 113.192074"
+      "coordinates": "-8.263041, 113.192074",
+      "metar_available": false
     },
     {
       "ident": "ID-0239",
@@ -2732,7 +2968,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Jatimulyo",
-      "coordinates": "-8.27823, 113.2216"
+      "coordinates": "-8.27823, 113.2216",
+      "metar_available": false
     },
     {
       "ident": "ID-0240",
@@ -2743,7 +2980,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Kunir, Lumajang",
-      "coordinates": "-8.27881, 113.21208"
+      "coordinates": "-8.27881, 113.21208",
+      "metar_available": false
     },
     {
       "ident": "ID-0241",
@@ -2753,7 +2991,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BT",
       "municipality": "Binuang",
-      "coordinates": "-6.14007, 106.34389"
+      "coordinates": "-6.14007, 106.34389",
+      "metar_available": false
     },
     {
       "ident": "ID-0242",
@@ -2763,7 +3002,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Citeurup",
-      "coordinates": "-6.50814, 106.87836"
+      "coordinates": "-6.50814, 106.87836",
+      "metar_available": false
     },
     {
       "ident": "ID-0243",
@@ -2773,7 +3013,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Cigombong",
-      "coordinates": "-6.75333, 106.81171"
+      "coordinates": "-6.75333, 106.81171",
+      "metar_available": false
     },
     {
       "ident": "ID-0244",
@@ -2783,7 +3024,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Cikembar",
-      "coordinates": "-6.96924, 106.78866"
+      "coordinates": "-6.96924, 106.78866",
+      "metar_available": false
     },
     {
       "ident": "ID-0245",
@@ -2793,7 +3035,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SN",
       "municipality": "Garongkong",
-      "coordinates": "-4.37642, 119.61364"
+      "coordinates": "-4.37642, 119.61364",
+      "metar_available": false
     },
     {
       "ident": "ID-0246",
@@ -2803,7 +3046,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Asua",
-      "coordinates": "-4.686881, 140.789845"
+      "coordinates": "-4.686881, 140.789845",
+      "metar_available": false
     },
     {
       "ident": "ID-0247",
@@ -2813,7 +3057,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Mewengde",
-      "coordinates": "-4.820969, 140.237545"
+      "coordinates": "-4.820969, 140.237545",
+      "metar_available": false
     },
     {
       "ident": "ID-0248",
@@ -2823,7 +3068,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Eragayam",
-      "coordinates": "-3.733891, 138.747881"
+      "coordinates": "-3.733891, 138.747881",
+      "metar_available": false
     },
     {
       "ident": "ID-0249",
@@ -2834,7 +3080,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Mamit",
-      "coordinates": "-3.589005, 138.396857"
+      "coordinates": "-3.589005, 138.396857",
+      "metar_available": false
     },
     {
       "ident": "ID-0250",
@@ -2845,7 +3092,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Yobesorum",
-      "coordinates": "-4.285211, 140.026433"
+      "coordinates": "-4.285211, 140.026433",
+      "metar_available": false
     },
     {
       "ident": "ID-0251",
@@ -2856,7 +3104,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Bolakna",
-      "coordinates": "-4.23424, 140.000619"
+      "coordinates": "-4.23424, 140.000619",
+      "metar_available": false
     },
     {
       "ident": "ID-0252",
@@ -2866,7 +3115,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KI",
       "municipality": "Balikpapan",
-      "coordinates": "-1.200426, 116.97577"
+      "coordinates": "-1.200426, 116.97577",
+      "metar_available": false
     },
     {
       "ident": "ID-0253",
@@ -2876,7 +3126,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KI",
       "municipality": "Bontang selatan",
-      "coordinates": "0.034898, 117.478783"
+      "coordinates": "0.034898, 117.478783",
+      "metar_available": false
     },
     {
       "ident": "ID-0254",
@@ -2886,7 +3137,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Sentani",
-      "coordinates": "-2.57347, 140.52553"
+      "coordinates": "-2.57347, 140.52553",
+      "metar_available": false
     },
     {
       "ident": "ID-0255",
@@ -2897,7 +3149,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Baya Biru",
-      "coordinates": "-3.618606, 136.267033"
+      "coordinates": "-3.618606, 136.267033",
+      "metar_available": false
     },
     {
       "ident": "ID-0256",
@@ -2908,7 +3161,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Supleyu",
-      "coordinates": "-4.43285, 140.16682"
+      "coordinates": "-4.43285, 140.16682",
+      "metar_available": false
     },
     {
       "ident": "ID-0257",
@@ -2919,7 +3173,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Tanime",
-      "coordinates": "-4.45145, 140.13042"
+      "coordinates": "-4.45145, 140.13042",
+      "metar_available": false
     },
     {
       "ident": "ID-0258",
@@ -2930,7 +3185,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Suaka",
-      "coordinates": "-4.464786, 140.099008"
+      "coordinates": "-4.464786, 140.099008",
+      "metar_available": false
     },
     {
       "ident": "ID-0259",
@@ -2941,7 +3197,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Eipomek",
-      "coordinates": "-4.45584, 140.02531"
+      "coordinates": "-4.45584, 140.02531",
+      "metar_available": false
     },
     {
       "ident": "ID-0260",
@@ -2952,7 +3209,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Famek",
-      "coordinates": "-4.425722, 140.021954"
+      "coordinates": "-4.425722, 140.021954",
+      "metar_available": false
     },
     {
       "ident": "ID-0261",
@@ -2963,7 +3221,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Soya",
-      "coordinates": "-4.37183, 139.91673"
+      "coordinates": "-4.37183, 139.91673",
+      "metar_available": false
     },
     {
       "ident": "ID-0262",
@@ -2974,7 +3233,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Aksal",
-      "coordinates": "-4.34395, 139.88754"
+      "coordinates": "-4.34395, 139.88754",
+      "metar_available": false
     },
     {
       "ident": "ID-0263",
@@ -2985,7 +3245,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Kalbok",
-      "coordinates": "-4.30181, 139.80474"
+      "coordinates": "-4.30181, 139.80474",
+      "metar_available": false
     },
     {
       "ident": "ID-0264",
@@ -2996,7 +3257,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Kono",
-      "coordinates": "-4.275826, 139.735794"
+      "coordinates": "-4.275826, 139.735794",
+      "metar_available": false
     },
     {
       "ident": "ID-0265",
@@ -3007,7 +3269,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Trison",
-      "coordinates": "-4.26309, 139.68456"
+      "coordinates": "-4.26309, 139.68456",
+      "metar_available": false
     },
     {
       "ident": "ID-0266",
@@ -3018,7 +3281,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Muhumu",
-      "coordinates": "-4.21977, 139.41273"
+      "coordinates": "-4.21977, 139.41273",
+      "metar_available": false
     },
     {
       "ident": "ID-0267",
@@ -3029,7 +3293,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Waniyok",
-      "coordinates": "-4.21672, 139.42436"
+      "coordinates": "-4.21672, 139.42436",
+      "metar_available": false
     },
     {
       "ident": "ID-0268",
@@ -3040,7 +3305,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Asotipo",
-      "coordinates": "-4.17695, 138.99303"
+      "coordinates": "-4.17695, 138.99303",
+      "metar_available": false
     },
     {
       "ident": "ID-0269",
@@ -3051,7 +3317,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Basir",
-      "coordinates": "-4.372814, 140.69684"
+      "coordinates": "-4.372814, 140.69684",
+      "metar_available": false
     },
     {
       "ident": "ID-0270",
@@ -3062,7 +3329,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Milki",
-      "coordinates": "-4.097372, 140.711331"
+      "coordinates": "-4.097372, 140.711331",
+      "metar_available": false
     },
     {
       "ident": "ID-0271",
@@ -3073,7 +3341,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Dulis",
-      "coordinates": "-4.077257, 140.661553"
+      "coordinates": "-4.077257, 140.661553",
+      "metar_available": false
     },
     {
       "ident": "ID-0272",
@@ -3084,7 +3353,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Sawan, Buleleng",
-      "coordinates": "-8.13278, 115.172997"
+      "coordinates": "-8.13278, 115.172997",
+      "metar_available": false
     },
     {
       "ident": "ID-0273",
@@ -3097,7 +3367,8 @@
       "municipality": "Modjid-Celebes Island",
       "gps_code": "WAEB",
       "local_code": "WA98",
-      "coordinates": "1.10189, 127.703003"
+      "coordinates": "1.10189, 127.703003",
+      "metar_available": false
     },
     {
       "ident": "ID-0274",
@@ -3108,7 +3379,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta Selatan, Badung",
-      "coordinates": "-8.7776, 115.16827"
+      "coordinates": "-8.7776, 115.16827",
+      "metar_available": false
     },
     {
       "ident": "ID-0275",
@@ -3118,7 +3390,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KI",
       "municipality": "Balikpapan",
-      "coordinates": "-1.281721, 116.814587"
+      "coordinates": "-1.281721, 116.814587",
+      "metar_available": false
     },
     {
       "ident": "ID-0276",
@@ -3129,7 +3402,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SN",
       "municipality": "Kayuadi",
-      "coordinates": "-6.857407, 120.797467"
+      "coordinates": "-6.857407, 120.797467",
+      "metar_available": false
     },
     {
       "ident": "ID-0277",
@@ -3142,7 +3416,8 @@
       "municipality": "Kediri",
       "gps_code": "WARD",
       "iata_code": "DHX",
-      "coordinates": "-7.750278, 111.947222"
+      "coordinates": "-7.750278, 111.947222",
+      "metar_available": false
     },
     {
       "ident": "ID-0278",
@@ -3153,7 +3428,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Distrik Wusama",
-      "coordinates": "-4.455186, 138.823079"
+      "coordinates": "-4.455186, 138.823079",
+      "metar_available": false
     },
     {
       "ident": "ID-0279",
@@ -3164,7 +3440,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Helariki",
-      "coordinates": "-4.176059, 139.439353"
+      "coordinates": "-4.176059, 139.439353",
+      "metar_available": false
     },
     {
       "ident": "ID-0280",
@@ -3175,7 +3452,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Samenage",
-      "coordinates": "-4.395446, 139.030167"
+      "coordinates": "-4.395446, 139.030167",
+      "metar_available": false
     },
     {
       "ident": "ID-0281",
@@ -3186,7 +3464,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PP",
       "municipality": "Wakbisek",
-      "coordinates": "-4.349896, 139.211615"
+      "coordinates": "-4.349896, 139.211615",
+      "metar_available": false
     },
     {
       "ident": "ID-0282",
@@ -3198,7 +3477,8 @@
       "iso_region": "ID-PP",
       "municipality": "Sobaham",
       "local_code": "OWT",
-      "coordinates": "-4.314543, 139.329624"
+      "coordinates": "-4.314543, 139.329624",
+      "metar_available": false
     },
     {
       "ident": "ID-0283",
@@ -3209,7 +3489,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KR",
       "municipality": "Batam",
-      "coordinates": "1.161152, 104.121119"
+      "coordinates": "1.161152, 104.121119",
+      "metar_available": false
     },
     {
       "ident": "ID-0284",
@@ -3222,7 +3503,8 @@
       "municipality": "West Pasaman",
       "gps_code": "WIEP",
       "local_code": "PNN",
-      "coordinates": "0.076713, 99.783846"
+      "coordinates": "0.076713, 99.783846",
+      "metar_available": false
     },
     {
       "ident": "ID-0285",
@@ -3234,7 +3516,8 @@
       "iso_region": "ID-RI",
       "municipality": "Tempuling",
       "local_code": "TBH",
-      "coordinates": "-0.427165, 102.996126"
+      "coordinates": "-0.427165, 102.996126",
+      "metar_available": false
     },
     {
       "ident": "ID-0288",
@@ -3245,7 +3528,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Fakfak",
-      "coordinates": "-2.928056, 132.089447"
+      "coordinates": "-2.928056, 132.089447",
+      "metar_available": false
     },
     {
       "ident": "ID-0290",
@@ -3258,7 +3542,8 @@
       "municipality": "Singkawang",
       "gps_code": "WIOD",
       "iata_code": "SKJ",
-      "coordinates": "0.789936, 108.960395"
+      "coordinates": "0.789936, 108.960395",
+      "metar_available": false
     },
     {
       "ident": "ID-0292",
@@ -3268,7 +3553,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Mimika",
-      "coordinates": "-4.250278, 137.850278"
+      "coordinates": "-4.250278, 137.850278",
+      "metar_available": false
     },
     {
       "ident": "ID-0293",
@@ -3279,7 +3565,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Pototano",
-      "coordinates": "-8.592566, 116.793819"
+      "coordinates": "-8.592566, 116.793819",
+      "metar_available": false
     },
     {
       "ident": "ID-0295",
@@ -3289,7 +3576,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KT",
       "municipality": "Sukamandan",
-      "coordinates": "-2.09842, 112.2532"
+      "coordinates": "-2.09842, 112.2532",
+      "metar_available": false
     },
     {
       "ident": "ID-0296",
@@ -3299,7 +3587,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KT",
       "municipality": "Batu Ampar",
-      "coordinates": "-2.2618, 112.11646"
+      "coordinates": "-2.2618, 112.11646",
+      "metar_available": false
     },
     {
       "ident": "ID-0297",
@@ -3309,7 +3598,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KT",
       "municipality": "Batu Ampar",
-      "coordinates": "-2.26711, 112.19835"
+      "coordinates": "-2.26711, 112.19835",
+      "metar_available": false
     },
     {
       "ident": "ID-0298",
@@ -3320,7 +3610,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KT",
       "municipality": "Batu Manangis",
-      "coordinates": "-2.15009, 112.26928"
+      "coordinates": "-2.15009, 112.26928",
+      "metar_available": false
     },
     {
       "ident": "ID-0299",
@@ -3330,7 +3621,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Semayok Baru",
-      "coordinates": "-1.7484, 110.47658"
+      "coordinates": "-1.7484, 110.47658",
+      "metar_available": false
     },
     {
       "ident": "ID-0300",
@@ -3340,7 +3632,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Manis Mata",
-      "coordinates": "-2.46441, 110.96529"
+      "coordinates": "-2.46441, 110.96529",
+      "metar_available": false
     },
     {
       "ident": "ID-0301",
@@ -3350,7 +3643,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BB",
       "municipality": "Toboali",
-      "coordinates": "-2.96808, 106.47341"
+      "coordinates": "-2.96808, 106.47341",
+      "metar_available": false
     },
     {
       "ident": "ID-0303",
@@ -3361,7 +3655,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Mapa",
-      "coordinates": "-3.70788, 136.74285"
+      "coordinates": "-3.70788, 136.74285",
+      "metar_available": false
     },
     {
       "ident": "ID-0304",
@@ -3372,7 +3667,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta Selatan, Badung",
-      "coordinates": "-8.83996, 115.16181"
+      "coordinates": "-8.83996, 115.16181",
+      "metar_available": false
     },
     {
       "ident": "ID-0305",
@@ -3383,7 +3679,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Denpasar",
-      "coordinates": "-8.72649, 115.21595"
+      "coordinates": "-8.72649, 115.21595",
+      "metar_available": false
     },
     {
       "ident": "ID-0306",
@@ -3394,7 +3691,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta Selatan, Badung",
-      "coordinates": "-8.80247, 115.12569"
+      "coordinates": "-8.80247, 115.12569",
+      "metar_available": false
     },
     {
       "ident": "ID-0307",
@@ -3405,7 +3703,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta Selatan, Badung",
-      "coordinates": "-8.83107, 115.20812"
+      "coordinates": "-8.83107, 115.20812",
+      "metar_available": false
     },
     {
       "ident": "ID-0308",
@@ -3416,7 +3715,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Kuta Selatan, Badung",
-      "coordinates": "-8.80159, 115.23846"
+      "coordinates": "-8.80159, 115.23846",
+      "metar_available": false
     },
     {
       "ident": "ID-0309",
@@ -3427,7 +3727,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Ubud, Gianyar",
-      "coordinates": "-8.39278, 115.28513"
+      "coordinates": "-8.39278, 115.28513",
+      "metar_available": false
     },
     {
       "ident": "ID-0310",
@@ -3438,7 +3739,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Nusa Penida, Klungkung",
-      "coordinates": "-8.68446, 115.44672"
+      "coordinates": "-8.68446, 115.44672",
+      "metar_available": false
     },
     {
       "ident": "ID-0311",
@@ -3449,7 +3751,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Gerokgak, Buleleng",
-      "coordinates": "-8.13452, 114.56342"
+      "coordinates": "-8.13452, 114.56342",
+      "metar_available": false
     },
     {
       "ident": "ID-0312",
@@ -3460,7 +3763,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Tegaldlimo, Banyuwangi",
-      "coordinates": "-8.73018, 114.35113"
+      "coordinates": "-8.73018, 114.35113",
+      "metar_available": false
     },
     {
       "ident": "ID-0313",
@@ -3471,7 +3775,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Pujut, Lombok Tengah",
-      "coordinates": "-8.89364, 116.30298"
+      "coordinates": "-8.89364, 116.30298",
+      "metar_available": false
     },
     {
       "ident": "ID-0314",
@@ -3482,7 +3787,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Tanjung, Lombok Utara",
-      "coordinates": "-8.36127, 116.12436"
+      "coordinates": "-8.36127, 116.12436",
+      "metar_available": false
     },
     {
       "ident": "ID-0315",
@@ -3493,7 +3799,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Pemanang, Lombok Utara",
-      "coordinates": "-8.36163, 116.03464"
+      "coordinates": "-8.36163, 116.03464",
+      "metar_available": false
     },
     {
       "ident": "ID-0316",
@@ -3504,7 +3811,8 @@
       "iso_country": "ID",
       "iso_region": "ID-BA",
       "municipality": "Melaya, Jembrana",
-      "coordinates": "-8.25544, 114.54499"
+      "coordinates": "-8.25544, 114.54499",
+      "metar_available": false
     },
     {
       "ident": "ID-0317",
@@ -3515,7 +3823,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Tegaldlimo, Banyuwangi",
-      "coordinates": "-8.54091, 114.3755"
+      "coordinates": "-8.54091, 114.3755",
+      "metar_available": false
     },
     {
       "ident": "ID-0318",
@@ -3526,7 +3835,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Pesanggaran, Banyuwangi",
-      "coordinates": "-8.60175, 114.03169"
+      "coordinates": "-8.60175, 114.03169",
+      "metar_available": false
     },
     {
       "ident": "ID-0319",
@@ -3537,7 +3847,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Mataram",
-      "coordinates": "-8.56056, 116.095097"
+      "coordinates": "-8.56056, 116.095097",
+      "metar_available": false
     },
     {
       "ident": "ID-0320",
@@ -3548,7 +3859,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Jefman",
-      "coordinates": "-0.926358, 131.121002"
+      "coordinates": "-0.926358, 131.121002",
+      "metar_available": false
     },
     {
       "ident": "ID-0321",
@@ -3559,7 +3871,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Keisah",
-      "coordinates": "-7.66667, 140.5"
+      "coordinates": "-7.66667, 140.5",
+      "metar_available": false
     },
     {
       "ident": "ID-0322",
@@ -3570,7 +3883,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SS",
       "municipality": "Mangun Jaya",
-      "coordinates": "-2.73333, 103.567001"
+      "coordinates": "-2.73333, 103.567001",
+      "metar_available": false
     },
     {
       "ident": "ID-0323",
@@ -3581,7 +3895,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Muting",
-      "coordinates": "-7.3147, 140.5668"
+      "coordinates": "-7.3147, 140.5668",
+      "metar_available": false
     },
     {
       "ident": "ID-0324",
@@ -3592,7 +3907,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Amgotro",
-      "coordinates": "-3.628919, 140.953689"
+      "coordinates": "-3.628919, 140.953689",
+      "metar_available": false
     },
     {
       "ident": "ID-0325",
@@ -3603,7 +3919,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Sangir",
-      "coordinates": "-8.36667, 118.333359"
+      "coordinates": "-8.36667, 118.333359",
+      "metar_available": false
     },
     {
       "ident": "ID-0326",
@@ -3614,7 +3931,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SN",
       "municipality": "Malili",
-      "coordinates": "-2.62966, 121.097102"
+      "coordinates": "-2.62966, 121.097102",
+      "metar_available": false
     },
     {
       "ident": "ID-0327",
@@ -3625,7 +3943,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SG",
       "municipality": "Wawooru",
-      "coordinates": "-4.316667, 122.466667"
+      "coordinates": "-4.316667, 122.466667",
+      "metar_available": false
     },
     {
       "ident": "ID-0328",
@@ -3636,7 +3955,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Serui",
-      "coordinates": "-1.87438, 136.23946"
+      "coordinates": "-1.87438, 136.23946",
+      "metar_available": false
     },
     {
       "ident": "ID-0329",
@@ -3647,7 +3967,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Swach",
-      "coordinates": "-3.23337, 140.985451"
+      "coordinates": "-3.23337, 140.985451",
+      "metar_available": false
     },
     {
       "ident": "ID-0330",
@@ -3658,7 +3979,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Ubrub",
-      "coordinates": "-3.675686, 140.885067"
+      "coordinates": "-3.675686, 140.885067",
+      "metar_available": false
     },
     {
       "ident": "ID-0331",
@@ -3669,7 +3991,8 @@
       "iso_country": "ID",
       "iso_region": "ID-ST",
       "municipality": "Tentena",
-      "coordinates": "-2, 120.76667"
+      "coordinates": "-2, 120.76667",
+      "metar_available": false
     },
     {
       "ident": "ID-0332",
@@ -3680,7 +4003,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Pelabuhan Ratu",
-      "coordinates": "-6.982321, 106.540457"
+      "coordinates": "-6.982321, 106.540457",
+      "metar_available": false
     },
     {
       "ident": "ID-0333",
@@ -3691,7 +4015,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SU",
       "municipality": "Kisaran",
-      "coordinates": "2.97379, 99.600998"
+      "coordinates": "2.97379, 99.600998",
+      "metar_available": false
     },
     {
       "ident": "ID-0334",
@@ -3702,7 +4027,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SU",
       "municipality": "Pematangsiantar",
-      "coordinates": "2.946003, 99.02417"
+      "coordinates": "2.946003, 99.02417",
+      "metar_available": false
     },
     {
       "ident": "ID-0335",
@@ -3713,7 +4039,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SS",
       "municipality": "Keluang",
-      "coordinates": "-2.640962, 103.914557"
+      "coordinates": "-2.640962, 103.914557",
+      "metar_available": false
     },
     {
       "ident": "ID-0336",
@@ -3724,7 +4051,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KT",
       "municipality": "Murateweh",
-      "coordinates": "-0.942549, 114.89399"
+      "coordinates": "-0.942549, 114.89399",
+      "metar_available": false
     },
     {
       "ident": "ID-0337",
@@ -3735,7 +4063,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NT",
       "municipality": "Kalabahi",
-      "coordinates": "-8.216667, 124.566666"
+      "coordinates": "-8.216667, 124.566666",
+      "metar_available": false
     },
     {
       "ident": "ID-0338",
@@ -3746,7 +4075,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Surabaya",
-      "coordinates": "-7.217473, 112.712343"
+      "coordinates": "-7.217473, 112.712343",
+      "metar_available": false
     },
     {
       "ident": "ID-0339",
@@ -3757,7 +4087,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Nabire",
-      "coordinates": "-3.368586, 135.496702"
+      "coordinates": "-3.368586, 135.496702",
+      "metar_available": false
     },
     {
       "ident": "ID-0340",
@@ -3768,7 +4099,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SB",
       "municipality": "Padang",
-      "coordinates": "-0.874989, 100.351997"
+      "coordinates": "-0.874989, 100.351997",
+      "metar_available": false
     },
     {
       "ident": "ID-0341",
@@ -3779,7 +4111,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "municipality": "Sintang",
-      "coordinates": "0.063851, 111.473572"
+      "coordinates": "0.063851, 111.473572",
+      "metar_available": false
     },
     {
       "ident": "ID-0342",
@@ -3790,7 +4123,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SU",
       "municipality": "Medan",
-      "coordinates": "3.68306, 98.644203"
+      "coordinates": "3.68306, 98.644203",
+      "metar_available": false
     },
     {
       "ident": "ID-0343",
@@ -3803,7 +4137,8 @@
       "municipality": "Kota Mobagu",
       "iata_code": "BJG",
       "local_code": "WAMB",
-      "coordinates": "0.686111, 124.273611"
+      "coordinates": "0.686111, 124.273611",
+      "metar_available": false
     },
     {
       "ident": "ID-0345",
@@ -3815,7 +4150,8 @@
       "iso_region": "ID-SU",
       "municipality": "Tabbing Tinggi-Sumatra Island",
       "local_code": "WIMT",
-      "coordinates": "3.366667, 99.116669"
+      "coordinates": "3.366667, 99.116669",
+      "metar_available": false
     },
     {
       "ident": "ID-0346",
@@ -3826,7 +4162,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Sumenep",
-      "coordinates": "-7.00218, 114.17324"
+      "coordinates": "-7.00218, 114.17324",
+      "metar_available": false
     },
     {
       "ident": "ID-0347",
@@ -3837,7 +4174,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Manyar, Gresik",
-      "coordinates": "-7.08359, 112.60498"
+      "coordinates": "-7.08359, 112.60498",
+      "metar_available": false
     },
     {
       "ident": "ID-0348",
@@ -3848,7 +4186,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Lamongan",
-      "coordinates": "-6.86911, 112.41675"
+      "coordinates": "-6.86911, 112.41675",
+      "metar_available": false
     },
     {
       "ident": "ID-0349",
@@ -3859,7 +4198,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Tuban",
-      "coordinates": "-6.81441, 111.88536"
+      "coordinates": "-6.81441, 111.88536",
+      "metar_available": false
     },
     {
       "ident": "ID-0350",
@@ -3870,7 +4210,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Pacitan",
-      "coordinates": "-8.21185, 111.08605"
+      "coordinates": "-8.21185, 111.08605",
+      "metar_available": false
     },
     {
       "ident": "ID-0351",
@@ -3881,7 +4222,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Sumbawa Barat",
-      "coordinates": "-8.99519, 116.7444"
+      "coordinates": "-8.99519, 116.7444",
+      "metar_available": false
     },
     {
       "ident": "ID-0352",
@@ -3892,7 +4234,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KS",
       "municipality": "Kintap, Tanah Laut",
-      "coordinates": "-3.79107, 115.29557"
+      "coordinates": "-3.79107, 115.29557",
+      "metar_available": false
     },
     {
       "ident": "ID-0353",
@@ -3903,7 +4246,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KS",
       "municipality": "Kintap, Tanah Laut",
-      "coordinates": "-3.8244, 115.1825"
+      "coordinates": "-3.8244, 115.1825",
+      "metar_available": false
     },
     {
       "ident": "ID-0354",
@@ -3914,7 +4258,8 @@
       "iso_country": "ID",
       "iso_region": "ID-NB",
       "municipality": "Gangga, Lombok Utara",
-      "coordinates": "-8.33523, 116.18193"
+      "coordinates": "-8.33523, 116.18193",
+      "metar_available": false
     },
     {
       "ident": "ID-0355",
@@ -3925,7 +4270,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Paiton, Probolinggo",
-      "coordinates": "-7.71802, 113.52407"
+      "coordinates": "-7.71802, 113.52407",
+      "metar_available": false
     },
     {
       "ident": "ID-0356",
@@ -3936,7 +4282,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Karang Ploso, Malang",
-      "coordinates": "-7.92155, 112.59729"
+      "coordinates": "-7.92155, 112.59729",
+      "metar_available": false
     },
     {
       "ident": "ID-0357",
@@ -3946,7 +4293,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Kediri",
-      "coordinates": "-7.80766, 112.00982"
+      "coordinates": "-7.80766, 112.00982",
+      "metar_available": false
     },
     {
       "ident": "ID-0358",
@@ -3957,7 +4305,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JI",
       "municipality": "Kediri",
-      "coordinates": "-7.79019, 112.01084"
+      "coordinates": "-7.79019, 112.01084",
+      "metar_available": false
     },
     {
       "ident": "ID-0359",
@@ -3968,7 +4317,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Tomboki",
-      "coordinates": "-4.2295, 139.45225"
+      "coordinates": "-4.2295, 139.45225",
+      "metar_available": false
     },
     {
       "ident": "ID-0360",
@@ -3979,7 +4329,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PA",
       "municipality": "Nisikni",
-      "coordinates": "-4.24745, 139.47418"
+      "coordinates": "-4.24745, 139.47418",
+      "metar_available": false
     },
     {
       "ident": "ID-0361",
@@ -3990,7 +4341,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Menou",
-      "coordinates": "-3.86487, 135.51802"
+      "coordinates": "-3.86487, 135.51802",
+      "metar_available": false
     },
     {
       "ident": "ID-0362",
@@ -4001,7 +4353,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PT",
       "municipality": "Apogomakida",
-      "coordinates": "-4.00453, 135.49515"
+      "coordinates": "-4.00453, 135.49515",
+      "metar_available": false
     },
     {
       "ident": "ID-0363",
@@ -4012,7 +4365,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PB",
       "municipality": "Wasior",
-      "coordinates": "-2.78618, 134.52473"
+      "coordinates": "-2.78618, 134.52473",
+      "metar_available": false
     },
     {
       "ident": "ID-AAS",
@@ -4026,7 +4380,8 @@
       "gps_code": "WAVR",
       "iata_code": "AAS",
       "local_code": "APA",
-      "coordinates": "-3.882495, 139.310932"
+      "coordinates": "-3.882495, 139.310932",
+      "metar_available": false
     },
     {
       "ident": "ID-AGD",
@@ -4039,7 +4394,8 @@
       "municipality": "Anggi-Papua Island",
       "gps_code": "WAUA",
       "iata_code": "AGD",
-      "coordinates": "-1.3858, 133.8737"
+      "coordinates": "-1.3858, 133.8737",
+      "metar_available": false
     },
     {
       "ident": "ID-AHI",
@@ -4050,7 +4406,8 @@
       "iso_country": "ID",
       "iso_region": "ID-PS",
       "municipality": "Wanam",
-      "coordinates": "-7.540726, 139.110916"
+      "coordinates": "-7.540726, 139.110916",
+      "metar_available": false
     },
     {
       "ident": "ID-AKQ",
@@ -4063,7 +4420,8 @@
       "municipality": "Menggala",
       "gps_code": "WILM",
       "iata_code": "AKQ",
-      "coordinates": "-4.611588, 105.231968"
+      "coordinates": "-4.611588, 105.231968",
+      "metar_available": false
     },
     {
       "ident": "ID-BJG",
@@ -4074,7 +4432,8 @@
       "iso_country": "ID",
       "iso_region": "ID-ST",
       "municipality": "Boalang-Celebes Island",
-      "coordinates": "-0.972896, 122.144997"
+      "coordinates": "-0.972896, 122.144997",
+      "metar_available": false
     },
     {
       "ident": "ID-ELR",
@@ -4087,7 +4446,8 @@
       "municipality": "Elelim",
       "gps_code": "WAVE",
       "iata_code": "ELR",
-      "coordinates": "-3.785922, 139.384497"
+      "coordinates": "-3.785922, 139.384497",
+      "metar_available": false
     },
     {
       "ident": "ID-EWE",
@@ -4099,7 +4459,8 @@
       "iso_region": "ID-PS",
       "municipality": "Agats",
       "iata_code": "EWE",
-      "coordinates": "-5.496185, 138.078361"
+      "coordinates": "-5.496185, 138.078361",
+      "metar_available": false
     },
     {
       "ident": "ID-GAV",
@@ -4111,7 +4472,8 @@
       "iso_region": "ID-PB",
       "municipality": "Gag Island",
       "iata_code": "GAV",
-      "coordinates": "-0.400556, 129.895004"
+      "coordinates": "-0.400556, 129.895004",
+      "metar_available": false
     },
     {
       "ident": "ID-IUL",
@@ -4125,7 +4487,8 @@
       "gps_code": "WAVC",
       "iata_code": "IUL",
       "local_code": "ILU",
-      "coordinates": "-3.7051, 138.2002"
+      "coordinates": "-3.7051, 138.2002",
+      "metar_available": false
     },
     {
       "ident": "ID-KOD",
@@ -4137,7 +4500,8 @@
       "iso_region": "ID-KI",
       "municipality": "Kotabangun-Borneo Island",
       "iata_code": "KOD",
-      "coordinates": "-0.266669988632, 116.583335876"
+      "coordinates": "-0.266669988632, 116.583335876",
+      "metar_available": false
     },
     {
       "ident": "ID-KRC",
@@ -4150,7 +4514,8 @@
       "municipality": "Sungai Penuh",
       "gps_code": "WIJI",
       "iata_code": "KRC",
-      "coordinates": "-2.094042, 101.47025"
+      "coordinates": "-2.094042, 101.47025",
+      "metar_available": false
     },
     {
       "ident": "ID-LLN",
@@ -4163,7 +4528,8 @@
       "municipality": "Kelila",
       "gps_code": "WAJV",
       "iata_code": "LLN",
-      "coordinates": "-3.728968, 138.710117"
+      "coordinates": "-3.728968, 138.710117",
+      "metar_available": false
     },
     {
       "ident": "ID-MSI",
@@ -4175,7 +4541,8 @@
       "iso_region": "ID-JI",
       "municipality": "Masalembo Island",
       "iata_code": "MSI",
-      "coordinates": "-5.583330154418945, 114.43299865722656"
+      "coordinates": "-5.583330154418945, 114.43299865722656",
+      "metar_available": false
     },
     {
       "ident": "ID-NAF",
@@ -4187,7 +4554,8 @@
       "iso_region": "ID-KU",
       "municipality": "Banaina-Borneo Island",
       "iata_code": "NAF",
-      "coordinates": "2.72305011749, 117.125999451"
+      "coordinates": "2.72305011749, 117.125999451",
+      "metar_available": false
     },
     {
       "ident": "ID-OBD",
@@ -4200,7 +4568,8 @@
       "municipality": "Obano",
       "gps_code": "WAYO",
       "iata_code": "OBD",
-      "coordinates": "-3.9106, 136.2306"
+      "coordinates": "-3.9106, 136.2306",
+      "metar_available": false
     },
     {
       "ident": "ID-PPJ",
@@ -4211,7 +4580,8 @@
       "iso_country": "ID",
       "iso_region": "ID-RI",
       "municipality": "Paritsialing-Sumatra Island",
-      "coordinates": "-0.63333, 103.300003"
+      "coordinates": "-0.63333, 103.300003",
+      "metar_available": false
     },
     {
       "ident": "ID-PUM",
@@ -4223,7 +4593,8 @@
       "iso_region": "ID-SG",
       "municipality": "Kolaka",
       "gps_code": "WAWA",
-      "coordinates": "-4.181013, 121.614665"
+      "coordinates": "-4.181013, 121.614665",
+      "metar_available": false
     },
     {
       "ident": "ID-RKI",
@@ -4237,7 +4608,8 @@
       "gps_code": "WIEB",
       "iata_code": "RKI",
       "local_code": "RKO",
-      "coordinates": "-2.094167, 99.699167"
+      "coordinates": "-2.094167, 99.699167",
+      "metar_available": false
     },
     {
       "ident": "ID-TMY",
@@ -4251,7 +4623,8 @@
       "gps_code": "WABH",
       "iata_code": "TMY",
       "local_code": "TMI",
-      "coordinates": "-3.9256, 138.4555"
+      "coordinates": "-3.9256, 138.4555",
+      "metar_available": false
     },
     {
       "ident": "ID-ZGP",
@@ -4265,7 +4638,8 @@
       "gps_code": "WAYB",
       "iata_code": "UGU",
       "local_code": "ZGP",
-      "coordinates": "-3.739503, 137.031183"
+      "coordinates": "-3.739503, 137.031183",
+      "metar_available": false
     },
     {
       "ident": "JIO",
@@ -4278,7 +4652,8 @@
       "municipality": "Tiakur",
       "gps_code": "WAPM",
       "iata_code": "JIO",
-      "coordinates": "-8.140402, 127.908758"
+      "coordinates": "-8.140402, 127.908758",
+      "metar_available": false
     },
     {
       "ident": "KJX",
@@ -4291,7 +4666,8 @@
       "municipality": "Blangpidie",
       "gps_code": "WITO",
       "iata_code": "KJX",
-      "coordinates": "3.735749, 96.790109"
+      "coordinates": "3.735749, 96.790109",
+      "metar_available": false
     },
     {
       "ident": "KMM",
@@ -4304,7 +4680,8 @@
       "municipality": "Kimaam",
       "gps_code": "WAKJ",
       "iata_code": "KMM",
-      "coordinates": "-7.9782, 138.852005"
+      "coordinates": "-7.9782, 138.852005",
+      "metar_available": false
     },
     {
       "ident": "MOH",
@@ -4318,7 +4695,8 @@
       "gps_code": "WAFO",
       "iata_code": "MOH",
       "local_code": "MOH",
-      "coordinates": "-2.201143, 121.662884"
+      "coordinates": "-2.201143, 121.662884",
+      "metar_available": false
     },
     {
       "ident": "NKD",
@@ -4332,7 +4710,8 @@
       "gps_code": "WABS",
       "iata_code": "NKD",
       "local_code": "SIN",
-      "coordinates": "-3.822249, 137.839208"
+      "coordinates": "-3.822249, 137.839208",
+      "metar_available": false
     },
     {
       "ident": "WA1B",
@@ -4345,7 +4724,8 @@
       "municipality": "Fekfetal / Jerdera-Trangan Island",
       "gps_code": "WA1B",
       "local_code": "WA1B",
-      "coordinates": "-6.57342004776001, 134.14700317382812"
+      "coordinates": "-6.57342004776001, 134.14700317382812",
+      "metar_available": false
     },
     {
       "ident": "WA44",
@@ -4359,7 +4739,8 @@
       "gps_code": "WAWC",
       "iata_code": "TQQ",
       "local_code": "WA44",
-      "coordinates": "-5.76457, 123.917"
+      "coordinates": "-5.76457, 123.917",
+      "metar_available": false
     },
     {
       "ident": "WAAA",
@@ -4372,7 +4753,8 @@
       "municipality": "Ujung Pandang",
       "gps_code": "WAAA",
       "iata_code": "UPG",
-      "coordinates": "-5.06163, 119.554001"
+      "coordinates": "-5.06163, 119.554001",
+      "metar_available": false
     },
     {
       "ident": "WAAG",
@@ -4384,7 +4766,8 @@
       "iso_region": "ID-SN",
       "municipality": "Malimpung",
       "gps_code": "WAWG",
-      "coordinates": "-3.7382, 119.7502"
+      "coordinates": "-3.7382, 119.7502",
+      "metar_available": false
     },
     {
       "ident": "WAAT",
@@ -4396,7 +4779,8 @@
       "iso_region": "ID-SN",
       "municipality": "Makale-Celebes Island",
       "gps_code": "WAAT",
-      "coordinates": "-3.10935997963, 119.856002808"
+      "coordinates": "-3.10935997963, 119.856002808",
+      "metar_available": false
     },
     {
       "ident": "WABB",
@@ -4409,7 +4793,8 @@
       "municipality": "Biak",
       "gps_code": "WABB",
       "iata_code": "BIK",
-      "coordinates": "-1.19002, 136.108002"
+      "coordinates": "-1.19002, 136.108002",
+      "metar_available": false
     },
     {
       "ident": "WABC",
@@ -4421,7 +4806,8 @@
       "iso_region": "ID-PP",
       "municipality": "Akimuga",
       "gps_code": "WAYG",
-      "coordinates": "-4.6043, 137.6576"
+      "coordinates": "-4.6043, 137.6576",
+      "metar_available": false
     },
     {
       "ident": "WABD",
@@ -4434,7 +4820,8 @@
       "municipality": "Moanamani",
       "gps_code": "WABD",
       "iata_code": "ONI",
-      "coordinates": "-4.00659, 136.037704"
+      "coordinates": "-4.00659, 136.037704",
+      "metar_available": false
     },
     {
       "ident": "WABF",
@@ -4448,7 +4835,8 @@
       "gps_code": "WABF",
       "iata_code": "FOO",
       "local_code": "WA23",
-      "coordinates": "-0.935842, 134.872298"
+      "coordinates": "-0.935842, 134.872298",
+      "metar_available": false
     },
     {
       "ident": "WABG",
@@ -4461,7 +4849,8 @@
       "municipality": "Tigi",
       "gps_code": "WABA",
       "iata_code": "WET",
-      "coordinates": "-4.05916, 136.281715"
+      "coordinates": "-4.05916, 136.281715",
+      "metar_available": false
     },
     {
       "ident": "WABI",
@@ -4474,7 +4863,8 @@
       "municipality": "Nabire",
       "gps_code": "WABI",
       "iata_code": "NBX",
-      "coordinates": "-3.397973, 135.393071"
+      "coordinates": "-3.397973, 135.393071",
+      "metar_available": false
     },
     {
       "ident": "WABK",
@@ -4487,7 +4877,8 @@
       "municipality": "Karubaga",
       "gps_code": "WABK",
       "iata_code": "KBF",
-      "coordinates": "-3.684615, 138.479018"
+      "coordinates": "-3.684615, 138.479018",
+      "metar_available": false
     },
     {
       "ident": "WABL",
@@ -4500,7 +4891,8 @@
       "municipality": "Ilaga",
       "gps_code": "WAYL",
       "iata_code": "ILA",
-      "coordinates": "-3.97648, 137.6225"
+      "coordinates": "-3.97648, 137.6225",
+      "metar_available": false
     },
     {
       "ident": "WABN",
@@ -4513,7 +4905,8 @@
       "municipality": "Kokonao",
       "gps_code": "WAYK",
       "iata_code": "KOX",
-      "coordinates": "-4.71075, 136.43515"
+      "coordinates": "-4.71075, 136.43515",
+      "metar_available": false
     },
     {
       "ident": "WABO",
@@ -4526,7 +4919,8 @@
       "municipality": "Serui",
       "gps_code": "WABO",
       "iata_code": "ZRI",
-      "coordinates": "-1.82842, 136.062402"
+      "coordinates": "-1.82842, 136.062402",
+      "metar_available": false
     },
     {
       "ident": "WABP",
@@ -4539,7 +4933,8 @@
       "municipality": "Timika",
       "gps_code": "WAYY",
       "iata_code": "TIM",
-      "coordinates": "-4.52978, 136.887388"
+      "coordinates": "-4.52978, 136.887388",
+      "metar_available": false
     },
     {
       "ident": "WABT",
@@ -4552,7 +4947,8 @@
       "municipality": "Enarotali",
       "gps_code": "WAYE",
       "iata_code": "EWI",
-      "coordinates": "-3.925739, 136.378634"
+      "coordinates": "-3.925739, 136.378634",
+      "metar_available": false
     },
     {
       "ident": "WABW",
@@ -4564,7 +4960,8 @@
       "iso_region": "ID-PB",
       "municipality": "Momi-Papua Island",
       "gps_code": "WABW",
-      "coordinates": "-1.6285300254822, 134.12399291992"
+      "coordinates": "-1.6285300254822, 134.12399291992",
+      "metar_available": false
     },
     {
       "ident": "WABY",
@@ -4576,7 +4973,8 @@
       "iso_region": "ID-PT",
       "municipality": "Kebo",
       "gps_code": "WABY",
-      "coordinates": "-3.8248, 136.385844"
+      "coordinates": "-3.8248, 136.385844",
+      "metar_available": false
     },
     {
       "ident": "WADB",
@@ -4589,7 +4987,8 @@
       "municipality": "Palibelo, Bima",
       "gps_code": "WADB",
       "iata_code": "BMU",
-      "coordinates": "-8.537184, 118.685002"
+      "coordinates": "-8.537184, 118.685002",
+      "metar_available": false
     },
     {
       "ident": "WADD",
@@ -4602,7 +5001,8 @@
       "municipality": "Kuta, Badung",
       "gps_code": "WADD",
       "iata_code": "DPS",
-      "coordinates": "-8.748409, 115.167123"
+      "coordinates": "-8.748409, 115.167123",
+      "metar_available": false
     },
     {
       "ident": "WADE",
@@ -4614,7 +5014,8 @@
       "iso_region": "ID-BA",
       "municipality": "Gerokgak, Buleleng",
       "gps_code": "WADE",
-      "coordinates": "-8.139292, 114.615367"
+      "coordinates": "-8.139292, 114.615367",
+      "metar_available": false
     },
     {
       "ident": "WADL",
@@ -4627,7 +5028,8 @@
       "municipality": "Mataram (Pujut, Lombok Tengah)",
       "gps_code": "WADL",
       "iata_code": "LOP",
-      "coordinates": "-8.759962, 116.278169"
+      "coordinates": "-8.759962, 116.278169",
+      "metar_available": false
     },
     {
       "ident": "WADS",
@@ -4640,7 +5042,8 @@
       "municipality": "Sumbawa Besar",
       "gps_code": "WADS",
       "iata_code": "SWQ",
-      "coordinates": "-8.48904, 117.412003"
+      "coordinates": "-8.48904, 117.412003",
+      "metar_available": false
     },
     {
       "ident": "WADT",
@@ -4653,7 +5056,8 @@
       "municipality": "Radamata",
       "gps_code": "WATK",
       "iata_code": "TMC",
-      "coordinates": "-9.409224, 119.242558"
+      "coordinates": "-9.409224, 119.242558",
+      "metar_available": false
     },
     {
       "ident": "WADU",
@@ -4666,7 +5070,8 @@
       "municipality": "Lunyuk",
       "gps_code": "WADU",
       "iata_code": "LYK",
-      "coordinates": "-8.989931, 117.216018"
+      "coordinates": "-8.989931, 117.216018",
+      "metar_available": false
     },
     {
       "ident": "WADW",
@@ -4679,7 +5084,8 @@
       "municipality": "Waingapu-Sumba Island",
       "gps_code": "WATU",
       "iata_code": "WGP",
-      "coordinates": "-9.66922, 120.302002"
+      "coordinates": "-9.66922, 120.302002",
+      "metar_available": false
     },
     {
       "ident": "WADY",
@@ -4693,7 +5099,8 @@
       "gps_code": "WADY",
       "iata_code": "BWX",
       "local_code": "BWI",
-      "coordinates": "-8.31015, 114.3401"
+      "coordinates": "-8.31015, 114.3401",
+      "metar_available": false
     },
     {
       "ident": "WAEE",
@@ -4706,7 +5113,8 @@
       "municipality": "Sango",
       "gps_code": "WAEE",
       "iata_code": "TTE",
-      "coordinates": "0.831012, 127.381611"
+      "coordinates": "0.831012, 127.381611",
+      "metar_available": false
     },
     {
       "ident": "WAES",
@@ -4719,7 +5127,8 @@
       "municipality": "Sanana",
       "gps_code": "WAES",
       "iata_code": "SQN",
-      "coordinates": "-2.097833, 125.963833"
+      "coordinates": "-2.097833, 125.963833",
+      "metar_available": false
     },
     {
       "ident": "WAEW",
@@ -4732,7 +5141,8 @@
       "municipality": "Gotalalamo-Morotai Island",
       "gps_code": "WAEW",
       "iata_code": "OTI",
-      "coordinates": "2.04599, 128.324997"
+      "coordinates": "2.04599, 128.324997",
+      "metar_available": false
     },
     {
       "ident": "WAFB",
@@ -4745,7 +5155,8 @@
       "municipality": "Toraja",
       "gps_code": "WAFB",
       "iata_code": "TRT",
-      "coordinates": "-3.185833, 119.91775"
+      "coordinates": "-3.185833, 119.91775",
+      "metar_available": false
     },
     {
       "ident": "WAFD",
@@ -4758,7 +5169,8 @@
       "municipality": "Palopo",
       "gps_code": "WAFD",
       "iata_code": "LLO",
-      "coordinates": "-3.082997, 120.245018"
+      "coordinates": "-3.082997, 120.245018",
+      "metar_available": false
     },
     {
       "ident": "WAFF",
@@ -4771,7 +5183,8 @@
       "municipality": "Palu",
       "gps_code": "WAFF",
       "iata_code": "PLW",
-      "coordinates": "-0.916462, 119.908647"
+      "coordinates": "-0.916462, 119.908647",
+      "metar_available": false
     },
     {
       "ident": "WAFJ",
@@ -4784,7 +5197,8 @@
       "municipality": "Mamuju",
       "gps_code": "WAFJ",
       "iata_code": "MJU",
-      "coordinates": "-2.590017, 119.025051"
+      "coordinates": "-2.590017, 119.025051",
+      "metar_available": false
     },
     {
       "ident": "WAFL",
@@ -4797,7 +5211,8 @@
       "municipality": "Toli Toli-Celebes Island",
       "gps_code": "WAFL",
       "iata_code": "TLI",
-      "coordinates": "1.123428, 120.793658"
+      "coordinates": "1.123428, 120.793658",
+      "metar_available": false
     },
     {
       "ident": "WAFM",
@@ -4810,7 +5225,8 @@
       "municipality": "Masamba",
       "gps_code": "WAFM",
       "iata_code": "MXB",
-      "coordinates": "-2.558031, 120.324342"
+      "coordinates": "-2.558031, 120.324342",
+      "metar_available": false
     },
     {
       "ident": "WAFN",
@@ -4821,7 +5237,8 @@
       "iso_country": "ID",
       "iso_region": "ID-SN",
       "gps_code": "WAFN",
-      "coordinates": "-2.271704, 119.898334"
+      "coordinates": "-2.271704, 119.898334",
+      "metar_available": false
     },
     {
       "ident": "WAFP",
@@ -4834,7 +5251,8 @@
       "municipality": "Poso-Celebes Island",
       "gps_code": "WAFP",
       "iata_code": "PSJ",
-      "coordinates": "-1.414121, 120.659241"
+      "coordinates": "-1.414121, 120.659241",
+      "metar_available": false
     },
     {
       "ident": "WAFS",
@@ -4846,7 +5264,8 @@
       "iso_region": "ID-SR",
       "municipality": "Sumarorong",
       "gps_code": "WAFS",
-      "coordinates": "-3.150399, 119.302277"
+      "coordinates": "-3.150399, 119.302277",
+      "metar_available": false
     },
     {
       "ident": "WAFU",
@@ -4859,7 +5278,8 @@
       "municipality": "Tojo Una-Una",
       "gps_code": "WAFU",
       "iata_code": "OJU",
-      "coordinates": "-0.865437, 121.628625"
+      "coordinates": "-0.865437, 121.628625",
+      "metar_available": false
     },
     {
       "ident": "WAFW",
@@ -4872,7 +5292,8 @@
       "municipality": "Luwok",
       "gps_code": "WAFW",
       "iata_code": "LUW",
-      "coordinates": "-1.035893, 122.773934"
+      "coordinates": "-1.035893, 122.773934",
+      "metar_available": false
     },
     {
       "ident": "WAFZ",
@@ -4883,7 +5304,8 @@
       "iso_region": "ID-GO",
       "municipality": "Pohuwato",
       "gps_code": "WAFZ",
-      "coordinates": "0.461782, 121.814668"
+      "coordinates": "0.461782, 121.814668",
+      "metar_available": false
     },
     {
       "ident": "WAGB",
@@ -4896,7 +5318,8 @@
       "municipality": "Muara Teweh",
       "gps_code": "WAGB",
       "iata_code": "HMS",
-      "coordinates": "-1.02581, 114.92881"
+      "coordinates": "-1.02581, 114.92881",
+      "metar_available": false
     },
     {
       "ident": "WAGF",
@@ -4909,7 +5332,8 @@
       "municipality": "Seruyan",
       "gps_code": "WAGF",
       "iata_code": "KLP",
-      "coordinates": "-3.376062, 112.536521"
+      "coordinates": "-3.376062, 112.536521",
+      "metar_available": false
     },
     {
       "ident": "WAGG",
@@ -4922,7 +5346,8 @@
       "municipality": "Palangkaraya",
       "gps_code": "WAGG",
       "iata_code": "PKY",
-      "coordinates": "-2.22513, 113.943001"
+      "coordinates": "-2.22513, 113.943001",
+      "metar_available": false
     },
     {
       "ident": "WAGL",
@@ -4934,7 +5359,8 @@
       "iso_region": "ID-KI",
       "municipality": "Long Apar",
       "gps_code": "WAGL",
-      "coordinates": "3.083333, 116.433333"
+      "coordinates": "3.083333, 116.433333",
+      "metar_available": false
     },
     {
       "ident": "WAGP",
@@ -4945,7 +5371,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KT",
       "gps_code": "WAGP",
-      "coordinates": "-0.688364, 114.444658"
+      "coordinates": "-0.688364, 114.444658",
+      "metar_available": false
     },
     {
       "ident": "WAHI",
@@ -4958,7 +5385,8 @@
       "municipality": "Yogyakarta",
       "gps_code": "WAHI",
       "iata_code": "YIA",
-      "coordinates": "-7.905338, 110.057264"
+      "coordinates": "-7.905338, 110.057264",
+      "metar_available": false
     },
     {
       "ident": "WAHL",
@@ -4971,7 +5399,8 @@
       "municipality": "Cilacap",
       "gps_code": "WAHL",
       "iata_code": "CXP",
-      "coordinates": "-7.64506, 109.033997"
+      "coordinates": "-7.64506, 109.033997",
+      "metar_available": false
     },
     {
       "ident": "WAHP",
@@ -4984,7 +5413,8 @@
       "municipality": "Purwokerto-Java Island",
       "gps_code": "WAHP",
       "iata_code": "PWL",
-      "coordinates": "-7.461342, 109.414612"
+      "coordinates": "-7.461342, 109.414612",
+      "metar_available": false
     },
     {
       "ident": "WAHU",
@@ -4997,7 +5427,8 @@
       "municipality": "Karimunjawa",
       "gps_code": "WAHU",
       "iata_code": "KWB",
-      "coordinates": "-5.80091, 110.47838"
+      "coordinates": "-5.80091, 110.47838",
+      "metar_available": false
     },
     {
       "ident": "WAJB",
@@ -5010,7 +5441,8 @@
       "municipality": "Bokondini",
       "gps_code": "WAJB",
       "iata_code": "BUI",
-      "coordinates": "-3.68455, 138.677437"
+      "coordinates": "-3.68455, 138.677437",
+      "metar_available": false
     },
     {
       "ident": "WAJC",
@@ -5023,7 +5455,8 @@
       "municipality": "Dabra",
       "gps_code": "WAJC",
       "iata_code": "DRH",
-      "coordinates": "-3.27061, 138.613433"
+      "coordinates": "-3.27061, 138.613433",
+      "metar_available": false
     },
     {
       "ident": "WAJD",
@@ -5035,7 +5468,8 @@
       "iso_region": "ID-PA",
       "municipality": "Masi Masi Island",
       "gps_code": "WAJD",
-      "coordinates": "-1.935289978981018, 139.02000427246094"
+      "coordinates": "-1.935289978981018, 139.02000427246094",
+      "metar_available": false
     },
     {
       "ident": "WAJG",
@@ -5048,7 +5482,8 @@
       "municipality": "Batom",
       "gps_code": "WAJG",
       "iata_code": "BXM",
-      "coordinates": "-4.442687, 140.883565"
+      "coordinates": "-4.442687, 140.883565",
+      "metar_available": false
     },
     {
       "ident": "WAJI",
@@ -5061,7 +5496,8 @@
       "municipality": "Sarmi",
       "gps_code": "WAJI",
       "iata_code": "ZRM",
-      "coordinates": "-1.873077, 138.753275"
+      "coordinates": "-1.873077, 138.753275",
+      "metar_available": false
     },
     {
       "ident": "WAJJ",
@@ -5074,7 +5510,8 @@
       "municipality": "Sentani",
       "gps_code": "WAJJ",
       "iata_code": "DJJ",
-      "coordinates": "-2.579627, 140.519857"
+      "coordinates": "-2.579627, 140.519857",
+      "metar_available": false
     },
     {
       "ident": "WAJK",
@@ -5086,7 +5523,8 @@
       "iso_region": "ID-PP",
       "municipality": "Kiwirok",
       "gps_code": "WAJK",
-      "coordinates": "-4.713481, 140.740271"
+      "coordinates": "-4.713481, 140.740271",
+      "metar_available": false
     },
     {
       "ident": "WAJL",
@@ -5099,7 +5537,8 @@
       "municipality": "Lereh-Papua Island",
       "gps_code": "WAJL",
       "iata_code": "LHI",
-      "coordinates": "-3.0795, 139.952"
+      "coordinates": "-3.0795, 139.952",
+      "metar_available": false
     },
     {
       "ident": "WAJM",
@@ -5112,7 +5551,8 @@
       "municipality": "Mulia-Papua Island",
       "gps_code": "WAVA",
       "iata_code": "LII",
-      "coordinates": "-3.701938, 137.957"
+      "coordinates": "-3.701938, 137.957",
+      "metar_available": false
     },
     {
       "ident": "WAJO",
@@ -5125,7 +5565,8 @@
       "municipality": "Oksibil",
       "gps_code": "WAJO",
       "iata_code": "OKL",
-      "coordinates": "-4.9071, 140.6277"
+      "coordinates": "-4.9071, 140.6277",
+      "metar_available": false
     },
     {
       "ident": "WAJS",
@@ -5138,7 +5579,8 @@
       "municipality": "Senggeh",
       "gps_code": "WAJS",
       "iata_code": "SEH",
-      "coordinates": "-3.442448, 140.778079"
+      "coordinates": "-3.442448, 140.778079",
+      "metar_available": false
     },
     {
       "ident": "WAJY",
@@ -5150,7 +5592,8 @@
       "iso_region": "ID-PB",
       "municipality": "Mar",
       "gps_code": "WAUE",
-      "coordinates": "-0.420096, 132.1886"
+      "coordinates": "-0.420096, 132.1886",
+      "metar_available": false
     },
     {
       "ident": "WAKD",
@@ -5163,7 +5606,8 @@
       "municipality": "Mindiptana-Papua Island",
       "gps_code": "WAKD",
       "iata_code": "MDP",
-      "coordinates": "-5.876929, 140.70946"
+      "coordinates": "-5.876929, 140.70946",
+      "metar_available": false
     },
     {
       "ident": "WAKE",
@@ -5176,7 +5620,8 @@
       "municipality": "Bade",
       "gps_code": "WAKE",
       "iata_code": "BXD",
-      "coordinates": "-7.175902, 139.58333"
+      "coordinates": "-7.175902, 139.58333",
+      "metar_available": false
     },
     {
       "ident": "WAKG",
@@ -5188,7 +5633,8 @@
       "iso_region": "ID-PS",
       "municipality": "Agats",
       "gps_code": "WAKG",
-      "coordinates": "-5.543288, 138.134911"
+      "coordinates": "-5.543288, 138.134911",
+      "metar_available": false
     },
     {
       "ident": "WAKK",
@@ -5201,7 +5647,8 @@
       "municipality": "Merauke",
       "gps_code": "WAKK",
       "iata_code": "MKQ",
-      "coordinates": "-8.523898, 140.419693"
+      "coordinates": "-8.523898, 140.419693",
+      "metar_available": false
     },
     {
       "ident": "WAKL",
@@ -5214,7 +5661,8 @@
       "municipality": "Bomakia",
       "gps_code": "WAKL",
       "local_code": "BXG",
-      "coordinates": "-5.806483, 139.867647"
+      "coordinates": "-5.806483, 139.867647",
+      "metar_available": false
     },
     {
       "ident": "WAKM",
@@ -5227,7 +5675,8 @@
       "municipality": "Kamur",
       "gps_code": "WAKM",
       "iata_code": "KCD",
-      "coordinates": "-6.1851, 138.6372"
+      "coordinates": "-6.1851, 138.6372",
+      "metar_available": false
     },
     {
       "ident": "WAKO",
@@ -5240,7 +5689,8 @@
       "municipality": "Okaba",
       "gps_code": "WAKO",
       "iata_code": "OKQ",
-      "coordinates": "-8.0946, 139.7233"
+      "coordinates": "-8.0946, 139.7233",
+      "metar_available": false
     },
     {
       "ident": "WAKP",
@@ -5253,7 +5703,8 @@
       "municipality": "Kepi",
       "gps_code": "WAKP",
       "iata_code": "KEI",
-      "coordinates": "-6.5418, 139.3318"
+      "coordinates": "-6.5418, 139.3318",
+      "metar_available": false
     },
     {
       "ident": "WAKQ",
@@ -5266,7 +5717,8 @@
       "municipality": "Senggo-Papua Island",
       "gps_code": "WAKQ",
       "iata_code": "ZEG",
-      "coordinates": "-5.6908, 139.3502"
+      "coordinates": "-5.6908, 139.3502",
+      "metar_available": false
     },
     {
       "ident": "WAKT",
@@ -5279,7 +5731,8 @@
       "municipality": "Tanah Merah",
       "gps_code": "WAKT",
       "iata_code": "TMH",
-      "coordinates": "-6.09669, 140.303521"
+      "coordinates": "-6.09669, 140.303521",
+      "metar_available": false
     },
     {
       "ident": "WALE",
@@ -5292,7 +5745,8 @@
       "municipality": "Melak-Borneo Island",
       "gps_code": "WALE",
       "iata_code": "GHS",
-      "coordinates": "-0.203611, 115.760002"
+      "coordinates": "-0.203611, 115.760002",
+      "metar_available": false
     },
     {
       "ident": "WALG",
@@ -5305,7 +5759,8 @@
       "municipality": "Tanjung Selor-Borneo Island",
       "gps_code": "WAQD",
       "iata_code": "TJS",
-      "coordinates": "2.835833, 117.373611"
+      "coordinates": "2.835833, 117.373611",
+      "metar_available": false
     },
     {
       "ident": "WALJ",
@@ -5318,7 +5773,8 @@
       "municipality": "Datadawai-Borneo Island",
       "gps_code": "WALJ",
       "iata_code": "DTD",
-      "coordinates": "0.807028, 114.529052"
+      "coordinates": "0.807028, 114.529052",
+      "metar_available": false
     },
     {
       "ident": "WALK",
@@ -5330,7 +5786,8 @@
       "iso_region": "ID-KI",
       "municipality": "Nusantara",
       "gps_code": "WALK",
-      "coordinates": "-1.158611, 116.708054"
+      "coordinates": "-1.158611, 116.708054",
+      "metar_available": false
     },
     {
       "ident": "WALL",
@@ -5343,7 +5800,8 @@
       "municipality": "Balikpapan",
       "gps_code": "WALL",
       "iata_code": "BPN",
-      "coordinates": "-1.268342, 116.89452"
+      "coordinates": "-1.268342, 116.89452",
+      "metar_available": false
     },
     {
       "ident": "WALQ",
@@ -5355,7 +5813,8 @@
       "iso_region": "ID-KI",
       "municipality": "Muara Badak-Borneo Island",
       "gps_code": "WALQ",
-      "coordinates": "-0.306075, 117.416"
+      "coordinates": "-0.306075, 117.416",
+      "metar_available": false
     },
     {
       "ident": "WALR",
@@ -5369,7 +5828,8 @@
       "gps_code": "WAQQ",
       "iata_code": "TRK",
       "local_code": "TRK",
-      "coordinates": "3.325145, 117.564169"
+      "coordinates": "3.325145, 117.564169",
+      "metar_available": false
     },
     {
       "ident": "WALS",
@@ -5382,7 +5842,8 @@
       "municipality": "Samarinda",
       "gps_code": "WALS",
       "iata_code": "AAP",
-      "coordinates": "-0.374478, 117.250128"
+      "coordinates": "-0.374478, 117.250128",
+      "metar_available": false
     },
     {
       "ident": "WALT",
@@ -5395,7 +5856,8 @@
       "municipality": "Santan-Borneo Island",
       "gps_code": "WALT",
       "iata_code": "TSX",
-      "coordinates": "-0.0929730013013, 117.45300293"
+      "coordinates": "-0.0929730013013, 117.45300293",
+      "metar_available": false
     },
     {
       "ident": "WALV",
@@ -5408,7 +5870,8 @@
       "municipality": "Bunju Island",
       "gps_code": "WAQB",
       "iata_code": "BYQ",
-      "coordinates": "3.45572, 117.866997"
+      "coordinates": "3.45572, 117.866997",
+      "metar_available": false
     },
     {
       "ident": "WALX",
@@ -5420,7 +5883,8 @@
       "iso_region": "ID-KI",
       "municipality": "Mangkajang-Borneo Island",
       "gps_code": "WAQK",
-      "coordinates": "2.00751, 117.749001"
+      "coordinates": "2.00751, 117.749001",
+      "metar_available": false
     },
     {
       "ident": "WAMA",
@@ -5433,7 +5897,8 @@
       "municipality": "Galela-Celebes Island",
       "gps_code": "WAEG",
       "iata_code": "GLX",
-      "coordinates": "1.83833, 127.786003"
+      "coordinates": "1.83833, 127.786003",
+      "metar_available": false
     },
     {
       "ident": "WAMD",
@@ -5445,7 +5910,8 @@
       "iso_region": "ID-MU",
       "municipality": "Kuripasai-Celebes Island",
       "gps_code": "WAMD",
-      "coordinates": "1.1169999837875366, 127.48300170898438"
+      "coordinates": "1.1169999837875366, 127.48300170898438",
+      "metar_available": false
     },
     {
       "ident": "WAME",
@@ -5458,7 +5924,8 @@
       "municipality": "Pekaulang",
       "gps_code": "WAEM",
       "iata_code": "PGQ",
-      "coordinates": "0.917144, 128.382116"
+      "coordinates": "0.917144, 128.382116",
+      "metar_available": false
     },
     {
       "ident": "WAMG",
@@ -5471,7 +5938,8 @@
       "municipality": "Gorontalo-Celebes Island",
       "gps_code": "WAMG",
       "iata_code": "GTO",
-      "coordinates": "0.63711899519, 122.849998474"
+      "coordinates": "0.63711899519, 122.849998474",
+      "metar_available": false
     },
     {
       "ident": "WAMH",
@@ -5484,7 +5952,8 @@
       "municipality": "Tabukan Utara, Sangihe Islands",
       "gps_code": "WAMH",
       "iata_code": "NAH",
-      "coordinates": "3.68478, 125.527162"
+      "coordinates": "3.68478, 125.527162",
+      "metar_available": false
     },
     {
       "ident": "WAMI",
@@ -5497,7 +5966,8 @@
       "municipality": "Lolak",
       "gps_code": "WAMI",
       "iata_code": "LKM",
-      "coordinates": "0.88855, 124.033634"
+      "coordinates": "0.88855, 124.033634",
+      "metar_available": false
     },
     {
       "ident": "WAMJ",
@@ -5510,7 +5980,8 @@
       "municipality": "Gebe Island",
       "gps_code": "WAMJ",
       "iata_code": "GEB",
-      "coordinates": "-0.078889, 129.457993"
+      "coordinates": "-0.078889, 129.457993",
+      "metar_available": false
     },
     {
       "ident": "WAMK",
@@ -5523,7 +5994,8 @@
       "municipality": "Kao-Celebes Island",
       "gps_code": "WAEK",
       "iata_code": "KAZ",
-      "coordinates": "1.18528, 127.896004"
+      "coordinates": "1.18528, 127.896004",
+      "metar_available": false
     },
     {
       "ident": "WAMM",
@@ -5536,7 +6008,8 @@
       "municipality": "Manado",
       "gps_code": "WAMM",
       "iata_code": "MDC",
-      "coordinates": "1.549266, 124.926319"
+      "coordinates": "1.549266, 124.926319",
+      "metar_available": false
     },
     {
       "ident": "WAMN",
@@ -5549,7 +6022,8 @@
       "municipality": "Karakelong Island",
       "gps_code": "WAMN",
       "iata_code": "MNA",
-      "coordinates": "4.00694, 126.672997"
+      "coordinates": "4.00694, 126.672997",
+      "metar_available": false
     },
     {
       "ident": "WAMO",
@@ -5562,7 +6036,8 @@
       "municipality": "Balirangen",
       "gps_code": "WAMO",
       "iata_code": "BRG",
-      "coordinates": "2.648591, 125.423301"
+      "coordinates": "2.648591, 125.423301",
+      "metar_available": false
     },
     {
       "ident": "WAMP",
@@ -5575,7 +6050,8 @@
       "municipality": "Morowali",
       "gps_code": "WAMP",
       "iata_code": "MWS",
-      "coordinates": "-2.799322, 122.141385"
+      "coordinates": "-2.799322, 122.141385",
+      "metar_available": false
     },
     {
       "ident": "WAMS",
@@ -5588,7 +6064,8 @@
       "municipality": "Miangas",
       "gps_code": "WAMS",
       "iata_code": "IAX",
-      "coordinates": "5.560419, 126.580095"
+      "coordinates": "5.560419, 126.580095",
+      "metar_available": false
     },
     {
       "ident": "WAMU",
@@ -5600,7 +6077,8 @@
       "iso_region": "ID-ST",
       "municipality": "Wuasa-Celebes Island",
       "gps_code": "WAMU",
-      "coordinates": "-1.4249999523162842, 120.31639099121094"
+      "coordinates": "-1.4249999523162842, 120.31639099121094",
+      "metar_available": false
     },
     {
       "ident": "WAMY",
@@ -5613,7 +6091,8 @@
       "municipality": "Buol-Celebes Island",
       "gps_code": "WAFY",
       "iata_code": "UOL",
-      "coordinates": "1.102318, 121.413358"
+      "coordinates": "1.102318, 121.413358",
+      "metar_available": false
     },
     {
       "ident": "WAOC",
@@ -5626,7 +6105,8 @@
       "municipality": "Batu Licin",
       "gps_code": "WAOC",
       "iata_code": "BTW",
-      "coordinates": "-3.41241, 115.995003"
+      "coordinates": "-3.41241, 115.995003",
+      "metar_available": false
     },
     {
       "ident": "WAOG",
@@ -5638,7 +6118,8 @@
       "iso_region": "ID-KS",
       "municipality": "Sekapung, Kotabaru",
       "gps_code": "WAOG",
-      "coordinates": "-3.626954, 116.370352"
+      "coordinates": "-3.626954, 116.370352",
+      "metar_available": false
     },
     {
       "ident": "WAOH",
@@ -5650,7 +6131,8 @@
       "iso_region": "ID-KS",
       "municipality": "Mekar Putih, Kotabaru",
       "gps_code": "WAOH",
-      "coordinates": "-3.989646, 116.101499"
+      "coordinates": "-3.989646, 116.101499",
+      "metar_available": false
     },
     {
       "ident": "WAOI",
@@ -5663,7 +6145,8 @@
       "municipality": "Pangkalanbun",
       "gps_code": "WAGI",
       "iata_code": "PKN",
-      "coordinates": "-2.7052, 111.672997"
+      "coordinates": "-2.7052, 111.672997",
+      "metar_available": false
     },
     {
       "ident": "WAOK",
@@ -5676,7 +6159,8 @@
       "municipality": "Stagen",
       "gps_code": "WAOK",
       "iata_code": "KBU",
-      "coordinates": "-3.29472, 116.165001"
+      "coordinates": "-3.29472, 116.165001",
+      "metar_available": false
     },
     {
       "ident": "WAON",
@@ -5689,7 +6173,8 @@
       "municipality": "Tanta-Tabalong",
       "gps_code": "WAON",
       "iata_code": "TJG",
-      "coordinates": "-2.21656, 115.435997"
+      "coordinates": "-2.21656, 115.435997",
+      "metar_available": false
     },
     {
       "ident": "WAOO",
@@ -5702,7 +6187,8 @@
       "municipality": "Landasan Ulin",
       "gps_code": "WAOO",
       "iata_code": "BDJ",
-      "coordinates": "-3.44236, 114.763"
+      "coordinates": "-3.44236, 114.763",
+      "metar_available": false
     },
     {
       "ident": "WAOS",
@@ -5715,7 +6201,8 @@
       "municipality": "Sampit",
       "gps_code": "WAGS",
       "iata_code": "SMQ",
-      "coordinates": "-2.499198, 112.974987"
+      "coordinates": "-2.499198, 112.974987",
+      "metar_available": false
     },
     {
       "ident": "WAOT",
@@ -5727,7 +6214,8 @@
       "iso_region": "ID-KS",
       "municipality": "Teluk Kepayang",
       "gps_code": "WAOT",
-      "coordinates": "-3.4203, 115.6867"
+      "coordinates": "-3.4203, 115.6867",
+      "metar_available": false
     },
     {
       "ident": "WAOU",
@@ -5739,7 +6227,8 @@
       "iso_region": "ID-KT",
       "municipality": "Buntok",
       "gps_code": "WAGM",
-      "coordinates": "-1.6693, 114.898003"
+      "coordinates": "-1.6693, 114.898003",
+      "metar_available": false
     },
     {
       "ident": "WAOW",
@@ -5752,7 +6241,8 @@
       "municipality": "Tumbang Samba-Borneo Island",
       "gps_code": "WAOW",
       "iata_code": "TBM",
-      "coordinates": "-1.4694, 113.0833"
+      "coordinates": "-1.4694, 113.0833",
+      "metar_available": false
     },
     {
       "ident": "WAPA",
@@ -5765,7 +6255,8 @@
       "municipality": "Amahai",
       "gps_code": "WAPA",
       "iata_code": "AHI",
-      "coordinates": "-3.347851, 128.927093"
+      "coordinates": "-3.347851, 128.927093",
+      "metar_available": false
     },
     {
       "ident": "WAPB",
@@ -5777,7 +6268,8 @@
       "iso_region": "ID-MA",
       "municipality": "Bula",
       "gps_code": "WAPB",
-      "coordinates": "-3.10996, 130.509995"
+      "coordinates": "-3.10996, 130.509995",
+      "metar_available": false
     },
     {
       "ident": "WAPC",
@@ -5790,7 +6282,8 @@
       "municipality": "Bandanaira",
       "gps_code": "WAPC",
       "iata_code": "NDA",
-      "coordinates": "-4.5214, 129.9054"
+      "coordinates": "-4.5214, 129.9054",
+      "metar_available": false
     },
     {
       "ident": "WAPD",
@@ -5803,7 +6296,8 @@
       "municipality": "Dobo-Warmar Island",
       "gps_code": "WAPD",
       "iata_code": "DOB",
-      "coordinates": "-5.773724, 134.209245"
+      "coordinates": "-5.773724, 134.209245",
+      "metar_available": false
     },
     {
       "ident": "WAPE",
@@ -5816,7 +6310,8 @@
       "municipality": "Mangole Island",
       "gps_code": "WAEO",
       "iata_code": "MAL",
-      "coordinates": "-1.782255, 125.482246"
+      "coordinates": "-1.782255, 125.482246",
+      "metar_available": false
     },
     {
       "ident": "WAPF",
@@ -5829,7 +6324,8 @@
       "municipality": "Langgur",
       "gps_code": "WAPF",
       "iata_code": "LUV",
-      "coordinates": "-5.760278, 132.759444"
+      "coordinates": "-5.760278, 132.759444",
+      "metar_available": false
     },
     {
       "ident": "WAPG",
@@ -5842,7 +6338,8 @@
       "municipality": "Namrole",
       "gps_code": "WAPG",
       "iata_code": "NRE",
-      "coordinates": "-3.85522, 126.700902"
+      "coordinates": "-3.85522, 126.700902",
+      "metar_available": false
     },
     {
       "ident": "WAPH",
@@ -5855,7 +6352,8 @@
       "municipality": "Labuha-Halmahera Island",
       "gps_code": "WAEL",
       "iata_code": "LAH",
-      "coordinates": "-0.635259, 127.501999"
+      "coordinates": "-0.635259, 127.501999",
+      "metar_available": false
     },
     {
       "ident": "WAPI",
@@ -5867,7 +6365,8 @@
       "iso_region": "ID-MA",
       "municipality": "Saumlaki-Yamdena Island",
       "gps_code": "WAPI",
-      "coordinates": "-7.98861, 131.306"
+      "coordinates": "-7.98861, 131.306",
+      "metar_available": false
     },
     {
       "ident": "WAPK",
@@ -5880,7 +6379,8 @@
       "municipality": "Maikoor Island",
       "gps_code": "WAPK",
       "iata_code": "BJK",
-      "coordinates": "-6.06613, 134.273971"
+      "coordinates": "-6.06613, 134.273971",
+      "metar_available": false
     },
     {
       "ident": "WAPL",
@@ -5892,7 +6392,8 @@
       "iso_region": "ID-MA",
       "municipality": "Langgur",
       "gps_code": "WAPL",
-      "coordinates": "-5.66162, 132.731003"
+      "coordinates": "-5.66162, 132.731003",
+      "metar_available": false
     },
     {
       "ident": "WAPN",
@@ -5905,7 +6406,8 @@
       "municipality": "Namniwel",
       "gps_code": "WAPN",
       "iata_code": "NAM",
-      "coordinates": "-3.143159, 126.976469"
+      "coordinates": "-3.143159, 126.976469",
+      "metar_available": false
     },
     {
       "ident": "WAPO",
@@ -5917,7 +6419,8 @@
       "iso_region": "ID-MA",
       "municipality": "Kepulauan Larat",
       "gps_code": "WAPO",
-      "coordinates": "-7.1282, 131.7673"
+      "coordinates": "-7.1282, 131.7673",
+      "metar_available": false
     },
     {
       "ident": "WAPP",
@@ -5930,7 +6433,8 @@
       "municipality": "Ambon",
       "gps_code": "WAPP",
       "iata_code": "AMQ",
-      "coordinates": "-3.71026, 128.089005"
+      "coordinates": "-3.71026, 128.089005",
+      "metar_available": false
     },
     {
       "ident": "WAPR",
@@ -5942,7 +6446,8 @@
       "iso_region": "ID-MA",
       "municipality": "Namlea",
       "gps_code": "WAPR",
-      "coordinates": "-3.236887, 127.100215"
+      "coordinates": "-3.236887, 127.100215",
+      "metar_available": false
     },
     {
       "ident": "WAPT",
@@ -5955,7 +6460,8 @@
       "municipality": "Tikong-Taliabu Island",
       "gps_code": "WAPT",
       "iata_code": "TAX",
-      "coordinates": "-1.6426299810409546, 124.55899810791016"
+      "coordinates": "-1.6426299810409546, 124.55899810791016",
+      "metar_available": false
     },
     {
       "ident": "WAPU",
@@ -5966,7 +6472,8 @@
       "iso_country": "ID",
       "iso_region": "ID-MA",
       "gps_code": "WAPU",
-      "coordinates": "-3.462637, 130.790593"
+      "coordinates": "-3.462637, 130.790593",
+      "metar_available": false
     },
     {
       "ident": "WAPV",
@@ -5979,7 +6486,8 @@
       "municipality": "Wahai",
       "gps_code": "WAPV",
       "iata_code": "WBA",
-      "coordinates": "-2.8114, 129.484"
+      "coordinates": "-2.8114, 129.484",
+      "metar_available": false
     },
     {
       "ident": "WAQC",
@@ -5992,7 +6500,8 @@
       "municipality": "Maratua",
       "gps_code": "WAQC",
       "iata_code": "RTU",
-      "coordinates": "2.19759, 118.599361"
+      "coordinates": "2.19759, 118.599361",
+      "metar_available": false
     },
     {
       "ident": "WAQG",
@@ -6004,7 +6513,8 @@
       "iso_region": "ID-KU",
       "municipality": "Binuang",
       "gps_code": "WAQG",
-      "coordinates": "3.773936, 115.855914"
+      "coordinates": "3.773936, 115.855914",
+      "metar_available": false
     },
     {
       "ident": "WAQM",
@@ -6017,7 +6527,8 @@
       "municipality": "Malinau",
       "gps_code": "WAQM",
       "iata_code": "LNU",
-      "coordinates": "3.575256, 116.619769"
+      "coordinates": "3.575256, 116.619769",
+      "metar_available": false
     },
     {
       "ident": "WAQT",
@@ -6030,7 +6541,8 @@
       "municipality": "Tanjung Redeb - Borneo Island",
       "gps_code": "WAQT",
       "iata_code": "BEJ",
-      "coordinates": "2.14776, 117.430705"
+      "coordinates": "2.14776, 117.430705",
+      "metar_available": false
     },
     {
       "ident": "WAQU",
@@ -6042,7 +6554,8 @@
       "iso_region": "ID-KU",
       "municipality": "Long Layu",
       "gps_code": "WAQU",
-      "coordinates": "3.611585, 115.69921"
+      "coordinates": "3.611585, 115.69921",
+      "metar_available": false
     },
     {
       "ident": "WARA",
@@ -6055,7 +6568,8 @@
       "municipality": "Malang",
       "gps_code": "WARA",
       "iata_code": "MLG",
-      "coordinates": "-7.929099, 112.714233"
+      "coordinates": "-7.929099, 112.714233",
+      "metar_available": false
     },
     {
       "ident": "WARC",
@@ -6068,7 +6582,8 @@
       "municipality": "Blora",
       "gps_code": "WARC",
       "iata_code": "CPF",
-      "coordinates": "-7.195522, 111.545287"
+      "coordinates": "-7.195522, 111.545287",
+      "metar_available": false
     },
     {
       "ident": "WARE",
@@ -6081,7 +6596,8 @@
       "municipality": "Jember",
       "gps_code": "WARE",
       "iata_code": "JBB",
-      "coordinates": "-8.242494, 113.693476"
+      "coordinates": "-8.242494, 113.693476",
+      "metar_available": false
     },
     {
       "ident": "WARI",
@@ -6093,7 +6609,8 @@
       "iso_region": "ID-JI",
       "municipality": "Magetan",
       "gps_code": "WARI",
-      "coordinates": "-7.61577, 111.433998"
+      "coordinates": "-7.61577, 111.433998",
+      "metar_available": false
     },
     {
       "ident": "WARJ",
@@ -6106,7 +6623,8 @@
       "municipality": "Yogyakarta",
       "gps_code": "WAHH",
       "iata_code": "JOG",
-      "coordinates": "-7.78818, 110.431999"
+      "coordinates": "-7.78818, 110.431999",
+      "metar_available": false
     },
     {
       "ident": "WARP",
@@ -6118,7 +6636,8 @@
       "iso_region": "ID-JI",
       "municipality": "Sapeken",
       "gps_code": "WARP",
-      "coordinates": "-6.956515, 115.931107"
+      "coordinates": "-6.956515, 115.931107",
+      "metar_available": false
     },
     {
       "ident": "WARQ",
@@ -6131,7 +6650,8 @@
       "municipality": "Surakarta",
       "gps_code": "WAHQ",
       "iata_code": "SOC",
-      "coordinates": "-7.516044, 110.757492"
+      "coordinates": "-7.516044, 110.757492",
+      "metar_available": false
     },
     {
       "ident": "WARR",
@@ -6144,7 +6664,8 @@
       "municipality": "Surabaya",
       "gps_code": "WARR",
       "iata_code": "SUB",
-      "coordinates": "-7.37983, 112.787003"
+      "coordinates": "-7.37983, 112.787003",
+      "metar_available": false
     },
     {
       "ident": "WARS",
@@ -6157,7 +6678,8 @@
       "municipality": "Semarang",
       "gps_code": "WAHS",
       "iata_code": "SRG",
-      "coordinates": "-6.970732, 110.373244"
+      "coordinates": "-6.970732, 110.373244",
+      "metar_available": false
     },
     {
       "ident": "WART",
@@ -6171,7 +6693,8 @@
       "gps_code": "WART",
       "iata_code": "SUP",
       "local_code": "TRJ",
-      "coordinates": "-7.022391, 113.887699"
+      "coordinates": "-7.022391, 113.887699",
+      "metar_available": false
     },
     {
       "ident": "WARW",
@@ -6184,7 +6707,8 @@
       "municipality": "Bawean",
       "gps_code": "WARW",
       "iata_code": "BXW",
-      "coordinates": "-5.723628, 112.678889"
+      "coordinates": "-5.723628, 112.678889",
+      "metar_available": false
     },
     {
       "ident": "WASA",
@@ -6197,7 +6721,8 @@
       "municipality": "Ayawasi",
       "gps_code": "WASA",
       "iata_code": "AYW",
-      "coordinates": "-1.159779, 132.464082"
+      "coordinates": "-1.159779, 132.464082",
+      "metar_available": false
     },
     {
       "ident": "WASB",
@@ -6210,7 +6735,8 @@
       "municipality": "Bintuni",
       "gps_code": "WAUB",
       "iata_code": "NTI",
-      "coordinates": "-2.1033, 133.5164"
+      "coordinates": "-2.1033, 133.5164",
+      "metar_available": false
     },
     {
       "ident": "WASC",
@@ -6223,7 +6749,8 @@
       "municipality": "Ransiki-Papua Island",
       "gps_code": "WASC",
       "iata_code": "RSK",
-      "coordinates": "-1.496771, 134.175"
+      "coordinates": "-1.496771, 134.175",
+      "metar_available": false
     },
     {
       "ident": "WASE",
@@ -6236,7 +6763,8 @@
       "municipality": "Kebar",
       "gps_code": "WAUK",
       "iata_code": "KEQ",
-      "coordinates": "-0.810418, 133.054937"
+      "coordinates": "-0.810418, 133.054937",
+      "metar_available": false
     },
     {
       "ident": "WASF",
@@ -6249,7 +6777,8 @@
       "municipality": "Fakfak",
       "gps_code": "WASF",
       "iata_code": "FKQ",
-      "coordinates": "-2.920508, 132.267011"
+      "coordinates": "-2.920508, 132.267011",
+      "metar_available": false
     },
     {
       "ident": "WASI",
@@ -6262,7 +6791,8 @@
       "municipality": "Inanwatan",
       "gps_code": "WASI",
       "iata_code": "INX",
-      "coordinates": "-2.127447, 132.160056"
+      "coordinates": "-2.127447, 132.160056",
+      "metar_available": false
     },
     {
       "ident": "WASK",
@@ -6275,7 +6805,8 @@
       "municipality": "Kaimana",
       "gps_code": "WASK",
       "iata_code": "KNG",
-      "coordinates": "-3.6446, 133.695116"
+      "coordinates": "-3.6446, 133.695116",
+      "metar_available": false
     },
     {
       "ident": "WASM",
@@ -6288,7 +6819,8 @@
       "municipality": "Merdei-Papua Island",
       "gps_code": "WAUM",
       "iata_code": "RDE",
-      "coordinates": "-1.591154, 133.295867"
+      "coordinates": "-1.591154, 133.295867",
+      "metar_available": false
     },
     {
       "ident": "WASN",
@@ -6301,7 +6833,8 @@
       "municipality": "Waisai",
       "gps_code": "WASN",
       "iata_code": "RJM",
-      "coordinates": "-0.423056, 130.773333"
+      "coordinates": "-0.423056, 130.773333",
+      "metar_available": false
     },
     {
       "ident": "WASO",
@@ -6314,7 +6847,8 @@
       "municipality": "Babo",
       "gps_code": "WASO",
       "iata_code": "BXB",
-      "coordinates": "-2.53224, 133.438995"
+      "coordinates": "-2.53224, 133.438995",
+      "metar_available": false
     },
     {
       "ident": "WASR",
@@ -6327,7 +6861,8 @@
       "municipality": "Manokwari",
       "gps_code": "WAUU",
       "iata_code": "MKW",
-      "coordinates": "-0.891833, 134.048996"
+      "coordinates": "-0.891833, 134.048996",
+      "metar_available": false
     },
     {
       "ident": "WASS",
@@ -6340,7 +6875,8 @@
       "municipality": "Sorong",
       "gps_code": "WASS",
       "iata_code": "SOQ",
-      "coordinates": "-0.894, 131.287"
+      "coordinates": "-0.894, 131.287",
+      "metar_available": false
     },
     {
       "ident": "WAST",
@@ -6353,7 +6889,8 @@
       "municipality": "Atinjoe",
       "gps_code": "WAST",
       "iata_code": "TXM",
-      "coordinates": "-1.44545, 132.021139"
+      "coordinates": "-1.44545, 132.021139",
+      "metar_available": false
     },
     {
       "ident": "WASU",
@@ -6366,7 +6903,8 @@
       "municipality": "Kambuaya-Papua Island",
       "gps_code": "WASU",
       "iata_code": "KBX",
-      "coordinates": "-1.316815, 132.286987"
+      "coordinates": "-1.316815, 132.286987",
+      "metar_available": false
     },
     {
       "ident": "WASW",
@@ -6379,7 +6917,8 @@
       "municipality": "Wasior",
       "gps_code": "WASW",
       "iata_code": "WSR",
-      "coordinates": "-2.720434, 134.505902"
+      "coordinates": "-2.720434, 134.505902",
+      "metar_available": false
     },
     {
       "ident": "WATA",
@@ -6392,7 +6931,8 @@
       "municipality": "Atambua",
       "gps_code": "WATA",
       "iata_code": "ABU",
-      "coordinates": "-9.074841, 124.903285"
+      "coordinates": "-9.074841, 124.903285",
+      "metar_available": false
     },
     {
       "ident": "WATB",
@@ -6405,7 +6945,8 @@
       "municipality": "Soa, Ngada",
       "gps_code": "WATB",
       "iata_code": "BJW",
-      "coordinates": "-8.70777, 121.058243"
+      "coordinates": "-8.70777, 121.058243",
+      "metar_available": false
     },
     {
       "ident": "WATC",
@@ -6418,7 +6959,8 @@
       "municipality": "Waioti",
       "gps_code": "WATC",
       "iata_code": "MOF",
-      "coordinates": "-8.639514, 122.238135"
+      "coordinates": "-8.639514, 122.238135",
+      "metar_available": false
     },
     {
       "ident": "WATE",
@@ -6431,7 +6973,8 @@
       "municipality": "Ende",
       "gps_code": "WATE",
       "iata_code": "ENE",
-      "coordinates": "-8.849114, 121.66101"
+      "coordinates": "-8.849114, 121.66101",
+      "metar_available": false
     },
     {
       "ident": "WATG",
@@ -6444,7 +6987,8 @@
       "municipality": "Satar Tacik, Manggarai",
       "gps_code": "WATG",
       "iata_code": "RTG",
-      "coordinates": "-8.596171, 120.478177"
+      "coordinates": "-8.596171, 120.478177",
+      "metar_available": false
     },
     {
       "ident": "WATL",
@@ -6457,7 +7001,8 @@
       "municipality": "Tiwatobi",
       "gps_code": "WATL",
       "iata_code": "LKA",
-      "coordinates": "-8.274424, 123.002"
+      "coordinates": "-8.274424, 123.002",
+      "metar_available": false
     },
     {
       "ident": "WATM",
@@ -6470,7 +7015,8 @@
       "municipality": "Kabola",
       "gps_code": "WATM",
       "iata_code": "ARD",
-      "coordinates": "-8.13234, 124.597"
+      "coordinates": "-8.13234, 124.597",
+      "metar_available": false
     },
     {
       "ident": "WATO",
@@ -6483,7 +7029,8 @@
       "municipality": "Labuan Bajo, Manggarai Barat",
       "gps_code": "WATO",
       "iata_code": "LBJ",
-      "coordinates": "-8.480694, 119.888306"
+      "coordinates": "-8.480694, 119.888306",
+      "metar_available": false
     },
     {
       "ident": "WATQ",
@@ -6496,7 +7043,8 @@
       "municipality": "Pur-Pura",
       "gps_code": "WATQ",
       "local_code": "KSX",
-      "coordinates": "-8.015716, 127.200179"
+      "coordinates": "-8.015716, 127.200179",
+      "metar_available": false
     },
     {
       "ident": "WATR",
@@ -6509,7 +7057,8 @@
       "municipality": "Ba'a - Rote Island",
       "gps_code": "WATR",
       "iata_code": "RTI",
-      "coordinates": "-10.7673, 123.0747"
+      "coordinates": "-10.7673, 123.0747",
+      "metar_available": false
     },
     {
       "ident": "WATS",
@@ -6522,7 +7071,8 @@
       "municipality": "Sabu-Sawu Island",
       "gps_code": "WATS",
       "iata_code": "SAU",
-      "coordinates": "-10.4924, 121.8482"
+      "coordinates": "-10.4924, 121.8482",
+      "metar_available": false
     },
     {
       "ident": "WATT",
@@ -6535,7 +7085,8 @@
       "municipality": "Kupang",
       "gps_code": "WATT",
       "iata_code": "KOE",
-      "coordinates": "-10.1716, 123.670998"
+      "coordinates": "-10.1716, 123.670998",
+      "metar_available": false
     },
     {
       "ident": "WATW",
@@ -6548,7 +7099,8 @@
       "municipality": "Lewoleba",
       "gps_code": "WATW",
       "iata_code": "LWE",
-      "coordinates": "-8.361805, 123.438554"
+      "coordinates": "-8.361805, 123.438554",
+      "metar_available": false
     },
     {
       "ident": "WAVV",
@@ -6561,7 +7113,8 @@
       "municipality": "Wamena",
       "gps_code": "WAVV",
       "iata_code": "WMX",
-      "coordinates": "-4.097324, 138.952417"
+      "coordinates": "-4.097324, 138.952417",
+      "metar_available": false
     },
     {
       "ident": "WAWB",
@@ -6574,7 +7127,8 @@
       "municipality": "Bau Bau",
       "gps_code": "WAWB",
       "iata_code": "BUW",
-      "coordinates": "-5.486037, 122.569823"
+      "coordinates": "-5.486037, 122.569823",
+      "metar_available": false
     },
     {
       "ident": "WAWD",
@@ -6587,7 +7141,8 @@
       "municipality": "Wangi-wangi Island",
       "gps_code": "WAWD",
       "iata_code": "WNI",
-      "coordinates": "-5.293996, 123.634"
+      "coordinates": "-5.293996, 123.634",
+      "metar_available": false
     },
     {
       "ident": "WAWH",
@@ -6600,7 +7155,8 @@
       "municipality": "Benteng",
       "gps_code": "WAWH",
       "iata_code": "KSR",
-      "coordinates": "-6.17921, 120.437479"
+      "coordinates": "-6.17921, 120.437479",
+      "metar_available": false
     },
     {
       "ident": "WAWN",
@@ -6613,7 +7169,8 @@
       "municipality": "Bone",
       "gps_code": "WAWN",
       "iata_code": "APD",
-      "coordinates": "-4.459582, 120.310436"
+      "coordinates": "-4.459582, 120.310436",
+      "metar_available": false
     },
     {
       "ident": "WAWP",
@@ -6626,7 +7183,8 @@
       "municipality": "Kolaka",
       "gps_code": "WAWP",
       "iata_code": "KXB",
-      "coordinates": "-4.338158, 121.524047"
+      "coordinates": "-4.338158, 121.524047",
+      "metar_available": false
     },
     {
       "ident": "WAWR",
@@ -6639,7 +7197,8 @@
       "municipality": "Raha",
       "gps_code": "WAWR",
       "iata_code": "RAQ",
-      "coordinates": "-4.763298, 122.566352"
+      "coordinates": "-4.763298, 122.566352",
+      "metar_available": false
     },
     {
       "ident": "WAWS",
@@ -6652,7 +7211,8 @@
       "municipality": "Soroako",
       "gps_code": "WAWS",
       "iata_code": "SQR",
-      "coordinates": "-2.530582, 121.356096"
+      "coordinates": "-2.530582, 121.356096",
+      "metar_available": false
     },
     {
       "ident": "WAWT",
@@ -6665,7 +7225,8 @@
       "municipality": "Makale",
       "gps_code": "WAFT",
       "iata_code": "TTR",
-      "coordinates": "-3.04474, 119.821999"
+      "coordinates": "-3.04474, 119.821999",
+      "metar_available": false
     },
     {
       "ident": "WAWW",
@@ -6678,7 +7239,8 @@
       "municipality": "Kendari",
       "gps_code": "WAWW",
       "iata_code": "KDI",
-      "coordinates": "-4.08161, 122.417999"
+      "coordinates": "-4.08161, 122.417999",
+      "metar_available": false
     },
     {
       "ident": "WAYH",
@@ -6691,7 +7253,8 @@
       "municipality": "Mapenduma",
       "gps_code": "WAYH",
       "local_code": "MAP",
-      "coordinates": "-4.30893, 138.246504"
+      "coordinates": "-4.30893, 138.246504",
+      "metar_available": false
     },
     {
       "ident": "WAYQ",
@@ -6704,7 +7267,8 @@
       "municipality": "Paro",
       "gps_code": "WAYQ",
       "local_code": "PAR",
-      "coordinates": "-4.388644, 138.233939"
+      "coordinates": "-4.388644, 138.233939",
+      "metar_available": false
     },
     {
       "ident": "WAYU",
@@ -6717,7 +7281,8 @@
       "municipality": "Wangbe",
       "gps_code": "WAYU",
       "local_code": "WBG",
-      "coordinates": "-3.868616, 137.468316"
+      "coordinates": "-3.868616, 137.468316",
+      "metar_available": false
     },
     {
       "ident": "WI1B",
@@ -6728,7 +7293,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Bandung",
-      "coordinates": "-6.903611, 107.475556"
+      "coordinates": "-6.903611, 107.475556",
+      "metar_available": false
     },
     {
       "ident": "WI1C",
@@ -6739,7 +7305,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JB",
       "municipality": "Rumpin",
-      "coordinates": "-6.371861, 106.621861"
+      "coordinates": "-6.371861, 106.621861",
+      "metar_available": false
     },
     {
       "ident": "WI1G",
@@ -6752,7 +7319,8 @@
       "municipality": "Gunung Kidul",
       "gps_code": "WI1G",
       "local_code": "WI1G",
-      "coordinates": "-7.916865, 110.565354"
+      "coordinates": "-7.916865, 110.565354",
+      "metar_available": false
     },
     {
       "ident": "WIAG",
@@ -6764,7 +7332,8 @@
       "iso_region": "ID-LA",
       "municipality": "Menggala-Sumatra Island",
       "gps_code": "WIPM",
-      "coordinates": "-4.48943996429, 105.217002869"
+      "coordinates": "-4.48943996429, 105.217002869",
+      "metar_available": false
     },
     {
       "ident": "WIAJ",
@@ -6776,7 +7345,8 @@
       "iso_region": "ID-JB",
       "municipality": "Bogor",
       "gps_code": "WIHJ",
-      "coordinates": "-6.540278, 106.755278"
+      "coordinates": "-6.540278, 106.755278",
+      "metar_available": false
     },
     {
       "ident": "WIAK",
@@ -6788,7 +7358,8 @@
       "iso_region": "ID-JB",
       "municipality": "Bandung-Java Island",
       "gps_code": "WICK",
-      "coordinates": "-6.98277997971, 107.572998047"
+      "coordinates": "-6.98277997971, 107.572998047",
+      "metar_available": false
     },
     {
       "ident": "WIBB",
@@ -6801,7 +7372,8 @@
       "municipality": "Pekanbaru",
       "gps_code": "WIBB",
       "iata_code": "PKU",
-      "coordinates": "0.458647, 101.444321"
+      "coordinates": "0.458647, 101.444321",
+      "metar_available": false
     },
     {
       "ident": "WIBD",
@@ -6814,7 +7386,8 @@
       "municipality": "Dumai",
       "gps_code": "WIBD",
       "iata_code": "DUM",
-      "coordinates": "1.609114, 101.433492"
+      "coordinates": "1.609114, 101.433492",
+      "metar_available": false
     },
     {
       "ident": "WIBI",
@@ -6826,7 +7399,8 @@
       "iso_region": "ID-RI",
       "municipality": "Pelangiran",
       "gps_code": "WIBI",
-      "coordinates": "0.218532, 103.163037"
+      "coordinates": "0.218532, 103.163037",
+      "metar_available": false
     },
     {
       "ident": "WIBJ",
@@ -6839,7 +7413,8 @@
       "municipality": "Rengat-Sumatra Island",
       "gps_code": "WIBJ",
       "iata_code": "RGT",
-      "coordinates": "-0.352808, 102.334999"
+      "coordinates": "-0.352808, 102.334999",
+      "metar_available": false
     },
     {
       "ident": "WIBL",
@@ -6851,7 +7426,8 @@
       "iso_region": "ID-RI",
       "municipality": "Pangkalan Kerinci",
       "gps_code": "WIBL",
-      "coordinates": "0.499262, 101.923391"
+      "coordinates": "0.499262, 101.923391",
+      "metar_available": false
     },
     {
       "ident": "WIBS",
@@ -6864,7 +7440,8 @@
       "municipality": "Bengkalis-Sumatra Island",
       "gps_code": "WIBS",
       "iata_code": "SEQ",
-      "coordinates": "1.37, 102.139999"
+      "coordinates": "1.37, 102.139999",
+      "metar_available": false
     },
     {
       "ident": "WIBT",
@@ -6877,7 +7454,8 @@
       "municipality": "Tanjung Balai-Karinmunbesar Island",
       "gps_code": "WIDT",
       "iata_code": "TJB",
-      "coordinates": "1.05287, 103.391517"
+      "coordinates": "1.05287, 103.391517",
+      "metar_available": false
     },
     {
       "ident": "WICA",
@@ -6890,7 +7468,8 @@
       "municipality": "Kertajati",
       "gps_code": "WICA",
       "iata_code": "KJT",
-      "coordinates": "-6.648924, 108.166692"
+      "coordinates": "-6.648924, 108.166692",
+      "metar_available": false
     },
     {
       "ident": "WICB",
@@ -6903,7 +7482,8 @@
       "municipality": "Tangerang-Java Island",
       "gps_code": "WIRR",
       "iata_code": "RTO",
-      "coordinates": "-6.293171, 106.57"
+      "coordinates": "-6.293171, 106.57",
+      "metar_available": false
     },
     {
       "ident": "WICC",
@@ -6916,7 +7496,8 @@
       "municipality": "Bandung",
       "gps_code": "WICC",
       "iata_code": "BDO",
-      "coordinates": "-6.90063, 107.575996"
+      "coordinates": "-6.90063, 107.575996",
+      "metar_available": false
     },
     {
       "ident": "WICD",
@@ -6929,7 +7510,8 @@
       "municipality": "Cirebon-Java Island",
       "gps_code": "WICD",
       "iata_code": "CBN",
-      "coordinates": "-6.757, 108.538849"
+      "coordinates": "-6.757, 108.538849",
+      "metar_available": false
     },
     {
       "ident": "WICM",
@@ -6942,7 +7524,8 @@
       "municipality": "Tasikmalaya-Java Island",
       "gps_code": "WICM",
       "iata_code": "TSY",
-      "coordinates": "-7.3466, 108.246002"
+      "coordinates": "-7.3466, 108.246002",
+      "metar_available": false
     },
     {
       "ident": "WICN",
@@ -6955,7 +7538,8 @@
       "municipality": "Cijulang",
       "gps_code": "WICN",
       "iata_code": "CJN",
-      "coordinates": "-7.719895, 108.488995"
+      "coordinates": "-7.719895, 108.488995",
+      "metar_available": false
     },
     {
       "ident": "WIDB",
@@ -6968,7 +7552,8 @@
       "municipality": "Tambelan",
       "gps_code": "WIDB",
       "iata_code": "TBX",
-      "coordinates": "0.979922, 107.564658"
+      "coordinates": "0.979922, 107.564658",
+      "metar_available": false
     },
     {
       "ident": "WIDD",
@@ -6981,7 +7566,8 @@
       "municipality": "Batam",
       "gps_code": "WIDD",
       "iata_code": "BTH",
-      "coordinates": "1.12103, 104.119003"
+      "coordinates": "1.12103, 104.119003",
+      "metar_available": false
     },
     {
       "ident": "WIDE",
@@ -6994,7 +7580,8 @@
       "municipality": "Pasir Pengarayan",
       "gps_code": "WIBG",
       "iata_code": "PPR",
-      "coordinates": "0.845431, 100.370154"
+      "coordinates": "0.845431, 100.370154",
+      "metar_available": false
     },
     {
       "ident": "WIDL",
@@ -7007,7 +7594,8 @@
       "municipality": "Bukit Padi",
       "gps_code": "WIDL",
       "iata_code": "LMU",
-      "coordinates": "2.96447, 105.75484"
+      "coordinates": "2.96447, 105.75484",
+      "metar_available": false
     },
     {
       "ident": "WIDM",
@@ -7020,7 +7608,8 @@
       "municipality": "Palmatak",
       "gps_code": "WIDM",
       "iata_code": "MWK",
-      "coordinates": "3.34812, 106.258003"
+      "coordinates": "3.34812, 106.258003",
+      "metar_available": false
     },
     {
       "ident": "WIDN",
@@ -7033,7 +7622,8 @@
       "municipality": "Tanjung Pinang-Bintan Island",
       "gps_code": "WIDN",
       "iata_code": "TNJ",
-      "coordinates": "0.92397, 104.53341"
+      "coordinates": "0.92397, 104.53341",
+      "metar_available": false
     },
     {
       "ident": "WIDS",
@@ -7046,7 +7636,8 @@
       "municipality": "Pasirkuning-Singkep Island",
       "gps_code": "WIDS",
       "iata_code": "SIQ",
-      "coordinates": "-0.479611, 104.579498"
+      "coordinates": "-0.479611, 104.579498",
+      "metar_available": false
     },
     {
       "ident": "WIGM",
@@ -7059,7 +7650,8 @@
       "municipality": "Muko Muko",
       "gps_code": "WIGM",
       "iata_code": "MPC",
-      "coordinates": "-2.541058, 101.087651"
+      "coordinates": "-2.541058, 101.087651",
+      "metar_available": false
     },
     {
       "ident": "WIHC",
@@ -7070,7 +7662,8 @@
       "iso_country": "ID",
       "iso_region": "ID-JK",
       "gps_code": "WIHC",
-      "coordinates": "-6.356027, 106.900796"
+      "coordinates": "-6.356027, 106.900796",
+      "metar_available": false
     },
     {
       "ident": "WIHH",
@@ -7083,7 +7676,8 @@
       "municipality": "Jakarta",
       "gps_code": "WIHH",
       "iata_code": "HLP",
-      "coordinates": "-6.266610145568848, 106.89099884033203"
+      "coordinates": "-6.266610145568848, 106.89099884033203",
+      "metar_available": false
     },
     {
       "ident": "WIHP",
@@ -7096,7 +7690,8 @@
       "municipality": "Jakarta",
       "gps_code": "WIHP",
       "iata_code": "PCB",
-      "coordinates": "-6.3369598388671875, 106.76499938964844"
+      "coordinates": "-6.3369598388671875, 106.76499938964844",
+      "metar_available": false
     },
     {
       "ident": "WIII",
@@ -7109,7 +7704,8 @@
       "municipality": "Jakarta",
       "gps_code": "WIII",
       "iata_code": "CGK",
-      "coordinates": "-6.1255698204, 106.65599823"
+      "coordinates": "-6.1255698204, 106.65599823",
+      "metar_available": false
     },
     {
       "ident": "WIIK",
@@ -7121,7 +7717,8 @@
       "iso_region": "ID-JB",
       "municipality": "Kalijati-Java Island",
       "gps_code": "WIHK",
-      "coordinates": "-6.53139019012, 107.658996582"
+      "coordinates": "-6.53139019012, 107.658996582",
+      "metar_available": false
     },
     {
       "ident": "WILL",
@@ -7134,7 +7731,8 @@
       "municipality": "Bandar Lampung",
       "gps_code": "WILL",
       "iata_code": "TKG",
-      "coordinates": "-5.246803, 105.182531"
+      "coordinates": "-5.246803, 105.182531",
+      "metar_available": false
     },
     {
       "ident": "WILP",
@@ -7147,7 +7745,8 @@
       "municipality": "Krui",
       "gps_code": "WILP",
       "iata_code": "TFY",
-      "coordinates": "-5.211562, 103.936501"
+      "coordinates": "-5.211562, 103.936501",
+      "metar_available": false
     },
     {
       "ident": "WIMA",
@@ -7160,7 +7759,8 @@
       "municipality": "Lhok Seumawe-Sumatra Island",
       "gps_code": "WIMA",
       "iata_code": "LSW",
-      "coordinates": "5.22668, 96.950302"
+      "coordinates": "5.22668, 96.950302",
+      "metar_available": false
     },
     {
       "ident": "WIMB",
@@ -7173,7 +7773,8 @@
       "municipality": "Gunungsitoli",
       "gps_code": "WIMB",
       "iata_code": "GNS",
-      "coordinates": "1.16628, 97.704327"
+      "coordinates": "1.16628, 97.704327",
+      "metar_available": false
     },
     {
       "ident": "WIME",
@@ -7186,7 +7787,8 @@
       "municipality": "Padang Sidempuan",
       "gps_code": "WIME",
       "iata_code": "AEG",
-      "coordinates": "1.4001, 99.430496"
+      "coordinates": "1.4001, 99.430496",
+      "metar_available": false
     },
     {
       "ident": "WIMF",
@@ -7198,7 +7800,8 @@
       "municipality": "Mandailing",
       "gps_code": "WIMF",
       "iata_code": "JHN",
-      "coordinates": "0.948056, 99.533333"
+      "coordinates": "0.948056, 99.533333",
+      "metar_available": false
     },
     {
       "ident": "WIMK",
@@ -7211,7 +7814,8 @@
       "municipality": "Medan",
       "gps_code": "WIMK",
       "iata_code": "MES",
-      "coordinates": "3.558425, 98.672275"
+      "coordinates": "3.558425, 98.672275",
+      "metar_available": false
     },
     {
       "ident": "WIMM",
@@ -7224,7 +7828,8 @@
       "municipality": "Beringin",
       "gps_code": "WIMM",
       "iata_code": "KNO",
-      "coordinates": "3.637847, 98.870566"
+      "coordinates": "3.637847, 98.870566",
+      "metar_available": false
     },
     {
       "ident": "WIMN",
@@ -7237,7 +7842,8 @@
       "municipality": "Siborong-Borong",
       "gps_code": "WIMN",
       "iata_code": "DTB",
-      "coordinates": "2.25973, 98.991898"
+      "coordinates": "2.25973, 98.991898",
+      "metar_available": false
     },
     {
       "ident": "WIMP",
@@ -7250,7 +7856,8 @@
       "municipality": "Parapat-Sumatra Island",
       "gps_code": "WIMP",
       "iata_code": "SIW",
-      "coordinates": "2.601967, 98.962381"
+      "coordinates": "2.601967, 98.962381",
+      "metar_available": false
     },
     {
       "ident": "WIMS",
@@ -7263,7 +7870,8 @@
       "municipality": "Sibolga (Pinangsori)",
       "gps_code": "WIMS",
       "iata_code": "FLZ",
-      "coordinates": "1.557127, 98.887145"
+      "coordinates": "1.557127, 98.887145",
+      "metar_available": false
     },
     {
       "ident": "WIMU",
@@ -7276,7 +7884,8 @@
       "municipality": "Kutacane",
       "gps_code": "WIMU",
       "iata_code": "LSR",
-      "coordinates": "3.391456, 97.863726"
+      "coordinates": "3.391456, 97.863726",
+      "metar_available": false
     },
     {
       "ident": "WIOB",
@@ -7288,7 +7897,8 @@
       "iso_region": "ID-KB",
       "municipality": "Bengkayang-Borneo Island",
       "gps_code": "WIOB",
-      "coordinates": "0.8333330154418945, 109.48332977294922"
+      "coordinates": "0.8333330154418945, 109.48332977294922",
+      "metar_available": false
     },
     {
       "ident": "WIOD",
@@ -7301,7 +7911,8 @@
       "municipality": "Tanjung Pandan",
       "gps_code": "WIKT",
       "iata_code": "TJQ",
-      "coordinates": "-2.74572, 107.754997"
+      "coordinates": "-2.74572, 107.754997",
+      "metar_available": false
     },
     {
       "ident": "WIOG",
@@ -7314,7 +7925,8 @@
       "municipality": "Nanga Pinoh-Borneo Island",
       "gps_code": "WIOG",
       "iata_code": "NPO",
-      "coordinates": "-0.34864, 111.746155"
+      "coordinates": "-0.34864, 111.746155",
+      "metar_available": false
     },
     {
       "ident": "WIOH",
@@ -7326,7 +7938,8 @@
       "iso_region": "ID-KB",
       "municipality": "Paloh",
       "gps_code": "WIOH",
-      "coordinates": "1.737455, 109.324002"
+      "coordinates": "1.737455, 109.324002",
+      "metar_available": false
     },
     {
       "ident": "WIOI",
@@ -7338,7 +7951,8 @@
       "iso_region": "ID-KB",
       "municipality": "Sinkawang-Borneo Island",
       "gps_code": "WIOI",
-      "coordinates": "1.0756800174713135, 109.68800354003906"
+      "coordinates": "1.0756800174713135, 109.68800354003906",
+      "metar_available": false
     },
     {
       "ident": "WIOK",
@@ -7351,7 +7965,8 @@
       "municipality": "Ketapang",
       "gps_code": "WIOK",
       "iata_code": "KTG",
-      "coordinates": "-1.817165, 109.963469"
+      "coordinates": "-1.817165, 109.963469",
+      "metar_available": false
     },
     {
       "ident": "WION",
@@ -7364,7 +7979,8 @@
       "municipality": "Ranai-Natuna Besar Island",
       "gps_code": "WIDO",
       "iata_code": "NTX",
-      "coordinates": "3.90871, 108.388"
+      "coordinates": "3.90871, 108.388",
+      "metar_available": false
     },
     {
       "ident": "WIOO",
@@ -7377,7 +7993,8 @@
       "municipality": "Pontianak",
       "gps_code": "WIOO",
       "iata_code": "PNK",
-      "coordinates": "-0.150711, 109.403999"
+      "coordinates": "-0.150711, 109.403999",
+      "metar_available": false
     },
     {
       "ident": "WIOP",
@@ -7390,7 +8007,8 @@
       "municipality": "Putussibau-Borneo Island",
       "gps_code": "WIOP",
       "iata_code": "PSU",
-      "coordinates": "0.834579, 112.940217"
+      "coordinates": "0.834579, 112.940217",
+      "metar_available": false
     },
     {
       "ident": "WIOS",
@@ -7403,7 +8021,8 @@
       "municipality": "Sintang",
       "gps_code": "WIOS",
       "iata_code": "SQG",
-      "coordinates": "-0.045214, 111.458049"
+      "coordinates": "-0.045214, 111.458049",
+      "metar_available": false
     },
     {
       "ident": "WIOV",
@@ -7415,7 +8034,8 @@
       "iso_region": "ID-KB",
       "municipality": "Jagoi",
       "gps_code": "WIOV",
-      "coordinates": "1.340038, 109.911081"
+      "coordinates": "1.340038, 109.911081",
+      "metar_available": false
     },
     {
       "ident": "WIPA",
@@ -7428,7 +8048,8 @@
       "municipality": "Jambi",
       "gps_code": "WIJJ",
       "iata_code": "DJB",
-      "coordinates": "-1.638685, 103.645063"
+      "coordinates": "-1.638685, 103.645063",
+      "metar_available": false
     },
     {
       "ident": "WIPB",
@@ -7442,7 +8063,8 @@
       "gps_code": "WIPB",
       "iata_code": "LLJ",
       "local_code": "LLG",
-      "coordinates": "-3.288165, 102.91449"
+      "coordinates": "-3.288165, 102.91449",
+      "metar_available": false
     },
     {
       "ident": "WIPD",
@@ -7454,7 +8076,8 @@
       "iso_region": "ID-SS",
       "municipality": "Pasar Bandingagung",
       "gps_code": "WIPD",
-      "coordinates": "-4.78702, 103.932999"
+      "coordinates": "-4.78702, 103.932999",
+      "metar_available": false
     },
     {
       "ident": "WIPF",
@@ -7466,7 +8089,8 @@
       "iso_region": "ID-JA",
       "municipality": "Kuala Tungkal-Sumatra Island",
       "gps_code": "WIPF",
-      "coordinates": "-0.8166670203208923, 103.46666717529297"
+      "coordinates": "-0.8166670203208923, 103.46666717529297",
+      "metar_available": false
     },
     {
       "ident": "WIPI",
@@ -7479,7 +8103,8 @@
       "municipality": "Muara Bungo",
       "gps_code": "WIJB",
       "iata_code": "BUU",
-      "coordinates": "-1.541635, 102.181613"
+      "coordinates": "-1.541635, 102.181613",
+      "metar_available": false
     },
     {
       "ident": "WIPK",
@@ -7492,7 +8117,8 @@
       "municipality": "Pangkal Pinang",
       "gps_code": "WIKK",
       "iata_code": "PGK",
-      "coordinates": "-2.1622, 106.139"
+      "coordinates": "-2.1622, 106.139",
+      "metar_available": false
     },
     {
       "ident": "WIPL",
@@ -7505,7 +8131,8 @@
       "municipality": "Bengkulu",
       "gps_code": "WIGG",
       "iata_code": "BKS",
-      "coordinates": "-3.8637, 102.338997"
+      "coordinates": "-3.8637, 102.338997",
+      "metar_available": false
     },
     {
       "ident": "WIPO",
@@ -7517,7 +8144,8 @@
       "iso_region": "ID-LA",
       "municipality": "Batu Raja-Sumatra Island",
       "gps_code": "WIPO",
-      "coordinates": "-4.39177, 104.401001"
+      "coordinates": "-4.39177, 104.401001",
+      "metar_available": false
     },
     {
       "ident": "WIPP",
@@ -7530,7 +8158,8 @@
       "municipality": "Palembang",
       "gps_code": "WIPP",
       "iata_code": "PLM",
-      "coordinates": "-2.897653, 104.698147"
+      "coordinates": "-2.897653, 104.698147",
+      "metar_available": false
     },
     {
       "ident": "WIPQ",
@@ -7543,7 +8172,8 @@
       "municipality": "Talang Gudang-Sumatra Island",
       "gps_code": "WIPQ",
       "iata_code": "PDO",
-      "coordinates": "-3.2860701084136963, 103.87999725341797"
+      "coordinates": "-3.2860701084136963, 103.87999725341797",
+      "metar_available": false
     },
     {
       "ident": "WIPT",
@@ -7556,7 +8186,8 @@
       "municipality": "Padang (Katapiang)",
       "gps_code": "WIEE",
       "iata_code": "PDG",
-      "coordinates": "-0.786917, 100.280998"
+      "coordinates": "-0.786917, 100.280998",
+      "metar_available": false
     },
     {
       "ident": "WIPY",
@@ -7569,7 +8200,8 @@
       "municipality": "Bentayan",
       "gps_code": "WIPY",
       "iata_code": "PXA",
-      "coordinates": "-4.0225, 103.379167"
+      "coordinates": "-4.0225, 103.379167",
+      "metar_available": false
     },
     {
       "ident": "WISA",
@@ -7580,7 +8212,8 @@
       "iso_country": "ID",
       "iso_region": "ID-KB",
       "gps_code": "WISA",
-      "coordinates": "1.000556, 109.046387"
+      "coordinates": "1.000556, 109.046387",
+      "metar_available": false
     },
     {
       "ident": "WITA",
@@ -7593,7 +8226,8 @@
       "municipality": "Tapaktuan",
       "gps_code": "WIMT",
       "iata_code": "TPK",
-      "coordinates": "3.16904, 97.288299"
+      "coordinates": "3.16904, 97.288299",
+      "metar_available": false
     },
     {
       "ident": "WITC",
@@ -7606,7 +8240,8 @@
       "municipality": "Kuala Pesisir",
       "gps_code": "WITC",
       "iata_code": "MEQ",
-      "coordinates": "4.040631, 96.253538"
+      "coordinates": "4.040631, 96.253538",
+      "metar_available": false
     },
     {
       "ident": "WITG",
@@ -7619,7 +8254,8 @@
       "municipality": "Lubang",
       "gps_code": "WIML",
       "iata_code": "LKI",
-      "coordinates": "2.410916, 96.326766"
+      "coordinates": "2.410916, 96.326766",
+      "metar_available": false
     },
     {
       "ident": "WITK",
@@ -7632,7 +8268,8 @@
       "municipality": "Takengon",
       "gps_code": "WITK",
       "iata_code": "TXE",
-      "coordinates": "4.72113, 96.851943"
+      "coordinates": "4.72113, 96.851943",
+      "metar_available": false
     },
     {
       "ident": "WITL",
@@ -7645,7 +8282,8 @@
       "municipality": "Lhok Sukon-Sumatra Island",
       "gps_code": "WITL",
       "iata_code": "LSX",
-      "coordinates": "5.06951, 97.259201"
+      "coordinates": "5.06951, 97.259201",
+      "metar_available": false
     },
     {
       "ident": "WITN",
@@ -7658,7 +8296,8 @@
       "municipality": "Sabang",
       "gps_code": "WITN",
       "iata_code": "SBG",
-      "coordinates": "5.874668, 95.33967"
+      "coordinates": "5.874668, 95.33967",
+      "metar_available": false
     },
     {
       "ident": "WITS",
@@ -7670,7 +8309,8 @@
       "iso_region": "ID-AC",
       "municipality": "Seumayam-Sumatra Island",
       "gps_code": "WITS",
-      "coordinates": "3.75, 96.63333129882812"
+      "coordinates": "3.75, 96.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "WITT",
@@ -7683,7 +8323,8 @@
       "municipality": "Banda Aceh",
       "gps_code": "WITT",
       "iata_code": "BTJ",
-      "coordinates": "5.522872024010001, 95.42063713070002"
+      "coordinates": "5.522872024010001, 95.42063713070002",
+      "metar_available": false
     },
     {
       "ident": "WPAS",
@@ -7696,7 +8337,8 @@
       "municipality": "Saumlaki-Yamdena Island",
       "gps_code": "WAPS",
       "iata_code": "SXK",
-      "coordinates": "-7.848354, 131.337068"
+      "coordinates": "-7.848354, 131.337068",
+      "metar_available": false
     },
     {
       "ident": "WRBU",
@@ -7708,7 +8350,8 @@
       "iso_region": "ID-KT",
       "municipality": "Buntok-Borneo Island",
       "gps_code": "WRBU",
-      "coordinates": "-1.73250997066, 114.838996887"
+      "coordinates": "-1.73250997066, 114.838996887",
+      "metar_available": false
     },
     {
       "ident": "WRKJ",
@@ -7720,7 +8363,8 @@
       "iso_region": "ID-NT",
       "municipality": "Mena-Timor Island",
       "gps_code": "WRKJ",
-      "coordinates": "-9.183889389038086, 124.58916473388672"
+      "coordinates": "-9.183889389038086, 124.58916473388672",
+      "metar_available": false
     },
     {
       "ident": "WRKN",
@@ -7732,7 +8376,8 @@
       "iso_region": "ID-NT",
       "municipality": "Naikliu-Timor Island",
       "gps_code": "WRKN",
-      "coordinates": "-9.49547004699707, 123.79499816894531"
+      "coordinates": "-9.49547004699707, 123.79499816894531",
+      "metar_available": false
     },
     {
       "ident": "WRLA",
@@ -7745,7 +8390,8 @@
       "municipality": "Sanggata/Sangkimah",
       "gps_code": "WALA",
       "iata_code": "SGQ",
-      "coordinates": "0.3847, 117.543"
+      "coordinates": "0.3847, 117.543",
+      "metar_available": false
     },
     {
       "ident": "WRLB",
@@ -7758,7 +8404,8 @@
       "municipality": "Long Bawan",
       "gps_code": "WAQJ",
       "iata_code": "LBW",
-      "coordinates": "3.900495, 115.690089"
+      "coordinates": "3.900495, 115.690089",
+      "metar_available": false
     },
     {
       "ident": "WRLC",
@@ -7771,7 +8418,8 @@
       "municipality": "Bontang-Borneo Island",
       "gps_code": "WALC",
       "iata_code": "BXT",
-      "coordinates": "0.121656, 117.476558"
+      "coordinates": "0.121656, 117.476558",
+      "metar_available": false
     },
     {
       "ident": "WRLF",
@@ -7784,7 +8432,8 @@
       "municipality": "Nunukan-Nunukan Island",
       "gps_code": "WAQA",
       "iata_code": "NNX",
-      "coordinates": "4.134001, 117.669546"
+      "coordinates": "4.134001, 117.669546",
+      "metar_available": false
     },
     {
       "ident": "WRLH",
@@ -7797,7 +8446,8 @@
       "municipality": "Tanah Grogot",
       "gps_code": "WRLH",
       "iata_code": "TNB",
-      "coordinates": "-1.885541, 116.256809"
+      "coordinates": "-1.885541, 116.256809",
+      "metar_available": false
     },
     {
       "ident": "WRLJ",
@@ -7809,7 +8459,8 @@
       "iso_region": "ID-KI",
       "municipality": "Sangata",
       "gps_code": "WALB",
-      "coordinates": "0.5605, 117.64435"
+      "coordinates": "0.5605, 117.64435",
+      "metar_available": false
     },
     {
       "ident": "WRLN",
@@ -7821,7 +8472,8 @@
       "iso_region": "ID-KU",
       "municipality": "Long Mawang-Borneo Island",
       "gps_code": "WALN",
-      "coordinates": "1.7992, 114.9043"
+      "coordinates": "1.7992, 114.9043",
+      "metar_available": false
     },
     {
       "ident": "WRLP",
@@ -7834,7 +8486,8 @@
       "municipality": "Long Apung-Borneo Island",
       "gps_code": "WAQL",
       "iata_code": "LPU",
-      "coordinates": "1.704486, 114.970297"
+      "coordinates": "1.704486, 114.970297",
+      "metar_available": false
     },
     {
       "ident": "WRLU",
@@ -7846,7 +8499,8 @@
       "iso_region": "ID-KI",
       "municipality": "Sangkulirang-Borneo Island",
       "gps_code": "WRLU",
-      "coordinates": "1.00089001656, 117.996002197"
+      "coordinates": "1.00089001656, 117.996002197",
+      "metar_available": false
     },
     {
       "ident": "WRLW",
@@ -7858,7 +8512,8 @@
       "iso_region": "ID-KI",
       "municipality": "Miau Baru",
       "gps_code": "WALW",
-      "coordinates": "1.193225, 116.955886"
+      "coordinates": "1.193225, 116.955886",
+      "metar_available": false
     },
     {
       "ident": "WRLY",
@@ -7870,7 +8525,8 @@
       "iso_region": "ID-KI",
       "municipality": "Senipah",
       "gps_code": "WALY",
-      "coordinates": "-0.975679, 117.147701"
+      "coordinates": "-0.975679, 117.147701",
+      "metar_available": false
     }
   ]
 }

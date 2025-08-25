@@ -2,7 +2,7 @@
   "country_code": "GT",
   "country_name": "Guatemala",
   "total_airports": 70,
-  "last_updated": "2025-08-01T00:18:22.688832",
+  "last_updated": "2025-08-25T10:08:40.830587",
   "types_distribution": {
     "heliport": 2,
     "small_airport": 51,
@@ -19,7 +19,8 @@
       "iso_region": "GT-PE",
       "municipality": "El Mirador",
       "iata_code": "EMR",
-      "coordinates": "17.752077, -89.924916"
+      "coordinates": "17.752077, -89.924916",
+      "metar_available": false
     },
     {
       "ident": "GT-0001",
@@ -31,7 +32,8 @@
       "municipality": "Chiquimula",
       "gps_code": "MGCQ",
       "iata_code": "CIQ",
-      "coordinates": "14.83092, -89.520938"
+      "coordinates": "14.83092, -89.520938",
+      "metar_available": false
     },
     {
       "ident": "GT-0002",
@@ -43,7 +45,8 @@
       "municipality": "Dos Lagunas",
       "gps_code": "MGDL",
       "iata_code": "DON",
-      "coordinates": "17.6124, -89.6884"
+      "coordinates": "17.6124, -89.6884",
+      "metar_available": false
     },
     {
       "ident": "GT-0003",
@@ -54,7 +57,8 @@
       "iso_region": "GT-ES",
       "municipality": "El Naranjo",
       "iata_code": "ENJ",
-      "coordinates": "14.106931, -90.817496"
+      "coordinates": "14.106931, -90.817496",
+      "metar_available": false
     },
     {
       "ident": "GT-0004",
@@ -66,7 +70,8 @@
       "municipality": "Paso Caballos",
       "gps_code": "MGPC",
       "iata_code": "PCG",
-      "coordinates": "17.2639007568, -90.25630187990001"
+      "coordinates": "17.2639007568, -90.25630187990001",
+      "metar_available": false
     },
     {
       "ident": "GT-0005",
@@ -76,7 +81,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "El Naranjo",
-      "coordinates": "17.228442, -90.811659"
+      "coordinates": "17.228442, -90.811659",
+      "metar_available": false
     },
     {
       "ident": "GT-0006",
@@ -86,7 +92,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Tikal",
-      "coordinates": "17.22823, -89.605549"
+      "coordinates": "17.22823, -89.605549",
+      "metar_available": false
     },
     {
       "ident": "GT-0007",
@@ -98,7 +105,8 @@
       "municipality": "Uaxactun",
       "gps_code": "MGUX",
       "iata_code": "UAX",
-      "coordinates": "17.393888, -89.632744"
+      "coordinates": "17.393888, -89.632744",
+      "metar_available": false
     },
     {
       "ident": "GT-0008",
@@ -106,7 +114,8 @@
       "name": "SANTIAGO",
       "iso_country": "GT",
       "iso_region": "GT-SO",
-      "coordinates": "14.609280294500001, -91.24419093130001"
+      "coordinates": "14.609280294500001, -91.24419093130001",
+      "metar_available": false
     },
     {
       "ident": "GT-0009",
@@ -114,7 +123,8 @@
       "name": "Nebaj",
       "iso_country": "GT",
       "iso_region": "GT-QC",
-      "coordinates": "15.447310102700001, -91.162147522"
+      "coordinates": "15.447310102700001, -91.162147522",
+      "metar_available": false
     },
     {
       "ident": "GT-0010",
@@ -123,7 +133,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Chajul",
-      "coordinates": "15.477177, -91.034684"
+      "coordinates": "15.477177, -91.034684",
+      "metar_available": false
     },
     {
       "ident": "GT-0011",
@@ -131,7 +142,8 @@
       "name": "Barillas",
       "iso_country": "GT",
       "iso_region": "GT-HU",
-      "coordinates": "15.8029075281, -91.32273674010001"
+      "coordinates": "15.8029075281, -91.32273674010001",
+      "metar_available": false
     },
     {
       "ident": "GT-0012",
@@ -140,7 +152,8 @@
       "elevation_ft": 5800.0,
       "iso_country": "GT",
       "iso_region": "GT-HU",
-      "coordinates": "15.8162861226, -91.2969017029"
+      "coordinates": "15.8162861226, -91.2969017029",
+      "metar_available": false
     },
     {
       "ident": "GT-0013",
@@ -148,7 +161,8 @@
       "name": "San Luis Ixcan Valle Uno Candelaria",
       "iso_country": "GT",
       "iso_region": "GT-QC",
-      "coordinates": "15.798943330199998, -91.087474823"
+      "coordinates": "15.798943330199998, -91.087474823",
+      "metar_available": false
     },
     {
       "ident": "GT-0014",
@@ -156,7 +170,8 @@
       "name": "Rancho Pal",
       "iso_country": "GT",
       "iso_region": "GT-HU",
-      "coordinates": "15.8751579288, -91.14309310910001"
+      "coordinates": "15.8751579288, -91.14309310910001",
+      "metar_available": false
     },
     {
       "ident": "GT-0015",
@@ -164,7 +179,8 @@
       "name": "Xalbal",
       "iso_country": "GT",
       "iso_region": "GT-QC",
-      "coordinates": "15.8692137295, -90.99838256839999"
+      "coordinates": "15.8692137295, -90.99838256839999",
+      "metar_available": false
     },
     {
       "ident": "GT-0016",
@@ -173,7 +189,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Flore del Norte",
-      "coordinates": "16.0227158087, -91.1113786697"
+      "coordinates": "16.0227158087, -91.1113786697",
+      "metar_available": false
     },
     {
       "ident": "GT-0017",
@@ -182,7 +199,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Los Angeles",
-      "coordinates": "16.043668785199998, -91.06678962710001"
+      "coordinates": "16.043668785199998, -91.06678962710001",
+      "metar_available": false
     },
     {
       "ident": "GT-0018",
@@ -191,7 +209,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Carto Pueblo",
-      "coordinates": "16.0401217826, -90.9766244888"
+      "coordinates": "16.0401217826, -90.9766244888",
+      "metar_available": false
     },
     {
       "ident": "GT-0019",
@@ -200,7 +219,8 @@
       "iso_country": "GT",
       "iso_region": "GT-HU",
       "municipality": "Ixquisis",
-      "coordinates": "16.0622276524, -91.4198112488"
+      "coordinates": "16.0622276524, -91.4198112488",
+      "metar_available": false
     },
     {
       "ident": "GT-0020",
@@ -209,7 +229,8 @@
       "iso_country": "GT",
       "iso_region": "GT-HU",
       "municipality": "Nueva Generación Maya",
-      "coordinates": "15.9803081736, -91.18000030520001"
+      "coordinates": "15.9803081736, -91.18000030520001",
+      "metar_available": false
     },
     {
       "ident": "GT-0021",
@@ -218,7 +239,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Jayabaj",
-      "coordinates": "14.9892915638, -90.7983756065"
+      "coordinates": "14.9892915638, -90.7983756065",
+      "metar_available": false
     },
     {
       "ident": "GT-0022",
@@ -227,7 +249,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Zacualpa",
-      "coordinates": "15.0155103165, -90.8985185623"
+      "coordinates": "15.0155103165, -90.8985185623",
+      "metar_available": false
     },
     {
       "ident": "GT-0023",
@@ -238,7 +261,8 @@
       "iso_region": "GT-QC",
       "municipality": "Canillá",
       "gps_code": "MGCA",
-      "coordinates": "15.170063, -90.858736"
+      "coordinates": "15.170063, -90.858736",
+      "metar_available": false
     },
     {
       "ident": "GT-0024",
@@ -247,7 +271,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "Uspantan",
-      "coordinates": "15.342547366900002, -90.8727264404"
+      "coordinates": "15.342547366900002, -90.8727264404",
+      "metar_available": false
     },
     {
       "ident": "GT-0025",
@@ -258,7 +283,8 @@
       "iso_region": "GT-AV",
       "municipality": "Chisec",
       "gps_code": "MGCS",
-      "coordinates": "15.816203, -90.275688"
+      "coordinates": "15.816203, -90.275688",
+      "metar_available": false
     },
     {
       "ident": "GT-0026",
@@ -267,7 +293,8 @@
       "iso_country": "GT",
       "iso_region": "GT-QC",
       "municipality": "San Pedro Cotija",
-      "coordinates": "15.7038619663, -90.88834762569999"
+      "coordinates": "15.7038619663, -90.88834762569999",
+      "metar_available": false
     },
     {
       "ident": "GT-0027",
@@ -276,7 +303,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Sayaxché",
-      "coordinates": "16.52184, -90.195258"
+      "coordinates": "16.52184, -90.195258",
+      "metar_available": false
     },
     {
       "ident": "GT-0028",
@@ -285,7 +313,8 @@
       "iso_country": "GT",
       "iso_region": "GT-IZ",
       "municipality": "El Estor",
-      "coordinates": "15.517008, -89.368374"
+      "coordinates": "15.517008, -89.368374",
+      "metar_available": false
     },
     {
       "ident": "GT-0029",
@@ -296,7 +325,8 @@
       "iso_region": "GT-RE",
       "municipality": "Champerico",
       "gps_code": "MGCP",
-      "coordinates": "14.30694, -91.89955"
+      "coordinates": "14.30694, -91.89955",
+      "metar_available": false
     },
     {
       "ident": "GT-0030",
@@ -305,7 +335,8 @@
       "iso_country": "GT",
       "iso_region": "GT-ES",
       "municipality": "Tiquisate",
-      "coordinates": "14.26308, -91.35761"
+      "coordinates": "14.26308, -91.35761",
+      "metar_available": false
     },
     {
       "ident": "GT-0031",
@@ -314,7 +345,8 @@
       "iso_country": "GT",
       "iso_region": "GT-ES",
       "municipality": "Tiquisate",
-      "coordinates": "14.27213, -91.34686"
+      "coordinates": "14.27213, -91.34686",
+      "metar_available": false
     },
     {
       "ident": "GT-0032",
@@ -323,7 +355,8 @@
       "iso_country": "GT",
       "iso_region": "GT-SM",
       "municipality": "Ayutla Tecun Uman",
-      "coordinates": "14.61875, -92.15506"
+      "coordinates": "14.61875, -92.15506",
+      "metar_available": false
     },
     {
       "ident": "GT-0033",
@@ -332,7 +365,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Macanche",
-      "coordinates": "16.96356, -89.6214"
+      "coordinates": "16.96356, -89.6214",
+      "metar_available": false
     },
     {
       "ident": "GT-0034",
@@ -341,7 +375,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "La Soledad",
-      "coordinates": "16.22273, -90.36325"
+      "coordinates": "16.22273, -90.36325",
+      "metar_available": false
     },
     {
       "ident": "GT-0035",
@@ -350,7 +385,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Las Pozas",
-      "coordinates": "16.37362, -90.28819"
+      "coordinates": "16.37362, -90.28819",
+      "metar_available": false
     },
     {
       "ident": "GT-0036",
@@ -359,7 +395,8 @@
       "iso_country": "GT",
       "iso_region": "GT-AV",
       "municipality": "Playitas",
-      "coordinates": "16.03465, -90.39241"
+      "coordinates": "16.03465, -90.39241",
+      "metar_available": false
     },
     {
       "ident": "GT-0037",
@@ -369,7 +406,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "El Caoba",
-      "coordinates": "17.038803, -89.647343"
+      "coordinates": "17.038803, -89.647343",
+      "metar_available": false
     },
     {
       "ident": "GT-0038",
@@ -378,7 +416,8 @@
       "elevation_ft": 2359.0,
       "iso_country": "GT",
       "iso_region": "GT-AV",
-      "coordinates": "16.042884, -90.231271"
+      "coordinates": "16.042884, -90.231271",
+      "metar_available": false
     },
     {
       "ident": "GT-0039",
@@ -388,7 +427,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Santa Amelia",
-      "coordinates": "16.231312, -90.025299"
+      "coordinates": "16.231312, -90.025299",
+      "metar_available": false
     },
     {
       "ident": "GT-0040",
@@ -398,7 +438,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Santa Amelia",
-      "coordinates": "16.267003, -90.048838"
+      "coordinates": "16.267003, -90.048838",
+      "metar_available": false
     },
     {
       "ident": "GT-0041",
@@ -408,7 +449,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "La Palma",
-      "coordinates": "16.016901, -89.600801"
+      "coordinates": "16.016901, -89.600801",
+      "metar_available": false
     },
     {
       "ident": "GT-0042",
@@ -418,7 +460,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "San Fernando",
-      "coordinates": "16.775288, -90.770245"
+      "coordinates": "16.775288, -90.770245",
+      "metar_available": false
     },
     {
       "ident": "GT-0043",
@@ -428,7 +471,8 @@
       "iso_country": "GT",
       "iso_region": "GT-PE",
       "municipality": "Melchor de Mencos",
-      "coordinates": "17.068609, -89.152222"
+      "coordinates": "17.068609, -89.152222",
+      "metar_available": false
     },
     {
       "ident": "GT-0044",
@@ -438,7 +482,8 @@
       "iso_country": "GT",
       "iso_region": "GT-BV",
       "municipality": "Rabinal",
-      "coordinates": "15.0935, -90.5063888889"
+      "coordinates": "15.0935, -90.5063888889",
+      "metar_available": false
     },
     {
       "ident": "MG13",
@@ -449,7 +494,8 @@
       "iso_region": "GT-AV",
       "municipality": "El Achiotal",
       "gps_code": "MGFB",
-      "coordinates": "15.80405, -89.8507"
+      "coordinates": "15.80405, -89.8507",
+      "metar_available": false
     },
     {
       "ident": "MGBN",
@@ -460,7 +506,8 @@
       "iso_region": "GT-IZ",
       "municipality": "Morales",
       "gps_code": "MGBN",
-      "coordinates": "15.4735, -88.837196"
+      "coordinates": "15.4735, -88.837196",
+      "metar_available": false
     },
     {
       "ident": "MGCB",
@@ -472,7 +519,8 @@
       "municipality": "Coban",
       "gps_code": "MGCB",
       "iata_code": "CBV",
-      "coordinates": "15.469, -90.4067"
+      "coordinates": "15.469, -90.4067",
+      "metar_available": false
     },
     {
       "ident": "MGCR",
@@ -484,7 +532,8 @@
       "municipality": "Carmelita",
       "gps_code": "MGCR",
       "iata_code": "CMM",
-      "coordinates": "17.461201, -90.053703"
+      "coordinates": "17.461201, -90.053703",
+      "metar_available": false
     },
     {
       "ident": "MGCT",
@@ -496,7 +545,8 @@
       "municipality": "Coatepeque",
       "gps_code": "MGCT",
       "iata_code": "CTF",
-      "coordinates": "14.6942, -91.8825"
+      "coordinates": "14.6942, -91.8825",
+      "metar_available": false
     },
     {
       "ident": "MGES",
@@ -507,7 +557,8 @@
       "iso_region": "GT-CQ",
       "municipality": "Esquipulas",
       "gps_code": "MGES",
-      "coordinates": "14.567552, -89.326153"
+      "coordinates": "14.567552, -89.326153",
+      "metar_available": false
     },
     {
       "ident": "MGGT",
@@ -519,7 +570,8 @@
       "municipality": "Guatemala City",
       "gps_code": "MGGT",
       "iata_code": "GUA",
-      "coordinates": "14.5833, -90.527496"
+      "coordinates": "14.5833, -90.527496",
+      "metar_available": false
     },
     {
       "ident": "MGHH",
@@ -530,7 +582,8 @@
       "iso_region": "GT-ES",
       "municipality": "Iztapa",
       "gps_code": "MGHH",
-      "coordinates": "13.930929, -90.728783"
+      "coordinates": "13.930929, -90.728783",
+      "metar_available": false
     },
     {
       "ident": "MGHT",
@@ -542,7 +595,8 @@
       "municipality": "Huehuetenango",
       "gps_code": "MGHT",
       "iata_code": "HUG",
-      "coordinates": "15.316667, -91.505556"
+      "coordinates": "15.316667, -91.505556",
+      "metar_available": false
     },
     {
       "ident": "MGJU",
@@ -553,7 +607,8 @@
       "iso_region": "GT-JU",
       "municipality": "Jutiapa",
       "gps_code": "MGJU",
-      "coordinates": "14.291729, -89.941421"
+      "coordinates": "14.291729, -89.941421",
+      "metar_available": false
     },
     {
       "ident": "MGLL",
@@ -564,7 +619,8 @@
       "iso_region": "GT-PE",
       "municipality": "La Libertad",
       "gps_code": "MGLL",
-      "coordinates": "16.750299, -90.139999"
+      "coordinates": "16.750299, -90.139999",
+      "metar_available": false
     },
     {
       "ident": "MGML",
@@ -575,7 +631,8 @@
       "iso_region": "GT-SM",
       "municipality": "San Marcos",
       "gps_code": "MGML",
-      "coordinates": "14.907464, -92.087921"
+      "coordinates": "14.907464, -92.087921",
+      "metar_available": false
     },
     {
       "ident": "MGPB",
@@ -587,7 +644,8 @@
       "municipality": "Puerto Barrios",
       "gps_code": "MGPB",
       "iata_code": "PBR",
-      "coordinates": "15.7309, -88.583801"
+      "coordinates": "15.7309, -88.583801",
+      "metar_available": false
     },
     {
       "ident": "MGPG",
@@ -599,7 +657,8 @@
       "municipality": "Playa Grande",
       "gps_code": "MGPG",
       "iata_code": "PKJ",
-      "coordinates": "15.9975, -90.741699"
+      "coordinates": "15.9975, -90.741699",
+      "metar_available": false
     },
     {
       "ident": "MGPP",
@@ -611,7 +670,8 @@
       "municipality": "Poptún",
       "gps_code": "MGPP",
       "iata_code": "PON",
-      "coordinates": "16.325799942017, -89.41609954834"
+      "coordinates": "16.325799942017, -89.41609954834",
+      "metar_available": false
     },
     {
       "ident": "MGQC",
@@ -623,7 +683,8 @@
       "municipality": "Santa Cruz del Quiché",
       "gps_code": "MGQC",
       "iata_code": "AQB",
-      "coordinates": "15.0122, -91.150597"
+      "coordinates": "15.0122, -91.150597",
+      "metar_available": false
     },
     {
       "ident": "MGQZ",
@@ -635,7 +696,8 @@
       "municipality": "Quezaltenango",
       "gps_code": "MGQZ",
       "iata_code": "AAZ",
-      "coordinates": "14.8656, -91.501999"
+      "coordinates": "14.8656, -91.501999",
+      "metar_available": false
     },
     {
       "ident": "MGRB",
@@ -647,7 +709,8 @@
       "municipality": "Rubelsanto",
       "gps_code": "MGRB",
       "iata_code": "RUV",
-      "coordinates": "15.992, -90.445297"
+      "coordinates": "15.992, -90.445297",
+      "metar_available": false
     },
     {
       "ident": "MGRD",
@@ -659,7 +722,8 @@
       "municipality": "Rio Dulce",
       "gps_code": "MGRD",
       "iata_code": "LCF",
-      "coordinates": "15.668363, -88.961763"
+      "coordinates": "15.668363, -88.961763",
+      "metar_available": false
     },
     {
       "ident": "MGRF",
@@ -670,7 +734,8 @@
       "iso_region": "GT-SR",
       "municipality": "Monterrico",
       "gps_code": "MGRF",
-      "coordinates": "13.894942, -90.485092"
+      "coordinates": "13.894942, -90.485092",
+      "metar_available": false
     },
     {
       "ident": "MGRT",
@@ -682,7 +747,8 @@
       "municipality": "Retalhuleu",
       "gps_code": "MGRT",
       "iata_code": "RER",
-      "coordinates": "14.521431, -91.697001"
+      "coordinates": "14.521431, -91.697001",
+      "metar_available": false
     },
     {
       "ident": "MGSJ",
@@ -694,7 +760,8 @@
       "municipality": "Puerto San José",
       "gps_code": "MGSJ",
       "iata_code": "GSJ",
-      "coordinates": "13.9362, -90.8358"
+      "coordinates": "13.9362, -90.8358",
+      "metar_available": false
     },
     {
       "ident": "MGSM",
@@ -705,7 +772,8 @@
       "iso_region": "GT-SM",
       "municipality": "San Marcos",
       "gps_code": "MGSM",
-      "coordinates": "14.955268, -91.808339"
+      "coordinates": "14.955268, -91.808339",
+      "metar_available": false
     },
     {
       "ident": "MGTK",
@@ -717,7 +785,8 @@
       "municipality": "San Benito",
       "gps_code": "MGMM",
       "iata_code": "FRS",
-      "coordinates": "16.913799, -89.866402"
+      "coordinates": "16.913799, -89.866402",
+      "metar_available": false
     },
     {
       "ident": "MGZA",
@@ -728,7 +797,8 @@
       "iso_region": "GT-ZA",
       "municipality": "Zacapa",
       "gps_code": "MGZA",
-      "coordinates": "14.9603, -89.5392"
+      "coordinates": "14.9603, -89.5392",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "AQ",
   "country_name": "Antarctica",
   "total_airports": 40,
-  "last_updated": "2025-08-01T00:18:22.369344",
+  "last_updated": "2025-08-25T10:08:40.489243",
   "types_distribution": {
     "small_airport": 26,
     "closed": 4,
@@ -19,7 +19,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Rothera Point",
       "gps_code": "AAXX",
-      "coordinates": "-67.566941, -68.126993"
+      "coordinates": "-67.566941, -68.126993",
+      "metar_available": false
     },
     {
       "ident": "AQ-0001",
@@ -31,7 +32,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Queen Maud Land",
       "gps_code": "AT17",
-      "coordinates": "-70.8461, 11.8472"
+      "coordinates": "-70.8461, 11.8472",
+      "metar_available": false
     },
     {
       "ident": "AQ-0002",
@@ -44,7 +46,8 @@
       "municipality": "Troll Station",
       "gps_code": "ENOE",
       "local_code": "AT27",
-      "coordinates": "-71.95714, 2.45257"
+      "coordinates": "-71.95714, 2.45257",
+      "metar_available": false
     },
     {
       "ident": "AQ-0003",
@@ -55,7 +58,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "Waterboat Point",
-      "coordinates": "-64.824, -62.857"
+      "coordinates": "-64.824, -62.857",
+      "metar_available": false
     },
     {
       "ident": "AQ-0004",
@@ -65,7 +69,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "Ellsworth Station",
-      "coordinates": "-77.650008, -41.0333"
+      "coordinates": "-77.650008, -41.0333",
+      "metar_available": false
     },
     {
       "ident": "AQ-0006",
@@ -75,7 +80,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "Palmer Station",
-      "coordinates": "-64.774501, -64.051079"
+      "coordinates": "-64.774501, -64.051079",
+      "metar_available": false
     },
     {
       "ident": "AQ-0007",
@@ -86,7 +92,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Zucchelli Station",
       "gps_code": "AT04",
-      "coordinates": "-74.71637, 164.03408"
+      "coordinates": "-74.71637, 164.03408",
+      "metar_available": false
     },
     {
       "ident": "AQ-0008",
@@ -96,7 +103,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "Machu Picchu Base",
-      "coordinates": "-62.09122, -58.47103"
+      "coordinates": "-62.09122, -58.47103",
+      "metar_available": false
     },
     {
       "ident": "AQ-0009",
@@ -106,7 +114,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "Comandante Ferraz Antarctic Station",
-      "coordinates": "-62.0857, -58.3915"
+      "coordinates": "-62.0857, -58.3915",
+      "metar_available": false
     },
     {
       "ident": "AQ-0010",
@@ -116,7 +125,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "Arctowsky Station",
-      "coordinates": "-62.15941, -58.47293"
+      "coordinates": "-62.15941, -58.47293",
+      "metar_available": false
     },
     {
       "ident": "AQ-0011",
@@ -126,7 +136,8 @@
       "continent": "AN",
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
-      "coordinates": "-71.527201, 8.8333"
+      "coordinates": "-71.527201, 8.8333",
+      "metar_available": false
     },
     {
       "ident": "AQ-0012",
@@ -135,7 +146,8 @@
       "continent": "AN",
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
-      "coordinates": "-89.998, 139.273"
+      "coordinates": "-89.998, 139.273",
+      "metar_available": false
     },
     {
       "ident": "AQ-0013",
@@ -146,7 +158,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "McMurdo Station",
-      "coordinates": "-77.854391, 166.464387"
+      "coordinates": "-77.854391, 166.464387",
+      "metar_available": false
     },
     {
       "ident": "AQ-0014",
@@ -157,7 +170,8 @@
       "iso_country": "AQ",
       "iso_region": "AQ-U-A",
       "municipality": "McMurdo Station",
-      "coordinates": "-77.963402, 166.524994"
+      "coordinates": "-77.963402, 166.524994",
+      "metar_available": false
     },
     {
       "ident": "AQBC",
@@ -169,7 +183,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Zucchelli Station",
       "gps_code": "AQBC",
-      "coordinates": "-74.739373, 164.03539"
+      "coordinates": "-74.739373, 164.03539",
+      "metar_available": false
     },
     {
       "ident": "AT03",
@@ -181,7 +196,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Concordia Station",
       "gps_code": "AT03",
-      "coordinates": "-75.103278, 123.35825"
+      "coordinates": "-75.103278, 123.35825",
+      "metar_available": false
     },
     {
       "ident": "AT13",
@@ -192,7 +208,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Zucchelli Station",
       "gps_code": "AT13",
-      "coordinates": "-74.68109, 164.12756"
+      "coordinates": "-74.68109, 164.12756",
+      "metar_available": false
     },
     {
       "ident": "AT25",
@@ -204,7 +221,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Showa Station",
       "gps_code": "AT25",
-      "coordinates": "-69.006167, 39.59"
+      "coordinates": "-69.006167, 39.59",
+      "metar_available": false
     },
     {
       "ident": "AT28",
@@ -216,7 +234,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Vostok Station",
       "gps_code": "AT28",
-      "coordinates": "-78.466139, 106.84825"
+      "coordinates": "-78.466139, 106.84825",
+      "metar_available": false
     },
     {
       "ident": "EGAH",
@@ -228,7 +247,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Halley Research Station",
       "gps_code": "EGAH",
-      "coordinates": "-75.567406, -25.516435"
+      "coordinates": "-75.567406, -25.516435",
+      "metar_available": false
     },
     {
       "ident": "EGAR",
@@ -240,7 +260,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Rothera Research Station",
       "gps_code": "EGAR",
-      "coordinates": "-67.5675, -68.127403"
+      "coordinates": "-67.5675, -68.127403",
+      "metar_available": false
     },
     {
       "ident": "EGAT",
@@ -252,7 +273,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Sky Blu",
       "gps_code": "EGAT",
-      "coordinates": "-74.849722, -71.566666"
+      "coordinates": "-74.849722, -71.566666",
+      "metar_available": false
     },
     {
       "ident": "NZ12",
@@ -265,7 +287,8 @@
       "municipality": "Palmer Station",
       "gps_code": "NZ0B",
       "local_code": "NZ0B",
-      "coordinates": "-64.774582, -64.035907"
+      "coordinates": "-64.774582, -64.035907",
+      "metar_available": false
     },
     {
       "ident": "NZFX",
@@ -277,7 +300,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "McMurdo Station",
       "gps_code": "NZFX",
-      "coordinates": "-77.956389, 166.766667"
+      "coordinates": "-77.956389, 166.766667",
+      "metar_available": false
     },
     {
       "ident": "NZSP",
@@ -289,7 +313,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Amundsen-Scott South Pole Station",
       "gps_code": "NZSP",
-      "coordinates": "-90, 0"
+      "coordinates": "-90, 0",
+      "metar_available": false
     },
     {
       "ident": "NZWD",
@@ -301,7 +326,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "McMurdo Station",
       "gps_code": "NZWD",
-      "coordinates": "-77.867401, 167.057007"
+      "coordinates": "-77.867401, 167.057007",
+      "metar_available": false
     },
     {
       "ident": "SA47",
@@ -313,7 +339,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Petrel Base",
       "local_code": "PET",
-      "coordinates": "-63.479, -56.2313"
+      "coordinates": "-63.479, -56.2313",
+      "metar_available": false
     },
     {
       "ident": "SAWB",
@@ -326,7 +353,8 @@
       "municipality": "Marambio Base",
       "gps_code": "SAWB",
       "local_code": "MBI",
-      "coordinates": "-64.238297, -56.630798"
+      "coordinates": "-64.238297, -56.630798",
+      "metar_available": false
     },
     {
       "ident": "SAWZ",
@@ -339,7 +367,8 @@
       "municipality": "Matienzo Base",
       "gps_code": "SAWZ",
       "local_code": "BTM",
-      "coordinates": "-64.976998, -60.108992"
+      "coordinates": "-64.976998, -60.108992",
+      "metar_available": false
     },
     {
       "ident": "SAYB",
@@ -352,7 +381,8 @@
       "municipality": "Base Belgrano II",
       "gps_code": "SAYB",
       "local_code": "BEB",
-      "coordinates": "-77.874055, -34.62616"
+      "coordinates": "-77.874055, -34.62616",
+      "metar_available": false
     },
     {
       "ident": "SAYE",
@@ -365,7 +395,8 @@
       "municipality": "Fortín Sargento Cabral",
       "gps_code": "SAYE",
       "local_code": "BET",
-      "coordinates": "-63.400002, -56.983299"
+      "coordinates": "-63.400002, -56.983299",
+      "metar_available": false
     },
     {
       "ident": "SAYJ",
@@ -378,7 +409,8 @@
       "municipality": "Carlini Base",
       "gps_code": "SAYJ",
       "local_code": "BJY",
-      "coordinates": "-62.2383, -58.666599"
+      "coordinates": "-62.2383, -58.666599",
+      "metar_available": false
     },
     {
       "ident": "SAYO",
@@ -391,7 +423,8 @@
       "municipality": "Laurie Island",
       "gps_code": "SAYO",
       "local_code": "OCD",
-      "coordinates": "-60.738473, -44.735655"
+      "coordinates": "-60.738473, -44.735655",
+      "metar_available": false
     },
     {
       "ident": "SAYS",
@@ -404,7 +437,8 @@
       "municipality": "San Martín Base",
       "gps_code": "SAYS",
       "local_code": "BSM",
-      "coordinates": "-68.116699, -67.099998"
+      "coordinates": "-68.116699, -67.099998",
+      "metar_available": false
     },
     {
       "ident": "SCBO",
@@ -416,7 +450,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "General Bernardo O'Higgins Base",
       "gps_code": "SCBO",
-      "coordinates": "-63.344, -57.842"
+      "coordinates": "-63.344, -57.842",
+      "metar_available": false
     },
     {
       "ident": "SCGC",
@@ -429,7 +464,8 @@
       "municipality": "Union Glacier",
       "gps_code": "SCGC",
       "iata_code": "UGL",
-      "coordinates": "-79.777778, -83.320833"
+      "coordinates": "-79.777778, -83.320833",
+      "metar_available": false
     },
     {
       "ident": "SCPZ",
@@ -441,7 +477,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Patriot Hills Base Camp",
       "gps_code": "SCPZ",
-      "coordinates": "-80.3142, -81.39478"
+      "coordinates": "-80.3142, -81.39478",
+      "metar_available": false
     },
     {
       "ident": "SCRM",
@@ -454,7 +491,8 @@
       "municipality": "Villa Las Estrellas",
       "gps_code": "SCRM",
       "iata_code": "TNM",
-      "coordinates": "-62.191026, -58.98669"
+      "coordinates": "-62.191026, -58.98669",
+      "metar_available": false
     },
     {
       "ident": "YCSK",
@@ -466,7 +504,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Casey Station",
       "gps_code": "YCSK",
-      "coordinates": "-66.288056, 110.7575"
+      "coordinates": "-66.288056, 110.7575",
+      "metar_available": false
     },
     {
       "ident": "YWKS",
@@ -478,7 +517,8 @@
       "iso_region": "AQ-U-A",
       "municipality": "Preston Heath",
       "gps_code": "YWKS",
-      "coordinates": "-66.690833, 111.523611"
+      "coordinates": "-66.690833, 111.523611",
+      "metar_available": false
     }
   ]
 }

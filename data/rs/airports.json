@@ -2,7 +2,7 @@
   "country_code": "RS",
   "country_name": "Serbia",
   "total_airports": 65,
-  "last_updated": "2025-08-01T00:18:22.825931",
+  "last_updated": "2025-08-25T10:08:40.980283",
   "types_distribution": {
     "small_airport": 41,
     "large_airport": 1,
@@ -20,7 +20,8 @@
       "iso_country": "RS",
       "iso_region": "RS-04",
       "municipality": "Kovin",
-      "coordinates": "44.7743, 20.9613"
+      "coordinates": "44.7743, 20.9613",
+      "metar_available": false
     },
     {
       "ident": "LY89",
@@ -32,7 +33,8 @@
       "iso_region": "RS-14",
       "municipality": "Bor",
       "gps_code": "LYBO",
-      "coordinates": "44.0182, 22.1371"
+      "coordinates": "44.0182, 22.1371",
+      "metar_available": false
     },
     {
       "ident": "LYBE",
@@ -45,7 +47,8 @@
       "municipality": "Belgrade",
       "gps_code": "LYBE",
       "iata_code": "BEG",
-      "coordinates": "44.818401, 20.309099"
+      "coordinates": "44.818401, 20.309099",
+      "metar_available": false
     },
     {
       "ident": "LYBJ",
@@ -57,7 +60,8 @@
       "iso_region": "RS-00",
       "municipality": "Palilula",
       "gps_code": "LYBJ",
-      "coordinates": "44.939858, 20.445828"
+      "coordinates": "44.939858, 20.445828",
+      "metar_available": false
     },
     {
       "ident": "LYBT",
@@ -70,7 +74,8 @@
       "municipality": "Zemun",
       "gps_code": "LYBT",
       "iata_code": "BJY",
-      "coordinates": "44.935299, 20.2575"
+      "coordinates": "44.935299, 20.2575",
+      "metar_available": false
     },
     {
       "ident": "LYCA",
@@ -82,7 +87,8 @@
       "iso_region": "RS-17",
       "municipality": "Čačak",
       "gps_code": "LYCA",
-      "coordinates": "43.8981, 20.435"
+      "coordinates": "43.8981, 20.435",
+      "metar_available": false
     },
     {
       "ident": "LYJA",
@@ -93,7 +99,8 @@
       "iso_region": "RS-12",
       "municipality": "Jagodina",
       "gps_code": "LYJA",
-      "coordinates": "43.976613, 21.229756"
+      "coordinates": "43.976613, 21.229756",
+      "metar_available": false
     },
     {
       "ident": "LYKA",
@@ -105,7 +112,8 @@
       "iso_region": "RS-18",
       "municipality": "Kraljevo",
       "gps_code": "LYKA",
-      "coordinates": "43.7318, 20.717969"
+      "coordinates": "43.7318, 20.717969",
+      "metar_available": false
     },
     {
       "ident": "LYKI",
@@ -117,7 +125,8 @@
       "iso_region": "RS-03",
       "municipality": "Kikinda",
       "gps_code": "LYKI",
-      "coordinates": "45.768122, 20.417261"
+      "coordinates": "45.768122, 20.417261",
+      "metar_available": false
     },
     {
       "ident": "LYKS",
@@ -129,7 +138,8 @@
       "iso_region": "RS-19",
       "municipality": "Kruševac",
       "gps_code": "LYKS",
-      "coordinates": "43.561362, 21.382688"
+      "coordinates": "43.561362, 21.382688",
+      "metar_available": false
     },
     {
       "ident": "LYKT",
@@ -141,7 +151,8 @@
       "iso_region": "RS-11",
       "municipality": "Kostolac",
       "gps_code": "LYKT",
-      "coordinates": "44.734863, 21.161664"
+      "coordinates": "44.734863, 21.161664",
+      "metar_available": false
     },
     {
       "ident": "LYKV",
@@ -154,7 +165,8 @@
       "municipality": "Kraljevo",
       "gps_code": "LYKV",
       "iata_code": "KVO",
-      "coordinates": "43.817519, 20.586662"
+      "coordinates": "43.817519, 20.586662",
+      "metar_available": false
     },
     {
       "ident": "LYLE",
@@ -166,7 +178,8 @@
       "iso_region": "RS-23",
       "municipality": "Leskovac",
       "gps_code": "LYLE",
-      "coordinates": "43.019665, 21.931963"
+      "coordinates": "43.019665, 21.931963",
+      "metar_available": false
     },
     {
       "ident": "LYNI",
@@ -179,7 +192,8 @@
       "municipality": "Niš",
       "gps_code": "LYNI",
       "iata_code": "INI",
-      "coordinates": "43.337009, 21.85451"
+      "coordinates": "43.337009, 21.85451",
+      "metar_available": false
     },
     {
       "ident": "LYNS",
@@ -191,7 +205,8 @@
       "iso_region": "RS-06",
       "municipality": "Čenej",
       "gps_code": "LYNS",
-      "coordinates": "45.38531, 19.833326"
+      "coordinates": "45.38531, 19.833326",
+      "metar_available": false
     },
     {
       "ident": "LYPA",
@@ -203,7 +218,8 @@
       "iso_region": "RS-04",
       "municipality": "Pančevo",
       "gps_code": "LYPA",
-      "coordinates": "44.9, 20.641002"
+      "coordinates": "44.9, 20.641002",
+      "metar_available": false
     },
     {
       "ident": "LYPN",
@@ -215,7 +231,8 @@
       "iso_region": "RS-12",
       "municipality": "Paraćin",
       "gps_code": "LYPN",
-      "coordinates": "43.866389, 21.486944"
+      "coordinates": "43.866389, 21.486944",
+      "metar_available": false
     },
     {
       "ident": "LYSM",
@@ -227,7 +244,8 @@
       "iso_region": "RS-07",
       "municipality": "Veliki Radinci",
       "gps_code": "LYSM",
-      "coordinates": "45.037414, 19.660184"
+      "coordinates": "45.037414, 19.660184",
+      "metar_available": false
     },
     {
       "ident": "LYSP",
@@ -239,7 +257,8 @@
       "iso_region": "RS-10",
       "municipality": "Smederevska Palanka",
       "gps_code": "LYSP",
-      "coordinates": "44.351474, 20.959996"
+      "coordinates": "44.351474, 20.959996",
+      "metar_available": false
     },
     {
       "ident": "LYSU",
@@ -251,7 +270,8 @@
       "iso_region": "RS-01",
       "municipality": "Bikovo",
       "gps_code": "LYSU",
-      "coordinates": "46.022837, 19.706454"
+      "coordinates": "46.022837, 19.706454",
+      "metar_available": false
     },
     {
       "ident": "LYTR",
@@ -263,7 +283,8 @@
       "iso_region": "RS-19",
       "municipality": "Trstenik",
       "gps_code": "LYTR",
-      "coordinates": "43.614189, 21.030217"
+      "coordinates": "43.614189, 21.030217",
+      "metar_available": false
     },
     {
       "ident": "LYUZ",
@@ -276,7 +297,8 @@
       "municipality": "Stapari",
       "gps_code": "LYUZ",
       "iata_code": "UZC",
-      "coordinates": "43.898899, 19.697701"
+      "coordinates": "43.898899, 19.697701",
+      "metar_available": false
     },
     {
       "ident": "LYVA",
@@ -288,7 +310,8 @@
       "iso_region": "RS-09",
       "municipality": "Divci, Valjevo",
       "gps_code": "LYVA",
-      "coordinates": "44.29793, 20.021567"
+      "coordinates": "44.29793, 20.021567",
+      "metar_available": false
     },
     {
       "ident": "LYVR",
@@ -300,7 +323,8 @@
       "iso_region": "RS-04",
       "municipality": "Vršac",
       "gps_code": "LYVR",
-      "coordinates": "45.147736, 21.309374"
+      "coordinates": "45.147736, 21.309374",
+      "metar_available": false
     },
     {
       "ident": "LYZR",
@@ -312,7 +336,8 @@
       "iso_region": "RS-02",
       "municipality": "Zrenjanin",
       "gps_code": "LYZR",
-      "coordinates": "45.339756, 20.454078"
+      "coordinates": "45.339756, 20.454078",
+      "metar_available": false
     },
     {
       "ident": "RS-0001",
@@ -324,7 +349,8 @@
       "iso_region": "RS-04",
       "municipality": "Bela Crkva",
       "gps_code": "LYBC",
-      "coordinates": "44.925166, 21.370155"
+      "coordinates": "44.925166, 21.370155",
+      "metar_available": false
     },
     {
       "ident": "RS-0002",
@@ -335,7 +361,8 @@
       "iso_country": "RS",
       "iso_region": "RS-23",
       "municipality": "Kosančić",
-      "coordinates": "42.997299, 21.721901"
+      "coordinates": "42.997299, 21.721901",
+      "metar_available": false
     },
     {
       "ident": "RS-0003",
@@ -347,7 +374,8 @@
       "iso_region": "RS-00",
       "municipality": "Zemun Polje",
       "gps_code": "LYZP",
-      "coordinates": "44.876444, 20.305917"
+      "coordinates": "44.876444, 20.305917",
+      "metar_available": false
     },
     {
       "ident": "RS-0004",
@@ -358,7 +386,8 @@
       "iso_country": "RS",
       "iso_region": "RS-16",
       "municipality": "Sjenica",
-      "coordinates": "43.274526, 20.050403"
+      "coordinates": "43.274526, 20.050403",
+      "metar_available": false
     },
     {
       "ident": "RS-0005",
@@ -368,7 +397,8 @@
       "iso_country": "RS",
       "iso_region": "RS-07",
       "municipality": "Stara Pazova",
-      "coordinates": "44.933532, 20.174569"
+      "coordinates": "44.933532, 20.174569",
+      "metar_available": false
     },
     {
       "ident": "RS-0006",
@@ -379,7 +409,8 @@
       "iso_country": "RS",
       "iso_region": "RS-05",
       "municipality": "Sombor",
-      "coordinates": "45.785034, 19.019175"
+      "coordinates": "45.785034, 19.019175",
+      "metar_available": false
     },
     {
       "ident": "RS-0007",
@@ -391,7 +422,8 @@
       "iso_region": "RS-10",
       "municipality": "Smederevo",
       "gps_code": "LYSD",
-      "coordinates": "44.6439, 20.9623"
+      "coordinates": "44.6439, 20.9623",
+      "metar_available": false
     },
     {
       "ident": "RS-0008",
@@ -401,7 +433,8 @@
       "iso_country": "RS",
       "iso_region": "RS-19",
       "municipality": "Kruševac",
-      "coordinates": "43.563455, 21.33626"
+      "coordinates": "43.563455, 21.33626",
+      "metar_available": false
     },
     {
       "ident": "RS-0009",
@@ -412,7 +445,8 @@
       "iso_country": "RS",
       "iso_region": "RS-00",
       "municipality": "Beograd (Belgrade)",
-      "coordinates": "44.761512, 20.472175"
+      "coordinates": "44.761512, 20.472175",
+      "metar_available": false
     },
     {
       "ident": "RS-0010",
@@ -423,7 +457,8 @@
       "iso_country": "RS",
       "iso_region": "RS-08",
       "municipality": "Bogatić",
-      "coordinates": "44.826667, 19.499722"
+      "coordinates": "44.826667, 19.499722",
+      "metar_available": false
     },
     {
       "ident": "RS-0011",
@@ -434,7 +469,8 @@
       "iso_country": "RS",
       "iso_region": "RS-00",
       "municipality": "Surčin",
-      "coordinates": "44.768889, 20.304722"
+      "coordinates": "44.768889, 20.304722",
+      "metar_available": false
     },
     {
       "ident": "RS-0012",
@@ -445,7 +481,8 @@
       "iso_country": "RS",
       "iso_region": "RS-06",
       "municipality": "Titel",
-      "coordinates": "45.1975, 20.278889"
+      "coordinates": "45.1975, 20.278889",
+      "metar_available": false
     },
     {
       "ident": "RS-0013",
@@ -456,7 +493,8 @@
       "iso_country": "RS",
       "iso_region": "RS-04",
       "municipality": "Vršački Ritovi",
-      "coordinates": "45.159444, 21.185"
+      "coordinates": "45.159444, 21.185",
+      "metar_available": false
     },
     {
       "ident": "RS-0014",
@@ -466,7 +504,8 @@
       "iso_country": "RS",
       "iso_region": "RS-00",
       "municipality": "Surčin",
-      "coordinates": "44.722182, 20.176448"
+      "coordinates": "44.722182, 20.176448",
+      "metar_available": false
     },
     {
       "ident": "RS-0015",
@@ -476,7 +515,8 @@
       "iso_country": "RS",
       "iso_region": "RS-23",
       "municipality": "Kosančić",
-      "coordinates": "43.094514, 21.776161"
+      "coordinates": "43.094514, 21.776161",
+      "metar_available": false
     },
     {
       "ident": "RS-0016",
@@ -486,7 +526,8 @@
       "iso_country": "RS",
       "iso_region": "RS-16",
       "municipality": "Zlatibor",
-      "coordinates": "43.724368, 19.678661"
+      "coordinates": "43.724368, 19.678661",
+      "metar_available": false
     },
     {
       "ident": "RS-0017",
@@ -496,7 +537,8 @@
       "iso_country": "RS",
       "iso_region": "RS-16",
       "municipality": "Priboj",
-      "coordinates": "43.591884, 19.515274"
+      "coordinates": "43.591884, 19.515274",
+      "metar_available": false
     },
     {
       "ident": "RS-0018",
@@ -506,7 +548,8 @@
       "iso_country": "RS",
       "iso_region": "RS-07",
       "municipality": "Golubinci",
-      "coordinates": "44.970289, 20.060234"
+      "coordinates": "44.970289, 20.060234",
+      "metar_available": false
     },
     {
       "ident": "RS-0019",
@@ -516,7 +559,8 @@
       "iso_country": "RS",
       "iso_region": "RS-06",
       "municipality": "Bački Jarak",
-      "coordinates": "45.365223, 19.887006"
+      "coordinates": "45.365223, 19.887006",
+      "metar_available": false
     },
     {
       "ident": "RS-0020",
@@ -526,7 +570,8 @@
       "iso_country": "RS",
       "iso_region": "RS-03",
       "municipality": "Vojvoda Zimonić (Ilonafalu)",
-      "coordinates": "46.04404, 19.98972"
+      "coordinates": "46.04404, 19.98972",
+      "metar_available": false
     },
     {
       "ident": "RS-0021",
@@ -538,7 +583,8 @@
       "iso_region": "RS-17",
       "municipality": "Pranjani",
       "gps_code": "LYPJ",
-      "coordinates": "44.03592, 20.17827"
+      "coordinates": "44.03592, 20.17827",
+      "metar_available": false
     },
     {
       "ident": "RS-0022",
@@ -549,7 +595,8 @@
       "iso_country": "RS",
       "iso_region": "RS-16",
       "municipality": "Mokra Gora",
-      "coordinates": "43.795234, 19.50769"
+      "coordinates": "43.795234, 19.50769",
+      "metar_available": false
     },
     {
       "ident": "RS-0023",
@@ -560,7 +607,8 @@
       "iso_country": "RS",
       "iso_region": "RS-24",
       "municipality": "Vranje",
-      "coordinates": "42.55331, 21.86699"
+      "coordinates": "42.55331, 21.86699",
+      "metar_available": false
     },
     {
       "ident": "RS-0024",
@@ -571,7 +619,8 @@
       "iso_country": "RS",
       "iso_region": "RS-24",
       "municipality": "Vranje",
-      "coordinates": "42.54138, 21.90943"
+      "coordinates": "42.54138, 21.90943",
+      "metar_available": false
     },
     {
       "ident": "RS-0025",
@@ -582,7 +631,8 @@
       "iso_country": "RS",
       "iso_region": "RS-24",
       "municipality": "Vranje",
-      "coordinates": "42.55397, 21.90995"
+      "coordinates": "42.55397, 21.90995",
+      "metar_available": false
     },
     {
       "ident": "RS-0026",
@@ -593,7 +643,8 @@
       "iso_country": "RS",
       "iso_region": "RS-22",
       "municipality": "Pirot",
-      "coordinates": "43.140062, 22.594929"
+      "coordinates": "43.140062, 22.594929",
+      "metar_available": false
     },
     {
       "ident": "RS-0027",
@@ -604,7 +655,8 @@
       "iso_country": "RS",
       "iso_region": "RS-22",
       "municipality": "Pirot",
-      "coordinates": "43.14146, 22.59635"
+      "coordinates": "43.14146, 22.59635",
+      "metar_available": false
     },
     {
       "ident": "RS-0028",
@@ -615,7 +667,8 @@
       "iso_country": "RS",
       "iso_region": "RS-20",
       "municipality": "Niš",
-      "coordinates": "43.312443, 21.916019"
+      "coordinates": "43.312443, 21.916019",
+      "metar_available": false
     },
     {
       "ident": "RS-0029",
@@ -626,7 +679,8 @@
       "iso_country": "RS",
       "iso_region": "RS-20",
       "municipality": "Niš",
-      "coordinates": "43.31222, 21.91886"
+      "coordinates": "43.31222, 21.91886",
+      "metar_available": false
     },
     {
       "ident": "RS-0030",
@@ -637,7 +691,8 @@
       "iso_country": "RS",
       "iso_region": "RS-20",
       "municipality": "Niš",
-      "coordinates": "43.35092, 21.86331"
+      "coordinates": "43.35092, 21.86331",
+      "metar_available": false
     },
     {
       "ident": "RS-0031",
@@ -649,7 +704,8 @@
       "iso_region": "RS-12",
       "municipality": "Lužnice",
       "gps_code": "LYKG",
-      "coordinates": "44.1285, 20.85362"
+      "coordinates": "44.1285, 20.85362",
+      "metar_available": false
     },
     {
       "ident": "RS-0032",
@@ -660,7 +716,8 @@
       "iso_country": "RS",
       "iso_region": "RS-13",
       "municipality": "Ćuprija",
-      "coordinates": "43.94069, 21.40903"
+      "coordinates": "43.94069, 21.40903",
+      "metar_available": false
     },
     {
       "ident": "RS-0033",
@@ -670,7 +727,8 @@
       "iso_country": "RS",
       "iso_region": "RS-12",
       "municipality": "Kragujevac",
-      "coordinates": "44.02844, 20.90874"
+      "coordinates": "44.02844, 20.90874",
+      "metar_available": false
     },
     {
       "ident": "RS-0034",
@@ -681,7 +739,8 @@
       "iso_country": "RS",
       "iso_region": "RS-00",
       "municipality": "Obrenovac",
-      "coordinates": "44.68874, 20.20939"
+      "coordinates": "44.68874, 20.20939",
+      "metar_available": false
     },
     {
       "ident": "RS-0035",
@@ -692,7 +751,8 @@
       "iso_country": "RS",
       "iso_region": "RS-02",
       "municipality": "Torda",
-      "coordinates": "45.57743, 20.47397"
+      "coordinates": "45.57743, 20.47397",
+      "metar_available": false
     },
     {
       "ident": "RS-0036",
@@ -703,7 +763,8 @@
       "iso_country": "RS",
       "iso_region": "RS-00",
       "municipality": "Beograd (Belgrade)",
-      "coordinates": "44.76119, 20.46897"
+      "coordinates": "44.76119, 20.46897",
+      "metar_available": false
     },
     {
       "ident": "RS-0037",
@@ -714,7 +775,8 @@
       "iso_country": "RS",
       "iso_region": "RS-00",
       "municipality": "Surčin",
-      "coordinates": "44.81859, 20.20681"
+      "coordinates": "44.81859, 20.20681",
+      "metar_available": false
     },
     {
       "ident": "RS-0038",
@@ -725,7 +787,8 @@
       "iso_country": "RS",
       "iso_region": "RS-12",
       "municipality": "Knic",
-      "coordinates": "43.92256, 20.76442"
+      "coordinates": "43.92256, 20.76442",
+      "metar_available": false
     },
     {
       "ident": "RS-0039",
@@ -736,7 +799,8 @@
       "iso_country": "RS",
       "iso_region": "RS-11",
       "municipality": "Veliko Gradište",
-      "coordinates": "44.75617, 21.48046"
+      "coordinates": "44.75617, 21.48046",
+      "metar_available": false
     },
     {
       "ident": "RS-0040",
@@ -747,7 +811,8 @@
       "iso_country": "RS",
       "iso_region": "RS-05",
       "municipality": "Sombor",
-      "coordinates": "45.722333, 19.057843"
+      "coordinates": "45.722333, 19.057843",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "BS",
   "country_name": "Bahamas",
   "total_airports": 77,
-  "last_updated": "2025-08-01T00:18:22.574266",
+  "last_updated": "2025-08-25T10:08:40.710033",
   "types_distribution": {
     "closed": 11,
     "small_airport": 26,
@@ -19,7 +19,8 @@
       "iso_country": "BS",
       "iso_region": "BS-EX",
       "municipality": "Fowl Cay",
-      "coordinates": "24.2707432941, -76.5409862995"
+      "coordinates": "24.2707432941, -76.5409862995",
+      "metar_available": false
     },
     {
       "ident": "BS-0002",
@@ -28,7 +29,8 @@
       "iso_country": "BS",
       "iso_region": "BS-RC",
       "municipality": "Port Nelson",
-      "coordinates": "23.651411, -74.845051"
+      "coordinates": "23.651411, -74.845051",
+      "metar_available": false
     },
     {
       "ident": "BS-0003",
@@ -38,7 +40,8 @@
       "iso_region": "BS-LI",
       "municipality": "Galliot Cay",
       "gps_code": "MYLM",
-      "coordinates": "23.649674, -75.32409"
+      "coordinates": "23.649674, -75.32409",
+      "metar_available": false
     },
     {
       "ident": "BS-0004",
@@ -48,7 +51,8 @@
       "iso_country": "BS",
       "iso_region": "BS-EX",
       "municipality": "Cave Cay",
-      "coordinates": "23.911301835800003, -76.27444982530001"
+      "coordinates": "23.911301835800003, -76.27444982530001",
+      "metar_available": false
     },
     {
       "ident": "BS-0005",
@@ -59,7 +63,8 @@
       "iso_region": "BS-EX",
       "municipality": "Little Farmers Cay",
       "gps_code": "MYXX",
-      "coordinates": "23.961372, -76.326206"
+      "coordinates": "23.961372, -76.326206",
+      "metar_available": false
     },
     {
       "ident": "BS-0006",
@@ -69,7 +74,8 @@
       "iso_country": "BS",
       "iso_region": "BS-SO",
       "municipality": "Castaway Cay",
-      "coordinates": "26.091254, -77.540721"
+      "coordinates": "26.091254, -77.540721",
+      "metar_available": false
     },
     {
       "ident": "BS-0007",
@@ -78,7 +84,8 @@
       "iso_country": "BS",
       "iso_region": "BS-NO",
       "municipality": "Grand Cay",
-      "coordinates": "27.22029, -78.31317"
+      "coordinates": "27.22029, -78.31317",
+      "metar_available": false
     },
     {
       "ident": "BS-0008",
@@ -87,7 +94,8 @@
       "iso_country": "BS",
       "iso_region": "BS-NP",
       "municipality": "Nassau",
-      "coordinates": "25.07765, -77.33321"
+      "coordinates": "25.07765, -77.33321",
+      "metar_available": false
     },
     {
       "ident": "BS-0009",
@@ -96,7 +104,8 @@
       "iso_country": "BS",
       "iso_region": "BS-CS",
       "municipality": "Twin Lakes",
-      "coordinates": "24.725569, -77.987201"
+      "coordinates": "24.725569, -77.987201",
+      "metar_available": false
     },
     {
       "ident": "BS-0010",
@@ -105,7 +114,8 @@
       "iso_country": "BS",
       "iso_region": "BS-EX",
       "municipality": "Overyonder Cay",
-      "coordinates": "24.2235, -76.48089"
+      "coordinates": "24.2235, -76.48089",
+      "metar_available": false
     },
     {
       "ident": "BS-0011",
@@ -114,7 +124,8 @@
       "iso_country": "BS",
       "iso_region": "BS-EX",
       "municipality": "Little Pipe Cay",
-      "coordinates": "24.234211, -76.500369"
+      "coordinates": "24.234211, -76.500369",
+      "metar_available": false
     },
     {
       "ident": "BS-0012",
@@ -123,7 +134,8 @@
       "iso_country": "BS",
       "iso_region": "BS-SA",
       "municipality": "Bastian Point Settlement",
-      "coordinates": "24.22775, -77.62271"
+      "coordinates": "24.22775, -77.62271",
+      "metar_available": false
     },
     {
       "ident": "BS-0013",
@@ -133,7 +145,8 @@
       "iso_country": "BS",
       "iso_region": "BS-EX",
       "municipality": "Soldier Cay",
-      "coordinates": "24.33196, -76.5553"
+      "coordinates": "24.33196, -76.5553",
+      "metar_available": false
     },
     {
       "ident": "BS-0014",
@@ -143,7 +156,8 @@
       "iso_country": "BS",
       "iso_region": "BS-CO",
       "municipality": "Marsh Harbour",
-      "coordinates": "26.54479, -77.04516"
+      "coordinates": "26.54479, -77.04516",
+      "metar_available": false
     },
     {
       "ident": "BS-0015",
@@ -153,7 +167,8 @@
       "iso_country": "BS",
       "iso_region": "BS-CO",
       "municipality": "Wilson City",
-      "coordinates": "26.37474, -77.00429"
+      "coordinates": "26.37474, -77.00429",
+      "metar_available": false
     },
     {
       "ident": "BS-0016",
@@ -163,7 +178,8 @@
       "iso_country": "BS",
       "iso_region": "BS-CO",
       "municipality": "Elbow Cay",
-      "coordinates": "26.54091, -76.95898"
+      "coordinates": "26.54091, -76.95898",
+      "metar_available": false
     },
     {
       "ident": "BS-0017",
@@ -173,7 +189,8 @@
       "iso_country": "BS",
       "iso_region": "BS-CS",
       "municipality": "Cargill Creek Settlement",
-      "coordinates": "24.49789, -77.71867"
+      "coordinates": "24.49789, -77.71867",
+      "metar_available": false
     },
     {
       "ident": "BS-0018",
@@ -183,7 +200,8 @@
       "iso_country": "BS",
       "iso_region": "BS-EX",
       "municipality": "George Town",
-      "coordinates": "23.4667, -75.7817"
+      "coordinates": "23.4667, -75.7817",
+      "metar_available": false
     },
     {
       "ident": "BS-0019",
@@ -193,7 +211,8 @@
       "iso_country": "BS",
       "iso_region": "BS-CI",
       "municipality": "Cutlass Bay",
-      "coordinates": "24.149141, -75.398"
+      "coordinates": "24.149141, -75.398",
+      "metar_available": false
     },
     {
       "ident": "BS-0020",
@@ -202,7 +221,8 @@
       "iso_country": "BS",
       "iso_region": "BS-NP",
       "municipality": "Nassau",
-      "coordinates": "25.078138, -77.298689"
+      "coordinates": "25.078138, -77.298689",
+      "metar_available": false
     },
     {
       "ident": "BS-0021",
@@ -212,7 +232,8 @@
       "iso_country": "BS",
       "iso_region": "BS-BY",
       "municipality": "Cistern Cay",
-      "coordinates": "25.7787, -77.885201"
+      "coordinates": "25.7787, -77.885201",
+      "metar_available": false
     },
     {
       "ident": "BS-0022",
@@ -222,7 +243,8 @@
       "iso_country": "BS",
       "iso_region": "BS-SE",
       "municipality": "Cape Eleuthera",
-      "coordinates": "24.7861, -76.2962"
+      "coordinates": "24.7861, -76.2962",
+      "metar_available": false
     },
     {
       "ident": "BS-NSB",
@@ -232,7 +254,8 @@
       "iso_region": "BS-BI",
       "municipality": "Bimini",
       "iata_code": "NSB",
-      "coordinates": "25.767, -79.25"
+      "coordinates": "25.767, -79.25",
+      "metar_available": false
     },
     {
       "ident": "MYA0",
@@ -244,7 +267,8 @@
       "municipality": "Moore's Island",
       "gps_code": "MYAO",
       "local_code": "MYAO",
-      "coordinates": "26.317729, -77.561331"
+      "coordinates": "26.317729, -77.561331",
+      "metar_available": false
     },
     {
       "ident": "MYAB",
@@ -256,7 +280,8 @@
       "municipality": "Mangrove Cay",
       "gps_code": "MYAB",
       "iata_code": "MAY",
-      "coordinates": "24.287701, -77.684601"
+      "coordinates": "24.287701, -77.684601",
+      "metar_available": false
     },
     {
       "ident": "MYAF",
@@ -268,7 +293,8 @@
       "municipality": "Andros Town",
       "gps_code": "MYAF",
       "iata_code": "ASD",
-      "coordinates": "24.697901, -77.795601"
+      "coordinates": "24.697901, -77.795601",
+      "metar_available": false
     },
     {
       "ident": "MYAK",
@@ -281,7 +307,8 @@
       "gps_code": "MYAK",
       "iata_code": "TZN",
       "local_code": "COX",
-      "coordinates": "24.158701, -77.589798"
+      "coordinates": "24.158701, -77.589798",
+      "metar_available": false
     },
     {
       "ident": "MYAM",
@@ -293,7 +320,8 @@
       "municipality": "Marsh Harbour",
       "gps_code": "MYAM",
       "iata_code": "MHH",
-      "coordinates": "26.510711, -77.084262"
+      "coordinates": "26.510711, -77.084262",
+      "metar_available": false
     },
     {
       "ident": "MYAN",
@@ -305,7 +333,8 @@
       "municipality": "Andros Island",
       "gps_code": "MYAN",
       "iata_code": "SAQ",
-      "coordinates": "25.053800582885742, -78.04900360107422"
+      "coordinates": "25.053800582885742, -78.04900360107422",
+      "metar_available": false
     },
     {
       "ident": "MYAP",
@@ -317,7 +346,8 @@
       "municipality": "Spring Point",
       "gps_code": "MYAP",
       "iata_code": "AXP",
-      "coordinates": "22.441799, -73.970901"
+      "coordinates": "22.441799, -73.970901",
+      "metar_available": false
     },
     {
       "ident": "MYAS",
@@ -328,7 +358,8 @@
       "iso_region": "BS-SO",
       "municipality": "Sandy Point",
       "gps_code": "MYAS",
-      "coordinates": "26.004698, -77.395622"
+      "coordinates": "26.004698, -77.395622",
+      "metar_available": false
     },
     {
       "ident": "MYAT",
@@ -340,7 +371,8 @@
       "municipality": "Treasure Cay",
       "gps_code": "MYAT",
       "iata_code": "TCB",
-      "coordinates": "26.745300293, -77.3912963867"
+      "coordinates": "26.745300293, -77.3912963867",
+      "metar_available": false
     },
     {
       "ident": "MYAW",
@@ -352,7 +384,8 @@
       "municipality": "Walkers Cay",
       "gps_code": "MYAW",
       "iata_code": "WKR",
-      "coordinates": "27.259656, -78.400455"
+      "coordinates": "27.259656, -78.400455",
+      "metar_available": false
     },
     {
       "ident": "MYAX",
@@ -362,7 +395,8 @@
       "iso_country": "BS",
       "iso_region": "BS-NO",
       "gps_code": "MYAX",
-      "coordinates": "26.9503, -77.5438"
+      "coordinates": "26.9503, -77.5438",
+      "metar_available": false
     },
     {
       "ident": "MYBC",
@@ -374,7 +408,8 @@
       "municipality": "Chub Cay",
       "gps_code": "MYBC",
       "iata_code": "CCZ",
-      "coordinates": "25.417101, -77.880898"
+      "coordinates": "25.417101, -77.880898",
+      "metar_available": false
     },
     {
       "ident": "MYBG",
@@ -386,7 +421,8 @@
       "municipality": "Bullocks Harbour",
       "gps_code": "MYBG",
       "iata_code": "GHC",
-      "coordinates": "25.7383, -77.840103"
+      "coordinates": "25.7383, -77.840103",
+      "metar_available": false
     },
     {
       "ident": "MYBO",
@@ -397,7 +433,8 @@
       "iso_region": "BS-BI",
       "municipality": "Ocean Cay",
       "gps_code": "MYBO",
-      "coordinates": "25.424885, -79.210192"
+      "coordinates": "25.424885, -79.210192",
+      "metar_available": false
     },
     {
       "ident": "MYBS",
@@ -409,7 +446,8 @@
       "municipality": "South Bimini",
       "gps_code": "MYBS",
       "iata_code": "BIM",
-      "coordinates": "25.6998996735, -79.2647018433"
+      "coordinates": "25.6998996735, -79.2647018433",
+      "metar_available": false
     },
     {
       "ident": "MYCA",
@@ -421,7 +459,8 @@
       "municipality": "Arthur's Town",
       "gps_code": "MYCA",
       "iata_code": "ATC",
-      "coordinates": "24.6294, -75.673797"
+      "coordinates": "24.6294, -75.673797",
+      "metar_available": false
     },
     {
       "ident": "MYCB",
@@ -433,7 +472,8 @@
       "municipality": "Cat Island",
       "gps_code": "MYCB",
       "iata_code": "TBI",
-      "coordinates": "24.3153, -75.452301"
+      "coordinates": "24.3153, -75.452301",
+      "metar_available": false
     },
     {
       "ident": "MYCC",
@@ -445,7 +485,8 @@
       "municipality": "North Cat Cay",
       "gps_code": "MYCC",
       "iata_code": "CXY",
-      "coordinates": "25.554425, -79.275404"
+      "coordinates": "25.554425, -79.275404",
+      "metar_available": false
     },
     {
       "ident": "MYCH",
@@ -456,7 +497,8 @@
       "iso_region": "BS-CI",
       "municipality": "Hawks Nest Creek",
       "gps_code": "MYCH",
-      "coordinates": "24.15449, -75.51796"
+      "coordinates": "24.15449, -75.51796",
+      "metar_available": false
     },
     {
       "ident": "MYCI",
@@ -468,7 +510,8 @@
       "municipality": "Colonel Hill",
       "gps_code": "MYCI",
       "iata_code": "CRI",
-      "coordinates": "22.7456, -74.182404"
+      "coordinates": "22.7456, -74.182404",
+      "metar_available": false
     },
     {
       "ident": "MYCP",
@@ -479,7 +522,8 @@
       "municipality": "Pitts Town",
       "gps_code": "MYCP",
       "iata_code": "PWN",
-      "coordinates": "22.8297, -74.3461"
+      "coordinates": "22.8297, -74.3461",
+      "metar_available": false
     },
     {
       "ident": "MYCS",
@@ -490,7 +534,8 @@
       "iso_region": "BS-BI",
       "municipality": "Cay Sal",
       "gps_code": "MYCS",
-      "coordinates": "23.697625, -80.389781"
+      "coordinates": "23.697625, -80.389781",
+      "metar_available": false
     },
     {
       "ident": "MYCZ",
@@ -502,7 +547,8 @@
       "municipality": "Andros Town",
       "gps_code": "MYCZ",
       "local_code": "NCZ",
-      "coordinates": "24.709722, -77.7725"
+      "coordinates": "24.709722, -77.7725",
+      "metar_available": false
     },
     {
       "ident": "MYEB",
@@ -513,7 +559,8 @@
       "iso_region": "BS-EX",
       "municipality": "Black Point",
       "gps_code": "MYEB",
-      "coordinates": "24.089488, -76.397917"
+      "coordinates": "24.089488, -76.397917",
+      "metar_available": false
     },
     {
       "ident": "MYEF",
@@ -525,7 +572,8 @@
       "municipality": "Moss Town",
       "gps_code": "MYEF",
       "iata_code": "GGT",
-      "coordinates": "23.562599, -75.877998"
+      "coordinates": "23.562599, -75.877998",
+      "metar_available": false
     },
     {
       "ident": "MYEH",
@@ -537,7 +585,8 @@
       "municipality": "North Eleuthera",
       "gps_code": "MYEH",
       "iata_code": "ELH",
-      "coordinates": "25.474899292, -76.6835021973"
+      "coordinates": "25.474899292, -76.6835021973",
+      "metar_available": false
     },
     {
       "ident": "MYEL",
@@ -547,7 +596,8 @@
       "iso_region": "BS-EX",
       "municipality": "Lee Stocking",
       "gps_code": "MYEL",
-      "coordinates": "23.7756, -76.1036"
+      "coordinates": "23.7756, -76.1036",
+      "metar_available": false
     },
     {
       "ident": "MYEM",
@@ -559,7 +609,8 @@
       "municipality": "Governor's Harbour",
       "gps_code": "MYEM",
       "iata_code": "GHB",
-      "coordinates": "25.2847, -76.331001"
+      "coordinates": "25.2847, -76.331001",
+      "metar_available": false
     },
     {
       "ident": "MYEN",
@@ -571,7 +622,8 @@
       "municipality": "Normans Cay",
       "gps_code": "MYEN",
       "iata_code": "NMC",
-      "coordinates": "24.594299, -76.820198"
+      "coordinates": "24.594299, -76.820198",
+      "metar_available": false
     },
     {
       "ident": "MYER",
@@ -583,7 +635,8 @@
       "municipality": "Rock Sound",
       "gps_code": "MYER",
       "iata_code": "RSD",
-      "coordinates": "24.8950787333, -76.1768817902"
+      "coordinates": "24.8950787333, -76.1768817902",
+      "metar_available": false
     },
     {
       "ident": "MYES",
@@ -595,7 +648,8 @@
       "municipality": "Staniel Cay",
       "gps_code": "MYES",
       "iata_code": "TYM",
-      "coordinates": "24.1691, -76.439102"
+      "coordinates": "24.1691, -76.439102",
+      "metar_available": false
     },
     {
       "ident": "MYEY",
@@ -606,7 +660,8 @@
       "iso_region": "BS-EX",
       "municipality": "Hog Cay",
       "gps_code": "MYTC",
-      "coordinates": "23.3972, -75.496902"
+      "coordinates": "23.3972, -75.496902",
+      "metar_available": false
     },
     {
       "ident": "MYGD",
@@ -616,7 +671,8 @@
       "iso_region": "BS-EG",
       "municipality": "Deep Water Cay",
       "gps_code": "MYGD",
-      "coordinates": "26.631701, -77.9217"
+      "coordinates": "26.631701, -77.9217",
+      "metar_available": false
     },
     {
       "ident": "MYGF",
@@ -628,7 +684,8 @@
       "municipality": "Freeport",
       "gps_code": "MYGF",
       "iata_code": "FPO",
-      "coordinates": "26.5587005615, -78.695602417"
+      "coordinates": "26.5587005615, -78.695602417",
+      "metar_available": false
     },
     {
       "ident": "MYGM",
@@ -639,7 +696,8 @@
       "iso_region": "BS-EG",
       "municipality": "High Rock",
       "gps_code": "MYGM",
-      "coordinates": "26.631901, -78.3592"
+      "coordinates": "26.631901, -78.3592",
+      "metar_available": false
     },
     {
       "ident": "MYGW",
@@ -651,7 +709,8 @@
       "municipality": "West End",
       "gps_code": "MYGW",
       "iata_code": "WTD",
-      "coordinates": "26.685301, -78.974998"
+      "coordinates": "26.685301, -78.974998",
+      "metar_available": false
     },
     {
       "ident": "MYIG",
@@ -663,7 +722,8 @@
       "municipality": "Matthew Town",
       "gps_code": "MYIG",
       "iata_code": "IGA",
-      "coordinates": "20.975, -73.666901"
+      "coordinates": "20.975, -73.666901",
+      "metar_available": false
     },
     {
       "ident": "MYLD",
@@ -675,7 +735,8 @@
       "municipality": "Deadman's Cay",
       "gps_code": "MYLD",
       "iata_code": "LGI",
-      "coordinates": "23.1790008545, -75.09359741210001"
+      "coordinates": "23.1790008545, -75.09359741210001",
+      "metar_available": false
     },
     {
       "ident": "MYLR",
@@ -684,7 +745,8 @@
       "iso_country": "BS",
       "iso_region": "BS-LI",
       "gps_code": "MYLR",
-      "coordinates": "23.011194, -74.905889"
+      "coordinates": "23.011194, -74.905889",
+      "metar_available": false
     },
     {
       "ident": "MYLS",
@@ -696,7 +758,8 @@
       "municipality": "Stella Maris",
       "gps_code": "MYLS",
       "iata_code": "SML",
-      "coordinates": "23.582317, -75.268621"
+      "coordinates": "23.582317, -75.268621",
+      "metar_available": false
     },
     {
       "ident": "MYMM",
@@ -708,7 +771,8 @@
       "municipality": "Abraham Bay Settlement",
       "gps_code": "MYMM",
       "iata_code": "MYG",
-      "coordinates": "22.379499, -73.013494"
+      "coordinates": "22.379499, -73.013494",
+      "metar_available": false
     },
     {
       "ident": "MYNN",
@@ -720,7 +784,8 @@
       "municipality": "Nassau",
       "gps_code": "MYNN",
       "iata_code": "NAS",
-      "coordinates": "25.039, -77.466202"
+      "coordinates": "25.039, -77.466202",
+      "metar_available": false
     },
     {
       "ident": "MYRD",
@@ -732,7 +797,8 @@
       "municipality": "Duncan Town",
       "gps_code": "MYRD",
       "iata_code": "DCT",
-      "coordinates": "22.181801, -75.7295"
+      "coordinates": "22.181801, -75.7295",
+      "metar_available": false
     },
     {
       "ident": "MYRP",
@@ -744,7 +810,8 @@
       "municipality": "Port Nelson",
       "gps_code": "MYRP",
       "iata_code": "RCY",
-      "coordinates": "23.68344, -74.836302"
+      "coordinates": "23.68344, -74.836302",
+      "metar_available": false
     },
     {
       "ident": "MYSM",
@@ -756,7 +823,8 @@
       "municipality": "San Salvador",
       "gps_code": "MYSM",
       "iata_code": "ZSA",
-      "coordinates": "24.063299, -74.524002"
+      "coordinates": "24.063299, -74.524002",
+      "metar_available": false
     },
     {
       "ident": "MYX4",
@@ -767,7 +835,8 @@
       "iso_region": "BS-NS",
       "municipality": "Big Whale Cay",
       "gps_code": "MYBW",
-      "coordinates": "25.399599, -77.791"
+      "coordinates": "25.399599, -77.791",
+      "metar_available": false
     },
     {
       "ident": "MYX6",
@@ -779,7 +848,8 @@
       "municipality": "Nassau",
       "gps_code": "MYX6",
       "local_code": "MYX6",
-      "coordinates": "25.04050064086914, -77.35150146484375"
+      "coordinates": "25.04050064086914, -77.35150146484375",
+      "metar_available": false
     },
     {
       "ident": "MYX7",
@@ -791,7 +861,8 @@
       "municipality": "Rudder Cut Cay",
       "gps_code": "MYX7",
       "local_code": "MYX7",
-      "coordinates": "23.88640022277832, -76.25370025634766"
+      "coordinates": "23.88640022277832, -76.25370025634766",
+      "metar_available": false
     },
     {
       "ident": "MYX8",
@@ -803,7 +874,8 @@
       "municipality": "Darby Island",
       "gps_code": "MYX8",
       "local_code": "MYX8",
-      "coordinates": "23.850299835205078, -76.22820281982422"
+      "coordinates": "23.850299835205078, -76.22820281982422",
+      "metar_available": false
     },
     {
       "ident": "MYXC",
@@ -815,7 +887,8 @@
       "municipality": "Long Island",
       "gps_code": "MYXC",
       "local_code": "MYXC",
-      "coordinates": "23.60070037841797, -75.33930206298828"
+      "coordinates": "23.60070037841797, -75.33930206298828",
+      "metar_available": false
     },
     {
       "ident": "MYXD",
@@ -825,7 +898,8 @@
       "iso_region": "BS-EX",
       "municipality": "Leaf Cay",
       "gps_code": "MYXD",
-      "coordinates": "24.149612, -76.473534"
+      "coordinates": "24.149612, -76.473534",
+      "metar_available": false
     },
     {
       "ident": "MYXF",
@@ -835,7 +909,8 @@
       "iso_region": "BS-EX",
       "municipality": "Little Darby Island",
       "gps_code": "MYXF",
-      "coordinates": "23.85814, -76.22309"
+      "coordinates": "23.85814, -76.22309",
+      "metar_available": false
     },
     {
       "ident": "MYXH",
@@ -847,7 +922,8 @@
       "municipality": "Sampson Cay",
       "gps_code": "MYXH",
       "local_code": "MYXH",
-      "coordinates": "24.216, -76.4785"
+      "coordinates": "24.216, -76.4785",
+      "metar_available": false
     },
     {
       "ident": "MYZ3",
@@ -859,7 +935,8 @@
       "municipality": "Little Whale Cay",
       "gps_code": "MYBX",
       "local_code": "MYZ3",
-      "coordinates": "25.449349, -77.759991"
+      "coordinates": "25.449349, -77.759991",
+      "metar_available": false
     }
   ]
 }

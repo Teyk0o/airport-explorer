@@ -2,7 +2,7 @@
   "country_code": "PR",
   "country_name": "Puerto Rico",
   "total_airports": 70,
-  "last_updated": "2025-08-01T00:18:22.366550",
+  "last_updated": "2025-08-25T10:08:40.486276",
   "types_distribution": {
     "small_airport": 11,
     "heliport": 40,
@@ -22,7 +22,8 @@
       "municipality": "Vega Baja",
       "gps_code": "02PR",
       "local_code": "02PR",
-      "coordinates": "18.464924, -66.363773"
+      "coordinates": "18.464924, -66.363773",
+      "metar_available": false
     },
     {
       "ident": "07PR",
@@ -34,7 +35,8 @@
       "municipality": "Isabela",
       "gps_code": "07PR",
       "local_code": "07PR",
-      "coordinates": "18.489403, -67.026333"
+      "coordinates": "18.489403, -67.026333",
+      "metar_available": false
     },
     {
       "ident": "12PR",
@@ -46,7 +48,8 @@
       "municipality": "San Juan",
       "gps_code": "12PR",
       "local_code": "12PR",
-      "coordinates": "18.42259979248047, -66.05699920654297"
+      "coordinates": "18.42259979248047, -66.05699920654297",
+      "metar_available": false
     },
     {
       "ident": "14PR",
@@ -58,7 +61,8 @@
       "municipality": "Rio Grande",
       "gps_code": "14PR",
       "local_code": "14PR",
-      "coordinates": "18.407301, -65.798751"
+      "coordinates": "18.407301, -65.798751",
+      "metar_available": false
     },
     {
       "ident": "1PR3",
@@ -70,7 +74,8 @@
       "municipality": "Guaynabo",
       "gps_code": "1PR3",
       "local_code": "1PR3",
-      "coordinates": "18.406099319458008, -66.10600280761719"
+      "coordinates": "18.406099319458008, -66.10600280761719",
+      "metar_available": false
     },
     {
       "ident": "28PR",
@@ -82,7 +87,8 @@
       "municipality": "San German",
       "gps_code": "28PR",
       "local_code": "28PR",
-      "coordinates": "18.108699798583984, -67.03939819335938"
+      "coordinates": "18.108699798583984, -67.03939819335938",
+      "metar_available": false
     },
     {
       "ident": "70PR",
@@ -94,7 +100,8 @@
       "municipality": "Ponce",
       "gps_code": "70PR",
       "local_code": "70PR",
-      "coordinates": "18.004055, -66.584213"
+      "coordinates": "18.004055, -66.584213",
+      "metar_available": false
     },
     {
       "ident": "9PR1",
@@ -106,7 +113,8 @@
       "municipality": "Guaynabo",
       "gps_code": "9PR1",
       "local_code": "9PR1",
-      "coordinates": "18.330966, -66.098315"
+      "coordinates": "18.330966, -66.098315",
+      "metar_available": false
     },
     {
       "ident": "PR-0001",
@@ -116,7 +124,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Mona Island",
-      "coordinates": "18.07651, -67.931628"
+      "coordinates": "18.07651, -67.931628",
+      "metar_available": false
     },
     {
       "ident": "PR-0002",
@@ -126,7 +135,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Potala Pastillo",
-      "coordinates": "18.008399963378906, -66.50669860839844"
+      "coordinates": "18.008399963378906, -66.50669860839844",
+      "metar_available": false
     },
     {
       "ident": "PR-0003",
@@ -136,7 +146,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Aceitunas",
-      "coordinates": "18.448699951171875, -67.0625991821289"
+      "coordinates": "18.448699951171875, -67.0625991821289",
+      "metar_available": false
     },
     {
       "ident": "PR-0004",
@@ -146,7 +157,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Salinas",
-      "coordinates": "17.970482, -66.266021"
+      "coordinates": "17.970482, -66.266021",
+      "metar_available": false
     },
     {
       "ident": "PR-0005",
@@ -158,7 +170,8 @@
       "municipality": "Humacao",
       "gps_code": "PR31",
       "local_code": "PR31",
-      "coordinates": "18.145183, -65.810236"
+      "coordinates": "18.145183, -65.810236",
+      "metar_available": false
     },
     {
       "ident": "PR-0006",
@@ -167,7 +180,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Cabo Rojo",
-      "coordinates": "18.384838, -67.487702"
+      "coordinates": "18.384838, -67.487702",
+      "metar_available": false
     },
     {
       "ident": "PR-0007",
@@ -176,7 +190,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Arecibo",
-      "coordinates": "18.47233, -66.69978"
+      "coordinates": "18.47233, -66.69978",
+      "metar_available": false
     },
     {
       "ident": "PR-0008",
@@ -185,7 +200,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Dorado",
-      "coordinates": "18.46689, -66.30187"
+      "coordinates": "18.46689, -66.30187",
+      "metar_available": false
     },
     {
       "ident": "PR-0009",
@@ -195,7 +211,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Fajardo",
-      "coordinates": "18.308901, -65.661903"
+      "coordinates": "18.308901, -65.661903",
+      "metar_available": false
     },
     {
       "ident": "PR-0010",
@@ -205,7 +222,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Las Piedras",
-      "coordinates": "18.2019, -65.839104"
+      "coordinates": "18.2019, -65.839104",
+      "metar_available": false
     },
     {
       "ident": "PR-0011",
@@ -215,7 +233,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "San Juan",
-      "coordinates": "18.42794, -66.105605"
+      "coordinates": "18.42794, -66.105605",
+      "metar_available": false
     },
     {
       "ident": "PR-0012",
@@ -225,7 +244,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Dorado",
-      "coordinates": "18.4649657136, -66.295580864"
+      "coordinates": "18.4649657136, -66.295580864",
+      "metar_available": false
     },
     {
       "ident": "PR-0013",
@@ -235,7 +255,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Palmas del Mar",
-      "coordinates": "18.086200714111, -65.796501159668"
+      "coordinates": "18.086200714111, -65.796501159668",
+      "metar_available": false
     },
     {
       "ident": "PR-0014",
@@ -245,7 +266,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Vieques Island",
-      "coordinates": "18.115801, -65.422699"
+      "coordinates": "18.115801, -65.422699",
+      "metar_available": false
     },
     {
       "ident": "PR-0015",
@@ -255,7 +277,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Guaynabo",
-      "coordinates": "18.314792, -66.093517"
+      "coordinates": "18.314792, -66.093517",
+      "metar_available": false
     },
     {
       "ident": "PR-HUC",
@@ -267,7 +290,8 @@
       "municipality": "Humacao",
       "iata_code": "HUC",
       "local_code": "X63",
-      "coordinates": "18.138082, -65.800728"
+      "coordinates": "18.138082, -65.800728",
+      "metar_available": false
     },
     {
       "ident": "PR01",
@@ -279,7 +303,8 @@
       "municipality": "San Juan",
       "gps_code": "PR01",
       "local_code": "PR01",
-      "coordinates": "18.419200897216797, -66.05670166015625"
+      "coordinates": "18.419200897216797, -66.05670166015625",
+      "metar_available": false
     },
     {
       "ident": "PR02",
@@ -291,7 +316,8 @@
       "municipality": "Toa Alta",
       "gps_code": "PR02",
       "local_code": "PR02",
-      "coordinates": "18.352500915527344, -66.23639678955078"
+      "coordinates": "18.352500915527344, -66.23639678955078",
+      "metar_available": false
     },
     {
       "ident": "PR03",
@@ -302,7 +328,8 @@
       "municipality": "Fajardo",
       "gps_code": "PR03",
       "local_code": "PR03",
-      "coordinates": "18.33970069885254, -65.62460327148438"
+      "coordinates": "18.33970069885254, -65.62460327148438",
+      "metar_available": false
     },
     {
       "ident": "PR04",
@@ -314,7 +341,8 @@
       "municipality": "Humacao",
       "gps_code": "PR04",
       "local_code": "PR04",
-      "coordinates": "18.148799896240234, -65.7938003540039"
+      "coordinates": "18.148799896240234, -65.7938003540039",
+      "metar_available": false
     },
     {
       "ident": "PR06",
@@ -326,7 +354,8 @@
       "municipality": "Culebra",
       "gps_code": "PR06",
       "local_code": "PR06",
-      "coordinates": "18.299999237060547, -65.2833023071289"
+      "coordinates": "18.299999237060547, -65.2833023071289",
+      "metar_available": false
     },
     {
       "ident": "PR08",
@@ -338,7 +367,8 @@
       "municipality": "San German",
       "gps_code": "PR08",
       "local_code": "PR08",
-      "coordinates": "18.08609962463379, -67.02799987792969"
+      "coordinates": "18.08609962463379, -67.02799987792969",
+      "metar_available": false
     },
     {
       "ident": "PR09",
@@ -350,7 +380,8 @@
       "municipality": "Mayaguez",
       "gps_code": "PR09",
       "local_code": "PR09",
-      "coordinates": "18.17609977722168, -67.14669799804688"
+      "coordinates": "18.17609977722168, -67.14669799804688",
+      "metar_available": false
     },
     {
       "ident": "PR10",
@@ -362,7 +393,8 @@
       "municipality": "Cabo Rojo",
       "gps_code": "PR10",
       "local_code": "PR10",
-      "coordinates": "18.010700225830078, -67.14129638671875"
+      "coordinates": "18.010700225830078, -67.14129638671875",
+      "metar_available": false
     },
     {
       "ident": "PR11",
@@ -374,7 +406,8 @@
       "municipality": "Puerto Nuevo",
       "gps_code": "PR11",
       "local_code": "PR11",
-      "coordinates": "18.415199279785156, -66.12680053710938"
+      "coordinates": "18.415199279785156, -66.12680053710938",
+      "metar_available": false
     },
     {
       "ident": "PR12",
@@ -386,7 +419,8 @@
       "municipality": "San Juan",
       "gps_code": "PR12",
       "local_code": "PR12",
-      "coordinates": "18.449399948120117, -66.06659698486328"
+      "coordinates": "18.449399948120117, -66.06659698486328",
+      "metar_available": false
     },
     {
       "ident": "PR13",
@@ -398,7 +432,8 @@
       "municipality": "San Juan",
       "gps_code": "PR13",
       "local_code": "PR13",
-      "coordinates": "18.417400360107422, -66.07769775390625"
+      "coordinates": "18.417400360107422, -66.07769775390625",
+      "metar_available": false
     },
     {
       "ident": "PR14",
@@ -410,7 +445,8 @@
       "municipality": "Jayuya",
       "gps_code": "PR14",
       "local_code": "PR14",
-      "coordinates": "18.21109962463379, -66.62930297851562"
+      "coordinates": "18.21109962463379, -66.62930297851562",
+      "metar_available": false
     },
     {
       "ident": "PR15",
@@ -422,7 +458,8 @@
       "municipality": "Lajas",
       "gps_code": "PR15",
       "local_code": "PR15",
-      "coordinates": "17.975000381469727, -67.04440307617188"
+      "coordinates": "17.975000381469727, -67.04440307617188",
+      "metar_available": false
     },
     {
       "ident": "PR16",
@@ -434,7 +471,8 @@
       "municipality": "San Juan",
       "gps_code": "PR16",
       "local_code": "PR16",
-      "coordinates": "18.427400588989258, -66.05879974365234"
+      "coordinates": "18.427400588989258, -66.05879974365234",
+      "metar_available": false
     },
     {
       "ident": "PR17",
@@ -446,7 +484,8 @@
       "municipality": "San Juan",
       "gps_code": "PR17",
       "local_code": "PR17",
-      "coordinates": "18.414100646972656, -66.0438003540039"
+      "coordinates": "18.414100646972656, -66.0438003540039",
+      "metar_available": false
     },
     {
       "ident": "PR19",
@@ -458,7 +497,8 @@
       "municipality": "Orocovis",
       "gps_code": "PR19",
       "local_code": "PR19",
-      "coordinates": "18.226600646972656, -66.39430236816406"
+      "coordinates": "18.226600646972656, -66.39430236816406",
+      "metar_available": false
     },
     {
       "ident": "PR20",
@@ -470,7 +510,8 @@
       "municipality": "Adjuntas",
       "gps_code": "PR20",
       "local_code": "PR20",
-      "coordinates": "18.1802, -66.756897"
+      "coordinates": "18.1802, -66.756897",
+      "metar_available": false
     },
     {
       "ident": "PR21",
@@ -482,7 +523,8 @@
       "municipality": "Guaynabo",
       "gps_code": "PR21",
       "local_code": "PR21",
-      "coordinates": "18.415000915527344, -66.13189697265625"
+      "coordinates": "18.415000915527344, -66.13189697265625",
+      "metar_available": false
     },
     {
       "ident": "PR22",
@@ -494,7 +536,8 @@
       "municipality": "San Juan",
       "gps_code": "PR22",
       "local_code": "PR22",
-      "coordinates": "18.449199676513672, -66.06639862060547"
+      "coordinates": "18.449199676513672, -66.06639862060547",
+      "metar_available": false
     },
     {
       "ident": "PR23",
@@ -506,7 +549,8 @@
       "municipality": "Aibonito",
       "gps_code": "PR23",
       "local_code": "PR23",
-      "coordinates": "18.139699935913086, -66.26629638671875"
+      "coordinates": "18.139699935913086, -66.26629638671875",
+      "metar_available": false
     },
     {
       "ident": "PR24",
@@ -518,7 +562,8 @@
       "municipality": "Boqueron",
       "gps_code": "PR24",
       "local_code": "PR24",
-      "coordinates": "17.97640037536621, -67.1707992553711"
+      "coordinates": "17.97640037536621, -67.1707992553711",
+      "metar_available": false
     },
     {
       "ident": "PR25",
@@ -529,7 +574,8 @@
       "iso_region": "PR-U-A",
       "municipality": "Lajas",
       "local_code": "PR25",
-      "coordinates": "18.0125007629, -67.0691986084"
+      "coordinates": "18.0125007629, -67.0691986084",
+      "metar_available": false
     },
     {
       "ident": "PR26",
@@ -541,7 +587,8 @@
       "municipality": "Fajardo",
       "gps_code": "PR26",
       "local_code": "PR26",
-      "coordinates": "18.331300735473633, -65.63289642333984"
+      "coordinates": "18.331300735473633, -65.63289642333984",
+      "metar_available": false
     },
     {
       "ident": "PR27",
@@ -553,7 +600,8 @@
       "municipality": "Santa Isabel",
       "gps_code": "PR27",
       "local_code": "PR27",
-      "coordinates": "17.963199615478516, -66.39119720458984"
+      "coordinates": "17.963199615478516, -66.39119720458984",
+      "metar_available": false
     },
     {
       "ident": "PR28",
@@ -565,7 +613,8 @@
       "municipality": "Isabela",
       "gps_code": "PR28",
       "local_code": "PR28",
-      "coordinates": "18.494199752807617, -67.02420043945312"
+      "coordinates": "18.494199752807617, -67.02420043945312",
+      "metar_available": false
     },
     {
       "ident": "PR29",
@@ -575,7 +624,8 @@
       "iso_country": "PR",
       "iso_region": "PR-U-A",
       "municipality": "Mayaguez",
-      "coordinates": "18.158899307250977, -67.14640045166016"
+      "coordinates": "18.158899307250977, -67.14640045166016",
+      "metar_available": false
     },
     {
       "ident": "PR30",
@@ -587,7 +637,8 @@
       "municipality": "San Juan",
       "gps_code": "PR30",
       "local_code": "PR30",
-      "coordinates": "18.411100387573242, -66.10160064697266"
+      "coordinates": "18.411100387573242, -66.10160064697266",
+      "metar_available": false
     },
     {
       "ident": "PR32",
@@ -599,7 +650,8 @@
       "municipality": "Manati",
       "gps_code": "PR32",
       "local_code": "PR32",
-      "coordinates": "18.4335994720459, -66.48359680175781"
+      "coordinates": "18.4335994720459, -66.48359680175781",
+      "metar_available": false
     },
     {
       "ident": "PR33",
@@ -611,7 +663,8 @@
       "municipality": "Bayamon",
       "gps_code": "PR33",
       "local_code": "PR33",
-      "coordinates": "18.36750030517578, -66.15380096435547"
+      "coordinates": "18.36750030517578, -66.15380096435547",
+      "metar_available": false
     },
     {
       "ident": "PR34",
@@ -623,7 +676,8 @@
       "municipality": "San Juan",
       "gps_code": "PR34",
       "local_code": "PR34",
-      "coordinates": "18.457799911499997, -66.1211013794"
+      "coordinates": "18.457799911499997, -66.1211013794",
+      "metar_available": false
     },
     {
       "ident": "PR41",
@@ -635,7 +689,8 @@
       "municipality": "San Lorenzo",
       "gps_code": "PR41",
       "local_code": "PR41",
-      "coordinates": "18.191747, -65.982105"
+      "coordinates": "18.191747, -65.982105",
+      "metar_available": false
     },
     {
       "ident": "PR42",
@@ -647,7 +702,8 @@
       "municipality": "San Juan",
       "gps_code": "PR42",
       "local_code": "PR42",
-      "coordinates": "18.395072, -66.051283"
+      "coordinates": "18.395072, -66.051283",
+      "metar_available": false
     },
     {
       "ident": "PR53",
@@ -659,7 +715,8 @@
       "municipality": "Cidra",
       "gps_code": "PR53",
       "local_code": "PR53",
-      "coordinates": "18.190799713134766, -66.12079620361328"
+      "coordinates": "18.190799713134766, -66.12079620361328",
+      "metar_available": false
     },
     {
       "ident": "PR68",
@@ -671,7 +728,8 @@
       "municipality": "Hato Rey",
       "gps_code": "PR68",
       "local_code": "PR68",
-      "coordinates": "18.415300369262695, -66.07579803466797"
+      "coordinates": "18.415300369262695, -66.07579803466797",
+      "metar_available": false
     },
     {
       "ident": "PR93",
@@ -683,7 +741,8 @@
       "municipality": "San Lorenzo",
       "gps_code": "PR93",
       "local_code": "PR93",
-      "coordinates": "18.137822, -65.982305"
+      "coordinates": "18.137822, -65.982305",
+      "metar_available": false
     },
     {
       "ident": "PR99",
@@ -695,7 +754,8 @@
       "municipality": "San Juan",
       "gps_code": "PR99",
       "local_code": "PR99",
-      "coordinates": "18.395556, -66.073611"
+      "coordinates": "18.395556, -66.073611",
+      "metar_available": false
     },
     {
       "ident": "TJAB",
@@ -708,7 +768,8 @@
       "gps_code": "TJAB",
       "iata_code": "ARE",
       "local_code": "ABO",
-      "coordinates": "18.45085, -66.675768"
+      "coordinates": "18.45085, -66.675768",
+      "metar_available": false
     },
     {
       "ident": "TJBQ",
@@ -721,7 +782,8 @@
       "gps_code": "TJBQ",
       "iata_code": "BQN",
       "local_code": "BQN",
-      "coordinates": "18.4949, -67.129402"
+      "coordinates": "18.4949, -67.129402",
+      "metar_available": false
     },
     {
       "ident": "TJCP",
@@ -734,7 +796,8 @@
       "gps_code": "TJCP",
       "iata_code": "CPX",
       "local_code": "CPX",
-      "coordinates": "18.312954, -65.303893"
+      "coordinates": "18.312954, -65.303893",
+      "metar_available": false
     },
     {
       "ident": "TJIG",
@@ -747,7 +810,8 @@
       "gps_code": "TJIG",
       "iata_code": "SIG",
       "local_code": "SIG",
-      "coordinates": "18.45680046081543, -66.09809875488281"
+      "coordinates": "18.45680046081543, -66.09809875488281",
+      "metar_available": false
     },
     {
       "ident": "TJMZ",
@@ -760,7 +824,8 @@
       "gps_code": "TJMZ",
       "iata_code": "MAZ",
       "local_code": "MAZ",
-      "coordinates": "18.255699157714844, -67.14849853515625"
+      "coordinates": "18.255699157714844, -67.14849853515625",
+      "metar_available": false
     },
     {
       "ident": "TJPS",
@@ -773,7 +838,8 @@
       "gps_code": "TJPS",
       "iata_code": "PSE",
       "local_code": "PSE",
-      "coordinates": "18.00830078125, -66.56300354003906"
+      "coordinates": "18.00830078125, -66.56300354003906",
+      "metar_available": false
     },
     {
       "ident": "TJRV",
@@ -786,7 +852,8 @@
       "gps_code": "TJRV",
       "iata_code": "NRR",
       "local_code": "RVR",
-      "coordinates": "18.2453, -65.643402"
+      "coordinates": "18.2453, -65.643402",
+      "metar_available": false
     },
     {
       "ident": "TJSJ",
@@ -799,7 +866,8 @@
       "gps_code": "TJSJ",
       "iata_code": "SJU",
       "local_code": "SJU",
-      "coordinates": "18.4394, -66.001801"
+      "coordinates": "18.4394, -66.001801",
+      "metar_available": false
     },
     {
       "ident": "TJVQ",
@@ -812,7 +880,8 @@
       "gps_code": "TJVQ",
       "iata_code": "VQS",
       "local_code": "VQS",
-      "coordinates": "18.1348, -65.493599"
+      "coordinates": "18.1348, -65.493599",
+      "metar_available": false
     },
     {
       "ident": "X64",
@@ -824,7 +893,8 @@
       "municipality": "Patillas",
       "gps_code": "X64",
       "local_code": "X64",
-      "coordinates": "17.982200622558594, -66.01930236816406"
+      "coordinates": "17.982200622558594, -66.01930236816406",
+      "metar_available": false
     }
   ]
 }

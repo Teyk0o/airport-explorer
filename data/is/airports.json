@@ -2,7 +2,7 @@
   "country_code": "IS",
   "country_name": "Iceland",
   "total_airports": 91,
-  "last_updated": "2025-08-01T00:18:22.492653",
+  "last_updated": "2025-08-25T10:08:40.623688",
   "types_distribution": {
     "small_airport": 73,
     "medium_airport": 8,
@@ -21,7 +21,8 @@
       "iso_region": "IS-4",
       "municipality": "Arngerðareyri",
       "gps_code": "BIAE",
-      "coordinates": "65.90470123291016, -22.363300323486328"
+      "coordinates": "65.90470123291016, -22.363300323486328",
+      "metar_available": false
     },
     {
       "ident": "BIAL",
@@ -33,7 +34,8 @@
       "iso_region": "IS-8",
       "municipality": "Álftaver",
       "gps_code": "BIAL",
-      "coordinates": "63.53979, -18.44374"
+      "coordinates": "63.53979, -18.44374",
+      "metar_available": false
     },
     {
       "ident": "BIAR",
@@ -46,7 +48,8 @@
       "municipality": "Akureyri",
       "gps_code": "BIAR",
       "iata_code": "AEY",
-      "coordinates": "65.656573, -18.072018"
+      "coordinates": "65.656573, -18.072018",
+      "metar_available": false
     },
     {
       "ident": "BIBA",
@@ -58,7 +61,8 @@
       "iso_region": "IS-8",
       "municipality": "Bakki",
       "gps_code": "BIBA",
-      "coordinates": "63.556099, -20.137501"
+      "coordinates": "63.556099, -20.137501",
+      "metar_available": false
     },
     {
       "ident": "BIBD",
@@ -71,7 +75,8 @@
       "municipality": "Bildudalur",
       "gps_code": "BIBD",
       "iata_code": "BIU",
-      "coordinates": "65.641296, -23.5462"
+      "coordinates": "65.641296, -23.5462",
+      "metar_available": false
     },
     {
       "ident": "BIBF",
@@ -84,7 +89,8 @@
       "municipality": "Borgarfjörður eystri",
       "gps_code": "BIBF",
       "iata_code": "BGJ",
-      "coordinates": "65.516769, -13.81578"
+      "coordinates": "65.516769, -13.81578",
+      "metar_available": false
     },
     {
       "ident": "BIBI",
@@ -96,7 +102,8 @@
       "iso_region": "IS-4",
       "municipality": "Baeir",
       "gps_code": "BIBI",
-      "coordinates": "66.097838, -22.569713"
+      "coordinates": "66.097838, -22.569713",
+      "metar_available": false
     },
     {
       "ident": "BIBK",
@@ -109,7 +116,8 @@
       "municipality": "Bakkafjörður",
       "gps_code": "BIBK",
       "iata_code": "BJD",
-      "coordinates": "66.02189636230469, -14.824399948120117"
+      "coordinates": "66.02189636230469, -14.824399948120117",
+      "metar_available": false
     },
     {
       "ident": "BIBL",
@@ -122,7 +130,8 @@
       "municipality": "Blönduós",
       "gps_code": "BIBL",
       "iata_code": "BLO",
-      "coordinates": "65.644997, -20.2875"
+      "coordinates": "65.644997, -20.2875",
+      "metar_available": false
     },
     {
       "ident": "BIBR",
@@ -135,7 +144,8 @@
       "municipality": "Búðardalur",
       "gps_code": "BIBR",
       "iata_code": "BQD",
-      "coordinates": "65.07530212402344, -21.80030059814453"
+      "coordinates": "65.07530212402344, -21.80030059814453",
+      "metar_available": false
     },
     {
       "ident": "BIBV",
@@ -148,7 +158,8 @@
       "municipality": "Breiðdalsvík",
       "gps_code": "BIBV",
       "iata_code": "BXV",
-      "coordinates": "64.790037, -14.043927"
+      "coordinates": "64.790037, -14.043927",
+      "metar_available": false
     },
     {
       "ident": "BIDA",
@@ -160,7 +171,8 @@
       "iso_region": "IS-3",
       "municipality": "Dagverðará",
       "gps_code": "BIDA",
-      "coordinates": "64.744617, -23.726521"
+      "coordinates": "64.744617, -23.726521",
+      "metar_available": false
     },
     {
       "ident": "BIDV",
@@ -173,7 +185,8 @@
       "municipality": "Djúpivogur",
       "gps_code": "BIDV",
       "iata_code": "DJU",
-      "coordinates": "64.642372, -14.277297"
+      "coordinates": "64.642372, -14.277297",
+      "metar_available": false
     },
     {
       "ident": "BIEG",
@@ -186,7 +199,8 @@
       "municipality": "Egilsstaðir",
       "gps_code": "BIEG",
       "iata_code": "EGS",
-      "coordinates": "65.2833023071289, -14.401399612426758"
+      "coordinates": "65.2833023071289, -14.401399612426758",
+      "metar_available": false
     },
     {
       "ident": "BIFF",
@@ -199,7 +213,8 @@
       "municipality": "Fáskrúðsfjörður",
       "gps_code": "BIFF",
       "iata_code": "FAS",
-      "coordinates": "64.931456, -14.047957"
+      "coordinates": "64.931456, -14.047957",
+      "metar_available": false
     },
     {
       "ident": "BIFL",
@@ -211,7 +226,8 @@
       "iso_region": "IS-8",
       "municipality": "Flúðir",
       "gps_code": "BIFL",
-      "coordinates": "64.1427993774414, -20.326099395751953"
+      "coordinates": "64.1427993774414, -20.326099395751953",
+      "metar_available": false
     },
     {
       "ident": "BIFM",
@@ -224,7 +240,8 @@
       "municipality": "Fagurhólsmýri",
       "gps_code": "BIFM",
       "iata_code": "FAG",
-      "coordinates": "63.874699, -16.6411"
+      "coordinates": "63.874699, -16.6411",
+      "metar_available": false
     },
     {
       "ident": "BIFZ",
@@ -236,7 +253,8 @@
       "iso_region": "IS-8",
       "municipality": "Forsæti",
       "gps_code": "BIFZ",
-      "coordinates": "63.84816, -20.716267"
+      "coordinates": "63.84816, -20.716267",
+      "metar_available": false
     },
     {
       "ident": "BIGF",
@@ -249,7 +267,8 @@
       "municipality": "Grundarfjörður",
       "gps_code": "BIGF",
       "iata_code": "GUU",
-      "coordinates": "64.991402, -23.224701"
+      "coordinates": "64.991402, -23.224701",
+      "metar_available": false
     },
     {
       "ident": "BIGH",
@@ -261,7 +280,8 @@
       "iso_region": "IS-8",
       "municipality": "Gunnarsholt",
       "gps_code": "BIGH",
-      "coordinates": "63.85329818725586, -20.262800216674805"
+      "coordinates": "63.85329818725586, -20.262800216674805",
+      "metar_available": false
     },
     {
       "ident": "BIGJ",
@@ -274,7 +294,8 @@
       "municipality": "Gjögur",
       "gps_code": "BIGJ",
       "iata_code": "GJR",
-      "coordinates": "65.9953, -21.3269"
+      "coordinates": "65.9953, -21.3269",
+      "metar_available": false
     },
     {
       "ident": "BIGR",
@@ -287,7 +308,8 @@
       "municipality": "Grímsey",
       "gps_code": "BIGR",
       "iata_code": "GRY",
-      "coordinates": "66.5458, -18.0173"
+      "coordinates": "66.5458, -18.0173",
+      "metar_available": false
     },
     {
       "ident": "BIGS",
@@ -299,7 +321,8 @@
       "iso_region": "IS-6",
       "municipality": "Grímsstaðir",
       "gps_code": "BIGS",
-      "coordinates": "65.63249969482422, -16.148300170898438"
+      "coordinates": "65.63249969482422, -16.148300170898438",
+      "metar_available": false
     },
     {
       "ident": "BIHE",
@@ -311,7 +334,8 @@
       "iso_region": "IS-7",
       "municipality": "Herðubreiðarlindir",
       "gps_code": "BIHE",
-      "coordinates": "65.188599, -16.1947"
+      "coordinates": "65.188599, -16.1947",
+      "metar_available": false
     },
     {
       "ident": "BIHI",
@@ -323,7 +347,8 @@
       "iso_region": "IS-5",
       "municipality": "Hveravellir",
       "gps_code": "BIHI",
-      "coordinates": "64.88610076904297, -19.49250030517578"
+      "coordinates": "64.88610076904297, -19.49250030517578",
+      "metar_available": false
     },
     {
       "ident": "BIHK",
@@ -336,7 +361,8 @@
       "municipality": "Hólmavík",
       "gps_code": "BIHK",
       "iata_code": "HVK",
-      "coordinates": "65.704697, -21.6964"
+      "coordinates": "65.704697, -21.6964",
+      "metar_available": false
     },
     {
       "ident": "BIHL",
@@ -348,7 +374,8 @@
       "iso_region": "IS-8",
       "municipality": "Hella",
       "gps_code": "BIHL",
-      "coordinates": "63.83580017089844, -20.377500534057617"
+      "coordinates": "63.83580017089844, -20.377500534057617",
+      "metar_available": false
     },
     {
       "ident": "BIHN",
@@ -361,7 +388,8 @@
       "municipality": "Höfn",
       "gps_code": "BIHN",
       "iata_code": "HFN",
-      "coordinates": "64.295601, -15.2272"
+      "coordinates": "64.295601, -15.2272",
+      "metar_available": false
     },
     {
       "ident": "BIHR",
@@ -373,7 +401,8 @@
       "iso_region": "IS-8",
       "municipality": "Hvolsvöllur",
       "gps_code": "BIHR",
-      "coordinates": "63.752743, -20.250893"
+      "coordinates": "63.752743, -20.250893",
+      "metar_available": false
     },
     {
       "ident": "BIHS",
@@ -385,7 +414,8 @@
       "iso_region": "IS-4",
       "municipality": "Hrafnseyri",
       "gps_code": "BIHS",
-      "coordinates": "65.75716, -23.461404"
+      "coordinates": "65.75716, -23.461404",
+      "metar_available": false
     },
     {
       "ident": "BIHT",
@@ -398,7 +428,8 @@
       "municipality": "Flateyri",
       "gps_code": "BIHT",
       "iata_code": "FLI",
-      "coordinates": "66.0141804294, -23.4416913986"
+      "coordinates": "66.0141804294, -23.4416913986",
+      "metar_available": false
     },
     {
       "ident": "BIHU",
@@ -411,7 +442,8 @@
       "municipality": "Húsavík",
       "gps_code": "BIHU",
       "iata_code": "HZK",
-      "coordinates": "65.952301, -17.426001"
+      "coordinates": "65.952301, -17.426001",
+      "metar_available": false
     },
     {
       "ident": "BIHV",
@@ -423,7 +455,8 @@
       "iso_region": "IS-5",
       "municipality": "Hvammstangi",
       "gps_code": "BIHV",
-      "coordinates": "65.270241, -20.848696"
+      "coordinates": "65.270241, -20.848696",
+      "metar_available": false
     },
     {
       "ident": "BIHY",
@@ -435,7 +468,8 @@
       "iso_region": "IS-6",
       "municipality": "Hrísey",
       "gps_code": "BIHY",
-      "coordinates": "65.989204, -18.394117"
+      "coordinates": "65.989204, -18.394117",
+      "metar_available": false
     },
     {
       "ident": "BIHZ",
@@ -447,7 +481,8 @@
       "iso_region": "IS-3",
       "municipality": "Húsafell",
       "gps_code": "BIHZ",
-      "coordinates": "64.69969940185547, -20.88360023498535"
+      "coordinates": "64.69969940185547, -20.88360023498535",
+      "metar_available": false
     },
     {
       "ident": "BIID",
@@ -460,7 +495,8 @@
       "municipality": "Onundarfjörður",
       "gps_code": "BIID",
       "iata_code": "HLO",
-      "coordinates": "66.05000305175781, -23.69610023498535"
+      "coordinates": "66.05000305175781, -23.69610023498535",
+      "metar_available": false
     },
     {
       "ident": "BIIS",
@@ -473,7 +509,8 @@
       "municipality": "Ísafjörður",
       "gps_code": "BIIS",
       "iata_code": "IFJ",
-      "coordinates": "66.058098, -23.1353"
+      "coordinates": "66.058098, -23.1353",
+      "metar_available": false
     },
     {
       "ident": "BIKA",
@@ -485,7 +522,8 @@
       "iso_region": "IS-3",
       "municipality": "Kaldármelar",
       "gps_code": "BIKA",
-      "coordinates": "64.77890014648438, -22.256900787353516"
+      "coordinates": "64.77890014648438, -22.256900787353516",
+      "metar_available": false
     },
     {
       "ident": "BIKE",
@@ -497,7 +535,8 @@
       "iso_region": "IS-8",
       "municipality": "Kerlingafjöll",
       "gps_code": "BIKE",
-      "coordinates": "64.70500183105469, -19.410600662231445"
+      "coordinates": "64.70500183105469, -19.410600662231445",
+      "metar_available": false
     },
     {
       "ident": "BIKF",
@@ -510,7 +549,8 @@
       "municipality": "Reykjavík",
       "gps_code": "BIKF",
       "iata_code": "KEF",
-      "coordinates": "63.985001, -22.6056"
+      "coordinates": "63.985001, -22.6056",
+      "metar_available": false
     },
     {
       "ident": "BIKJ",
@@ -522,7 +562,8 @@
       "iso_region": "IS-4",
       "municipality": "Kroksfjard-arnes",
       "gps_code": "BIKJ",
-      "coordinates": "65.46700286865234, -21.950000762939453"
+      "coordinates": "65.46700286865234, -21.950000762939453",
+      "metar_available": false
     },
     {
       "ident": "BIKL",
@@ -534,7 +575,8 @@
       "iso_region": "IS-8",
       "municipality": "Kirkjubæjarklaustur",
       "gps_code": "BIKL",
-      "coordinates": "63.792685, -18.004684"
+      "coordinates": "63.792685, -18.004684",
+      "metar_available": false
     },
     {
       "ident": "BIKP",
@@ -547,7 +589,8 @@
       "municipality": "Kópasker",
       "gps_code": "BIKP",
       "iata_code": "OPA",
-      "coordinates": "66.310799, -16.4667"
+      "coordinates": "66.310799, -16.4667",
+      "metar_available": false
     },
     {
       "ident": "BIKR",
@@ -560,7 +603,8 @@
       "municipality": "Sauðárkrókur",
       "gps_code": "BIKR",
       "iata_code": "SAK",
-      "coordinates": "65.73169708249999, -19.572799682599996"
+      "coordinates": "65.73169708249999, -19.572799682599996",
+      "metar_available": false
     },
     {
       "ident": "BIMK",
@@ -572,7 +616,8 @@
       "iso_region": "IS-8",
       "municipality": "Múlakot",
       "gps_code": "BIMK",
-      "coordinates": "63.71419906616211, -19.879199981689453"
+      "coordinates": "63.71419906616211, -19.879199981689453",
+      "metar_available": false
     },
     {
       "ident": "BIMM",
@@ -584,7 +629,8 @@
       "iso_region": "IS-6",
       "municipality": "Melgerðismelar",
       "gps_code": "BIMM",
-      "coordinates": "65.4832992553711, -18.16670036315918"
+      "coordinates": "65.4832992553711, -18.16670036315918",
+      "metar_available": false
     },
     {
       "ident": "BIMS",
@@ -596,7 +642,8 @@
       "iso_region": "IS-1",
       "municipality": "Tungubakkar",
       "gps_code": "BIMS",
-      "coordinates": "64.18109893798828, -21.707799911499023"
+      "coordinates": "64.18109893798828, -21.707799911499023",
+      "metar_available": false
     },
     {
       "ident": "BIND",
@@ -608,7 +655,8 @@
       "iso_region": "IS-8",
       "municipality": "Nýjidalur",
       "gps_code": "BIND",
-      "coordinates": "64.72059631347656, -18.066699981689453"
+      "coordinates": "64.72059631347656, -18.066699981689453",
+      "metar_available": false
     },
     {
       "ident": "BINF",
@@ -621,7 +669,8 @@
       "municipality": "Norðfjörður",
       "gps_code": "BINF",
       "iata_code": "NOR",
-      "coordinates": "65.131897, -13.7464"
+      "coordinates": "65.131897, -13.7464",
+      "metar_available": false
     },
     {
       "ident": "BIOF",
@@ -634,7 +683,8 @@
       "municipality": "Ólafsfjörður",
       "gps_code": "BIOF",
       "iata_code": "OFJ",
-      "coordinates": "66.083298, -18.6667"
+      "coordinates": "66.083298, -18.6667",
+      "metar_available": false
     },
     {
       "ident": "BIPA",
@@ -647,7 +697,8 @@
       "municipality": "Patreksfjörður",
       "gps_code": "BIPA",
       "iata_code": "PFJ",
-      "coordinates": "65.555801, -23.965"
+      "coordinates": "65.555801, -23.965",
+      "metar_available": false
     },
     {
       "ident": "BIRE",
@@ -660,7 +711,8 @@
       "municipality": "Reykhólar",
       "gps_code": "BIRE",
       "iata_code": "RHA",
-      "coordinates": "65.45262908935547, -22.20611572265625"
+      "coordinates": "65.45262908935547, -22.20611572265625",
+      "metar_available": false
     },
     {
       "ident": "BIRF",
@@ -673,7 +725,8 @@
       "municipality": "Rif",
       "gps_code": "BIRF",
       "iata_code": "OLI",
-      "coordinates": "64.9114, -23.823099"
+      "coordinates": "64.9114, -23.823099",
+      "metar_available": false
     },
     {
       "ident": "BIRG",
@@ -686,7 +739,8 @@
       "municipality": "Raufarhöfn",
       "gps_code": "BIRG",
       "iata_code": "RFN",
-      "coordinates": "66.406403, -15.9183"
+      "coordinates": "66.406403, -15.9183",
+      "metar_available": false
     },
     {
       "ident": "BIRK",
@@ -699,7 +753,8 @@
       "municipality": "Reykjavík",
       "gps_code": "BIRK",
       "iata_code": "RKV",
-      "coordinates": "64.128732, -21.93759"
+      "coordinates": "64.128732, -21.93759",
+      "metar_available": false
     },
     {
       "ident": "BIRL",
@@ -712,7 +767,8 @@
       "municipality": "Myvatn",
       "gps_code": "BIRL",
       "iata_code": "MVA",
-      "coordinates": "65.6558, -16.9181"
+      "coordinates": "65.6558, -16.9181",
+      "metar_available": false
     },
     {
       "ident": "BIRS",
@@ -724,7 +780,8 @@
       "iso_region": "IS-4",
       "municipality": "Reykjanes",
       "gps_code": "BIRS",
-      "coordinates": "65.91419982910156, -22.42140007019043"
+      "coordinates": "65.91419982910156, -22.42140007019043",
+      "metar_available": false
     },
     {
       "ident": "BISA",
@@ -736,7 +793,8 @@
       "iso_region": "IS-5",
       "municipality": "Sandá",
       "gps_code": "BISA",
-      "coordinates": "65.1343994140625, -19.66309928894043"
+      "coordinates": "65.1343994140625, -19.66309928894043",
+      "metar_available": false
     },
     {
       "ident": "BISF",
@@ -748,7 +806,8 @@
       "iso_region": "IS-8",
       "municipality": "Selfoss",
       "gps_code": "BISF",
-      "coordinates": "63.929199, -21.0378"
+      "coordinates": "63.929199, -21.0378",
+      "metar_available": false
     },
     {
       "ident": "BISG",
@@ -760,7 +819,8 @@
       "iso_region": "IS-7",
       "municipality": "Kalfatellsstadhur",
       "gps_code": "BISG",
-      "coordinates": "64.16547, -15.91334"
+      "coordinates": "64.16547, -15.91334",
+      "metar_available": false
     },
     {
       "ident": "BISH",
@@ -772,7 +832,8 @@
       "iso_region": "IS-3",
       "municipality": "Stora-Holt",
       "gps_code": "BISH",
-      "coordinates": "65.4000015258789, -21.933000564575195"
+      "coordinates": "65.4000015258789, -21.933000564575195",
+      "metar_available": false
     },
     {
       "ident": "BISI",
@@ -785,7 +846,8 @@
       "municipality": "Siglufjörður",
       "gps_code": "BISI",
       "iata_code": "SIJ",
-      "coordinates": "66.137847, -18.908157"
+      "coordinates": "66.137847, -18.908157",
+      "metar_available": false
     },
     {
       "ident": "BISK",
@@ -797,7 +859,8 @@
       "iso_region": "IS-8",
       "municipality": "Skógar",
       "gps_code": "BISK",
-      "coordinates": "63.5172, -19.489201"
+      "coordinates": "63.5172, -19.489201",
+      "metar_available": false
     },
     {
       "ident": "BISN",
@@ -809,7 +872,8 @@
       "iso_region": "IS-7",
       "municipality": "Svínafell",
       "gps_code": "BISN",
-      "coordinates": "64.384723, -15.371935"
+      "coordinates": "64.384723, -15.371935",
+      "metar_available": false
     },
     {
       "ident": "BISP",
@@ -821,7 +885,8 @@
       "iso_region": "IS-8",
       "municipality": "Sprengisandur",
       "gps_code": "BISP",
-      "coordinates": "64.6541976928711, -18.49690055847168"
+      "coordinates": "64.6541976928711, -18.49690055847168",
+      "metar_available": false
     },
     {
       "ident": "BISR",
@@ -833,7 +898,8 @@
       "iso_region": "IS-3",
       "municipality": "Stórikroppur",
       "gps_code": "BISR",
-      "coordinates": "64.6343994140625, -21.487499237060547"
+      "coordinates": "64.6343994140625, -21.487499237060547",
+      "metar_available": false
     },
     {
       "ident": "BISS",
@@ -845,7 +911,8 @@
       "iso_region": "IS-1",
       "municipality": "Sandskeið",
       "gps_code": "BISS",
-      "coordinates": "64.06079864501953, -21.57469940185547"
+      "coordinates": "64.06079864501953, -21.57469940185547",
+      "metar_available": false
     },
     {
       "ident": "BIST",
@@ -858,7 +925,8 @@
       "municipality": "Stykkishólmur",
       "gps_code": "BIST",
       "iata_code": "SYK",
-      "coordinates": "65.058851, -22.764616"
+      "coordinates": "65.058851, -22.764616",
+      "metar_available": false
     },
     {
       "ident": "BISV",
@@ -870,7 +938,8 @@
       "iso_region": "IS-8",
       "municipality": "Skálavatn",
       "gps_code": "BISV",
-      "coordinates": "64.11579895019531, -18.783300399780273"
+      "coordinates": "64.11579895019531, -18.783300399780273",
+      "metar_available": false
     },
     {
       "ident": "BITE",
@@ -883,7 +952,8 @@
       "municipality": "Þingeyri",
       "gps_code": "BITE",
       "iata_code": "TEY",
-      "coordinates": "65.8703, -23.559999"
+      "coordinates": "65.8703, -23.559999",
+      "metar_available": false
     },
     {
       "ident": "BITM",
@@ -895,7 +965,8 @@
       "iso_region": "IS-8",
       "municipality": "Þórsmörk",
       "gps_code": "BITM",
-      "coordinates": "63.689998626708984, -19.563100814819336"
+      "coordinates": "63.689998626708984, -19.563100814819336",
+      "metar_available": false
     },
     {
       "ident": "BITN",
@@ -908,7 +979,8 @@
       "municipality": "Þórshöfn",
       "gps_code": "BITN",
       "iata_code": "THO",
-      "coordinates": "66.218498, -15.3356"
+      "coordinates": "66.218498, -15.3356",
+      "metar_available": false
     },
     {
       "ident": "BITO",
@@ -920,7 +992,8 @@
       "iso_region": "IS-8",
       "municipality": "Thorisos",
       "gps_code": "BITO",
-      "coordinates": "64.354373, -18.836514"
+      "coordinates": "64.354373, -18.836514",
+      "metar_available": false
     },
     {
       "ident": "BIVA",
@@ -931,7 +1004,8 @@
       "iso_region": "IS-8",
       "municipality": "Vatnsnes",
       "gps_code": "BIVA",
-      "coordinates": "64.03309631347656, -20.651100158691406"
+      "coordinates": "64.03309631347656, -20.651100158691406",
+      "metar_available": false
     },
     {
       "ident": "BIVH",
@@ -943,7 +1017,8 @@
       "iso_region": "IS-5",
       "municipality": "Varmahlid",
       "gps_code": "BIVH",
-      "coordinates": "65.55694580078125, -19.428056716918945"
+      "coordinates": "65.55694580078125, -19.428056716918945",
+      "metar_available": false
     },
     {
       "ident": "BIVI",
@@ -955,7 +1030,8 @@
       "iso_region": "IS-8",
       "municipality": "Vík",
       "gps_code": "BIVI",
-      "coordinates": "63.42169952392578, -18.8882999420166"
+      "coordinates": "63.42169952392578, -18.8882999420166",
+      "metar_available": false
     },
     {
       "ident": "BIVM",
@@ -968,7 +1044,8 @@
       "municipality": "Vestmannaeyjar",
       "gps_code": "BIVM",
       "iata_code": "VEY",
-      "coordinates": "63.42430114746094, -20.278900146484375"
+      "coordinates": "63.42430114746094, -20.278900146484375",
+      "metar_available": false
     },
     {
       "ident": "BIVO",
@@ -981,7 +1058,8 @@
       "municipality": "Vopnafjörður",
       "gps_code": "BIVO",
       "iata_code": "VPN",
-      "coordinates": "65.720596, -14.8506"
+      "coordinates": "65.720596, -14.8506",
+      "metar_available": false
     },
     {
       "ident": "IS-0001",
@@ -993,7 +1071,8 @@
       "iso_region": "IS-4",
       "municipality": "Suðureyri",
       "local_code": "SUY",
-      "coordinates": "66.1318, -23.544"
+      "coordinates": "66.1318, -23.544",
+      "metar_available": false
     },
     {
       "ident": "IS-0002",
@@ -1004,7 +1083,8 @@
       "iso_country": "IS",
       "iso_region": "IS-8",
       "municipality": "Hella",
-      "coordinates": "64.20043, -19.25403"
+      "coordinates": "64.20043, -19.25403",
+      "metar_available": false
     },
     {
       "ident": "IS-0003",
@@ -1016,7 +1096,8 @@
       "iso_region": "IS-8",
       "municipality": "Öræfi",
       "gps_code": "BISL",
-      "coordinates": "63.99948, -16.94116"
+      "coordinates": "63.99948, -16.94116",
+      "metar_available": false
     },
     {
       "ident": "IS-0004",
@@ -1027,7 +1108,8 @@
       "iso_country": "IS",
       "iso_region": "IS-3",
       "municipality": "Borgarnes",
-      "coordinates": "64.57267, -21.89826"
+      "coordinates": "64.57267, -21.89826",
+      "metar_available": false
     },
     {
       "ident": "IS-0005",
@@ -1038,7 +1120,8 @@
       "iso_country": "IS",
       "iso_region": "IS-1",
       "municipality": "Reykjavík",
-      "coordinates": "64.111441, -21.706037"
+      "coordinates": "64.111441, -21.706037",
+      "metar_available": false
     },
     {
       "ident": "IS-0006",
@@ -1047,7 +1130,8 @@
       "continent": "EU",
       "iso_country": "IS",
       "iso_region": "IS-8",
-      "coordinates": "63.928657, -21.168423"
+      "coordinates": "63.928657, -21.168423",
+      "metar_available": false
     },
     {
       "ident": "IS-0007",
@@ -1056,7 +1140,8 @@
       "continent": "EU",
       "iso_country": "IS",
       "iso_region": "IS-2",
-      "coordinates": "63.958584, -22.539807"
+      "coordinates": "63.958584, -22.539807",
+      "metar_available": false
     },
     {
       "ident": "IS-0008",
@@ -1067,7 +1152,8 @@
       "iso_country": "IS",
       "iso_region": "IS-8",
       "municipality": "Einholtsmelar",
-      "coordinates": "64.24533, -20.299587"
+      "coordinates": "64.24533, -20.299587",
+      "metar_available": false
     },
     {
       "ident": "IS-0009",
@@ -1078,7 +1164,8 @@
       "iso_country": "IS",
       "iso_region": "IS-8",
       "municipality": "Geysir",
-      "coordinates": "64.306592, -20.277114"
+      "coordinates": "64.306592, -20.277114",
+      "metar_available": false
     },
     {
       "ident": "IS-0010",
@@ -1089,7 +1176,8 @@
       "iso_country": "IS",
       "iso_region": "IS-8",
       "municipality": "Hrauneyjarfoss",
-      "coordinates": "64.204759, -19.264756"
+      "coordinates": "64.204759, -19.264756",
+      "metar_available": false
     },
     {
       "ident": "IS-0011",
@@ -1100,7 +1188,8 @@
       "iso_country": "IS",
       "iso_region": "IS-4",
       "municipality": "Melanes",
-      "coordinates": "65.525829, -22.409813"
+      "coordinates": "65.525829, -22.409813",
+      "metar_available": false
     },
     {
       "ident": "IS-0012",
@@ -1111,7 +1200,8 @@
       "iso_country": "IS",
       "iso_region": "IS-6",
       "municipality": "Þórshöfn",
-      "coordinates": "66.251859, -15.273914"
+      "coordinates": "66.251859, -15.273914",
+      "metar_available": false
     },
     {
       "ident": "IS-0013",
@@ -1122,7 +1212,8 @@
       "iso_country": "IS",
       "iso_region": "IS-4",
       "municipality": "Tálknafjörður",
-      "coordinates": "65.676037, -24.006114"
+      "coordinates": "65.676037, -24.006114",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "LS",
   "country_name": "Lesotho",
   "total_airports": 34,
-  "last_updated": "2025-08-01T00:18:22.732833",
+  "last_updated": "2025-08-25T10:08:40.878059",
   "types_distribution": {
     "small_airport": 33,
     "medium_airport": 1
@@ -18,7 +18,8 @@
       "iso_region": "LS-K",
       "municipality": "Bobete",
       "gps_code": "FXBB",
-      "coordinates": "-29.424999, 28.667"
+      "coordinates": "-29.424999, 28.667",
+      "metar_available": false
     },
     {
       "ident": "FXKA",
@@ -30,7 +31,8 @@
       "iso_region": "LS-K",
       "municipality": "Katse",
       "gps_code": "FXKA",
-      "coordinates": "-29.363701, 28.5273"
+      "coordinates": "-29.363701, 28.5273",
+      "metar_available": false
     },
     {
       "ident": "FXKB",
@@ -42,7 +44,8 @@
       "iso_region": "LS-K",
       "municipality": "Kolberg",
       "gps_code": "FXKB",
-      "coordinates": "-29.380301, 28.4907"
+      "coordinates": "-29.380301, 28.4907",
+      "metar_available": false
     },
     {
       "ident": "FXKY",
@@ -53,7 +56,8 @@
       "iso_country": "LS",
       "iso_region": "LS-F",
       "gps_code": "FXKY",
-      "coordinates": "-29.884519, 28.361411"
+      "coordinates": "-29.884519, 28.361411",
+      "metar_available": false
     },
     {
       "ident": "FXLK",
@@ -66,7 +70,8 @@
       "municipality": "Lebakeng",
       "gps_code": "FXLK",
       "iata_code": "LEF",
-      "coordinates": "-29.8908, 28.6556"
+      "coordinates": "-29.8908, 28.6556",
+      "metar_available": false
     },
     {
       "ident": "FXLR",
@@ -79,7 +84,8 @@
       "municipality": "Leribe",
       "gps_code": "FXLR",
       "iata_code": "LRB",
-      "coordinates": "-28.8556, 28.052799"
+      "coordinates": "-28.8556, 28.052799",
+      "metar_available": false
     },
     {
       "ident": "FXLS",
@@ -92,7 +98,8 @@
       "municipality": "Lesobeng",
       "gps_code": "FXLS",
       "iata_code": "LES",
-      "coordinates": "-29.755583, 28.357054"
+      "coordinates": "-29.755583, 28.357054",
+      "metar_available": false
     },
     {
       "ident": "FXLT",
@@ -104,7 +111,8 @@
       "iso_region": "LS-J",
       "municipality": "Letseng",
       "gps_code": "FXLT",
-      "coordinates": "-29.0093, 28.8547"
+      "coordinates": "-29.0093, 28.8547",
+      "metar_available": false
     },
     {
       "ident": "FXMA",
@@ -118,7 +126,8 @@
       "gps_code": "FXMA",
       "iata_code": "MSG",
       "local_code": "MSG",
-      "coordinates": "-29.840562, 28.77668"
+      "coordinates": "-29.840562, 28.77668",
+      "metar_available": false
     },
     {
       "ident": "FXMF",
@@ -131,7 +140,8 @@
       "municipality": "Mafeteng",
       "gps_code": "FXMF",
       "iata_code": "MFC",
-      "coordinates": "-29.8011, 27.243601"
+      "coordinates": "-29.8011, 27.243601",
+      "metar_available": false
     },
     {
       "ident": "FXMH",
@@ -143,7 +153,8 @@
       "iso_region": "LS-F",
       "municipality": "Mohale's Hoek",
       "gps_code": "FXMH",
-      "coordinates": "-30.144501, 27.4708"
+      "coordinates": "-30.144501, 27.4708",
+      "metar_available": false
     },
     {
       "ident": "FXMK",
@@ -156,7 +167,8 @@
       "municipality": "Mokhotlong",
       "gps_code": "FXMK",
       "iata_code": "MKH",
-      "coordinates": "-29.281799, 29.0728"
+      "coordinates": "-29.281799, 29.0728",
+      "metar_available": false
     },
     {
       "ident": "FXML",
@@ -168,7 +180,8 @@
       "iso_region": "LS-J",
       "municipality": "Malefiloane",
       "gps_code": "FXML",
-      "coordinates": "-29.333375, 29.19187"
+      "coordinates": "-29.333375, 29.19187",
+      "metar_available": false
     },
     {
       "ident": "FXMM",
@@ -181,7 +194,8 @@
       "municipality": "Mazenod",
       "gps_code": "FXMM",
       "iata_code": "MSU",
-      "coordinates": "-29.462299, 27.5525"
+      "coordinates": "-29.462299, 27.5525",
+      "metar_available": false
     },
     {
       "ident": "FXMN",
@@ -193,7 +207,8 @@
       "iso_region": "LS-K",
       "municipality": "Mantsonyane",
       "gps_code": "FXMN",
-      "coordinates": "-29.54515, 28.270569"
+      "coordinates": "-29.54515, 28.270569",
+      "metar_available": false
     },
     {
       "ident": "FXMP",
@@ -205,7 +220,8 @@
       "iso_region": "LS-K",
       "municipality": "Mohlanapeng",
       "gps_code": "FXMP",
-      "coordinates": "-29.586399, 28.665591"
+      "coordinates": "-29.586399, 28.665591",
+      "metar_available": false
     },
     {
       "ident": "FXMS",
@@ -217,7 +233,8 @@
       "iso_region": "LS-K",
       "municipality": "Mashai Store",
       "gps_code": "FXMS",
-      "coordinates": "-29.678025, 28.805082"
+      "coordinates": "-29.678025, 28.805082",
+      "metar_available": false
     },
     {
       "ident": "FXMT",
@@ -229,7 +246,8 @@
       "iso_region": "LS-K",
       "municipality": "Matabeng Store",
       "gps_code": "FXMT",
-      "coordinates": "-29.783001, 28.767"
+      "coordinates": "-29.783001, 28.767",
+      "metar_available": false
     },
     {
       "ident": "FXMU",
@@ -241,7 +259,8 @@
       "iso_region": "LS-A",
       "municipality": "Foso",
       "gps_code": "FXMU",
-      "coordinates": "-29.302799, 27.502928"
+      "coordinates": "-29.302799, 27.502928",
+      "metar_available": false
     },
     {
       "ident": "FXMV",
@@ -253,7 +272,8 @@
       "iso_region": "LS-K",
       "municipality": "Matabeng Village",
       "gps_code": "FXMV",
-      "coordinates": "-29.814699172973633, 28.80820083618164"
+      "coordinates": "-29.814699172973633, 28.80820083618164",
+      "metar_available": false
     },
     {
       "ident": "FXNH",
@@ -265,7 +285,8 @@
       "iso_region": "LS-F",
       "municipality": "Nohanas",
       "gps_code": "FXNH",
-      "coordinates": "-30.066999, 27.867001"
+      "coordinates": "-30.066999, 27.867001",
+      "metar_available": false
     },
     {
       "ident": "FXNK",
@@ -278,7 +299,8 @@
       "municipality": "Nkaus",
       "gps_code": "FXNK",
       "iata_code": "NKU",
-      "coordinates": "-30.021699905396, 28.196899414062"
+      "coordinates": "-30.021699905396, 28.196899414062",
+      "metar_available": false
     },
     {
       "ident": "FXPG",
@@ -291,7 +313,8 @@
       "municipality": "Pelaneng",
       "gps_code": "FXPG",
       "iata_code": "PEL",
-      "coordinates": "-29.088056, 28.497222"
+      "coordinates": "-29.088056, 28.497222",
+      "metar_available": false
     },
     {
       "ident": "FXQG",
@@ -304,7 +327,8 @@
       "municipality": "Quthing",
       "gps_code": "FXQG",
       "iata_code": "UTG",
-      "coordinates": "-30.407499, 27.6933"
+      "coordinates": "-30.407499, 27.6933",
+      "metar_available": false
     },
     {
       "ident": "FXQN",
@@ -317,7 +341,8 @@
       "municipality": "Qacha's Nek",
       "gps_code": "FXQN",
       "iata_code": "UNE",
-      "coordinates": "-30.1117, 28.6719"
+      "coordinates": "-30.1117, 28.6719",
+      "metar_available": false
     },
     {
       "ident": "FXSE",
@@ -329,7 +354,8 @@
       "iso_region": "LS-H",
       "municipality": "Sehlabathebe",
       "gps_code": "FXSE",
-      "coordinates": "-29.9158, 29.038799"
+      "coordinates": "-29.9158, 29.038799",
+      "metar_available": false
     },
     {
       "ident": "FXSH",
@@ -342,7 +368,8 @@
       "municipality": "Sehonghong",
       "gps_code": "FXSH",
       "iata_code": "SHK",
-      "coordinates": "-29.731088, 28.767945"
+      "coordinates": "-29.731088, 28.767945",
+      "metar_available": false
     },
     {
       "ident": "FXSK",
@@ -355,7 +382,8 @@
       "municipality": "Sekakes",
       "gps_code": "FXSK",
       "iata_code": "SKQ",
-      "coordinates": "-30.0389, 28.3703"
+      "coordinates": "-30.0389, 28.3703",
+      "metar_available": false
     },
     {
       "ident": "FXSM",
@@ -368,7 +396,8 @@
       "municipality": "Semonkong",
       "gps_code": "FXSM",
       "iata_code": "SOK",
-      "coordinates": "-29.8386, 28.059999"
+      "coordinates": "-29.8386, 28.059999",
+      "metar_available": false
     },
     {
       "ident": "FXSS",
@@ -381,7 +410,8 @@
       "municipality": "Seshutes",
       "gps_code": "FXSS",
       "iata_code": "SHZ",
-      "coordinates": "-29.267599, 28.552299"
+      "coordinates": "-29.267599, 28.552299",
+      "metar_available": false
     },
     {
       "ident": "FXST",
@@ -393,7 +423,8 @@
       "iso_region": "LS-K",
       "municipality": "St. Theresa",
       "gps_code": "FXST",
-      "coordinates": "-29.617000579833984, 28.783000946044922"
+      "coordinates": "-29.617000579833984, 28.783000946044922",
+      "metar_available": false
     },
     {
       "ident": "FXTA",
@@ -406,7 +437,8 @@
       "municipality": "Thaba-Tseka",
       "gps_code": "FXTA",
       "iata_code": "THB",
-      "coordinates": "-29.5228, 28.615801"
+      "coordinates": "-29.5228, 28.615801",
+      "metar_available": false
     },
     {
       "ident": "FXTB",
@@ -418,7 +450,8 @@
       "iso_region": "LS-H",
       "municipality": "Tebellong",
       "gps_code": "FXTB",
-      "coordinates": "-30.051389, 28.459722"
+      "coordinates": "-30.051389, 28.459722",
+      "metar_available": false
     },
     {
       "ident": "FXTK",
@@ -431,7 +464,8 @@
       "municipality": "Tlokoeng",
       "gps_code": "FXTK",
       "iata_code": "TKO",
-      "coordinates": "-29.233, 28.882999"
+      "coordinates": "-29.233, 28.882999",
+      "metar_available": false
     }
   ]
 }

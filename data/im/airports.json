@@ -2,7 +2,7 @@
   "country_code": "IM",
   "country_name": "Isle of Man",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.683358",
+  "last_updated": "2025-08-25T10:08:40.824612",
   "types_distribution": {
     "medium_airport": 1,
     "small_airport": 3,
@@ -21,7 +21,8 @@
       "municipality": "Castletown",
       "gps_code": "EGNS",
       "iata_code": "IOM",
-      "coordinates": "54.083302, -4.62389"
+      "coordinates": "54.083302, -4.62389",
+      "metar_available": false
     },
     {
       "ident": "IM-0001",
@@ -32,7 +33,8 @@
       "iso_country": "IM",
       "iso_region": "IM-U-A",
       "municipality": "Andreas",
-      "coordinates": "54.371111, -4.423333"
+      "coordinates": "54.371111, -4.423333",
+      "metar_available": false
     },
     {
       "ident": "IM-0002",
@@ -43,7 +45,8 @@
       "iso_country": "IM",
       "iso_region": "IM-U-A",
       "municipality": "Jurby",
-      "coordinates": "54.354, -4.5238"
+      "coordinates": "54.354, -4.5238",
+      "metar_available": false
     },
     {
       "ident": "IM-0003",
@@ -54,7 +57,8 @@
       "iso_country": "IM",
       "iso_region": "IM-U-A",
       "municipality": "Braddan",
-      "coordinates": "54.182127, -4.51311"
+      "coordinates": "54.182127, -4.51311",
+      "metar_available": false
     },
     {
       "ident": "IM-0004",
@@ -64,7 +68,8 @@
       "iso_country": "IM",
       "iso_region": "IM-U-A",
       "municipality": "Andreas",
-      "coordinates": "54.356006, -4.438477"
+      "coordinates": "54.356006, -4.438477",
+      "metar_available": false
     },
     {
       "ident": "IM-0005",
@@ -74,7 +79,8 @@
       "iso_country": "IM",
       "iso_region": "IM-U-A",
       "municipality": "Douglas",
-      "coordinates": "54.1703682, -4.507838"
+      "coordinates": "54.1703682, -4.507838",
+      "metar_available": false
     },
     {
       "ident": "IM-0006",
@@ -85,7 +91,8 @@
       "iso_country": "IM",
       "iso_region": "IM-U-A",
       "municipality": "Ramsey",
-      "coordinates": "54.33583, -4.4375"
+      "coordinates": "54.33583, -4.4375",
+      "metar_available": false
     }
   ]
 }

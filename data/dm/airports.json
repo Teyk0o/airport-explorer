@@ -2,7 +2,7 @@
   "country_code": "DM",
   "country_name": "Dominica",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.852215",
+  "last_updated": "2025-08-25T10:08:41.008624",
   "types_distribution": {
     "medium_airport": 2
   },
@@ -17,7 +17,8 @@
       "municipality": "Canefield",
       "gps_code": "TDCF",
       "iata_code": "DCF",
-      "coordinates": "15.336693, -61.392108"
+      "coordinates": "15.336693, -61.392108",
+      "metar_available": false
     },
     {
       "ident": "TDPD",
@@ -29,7 +30,8 @@
       "municipality": "Marigot",
       "gps_code": "TDPD",
       "iata_code": "DOM",
-      "coordinates": "15.547, -61.299999"
+      "coordinates": "15.547, -61.299999",
+      "metar_available": false
     }
   ]
 }

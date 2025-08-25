@@ -2,7 +2,7 @@
   "country_code": "BT",
   "country_name": "Bhutan",
   "total_airports": 12,
-  "last_updated": "2025-08-01T00:18:22.575232",
+  "last_updated": "2025-08-25T10:08:40.711014",
   "types_distribution": {
     "heliport": 8,
     "small_airport": 2,
@@ -17,7 +17,8 @@
       "iso_country": "BT",
       "iso_region": "BT-15",
       "municipality": "Thimphu",
-      "coordinates": "27.464609, 89.639314"
+      "coordinates": "27.464609, 89.639314",
+      "metar_available": false
     },
     {
       "ident": "BT-0002",
@@ -27,7 +28,8 @@
       "iso_country": "BT",
       "iso_region": "BT-24",
       "municipality": "Chanchey",
-      "coordinates": "27.295478, 89.979633"
+      "coordinates": "27.295478, 89.979633",
+      "metar_available": false
     },
     {
       "ident": "BT-0003",
@@ -37,7 +39,8 @@
       "iso_country": "BT",
       "iso_region": "BT-13",
       "municipality": "Dumcho",
-      "coordinates": "27.360277, 89.301496"
+      "coordinates": "27.360277, 89.301496",
+      "metar_available": false
     },
     {
       "ident": "BT-0004",
@@ -47,7 +50,8 @@
       "iso_country": "BT",
       "iso_region": "BT-12",
       "municipality": "Phuentsholing",
-      "coordinates": "26.848541, 89.395389"
+      "coordinates": "26.848541, 89.395389",
+      "metar_available": false
     },
     {
       "ident": "BT-0005",
@@ -57,7 +61,8 @@
       "iso_country": "BT",
       "iso_region": "BT-32",
       "municipality": "Trongsa",
-      "coordinates": "27.49807, 90.51087"
+      "coordinates": "27.49807, 90.51087",
+      "metar_available": false
     },
     {
       "ident": "BT-0006",
@@ -68,7 +73,8 @@
       "iso_country": "BT",
       "iso_region": "BT-42",
       "municipality": "Mongar",
-      "coordinates": "27.27901, 91.23602"
+      "coordinates": "27.27901, 91.23602",
+      "metar_available": false
     },
     {
       "ident": "BT-0007",
@@ -79,7 +85,8 @@
       "iso_country": "BT",
       "iso_region": "BT-34",
       "municipality": "Buli",
-      "coordinates": "27.16639, 90.81797"
+      "coordinates": "27.16639, 90.81797",
+      "metar_available": false
     },
     {
       "ident": "VQBT",
@@ -92,7 +99,8 @@
       "municipality": "Jakar",
       "gps_code": "VQBT",
       "iata_code": "BUT",
-      "coordinates": "27.5622, 90.7471"
+      "coordinates": "27.5622, 90.7471",
+      "metar_available": false
     },
     {
       "ident": "VQGP",
@@ -105,7 +113,8 @@
       "municipality": "Gelephu",
       "gps_code": "VQGP",
       "iata_code": "GLU",
-      "coordinates": "26.88456, 90.46412"
+      "coordinates": "26.88456, 90.46412",
+      "metar_available": false
     },
     {
       "ident": "VQPR",
@@ -118,7 +127,8 @@
       "municipality": "Paro",
       "gps_code": "VQPR",
       "iata_code": "PBH",
-      "coordinates": "27.4032, 89.424599"
+      "coordinates": "27.4032, 89.424599",
+      "metar_available": false
     },
     {
       "ident": "VQTU",
@@ -130,7 +140,8 @@
       "iso_region": "BT-15",
       "municipality": "Thimphu",
       "gps_code": "VQTU",
-      "coordinates": "27.4513, 89.6557"
+      "coordinates": "27.4513, 89.6557",
+      "metar_available": false
     },
     {
       "ident": "VQTY",
@@ -143,7 +154,8 @@
       "municipality": "Yongphulla",
       "gps_code": "VQTY",
       "iata_code": "YON",
-      "coordinates": "27.25627, 91.514633"
+      "coordinates": "27.25627, 91.514633",
+      "metar_available": false
     }
   ]
 }

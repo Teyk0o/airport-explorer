@@ -2,7 +2,7 @@
   "country_code": "GF",
   "country_name": "French Guiana",
   "total_airports": 22,
-  "last_updated": "2025-08-01T00:18:22.735000",
+  "last_updated": "2025-08-25T10:08:40.880324",
   "types_distribution": {
     "small_airport": 12,
     "heliport": 4,
@@ -21,7 +21,8 @@
       "iso_region": "GF-CY",
       "municipality": "Kourou",
       "gps_code": "SOOK",
-      "coordinates": "5.176046, -52.694206"
+      "coordinates": "5.176046, -52.694206",
+      "metar_available": false
     },
     {
       "ident": "GF-0002",
@@ -32,7 +33,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Ouanary",
-      "coordinates": "4.21009, -51.667702"
+      "coordinates": "4.21009, -51.667702",
+      "metar_available": false
     },
     {
       "ident": "GF-0003",
@@ -43,7 +45,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Saint-Élie",
-      "coordinates": "4.816117, -53.289505"
+      "coordinates": "4.816117, -53.289505",
+      "metar_available": false
     },
     {
       "ident": "GF-0004",
@@ -56,7 +59,8 @@
       "municipality": "Camopi",
       "gps_code": "SOOC",
       "iata_code": "OYC",
-      "coordinates": "3.172847, -52.336142"
+      "coordinates": "3.172847, -52.336142",
+      "metar_available": false
     },
     {
       "ident": "GF-0005",
@@ -66,7 +70,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Kourou",
-      "coordinates": "5.168398, -52.688847"
+      "coordinates": "5.168398, -52.688847",
+      "metar_available": false
     },
     {
       "ident": "GF-0006",
@@ -76,7 +81,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Kourou",
-      "coordinates": "5.168633, -52.682549"
+      "coordinates": "5.168633, -52.682549",
+      "metar_available": false
     },
     {
       "ident": "GF-0007",
@@ -86,7 +92,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Kourou",
-      "coordinates": "5.287424, -52.591953"
+      "coordinates": "5.287424, -52.591953",
+      "metar_available": false
     },
     {
       "ident": "GF-0008",
@@ -96,7 +103,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Cayenne",
-      "coordinates": "4.922635, -52.321762"
+      "coordinates": "4.922635, -52.321762",
+      "metar_available": false
     },
     {
       "ident": "GF-0009",
@@ -107,7 +115,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Kourou",
-      "coordinates": "5.04285, -52.68906"
+      "coordinates": "5.04285, -52.68906",
+      "metar_available": false
     },
     {
       "ident": "GF-0010",
@@ -118,7 +127,8 @@
       "iso_country": "GF",
       "iso_region": "GF-SL",
       "municipality": "Mana",
-      "coordinates": "5.66342, -53.76469"
+      "coordinates": "5.66342, -53.76469",
+      "metar_available": false
     },
     {
       "ident": "GF-0011",
@@ -129,7 +139,8 @@
       "iso_country": "GF",
       "iso_region": "GF-SL",
       "municipality": "Mana",
-      "coordinates": "5.66061, -53.7764"
+      "coordinates": "5.66061, -53.7764",
+      "metar_available": false
     },
     {
       "ident": "GF-0012",
@@ -140,7 +151,8 @@
       "iso_country": "GF",
       "iso_region": "GF-SL",
       "municipality": "Mana",
-      "coordinates": "5.6185, -53.68631"
+      "coordinates": "5.6185, -53.68631",
+      "metar_available": false
     },
     {
       "ident": "GF-0013",
@@ -150,7 +162,8 @@
       "iso_country": "GF",
       "iso_region": "GF-CY",
       "municipality": "Montsinery",
-      "coordinates": "4.89211, -52.49146"
+      "coordinates": "4.89211, -52.49146",
+      "metar_available": false
     },
     {
       "ident": "GF-0014",
@@ -161,7 +174,8 @@
       "iso_country": "GF",
       "iso_region": "GF-SL",
       "municipality": "Saint-Laurent-du-Maroni",
-      "coordinates": "5.449567, -54.054022"
+      "coordinates": "5.449567, -54.054022",
+      "metar_available": false
     },
     {
       "ident": "SOCA",
@@ -174,7 +188,8 @@
       "municipality": "Matoury",
       "gps_code": "SOCA",
       "iata_code": "CAY",
-      "coordinates": "4.819964, -52.361326"
+      "coordinates": "4.819964, -52.361326",
+      "metar_available": false
     },
     {
       "ident": "SOGS",
@@ -187,7 +202,8 @@
       "municipality": "Grand-Santi",
       "gps_code": "SOGS",
       "iata_code": "GSI",
-      "coordinates": "4.285833, -54.373056"
+      "coordinates": "4.285833, -54.373056",
+      "metar_available": false
     },
     {
       "ident": "SOOA",
@@ -200,7 +216,8 @@
       "municipality": "Maripasoula",
       "gps_code": "SOOA",
       "iata_code": "MPY",
-      "coordinates": "3.655907, -54.039431"
+      "coordinates": "3.655907, -54.039431",
+      "metar_available": false
     },
     {
       "ident": "SOOG",
@@ -213,7 +230,8 @@
       "municipality": "Saint-Georges-de-l'Oyapock",
       "gps_code": "SOOG",
       "iata_code": "OYP",
-      "coordinates": "3.8976, -51.8041"
+      "coordinates": "3.8976, -51.8041",
+      "metar_available": false
     },
     {
       "ident": "SOOM",
@@ -226,7 +244,8 @@
       "municipality": "Saint-Laurent-du-Maroni",
       "gps_code": "SOOM",
       "iata_code": "LDX",
-      "coordinates": "5.48306, -54.034401"
+      "coordinates": "5.48306, -54.034401",
+      "metar_available": false
     },
     {
       "ident": "SOOR",
@@ -239,7 +258,8 @@
       "municipality": "Régina",
       "gps_code": "SOOR",
       "iata_code": "REI",
-      "coordinates": "4.31339, -52.132745"
+      "coordinates": "4.31339, -52.132745",
+      "metar_available": false
     },
     {
       "ident": "SOOS",
@@ -252,7 +272,8 @@
       "municipality": "Saül",
       "gps_code": "SOOS",
       "iata_code": "XAU",
-      "coordinates": "3.61361, -53.204201"
+      "coordinates": "3.61361, -53.204201",
+      "metar_available": false
     },
     {
       "ident": "SOOY",
@@ -264,7 +285,8 @@
       "iso_region": "GF-CY",
       "municipality": "Sinnamary",
       "gps_code": "SOOY",
-      "coordinates": "5.373546, -52.945628"
+      "coordinates": "5.373546, -52.945628",
+      "metar_available": false
     }
   ]
 }

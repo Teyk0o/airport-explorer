@@ -2,7 +2,7 @@
   "country_code": "EE",
   "country_name": "Estonia",
   "total_airports": 61,
-  "last_updated": "2025-08-01T00:18:22.679454",
+  "last_updated": "2025-08-25T10:08:40.820433",
   "types_distribution": {
     "closed": 16,
     "seaplane_base": 1,
@@ -21,7 +21,8 @@
       "iso_country": "EE",
       "iso_region": "EE-74",
       "municipality": "Aste",
-      "coordinates": "58.3650016784668, 22.44499969482422"
+      "coordinates": "58.3650016784668, 22.44499969482422",
+      "metar_available": false
     },
     {
       "ident": "EE-0002",
@@ -32,7 +33,8 @@
       "iso_country": "EE",
       "iso_region": "EE-57",
       "municipality": "Haapsalu",
-      "coordinates": "58.911098, 23.488899"
+      "coordinates": "58.911098, 23.488899",
+      "metar_available": false
     },
     {
       "ident": "EE-0003",
@@ -42,7 +44,8 @@
       "iso_country": "EE",
       "iso_region": "EE-74",
       "municipality": "Nässuma",
-      "coordinates": "58.2836, 22.817801"
+      "coordinates": "58.2836, 22.817801",
+      "metar_available": false
     },
     {
       "ident": "EE-0004",
@@ -53,7 +56,8 @@
       "iso_country": "EE",
       "iso_region": "EE-37",
       "municipality": "Partsaare",
-      "coordinates": "59.397778, 25.290556"
+      "coordinates": "59.397778, 25.290556",
+      "metar_available": false
     },
     {
       "ident": "EE-0005",
@@ -64,7 +68,8 @@
       "iso_region": "EE-74",
       "municipality": "Kuressaare",
       "local_code": "EE0005",
-      "coordinates": "58.213254, 22.50854"
+      "coordinates": "58.213254, 22.50854",
+      "metar_available": false
     },
     {
       "ident": "EE-0006",
@@ -74,7 +79,8 @@
       "iso_country": "EE",
       "iso_region": "EE-7B",
       "municipality": "Piirissaar",
-      "coordinates": "58.378889, 27.523333"
+      "coordinates": "58.378889, 27.523333",
+      "metar_available": false
     },
     {
       "ident": "EE-0007",
@@ -83,7 +89,8 @@
       "continent": "EU",
       "iso_country": "EE",
       "iso_region": "EE-74",
-      "coordinates": "58.3121457, 22.2644062"
+      "coordinates": "58.3121457, 22.2644062",
+      "metar_available": false
     },
     {
       "ident": "EE-0008",
@@ -93,7 +100,8 @@
       "iso_country": "EE",
       "iso_region": "EE-37",
       "municipality": "Tallinn",
-      "coordinates": "59.45, 24.86333"
+      "coordinates": "59.45, 24.86333",
+      "metar_available": false
     },
     {
       "ident": "EE-0009",
@@ -104,7 +112,8 @@
       "iso_country": "EE",
       "iso_region": "EE-70",
       "municipality": "Avaste",
-      "coordinates": "58.707634, 24.221667"
+      "coordinates": "58.707634, 24.221667",
+      "metar_available": false
     },
     {
       "ident": "EE-0010",
@@ -115,7 +124,8 @@
       "iso_region": "EE-74",
       "municipality": "Kaavi",
       "local_code": "EE0010",
-      "coordinates": "57.984603, 22.195027"
+      "coordinates": "57.984603, 22.195027",
+      "metar_available": false
     },
     {
       "ident": "EE-0011",
@@ -125,7 +135,8 @@
       "iso_country": "EE",
       "iso_region": "EE-37",
       "local_code": "EE0011",
-      "coordinates": "59.40601, 25.26657"
+      "coordinates": "59.40601, 25.26657",
+      "metar_available": false
     },
     {
       "ident": "EE-0012",
@@ -135,7 +146,8 @@
       "iso_country": "EE",
       "iso_region": "EE-37",
       "municipality": "Tallinn",
-      "coordinates": "59.396414, 24.702914"
+      "coordinates": "59.396414, 24.702914",
+      "metar_available": false
     },
     {
       "ident": "EE-0013",
@@ -145,7 +157,8 @@
       "iso_country": "EE",
       "iso_region": "EE-74",
       "municipality": "Kuressaare",
-      "coordinates": "58.252856, 22.468708"
+      "coordinates": "58.252856, 22.468708",
+      "metar_available": false
     },
     {
       "ident": "EE-0014",
@@ -155,7 +168,8 @@
       "iso_country": "EE",
       "iso_region": "EE-39",
       "municipality": "Kärdla",
-      "coordinates": "58.999432, 22.756878"
+      "coordinates": "58.999432, 22.756878",
+      "metar_available": false
     },
     {
       "ident": "EE-0015",
@@ -165,7 +179,8 @@
       "iso_country": "EE",
       "iso_region": "EE-44",
       "municipality": "Toila",
-      "coordinates": "59.409187, 27.551925"
+      "coordinates": "59.409187, 27.551925",
+      "metar_available": false
     },
     {
       "ident": "EE-0016",
@@ -175,7 +190,8 @@
       "iso_country": "EE",
       "iso_region": "EE-44",
       "municipality": "Lüganuse",
-      "coordinates": "59.384655, 27.02493"
+      "coordinates": "59.384655, 27.02493",
+      "metar_available": false
     },
     {
       "ident": "EE-0017",
@@ -184,7 +200,8 @@
       "continent": "EU",
       "iso_country": "EE",
       "iso_region": "EE-37",
-      "coordinates": "59.239749, 25.017607"
+      "coordinates": "59.239749, 25.017607",
+      "metar_available": false
     },
     {
       "ident": "EE-0018",
@@ -193,7 +210,8 @@
       "continent": "EU",
       "iso_country": "EE",
       "iso_region": "EE-39",
-      "coordinates": "58.844673, 22.811522"
+      "coordinates": "58.844673, 22.811522",
+      "metar_available": false
     },
     {
       "ident": "EE-0019",
@@ -202,7 +220,8 @@
       "continent": "EU",
       "iso_country": "EE",
       "iso_region": "EE-49",
-      "coordinates": "58.776432, 26.917191"
+      "coordinates": "58.776432, 26.917191",
+      "metar_available": false
     },
     {
       "ident": "EE-1612",
@@ -213,7 +232,8 @@
       "iso_country": "EE",
       "iso_region": "EE-51",
       "municipality": "Vohma",
-      "coordinates": "58.662200927734375, 25.586700439453125"
+      "coordinates": "58.662200927734375, 25.586700439453125",
+      "metar_available": false
     },
     {
       "ident": "EE-4931",
@@ -224,7 +244,8 @@
       "iso_country": "EE",
       "iso_region": "EE-84",
       "municipality": "Torva",
-      "coordinates": "58.189998626708984, 25.948299407958984"
+      "coordinates": "58.189998626708984, 25.948299407958984",
+      "metar_available": false
     },
     {
       "ident": "EE-7685",
@@ -235,7 +256,8 @@
       "iso_country": "EE",
       "iso_region": "EE-82",
       "municipality": "Valga",
-      "coordinates": "57.81330108642578, 26.07670021057129"
+      "coordinates": "57.81330108642578, 26.07670021057129",
+      "metar_available": false
     },
     {
       "ident": "EE-9278",
@@ -246,7 +268,8 @@
       "iso_country": "EE",
       "iso_region": "EE-59",
       "municipality": "Kunda",
-      "coordinates": "59.536701, 26.311701"
+      "coordinates": "59.536701, 26.311701",
+      "metar_available": false
     },
     {
       "ident": "EE-9279",
@@ -257,7 +280,8 @@
       "iso_country": "EE",
       "iso_region": "EE-59",
       "municipality": "Tapa",
-      "coordinates": "59.240799, 25.9622"
+      "coordinates": "59.240799, 25.9622",
+      "metar_available": false
     },
     {
       "ident": "EE-9280",
@@ -268,7 +292,8 @@
       "iso_country": "EE",
       "iso_region": "EE-7B",
       "municipality": "Tartu",
-      "coordinates": "58.404701, 26.7761"
+      "coordinates": "58.404701, 26.7761",
+      "metar_available": false
     },
     {
       "ident": "EE-9281",
@@ -280,7 +305,8 @@
       "iso_region": "EE-59",
       "municipality": "Rakvere",
       "gps_code": "EERE",
-      "coordinates": "59.364032, 26.35874"
+      "coordinates": "59.364032, 26.35874",
+      "metar_available": false
     },
     {
       "ident": "EEAA",
@@ -292,7 +318,8 @@
       "iso_region": "EE-86",
       "municipality": "Antsla",
       "gps_code": "EEAA",
-      "coordinates": "57.826111, 26.4925"
+      "coordinates": "57.826111, 26.4925",
+      "metar_available": false
     },
     {
       "ident": "EEAE",
@@ -304,7 +331,8 @@
       "iso_region": "EE-37",
       "municipality": "Aespa",
       "gps_code": "EEAE",
-      "coordinates": "59.204711, 24.610995"
+      "coordinates": "59.204711, 24.610995",
+      "metar_available": false
     },
     {
       "ident": "EECL",
@@ -317,7 +345,8 @@
       "municipality": "Tallinn",
       "gps_code": "EECL",
       "iata_code": "CHE",
-      "coordinates": "59.448015, 24.753313"
+      "coordinates": "59.448015, 24.753313",
+      "metar_available": false
     },
     {
       "ident": "EEEI",
@@ -329,7 +358,8 @@
       "iso_region": "EE-37",
       "municipality": "Keila",
       "gps_code": "EEEI",
-      "coordinates": "59.259599, 24.204799"
+      "coordinates": "59.259599, 24.204799",
+      "metar_available": false
     },
     {
       "ident": "EEHA",
@@ -341,7 +371,8 @@
       "iso_region": "EE-37",
       "municipality": "Humala",
       "gps_code": "EEHA",
-      "coordinates": "59.3579, 24.3795"
+      "coordinates": "59.3579, 24.3795",
+      "metar_available": false
     },
     {
       "ident": "EEHK",
@@ -352,7 +383,8 @@
       "iso_region": "EE-37",
       "municipality": "Vanamõisa",
       "gps_code": "EEHK",
-      "coordinates": "59.333491, 24.55924"
+      "coordinates": "59.333491, 24.55924",
+      "metar_available": false
     },
     {
       "ident": "EEHV",
@@ -363,7 +395,8 @@
       "iso_region": "EE-37",
       "municipality": "Tabasalu",
       "gps_code": "EEHV",
-      "coordinates": "59.450342, 24.602228"
+      "coordinates": "59.450342, 24.602228",
+      "metar_available": false
     },
     {
       "ident": "EEJI",
@@ -375,7 +408,8 @@
       "iso_region": "EE-44",
       "municipality": "Jõhvi",
       "gps_code": "EEJI",
-      "coordinates": "59.325974, 27.392883"
+      "coordinates": "59.325974, 27.392883",
+      "metar_available": false
     },
     {
       "ident": "EEKA",
@@ -388,7 +422,8 @@
       "municipality": "Kärdla",
       "gps_code": "EEKA",
       "iata_code": "KDL",
-      "coordinates": "58.99079895019531, 22.830699920654297"
+      "coordinates": "58.99079895019531, 22.830699920654297",
+      "metar_available": false
     },
     {
       "ident": "EEKE",
@@ -401,7 +436,8 @@
       "municipality": "Kuressaare",
       "gps_code": "EEKE",
       "iata_code": "URE",
-      "coordinates": "58.22990036010742, 22.50950050354004"
+      "coordinates": "58.22990036010742, 22.50950050354004",
+      "metar_available": false
     },
     {
       "ident": "EEKI",
@@ -413,7 +449,8 @@
       "iso_region": "EE-84",
       "municipality": "Karksi",
       "gps_code": "EEKI",
-      "coordinates": "58.117078, 25.552783"
+      "coordinates": "58.117078, 25.552783",
+      "metar_available": false
     },
     {
       "ident": "EEKO",
@@ -424,7 +461,8 @@
       "iso_region": "EE-37",
       "municipality": "Kose",
       "gps_code": "EEKO",
-      "coordinates": "59.168317, 25.07097"
+      "coordinates": "59.168317, 25.07097",
+      "metar_available": false
     },
     {
       "ident": "EEKU",
@@ -436,7 +474,8 @@
       "iso_region": "EE-67",
       "municipality": "Saareküla",
       "gps_code": "EEKU",
-      "coordinates": "58.148039, 23.998523"
+      "coordinates": "58.148039, 23.998523",
+      "metar_available": false
     },
     {
       "ident": "EELM",
@@ -447,7 +486,8 @@
       "iso_region": "EE-7B",
       "municipality": "Tartu",
       "gps_code": "EELM",
-      "coordinates": "58.290658, 26.767748"
+      "coordinates": "58.290658, 26.767748",
+      "metar_available": false
     },
     {
       "ident": "EELU",
@@ -459,7 +499,8 @@
       "iso_region": "EE-57",
       "municipality": "Saare",
       "gps_code": "EELU",
-      "coordinates": "59.02211, 23.57808"
+      "coordinates": "59.02211, 23.57808",
+      "metar_available": false
     },
     {
       "ident": "EEMU",
@@ -471,7 +512,8 @@
       "iso_region": "EE-74",
       "municipality": "Muhu",
       "gps_code": "EEMU",
-      "coordinates": "58.653495, 23.271369"
+      "coordinates": "58.653495, 23.271369",
+      "metar_available": false
     },
     {
       "ident": "EENA",
@@ -483,7 +525,8 @@
       "iso_region": "EE-44",
       "municipality": "Narva",
       "gps_code": "EENA",
-      "coordinates": "59.388599, 28.1136"
+      "coordinates": "59.388599, 28.1136",
+      "metar_available": false
     },
     {
       "ident": "EENI",
@@ -495,7 +538,8 @@
       "iso_region": "EE-51",
       "municipality": "Nurmsi",
       "gps_code": "EENI",
-      "coordinates": "58.865002, 25.73"
+      "coordinates": "58.865002, 25.73",
+      "metar_available": false
     },
     {
       "ident": "EEPA",
@@ -506,7 +550,8 @@
       "iso_region": "EE-57",
       "municipality": "Paslepa",
       "gps_code": "EEPA",
-      "coordinates": "59.018446, 23.489258"
+      "coordinates": "59.018446, 23.489258",
+      "metar_available": false
     },
     {
       "ident": "EEPS",
@@ -517,7 +562,8 @@
       "iso_region": "EE-37",
       "municipality": "Tallinn",
       "gps_code": "EEPS",
-      "coordinates": "59.457942, 24.701042"
+      "coordinates": "59.457942, 24.701042",
+      "metar_available": false
     },
     {
       "ident": "EEPU",
@@ -530,7 +576,8 @@
       "municipality": "Pärnu",
       "gps_code": "EEPU",
       "iata_code": "EPU",
-      "coordinates": "58.41899871826172, 24.47279930114746"
+      "coordinates": "58.41899871826172, 24.47279930114746",
+      "metar_available": false
     },
     {
       "ident": "EERA",
@@ -542,7 +589,8 @@
       "iso_region": "EE-70",
       "municipality": "Rapla",
       "gps_code": "EERA",
-      "coordinates": "58.99028, 24.716386"
+      "coordinates": "58.99028, 24.716386",
+      "metar_available": false
     },
     {
       "ident": "EERD",
@@ -554,7 +602,8 @@
       "iso_region": "EE-82",
       "municipality": "Riidaja",
       "gps_code": "EERD",
-      "coordinates": "58.08457, 25.89877"
+      "coordinates": "58.08457, 25.89877",
+      "metar_available": false
     },
     {
       "ident": "EERI",
@@ -566,7 +615,8 @@
       "iso_region": "EE-65",
       "municipality": "Suurküla",
       "gps_code": "EERI",
-      "coordinates": "57.939999, 26.979"
+      "coordinates": "57.939999, 26.979",
+      "metar_available": false
     },
     {
       "ident": "EERU",
@@ -578,7 +628,8 @@
       "iso_region": "EE-74",
       "municipality": "Ringsu",
       "gps_code": "EERU",
-      "coordinates": "57.78559, 23.262377"
+      "coordinates": "57.78559, 23.262377",
+      "metar_available": false
     },
     {
       "ident": "EESE",
@@ -590,7 +641,8 @@
       "iso_region": "EE-74",
       "municipality": "Salme",
       "gps_code": "EESE",
-      "coordinates": "58.131944, 22.258333"
+      "coordinates": "58.131944, 22.258333",
+      "metar_available": false
     },
     {
       "ident": "EESI",
@@ -601,7 +653,8 @@
       "iso_region": "EE-37",
       "municipality": "Suurupi",
       "gps_code": "EESI",
-      "coordinates": "59.45943, 24.388188"
+      "coordinates": "59.45943, 24.388188",
+      "metar_available": false
     },
     {
       "ident": "EETI",
@@ -612,7 +665,8 @@
       "iso_region": "EE-82",
       "municipality": "Tõutsi",
       "gps_code": "EETI",
-      "coordinates": "57.952306, 26.476493"
+      "coordinates": "57.952306, 26.476493",
+      "metar_available": false
     },
     {
       "ident": "EETN",
@@ -625,7 +679,8 @@
       "municipality": "Tallinn",
       "gps_code": "EETN",
       "iata_code": "TLL",
-      "coordinates": "59.413246, 24.83264"
+      "coordinates": "59.413246, 24.83264",
+      "metar_available": false
     },
     {
       "ident": "EETS",
@@ -637,7 +692,8 @@
       "iso_region": "EE-70",
       "municipality": "Märjamaa",
       "gps_code": "EETS",
-      "coordinates": "58.809444, 24.184723"
+      "coordinates": "58.809444, 24.184723",
+      "metar_available": false
     },
     {
       "ident": "EETU",
@@ -650,7 +706,8 @@
       "municipality": "Reola",
       "gps_code": "EETU",
       "iata_code": "TAY",
-      "coordinates": "58.307438, 26.686473"
+      "coordinates": "58.307438, 26.686473",
+      "metar_available": false
     },
     {
       "ident": "EEVI",
@@ -662,7 +719,8 @@
       "iso_region": "EE-84",
       "municipality": "Viljandi",
       "gps_code": "EEVI",
-      "coordinates": "58.348374, 25.494831"
+      "coordinates": "58.348374, 25.494831",
+      "metar_available": false
     },
     {
       "ident": "EEVO",
@@ -674,7 +732,8 @@
       "iso_region": "EE-57",
       "municipality": "Vormsi Island",
       "gps_code": "EEVO",
-      "coordinates": "58.985169, 23.252056"
+      "coordinates": "58.985169, 23.252056",
+      "metar_available": false
     },
     {
       "ident": "EEVP",
@@ -686,7 +745,8 @@
       "iso_region": "EE-37",
       "municipality": "Vihterpalu",
       "gps_code": "EEVP",
-      "coordinates": "59.263571, 23.875469"
+      "coordinates": "59.263571, 23.875469",
+      "metar_available": false
     },
     {
       "ident": "EEVU",
@@ -698,7 +758,8 @@
       "iso_region": "EE-86",
       "municipality": "Varstu",
       "gps_code": "EEVU",
-      "coordinates": "57.63288, 26.671085"
+      "coordinates": "57.63288, 26.671085",
+      "metar_available": false
     }
   ]
 }

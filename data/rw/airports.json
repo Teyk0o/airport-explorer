@@ -2,7 +2,7 @@
   "country_code": "RW",
   "country_name": "Rwanda",
   "total_airports": 9,
-  "last_updated": "2025-08-01T00:18:22.749367",
+  "last_updated": "2025-08-25T10:08:40.895785",
   "types_distribution": {
     "medium_airport": 2,
     "small_airport": 5,
@@ -21,7 +21,8 @@
       "municipality": "Gisenyi",
       "gps_code": "HRYG",
       "iata_code": "GYI",
-      "coordinates": "-1.6771999597549438, 29.258899688720703"
+      "coordinates": "-1.6771999597549438, 29.258899688720703",
+      "metar_available": false
     },
     {
       "ident": "HRYI",
@@ -34,7 +35,8 @@
       "municipality": "Butare",
       "gps_code": "HRYI",
       "iata_code": "BTQ",
-      "coordinates": "-2.59583, 29.7367"
+      "coordinates": "-2.59583, 29.7367",
+      "metar_available": false
     },
     {
       "ident": "HRYN",
@@ -46,7 +48,8 @@
       "iso_region": "RW-02",
       "municipality": "Nemba",
       "gps_code": "HRYN",
-      "coordinates": "-2.33299994469, 30.2000007629"
+      "coordinates": "-2.33299994469, 30.2000007629",
+      "metar_available": false
     },
     {
       "ident": "HRYO",
@@ -58,7 +61,8 @@
       "iso_region": "RW-02",
       "municipality": "Gabiro",
       "gps_code": "HRYO",
-      "coordinates": "-1.5499999523162842, 30.382999420166016"
+      "coordinates": "-1.5499999523162842, 30.382999420166016",
+      "metar_available": false
     },
     {
       "ident": "HRYR",
@@ -71,7 +75,8 @@
       "municipality": "Kigali",
       "gps_code": "HRYR",
       "iata_code": "KGL",
-      "coordinates": "-1.96863, 30.1395"
+      "coordinates": "-1.96863, 30.1395",
+      "metar_available": false
     },
     {
       "ident": "HRYU",
@@ -84,7 +89,8 @@
       "municipality": "Ruhengeri",
       "gps_code": "HRYU",
       "iata_code": "RHG",
-      "coordinates": "-1.496873, 29.631343"
+      "coordinates": "-1.496873, 29.631343",
+      "metar_available": false
     },
     {
       "ident": "HRZA",
@@ -97,7 +103,8 @@
       "municipality": "Kamembe",
       "gps_code": "HRZA",
       "iata_code": "KME",
-      "coordinates": "-2.462239980697632, 28.907899856567383"
+      "coordinates": "-2.462239980697632, 28.907899856567383",
+      "metar_available": false
     },
     {
       "ident": "RW-0001",
@@ -108,7 +115,8 @@
       "iso_country": "RW",
       "iso_region": "RW-02",
       "municipality": "Gako",
-      "coordinates": "-2.2308, 30.1809"
+      "coordinates": "-2.2308, 30.1809",
+      "metar_available": false
     },
     {
       "ident": "RW-0002",
@@ -119,7 +127,8 @@
       "iso_country": "RW",
       "iso_region": "RW-02",
       "municipality": "Rilima",
-      "coordinates": "-2.1444, 30.1835"
+      "coordinates": "-2.1444, 30.1835",
+      "metar_available": false
     }
   ]
 }

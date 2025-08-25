@@ -2,7 +2,7 @@
   "country_code": "SD",
   "country_name": "Sudan",
   "total_airports": 58,
-  "last_updated": "2025-08-01T00:18:22.383663",
+  "last_updated": "2025-08-25T10:08:40.504743",
   "types_distribution": {
     "small_airport": 35,
     "medium_airport": 9,
@@ -21,7 +21,8 @@
       "iso_region": "SD-DE",
       "municipality": "El Daein",
       "iata_code": "ADV",
-      "coordinates": "11.4023, 26.1186"
+      "coordinates": "11.4023, 26.1186",
+      "metar_available": false
     },
     {
       "ident": "BJE",
@@ -33,7 +34,8 @@
       "iso_region": "SD-13",
       "municipality": "Baleela Base Camp",
       "iata_code": "BJE",
-      "coordinates": "11.199444444400001, 28.5230555556"
+      "coordinates": "11.199444444400001, 28.5230555556",
+      "metar_available": false
     },
     {
       "ident": "HSAT",
@@ -46,7 +48,8 @@
       "municipality": "Atbara",
       "gps_code": "HSAT",
       "iata_code": "ATB",
-      "coordinates": "17.710344, 34.057018"
+      "coordinates": "17.710344, 34.057018",
+      "metar_available": false
     },
     {
       "ident": "HSCG",
@@ -58,7 +61,8 @@
       "iso_region": "SD-26",
       "municipality": "Carthago",
       "gps_code": "HSCG",
-      "coordinates": "18.751389, 36.991667"
+      "coordinates": "18.751389, 36.991667",
+      "metar_available": false
     },
     {
       "ident": "HSDB",
@@ -71,7 +75,8 @@
       "municipality": "Al Dabbah",
       "gps_code": "HSDB",
       "iata_code": "EDB",
-      "coordinates": "18.0146, 30.9595"
+      "coordinates": "18.0146, 30.9595",
+      "metar_available": false
     },
     {
       "ident": "HSDL",
@@ -83,7 +88,8 @@
       "iso_region": "SD-13",
       "municipality": "Dilling",
       "gps_code": "HSDL",
-      "coordinates": "11.990599632263184, 29.673200607299805"
+      "coordinates": "11.990599632263184, 29.673200607299805",
+      "metar_available": false
     },
     {
       "ident": "HSDN",
@@ -96,7 +102,8 @@
       "municipality": "Dongola",
       "gps_code": "HSDN",
       "iata_code": "DOG",
-      "coordinates": "19.153900146499996, 30.430099487299998"
+      "coordinates": "19.153900146499996, 30.430099487299998",
+      "metar_available": false
     },
     {
       "ident": "HSDZ",
@@ -109,7 +116,8 @@
       "municipality": "Ad Damazin",
       "gps_code": "HSDZ",
       "iata_code": "RSS",
-      "coordinates": "11.7859, 34.3367"
+      "coordinates": "11.7859, 34.3367",
+      "metar_available": false
     },
     {
       "ident": "HSFS",
@@ -122,7 +130,8 @@
       "municipality": "El Fasher",
       "gps_code": "HSFS",
       "iata_code": "ELF",
-      "coordinates": "13.614899635314941, 25.324600219726562"
+      "coordinates": "13.614899635314941, 25.324600219726562",
+      "metar_available": false
     },
     {
       "ident": "HSGG",
@@ -135,7 +144,8 @@
       "municipality": "Dinder",
       "gps_code": "HSGG",
       "iata_code": "DNX",
-      "coordinates": "12.532999992370605, 35.06700134277344"
+      "coordinates": "12.532999992370605, 35.06700134277344",
+      "metar_available": false
     },
     {
       "ident": "HSGN",
@@ -148,7 +158,8 @@
       "municipality": "Geneina",
       "gps_code": "HSGN",
       "iata_code": "EGN",
-      "coordinates": "13.481882, 22.467119"
+      "coordinates": "13.481882, 22.467119",
+      "metar_available": false
     },
     {
       "ident": "HSGO",
@@ -160,7 +171,8 @@
       "iso_region": "SD-01",
       "municipality": "Gogrial",
       "gps_code": "HSGO",
-      "coordinates": "18.867000579833984, 28.117000579833984"
+      "coordinates": "18.867000579833984, 28.117000579833984",
+      "metar_available": false
     },
     {
       "ident": "HSHG",
@@ -173,7 +185,8 @@
       "municipality": "Heglig Oilfield",
       "gps_code": "HSHG",
       "iata_code": "HEG",
-      "coordinates": "9.994933, 29.397718"
+      "coordinates": "9.994933, 29.397718",
+      "metar_available": false
     },
     {
       "ident": "HSKA",
@@ -186,7 +199,8 @@
       "municipality": "Kassala",
       "gps_code": "HSKA",
       "iata_code": "KSL",
-      "coordinates": "15.387499809265137, 36.328800201416016"
+      "coordinates": "15.387499809265137, 36.328800201416016",
+      "metar_available": false
     },
     {
       "ident": "HSKG",
@@ -199,7 +213,8 @@
       "municipality": "Khashm El Girba",
       "gps_code": "HSKG",
       "iata_code": "GBU",
-      "coordinates": "14.925, 35.877998"
+      "coordinates": "14.925, 35.877998",
+      "metar_available": false
     },
     {
       "ident": "HSKN",
@@ -211,7 +226,8 @@
       "iso_region": "SD-08",
       "municipality": "Sifeiya",
       "gps_code": "HSKN",
-      "coordinates": "13.05343, 32.90732"
+      "coordinates": "13.05343, 32.90732",
+      "metar_available": false
     },
     {
       "ident": "HSLI",
@@ -224,7 +240,8 @@
       "municipality": "Kadugli",
       "gps_code": "HSLI",
       "iata_code": "KDX",
-      "coordinates": "11.137999534600002, 29.7010993958"
+      "coordinates": "11.137999534600002, 29.7010993958",
+      "metar_available": false
     },
     {
       "ident": "HSMN",
@@ -237,7 +254,8 @@
       "municipality": "Merowe",
       "gps_code": "HSMN",
       "iata_code": "MWE",
-      "coordinates": "18.443333, 31.843333"
+      "coordinates": "18.443333, 31.843333",
+      "metar_available": false
     },
     {
       "ident": "HSMR",
@@ -249,7 +267,8 @@
       "iso_region": "SD-01",
       "municipality": "Merowe",
       "gps_code": "HSMR",
-      "coordinates": "18.455, 31.8185"
+      "coordinates": "18.455, 31.8185",
+      "metar_available": false
     },
     {
       "ident": "HSNH",
@@ -262,7 +281,8 @@
       "municipality": "En Nahud",
       "gps_code": "HSNH",
       "iata_code": "NUD",
-      "coordinates": "12.735513, 28.410841"
+      "coordinates": "12.735513, 28.410841",
+      "metar_available": false
     },
     {
       "ident": "HSNN",
@@ -275,7 +295,8 @@
       "municipality": "Nyala",
       "gps_code": "HSNN",
       "iata_code": "UYL",
-      "coordinates": "12.0535, 24.9562"
+      "coordinates": "12.0535, 24.9562",
+      "metar_available": false
     },
     {
       "ident": "HSNW",
@@ -288,7 +309,8 @@
       "municipality": "New Halfa",
       "gps_code": "HSNW",
       "iata_code": "NHF",
-      "coordinates": "15.3556, 35.727798"
+      "coordinates": "15.3556, 35.727798",
+      "metar_available": false
     },
     {
       "ident": "HSOB",
@@ -301,7 +323,8 @@
       "municipality": "El-Obeid",
       "gps_code": "HSOB",
       "iata_code": "EBD",
-      "coordinates": "13.1532, 30.2327"
+      "coordinates": "13.1532, 30.2327",
+      "metar_available": false
     },
     {
       "ident": "HSPN",
@@ -314,7 +337,8 @@
       "municipality": "Port Sudan",
       "gps_code": "HSPN",
       "iata_code": "PZU",
-      "coordinates": "19.4335994720459, 37.234100341796875"
+      "coordinates": "19.4335994720459, 37.234100341796875",
+      "metar_available": false
     },
     {
       "ident": "HSSG",
@@ -326,7 +350,8 @@
       "iso_region": "SD-12",
       "municipality": "Geneina",
       "gps_code": "HSSG",
-      "coordinates": "13.4774, 22.53722"
+      "coordinates": "13.4774, 22.53722",
+      "metar_available": false
     },
     {
       "ident": "HSSK",
@@ -339,7 +364,8 @@
       "municipality": "Khartoum",
       "gps_code": "HSSK",
       "iata_code": "KRT",
-      "coordinates": "15.5895, 32.5532"
+      "coordinates": "15.5895, 32.5532",
+      "metar_available": false
     },
     {
       "ident": "HSSP",
@@ -351,7 +377,8 @@
       "iso_region": "SD-26",
       "municipality": "Port Sudan",
       "gps_code": "HSSP",
-      "coordinates": "19.5765, 37.2159"
+      "coordinates": "19.5765, 37.2159",
+      "metar_available": false
     },
     {
       "ident": "HSSW",
@@ -364,7 +391,8 @@
       "municipality": "Wadi Halfa",
       "gps_code": "HSSW",
       "iata_code": "WHF",
-      "coordinates": "21.802698, 31.521578"
+      "coordinates": "21.802698, 31.521578",
+      "metar_available": false
     },
     {
       "ident": "HSZA",
@@ -377,7 +405,8 @@
       "municipality": "Zalingei",
       "gps_code": "HSZA",
       "iata_code": "ZLX",
-      "coordinates": "12.9437, 23.5631"
+      "coordinates": "12.9437, 23.5631",
+      "metar_available": false
     },
     {
       "ident": "SD-0001",
@@ -388,7 +417,8 @@
       "iso_region": "SD-03",
       "municipality": "Karari al-Balad",
       "local_code": "HSOM",
-      "coordinates": "15.815213, 32.51401"
+      "coordinates": "15.815213, 32.51401",
+      "metar_available": false
     },
     {
       "ident": "SD-0002",
@@ -399,7 +429,8 @@
       "iso_country": "SD",
       "iso_region": "SD-12",
       "municipality": "Zalengei",
-      "coordinates": "12.9029, 23.4635"
+      "coordinates": "12.9029, 23.4635",
+      "metar_available": false
     },
     {
       "ident": "SD-0003",
@@ -409,7 +440,8 @@
       "iso_country": "SD",
       "iso_region": "SD-02",
       "municipality": "Kutum",
-      "coordinates": "14.220586, 24.633616"
+      "coordinates": "14.220586, 24.633616",
+      "metar_available": false
     },
     {
       "ident": "SD-0004",
@@ -419,7 +451,8 @@
       "iso_country": "SD",
       "iso_region": "SD-11",
       "municipality": "Gereida",
-      "coordinates": "11.256023, 25.143714"
+      "coordinates": "11.256023, 25.143714",
+      "metar_available": false
     },
     {
       "ident": "SD-0005",
@@ -430,7 +463,8 @@
       "iso_country": "SD",
       "iso_region": "SD-04",
       "municipality": "Abu Hamad",
-      "coordinates": "19.60021, 33.32162"
+      "coordinates": "19.60021, 33.32162",
+      "metar_available": false
     },
     {
       "ident": "SD-0006",
@@ -441,7 +475,8 @@
       "iso_country": "SD",
       "iso_region": "SD-11",
       "municipality": "Songo",
-      "coordinates": "9.774332, 24.306231"
+      "coordinates": "9.774332, 24.306231",
+      "metar_available": false
     },
     {
       "ident": "SD-0007",
@@ -452,7 +487,8 @@
       "iso_country": "SD",
       "iso_region": "SD-04",
       "municipality": "Abu Hamad",
-      "coordinates": "19.56507, 33.31448"
+      "coordinates": "19.56507, 33.31448",
+      "metar_available": false
     },
     {
       "ident": "SD-0008",
@@ -463,7 +499,8 @@
       "iso_country": "SD",
       "iso_region": "SD-03",
       "municipality": "Omdurman",
-      "coordinates": "15.61515, 32.48534"
+      "coordinates": "15.61515, 32.48534",
+      "metar_available": false
     },
     {
       "ident": "SD-0009",
@@ -474,7 +511,8 @@
       "iso_country": "SD",
       "iso_region": "SD-08",
       "municipality": "Sifeiya",
-      "coordinates": "13.089439, 32.853462"
+      "coordinates": "13.089439, 32.853462",
+      "metar_available": false
     },
     {
       "ident": "SD-0010",
@@ -485,7 +523,8 @@
       "iso_country": "SD",
       "iso_region": "SD-08",
       "municipality": "Al Jabalayn",
-      "coordinates": "12.5058, 32.83324"
+      "coordinates": "12.5058, 32.83324",
+      "metar_available": false
     },
     {
       "ident": "SD-0011",
@@ -496,7 +535,8 @@
       "iso_country": "SD",
       "iso_region": "SD-08",
       "municipality": "Al Jabalayn",
-      "coordinates": "12.49281, 32.85269"
+      "coordinates": "12.49281, 32.85269",
+      "metar_available": false
     },
     {
       "ident": "SD-0013",
@@ -507,7 +547,8 @@
       "iso_country": "SD",
       "iso_region": "SD-25",
       "municipality": "Nauraniya",
-      "coordinates": "13.31905, 33.61347"
+      "coordinates": "13.31905, 33.61347",
+      "metar_available": false
     },
     {
       "ident": "SD-0014",
@@ -517,7 +558,8 @@
       "iso_country": "SD",
       "iso_region": "SD-06",
       "municipality": "Al Hawatah",
-      "coordinates": "13.448558, 34.621427"
+      "coordinates": "13.448558, 34.621427",
+      "metar_available": false
     },
     {
       "ident": "SD-0015",
@@ -528,7 +570,8 @@
       "iso_country": "SD",
       "iso_region": "SD-07",
       "municipality": "Wad Medani",
-      "coordinates": "14.295991, 33.547225"
+      "coordinates": "14.295991, 33.547225",
+      "metar_available": false
     },
     {
       "ident": "SD-0016",
@@ -539,7 +582,8 @@
       "iso_country": "SD",
       "iso_region": "SD-01",
       "municipality": "Abri",
-      "coordinates": "20.77819, 30.3489"
+      "coordinates": "20.77819, 30.3489",
+      "metar_available": false
     },
     {
       "ident": "SD-0017",
@@ -549,7 +593,8 @@
       "iso_country": "SD",
       "iso_region": "SD-03",
       "municipality": "Al-Kamunab",
-      "coordinates": "15.268851, 32.357198"
+      "coordinates": "15.268851, 32.357198",
+      "metar_available": false
     },
     {
       "ident": "SD-0018",
@@ -559,7 +604,8 @@
       "iso_country": "SD",
       "iso_region": "SD-25",
       "municipality": "Sifeiya",
-      "coordinates": "13.15052, 33.01786"
+      "coordinates": "13.15052, 33.01786",
+      "metar_available": false
     },
     {
       "ident": "SD-0019",
@@ -570,7 +616,8 @@
       "iso_country": "SD",
       "iso_region": "SD-ABY",
       "municipality": "Agok",
-      "coordinates": "9.360009, 28.584035"
+      "coordinates": "9.360009, 28.584035",
+      "metar_available": false
     },
     {
       "ident": "SD-0020",
@@ -579,7 +626,8 @@
       "continent": "AF",
       "iso_country": "SD",
       "iso_region": "SD-13",
-      "coordinates": "10.049237, 28.407355"
+      "coordinates": "10.049237, 28.407355",
+      "metar_available": false
     },
     {
       "ident": "SD-0021",
@@ -589,7 +637,8 @@
       "iso_country": "SD",
       "iso_region": "SD-ABY",
       "municipality": "Abyei",
-      "coordinates": "9.584456, 28.442977"
+      "coordinates": "9.584456, 28.442977",
+      "metar_available": false
     },
     {
       "ident": "SD-0022",
@@ -599,7 +648,8 @@
       "iso_country": "SD",
       "iso_region": "SD-ABY",
       "municipality": "Abyei",
-      "coordinates": "9.585896, 28.449796"
+      "coordinates": "9.585896, 28.449796",
+      "metar_available": false
     },
     {
       "ident": "SD-0023",
@@ -609,7 +659,8 @@
       "iso_country": "SD",
       "iso_region": "SD-ABY",
       "municipality": "Awolnhom",
-      "coordinates": "9.468244, 28.466196"
+      "coordinates": "9.468244, 28.466196",
+      "metar_available": false
     },
     {
       "ident": "SD-0024",
@@ -618,7 +669,8 @@
       "continent": "AF",
       "iso_country": "SD",
       "iso_region": "SD-13",
-      "coordinates": "9.673713, 28.593278"
+      "coordinates": "9.673713, 28.593278",
+      "metar_available": false
     },
     {
       "ident": "SD-0025",
@@ -629,7 +681,8 @@
       "iso_country": "SD",
       "iso_region": "SD-06",
       "municipality": "Al Qadarif",
-      "coordinates": "14.121428, 35.311861"
+      "coordinates": "14.121428, 35.311861",
+      "metar_available": false
     },
     {
       "ident": "SD-0026",
@@ -641,7 +694,8 @@
       "iso_region": "SD-04",
       "municipality": "Shendi",
       "gps_code": "HSND",
-      "coordinates": "16.703775, 33.446395"
+      "coordinates": "16.703775, 33.446395",
+      "metar_available": false
     },
     {
       "ident": "SD-0027",
@@ -652,7 +706,8 @@
       "iso_country": "SD",
       "iso_region": "SD-08",
       "municipality": "Rabak",
-      "coordinates": "13.183, 32.733002"
+      "coordinates": "13.183, 32.733002",
+      "metar_available": false
     },
     {
       "ident": "SD-0028",
@@ -663,7 +718,8 @@
       "iso_country": "SD",
       "iso_region": "SD-07",
       "municipality": "Wad Medani",
-      "coordinates": "14.383451, 33.526679"
+      "coordinates": "14.383451, 33.526679",
+      "metar_available": false
     },
     {
       "ident": "SD-0029",
@@ -674,7 +730,8 @@
       "iso_country": "SD",
       "iso_region": "SD-25",
       "municipality": "Barqu",
-      "coordinates": "13.76607, 33.42155"
+      "coordinates": "13.76607, 33.42155",
+      "metar_available": false
     },
     {
       "ident": "SD-0030",
@@ -685,7 +742,8 @@
       "iso_country": "SD",
       "iso_region": "SD-07",
       "municipality": "Wad Madani",
-      "coordinates": "14.40665, 33.53447"
+      "coordinates": "14.40665, 33.53447",
+      "metar_available": false
     }
   ]
 }

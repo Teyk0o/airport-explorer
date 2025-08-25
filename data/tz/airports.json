@@ -2,7 +2,7 @@
   "country_code": "TZ",
   "country_name": "Tanzania",
   "total_airports": 210,
-  "last_updated": "2025-08-01T00:18:22.750068",
+  "last_updated": "2025-08-25T10:08:40.896499",
   "types_distribution": {
     "small_airport": 194,
     "medium_airport": 10,
@@ -20,7 +20,8 @@
       "iso_region": "TZ-02",
       "municipality": "Somangira",
       "gps_code": "HTAG",
-      "coordinates": "-6.957292, 39.505588"
+      "coordinates": "-6.957292, 39.505588",
+      "metar_available": false
     },
     {
       "ident": "HTAR",
@@ -33,7 +34,8 @@
       "municipality": "Arusha",
       "gps_code": "HTAR",
       "iata_code": "ARK",
-      "coordinates": "-3.3677899837493896, 36.63330078125"
+      "coordinates": "-3.3677899837493896, 36.63330078125",
+      "metar_available": false
     },
     {
       "ident": "HTBB",
@@ -45,7 +47,8 @@
       "iso_region": "TZ-19",
       "municipality": "Selous Game Reserve",
       "gps_code": "HTBB",
-      "coordinates": "-7.748241, 38.001833"
+      "coordinates": "-7.748241, 38.001833",
+      "metar_available": false
     },
     {
       "ident": "HTBS",
@@ -57,7 +60,8 @@
       "iso_region": "TZ-21",
       "municipality": "Mbesa Mission",
       "gps_code": "HTBS",
-      "coordinates": "-11.331675, 37.067816"
+      "coordinates": "-11.331675, 37.067816",
+      "metar_available": false
     },
     {
       "ident": "HTBU",
@@ -70,7 +74,8 @@
       "municipality": "Bukoba",
       "gps_code": "HTBU",
       "iata_code": "BKZ",
-      "coordinates": "-1.332, 31.8212"
+      "coordinates": "-1.332, 31.8212",
+      "metar_available": false
     },
     {
       "ident": "HTCH",
@@ -82,7 +87,8 @@
       "iso_region": "TZ-14",
       "municipality": "Chunya",
       "gps_code": "HTCH",
-      "coordinates": "-8.558318, 33.436368"
+      "coordinates": "-8.558318, 33.436368",
+      "metar_available": false
     },
     {
       "ident": "HTDA",
@@ -95,7 +101,8 @@
       "municipality": "Dar es Salaam",
       "gps_code": "HTDA",
       "iata_code": "DAR",
-      "coordinates": "-6.87811, 39.202599"
+      "coordinates": "-6.87811, 39.202599",
+      "metar_available": false
     },
     {
       "ident": "HTDO",
@@ -108,7 +115,8 @@
       "municipality": "Dodoma",
       "gps_code": "HTDO",
       "iata_code": "DOD",
-      "coordinates": "-6.17044, 35.752602"
+      "coordinates": "-6.17044, 35.752602",
+      "metar_available": false
     },
     {
       "ident": "HTEN",
@@ -120,7 +128,8 @@
       "iso_region": "TZ-01",
       "municipality": "Endulen",
       "gps_code": "HTEN",
-      "coordinates": "-3.194243, 35.26315"
+      "coordinates": "-3.194243, 35.26315",
+      "metar_available": false
     },
     {
       "ident": "HTGE",
@@ -133,7 +142,8 @@
       "municipality": "Chato District",
       "gps_code": "HTGE",
       "iata_code": "GTC",
-      "coordinates": "-2.74233, 31.70683"
+      "coordinates": "-2.74233, 31.70683",
+      "metar_available": false
     },
     {
       "ident": "HTGR",
@@ -146,7 +156,8 @@
       "municipality": "Grumeti Game Reserve",
       "gps_code": "HTGR",
       "iata_code": "GTZ",
-      "coordinates": "-2.160833, 34.225556"
+      "coordinates": "-2.160833, 34.225556",
+      "metar_available": false
     },
     {
       "ident": "HTGW",
@@ -159,7 +170,8 @@
       "municipality": "Mbeya",
       "gps_code": "HTGW",
       "iata_code": "MBI",
-      "coordinates": "-8.919942, 33.273981"
+      "coordinates": "-8.919942, 33.273981",
+      "metar_available": false
     },
     {
       "ident": "HTIR",
@@ -172,7 +184,8 @@
       "municipality": "Nduli",
       "gps_code": "HTIR",
       "iata_code": "IRI",
-      "coordinates": "-7.66863, 35.752102"
+      "coordinates": "-7.66863, 35.752102",
+      "metar_available": false
     },
     {
       "ident": "HTIY",
@@ -184,7 +197,8 @@
       "iso_region": "TZ-20",
       "municipality": "Inyonga",
       "gps_code": "HTIY",
-      "coordinates": "-6.719232, 32.062657"
+      "coordinates": "-6.719232, 32.062657",
+      "metar_available": false
     },
     {
       "ident": "HTKA",
@@ -197,7 +211,8 @@
       "municipality": "Kigoma",
       "gps_code": "HTKA",
       "iata_code": "TKQ",
-      "coordinates": "-4.8862, 29.6709"
+      "coordinates": "-4.8862, 29.6709",
+      "metar_available": false
     },
     {
       "ident": "HTKB",
@@ -209,7 +224,8 @@
       "iso_region": "TZ-08",
       "municipality": "Kibondo",
       "gps_code": "HTKB",
-      "coordinates": "-3.525979995727539, 30.650400161743164"
+      "coordinates": "-3.525979995727539, 30.650400161743164",
+      "metar_available": false
     },
     {
       "ident": "HTKD",
@@ -221,7 +237,8 @@
       "iso_region": "TZ-03",
       "municipality": "Kondoa",
       "gps_code": "HTKD",
-      "coordinates": "-4.893710136413574, 35.7682991027832"
+      "coordinates": "-4.893710136413574, 35.7682991027832",
+      "metar_available": false
     },
     {
       "ident": "HTKI",
@@ -234,7 +251,8 @@
       "municipality": "Kilwa Masoko",
       "gps_code": "HTKI",
       "iata_code": "KIY",
-      "coordinates": "-8.91123, 39.508619"
+      "coordinates": "-8.91123, 39.508619",
+      "metar_available": false
     },
     {
       "ident": "HTKJ",
@@ -247,7 +265,8 @@
       "municipality": "Arusha",
       "gps_code": "HTKJ",
       "iata_code": "JRO",
-      "coordinates": "-3.42941, 37.074501"
+      "coordinates": "-3.42941, 37.074501",
+      "metar_available": false
     },
     {
       "ident": "HTKL",
@@ -259,7 +278,8 @@
       "iso_region": "TZ-23",
       "municipality": "Kirondatal",
       "gps_code": "HTKL",
-      "coordinates": "-4.312575, 34.346453"
+      "coordinates": "-4.312575, 34.346453",
+      "metar_available": false
     },
     {
       "ident": "HTKO",
@@ -271,7 +291,8 @@
       "iso_region": "TZ-03",
       "municipality": "Kongwa",
       "gps_code": "HTKO",
-      "coordinates": "-6.150000095367432, 36.41699981689453"
+      "coordinates": "-6.150000095367432, 36.41699981689453",
+      "metar_available": false
     },
     {
       "ident": "HTKS",
@@ -283,7 +304,8 @@
       "iso_region": "TZ-16",
       "municipality": "Kilosa",
       "gps_code": "HTKS",
-      "coordinates": "-6.864605, 37.00845"
+      "coordinates": "-6.864605, 37.00845",
+      "metar_available": false
     },
     {
       "ident": "HTKT",
@@ -295,7 +317,8 @@
       "iso_region": "TZ-23",
       "municipality": "Kilimatinde",
       "gps_code": "HTKT",
-      "coordinates": "-5.831378, 34.966387"
+      "coordinates": "-5.831378, 34.966387",
+      "metar_available": false
     },
     {
       "ident": "HTLD",
@@ -307,7 +330,8 @@
       "iso_region": "TZ-01",
       "municipality": "Loliondo",
       "gps_code": "HTLD",
-      "coordinates": "-2.06969, 35.5457"
+      "coordinates": "-2.06969, 35.5457",
+      "metar_available": false
     },
     {
       "ident": "HTLI",
@@ -320,7 +344,8 @@
       "municipality": "Lindi",
       "gps_code": "HTLI",
       "iata_code": "LDI",
-      "coordinates": "-9.851005, 39.75911"
+      "coordinates": "-9.851005, 39.75911",
+      "metar_available": false
     },
     {
       "ident": "HTLL",
@@ -332,7 +357,8 @@
       "iso_region": "TZ-21",
       "municipality": "Liuli",
       "gps_code": "HTLL",
-      "coordinates": "-11.116399765014648, 34.652198791503906"
+      "coordinates": "-11.116399765014648, 34.652198791503906",
+      "metar_available": false
     },
     {
       "ident": "HTLM",
@@ -345,7 +371,8 @@
       "municipality": "Lake Manyara National Park",
       "gps_code": "HTLM",
       "iata_code": "LKY",
-      "coordinates": "-3.37631, 35.818298"
+      "coordinates": "-3.37631, 35.818298",
+      "metar_available": false
     },
     {
       "ident": "HTMA",
@@ -358,7 +385,8 @@
       "municipality": "Kilindoni",
       "gps_code": "HTMA",
       "iata_code": "MFA",
-      "coordinates": "-7.917478, 39.668502"
+      "coordinates": "-7.917478, 39.668502",
+      "metar_available": false
     },
     {
       "ident": "HTMB",
@@ -370,7 +398,8 @@
       "iso_region": "TZ-14",
       "municipality": "Mbeya",
       "gps_code": "HTMB",
-      "coordinates": "-8.919444, 33.463889"
+      "coordinates": "-8.919444, 33.463889",
+      "metar_available": false
     },
     {
       "ident": "HTMD",
@@ -383,7 +412,8 @@
       "municipality": "Mwadui",
       "gps_code": "HTMD",
       "iata_code": "MWN",
-      "coordinates": "-3.521332, 33.615542"
+      "coordinates": "-3.521332, 33.615542",
+      "metar_available": false
     },
     {
       "ident": "HTMF",
@@ -395,7 +425,8 @@
       "iso_region": "TZ-04",
       "municipality": "Mufindi",
       "gps_code": "HTMF",
-      "coordinates": "-8.732040405273438, 35.3026008605957"
+      "coordinates": "-8.732040405273438, 35.3026008605957",
+      "metar_available": false
     },
     {
       "ident": "HTMG",
@@ -407,7 +438,8 @@
       "iso_region": "TZ-16",
       "municipality": "Morogoro",
       "gps_code": "HTMG",
-      "coordinates": "-6.79722, 37.653099"
+      "coordinates": "-6.79722, 37.653099",
+      "metar_available": false
     },
     {
       "ident": "HTMI",
@@ -420,7 +452,8 @@
       "municipality": "Masasi",
       "gps_code": "HTMI",
       "iata_code": "XMI",
-      "coordinates": "-10.733, 38.766998"
+      "coordinates": "-10.733, 38.766998",
+      "metar_available": false
     },
     {
       "ident": "HTMK",
@@ -432,7 +465,8 @@
       "iso_region": "TZ-16",
       "municipality": "Mikumi",
       "gps_code": "HTMK",
-      "coordinates": "-7.333427906036377, 37.11635971069336"
+      "coordinates": "-7.333427906036377, 37.11635971069336",
+      "metar_available": false
     },
     {
       "ident": "HTML",
@@ -444,7 +478,8 @@
       "iso_region": "TZ-08",
       "municipality": "Mahale",
       "gps_code": "HTML",
-      "coordinates": "-6.012913, 29.766937"
+      "coordinates": "-6.012913, 29.766937",
+      "metar_available": false
     },
     {
       "ident": "HTMO",
@@ -456,7 +491,8 @@
       "iso_region": "TZ-25",
       "municipality": "Mombo",
       "gps_code": "HTMO",
-      "coordinates": "-4.899146, 38.240289"
+      "coordinates": "-4.899146, 38.240289",
+      "metar_available": false
     },
     {
       "ident": "HTMP",
@@ -469,7 +505,8 @@
       "municipality": "Mpanda",
       "gps_code": "HTMP",
       "iata_code": "NPY",
-      "coordinates": "-6.355374, 31.084116"
+      "coordinates": "-6.355374, 31.084116",
+      "metar_available": false
     },
     {
       "ident": "HTMS",
@@ -482,7 +519,8 @@
       "municipality": "Moshi",
       "gps_code": "HTMS",
       "iata_code": "QSI",
-      "coordinates": "-3.36333, 37.3269"
+      "coordinates": "-3.36333, 37.3269",
+      "metar_available": false
     },
     {
       "ident": "HTMT",
@@ -495,7 +533,8 @@
       "municipality": "Mtwara",
       "gps_code": "HTMT",
       "iata_code": "MYW",
-      "coordinates": "-10.336204, 40.181997"
+      "coordinates": "-10.336204, 40.181997",
+      "metar_available": false
     },
     {
       "ident": "HTMU",
@@ -508,7 +547,8 @@
       "municipality": "Musoma",
       "gps_code": "HTMU",
       "iata_code": "MUZ",
-      "coordinates": "-1.503, 33.8021"
+      "coordinates": "-1.503, 33.8021",
+      "metar_available": false
     },
     {
       "ident": "HTMW",
@@ -521,7 +561,8 @@
       "municipality": "Mwanza",
       "gps_code": "HTMW",
       "iata_code": "MWZ",
-      "coordinates": "-2.4444899559020996, 32.932701110839844"
+      "coordinates": "-2.4444899559020996, 32.932701110839844",
+      "metar_available": false
     },
     {
       "ident": "HTMX",
@@ -533,7 +574,8 @@
       "iso_region": "TZ-03",
       "municipality": "Mpwapwa",
       "gps_code": "HTMX",
-      "coordinates": "-6.349999904632568, 36.483001708984375"
+      "coordinates": "-6.349999904632568, 36.483001708984375",
+      "metar_available": false
     },
     {
       "ident": "HTNA",
@@ -546,7 +588,8 @@
       "municipality": "Nachingwea",
       "gps_code": "HTNA",
       "iata_code": "NCH",
-      "coordinates": "-10.3575, 38.779202"
+      "coordinates": "-10.3575, 38.779202",
+      "metar_available": false
     },
     {
       "ident": "HTNG",
@@ -558,7 +601,8 @@
       "iso_region": "TZ-16",
       "municipality": "Ngerengere",
       "gps_code": "HTNG",
-      "coordinates": "-6.717083, 38.153944"
+      "coordinates": "-6.717083, 38.153944",
+      "metar_available": false
     },
     {
       "ident": "HTNJ",
@@ -571,7 +615,8 @@
       "municipality": "Njombe",
       "gps_code": "HTNJ",
       "iata_code": "JOM",
-      "coordinates": "-9.35, 34.799999"
+      "coordinates": "-9.35, 34.799999",
+      "metar_available": false
     },
     {
       "ident": "HTNR",
@@ -583,7 +628,8 @@
       "iso_region": "TZ-05",
       "municipality": "Ngara",
       "gps_code": "HTNR",
-      "coordinates": "-2.54179, 30.7031"
+      "coordinates": "-2.54179, 30.7031",
+      "metar_available": false
     },
     {
       "ident": "HTOL",
@@ -594,7 +640,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "gps_code": "HTOL",
-      "coordinates": "-4.287732, 36.616115"
+      "coordinates": "-4.287732, 36.616115",
+      "metar_available": false
     },
     {
       "ident": "HTPE",
@@ -607,7 +654,8 @@
       "municipality": "Chake Chake",
       "gps_code": "HTPE",
       "iata_code": "PMA",
-      "coordinates": "-5.25726, 39.811401"
+      "coordinates": "-5.25726, 39.811401",
+      "metar_available": false
     },
     {
       "ident": "HTSD",
@@ -619,7 +667,8 @@
       "iso_region": "TZ-23",
       "municipality": "Singida",
       "gps_code": "HTSD",
-      "coordinates": "-4.810928, 34.724762"
+      "coordinates": "-4.810928, 34.724762",
+      "metar_available": false
     },
     {
       "ident": "HTSE",
@@ -631,7 +680,8 @@
       "iso_region": "TZ-09",
       "municipality": "Same",
       "gps_code": "HTSE",
-      "coordinates": "-4.053634, 37.789462"
+      "coordinates": "-4.053634, 37.789462",
+      "metar_available": false
     },
     {
       "ident": "HTSH",
@@ -643,7 +693,8 @@
       "iso_region": "TZ-04",
       "municipality": "Mafinga",
       "gps_code": "HTSH",
-      "coordinates": "-8.350000381469727, 35.29999923706055"
+      "coordinates": "-8.350000381469727, 35.29999923706055",
+      "metar_available": false
     },
     {
       "ident": "HTSN",
@@ -656,7 +707,8 @@
       "municipality": "Seronera",
       "gps_code": "HTSN",
       "iata_code": "SEU",
-      "coordinates": "-2.45806, 34.822498"
+      "coordinates": "-2.45806, 34.822498",
+      "metar_available": false
     },
     {
       "ident": "HTSO",
@@ -669,7 +721,8 @@
       "municipality": "Songea",
       "gps_code": "HTSO",
       "iata_code": "SGX",
-      "coordinates": "-10.683, 35.583"
+      "coordinates": "-10.683, 35.583",
+      "metar_available": false
     },
     {
       "ident": "HTSU",
@@ -682,7 +735,8 @@
       "municipality": "Sumbawanga",
       "gps_code": "HTSU",
       "iata_code": "SUT",
-      "coordinates": "-7.948889, 31.610278"
+      "coordinates": "-7.948889, 31.610278",
+      "metar_available": false
     },
     {
       "ident": "HTSY",
@@ -695,7 +749,8 @@
       "municipality": "Shinyanga",
       "gps_code": "HTSY",
       "iata_code": "SHY",
-      "coordinates": "-3.6093, 33.5035"
+      "coordinates": "-3.6093, 33.5035",
+      "metar_available": false
     },
     {
       "ident": "HTTB",
@@ -708,7 +763,8 @@
       "municipality": "Tabora",
       "gps_code": "HTTB",
       "iata_code": "TBO",
-      "coordinates": "-5.07639, 32.833302"
+      "coordinates": "-5.07639, 32.833302",
+      "metar_available": false
     },
     {
       "ident": "HTTG",
@@ -721,7 +777,8 @@
       "municipality": "Tanga",
       "gps_code": "HTTG",
       "iata_code": "TGT",
-      "coordinates": "-5.09236, 39.071201"
+      "coordinates": "-5.09236, 39.071201",
+      "metar_available": false
     },
     {
       "ident": "HTTU",
@@ -733,7 +790,8 @@
       "iso_region": "TZ-21",
       "municipality": "Tunduru",
       "gps_code": "HTTU",
-      "coordinates": "-11.100000381469727, 37.367000579833984"
+      "coordinates": "-11.100000381469727, 37.367000579833984",
+      "metar_available": false
     },
     {
       "ident": "HTUK",
@@ -745,7 +803,8 @@
       "iso_region": "TZ-13",
       "municipality": "Ukerewe",
       "gps_code": "HTUK",
-      "coordinates": "-2.043529987335205, 33.06439971923828"
+      "coordinates": "-2.043529987335205, 33.06439971923828",
+      "metar_available": false
     },
     {
       "ident": "HTUR",
@@ -757,7 +816,8 @@
       "iso_region": "TZ-24",
       "municipality": "Urambo",
       "gps_code": "HTUR",
-      "coordinates": "-5.075635, 32.079868"
+      "coordinates": "-5.075635, 32.079868",
+      "metar_available": false
     },
     {
       "ident": "HTUT",
@@ -769,7 +829,8 @@
       "iso_region": "TZ-19",
       "municipality": "Utete",
       "gps_code": "HTUT",
-      "coordinates": "-7.999667, 38.760234"
+      "coordinates": "-7.999667, 38.760234",
+      "metar_available": false
     },
     {
       "ident": "HTUV",
@@ -781,7 +842,8 @@
       "iso_region": "TZ-08",
       "municipality": "Uvinza",
       "gps_code": "HTUV",
-      "coordinates": "-5.090771, 30.406772"
+      "coordinates": "-5.090771, 30.406772",
+      "metar_available": false
     },
     {
       "ident": "HTWK",
@@ -793,7 +855,8 @@
       "iso_region": "TZ-09",
       "municipality": "West Kilimanjaro",
       "gps_code": "HTWK",
-      "coordinates": "-3.05, 37"
+      "coordinates": "-3.05, 37",
+      "metar_available": false
     },
     {
       "ident": "HTZA",
@@ -806,7 +869,8 @@
       "municipality": "Zanzibar",
       "gps_code": "HTZA",
       "iata_code": "ZNZ",
-      "coordinates": "-6.22202, 39.224899"
+      "coordinates": "-6.22202, 39.224899",
+      "metar_available": false
     },
     {
       "ident": "KBH",
@@ -817,7 +881,8 @@
       "iso_region": "TZ-22",
       "municipality": "Kahama",
       "iata_code": "KBH",
-      "coordinates": "-3.847, 32.6865"
+      "coordinates": "-3.847, 32.6865",
+      "metar_available": false
     },
     {
       "ident": "TZ-0001",
@@ -828,7 +893,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-03",
       "municipality": "Mtera",
-      "coordinates": "-7.097152, 35.981575"
+      "coordinates": "-7.097152, 35.981575",
+      "metar_available": false
     },
     {
       "ident": "TZ-0002",
@@ -839,7 +905,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Manyoni",
-      "coordinates": "-5.72119, 34.838487"
+      "coordinates": "-5.72119, 34.838487",
+      "metar_available": false
     },
     {
       "ident": "TZ-0003",
@@ -850,7 +917,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-21",
       "municipality": "Mbinga",
-      "coordinates": "-10.96399974822998, 35.01179885864258"
+      "coordinates": "-10.96399974822998, 35.01179885864258",
+      "metar_available": false
     },
     {
       "ident": "TZ-0004",
@@ -861,7 +929,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-24",
       "municipality": "Tura",
-      "coordinates": "-5.4892401695251465, 33.87820053100586"
+      "coordinates": "-5.4892401695251465, 33.87820053100586",
+      "metar_available": false
     },
     {
       "ident": "TZ-0005",
@@ -873,7 +942,8 @@
       "iso_region": "TZ-03",
       "municipality": "Mvumi",
       "gps_code": "HTMV",
-      "coordinates": "-6.376389, 35.898611"
+      "coordinates": "-6.376389, 35.898611",
+      "metar_available": false
     },
     {
       "ident": "TZ-0006",
@@ -885,7 +955,8 @@
       "iso_region": "TZ-08",
       "municipality": "Kasulu",
       "gps_code": "HTKU",
-      "coordinates": "-4.549167, 30.102222"
+      "coordinates": "-4.549167, 30.102222",
+      "metar_available": false
     },
     {
       "ident": "TZ-0007",
@@ -896,7 +967,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-05",
       "municipality": "Uyovu",
-      "coordinates": "-3.210604, 31.546516"
+      "coordinates": "-3.210604, 31.546516",
+      "metar_available": false
     },
     {
       "ident": "TZ-0008",
@@ -908,7 +980,8 @@
       "iso_region": "TZ-22",
       "municipality": "Nyalikungu",
       "gps_code": "HTMC",
-      "coordinates": "-3.186741, 33.792056"
+      "coordinates": "-3.186741, 33.792056",
+      "metar_available": false
     },
     {
       "ident": "TZ-0009",
@@ -920,7 +993,8 @@
       "iso_region": "TZ-05",
       "municipality": "Biharamulo",
       "gps_code": "HTBH",
-      "coordinates": "-2.663273, 31.36515"
+      "coordinates": "-2.663273, 31.36515",
+      "metar_available": false
     },
     {
       "ident": "TZ-0010",
@@ -932,7 +1006,8 @@
       "iso_region": "TZ-23",
       "municipality": "Manyoni",
       "gps_code": "HTMN",
-      "coordinates": "-5.758501, 34.799656"
+      "coordinates": "-5.758501, 34.799656",
+      "metar_available": false
     },
     {
       "ident": "TZ-0011",
@@ -942,7 +1017,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-12",
       "municipality": "Liwale",
-      "coordinates": "-9.796886, 37.870732"
+      "coordinates": "-9.796886, 37.870732",
+      "metar_available": false
     },
     {
       "ident": "TZ-0012",
@@ -952,7 +1028,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Ifakara",
-      "coordinates": "-8.064876, 36.698112"
+      "coordinates": "-8.064876, 36.698112",
+      "metar_available": false
     },
     {
       "ident": "TZ-0013",
@@ -962,7 +1039,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-05",
       "municipality": "Mkwaja",
-      "coordinates": "-5.719283, 38.828465"
+      "coordinates": "-5.719283, 38.828465",
+      "metar_available": false
     },
     {
       "ident": "TZ-0014",
@@ -972,7 +1050,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-21",
       "municipality": "Mbamba Bay",
-      "coordinates": "-11.303451, 34.842717"
+      "coordinates": "-11.303451, 34.842717",
+      "metar_available": false
     },
     {
       "ident": "TZ-0015",
@@ -982,7 +1061,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Iku",
-      "coordinates": "-6.908626, 31.166407"
+      "coordinates": "-6.908626, 31.166407",
+      "metar_available": false
     },
     {
       "ident": "TZ-0016",
@@ -992,7 +1072,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-13",
-      "coordinates": "-2.073124, 34.510235"
+      "coordinates": "-2.073124, 34.510235",
+      "metar_available": false
     },
     {
       "ident": "TZ-0017",
@@ -1003,7 +1084,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Jongomeru",
-      "coordinates": "-7.894934, 34.580821"
+      "coordinates": "-7.894934, 34.580821",
+      "metar_available": false
     },
     {
       "ident": "TZ-0018",
@@ -1013,7 +1095,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-13",
       "municipality": "Kogatende",
-      "coordinates": "-1.568396, 34.886933"
+      "coordinates": "-1.568396, 34.886933",
+      "metar_available": false
     },
     {
       "ident": "TZ-0019",
@@ -1022,7 +1105,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-22",
-      "coordinates": "-2.269407, 34.023569"
+      "coordinates": "-2.269407, 34.023569",
+      "metar_available": false
     },
     {
       "ident": "TZ-0020",
@@ -1033,7 +1117,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-13",
       "municipality": "Lobo",
-      "coordinates": "-2.009865, 35.159105"
+      "coordinates": "-2.009865, 35.159105",
+      "metar_available": false
     },
     {
       "ident": "TZ-0021",
@@ -1043,7 +1128,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-04",
       "municipality": "Mpululu",
-      "coordinates": "-7.042659, 34.724101"
+      "coordinates": "-7.042659, 34.724101",
+      "metar_available": false
     },
     {
       "ident": "TZ-0022",
@@ -1053,7 +1139,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Tarangire",
-      "coordinates": "-3.761121, 36.027171"
+      "coordinates": "-3.761121, 36.027171",
+      "metar_available": false
     },
     {
       "ident": "TZ-0023",
@@ -1063,7 +1150,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-05",
       "municipality": "Rubondo Island",
-      "coordinates": "-2.30078, 31.849455"
+      "coordinates": "-2.30078, 31.849455",
+      "metar_available": false
     },
     {
       "ident": "TZ-0024",
@@ -1075,7 +1163,8 @@
       "iso_region": "TZ-01",
       "municipality": "Ndutu",
       "gps_code": "HTND",
-      "coordinates": "-3.030715, 34.988468"
+      "coordinates": "-3.030715, 34.988468",
+      "metar_available": false
     },
     {
       "ident": "TZ-0025",
@@ -1085,7 +1174,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Sitalike",
-      "coordinates": "-6.631518, 31.135481"
+      "coordinates": "-6.631518, 31.135481",
+      "metar_available": false
     },
     {
       "ident": "TZ-0026",
@@ -1097,7 +1187,8 @@
       "iso_region": "TZ-13",
       "municipality": "Fort Ikoma",
       "gps_code": "HTFI",
-      "coordinates": "-2.080103, 34.62952"
+      "coordinates": "-2.080103, 34.62952",
+      "metar_available": false
     },
     {
       "ident": "TZ-0027",
@@ -1107,7 +1198,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "municipality": "Kuro",
-      "coordinates": "-4.007918, 36.076105"
+      "coordinates": "-4.007918, 36.076105",
+      "metar_available": false
     },
     {
       "ident": "TZ-0028",
@@ -1119,7 +1211,8 @@
       "iso_region": "TZ-04",
       "municipality": "Msembe",
       "gps_code": "HTMR",
-      "coordinates": "-7.684811, 34.922282"
+      "coordinates": "-7.684811, 34.922282",
+      "metar_available": false
     },
     {
       "ident": "TZ-0029",
@@ -1129,7 +1222,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Magangwe",
-      "coordinates": "-7.719942, 34.226726"
+      "coordinates": "-7.719942, 34.226726",
+      "metar_available": false
     },
     {
       "ident": "TZ-0030",
@@ -1141,7 +1235,8 @@
       "iso_region": "TZ-19",
       "municipality": "Beho Beho",
       "gps_code": "HTBO",
-      "coordinates": "-7.666746, 37.927229"
+      "coordinates": "-7.666746, 37.927229",
+      "metar_available": false
     },
     {
       "ident": "TZ-0031",
@@ -1151,7 +1246,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Boma Ulanga",
-      "coordinates": "-8.188467, 36.91211"
+      "coordinates": "-8.188467, 36.91211",
+      "metar_available": false
     },
     {
       "ident": "TZ-0032",
@@ -1162,7 +1258,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-22",
       "municipality": "Buturi",
-      "coordinates": "-3.199844, 34.436504"
+      "coordinates": "-3.199844, 34.436504",
+      "metar_available": false
     },
     {
       "ident": "TZ-0033",
@@ -1174,7 +1271,8 @@
       "iso_region": "TZ-08",
       "municipality": "Ibolero",
       "gps_code": "HTFE",
-      "coordinates": "-4.805057, 31.276613"
+      "coordinates": "-4.805057, 31.276613",
+      "metar_available": false
     },
     {
       "ident": "TZ-0034",
@@ -1184,7 +1282,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Isanga",
-      "coordinates": "-7.527162, 33.884071"
+      "coordinates": "-7.527162, 33.884071",
+      "metar_available": false
     },
     {
       "ident": "TZ-0035",
@@ -1195,7 +1294,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-08",
       "municipality": "Kifura",
-      "coordinates": "-3.838092, 30.640202"
+      "coordinates": "-3.838092, 30.640202",
+      "metar_available": false
     },
     {
       "ident": "TZ-0036",
@@ -1205,7 +1305,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-12",
       "municipality": "Kihurumila",
-      "coordinates": "-9.0411, 38.273756"
+      "coordinates": "-9.0411, 38.273756",
+      "metar_available": false
     },
     {
       "ident": "TZ-0037",
@@ -1215,7 +1316,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Luhanyando",
-      "coordinates": "-9.447883, 36.848932"
+      "coordinates": "-9.447883, 36.848932",
+      "metar_available": false
     },
     {
       "ident": "TZ-0038",
@@ -1225,7 +1327,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Manane",
-      "coordinates": "-8.206858, 36.959834"
+      "coordinates": "-8.206858, 36.959834",
+      "metar_available": false
     },
     {
       "ident": "TZ-0039",
@@ -1237,7 +1340,8 @@
       "iso_region": "TZ-16",
       "municipality": "Matambwe",
       "gps_code": "HTME",
-      "coordinates": "-7.528887, 37.76201"
+      "coordinates": "-7.528887, 37.76201",
+      "metar_available": false
     },
     {
       "ident": "TZ-0040",
@@ -1247,7 +1351,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Matambwe",
-      "coordinates": "-7.535478, 37.776384"
+      "coordinates": "-7.535478, 37.776384",
+      "metar_available": false
     },
     {
       "ident": "TZ-0041",
@@ -1257,7 +1362,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Mbunga",
-      "coordinates": "-8.978724, 36.869154"
+      "coordinates": "-8.978724, 36.869154",
+      "metar_available": false
     },
     {
       "ident": "TZ-0042",
@@ -1267,7 +1373,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Mkangira",
-      "coordinates": "-8.958151, 37.338793"
+      "coordinates": "-8.958151, 37.338793",
+      "metar_available": false
     },
     {
       "ident": "TZ-0043",
@@ -1277,7 +1384,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-09",
       "municipality": "Mkomazi",
-      "coordinates": "-4.079592, 38.086684"
+      "coordinates": "-4.079592, 38.086684",
+      "metar_available": false
     },
     {
       "ident": "TZ-0044",
@@ -1287,7 +1395,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-12",
       "municipality": "Mkuyu",
-      "coordinates": "-9.966951, 36.878941"
+      "coordinates": "-9.966951, 36.878941",
+      "metar_available": false
     },
     {
       "ident": "TZ-0045",
@@ -1297,7 +1406,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-12",
       "municipality": "Mlembwe",
-      "coordinates": "-9.426932, 37.519672"
+      "coordinates": "-9.426932, 37.519672",
+      "metar_available": false
     },
     {
       "ident": "TZ-0046",
@@ -1307,7 +1417,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-24",
       "municipality": "Mpunde",
-      "coordinates": "-6.259359, 33.619996"
+      "coordinates": "-6.259359, 33.619996",
+      "metar_available": false
     },
     {
       "ident": "TZ-0047",
@@ -1317,7 +1428,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-17",
       "municipality": "Mtemaupinde",
-      "coordinates": "-11.206844, 38.162974"
+      "coordinates": "-11.206844, 38.162974",
+      "metar_available": false
     },
     {
       "ident": "TZ-0048",
@@ -1328,7 +1440,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-19",
       "municipality": "Mtemere",
-      "coordinates": "-7.750093, 38.208474"
+      "coordinates": "-7.750093, 38.208474",
+      "metar_available": false
     },
     {
       "ident": "TZ-0049",
@@ -1338,7 +1451,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Muhuba",
-      "coordinates": "-5.770289, 31.721521"
+      "coordinates": "-5.770289, 31.721521",
+      "metar_available": false
     },
     {
       "ident": "TZ-0050",
@@ -1349,7 +1463,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-21",
       "municipality": "Mwambesi",
-      "coordinates": "-11.61227, 37.564572"
+      "coordinates": "-11.61227, 37.564572",
+      "metar_available": false
     },
     {
       "ident": "TZ-0051",
@@ -1360,7 +1475,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Rungwa",
-      "coordinates": "-6.935716, 33.530089"
+      "coordinates": "-6.935716, 33.530089",
+      "metar_available": false
     },
     {
       "ident": "TZ-0052",
@@ -1370,7 +1486,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-19",
       "municipality": "Saadani",
-      "coordinates": "-6.030896, 38.770264"
+      "coordinates": "-6.030896, 38.770264",
+      "metar_available": false
     },
     {
       "ident": "TZ-0053",
@@ -1380,7 +1497,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Sire",
-      "coordinates": "-5.713026, 31.83135"
+      "coordinates": "-5.713026, 31.83135",
+      "metar_available": false
     },
     {
       "ident": "TZ-0054",
@@ -1392,7 +1510,8 @@
       "iso_region": "TZ-19",
       "municipality": "Siwandu",
       "gps_code": "HTZW",
-      "coordinates": "-7.6847, 38.136731"
+      "coordinates": "-7.6847, 38.136731",
+      "metar_available": false
     },
     {
       "ident": "TZ-0055",
@@ -1403,7 +1522,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Ngorongoro",
-      "coordinates": "-3.221398, 35.476965"
+      "coordinates": "-3.221398, 35.476965",
+      "metar_available": false
     },
     {
       "ident": "TZ-0056",
@@ -1413,7 +1533,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-22",
-      "coordinates": "-2.602346, 33.676018"
+      "coordinates": "-2.602346, 33.676018",
+      "metar_available": false
     },
     {
       "ident": "TZ-0057",
@@ -1424,7 +1545,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Birise",
-      "coordinates": "-5.428612, 35.166079"
+      "coordinates": "-5.428612, 35.166079",
+      "metar_available": false
     },
     {
       "ident": "TZ-0058",
@@ -1436,7 +1558,8 @@
       "iso_region": "TZ-22",
       "municipality": "Bubada",
       "gps_code": "HTBN",
-      "coordinates": "-3.2292, 32.473316"
+      "coordinates": "-3.2292, 32.473316",
+      "metar_available": false
     },
     {
       "ident": "TZ-0059",
@@ -1447,7 +1570,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Chidudu",
-      "coordinates": "-6.565131, 35.1737"
+      "coordinates": "-6.565131, 35.1737",
+      "metar_available": false
     },
     {
       "ident": "TZ-0060",
@@ -1458,7 +1582,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Endanyawish",
-      "coordinates": "-3.711702, 35.270623"
+      "coordinates": "-3.711702, 35.270623",
+      "metar_available": false
     },
     {
       "ident": "TZ-0061",
@@ -1469,7 +1594,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-24",
       "gps_code": "HTGP",
-      "coordinates": "-4.080354, 33.160212"
+      "coordinates": "-4.080354, 33.160212",
+      "metar_available": false
     },
     {
       "ident": "TZ-0062",
@@ -1480,7 +1606,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "municipality": "Gorimba",
-      "coordinates": "-4.837753, 35.366121"
+      "coordinates": "-4.837753, 35.366121",
+      "metar_available": false
     },
     {
       "ident": "TZ-0063",
@@ -1490,7 +1617,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Gua",
-      "coordinates": "-7.868375, 32.48466"
+      "coordinates": "-7.868375, 32.48466",
+      "metar_available": false
     },
     {
       "ident": "TZ-0064",
@@ -1501,7 +1629,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Handa",
-      "coordinates": "-4.954854, 35.323672"
+      "coordinates": "-4.954854, 35.323672",
+      "metar_available": false
     },
     {
       "ident": "TZ-0065",
@@ -1512,7 +1641,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "municipality": "Harbanget",
-      "coordinates": "-3.868369, 35.396409"
+      "coordinates": "-3.868369, 35.396409",
+      "metar_available": false
     },
     {
       "ident": "TZ-0066",
@@ -1524,7 +1654,8 @@
       "iso_region": "TZ-26",
       "municipality": "Haidom",
       "gps_code": "HTHY",
-      "coordinates": "-4.198626, 35.018655"
+      "coordinates": "-4.198626, 35.018655",
+      "metar_available": false
     },
     {
       "ident": "TZ-0067",
@@ -1535,7 +1666,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-05",
       "municipality": "Ibanda",
-      "coordinates": "-1.074975, 30.51758"
+      "coordinates": "-1.074975, 30.51758",
+      "metar_available": false
     },
     {
       "ident": "TZ-0068",
@@ -1546,7 +1678,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-04",
       "municipality": "Ifunda",
-      "coordinates": "-8.065451, 35.430749"
+      "coordinates": "-8.065451, 35.430749",
+      "metar_available": false
     },
     {
       "ident": "TZ-0069",
@@ -1556,7 +1689,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-05",
-      "coordinates": "-1.233641, 31.327325"
+      "coordinates": "-1.233641, 31.327325",
+      "metar_available": false
     },
     {
       "ident": "TZ-0070",
@@ -1567,7 +1701,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-08",
       "municipality": "Kapalagulu",
-      "coordinates": "-5.904938, 30.082868"
+      "coordinates": "-5.904938, 30.082868",
+      "metar_available": false
     },
     {
       "ident": "TZ-0071",
@@ -1578,7 +1713,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Sumbawanga",
-      "coordinates": "-8.357716, 32.103045"
+      "coordinates": "-8.357716, 32.103045",
+      "metar_available": false
     },
     {
       "ident": "TZ-0072",
@@ -1589,7 +1725,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-05",
       "municipality": "Ihanda",
-      "coordinates": "-1.552361, 31.104871"
+      "coordinates": "-1.552361, 31.104871",
+      "metar_available": false
     },
     {
       "ident": "TZ-0073",
@@ -1600,7 +1737,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-04",
       "municipality": "Kibebe",
-      "coordinates": "-7.797941, 35.762345"
+      "coordinates": "-7.797941, 35.762345",
+      "metar_available": false
     },
     {
       "ident": "TZ-0074",
@@ -1611,7 +1749,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-04",
       "municipality": "Kibidula",
-      "coordinates": "-8.412202, 35.094073"
+      "coordinates": "-8.412202, 35.094073",
+      "metar_available": false
     },
     {
       "ident": "TZ-0075",
@@ -1622,7 +1761,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-04",
       "municipality": "Kihansi",
-      "coordinates": "-8.653119, 35.865055"
+      "coordinates": "-8.653119, 35.865055",
+      "metar_available": false
     },
     {
       "ident": "TZ-0076",
@@ -1633,7 +1773,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Kidatu",
-      "coordinates": "-7.687751, 36.986496"
+      "coordinates": "-7.687751, 36.986496",
+      "metar_available": false
     },
     {
       "ident": "TZ-0077",
@@ -1644,7 +1785,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Kilumbi",
-      "coordinates": "-6.32536, 34.173759"
+      "coordinates": "-6.32536, 34.173759",
+      "metar_available": false
     },
     {
       "ident": "TZ-0078",
@@ -1655,7 +1797,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-13",
       "municipality": "Kishoshoroni",
-      "coordinates": "-2.015174, 35.273109"
+      "coordinates": "-2.015174, 35.273109",
+      "metar_available": false
     },
     {
       "ident": "TZ-0079",
@@ -1665,7 +1808,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Kitumbeine",
-      "coordinates": "-2.820447, 36.323156"
+      "coordinates": "-2.820447, 36.323156",
+      "metar_available": false
     },
     {
       "ident": "TZ-0080",
@@ -1676,7 +1820,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-25",
       "municipality": "Kwajoni",
-      "coordinates": "-5.512166, 38.965097"
+      "coordinates": "-5.512166, 38.965097",
+      "metar_available": false
     },
     {
       "ident": "TZ-0081",
@@ -1687,7 +1832,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "municipality": "Simanjiro",
-      "coordinates": "-4.549415, 37.024381"
+      "coordinates": "-4.549415, 37.024381",
+      "metar_available": false
     },
     {
       "ident": "TZ-0082",
@@ -1697,7 +1843,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Chunya",
-      "coordinates": "-7.918083, 33.552315"
+      "coordinates": "-7.918083, 33.552315",
+      "metar_available": false
     },
     {
       "ident": "TZ-0083",
@@ -1708,7 +1855,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Mpanda",
-      "coordinates": "-6.15954, 30.298705"
+      "coordinates": "-6.15954, 30.298705",
+      "metar_available": false
     },
     {
       "ident": "TZ-0084",
@@ -1719,7 +1867,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Chunya",
-      "coordinates": "-7.599608, 32.3072"
+      "coordinates": "-7.599608, 32.3072",
+      "metar_available": false
     },
     {
       "ident": "TZ-0085",
@@ -1729,7 +1878,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Kidatu",
-      "coordinates": "-8.391651, 37.168761"
+      "coordinates": "-8.391651, 37.168761",
+      "metar_available": false
     },
     {
       "ident": "TZ-0086",
@@ -1740,7 +1890,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-21",
       "municipality": "Liwale",
-      "coordinates": "-8.643293, 37.673992"
+      "coordinates": "-8.643293, 37.673992",
+      "metar_available": false
     },
     {
       "ident": "TZ-0087",
@@ -1751,7 +1902,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-03",
       "municipality": "Mahaka",
-      "coordinates": "-6.135581, 35.049797"
+      "coordinates": "-6.135581, 35.049797",
+      "metar_available": false
     },
     {
       "ident": "TZ-0088",
@@ -1763,7 +1915,8 @@
       "iso_region": "TZ-22",
       "municipality": "Makau",
       "gps_code": "HTMH",
-      "coordinates": "-3.367409, 34.824166"
+      "coordinates": "-3.367409, 34.824166",
+      "metar_available": false
     },
     {
       "ident": "TZ-0089",
@@ -1774,7 +1927,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-08",
       "municipality": "Malagarasi",
-      "coordinates": "-4.793813, 30.712949"
+      "coordinates": "-4.793813, 30.712949",
+      "metar_available": false
     },
     {
       "ident": "TZ-0090",
@@ -1785,7 +1939,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-22",
       "municipality": "Mamarehe",
-      "coordinates": "-2.657814, 34.394518"
+      "coordinates": "-2.657814, 34.394518",
+      "metar_available": false
     },
     {
       "ident": "TZ-0091",
@@ -1796,7 +1951,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-25",
       "municipality": "Pangani",
-      "coordinates": "-5.470712, 38.955266"
+      "coordinates": "-5.470712, 38.955266",
+      "metar_available": false
     },
     {
       "ident": "TZ-0092",
@@ -1806,7 +1962,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Rungwa",
-      "coordinates": "-7.267927, 34.218247"
+      "coordinates": "-7.267927, 34.218247",
+      "metar_available": false
     },
     {
       "ident": "TZ-0093",
@@ -1817,7 +1974,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-21",
       "municipality": "Matemanga",
-      "coordinates": "-10.763142, 36.953222"
+      "coordinates": "-10.763142, 36.953222",
+      "metar_available": false
     },
     {
       "ident": "TZ-0094",
@@ -1828,7 +1986,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-19",
       "municipality": "Matipwili",
-      "coordinates": "-6.248936, 38.678104"
+      "coordinates": "-6.248936, 38.678104",
+      "metar_available": false
     },
     {
       "ident": "TZ-0095",
@@ -1839,7 +1998,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Mbarali",
-      "coordinates": "-8.656494, 34.273113"
+      "coordinates": "-8.656494, 34.273113",
+      "metar_available": false
     },
     {
       "ident": "TZ-0096",
@@ -1850,7 +2010,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-22",
       "municipality": "Maswa",
-      "coordinates": "-3.11141, 34.660824"
+      "coordinates": "-3.11141, 34.660824",
+      "metar_available": false
     },
     {
       "ident": "TZ-0097",
@@ -1861,7 +2022,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-18",
       "municipality": "Buhemba",
-      "coordinates": "-1.774223, 34.098139"
+      "coordinates": "-1.774223, 34.098139",
+      "metar_available": false
     },
     {
       "ident": "TZ-0098",
@@ -1872,7 +2034,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-19",
       "municipality": "Rufiji",
-      "coordinates": "-7.772857, 39.019695"
+      "coordinates": "-7.772857, 39.019695",
+      "metar_available": false
     },
     {
       "ident": "TZ-0099",
@@ -1883,7 +2046,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Longido",
-      "coordinates": "-2.723808, 36.135783"
+      "coordinates": "-2.723808, 36.135783",
+      "metar_available": false
     },
     {
       "ident": "TZ-0100",
@@ -1894,7 +2058,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Mlambala",
-      "coordinates": "-7.233234, 32.063351"
+      "coordinates": "-7.233234, 32.063351",
+      "metar_available": false
     },
     {
       "ident": "TZ-0101",
@@ -1905,7 +2070,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Mlele",
-      "coordinates": "-6.784087, 31.367951"
+      "coordinates": "-6.784087, 31.367951",
+      "metar_available": false
     },
     {
       "ident": "TZ-0102",
@@ -1915,7 +2081,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Ifakara",
-      "coordinates": "-8.364091, 36.103211"
+      "coordinates": "-8.364091, 36.103211",
+      "metar_available": false
     },
     {
       "ident": "TZ-0103",
@@ -1926,7 +2093,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-09",
       "municipality": "Moshi",
-      "coordinates": "-2.878109, 37.135211"
+      "coordinates": "-2.878109, 37.135211",
+      "metar_available": false
     },
     {
       "ident": "TZ-0104",
@@ -1937,7 +2105,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Msima",
-      "coordinates": "-6.339313, 31.849913"
+      "coordinates": "-6.339313, 31.849913",
+      "metar_available": false
     },
     {
       "ident": "TZ-0105",
@@ -1948,7 +2117,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Msima",
-      "coordinates": "-5.839096, 31.459827"
+      "coordinates": "-5.839096, 31.459827",
+      "metar_available": false
     },
     {
       "ident": "TZ-0106",
@@ -1959,7 +2129,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Mvomero",
-      "coordinates": "-6.148889, 37.661551"
+      "coordinates": "-6.148889, 37.661551",
+      "metar_available": false
     },
     {
       "ident": "TZ-0107",
@@ -1970,7 +2141,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Muhesi",
-      "coordinates": "-6.139352, 34.464442"
+      "coordinates": "-6.139352, 34.464442",
+      "metar_available": false
     },
     {
       "ident": "TZ-0108",
@@ -1981,7 +2153,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-08",
       "municipality": "Murungu",
-      "coordinates": "-4.185382, 31.293522"
+      "coordinates": "-4.185382, 31.293522",
+      "metar_available": false
     },
     {
       "ident": "TZ-0109",
@@ -1991,7 +2164,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Simanjiro",
-      "coordinates": "-4.469807, 36.669798"
+      "coordinates": "-4.469807, 36.669798",
+      "metar_available": false
     },
     {
       "ident": "TZ-0110",
@@ -2002,7 +2176,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-04",
       "municipality": "Ng'Wazi",
-      "coordinates": "-8.522635, 35.179545"
+      "coordinates": "-8.522635, 35.179545",
+      "metar_available": false
     },
     {
       "ident": "TZ-0111",
@@ -2012,7 +2187,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-13",
-      "coordinates": "-1.425761, 34.543508"
+      "coordinates": "-1.425761, 34.543508",
+      "metar_available": false
     },
     {
       "ident": "TZ-0112",
@@ -2023,7 +2199,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-14",
       "municipality": "Chunya",
-      "coordinates": "-7.20467, 32.925773"
+      "coordinates": "-7.20467, 32.925773",
+      "metar_available": false
     },
     {
       "ident": "TZ-0113",
@@ -2034,7 +2211,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-02",
       "municipality": "Dar es Salaam",
-      "coordinates": "-6.93512, 39.492977"
+      "coordinates": "-6.93512, 39.492977",
+      "metar_available": false
     },
     {
       "ident": "TZ-0114",
@@ -2045,7 +2223,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Rungwa",
-      "coordinates": "-7.107139, 32.481492"
+      "coordinates": "-7.107139, 32.481492",
+      "metar_available": false
     },
     {
       "ident": "TZ-0115",
@@ -2056,7 +2235,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Shama",
-      "coordinates": "-6.322146, 32.562788"
+      "coordinates": "-6.322146, 32.562788",
+      "metar_available": false
     },
     {
       "ident": "TZ-0116",
@@ -2068,7 +2248,8 @@
       "iso_region": "TZ-12",
       "municipality": "Songo Songo Island",
       "gps_code": "HTSS",
-      "coordinates": "-8.528092, 39.506976"
+      "coordinates": "-8.528092, 39.506976",
+      "metar_available": false
     },
     {
       "ident": "TZ-0117",
@@ -2079,7 +2260,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-13",
       "municipality": "Tarime",
-      "coordinates": "-1.293878, 34.420428"
+      "coordinates": "-1.293878, 34.420428",
+      "metar_available": false
     },
     {
       "ident": "TZ-0118",
@@ -2089,7 +2271,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-09",
-      "coordinates": "-3.500144, 37.323855"
+      "coordinates": "-3.500144, 37.323855",
+      "metar_available": false
     },
     {
       "ident": "TZ-0119",
@@ -2099,7 +2282,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "municipality": "Monduli",
-      "coordinates": "-2.402902, 36.120142"
+      "coordinates": "-2.402902, 36.120142",
+      "metar_available": false
     },
     {
       "ident": "TZ-0120",
@@ -2109,7 +2293,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-26",
       "municipality": "Mbulu",
-      "coordinates": "-3.961546, 35.144932"
+      "coordinates": "-3.961546, 35.144932",
+      "metar_available": false
     },
     {
       "ident": "TZ-0121",
@@ -2119,7 +2304,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-16",
-      "coordinates": "-9.17479, 35.966534"
+      "coordinates": "-9.17479, 35.966534",
+      "metar_available": false
     },
     {
       "ident": "TZ-0122",
@@ -2130,7 +2316,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Gelai",
-      "coordinates": "-2.476768, 36.25761"
+      "coordinates": "-2.476768, 36.25761",
+      "metar_available": false
     },
     {
       "ident": "TZ-0123",
@@ -2141,7 +2328,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-13",
       "gps_code": "HTKC",
-      "coordinates": "-1.775438, 35.278282"
+      "coordinates": "-1.775438, 35.278282",
+      "metar_available": false
     },
     {
       "ident": "TZ-0124",
@@ -2151,7 +2339,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-13",
-      "coordinates": "-1.561738, 34.702039"
+      "coordinates": "-1.561738, 34.702039",
+      "metar_available": false
     },
     {
       "ident": "TZ-0125",
@@ -2162,7 +2351,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Lugala",
-      "coordinates": "-8.916494, 36.126593"
+      "coordinates": "-8.916494, 36.126593",
+      "metar_available": false
     },
     {
       "ident": "TZ-0126",
@@ -2173,7 +2363,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-16",
       "municipality": "Luwegu",
-      "coordinates": "-9.022345, 37.289976"
+      "coordinates": "-9.022345, 37.289976",
+      "metar_available": false
     },
     {
       "ident": "TZ-0127",
@@ -2184,7 +2375,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Lwafi",
-      "coordinates": "-6.982929, 30.894894"
+      "coordinates": "-6.982929, 30.894894",
+      "metar_available": false
     },
     {
       "ident": "TZ-0128",
@@ -2195,7 +2387,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Makwasa",
-      "coordinates": "-6.817874, 34.218918"
+      "coordinates": "-6.817874, 34.218918",
+      "metar_available": false
     },
     {
       "ident": "TZ-0129",
@@ -2206,7 +2399,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Masusu",
-      "coordinates": "-2.272545, 35.808636"
+      "coordinates": "-2.272545, 35.808636",
+      "metar_available": false
     },
     {
       "ident": "TZ-0130",
@@ -2217,7 +2411,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-17",
       "municipality": "Mikindani",
-      "coordinates": "-10.256118, 40.093869"
+      "coordinates": "-10.256118, 40.093869",
+      "metar_available": false
     },
     {
       "ident": "TZ-0131",
@@ -2228,7 +2423,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-20",
       "municipality": "Mlele",
-      "coordinates": "-7.119408, 31.839151"
+      "coordinates": "-7.119408, 31.839151",
+      "metar_available": false
     },
     {
       "ident": "TZ-0132",
@@ -2239,7 +2435,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-13",
       "municipality": "Mugumu",
-      "coordinates": "-1.870455, 34.645517"
+      "coordinates": "-1.870455, 34.645517",
+      "metar_available": false
     },
     {
       "ident": "TZ-0133",
@@ -2250,7 +2447,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-24",
       "municipality": "Nkinga",
-      "coordinates": "-4.425665, 33.450677"
+      "coordinates": "-4.425665, 33.450677",
+      "metar_available": false
     },
     {
       "ident": "TZ-0134",
@@ -2261,7 +2459,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-23",
       "municipality": "Nkoname",
-      "coordinates": "-6.918093, 34.871684"
+      "coordinates": "-6.918093, 34.871684",
+      "metar_available": false
     },
     {
       "ident": "TZ-0135",
@@ -2272,7 +2471,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-01",
       "municipality": "Arash",
-      "coordinates": "-2.40866, 35.627164"
+      "coordinates": "-2.40866, 35.627164",
+      "metar_available": false
     },
     {
       "ident": "TZ-0136",
@@ -2284,7 +2484,8 @@
       "iso_region": "TZ-19",
       "municipality": "Bagamoyo",
       "gps_code": "HTXX",
-      "coordinates": "-6.471723, 38.880082"
+      "coordinates": "-6.471723, 38.880082",
+      "metar_available": false
     },
     {
       "ident": "TZ-0137",
@@ -2295,7 +2496,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-24",
       "municipality": "Sikonge",
-      "coordinates": "-5.627718, 32.762082"
+      "coordinates": "-5.627718, 32.762082",
+      "metar_available": false
     },
     {
       "ident": "TZ-0138",
@@ -2306,7 +2508,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-24",
       "gps_code": "HTKN",
-      "coordinates": "-5.784903, 31.355212"
+      "coordinates": "-5.784903, 31.355212",
+      "metar_available": false
     },
     {
       "ident": "TZ-0139",
@@ -2317,7 +2520,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-31",
       "municipality": "Nyarugusu",
-      "coordinates": "-3.111222, 32.21536"
+      "coordinates": "-3.111222, 32.21536",
+      "metar_available": false
     },
     {
       "ident": "TZ-0140",
@@ -2328,7 +2532,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-31",
       "municipality": "Buseresere",
-      "coordinates": "-3.095158, 32.019562"
+      "coordinates": "-3.095158, 32.019562",
+      "metar_available": false
     },
     {
       "ident": "TZ-0141",
@@ -2338,7 +2543,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-19",
-      "coordinates": "-7.820084, 37.87828"
+      "coordinates": "-7.820084, 37.87828",
+      "metar_available": false
     },
     {
       "ident": "TZ-0142",
@@ -2348,7 +2554,8 @@
       "continent": "AF",
       "iso_country": "TZ",
       "iso_region": "TZ-16",
-      "coordinates": "-7.884957, 37.678091"
+      "coordinates": "-7.884957, 37.678091",
+      "metar_available": false
     },
     {
       "ident": "TZ-0143",
@@ -2358,7 +2565,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-12",
       "municipality": "Rushungi",
-      "coordinates": "-9.43453, 39.60582"
+      "coordinates": "-9.43453, 39.60582",
+      "metar_available": false
     },
     {
       "ident": "TZ-0144",
@@ -2369,7 +2577,8 @@
       "iso_country": "TZ",
       "iso_region": "TZ-05",
       "municipality": "Milambi",
-      "coordinates": "-1.40561, 30.74995"
+      "coordinates": "-1.40561, 30.74995",
+      "metar_available": false
     },
     {
       "ident": "TZ-GIT",
@@ -2382,7 +2591,8 @@
       "municipality": "Geita",
       "gps_code": "HTRU",
       "iata_code": "GIT",
-      "coordinates": "-2.813667, 32.172472"
+      "coordinates": "-2.813667, 32.172472",
+      "metar_available": false
     }
   ]
 }

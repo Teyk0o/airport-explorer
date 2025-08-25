@@ -2,7 +2,7 @@
   "country_code": "GL",
   "country_name": "Greenland",
   "total_airports": 91,
-  "last_updated": "2025-08-01T00:18:22.468816",
+  "last_updated": "2025-08-25T10:08:40.598097",
   "types_distribution": {
     "medium_airport": 8,
     "heliport": 54,
@@ -20,7 +20,8 @@
       "municipality": "Aasiaat",
       "gps_code": "BGAA",
       "iata_code": "JEG",
-      "coordinates": "68.721802, -52.784698"
+      "coordinates": "68.721802, -52.784698",
+      "metar_available": false
     },
     {
       "ident": "BGAG",
@@ -33,7 +34,8 @@
       "gps_code": "BGAG",
       "iata_code": "AOQ",
       "local_code": "AAP",
-      "coordinates": "72.88703, -55.596287"
+      "coordinates": "72.88703, -55.596287",
+      "metar_available": false
     },
     {
       "ident": "BGAM",
@@ -46,7 +48,8 @@
       "gps_code": "BGAM",
       "iata_code": "AGM",
       "local_code": "AGM",
-      "coordinates": "65.612296, -37.618335"
+      "coordinates": "65.612296, -37.618335",
+      "metar_available": false
     },
     {
       "ident": "BGAP",
@@ -58,7 +61,8 @@
       "municipality": "Alluitsup Paa",
       "gps_code": "BGAP",
       "iata_code": "LLU",
-      "coordinates": "60.46445, -45.56917"
+      "coordinates": "60.46445, -45.56917",
+      "metar_available": false
     },
     {
       "ident": "BGAQ",
@@ -70,7 +74,8 @@
       "municipality": "Aappilattoq",
       "gps_code": "BGAQ",
       "iata_code": "QUV",
-      "coordinates": "60.148357, -44.286916"
+      "coordinates": "60.148357, -44.286916",
+      "metar_available": false
     },
     {
       "ident": "BGAR",
@@ -82,7 +87,8 @@
       "municipality": "Arsuk",
       "gps_code": "BGAR",
       "iata_code": "JRK",
-      "coordinates": "61.176828, -48.419698"
+      "coordinates": "61.176828, -48.419698",
+      "metar_available": false
     },
     {
       "ident": "BGAS",
@@ -94,7 +100,8 @@
       "municipality": "Ammassivik",
       "gps_code": "BGAS",
       "iata_code": "QUW",
-      "coordinates": "60.597376, -45.382445"
+      "coordinates": "60.597376, -45.382445",
+      "metar_available": false
     },
     {
       "ident": "BGAT",
@@ -106,7 +113,8 @@
       "municipality": "Attu",
       "gps_code": "BGAT",
       "iata_code": "QGQ",
-      "coordinates": "67.940663, -53.62187"
+      "coordinates": "67.940663, -53.62187",
+      "metar_available": false
     },
     {
       "ident": "BGBW",
@@ -118,7 +126,8 @@
       "municipality": "Narsarsuaq",
       "gps_code": "BGBW",
       "iata_code": "UAK",
-      "coordinates": "61.1605, -45.425999"
+      "coordinates": "61.1605, -45.425999",
+      "metar_available": false
     },
     {
       "ident": "BGCH",
@@ -130,7 +139,8 @@
       "municipality": "Qasigiannguit",
       "gps_code": "BGCH",
       "iata_code": "JCH",
-      "coordinates": "68.822816, -51.173447"
+      "coordinates": "68.822816, -51.173447",
+      "metar_available": false
     },
     {
       "ident": "BGCO",
@@ -142,7 +152,8 @@
       "municipality": "Neerlerit Inaat",
       "gps_code": "BGCO",
       "iata_code": "CNP",
-      "coordinates": "70.743103, -22.650499"
+      "coordinates": "70.743103, -22.650499",
+      "metar_available": false
     },
     {
       "ident": "BGDB",
@@ -152,7 +163,8 @@
       "iso_region": "GL-NE",
       "municipality": "Daneborg",
       "gps_code": "BGDB",
-      "coordinates": "74.297879, -20.22995"
+      "coordinates": "74.297879, -20.22995",
+      "metar_available": false
     },
     {
       "ident": "BGDH",
@@ -162,7 +174,8 @@
       "iso_region": "GL-NE",
       "municipality": "Danmarkshavn",
       "gps_code": "BGDH",
-      "coordinates": "76.76667, -18.666668"
+      "coordinates": "76.76667, -18.666668",
+      "metar_available": false
     },
     {
       "ident": "BGET",
@@ -174,7 +187,8 @@
       "municipality": "Eqalugaarsuit",
       "gps_code": "BGET",
       "iata_code": "QFG",
-      "coordinates": "60.61972, -45.914062"
+      "coordinates": "60.61972, -45.914062",
+      "metar_available": false
     },
     {
       "ident": "BGFD",
@@ -186,7 +200,8 @@
       "municipality": "Narsarmijit",
       "gps_code": "BGFD",
       "iata_code": "QFN",
-      "coordinates": "60.004694, -44.656935"
+      "coordinates": "60.004694, -44.656935",
+      "metar_available": false
     },
     {
       "ident": "BGGD",
@@ -198,7 +213,8 @@
       "municipality": "Kangilinnguit",
       "gps_code": "BGGD",
       "iata_code": "JGR",
-      "coordinates": "61.22896, -48.09698"
+      "coordinates": "61.22896, -48.09698",
+      "metar_available": false
     },
     {
       "ident": "BGGH",
@@ -210,7 +226,8 @@
       "municipality": "Nuuk",
       "gps_code": "BGGH",
       "iata_code": "GOH",
-      "coordinates": "64.191066, -51.67914"
+      "coordinates": "64.191066, -51.67914",
+      "metar_available": false
     },
     {
       "ident": "BGGN",
@@ -222,7 +239,8 @@
       "municipality": "Qeqertarsuaq",
       "gps_code": "BGGN",
       "iata_code": "JGO",
-      "coordinates": "69.251182, -53.514876"
+      "coordinates": "69.251182, -53.514876",
+      "metar_available": false
     },
     {
       "ident": "BGIA",
@@ -235,7 +253,8 @@
       "gps_code": "BGIA",
       "iata_code": "IKE",
       "local_code": "IKE",
-      "coordinates": "70.498145, -51.303084"
+      "coordinates": "70.498145, -51.303084",
+      "metar_available": false
     },
     {
       "ident": "BGIG",
@@ -247,7 +266,8 @@
       "municipality": "Iginniarfik",
       "gps_code": "BGIG",
       "iata_code": "QFI",
-      "coordinates": "68.147226, -53.173528"
+      "coordinates": "68.147226, -53.173528",
+      "metar_available": false
     },
     {
       "ident": "BGIK",
@@ -259,7 +279,8 @@
       "municipality": "Ikerassaarsuk",
       "gps_code": "BGIK",
       "iata_code": "QRY",
-      "coordinates": "68.140881, -53.441459"
+      "coordinates": "68.140881, -53.441459",
+      "metar_available": false
     },
     {
       "ident": "BGIL",
@@ -271,7 +292,8 @@
       "municipality": "Ilimanaq",
       "gps_code": "BGIL",
       "iata_code": "XIQ",
-      "coordinates": "69.080915, -51.114315"
+      "coordinates": "69.080915, -51.114315",
+      "metar_available": false
     },
     {
       "ident": "BGIN",
@@ -284,7 +306,8 @@
       "gps_code": "BGIN",
       "iata_code": "IUI",
       "local_code": "INN",
-      "coordinates": "73.199895, -56.010817"
+      "coordinates": "73.199895, -56.010817",
+      "metar_available": false
     },
     {
       "ident": "BGIS",
@@ -297,7 +320,8 @@
       "gps_code": "BGIS",
       "iata_code": "IOQ",
       "local_code": "ISO",
-      "coordinates": "65.547792, -38.976552"
+      "coordinates": "65.547792, -38.976552",
+      "metar_available": false
     },
     {
       "ident": "BGIT",
@@ -309,7 +333,8 @@
       "municipality": "Ikamiut",
       "gps_code": "BGIT",
       "iata_code": "QJI",
-      "coordinates": "68.634253, -51.832262"
+      "coordinates": "68.634253, -51.832262",
+      "metar_available": false
     },
     {
       "ident": "BGJH",
@@ -321,7 +346,8 @@
       "municipality": "Qaqortoq",
       "gps_code": "BGJH",
       "iata_code": "JJU",
-      "coordinates": "60.715684, -46.029919"
+      "coordinates": "60.715684, -46.029919",
+      "metar_available": false
     },
     {
       "ident": "BGJN",
@@ -333,7 +359,8 @@
       "municipality": "Ilulissat",
       "gps_code": "BGJN",
       "iata_code": "JAV",
-      "coordinates": "69.243202, -51.057098"
+      "coordinates": "69.243202, -51.057098",
+      "metar_available": false
     },
     {
       "ident": "BGKA",
@@ -345,7 +372,8 @@
       "municipality": "Kangaatsiaq",
       "gps_code": "BGKA",
       "iata_code": "QPW",
-      "coordinates": "68.312657, -53.460208"
+      "coordinates": "68.312657, -53.460208",
+      "metar_available": false
     },
     {
       "ident": "BGKK",
@@ -357,7 +385,8 @@
       "municipality": "Kulusuk",
       "gps_code": "BGKK",
       "iata_code": "KUS",
-      "coordinates": "65.573601, -37.1236"
+      "coordinates": "65.573601, -37.1236",
+      "metar_available": false
     },
     {
       "ident": "BGKL",
@@ -369,7 +398,8 @@
       "municipality": "Upernavik Kujalleq",
       "gps_code": "BGKL",
       "local_code": "UPK",
-      "coordinates": "72.152743, -55.530986"
+      "coordinates": "72.152743, -55.530986",
+      "metar_available": false
     },
     {
       "ident": "BGKM",
@@ -382,7 +412,8 @@
       "gps_code": "BGKM",
       "iata_code": "KUZ",
       "local_code": "KMT",
-      "coordinates": "65.863935, -36.997919"
+      "coordinates": "65.863935, -36.997919",
+      "metar_available": false
     },
     {
       "ident": "BGKQ",
@@ -395,7 +426,8 @@
       "gps_code": "BGKQ",
       "iata_code": "KHQ",
       "local_code": "KLQ",
-      "coordinates": "74.57805, -57.226828"
+      "coordinates": "74.57805, -57.226828",
+      "metar_available": false
     },
     {
       "ident": "BGKS",
@@ -408,7 +440,8 @@
       "gps_code": "BGKS",
       "iata_code": "KGQ",
       "local_code": "KAQ",
-      "coordinates": "72.381092, -55.536586"
+      "coordinates": "72.381092, -55.536586",
+      "metar_available": false
     },
     {
       "ident": "BGKT",
@@ -420,7 +453,8 @@
       "municipality": "Kitsissuarsuit",
       "gps_code": "BGKT",
       "iata_code": "QJE",
-      "coordinates": "68.857926, -53.123295"
+      "coordinates": "68.857926, -53.123295",
+      "metar_available": false
     },
     {
       "ident": "BGLL",
@@ -433,7 +467,8 @@
       "gps_code": "BGLL",
       "iata_code": "IOT",
       "local_code": "ILL",
-      "coordinates": "71.241944, -53.562877"
+      "coordinates": "71.241944, -53.562877",
+      "metar_available": false
     },
     {
       "ident": "BGMI",
@@ -444,7 +479,8 @@
       "iso_region": "GL-NE",
       "municipality": "Station Nord",
       "gps_code": "BGMI",
-      "coordinates": "81.601292, -16.679306"
+      "coordinates": "81.601292, -16.679306",
+      "metar_available": false
     },
     {
       "ident": "BGMQ",
@@ -456,7 +492,8 @@
       "municipality": "Maniitsoq",
       "gps_code": "BGMQ",
       "iata_code": "JSU",
-      "coordinates": "65.412498, -52.9394"
+      "coordinates": "65.412498, -52.9394",
+      "metar_available": false
     },
     {
       "ident": "BGMV",
@@ -467,7 +504,8 @@
       "iso_region": "GL-NE",
       "municipality": "Mestersvig",
       "gps_code": "BGMV",
-      "coordinates": "72.2369, -23.9319"
+      "coordinates": "72.2369, -23.9319",
+      "metar_available": false
     },
     {
       "ident": "BGNK",
@@ -478,7 +516,8 @@
       "iso_region": "GL-QK",
       "municipality": "Niaqornaarsuk",
       "gps_code": "BGNK",
-      "coordinates": "68.236381, -52.852148"
+      "coordinates": "68.236381, -52.852148",
+      "metar_available": false
     },
     {
       "ident": "BGNL",
@@ -489,7 +528,8 @@
       "iso_region": "GL-KU",
       "municipality": "Nalunaq",
       "gps_code": "BGNL",
-      "coordinates": "60.35724, -44.827963"
+      "coordinates": "60.35724, -44.827963",
+      "metar_available": false
     },
     {
       "ident": "BGNN",
@@ -501,7 +541,8 @@
       "municipality": "Nanortalik",
       "gps_code": "BGNN",
       "iata_code": "JNN",
-      "coordinates": "60.141884, -45.232977"
+      "coordinates": "60.141884, -45.232977",
+      "metar_available": false
     },
     {
       "ident": "BGNO",
@@ -511,7 +552,8 @@
       "iso_region": "GL-NE",
       "municipality": "Station Nord",
       "gps_code": "BGNO",
-      "coordinates": "81.697844, -17.808838"
+      "coordinates": "81.697844, -17.808838",
+      "metar_available": false
     },
     {
       "ident": "BGNQ",
@@ -524,7 +566,8 @@
       "gps_code": "BGNQ",
       "iata_code": "JUU",
       "local_code": "NUG",
-      "coordinates": "71.538769, -53.205038"
+      "coordinates": "71.538769, -53.205038",
+      "metar_available": false
     },
     {
       "ident": "BGNS",
@@ -536,7 +579,8 @@
       "municipality": "Narsaq",
       "gps_code": "BGNS",
       "iata_code": "JNS",
-      "coordinates": "60.917283, -46.059923"
+      "coordinates": "60.917283, -46.059923",
+      "metar_available": false
     },
     {
       "ident": "BGNT",
@@ -549,7 +593,8 @@
       "gps_code": "BGNT",
       "iata_code": "NIQ",
       "local_code": "NIA",
-      "coordinates": "70.789385, -53.662945"
+      "coordinates": "70.789385, -53.662945",
+      "metar_available": false
     },
     {
       "ident": "BGNU",
@@ -562,7 +607,8 @@
       "gps_code": "BGNU",
       "iata_code": "NSQ",
       "local_code": "NUS",
-      "coordinates": "74.109853, -57.065037"
+      "coordinates": "74.109853, -57.065037",
+      "metar_available": false
     },
     {
       "ident": "BGPC",
@@ -572,7 +618,8 @@
       "iso_region": "GL-KU",
       "municipality": "Ikerasassuaq",
       "gps_code": "BGPC",
-      "coordinates": "60.05722, -43.159721"
+      "coordinates": "60.05722, -43.159721",
+      "metar_available": false
     },
     {
       "ident": "BGPT",
@@ -584,7 +631,8 @@
       "municipality": "Paamiut",
       "gps_code": "BGPT",
       "iata_code": "JFR",
-      "coordinates": "62.014736, -49.670937"
+      "coordinates": "62.014736, -49.670937",
+      "metar_available": false
     },
     {
       "ident": "BGQE",
@@ -597,7 +645,8 @@
       "gps_code": "BGQE",
       "iata_code": "PQT",
       "local_code": "QQT",
-      "coordinates": "69.995861, -51.300917"
+      "coordinates": "69.995861, -51.300917",
+      "metar_available": false
     },
     {
       "ident": "BGQQ",
@@ -609,7 +658,8 @@
       "municipality": "Qaanaaq",
       "gps_code": "BGQQ",
       "iata_code": "NAQ",
-      "coordinates": "77.488602, -69.388702"
+      "coordinates": "77.488602, -69.388702",
+      "metar_available": false
     },
     {
       "ident": "BGQT",
@@ -621,7 +671,8 @@
       "municipality": "Qassimiut",
       "gps_code": "BGQT",
       "iata_code": "QJH",
-      "coordinates": "60.780959, -47.156249"
+      "coordinates": "60.780959, -47.156249",
+      "metar_available": false
     },
     {
       "ident": "BGSC",
@@ -633,7 +684,8 @@
       "municipality": "Ittoqqortoormiit",
       "gps_code": "BGSC",
       "iata_code": "OBY",
-      "coordinates": "70.488229, -21.97168"
+      "coordinates": "70.488229, -21.97168",
+      "metar_available": false
     },
     {
       "ident": "BGSF",
@@ -645,7 +697,8 @@
       "municipality": "Kangerlussuaq",
       "gps_code": "BGSF",
       "iata_code": "SFJ",
-      "coordinates": "67.010446, -50.715294"
+      "coordinates": "67.010446, -50.715294",
+      "metar_available": false
     },
     {
       "ident": "BGSG",
@@ -658,7 +711,8 @@
       "gps_code": "BGSG",
       "iata_code": "SGG",
       "local_code": "SMG",
-      "coordinates": "65.90592, -36.378254"
+      "coordinates": "65.90592, -36.378254",
+      "metar_available": false
     },
     {
       "ident": "BGSI",
@@ -671,7 +725,8 @@
       "gps_code": "BGSI",
       "iata_code": "SRK",
       "local_code": "SIO",
-      "coordinates": "77.786517, -70.638657"
+      "coordinates": "77.786517, -70.638657",
+      "metar_available": false
     },
     {
       "ident": "BGSO",
@@ -682,7 +737,8 @@
       "municipality": "Saarloq",
       "gps_code": "BGSO",
       "iata_code": "QOQ",
-      "coordinates": "60.537778, -46.024722"
+      "coordinates": "60.537778, -46.024722",
+      "metar_available": false
     },
     {
       "ident": "BGSQ",
@@ -694,7 +750,8 @@
       "municipality": "Saqqaq",
       "gps_code": "BGSQ",
       "local_code": "QUP",
-      "coordinates": "70.011448, -51.932142"
+      "coordinates": "70.011448, -51.932142",
+      "metar_available": false
     },
     {
       "ident": "BGSS",
@@ -706,7 +763,8 @@
       "municipality": "Sisimiut",
       "gps_code": "BGSS",
       "iata_code": "JHS",
-      "coordinates": "66.951302, -53.729301"
+      "coordinates": "66.951302, -53.729301",
+      "metar_available": false
     },
     {
       "ident": "BGST",
@@ -719,7 +777,8 @@
       "gps_code": "BGST",
       "iata_code": "SAE",
       "local_code": "SAA",
-      "coordinates": "70.811172, -51.63129"
+      "coordinates": "70.811172, -51.63129",
+      "metar_available": false
     },
     {
       "ident": "BGSV",
@@ -732,7 +791,8 @@
       "gps_code": "BGSV",
       "iata_code": "SVR",
       "local_code": "SAV",
-      "coordinates": "76.018613, -65.117683"
+      "coordinates": "76.018613, -65.117683",
+      "metar_available": false
     },
     {
       "ident": "BGTA",
@@ -744,7 +804,8 @@
       "municipality": "Tasiusaq",
       "gps_code": "BGTA",
       "iata_code": "TQA",
-      "coordinates": "73.373055, -56.06028"
+      "coordinates": "73.373055, -56.06028",
+      "metar_available": false
     },
     {
       "ident": "BGTL",
@@ -756,7 +817,8 @@
       "municipality": "Pituffik",
       "gps_code": "BGTL",
       "iata_code": "THU",
-      "coordinates": "76.531197, -68.703201"
+      "coordinates": "76.531197, -68.703201",
+      "metar_available": false
     },
     {
       "ident": "BGTN",
@@ -769,7 +831,8 @@
       "gps_code": "BGTN",
       "iata_code": "TQI",
       "local_code": "TNT",
-      "coordinates": "65.892027, -37.783409"
+      "coordinates": "65.892027, -37.783409",
+      "metar_available": false
     },
     {
       "ident": "BGTQ",
@@ -781,7 +844,8 @@
       "municipality": "Tasiusak",
       "gps_code": "BGTQ",
       "iata_code": "XEQ",
-      "coordinates": "60.194305, -44.813447"
+      "coordinates": "60.194305, -44.813447",
+      "metar_available": false
     },
     {
       "ident": "BGUK",
@@ -793,7 +857,8 @@
       "municipality": "Upernavik",
       "gps_code": "BGUK",
       "iata_code": "JUV",
-      "coordinates": "72.790199, -56.1306"
+      "coordinates": "72.790199, -56.1306",
+      "metar_available": false
     },
     {
       "ident": "BGUM",
@@ -805,7 +870,8 @@
       "municipality": "Uummannaq",
       "gps_code": "BGUM",
       "iata_code": "UMD",
-      "coordinates": "70.680428, -52.11163"
+      "coordinates": "70.680428, -52.11163",
+      "metar_available": false
     },
     {
       "ident": "BGUQ",
@@ -817,7 +883,8 @@
       "municipality": "Uummannaq",
       "gps_code": "BGUQ",
       "iata_code": "JQA",
-      "coordinates": "70.7342, -52.696201"
+      "coordinates": "70.7342, -52.696201",
+      "metar_available": false
     },
     {
       "ident": "BGUT",
@@ -830,7 +897,8 @@
       "gps_code": "BGUT",
       "iata_code": "JUK",
       "local_code": "UKK",
-      "coordinates": "71.049438, -51.890016"
+      "coordinates": "71.049438, -51.890016",
+      "metar_available": false
     },
     {
       "ident": "GL-0001",
@@ -839,7 +907,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "NEEM Camp",
-      "coordinates": "79.45, -51.006"
+      "coordinates": "79.45, -51.006",
+      "metar_available": false
     },
     {
       "ident": "GL-0002",
@@ -849,7 +918,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "Summit Camp",
-      "coordinates": "72.59619, -38.42145"
+      "coordinates": "72.59619, -38.42145",
+      "metar_available": false
     },
     {
       "ident": "GL-0003",
@@ -858,7 +928,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "NorthGRIP",
-      "coordinates": "75.099998, -42.316666"
+      "coordinates": "75.099998, -42.316666",
+      "metar_available": false
     },
     {
       "ident": "GL-0004",
@@ -867,7 +938,8 @@
       "iso_country": "GL",
       "iso_region": "GL-QA",
       "municipality": "Raven Camp",
-      "coordinates": "66.316666, -46.283333"
+      "coordinates": "66.316666, -46.283333",
+      "metar_available": false
     },
     {
       "ident": "GL-0005",
@@ -876,7 +948,8 @@
       "iso_country": "GL",
       "iso_region": "GL-SE",
       "municipality": "Sodalen",
-      "coordinates": "68.16747, -31.51479"
+      "coordinates": "68.16747, -31.51479",
+      "metar_available": false
     },
     {
       "ident": "GL-0006",
@@ -886,7 +959,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "Summit Camp",
-      "coordinates": "72.616669, -38.5"
+      "coordinates": "72.616669, -38.5",
+      "metar_available": false
     },
     {
       "ident": "GL-0007",
@@ -895,7 +969,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "Zackenberg",
-      "coordinates": "74.468629, -20.564003"
+      "coordinates": "74.468629, -20.564003",
+      "metar_available": false
     },
     {
       "ident": "GL-0008",
@@ -905,7 +980,8 @@
       "iso_country": "GL",
       "iso_region": "GL-AV",
       "municipality": "Pituffik",
-      "coordinates": "76.4288, -68.3378"
+      "coordinates": "76.4288, -68.3378",
+      "metar_available": false
     },
     {
       "ident": "GL-0009",
@@ -914,7 +990,8 @@
       "iso_country": "GL",
       "iso_region": "GL-AV",
       "municipality": "Nuussuaq",
-      "coordinates": "74.10251, -57.40493"
+      "coordinates": "74.10251, -57.40493",
+      "metar_available": false
     },
     {
       "ident": "GL-0010",
@@ -923,7 +1000,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "Peary Land",
-      "coordinates": "82.180635, -31.164313"
+      "coordinates": "82.180635, -31.164313",
+      "metar_available": false
     },
     {
       "ident": "GL-0011",
@@ -933,7 +1011,8 @@
       "iso_country": "GL",
       "iso_region": "GL-SE",
       "municipality": "Iqateq",
-      "coordinates": "65.940768, -36.676226"
+      "coordinates": "65.940768, -36.676226",
+      "metar_available": false
     },
     {
       "ident": "GL-0012",
@@ -942,7 +1021,8 @@
       "iso_country": "GL",
       "iso_region": "GL-KU",
       "municipality": "Qaqortoq",
-      "coordinates": "60.76383, -46.05973"
+      "coordinates": "60.76383, -46.05973",
+      "metar_available": false
     },
     {
       "ident": "GL-0013",
@@ -951,7 +1031,8 @@
       "iso_country": "GL",
       "iso_region": "GL-SE",
       "municipality": "Marraq",
-      "coordinates": "63.432703, -51.161098"
+      "coordinates": "63.432703, -51.161098",
+      "metar_available": false
     },
     {
       "ident": "GL-0014",
@@ -960,7 +1041,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "EastGRIP",
-      "coordinates": "75.63, -35.99"
+      "coordinates": "75.63, -35.99",
+      "metar_available": false
     },
     {
       "ident": "GL-0015",
@@ -969,7 +1051,8 @@
       "iso_country": "GL",
       "iso_region": "GL-NE",
       "municipality": "Myggbukta",
-      "coordinates": "73.48853, -21.50338"
+      "coordinates": "73.48853, -21.50338",
+      "metar_available": false
     },
     {
       "ident": "GL-0016",
@@ -977,7 +1060,8 @@
       "name": "Junëiat Ice Landing Strip",
       "iso_country": "GL",
       "iso_region": "GL-NE",
-      "coordinates": "73.440427, -36.606445"
+      "coordinates": "73.440427, -36.606445",
+      "metar_available": false
     },
     {
       "ident": "GL-0017",
@@ -986,7 +1070,8 @@
       "iso_country": "GL",
       "iso_region": "GL-SE",
       "municipality": "Kangilinnguit",
-      "coordinates": "61.237704, -48.105526"
+      "coordinates": "61.237704, -48.105526",
+      "metar_available": false
     },
     {
       "ident": "GL-0018",
@@ -996,7 +1081,8 @@
       "iso_country": "GL",
       "iso_region": "GL-SE",
       "municipality": "Paamiut",
-      "coordinates": "61.992199, -49.662498"
+      "coordinates": "61.992199, -49.662498",
+      "metar_available": false
     },
     {
       "ident": "GL-0019",
@@ -1006,7 +1092,8 @@
       "iso_country": "GL",
       "iso_region": "GL-AV",
       "municipality": "Moriusaq",
-      "coordinates": "76.753492, -69.845055"
+      "coordinates": "76.753492, -69.845055",
+      "metar_available": false
     },
     {
       "ident": "GL-0020",
@@ -1016,7 +1103,8 @@
       "iso_country": "GL",
       "iso_region": "GL-AV",
       "municipality": "Pituffik",
-      "coordinates": "76.523062, -68.811836"
+      "coordinates": "76.523062, -68.811836",
+      "metar_available": false
     },
     {
       "ident": "GL-QCU",
@@ -1028,7 +1116,8 @@
       "municipality": "Akunnaaq",
       "gps_code": "BGAK",
       "iata_code": "QCU",
-      "coordinates": "68.744273, -52.340369"
+      "coordinates": "68.744273, -52.340369",
+      "metar_available": false
     },
     {
       "ident": "GL-QFI",
@@ -1037,7 +1126,8 @@
       "iso_country": "GL",
       "iso_region": "GL-QK",
       "municipality": "Iginniarfik",
-      "coordinates": "68.699997, -52.966702"
+      "coordinates": "68.699997, -52.966702",
+      "metar_available": false
     },
     {
       "ident": "QFX",
@@ -1048,7 +1138,8 @@
       "municipality": "Igaliku",
       "gps_code": "BGIO",
       "iata_code": "QFX",
-      "coordinates": "60.99229, -45.431428"
+      "coordinates": "60.99229, -45.431428",
+      "metar_available": false
     }
   ]
 }

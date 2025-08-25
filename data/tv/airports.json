@@ -2,7 +2,7 @@
   "country_code": "TV",
   "country_name": "Tuvalu",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.831442",
+  "last_updated": "2025-08-25T10:08:40.986056",
   "types_distribution": {
     "medium_airport": 1,
     "closed": 2
@@ -19,7 +19,8 @@
       "municipality": "Funafuti",
       "gps_code": "NGFU",
       "iata_code": "FUN",
-      "coordinates": "-8.525, 179.195999"
+      "coordinates": "-8.525, 179.195999",
+      "metar_available": false
     },
     {
       "ident": "TV-0001",
@@ -29,7 +30,8 @@
       "continent": "OC",
       "iso_country": "TV",
       "iso_region": "TV-NMA",
-      "coordinates": "-5.683334, 176.129"
+      "coordinates": "-5.683334, 176.129",
+      "metar_available": false
     },
     {
       "ident": "TV-0002",
@@ -40,7 +42,8 @@
       "iso_country": "TV",
       "iso_region": "TV-NKF",
       "municipality": "Motulalo Island",
-      "coordinates": "-8.065, 178.377224"
+      "coordinates": "-8.065, 178.377224",
+      "metar_available": false
     }
   ]
 }

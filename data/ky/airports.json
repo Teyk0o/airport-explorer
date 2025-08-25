@@ -2,7 +2,7 @@
   "country_code": "KY",
   "country_name": "Cayman Islands",
   "total_airports": 10,
-  "last_updated": "2025-08-01T00:18:22.815487",
+  "last_updated": "2025-08-25T10:08:40.969046",
   "types_distribution": {
     "closed": 2,
     "heliport": 5,
@@ -17,7 +17,8 @@
       "iso_country": "KY",
       "iso_region": "KY-GC",
       "municipality": "Bodden Town",
-      "coordinates": "19.30084, -81.19342"
+      "coordinates": "19.30084, -81.19342",
+      "metar_available": false
     },
     {
       "ident": "KY-0002",
@@ -26,7 +27,8 @@
       "iso_country": "KY",
       "iso_region": "KY-GC",
       "municipality": "Breakers",
-      "coordinates": "19.30479, -81.18776"
+      "coordinates": "19.30479, -81.18776",
+      "metar_available": false
     },
     {
       "ident": "KY-0003",
@@ -35,7 +37,8 @@
       "iso_country": "KY",
       "iso_region": "KY-GC",
       "municipality": "George Town",
-      "coordinates": "19.33586, -81.37688"
+      "coordinates": "19.33586, -81.37688",
+      "metar_available": false
     },
     {
       "ident": "KY-0004",
@@ -44,7 +47,8 @@
       "iso_country": "KY",
       "iso_region": "KY-GC",
       "municipality": "George Town",
-      "coordinates": "19.30294, -81.38311"
+      "coordinates": "19.30294, -81.38311",
+      "metar_available": false
     },
     {
       "ident": "KY-0005",
@@ -53,7 +57,8 @@
       "iso_country": "KY",
       "iso_region": "KY-GC",
       "municipality": "George Town",
-      "coordinates": "19.32148, -81.37537"
+      "coordinates": "19.32148, -81.37537",
+      "metar_available": false
     },
     {
       "ident": "KY-0006",
@@ -62,7 +67,8 @@
       "iso_country": "KY",
       "iso_region": "KY-CB",
       "municipality": "Stake Bay",
-      "coordinates": "19.71587, -79.82739"
+      "coordinates": "19.71587, -79.82739",
+      "metar_available": false
     },
     {
       "ident": "KY-0007",
@@ -71,7 +77,8 @@
       "iso_country": "KY",
       "iso_region": "KY-GC",
       "municipality": "Old Man Bay",
-      "coordinates": "19.34872, -81.14654"
+      "coordinates": "19.34872, -81.14654",
+      "metar_available": false
     },
     {
       "ident": "MWCB",
@@ -83,7 +90,8 @@
       "municipality": "West End",
       "gps_code": "MWCB",
       "iata_code": "CYB",
-      "coordinates": "19.687, -79.882797"
+      "coordinates": "19.687, -79.882797",
+      "metar_available": false
     },
     {
       "ident": "MWCL",
@@ -95,7 +103,8 @@
       "municipality": "Blossom Village",
       "gps_code": "MWCL",
       "iata_code": "LYB",
-      "coordinates": "19.660161, -80.088826"
+      "coordinates": "19.660161, -80.088826",
+      "metar_available": false
     },
     {
       "ident": "MWCR",
@@ -107,7 +116,8 @@
       "municipality": "George Town",
       "gps_code": "MWCR",
       "iata_code": "GCM",
-      "coordinates": "19.292801, -81.357697"
+      "coordinates": "19.292801, -81.357697",
+      "metar_available": false
     }
   ]
 }

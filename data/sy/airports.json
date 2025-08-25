@@ -2,7 +2,7 @@
   "country_code": "SY",
   "country_name": "Syria",
   "total_airports": 57,
-  "last_updated": "2025-08-01T00:18:22.839000",
+  "last_updated": "2025-08-25T10:08:40.994181",
   "types_distribution": {
     "medium_airport": 9,
     "small_airport": 32,
@@ -20,7 +20,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HL",
       "municipality": "Abu ad Duhur",
-      "coordinates": "35.732200622558594, 37.10419845581055"
+      "coordinates": "35.732200622558594, 37.10419845581055",
+      "metar_available": false
     },
     {
       "ident": "OS58",
@@ -32,7 +33,8 @@
       "iso_region": "SY-HM",
       "gps_code": "OS58",
       "local_code": "OS58",
-      "coordinates": "35.11819839477539, 36.71120071411133"
+      "coordinates": "35.11819839477539, 36.71120071411133",
+      "metar_available": false
     },
     {
       "ident": "OS60",
@@ -43,7 +45,8 @@
       "iso_country": "SY",
       "iso_region": "SY-SU",
       "municipality": "As Suwayda",
-      "coordinates": "32.7052001953125, 36.412899017333984"
+      "coordinates": "32.7052001953125, 36.412899017333984",
+      "metar_available": false
     },
     {
       "ident": "OS61",
@@ -55,7 +58,8 @@
       "iso_region": "SY-DI",
       "gps_code": "OS61",
       "local_code": "OS61",
-      "coordinates": "33.60960006713867, 36.749000549316406"
+      "coordinates": "33.60960006713867, 36.749000549316406",
+      "metar_available": false
     },
     {
       "ident": "OS62",
@@ -68,7 +72,8 @@
       "municipality": "Al Mahdum",
       "gps_code": "OS62",
       "local_code": "OS62",
-      "coordinates": "36.096699, 37.936501"
+      "coordinates": "36.096699, 37.936501",
+      "metar_available": false
     },
     {
       "ident": "OS63",
@@ -81,7 +86,8 @@
       "municipality": "Marj Ruhayyil",
       "gps_code": "OS63",
       "local_code": "OS63",
-      "coordinates": "33.2864990234375, 36.457401275634766"
+      "coordinates": "33.2864990234375, 36.457401275634766",
+      "metar_available": false
     },
     {
       "ident": "OS64",
@@ -91,7 +97,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-DI",
-      "coordinates": "33.91899871826172, 36.866600036621094"
+      "coordinates": "33.91899871826172, 36.866600036621094",
+      "metar_available": false
     },
     {
       "ident": "OS65",
@@ -104,7 +111,8 @@
       "municipality": "Shayrat",
       "gps_code": "OS65",
       "local_code": "OS65",
-      "coordinates": "34.490299, 36.909004"
+      "coordinates": "34.490299, 36.909004",
+      "metar_available": false
     },
     {
       "ident": "OS66",
@@ -117,7 +125,8 @@
       "municipality": "Kuweires Sharqi",
       "gps_code": "OS66",
       "local_code": "OS66",
-      "coordinates": "36.187099, 37.583199"
+      "coordinates": "36.187099, 37.583199",
+      "metar_available": false
     },
     {
       "ident": "OS67",
@@ -130,7 +139,8 @@
       "municipality": "Mezzeh",
       "gps_code": "OS67",
       "local_code": "OS67",
-      "coordinates": "33.4775, 36.2234"
+      "coordinates": "33.4775, 36.2234",
+      "metar_available": false
     },
     {
       "ident": "OS68",
@@ -143,7 +153,8 @@
       "municipality": "Saiqal",
       "gps_code": "OS68",
       "local_code": "OS68",
-      "coordinates": "33.68239974975586, 37.21390151977539"
+      "coordinates": "33.68239974975586, 37.21390151977539",
+      "metar_available": false
     },
     {
       "ident": "OS69",
@@ -154,7 +165,8 @@
       "iso_country": "SY",
       "iso_region": "SY-SU",
       "municipality": "Buraq",
-      "coordinates": "33.077301025390625, 36.55820846557617"
+      "coordinates": "33.077301025390625, 36.55820846557617",
+      "metar_available": false
     },
     {
       "ident": "OS70",
@@ -165,7 +177,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HI",
       "municipality": "Al-Qusayr",
-      "coordinates": "34.56909942626953, 36.57279968261719"
+      "coordinates": "34.56909942626953, 36.57279968261719",
+      "metar_available": false
     },
     {
       "ident": "OS71",
@@ -176,7 +189,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HL",
       "municipality": "Minaq",
-      "coordinates": "36.521599, 37.0415"
+      "coordinates": "36.521599, 37.0415",
+      "metar_available": false
     },
     {
       "ident": "OS72",
@@ -187,7 +201,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HI",
       "municipality": "Tiyas",
-      "coordinates": "34.5225982666, 37.629901886"
+      "coordinates": "34.5225982666, 37.629901886",
+      "metar_available": false
     },
     {
       "ident": "OSAP",
@@ -200,7 +215,8 @@
       "municipality": "Aleppo",
       "gps_code": "OSAP",
       "iata_code": "ALP",
-      "coordinates": "36.180698, 37.2244"
+      "coordinates": "36.180698, 37.2244",
+      "metar_available": false
     },
     {
       "ident": "OSDI",
@@ -213,7 +229,8 @@
       "municipality": "Damascus",
       "gps_code": "OSDI",
       "iata_code": "DAM",
-      "coordinates": "33.4114990234375, 36.51559829711914"
+      "coordinates": "33.4114990234375, 36.51559829711914",
+      "metar_available": false
     },
     {
       "ident": "OSDZ",
@@ -226,7 +243,8 @@
       "municipality": "Deir ez-Zor",
       "gps_code": "OSDZ",
       "iata_code": "DEZ",
-      "coordinates": "35.2854, 40.175999"
+      "coordinates": "35.2854, 40.175999",
+      "metar_available": false
     },
     {
       "ident": "OSKL",
@@ -239,7 +257,8 @@
       "municipality": "Qamishly",
       "gps_code": "OSKL",
       "iata_code": "KAC",
-      "coordinates": "37.020599, 41.191399"
+      "coordinates": "37.020599, 41.191399",
+      "metar_available": false
     },
     {
       "ident": "OSLK",
@@ -252,7 +271,8 @@
       "municipality": "Latakia",
       "gps_code": "OSLK",
       "iata_code": "LTK",
-      "coordinates": "35.4011, 35.9487"
+      "coordinates": "35.4011, 35.9487",
+      "metar_available": false
     },
     {
       "ident": "OSPR",
@@ -265,7 +285,8 @@
       "municipality": "Tadmur",
       "gps_code": "OSPR",
       "iata_code": "PMS",
-      "coordinates": "34.5574, 38.316898"
+      "coordinates": "34.5574, 38.316898",
+      "metar_available": false
     },
     {
       "ident": "SOR",
@@ -277,7 +298,8 @@
       "iso_region": "SY-DY",
       "municipality": "T2",
       "iata_code": "SOR",
-      "coordinates": "34.390394, 40.15256"
+      "coordinates": "34.390394, 40.15256",
+      "metar_available": false
     },
     {
       "ident": "SY-0001",
@@ -288,7 +310,8 @@
       "iso_country": "SY",
       "iso_region": "SY-ID",
       "municipality": "Taftanaz",
-      "coordinates": "35.9720993042, 36.7831001282"
+      "coordinates": "35.9720993042, 36.7831001282",
+      "metar_available": false
     },
     {
       "ident": "SY-0002",
@@ -299,7 +322,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RD",
       "municipality": "Beit Sahem",
-      "coordinates": "33.45873, 36.3577"
+      "coordinates": "33.45873, 36.3577",
+      "metar_available": false
     },
     {
       "ident": "SY-0003",
@@ -310,7 +334,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RD",
       "municipality": "Marj al-Sultan",
-      "coordinates": "33.50026, 36.4671"
+      "coordinates": "33.50026, 36.4671",
+      "metar_available": false
     },
     {
       "ident": "SY-0004",
@@ -321,7 +346,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RD",
       "municipality": "Marj al-Sultan",
-      "coordinates": "33.487116, 36.475288"
+      "coordinates": "33.487116, 36.475288",
+      "metar_available": false
     },
     {
       "ident": "SY-0005",
@@ -332,7 +358,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HL",
       "municipality": "Aleppo",
-      "coordinates": "36.1787, 37.22041"
+      "coordinates": "36.1787, 37.22041",
+      "metar_available": false
     },
     {
       "ident": "SY-0006",
@@ -343,7 +370,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HL",
       "municipality": "Aleppo",
-      "coordinates": "36.2236, 37.0819"
+      "coordinates": "36.2236, 37.0819",
+      "metar_available": false
     },
     {
       "ident": "SY-0007",
@@ -354,7 +382,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HL",
       "municipality": "Aleppo",
-      "coordinates": "36.203, 37.1463"
+      "coordinates": "36.203, 37.1463",
+      "metar_available": false
     },
     {
       "ident": "SY-0008",
@@ -365,7 +394,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RA",
       "municipality": "Dibsi 'Afnan",
-      "coordinates": "35.838829, 38.284836"
+      "coordinates": "35.838829, 38.284836",
+      "metar_available": false
     },
     {
       "ident": "SY-0009",
@@ -376,7 +406,8 @@
       "iso_country": "SY",
       "iso_region": "SY-DY",
       "municipality": "Green Village",
-      "coordinates": "35.04855, 40.58405"
+      "coordinates": "35.04855, 40.58405",
+      "metar_available": false
     },
     {
       "ident": "SY-0010",
@@ -387,7 +418,8 @@
       "iso_country": "SY",
       "iso_region": "SY-DY",
       "municipality": "Al-Mayadin",
-      "coordinates": "34.99724, 40.42123"
+      "coordinates": "34.99724, 40.42123",
+      "metar_available": false
     },
     {
       "ident": "SY-0011",
@@ -398,7 +430,8 @@
       "iso_country": "SY",
       "iso_region": "SY-DY",
       "municipality": "As-Saliniyah",
-      "coordinates": "34.73309, 40.71139"
+      "coordinates": "34.73309, 40.71139",
+      "metar_available": false
     },
     {
       "ident": "SY-0012",
@@ -408,7 +441,8 @@
       "iso_country": "SY",
       "iso_region": "SY-ID",
       "municipality": "El Lani",
-      "coordinates": "36.165839, 36.369263"
+      "coordinates": "36.165839, 36.369263",
+      "metar_available": false
     },
     {
       "ident": "SY-0013",
@@ -419,7 +453,8 @@
       "iso_country": "SY",
       "iso_region": "SY-ID",
       "municipality": "Ma'arrat Misrin",
-      "coordinates": "36.03552, 36.68491"
+      "coordinates": "36.03552, 36.68491",
+      "metar_available": false
     },
     {
       "ident": "SY-0014",
@@ -429,7 +464,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HA",
       "municipality": "Ash-Shaddadi",
-      "coordinates": "36.040253, 40.732825"
+      "coordinates": "36.040253, 40.732825",
+      "metar_available": false
     },
     {
       "ident": "SY-0015",
@@ -439,7 +475,8 @@
       "iso_country": "SY",
       "iso_region": "SY-DY",
       "municipality": "Al-Bukamal",
-      "coordinates": "34.434067, 40.913862"
+      "coordinates": "34.434067, 40.913862",
+      "metar_available": false
     },
     {
       "ident": "SY-0016",
@@ -448,7 +485,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "35.083835, 40.601932"
+      "coordinates": "35.083835, 40.601932",
+      "metar_available": false
     },
     {
       "ident": "SY-0017",
@@ -457,7 +495,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "36.891914, 41.828522"
+      "coordinates": "36.891914, 41.828522",
+      "metar_available": false
     },
     {
       "ident": "SY-0018",
@@ -466,7 +505,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "37.185815, 42.2321"
+      "coordinates": "37.185815, 42.2321",
+      "metar_available": false
     },
     {
       "ident": "SY-0019",
@@ -477,7 +517,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RD",
       "municipality": "Ar Ruhaybah",
-      "coordinates": "37.115865, 42.084018"
+      "coordinates": "37.115865, 42.084018",
+      "metar_available": false
     },
     {
       "ident": "SY-0020",
@@ -486,7 +527,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "36.898207, 41.997737"
+      "coordinates": "36.898207, 41.997737",
+      "metar_available": false
     },
     {
       "ident": "SY-0021",
@@ -496,7 +538,8 @@
       "iso_country": "SY",
       "iso_region": "SY-HA",
       "municipality": "Ghanamiyah",
-      "coordinates": "37.036099, 40.630511"
+      "coordinates": "37.036099, 40.630511",
+      "metar_available": false
     },
     {
       "ident": "SY-0022",
@@ -505,7 +548,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "32.647004, 36.660739"
+      "coordinates": "32.647004, 36.660739",
+      "metar_available": false
     },
     {
       "ident": "SY-0023",
@@ -515,7 +559,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-RD",
-      "coordinates": "33.559254, 36.174996"
+      "coordinates": "33.559254, 36.174996",
+      "metar_available": false
     },
     {
       "ident": "SY-0024",
@@ -526,7 +571,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RD",
       "municipality": "Dīmās",
-      "coordinates": "33.605427, 36.089629"
+      "coordinates": "33.605427, 36.089629",
+      "metar_available": false
     },
     {
       "ident": "SY-0025",
@@ -536,7 +582,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-RD",
-      "coordinates": "33.553016, 36.184114"
+      "coordinates": "33.553016, 36.184114",
+      "metar_available": false
     },
     {
       "ident": "SY-0026",
@@ -545,7 +592,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "33.532953, 38.642435"
+      "coordinates": "33.532953, 38.642435",
+      "metar_available": false
     },
     {
       "ident": "SY-0027",
@@ -556,7 +604,8 @@
       "iso_country": "SY",
       "iso_region": "SY-TA",
       "municipality": "Al Fuţāsīyah",
-      "coordinates": "34.80908, 35.915108"
+      "coordinates": "34.80908, 35.915108",
+      "metar_available": false
     },
     {
       "ident": "SY-0029",
@@ -565,7 +614,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "35.409112, 40.042355"
+      "coordinates": "35.409112, 40.042355",
+      "metar_available": false
     },
     {
       "ident": "SY-0030",
@@ -574,7 +624,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-HA",
-      "coordinates": "36.590992, 40.587208"
+      "coordinates": "36.590992, 40.587208",
+      "metar_available": false
     },
     {
       "ident": "SY-0031",
@@ -583,7 +634,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "36.744043, 40.570879"
+      "coordinates": "36.744043, 40.570879",
+      "metar_available": false
     },
     {
       "ident": "SY-0032",
@@ -592,7 +644,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "36.707995, 40.510626"
+      "coordinates": "36.707995, 40.510626",
+      "metar_available": false
     },
     {
       "ident": "SY-0033",
@@ -602,7 +655,8 @@
       "iso_country": "SY",
       "iso_region": "SY-LA",
       "municipality": "Istamo",
-      "coordinates": "35.470253, 35.91913"
+      "coordinates": "35.470253, 35.91913",
+      "metar_available": false
     },
     {
       "ident": "SY-0034",
@@ -611,7 +665,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-U-A",
-      "coordinates": "34.528179, 38.733823"
+      "coordinates": "34.528179, 38.733823",
+      "metar_available": false
     },
     {
       "ident": "SY-0035",
@@ -622,7 +677,8 @@
       "iso_country": "SY",
       "iso_region": "SY-RA",
       "municipality": "Al Tabqah",
-      "coordinates": "35.7547, 38.566799"
+      "coordinates": "35.7547, 38.566799",
+      "metar_available": false
     },
     {
       "ident": "SY-0036",
@@ -632,7 +688,8 @@
       "continent": "AS",
       "iso_country": "SY",
       "iso_region": "SY-QU",
-      "coordinates": "32.7867, 35.717"
+      "coordinates": "32.7867, 35.717",
+      "metar_available": false
     }
   ]
 }

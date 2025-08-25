@@ -2,7 +2,7 @@
   "country_code": "GW",
   "country_name": "Guinea-Bissau",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.735697",
+  "last_updated": "2025-08-25T10:08:40.881077",
   "types_distribution": {
     "small_airport": 6,
     "medium_airport": 1
@@ -19,7 +19,8 @@
       "municipality": "Quebo",
       "gps_code": "GG64",
       "local_code": "GG64",
-      "coordinates": "11.536858, -14.761904"
+      "coordinates": "11.536858, -14.761904",
+      "metar_available": false
     },
     {
       "ident": "GGBF",
@@ -31,7 +32,8 @@
       "iso_region": "GW-BA",
       "municipality": "Bafatá",
       "gps_code": "GGBF",
-      "coordinates": "12.176437, -14.657811"
+      "coordinates": "12.176437, -14.657811",
+      "metar_available": false
     },
     {
       "ident": "GGBU",
@@ -43,7 +45,8 @@
       "municipality": "Bubaque",
       "gps_code": "GGBU",
       "iata_code": "BQE",
-      "coordinates": "11.297356, -15.838079"
+      "coordinates": "11.297356, -15.838079",
+      "metar_available": false
     },
     {
       "ident": "GGCF",
@@ -55,7 +58,8 @@
       "iso_region": "GW-TO",
       "municipality": "Cufar",
       "gps_code": "GGCF",
-      "coordinates": "11.2879, -15.1805"
+      "coordinates": "11.2879, -15.1805",
+      "metar_available": false
     },
     {
       "ident": "GGGB",
@@ -67,7 +71,8 @@
       "iso_region": "GW-GA",
       "municipality": "Gabu",
       "gps_code": "GGGB",
-      "coordinates": "12.292002, -14.236044"
+      "coordinates": "12.292002, -14.236044",
+      "metar_available": false
     },
     {
       "ident": "GGOV",
@@ -80,7 +85,8 @@
       "municipality": "Bissau",
       "gps_code": "GGOV",
       "iata_code": "OXB",
-      "coordinates": "11.894800186157227, -15.65369987487793"
+      "coordinates": "11.894800186157227, -15.65369987487793",
+      "metar_available": false
     },
     {
       "ident": "GW-0001",
@@ -91,7 +97,8 @@
       "iso_country": "GW",
       "iso_region": "GW-GA",
       "municipality": "Piche",
-      "coordinates": "12.32008, -13.958281"
+      "coordinates": "12.32008, -13.958281",
+      "metar_available": false
     }
   ]
 }

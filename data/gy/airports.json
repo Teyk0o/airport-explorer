@@ -2,7 +2,7 @@
   "country_code": "GY",
   "country_name": "Guyana",
   "total_airports": 56,
-  "last_updated": "2025-08-01T00:18:22.740259",
+  "last_updated": "2025-08-25T10:08:40.885917",
   "types_distribution": {
     "closed": 1,
     "small_airport": 51,
@@ -17,7 +17,8 @@
       "continent": "SA",
       "iso_country": "GY",
       "iso_region": "GY-UT",
-      "coordinates": "1.826, -58.584"
+      "coordinates": "1.826, -58.584",
+      "metar_available": false
     },
     {
       "ident": "GY-0002",
@@ -29,7 +30,8 @@
       "iso_region": "GY-PM",
       "municipality": "Anna Regina",
       "gps_code": "SYHC",
-      "coordinates": "7.3121, -58.4873"
+      "coordinates": "7.3121, -58.4873",
+      "metar_available": false
     },
     {
       "ident": "GY-0003",
@@ -40,7 +42,8 @@
       "iso_country": "GY",
       "iso_region": "GY-PM",
       "municipality": "Supenaam",
-      "coordinates": "6.9851, -58.5005"
+      "coordinates": "6.9851, -58.5005",
+      "metar_available": false
     },
     {
       "ident": "GY-0004",
@@ -51,7 +54,8 @@
       "iso_country": "GY",
       "iso_region": "GY-MA",
       "municipality": "Fort Wellington",
-      "coordinates": "6.37616, -57.606478"
+      "coordinates": "6.37616, -57.606478",
+      "metar_available": false
     },
     {
       "ident": "GY-0005",
@@ -62,7 +66,8 @@
       "iso_country": "GY",
       "iso_region": "GY-PT",
       "municipality": "Kako Mountain",
-      "coordinates": "4.628142, -60.056977"
+      "coordinates": "4.628142, -60.056977",
+      "metar_available": false
     },
     {
       "ident": "GY-0006",
@@ -73,7 +78,8 @@
       "iso_country": "GY",
       "iso_region": "GY-EB",
       "municipality": "Joppa-Macedonia",
-      "coordinates": "6.15153, -57.22611"
+      "coordinates": "6.15153, -57.22611",
+      "metar_available": false
     },
     {
       "ident": "GY-0007",
@@ -84,7 +90,8 @@
       "iso_country": "GY",
       "iso_region": "GY-MA",
       "municipality": "Baiabu",
-      "coordinates": "6.55935, -57.87218"
+      "coordinates": "6.55935, -57.87218",
+      "metar_available": false
     },
     {
       "ident": "GY-BCG",
@@ -97,7 +104,8 @@
       "municipality": "Kumaka",
       "gps_code": "SYBE",
       "iata_code": "BCG",
-      "coordinates": "7.640212, -58.961786"
+      "coordinates": "7.640212, -58.961786",
+      "metar_available": false
     },
     {
       "ident": "SYAG",
@@ -109,7 +117,8 @@
       "iso_region": "GY-PM",
       "municipality": "Anna Regina",
       "gps_code": "SYAG",
-      "coordinates": "7.256583, -58.545671"
+      "coordinates": "7.256583, -58.545671",
+      "metar_available": false
     },
     {
       "ident": "SYAH",
@@ -122,7 +131,8 @@
       "municipality": "Aishalton",
       "gps_code": "SYAH",
       "iata_code": "AHL",
-      "coordinates": "2.47403, -59.320786"
+      "coordinates": "2.47403, -59.320786",
+      "metar_available": false
     },
     {
       "ident": "SYAL",
@@ -134,7 +144,8 @@
       "iso_region": "GY-EB",
       "municipality": "Albion",
       "gps_code": "SYAL",
-      "coordinates": "6.24662, -57.379596"
+      "coordinates": "6.24662, -57.379596",
+      "metar_available": false
     },
     {
       "ident": "SYAN",
@@ -147,7 +158,8 @@
       "municipality": "Annai",
       "gps_code": "SYAN",
       "iata_code": "NAI",
-      "coordinates": "3.95944, -59.124199"
+      "coordinates": "3.95944, -59.124199",
+      "metar_available": false
     },
     {
       "ident": "SYAP",
@@ -159,7 +171,8 @@
       "iso_region": "GY-UT",
       "municipality": "Apoteri",
       "gps_code": "SYAP",
-      "coordinates": "4.013879776000977, -58.60499954223633"
+      "coordinates": "4.013879776000977, -58.60499954223633",
+      "metar_available": false
     },
     {
       "ident": "SYAW",
@@ -171,7 +184,8 @@
       "iso_region": "GY-UT",
       "municipality": "Awaruwaunau",
       "gps_code": "SYAW",
-      "coordinates": "2.647622, -59.194678"
+      "coordinates": "2.647622, -59.194678",
+      "metar_available": false
     },
     {
       "ident": "SYBG",
@@ -183,7 +197,8 @@
       "iso_region": "GY-CU",
       "municipality": "Banagara Island",
       "gps_code": "SYBG",
-      "coordinates": "6.34056, -58.591526"
+      "coordinates": "6.34056, -58.591526",
+      "metar_available": false
     },
     {
       "ident": "SYBR",
@@ -196,7 +211,8 @@
       "municipality": "Baramita",
       "gps_code": "SYBR",
       "iata_code": "BMJ",
-      "coordinates": "7.370120048522949, -60.487998962402344"
+      "coordinates": "7.370120048522949, -60.487998962402344",
+      "metar_available": false
     },
     {
       "ident": "SYBT",
@@ -209,7 +225,8 @@
       "municipality": "Bartica",
       "gps_code": "SYBT",
       "iata_code": "GFO",
-      "coordinates": "6.358864, -58.655207"
+      "coordinates": "6.358864, -58.655207",
+      "metar_available": false
     },
     {
       "ident": "SYCJ",
@@ -223,7 +240,8 @@
       "gps_code": "SYCJ",
       "iata_code": "GEO",
       "local_code": "SYGT",
-      "coordinates": "6.49855, -58.254101"
+      "coordinates": "6.49855, -58.254101",
+      "metar_available": false
     },
     {
       "ident": "SYCP",
@@ -234,7 +252,8 @@
       "iso_country": "GY",
       "iso_region": "GY-PT",
       "gps_code": "SYCP",
-      "coordinates": "4.81955, -60.025623"
+      "coordinates": "4.81955, -60.025623",
+      "metar_available": false
     },
     {
       "ident": "SYDW",
@@ -246,7 +265,8 @@
       "iso_region": "GY-UT",
       "municipality": "Dadanawa",
       "gps_code": "SYDW",
-      "coordinates": "2.82555, -59.5242"
+      "coordinates": "2.82555, -59.5242",
+      "metar_available": false
     },
     {
       "ident": "SYEB",
@@ -258,7 +278,8 @@
       "iso_region": "GY-UD",
       "municipality": "Ebini",
       "gps_code": "SYEB",
-      "coordinates": "5.56855, -57.77521"
+      "coordinates": "5.56855, -57.77521",
+      "metar_available": false
     },
     {
       "ident": "SYEK",
@@ -269,7 +290,8 @@
       "iso_country": "GY",
       "iso_region": "GY-PM",
       "gps_code": "SYEK",
-      "coordinates": "6.400333, -60.854"
+      "coordinates": "6.400333, -60.854",
+      "metar_available": false
     },
     {
       "ident": "SYGO",
@@ -282,7 +304,8 @@
       "municipality": "Ogle",
       "gps_code": "SYEC",
       "iata_code": "OGL",
-      "coordinates": "6.80628, -58.1059"
+      "coordinates": "6.80628, -58.1059",
+      "metar_available": false
     },
     {
       "ident": "SYIB",
@@ -295,7 +318,8 @@
       "municipality": "Imbaimadai",
       "gps_code": "SYIB",
       "iata_code": "IMB",
-      "coordinates": "5.70811, -60.294201"
+      "coordinates": "5.70811, -60.294201",
+      "metar_available": false
     },
     {
       "ident": "SYKA",
@@ -308,7 +332,8 @@
       "municipality": "Kaieteur Falls",
       "gps_code": "SYKA",
       "iata_code": "KAI",
-      "coordinates": "5.17275476456, -59.491481781"
+      "coordinates": "5.17275476456, -59.491481781",
+      "metar_available": false
     },
     {
       "ident": "SYKI",
@@ -320,7 +345,8 @@
       "iso_region": "GY-CU",
       "municipality": "Kaow Island",
       "gps_code": "SYKI",
-      "coordinates": "6.433119, -58.6225"
+      "coordinates": "6.433119, -58.6225",
+      "metar_available": false
     },
     {
       "ident": "SYKK",
@@ -332,7 +358,8 @@
       "iso_region": "GY-PT",
       "municipality": "Kurukabaru",
       "gps_code": "SYKK",
-      "coordinates": "4.714095, -59.911274"
+      "coordinates": "4.714095, -59.911274",
+      "metar_available": false
     },
     {
       "ident": "SYKM",
@@ -345,7 +372,8 @@
       "municipality": "Kamarang",
       "gps_code": "SYKM",
       "iata_code": "KAR",
-      "coordinates": "5.86534, -60.614201"
+      "coordinates": "5.86534, -60.614201",
+      "metar_available": false
     },
     {
       "ident": "SYKN",
@@ -356,7 +384,8 @@
       "iso_country": "GY",
       "iso_region": "GY-PM",
       "gps_code": "SYKN",
-      "coordinates": "6.173673, -61.145637"
+      "coordinates": "6.173673, -61.145637",
+      "metar_available": false
     },
     {
       "ident": "SYKR",
@@ -369,7 +398,8 @@
       "municipality": "Karanambo",
       "gps_code": "SYKR",
       "iata_code": "KRM",
-      "coordinates": "3.752572, -59.30902"
+      "coordinates": "3.752572, -59.30902",
+      "metar_available": false
     },
     {
       "ident": "SYKS",
@@ -382,7 +412,8 @@
       "municipality": "Karasabai",
       "gps_code": "SYKS",
       "iata_code": "KRG",
-      "coordinates": "4.03333, -59.533298"
+      "coordinates": "4.03333, -59.533298",
+      "metar_available": false
     },
     {
       "ident": "SYKT",
@@ -395,7 +426,8 @@
       "municipality": "Kato",
       "gps_code": "SYKT",
       "iata_code": "KTO",
-      "coordinates": "4.64916, -59.832199"
+      "coordinates": "4.64916, -59.832199",
+      "metar_available": false
     },
     {
       "ident": "SYKW",
@@ -407,7 +439,8 @@
       "iso_region": "GY-UD",
       "municipality": "Kwakwani",
       "gps_code": "SYKW",
-      "coordinates": "5.283329963684082, -58.04999923706055"
+      "coordinates": "5.283329963684082, -58.04999923706055",
+      "metar_available": false
     },
     {
       "ident": "SYKZ",
@@ -420,7 +453,8 @@
       "municipality": "Konawaruk",
       "gps_code": "SYKZ",
       "iata_code": "KKG",
-      "coordinates": "5.2684, -58.995"
+      "coordinates": "5.2684, -58.995",
+      "metar_available": false
     },
     {
       "ident": "SYLD",
@@ -432,7 +466,8 @@
       "iso_region": "GY-UD",
       "municipality": "Linden",
       "gps_code": "SYLD",
-      "coordinates": "5.96592, -58.270302"
+      "coordinates": "5.96592, -58.270302",
+      "metar_available": false
     },
     {
       "ident": "SYLP",
@@ -445,7 +480,8 @@
       "municipality": "Lumid Pau",
       "gps_code": "SYLP",
       "iata_code": "LUB",
-      "coordinates": "2.3939299583399998, -59.4410018921"
+      "coordinates": "2.3939299583399998, -59.4410018921",
+      "metar_available": false
     },
     {
       "ident": "SYLT",
@@ -458,7 +494,8 @@
       "municipality": "Lethem",
       "gps_code": "SYLT",
       "iata_code": "LTM",
-      "coordinates": "3.37276, -59.789398"
+      "coordinates": "3.37276, -59.789398",
+      "metar_available": false
     },
     {
       "ident": "SYMB",
@@ -471,7 +508,8 @@
       "municipality": "Mabaruma",
       "gps_code": "SYMB",
       "iata_code": "USI",
-      "coordinates": "8.20017, -59.777965"
+      "coordinates": "8.20017, -59.777965",
+      "metar_available": false
     },
     {
       "ident": "SYMD",
@@ -484,7 +522,8 @@
       "municipality": "Mahdia",
       "gps_code": "SYMD",
       "iata_code": "MHA",
-      "coordinates": "5.27749, -59.1511"
+      "coordinates": "5.27749, -59.1511",
+      "metar_available": false
     },
     {
       "ident": "SYMK",
@@ -497,7 +536,8 @@
       "municipality": "Maikwak",
       "gps_code": "SYMK",
       "iata_code": "VEG",
-      "coordinates": "4.898172, -59.817027"
+      "coordinates": "4.898172, -59.817027",
+      "metar_available": false
     },
     {
       "ident": "SYMM",
@@ -510,7 +550,8 @@
       "municipality": "Monkey Mountain",
       "gps_code": "SYMM",
       "iata_code": "MYM",
-      "coordinates": "4.45315, -59.599596"
+      "coordinates": "4.45315, -59.599596",
+      "metar_available": false
     },
     {
       "ident": "SYMN",
@@ -522,7 +563,8 @@
       "iso_region": "GY-UT",
       "municipality": "Manari",
       "gps_code": "SYMN",
-      "coordinates": "3.433000087738037, -59.56700134277344"
+      "coordinates": "3.433000087738037, -59.56700134277344",
+      "metar_available": false
     },
     {
       "ident": "SYMP",
@@ -534,7 +576,8 @@
       "iso_region": "GY-UT",
       "municipality": "Mountain Point",
       "gps_code": "SYMP",
-      "coordinates": "2.998971, -59.629261"
+      "coordinates": "2.998971, -59.629261",
+      "metar_available": false
     },
     {
       "ident": "SYMR",
@@ -547,7 +590,8 @@
       "municipality": "Matthews Ridge",
       "gps_code": "SYMR",
       "iata_code": "MWJ",
-      "coordinates": "7.487736, -60.185237"
+      "coordinates": "7.487736, -60.185237",
+      "metar_available": false
     },
     {
       "ident": "SYMW",
@@ -559,7 +603,8 @@
       "iso_region": "GY-UT",
       "municipality": "Marurawana",
       "gps_code": "SYMW",
-      "coordinates": "2.728699, -59.149733"
+      "coordinates": "2.728699, -59.149733",
+      "metar_available": false
     },
     {
       "ident": "SYNA",
@@ -572,7 +617,8 @@
       "municipality": "New Amsterdam",
       "gps_code": "SYNA",
       "iata_code": "QSX",
-      "coordinates": "6.244324, -57.474172"
+      "coordinates": "6.244324, -57.474172",
+      "metar_available": false
     },
     {
       "ident": "SYOR",
@@ -585,7 +631,8 @@
       "municipality": "Orinduik",
       "gps_code": "SYOR",
       "iata_code": "ORJ",
-      "coordinates": "4.72527, -60.035"
+      "coordinates": "4.72527, -60.035",
+      "metar_available": false
     },
     {
       "ident": "SYPK",
@@ -598,7 +645,8 @@
       "municipality": "Port Kaituma",
       "gps_code": "SYPK",
       "iata_code": "PKM",
-      "coordinates": "7.7424, -59.8819"
+      "coordinates": "7.7424, -59.8819",
+      "metar_available": false
     },
     {
       "ident": "SYPL",
@@ -611,7 +659,8 @@
       "municipality": "Pipillipai",
       "gps_code": "SYPL",
       "iata_code": "PIQ",
-      "coordinates": "5.356667, -60.381"
+      "coordinates": "5.356667, -60.381",
+      "metar_available": false
     },
     {
       "ident": "SYPM",
@@ -624,7 +673,8 @@
       "municipality": "Paramakatoi",
       "gps_code": "SYPM",
       "iata_code": "PMT",
-      "coordinates": "4.6975, -59.7125"
+      "coordinates": "4.6975, -59.7125",
+      "metar_available": false
     },
     {
       "ident": "SYPR",
@@ -637,7 +687,8 @@
       "municipality": "Paruima",
       "gps_code": "SYPR",
       "iata_code": "PRR",
-      "coordinates": "5.81724, -61.055489"
+      "coordinates": "5.81724, -61.055489",
+      "metar_available": false
     },
     {
       "ident": "SYSC",
@@ -650,7 +701,8 @@
       "municipality": "Sand Creek",
       "gps_code": "SYSC",
       "iata_code": "SDC",
-      "coordinates": "2.9913, -59.51"
+      "coordinates": "2.9913, -59.51",
+      "metar_available": false
     },
     {
       "ident": "SYSK",
@@ -663,7 +715,8 @@
       "municipality": "Skeldon",
       "gps_code": "SYSK",
       "iata_code": "SKM",
-      "coordinates": "5.8599, -57.14894"
+      "coordinates": "5.8599, -57.14894",
+      "metar_available": false
     },
     {
       "ident": "SYVB",
@@ -674,7 +727,8 @@
       "iso_country": "GY",
       "iso_region": "GY-MA",
       "gps_code": "SYVB",
-      "coordinates": "6.257711, -57.650478"
+      "coordinates": "6.257711, -57.650478",
+      "metar_available": false
     },
     {
       "ident": "SYWI",
@@ -686,7 +740,8 @@
       "iso_region": "GY-UT",
       "municipality": "Wichabai",
       "gps_code": "SYWI",
-      "coordinates": "2.867792, -59.531156"
+      "coordinates": "2.867792, -59.531156",
+      "metar_available": false
     },
     {
       "ident": "SYYS",
@@ -697,7 +752,8 @@
       "iso_country": "GY",
       "iso_region": "GY-BA",
       "gps_code": "SYYS",
-      "coordinates": "7.36883, -59.74667"
+      "coordinates": "7.36883, -59.74667",
+      "metar_available": false
     }
   ]
 }

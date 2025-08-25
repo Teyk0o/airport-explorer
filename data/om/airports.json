@@ -2,7 +2,7 @@
   "country_code": "OM",
   "country_name": "Oman",
   "total_airports": 60,
-  "last_updated": "2025-08-01T00:18:22.494044",
+  "last_updated": "2025-08-25T10:08:40.625198",
   "types_distribution": {
     "small_airport": 29,
     "large_airport": 2,
@@ -21,7 +21,8 @@
       "iso_region": "OM-WU",
       "municipality": "Bahja",
       "iata_code": "BJQ",
-      "coordinates": "19.8730555556, 56.067777777799996"
+      "coordinates": "19.8730555556, 56.067777777799996",
+      "metar_available": false
     },
     {
       "ident": "OM-0001",
@@ -33,7 +34,8 @@
       "iso_region": "OM-MU",
       "municipality": "Dibba al Baya",
       "iata_code": "BYB",
-      "coordinates": "25.614229, 56.2444"
+      "coordinates": "25.614229, 56.2444",
+      "metar_available": false
     },
     {
       "ident": "OM-0002",
@@ -45,7 +47,8 @@
       "iso_region": "OM-DA",
       "municipality": "Adam",
       "iata_code": "AOM",
-      "coordinates": "22.4919444444, 57.3838888889"
+      "coordinates": "22.4919444444, 57.3838888889",
+      "metar_available": false
     },
     {
       "ident": "OM-0003",
@@ -58,7 +61,8 @@
       "municipality": "Duqm",
       "gps_code": "OODQ",
       "iata_code": "DQM",
-      "coordinates": "19.501944, 57.634167"
+      "coordinates": "19.501944, 57.634167",
+      "metar_available": false
     },
     {
       "ident": "OM-0004",
@@ -71,7 +75,8 @@
       "municipality": "Al Masna'ah",
       "gps_code": "OOMN",
       "iata_code": "MNH",
-      "coordinates": "23.640556, 57.4875"
+      "coordinates": "23.640556, 57.4875",
+      "metar_available": false
     },
     {
       "ident": "OM-0005",
@@ -81,7 +86,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MA",
       "municipality": "Muscat",
-      "coordinates": "23.605048, 58.331587"
+      "coordinates": "23.605048, 58.331587",
+      "metar_available": false
     },
     {
       "ident": "OM-0006",
@@ -92,7 +98,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Al Hadd",
-      "coordinates": "22.53449, 59.78791"
+      "coordinates": "22.53449, 59.78791",
+      "metar_available": false
     },
     {
       "ident": "OM-0007",
@@ -103,7 +110,8 @@
       "iso_region": "OM-SH",
       "municipality": "Ras ar Ruays",
       "gps_code": "OORH",
-      "coordinates": "22.25691, 59.74067"
+      "coordinates": "22.25691, 59.74067",
+      "metar_available": false
     },
     {
       "ident": "OM-0008",
@@ -113,7 +121,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Madha",
-      "coordinates": "25.28637, 56.342934"
+      "coordinates": "25.28637, 56.342934",
+      "metar_available": false
     },
     {
       "ident": "OM-0009",
@@ -124,7 +133,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MA",
       "municipality": "Al Jafnayn",
-      "coordinates": "23.50882, 58.24631"
+      "coordinates": "23.50882, 58.24631",
+      "metar_available": false
     },
     {
       "ident": "OM-0010",
@@ -135,7 +145,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Rawdah",
-      "coordinates": "25.86257, 56.28591"
+      "coordinates": "25.86257, 56.28591",
+      "metar_available": false
     },
     {
       "ident": "OM-0011",
@@ -146,7 +157,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Kumzar",
-      "coordinates": "26.36779, 56.3568"
+      "coordinates": "26.36779, 56.3568",
+      "metar_available": false
     },
     {
       "ident": "OM-0012",
@@ -157,7 +169,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Kumzar",
-      "coordinates": "26.3656, 56.35747"
+      "coordinates": "26.3656, 56.35747",
+      "metar_available": false
     },
     {
       "ident": "OM-0013",
@@ -168,7 +181,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Limah",
-      "coordinates": "25.94993, 56.41864"
+      "coordinates": "25.94993, 56.41864",
+      "metar_available": false
     },
     {
       "ident": "OM-0014",
@@ -179,7 +193,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Tibat",
-      "coordinates": "26.054464, 56.087372"
+      "coordinates": "26.054464, 56.087372",
+      "metar_available": false
     },
     {
       "ident": "OM-0015",
@@ -190,7 +205,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Sall Ala",
-      "coordinates": "26.0502, 56.3357"
+      "coordinates": "26.0502, 56.3357",
+      "metar_available": false
     },
     {
       "ident": "OM-0016",
@@ -201,7 +217,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Khasab",
-      "coordinates": "26.12782, 56.25977"
+      "coordinates": "26.12782, 56.25977",
+      "metar_available": false
     },
     {
       "ident": "OM-0017",
@@ -212,7 +229,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Dibba al Baya",
-      "coordinates": "25.64326, 56.24909"
+      "coordinates": "25.64326, 56.24909",
+      "metar_available": false
     },
     {
       "ident": "OM-0018",
@@ -223,7 +241,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Sur",
-      "coordinates": "22.50996, 59.443"
+      "coordinates": "22.50996, 59.443",
+      "metar_available": false
     },
     {
       "ident": "OM-0019",
@@ -234,7 +253,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Masirah",
-      "coordinates": "20.58911, 58.84892"
+      "coordinates": "20.58911, 58.84892",
+      "metar_available": false
     },
     {
       "ident": "OM-0020",
@@ -245,7 +265,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Mursays",
-      "coordinates": "20.49128, 58.79389"
+      "coordinates": "20.49128, 58.79389",
+      "metar_available": false
     },
     {
       "ident": "OM-0021",
@@ -256,7 +277,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Al Ashkharah",
-      "coordinates": "21.78333, 59.50987"
+      "coordinates": "21.78333, 59.50987",
+      "metar_available": false
     },
     {
       "ident": "OM-0022",
@@ -267,7 +289,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Jalan Bani Bu Hassan",
-      "coordinates": "22.08373, 59.2901"
+      "coordinates": "22.08373, 59.2901",
+      "metar_available": false
     },
     {
       "ident": "OM-0023",
@@ -278,7 +301,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZU",
       "municipality": "Mudayy",
-      "coordinates": "17.46854, 53.36056"
+      "coordinates": "17.46854, 53.36056",
+      "metar_available": false
     },
     {
       "ident": "OM-0024",
@@ -289,7 +313,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZU",
       "municipality": "Maqshin",
-      "coordinates": "19.56336, 54.91802"
+      "coordinates": "19.56336, 54.91802",
+      "metar_available": false
     },
     {
       "ident": "OM-0025",
@@ -300,7 +325,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZU",
       "municipality": "Maqshin",
-      "coordinates": "19.53667, 54.8847"
+      "coordinates": "19.53667, 54.8847",
+      "metar_available": false
     },
     {
       "ident": "OM-0026",
@@ -311,7 +337,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZA",
       "municipality": "Yibal",
-      "coordinates": "22.18483, 56.09366"
+      "coordinates": "22.18483, 56.09366",
+      "metar_available": false
     },
     {
       "ident": "OM-0027",
@@ -322,7 +349,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZA",
       "municipality": "Yibal",
-      "coordinates": "22.18087, 55.99709"
+      "coordinates": "22.18087, 55.99709",
+      "metar_available": false
     },
     {
       "ident": "OM-0028",
@@ -333,7 +361,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZA",
       "municipality": "Ibri",
-      "coordinates": "23.19779, 56.43462"
+      "coordinates": "23.19779, 56.43462",
+      "metar_available": false
     },
     {
       "ident": "OM-0029",
@@ -344,7 +373,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZA",
       "municipality": "Ramlet Khelah",
-      "coordinates": "22.23992, 55.55033"
+      "coordinates": "22.23992, 55.55033",
+      "metar_available": false
     },
     {
       "ident": "OM-0030",
@@ -355,7 +385,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZA",
       "municipality": "Safah",
-      "coordinates": "23.16644, 55.52892"
+      "coordinates": "23.16644, 55.52892",
+      "metar_available": false
     },
     {
       "ident": "OM-0031",
@@ -366,7 +397,8 @@
       "iso_country": "OM",
       "iso_region": "OM-DA",
       "municipality": "Shafa",
-      "coordinates": "22.73856, 57.72572"
+      "coordinates": "22.73856, 57.72572",
+      "metar_available": false
     },
     {
       "ident": "OM-0032",
@@ -377,7 +409,8 @@
       "iso_country": "OM",
       "iso_region": "OM-DA",
       "municipality": "Izki",
-      "coordinates": "22.90529, 57.745"
+      "coordinates": "22.90529, 57.745",
+      "metar_available": false
     },
     {
       "ident": "OM-0033",
@@ -388,7 +421,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MA",
       "municipality": "Muscat",
-      "coordinates": "23.61091, 58.51701"
+      "coordinates": "23.61091, 58.51701",
+      "metar_available": false
     },
     {
       "ident": "OM-0034",
@@ -399,7 +433,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Khasab",
-      "coordinates": "26.18199, 56.25193"
+      "coordinates": "26.18199, 56.25193",
+      "metar_available": false
     },
     {
       "ident": "OM-0035",
@@ -410,7 +445,8 @@
       "iso_country": "OM",
       "iso_region": "OM-MU",
       "municipality": "Khasab",
-      "coordinates": "26.18016, 56.25135"
+      "coordinates": "26.18016, 56.25135",
+      "metar_available": false
     },
     {
       "ident": "OM-0036",
@@ -421,7 +457,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZU",
       "municipality": "Sarfayt",
-      "coordinates": "16.7011, 53.09786"
+      "coordinates": "16.7011, 53.09786",
+      "metar_available": false
     },
     {
       "ident": "OM-0037",
@@ -432,7 +469,8 @@
       "iso_country": "OM",
       "iso_region": "OM-DA",
       "municipality": "Firq",
-      "coordinates": "22.869085, 57.543615"
+      "coordinates": "22.869085, 57.543615",
+      "metar_available": false
     },
     {
       "ident": "OM-0038",
@@ -443,7 +481,8 @@
       "iso_country": "OM",
       "iso_region": "OM-SH",
       "municipality": "Sur",
-      "coordinates": "22.537729, 59.479766"
+      "coordinates": "22.537729, 59.479766",
+      "metar_available": false
     },
     {
       "ident": "OO42",
@@ -454,7 +493,8 @@
       "iso_country": "OM",
       "iso_region": "OM-ZU",
       "municipality": "Manston",
-      "coordinates": "16.990400314331055, 53.35879898071289"
+      "coordinates": "16.990400314331055, 53.35879898071289",
+      "metar_available": false
     },
     {
       "ident": "OOBB",
@@ -466,7 +506,8 @@
       "iso_region": "OM-WU",
       "municipality": "Ramlat Bū Tubūl",
       "gps_code": "OOBB",
-      "coordinates": "21.178, 55.463682"
+      "coordinates": "21.178, 55.463682",
+      "metar_available": false
     },
     {
       "ident": "OOBR",
@@ -479,7 +520,8 @@
       "municipality": "Buraimi",
       "gps_code": "OOBR",
       "iata_code": "RMB",
-      "coordinates": "24.241626, 55.783674"
+      "coordinates": "24.241626, 55.783674",
+      "metar_available": false
     },
     {
       "ident": "OOFD",
@@ -492,7 +534,8 @@
       "municipality": "Fahud",
       "gps_code": "OOFD",
       "iata_code": "FAU",
-      "coordinates": "22.354759, 56.484146"
+      "coordinates": "22.354759, 56.484146",
+      "metar_available": false
     },
     {
       "ident": "OOGB",
@@ -505,7 +548,8 @@
       "municipality": "Ghaba",
       "gps_code": "OOGB",
       "iata_code": "RNM",
-      "coordinates": "21.377199, 57.056293"
+      "coordinates": "21.377199, 57.056293",
+      "metar_available": false
     },
     {
       "ident": "OOHA",
@@ -517,7 +561,8 @@
       "iso_region": "OM-WU",
       "municipality": "Haima",
       "gps_code": "OOHA",
-      "coordinates": "19.975608, 56.282444"
+      "coordinates": "19.975608, 56.282444",
+      "metar_available": false
     },
     {
       "ident": "OOIA",
@@ -529,7 +574,8 @@
       "iso_region": "OM-SH",
       "municipality": "Ibra",
       "gps_code": "OOIA",
-      "coordinates": "22.732778, 58.513611"
+      "coordinates": "22.732778, 58.513611",
+      "metar_available": false
     },
     {
       "ident": "OOII",
@@ -541,7 +587,8 @@
       "iso_region": "OM-ZA",
       "municipality": "Ibri",
       "gps_code": "OOII",
-      "coordinates": "23.18626, 56.43333"
+      "coordinates": "23.18626, 56.43333",
+      "metar_available": false
     },
     {
       "ident": "OOIZ",
@@ -553,7 +600,8 @@
       "iso_region": "OM-DA",
       "municipality": "Izki",
       "gps_code": "OOIZ",
-      "coordinates": "22.892627, 57.759094"
+      "coordinates": "22.892627, 57.759094",
+      "metar_available": false
     },
     {
       "ident": "OOJA",
@@ -566,7 +614,8 @@
       "municipality": "Duqm",
       "gps_code": "OOJA",
       "iata_code": "JNJ",
-      "coordinates": "19.4749, 57.3083"
+      "coordinates": "19.4749, 57.3083",
+      "metar_available": false
     },
     {
       "ident": "OOKB",
@@ -579,7 +628,8 @@
       "municipality": "Khasab",
       "gps_code": "OOKB",
       "iata_code": "KHS",
-      "coordinates": "26.171, 56.240601"
+      "coordinates": "26.171, 56.240601",
+      "metar_available": false
     },
     {
       "ident": "OOLK",
@@ -592,7 +642,8 @@
       "municipality": "Lekhwair",
       "gps_code": "OOLK",
       "iata_code": "LKW",
-      "coordinates": "22.804866, 55.372801"
+      "coordinates": "22.804866, 55.372801",
+      "metar_available": false
     },
     {
       "ident": "OOMA",
@@ -605,7 +656,8 @@
       "municipality": "Masirah",
       "gps_code": "OOMA",
       "iata_code": "MSH",
-      "coordinates": "20.6754, 58.890499"
+      "coordinates": "20.6754, 58.890499",
+      "metar_available": false
     },
     {
       "ident": "OOMS",
@@ -618,7 +670,8 @@
       "municipality": "Muscat",
       "gps_code": "OOMS",
       "iata_code": "MCT",
-      "coordinates": "23.5933, 58.284401"
+      "coordinates": "23.5933, 58.284401",
+      "metar_available": false
     },
     {
       "ident": "OOMX",
@@ -631,7 +684,8 @@
       "municipality": "Marmul",
       "gps_code": "OOMX",
       "iata_code": "OMM",
-      "coordinates": "18.138999, 55.179005"
+      "coordinates": "18.138999, 55.179005",
+      "metar_available": false
     },
     {
       "ident": "OOSA",
@@ -644,7 +698,8 @@
       "municipality": "Salalah",
       "gps_code": "OOSA",
       "iata_code": "SLL",
-      "coordinates": "17.038700103759766, 54.09130096435547"
+      "coordinates": "17.038700103759766, 54.09130096435547",
+      "metar_available": false
     },
     {
       "ident": "OOSH",
@@ -657,7 +712,8 @@
       "municipality": "Sohar",
       "gps_code": "OOSH",
       "iata_code": "OHS",
-      "coordinates": "24.38604, 56.62541"
+      "coordinates": "24.38604, 56.62541",
+      "metar_available": false
     },
     {
       "ident": "OOSQ",
@@ -669,7 +725,8 @@
       "iso_region": "OM-DA",
       "municipality": "Saiq",
       "gps_code": "OOSQ",
-      "coordinates": "23.075545, 57.643271"
+      "coordinates": "23.075545, 57.643271",
+      "metar_available": false
     },
     {
       "ident": "OOTH",
@@ -682,7 +739,8 @@
       "municipality": "Thumrait",
       "gps_code": "OOTH",
       "iata_code": "TTH",
-      "coordinates": "17.666, 54.024601"
+      "coordinates": "17.666, 54.024601",
+      "metar_available": false
     },
     {
       "ident": "OOYB",
@@ -693,7 +751,8 @@
       "iso_region": "OM-ZA",
       "municipality": "Yibal",
       "gps_code": "OOYB",
-      "coordinates": "22.2015, 56.034401"
+      "coordinates": "22.2015, 56.034401",
+      "metar_available": false
     },
     {
       "ident": "UKH",
@@ -706,7 +765,8 @@
       "municipality": "Mukhaizna Oil Field",
       "gps_code": "OOMK",
       "iata_code": "UKH",
-      "coordinates": "19.386389, 56.401389"
+      "coordinates": "19.386389, 56.401389",
+      "metar_available": false
     }
   ]
 }

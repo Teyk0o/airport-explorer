@@ -2,7 +2,7 @@
   "country_code": "ST",
   "country_name": "Sao Tome and Principe",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.714814",
+  "last_updated": "2025-08-25T10:08:40.858491",
   "types_distribution": {
     "medium_airport": 1,
     "large_airport": 1,
@@ -21,7 +21,8 @@
       "municipality": "São Tomé & Príncipe",
       "gps_code": "FPPR",
       "iata_code": "PCP",
-      "coordinates": "1.66294, 7.41174"
+      "coordinates": "1.66294, 7.41174",
+      "metar_available": false
     },
     {
       "ident": "FPST",
@@ -34,7 +35,8 @@
       "municipality": "São Tomé",
       "gps_code": "FPST",
       "iata_code": "TMS",
-      "coordinates": "0.378175, 6.71215"
+      "coordinates": "0.378175, 6.71215",
+      "metar_available": false
     },
     {
       "ident": "ST-0001",
@@ -44,7 +46,8 @@
       "iso_country": "ST",
       "iso_region": "ST-P",
       "municipality": "Santo Antonio",
-      "coordinates": "1.63777, 7.417778"
+      "coordinates": "1.63777, 7.417778",
+      "metar_available": false
     },
     {
       "ident": "ST-0002",
@@ -55,7 +58,8 @@
       "iso_country": "ST",
       "iso_region": "ST-03",
       "municipality": "Porto Alegro",
-      "coordinates": "0.038624, 6.515965"
+      "coordinates": "0.038624, 6.515965",
+      "metar_available": false
     }
   ]
 }

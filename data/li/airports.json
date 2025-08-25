@@ -2,7 +2,7 @@
   "country_code": "LI",
   "country_name": "Liechtenstein",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.818415",
+  "last_updated": "2025-08-25T10:08:40.972198",
   "types_distribution": {
     "heliport": 2
   },
@@ -16,7 +16,8 @@
       "iso_country": "LI",
       "iso_region": "LI-11",
       "municipality": "Vaduz",
-      "coordinates": "47.134773, 9.522753"
+      "coordinates": "47.134773, 9.522753",
+      "metar_available": false
     },
     {
       "ident": "LSXB",
@@ -28,7 +29,8 @@
       "iso_region": "LI-01",
       "municipality": "Balzers",
       "gps_code": "LSXB",
-      "coordinates": "47.067908, 9.480774"
+      "coordinates": "47.067908, 9.480774",
+      "metar_available": false
     }
   ]
 }

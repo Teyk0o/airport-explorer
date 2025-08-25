@@ -2,7 +2,7 @@
   "country_code": "BW",
   "country_name": "Botswana",
   "total_airports": 140,
-  "last_updated": "2025-08-01T00:18:22.576796",
+  "last_updated": "2025-08-25T10:08:40.712681",
   "types_distribution": {
     "small_airport": 120,
     "closed": 13,
@@ -19,7 +19,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KG",
       "municipality": "Khuis",
-      "coordinates": "-26.64913, 21.82215"
+      "coordinates": "-26.64913, 21.82215",
+      "metar_available": false
     },
     {
       "ident": "BW-0002",
@@ -31,7 +32,8 @@
       "iso_region": "BW-NW",
       "municipality": "Motopi",
       "gps_code": "FBMO",
-      "coordinates": "-20.185886, 24.175029"
+      "coordinates": "-20.185886, 24.175029",
+      "metar_available": false
     },
     {
       "ident": "BW-0003",
@@ -43,7 +45,8 @@
       "iso_region": "BW-NW",
       "municipality": "Seronga",
       "gps_code": "FBSG",
-      "coordinates": "-18.823303, 22.422619"
+      "coordinates": "-18.823303, 22.422619",
+      "metar_available": false
     },
     {
       "ident": "BW-0004",
@@ -55,7 +58,8 @@
       "iso_region": "BW-NW",
       "municipality": "Linyanti",
       "gps_code": "FBLN",
-      "coordinates": "-18.46082, 23.808989"
+      "coordinates": "-18.46082, 23.808989",
+      "metar_available": false
     },
     {
       "ident": "BW-0005",
@@ -66,7 +70,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CH",
       "municipality": "Serondela",
-      "coordinates": "-17.8386, 25.031484"
+      "coordinates": "-17.8386, 25.031484",
+      "metar_available": false
     },
     {
       "ident": "BW-0006",
@@ -77,7 +82,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Pom Pom Camp",
-      "coordinates": "-19.59728, 22.848081"
+      "coordinates": "-19.59728, 22.848081",
+      "metar_available": false
     },
     {
       "ident": "BW-0007",
@@ -89,7 +95,8 @@
       "iso_region": "BW-NW",
       "municipality": "Santawani Lodge",
       "gps_code": "FBST",
-      "coordinates": "-19.5092, 23.6211"
+      "coordinates": "-19.5092, 23.6211",
+      "metar_available": false
     },
     {
       "ident": "BW-0008",
@@ -101,7 +108,8 @@
       "iso_region": "BW-NW",
       "municipality": "Tsau",
       "gps_code": "FBTU",
-      "coordinates": "-20.157905, 22.449275"
+      "coordinates": "-20.157905, 22.449275",
+      "metar_available": false
     },
     {
       "ident": "BW-0009",
@@ -111,7 +119,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-KG",
-      "coordinates": "-25.2898, 23.4725"
+      "coordinates": "-25.2898, 23.4725",
+      "metar_available": false
     },
     {
       "ident": "BW-0010",
@@ -121,7 +130,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-KG",
-      "coordinates": "-25.337175, 23.514179"
+      "coordinates": "-25.337175, 23.514179",
+      "metar_available": false
     },
     {
       "ident": "BW-0011",
@@ -132,7 +142,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KG",
       "municipality": "Oxford",
-      "coordinates": "-25.0243, 24.215"
+      "coordinates": "-25.0243, 24.215",
+      "metar_available": false
     },
     {
       "ident": "BW-0012",
@@ -143,7 +154,8 @@
       "iso_country": "BW",
       "iso_region": "BW-GH",
       "municipality": "Xade",
-      "coordinates": "-22.331339, 23.003057"
+      "coordinates": "-22.331339, 23.003057",
+      "metar_available": false
     },
     {
       "ident": "BW-0013",
@@ -154,7 +166,8 @@
       "iso_country": "BW",
       "iso_region": "BW-GH",
       "municipality": "Gope",
-      "coordinates": "-22.6079, 24.7897"
+      "coordinates": "-22.6079, 24.7897",
+      "metar_available": false
     },
     {
       "ident": "BW-0014",
@@ -166,7 +179,8 @@
       "iso_region": "BW-CH",
       "municipality": "Chandia",
       "gps_code": "FBCD",
-      "coordinates": "-18.5154, 25.495408"
+      "coordinates": "-18.5154, 25.495408",
+      "metar_available": false
     },
     {
       "ident": "BW-0015",
@@ -176,7 +190,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-GH",
-      "coordinates": "-21.2019, 22.5038"
+      "coordinates": "-21.2019, 22.5038",
+      "metar_available": false
     },
     {
       "ident": "BW-0016",
@@ -187,7 +202,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KW",
       "municipality": "Khutse",
-      "coordinates": "-23.35592, 24.6036"
+      "coordinates": "-23.35592, 24.6036",
+      "metar_available": false
     },
     {
       "ident": "BW-0017",
@@ -197,7 +213,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "coordinates": "-19.041, 23.8339"
+      "coordinates": "-19.041, 23.8339",
+      "metar_available": false
     },
     {
       "ident": "BW-0018",
@@ -208,7 +225,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Ncamasere",
-      "coordinates": "-18.569, 21.9862"
+      "coordinates": "-18.569, 21.9862",
+      "metar_available": false
     },
     {
       "ident": "BW-0019",
@@ -219,7 +237,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Etsha",
-      "coordinates": "-19.113219, 22.261864"
+      "coordinates": "-19.113219, 22.261864",
+      "metar_available": false
     },
     {
       "ident": "BW-0020",
@@ -230,7 +249,8 @@
       "iso_country": "BW",
       "iso_region": "BW-LO",
       "municipality": "Lobatse",
-      "coordinates": "-25.198058, 25.721603"
+      "coordinates": "-25.198058, 25.721603",
+      "metar_available": false
     },
     {
       "ident": "BW-0021",
@@ -241,7 +261,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Arizona Farm",
-      "coordinates": "-22.6036, 28.2897"
+      "coordinates": "-22.6036, 28.2897",
+      "metar_available": false
     },
     {
       "ident": "BW-0022",
@@ -252,7 +273,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KG",
       "municipality": "Big Game",
-      "coordinates": "-26.326, 22.0946"
+      "coordinates": "-26.326, 22.0946",
+      "metar_available": false
     },
     {
       "ident": "BW-0023",
@@ -263,7 +285,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Sunny Side",
-      "coordinates": "-23.0339, 27.7406"
+      "coordinates": "-23.0339, 27.7406",
+      "metar_available": false
     },
     {
       "ident": "BW-0024",
@@ -274,7 +297,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Kwalata Ranch",
-      "coordinates": "-23.062493, 27.904797"
+      "coordinates": "-23.062493, 27.904797",
+      "metar_available": false
     },
     {
       "ident": "BW-0025",
@@ -285,7 +309,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Jwala",
-      "coordinates": "-22.041793, 29.024605"
+      "coordinates": "-22.041793, 29.024605",
+      "metar_available": false
     },
     {
       "ident": "BW-0026",
@@ -296,7 +321,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Kgwedi",
-      "coordinates": "-22.07392, 29.106636"
+      "coordinates": "-22.07392, 29.106636",
+      "metar_available": false
     },
     {
       "ident": "BW-0027",
@@ -305,7 +331,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "coordinates": "-19.314182, 22.94975"
+      "coordinates": "-19.314182, 22.94975",
+      "metar_available": false
     },
     {
       "ident": "BW-0028",
@@ -314,7 +341,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "coordinates": "-19.31107, 22.908799"
+      "coordinates": "-19.31107, 22.908799",
+      "metar_available": false
     },
     {
       "ident": "BW-0029",
@@ -325,7 +353,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "gps_code": "FBMB",
-      "coordinates": "-19.209503, 22.794411"
+      "coordinates": "-19.209503, 22.794411",
+      "metar_available": false
     },
     {
       "ident": "BW-0030",
@@ -336,7 +365,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "gps_code": "FBCT",
-      "coordinates": "-19.467144, 23.378341"
+      "coordinates": "-19.467144, 23.378341",
+      "metar_available": false
     },
     {
       "ident": "BW-0031",
@@ -346,7 +376,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Xakanaxa",
-      "coordinates": "-19.196998, 23.43628"
+      "coordinates": "-19.196998, 23.43628",
+      "metar_available": false
     },
     {
       "ident": "BW-0032",
@@ -356,7 +387,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Xakanaxa",
-      "coordinates": "-19.21495, 23.439105"
+      "coordinates": "-19.21495, 23.439105",
+      "metar_available": false
     },
     {
       "ident": "BW-0033",
@@ -365,7 +397,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "coordinates": "-19.102891, 23.289115"
+      "coordinates": "-19.102891, 23.289115",
+      "metar_available": false
     },
     {
       "ident": "BW-0034",
@@ -374,7 +407,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "coordinates": "-19.110265, 23.162305"
+      "coordinates": "-19.110265, 23.162305",
+      "metar_available": false
     },
     {
       "ident": "BW-0035",
@@ -384,7 +418,8 @@
       "iso_country": "BW",
       "iso_region": "BW-GH",
       "municipality": "New Xade",
-      "coordinates": "-22.114649, 22.408025"
+      "coordinates": "-22.114649, 22.408025",
+      "metar_available": false
     },
     {
       "ident": "BW-0036",
@@ -395,7 +430,8 @@
       "iso_region": "BW-KL",
       "municipality": "Rasesa",
       "gps_code": "FBMA",
-      "coordinates": "-24.357132, 26.090237"
+      "coordinates": "-24.357132, 26.090237",
+      "metar_available": false
     },
     {
       "ident": "BW-0037",
@@ -405,7 +441,8 @@
       "iso_country": "BW",
       "iso_region": "BW-GH",
       "municipality": "Ncojane",
-      "coordinates": "-23.140243, 20.287681"
+      "coordinates": "-23.140243, 20.287681",
+      "metar_available": false
     },
     {
       "ident": "BW-0038",
@@ -415,7 +452,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Macatoo Camp",
-      "coordinates": "-19.658743, 22.955112"
+      "coordinates": "-19.658743, 22.955112",
+      "metar_available": false
     },
     {
       "ident": "BW-0039",
@@ -425,7 +463,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Sanctuary Stanley's Camp",
-      "coordinates": "-19.626272, 23.279398"
+      "coordinates": "-19.626272, 23.279398",
+      "metar_available": false
     },
     {
       "ident": "BW-0040",
@@ -436,7 +475,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Motswiri Camp",
-      "coordinates": "-18.771248, 23.041275"
+      "coordinates": "-18.771248, 23.041275",
+      "metar_available": false
     },
     {
       "ident": "BW-0041",
@@ -446,7 +486,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Kashiambaras",
-      "coordinates": "-18.787656, 22.829697"
+      "coordinates": "-18.787656, 22.829697",
+      "metar_available": false
     },
     {
       "ident": "BW-0042",
@@ -456,7 +497,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Nxabega",
-      "coordinates": "-19.464174, 22.777865"
+      "coordinates": "-19.464174, 22.777865",
+      "metar_available": false
     },
     {
       "ident": "BW-0043",
@@ -466,7 +508,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Masame",
-      "coordinates": "-19.329429, 24.841567"
+      "coordinates": "-19.329429, 24.841567",
+      "metar_available": false
     },
     {
       "ident": "BW-0044",
@@ -476,7 +519,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Nata",
-      "coordinates": "-19.746877, 26.070069"
+      "coordinates": "-19.746877, 26.070069",
+      "metar_available": false
     },
     {
       "ident": "BW-0045",
@@ -486,7 +530,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Xhumaga",
-      "coordinates": "-20.431797, 24.458519"
+      "coordinates": "-20.431797, 24.458519",
+      "metar_available": false
     },
     {
       "ident": "BW-0046",
@@ -497,7 +542,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Kashiambaras",
-      "coordinates": "-18.878912, 22.713563"
+      "coordinates": "-18.878912, 22.713563",
+      "metar_available": false
     },
     {
       "ident": "BW-0047",
@@ -509,7 +555,8 @@
       "iso_region": "BW-GH",
       "municipality": "Kanana Farm",
       "local_code": "FBKN",
-      "coordinates": "-21.627363, 21.390602"
+      "coordinates": "-21.627363, 21.390602",
+      "metar_available": false
     },
     {
       "ident": "BW-0048",
@@ -519,7 +566,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Selinda",
-      "coordinates": "-18.566713, 23.511192"
+      "coordinates": "-18.566713, 23.511192",
+      "metar_available": false
     },
     {
       "ident": "BW-0049",
@@ -529,7 +577,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NE",
       "municipality": "Jackalas 1",
-      "coordinates": "-20.55728, 27.695399"
+      "coordinates": "-20.55728, 27.695399",
+      "metar_available": false
     },
     {
       "ident": "BW-0050",
@@ -539,7 +588,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NE",
       "municipality": "Mapoka",
-      "coordinates": "-20.532004, 27.609445"
+      "coordinates": "-20.532004, 27.609445",
+      "metar_available": false
     },
     {
       "ident": "BW-0051",
@@ -548,7 +598,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-CE",
-      "coordinates": "-21.732301, 24.482993"
+      "coordinates": "-21.732301, 24.482993",
+      "metar_available": false
     },
     {
       "ident": "BW-0052",
@@ -557,7 +608,8 @@
       "continent": "AF",
       "iso_country": "BW",
       "iso_region": "BW-NW",
-      "coordinates": "-19.872439, 24.679162"
+      "coordinates": "-19.872439, 24.679162",
+      "metar_available": false
     },
     {
       "ident": "BW-0053",
@@ -567,7 +619,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Mmashoro",
-      "coordinates": "-21.877487, 26.350055"
+      "coordinates": "-21.877487, 26.350055",
+      "metar_available": false
     },
     {
       "ident": "BW-0054",
@@ -578,7 +631,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Xudum",
-      "coordinates": "-19.679458, 22.86833"
+      "coordinates": "-19.679458, 22.86833",
+      "metar_available": false
     },
     {
       "ident": "BW-0055",
@@ -589,7 +643,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Seba",
-      "coordinates": "-19.405037, 22.548999"
+      "coordinates": "-19.405037, 22.548999",
+      "metar_available": false
     },
     {
       "ident": "BW-0056",
@@ -600,7 +655,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Lethakane",
-      "coordinates": "-21.487819, 25.466652"
+      "coordinates": "-21.487819, 25.466652",
+      "metar_available": false
     },
     {
       "ident": "BW-0057",
@@ -611,7 +667,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Khwai Private Game Reserve",
-      "coordinates": "-19.0925, 23.6481"
+      "coordinates": "-19.0925, 23.6481",
+      "metar_available": false
     },
     {
       "ident": "BW-0058",
@@ -622,7 +679,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Okavango",
-      "coordinates": "-19.58672, 23.47126"
+      "coordinates": "-19.58672, 23.47126",
+      "metar_available": false
     },
     {
       "ident": "BW-0059",
@@ -633,7 +691,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Santawani Lodge",
-      "coordinates": "-19.517889, 23.63512"
+      "coordinates": "-19.517889, 23.63512",
+      "metar_available": false
     },
     {
       "ident": "BW-0060",
@@ -644,7 +703,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Ngarangi",
-      "coordinates": "-18.38705, 22.01159"
+      "coordinates": "-18.38705, 22.01159",
+      "metar_available": false
     },
     {
       "ident": "BW-0061",
@@ -655,7 +715,8 @@
       "iso_country": "BW",
       "iso_region": "BW-GA",
       "municipality": "Gaborone Notwane",
-      "coordinates": "-24.683001, 25.933001"
+      "coordinates": "-24.683001, 25.933001",
+      "metar_available": false
     },
     {
       "ident": "BW-0062",
@@ -666,7 +727,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KW",
       "municipality": "Molepolole",
-      "coordinates": "-24.389444444, 25.498611111"
+      "coordinates": "-24.389444444, 25.498611111",
+      "metar_available": false
     },
     {
       "ident": "BW-0063",
@@ -677,7 +739,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Makalamabedi",
-      "coordinates": "-20.310863, 23.907795"
+      "coordinates": "-20.310863, 23.907795",
+      "metar_available": false
     },
     {
       "ident": "BW-0064",
@@ -688,7 +751,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Rakops",
-      "coordinates": "-21, 24.333"
+      "coordinates": "-21, 24.333",
+      "metar_available": false
     },
     {
       "ident": "BW-0065",
@@ -699,7 +763,8 @@
       "iso_country": "BW",
       "iso_region": "BW-CE",
       "municipality": "Serowe",
-      "coordinates": "-22.4232997894, 26.7567005157"
+      "coordinates": "-22.4232997894, 26.7567005157",
+      "metar_available": false
     },
     {
       "ident": "BW-0066",
@@ -710,7 +775,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KG",
       "municipality": "Tshane",
-      "coordinates": "-24.0170001984, 21.8829994202"
+      "coordinates": "-24.0170001984, 21.8829994202",
+      "metar_available": false
     },
     {
       "ident": "BW-0067",
@@ -721,7 +787,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Lebala Camp",
-      "coordinates": "-18.43366, 23.52996"
+      "coordinates": "-18.43366, 23.52996",
+      "metar_available": false
     },
     {
       "ident": "BW-0068",
@@ -732,7 +799,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Nwanaeanoka",
-      "coordinates": "-18.90247, 22.59433"
+      "coordinates": "-18.90247, 22.59433",
+      "metar_available": false
     },
     {
       "ident": "BW-0069",
@@ -743,7 +811,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Etsha",
-      "coordinates": "-19.09778, 22.36718"
+      "coordinates": "-19.09778, 22.36718",
+      "metar_available": false
     },
     {
       "ident": "BW-0070",
@@ -754,7 +823,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Sapakanes",
-      "coordinates": "-19.86015, 23.5993"
+      "coordinates": "-19.86015, 23.5993",
+      "metar_available": false
     },
     {
       "ident": "BW-0071",
@@ -765,7 +835,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Kiri-Waka",
-      "coordinates": "-19.776683, 23.221215"
+      "coordinates": "-19.776683, 23.221215",
+      "metar_available": false
     },
     {
       "ident": "BW-0072",
@@ -776,7 +847,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "municipality": "Motopi",
-      "coordinates": "-20.18091, 24.16769"
+      "coordinates": "-20.18091, 24.16769",
+      "metar_available": false
     },
     {
       "ident": "BW-HUK",
@@ -789,7 +861,8 @@
       "municipality": "Hukuntsi",
       "gps_code": "FBHK",
       "iata_code": "HUK",
-      "coordinates": "-23.9897, 21.758101"
+      "coordinates": "-23.9897, 21.758101",
+      "metar_available": false
     },
     {
       "ident": "FBAB",
@@ -801,7 +874,8 @@
       "iso_region": "BW-NW",
       "municipality": "Abu's Camp",
       "gps_code": "FBAB",
-      "coordinates": "-19.4159, 22.5526"
+      "coordinates": "-19.4159, 22.5526",
+      "metar_available": false
     },
     {
       "ident": "FBBP",
@@ -813,7 +887,8 @@
       "iso_region": "BW-CH",
       "municipality": "Bottle Pan",
       "gps_code": "FBBP",
-      "coordinates": "-18.7704, 25.2458"
+      "coordinates": "-18.7704, 25.2458",
+      "metar_available": false
     },
     {
       "ident": "FBBS",
@@ -825,7 +900,8 @@
       "iso_region": "BW-KG",
       "municipality": "Bokspits",
       "gps_code": "FBBS",
-      "coordinates": "-26.8881, 20.6921"
+      "coordinates": "-26.8881, 20.6921",
+      "metar_available": false
     },
     {
       "ident": "FBCH",
@@ -837,7 +913,8 @@
       "iso_region": "BW-NW",
       "municipality": "Linyanti",
       "gps_code": "FBCH",
-      "coordinates": "-18.534381, 23.660149"
+      "coordinates": "-18.534381, 23.660149",
+      "metar_available": false
     },
     {
       "ident": "FBCM",
@@ -849,7 +926,8 @@
       "iso_region": "BW-NW",
       "municipality": "Cement",
       "gps_code": "FBCM",
-      "coordinates": "-19.541, 22.591"
+      "coordinates": "-19.541, 22.591",
+      "metar_available": false
     },
     {
       "ident": "FBCO",
@@ -861,7 +939,8 @@
       "iso_region": "BW-NW",
       "municipality": "Camp Okavango",
       "gps_code": "FBCO",
-      "coordinates": "-19.131115, 23.102505"
+      "coordinates": "-19.131115, 23.102505",
+      "metar_available": false
     },
     {
       "ident": "FBDT",
@@ -873,7 +952,8 @@
       "iso_region": "BW-NW",
       "municipality": "Delta Camp",
       "gps_code": "FBDT",
-      "coordinates": "-19.533698, 23.093792"
+      "coordinates": "-19.533698, 23.093792",
+      "metar_available": false
     },
     {
       "ident": "FBDV",
@@ -885,7 +965,8 @@
       "iso_region": "BW-NW",
       "municipality": "Deception Valley Lodge",
       "gps_code": "FBDV",
-      "coordinates": "-20.9866, 23.6576"
+      "coordinates": "-20.9866, 23.6576",
+      "metar_available": false
     },
     {
       "ident": "FBFT",
@@ -898,7 +979,8 @@
       "municipality": "Francistown",
       "gps_code": "FBPM",
       "iata_code": "FRW",
-      "coordinates": "-21.15914, 27.468545"
+      "coordinates": "-21.15914, 27.468545",
+      "metar_available": false
     },
     {
       "ident": "FBGD",
@@ -910,7 +992,8 @@
       "iso_region": "BW-NW",
       "municipality": "Gundingwa",
       "gps_code": "FBGD",
-      "coordinates": "-18.61649, 22.915932"
+      "coordinates": "-18.61649, 22.915932",
+      "metar_available": false
     },
     {
       "ident": "FBGH",
@@ -922,7 +1005,8 @@
       "iso_region": "BW-SO",
       "municipality": "Goodhope",
       "gps_code": "FBGH",
-      "coordinates": "-25.4329, 25.4092"
+      "coordinates": "-25.4329, 25.4092",
+      "metar_available": false
     },
     {
       "ident": "FBGM",
@@ -934,7 +1018,8 @@
       "iso_region": "BW-NW",
       "municipality": "Gumare",
       "gps_code": "FBGM",
-      "coordinates": "-19.338, 22.1544"
+      "coordinates": "-19.338, 22.1544",
+      "metar_available": false
     },
     {
       "ident": "FBGP",
@@ -946,7 +1031,8 @@
       "iso_region": "BW-GH",
       "municipality": "Gope",
       "gps_code": "FBGP",
-      "coordinates": "-22.6523, 24.7536"
+      "coordinates": "-22.6523, 24.7536",
+      "metar_available": false
     },
     {
       "ident": "FBGS",
@@ -958,7 +1044,8 @@
       "iso_region": "BW-GH",
       "municipality": "Grassland Lodge",
       "gps_code": "FBGS",
-      "coordinates": "-21.7255, 22.362657"
+      "coordinates": "-21.7255, 22.362657",
+      "metar_available": false
     },
     {
       "ident": "FBGU",
@@ -970,7 +1057,8 @@
       "iso_region": "BW-NW",
       "municipality": "Guma",
       "gps_code": "FBGU",
-      "coordinates": "-18.953997, 22.367073"
+      "coordinates": "-18.953997, 22.367073",
+      "metar_available": false
     },
     {
       "ident": "FBGW",
@@ -982,7 +1070,8 @@
       "iso_region": "BW-CE",
       "municipality": "Gweta",
       "gps_code": "FBGW",
-      "coordinates": "-20.1987, 25.2187"
+      "coordinates": "-20.1987, 25.2187",
+      "metar_available": false
     },
     {
       "ident": "FBGY",
@@ -994,7 +1083,8 @@
       "iso_region": "BW-NE",
       "municipality": "Grundy's Lodge",
       "gps_code": "FBGY",
-      "coordinates": "-21.40437, 27.694864"
+      "coordinates": "-21.40437, 27.694864",
+      "metar_available": false
     },
     {
       "ident": "FBGZ",
@@ -1007,7 +1097,8 @@
       "municipality": "Ghanzi",
       "gps_code": "FBGZ",
       "iata_code": "GNZ",
-      "coordinates": "-21.692499, 21.6581"
+      "coordinates": "-21.692499, 21.6581",
+      "metar_available": false
     },
     {
       "ident": "FBHU",
@@ -1019,7 +1110,8 @@
       "iso_region": "BW-NW",
       "municipality": "Tubu Tree Camp",
       "gps_code": "FBHU",
-      "coordinates": "-19.2765, 22.475646"
+      "coordinates": "-19.2765, 22.475646",
+      "metar_available": false
     },
     {
       "ident": "FBHV",
@@ -1031,7 +1123,8 @@
       "iso_region": "BW-NW",
       "municipality": "Hainaveld",
       "gps_code": "FBHV",
-      "coordinates": "-20.9524, 23.669184"
+      "coordinates": "-20.9524, 23.669184",
+      "metar_available": false
     },
     {
       "ident": "FBJA",
@@ -1043,7 +1136,8 @@
       "iso_region": "BW-NW",
       "municipality": "Jao Camp",
       "gps_code": "FBJA",
-      "coordinates": "-19.3163, 22.5951"
+      "coordinates": "-19.3163, 22.5951",
+      "metar_available": false
     },
     {
       "ident": "FBJC",
@@ -1055,7 +1149,8 @@
       "iso_region": "BW-CE",
       "municipality": "Jack's Camp",
       "gps_code": "FBJC",
-      "coordinates": "-20.4563, 25.1507"
+      "coordinates": "-20.4563, 25.1507",
+      "metar_available": false
     },
     {
       "ident": "FBJW",
@@ -1068,7 +1163,8 @@
       "municipality": "Jwaneng",
       "gps_code": "FBJW",
       "iata_code": "JWA",
-      "coordinates": "-24.602301, 24.691"
+      "coordinates": "-24.602301, 24.691",
+      "metar_available": false
     },
     {
       "ident": "FBKA",
@@ -1080,7 +1176,8 @@
       "iso_region": "BW-KG",
       "municipality": "Kaa",
       "gps_code": "FBKA",
-      "coordinates": "-24.330635, 20.635671"
+      "coordinates": "-24.330635, 20.635671",
+      "metar_available": false
     },
     {
       "ident": "FBKD",
@@ -1092,7 +1189,8 @@
       "iso_region": "BW-NW",
       "municipality": "Lagoon Camp",
       "gps_code": "FBKD",
-      "coordinates": "-18.209087, 23.387197"
+      "coordinates": "-18.209087, 23.387197",
+      "metar_available": false
     },
     {
       "ident": "FBKE",
@@ -1105,7 +1203,8 @@
       "municipality": "Kasane",
       "gps_code": "FBKE",
       "iata_code": "BBK",
-      "coordinates": "-17.832899, 25.162399"
+      "coordinates": "-17.832899, 25.162399",
+      "metar_available": false
     },
     {
       "ident": "FBKG",
@@ -1117,7 +1216,8 @@
       "iso_region": "BW-KG",
       "municipality": "Kang",
       "gps_code": "FBKG",
-      "coordinates": "-23.677969, 22.817767"
+      "coordinates": "-23.677969, 22.817767",
+      "metar_available": false
     },
     {
       "ident": "FBKI",
@@ -1129,7 +1229,8 @@
       "iso_region": "BW-NW",
       "municipality": "Kiri Camp",
       "gps_code": "FBKI",
-      "coordinates": "-19.61594, 23.04234"
+      "coordinates": "-19.61594, 23.04234",
+      "metar_available": false
     },
     {
       "ident": "FBKK",
@@ -1141,7 +1242,8 @@
       "iso_region": "BW-NW",
       "municipality": "Kanana Camp",
       "gps_code": "FBKK",
-      "coordinates": "-19.5688, 22.875575"
+      "coordinates": "-19.5688, 22.875575",
+      "metar_available": false
     },
     {
       "ident": "FBKP",
@@ -1153,7 +1255,8 @@
       "iso_region": "BW-NW",
       "municipality": "Kings Pool",
       "gps_code": "FBKP",
-      "coordinates": "-18.441959, 23.688716"
+      "coordinates": "-18.441959, 23.688716",
+      "metar_available": false
     },
     {
       "ident": "FBKR",
@@ -1166,7 +1269,8 @@
       "municipality": "Khwai River Lodge",
       "gps_code": "FBKR",
       "iata_code": "KHW",
-      "coordinates": "-19.149477, 23.787937"
+      "coordinates": "-19.149477, 23.787937",
+      "metar_available": false
     },
     {
       "ident": "FBKW",
@@ -1178,7 +1282,8 @@
       "iso_region": "BW-NW",
       "municipality": "Lebala Camp",
       "gps_code": "FBKW",
-      "coordinates": "-18.36099, 23.53049"
+      "coordinates": "-18.36099, 23.53049",
+      "metar_available": false
     },
     {
       "ident": "FBKY",
@@ -1190,7 +1295,8 @@
       "iso_region": "BW-SO",
       "municipality": "Kanye",
       "gps_code": "FBKY",
-      "coordinates": "-25.049999, 25.3167"
+      "coordinates": "-25.049999, 25.3167",
+      "metar_available": false
     },
     {
       "ident": "FBLL",
@@ -1202,7 +1308,8 @@
       "iso_region": "BW-CE",
       "municipality": "Limpopo-Lipadi",
       "gps_code": "FBLL",
-      "coordinates": "-22.55153, 28.492105"
+      "coordinates": "-22.55153, 28.492105",
+      "metar_available": false
     },
     {
       "ident": "FBLO",
@@ -1215,7 +1322,8 @@
       "municipality": "Lobatse",
       "gps_code": "FBLO",
       "iata_code": "LOQ",
-      "coordinates": "-25.1981, 25.7139"
+      "coordinates": "-25.1981, 25.7139",
+      "metar_available": false
     },
     {
       "ident": "FBMG",
@@ -1227,7 +1335,8 @@
       "iso_region": "BW-CE",
       "municipality": "Machaneng",
       "gps_code": "FBMG",
-      "coordinates": "-23.18455, 27.501029"
+      "coordinates": "-23.18455, 27.501029",
+      "metar_available": false
     },
     {
       "ident": "FBMN",
@@ -1240,7 +1349,8 @@
       "municipality": "Maun",
       "gps_code": "FBMN",
       "iata_code": "MUB",
-      "coordinates": "-19.970491, 23.431409"
+      "coordinates": "-19.970491, 23.431409",
+      "metar_available": false
     },
     {
       "ident": "FBMU",
@@ -1252,7 +1362,8 @@
       "iso_region": "BW-GH",
       "municipality": "Mamuno",
       "gps_code": "FBMU",
-      "coordinates": "-22.268095, 20.031092"
+      "coordinates": "-22.268095, 20.031092",
+      "metar_available": false
     },
     {
       "ident": "FBNB",
@@ -1264,7 +1375,8 @@
       "iso_region": "BW-NW",
       "municipality": "Nxabega",
       "gps_code": "FBNB",
-      "coordinates": "-19.4902, 22.789192"
+      "coordinates": "-19.4902, 22.789192",
+      "metar_available": false
     },
     {
       "ident": "FBNN",
@@ -1276,7 +1388,8 @@
       "iso_region": "BW-NW",
       "municipality": "Nokaneng",
       "gps_code": "FBNN",
-      "coordinates": "-19.6802, 22.1996"
+      "coordinates": "-19.6802, 22.1996",
+      "metar_available": false
     },
     {
       "ident": "FBNT",
@@ -1288,7 +1401,8 @@
       "iso_region": "BW-CE",
       "municipality": "Nata",
       "gps_code": "FBNT",
-      "coordinates": "-20.216100692749023, 26.158899307250977"
+      "coordinates": "-20.216100692749023, 26.158899307250977",
+      "metar_available": false
     },
     {
       "ident": "FBNW",
@@ -1300,7 +1414,8 @@
       "iso_region": "BW-NW",
       "municipality": "Moremi Crossing",
       "gps_code": "FBNW",
-      "coordinates": "-19.52899, 23.139408"
+      "coordinates": "-19.52899, 23.139408",
+      "metar_available": false
     },
     {
       "ident": "FBNX",
@@ -1312,7 +1427,8 @@
       "iso_region": "BW-NW",
       "municipality": "Nxamaseri Lodge",
       "gps_code": "FBNX",
-      "coordinates": "-18.5992, 22.0696"
+      "coordinates": "-18.5992, 22.0696",
+      "metar_available": false
     },
     {
       "ident": "FBOD",
@@ -1324,7 +1440,8 @@
       "iso_region": "BW-GH",
       "municipality": "Oakdene",
       "gps_code": "FBOD",
-      "coordinates": "-21.4578, 21.8057"
+      "coordinates": "-21.4578, 21.8057",
+      "metar_available": false
     },
     {
       "ident": "FBOK",
@@ -1336,7 +1453,8 @@
       "iso_region": "BW-GH",
       "municipality": "Okwa",
       "gps_code": "FBOK",
-      "coordinates": "-23.083, 21.882999"
+      "coordinates": "-23.083, 21.882999",
+      "metar_available": false
     },
     {
       "ident": "FBOM",
@@ -1348,7 +1466,8 @@
       "iso_region": "BW-NW",
       "municipality": "Duba Plains Camp",
       "gps_code": "FBOM",
-      "coordinates": "-19.0175, 22.703"
+      "coordinates": "-19.0175, 22.703",
+      "metar_available": false
     },
     {
       "ident": "FBOR",
@@ -1361,7 +1480,8 @@
       "municipality": "Orapa",
       "gps_code": "FBOR",
       "iata_code": "ORP",
-      "coordinates": "-21.265901, 25.319667"
+      "coordinates": "-21.265901, 25.319667",
+      "metar_available": false
     },
     {
       "ident": "FBPA",
@@ -1373,7 +1493,8 @@
       "iso_region": "BW-CH",
       "municipality": "Pandamatenga",
       "gps_code": "FBPA",
-      "coordinates": "-18.5312, 25.6516"
+      "coordinates": "-18.5312, 25.6516",
+      "metar_available": false
     },
     {
       "ident": "FBPY",
@@ -1386,7 +1507,8 @@
       "municipality": "Palapye",
       "gps_code": "FBPY",
       "iata_code": "QPH",
-      "coordinates": "-22.564087, 27.136745"
+      "coordinates": "-22.564087, 27.136745",
+      "metar_available": false
     },
     {
       "ident": "FBSI",
@@ -1398,7 +1520,8 @@
       "iso_region": "BW-CH",
       "municipality": "Saile",
       "gps_code": "FBSI",
-      "coordinates": "-18.1357, 24.067"
+      "coordinates": "-18.1357, 24.067",
+      "metar_available": false
     },
     {
       "ident": "FBSK",
@@ -1411,7 +1534,8 @@
       "municipality": "Gaborone",
       "gps_code": "FBSK",
       "iata_code": "GBE",
-      "coordinates": "-24.555201, 25.9182"
+      "coordinates": "-24.555201, 25.9182",
+      "metar_available": false
     },
     {
       "ident": "FBSL",
@@ -1423,7 +1547,8 @@
       "iso_region": "BW-NW",
       "municipality": "Selinda",
       "gps_code": "FBSL",
-      "coordinates": "-18.579181, 23.483757"
+      "coordinates": "-18.579181, 23.483757",
+      "metar_available": false
     },
     {
       "ident": "FBSN",
@@ -1436,7 +1561,8 @@
       "municipality": "Sowa",
       "gps_code": "FBSN",
       "iata_code": "SXN",
-      "coordinates": "-20.5534, 26.115801"
+      "coordinates": "-20.5534, 26.115801",
+      "metar_available": false
     },
     {
       "ident": "FBSP",
@@ -1449,7 +1575,8 @@
       "municipality": "Selebi Phikwe",
       "gps_code": "FBSP",
       "iata_code": "PKW",
-      "coordinates": "-22.0583, 27.8288"
+      "coordinates": "-22.0583, 27.8288",
+      "metar_available": false
     },
     {
       "ident": "FBSV",
@@ -1462,7 +1589,8 @@
       "municipality": "Savuti",
       "gps_code": "FBSV",
       "iata_code": "SVT",
-      "coordinates": "-18.518475, 24.077687"
+      "coordinates": "-18.518475, 24.077687",
+      "metar_available": false
     },
     {
       "ident": "FBSW",
@@ -1475,7 +1603,8 @@
       "municipality": "Shakawe",
       "gps_code": "FBSW",
       "iata_code": "SWX",
-      "coordinates": "-18.373899459838867, 21.832599639892578"
+      "coordinates": "-18.373899459838867, 21.832599639892578",
+      "metar_available": false
     },
     {
       "ident": "FBTH",
@@ -1487,7 +1616,8 @@
       "iso_region": "BW-NW",
       "municipality": "Tsodilo",
       "gps_code": "FBTH",
-      "coordinates": "-18.7804, 21.7416"
+      "coordinates": "-18.7804, 21.7416",
+      "metar_available": false
     },
     {
       "ident": "FBTL",
@@ -1500,7 +1630,8 @@
       "municipality": "Tuli Lodge",
       "gps_code": "FBTL",
       "iata_code": "TLD",
-      "coordinates": "-22.191897, 29.131229"
+      "coordinates": "-22.191897, 29.131229",
+      "metar_available": false
     },
     {
       "ident": "FBTN",
@@ -1512,7 +1643,8 @@
       "iso_region": "BW-CE",
       "municipality": "Tonunga",
       "gps_code": "FBTN",
-      "coordinates": "-19.5085, 25.0781"
+      "coordinates": "-19.5085, 25.0781",
+      "metar_available": false
     },
     {
       "ident": "FBTP",
@@ -1523,7 +1655,8 @@
       "iso_country": "BW",
       "iso_region": "BW-KW",
       "gps_code": "FBTP",
-      "coordinates": "-24.2211, 25.3473"
+      "coordinates": "-24.2211, 25.3473",
+      "metar_available": false
     },
     {
       "ident": "FBTS",
@@ -1536,7 +1669,8 @@
       "municipality": "Tshabong",
       "gps_code": "FBTS",
       "iata_code": "TBY",
-      "coordinates": "-26.034524, 22.401252"
+      "coordinates": "-26.034524, 22.401252",
+      "metar_available": false
     },
     {
       "ident": "FBVM",
@@ -1548,7 +1682,8 @@
       "iso_region": "BW-NW",
       "municipality": "Vumbura",
       "gps_code": "FBVM",
-      "coordinates": "-18.955395, 22.814533"
+      "coordinates": "-18.955395, 22.814533",
+      "metar_available": false
     },
     {
       "ident": "FBXA",
@@ -1560,7 +1695,8 @@
       "iso_region": "BW-NW",
       "municipality": "Xaxa",
       "gps_code": "FBXA",
-      "coordinates": "-19.877718, 21.075295"
+      "coordinates": "-19.877718, 21.075295",
+      "metar_available": false
     },
     {
       "ident": "FBXB",
@@ -1572,7 +1708,8 @@
       "iso_region": "BW-NW",
       "municipality": "Xaxaba",
       "gps_code": "FBXB",
-      "coordinates": "-19.550501, 23.0548"
+      "coordinates": "-19.550501, 23.0548",
+      "metar_available": false
     },
     {
       "ident": "FBXG",
@@ -1582,7 +1719,8 @@
       "iso_country": "BW",
       "iso_region": "BW-NW",
       "gps_code": "FBXG",
-      "coordinates": "-19.049999, 23.09"
+      "coordinates": "-19.049999, 23.09",
+      "metar_available": false
     },
     {
       "ident": "FBXI",
@@ -1594,7 +1732,8 @@
       "iso_region": "BW-NW",
       "municipality": "Xigera",
       "gps_code": "FBXI",
-      "coordinates": "-19.385485, 22.737648"
+      "coordinates": "-19.385485, 22.737648",
+      "metar_available": false
     },
     {
       "ident": "FBXR",
@@ -1606,7 +1745,8 @@
       "iso_region": "BW-NW",
       "municipality": "Xorogom",
       "gps_code": "FBXR",
-      "coordinates": "-18.7068, 23.0937"
+      "coordinates": "-18.7068, 23.0937",
+      "metar_available": false
     }
   ]
 }

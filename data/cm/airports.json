@@ -2,7 +2,7 @@
   "country_code": "CM",
   "country_name": "Cameroon",
   "total_airports": 40,
-  "last_updated": "2025-08-01T00:18:22.631481",
+  "last_updated": "2025-08-25T10:08:40.768982",
   "types_distribution": {
     "small_airport": 27,
     "heliport": 1,
@@ -18,7 +18,8 @@
       "iso_country": "CM",
       "iso_region": "CM-SW",
       "municipality": "Campo",
-      "coordinates": "2.341137, 9.847089"
+      "coordinates": "2.341137, 9.847089",
+      "metar_available": false
     },
     {
       "ident": "CM-0002",
@@ -28,7 +29,8 @@
       "iso_country": "CM",
       "iso_region": "CM-NO",
       "municipality": "Touboro",
-      "coordinates": "7.765747, 15.317976"
+      "coordinates": "7.765747, 15.317976",
+      "metar_available": false
     },
     {
       "ident": "CM-0003",
@@ -38,7 +40,8 @@
       "iso_country": "CM",
       "iso_region": "CM-SU",
       "municipality": "Djoum",
-      "coordinates": "2.666859, 12.666755"
+      "coordinates": "2.666859, 12.666755",
+      "metar_available": false
     },
     {
       "ident": "CM-0004",
@@ -48,7 +51,8 @@
       "iso_country": "CM",
       "iso_region": "CM-SU",
       "municipality": "Sangmélima",
-      "coordinates": "2.946602, 12.002311"
+      "coordinates": "2.946602, 12.002311",
+      "metar_available": false
     },
     {
       "ident": "CM-0005",
@@ -58,7 +62,8 @@
       "iso_country": "CM",
       "iso_region": "CM-ES",
       "municipality": "Lokomo",
-      "coordinates": "2.683971, 15.460837"
+      "coordinates": "2.683971, 15.460837",
+      "metar_available": false
     },
     {
       "ident": "CM-0006",
@@ -68,7 +73,8 @@
       "iso_country": "CM",
       "iso_region": "CM-ES",
       "municipality": "Masea",
-      "coordinates": "3.118743, 14.970657"
+      "coordinates": "3.118743, 14.970657",
+      "metar_available": false
     },
     {
       "ident": "CM-0007",
@@ -78,7 +84,8 @@
       "iso_country": "CM",
       "iso_region": "CM-ES",
       "municipality": "Ngola",
-      "coordinates": "3.494501, 15.332236"
+      "coordinates": "3.494501, 15.332236",
+      "metar_available": false
     },
     {
       "ident": "CM-0008",
@@ -88,7 +95,8 @@
       "iso_country": "CM",
       "iso_region": "CM-ES",
       "municipality": "Gribi",
-      "coordinates": "3.787821, 14.984021"
+      "coordinates": "3.787821, 14.984021",
+      "metar_available": false
     },
     {
       "ident": "CM-0009",
@@ -98,7 +106,8 @@
       "iso_country": "CM",
       "iso_region": "CM-ES",
       "municipality": "Mindourou",
-      "coordinates": "4.122123, 14.541415"
+      "coordinates": "4.122123, 14.541415",
+      "metar_available": false
     },
     {
       "ident": "CM-0010",
@@ -108,7 +117,8 @@
       "iso_country": "CM",
       "iso_region": "CM-SW",
       "municipality": "Limbé",
-      "coordinates": "3.96893, 9.22321"
+      "coordinates": "3.96893, 9.22321",
+      "metar_available": false
     },
     {
       "ident": "CM-0011",
@@ -118,7 +128,8 @@
       "iso_country": "CM",
       "iso_region": "CM-SW",
       "municipality": "Ekondo-Titi",
-      "coordinates": "4.597263, 9.067273"
+      "coordinates": "4.597263, 9.067273",
+      "metar_available": false
     },
     {
       "ident": "CM-0012",
@@ -129,7 +140,8 @@
       "iso_country": "CM",
       "iso_region": "CM-LT",
       "municipality": "Malinkam",
-      "coordinates": "4.61748, 9.6242"
+      "coordinates": "4.61748, 9.6242",
+      "metar_available": false
     },
     {
       "ident": "CM-0013",
@@ -140,7 +152,8 @@
       "iso_country": "CM",
       "iso_region": "CM-SW",
       "municipality": "Limbé",
-      "coordinates": "4.01583, 9.19999"
+      "coordinates": "4.01583, 9.19999",
+      "metar_available": false
     },
     {
       "ident": "CM-0014",
@@ -151,7 +164,8 @@
       "iso_country": "CM",
       "iso_region": "CM-LT",
       "municipality": "Nkongsamba",
-      "coordinates": "4.95, 9.933"
+      "coordinates": "4.95, 9.933",
+      "metar_available": false
     },
     {
       "ident": "FKAB",
@@ -163,7 +177,8 @@
       "iso_region": "CM-AD",
       "municipality": "Banyo",
       "gps_code": "FKAB",
-      "coordinates": "6.77499, 11.807"
+      "coordinates": "6.77499, 11.807",
+      "metar_available": false
     },
     {
       "ident": "FKAF",
@@ -175,7 +190,8 @@
       "iso_region": "CM-CE",
       "municipality": "Bafia",
       "gps_code": "FKAF",
-      "coordinates": "4.767000198364258, 11.217000007629395"
+      "coordinates": "4.767000198364258, 11.217000007629395",
+      "metar_available": false
     },
     {
       "ident": "FKAG",
@@ -187,7 +203,8 @@
       "iso_region": "CM-ES",
       "municipality": "Abong M'bang",
       "gps_code": "FKAG",
-      "coordinates": "3.9670000076293945, 13.199999809265137"
+      "coordinates": "3.9670000076293945, 13.199999809265137",
+      "metar_available": false
     },
     {
       "ident": "FKAO",
@@ -199,7 +216,8 @@
       "iso_region": "CM-ES",
       "municipality": "Bétaré Oya",
       "gps_code": "FKAO",
-      "coordinates": "5.504169940948486, 14.098299980163574"
+      "coordinates": "5.504169940948486, 14.098299980163574",
+      "metar_available": false
     },
     {
       "ident": "FKBJ",
@@ -211,7 +229,8 @@
       "iso_region": "CM-CE",
       "municipality": "M'Bandjock",
       "gps_code": "FKBJ",
-      "coordinates": "4.435338, 11.925884"
+      "coordinates": "4.435338, 11.925884",
+      "metar_available": false
     },
     {
       "ident": "FKKB",
@@ -224,7 +243,8 @@
       "municipality": "Kribi",
       "gps_code": "FKKB",
       "iata_code": "KBI",
-      "coordinates": "2.8738899231, 9.9777803421"
+      "coordinates": "2.8738899231, 9.9777803421",
+      "metar_available": false
     },
     {
       "ident": "FKKC",
@@ -237,7 +257,8 @@
       "municipality": "Tiko",
       "gps_code": "FKKC",
       "iata_code": "TKC",
-      "coordinates": "4.08919000626, 9.360529899600001"
+      "coordinates": "4.08919000626, 9.360529899600001",
+      "metar_available": false
     },
     {
       "ident": "FKKD",
@@ -250,7 +271,8 @@
       "municipality": "Douala",
       "gps_code": "FKKD",
       "iata_code": "DLA",
-      "coordinates": "4.0060801506, 9.719479560849999"
+      "coordinates": "4.0060801506, 9.719479560849999",
+      "metar_available": false
     },
     {
       "ident": "FKKE",
@@ -262,7 +284,8 @@
       "iso_region": "CM-CE",
       "municipality": "Eseka",
       "gps_code": "FKKE",
-      "coordinates": "3.642129, 10.79093"
+      "coordinates": "3.642129, 10.79093",
+      "metar_available": false
     },
     {
       "ident": "FKKF",
@@ -275,7 +298,8 @@
       "municipality": "Mamfe",
       "gps_code": "FKKF",
       "iata_code": "MMF",
-      "coordinates": "5.70417, 9.30639"
+      "coordinates": "5.70417, 9.30639",
+      "metar_available": false
     },
     {
       "ident": "FKKG",
@@ -288,7 +312,8 @@
       "municipality": "Bali",
       "gps_code": "FKKG",
       "iata_code": "BLC",
-      "coordinates": "5.89527777778, 10.0338888889"
+      "coordinates": "5.89527777778, 10.0338888889",
+      "metar_available": false
     },
     {
       "ident": "FKKH",
@@ -301,7 +326,8 @@
       "municipality": "Kaélé",
       "gps_code": "FKKH",
       "iata_code": "KLE",
-      "coordinates": "10.0925, 14.4456"
+      "coordinates": "10.0925, 14.4456",
+      "metar_available": false
     },
     {
       "ident": "FKKI",
@@ -314,7 +340,8 @@
       "municipality": "Batouri",
       "gps_code": "FKKI",
       "iata_code": "OUR",
-      "coordinates": "4.475, 14.3625"
+      "coordinates": "4.475, 14.3625",
+      "metar_available": false
     },
     {
       "ident": "FKKJ",
@@ -326,7 +353,8 @@
       "municipality": "Yagoua",
       "gps_code": "FKKJ",
       "iata_code": "GXX",
-      "coordinates": "10.3561, 15.2372"
+      "coordinates": "10.3561, 15.2372",
+      "metar_available": false
     },
     {
       "ident": "FKKL",
@@ -339,7 +367,8 @@
       "municipality": "Maroua",
       "gps_code": "FKKL",
       "iata_code": "MVR",
-      "coordinates": "10.451399803161621, 14.257399559020996"
+      "coordinates": "10.451399803161621, 14.257399559020996",
+      "metar_available": false
     },
     {
       "ident": "FKKM",
@@ -352,7 +381,8 @@
       "municipality": "Foumban",
       "gps_code": "FKKM",
       "iata_code": "FOM",
-      "coordinates": "5.63692, 10.7508"
+      "coordinates": "5.63692, 10.7508",
+      "metar_available": false
     },
     {
       "ident": "FKKN",
@@ -365,7 +395,8 @@
       "municipality": "N'Gaoundéré",
       "gps_code": "FKKN",
       "iata_code": "NGE",
-      "coordinates": "7.3570098876953125, 13.559200286865234"
+      "coordinates": "7.3570098876953125, 13.559200286865234",
+      "metar_available": false
     },
     {
       "ident": "FKKO",
@@ -378,7 +409,8 @@
       "municipality": "Bertoua",
       "gps_code": "FKKO",
       "iata_code": "BTA",
-      "coordinates": "4.54861, 13.7261"
+      "coordinates": "4.54861, 13.7261",
+      "metar_available": false
     },
     {
       "ident": "FKKR",
@@ -391,7 +423,8 @@
       "municipality": "Garoua",
       "gps_code": "FKKR",
       "iata_code": "GOU",
-      "coordinates": "9.33588981628418, 13.370100021362305"
+      "coordinates": "9.33588981628418, 13.370100021362305",
+      "metar_available": false
     },
     {
       "ident": "FKKS",
@@ -404,7 +437,8 @@
       "municipality": "Dschang",
       "gps_code": "FKKS",
       "iata_code": "DSC",
-      "coordinates": "5.45, 10.067"
+      "coordinates": "5.45, 10.067",
+      "metar_available": false
     },
     {
       "ident": "FKKT",
@@ -416,7 +450,8 @@
       "iso_region": "CM-AD",
       "municipality": "Tibati",
       "gps_code": "FKKT",
-      "coordinates": "6.482999801635742, 12.633000373840332"
+      "coordinates": "6.482999801635742, 12.633000373840332",
+      "metar_available": false
     },
     {
       "ident": "FKKU",
@@ -429,7 +464,8 @@
       "municipality": "Bafoussam",
       "gps_code": "FKKU",
       "iata_code": "BFX",
-      "coordinates": "5.536920070650001, 10.354599952700001"
+      "coordinates": "5.536920070650001, 10.354599952700001",
+      "metar_available": false
     },
     {
       "ident": "FKKV",
@@ -442,7 +478,8 @@
       "municipality": "Bamenda",
       "gps_code": "FKKV",
       "iata_code": "BPC",
-      "coordinates": "6.03924, 10.1226"
+      "coordinates": "6.03924, 10.1226",
+      "metar_available": false
     },
     {
       "ident": "FKKW",
@@ -455,7 +492,8 @@
       "municipality": "Ebolowa",
       "gps_code": "FKKW",
       "iata_code": "EBW",
-      "coordinates": "2.875999927520752, 11.1850004196167"
+      "coordinates": "2.875999927520752, 11.1850004196167",
+      "metar_available": false
     },
     {
       "ident": "FKKY",
@@ -468,7 +506,8 @@
       "municipality": "Yaoundé",
       "gps_code": "FKKY",
       "iata_code": "YAO",
-      "coordinates": "3.83604, 11.5235"
+      "coordinates": "3.83604, 11.5235",
+      "metar_available": false
     },
     {
       "ident": "FKYS",
@@ -481,7 +520,8 @@
       "municipality": "Yaoundé",
       "gps_code": "FKYS",
       "iata_code": "NSI",
-      "coordinates": "3.72256, 11.5533"
+      "coordinates": "3.72256, 11.5533",
+      "metar_available": false
     }
   ]
 }

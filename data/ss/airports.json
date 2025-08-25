@@ -2,7 +2,7 @@
   "country_code": "SS",
   "country_name": "South Sudan",
   "total_airports": 93,
-  "last_updated": "2025-08-01T00:18:22.388280",
+  "last_updated": "2025-08-25T10:08:40.509703",
   "types_distribution": {
     "small_airport": 85,
     "large_airport": 1,
@@ -22,7 +22,8 @@
       "municipality": "Adar",
       "gps_code": "HJAR",
       "iata_code": "AEE",
-      "coordinates": "10.053611, 32.959444"
+      "coordinates": "10.053611, 32.959444",
+      "metar_available": false
     },
     {
       "ident": "HJJJ",
@@ -35,7 +36,8 @@
       "municipality": "Juba",
       "gps_code": "HJJJ",
       "iata_code": "JUB",
-      "coordinates": "4.87201, 31.601101"
+      "coordinates": "4.87201, 31.601101",
+      "metar_available": false
     },
     {
       "ident": "HJKJ",
@@ -47,7 +49,8 @@
       "iso_region": "SS-WR",
       "municipality": "Kaujok",
       "gps_code": "HJKJ",
-      "coordinates": "8.279625, 27.955828"
+      "coordinates": "8.279625, 27.955828",
+      "metar_available": false
     },
     {
       "ident": "HJKR",
@@ -59,7 +62,8 @@
       "iso_region": "SS-EE",
       "municipality": "Kuron",
       "gps_code": "HJKR",
-      "coordinates": "5.714049, 34.52724"
+      "coordinates": "5.714049, 34.52724",
+      "metar_available": false
     },
     {
       "ident": "HSAK",
@@ -71,7 +75,8 @@
       "iso_region": "SS-JG",
       "municipality": "Akobo",
       "gps_code": "HJAK",
-      "coordinates": "7.7779, 33.0027"
+      "coordinates": "7.7779, 33.0027",
+      "metar_available": false
     },
     {
       "ident": "HSAW",
@@ -83,7 +88,8 @@
       "iso_region": "SS-BN",
       "municipality": "Aweil",
       "gps_code": "HJAW",
-      "coordinates": "8.791383, 27.360151"
+      "coordinates": "8.791383, 27.360151",
+      "metar_available": false
     },
     {
       "ident": "HSBR",
@@ -95,7 +101,8 @@
       "iso_region": "SS-JG",
       "municipality": "Bor",
       "gps_code": "HJBR",
-      "coordinates": "6.191942, 31.600408"
+      "coordinates": "6.191942, 31.600408",
+      "metar_available": false
     },
     {
       "ident": "HSBT",
@@ -107,7 +114,8 @@
       "iso_region": "SS-UY",
       "municipality": "Rubkona",
       "gps_code": "HJBT",
-      "coordinates": "9.308488, 29.787316"
+      "coordinates": "9.308488, 29.787316",
+      "metar_available": false
     },
     {
       "ident": "HSFA",
@@ -119,7 +127,8 @@
       "iso_region": "SS-NU",
       "municipality": "Higleig",
       "gps_code": "HJPH",
-      "coordinates": "10.529167, 32.500556"
+      "coordinates": "10.529167, 32.500556",
+      "metar_available": false
     },
     {
       "ident": "HSKJ",
@@ -131,7 +140,8 @@
       "iso_region": "SS-EC",
       "municipality": "Kajo Keji",
       "gps_code": "HJKK",
-      "coordinates": "3.85754, 31.65652"
+      "coordinates": "3.85754, 31.65652",
+      "metar_available": false
     },
     {
       "ident": "HSKP",
@@ -143,7 +153,8 @@
       "iso_region": "SS-EE",
       "municipality": "Kapoeta",
       "gps_code": "HJKP",
-      "coordinates": "4.780812, 33.586278"
+      "coordinates": "4.780812, 33.586278",
+      "metar_available": false
     },
     {
       "ident": "HSMD",
@@ -155,7 +166,8 @@
       "iso_region": "SS-EW",
       "municipality": "Marida",
       "gps_code": "HJMD",
-      "coordinates": "4.902851, 29.443263"
+      "coordinates": "4.902851, 29.443263",
+      "metar_available": false
     },
     {
       "ident": "HSMK",
@@ -168,7 +180,8 @@
       "municipality": "Rumbek",
       "gps_code": "HJRB",
       "iata_code": "RBX",
-      "coordinates": "6.831074, 29.669073"
+      "coordinates": "6.831074, 29.669073",
+      "metar_available": false
     },
     {
       "ident": "HSNM",
@@ -180,7 +193,8 @@
       "iso_region": "SS-EE",
       "municipality": "Nimule",
       "gps_code": "HJNM",
-      "coordinates": "3.597659, 32.090278"
+      "coordinates": "3.597659, 32.090278",
+      "metar_available": false
     },
     {
       "ident": "HSPA",
@@ -192,7 +206,8 @@
       "iso_region": "SS-PIB",
       "municipality": "Pochalla",
       "gps_code": "HJPO",
-      "coordinates": "7.178563, 34.097359"
+      "coordinates": "7.178563, 34.097359",
+      "metar_available": false
     },
     {
       "ident": "HSPI",
@@ -204,7 +219,8 @@
       "iso_region": "SS-PIB",
       "municipality": "Pibor",
       "gps_code": "HJPB",
-      "coordinates": "6.798561, 33.125904"
+      "coordinates": "6.798561, 33.125904",
+      "metar_available": false
     },
     {
       "ident": "HSRJ",
@@ -216,7 +232,8 @@
       "iso_region": "SS-BW",
       "municipality": "Raga",
       "gps_code": "HSRJ",
-      "coordinates": "8.461110115050001, 25.681100845299998"
+      "coordinates": "8.461110115050001, 25.681100845299998",
+      "metar_available": false
     },
     {
       "ident": "HSRN",
@@ -228,7 +245,8 @@
       "iso_region": "SS-NU",
       "municipality": "Renk",
       "gps_code": "HSRN",
-      "coordinates": "11.644773, 32.81045"
+      "coordinates": "11.644773, 32.81045",
+      "metar_available": false
     },
     {
       "ident": "HSSM",
@@ -241,7 +259,8 @@
       "municipality": "Malakal",
       "gps_code": "HJMK",
       "iata_code": "MAK",
-      "coordinates": "9.55897, 31.652201"
+      "coordinates": "9.55897, 31.652201",
+      "metar_available": false
     },
     {
       "ident": "HSTO",
@@ -253,7 +272,8 @@
       "iso_region": "SS-WR",
       "municipality": "Tong",
       "gps_code": "HSTO",
-      "coordinates": "7.267000198364258, 28.982999801635742"
+      "coordinates": "7.267000198364258, 28.982999801635742",
+      "metar_available": false
     },
     {
       "ident": "HSTR",
@@ -265,7 +285,8 @@
       "iso_region": "SS-EE",
       "municipality": "Torit",
       "gps_code": "HJTR",
-      "coordinates": "4.416769, 32.575707"
+      "coordinates": "4.416769, 32.575707",
+      "metar_available": false
     },
     {
       "ident": "HSTU",
@@ -277,7 +298,8 @@
       "iso_region": "SS-EW",
       "municipality": "Tumbura",
       "gps_code": "HJTB",
-      "coordinates": "5.602137, 27.473212"
+      "coordinates": "5.602137, 27.473212",
+      "metar_available": false
     },
     {
       "ident": "HSWW",
@@ -290,7 +312,8 @@
       "municipality": "Wau",
       "gps_code": "HJWW",
       "iata_code": "WUU",
-      "coordinates": "7.72583, 27.975"
+      "coordinates": "7.72583, 27.975",
+      "metar_available": false
     },
     {
       "ident": "HSYA",
@@ -302,7 +325,8 @@
       "iso_region": "SS-EW",
       "municipality": "Yambio",
       "gps_code": "HJYB",
-      "coordinates": "4.567066, 28.424106"
+      "coordinates": "4.567066, 28.424106",
+      "metar_available": false
     },
     {
       "ident": "HSYE",
@@ -314,7 +338,8 @@
       "iso_region": "SS-EC",
       "municipality": "Yei",
       "gps_code": "HJYE",
-      "coordinates": "4.128965, 30.731817"
+      "coordinates": "4.128965, 30.731817",
+      "metar_available": false
     },
     {
       "ident": "HSYL",
@@ -326,7 +351,8 @@
       "iso_region": "SS-LK",
       "municipality": "Yirol",
       "gps_code": "HJYL",
-      "coordinates": "6.561571, 30.509892"
+      "coordinates": "6.561571, 30.509892",
+      "metar_available": false
     },
     {
       "ident": "SS-0001",
@@ -338,7 +364,8 @@
       "iso_region": "SS-JG",
       "municipality": "Poktap",
       "gps_code": "HJAJ",
-      "coordinates": "7.457793, 31.41499"
+      "coordinates": "7.457793, 31.41499",
+      "metar_available": false
     },
     {
       "ident": "SS-0002",
@@ -350,7 +377,8 @@
       "iso_region": "SS-JG",
       "municipality": "Duk Payuel",
       "gps_code": "HJDP",
-      "coordinates": "7.47704, 31.51449"
+      "coordinates": "7.47704, 31.51449",
+      "metar_available": false
     },
     {
       "ident": "SS-0003",
@@ -362,7 +390,8 @@
       "iso_region": "SS-JG",
       "municipality": "Mareng",
       "gps_code": "HJDK",
-      "coordinates": "7.598693, 31.45062"
+      "coordinates": "7.598693, 31.45062",
+      "metar_available": false
     },
     {
       "ident": "SS-0004",
@@ -374,7 +403,8 @@
       "iso_region": "SS-JG",
       "municipality": "Pajut",
       "gps_code": "HJPJ",
-      "coordinates": "7.746592, 31.690504"
+      "coordinates": "7.746592, 31.690504",
+      "metar_available": false
     },
     {
       "ident": "SS-0005",
@@ -386,7 +416,8 @@
       "iso_region": "SS-JG",
       "municipality": "Duk Padiet",
       "gps_code": "HJDF",
-      "coordinates": "7.740431, 31.399612"
+      "coordinates": "7.740431, 31.399612",
+      "metar_available": false
     },
     {
       "ident": "SS-0006",
@@ -398,7 +429,8 @@
       "iso_region": "SS-NU",
       "municipality": "Waat",
       "gps_code": "HJWT",
-      "coordinates": "8.189647, 32.152873"
+      "coordinates": "8.189647, 32.152873",
+      "metar_available": false
     },
     {
       "ident": "SS-0007",
@@ -409,7 +441,8 @@
       "iso_country": "SS",
       "iso_region": "SS-NU",
       "gps_code": "HJPR",
-      "coordinates": "8.04048, 32.028816"
+      "coordinates": "8.04048, 32.028816",
+      "metar_available": false
     },
     {
       "ident": "SS-0008",
@@ -421,7 +454,8 @@
       "iso_region": "SS-NU",
       "municipality": "Yuai",
       "gps_code": "HJYU",
-      "coordinates": "7.904872, 31.888386"
+      "coordinates": "7.904872, 31.888386",
+      "metar_available": false
     },
     {
       "ident": "SS-0009",
@@ -430,7 +464,8 @@
       "continent": "AF",
       "iso_country": "SS",
       "iso_region": "SS-NU",
-      "coordinates": "7.98800762753, 31.9675540924"
+      "coordinates": "7.98800762753, 31.9675540924",
+      "metar_available": false
     },
     {
       "ident": "SS-0010",
@@ -441,7 +476,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "gps_code": "HJMG",
-      "coordinates": "8.413961, 31.33333"
+      "coordinates": "8.413961, 31.33333",
+      "metar_available": false
     },
     {
       "ident": "SS-0011",
@@ -452,7 +488,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "gps_code": "HJAY",
-      "coordinates": "8.137948, 31.406178"
+      "coordinates": "8.137948, 31.406178",
+      "metar_available": false
     },
     {
       "ident": "SS-0012",
@@ -461,7 +498,8 @@
       "continent": "AF",
       "iso_country": "SS",
       "iso_region": "SS-JG",
-      "coordinates": "8.01095641186, 31.428108215299996"
+      "coordinates": "8.01095641186, 31.428108215299996",
+      "metar_available": false
     },
     {
       "ident": "SS-0013",
@@ -470,7 +508,8 @@
       "continent": "AF",
       "iso_country": "SS",
       "iso_region": "SS-JG",
-      "coordinates": "8.06976738146, 31.8386363983"
+      "coordinates": "8.06976738146, 31.8386363983",
+      "metar_available": false
     },
     {
       "ident": "SS-0014",
@@ -482,7 +521,8 @@
       "iso_region": "SS-NU",
       "municipality": "Pulturuk",
       "gps_code": "HJPU",
-      "coordinates": "8.595353, 31.949819"
+      "coordinates": "8.595353, 31.949819",
+      "metar_available": false
     },
     {
       "ident": "SS-0015",
@@ -494,7 +534,8 @@
       "iso_region": "SS-NU",
       "municipality": "Lankien",
       "gps_code": "HJLK",
-      "coordinates": "8.529374, 32.063835"
+      "coordinates": "8.529374, 32.063835",
+      "metar_available": false
     },
     {
       "ident": "SS-0016",
@@ -503,7 +544,8 @@
       "continent": "AF",
       "iso_country": "SS",
       "iso_region": "SS-JG",
-      "coordinates": "7.32998059644, 31.422260999699997"
+      "coordinates": "7.32998059644, 31.422260999699997",
+      "metar_available": false
     },
     {
       "ident": "SS-0017",
@@ -515,7 +557,8 @@
       "iso_region": "SS-EE",
       "municipality": "Kibbish",
       "gps_code": "HJLW",
-      "coordinates": "5.288, 35.8328"
+      "coordinates": "5.288, 35.8328",
+      "metar_available": false
     },
     {
       "ident": "SS-0018",
@@ -526,7 +569,8 @@
       "iso_country": "SS",
       "iso_region": "SS-EE",
       "municipality": "Kokuro",
-      "coordinates": "4.6753, 35.7116"
+      "coordinates": "4.6753, 35.7116",
+      "metar_available": false
     },
     {
       "ident": "SS-0019",
@@ -538,7 +582,8 @@
       "iso_region": "SS-EW",
       "municipality": "Mundri West",
       "gps_code": "HJMI",
-      "coordinates": "5.359401, 30.346927"
+      "coordinates": "5.359401, 30.346927",
+      "metar_available": false
     },
     {
       "ident": "SS-0020",
@@ -550,7 +595,8 @@
       "iso_region": "SS-EW",
       "municipality": "Ibba",
       "gps_code": "HJBB",
-      "coordinates": "4.791895, 29.157161"
+      "coordinates": "4.791895, 29.157161",
+      "metar_available": false
     },
     {
       "ident": "SS-0021",
@@ -562,7 +608,8 @@
       "iso_region": "SS-EW",
       "municipality": "Nzara",
       "gps_code": "HJNZ",
-      "coordinates": "4.635486, 28.26757"
+      "coordinates": "4.635486, 28.26757",
+      "metar_available": false
     },
     {
       "ident": "SS-0022",
@@ -574,7 +621,8 @@
       "iso_region": "SS-EW",
       "municipality": "Mvolo",
       "gps_code": "HJMV",
-      "coordinates": "6.06388, 29.956666"
+      "coordinates": "6.06388, 29.956666",
+      "metar_available": false
     },
     {
       "ident": "SS-0023",
@@ -585,7 +633,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Doregh",
-      "coordinates": "9.04242, 30.70938"
+      "coordinates": "9.04242, 30.70938",
+      "metar_available": false
     },
     {
       "ident": "SS-0024",
@@ -597,7 +646,8 @@
       "iso_region": "SS-JG",
       "municipality": "Keew",
       "local_code": "HSDD",
-      "coordinates": "9.26371, 30.63692"
+      "coordinates": "9.26371, 30.63692",
+      "metar_available": false
     },
     {
       "ident": "SS-0025",
@@ -608,7 +658,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Tuai Bur",
-      "coordinates": "9.39234, 30.66912"
+      "coordinates": "9.39234, 30.66912",
+      "metar_available": false
     },
     {
       "ident": "SS-0026",
@@ -618,7 +669,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Ganyiel",
-      "coordinates": "7.3989, 30.4721"
+      "coordinates": "7.3989, 30.4721",
+      "metar_available": false
     },
     {
       "ident": "SS-0027",
@@ -628,7 +680,8 @@
       "iso_country": "SS",
       "iso_region": "SS-EC",
       "municipality": "Luri",
-      "coordinates": "4.85299, 31.39548"
+      "coordinates": "4.85299, 31.39548",
+      "metar_available": false
     },
     {
       "ident": "SS-0028",
@@ -638,7 +691,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Pulmok",
-      "coordinates": "7.3367, 30.41285"
+      "coordinates": "7.3367, 30.41285",
+      "metar_available": false
     },
     {
       "ident": "SS-0029",
@@ -648,7 +702,8 @@
       "iso_country": "SS",
       "iso_region": "SS-NU",
       "municipality": "Melut",
-      "coordinates": "10.3342, 32.26825"
+      "coordinates": "10.3342, 32.26825",
+      "metar_available": false
     },
     {
       "ident": "SS-0030",
@@ -658,7 +713,8 @@
       "iso_country": "SS",
       "iso_region": "SS-NU",
       "municipality": "Athidwey",
-      "coordinates": "10.26976, 32.22511"
+      "coordinates": "10.26976, 32.22511",
+      "metar_available": false
     },
     {
       "ident": "SS-0031",
@@ -668,7 +724,8 @@
       "iso_country": "SS",
       "iso_region": "SS-NU",
       "municipality": "Payuer",
-      "coordinates": "10.07147, 32.28504"
+      "coordinates": "10.07147, 32.28504",
+      "metar_available": false
     },
     {
       "ident": "SS-0032",
@@ -678,7 +735,8 @@
       "iso_country": "SS",
       "iso_region": "SS-NU",
       "municipality": "Kodok",
-      "coordinates": "9.89608, 32.12014"
+      "coordinates": "9.89608, 32.12014",
+      "metar_available": false
     },
     {
       "ident": "SS-0033",
@@ -688,7 +746,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Tondiak",
-      "coordinates": "9.39786, 31.15106"
+      "coordinates": "9.39786, 31.15106",
+      "metar_available": false
     },
     {
       "ident": "SS-0034",
@@ -698,7 +757,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Duar",
-      "coordinates": "8.78311, 30.13077"
+      "coordinates": "8.78311, 30.13077",
+      "metar_available": false
     },
     {
       "ident": "SS-0035",
@@ -708,7 +768,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Dwil Keil",
-      "coordinates": "8.84604, 29.9147"
+      "coordinates": "8.84604, 29.9147",
+      "metar_available": false
     },
     {
       "ident": "SS-0036",
@@ -718,7 +779,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Koch",
-      "coordinates": "8.60289, 29.98998"
+      "coordinates": "8.60289, 29.98998",
+      "metar_available": false
     },
     {
       "ident": "SS-0037",
@@ -728,7 +790,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Dhomor",
-      "coordinates": "8.46238, 30.13021"
+      "coordinates": "8.46238, 30.13021",
+      "metar_available": false
     },
     {
       "ident": "SS-0038",
@@ -738,7 +801,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Padeah",
-      "coordinates": "8.4094, 30.18628"
+      "coordinates": "8.4094, 30.18628",
+      "metar_available": false
     },
     {
       "ident": "SS-0039",
@@ -748,7 +812,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Thar Cheng",
-      "coordinates": "8.22396, 30.22138"
+      "coordinates": "8.22396, 30.22138",
+      "metar_available": false
     },
     {
       "ident": "SS-0040",
@@ -758,7 +823,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Nyal",
-      "coordinates": "7.72751, 30.24454"
+      "coordinates": "7.72751, 30.24454",
+      "metar_available": false
     },
     {
       "ident": "SS-0041",
@@ -769,7 +835,8 @@
       "iso_region": "SS-JG",
       "municipality": "Mabior",
       "gps_code": "HJPG",
-      "coordinates": "7.163788, 31.409011"
+      "coordinates": "7.163788, 31.409011",
+      "metar_available": false
     },
     {
       "ident": "SS-0042",
@@ -780,7 +847,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Leer",
-      "coordinates": "8.3081, 30.11517"
+      "coordinates": "8.3081, 30.11517",
+      "metar_available": false
     },
     {
       "ident": "SS-0043",
@@ -791,7 +859,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Dablual",
-      "coordinates": "8.31798, 30.01107"
+      "coordinates": "8.31798, 30.01107",
+      "metar_available": false
     },
     {
       "ident": "SS-0044",
@@ -801,7 +870,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Paguir",
-      "coordinates": "9.11176, 30.76653"
+      "coordinates": "9.11176, 30.76653",
+      "metar_available": false
     },
     {
       "ident": "SS-0045",
@@ -811,7 +881,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Kuernyang",
-      "coordinates": "9.32284, 30.88816"
+      "coordinates": "9.32284, 30.88816",
+      "metar_available": false
     },
     {
       "ident": "SS-0046",
@@ -821,7 +892,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Manajang",
-      "coordinates": "9.32928, 30.71316"
+      "coordinates": "9.32928, 30.71316",
+      "metar_available": false
     },
     {
       "ident": "SS-0047",
@@ -831,7 +903,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Thokchak",
-      "coordinates": "9.17726, 30.74859"
+      "coordinates": "9.17726, 30.74859",
+      "metar_available": false
     },
     {
       "ident": "SS-0048",
@@ -841,7 +914,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Nimni",
-      "coordinates": "9.31332, 30.01904"
+      "coordinates": "9.31332, 30.01904",
+      "metar_available": false
     },
     {
       "ident": "SS-0049",
@@ -851,7 +925,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Thepkeni",
-      "coordinates": "9.47649, 29.66566"
+      "coordinates": "9.47649, 29.66566",
+      "metar_available": false
     },
     {
       "ident": "SS-0050",
@@ -861,7 +936,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Riangther",
-      "coordinates": "9.70275, 30.15421"
+      "coordinates": "9.70275, 30.15421",
+      "metar_available": false
     },
     {
       "ident": "SS-0051",
@@ -871,7 +947,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Adok",
-      "coordinates": "8.20699, 30.29131"
+      "coordinates": "8.20699, 30.29131",
+      "metar_available": false
     },
     {
       "ident": "SS-0052",
@@ -881,7 +958,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Pakuor",
-      "coordinates": "7.12922, 31.36519"
+      "coordinates": "7.12922, 31.36519",
+      "metar_available": false
     },
     {
       "ident": "SS-0053",
@@ -891,7 +969,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Kongor",
-      "coordinates": "7.14152, 31.34867"
+      "coordinates": "7.14152, 31.34867",
+      "metar_available": false
     },
     {
       "ident": "SS-0054",
@@ -901,7 +980,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Makwar",
-      "coordinates": "7.09195, 31.36751"
+      "coordinates": "7.09195, 31.36751",
+      "metar_available": false
     },
     {
       "ident": "SS-0055",
@@ -911,7 +991,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Paliau",
-      "coordinates": "6.96466, 31.36796"
+      "coordinates": "6.96466, 31.36796",
+      "metar_available": false
     },
     {
       "ident": "SS-0056",
@@ -921,7 +1002,8 @@
       "iso_country": "SS",
       "iso_region": "SS-JG",
       "municipality": "Kolmarek",
-      "coordinates": "6.6268, 31.51511"
+      "coordinates": "6.6268, 31.51511",
+      "metar_available": false
     },
     {
       "ident": "SS-0057",
@@ -932,7 +1014,8 @@
       "iso_country": "SS",
       "iso_region": "SS-LK",
       "municipality": "Padak",
-      "coordinates": "6.4241, 31.55676"
+      "coordinates": "6.4241, 31.55676",
+      "metar_available": false
     },
     {
       "ident": "SS-0058",
@@ -943,7 +1026,8 @@
       "iso_country": "SS",
       "iso_region": "SS-UY",
       "municipality": "Mankien",
-      "coordinates": "9.04958, 29.0835"
+      "coordinates": "9.04958, 29.0835",
+      "metar_available": false
     },
     {
       "ident": "SS-0059",
@@ -954,7 +1038,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Aweng",
-      "coordinates": "9.10337, 28.56128"
+      "coordinates": "9.10337, 28.56128",
+      "metar_available": false
     },
     {
       "ident": "SS-0060",
@@ -965,7 +1050,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Turalei",
-      "coordinates": "9.06958, 28.41241"
+      "coordinates": "9.06958, 28.41241",
+      "metar_available": false
     },
     {
       "ident": "SS-0061",
@@ -976,7 +1062,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Turalei",
-      "coordinates": "9.08177, 28.4359"
+      "coordinates": "9.08177, 28.4359",
+      "metar_available": false
     },
     {
       "ident": "SS-0062",
@@ -987,7 +1074,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Wunrock",
-      "coordinates": "8.97826, 28.29813"
+      "coordinates": "8.97826, 28.29813",
+      "metar_available": false
     },
     {
       "ident": "SS-0063",
@@ -998,7 +1086,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Kwoit",
-      "coordinates": "8.84716, 28.2321"
+      "coordinates": "8.84716, 28.2321",
+      "metar_available": false
     },
     {
       "ident": "SS-0064",
@@ -1009,7 +1098,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Alek",
-      "coordinates": "8.6662, 28.15377"
+      "coordinates": "8.6662, 28.15377",
+      "metar_available": false
     },
     {
       "ident": "SS-0065",
@@ -1019,7 +1109,8 @@
       "iso_country": "SS",
       "iso_region": "SS-WR",
       "municipality": "Gogrial",
-      "coordinates": "8.53776, 28.09541"
+      "coordinates": "8.53776, 28.09541",
+      "metar_available": false
     },
     {
       "ident": "SS-0066",
@@ -1030,7 +1121,8 @@
       "iso_country": "SS",
       "iso_region": "SS-RUW",
       "municipality": "Abiemnom",
-      "coordinates": "9.41258, 28.83009"
+      "coordinates": "9.41258, 28.83009",
+      "metar_available": false
     },
     {
       "ident": "SS-0067",
@@ -1040,7 +1132,8 @@
       "iso_country": "SS",
       "iso_region": "SS-EE",
       "municipality": "Natinga",
-      "coordinates": "4.30506, 34.07833"
+      "coordinates": "4.30506, 34.07833",
+      "metar_available": false
     }
   ]
 }

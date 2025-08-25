@@ -2,7 +2,7 @@
   "country_code": "FM",
   "country_name": "Micronesia",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.712426",
+  "last_updated": "2025-08-25T10:08:40.855993",
   "types_distribution": {
     "small_airport": 3,
     "medium_airport": 4
@@ -16,7 +16,8 @@
       "iso_country": "FM",
       "iso_region": "FM-YAP",
       "municipality": "Woleai Atoll",
-      "coordinates": "7.376259803771973, 143.9080047607422"
+      "coordinates": "7.376259803771973, 143.9080047607422",
+      "metar_available": false
     },
     {
       "ident": "FM-0002",
@@ -26,7 +27,8 @@
       "iso_country": "FM",
       "iso_region": "FM-TRK",
       "municipality": "Houk Island",
-      "coordinates": "6.675669, 149.299543"
+      "coordinates": "6.675669, 149.299543",
+      "metar_available": false
     },
     {
       "ident": "FM-ULI",
@@ -39,7 +41,8 @@
       "municipality": "Falalop Island",
       "iata_code": "ULI",
       "local_code": "TT02",
-      "coordinates": "10.0198, 139.789993"
+      "coordinates": "10.0198, 139.789993",
+      "metar_available": false
     },
     {
       "ident": "PTKK",
@@ -53,7 +56,8 @@
       "gps_code": "PTKK",
       "iata_code": "TKK",
       "local_code": "TKK",
-      "coordinates": "7.461870193481445, 151.84300231933594"
+      "coordinates": "7.461870193481445, 151.84300231933594",
+      "metar_available": false
     },
     {
       "ident": "PTPN",
@@ -67,7 +71,8 @@
       "gps_code": "PTPN",
       "iata_code": "PNI",
       "local_code": "PNI",
-      "coordinates": "6.985099792480469, 158.20899963378906"
+      "coordinates": "6.985099792480469, 158.20899963378906",
+      "metar_available": false
     },
     {
       "ident": "PTSA",
@@ -81,7 +86,8 @@
       "gps_code": "PTSA",
       "iata_code": "KSA",
       "local_code": "TTK",
-      "coordinates": "5.35698, 162.957993"
+      "coordinates": "5.35698, 162.957993",
+      "metar_available": false
     },
     {
       "ident": "PTYA",
@@ -95,7 +101,8 @@
       "gps_code": "PTYA",
       "iata_code": "YAP",
       "local_code": "T11",
-      "coordinates": "9.49891, 138.082993"
+      "coordinates": "9.49891, 138.082993",
+      "metar_available": false
     }
   ]
 }

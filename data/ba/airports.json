@@ -2,7 +2,7 @@
   "country_code": "BA",
   "country_name": "Bosnia and Herzegovina",
   "total_airports": 26,
-  "last_updated": "2025-08-01T00:18:22.449963",
+  "last_updated": "2025-08-25T10:08:40.577524",
   "types_distribution": {
     "small_airport": 16,
     "closed": 3,
@@ -21,7 +21,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Bašigovci",
       "gps_code": "LQCG",
-      "coordinates": "44.436094, 18.686457"
+      "coordinates": "44.436094, 18.686457",
+      "metar_available": false
     },
     {
       "ident": "BA-0002",
@@ -32,7 +33,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Zalužani",
       "gps_code": "LQBZ",
-      "coordinates": "44.8482, 17.222826"
+      "coordinates": "44.8482, 17.222826",
+      "metar_available": false
     },
     {
       "ident": "BA-0003",
@@ -43,7 +45,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "municipality": "Brod",
-      "coordinates": "44.846235, 18.761888"
+      "coordinates": "44.846235, 18.761888",
+      "metar_available": false
     },
     {
       "ident": "BA-0004",
@@ -54,7 +57,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "municipality": "Grab",
-      "coordinates": "42.62613, 18.41181"
+      "coordinates": "42.62613, 18.41181",
+      "metar_available": false
     },
     {
       "ident": "BA-0005",
@@ -64,7 +68,8 @@
       "iso_country": "BA",
       "iso_region": "BA-BIH",
       "municipality": "Sarajevo",
-      "coordinates": "43.86972, 18.30428"
+      "coordinates": "43.86972, 18.30428",
+      "metar_available": false
     },
     {
       "ident": "BA-0006",
@@ -75,7 +80,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Kreševo",
       "gps_code": "LQKR",
-      "coordinates": "43.885661, 18.068562"
+      "coordinates": "43.885661, 18.068562",
+      "metar_available": false
     },
     {
       "ident": "BA-0007",
@@ -86,7 +92,8 @@
       "iso_region": "BA-SRP",
       "municipality": "Gorice",
       "gps_code": "LQGO",
-      "coordinates": "44.911565, 18.738884"
+      "coordinates": "44.911565, 18.738884",
+      "metar_available": false
     },
     {
       "ident": "BA-0008",
@@ -97,7 +104,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "municipality": "Trebinje",
-      "coordinates": "42.705382, 18.336074"
+      "coordinates": "42.705382, 18.336074",
+      "metar_available": false
     },
     {
       "ident": "BA-0009",
@@ -108,7 +116,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "municipality": "Trebinje",
-      "coordinates": "42.707812, 18.286613"
+      "coordinates": "42.707812, 18.286613",
+      "metar_available": false
     },
     {
       "ident": "BA-0010",
@@ -118,7 +127,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "municipality": "Suvo Polje",
-      "coordinates": "44.67767, 19.12988"
+      "coordinates": "44.67767, 19.12988",
+      "metar_available": false
     },
     {
       "ident": "BA-0011",
@@ -129,7 +139,8 @@
       "iso_country": "BA",
       "iso_region": "BA-BIH",
       "municipality": "Sanski Most",
-      "coordinates": "44.77271, 16.64856"
+      "coordinates": "44.77271, 16.64856",
+      "metar_available": false
     },
     {
       "ident": "BA-0012",
@@ -140,7 +151,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "municipality": "Modriča",
-      "coordinates": "44.9157, 18.15029"
+      "coordinates": "44.9157, 18.15029",
+      "metar_available": false
     },
     {
       "ident": "BA-0013",
@@ -150,7 +162,8 @@
       "iso_country": "BA",
       "iso_region": "BA-BIH",
       "municipality": "Ćoralići",
-      "coordinates": "44.980871, 15.869373"
+      "coordinates": "44.980871, 15.869373",
+      "metar_available": false
     },
     {
       "ident": "BA-0014",
@@ -161,7 +174,8 @@
       "iso_country": "BA",
       "iso_region": "BA-BIH",
       "municipality": "Glamoč",
-      "coordinates": "44.083894, 16.813588"
+      "coordinates": "44.083894, 16.813588",
+      "metar_available": false
     },
     {
       "ident": "LQBI",
@@ -173,7 +187,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Bihać",
       "gps_code": "LQBI",
-      "coordinates": "44.797061, 15.904474"
+      "coordinates": "44.797061, 15.904474",
+      "metar_available": false
     },
     {
       "ident": "LQBK",
@@ -186,7 +201,8 @@
       "municipality": "Mahovljani",
       "gps_code": "LQBK",
       "iata_code": "BNX",
-      "coordinates": "44.941399, 17.297501"
+      "coordinates": "44.941399, 17.297501",
+      "metar_available": false
     },
     {
       "ident": "LQJL",
@@ -198,7 +214,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Rainci Gornji",
       "gps_code": "LQJL",
-      "coordinates": "44.4578, 18.808122"
+      "coordinates": "44.4578, 18.808122",
+      "metar_available": false
     },
     {
       "ident": "LQLV",
@@ -210,7 +227,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Livno",
       "gps_code": "LQLV",
-      "coordinates": "43.791141, 16.893268"
+      "coordinates": "43.791141, 16.893268",
+      "metar_available": false
     },
     {
       "ident": "LQMO",
@@ -223,7 +241,8 @@
       "municipality": "Mostar",
       "gps_code": "LQMO",
       "iata_code": "OMO",
-      "coordinates": "43.282901763916016, 17.84589958190918"
+      "coordinates": "43.282901763916016, 17.84589958190918",
+      "metar_available": false
     },
     {
       "ident": "LQMP",
@@ -234,7 +253,8 @@
       "iso_country": "BA",
       "iso_region": "BA-BIH",
       "gps_code": "LQMP",
-      "coordinates": "44.57383, 16.28217"
+      "coordinates": "44.57383, 16.28217",
+      "metar_available": false
     },
     {
       "ident": "LQNI",
@@ -246,7 +266,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Šabanci",
       "gps_code": "LQNI",
-      "coordinates": "44.069444, 18.508974"
+      "coordinates": "44.069444, 18.508974",
+      "metar_available": false
     },
     {
       "ident": "LQPD",
@@ -258,7 +279,8 @@
       "iso_region": "BA-SRP",
       "municipality": "Prijedor",
       "gps_code": "LQPD",
-      "coordinates": "44.993986, 16.735457"
+      "coordinates": "44.993986, 16.735457",
+      "metar_available": false
     },
     {
       "ident": "LQPP",
@@ -269,7 +291,8 @@
       "iso_country": "BA",
       "iso_region": "BA-SRP",
       "gps_code": "LQPP",
-      "coordinates": "44.767693, 19.297417"
+      "coordinates": "44.767693, 19.297417",
+      "metar_available": false
     },
     {
       "ident": "LQSA",
@@ -282,7 +305,8 @@
       "municipality": "Sarajevo",
       "gps_code": "LQSA",
       "iata_code": "SJJ",
-      "coordinates": "43.8246, 18.331499"
+      "coordinates": "43.8246, 18.331499",
+      "metar_available": false
     },
     {
       "ident": "LQTZ",
@@ -295,7 +319,8 @@
       "municipality": "Dubrave Gornje",
       "gps_code": "LQTZ",
       "iata_code": "TZL",
-      "coordinates": "44.458698, 18.7248"
+      "coordinates": "44.458698, 18.7248",
+      "metar_available": false
     },
     {
       "ident": "LQVI",
@@ -307,7 +332,8 @@
       "iso_region": "BA-BIH",
       "municipality": "Visoko",
       "gps_code": "LQVI",
-      "coordinates": "44.025059, 18.097114"
+      "coordinates": "44.025059, 18.097114",
+      "metar_available": false
     }
   ]
 }

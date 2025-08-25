@@ -2,7 +2,7 @@
   "country_code": "MN",
   "country_name": "Mongolia",
   "total_airports": 40,
-  "last_updated": "2025-08-01T00:18:22.696164",
+  "last_updated": "2025-08-25T10:08:40.838593",
   "types_distribution": {
     "small_airport": 25,
     "closed": 3,
@@ -20,7 +20,8 @@
       "iso_region": "MN-035",
       "municipality": "Erdenet",
       "iata_code": "ERT",
-      "coordinates": "48.983056, 104.150556"
+      "coordinates": "48.983056, 104.150556",
+      "metar_available": false
     },
     {
       "ident": "MN-0001",
@@ -30,7 +31,8 @@
       "continent": "AS",
       "iso_country": "MN",
       "iso_region": "MN-061",
-      "coordinates": "49.194129, 115.336039"
+      "coordinates": "49.194129, 115.336039",
+      "metar_available": false
     },
     {
       "ident": "MN-0002",
@@ -41,7 +43,8 @@
       "iso_country": "MN",
       "iso_region": "MN-053",
       "municipality": "Khanbogd",
-      "coordinates": "43.115911, 106.861626"
+      "coordinates": "43.115911, 106.861626",
+      "metar_available": false
     },
     {
       "ident": "MN-0003",
@@ -52,7 +55,8 @@
       "iso_country": "MN",
       "iso_region": "MN-053",
       "municipality": "Bulgan",
-      "coordinates": "44.09521, 103.53464"
+      "coordinates": "44.09521, 103.53464",
+      "metar_available": false
     },
     {
       "ident": "MN-0004",
@@ -62,7 +66,8 @@
       "iso_country": "MN",
       "iso_region": "MN-063",
       "municipality": "Zuunbayan",
-      "coordinates": "44.45, 110.215"
+      "coordinates": "44.45, 110.215",
+      "metar_available": false
     },
     {
       "ident": "MN-0005",
@@ -72,7 +77,8 @@
       "iso_country": "MN",
       "iso_region": "MN-063",
       "municipality": "Dalanjargalan",
-      "coordinates": "45.9467, 109.1233"
+      "coordinates": "45.9467, 109.1233",
+      "metar_available": false
     },
     {
       "ident": "MN-5M",
@@ -82,7 +88,8 @@
       "iso_country": "MN",
       "iso_region": "MN-1",
       "municipality": "Ulaanbaatar",
-      "coordinates": "47.7417, 107.3717"
+      "coordinates": "47.7417, 107.3717",
+      "metar_available": false
     },
     {
       "ident": "MN-5Z",
@@ -92,7 +99,8 @@
       "iso_country": "MN",
       "iso_region": "MN-047",
       "municipality": "Bagakhangai",
-      "coordinates": "47.3667, 107.4567"
+      "coordinates": "47.3667, 107.4567",
+      "metar_available": false
     },
     {
       "ident": "MN-60",
@@ -102,7 +110,8 @@
       "iso_country": "MN",
       "iso_region": "MN-064",
       "municipality": "Bayantal",
-      "coordinates": "46.5767, 108.3233"
+      "coordinates": "46.5767, 108.3233",
+      "metar_available": false
     },
     {
       "ident": "MN-ULZ",
@@ -112,7 +121,8 @@
       "iso_country": "MN",
       "iso_region": "MN-057",
       "municipality": "Uliastai",
-      "coordinates": "47.7146987915, 96.8471984863"
+      "coordinates": "47.7146987915, 96.8471984863",
+      "metar_available": false
     },
     {
       "ident": "ZMAH",
@@ -125,7 +135,8 @@
       "municipality": "Arvaikheer",
       "gps_code": "ZMAH",
       "iata_code": "AVK",
-      "coordinates": "46.250301361083984, 102.802001953125"
+      "coordinates": "46.250301361083984, 102.802001953125",
+      "metar_available": false
     },
     {
       "ident": "ZMAT",
@@ -138,7 +149,8 @@
       "municipality": "Altai",
       "gps_code": "ZMAT",
       "iata_code": "LTI",
-      "coordinates": "46.376399993896484, 96.22109985351562"
+      "coordinates": "46.376399993896484, 96.22109985351562",
+      "metar_available": false
     },
     {
       "ident": "ZMBD",
@@ -150,7 +162,8 @@
       "iso_region": "MN-039",
       "municipality": "Binder",
       "gps_code": "ZMBD",
-      "coordinates": "48.6067008972168, 110.60800170898438"
+      "coordinates": "48.6067008972168, 110.60800170898438",
+      "metar_available": false
     },
     {
       "ident": "ZMBH",
@@ -163,7 +176,8 @@
       "municipality": "Bayankhongor",
       "gps_code": "ZMBH",
       "iata_code": "BYN",
-      "coordinates": "46.163299560546875, 100.7040023803711"
+      "coordinates": "46.163299560546875, 100.7040023803711",
+      "metar_available": false
     },
     {
       "ident": "ZMBN",
@@ -176,7 +190,8 @@
       "municipality": "Bulgan",
       "gps_code": "ZMBN",
       "iata_code": "UGA",
-      "coordinates": "48.85499954223633, 103.47599792480469"
+      "coordinates": "48.85499954223633, 103.47599792480469",
+      "metar_available": false
     },
     {
       "ident": "ZMBR",
@@ -189,7 +204,8 @@
       "municipality": "Khankhongor",
       "gps_code": "ZMBR",
       "iata_code": "UGT",
-      "coordinates": "43.749304, 104.114985"
+      "coordinates": "43.749304, 104.114985",
+      "metar_available": false
     },
     {
       "ident": "ZMBS",
@@ -202,7 +218,8 @@
       "municipality": "Bulgan",
       "gps_code": "ZMBS",
       "iata_code": "HBU",
-      "coordinates": "46.100601, 91.584198"
+      "coordinates": "46.100601, 91.584198",
+      "metar_available": false
     },
     {
       "ident": "ZMBU",
@@ -214,7 +231,8 @@
       "iso_region": "MN-051",
       "gps_code": "ZMBU",
       "iata_code": "UUN",
-      "coordinates": "46.660301208496094, 113.28500366210938"
+      "coordinates": "46.660301208496094, 113.28500366210938",
+      "metar_available": false
     },
     {
       "ident": "ZMCD",
@@ -226,7 +244,8 @@
       "iso_region": "MN-061",
       "gps_code": "ZMCD",
       "iata_code": "COQ",
-      "coordinates": "48.13570022583008, 114.64600372314453"
+      "coordinates": "48.13570022583008, 114.64600372314453",
+      "metar_available": false
     },
     {
       "ident": "ZMCK",
@@ -239,7 +258,8 @@
       "municipality": "Ulaanbaatar (Sergelen)",
       "gps_code": "ZMCK",
       "iata_code": "UBN",
-      "coordinates": "47.646916, 106.819833"
+      "coordinates": "47.646916, 106.819833",
+      "metar_available": false
     },
     {
       "ident": "ZMDA",
@@ -251,7 +271,8 @@
       "iso_region": "MN-039",
       "municipality": "Dadal",
       "gps_code": "ZMDA",
-      "coordinates": "49.0124, 111.509"
+      "coordinates": "49.0124, 111.509",
+      "metar_available": false
     },
     {
       "ident": "ZMDN",
@@ -264,7 +285,8 @@
       "municipality": "Uliastai",
       "gps_code": "ZMDN",
       "iata_code": "ULZ",
-      "coordinates": "47.7093, 96.5258"
+      "coordinates": "47.7093, 96.5258",
+      "metar_available": false
     },
     {
       "ident": "ZMDZ",
@@ -277,7 +299,8 @@
       "municipality": "Dalanzadgad",
       "gps_code": "ZMDZ",
       "iata_code": "DLZ",
-      "coordinates": "43.608628, 104.367734"
+      "coordinates": "43.608628, 104.367734",
+      "metar_available": false
     },
     {
       "ident": "ZMGT",
@@ -289,7 +312,8 @@
       "iso_region": "MN-053",
       "municipality": "Ovoot Tolgoi",
       "gps_code": "ZMGT",
-      "coordinates": "43.01192, 101.333781"
+      "coordinates": "43.01192, 101.333781",
+      "metar_available": false
     },
     {
       "ident": "ZMHG",
@@ -302,7 +326,8 @@
       "municipality": "Hatgal",
       "gps_code": "ZMHG",
       "iata_code": "HTM",
-      "coordinates": "50.435988, 100.139532"
+      "coordinates": "50.435988, 100.139532",
+      "metar_available": false
     },
     {
       "ident": "ZMHH",
@@ -314,7 +339,8 @@
       "iso_region": "MN-055",
       "gps_code": "ZMHH",
       "iata_code": "KHR",
-      "coordinates": "47.246667, 102.826111"
+      "coordinates": "47.246667, 102.826111",
+      "metar_available": false
     },
     {
       "ident": "ZMHU",
@@ -327,7 +353,8 @@
       "municipality": "Khujirt",
       "gps_code": "ZMHU",
       "iata_code": "HJT",
-      "coordinates": "46.9258003235, 102.773002625"
+      "coordinates": "46.9258003235, 102.773002625",
+      "metar_available": false
     },
     {
       "ident": "ZMKD",
@@ -340,7 +367,8 @@
       "municipality": "Khovd",
       "gps_code": "ZMKD",
       "iata_code": "HVD",
-      "coordinates": "47.9541015625, 91.6281967163086"
+      "coordinates": "47.9541015625, 91.6281967163086",
+      "metar_available": false
     },
     {
       "ident": "ZMMG",
@@ -353,7 +381,8 @@
       "municipality": "Mandalgobi",
       "gps_code": "ZMMG",
       "iata_code": "MXW",
-      "coordinates": "45.7380981445, 106.268997192"
+      "coordinates": "45.7380981445, 106.268997192",
+      "metar_available": false
     },
     {
       "ident": "ZMMN",
@@ -366,7 +395,8 @@
       "municipality": "Mörön",
       "gps_code": "ZMMN",
       "iata_code": "MXV",
-      "coordinates": "49.663299560546875, 100.0989990234375"
+      "coordinates": "49.663299560546875, 100.0989990234375",
+      "metar_available": false
     },
     {
       "ident": "ZMOT",
@@ -378,7 +408,8 @@
       "iso_region": "MN-053",
       "municipality": "Khanbogd",
       "gps_code": "ZMKB",
-      "coordinates": "43.145552, 106.843509"
+      "coordinates": "43.145552, 106.843509",
+      "metar_available": false
     },
     {
       "ident": "ZMSF",
@@ -389,7 +420,8 @@
       "iso_country": "MN",
       "iso_region": "MN-1",
       "gps_code": "ZMSF",
-      "coordinates": "47.773056, 107.437778"
+      "coordinates": "47.773056, 107.437778",
+      "metar_available": false
     },
     {
       "ident": "ZMSH",
@@ -401,7 +433,8 @@
       "iso_region": "MN-063",
       "municipality": "Sainshand",
       "gps_code": "ZMSH",
-      "coordinates": "44.984831, 110.17651"
+      "coordinates": "44.984831, 110.17651",
+      "metar_available": false
     },
     {
       "ident": "ZMTG",
@@ -414,7 +447,8 @@
       "municipality": "Tsetserleg",
       "gps_code": "ZMTG",
       "iata_code": "TSZ",
-      "coordinates": "47.461476, 101.483804"
+      "coordinates": "47.461476, 101.483804",
+      "metar_available": false
     },
     {
       "ident": "ZMTL",
@@ -427,7 +461,8 @@
       "municipality": "Tosontsengel",
       "gps_code": "ZMTL",
       "iata_code": "TNZ",
-      "coordinates": "48.73887, 98.2941"
+      "coordinates": "48.73887, 98.2941",
+      "metar_available": false
     },
     {
       "ident": "ZMTT",
@@ -439,7 +474,8 @@
       "iso_region": "MN-053",
       "municipality": "Tsogttsetsii",
       "gps_code": "ZMTT",
-      "coordinates": "43.773667, 105.578667"
+      "coordinates": "43.773667, 105.578667",
+      "metar_available": false
     },
     {
       "ident": "ZMUB",
@@ -452,7 +488,8 @@
       "municipality": "Ulaanbaatar",
       "gps_code": "ZMUB",
       "iata_code": "ULN",
-      "coordinates": "47.843102, 106.766998"
+      "coordinates": "47.843102, 106.766998",
+      "metar_available": false
     },
     {
       "ident": "ZMUG",
@@ -464,7 +501,8 @@
       "municipality": "Ulaangom",
       "gps_code": "ZMUG",
       "iata_code": "ULO",
-      "coordinates": "50.066588, 91.938273"
+      "coordinates": "50.066588, 91.938273",
+      "metar_available": false
     },
     {
       "ident": "ZMUH",
@@ -477,7 +515,8 @@
       "municipality": "Öndörkhaan",
       "gps_code": "ZMUH",
       "iata_code": "UNR",
-      "coordinates": "47.30486, 110.6092"
+      "coordinates": "47.30486, 110.6092",
+      "metar_available": false
     },
     {
       "ident": "ZMUL",
@@ -490,7 +529,8 @@
       "municipality": "Ölgii",
       "gps_code": "ZMUL",
       "iata_code": "ULG",
-      "coordinates": "48.993301, 89.922501"
+      "coordinates": "48.993301, 89.922501",
+      "metar_available": false
     }
   ]
 }

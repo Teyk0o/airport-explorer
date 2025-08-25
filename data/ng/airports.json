@@ -2,7 +2,7 @@
   "country_code": "NG",
   "country_name": "Nigeria",
   "total_airports": 67,
-  "last_updated": "2025-08-01T00:18:22.673482",
+  "last_updated": "2025-08-25T10:08:40.813853",
   "types_distribution": {
     "small_airport": 24,
     "large_airport": 2,
@@ -21,7 +21,8 @@
       "iso_region": "NG-YO",
       "municipality": "Kanguwol",
       "gps_code": "DMDM",
-      "coordinates": "11.94411, 11.80845"
+      "coordinates": "11.94411, 11.80845",
+      "metar_available": false
     },
     {
       "ident": "DN50",
@@ -33,7 +34,8 @@
       "iso_region": "NG-NI",
       "gps_code": "DN50",
       "local_code": "DN50",
-      "coordinates": "9.884650230407715, 6.818630218505859"
+      "coordinates": "9.884650230407715, 6.818630218505859",
+      "metar_available": false
     },
     {
       "ident": "DN51",
@@ -46,7 +48,8 @@
       "municipality": "Ajaokuta",
       "gps_code": "DN51",
       "local_code": "DN51",
-      "coordinates": "7.457871, 6.460837"
+      "coordinates": "7.457871, 6.460837",
+      "metar_available": false
     },
     {
       "ident": "DN53",
@@ -58,7 +61,8 @@
       "iso_region": "NG-KD",
       "gps_code": "DN53",
       "local_code": "DN53",
-      "coordinates": "10.598899841308594, 7.448709964752197"
+      "coordinates": "10.598899841308594, 7.448709964752197",
+      "metar_available": false
     },
     {
       "ident": "DN54",
@@ -71,7 +75,8 @@
       "municipality": "Bajoga",
       "gps_code": "DN54",
       "local_code": "DN54",
-      "coordinates": "10.919899940490723, 11.501199722290039"
+      "coordinates": "10.919899940490723, 11.501199722290039",
+      "metar_available": false
     },
     {
       "ident": "DN55",
@@ -83,7 +88,8 @@
       "iso_region": "NG-AK",
       "municipality": "Eket",
       "gps_code": "DNEK",
-      "coordinates": "4.642182, 7.94904"
+      "coordinates": "4.642182, 7.94904",
+      "metar_available": false
     },
     {
       "ident": "DN56",
@@ -95,7 +101,8 @@
       "iso_region": "NG-DE",
       "municipality": "Escravos",
       "gps_code": "DNES",
-      "coordinates": "5.61673, 5.188485"
+      "coordinates": "5.61673, 5.188485",
+      "metar_available": false
     },
     {
       "ident": "DN57",
@@ -108,7 +115,8 @@
       "municipality": "Katsina",
       "gps_code": "DNKT",
       "iata_code": "DKA",
-      "coordinates": "13.0078, 7.66045"
+      "coordinates": "13.0078, 7.66045",
+      "metar_available": false
     },
     {
       "ident": "DNAA",
@@ -121,7 +129,8 @@
       "municipality": "Abuja",
       "gps_code": "DNAA",
       "iata_code": "ABV",
-      "coordinates": "9.00679, 7.26317"
+      "coordinates": "9.00679, 7.26317",
+      "metar_available": false
     },
     {
       "ident": "DNAI",
@@ -134,7 +143,8 @@
       "municipality": "Uyo",
       "gps_code": "DNAI",
       "iata_code": "QUO",
-      "coordinates": "4.8725, 8.093"
+      "coordinates": "4.8725, 8.093",
+      "metar_available": false
     },
     {
       "ident": "DNAK",
@@ -147,7 +157,8 @@
       "municipality": "Akure",
       "gps_code": "DNAK",
       "iata_code": "AKR",
-      "coordinates": "7.246739864349365, 5.3010101318359375"
+      "coordinates": "7.246739864349365, 5.3010101318359375",
+      "metar_available": false
     },
     {
       "ident": "DNAN",
@@ -159,7 +170,8 @@
       "iso_region": "NG-AN",
       "municipality": "Umuleri",
       "gps_code": "DNAN",
-      "coordinates": "6.267167, 6.871333"
+      "coordinates": "6.267167, 6.871333",
+      "metar_available": false
     },
     {
       "ident": "DNAS",
@@ -172,7 +184,8 @@
       "municipality": "Asaba",
       "gps_code": "DNAS",
       "iata_code": "ABB",
-      "coordinates": "6.204167, 6.665278"
+      "coordinates": "6.204167, 6.665278",
+      "metar_available": false
     },
     {
       "ident": "DNBB",
@@ -184,7 +197,8 @@
       "iso_region": "NG-CR",
       "municipality": "Bayaluga",
       "gps_code": "DNBB",
-      "coordinates": "6.6215, 9.319001"
+      "coordinates": "6.6215, 9.319001",
+      "metar_available": false
     },
     {
       "ident": "DNBC",
@@ -197,7 +211,8 @@
       "municipality": "Bauchi",
       "gps_code": "DNBC",
       "iata_code": "BCU",
-      "coordinates": "10.482833, 9.744"
+      "coordinates": "10.482833, 9.744",
+      "metar_available": false
     },
     {
       "ident": "DNBE",
@@ -210,7 +225,8 @@
       "municipality": "Benin",
       "gps_code": "DNBE",
       "iata_code": "BNI",
-      "coordinates": "6.316979885101318, 5.5995001792907715"
+      "coordinates": "6.316979885101318, 5.5995001792907715",
+      "metar_available": false
     },
     {
       "ident": "DNBI",
@@ -222,7 +238,8 @@
       "iso_region": "NG-NI",
       "municipality": "Bida",
       "gps_code": "DNBI",
-      "coordinates": "9.1, 6.017"
+      "coordinates": "9.1, 6.017",
+      "metar_available": false
     },
     {
       "ident": "DNBY",
@@ -234,7 +251,8 @@
       "iso_region": "NG-BY",
       "municipality": "Yenagoa",
       "gps_code": "DNBY",
-      "coordinates": "4.95759, 6.203327"
+      "coordinates": "4.95759, 6.203327",
+      "metar_available": false
     },
     {
       "ident": "DNCA",
@@ -247,7 +265,8 @@
       "municipality": "Calabar",
       "gps_code": "DNCA",
       "iata_code": "CBQ",
-      "coordinates": "4.976019859313965, 8.347200393676758"
+      "coordinates": "4.976019859313965, 8.347200393676758",
+      "metar_available": false
     },
     {
       "ident": "DNDS",
@@ -259,7 +278,8 @@
       "iso_region": "NG-JI",
       "municipality": "Dutse",
       "gps_code": "DNDS",
-      "coordinates": "11.795168, 9.311667"
+      "coordinates": "11.795168, 9.311667",
+      "metar_available": false
     },
     {
       "ident": "DNEN",
@@ -272,7 +292,8 @@
       "municipality": "Enegu",
       "gps_code": "DNEN",
       "iata_code": "ENU",
-      "coordinates": "6.474269866943359, 7.561960220336914"
+      "coordinates": "6.474269866943359, 7.561960220336914",
+      "metar_available": false
     },
     {
       "ident": "DNFB",
@@ -283,7 +304,8 @@
       "iso_region": "NG-RI",
       "municipality": "Finima",
       "gps_code": "DNFB",
-      "coordinates": "4.405856, 7.181907"
+      "coordinates": "4.405856, 7.181907",
+      "metar_available": false
     },
     {
       "ident": "DNFD",
@@ -295,7 +317,8 @@
       "iso_region": "NG-DE",
       "municipality": "Forçados",
       "gps_code": "DNFD",
-      "coordinates": "5.355, 5.349002"
+      "coordinates": "5.355, 5.349002",
+      "metar_available": false
     },
     {
       "ident": "DNGO",
@@ -308,7 +331,8 @@
       "municipality": "Gombe",
       "gps_code": "DNGO",
       "iata_code": "GMO",
-      "coordinates": "10.298889, 10.9"
+      "coordinates": "10.298889, 10.9",
+      "metar_available": false
     },
     {
       "ident": "DNGU",
@@ -321,7 +345,8 @@
       "municipality": "Gusau",
       "gps_code": "DNGU",
       "iata_code": "QUS",
-      "coordinates": "12.1717, 6.69611"
+      "coordinates": "12.1717, 6.69611",
+      "metar_available": false
     },
     {
       "ident": "DNIB",
@@ -334,7 +359,8 @@
       "municipality": "Ibadan",
       "gps_code": "DNIB",
       "iata_code": "IBA",
-      "coordinates": "7.362460136413574, 3.97832989692688"
+      "coordinates": "7.362460136413574, 3.97832989692688",
+      "metar_available": false
     },
     {
       "ident": "DNIL",
@@ -347,7 +373,8 @@
       "municipality": "Ilorin",
       "gps_code": "DNIL",
       "iata_code": "ILR",
-      "coordinates": "8.440210342407227, 4.493919849395752"
+      "coordinates": "8.440210342407227, 4.493919849395752",
+      "metar_available": false
     },
     {
       "ident": "DNIM",
@@ -360,7 +387,8 @@
       "municipality": "Owerri",
       "gps_code": "DNIM",
       "iata_code": "QOW",
-      "coordinates": "5.427060127258301, 7.206029891967773"
+      "coordinates": "5.427060127258301, 7.206029891967773",
+      "metar_available": false
     },
     {
       "ident": "DNJA",
@@ -372,7 +400,8 @@
       "iso_region": "NG-TA",
       "municipality": "Jalingo",
       "gps_code": "DNJA",
-      "coordinates": "8.901997, 11.283454"
+      "coordinates": "8.901997, 11.283454",
+      "metar_available": false
     },
     {
       "ident": "DNJO",
@@ -385,7 +414,8 @@
       "municipality": "Jos",
       "gps_code": "DNJO",
       "iata_code": "JOS",
-      "coordinates": "9.639829635620117, 8.869050025939941"
+      "coordinates": "9.639829635620117, 8.869050025939941",
+      "metar_available": false
     },
     {
       "ident": "DNKA",
@@ -398,7 +428,8 @@
       "municipality": "Kaduna",
       "gps_code": "DNKA",
       "iata_code": "KAD",
-      "coordinates": "10.696000099182129, 7.320109844207764"
+      "coordinates": "10.696000099182129, 7.320109844207764",
+      "metar_available": false
     },
     {
       "ident": "DNKN",
@@ -411,7 +442,8 @@
       "municipality": "Kano",
       "gps_code": "DNKN",
       "iata_code": "KAN",
-      "coordinates": "12.0476, 8.52462"
+      "coordinates": "12.0476, 8.52462",
+      "metar_available": false
     },
     {
       "ident": "DNMA",
@@ -424,7 +456,8 @@
       "municipality": "Maiduguri",
       "gps_code": "DNMA",
       "iata_code": "MIU",
-      "coordinates": "11.855299949645996, 13.080900192260742"
+      "coordinates": "11.855299949645996, 13.080900192260742",
+      "metar_available": false
     },
     {
       "ident": "DNMK",
@@ -437,7 +470,8 @@
       "municipality": "Makurdi",
       "gps_code": "DNMK",
       "iata_code": "MDI",
-      "coordinates": "7.70388, 8.61394"
+      "coordinates": "7.70388, 8.61394",
+      "metar_available": false
     },
     {
       "ident": "DNMM",
@@ -450,7 +484,8 @@
       "municipality": "Lagos",
       "gps_code": "DNMM",
       "iata_code": "LOS",
-      "coordinates": "6.57737, 3.32116"
+      "coordinates": "6.57737, 3.32116",
+      "metar_available": false
     },
     {
       "ident": "DNMN",
@@ -463,7 +498,8 @@
       "municipality": "Minna",
       "gps_code": "DNMN",
       "iata_code": "MXJ",
-      "coordinates": "9.652170181274414, 6.462259769439697"
+      "coordinates": "9.652170181274414, 6.462259769439697",
+      "metar_available": false
     },
     {
       "ident": "DNOS",
@@ -475,7 +511,8 @@
       "iso_region": "NG-OS",
       "municipality": "Oshogbo",
       "gps_code": "DNOS",
-      "coordinates": "7.7829999923706055, 4.482999801635742"
+      "coordinates": "7.7829999923706055, 4.482999801635742",
+      "metar_available": false
     },
     {
       "ident": "DNPO",
@@ -488,7 +525,8 @@
       "municipality": "Port Harcourt",
       "gps_code": "DNPO",
       "iata_code": "PHC",
-      "coordinates": "5.0154900550842285, 6.94959020614624"
+      "coordinates": "5.0154900550842285, 6.94959020614624",
+      "metar_available": false
     },
     {
       "ident": "DNSO",
@@ -501,7 +539,8 @@
       "municipality": "Sokoto",
       "gps_code": "DNSO",
       "iata_code": "SKO",
-      "coordinates": "12.916299819946289, 5.207190036773682"
+      "coordinates": "12.916299819946289, 5.207190036773682",
+      "metar_available": false
     },
     {
       "ident": "DNSU",
@@ -514,7 +553,8 @@
       "municipality": "Okpe",
       "gps_code": "DNSU",
       "iata_code": "QRW",
-      "coordinates": "5.59821, 5.8187"
+      "coordinates": "5.59821, 5.8187",
+      "metar_available": false
     },
     {
       "ident": "DNYO",
@@ -527,7 +567,8 @@
       "municipality": "Yola",
       "gps_code": "DNYO",
       "iata_code": "YOL",
-      "coordinates": "9.257550239562988, 12.430399894714355"
+      "coordinates": "9.257550239562988, 12.430399894714355",
+      "metar_available": false
     },
     {
       "ident": "DNZA",
@@ -540,7 +581,8 @@
       "municipality": "Zaria",
       "gps_code": "DNZA",
       "iata_code": "ZAR",
-      "coordinates": "11.1302, 7.68581"
+      "coordinates": "11.1302, 7.68581",
+      "metar_available": false
     },
     {
       "ident": "NG-0001",
@@ -551,7 +593,8 @@
       "iso_country": "NG",
       "iso_region": "NG-DE",
       "municipality": "Agbara-Otor",
-      "coordinates": "5.538911, 6.088"
+      "coordinates": "5.538911, 6.088",
+      "metar_available": false
     },
     {
       "ident": "NG-0002",
@@ -562,7 +605,8 @@
       "iso_country": "NG",
       "iso_region": "NG-NI",
       "municipality": "New Bussa",
-      "coordinates": "9.895279, 4.484224"
+      "coordinates": "9.895279, 4.484224",
+      "metar_available": false
     },
     {
       "ident": "NG-0004",
@@ -575,7 +619,8 @@
       "municipality": "Port Harcourt",
       "gps_code": "DNPM",
       "iata_code": "PHG",
-      "coordinates": "4.846111, 7.021389"
+      "coordinates": "4.846111, 7.021389",
+      "metar_available": false
     },
     {
       "ident": "NG-0005",
@@ -587,7 +632,8 @@
       "iso_region": "NG-KE",
       "municipality": "Birinin Kebbi",
       "gps_code": "DNBK",
-      "coordinates": "12.480556, 4.369445"
+      "coordinates": "12.480556, 4.369445",
+      "metar_available": false
     },
     {
       "ident": "NG-0006",
@@ -598,7 +644,8 @@
       "iso_country": "NG",
       "iso_region": "NG-BY",
       "municipality": "Okpoma",
-      "coordinates": "4.29802, 6.27635"
+      "coordinates": "4.29802, 6.27635",
+      "metar_available": false
     },
     {
       "ident": "NG-0007",
@@ -609,7 +656,8 @@
       "iso_country": "NG",
       "iso_region": "NG-KO",
       "municipality": "Lokoja",
-      "coordinates": "7.801829, 6.582793"
+      "coordinates": "7.801829, 6.582793",
+      "metar_available": false
     },
     {
       "ident": "NG-0008",
@@ -620,7 +668,8 @@
       "iso_country": "NG",
       "iso_region": "NG-TA",
       "municipality": "Suntai",
-      "coordinates": "7.909458, 10.374472"
+      "coordinates": "7.909458, 10.374472",
+      "metar_available": false
     },
     {
       "ident": "NG-0009",
@@ -630,7 +679,8 @@
       "iso_country": "NG",
       "iso_region": "NG-RI",
       "municipality": "Bonny",
-      "coordinates": "4.38406, 7.18491"
+      "coordinates": "4.38406, 7.18491",
+      "metar_available": false
     },
     {
       "ident": "NG-0010",
@@ -640,7 +690,8 @@
       "iso_country": "NG",
       "iso_region": "NG-AB",
       "municipality": "Arochukwu",
-      "coordinates": "5.38936, 7.90098"
+      "coordinates": "5.38936, 7.90098",
+      "metar_available": false
     },
     {
       "ident": "NG-0011",
@@ -650,7 +701,8 @@
       "iso_country": "NG",
       "iso_region": "NG-RI",
       "municipality": "Port Harcourt",
-      "coordinates": "4.82821, 7.03292"
+      "coordinates": "4.82821, 7.03292",
+      "metar_available": false
     },
     {
       "ident": "NG-0012",
@@ -660,7 +712,8 @@
       "iso_country": "NG",
       "iso_region": "NG-RI",
       "municipality": "Port Harcourt",
-      "coordinates": "4.7992, 6.97343"
+      "coordinates": "4.7992, 6.97343",
+      "metar_available": false
     },
     {
       "ident": "NG-0013",
@@ -670,7 +723,8 @@
       "iso_country": "NG",
       "iso_region": "NG-RI",
       "municipality": "Port Harcourt",
-      "coordinates": "4.86782, 7.08422"
+      "coordinates": "4.86782, 7.08422",
+      "metar_available": false
     },
     {
       "ident": "NG-0014",
@@ -680,7 +734,8 @@
       "iso_country": "NG",
       "iso_region": "NG-KT",
       "municipality": "Daura",
-      "coordinates": "13.05149, 8.30958"
+      "coordinates": "13.05149, 8.30958",
+      "metar_available": false
     },
     {
       "ident": "NG-0015",
@@ -690,7 +745,8 @@
       "iso_country": "NG",
       "iso_region": "NG-OG",
       "municipality": "Abeokuta",
-      "coordinates": "7.12457, 3.36565"
+      "coordinates": "7.12457, 3.36565",
+      "metar_available": false
     },
     {
       "ident": "NG-0016",
@@ -700,7 +756,8 @@
       "iso_country": "NG",
       "iso_region": "NG-OG",
       "municipality": "Abeokuta",
-      "coordinates": "7.1356, 3.35426"
+      "coordinates": "7.1356, 3.35426",
+      "metar_available": false
     },
     {
       "ident": "NG-0017",
@@ -711,7 +768,8 @@
       "iso_country": "NG",
       "iso_region": "NG-KD",
       "municipality": "Jaji",
-      "coordinates": "10.833636, 7.538232"
+      "coordinates": "10.833636, 7.538232",
+      "metar_available": false
     },
     {
       "ident": "NG-0018",
@@ -721,7 +779,8 @@
       "iso_country": "NG",
       "iso_region": "NG-BY",
       "municipality": "Otuoke",
-      "coordinates": "4.78744, 6.29216"
+      "coordinates": "4.78744, 6.29216",
+      "metar_available": false
     },
     {
       "ident": "NG-0019",
@@ -731,7 +790,8 @@
       "iso_country": "NG",
       "iso_region": "NG-BY",
       "municipality": "Yenagoa",
-      "coordinates": "4.95212, 6.2714"
+      "coordinates": "4.95212, 6.2714",
+      "metar_available": false
     },
     {
       "ident": "NG-0020",
@@ -741,7 +801,8 @@
       "iso_country": "NG",
       "iso_region": "NG-FC",
       "municipality": "Abuja",
-      "coordinates": "9.060744, 7.515767"
+      "coordinates": "9.060744, 7.515767",
+      "metar_available": false
     },
     {
       "ident": "NG-0021",
@@ -752,7 +813,8 @@
       "iso_country": "NG",
       "iso_region": "NG-LA",
       "municipality": "Ikeja",
-      "coordinates": "6.572639, 3.366441"
+      "coordinates": "6.572639, 3.366441",
+      "metar_available": false
     },
     {
       "ident": "NG-0022",
@@ -762,7 +824,8 @@
       "iso_country": "NG",
       "iso_region": "NG-FC",
       "municipality": "Abuja",
-      "coordinates": "9.037663, 7.450715"
+      "coordinates": "9.037663, 7.450715",
+      "metar_available": false
     },
     {
       "ident": "NG-0023",
@@ -772,7 +835,8 @@
       "iso_country": "NG",
       "iso_region": "NG-EK",
       "municipality": "Ado Ekiti",
-      "coordinates": "7.601521, 5.307133"
+      "coordinates": "7.601521, 5.307133",
+      "metar_available": false
     },
     {
       "ident": "NG-0024",
@@ -783,7 +847,8 @@
       "iso_country": "NG",
       "iso_region": "NG-KW",
       "municipality": "Bacita",
-      "coordinates": "9.0421, 4.9188"
+      "coordinates": "9.0421, 4.9188",
+      "metar_available": false
     },
     {
       "ident": "NG-0025",
@@ -794,7 +859,8 @@
       "iso_country": "NG",
       "iso_region": "NG-DE",
       "municipality": "Forçados",
-      "coordinates": "5.35986, 5.35239"
+      "coordinates": "5.35986, 5.35239",
+      "metar_available": false
     },
     {
       "ident": "NG-BCU",
@@ -806,7 +872,8 @@
       "iso_region": "NG-BA",
       "municipality": "Bauchi",
       "gps_code": "DNBA",
-      "coordinates": "10.294402, 9.816672"
+      "coordinates": "10.294402, 9.816672",
+      "metar_available": false
     }
   ]
 }

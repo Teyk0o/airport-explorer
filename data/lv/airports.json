@@ -2,7 +2,7 @@
   "country_code": "LV",
   "country_name": "Latvia",
   "total_airports": 81,
-  "last_updated": "2025-08-01T00:18:22.702073",
+  "last_updated": "2025-08-25T10:08:40.845074",
   "types_distribution": {
     "small_airport": 51,
     "heliport": 5,
@@ -21,7 +21,8 @@
       "iso_region": "LV-011",
       "municipality": "Ādaži",
       "gps_code": "EVAD",
-      "coordinates": "57.098598, 24.2658"
+      "coordinates": "57.098598, 24.2658",
+      "metar_available": false
     },
     {
       "ident": "EVAH",
@@ -33,7 +34,8 @@
       "iso_region": "LV-054",
       "municipality": "Limbaži",
       "gps_code": "EVLI",
-      "coordinates": "57.4849, 24.672126"
+      "coordinates": "57.4849, 24.672126",
+      "metar_available": false
     },
     {
       "ident": "EVAP",
@@ -45,7 +47,8 @@
       "iso_region": "LV-JEL",
       "municipality": "Jelgava",
       "gps_code": "EVAP",
-      "coordinates": "56.6656, 23.7792"
+      "coordinates": "56.6656, 23.7792",
+      "metar_available": false
     },
     {
       "ident": "EVGA",
@@ -57,7 +60,8 @@
       "iso_region": "LV-067",
       "municipality": "Lielvarde",
       "gps_code": "EVGA",
-      "coordinates": "56.778301, 24.853901"
+      "coordinates": "56.778301, 24.853901",
+      "metar_available": false
     },
     {
       "ident": "EVHB",
@@ -68,7 +72,8 @@
       "iso_region": "LV-041",
       "municipality": "Nākotne",
       "gps_code": "EVHB",
-      "coordinates": "56.607936, 23.458431"
+      "coordinates": "56.607936, 23.458431",
+      "metar_available": false
     },
     {
       "ident": "EVIA",
@@ -80,7 +85,8 @@
       "iso_region": "LV-112",
       "municipality": "Cīrava",
       "gps_code": "EVIA",
-      "coordinates": "56.738062, 21.359786"
+      "coordinates": "56.738062, 21.359786",
+      "metar_available": false
     },
     {
       "ident": "EVJC",
@@ -92,7 +98,8 @@
       "iso_region": "LV-041",
       "municipality": "Nākotne",
       "gps_code": "EVJC",
-      "coordinates": "56.606284, 23.452138"
+      "coordinates": "56.606284, 23.452138",
+      "metar_available": false
     },
     {
       "ident": "EVKA",
@@ -104,7 +111,8 @@
       "iso_region": "LV-042",
       "municipality": "Jēkabpils",
       "gps_code": "EVKA",
-      "coordinates": "56.534698, 25.8925"
+      "coordinates": "56.534698, 25.8925",
+      "metar_available": false
     },
     {
       "ident": "EVLA",
@@ -117,7 +125,8 @@
       "municipality": "Liepāja",
       "gps_code": "EVLA",
       "iata_code": "LPX",
-      "coordinates": "56.517502, 21.096901"
+      "coordinates": "56.517502, 21.096901",
+      "metar_available": false
     },
     {
       "ident": "EVLU",
@@ -128,7 +137,8 @@
       "iso_region": "LV-058",
       "municipality": "Ludza",
       "gps_code": "EVLU",
-      "coordinates": "56.521111, 27.694167"
+      "coordinates": "56.521111, 27.694167",
+      "metar_available": false
     },
     {
       "ident": "EVPA",
@@ -140,7 +150,8 @@
       "iso_region": "LV-067",
       "municipality": "Ikshkile",
       "gps_code": "EVPA",
-      "coordinates": "56.814999, 24.5278"
+      "coordinates": "56.814999, 24.5278",
+      "metar_available": false
     },
     {
       "ident": "EVRA",
@@ -153,7 +164,8 @@
       "municipality": "Riga",
       "gps_code": "EVRA",
       "iata_code": "RIX",
-      "coordinates": "56.923599, 23.9711"
+      "coordinates": "56.923599, 23.9711",
+      "metar_available": false
     },
     {
       "ident": "EVRS",
@@ -165,7 +177,8 @@
       "iso_region": "LV-RIX",
       "municipality": "Riga",
       "gps_code": "EVRS",
-      "coordinates": "56.991100311299995, 24.0750007629"
+      "coordinates": "56.991100311299995, 24.0750007629",
+      "metar_available": false
     },
     {
       "ident": "EVSM",
@@ -177,7 +190,8 @@
       "iso_region": "LV-067",
       "municipality": "Lielvārde",
       "gps_code": "EVSM",
-      "coordinates": "56.665556, 24.903056"
+      "coordinates": "56.665556, 24.903056",
+      "metar_available": false
     },
     {
       "ident": "EVTA",
@@ -189,7 +203,8 @@
       "iso_region": "LV-099",
       "municipality": "Tukums",
       "gps_code": "EVJA",
-      "coordinates": "56.9422, 23.2239"
+      "coordinates": "56.9422, 23.2239",
+      "metar_available": false
     },
     {
       "ident": "EVTE",
@@ -200,7 +215,8 @@
       "iso_region": "LV-097",
       "municipality": "Talsi",
       "gps_code": "EVTE",
-      "coordinates": "57.254398, 22.566218"
+      "coordinates": "57.254398, 22.566218",
+      "metar_available": false
     },
     {
       "ident": "EVVA",
@@ -213,7 +229,8 @@
       "municipality": "Ventspils",
       "gps_code": "EVVA",
       "iata_code": "VNT",
-      "coordinates": "57.3578, 21.544201"
+      "coordinates": "57.3578, 21.544201",
+      "metar_available": false
     },
     {
       "ident": "LT-0012",
@@ -223,7 +240,8 @@
       "iso_country": "LV",
       "iso_region": "LV-099",
       "municipality": "Vaski",
-      "coordinates": "56.836457, 23.020737"
+      "coordinates": "56.836457, 23.020737",
+      "metar_available": false
     },
     {
       "ident": "LV-0001",
@@ -233,7 +251,8 @@
       "iso_country": "LV",
       "iso_region": "LV-111",
       "municipality": "Gančauski",
-      "coordinates": "56.043395, 26.369549"
+      "coordinates": "56.043395, 26.369549",
+      "metar_available": false
     },
     {
       "ident": "LV-0002",
@@ -244,7 +263,8 @@
       "iso_region": "LV-DGV",
       "municipality": "Daugavpils",
       "gps_code": "EVBA",
-      "coordinates": "55.883999, 26.471001"
+      "coordinates": "55.883999, 26.471001",
+      "metar_available": false
     },
     {
       "ident": "LV-0003",
@@ -253,7 +273,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-088",
-      "coordinates": "56.692217755499996, 22.4695301056"
+      "coordinates": "56.692217755499996, 22.4695301056",
+      "metar_available": false
     },
     {
       "ident": "LV-0004",
@@ -262,7 +283,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-059",
-      "coordinates": "56.8516882, 26.3126111"
+      "coordinates": "56.8516882, 26.3126111",
+      "metar_available": false
     },
     {
       "ident": "LV-0005",
@@ -271,7 +293,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-022",
-      "coordinates": "57.5580332, 25.8375718"
+      "coordinates": "57.5580332, 25.8375718",
+      "metar_available": false
     },
     {
       "ident": "LV-0006",
@@ -283,7 +306,8 @@
       "iso_region": "LV-067",
       "municipality": "Mālpils",
       "gps_code": "EVMP",
-      "coordinates": "57.045431, 24.945953"
+      "coordinates": "57.045431, 24.945953",
+      "metar_available": false
     },
     {
       "ident": "LV-0007",
@@ -293,7 +317,8 @@
       "iso_country": "LV",
       "iso_region": "LV-050",
       "municipality": "Skrunda",
-      "coordinates": "56.683379, 21.998273"
+      "coordinates": "56.683379, 21.998273",
+      "metar_available": false
     },
     {
       "ident": "LV-0008",
@@ -303,7 +328,8 @@
       "iso_country": "LV",
       "iso_region": "LV-091",
       "municipality": "Ragana",
-      "coordinates": "57.20293, 24.75348"
+      "coordinates": "57.20293, 24.75348",
+      "metar_available": false
     },
     {
       "ident": "LV-0009",
@@ -314,7 +340,8 @@
       "iso_country": "LV",
       "iso_region": "LV-113",
       "municipality": "Valmiera",
-      "coordinates": "57.558552, 25.444296"
+      "coordinates": "57.558552, 25.444296",
+      "metar_available": false
     },
     {
       "ident": "LV-0010",
@@ -324,7 +351,8 @@
       "iso_country": "LV",
       "iso_region": "LV-JEL",
       "municipality": "Valgunde",
-      "coordinates": "56.7713125, 23.6550662"
+      "coordinates": "56.7713125, 23.6550662",
+      "metar_available": false
     },
     {
       "ident": "LV-0011",
@@ -335,7 +363,8 @@
       "iso_country": "LV",
       "iso_region": "LV-022",
       "municipality": "Taurene",
-      "coordinates": "57.169426, 25.676857"
+      "coordinates": "57.169426, 25.676857",
+      "metar_available": false
     },
     {
       "ident": "LV-0012",
@@ -345,7 +374,8 @@
       "iso_country": "LV",
       "iso_region": "LV-073",
       "municipality": "Riebiņi",
-      "coordinates": "56.422305, 26.728749"
+      "coordinates": "56.422305, 26.728749",
+      "metar_available": false
     },
     {
       "ident": "LV-0013",
@@ -355,7 +385,8 @@
       "iso_country": "LV",
       "iso_region": "LV-112",
       "municipality": "Aizpute",
-      "coordinates": "56.696944, 21.628889"
+      "coordinates": "56.696944, 21.628889",
+      "metar_available": false
     },
     {
       "ident": "LV-0014",
@@ -365,7 +396,8 @@
       "iso_country": "LV",
       "iso_region": "LV-094",
       "municipality": "Grotūžis",
-      "coordinates": "57.440742, 25.875658"
+      "coordinates": "57.440742, 25.875658",
+      "metar_available": false
     },
     {
       "ident": "LV-0015",
@@ -375,7 +407,8 @@
       "iso_country": "LV",
       "iso_region": "LV-067",
       "municipality": "Madliena",
-      "coordinates": "56.792113, 25.123042"
+      "coordinates": "56.792113, 25.123042",
+      "metar_available": false
     },
     {
       "ident": "LV-0016",
@@ -385,7 +418,8 @@
       "iso_country": "LV",
       "iso_region": "LV-113",
       "municipality": "Matīši",
-      "coordinates": "57.688051, 25.166628"
+      "coordinates": "57.688051, 25.166628",
+      "metar_available": false
     },
     {
       "ident": "LV-0017",
@@ -395,7 +429,8 @@
       "iso_country": "LV",
       "iso_region": "LV-042",
       "municipality": "Mežāre",
-      "coordinates": "56.515676, 26.257966"
+      "coordinates": "56.515676, 26.257966",
+      "metar_available": false
     },
     {
       "ident": "LV-0018",
@@ -405,7 +440,8 @@
       "iso_country": "LV",
       "iso_region": "LV-016",
       "municipality": "Strēlnieks",
-      "coordinates": "56.508202, 24.076641"
+      "coordinates": "56.508202, 24.076641",
+      "metar_available": false
     },
     {
       "ident": "LV-0019",
@@ -415,7 +451,8 @@
       "iso_country": "LV",
       "iso_region": "LV-054",
       "municipality": "Aloja",
-      "coordinates": "57.774561, 24.887069"
+      "coordinates": "57.774561, 24.887069",
+      "metar_available": false
     },
     {
       "ident": "LV-0020",
@@ -425,7 +462,8 @@
       "iso_country": "LV",
       "iso_region": "LV-111",
       "municipality": "Višķi",
-      "coordinates": "56.03673, 26.792944"
+      "coordinates": "56.03673, 26.792944",
+      "metar_available": false
     },
     {
       "ident": "LV-0021",
@@ -435,7 +473,8 @@
       "iso_country": "LV",
       "iso_region": "LV-041",
       "municipality": "Zaļenieki",
-      "coordinates": "56.546718, 23.534192"
+      "coordinates": "56.546718, 23.534192",
+      "metar_available": false
     },
     {
       "ident": "LV-0022",
@@ -445,7 +484,8 @@
       "iso_country": "LV",
       "iso_region": "LV-097",
       "municipality": "Lube",
-      "coordinates": "57.440644, 22.58316"
+      "coordinates": "57.440644, 22.58316",
+      "metar_available": false
     },
     {
       "ident": "LV-0023",
@@ -455,7 +495,8 @@
       "iso_country": "LV",
       "iso_region": "LV-059",
       "municipality": "Barkava",
-      "coordinates": "56.749886, 26.5977"
+      "coordinates": "56.749886, 26.5977",
+      "metar_available": false
     },
     {
       "ident": "LV-0024",
@@ -465,7 +506,8 @@
       "iso_country": "LV",
       "iso_region": "LV-077",
       "municipality": "Adamova",
-      "coordinates": "56.566385, 27.347882"
+      "coordinates": "56.566385, 27.347882",
+      "metar_available": false
     },
     {
       "ident": "LV-0025",
@@ -475,7 +517,8 @@
       "iso_country": "LV",
       "iso_region": "LV-101",
       "municipality": "Karķi",
-      "coordinates": "57.786686, 25.603455"
+      "coordinates": "57.786686, 25.603455",
+      "metar_available": false
     },
     {
       "ident": "LV-0026",
@@ -485,7 +528,8 @@
       "iso_country": "LV",
       "iso_region": "LV-097",
       "municipality": "Žocene",
-      "coordinates": "57.532464, 22.69939"
+      "coordinates": "57.532464, 22.69939",
+      "metar_available": false
     },
     {
       "ident": "LV-0027",
@@ -495,7 +539,8 @@
       "iso_country": "LV",
       "iso_region": "LV-026",
       "municipality": "Dobele",
-      "coordinates": "56.675963, 23.312442"
+      "coordinates": "56.675963, 23.312442",
+      "metar_available": false
     },
     {
       "ident": "LV-0028",
@@ -505,7 +550,8 @@
       "iso_country": "LV",
       "iso_region": "LV-059",
       "municipality": "Jaunkalsnava",
-      "coordinates": "56.706131, 25.911956"
+      "coordinates": "56.706131, 25.911956",
+      "metar_available": false
     },
     {
       "ident": "LV-0029",
@@ -515,7 +561,8 @@
       "iso_country": "LV",
       "iso_region": "LV-067",
       "municipality": "Stalbe",
-      "coordinates": "57.380083, 25.011103"
+      "coordinates": "57.380083, 25.011103",
+      "metar_available": false
     },
     {
       "ident": "LV-0030",
@@ -525,7 +572,8 @@
       "iso_country": "LV",
       "iso_region": "LV-042",
       "municipality": "Zasa",
-      "coordinates": "56.273317, 26.034956"
+      "coordinates": "56.273317, 26.034956",
+      "metar_available": false
     },
     {
       "ident": "LV-0031",
@@ -535,7 +583,8 @@
       "iso_country": "LV",
       "iso_region": "LV-054",
       "municipality": "Vitrupe",
-      "coordinates": "57.6476, 24.392398"
+      "coordinates": "57.6476, 24.392398",
+      "metar_available": false
     },
     {
       "ident": "LV-0032",
@@ -545,7 +594,8 @@
       "iso_country": "LV",
       "iso_region": "LV-016",
       "municipality": "Grenctāle",
-      "coordinates": "56.316525, 24.332678"
+      "coordinates": "56.316525, 24.332678",
+      "metar_available": false
     },
     {
       "ident": "LV-0033",
@@ -555,7 +605,8 @@
       "iso_country": "LV",
       "iso_region": "LV-077",
       "municipality": "Viļāni",
-      "coordinates": "56.592333, 26.943647"
+      "coordinates": "56.592333, 26.943647",
+      "metar_available": false
     },
     {
       "ident": "LV-0034",
@@ -565,7 +616,8 @@
       "iso_country": "LV",
       "iso_region": "LV-041",
       "municipality": "Eleja",
-      "coordinates": "56.47609, 23.699509"
+      "coordinates": "56.47609, 23.699509",
+      "metar_available": false
     },
     {
       "ident": "LV-0035",
@@ -575,7 +627,8 @@
       "iso_country": "LV",
       "iso_region": "LV-026",
       "municipality": "Bērze",
-      "coordinates": "56.681346, 23.464027"
+      "coordinates": "56.681346, 23.464027",
+      "metar_available": false
     },
     {
       "ident": "LV-0036",
@@ -585,7 +638,8 @@
       "iso_country": "LV",
       "iso_region": "LV-056",
       "municipality": "Rožupe",
-      "coordinates": "56.351531, 26.334265"
+      "coordinates": "56.351531, 26.334265",
+      "metar_available": false
     },
     {
       "ident": "LV-0037",
@@ -595,7 +649,8 @@
       "iso_country": "LV",
       "iso_region": "LV-033",
       "municipality": "Stari",
-      "coordinates": "57.103284, 26.733248"
+      "coordinates": "57.103284, 26.733248",
+      "metar_available": false
     },
     {
       "ident": "LV-0038",
@@ -605,7 +660,8 @@
       "iso_country": "LV",
       "iso_region": "LV-097",
       "municipality": "Dundaga",
-      "coordinates": "57.499354, 22.402131"
+      "coordinates": "57.499354, 22.402131",
+      "metar_available": false
     },
     {
       "ident": "LV-0039",
@@ -615,7 +671,8 @@
       "iso_country": "LV",
       "iso_region": "LV-077",
       "municipality": "Dricāni",
-      "coordinates": "56.663395, 27.176464"
+      "coordinates": "56.663395, 27.176464",
+      "metar_available": false
     },
     {
       "ident": "LV-0040",
@@ -625,7 +682,8 @@
       "iso_country": "LV",
       "iso_region": "LV-112",
       "municipality": "Priekule",
-      "coordinates": "56.4297479, 21.5796735"
+      "coordinates": "56.4297479, 21.5796735",
+      "metar_available": false
     },
     {
       "ident": "LV-0041",
@@ -635,7 +693,8 @@
       "iso_country": "LV",
       "iso_region": "LV-099",
       "municipality": "Slampe",
-      "coordinates": "56.846598, 23.267005"
+      "coordinates": "56.846598, 23.267005",
+      "metar_available": false
     },
     {
       "ident": "LV-0042",
@@ -645,7 +704,8 @@
       "iso_country": "LV",
       "iso_region": "LV-099",
       "municipality": "Matkule",
-      "coordinates": "56.9725105, 22.6337392"
+      "coordinates": "56.9725105, 22.6337392",
+      "metar_available": false
     },
     {
       "ident": "LV-0043",
@@ -655,7 +715,8 @@
       "iso_country": "LV",
       "iso_region": "LV-050",
       "municipality": "Vārme",
-      "coordinates": "56.854677, 22.211771"
+      "coordinates": "56.854677, 22.211771",
+      "metar_available": false
     },
     {
       "ident": "LV-0044",
@@ -665,7 +726,8 @@
       "iso_country": "LV",
       "iso_region": "LV-050",
       "municipality": "Gudenieki",
-      "coordinates": "56.903657, 21.639275"
+      "coordinates": "56.903657, 21.639275",
+      "metar_available": false
     },
     {
       "ident": "LV-0045",
@@ -674,7 +736,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-097",
-      "coordinates": "57.2668037, 22.8155028"
+      "coordinates": "57.2668037, 22.8155028",
+      "metar_available": false
     },
     {
       "ident": "LV-0046",
@@ -684,7 +747,8 @@
       "iso_country": "LV",
       "iso_region": "LV-112",
       "municipality": "Ezere",
-      "coordinates": "56.404546, 22.337208"
+      "coordinates": "56.404546, 22.337208",
+      "metar_available": false
     },
     {
       "ident": "LV-0047",
@@ -694,7 +758,8 @@
       "iso_country": "LV",
       "iso_region": "LV-007",
       "municipality": "Pededze",
-      "coordinates": "57.468352, 27.508881"
+      "coordinates": "57.468352, 27.508881",
+      "metar_available": false
     },
     {
       "ident": "LV-0048",
@@ -704,7 +769,8 @@
       "iso_country": "LV",
       "iso_region": "LV-002",
       "municipality": "Nereta",
-      "coordinates": "56.22175, 25.29949"
+      "coordinates": "56.22175, 25.29949",
+      "metar_available": false
     },
     {
       "ident": "LV-0049",
@@ -716,7 +782,8 @@
       "iso_region": "LV-022",
       "municipality": "Cesis",
       "gps_code": "EVCA",
-      "coordinates": "57.32935, 25.32139"
+      "coordinates": "57.32935, 25.32139",
+      "metar_available": false
     },
     {
       "ident": "LV-0050",
@@ -726,7 +793,8 @@
       "iso_country": "LV",
       "iso_region": "LV-016",
       "municipality": "Pilsrundāle",
-      "coordinates": "56.42202, 23.97632"
+      "coordinates": "56.42202, 23.97632",
+      "metar_available": false
     },
     {
       "ident": "LV-0051",
@@ -735,7 +803,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-059",
-      "coordinates": "56.80478, 26.77088"
+      "coordinates": "56.80478, 26.77088",
+      "metar_available": false
     },
     {
       "ident": "LV-0052",
@@ -745,7 +814,8 @@
       "iso_country": "LV",
       "iso_region": "LV-042",
       "municipality": "Birži",
-      "coordinates": "56.40475, 25.79567"
+      "coordinates": "56.40475, 25.79567",
+      "metar_available": false
     },
     {
       "ident": "LV-0053",
@@ -754,7 +824,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-087",
-      "coordinates": "56.9212, 23.64144"
+      "coordinates": "56.9212, 23.64144",
+      "metar_available": false
     },
     {
       "ident": "LV-0054",
@@ -765,7 +836,8 @@
       "iso_country": "LV",
       "iso_region": "LV-033",
       "municipality": "\"Jaunkalmes\", Lejasciema pag., LV4412",
-      "coordinates": "57.290981, 26.618413"
+      "coordinates": "57.290981, 26.618413",
+      "metar_available": false
     },
     {
       "ident": "LV-1288",
@@ -776,7 +848,8 @@
       "iso_country": "LV",
       "iso_region": "LV-RIX",
       "municipality": "Riga",
-      "coordinates": "56.883301, 24.2267"
+      "coordinates": "56.883301, 24.2267",
+      "metar_available": false
     },
     {
       "ident": "LV-7721",
@@ -787,7 +860,8 @@
       "iso_country": "LV",
       "iso_region": "LV-022",
       "municipality": "Valmiera",
-      "coordinates": "57.3867, 25.508301"
+      "coordinates": "57.3867, 25.508301",
+      "metar_available": false
     },
     {
       "ident": "LV-8037",
@@ -797,7 +871,8 @@
       "continent": "EU",
       "iso_country": "LV",
       "iso_region": "LV-041",
-      "coordinates": "56.474862, 23.190107"
+      "coordinates": "56.474862, 23.190107",
+      "metar_available": false
     },
     {
       "ident": "LV-8038",
@@ -808,7 +883,8 @@
       "iso_country": "LV",
       "iso_region": "LV-JEL",
       "municipality": "Jelgava",
-      "coordinates": "56.672798, 23.679199"
+      "coordinates": "56.672798, 23.679199",
+      "metar_available": false
     },
     {
       "ident": "LV-8039",
@@ -819,7 +895,8 @@
       "iso_country": "LV",
       "iso_region": "LV-112",
       "municipality": "Vaiņode",
-      "coordinates": "56.405602, 21.8869"
+      "coordinates": "56.405602, 21.8869",
+      "metar_available": false
     },
     {
       "ident": "LV-8040",
@@ -830,7 +907,8 @@
       "iso_country": "LV",
       "iso_region": "LV-111",
       "municipality": "Daugavpils",
-      "coordinates": "55.944721, 26.665001"
+      "coordinates": "55.944721, 26.665001",
+      "metar_available": false
     },
     {
       "ident": "LV-8041",
@@ -840,7 +918,8 @@
       "iso_country": "LV",
       "iso_region": "LV-026",
       "municipality": "Augstkalne",
-      "coordinates": "56.41318, 23.319409"
+      "coordinates": "56.41318, 23.319409",
+      "metar_available": false
     },
     {
       "ident": "LV-8042",
@@ -850,7 +929,8 @@
       "iso_country": "LV",
       "iso_region": "LV-077",
       "municipality": "Rēzekne",
-      "coordinates": "56.556389, 27.212778"
+      "coordinates": "56.556389, 27.212778",
+      "metar_available": false
     },
     {
       "ident": "LV-8043",
@@ -861,7 +941,8 @@
       "iso_country": "LV",
       "iso_region": "LV-022",
       "municipality": "Cesis",
-      "coordinates": "57.32379, 25.323229"
+      "coordinates": "57.32379, 25.323229",
+      "metar_available": false
     }
   ]
 }

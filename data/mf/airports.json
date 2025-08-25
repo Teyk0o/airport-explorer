@@ -2,7 +2,7 @@
   "country_code": "MF",
   "country_name": "Saint Martin",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.829952",
+  "last_updated": "2025-08-25T10:08:40.984546",
   "types_distribution": {
     "seaplane_base": 1,
     "medium_airport": 1
@@ -17,7 +17,8 @@
       "iso_region": "MF-U-A",
       "municipality": "Saint Martin",
       "iata_code": "MSB",
-      "coordinates": "18.0696, -63.087"
+      "coordinates": "18.0696, -63.087",
+      "metar_available": false
     },
     {
       "ident": "TFFG",
@@ -29,7 +30,8 @@
       "municipality": "Grand Case",
       "gps_code": "TFFG",
       "iata_code": "SFG",
-      "coordinates": "18.100057, -63.047444"
+      "coordinates": "18.100057, -63.047444",
+      "metar_available": false
     }
   ]
 }

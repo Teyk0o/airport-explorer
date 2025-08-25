@@ -2,7 +2,7 @@
   "country_code": "DJ",
   "country_name": "Djibouti",
   "total_airports": 17,
-  "last_updated": "2025-08-01T00:18:22.671666",
+  "last_updated": "2025-08-25T10:08:40.811874",
   "types_distribution": {
     "small_airport": 9,
     "closed": 1,
@@ -18,7 +18,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-AS",
       "municipality": "Holhol",
-      "coordinates": "11.30608, 42.91968"
+      "coordinates": "11.30608, 42.91968",
+      "metar_available": false
     },
     {
       "ident": "DJ-0002",
@@ -29,7 +30,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Balbala",
-      "coordinates": "11.54796, 43.12446"
+      "coordinates": "11.54796, 43.12446",
+      "metar_available": false
     },
     {
       "ident": "DJ-0003",
@@ -40,7 +42,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Doraleh",
-      "coordinates": "11.590843, 43.063415"
+      "coordinates": "11.590843, 43.063415",
+      "metar_available": false
     },
     {
       "ident": "DJ-0004",
@@ -51,7 +54,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Djibouti",
-      "coordinates": "11.59668, 43.14119"
+      "coordinates": "11.59668, 43.14119",
+      "metar_available": false
     },
     {
       "ident": "DJ-0005",
@@ -62,7 +66,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Djibouti",
-      "coordinates": "11.57195, 43.13258"
+      "coordinates": "11.57195, 43.13258",
+      "metar_available": false
     },
     {
       "ident": "DJ-0006",
@@ -72,7 +77,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Doraleh",
-      "coordinates": "11.589279, 43.059347"
+      "coordinates": "11.589279, 43.059347",
+      "metar_available": false
     },
     {
       "ident": "DJ-0007",
@@ -82,7 +88,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Djibouti City",
-      "coordinates": "11.54554, 43.15745"
+      "coordinates": "11.54554, 43.15745",
+      "metar_available": false
     },
     {
       "ident": "DJ-0008",
@@ -92,7 +99,8 @@
       "iso_country": "DJ",
       "iso_region": "DJ-DJ",
       "municipality": "Djibouti City",
-      "coordinates": "11.554781, 43.156668"
+      "coordinates": "11.554781, 43.156668",
+      "metar_available": false
     },
     {
       "ident": "HDAG",
@@ -104,7 +112,8 @@
       "iso_region": "DJ-TA",
       "municipality": "Assa-Gueyla",
       "gps_code": "HDAG",
-      "coordinates": "12.188882, 42.637494"
+      "coordinates": "12.188882, 42.637494",
+      "metar_available": false
     },
     {
       "ident": "HDAM",
@@ -117,7 +126,8 @@
       "municipality": "Djibouti City",
       "gps_code": "HDAM",
       "iata_code": "JIB",
-      "coordinates": "11.5473, 43.1595"
+      "coordinates": "11.5473, 43.1595",
+      "metar_available": false
     },
     {
       "ident": "HDAS",
@@ -130,7 +140,8 @@
       "municipality": "Ali-Sabieh",
       "gps_code": "HDAS",
       "iata_code": "AII",
-      "coordinates": "11.146889, 42.72"
+      "coordinates": "11.146889, 42.72",
+      "metar_available": false
     },
     {
       "ident": "HDCH",
@@ -142,7 +153,8 @@
       "iso_region": "DJ-AR",
       "municipality": "Chabelley",
       "gps_code": "HDCH",
-      "coordinates": "11.516799926757812, 43.0614013671875"
+      "coordinates": "11.516799926757812, 43.0614013671875",
+      "metar_available": false
     },
     {
       "ident": "HDDK",
@@ -154,7 +166,8 @@
       "iso_region": "DJ-DI",
       "municipality": "Dikhil",
       "gps_code": "HDDK",
-      "coordinates": "11.097958, 42.350556"
+      "coordinates": "11.097958, 42.350556",
+      "metar_available": false
     },
     {
       "ident": "HDHE",
@@ -166,7 +179,8 @@
       "iso_region": "DJ-OB",
       "municipality": "Herkale",
       "gps_code": "HDHE",
-      "coordinates": "12.4449, 43.292575"
+      "coordinates": "12.4449, 43.292575",
+      "metar_available": false
     },
     {
       "ident": "HDMO",
@@ -178,7 +192,8 @@
       "municipality": "Moucha Island",
       "gps_code": "HDMO",
       "iata_code": "MHI",
-      "coordinates": "11.72975, 43.209559"
+      "coordinates": "11.72975, 43.209559",
+      "metar_available": false
     },
     {
       "ident": "HDOB",
@@ -191,7 +206,8 @@
       "municipality": "Obock",
       "gps_code": "HDOB",
       "iata_code": "OBC",
-      "coordinates": "11.967000007629395, 43.266998291015625"
+      "coordinates": "11.967000007629395, 43.266998291015625",
+      "metar_available": false
     },
     {
       "ident": "HDTJ",
@@ -204,7 +220,8 @@
       "municipality": "Tadjoura",
       "gps_code": "HDTJ",
       "iata_code": "TDJ",
-      "coordinates": "11.787037, 42.917376"
+      "coordinates": "11.787037, 42.917376",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "BJ",
   "country_name": "Benin",
   "total_airports": 10,
-  "last_updated": "2025-08-01T00:18:22.493732",
+  "last_updated": "2025-08-25T10:08:40.624863",
   "types_distribution": {
     "small_airport": 9,
     "medium_airport": 1
@@ -16,7 +16,8 @@
       "iso_country": "BJ",
       "iso_region": "BJ-BO",
       "municipality": "Parakou",
-      "coordinates": "9.391186, 2.507311"
+      "coordinates": "9.391186, 2.507311",
+      "metar_available": false
     },
     {
       "ident": "DBBB",
@@ -29,7 +30,8 @@
       "municipality": "Cotonou",
       "gps_code": "DBBB",
       "iata_code": "COO",
-      "coordinates": "6.357230186462402, 2.384350061416626"
+      "coordinates": "6.357230186462402, 2.384350061416626",
+      "metar_available": false
     },
     {
       "ident": "DBBC",
@@ -41,7 +43,8 @@
       "iso_region": "BJ-ZO",
       "municipality": "Bohicon",
       "gps_code": "DBBC",
-      "coordinates": "7.125417, 2.046806"
+      "coordinates": "7.125417, 2.046806",
+      "metar_available": false
     },
     {
       "ident": "DBBD",
@@ -54,7 +57,8 @@
       "municipality": "Djougou",
       "gps_code": "DBBD",
       "iata_code": "DJA",
-      "coordinates": "9.69208333333, 1.63777777778"
+      "coordinates": "9.69208333333, 1.63777777778",
+      "metar_available": false
     },
     {
       "ident": "DBBK",
@@ -67,7 +71,8 @@
       "municipality": "Kandi",
       "gps_code": "DBBK",
       "iata_code": "KDC",
-      "coordinates": "11.14479, 2.940381"
+      "coordinates": "11.14479, 2.940381",
+      "metar_available": false
     },
     {
       "ident": "DBBN",
@@ -80,7 +85,8 @@
       "municipality": "Natitingou",
       "gps_code": "DBBN",
       "iata_code": "NAE",
-      "coordinates": "10.376965, 1.360507"
+      "coordinates": "10.376965, 1.360507",
+      "metar_available": false
     },
     {
       "ident": "DBBO",
@@ -92,7 +98,8 @@
       "iso_region": "BJ-AK",
       "municipality": "Porga",
       "gps_code": "DBBO",
-      "coordinates": "11.046563, 0.992613"
+      "coordinates": "11.046563, 0.992613",
+      "metar_available": false
     },
     {
       "ident": "DBBP",
@@ -105,7 +112,8 @@
       "municipality": "Parakou",
       "gps_code": "DBBP",
       "iata_code": "PKO",
-      "coordinates": "9.35768985748291, 2.609679937362671"
+      "coordinates": "9.35768985748291, 2.609679937362671",
+      "metar_available": false
     },
     {
       "ident": "DBBR",
@@ -117,7 +125,8 @@
       "iso_region": "BJ-BO",
       "municipality": "Bembereke",
       "gps_code": "DBBR",
-      "coordinates": "10.27409, 2.697082"
+      "coordinates": "10.27409, 2.697082",
+      "metar_available": false
     },
     {
       "ident": "DBBS",
@@ -130,7 +139,8 @@
       "municipality": "Savé",
       "gps_code": "DBBS",
       "iata_code": "SVF",
-      "coordinates": "8.018170356750488, 2.4645800590515137"
+      "coordinates": "8.018170356750488, 2.4645800590515137",
+      "metar_available": false
     }
   ]
 }

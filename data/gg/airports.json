@@ -2,7 +2,7 @@
   "country_code": "GG",
   "country_name": "Guernsey",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.682887",
+  "last_updated": "2025-08-25T10:08:40.824176",
   "types_distribution": {
     "medium_airport": 2,
     "closed": 1,
@@ -20,7 +20,8 @@
       "municipality": "Saint Anne",
       "gps_code": "EGJA",
       "iata_code": "ACI",
-      "coordinates": "49.706104, -2.21472"
+      "coordinates": "49.706104, -2.21472",
+      "metar_available": false
     },
     {
       "ident": "EGJB",
@@ -33,7 +34,8 @@
       "municipality": "Saint Peter Port",
       "gps_code": "EGJB",
       "iata_code": "GCI",
-      "coordinates": "49.435001, -2.60197"
+      "coordinates": "49.435001, -2.60197",
+      "metar_available": false
     },
     {
       "ident": "GG-0001",
@@ -43,7 +45,8 @@
       "iso_country": "GG",
       "iso_region": "GG-G",
       "municipality": "L'Erée",
-      "coordinates": "49.456424, -2.648456"
+      "coordinates": "49.456424, -2.648456",
+      "metar_available": false
     },
     {
       "ident": "GG-0002",
@@ -54,7 +57,8 @@
       "iso_country": "GG",
       "iso_region": "GG-G",
       "municipality": "Jethou",
-      "coordinates": "49.45857, -2.46263"
+      "coordinates": "49.45857, -2.46263",
+      "metar_available": false
     }
   ]
 }

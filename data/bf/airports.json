@@ -2,7 +2,7 @@
   "country_code": "BF",
   "country_name": "Burkina Faso",
   "total_airports": 50,
-  "last_updated": "2025-08-01T00:18:22.465784",
+  "last_updated": "2025-08-25T10:08:40.594942",
   "types_distribution": {
     "small_airport": 47,
     "closed": 1,
@@ -19,7 +19,8 @@
       "iso_region": "BF-OUD",
       "municipality": "Essakane Gold Mine",
       "gps_code": "DFEN",
-      "coordinates": "14.366389, 0.086944"
+      "coordinates": "14.366389, 0.086944",
+      "metar_available": false
     },
     {
       "ident": "BF-0002",
@@ -30,7 +31,8 @@
       "iso_country": "BF",
       "iso_region": "BF-COM",
       "municipality": "Loumana",
-      "coordinates": "10.567, -5.35"
+      "coordinates": "10.567, -5.35",
+      "metar_available": false
     },
     {
       "ident": "DFCA",
@@ -43,7 +45,8 @@
       "municipality": "Kaya",
       "gps_code": "DFCA",
       "iata_code": "XKY",
-      "coordinates": "13.067, -1.1"
+      "coordinates": "13.067, -1.1",
+      "metar_available": false
     },
     {
       "ident": "DFCB",
@@ -55,7 +58,8 @@
       "iso_region": "BF-SMT",
       "municipality": "Barsalogho",
       "gps_code": "DFCB",
-      "coordinates": "13.4, -1.067"
+      "coordinates": "13.4, -1.067",
+      "metar_available": false
     },
     {
       "ident": "DFCC",
@@ -68,7 +72,8 @@
       "municipality": "Ouahigouya",
       "gps_code": "DFCC",
       "iata_code": "OUG",
-      "coordinates": "13.655287, -2.322067"
+      "coordinates": "13.655287, -2.322067",
+      "metar_available": false
     },
     {
       "ident": "DFCD",
@@ -80,7 +85,8 @@
       "iso_region": "BF-SNG",
       "municipality": "Didyr",
       "gps_code": "DFCD",
-      "coordinates": "12.55, -2.617"
+      "coordinates": "12.55, -2.617",
+      "metar_available": false
     },
     {
       "ident": "DFCE",
@@ -92,7 +98,8 @@
       "iso_region": "BF-NOU",
       "municipality": "Batie",
       "gps_code": "DFCE",
-      "coordinates": "9.883000373840332, -2.9170000553131104"
+      "coordinates": "9.883000373840332, -2.9170000553131104",
+      "metar_available": false
     },
     {
       "ident": "DFCG",
@@ -104,7 +111,8 @@
       "iso_region": "BF-BAM",
       "municipality": "Kongoussi",
       "gps_code": "DFCG",
-      "coordinates": "13.317, -1.533"
+      "coordinates": "13.317, -1.533",
+      "metar_available": false
     },
     {
       "ident": "DFCI",
@@ -116,7 +124,8 @@
       "iso_region": "BF-LOR",
       "municipality": "Titao",
       "gps_code": "DFCI",
-      "coordinates": "13.767000198364258, -2.0829999446868896"
+      "coordinates": "13.767000198364258, -2.0829999446868896",
+      "metar_available": false
     },
     {
       "ident": "DFCJ",
@@ -129,7 +138,8 @@
       "municipality": "Djibo",
       "gps_code": "DFCJ",
       "iata_code": "XDJ",
-      "coordinates": "14.125, -1.624722"
+      "coordinates": "14.125, -1.624722",
+      "metar_available": false
     },
     {
       "ident": "DFCK",
@@ -141,7 +151,8 @@
       "iso_region": "BF-BLK",
       "municipality": "Koudougou",
       "gps_code": "DFCK",
-      "coordinates": "12.267, -2.4"
+      "coordinates": "12.267, -2.4",
+      "metar_available": false
     },
     {
       "ident": "DFCL",
@@ -154,7 +165,8 @@
       "municipality": "Leo",
       "gps_code": "DFCL",
       "iata_code": "XLU",
-      "coordinates": "11.1, -2.1"
+      "coordinates": "11.1, -2.1",
+      "metar_available": false
     },
     {
       "ident": "DFCM",
@@ -166,7 +178,8 @@
       "iso_region": "BF-ZOU",
       "municipality": "Manga",
       "gps_code": "DFCM",
-      "coordinates": "11.665351, -1.042542"
+      "coordinates": "11.665351, -1.042542",
+      "metar_available": false
     },
     {
       "ident": "DFCP",
@@ -179,7 +192,8 @@
       "municipality": "Po",
       "gps_code": "DFCP",
       "iata_code": "PUP",
-      "coordinates": "11.179139, -1.148472"
+      "coordinates": "11.179139, -1.148472",
+      "metar_available": false
     },
     {
       "ident": "DFCR",
@@ -191,7 +205,8 @@
       "iso_region": "BF-BAL",
       "municipality": "Poura",
       "gps_code": "DFCR",
-      "coordinates": "11.617, -2.75"
+      "coordinates": "11.617, -2.75",
+      "metar_available": false
     },
     {
       "ident": "DFCS",
@@ -203,7 +218,8 @@
       "iso_region": "BF-YAT",
       "municipality": "Seguenega",
       "gps_code": "DFCS",
-      "coordinates": "13.440602, -1.994359"
+      "coordinates": "13.440602, -1.994359",
+      "metar_available": false
     },
     {
       "ident": "DFCT",
@@ -215,7 +231,8 @@
       "iso_region": "BF-SNG",
       "municipality": "Tenado",
       "gps_code": "DFCT",
-      "coordinates": "12.199999809265137, -2.5829999446868896"
+      "coordinates": "12.199999809265137, -2.5829999446868896",
+      "metar_available": false
     },
     {
       "ident": "DFCU",
@@ -227,7 +244,8 @@
       "iso_region": "BF-ZON",
       "municipality": "Gourcy",
       "gps_code": "DFCU",
-      "coordinates": "13.199999809265137, -2.367000102996826"
+      "coordinates": "13.199999809265137, -2.367000102996826",
+      "metar_available": false
     },
     {
       "ident": "DFCY",
@@ -239,7 +257,8 @@
       "iso_region": "BF-PAS",
       "municipality": "Yako",
       "gps_code": "DFCY",
-      "coordinates": "12.95, -2.283"
+      "coordinates": "12.95, -2.283",
+      "metar_available": false
     },
     {
       "ident": "DFEA",
@@ -252,7 +271,8 @@
       "municipality": "Boulsa",
       "gps_code": "DFEA",
       "iata_code": "XBO",
-      "coordinates": "12.65, -0.567"
+      "coordinates": "12.65, -0.567",
+      "metar_available": false
     },
     {
       "ident": "DFEB",
@@ -265,7 +285,8 @@
       "municipality": "Bogande",
       "gps_code": "DFEB",
       "iata_code": "XBG",
-      "coordinates": "12.983, -0.167"
+      "coordinates": "12.983, -0.167",
+      "metar_available": false
     },
     {
       "ident": "DFEC",
@@ -277,7 +298,8 @@
       "iso_region": "BF-KOP",
       "municipality": "Komin-Yanga",
       "gps_code": "DFEC",
-      "coordinates": "11.699999809265137, 0.15000000596046448"
+      "coordinates": "11.699999809265137, 0.15000000596046448",
+      "metar_available": false
     },
     {
       "ident": "DFED",
@@ -290,7 +312,8 @@
       "municipality": "Diapaga",
       "gps_code": "DFED",
       "iata_code": "DIP",
-      "coordinates": "12.060324, 1.784631"
+      "coordinates": "12.060324, 1.784631",
+      "metar_available": false
     },
     {
       "ident": "DFEE",
@@ -303,7 +326,8 @@
       "municipality": "Dori",
       "gps_code": "DFEE",
       "iata_code": "DOR",
-      "coordinates": "14.021638, -0.068207"
+      "coordinates": "14.021638, -0.068207",
+      "metar_available": false
     },
     {
       "ident": "DFEF",
@@ -316,7 +340,8 @@
       "municipality": "Fada N'gourma",
       "gps_code": "DFEF",
       "iata_code": "FNG",
-      "coordinates": "12.033, 0.35"
+      "coordinates": "12.033, 0.35",
+      "metar_available": false
     },
     {
       "ident": "DFEG",
@@ -329,7 +354,8 @@
       "municipality": "Gorom-Gorom",
       "gps_code": "DFEG",
       "iata_code": "XGG",
-      "coordinates": "14.454174, -0.218644"
+      "coordinates": "14.454174, -0.218644",
+      "metar_available": false
     },
     {
       "ident": "DFEK",
@@ -341,7 +367,8 @@
       "iso_region": "BF-KOT",
       "municipality": "Koupela",
       "gps_code": "DFEK",
-      "coordinates": "12.166999816894531, -0.30000001192092896"
+      "coordinates": "12.166999816894531, -0.30000001192092896",
+      "metar_available": false
     },
     {
       "ident": "DFEL",
@@ -354,7 +381,8 @@
       "municipality": "Kantchari",
       "gps_code": "DFEL",
       "iata_code": "XKA",
-      "coordinates": "12.464046, 1.492939"
+      "coordinates": "12.464046, 1.492939",
+      "metar_available": false
     },
     {
       "ident": "DFEM",
@@ -367,7 +395,8 @@
       "municipality": "Tambao",
       "gps_code": "DFEM",
       "iata_code": "TMQ",
-      "coordinates": "14.790874, 0.039492"
+      "coordinates": "14.790874, 0.039492",
+      "metar_available": false
     },
     {
       "ident": "DFEO",
@@ -379,7 +408,8 @@
       "iso_region": "BF-GAN",
       "municipality": "Zorgo",
       "gps_code": "DFEO",
-      "coordinates": "12.249065, -0.620512"
+      "coordinates": "12.249065, -0.620512",
+      "metar_available": false
     },
     {
       "ident": "DFEP",
@@ -392,7 +422,8 @@
       "municipality": "Pama",
       "gps_code": "DFEP",
       "iata_code": "XPA",
-      "coordinates": "11.25, 0.7"
+      "coordinates": "11.25, 0.7",
+      "metar_available": false
     },
     {
       "ident": "DFER",
@@ -405,7 +436,8 @@
       "municipality": "Arly",
       "gps_code": "DFER",
       "iata_code": "ARL",
-      "coordinates": "11.597, 1.483"
+      "coordinates": "11.597, 1.483",
+      "metar_available": false
     },
     {
       "ident": "DFES",
@@ -418,7 +450,8 @@
       "municipality": "Sebba",
       "gps_code": "DFES",
       "iata_code": "XSE",
-      "coordinates": "13.45, 0.517"
+      "coordinates": "13.45, 0.517",
+      "metar_available": false
     },
     {
       "ident": "DFET",
@@ -431,7 +464,8 @@
       "municipality": "Tenkodogo",
       "gps_code": "DFET",
       "iata_code": "TEG",
-      "coordinates": "11.801149, -0.371377"
+      "coordinates": "11.801149, -0.371377",
+      "metar_available": false
     },
     {
       "ident": "DFEY",
@@ -443,7 +477,8 @@
       "iso_region": "BF-KOP",
       "municipality": "Ouargaye",
       "gps_code": "DFEY",
-      "coordinates": "11.517000198364258, 0.05000000074505806"
+      "coordinates": "11.517000198364258, 0.05000000074505806",
+      "metar_available": false
     },
     {
       "ident": "DFEZ",
@@ -456,7 +491,8 @@
       "municipality": "Zabré",
       "gps_code": "DFEZ",
       "iata_code": "XZA",
-      "coordinates": "11.167, -0.617"
+      "coordinates": "11.167, -0.617",
+      "metar_available": false
     },
     {
       "ident": "DFFD",
@@ -469,7 +505,8 @@
       "municipality": "Ouagadougou",
       "gps_code": "DFFD",
       "iata_code": "OUA",
-      "coordinates": "12.3532, -1.51242"
+      "coordinates": "12.3532, -1.51242",
+      "metar_available": false
     },
     {
       "ident": "DFOA",
@@ -481,7 +518,8 @@
       "iso_region": "BF-IOB",
       "municipality": "Dano",
       "gps_code": "DFOA",
-      "coordinates": "11.133, -3.067"
+      "coordinates": "11.133, -3.067",
+      "metar_available": false
     },
     {
       "ident": "DFOB",
@@ -494,7 +532,8 @@
       "municipality": "Banfora",
       "gps_code": "DFOB",
       "iata_code": "BNR",
-      "coordinates": "10.688861, -4.727726"
+      "coordinates": "10.688861, -4.727726",
+      "metar_available": false
     },
     {
       "ident": "DFOD",
@@ -507,7 +546,8 @@
       "municipality": "Dedougou",
       "gps_code": "DFOD",
       "iata_code": "DGU",
-      "coordinates": "12.459, -3.49"
+      "coordinates": "12.459, -3.49",
+      "metar_available": false
     },
     {
       "ident": "DFOF",
@@ -519,7 +559,8 @@
       "iso_region": "BF-MOU",
       "municipality": "Safane",
       "gps_code": "DFOF",
-      "coordinates": "12.149999618530273, -3.183000087738037"
+      "coordinates": "12.149999618530273, -3.183000087738037",
+      "metar_available": false
     },
     {
       "ident": "DFOG",
@@ -532,7 +573,8 @@
       "municipality": "Gaoua",
       "gps_code": "DFOG",
       "iata_code": "XGA",
-      "coordinates": "10.384059, -3.163454"
+      "coordinates": "10.384059, -3.163454",
+      "metar_available": false
     },
     {
       "ident": "DFOH",
@@ -544,7 +586,8 @@
       "iso_region": "BF-TUI",
       "municipality": "Houndé",
       "gps_code": "DFOH",
-      "coordinates": "11.491211, -3.512817"
+      "coordinates": "11.491211, -3.512817",
+      "metar_available": false
     },
     {
       "ident": "DFON",
@@ -557,7 +600,8 @@
       "municipality": "Nouna",
       "gps_code": "DFON",
       "iata_code": "XNU",
-      "coordinates": "12.75, -3.867000103"
+      "coordinates": "12.75, -3.867000103",
+      "metar_available": false
     },
     {
       "ident": "DFOO",
@@ -570,7 +614,8 @@
       "municipality": "Bobo Dioulasso",
       "gps_code": "DFOO",
       "iata_code": "BOY",
-      "coordinates": "11.160099983215332, -4.33096981048584"
+      "coordinates": "11.160099983215332, -4.33096981048584",
+      "metar_available": false
     },
     {
       "ident": "DFOR",
@@ -582,7 +627,8 @@
       "iso_region": "BF-KEN",
       "municipality": "Orodara",
       "gps_code": "DFOR",
-      "coordinates": "10.986103, -4.924793"
+      "coordinates": "10.986103, -4.924793",
+      "metar_available": false
     },
     {
       "ident": "DFOS",
@@ -594,7 +640,8 @@
       "iso_region": "BF-COM",
       "municipality": "Sideradougou",
       "gps_code": "DFOS",
-      "coordinates": "10.666999816894531, -4.267000198364258"
+      "coordinates": "10.666999816894531, -4.267000198364258",
+      "metar_available": false
     },
     {
       "ident": "DFOT",
@@ -607,7 +654,8 @@
       "municipality": "Tougan",
       "gps_code": "DFOT",
       "iata_code": "TUQ",
-      "coordinates": "13.059091, -3.077291"
+      "coordinates": "13.059091, -3.077291",
+      "metar_available": false
     },
     {
       "ident": "DFOU",
@@ -620,7 +668,8 @@
       "municipality": "Diebougou",
       "gps_code": "DFOU",
       "iata_code": "XDE",
-      "coordinates": "10.95, -3.25"
+      "coordinates": "10.95, -3.25",
+      "metar_available": false
     },
     {
       "ident": "DFOY",
@@ -633,7 +682,8 @@
       "municipality": "Aribinda",
       "gps_code": "DFOY",
       "iata_code": "XAR",
-      "coordinates": "14.217000007600001, -0.883000016212"
+      "coordinates": "14.217000007600001, -0.883000016212",
+      "metar_available": false
     }
   ]
 }

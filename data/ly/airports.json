@@ -2,7 +2,7 @@
   "country_code": "LY",
   "country_name": "Libya",
   "total_airports": 80,
-  "last_updated": "2025-08-01T00:18:22.743174",
+  "last_updated": "2025-08-25T10:08:40.889050",
   "types_distribution": {
     "small_airport": 62,
     "medium_airport": 12,
@@ -20,7 +20,8 @@
       "iso_region": "LY-WA",
       "gps_code": "HLTS",
       "local_code": "HL50",
-      "coordinates": "28.587099, 19.3034"
+      "coordinates": "28.587099, 19.3034",
+      "metar_available": false
     },
     {
       "ident": "HL53",
@@ -31,7 +32,8 @@
       "iso_country": "LY",
       "iso_region": "LY-TB",
       "municipality": "Ghashir",
-      "coordinates": "32.495112, 13.289911"
+      "coordinates": "32.495112, 13.289911",
+      "metar_available": false
     },
     {
       "ident": "HL54",
@@ -44,7 +46,8 @@
       "municipality": "Bani Waled",
       "gps_code": "HLWD",
       "local_code": "HL54",
-      "coordinates": "31.739201, 13.954"
+      "coordinates": "31.739201, 13.954",
+      "metar_available": false
     },
     {
       "ident": "HL56",
@@ -56,7 +59,8 @@
       "iso_region": "LY-KF",
       "gps_code": "HL56",
       "local_code": "HL56",
-      "coordinates": "21.6877, 21.8309"
+      "coordinates": "21.6877, 21.8309",
+      "metar_available": false
     },
     {
       "ident": "HL57",
@@ -69,7 +73,8 @@
       "municipality": "Al Wigh",
       "gps_code": "HL57",
       "local_code": "HL57",
-      "coordinates": "24.178316, 14.542894"
+      "coordinates": "24.178316, 14.542894",
+      "metar_available": false
     },
     {
       "ident": "HL58",
@@ -82,7 +87,8 @@
       "municipality": "Ajdabiya",
       "gps_code": "HL58",
       "local_code": "HL58",
-      "coordinates": "30.7651, 20.191401"
+      "coordinates": "30.7651, 20.191401",
+      "metar_available": false
     },
     {
       "ident": "HL59",
@@ -95,7 +101,8 @@
       "municipality": "Charruba",
       "gps_code": "HL59",
       "local_code": "HL59",
-      "coordinates": "31.998501, 21.191799"
+      "coordinates": "31.998501, 21.191799",
+      "metar_available": false
     },
     {
       "ident": "HL60",
@@ -107,7 +114,8 @@
       "iso_region": "LY-MJ",
       "municipality": "Al Marj",
       "gps_code": "HLMJ",
-      "coordinates": "32.525299, 20.875099"
+      "coordinates": "32.525299, 20.875099",
+      "metar_available": false
     },
     {
       "ident": "HL64",
@@ -120,7 +128,8 @@
       "municipality": "Benghazi",
       "gps_code": "HL64",
       "local_code": "HL64",
-      "coordinates": "31.9757, 20.026899"
+      "coordinates": "31.9757, 20.026899",
+      "metar_available": false
     },
     {
       "ident": "HL66",
@@ -133,7 +142,8 @@
       "municipality": "Tamanhint",
       "gps_code": "HLTM",
       "local_code": "HL66",
-      "coordinates": "27.240101, 14.6563"
+      "coordinates": "27.240101, 14.6563",
+      "metar_available": false
     },
     {
       "ident": "HL68",
@@ -145,7 +155,8 @@
       "iso_region": "LY-DR",
       "municipality": "Bombah",
       "gps_code": "HLBU",
-      "coordinates": "32.4529, 23.118601"
+      "coordinates": "32.4529, 23.118601",
+      "metar_available": false
     },
     {
       "ident": "HL69",
@@ -157,7 +168,8 @@
       "iso_region": "LY-JU",
       "gps_code": "HLJF",
       "local_code": "HL69",
-      "coordinates": "29.198099, 16.000999"
+      "coordinates": "29.198099, 16.000999",
+      "metar_available": false
     },
     {
       "ident": "HL70",
@@ -169,7 +181,8 @@
       "iso_region": "LY-WA",
       "gps_code": "HL70",
       "local_code": "HL70",
-      "coordinates": "27.257299423217773, 21.618099212646484"
+      "coordinates": "27.257299423217773, 21.618099212646484",
+      "metar_available": false
     },
     {
       "ident": "HL71",
@@ -180,7 +193,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WD",
       "local_code": "HL71",
-      "coordinates": "26.332399, 13.4221"
+      "coordinates": "26.332399, 13.4221",
+      "metar_available": false
     },
     {
       "ident": "HL72",
@@ -192,7 +206,8 @@
       "iso_region": "LY-JU",
       "gps_code": "HLWN",
       "local_code": "HL72",
-      "coordinates": "29.1392, 16.160299"
+      "coordinates": "29.1392, 16.160299",
+      "metar_available": false
     },
     {
       "ident": "HL77",
@@ -202,7 +217,8 @@
       "continent": "AF",
       "iso_country": "LY",
       "iso_region": "LY-NQ",
-      "coordinates": "32.473400116, 11.897899627700001"
+      "coordinates": "32.473400116, 11.897899627700001",
+      "metar_available": false
     },
     {
       "ident": "HL78",
@@ -214,7 +230,8 @@
       "iso_region": "LY-JG",
       "gps_code": "HLHM",
       "local_code": "HL78",
-      "coordinates": "30.7019, 12.484"
+      "coordinates": "30.7019, 12.484",
+      "metar_available": false
     },
     {
       "ident": "HL79",
@@ -226,7 +243,8 @@
       "iso_region": "LY-MQ",
       "gps_code": "HL79",
       "local_code": "HL79",
-      "coordinates": "25.356800079345703, 16.809999465942383"
+      "coordinates": "25.356800079345703, 16.809999465942383",
+      "metar_available": false
     },
     {
       "ident": "HL80",
@@ -239,7 +257,8 @@
       "municipality": "Sidra",
       "gps_code": "HL80",
       "local_code": "HL80",
-      "coordinates": "30.643, 18.320801"
+      "coordinates": "30.643, 18.320801",
+      "metar_available": false
     },
     {
       "ident": "HL81",
@@ -251,7 +270,8 @@
       "iso_region": "LY-JG",
       "gps_code": "HLNM",
       "local_code": "HL81",
-      "coordinates": "29.531099, 12.9437"
+      "coordinates": "29.531099, 12.9437",
+      "metar_available": false
     },
     {
       "ident": "HL82",
@@ -264,7 +284,8 @@
       "municipality": "Zillah",
       "gps_code": "HLDB",
       "local_code": "HL82",
-      "coordinates": "28.961901, 17.5881"
+      "coordinates": "28.961901, 17.5881",
+      "metar_available": false
     },
     {
       "ident": "HL83",
@@ -277,7 +298,8 @@
       "municipality": "Bani Waled",
       "gps_code": "HL83",
       "local_code": "HL83",
-      "coordinates": "31.7052, 14.9116"
+      "coordinates": "31.7052, 14.9116",
+      "metar_available": false
     },
     {
       "ident": "HL84",
@@ -289,7 +311,8 @@
       "iso_region": "LY-WA",
       "gps_code": "HLML",
       "local_code": "HL84",
-      "coordinates": "27.9757, 22.357401"
+      "coordinates": "27.9757, 22.357401",
+      "metar_available": false
     },
     {
       "ident": "HLAM",
@@ -301,7 +324,8 @@
       "iso_region": "LY-WA",
       "municipality": "Amal V12",
       "gps_code": "HLAM",
-      "coordinates": "29.47949981689453, 21.122400283813477"
+      "coordinates": "29.47949981689453, 21.122400283813477",
+      "metar_available": false
     },
     {
       "ident": "HLBD",
@@ -313,7 +337,8 @@
       "iso_region": "LY-WA",
       "municipality": "Beda M3",
       "gps_code": "HLBD",
-      "coordinates": "28.503299713134766, 19.00279998779297"
+      "coordinates": "28.503299713134766, 19.00279998779297",
+      "metar_available": false
     },
     {
       "ident": "HLBS",
@@ -324,7 +349,8 @@
       "iso_country": "LY",
       "iso_region": "LY-BU",
       "gps_code": "HLBS",
-      "coordinates": "29.9124, 23.287275"
+      "coordinates": "29.9124, 23.287275",
+      "metar_available": false
     },
     {
       "ident": "HLFE",
@@ -335,7 +361,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WD",
       "gps_code": "HLFE",
-      "coordinates": "26.0425, 12.047833"
+      "coordinates": "26.0425, 12.047833",
+      "metar_available": false
     },
     {
       "ident": "HLFL",
@@ -346,7 +373,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WA",
       "gps_code": "HLFL",
-      "coordinates": "28.795400619506836, 22.080900192260742"
+      "coordinates": "28.795400619506836, 22.080900192260742",
+      "metar_available": false
     },
     {
       "ident": "HLGD",
@@ -359,7 +387,8 @@
       "municipality": "Sirt",
       "gps_code": "HLGD",
       "iata_code": "SRX",
-      "coordinates": "31.063499, 16.594999"
+      "coordinates": "31.063499, 16.594999",
+      "metar_available": false
     },
     {
       "ident": "HLGL",
@@ -370,7 +399,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WA",
       "gps_code": "HLGL",
-      "coordinates": "28.638500213623047, 21.437999725341797"
+      "coordinates": "28.638500213623047, 21.437999725341797",
+      "metar_available": false
     },
     {
       "ident": "HLGT",
@@ -383,7 +413,8 @@
       "municipality": "Ghat",
       "gps_code": "HLGT",
       "iata_code": "GHT",
-      "coordinates": "25.1455993652, 10.142600059500001"
+      "coordinates": "25.1455993652, 10.142600059500001",
+      "metar_available": false
     },
     {
       "ident": "HLHB",
@@ -394,7 +425,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WA",
       "gps_code": "HLHB",
-      "coordinates": "29.733611, 19.697222"
+      "coordinates": "29.733611, 19.697222",
+      "metar_available": false
     },
     {
       "ident": "HLKF",
@@ -407,7 +439,8 @@
       "municipality": "Kufra",
       "gps_code": "HLKF",
       "iata_code": "AKF",
-      "coordinates": "24.178699493408203, 23.31399917602539"
+      "coordinates": "24.178699493408203, 23.31399917602539",
+      "metar_available": false
     },
     {
       "ident": "HLLB",
@@ -420,7 +453,8 @@
       "municipality": "Benina",
       "gps_code": "HLLB",
       "iata_code": "BEN",
-      "coordinates": "32.096802, 20.269501"
+      "coordinates": "32.096802, 20.269501",
+      "metar_available": false
     },
     {
       "ident": "HLLM",
@@ -433,7 +467,8 @@
       "municipality": "Tripoli",
       "gps_code": "HLLM",
       "iata_code": "MJI",
-      "coordinates": "32.89177, 13.287878"
+      "coordinates": "32.89177, 13.287878",
+      "metar_available": false
     },
     {
       "ident": "HLLQ",
@@ -446,7 +481,8 @@
       "municipality": "Al Albraq",
       "gps_code": "HLLQ",
       "iata_code": "LAQ",
-      "coordinates": "32.7887, 21.9643"
+      "coordinates": "32.7887, 21.9643",
+      "metar_available": false
     },
     {
       "ident": "HLLS",
@@ -459,7 +495,8 @@
       "municipality": "Sabha",
       "gps_code": "HLLS",
       "iata_code": "SEB",
-      "coordinates": "26.992452, 14.466162"
+      "coordinates": "26.992452, 14.466162",
+      "metar_available": false
     },
     {
       "ident": "HLMB",
@@ -472,7 +509,8 @@
       "municipality": "Marsa al Brega",
       "gps_code": "HLMB",
       "iata_code": "LMQ",
-      "coordinates": "30.378099, 19.576401"
+      "coordinates": "30.378099, 19.576401",
+      "metar_available": false
     },
     {
       "ident": "HLMS",
@@ -485,7 +523,8 @@
       "municipality": "Misrata",
       "gps_code": "HLMS",
       "iata_code": "MRA",
-      "coordinates": "32.325001, 15.061"
+      "coordinates": "32.325001, 15.061",
+      "metar_available": false
     },
     {
       "ident": "HLNF",
@@ -497,7 +536,8 @@
       "iso_region": "LY-SR",
       "municipality": "Ras Lanuf",
       "gps_code": "HLNF",
-      "coordinates": "30.5, 18.527201"
+      "coordinates": "30.5, 18.527201",
+      "metar_available": false
     },
     {
       "ident": "HLNR",
@@ -510,7 +550,8 @@
       "municipality": "Nafurah 1",
       "gps_code": "HLNR",
       "iata_code": "NFR",
-      "coordinates": "29.2132, 21.5924"
+      "coordinates": "29.2132, 21.5924",
+      "metar_available": false
     },
     {
       "ident": "HLON",
@@ -522,7 +563,8 @@
       "iso_region": "LY-JU",
       "gps_code": "HLON",
       "iata_code": "HUQ",
-      "coordinates": "29.1101, 15.9656"
+      "coordinates": "29.1101, 15.9656",
+      "metar_available": false
     },
     {
       "ident": "HLRA",
@@ -534,7 +576,8 @@
       "iso_region": "LY-SR",
       "municipality": "Dahra",
       "gps_code": "HLRA",
-      "coordinates": "29.47117, 17.929354"
+      "coordinates": "29.47117, 17.929354",
+      "metar_available": false
     },
     {
       "ident": "HLRF",
@@ -545,7 +588,8 @@
       "iso_country": "LY",
       "iso_region": "LY-SR",
       "gps_code": "HLRF",
-      "coordinates": "31.2075, 16.423"
+      "coordinates": "31.2075, 16.423",
+      "metar_available": false
     },
     {
       "ident": "HLRG",
@@ -557,7 +601,8 @@
       "iso_region": "LY-WA",
       "municipality": "Adjabiya",
       "gps_code": "HLRG",
-      "coordinates": "29.099444, 19.042222"
+      "coordinates": "29.099444, 19.042222",
+      "metar_available": false
     },
     {
       "ident": "HLSA",
@@ -569,7 +614,8 @@
       "iso_region": "LY-WA",
       "municipality": "Sarir",
       "gps_code": "HLSA",
-      "coordinates": "27.662399291992188, 22.50860023498535"
+      "coordinates": "27.662399291992188, 22.50860023498535",
+      "metar_available": false
     },
     {
       "ident": "HLSB",
@@ -580,7 +626,8 @@
       "iso_country": "LY",
       "iso_region": "LY-JU",
       "gps_code": "HLSB",
-      "coordinates": "28.2225, 18.109444"
+      "coordinates": "28.2225, 18.109444",
+      "metar_available": false
     },
     {
       "ident": "HLSH",
@@ -591,7 +638,8 @@
       "iso_country": "LY",
       "iso_region": "LY-U-A",
       "gps_code": "HLSH",
-      "coordinates": "29.54, 20.17"
+      "coordinates": "29.54, 20.17",
+      "metar_available": false
     },
     {
       "ident": "HLTD",
@@ -604,7 +652,8 @@
       "municipality": "Ghadames",
       "gps_code": "HLTD",
       "iata_code": "LTD",
-      "coordinates": "30.151699, 9.71531"
+      "coordinates": "30.151699, 9.71531",
+      "metar_available": false
     },
     {
       "ident": "HLTQ",
@@ -617,7 +666,8 @@
       "municipality": "Adam",
       "gps_code": "HLTQ",
       "iata_code": "TOB",
-      "coordinates": "31.861, 23.907"
+      "coordinates": "31.861, 23.907",
+      "metar_available": false
     },
     {
       "ident": "HLUB",
@@ -630,7 +680,8 @@
       "municipality": "Ubari",
       "gps_code": "HLUB",
       "iata_code": "QUB",
-      "coordinates": "26.567499, 12.8231"
+      "coordinates": "26.567499, 12.8231",
+      "metar_available": false
     },
     {
       "ident": "HLWA",
@@ -642,7 +693,8 @@
       "iso_region": "LY-WA",
       "municipality": "Warehouse 59A",
       "gps_code": "HLWA",
-      "coordinates": "28.322399139404297, 19.93000030517578"
+      "coordinates": "28.322399139404297, 19.93000030517578",
+      "metar_available": false
     },
     {
       "ident": "HLWF",
@@ -653,7 +705,8 @@
       "iso_country": "LY",
       "iso_region": "LY-NL",
       "gps_code": "HLWF",
-      "coordinates": "28.903, 10.081667"
+      "coordinates": "28.903, 10.081667",
+      "metar_available": false
     },
     {
       "ident": "HLZA",
@@ -665,7 +718,8 @@
       "iso_region": "LY-JU",
       "municipality": "Zillah",
       "gps_code": "HLZA",
-      "coordinates": "28.587462, 17.298746"
+      "coordinates": "28.587462, 17.298746",
+      "metar_available": false
     },
     {
       "ident": "HLZG",
@@ -677,7 +731,8 @@
       "iso_region": "LY-WA",
       "municipality": "Oxy A 103",
       "gps_code": "HLZG",
-      "coordinates": "29.00629997253418, 20.786100387573242"
+      "coordinates": "29.00629997253418, 20.786100387573242",
+      "metar_available": false
     },
     {
       "ident": "HLZN",
@@ -690,7 +745,8 @@
       "municipality": "Zintan",
       "gps_code": "HLZN",
       "iata_code": "ZIS",
-      "coordinates": "31.774878, 12.25006"
+      "coordinates": "31.774878, 12.25006",
+      "metar_available": false
     },
     {
       "ident": "HLZU",
@@ -702,7 +758,8 @@
       "iso_region": "LY-WA",
       "municipality": "Ajdabiya",
       "gps_code": "HLZU",
-      "coordinates": "30.870199, 20.0755"
+      "coordinates": "30.870199, 20.0755",
+      "metar_available": false
     },
     {
       "ident": "HLZW",
@@ -716,7 +773,8 @@
       "gps_code": "HLZW",
       "iata_code": "WAX",
       "local_code": "HL75",
-      "coordinates": "32.952301, 12.0155"
+      "coordinates": "32.952301, 12.0155",
+      "metar_available": false
     },
     {
       "ident": "LY-0001",
@@ -727,7 +785,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WA",
       "gps_code": "HLSM",
-      "coordinates": "28.1688, 19.209499"
+      "coordinates": "28.1688, 19.209499",
+      "metar_available": false
     },
     {
       "ident": "LY-0002",
@@ -739,7 +798,8 @@
       "iso_region": "LY-WA",
       "municipality": "Adjabiya",
       "gps_code": "HLZT",
-      "coordinates": "28.954483, 19.773816"
+      "coordinates": "28.954483, 19.773816",
+      "metar_available": false
     },
     {
       "ident": "LY-0003",
@@ -748,7 +808,8 @@
       "continent": "AF",
       "iso_country": "LY",
       "iso_region": "LY-BU",
-      "coordinates": "29.873888, 23.347918"
+      "coordinates": "29.873888, 23.347918",
+      "metar_available": false
     },
     {
       "ident": "LY-0004",
@@ -758,7 +819,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WD",
       "municipality": "Wadi Barjuj",
-      "coordinates": "26.033861, 12.925694"
+      "coordinates": "26.033861, 12.925694",
+      "metar_available": false
     },
     {
       "ident": "LY-0005",
@@ -768,7 +830,8 @@
       "iso_country": "LY",
       "iso_region": "LY-SH",
       "municipality": "Al Mansura",
-      "coordinates": "27.548953, 12.820745"
+      "coordinates": "27.548953, 12.820745",
+      "metar_available": false
     },
     {
       "ident": "LY-0006",
@@ -779,7 +842,8 @@
       "iso_country": "LY",
       "iso_region": "LY-DR",
       "municipality": "Bombah",
-      "coordinates": "32.41779, 23.126135"
+      "coordinates": "32.41779, 23.126135",
+      "metar_available": false
     },
     {
       "ident": "LY-0007",
@@ -790,7 +854,8 @@
       "iso_country": "LY",
       "iso_region": "LY-BU",
       "municipality": "Qaryat Maqrun",
-      "coordinates": "32.103124, 23.83335"
+      "coordinates": "32.103124, 23.83335",
+      "metar_available": false
     },
     {
       "ident": "LY-0008",
@@ -800,7 +865,8 @@
       "iso_country": "LY",
       "iso_region": "LY-SR",
       "municipality": "Ras Lanuf",
-      "coordinates": "30.4429, 18.5808"
+      "coordinates": "30.4429, 18.5808",
+      "metar_available": false
     },
     {
       "ident": "LY-0009",
@@ -812,7 +878,8 @@
       "iso_region": "LY-BU",
       "municipality": "Kambut",
       "gps_code": "HLBK",
-      "coordinates": "31.8345, 24.6061"
+      "coordinates": "31.8345, 24.6061",
+      "metar_available": false
     },
     {
       "ident": "LY-0010",
@@ -824,7 +891,8 @@
       "iso_region": "LY-JU",
       "municipality": "Zillah",
       "gps_code": "HLFD",
-      "coordinates": "28.94671, 17.27365"
+      "coordinates": "28.94671, 17.27365",
+      "metar_available": false
     },
     {
       "ident": "LY-0011",
@@ -834,7 +902,8 @@
       "iso_country": "LY",
       "iso_region": "LY-SR",
       "municipality": "Jofra",
-      "coordinates": "29.3613, 18.00728"
+      "coordinates": "29.3613, 18.00728",
+      "metar_available": false
     },
     {
       "ident": "LY-0012",
@@ -844,7 +913,8 @@
       "iso_country": "LY",
       "iso_region": "LY-MB",
       "municipality": "Zliten",
-      "coordinates": "32.07887, 14.30198"
+      "coordinates": "32.07887, 14.30198",
+      "metar_available": false
     },
     {
       "ident": "LY-0013",
@@ -854,7 +924,8 @@
       "iso_country": "LY",
       "iso_region": "LY-JG",
       "municipality": "Abo-Maade",
-      "coordinates": "31.943495, 13.159046"
+      "coordinates": "31.943495, 13.159046",
+      "metar_available": false
     },
     {
       "ident": "LY-0014",
@@ -864,7 +935,8 @@
       "iso_country": "LY",
       "iso_region": "LY-JG",
       "municipality": "Ash Shwayrif",
-      "coordinates": "29.92428, 14.21152"
+      "coordinates": "29.92428, 14.21152",
+      "metar_available": false
     },
     {
       "ident": "LY-0015",
@@ -876,7 +948,8 @@
       "iso_region": "LY-WD",
       "municipality": "Taramhe",
       "gps_code": "HLCH",
-      "coordinates": "26.54356, 12.22578"
+      "coordinates": "26.54356, 12.22578",
+      "metar_available": false
     },
     {
       "ident": "LY-0016",
@@ -885,7 +958,8 @@
       "continent": "AF",
       "iso_country": "LY",
       "iso_region": "LY-BU",
-      "coordinates": "31.845198, 24.599762"
+      "coordinates": "31.845198, 24.599762",
+      "metar_available": false
     },
     {
       "ident": "LY-0017",
@@ -896,7 +970,8 @@
       "iso_country": "LY",
       "iso_region": "LY-SH",
       "local_code": "HLATS",
-      "coordinates": "27.753056, 11.043611"
+      "coordinates": "27.753056, 11.043611",
+      "metar_available": false
     },
     {
       "ident": "LY-0018",
@@ -907,7 +982,8 @@
       "iso_country": "LY",
       "iso_region": "LY-WA",
       "local_code": "HLATH",
-      "coordinates": "29.62058, 19.64761"
+      "coordinates": "29.62058, 19.64761",
+      "metar_available": false
     },
     {
       "ident": "LY-0019",
@@ -918,7 +994,8 @@
       "iso_country": "LY",
       "iso_region": "LY-TB",
       "municipality": "Tripoli",
-      "coordinates": "32.663502, 13.159"
+      "coordinates": "32.663502, 13.159",
+      "metar_available": false
     },
     {
       "ident": "LY-0020",
@@ -929,7 +1006,8 @@
       "iso_country": "LY",
       "iso_region": "LY-SR",
       "municipality": "Sidra",
-      "coordinates": "30.632622, 18.322921"
+      "coordinates": "30.632622, 18.322921",
+      "metar_available": false
     },
     {
       "ident": "LY-BCQ",
@@ -941,7 +1019,8 @@
       "iso_region": "LY-SH",
       "municipality": "Brak",
       "iata_code": "BCQ",
-      "coordinates": "27.653, 14.272"
+      "coordinates": "27.653, 14.272",
+      "metar_available": false
     },
     {
       "ident": "LY-DNF",
@@ -953,7 +1032,8 @@
       "iso_region": "LY-DR",
       "municipality": "Martuba",
       "iata_code": "DNF",
-      "coordinates": "32.542, 22.745001"
+      "coordinates": "32.542, 22.745001",
+      "metar_available": false
     }
   ]
 }

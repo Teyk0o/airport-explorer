@@ -2,7 +2,7 @@
   "country_code": "VI",
   "country_name": "U.S. Virgin Islands",
   "total_airports": 11,
-  "last_updated": "2025-08-01T00:18:22.845486",
+  "last_updated": "2025-08-25T10:08:41.001174",
   "types_distribution": {
     "seaplane_base": 3,
     "medium_airport": 2,
@@ -18,7 +18,8 @@
       "iso_region": "VI-SJ",
       "municipality": "Cruz Bay",
       "iata_code": "SJF",
-      "coordinates": "18.3315, -64.796"
+      "coordinates": "18.3315, -64.796",
+      "metar_available": false
     },
     {
       "ident": "TIST",
@@ -31,7 +32,8 @@
       "gps_code": "TIST",
       "iata_code": "STT",
       "local_code": "STT",
-      "coordinates": "18.337091, -64.977251"
+      "coordinates": "18.337091, -64.977251",
+      "metar_available": false
     },
     {
       "ident": "TISX",
@@ -44,7 +46,8 @@
       "gps_code": "TISX",
       "iata_code": "STX",
       "local_code": "STX",
-      "coordinates": "17.701413, -64.802608"
+      "coordinates": "17.701413, -64.802608",
+      "metar_available": false
     },
     {
       "ident": "VI-0001",
@@ -54,7 +57,8 @@
       "iso_country": "VI",
       "iso_region": "VI-ST",
       "municipality": "Bakkeroe",
-      "coordinates": "18.319921, -64.921882"
+      "coordinates": "18.319921, -64.921882",
+      "metar_available": false
     },
     {
       "ident": "VI-0002",
@@ -64,7 +68,8 @@
       "iso_country": "VI",
       "iso_region": "VI-SJ",
       "municipality": "Susannaberg",
-      "coordinates": "18.34078, -64.77402"
+      "coordinates": "18.34078, -64.77402",
+      "metar_available": false
     },
     {
       "ident": "VI-0003",
@@ -74,7 +79,8 @@
       "iso_country": "VI",
       "iso_region": "VI-ST",
       "municipality": "Charlotte Amalie",
-      "coordinates": "18.3414, -64.91418"
+      "coordinates": "18.3414, -64.91418",
+      "metar_available": false
     },
     {
       "ident": "VI01",
@@ -86,7 +92,8 @@
       "municipality": "Frederiksted",
       "gps_code": "VI01",
       "local_code": "VI01",
-      "coordinates": "17.709208, -64.796512"
+      "coordinates": "17.709208, -64.796512",
+      "metar_available": false
     },
     {
       "ident": "VI02",
@@ -98,7 +105,8 @@
       "municipality": "Charlotte Amalie",
       "gps_code": "VI02",
       "local_code": "VI02",
-      "coordinates": "18.338482, -64.93994"
+      "coordinates": "18.338482, -64.93994",
+      "metar_available": false
     },
     {
       "ident": "VI04",
@@ -108,7 +116,8 @@
       "iso_country": "VI",
       "iso_region": "VI-ST",
       "municipality": "Charlotte Amalie",
-      "coordinates": "18.345788, -64.904031"
+      "coordinates": "18.345788, -64.904031",
+      "metar_available": false
     },
     {
       "ident": "VI22",
@@ -120,7 +129,8 @@
       "gps_code": "VI22",
       "iata_code": "SPB",
       "local_code": "VI22",
-      "coordinates": "18.338204, -64.939675"
+      "coordinates": "18.338204, -64.939675",
+      "metar_available": false
     },
     {
       "ident": "VI32",
@@ -132,7 +142,8 @@
       "gps_code": "VI32",
       "iata_code": "SSB",
       "local_code": "VI32",
-      "coordinates": "17.7472, -64.704903"
+      "coordinates": "17.7472, -64.704903",
+      "metar_available": false
     }
   ]
 }

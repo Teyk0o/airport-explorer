@@ -2,7 +2,7 @@
   "country_code": "RO",
   "country_name": "Romania",
   "total_airports": 145,
-  "last_updated": "2025-08-01T00:18:22.819955",
+  "last_updated": "2025-08-25T10:08:40.973876",
   "types_distribution": {
     "medium_airport": 21,
     "heliport": 24,
@@ -20,7 +20,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BR",
       "municipality": "Ianca",
-      "coordinates": "45.158699, 27.430901"
+      "coordinates": "45.158699, 27.430901",
+      "metar_available": false
     },
     {
       "ident": "LR80",
@@ -32,7 +33,8 @@
       "iso_region": "RO-CL",
       "municipality": "Borcea",
       "gps_code": "LRFT",
-      "coordinates": "44.3923, 27.7267"
+      "coordinates": "44.3923, 27.7267",
+      "metar_available": false
     },
     {
       "ident": "LR82",
@@ -44,7 +46,8 @@
       "iso_region": "RO-BZ",
       "municipality": "Boboc",
       "gps_code": "LRBO",
-      "coordinates": "45.2164, 26.9786"
+      "coordinates": "45.2164, 26.9786",
+      "metar_available": false
     },
     {
       "ident": "LRAR",
@@ -57,7 +60,8 @@
       "municipality": "Arad",
       "gps_code": "LRAR",
       "iata_code": "ARW",
-      "coordinates": "46.176601, 21.261999"
+      "coordinates": "46.176601, 21.261999",
+      "metar_available": false
     },
     {
       "ident": "LRBC",
@@ -70,7 +74,8 @@
       "municipality": "Bacău",
       "gps_code": "LRBC",
       "iata_code": "BCM",
-      "coordinates": "46.5219, 26.910299"
+      "coordinates": "46.5219, 26.910299",
+      "metar_available": false
     },
     {
       "ident": "LRBG",
@@ -82,7 +87,8 @@
       "iso_region": "RO-BV",
       "municipality": "Brașov (Ghimbav)",
       "gps_code": "LRBG",
-      "coordinates": "45.6873, 25.527073"
+      "coordinates": "45.6873, 25.527073",
+      "metar_available": false
     },
     {
       "ident": "LRBK",
@@ -94,7 +100,8 @@
       "iso_region": "RO-IF",
       "municipality": "Moara Vlasiei",
       "gps_code": "LRBK",
-      "coordinates": "44.633011, 26.197479"
+      "coordinates": "44.633011, 26.197479",
+      "metar_available": false
     },
     {
       "ident": "LRBM",
@@ -107,7 +114,8 @@
       "municipality": "Tăuții-Măgherăuș",
       "gps_code": "LRBM",
       "iata_code": "BAY",
-      "coordinates": "47.658444, 23.464445"
+      "coordinates": "47.658444, 23.464445",
+      "metar_available": false
     },
     {
       "ident": "LRBN",
@@ -118,7 +126,8 @@
       "iso_region": "RO-BN",
       "municipality": "Bistrița",
       "gps_code": "LRBN",
-      "coordinates": "47.158575, 24.552311"
+      "coordinates": "47.158575, 24.552311",
+      "metar_available": false
     },
     {
       "ident": "LRBS",
@@ -131,7 +140,8 @@
       "municipality": "Bucharest",
       "gps_code": "LRBS",
       "iata_code": "BBU",
-      "coordinates": "44.503201, 26.1021"
+      "coordinates": "44.503201, 26.1021",
+      "metar_available": false
     },
     {
       "ident": "LRBV",
@@ -144,7 +154,8 @@
       "municipality": "Brașov (Ghimbav)",
       "gps_code": "LRBV",
       "iata_code": "GHV",
-      "coordinates": "45.70558, 25.522871"
+      "coordinates": "45.70558, 25.522871",
+      "metar_available": false
     },
     {
       "ident": "LRCC",
@@ -156,7 +167,8 @@
       "iso_region": "RO-BC",
       "municipality": "Oituz",
       "gps_code": "LRCC",
-      "coordinates": "46.210684, 26.603018"
+      "coordinates": "46.210684, 26.603018",
+      "metar_available": false
     },
     {
       "ident": "LRCD",
@@ -168,7 +180,8 @@
       "iso_region": "RO-SB",
       "municipality": "Cisnădie",
       "gps_code": "LRCD",
-      "coordinates": "45.737222, 24.165278"
+      "coordinates": "45.737222, 24.165278",
+      "metar_available": false
     },
     {
       "ident": "LRCK",
@@ -181,7 +194,8 @@
       "municipality": "Mihail Kogălniceanu",
       "gps_code": "LRCK",
       "iata_code": "CND",
-      "coordinates": "44.362202, 28.4883"
+      "coordinates": "44.362202, 28.4883",
+      "metar_available": false
     },
     {
       "ident": "LRCL",
@@ -194,7 +208,8 @@
       "municipality": "Cluj-Napoca",
       "gps_code": "LRCL",
       "iata_code": "CLJ",
-      "coordinates": "46.787425, 23.684292"
+      "coordinates": "46.787425, 23.684292",
+      "metar_available": false
     },
     {
       "ident": "LRCN",
@@ -205,7 +220,8 @@
       "iso_region": "RO-IF",
       "municipality": "Clinceni",
       "gps_code": "LRCN",
-      "coordinates": "44.35902, 25.93196"
+      "coordinates": "44.35902, 25.93196",
+      "metar_available": false
     },
     {
       "ident": "LRCS",
@@ -218,7 +234,8 @@
       "municipality": "Caransebeş",
       "gps_code": "LRCS",
       "iata_code": "CSB",
-      "coordinates": "45.420142, 22.252507"
+      "coordinates": "45.420142, 22.252507",
+      "metar_available": false
     },
     {
       "ident": "LRCT",
@@ -230,7 +247,8 @@
       "iso_region": "RO-CJ",
       "municipality": "Câmpia Turzii",
       "gps_code": "LRCT",
-      "coordinates": "46.50230026245117, 23.885900497436523"
+      "coordinates": "46.50230026245117, 23.885900497436523",
+      "metar_available": false
     },
     {
       "ident": "LRCV",
@@ -243,7 +261,8 @@
       "municipality": "Craiova",
       "gps_code": "LRCV",
       "iata_code": "CRA",
-      "coordinates": "44.3181, 23.888599"
+      "coordinates": "44.3181, 23.888599",
+      "metar_available": false
     },
     {
       "ident": "LRFB",
@@ -255,7 +274,8 @@
       "iso_region": "RO-BH",
       "municipality": "Almasu Mare",
       "gps_code": "LRFB",
-      "coordinates": "47.3425, 22.575"
+      "coordinates": "47.3425, 22.575",
+      "metar_available": false
     },
     {
       "ident": "LRFL",
@@ -266,7 +286,8 @@
       "iso_region": "RO-SV",
       "municipality": "Floreni",
       "gps_code": "LRFL",
-      "coordinates": "47.363094, 25.210346"
+      "coordinates": "47.363094, 25.210346",
+      "metar_available": false
     },
     {
       "ident": "LRHO",
@@ -277,7 +298,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BH",
       "gps_code": "LRHO",
-      "coordinates": "47.064167, 21.954167"
+      "coordinates": "47.064167, 21.954167",
+      "metar_available": false
     },
     {
       "ident": "LRIA",
@@ -290,7 +312,8 @@
       "municipality": "Iaşi",
       "gps_code": "LRIA",
       "iata_code": "IAS",
-      "coordinates": "47.180278, 27.620833"
+      "coordinates": "47.180278, 27.620833",
+      "metar_available": false
     },
     {
       "ident": "LROD",
@@ -303,7 +326,8 @@
       "municipality": "Oradea",
       "gps_code": "LROD",
       "iata_code": "OMR",
-      "coordinates": "47.025299072265625, 21.90250015258789"
+      "coordinates": "47.025299072265625, 21.90250015258789",
+      "metar_available": false
     },
     {
       "ident": "LROP",
@@ -316,7 +340,8 @@
       "municipality": "Otopeni",
       "gps_code": "LROP",
       "iata_code": "OTP",
-      "coordinates": "44.572127, 26.103396"
+      "coordinates": "44.572127, 26.103396",
+      "metar_available": false
     },
     {
       "ident": "LRPH",
@@ -327,7 +352,8 @@
       "iso_region": "RO-PH",
       "municipality": "Tăriceni",
       "gps_code": "LRPH",
-      "coordinates": "44.783792, 25.983205"
+      "coordinates": "44.783792, 25.983205",
+      "metar_available": false
     },
     {
       "ident": "LRPT",
@@ -339,7 +365,8 @@
       "iso_region": "RO-AG",
       "municipality": "Geamăna",
       "gps_code": "LRPT",
-      "coordinates": "44.817504, 24.897822"
+      "coordinates": "44.817504, 24.897822",
+      "metar_available": false
     },
     {
       "ident": "LRPV",
@@ -351,7 +378,8 @@
       "iso_region": "RO-PH",
       "municipality": "Strejnicu",
       "gps_code": "LRPW",
-      "coordinates": "44.92367, 25.963418"
+      "coordinates": "44.92367, 25.963418",
+      "metar_available": false
     },
     {
       "ident": "LRSB",
@@ -364,7 +392,8 @@
       "municipality": "Sibiu",
       "gps_code": "LRSB",
       "iata_code": "SBZ",
-      "coordinates": "45.785841, 24.086666"
+      "coordinates": "45.785841, 24.086666",
+      "metar_available": false
     },
     {
       "ident": "LRSM",
@@ -377,7 +406,8 @@
       "municipality": "Satu Mare",
       "gps_code": "LRSM",
       "iata_code": "SUJ",
-      "coordinates": "47.7033, 22.8857"
+      "coordinates": "47.7033, 22.8857",
+      "metar_available": false
     },
     {
       "ident": "LRSV",
@@ -390,7 +420,8 @@
       "municipality": "Suceava",
       "gps_code": "LRSV",
       "iata_code": "SCV",
-      "coordinates": "47.6875, 26.35409927368164"
+      "coordinates": "47.6875, 26.35409927368164",
+      "metar_available": false
     },
     {
       "ident": "LRTC",
@@ -403,7 +434,8 @@
       "municipality": "Mihail Kogălniceanu",
       "gps_code": "LRTC",
       "iata_code": "TCE",
-      "coordinates": "45.0625, 28.7143"
+      "coordinates": "45.0625, 28.7143",
+      "metar_available": false
     },
     {
       "ident": "LRTM",
@@ -416,7 +448,8 @@
       "municipality": "Recea",
       "gps_code": "LRTM",
       "iata_code": "TGM",
-      "coordinates": "46.467701, 24.4125"
+      "coordinates": "46.467701, 24.4125",
+      "metar_available": false
     },
     {
       "ident": "LRTR",
@@ -429,7 +462,8 @@
       "municipality": "Timişoara",
       "gps_code": "LRTR",
       "iata_code": "TSR",
-      "coordinates": "45.809898, 21.3379"
+      "coordinates": "45.809898, 21.3379",
+      "metar_available": false
     },
     {
       "ident": "LRTZ",
@@ -441,7 +475,8 @@
       "iso_region": "RO-CT",
       "municipality": "Tuzla",
       "gps_code": "LRTZ",
-      "coordinates": "43.984493, 28.606225"
+      "coordinates": "43.984493, 28.606225",
+      "metar_available": false
     },
     {
       "ident": "RO-0001",
@@ -452,7 +487,8 @@
       "iso_country": "RO",
       "iso_region": "RO-NT",
       "municipality": "Roznov",
-      "coordinates": "46.84667, 26.55611"
+      "coordinates": "46.84667, 26.55611",
+      "metar_available": false
     },
     {
       "ident": "RO-0002",
@@ -463,7 +499,8 @@
       "iso_country": "RO",
       "iso_region": "RO-PH",
       "municipality": "Bănești",
-      "coordinates": "45.068378, 25.806155"
+      "coordinates": "45.068378, 25.806155",
+      "metar_available": false
     },
     {
       "ident": "RO-0003",
@@ -474,7 +511,8 @@
       "iso_country": "RO",
       "iso_region": "RO-SV",
       "municipality": "Rădăuți",
-      "coordinates": "47.885278, 25.899167"
+      "coordinates": "47.885278, 25.899167",
+      "metar_available": false
     },
     {
       "ident": "RO-0004",
@@ -485,7 +523,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BH",
       "municipality": "Ineu",
-      "coordinates": "47.079167, 22.100278"
+      "coordinates": "47.079167, 22.100278",
+      "metar_available": false
     },
     {
       "ident": "RO-0005",
@@ -496,7 +535,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CJ",
       "municipality": "Ciurila",
-      "coordinates": "46.683817, 23.507843"
+      "coordinates": "46.683817, 23.507843",
+      "metar_available": false
     },
     {
       "ident": "RO-0006",
@@ -508,7 +548,8 @@
       "iso_region": "RO-BV",
       "municipality": "Sânpetru",
       "gps_code": "LRSP",
-      "coordinates": "45.721036, 25.633707"
+      "coordinates": "45.721036, 25.633707",
+      "metar_available": false
     },
     {
       "ident": "RO-0007",
@@ -520,7 +561,8 @@
       "iso_region": "RO-HD",
       "municipality": "Deva",
       "gps_code": "LRDV",
-      "coordinates": "45.864871, 22.970165"
+      "coordinates": "45.864871, 22.970165",
+      "metar_available": false
     },
     {
       "ident": "RO-0008",
@@ -531,7 +573,8 @@
       "iso_region": "RO-MS",
       "municipality": "Târgu Mureș",
       "gps_code": "LRMS",
-      "coordinates": "46.533241, 24.529298"
+      "coordinates": "46.533241, 24.529298",
+      "metar_available": false
     },
     {
       "ident": "RO-0009",
@@ -542,7 +585,8 @@
       "iso_region": "RO-AR",
       "municipality": "Șiria",
       "gps_code": "LRCB",
-      "coordinates": "46.26902, 21.605301"
+      "coordinates": "46.26902, 21.605301",
+      "metar_available": false
     },
     {
       "ident": "RO-0010",
@@ -553,7 +597,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Brașov (Ghimbav)",
-      "coordinates": "45.699386, 25.528414"
+      "coordinates": "45.699386, 25.528414",
+      "metar_available": false
     },
     {
       "ident": "RO-0011",
@@ -564,7 +609,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Prejmer",
-      "coordinates": "45.697383, 25.783453"
+      "coordinates": "45.697383, 25.783453",
+      "metar_available": false
     },
     {
       "ident": "RO-0012",
@@ -575,7 +621,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Costinești",
-      "coordinates": "43.926686, 28.629548"
+      "coordinates": "43.926686, 28.629548",
+      "metar_available": false
     },
     {
       "ident": "RO-0013",
@@ -586,7 +633,8 @@
       "iso_region": "RO-DJ",
       "municipality": "Craiova",
       "gps_code": "LRCW",
-      "coordinates": "44.285839, 23.791537"
+      "coordinates": "44.285839, 23.791537",
+      "metar_available": false
     },
     {
       "ident": "RO-0014",
@@ -596,7 +644,8 @@
       "iso_country": "RO",
       "iso_region": "RO-IL",
       "municipality": "Alexeni",
-      "coordinates": "44.709778, 26.721411"
+      "coordinates": "44.709778, 26.721411",
+      "metar_available": false
     },
     {
       "ident": "RO-0015",
@@ -607,7 +656,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TR",
       "municipality": "Siliștea Gumești",
-      "coordinates": "44.37297, 24.985914"
+      "coordinates": "44.37297, 24.985914",
+      "metar_available": false
     },
     {
       "ident": "RO-0016",
@@ -617,7 +667,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BR",
       "municipality": "Vădeni",
-      "coordinates": "45.364129, 27.938835"
+      "coordinates": "45.364129, 27.938835",
+      "metar_available": false
     },
     {
       "ident": "RO-0017",
@@ -628,7 +679,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TM",
       "municipality": "Timișoara",
-      "coordinates": "45.78567, 21.188104"
+      "coordinates": "45.78567, 21.188104",
+      "metar_available": false
     },
     {
       "ident": "RO-0018",
@@ -639,7 +691,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Brașov",
-      "coordinates": "45.657735, 25.55701"
+      "coordinates": "45.657735, 25.55701",
+      "metar_available": false
     },
     {
       "ident": "RO-0019",
@@ -650,7 +703,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GR",
       "municipality": "Comana",
-      "coordinates": "44.200367, 26.139661"
+      "coordinates": "44.200367, 26.139661",
+      "metar_available": false
     },
     {
       "ident": "RO-0020",
@@ -661,7 +715,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TM",
       "municipality": "Buziaş",
-      "coordinates": "45.654129, 21.578748"
+      "coordinates": "45.654129, 21.578748",
+      "metar_available": false
     },
     {
       "ident": "RO-0021",
@@ -672,7 +727,8 @@
       "iso_country": "RO",
       "iso_region": "RO-HR",
       "municipality": "Leliceni",
-      "coordinates": "46.347099, 25.873769"
+      "coordinates": "46.347099, 25.873769",
+      "metar_available": false
     },
     {
       "ident": "RO-0022",
@@ -683,7 +739,8 @@
       "iso_country": "RO",
       "iso_region": "RO-HR",
       "municipality": "Joseni",
-      "coordinates": "46.726362, 25.509257"
+      "coordinates": "46.726362, 25.509257",
+      "metar_available": false
     },
     {
       "ident": "RO-0023",
@@ -693,7 +750,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MH",
       "municipality": "Ștefan Odobleja",
-      "coordinates": "44.580503, 22.847785"
+      "coordinates": "44.580503, 22.847785",
+      "metar_available": false
     },
     {
       "ident": "RO-0024",
@@ -704,7 +762,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Râșnov",
-      "coordinates": "45.56553, 25.396588"
+      "coordinates": "45.56553, 25.396588",
+      "metar_available": false
     },
     {
       "ident": "RO-0025",
@@ -715,7 +774,8 @@
       "iso_country": "RO",
       "iso_region": "RO-AG",
       "municipality": "Topoloveni",
-      "coordinates": "44.793683, 25.086322"
+      "coordinates": "44.793683, 25.086322",
+      "metar_available": false
     },
     {
       "ident": "RO-0026",
@@ -726,7 +786,8 @@
       "iso_country": "RO",
       "iso_region": "RO-AB",
       "municipality": "Drașov",
-      "coordinates": "45.941516, 23.760562"
+      "coordinates": "45.941516, 23.760562",
+      "metar_available": false
     },
     {
       "ident": "RO-0027",
@@ -737,7 +798,8 @@
       "iso_country": "RO",
       "iso_region": "RO-HR",
       "municipality": "Miercurea Ciuc",
-      "coordinates": "46.392973, 25.775285"
+      "coordinates": "46.392973, 25.775285",
+      "metar_available": false
     },
     {
       "ident": "RO-0028",
@@ -747,7 +809,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MS",
       "municipality": "Ghindari",
-      "coordinates": "46.519304, 24.945037"
+      "coordinates": "46.519304, 24.945037",
+      "metar_available": false
     },
     {
       "ident": "RO-0029",
@@ -757,7 +820,8 @@
       "iso_country": "RO",
       "iso_region": "RO-B",
       "municipality": "Bucharest",
-      "coordinates": "44.504177, 26.098731"
+      "coordinates": "44.504177, 26.098731",
+      "metar_available": false
     },
     {
       "ident": "RO-0030",
@@ -768,7 +832,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Brașov",
-      "coordinates": "45.5883, 25.5508"
+      "coordinates": "45.5883, 25.5508",
+      "metar_available": false
     },
     {
       "ident": "RO-0031",
@@ -779,7 +844,8 @@
       "iso_country": "RO",
       "iso_region": "RO-SJ",
       "municipality": "Crasna",
-      "coordinates": "47.167853, 22.854567"
+      "coordinates": "47.167853, 22.854567",
+      "metar_available": false
     },
     {
       "ident": "RO-0032",
@@ -790,7 +856,8 @@
       "iso_country": "RO",
       "iso_region": "RO-DB",
       "municipality": "Ciocănești",
-      "coordinates": "44.583121, 25.848514"
+      "coordinates": "44.583121, 25.848514",
+      "metar_available": false
     },
     {
       "ident": "RO-0033",
@@ -799,7 +866,8 @@
       "continent": "EU",
       "iso_country": "RO",
       "iso_region": "RO-NT",
-      "coordinates": "46.961818, 26.485076"
+      "coordinates": "46.961818, 26.485076",
+      "metar_available": false
     },
     {
       "ident": "RO-0034",
@@ -809,7 +877,8 @@
       "iso_country": "RO",
       "iso_region": "RO-HR",
       "municipality": "Odorheiu Secuiesc",
-      "coordinates": "46.32548, 25.28201"
+      "coordinates": "46.32548, 25.28201",
+      "metar_available": false
     },
     {
       "ident": "RO-0035",
@@ -820,7 +889,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Ovidiu",
-      "coordinates": "44.23193, 28.58523"
+      "coordinates": "44.23193, 28.58523",
+      "metar_available": false
     },
     {
       "ident": "RO-0036",
@@ -831,7 +901,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Constanța",
-      "coordinates": "44.141804, 28.591412"
+      "coordinates": "44.141804, 28.591412",
+      "metar_available": false
     },
     {
       "ident": "RO-0037",
@@ -842,7 +913,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Constanța",
-      "coordinates": "44.15982, 28.65775"
+      "coordinates": "44.15982, 28.65775",
+      "metar_available": false
     },
     {
       "ident": "RO-0038",
@@ -853,7 +925,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Constanța",
-      "coordinates": "44.15778, 28.66116"
+      "coordinates": "44.15778, 28.66116",
+      "metar_available": false
     },
     {
       "ident": "RO-0039",
@@ -864,7 +937,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Constanța",
-      "coordinates": "44.23659, 28.62099"
+      "coordinates": "44.23659, 28.62099",
+      "metar_available": false
     },
     {
       "ident": "RO-0040",
@@ -876,7 +950,8 @@
       "iso_region": "RO-CT",
       "municipality": "Năvodari",
       "gps_code": "LRMC",
-      "coordinates": "44.328998, 28.656954"
+      "coordinates": "44.328998, 28.656954",
+      "metar_available": false
     },
     {
       "ident": "RO-0041",
@@ -887,7 +962,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TL",
       "municipality": "Dunavățu de Jos",
-      "coordinates": "44.985719, 29.213128"
+      "coordinates": "44.985719, 29.213128",
+      "metar_available": false
     },
     {
       "ident": "RO-0042",
@@ -898,7 +974,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TL",
       "municipality": "Chilia Veche",
-      "coordinates": "45.41911, 29.31393"
+      "coordinates": "45.41911, 29.31393",
+      "metar_available": false
     },
     {
       "ident": "RO-0043",
@@ -909,7 +986,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GL",
       "municipality": "Galați",
-      "coordinates": "45.44382, 28.0831"
+      "coordinates": "45.44382, 28.0831",
+      "metar_available": false
     },
     {
       "ident": "RO-0044",
@@ -920,7 +998,8 @@
       "iso_country": "RO",
       "iso_region": "RO-DJ",
       "municipality": "Predești",
-      "coordinates": "44.3743, 23.618503"
+      "coordinates": "44.3743, 23.618503",
+      "metar_available": false
     },
     {
       "ident": "RO-0045",
@@ -931,7 +1010,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GJ",
       "municipality": "Bucureasa",
-      "coordinates": "45.003929, 23.333545"
+      "coordinates": "45.003929, 23.333545",
+      "metar_available": false
     },
     {
       "ident": "RO-0046",
@@ -942,7 +1022,8 @@
       "iso_country": "RO",
       "iso_region": "RO-DB",
       "municipality": "Băleni-Români",
-      "coordinates": "44.794536, 25.589261"
+      "coordinates": "44.794536, 25.589261",
+      "metar_available": false
     },
     {
       "ident": "RO-0047",
@@ -953,7 +1034,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GR",
       "municipality": "Vânătorii Mici",
-      "coordinates": "44.491637, 25.584884"
+      "coordinates": "44.491637, 25.584884",
+      "metar_available": false
     },
     {
       "ident": "RO-0048",
@@ -964,7 +1046,8 @@
       "iso_country": "RO",
       "iso_region": "RO-DJ",
       "municipality": "Mihăița",
-      "coordinates": "44.391777, 23.671024"
+      "coordinates": "44.391777, 23.671024",
+      "metar_available": false
     },
     {
       "ident": "RO-0049",
@@ -975,7 +1058,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CJ",
       "municipality": "Luna",
-      "coordinates": "46.481669, 23.931478"
+      "coordinates": "46.481669, 23.931478",
+      "metar_available": false
     },
     {
       "ident": "RO-0050",
@@ -987,7 +1071,8 @@
       "iso_region": "RO-CJ",
       "municipality": "Dezmir",
       "gps_code": "LRCJ",
-      "coordinates": "46.779124, 23.71282"
+      "coordinates": "46.779124, 23.71282",
+      "metar_available": false
     },
     {
       "ident": "RO-0051",
@@ -998,7 +1083,8 @@
       "iso_country": "RO",
       "iso_region": "RO-IF",
       "municipality": "Gagu",
-      "coordinates": "44.611058, 26.26066"
+      "coordinates": "44.611058, 26.26066",
+      "metar_available": false
     },
     {
       "ident": "RO-0052",
@@ -1008,7 +1094,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BH",
       "municipality": "Fughiu",
-      "coordinates": "47.05833, 22.07806"
+      "coordinates": "47.05833, 22.07806",
+      "metar_available": false
     },
     {
       "ident": "RO-0053",
@@ -1019,7 +1106,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TL",
       "municipality": "Plopul",
-      "coordinates": "45.00556, 29.1"
+      "coordinates": "45.00556, 29.1",
+      "metar_available": false
     },
     {
       "ident": "RO-0054",
@@ -1029,7 +1117,8 @@
       "continent": "EU",
       "iso_country": "RO",
       "iso_region": "RO-IS",
-      "coordinates": "47.15778, 27.6375"
+      "coordinates": "47.15778, 27.6375",
+      "metar_available": false
     },
     {
       "ident": "RO-0055",
@@ -1039,7 +1128,8 @@
       "continent": "EU",
       "iso_country": "RO",
       "iso_region": "RO-NT",
-      "coordinates": "46.898853, 26.434307"
+      "coordinates": "46.898853, 26.434307",
+      "metar_available": false
     },
     {
       "ident": "RO-0056",
@@ -1049,7 +1139,8 @@
       "continent": "EU",
       "iso_country": "RO",
       "iso_region": "RO-SV",
-      "coordinates": "47.721693, 26.118418"
+      "coordinates": "47.721693, 26.118418",
+      "metar_available": false
     },
     {
       "ident": "RO-0057",
@@ -1060,7 +1151,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CL",
       "municipality": "Luica",
-      "coordinates": "44.262213, 26.651981"
+      "coordinates": "44.262213, 26.651981",
+      "metar_available": false
     },
     {
       "ident": "RO-0058",
@@ -1071,7 +1163,8 @@
       "iso_country": "RO",
       "iso_region": "RO-PH",
       "municipality": "Băicoi",
-      "coordinates": "45.02052, 25.855951"
+      "coordinates": "45.02052, 25.855951",
+      "metar_available": false
     },
     {
       "ident": "RO-0059",
@@ -1082,7 +1175,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MM",
       "municipality": "Copalnic-Mănăștur",
-      "coordinates": "47.509161, 23.68935"
+      "coordinates": "47.509161, 23.68935",
+      "metar_available": false
     },
     {
       "ident": "RO-0060",
@@ -1093,7 +1187,8 @@
       "iso_country": "RO",
       "iso_region": "RO-HR",
       "municipality": "Sânmartin",
-      "coordinates": "46.266714, 25.915817"
+      "coordinates": "46.266714, 25.915817",
+      "metar_available": false
     },
     {
       "ident": "RO-0061",
@@ -1104,7 +1199,8 @@
       "iso_country": "RO",
       "iso_region": "RO-HR",
       "municipality": "Mugeni",
-      "coordinates": "46.249281, 25.222732"
+      "coordinates": "46.249281, 25.222732",
+      "metar_available": false
     },
     {
       "ident": "RO-0062",
@@ -1115,7 +1211,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BZ",
       "municipality": "Ramnicu Sarat",
-      "coordinates": "45.380489, 27.074475"
+      "coordinates": "45.380489, 27.074475",
+      "metar_available": false
     },
     {
       "ident": "RO-0063",
@@ -1124,7 +1221,8 @@
       "continent": "EU",
       "iso_country": "RO",
       "iso_region": "RO-VL",
-      "coordinates": "45.05704, 24.342635"
+      "coordinates": "45.05704, 24.342635",
+      "metar_available": false
     },
     {
       "ident": "RO-0064",
@@ -1135,7 +1233,8 @@
       "iso_country": "RO",
       "iso_region": "RO-B",
       "municipality": "Bucharest",
-      "coordinates": "44.45222, 26.09506"
+      "coordinates": "44.45222, 26.09506",
+      "metar_available": false
     },
     {
       "ident": "RO-0065",
@@ -1146,7 +1245,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GR",
       "municipality": "Letca Nouă",
-      "coordinates": "44.22531, 25.75088"
+      "coordinates": "44.22531, 25.75088",
+      "metar_available": false
     },
     {
       "ident": "RO-0066",
@@ -1157,7 +1257,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TM",
       "municipality": "Fibiș",
-      "coordinates": "45.96196, 21.45735"
+      "coordinates": "45.96196, 21.45735",
+      "metar_available": false
     },
     {
       "ident": "RO-0067",
@@ -1168,7 +1269,8 @@
       "iso_region": "RO-HR",
       "municipality": "Remetea",
       "gps_code": "LRHR",
-      "coordinates": "46.819232, 25.412293"
+      "coordinates": "46.819232, 25.412293",
+      "metar_available": false
     },
     {
       "ident": "RO-0068",
@@ -1179,7 +1281,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BC",
       "municipality": "Onești",
-      "coordinates": "46.24885, 26.81342"
+      "coordinates": "46.24885, 26.81342",
+      "metar_available": false
     },
     {
       "ident": "RO-0069",
@@ -1190,7 +1293,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MM",
       "municipality": "Coltău",
-      "coordinates": "47.578155, 23.53415"
+      "coordinates": "47.578155, 23.53415",
+      "metar_available": false
     },
     {
       "ident": "RO-0070",
@@ -1201,7 +1305,8 @@
       "iso_country": "RO",
       "iso_region": "RO-OT",
       "municipality": "Deveselu",
-      "coordinates": "44.0806, 24.40044"
+      "coordinates": "44.0806, 24.40044",
+      "metar_available": false
     },
     {
       "ident": "RO-0071",
@@ -1212,7 +1317,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CL",
       "municipality": "Mânăstirea",
-      "coordinates": "44.21899, 26.8735"
+      "coordinates": "44.21899, 26.8735",
+      "metar_available": false
     },
     {
       "ident": "RO-0072",
@@ -1223,7 +1329,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Brașov (Ghimbav)",
-      "coordinates": "45.69583, 25.53403"
+      "coordinates": "45.69583, 25.53403",
+      "metar_available": false
     },
     {
       "ident": "RO-0073",
@@ -1234,7 +1341,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MH",
       "municipality": "Drobeta-Turnu Severin",
-      "coordinates": "44.6304, 22.63471"
+      "coordinates": "44.6304, 22.63471",
+      "metar_available": false
     },
     {
       "ident": "RO-0074",
@@ -1245,7 +1353,8 @@
       "iso_country": "RO",
       "iso_region": "RO-AB",
       "municipality": "Balomiru de Câmp",
-      "coordinates": "45.92483, 23.35914"
+      "coordinates": "45.92483, 23.35914",
+      "metar_available": false
     },
     {
       "ident": "RO-0075",
@@ -1256,7 +1365,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Hârseni",
-      "coordinates": "45.74613, 25.02131"
+      "coordinates": "45.74613, 25.02131",
+      "metar_available": false
     },
     {
       "ident": "RO-0076",
@@ -1267,7 +1377,8 @@
       "iso_country": "RO",
       "iso_region": "RO-VL",
       "municipality": "Galicea",
-      "coordinates": "44.97906, 24.29719"
+      "coordinates": "44.97906, 24.29719",
+      "metar_available": false
     },
     {
       "ident": "RO-0077",
@@ -1278,7 +1389,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MS",
       "municipality": "Suseni",
-      "coordinates": "46.84201, 24.73282"
+      "coordinates": "46.84201, 24.73282",
+      "metar_available": false
     },
     {
       "ident": "RO-0078",
@@ -1289,7 +1401,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BC",
       "municipality": "Brătila",
-      "coordinates": "46.29927, 26.75578"
+      "coordinates": "46.29927, 26.75578",
+      "metar_available": false
     },
     {
       "ident": "RO-0079",
@@ -1300,7 +1413,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GL",
       "municipality": "Tecuci",
-      "coordinates": "45.852162, 27.402616"
+      "coordinates": "45.852162, 27.402616",
+      "metar_available": false
     },
     {
       "ident": "RO-0080",
@@ -1311,7 +1425,8 @@
       "iso_country": "RO",
       "iso_region": "RO-VS",
       "municipality": "Tutova",
-      "coordinates": "46.09834, 27.54224"
+      "coordinates": "46.09834, 27.54224",
+      "metar_available": false
     },
     {
       "ident": "RO-0081",
@@ -1320,7 +1435,8 @@
       "continent": "EU",
       "iso_country": "RO",
       "iso_region": "RO-BT",
-      "coordinates": "47.791044, 26.65957"
+      "coordinates": "47.791044, 26.65957",
+      "metar_available": false
     },
     {
       "ident": "RO-0082",
@@ -1331,7 +1447,8 @@
       "iso_country": "RO",
       "iso_region": "RO-VS",
       "municipality": "Tutova",
-      "coordinates": "46.126106, 27.568767"
+      "coordinates": "46.126106, 27.568767",
+      "metar_available": false
     },
     {
       "ident": "RO-0083",
@@ -1342,7 +1459,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GL",
       "municipality": "Costi",
-      "coordinates": "45.501992, 28.031144"
+      "coordinates": "45.501992, 28.031144",
+      "metar_available": false
     },
     {
       "ident": "RO-0084",
@@ -1353,7 +1471,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Constanța",
-      "coordinates": "44.155328, 28.603942"
+      "coordinates": "44.155328, 28.603942",
+      "metar_available": false
     },
     {
       "ident": "RO-0085",
@@ -1364,7 +1483,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GJ",
       "municipality": "Stănești",
-      "coordinates": "45.09826, 23.23882"
+      "coordinates": "45.09826, 23.23882",
+      "metar_available": false
     },
     {
       "ident": "RO-0086",
@@ -1375,7 +1495,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CT",
       "municipality": "Hârșova",
-      "coordinates": "44.70336, 27.91061"
+      "coordinates": "44.70336, 27.91061",
+      "metar_available": false
     },
     {
       "ident": "RO-0087",
@@ -1386,7 +1507,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BH",
       "municipality": "Abram",
-      "coordinates": "47.30468, 22.39987"
+      "coordinates": "47.30468, 22.39987",
+      "metar_available": false
     },
     {
       "ident": "RO-0088",
@@ -1397,7 +1519,8 @@
       "iso_country": "RO",
       "iso_region": "RO-SM",
       "municipality": "Satu Mare",
-      "coordinates": "47.84848, 23.27101"
+      "coordinates": "47.84848, 23.27101",
+      "metar_available": false
     },
     {
       "ident": "RO-0089",
@@ -1408,7 +1531,8 @@
       "iso_country": "RO",
       "iso_region": "RO-SB",
       "municipality": "Sibiu",
-      "coordinates": "45.78231, 24.09139"
+      "coordinates": "45.78231, 24.09139",
+      "metar_available": false
     },
     {
       "ident": "RO-0090",
@@ -1419,7 +1543,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MM",
       "municipality": "Onceşti",
-      "coordinates": "47.85679, 23.95538"
+      "coordinates": "47.85679, 23.95538",
+      "metar_available": false
     },
     {
       "ident": "RO-0091",
@@ -1430,7 +1555,8 @@
       "iso_country": "RO",
       "iso_region": "RO-MM",
       "municipality": "Rona de Sus",
-      "coordinates": "47.91088, 24.01891"
+      "coordinates": "47.91088, 24.01891",
+      "metar_available": false
     },
     {
       "ident": "RO-0092",
@@ -1441,7 +1567,8 @@
       "iso_country": "RO",
       "iso_region": "RO-TM",
       "municipality": "Sânmihaiu Român",
-      "coordinates": "45.682004, 21.022897"
+      "coordinates": "45.682004, 21.022897",
+      "metar_available": false
     },
     {
       "ident": "RO-0093",
@@ -1452,7 +1579,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BH",
       "municipality": "Ștei",
-      "coordinates": "46.54801, 22.48443"
+      "coordinates": "46.54801, 22.48443",
+      "metar_available": false
     },
     {
       "ident": "RO-0094",
@@ -1463,7 +1591,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Prejmer",
-      "coordinates": "45.6884, 25.77167"
+      "coordinates": "45.6884, 25.77167",
+      "metar_available": false
     },
     {
       "ident": "RO-0095",
@@ -1474,7 +1603,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BV",
       "municipality": "Prejmer",
-      "coordinates": "45.68086, 25.74498"
+      "coordinates": "45.68086, 25.74498",
+      "metar_available": false
     },
     {
       "ident": "RO-0096",
@@ -1485,7 +1615,8 @@
       "iso_country": "RO",
       "iso_region": "RO-IF",
       "municipality": "Ciolpani",
-      "coordinates": "44.73839, 26.09206"
+      "coordinates": "44.73839, 26.09206",
+      "metar_available": false
     },
     {
       "ident": "RO-0097",
@@ -1496,7 +1627,8 @@
       "iso_country": "RO",
       "iso_region": "RO-AR",
       "municipality": "Nădab",
-      "coordinates": "46.46012, 21.47747"
+      "coordinates": "46.46012, 21.47747",
+      "metar_available": false
     },
     {
       "ident": "RO-0098",
@@ -1507,7 +1639,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BZ",
       "municipality": "Buzău",
-      "coordinates": "45.12718, 26.80141"
+      "coordinates": "45.12718, 26.80141",
+      "metar_available": false
     },
     {
       "ident": "RO-0099",
@@ -1518,7 +1651,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CJ",
       "municipality": "Dăbâca",
-      "coordinates": "46.98905, 23.67095"
+      "coordinates": "46.98905, 23.67095",
+      "metar_available": false
     },
     {
       "ident": "RO-0100",
@@ -1529,7 +1663,8 @@
       "iso_country": "RO",
       "iso_region": "RO-SB",
       "municipality": "Mediaș",
-      "coordinates": "46.13327, 24.33634"
+      "coordinates": "46.13327, 24.33634",
+      "metar_available": false
     },
     {
       "ident": "RO-0101",
@@ -1540,7 +1675,8 @@
       "iso_country": "RO",
       "iso_region": "RO-SM",
       "municipality": "Acâș",
-      "coordinates": "47.55131, 22.74838"
+      "coordinates": "47.55131, 22.74838",
+      "metar_available": false
     },
     {
       "ident": "RO-0102",
@@ -1551,7 +1687,8 @@
       "iso_country": "RO",
       "iso_region": "RO-AR",
       "municipality": "Ineu",
-      "coordinates": "46.3786, 21.82322"
+      "coordinates": "46.3786, 21.82322",
+      "metar_available": false
     },
     {
       "ident": "RO-0103",
@@ -1562,7 +1699,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CJ",
       "municipality": "Valea Drăganului",
-      "coordinates": "46.92386, 22.84698"
+      "coordinates": "46.92386, 22.84698",
+      "metar_available": false
     },
     {
       "ident": "RO-0104",
@@ -1573,7 +1711,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CJ",
       "municipality": "Viișoara",
-      "coordinates": "46.27613, 26.67312"
+      "coordinates": "46.27613, 26.67312",
+      "metar_available": false
     },
     {
       "ident": "RO-0105",
@@ -1584,7 +1723,8 @@
       "iso_country": "RO",
       "iso_region": "RO-CV",
       "municipality": "Zăbala",
-      "coordinates": "45.91326, 26.19337"
+      "coordinates": "45.91326, 26.19337",
+      "metar_available": false
     },
     {
       "ident": "RO-0106",
@@ -1595,7 +1735,8 @@
       "iso_country": "RO",
       "iso_region": "RO-BC",
       "municipality": "Bacău",
-      "coordinates": "46.59582, 26.87647"
+      "coordinates": "46.59582, 26.87647",
+      "metar_available": false
     },
     {
       "ident": "RO-0107",
@@ -1606,7 +1747,8 @@
       "iso_country": "RO",
       "iso_region": "RO-OT",
       "municipality": "Deveselu",
-      "coordinates": "44.0773010254, 24.4164009094"
+      "coordinates": "44.0773010254, 24.4164009094",
+      "metar_available": false
     },
     {
       "ident": "RO-0108",
@@ -1617,7 +1759,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GR",
       "municipality": "Comana",
-      "coordinates": "44.225, 26.121389"
+      "coordinates": "44.225, 26.121389",
+      "metar_available": false
     },
     {
       "ident": "RO-0109",
@@ -1627,7 +1770,8 @@
       "iso_country": "RO",
       "iso_region": "RO-GL",
       "municipality": "Galați",
-      "coordinates": "45.45379, 28.04489"
+      "coordinates": "45.45379, 28.04489",
+      "metar_available": false
     },
     {
       "ident": "RO-0110",
@@ -1637,7 +1781,8 @@
       "iso_country": "RO",
       "iso_region": "RO-B",
       "municipality": "Bucharest",
-      "coordinates": "44.47989, 26.11666"
+      "coordinates": "44.47989, 26.11666",
+      "metar_available": false
     }
   ]
 }

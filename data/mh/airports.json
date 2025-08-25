@@ -2,7 +2,7 @@
   "country_code": "MH",
   "country_name": "Marshall Islands",
   "total_airports": 36,
-  "last_updated": "2025-08-01T00:18:22.367529",
+  "last_updated": "2025-08-25T10:08:40.487342",
   "types_distribution": {
     "small_airport": 31,
     "closed": 3,
@@ -21,7 +21,8 @@
       "gps_code": "03N",
       "iata_code": "UTK",
       "local_code": "03N",
-      "coordinates": "11.222219, 169.851429"
+      "coordinates": "11.222219, 169.851429",
+      "metar_available": false
     },
     {
       "ident": "AIP",
@@ -33,7 +34,8 @@
       "iso_region": "MH-ALL",
       "municipality": "Bigatyelang Island",
       "iata_code": "AIC",
-      "coordinates": "7.279422, 168.8257"
+      "coordinates": "7.279422, 168.8257",
+      "metar_available": false
     },
     {
       "ident": "EAL",
@@ -45,7 +47,8 @@
       "iso_region": "MH-KWA",
       "municipality": "Mejato Island",
       "iata_code": "EAL",
-      "coordinates": "9.319305555560002, 166.847777778"
+      "coordinates": "9.319305555560002, 166.847777778",
+      "metar_available": false
     },
     {
       "ident": "EBO",
@@ -57,7 +60,8 @@
       "iso_region": "MH-EBO",
       "municipality": "Ebon Atoll",
       "iata_code": "EBO",
-      "coordinates": "4.5982, 168.752"
+      "coordinates": "4.5982, 168.752",
+      "metar_available": false
     },
     {
       "ident": "EJT",
@@ -69,7 +73,8 @@
       "iso_region": "MH-MIL",
       "municipality": "Enejit Island",
       "iata_code": "EJT",
-      "coordinates": "6.0404, 171.9846"
+      "coordinates": "6.0404, 171.9846",
+      "metar_available": false
     },
     {
       "ident": "KBT",
@@ -80,7 +85,8 @@
       "iso_region": "MH-MAL",
       "municipality": "Kaben",
       "iata_code": "KBT",
-      "coordinates": "8.90056, 170.843994"
+      "coordinates": "8.90056, 170.843994",
+      "metar_available": false
     },
     {
       "ident": "MH-0001",
@@ -90,7 +96,8 @@
       "iso_country": "MH",
       "iso_region": "MH-JAL",
       "municipality": "Aineman",
-      "coordinates": "6.013587, 169.718234"
+      "coordinates": "6.013587, 169.718234",
+      "metar_available": false
     },
     {
       "ident": "MH-0002",
@@ -101,7 +108,8 @@
       "iso_country": "MH",
       "iso_region": "MH-MAJ",
       "municipality": "Majuro",
-      "coordinates": "7.090278, 171.381389"
+      "coordinates": "7.090278, 171.381389",
+      "metar_available": false
     },
     {
       "ident": "MH-0003",
@@ -112,7 +120,8 @@
       "iso_country": "MH",
       "iso_region": "MH-NMU",
       "municipality": "Loen Island",
-      "coordinates": "7.7575, 168.2357"
+      "coordinates": "7.7575, 168.2357",
+      "metar_available": false
     },
     {
       "ident": "MH-0004",
@@ -124,7 +133,8 @@
       "iso_region": "MH-UJA",
       "municipality": "Ujae Atoll",
       "iata_code": "UJE",
-      "coordinates": "8.92806, 165.761993"
+      "coordinates": "8.92806, 165.761993",
+      "metar_available": false
     },
     {
       "ident": "MH-AIM",
@@ -135,7 +145,8 @@
       "iso_region": "MH-ALK",
       "municipality": "Ailuk Island",
       "iata_code": "AIM",
-      "coordinates": "10.2168, 169.983002"
+      "coordinates": "10.2168, 169.983002",
+      "metar_available": false
     },
     {
       "ident": "MH-AUL",
@@ -146,7 +157,8 @@
       "iso_region": "MH-AUR",
       "municipality": "Aur Atoll",
       "iata_code": "AUL",
-      "coordinates": "8.14528, 171.173004"
+      "coordinates": "8.14528, 171.173004",
+      "metar_available": false
     },
     {
       "ident": "MH-BII",
@@ -157,7 +169,8 @@
       "iso_region": "MH-BIK",
       "municipality": "Bikini Atoll",
       "iata_code": "BII",
-      "coordinates": "11.5225, 165.565002"
+      "coordinates": "11.5225, 165.565002",
+      "metar_available": false
     },
     {
       "ident": "MH-EBN",
@@ -168,7 +181,8 @@
       "iso_region": "MH-KWA",
       "municipality": "Ebadon Island",
       "iata_code": "EBN",
-      "coordinates": "9.330559730529785, 166.82000732421875"
+      "coordinates": "9.330559730529785, 166.82000732421875",
+      "metar_available": false
     },
     {
       "ident": "MH-JAT",
@@ -180,7 +194,8 @@
       "iso_region": "MH-JAB",
       "municipality": "Ailinglapalap Atoll",
       "iata_code": "JAT",
-      "coordinates": "7.749775, 168.977838"
+      "coordinates": "7.749775, 168.977838",
+      "metar_available": false
     },
     {
       "ident": "MH-JEJ",
@@ -193,7 +208,8 @@
       "municipality": "Ailinglapalap Atoll",
       "iata_code": "JEJ",
       "local_code": "JEJ",
-      "coordinates": "7.565350055690001, 168.962005615"
+      "coordinates": "7.565350055690001, 168.962005615",
+      "metar_available": false
     },
     {
       "ident": "MH-LIK",
@@ -204,7 +220,8 @@
       "iso_region": "MH-LIK",
       "municipality": "Likiep Island",
       "iata_code": "LIK",
-      "coordinates": "9.82316, 169.307999"
+      "coordinates": "9.82316, 169.307999",
+      "metar_available": false
     },
     {
       "ident": "MH-LML",
@@ -215,7 +232,8 @@
       "iso_region": "MH-LAE",
       "municipality": "Lae Island",
       "iata_code": "LML",
-      "coordinates": "8.92111, 166.264999"
+      "coordinates": "8.92111, 166.264999",
+      "metar_available": false
     },
     {
       "ident": "MH-MAV",
@@ -229,7 +247,8 @@
       "gps_code": "3N1",
       "iata_code": "MAV",
       "local_code": "3N1",
-      "coordinates": "8.70444, 171.229996"
+      "coordinates": "8.70444, 171.229996",
+      "metar_available": false
     },
     {
       "ident": "MH-MJB",
@@ -243,7 +262,8 @@
       "gps_code": "C30",
       "iata_code": "MJB",
       "local_code": "C30",
-      "coordinates": "10.283302, 170.869"
+      "coordinates": "10.283302, 170.869",
+      "metar_available": false
     },
     {
       "ident": "MH-MJE",
@@ -255,7 +275,8 @@
       "iso_region": "MH-NMU",
       "municipality": "Majkin",
       "iata_code": "MJE",
-      "coordinates": "8.163362, 168.173862"
+      "coordinates": "8.163362, 168.173862",
+      "metar_available": false
     },
     {
       "ident": "MH-NDK",
@@ -269,7 +290,8 @@
       "gps_code": "3N0",
       "iata_code": "NDK",
       "local_code": "3N0",
-      "coordinates": "5.633005, 168.125631"
+      "coordinates": "5.633005, 168.125631",
+      "metar_available": false
     },
     {
       "ident": "MH-RNP",
@@ -280,7 +302,8 @@
       "iso_region": "MH-RON",
       "municipality": "Rongelap Island",
       "iata_code": "RNP",
-      "coordinates": "11.1572, 166.886993"
+      "coordinates": "11.1572, 166.886993",
+      "metar_available": false
     },
     {
       "ident": "MH-TIC",
@@ -294,7 +317,8 @@
       "gps_code": "N18",
       "iata_code": "TIC",
       "local_code": "N18",
-      "coordinates": "7.121768, 171.911584"
+      "coordinates": "7.121768, 171.911584",
+      "metar_available": false
     },
     {
       "ident": "MH-UIT",
@@ -308,7 +332,8 @@
       "gps_code": "N55",
       "iata_code": "UIT",
       "local_code": "N55",
-      "coordinates": "5.909213, 169.637256"
+      "coordinates": "5.909213, 169.637256",
+      "metar_available": false
     },
     {
       "ident": "MH-WJA",
@@ -319,7 +344,8 @@
       "iso_region": "MH-ALL",
       "municipality": "Woja",
       "iata_code": "WJA",
-      "coordinates": "7.450833, 168.55"
+      "coordinates": "7.450833, 168.55",
+      "metar_available": false
     },
     {
       "ident": "MH-WTE",
@@ -333,7 +359,8 @@
       "gps_code": "N36",
       "iata_code": "WTE",
       "local_code": "N36",
-      "coordinates": "9.458333, 170.238611"
+      "coordinates": "9.458333, 170.238611",
+      "metar_available": false
     },
     {
       "ident": "MH-WTO",
@@ -344,7 +371,8 @@
       "iso_region": "MH-WTN",
       "municipality": "Wotho Island",
       "iata_code": "WTO",
-      "coordinates": "10.1733, 166.003006"
+      "coordinates": "10.1733, 166.003006",
+      "metar_available": false
     },
     {
       "ident": "MLIP",
@@ -358,7 +386,8 @@
       "gps_code": "1Q9",
       "iata_code": "MIJ",
       "local_code": "1Q9",
-      "coordinates": "6.084754, 171.731419"
+      "coordinates": "6.084754, 171.731419",
+      "metar_available": false
     },
     {
       "ident": "N20",
@@ -372,7 +401,8 @@
       "gps_code": "N20",
       "iata_code": "IMI",
       "local_code": "N20",
-      "coordinates": "7.005553, 171.656959"
+      "coordinates": "7.005553, 171.656959",
+      "metar_available": false
     },
     {
       "ident": "PKMA",
@@ -385,7 +415,8 @@
       "municipality": "Eniwetok Atoll",
       "gps_code": "PKMA",
       "iata_code": "ENT",
-      "coordinates": "11.340700149536133, 162.3280029296875"
+      "coordinates": "11.340700149536133, 162.3280029296875",
+      "metar_available": false
     },
     {
       "ident": "PKMJ",
@@ -399,7 +430,8 @@
       "gps_code": "PKMJ",
       "iata_code": "MAJ",
       "local_code": "MAJ",
-      "coordinates": "7.06476, 171.272003"
+      "coordinates": "7.06476, 171.272003",
+      "metar_available": false
     },
     {
       "ident": "PKRO",
@@ -412,7 +444,8 @@
       "municipality": "Roi-Namur",
       "gps_code": "PKRO",
       "local_code": "ROI",
-      "coordinates": "9.39689, 167.470993"
+      "coordinates": "9.39689, 167.470993",
+      "metar_available": false
     },
     {
       "ident": "PKWA",
@@ -426,7 +459,8 @@
       "gps_code": "PKWA",
       "iata_code": "KWA",
       "local_code": "KWA",
-      "coordinates": "8.720120429992676, 167.73199462890625"
+      "coordinates": "8.720120429992676, 167.73199462890625",
+      "metar_available": false
     },
     {
       "ident": "Q51",
@@ -440,7 +474,8 @@
       "gps_code": "C51",
       "iata_code": "KIO",
       "local_code": "C51",
-      "coordinates": "5.64386, 169.124586"
+      "coordinates": "5.64386, 169.124586",
+      "metar_available": false
     },
     {
       "ident": "TBV",
@@ -452,7 +487,8 @@
       "iso_region": "MH-AUR",
       "municipality": "Tabal Island",
       "iata_code": "TBV",
-      "coordinates": "8.3027, 171.1615"
+      "coordinates": "8.3027, 171.1615",
+      "metar_available": false
     }
   ]
 }

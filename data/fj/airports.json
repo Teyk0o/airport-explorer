@@ -2,7 +2,7 @@
   "country_code": "FJ",
   "country_name": "Fiji",
   "total_airports": 37,
-  "last_updated": "2025-08-01T00:18:22.578272",
+  "last_updated": "2025-08-25T10:08:40.714314",
   "types_distribution": {
     "seaplane_base": 5,
     "heliport": 2,
@@ -21,7 +21,8 @@
       "iso_region": "FJ-W",
       "municipality": "Nanuya Lailai Island",
       "iata_code": "BXL",
-      "coordinates": "-16.943, 177.368"
+      "coordinates": "-16.943, 177.368",
+      "metar_available": false
     },
     {
       "ident": "FJ-0002",
@@ -32,7 +33,8 @@
       "iso_country": "FJ",
       "iso_region": "FJ-W",
       "municipality": "Vomo",
-      "coordinates": "-17.5014, 177.27288"
+      "coordinates": "-17.5014, 177.27288",
+      "metar_available": false
     },
     {
       "ident": "FJ-0003",
@@ -43,7 +45,8 @@
       "iso_country": "FJ",
       "iso_region": "FJ-W",
       "municipality": "Nadi",
-      "coordinates": "-17.63799, 177.06631"
+      "coordinates": "-17.63799, 177.06631",
+      "metar_available": false
     },
     {
       "ident": "FJ-0004",
@@ -54,7 +57,8 @@
       "iso_region": "FJ-W",
       "municipality": "Korolevu",
       "iata_code": "KVU",
-      "coordinates": "-18.215569, 177.729767"
+      "coordinates": "-18.215569, 177.729767",
+      "metar_available": false
     },
     {
       "ident": "FJ-0005",
@@ -65,7 +69,8 @@
       "iso_country": "FJ",
       "iso_region": "FJ-W",
       "municipality": "Vatukoula",
-      "coordinates": "-17.499603, 177.863075"
+      "coordinates": "-17.499603, 177.863075",
+      "metar_available": false
     },
     {
       "ident": "FJ-0006",
@@ -76,7 +81,8 @@
       "iso_country": "FJ",
       "iso_region": "FJ-N",
       "municipality": "Saqani, Cakaudrove",
-      "coordinates": "-16.4493799329, 179.740104675"
+      "coordinates": "-16.4493799329, 179.740104675",
+      "metar_available": false
     },
     {
       "ident": "FJ-0007",
@@ -87,7 +93,8 @@
       "iso_country": "FJ",
       "iso_region": "FJ-N",
       "municipality": "Bua",
-      "coordinates": "-16.8598, 178.6232"
+      "coordinates": "-16.8598, 178.6232",
+      "metar_available": false
     },
     {
       "ident": "FJ-0008",
@@ -98,7 +105,8 @@
       "iso_country": "FJ",
       "iso_region": "FJ-W",
       "municipality": "Mbatiri",
-      "coordinates": "-18.0677, 177.315"
+      "coordinates": "-18.0677, 177.315",
+      "metar_available": false
     },
     {
       "ident": "NFCI",
@@ -111,7 +119,8 @@
       "municipality": "Cicia",
       "gps_code": "NFCI",
       "iata_code": "ICI",
-      "coordinates": "-17.7432994843, -179.341995239"
+      "coordinates": "-17.7432994843, -179.341995239",
+      "metar_available": false
     },
     {
       "ident": "NFCS",
@@ -124,7 +133,8 @@
       "municipality": "Castaway Island",
       "gps_code": "NFCS",
       "iata_code": "CST",
-      "coordinates": "-17.7358, 177.129"
+      "coordinates": "-17.7358, 177.129",
+      "metar_available": false
     },
     {
       "ident": "NFFA",
@@ -136,7 +146,8 @@
       "iso_region": "FJ-W",
       "municipality": "Ba",
       "gps_code": "NFFA",
-      "coordinates": "-17.530799, 177.690506"
+      "coordinates": "-17.530799, 177.690506",
+      "metar_available": false
     },
     {
       "ident": "NFFN",
@@ -149,7 +160,8 @@
       "municipality": "Nadi",
       "gps_code": "NFFN",
       "iata_code": "NAN",
-      "coordinates": "-17.755399703979492, 177.4429931640625"
+      "coordinates": "-17.755399703979492, 177.4429931640625",
+      "metar_available": false
     },
     {
       "ident": "NFFO",
@@ -162,7 +174,8 @@
       "municipality": "Malolo Lailai Island",
       "gps_code": "NFFO",
       "iata_code": "PTF",
-      "coordinates": "-17.778448, 177.196996"
+      "coordinates": "-17.778448, 177.196996",
+      "metar_available": false
     },
     {
       "ident": "NFFR",
@@ -175,7 +188,8 @@
       "municipality": "Rabi Island",
       "gps_code": "NFFR",
       "iata_code": "RBI",
-      "coordinates": "-16.5337, 179.9757"
+      "coordinates": "-16.5337, 179.9757",
+      "metar_available": false
     },
     {
       "ident": "NFGO",
@@ -187,7 +201,8 @@
       "iso_region": "FJ-E",
       "municipality": "Mago Island",
       "gps_code": "NFGO",
-      "coordinates": "-17.438646, -179.163601"
+      "coordinates": "-17.438646, -179.163601",
+      "metar_available": false
     },
     {
       "ident": "NFKB",
@@ -198,7 +213,8 @@
       "iso_region": "FJ-N",
       "municipality": "Kaibu Island",
       "gps_code": "NFKB",
-      "coordinates": "-17.254199981689453, -179.48899841308594"
+      "coordinates": "-17.254199981689453, -179.48899841308594",
+      "metar_available": false
     },
     {
       "ident": "NFKD",
@@ -211,7 +227,8 @@
       "municipality": "Vunisea",
       "gps_code": "NFKD",
       "iata_code": "KDV",
-      "coordinates": "-19.058099746699998, 178.156997681"
+      "coordinates": "-19.058099746699998, 178.156997681",
+      "metar_available": false
     },
     {
       "ident": "NFMA",
@@ -223,7 +240,8 @@
       "municipality": "Mana Island",
       "gps_code": "NFMA",
       "iata_code": "MNF",
-      "coordinates": "-17.672844, 177.0985"
+      "coordinates": "-17.672844, 177.0985",
+      "metar_available": false
     },
     {
       "ident": "NFMO",
@@ -236,7 +254,8 @@
       "municipality": "Moala",
       "gps_code": "NFMO",
       "iata_code": "MFJ",
-      "coordinates": "-18.566699981699998, 179.951004028"
+      "coordinates": "-18.566699981699998, 179.951004028",
+      "metar_available": false
     },
     {
       "ident": "NFNA",
@@ -249,7 +268,8 @@
       "municipality": "Nausori",
       "gps_code": "NFNA",
       "iata_code": "SUV",
-      "coordinates": "-18.04330062866211, 178.5590057373047"
+      "coordinates": "-18.04330062866211, 178.5590057373047",
+      "metar_available": false
     },
     {
       "ident": "NFNB",
@@ -262,7 +282,8 @@
       "municipality": "Bureta",
       "gps_code": "NFNB",
       "iata_code": "LEV",
-      "coordinates": "-17.7110996246, 178.759002686"
+      "coordinates": "-17.7110996246, 178.759002686",
+      "metar_available": false
     },
     {
       "ident": "NFND",
@@ -275,7 +296,8 @@
       "municipality": "Nanuku Auberge Resort",
       "gps_code": "NFND",
       "iata_code": "PHR",
-      "coordinates": "-18.2553, 178.0492"
+      "coordinates": "-18.2553, 178.0492",
+      "metar_available": false
     },
     {
       "ident": "NFNG",
@@ -288,7 +310,8 @@
       "municipality": "Ngau",
       "gps_code": "NFNG",
       "iata_code": "NGI",
-      "coordinates": "-18.115600585899998, 179.339996338"
+      "coordinates": "-18.115600585899998, 179.339996338",
+      "metar_available": false
     },
     {
       "ident": "NFNH",
@@ -301,7 +324,8 @@
       "municipality": "Laucala Island",
       "gps_code": "NFNH",
       "iata_code": "LUC",
-      "coordinates": "-16.7481, -179.667007"
+      "coordinates": "-16.7481, -179.667007",
+      "metar_available": false
     },
     {
       "ident": "NFNK",
@@ -314,7 +338,8 @@
       "municipality": "Lakeba Island",
       "gps_code": "NFNK",
       "iata_code": "LKB",
-      "coordinates": "-18.1991996765, -178.817001343"
+      "coordinates": "-18.1991996765, -178.817001343",
+      "metar_available": false
     },
     {
       "ident": "NFNL",
@@ -327,7 +352,8 @@
       "municipality": "Labasa",
       "gps_code": "NFNL",
       "iata_code": "LBS",
-      "coordinates": "-16.4667, 179.339996"
+      "coordinates": "-16.4667, 179.339996",
+      "metar_available": false
     },
     {
       "ident": "NFNM",
@@ -340,7 +366,8 @@
       "municipality": "Matei",
       "gps_code": "NFNM",
       "iata_code": "TVU",
-      "coordinates": "-16.690599, -179.876999"
+      "coordinates": "-16.690599, -179.876999",
+      "metar_available": false
     },
     {
       "ident": "NFNO",
@@ -353,7 +380,8 @@
       "municipality": "Koro Island",
       "gps_code": "NFNO",
       "iata_code": "KXF",
-      "coordinates": "-17.3458003998, 179.42199707"
+      "coordinates": "-17.3458003998, 179.42199707",
+      "metar_available": false
     },
     {
       "ident": "NFNR",
@@ -366,7 +394,8 @@
       "municipality": "Rotuma",
       "gps_code": "NFNR",
       "iata_code": "RTA",
-      "coordinates": "-12.482500076293945, 177.0709991455078"
+      "coordinates": "-12.482500076293945, 177.0709991455078",
+      "metar_available": false
     },
     {
       "ident": "NFNS",
@@ -379,7 +408,8 @@
       "municipality": "Savusavu",
       "gps_code": "NFNS",
       "iata_code": "SVU",
-      "coordinates": "-16.803394, 179.340587"
+      "coordinates": "-16.803394, 179.340587",
+      "metar_available": false
     },
     {
       "ident": "NFNW",
@@ -392,7 +422,8 @@
       "municipality": "Wakaya Island",
       "gps_code": "NFNW",
       "iata_code": "KAY",
-      "coordinates": "-17.617000579833984, 179.01699829101562"
+      "coordinates": "-17.617000579833984, 179.01699829101562",
+      "metar_available": false
     },
     {
       "ident": "NFOL",
@@ -405,7 +436,8 @@
       "municipality": "Ono-i-Lau",
       "gps_code": "NFOL",
       "iata_code": "ONU",
-      "coordinates": "-20.6589, -178.7411"
+      "coordinates": "-20.6589, -178.7411",
+      "metar_available": false
     },
     {
       "ident": "NFRS",
@@ -417,7 +449,8 @@
       "iso_region": "FJ-W",
       "municipality": "Treasure Island Resort",
       "gps_code": "NFRS",
-      "coordinates": "-17.6554, 177.2654"
+      "coordinates": "-17.6554, 177.2654",
+      "metar_available": false
     },
     {
       "ident": "NFSW",
@@ -430,7 +463,8 @@
       "municipality": "Yasawa Island",
       "gps_code": "NFSW",
       "iata_code": "YAS",
-      "coordinates": "-16.7589, 177.544998"
+      "coordinates": "-16.7589, 177.544998",
+      "metar_available": false
     },
     {
       "ident": "NFUL",
@@ -443,7 +477,8 @@
       "municipality": "Nanuya Levu Island",
       "gps_code": "NFUL",
       "iata_code": "TTL",
-      "coordinates": "-16.966, 177.368"
+      "coordinates": "-16.966, 177.368",
+      "metar_available": false
     },
     {
       "ident": "NFVB",
@@ -456,7 +491,8 @@
       "municipality": "Vanua Balavu",
       "gps_code": "NFVB",
       "iata_code": "VBV",
-      "coordinates": "-17.268999099731445, -178.9759979248047"
+      "coordinates": "-17.268999099731445, -178.9759979248047",
+      "metar_available": false
     },
     {
       "ident": "NFVL",
@@ -469,7 +505,8 @@
       "municipality": "Vatulele",
       "gps_code": "NFVL",
       "iata_code": "VTF",
-      "coordinates": "-18.512500762939453, 177.63900756835938"
+      "coordinates": "-18.512500762939453, 177.63900756835938",
+      "metar_available": false
     }
   ]
 }

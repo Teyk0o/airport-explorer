@@ -2,7 +2,7 @@
   "country_code": "PS",
   "country_name": "Palestinian Territory",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.842440",
+  "last_updated": "2025-08-25T10:08:40.997901",
   "types_distribution": {
     "small_airport": 1,
     "closed": 4,
@@ -17,7 +17,8 @@
       "iso_country": "PS",
       "iso_region": "PS-NBS",
       "municipality": "Jurish",
-      "coordinates": "32.098363, 35.345356"
+      "coordinates": "32.098363, 35.345356",
+      "metar_available": false
     },
     {
       "ident": "PS-0002",
@@ -27,7 +28,8 @@
       "iso_country": "PS",
       "iso_region": "PS-JEN",
       "municipality": "Jenin",
-      "coordinates": "32.503056, 35.289167"
+      "coordinates": "32.503056, 35.289167",
+      "metar_available": false
     },
     {
       "ident": "PS-0003",
@@ -37,7 +39,8 @@
       "iso_country": "PS",
       "iso_region": "PS-BTH",
       "municipality": "Dheisheh",
-      "coordinates": "31.695021, 35.188522"
+      "coordinates": "31.695021, 35.188522",
+      "metar_available": false
     },
     {
       "ident": "PS-0004",
@@ -46,7 +49,8 @@
       "continent": "AS",
       "iso_country": "PS",
       "iso_region": "PS-GZA",
-      "coordinates": "31.472586, 34.478874"
+      "coordinates": "31.472586, 34.478874",
+      "metar_available": false
     },
     {
       "ident": "PS-0005",
@@ -57,7 +61,8 @@
       "iso_country": "PS",
       "iso_region": "PS-KYS",
       "municipality": "Khan Yunis",
-      "coordinates": "31.36705, 34.29451"
+      "coordinates": "31.36705, 34.29451",
+      "metar_available": false
     },
     {
       "ident": "PS-0006",
@@ -68,7 +73,8 @@
       "iso_country": "PS",
       "iso_region": "PS-RFH",
       "municipality": "Rafah",
-      "coordinates": "31.246401, 34.2761"
+      "coordinates": "31.246401, 34.2761",
+      "metar_available": false
     },
     {
       "ident": "ZDM",
@@ -80,7 +86,8 @@
       "iso_region": "PS-RBH",
       "municipality": "Ramallah",
       "iata_code": "ZDM",
-      "coordinates": "31.91123, 35.20756"
+      "coordinates": "31.91123, 35.20756",
+      "metar_available": false
     }
   ]
 }
