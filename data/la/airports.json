@@ -2,7 +2,7 @@
   "country_code": "LA",
   "country_name": "Laos",
   "total_airports": 25,
-  "last_updated": "2025-08-01T00:18:22.815779",
+  "last_updated": "2025-08-25T10:08:40.969445",
   "types_distribution": {
     "closed": 4,
     "small_airport": 14,
@@ -18,7 +18,8 @@
       "iso_country": "LA",
       "iso_region": "LA-VI",
       "municipality": "Vang Vieng",
-      "coordinates": "18.924999, 102.450996"
+      "coordinates": "18.924999, 102.450996",
+      "metar_available": false
     },
     {
       "ident": "LA-0002",
@@ -27,7 +28,8 @@
       "continent": "AS",
       "iso_country": "LA",
       "iso_region": "LA-XI",
-      "coordinates": "19.10700035095215, 102.92400360107422"
+      "coordinates": "19.10700035095215, 102.92400360107422",
+      "metar_available": false
     },
     {
       "ident": "LA-0003",
@@ -38,7 +40,8 @@
       "iso_country": "LA",
       "iso_region": "LA-PH",
       "municipality": "Muang Ou Tai",
-      "coordinates": "22.121944, 101.799167"
+      "coordinates": "22.121944, 101.799167",
+      "metar_available": false
     },
     {
       "ident": "LA-0004",
@@ -49,7 +52,8 @@
       "iso_country": "LA",
       "iso_region": "LA-XI",
       "municipality": "Muang Souy",
-      "coordinates": "19.5238888889, 102.889166667"
+      "coordinates": "19.5238888889, 102.889166667",
+      "metar_available": false
     },
     {
       "ident": "LA-0005",
@@ -58,7 +62,8 @@
       "continent": "AS",
       "iso_country": "LA",
       "iso_region": "LA-VT",
-      "coordinates": "18.068039, 102.910591"
+      "coordinates": "18.068039, 102.910591",
+      "metar_available": false
     },
     {
       "ident": "LA-0006",
@@ -70,7 +75,8 @@
       "iso_region": "LA-BK",
       "municipality": "Ton Phueng",
       "iata_code": "BOR",
-      "coordinates": "20.323986, 100.165392"
+      "coordinates": "20.323986, 100.165392",
+      "metar_available": false
     },
     {
       "ident": "LA-0007",
@@ -81,7 +87,8 @@
       "iso_country": "LA",
       "iso_region": "LA-VI",
       "municipality": "Vang Vieng",
-      "coordinates": "18.911778, 102.405238"
+      "coordinates": "18.911778, 102.405238",
+      "metar_available": false
     },
     {
       "ident": "PCQ",
@@ -94,7 +101,8 @@
       "municipality": "Phongsaly",
       "gps_code": "VLFL",
       "iata_code": "PCQ",
-      "coordinates": "21.6475, 101.9"
+      "coordinates": "21.6475, 101.9",
+      "metar_available": false
     },
     {
       "ident": "VLAP",
@@ -107,7 +115,8 @@
       "municipality": "Attopeu",
       "gps_code": "VLAP",
       "iata_code": "AOU",
-      "coordinates": "14.793056, 107.045278"
+      "coordinates": "14.793056, 107.045278",
+      "metar_available": false
     },
     {
       "ident": "VLHS",
@@ -120,7 +129,8 @@
       "municipality": "Huay Xai",
       "gps_code": "VLHS",
       "iata_code": "HOE",
-      "coordinates": "20.257299, 100.436996"
+      "coordinates": "20.257299, 100.436996",
+      "metar_available": false
     },
     {
       "ident": "VLLB",
@@ -133,7 +143,8 @@
       "municipality": "Luang Phabang",
       "gps_code": "VLLB",
       "iata_code": "LPQ",
-      "coordinates": "19.897300720214844, 102.16100311279297"
+      "coordinates": "19.897300720214844, 102.16100311279297",
+      "metar_available": false
     },
     {
       "ident": "VLLN",
@@ -146,7 +157,8 @@
       "municipality": "Luang Namtha",
       "gps_code": "VLLN",
       "iata_code": "LXG",
-      "coordinates": "20.966999, 101.400002"
+      "coordinates": "20.966999, 101.400002",
+      "metar_available": false
     },
     {
       "ident": "VLNK",
@@ -157,7 +169,8 @@
       "iso_country": "LA",
       "iso_region": "LA-HO",
       "gps_code": "VLNK",
-      "coordinates": "20.613333, 104.066109"
+      "coordinates": "20.613333, 104.066109",
+      "metar_available": false
     },
     {
       "ident": "VLOS",
@@ -170,7 +183,8 @@
       "municipality": "Oudomsay",
       "gps_code": "VLOS",
       "iata_code": "ODY",
-      "coordinates": "20.68269920349121, 101.99400329589844"
+      "coordinates": "20.68269920349121, 101.99400329589844",
+      "metar_available": false
     },
     {
       "ident": "VLPS",
@@ -183,7 +197,8 @@
       "municipality": "Pakse",
       "gps_code": "VLPS",
       "iata_code": "PKZ",
-      "coordinates": "15.132100105285645, 105.78099822998047"
+      "coordinates": "15.132100105285645, 105.78099822998047",
+      "metar_available": false
     },
     {
       "ident": "VLPV",
@@ -194,7 +209,8 @@
       "iso_country": "LA",
       "iso_region": "LA-XI",
       "gps_code": "VLPV",
-      "coordinates": "19.45490074157715, 103.21800231933594"
+      "coordinates": "19.45490074157715, 103.21800231933594",
+      "metar_available": false
     },
     {
       "ident": "VLSB",
@@ -207,7 +223,8 @@
       "municipality": "Sainyabuli",
       "gps_code": "VLSB",
       "iata_code": "ZBY",
-      "coordinates": "19.2436, 101.7093"
+      "coordinates": "19.2436, 101.7093",
+      "metar_available": false
     },
     {
       "ident": "VLSK",
@@ -219,7 +236,8 @@
       "iso_region": "LA-SV",
       "gps_code": "VLSK",
       "iata_code": "ZVK",
-      "coordinates": "16.55660057067871, 104.76000213623047"
+      "coordinates": "16.55660057067871, 104.76000213623047",
+      "metar_available": false
     },
     {
       "ident": "VLSN",
@@ -231,7 +249,8 @@
       "iso_region": "LA-HO",
       "gps_code": "VLSN",
       "iata_code": "NEU",
-      "coordinates": "20.4184, 104.067001"
+      "coordinates": "20.4184, 104.067001",
+      "metar_available": false
     },
     {
       "ident": "VLSP",
@@ -242,7 +261,8 @@
       "iso_country": "LA",
       "iso_region": "LA-SV",
       "gps_code": "VLSP",
-      "coordinates": "16.95917, 105.98167"
+      "coordinates": "16.95917, 105.98167",
+      "metar_available": false
     },
     {
       "ident": "VLSV",
@@ -255,7 +275,8 @@
       "municipality": "Salavan",
       "gps_code": "VLSV",
       "iata_code": "VNA",
-      "coordinates": "15.709026, 106.410937"
+      "coordinates": "15.709026, 106.410937",
+      "metar_available": false
     },
     {
       "ident": "VLTK",
@@ -268,7 +289,8 @@
       "municipality": "Thakhek",
       "gps_code": "VLTK",
       "iata_code": "THK",
-      "coordinates": "17.377917, 104.857378"
+      "coordinates": "17.377917, 104.857378",
+      "metar_available": false
     },
     {
       "ident": "VLVT",
@@ -281,7 +303,8 @@
       "municipality": "Vientiane",
       "gps_code": "VLVT",
       "iata_code": "VTE",
-      "coordinates": "17.988300323500003, 102.56300354"
+      "coordinates": "17.988300323500003, 102.56300354",
+      "metar_available": false
     },
     {
       "ident": "VLXK",
@@ -294,7 +317,8 @@
       "municipality": "Xieng Khouang",
       "gps_code": "VLXK",
       "iata_code": "XKH",
-      "coordinates": "19.450001, 103.157997"
+      "coordinates": "19.450001, 103.157997",
+      "metar_available": false
     },
     {
       "ident": "VLXL",
@@ -307,7 +331,8 @@
       "municipality": "Xienglom",
       "gps_code": "VLXL",
       "iata_code": "XIE",
-      "coordinates": "19.6203, 100.815332"
+      "coordinates": "19.6203, 100.815332",
+      "metar_available": false
     }
   ]
 }

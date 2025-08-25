@@ -2,7 +2,7 @@
   "country_code": "KE",
   "country_name": "Kenya",
   "total_airports": 373,
-  "last_updated": "2025-08-01T00:18:22.495244",
+  "last_updated": "2025-08-25T10:08:40.626283",
   "types_distribution": {
     "small_airport": 351,
     "medium_airport": 15,
@@ -21,7 +21,8 @@
       "municipality": "Bamburi",
       "gps_code": "HKBM",
       "iata_code": "BMQ",
-      "coordinates": "-3.983363, 39.730982"
+      "coordinates": "-3.983363, 39.730982",
+      "metar_available": false
     },
     {
       "ident": "HKAM",
@@ -34,7 +35,8 @@
       "municipality": "Amboseli National Park",
       "gps_code": "HKAM",
       "iata_code": "ASV",
-      "coordinates": "-2.645050048828125, 37.25310134887695"
+      "coordinates": "-2.645050048828125, 37.25310134887695",
+      "metar_available": false
     },
     {
       "ident": "HKBR",
@@ -46,7 +48,8 @@
       "iso_region": "KE-300",
       "municipality": "Bura",
       "gps_code": "HKBR",
-      "coordinates": "-1.1, 39.950001"
+      "coordinates": "-1.1, 39.950001",
+      "metar_available": false
     },
     {
       "ident": "HKEL",
@@ -59,7 +62,8 @@
       "municipality": "Eldoret",
       "gps_code": "HKEL",
       "iata_code": "EDL",
-      "coordinates": "0.4044579863548279, 35.23889923095703"
+      "coordinates": "0.4044579863548279, 35.23889923095703",
+      "metar_available": false
     },
     {
       "ident": "HKEM",
@@ -71,7 +75,8 @@
       "iso_region": "KE-400",
       "municipality": "Embu",
       "gps_code": "HKEM",
-      "coordinates": "-0.57327, 37.49726"
+      "coordinates": "-0.57327, 37.49726",
+      "metar_available": false
     },
     {
       "ident": "HKES",
@@ -84,7 +89,8 @@
       "municipality": "Eliye Springs",
       "gps_code": "HKES",
       "iata_code": "EYS",
-      "coordinates": "3.23635, 35.97664"
+      "coordinates": "3.23635, 35.97664",
+      "metar_available": false
     },
     {
       "ident": "HKEW",
@@ -95,7 +101,8 @@
       "iso_region": "KE-500",
       "municipality": "El Wak",
       "gps_code": "HKEW",
-      "coordinates": "2.732842, 40.927505"
+      "coordinates": "2.732842, 40.927505",
+      "metar_available": false
     },
     {
       "ident": "HKFG",
@@ -108,7 +115,8 @@
       "municipality": "Kalokol",
       "gps_code": "HKFG",
       "iata_code": "KLK",
-      "coordinates": "3.49161, 35.836777"
+      "coordinates": "3.49161, 35.836777",
+      "metar_available": false
     },
     {
       "ident": "HKGA",
@@ -121,7 +129,8 @@
       "municipality": "Garissa",
       "gps_code": "HKGA",
       "iata_code": "GAS",
-      "coordinates": "-0.463508, 39.6483"
+      "coordinates": "-0.463508, 39.6483",
+      "metar_available": false
     },
     {
       "ident": "HKGT",
@@ -133,7 +142,8 @@
       "iso_region": "KE-400",
       "municipality": "Garba Tula",
       "gps_code": "HKGT",
-      "coordinates": "0.533333, 38.516667"
+      "coordinates": "0.533333, 38.516667",
+      "metar_available": false
     },
     {
       "ident": "HKHB",
@@ -145,7 +155,8 @@
       "iso_region": "KE-600",
       "municipality": "Homa Bay",
       "gps_code": "HKHB",
-      "coordinates": "-0.587322, 34.476467"
+      "coordinates": "-0.587322, 34.476467",
+      "metar_available": false
     },
     {
       "ident": "HKHO",
@@ -158,7 +169,8 @@
       "municipality": "Hola",
       "gps_code": "HKHO",
       "iata_code": "HOA",
-      "coordinates": "-1.522, 40.004002"
+      "coordinates": "-1.522, 40.004002",
+      "metar_available": false
     },
     {
       "ident": "HKIS",
@@ -170,7 +182,8 @@
       "iso_region": "KE-400",
       "municipality": "Isiolo",
       "gps_code": "HKIS",
-      "coordinates": "0.338171, 37.591694"
+      "coordinates": "0.338171, 37.591694",
+      "metar_available": false
     },
     {
       "ident": "HKJK",
@@ -183,7 +196,8 @@
       "municipality": "Nairobi",
       "gps_code": "HKJK",
       "iata_code": "NBO",
-      "coordinates": "-1.31923997402, 36.9277992249"
+      "coordinates": "-1.31923997402, 36.9277992249",
+      "metar_available": false
     },
     {
       "ident": "HKKB",
@@ -195,7 +209,8 @@
       "iso_region": "KE-400",
       "municipality": "Kiambere",
       "gps_code": "HKKB",
-      "coordinates": "-0.6330000162124634, 37.882999420166016"
+      "coordinates": "-0.6330000162124634, 37.882999420166016",
+      "metar_available": false
     },
     {
       "ident": "HKKE",
@@ -208,7 +223,8 @@
       "municipality": "Keekorok",
       "gps_code": "HKKE",
       "iata_code": "KEU",
-      "coordinates": "-1.586345, 35.257455"
+      "coordinates": "-1.586345, 35.257455",
+      "metar_available": false
     },
     {
       "ident": "HKKG",
@@ -221,7 +237,8 @@
       "municipality": "Kakamega",
       "gps_code": "HKKG",
       "iata_code": "GGM",
-      "coordinates": "0.271342009306, 34.7873001099"
+      "coordinates": "0.271342009306, 34.7873001099",
+      "metar_available": false
     },
     {
       "ident": "HKKI",
@@ -234,7 +251,8 @@
       "municipality": "Kisumu",
       "gps_code": "HKKI",
       "iata_code": "KIS",
-      "coordinates": "-0.0861390009522438, 34.72890090942383"
+      "coordinates": "-0.0861390009522438, 34.72890090942383",
+      "metar_available": false
     },
     {
       "ident": "HKKL",
@@ -247,7 +265,8 @@
       "municipality": "Kilaguni",
       "gps_code": "HKKL",
       "iata_code": "ILU",
-      "coordinates": "-2.91061, 38.065201"
+      "coordinates": "-2.91061, 38.065201",
+      "metar_available": false
     },
     {
       "ident": "HKKR",
@@ -260,7 +279,8 @@
       "municipality": "Kericho",
       "gps_code": "HKKR",
       "iata_code": "KEY",
-      "coordinates": "-0.3899, 35.242093"
+      "coordinates": "-0.3899, 35.242093",
+      "metar_available": false
     },
     {
       "ident": "HKKS",
@@ -272,7 +292,8 @@
       "iso_region": "KE-600",
       "municipality": "Kisii",
       "gps_code": "HKKS",
-      "coordinates": "-0.672514, 34.690923"
+      "coordinates": "-0.672514, 34.690923",
+      "metar_available": false
     },
     {
       "ident": "HKKT",
@@ -285,7 +306,8 @@
       "municipality": "Kitale",
       "gps_code": "HKKT",
       "iata_code": "KTL",
-      "coordinates": "0.971989, 34.958599"
+      "coordinates": "0.971989, 34.958599",
+      "metar_available": false
     },
     {
       "ident": "HKKU",
@@ -297,7 +319,8 @@
       "iso_region": "KE-400",
       "municipality": "Kitui",
       "gps_code": "HKKU",
-      "coordinates": "-1.372789978981018, 37.97809982299805"
+      "coordinates": "-1.372789978981018, 37.97809982299805",
+      "metar_available": false
     },
     {
       "ident": "HKLG",
@@ -309,7 +332,8 @@
       "iso_region": "KE-700",
       "municipality": "Lokitaung",
       "gps_code": "HKLG",
-      "coordinates": "4.319205, 35.688641"
+      "coordinates": "4.319205, 35.688641",
+      "metar_available": false
     },
     {
       "ident": "HKLK",
@@ -322,7 +346,8 @@
       "municipality": "Lokichogio",
       "gps_code": "HKLK",
       "iata_code": "LKG",
-      "coordinates": "4.20412, 34.348202"
+      "coordinates": "4.20412, 34.348202",
+      "metar_available": false
     },
     {
       "ident": "HKLO",
@@ -335,7 +360,8 @@
       "municipality": "Lodwar",
       "gps_code": "HKLO",
       "iata_code": "LOK",
-      "coordinates": "3.12197, 35.6087"
+      "coordinates": "3.12197, 35.6087",
+      "metar_available": false
     },
     {
       "ident": "HKLU",
@@ -348,7 +374,8 @@
       "municipality": "Lamu",
       "gps_code": "HKLU",
       "iata_code": "LAU",
-      "coordinates": "-2.252431, 40.912892"
+      "coordinates": "-2.252431, 40.912892",
+      "metar_available": false
     },
     {
       "ident": "HKLY",
@@ -361,7 +388,8 @@
       "municipality": "Loyengalani",
       "gps_code": "HKLY",
       "iata_code": "LOY",
-      "coordinates": "2.75, 36.716999"
+      "coordinates": "2.75, 36.716999",
+      "metar_available": false
     },
     {
       "ident": "HKMA",
@@ -374,7 +402,8 @@
       "municipality": "Mandera",
       "gps_code": "HKMA",
       "iata_code": "NDE",
-      "coordinates": "3.934045, 41.844437"
+      "coordinates": "3.934045, 41.844437",
+      "metar_available": false
     },
     {
       "ident": "HKMB",
@@ -387,7 +416,8 @@
       "municipality": "Marsabit",
       "gps_code": "HKMB",
       "iata_code": "RBT",
-      "coordinates": "2.344254, 37.999996"
+      "coordinates": "2.344254, 37.999996",
+      "metar_available": false
     },
     {
       "ident": "HKMI",
@@ -399,7 +429,8 @@
       "iso_region": "KE-700",
       "municipality": "Maralal",
       "gps_code": "HKMI",
-      "coordinates": "0.95, 36.799999"
+      "coordinates": "0.95, 36.799999",
+      "metar_available": false
     },
     {
       "ident": "HKMK",
@@ -412,7 +443,8 @@
       "municipality": "Meru-Kinna",
       "gps_code": "HKMK",
       "iata_code": "JJM",
-      "coordinates": "0.165083, 38.195141"
+      "coordinates": "0.165083, 38.195141",
+      "metar_available": false
     },
     {
       "ident": "HKML",
@@ -425,7 +457,8 @@
       "municipality": "Malindi",
       "gps_code": "HKML",
       "iata_code": "MYD",
-      "coordinates": "-3.2293100357055664, 40.10169982910156"
+      "coordinates": "-3.2293100357055664, 40.10169982910156",
+      "metar_available": false
     },
     {
       "ident": "HKMM",
@@ -437,7 +470,8 @@
       "iso_region": "KE-600",
       "municipality": "Migori",
       "gps_code": "HKMJ",
-      "coordinates": "-1.116, 34.485833"
+      "coordinates": "-1.116, 34.485833",
+      "metar_available": false
     },
     {
       "ident": "HKMO",
@@ -450,7 +484,8 @@
       "municipality": "Mombasa",
       "gps_code": "HKMO",
       "iata_code": "MBA",
-      "coordinates": "-4.03483, 39.5942"
+      "coordinates": "-4.03483, 39.5942",
+      "metar_available": false
     },
     {
       "ident": "HKMS",
@@ -463,7 +498,8 @@
       "municipality": "Masai Mara",
       "gps_code": "HKMS",
       "iata_code": "MRE",
-      "coordinates": "-1.406111, 35.008057"
+      "coordinates": "-1.406111, 35.008057",
+      "metar_available": false
     },
     {
       "ident": "HKMU",
@@ -475,7 +511,8 @@
       "iso_region": "KE-400",
       "municipality": "Makindu",
       "gps_code": "HKMU",
-      "coordinates": "-2.289713, 37.828621"
+      "coordinates": "-2.289713, 37.828621",
+      "metar_available": false
     },
     {
       "ident": "HKMY",
@@ -488,7 +525,8 @@
       "municipality": "Moyale (Lower)",
       "gps_code": "HKMY",
       "iata_code": "OYL",
-      "coordinates": "3.46972, 39.101398"
+      "coordinates": "3.46972, 39.101398",
+      "metar_available": false
     },
     {
       "ident": "HKNI",
@@ -501,7 +539,8 @@
       "municipality": "Nyeri",
       "gps_code": "HKNI",
       "iata_code": "NYE",
-      "coordinates": "-0.364414, 36.978485"
+      "coordinates": "-0.364414, 36.978485",
+      "metar_available": false
     },
     {
       "ident": "HKNK",
@@ -514,7 +553,8 @@
       "municipality": "Nakuru",
       "gps_code": "HKNK",
       "iata_code": "NUU",
-      "coordinates": "-0.298067, 36.159302"
+      "coordinates": "-0.298067, 36.159302",
+      "metar_available": false
     },
     {
       "ident": "HKNL",
@@ -527,7 +567,8 @@
       "municipality": "Nanyuki",
       "gps_code": "HKNL",
       "iata_code": "NYK",
-      "coordinates": "-0.062399, 37.041008"
+      "coordinates": "-0.062399, 37.041008",
+      "metar_available": false
     },
     {
       "ident": "HKNO",
@@ -539,7 +580,8 @@
       "iso_region": "KE-700",
       "municipality": "Narok",
       "gps_code": "HKNO",
-      "coordinates": "-1.128103, 35.785685"
+      "coordinates": "-1.128103, 35.785685",
+      "metar_available": false
     },
     {
       "ident": "HKNV",
@@ -551,7 +593,8 @@
       "iso_region": "KE-700",
       "municipality": "Naivasha",
       "gps_code": "HKNV",
-      "coordinates": "-0.787953, 36.433494"
+      "coordinates": "-0.787953, 36.433494",
+      "metar_available": false
     },
     {
       "ident": "HKNW",
@@ -564,7 +607,8 @@
       "municipality": "Nairobi",
       "gps_code": "HKNW",
       "iata_code": "WIL",
-      "coordinates": "-1.321720004081726, 36.81480026245117"
+      "coordinates": "-1.321720004081726, 36.81480026245117",
+      "metar_available": false
     },
     {
       "ident": "HKNY",
@@ -575,7 +619,8 @@
       "iso_region": "KE-700",
       "municipality": "Nanyuki",
       "gps_code": "HKNY",
-      "coordinates": "0.032933, 37.026901"
+      "coordinates": "0.032933, 37.026901",
+      "metar_available": false
     },
     {
       "ident": "HKRE",
@@ -587,7 +632,8 @@
       "iso_region": "KE-110",
       "municipality": "Nairobi",
       "gps_code": "HKRE",
-      "coordinates": "-1.2772699594499999, 36.8623008728"
+      "coordinates": "-1.2772699594499999, 36.8623008728",
+      "metar_available": false
     },
     {
       "ident": "HKSB",
@@ -600,7 +646,8 @@
       "municipality": "Samburu",
       "gps_code": "HKSB",
       "iata_code": "UAS",
-      "coordinates": "0.534069, 37.531991"
+      "coordinates": "0.534069, 37.531991",
+      "metar_available": false
     },
     {
       "ident": "HKTW",
@@ -612,7 +659,8 @@
       "iso_region": "KE-900",
       "municipality": "Tawi",
       "gps_code": "HKTW",
-      "coordinates": "-2.73, 37.427"
+      "coordinates": "-2.73, 37.427",
+      "metar_available": false
     },
     {
       "ident": "HKUK",
@@ -625,7 +673,8 @@
       "municipality": "Ukunda",
       "gps_code": "HKUK",
       "iata_code": "UKA",
-      "coordinates": "-4.29333, 39.571098"
+      "coordinates": "-4.29333, 39.571098",
+      "metar_available": false
     },
     {
       "ident": "HKVO",
@@ -637,7 +686,8 @@
       "iso_region": "KE-300",
       "municipality": "Voi",
       "gps_code": "HKVO",
-      "coordinates": "-3.374539, 38.534748"
+      "coordinates": "-3.374539, 38.534748",
+      "metar_available": false
     },
     {
       "ident": "HKWE",
@@ -649,7 +699,8 @@
       "iso_region": "KE-900",
       "municipality": "Webuye",
       "gps_code": "HKWE",
-      "coordinates": "0.6169999837875366, 34.78300094604492"
+      "coordinates": "0.6169999837875366, 34.78300094604492",
+      "metar_available": false
     },
     {
       "ident": "HKWJ",
@@ -662,7 +713,8 @@
       "municipality": "Wajir",
       "gps_code": "HKWJ",
       "iata_code": "WJR",
-      "coordinates": "1.73324, 40.091599"
+      "coordinates": "1.73324, 40.091599",
+      "metar_available": false
     },
     {
       "ident": "KE-0001",
@@ -674,7 +726,8 @@
       "iso_region": "KE-600",
       "municipality": "Mfangano Island",
       "gps_code": "HKZF",
-      "coordinates": "-0.4665, 34.063998"
+      "coordinates": "-0.4665, 34.063998",
+      "metar_available": false
     },
     {
       "ident": "KE-0002",
@@ -685,7 +738,8 @@
       "iso_country": "KE",
       "iso_region": "KE-900",
       "municipality": "Nzoia",
-      "coordinates": "0.1333329975605011, 34.08333206176758"
+      "coordinates": "0.1333329975605011, 34.08333206176758",
+      "metar_available": false
     },
     {
       "ident": "KE-0003",
@@ -696,7 +750,8 @@
       "iso_country": "KE",
       "iso_region": "KE-600",
       "municipality": "Rusinga",
-      "coordinates": "-0.41266700625419617, 34.14250183105469"
+      "coordinates": "-0.41266700625419617, 34.14250183105469",
+      "metar_available": false
     },
     {
       "ident": "KE-0004",
@@ -708,7 +763,8 @@
       "iso_region": "KE-700",
       "municipality": "Oropoi",
       "gps_code": "HKOL",
-      "coordinates": "3.810904, 34.360943"
+      "coordinates": "3.810904, 34.360943",
+      "metar_available": false
     },
     {
       "ident": "KE-0005",
@@ -719,7 +775,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Mara Shikar",
-      "coordinates": "-1.0692780017852783, 35.050777435302734"
+      "coordinates": "-1.0692780017852783, 35.050777435302734",
+      "metar_available": false
     },
     {
       "ident": "KE-0006",
@@ -729,7 +786,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Lamu",
-      "coordinates": "-2.169513, 40.896414"
+      "coordinates": "-2.169513, 40.896414",
+      "metar_available": false
     },
     {
       "ident": "KE-0007",
@@ -740,7 +798,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Chepgoiven",
-      "coordinates": "-0.38600000739097595, 35.334110260009766"
+      "coordinates": "-0.38600000739097595, 35.334110260009766",
+      "metar_available": false
     },
     {
       "ident": "KE-0008",
@@ -751,7 +810,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Muswani",
-      "coordinates": "-1.1359169483184814, 35.33414077758789"
+      "coordinates": "-1.1359169483184814, 35.33414077758789",
+      "metar_available": false
     },
     {
       "ident": "KE-0009",
@@ -762,7 +822,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Sergoit",
-      "coordinates": "0.6499999761581421, 35.383331298828125"
+      "coordinates": "0.6499999761581421, 35.383331298828125",
+      "metar_available": false
     },
     {
       "ident": "KE-0010",
@@ -773,7 +834,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Siana Springs",
-      "coordinates": "-1.4833329916000366, 35.41666793823242"
+      "coordinates": "-1.4833329916000366, 35.41666793823242",
+      "metar_available": false
     },
     {
       "ident": "KE-0011",
@@ -784,7 +846,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Olerai",
-      "coordinates": "0.9859439730644226, 35.550804138183594"
+      "coordinates": "0.9859439730644226, 35.550804138183594",
+      "metar_available": false
     },
     {
       "ident": "KE-0012",
@@ -795,7 +858,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Oleshabani",
-      "coordinates": "-0.9723460078239441, 35.74672317504883"
+      "coordinates": "-0.9723460078239441, 35.74672317504883",
+      "metar_available": false
     },
     {
       "ident": "KE-0013",
@@ -806,7 +870,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Njoro",
-      "coordinates": "-0.335999995470047, 35.91747283935547"
+      "coordinates": "-0.335999995470047, 35.91747283935547",
+      "metar_available": false
     },
     {
       "ident": "KE-0014",
@@ -817,7 +882,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nakuru",
-      "coordinates": "-0.1877959966659546, 35.967098236083984"
+      "coordinates": "-0.1877959966659546, 35.967098236083984",
+      "metar_available": false
     },
     {
       "ident": "KE-0015",
@@ -829,7 +895,8 @@
       "iso_region": "KE-700",
       "municipality": "Lake Baringo",
       "iata_code": "LBN",
-      "coordinates": "0.603167, 36.013"
+      "coordinates": "0.603167, 36.013",
+      "metar_available": false
     },
     {
       "ident": "KE-0016",
@@ -840,7 +907,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Shompole",
-      "coordinates": "-2.0203330516815186, 36.03911209106445"
+      "coordinates": "-2.0203330516815186, 36.03911209106445",
+      "metar_available": false
     },
     {
       "ident": "KE-0017",
@@ -851,7 +919,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Shompole",
-      "coordinates": "-1.9755829572677612, 36.04838943481445"
+      "coordinates": "-1.9755829572677612, 36.04838943481445",
+      "metar_available": false
     },
     {
       "ident": "KE-0018",
@@ -862,7 +931,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kapedo",
-      "coordinates": "1.1638610363006592, 36.08416748046875"
+      "coordinates": "1.1638610363006592, 36.08416748046875",
+      "metar_available": false
     },
     {
       "ident": "KE-0019",
@@ -873,7 +943,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Naishi",
-      "coordinates": "-0.4565829932689667, 36.084999084472656"
+      "coordinates": "-0.4565829932689667, 36.084999084472656",
+      "metar_available": false
     },
     {
       "ident": "KE-0020",
@@ -886,7 +957,8 @@
       "municipality": "Congrieve",
       "gps_code": "HKCG",
       "local_code": "CONGRIE",
-      "coordinates": "-0.483944, 36.124359"
+      "coordinates": "-0.483944, 36.124359",
+      "metar_available": false
     },
     {
       "ident": "KE-0021",
@@ -897,7 +969,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ndabibi",
-      "coordinates": "-0.7430350184440613, 36.17222213745117"
+      "coordinates": "-0.7430350184440613, 36.17222213745117",
+      "metar_available": false
     },
     {
       "ident": "KE-0022",
@@ -908,7 +981,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Seislucho",
-      "coordinates": "4.377778053283691, 36.21666717529297"
+      "coordinates": "4.377778053283691, 36.21666717529297",
+      "metar_available": false
     },
     {
       "ident": "KE-0023",
@@ -919,7 +993,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kongoni",
-      "coordinates": "-0.8666669726371765, 36.233333587646484"
+      "coordinates": "-0.8666669726371765, 36.233333587646484",
+      "metar_available": false
     },
     {
       "ident": "KE-0024",
@@ -930,7 +1005,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nakuru",
-      "coordinates": "-0.40255600214004517, 36.23605728149414"
+      "coordinates": "-0.40255600214004517, 36.23605728149414",
+      "metar_available": false
     },
     {
       "ident": "KE-0025",
@@ -941,7 +1017,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ngelesha",
-      "coordinates": "1.5172220468521118, 36.2852783203125"
+      "coordinates": "1.5172220468521118, 36.2852783203125",
+      "metar_available": false
     },
     {
       "ident": "KE-0026",
@@ -952,7 +1029,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Oserongoni",
-      "coordinates": "-0.8190000057220459, 36.28783416748047"
+      "coordinates": "-0.8190000057220459, 36.28783416748047",
+      "metar_available": false
     },
     {
       "ident": "KE-0027",
@@ -963,7 +1041,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Loldia",
-      "coordinates": "-0.699999988079071, 36.31666564941406"
+      "coordinates": "-0.699999988079071, 36.31666564941406",
+      "metar_available": false
     },
     {
       "ident": "KE-0028",
@@ -974,7 +1053,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Manyatta",
-      "coordinates": "-0.494715, 36.352908"
+      "coordinates": "-0.494715, 36.352908",
+      "metar_available": false
     },
     {
       "ident": "KE-0029",
@@ -985,7 +1065,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Nyahururu",
-      "coordinates": "-0.013767000287771225, 36.36973571777344"
+      "coordinates": "-0.013767000287771225, 36.36973571777344",
+      "metar_available": false
     },
     {
       "ident": "KE-0030",
@@ -996,7 +1077,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kigio (Malewa)",
-      "coordinates": "-0.5677779912948608, 36.38336181640625"
+      "coordinates": "-0.5677779912948608, 36.38336181640625",
+      "metar_available": false
     },
     {
       "ident": "KE-0031",
@@ -1007,7 +1089,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ndume",
-      "coordinates": "-0.5193060040473938, 36.38414001464844"
+      "coordinates": "-0.5193060040473938, 36.38414001464844",
+      "metar_available": false
     },
     {
       "ident": "KE-0032",
@@ -1018,7 +1101,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Sukuta Mugie",
-      "coordinates": "0.714812, 36.586594"
+      "coordinates": "0.714812, 36.586594",
+      "metar_available": false
     },
     {
       "ident": "KE-0033",
@@ -1029,7 +1113,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ol Maisor",
-      "coordinates": "0.413292, 36.651665"
+      "coordinates": "0.413292, 36.651665",
+      "metar_available": false
     },
     {
       "ident": "KE-0034",
@@ -1042,7 +1127,8 @@
       "municipality": "Orly (Olooitikosh)",
       "gps_code": "HKIK",
       "local_code": "ORLY",
-      "coordinates": "-1.581194, 36.812832"
+      "coordinates": "-1.581194, 36.812832",
+      "metar_available": false
     },
     {
       "ident": "KE-0035",
@@ -1053,7 +1139,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Tadlitium",
-      "coordinates": "-2.122875928878784, 36.817481994628906"
+      "coordinates": "-2.122875928878784, 36.817481994628906",
+      "metar_available": false
     },
     {
       "ident": "KE-0036",
@@ -1063,7 +1150,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.6472219824790955, 36.850860595703125"
+      "coordinates": "0.6472219824790955, 36.850860595703125",
+      "metar_available": false
     },
     {
       "ident": "KE-0037",
@@ -1074,7 +1162,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nanyuki West",
-      "coordinates": "-0.141092, 36.914995"
+      "coordinates": "-0.141092, 36.914995",
+      "metar_available": false
     },
     {
       "ident": "KE-0038",
@@ -1085,7 +1174,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Olpejeta",
-      "coordinates": "0.03061099909245968, 36.90083312988281"
+      "coordinates": "0.03061099909245968, 36.90083312988281",
+      "metar_available": false
     },
     {
       "ident": "KE-0039",
@@ -1095,7 +1185,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.19724999368190765, 36.91749954223633"
+      "coordinates": "0.19724999368190765, 36.91749954223633",
+      "metar_available": false
     },
     {
       "ident": "KE-0040",
@@ -1106,7 +1197,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Talu",
-      "coordinates": "-1.1459519863128662, 36.91798782348633"
+      "coordinates": "-1.1459519863128662, 36.91798782348633",
+      "metar_available": false
     },
     {
       "ident": "KE-0041",
@@ -1117,7 +1209,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Laburra",
-      "coordinates": "-0.298471, 36.947185"
+      "coordinates": "-0.298471, 36.947185",
+      "metar_available": false
     },
     {
       "ident": "KE-0042",
@@ -1127,7 +1220,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.9333329796791077, 37.06666564941406"
+      "coordinates": "0.9333329796791077, 37.06666564941406",
+      "metar_available": false
     },
     {
       "ident": "KE-0043",
@@ -1137,7 +1231,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "2.930361032485962, 37.067527770996094"
+      "coordinates": "2.930361032485962, 37.067527770996094",
+      "metar_available": false
     },
     {
       "ident": "KE-0044",
@@ -1148,7 +1243,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kamwaki Farm",
-      "coordinates": "0.13384400308132172, 37.15920639038086"
+      "coordinates": "0.13384400308132172, 37.15920639038086",
+      "metar_available": false
     },
     {
       "ident": "KE-0045",
@@ -1158,7 +1254,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.04727799817919731, 37.20083236694336"
+      "coordinates": "0.04727799817919731, 37.20083236694336",
+      "metar_available": false
     },
     {
       "ident": "KE-0046",
@@ -1168,7 +1265,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.09727799892425537, 37.30086135864258"
+      "coordinates": "0.09727799892425537, 37.30086135864258",
+      "metar_available": false
     },
     {
       "ident": "KE-0047",
@@ -1179,7 +1277,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Tassia",
-      "coordinates": "0.4262219965457916, 37.33402633666992"
+      "coordinates": "0.4262219965457916, 37.33402633666992",
+      "metar_available": false
     },
     {
       "ident": "KE-0048",
@@ -1190,7 +1289,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Wanguru (Thiba)",
-      "coordinates": "-0.6966760158538818, 37.37461853027344"
+      "coordinates": "-0.6966760158538818, 37.37461853027344",
+      "metar_available": false
     },
     {
       "ident": "KE-0049",
@@ -1201,7 +1301,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Loloroi",
-      "coordinates": "0.635479, 37.380327"
+      "coordinates": "0.635479, 37.380327",
+      "metar_available": false
     },
     {
       "ident": "KE-0050",
@@ -1212,7 +1313,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Sarara",
-      "coordinates": "-1.0499999523162842, 37.43333435058594"
+      "coordinates": "-1.0499999523162842, 37.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "KE-0051",
@@ -1223,7 +1325,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Rutundu",
-      "coordinates": "-0.052654001861810684, 37.464542388916016"
+      "coordinates": "-0.052654001861810684, 37.464542388916016",
+      "metar_available": false
     },
     {
       "ident": "KE-0052",
@@ -1234,7 +1337,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Il Ngwesi",
-      "coordinates": "0.19724999368190765, 37.467529296875"
+      "coordinates": "0.19724999368190765, 37.467529296875",
+      "metar_available": false
     },
     {
       "ident": "KE-0053",
@@ -1245,7 +1349,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Mbirikani",
-      "coordinates": "-2.560832977294922, 37.54100036621094"
+      "coordinates": "-2.560832977294922, 37.54100036621094",
+      "metar_available": false
     },
     {
       "ident": "KE-0054",
@@ -1256,7 +1361,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Harris Hills",
-      "coordinates": "3.4166669845581055, 37.766666412353516"
+      "coordinates": "3.4166669845581055, 37.766666412353516",
+      "metar_available": false
     },
     {
       "ident": "KE-0055",
@@ -1267,7 +1373,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Lake Jipe",
-      "coordinates": "-3.6169440746307373, 37.77891540527344"
+      "coordinates": "-3.6169440746307373, 37.77891540527344",
+      "metar_available": false
     },
     {
       "ident": "KE-0056",
@@ -1278,7 +1385,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Finch Hattons",
-      "coordinates": "-2.94596791267395, 37.91468811035156"
+      "coordinates": "-2.94596791267395, 37.91468811035156",
+      "metar_available": false
     },
     {
       "ident": "KE-0057",
@@ -1289,7 +1397,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Maktau",
-      "coordinates": "-3.4081668853759766, 38.119667053222656"
+      "coordinates": "-3.4081668853759766, 38.119667053222656",
+      "metar_available": false
     },
     {
       "ident": "KE-0058",
@@ -1300,7 +1409,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kamboyo",
-      "coordinates": "-2.75, 38.119998931884766"
+      "coordinates": "-2.75, 38.119998931884766",
+      "metar_available": false
     },
     {
       "ident": "KE-0059",
@@ -1311,7 +1421,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kangetchwa",
-      "coordinates": "-3.179363965988159, 38.131011962890625"
+      "coordinates": "-3.179363965988159, 38.131011962890625",
+      "metar_available": false
     },
     {
       "ident": "KE-0060",
@@ -1321,7 +1432,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nariokotome",
-      "coordinates": "4.1232, 35.85745"
+      "coordinates": "4.1232, 35.85745",
+      "metar_available": false
     },
     {
       "ident": "KE-0061",
@@ -1332,7 +1444,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Ithumba",
-      "coordinates": "-2.216722011566162, 38.38689041137695"
+      "coordinates": "-2.216722011566162, 38.38689041137695",
+      "metar_available": false
     },
     {
       "ident": "KE-0062",
@@ -1343,7 +1456,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Satao",
-      "coordinates": "-3.393749952316284, 38.946861267089844"
+      "coordinates": "-3.393749952316284, 38.946861267089844",
+      "metar_available": false
     },
     {
       "ident": "KE-0063",
@@ -1354,7 +1468,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kone",
-      "coordinates": "-2.219193935394287, 39.100887298583984"
+      "coordinates": "-2.219193935394287, 39.100887298583984",
+      "metar_available": false
     },
     {
       "ident": "KE-0064",
@@ -1365,7 +1480,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Moyale",
-      "coordinates": "3.450000047683716, 39.132999420166016"
+      "coordinates": "3.450000047683716, 39.132999420166016",
+      "metar_available": false
     },
     {
       "ident": "KE-0065",
@@ -1376,7 +1492,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Crocodile Camp",
-      "coordinates": "-3.0691111087799072, 39.234222412109375"
+      "coordinates": "-3.0691111087799072, 39.234222412109375",
+      "metar_available": false
     },
     {
       "ident": "KE-0066",
@@ -1387,7 +1504,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kwale",
-      "coordinates": "-4.169795036315918, 39.43186569213867"
+      "coordinates": "-4.169795036315918, 39.43186569213867",
+      "metar_available": false
     },
     {
       "ident": "KE-0067",
@@ -1397,7 +1515,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-2.733333110809326, 39.53333282470703"
+      "coordinates": "-2.733333110809326, 39.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "KE-0068",
@@ -1408,7 +1527,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Komawayu (Tanke)",
-      "coordinates": "-2.9166669845581055, 39.55091857910156"
+      "coordinates": "-2.9166669845581055, 39.55091857910156",
+      "metar_available": false
     },
     {
       "ident": "KE-0069",
@@ -1420,7 +1540,8 @@
       "iso_region": "KE-300",
       "municipality": "Vipingo Estate",
       "iata_code": "VPG",
-      "coordinates": "-3.80666666667, 39.7973888889"
+      "coordinates": "-3.80666666667, 39.7973888889",
+      "metar_available": false
     },
     {
       "ident": "KE-0070",
@@ -1431,7 +1552,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kijipwa",
-      "coordinates": "-3.8431389331817627, 39.80516815185547"
+      "coordinates": "-3.8431389331817627, 39.80516815185547",
+      "metar_available": false
     },
     {
       "ident": "KE-0071",
@@ -1442,7 +1564,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Garsen",
-      "coordinates": "-2.2680559158325195, 40.09377670288086"
+      "coordinates": "-2.2680559158325195, 40.09377670288086",
+      "metar_available": false
     },
     {
       "ident": "KE-0072",
@@ -1453,7 +1576,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Rhamu",
-      "coordinates": "3.923082113265991, 41.223690032958984"
+      "coordinates": "3.923082113265991, 41.223690032958984",
+      "metar_available": false
     },
     {
       "ident": "KE-0073",
@@ -1463,7 +1587,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.231557, 37.364159"
+      "coordinates": "0.231557, 37.364159",
+      "metar_available": false
     },
     {
       "ident": "KE-0074",
@@ -1472,7 +1597,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.26957, 37.328098"
+      "coordinates": "0.26957, 37.328098",
+      "metar_available": false
     },
     {
       "ident": "KE-0076",
@@ -1482,7 +1608,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Lenana",
-      "coordinates": "-0.16217799484729767, 37.445899963378906"
+      "coordinates": "-0.16217799484729767, 37.445899963378906",
+      "metar_available": false
     },
     {
       "ident": "KE-0077",
@@ -1492,7 +1619,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Log Logo",
-      "coordinates": "1.994582, 37.916434"
+      "coordinates": "1.994582, 37.916434",
+      "metar_available": false
     },
     {
       "ident": "KE-0078",
@@ -1502,7 +1630,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Kalacha",
-      "coordinates": "3.134855, 37.426236"
+      "coordinates": "3.134855, 37.426236",
+      "metar_available": false
     },
     {
       "ident": "KE-0079",
@@ -1512,7 +1641,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kauro",
-      "coordinates": "1.06402, 37.720198"
+      "coordinates": "1.06402, 37.720198",
+      "metar_available": false
     },
     {
       "ident": "KE-0080",
@@ -1523,7 +1653,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Maroni",
-      "coordinates": "-1.847326, 40.091586"
+      "coordinates": "-1.847326, 40.091586",
+      "metar_available": false
     },
     {
       "ident": "KE-0081",
@@ -1534,7 +1665,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Bura West",
-      "coordinates": "-1.189574, 39.81448"
+      "coordinates": "-1.189574, 39.81448",
+      "metar_available": false
     },
     {
       "ident": "KE-0082",
@@ -1543,7 +1675,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "-0.069552, 38.382484"
+      "coordinates": "-0.069552, 38.382484",
+      "metar_available": false
     },
     {
       "ident": "KE-0083",
@@ -1552,7 +1685,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "-0.049021, 38.308839"
+      "coordinates": "-0.049021, 38.308839",
+      "metar_available": false
     },
     {
       "ident": "KE-0084",
@@ -1561,7 +1695,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.118977, 38.268425"
+      "coordinates": "0.118977, 38.268425",
+      "metar_available": false
     },
     {
       "ident": "KE-0085",
@@ -1570,7 +1705,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.02597, 38.065436"
+      "coordinates": "0.02597, 38.065436",
+      "metar_available": false
     },
     {
       "ident": "KE-0086",
@@ -1581,7 +1717,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Karagita",
-      "coordinates": "-0.802034, 36.411967"
+      "coordinates": "-0.802034, 36.411967",
+      "metar_available": false
     },
     {
       "ident": "KE-0087",
@@ -1592,7 +1729,8 @@
       "iso_country": "KE",
       "iso_region": "KE-900",
       "municipality": "Alale",
-      "coordinates": "2.267596, 35.029196"
+      "coordinates": "2.267596, 35.029196",
+      "metar_available": false
     },
     {
       "ident": "KE-0088",
@@ -1602,7 +1740,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Alia Bay",
-      "coordinates": "3.705058, 36.262236"
+      "coordinates": "3.705058, 36.262236",
+      "metar_available": false
     },
     {
       "ident": "KE-0089",
@@ -1612,7 +1751,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Arabia",
-      "coordinates": "3.566973, 41.511833"
+      "coordinates": "3.566973, 41.511833",
+      "metar_available": false
     },
     {
       "ident": "KE-0090",
@@ -1622,7 +1762,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "-0.107107, 39.046973"
+      "coordinates": "-0.107107, 39.046973",
+      "metar_available": false
     },
     {
       "ident": "KE-0091",
@@ -1632,7 +1773,8 @@
       "iso_country": "KE",
       "iso_region": "KE-110",
       "municipality": "Athi River",
-      "coordinates": "-1.51094, 37.034369"
+      "coordinates": "-1.51094, 37.034369",
+      "metar_available": false
     },
     {
       "ident": "KE-0092",
@@ -1643,7 +1785,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Bachuma",
-      "coordinates": "-3.663575, 38.945339"
+      "coordinates": "-3.663575, 38.945339",
+      "metar_available": false
     },
     {
       "ident": "KE-0093",
@@ -1653,7 +1796,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Baragoi",
-      "coordinates": "1.807578, 36.679137"
+      "coordinates": "1.807578, 36.679137",
+      "metar_available": false
     },
     {
       "ident": "KE-0094",
@@ -1663,7 +1807,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Barsaloi",
-      "coordinates": "1.340706, 36.856679"
+      "coordinates": "1.340706, 36.856679",
+      "metar_available": false
     },
     {
       "ident": "KE-0095",
@@ -1673,7 +1818,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Naivasha",
-      "coordinates": "-0.795118, 36.295698"
+      "coordinates": "-0.795118, 36.295698",
+      "metar_available": false
     },
     {
       "ident": "KE-0096",
@@ -1683,7 +1829,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Naivasha",
-      "coordinates": "-0.767433, 36.397561"
+      "coordinates": "-0.767433, 36.397561",
+      "metar_available": false
     },
     {
       "ident": "KE-0097",
@@ -1693,7 +1840,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Kargi",
-      "coordinates": "2.505995, 37.565966"
+      "coordinates": "2.505995, 37.565966",
+      "metar_available": false
     },
     {
       "ident": "KE-0098",
@@ -1703,7 +1851,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Bissel",
-      "coordinates": "-2.136863, 36.838493"
+      "coordinates": "-2.136863, 36.838493",
+      "metar_available": false
     },
     {
       "ident": "KE-0099",
@@ -1713,7 +1862,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Karamaini",
-      "coordinates": "-1.040713, 36.992879"
+      "coordinates": "-1.040713, 36.992879",
+      "metar_available": false
     },
     {
       "ident": "KE-0100",
@@ -1723,7 +1873,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Bogani",
-      "coordinates": "-1.014198, 35.342806"
+      "coordinates": "-1.014198, 35.342806",
+      "metar_available": false
     },
     {
       "ident": "KE-0101",
@@ -1733,7 +1884,8 @@
       "iso_country": "KE",
       "iso_region": "KE-600",
       "municipality": "Bomet",
-      "coordinates": "-0.776471, 35.318411"
+      "coordinates": "-0.776471, 35.318411",
+      "metar_available": false
     },
     {
       "ident": "KE-0102",
@@ -1743,7 +1895,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Buna",
-      "coordinates": "2.80117, 39.481787"
+      "coordinates": "2.80117, 39.481787",
+      "metar_available": false
     },
     {
       "ident": "KE-0103",
@@ -1753,7 +1906,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Bute",
-      "coordinates": "3.337517, 39.41424"
+      "coordinates": "3.337517, 39.41424",
+      "metar_available": false
     },
     {
       "ident": "KE-0104",
@@ -1763,7 +1917,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Rongai",
-      "coordinates": "-0.191457, 35.864189"
+      "coordinates": "-0.191457, 35.864189",
+      "metar_available": false
     },
     {
       "ident": "KE-0105",
@@ -1773,7 +1928,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Shaba",
-      "coordinates": "0.667151, 37.910007"
+      "coordinates": "0.667151, 37.910007",
+      "metar_available": false
     },
     {
       "ident": "KE-0106",
@@ -1782,7 +1938,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-2.527368, 37.731488"
+      "coordinates": "-2.527368, 37.731488",
+      "metar_available": false
     },
     {
       "ident": "KE-0107",
@@ -1793,7 +1950,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "gps_code": "HKCC",
-      "coordinates": "-1.680954, 35.344401"
+      "coordinates": "-1.680954, 35.344401",
+      "metar_available": false
     },
     {
       "ident": "KE-0108",
@@ -1805,7 +1963,8 @@
       "iso_region": "KE-500",
       "municipality": "Dadaab",
       "gps_code": "HKDA",
-      "coordinates": "0.058189, 40.318055"
+      "coordinates": "0.058189, 40.318055",
+      "metar_available": false
     },
     {
       "ident": "KE-0109",
@@ -1815,7 +1974,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Dol Dol",
-      "coordinates": "0.367944, 37.141442"
+      "coordinates": "0.367944, 37.141442",
+      "metar_available": false
     },
     {
       "ident": "KE-0110",
@@ -1825,7 +1985,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "El Kantor",
-      "coordinates": "1.465284, 37.073011"
+      "coordinates": "1.465284, 37.073011",
+      "metar_available": false
     },
     {
       "ident": "KE-0111",
@@ -1835,7 +1996,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Enasoit",
-      "coordinates": "0.237853, 37.077848"
+      "coordinates": "0.237853, 37.077848",
+      "metar_available": false
     },
     {
       "ident": "KE-0112",
@@ -1846,7 +2008,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Engelesha",
-      "coordinates": "0.510757, 36.294394"
+      "coordinates": "0.510757, 36.294394",
+      "metar_available": false
     },
     {
       "ident": "KE-0113",
@@ -1856,7 +2019,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kalema",
-      "coordinates": "-1.783522, 36.057783"
+      "coordinates": "-1.783522, 36.057783",
+      "metar_available": false
     },
     {
       "ident": "KE-0114",
@@ -1866,7 +2030,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Entesekera",
-      "coordinates": "-1.842318, 35.86778"
+      "coordinates": "-1.842318, 35.86778",
+      "metar_available": false
     },
     {
       "ident": "KE-0115",
@@ -1876,7 +2041,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Funzi Island",
-      "coordinates": "-4.573672, 39.447079"
+      "coordinates": "-4.573672, 39.447079",
+      "metar_available": false
     },
     {
       "ident": "KE-0116",
@@ -1885,7 +2051,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-3.062141, 39.331661"
+      "coordinates": "-3.062141, 39.331661",
+      "metar_available": false
     },
     {
       "ident": "KE-0117",
@@ -1895,7 +2062,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Gatab",
-      "coordinates": "2.636477, 36.932055"
+      "coordinates": "2.636477, 36.932055",
+      "metar_available": false
     },
     {
       "ident": "KE-0118",
@@ -1905,7 +2073,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Gilgil",
-      "coordinates": "-0.502798, 36.356915"
+      "coordinates": "-0.502798, 36.356915",
+      "metar_available": false
     },
     {
       "ident": "KE-0119",
@@ -1915,7 +2084,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Rongai",
-      "coordinates": "-0.18786, 35.856818"
+      "coordinates": "-0.18786, 35.856818",
+      "metar_available": false
     },
     {
       "ident": "KE-0120",
@@ -1925,7 +2095,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Habaswein",
-      "coordinates": "1.016215, 39.505836"
+      "coordinates": "1.016215, 39.505836",
+      "metar_available": false
     },
     {
       "ident": "KE-0121",
@@ -1935,7 +2106,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Ileret",
-      "coordinates": "4.281881, 36.266951"
+      "coordinates": "4.281881, 36.266951",
+      "metar_available": false
     },
     {
       "ident": "KE-0122",
@@ -1945,7 +2117,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Ileret",
-      "coordinates": "4.304698, 36.235572"
+      "coordinates": "4.304698, 36.235572",
+      "metar_available": false
     },
     {
       "ident": "KE-0123",
@@ -1955,7 +2128,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ilkerin",
-      "coordinates": "-1.806828, 35.704339"
+      "coordinates": "-1.806828, 35.704339",
+      "metar_available": false
     },
     {
       "ident": "KE-0124",
@@ -1965,7 +2139,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Elmenteita",
-      "coordinates": "-0.523628, 36.187582"
+      "coordinates": "-0.523628, 36.187582",
+      "metar_available": false
     },
     {
       "ident": "KE-0125",
@@ -1976,7 +2151,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kalama",
-      "coordinates": "0.694423, 37.611987"
+      "coordinates": "0.694423, 37.611987",
+      "metar_available": false
     },
     {
       "ident": "KE-0126",
@@ -1986,7 +2162,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Kamburu",
-      "coordinates": "-0.823913, 37.715869"
+      "coordinates": "-0.823913, 37.715869",
+      "metar_available": false
     },
     {
       "ident": "KE-0127",
@@ -1995,7 +2172,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.601706, 36.73699"
+      "coordinates": "0.601706, 36.73699",
+      "metar_available": false
     },
     {
       "ident": "KE-0128",
@@ -2005,7 +2183,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kanzi",
-      "coordinates": "-2.75235, 37.878257"
+      "coordinates": "-2.75235, 37.878257",
+      "metar_available": false
     },
     {
       "ident": "KE-0129",
@@ -2015,7 +2194,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kasigau",
-      "coordinates": "-3.85072, 38.515401"
+      "coordinates": "-3.85072, 38.515401",
+      "metar_available": false
     },
     {
       "ident": "KE-0130",
@@ -2025,7 +2205,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kataboi",
-      "coordinates": "3.756125, 35.833843"
+      "coordinates": "3.756125, 35.833843",
+      "metar_available": false
     },
     {
       "ident": "KE-0131",
@@ -2035,7 +2216,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Katilu",
-      "coordinates": "2.284583, 35.429495"
+      "coordinates": "2.284583, 35.429495",
+      "metar_available": false
     },
     {
       "ident": "KE-0132",
@@ -2045,7 +2227,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kedong",
-      "coordinates": "-1.299226, 36.475029"
+      "coordinates": "-1.299226, 36.475029",
+      "metar_available": false
     },
     {
       "ident": "KE-0133",
@@ -2057,7 +2240,8 @@
       "municipality": "Kichwa Tembo",
       "gps_code": "HKTB",
       "iata_code": "KTJ",
-      "coordinates": "-1.263497, 35.027533"
+      "coordinates": "-1.263497, 35.027533",
+      "metar_available": false
     },
     {
       "ident": "KE-0134",
@@ -2066,7 +2250,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.173081, 36.583018"
+      "coordinates": "0.173081, 36.583018",
+      "metar_available": false
     },
     {
       "ident": "KE-0135",
@@ -2076,7 +2261,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kijabe",
-      "coordinates": "-0.956812, 36.592155"
+      "coordinates": "-0.956812, 36.592155",
+      "metar_available": false
     },
     {
       "ident": "KE-0136",
@@ -2085,7 +2271,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-2.627593, 38.338681"
+      "coordinates": "-2.627593, 38.338681",
+      "metar_available": false
     },
     {
       "ident": "KE-0137",
@@ -2095,7 +2282,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kimana",
-      "coordinates": "-2.752942, 37.525214"
+      "coordinates": "-2.752942, 37.525214",
+      "metar_available": false
     },
     {
       "ident": "KE-0138",
@@ -2105,7 +2293,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kipipri",
-      "coordinates": "-0.454084, 36.493097"
+      "coordinates": "-0.454084, 36.493097",
+      "metar_available": false
     },
     {
       "ident": "KE-0139",
@@ -2115,7 +2304,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kipsin",
-      "coordinates": "0.598082, 37.319715"
+      "coordinates": "0.598082, 37.319715",
+      "metar_available": false
     },
     {
       "ident": "KE-0140",
@@ -2124,7 +2314,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.512642, 36.694537"
+      "coordinates": "0.512642, 36.694537",
+      "metar_available": false
     },
     {
       "ident": "KE-0141",
@@ -2134,7 +2325,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Koka",
-      "coordinates": "-1.917027, 36.004027"
+      "coordinates": "-1.917027, 36.004027",
+      "metar_available": false
     },
     {
       "ident": "KE-0142",
@@ -2144,7 +2336,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kongoni",
-      "coordinates": "-0.843317, 36.259475"
+      "coordinates": "-0.843317, 36.259475",
+      "metar_available": false
     },
     {
       "ident": "KE-0143",
@@ -2154,7 +2347,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Korr",
-      "coordinates": "2.013786, 37.516742"
+      "coordinates": "2.013786, 37.516742",
+      "metar_available": false
     },
     {
       "ident": "KE-0144",
@@ -2164,7 +2358,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Korr",
-      "coordinates": "2.007568, 37.492219"
+      "coordinates": "2.007568, 37.492219",
+      "metar_available": false
     },
     {
       "ident": "KE-0145",
@@ -2174,7 +2369,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kowop",
-      "coordinates": "2.00616, 36.8299"
+      "coordinates": "2.00616, 36.8299",
+      "metar_available": false
     },
     {
       "ident": "KE-0146",
@@ -2184,7 +2380,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kuluo",
-      "coordinates": "-1.12471, 35.197795"
+      "coordinates": "-1.12471, 35.197795",
+      "metar_available": false
     },
     {
       "ident": "KE-0147",
@@ -2194,7 +2391,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kuti",
-      "coordinates": "0.645962, 36.427784"
+      "coordinates": "0.645962, 36.427784",
+      "metar_available": false
     },
     {
       "ident": "KE-0148",
@@ -2204,7 +2402,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Manda Island",
-      "coordinates": "-2.228949, 40.971447"
+      "coordinates": "-2.228949, 40.971447",
+      "metar_available": false
     },
     {
       "ident": "KE-0149",
@@ -2213,7 +2412,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-1.536513, 36.020637"
+      "coordinates": "-1.536513, 36.020637",
+      "metar_available": false
     },
     {
       "ident": "KE-0150",
@@ -2222,7 +2422,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.591385, 37.586685"
+      "coordinates": "0.591385, 37.586685",
+      "metar_available": false
     },
     {
       "ident": "KE-0151",
@@ -2232,7 +2433,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Latakwen",
-      "coordinates": "1.547691, 37.108677"
+      "coordinates": "1.547691, 37.108677",
+      "metar_available": false
     },
     {
       "ident": "KE-0152",
@@ -2242,7 +2444,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Lenchukuti",
-      "coordinates": "2.243084, 36.670897"
+      "coordinates": "2.243084, 36.670897",
+      "metar_available": false
     },
     {
       "ident": "KE-0153",
@@ -2252,7 +2455,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Lentille",
-      "coordinates": "0.504473, 37.006397"
+      "coordinates": "0.504473, 37.006397",
+      "metar_available": false
     },
     {
       "ident": "KE-0154",
@@ -2261,7 +2465,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-200",
-      "coordinates": "-1.106687, 36.688778"
+      "coordinates": "-1.106687, 36.688778",
+      "metar_available": false
     },
     {
       "ident": "KE-0155",
@@ -2271,7 +2476,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Timau",
-      "coordinates": "0.107106, 37.278907"
+      "coordinates": "0.107106, 37.278907",
+      "metar_available": false
     },
     {
       "ident": "KE-0156",
@@ -2280,7 +2486,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.817072, 36.391407"
+      "coordinates": "-0.817072, 36.391407",
+      "metar_available": false
     },
     {
       "ident": "KE-0157",
@@ -2290,7 +2497,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Lowarengak",
-      "coordinates": "4.284767, 35.870662"
+      "coordinates": "4.284767, 35.870662",
+      "metar_available": false
     },
     {
       "ident": "KE-0158",
@@ -2299,7 +2507,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-3.048607, 38.689626"
+      "coordinates": "-3.048607, 38.689626",
+      "metar_available": false
     },
     {
       "ident": "KE-0159",
@@ -2308,7 +2517,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "-1.483679, 37.098339"
+      "coordinates": "-1.483679, 37.098339",
+      "metar_available": false
     },
     {
       "ident": "KE-0160",
@@ -2318,7 +2528,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Manyani",
-      "coordinates": "-3.094749, 38.476476"
+      "coordinates": "-3.094749, 38.476476",
+      "metar_available": false
     },
     {
       "ident": "KE-0161",
@@ -2328,7 +2539,8 @@
       "iso_country": "KE",
       "iso_region": "KE-600",
       "municipality": "Kericho",
-      "coordinates": "-0.436093, 35.298761"
+      "coordinates": "-0.436093, 35.298761",
+      "metar_available": false
     },
     {
       "ident": "KE-0162",
@@ -2337,7 +2549,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "-0.043734, 37.145506"
+      "coordinates": "-0.043734, 37.145506",
+      "metar_available": false
     },
     {
       "ident": "KE-0163",
@@ -2346,7 +2559,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.397362, 36.215325"
+      "coordinates": "-0.397362, 36.215325",
+      "metar_available": false
     },
     {
       "ident": "KE-0164",
@@ -2355,7 +2569,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "1.089888, 38.600205"
+      "coordinates": "1.089888, 38.600205",
+      "metar_available": false
     },
     {
       "ident": "KE-0165",
@@ -2364,7 +2579,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.1115, 36.124334"
+      "coordinates": "-0.1115, 36.124334",
+      "metar_available": false
     },
     {
       "ident": "KE-0166",
@@ -2373,7 +2589,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-900",
-      "coordinates": "1.209714, 34.796225"
+      "coordinates": "1.209714, 34.796225",
+      "metar_available": false
     },
     {
       "ident": "KE-0167",
@@ -2382,7 +2599,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.353531, 36.892033"
+      "coordinates": "0.353531, 36.892033",
+      "metar_available": false
     },
     {
       "ident": "KE-0168",
@@ -2391,7 +2609,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.29012, 36.892436"
+      "coordinates": "0.29012, 36.892436",
+      "metar_available": false
     },
     {
       "ident": "KE-0169",
@@ -2400,7 +2619,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.126097, 38.132497"
+      "coordinates": "0.126097, 38.132497",
+      "metar_available": false
     },
     {
       "ident": "KE-0170",
@@ -2409,7 +2629,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.251711, 36.805338"
+      "coordinates": "0.251711, 36.805338",
+      "metar_available": false
     },
     {
       "ident": "KE-0171",
@@ -2419,7 +2640,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Mutomo",
-      "coordinates": "-1.846779, 38.204732"
+      "coordinates": "-1.846779, 38.204732",
+      "metar_available": false
     },
     {
       "ident": "KE-0172",
@@ -2430,7 +2652,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Mwatate",
-      "coordinates": "-3.517815, 38.442556"
+      "coordinates": "-3.517815, 38.442556",
+      "metar_available": false
     },
     {
       "ident": "KE-0173",
@@ -2440,7 +2663,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "1.058237, 37.437892"
+      "coordinates": "1.058237, 37.437892",
+      "metar_available": false
     },
     {
       "ident": "KE-0174",
@@ -2450,7 +2674,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "4.114358, 35.842295"
+      "coordinates": "4.114358, 35.842295",
+      "metar_available": false
     },
     {
       "ident": "KE-0175",
@@ -2461,7 +2686,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Naro Moru",
-      "coordinates": "-0.170666, 37.136612"
+      "coordinates": "-0.170666, 37.136612",
+      "metar_available": false
     },
     {
       "ident": "KE-0176",
@@ -2472,7 +2698,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ngalai",
-      "coordinates": "1.170659, 37.252765"
+      "coordinates": "1.170659, 37.252765",
+      "metar_available": false
     },
     {
       "ident": "KE-0177",
@@ -2483,7 +2710,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Ngao",
-      "coordinates": "-2.42834, 40.193087"
+      "coordinates": "-2.42834, 40.193087",
+      "metar_available": false
     },
     {
       "ident": "KE-0178",
@@ -2494,7 +2722,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ngurunit",
-      "coordinates": "1.735737, 37.3216"
+      "coordinates": "1.735737, 37.3216",
+      "metar_available": false
     },
     {
       "ident": "KE-0179",
@@ -2504,7 +2733,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-1.713528, 35.560338"
+      "coordinates": "-1.713528, 35.560338",
+      "metar_available": false
     },
     {
       "ident": "KE-0180",
@@ -2515,7 +2745,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "gps_code": "HKLP",
-      "coordinates": "-1.813717, 36.018261"
+      "coordinates": "-1.813717, 36.018261",
+      "metar_available": false
     },
     {
       "ident": "KE-0181",
@@ -2525,7 +2756,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.659821, 36.868623"
+      "coordinates": "0.659821, 36.868623",
+      "metar_available": false
     },
     {
       "ident": "KE-0182",
@@ -2536,7 +2768,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "iata_code": "OSJ",
-      "coordinates": "-1.378382, 35.378453"
+      "coordinates": "-1.378382, 35.378453",
+      "metar_available": false
     },
     {
       "ident": "KE-0183",
@@ -2546,7 +2779,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.60964, 37.53018"
+      "coordinates": "0.60964, 37.53018",
+      "metar_available": false
     },
     {
       "ident": "KE-0184",
@@ -2557,7 +2791,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Oloolaimutia",
-      "coordinates": "-1.606288, 35.436835"
+      "coordinates": "-1.606288, 35.436835",
+      "metar_available": false
     },
     {
       "ident": "KE-0185",
@@ -2568,7 +2803,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Namoruputh",
-      "coordinates": "2.846734, 35.050887"
+      "coordinates": "2.846734, 35.050887",
+      "metar_available": false
     },
     {
       "ident": "KE-0186",
@@ -2578,7 +2814,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-3.575566, 38.760165"
+      "coordinates": "-3.575566, 38.760165",
+      "metar_available": false
     },
     {
       "ident": "KE-0187",
@@ -2588,7 +2825,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.431231, 36.729133"
+      "coordinates": "0.431231, 36.729133",
+      "metar_available": false
     },
     {
       "ident": "KE-0188",
@@ -2597,7 +2835,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-3.072405, 39.215665"
+      "coordinates": "-3.072405, 39.215665",
+      "metar_available": false
     },
     {
       "ident": "KE-0189",
@@ -2608,7 +2847,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Seder",
-      "coordinates": "2.314229, 36.88698"
+      "coordinates": "2.314229, 36.88698",
+      "metar_available": false
     },
     {
       "ident": "KE-0190",
@@ -2619,7 +2859,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Marsabit",
-      "coordinates": "2.544761, 37.944126"
+      "coordinates": "2.544761, 37.944126",
+      "metar_available": false
     },
     {
       "ident": "KE-0191",
@@ -2629,7 +2870,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.658176, 37.700377"
+      "coordinates": "0.658176, 37.700377",
+      "metar_available": false
     },
     {
       "ident": "KE-0192",
@@ -2639,7 +2881,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-2.669606, 38.367137"
+      "coordinates": "-2.669606, 38.367137",
+      "metar_available": false
     },
     {
       "ident": "KE-0193",
@@ -2650,7 +2893,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Sigor",
-      "coordinates": "1.58209, 35.471191"
+      "coordinates": "1.58209, 35.471191",
+      "metar_available": false
     },
     {
       "ident": "KE-0194",
@@ -2660,7 +2904,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.721299, 36.28709"
+      "coordinates": "-0.721299, 36.28709",
+      "metar_available": false
     },
     {
       "ident": "KE-0195",
@@ -2670,7 +2915,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.418494, 36.738667"
+      "coordinates": "0.418494, 36.738667",
+      "metar_available": false
     },
     {
       "ident": "KE-0196",
@@ -2681,7 +2927,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "South Horr",
-      "coordinates": "2.172091, 36.906929"
+      "coordinates": "2.172091, 36.906929",
+      "metar_available": false
     },
     {
       "ident": "KE-0197",
@@ -2692,7 +2939,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Turi",
-      "coordinates": "-0.273941, 35.767293"
+      "coordinates": "-0.273941, 35.767293",
+      "metar_available": false
     },
     {
       "ident": "KE-0198",
@@ -2703,7 +2951,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Sware",
-      "coordinates": "1.077515, 37.092131"
+      "coordinates": "1.077515, 37.092131",
+      "metar_available": false
     },
     {
       "ident": "KE-0199",
@@ -2713,7 +2962,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.017443, 35.351428"
+      "coordinates": "-0.017443, 35.351428",
+      "metar_available": false
     },
     {
       "ident": "KE-0200",
@@ -2723,7 +2973,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-2.683608, 37.178328"
+      "coordinates": "-2.683608, 37.178328",
+      "metar_available": false
     },
     {
       "ident": "KE-0201",
@@ -2733,7 +2984,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-2.638919, 38.364736"
+      "coordinates": "-2.638919, 38.364736",
+      "metar_available": false
     },
     {
       "ident": "KE-0202",
@@ -2744,7 +2996,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Tum",
-      "coordinates": "2.141479, 36.759077"
+      "coordinates": "2.141479, 36.759077",
+      "metar_available": false
     },
     {
       "ident": "KE-0203",
@@ -2754,7 +3007,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-300",
-      "coordinates": "-3.245484, 38.181924"
+      "coordinates": "-3.245484, 38.181924",
+      "metar_available": false
     },
     {
       "ident": "KE-0204",
@@ -2765,7 +3019,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Talek",
-      "coordinates": "-1.363068, 35.189882"
+      "coordinates": "-1.363068, 35.189882",
+      "metar_available": false
     },
     {
       "ident": "KE-0205",
@@ -2776,7 +3031,8 @@
       "iso_country": "KE",
       "iso_region": "KE-600",
       "municipality": "MacAlder Mines",
-      "coordinates": "-0.957591, 34.306287"
+      "coordinates": "-0.957591, 34.306287",
+      "metar_available": false
     },
     {
       "ident": "KE-0206",
@@ -2786,7 +3042,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.51839, 35.071665"
+      "coordinates": "-0.51839, 35.071665",
+      "metar_available": false
     },
     {
       "ident": "KE-0207",
@@ -2796,7 +3053,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.61196, 36.800095"
+      "coordinates": "0.61196, 36.800095",
+      "metar_available": false
     },
     {
       "ident": "KE-0208",
@@ -2807,7 +3065,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "iata_code": "OLG",
-      "coordinates": "-1.324213, 35.246106"
+      "coordinates": "-1.324213, 35.246106",
+      "metar_available": false
     },
     {
       "ident": "KE-0209",
@@ -2817,7 +3076,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Bahari",
-      "coordinates": "-2.446286, 40.754641"
+      "coordinates": "-2.446286, 40.754641",
+      "metar_available": false
     },
     {
       "ident": "KE-0210",
@@ -2827,7 +3087,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Matangeni",
-      "coordinates": "-2.447421, 40.740016"
+      "coordinates": "-2.447421, 40.740016",
+      "metar_available": false
     },
     {
       "ident": "KE-0211",
@@ -2837,7 +3098,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Witu",
-      "coordinates": "-2.37964, 40.44099"
+      "coordinates": "-2.37964, 40.44099",
+      "metar_available": false
     },
     {
       "ident": "KE-0213",
@@ -2848,7 +3110,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "El Wak",
-      "coordinates": "2.812043, 40.932484"
+      "coordinates": "2.812043, 40.932484",
+      "metar_available": false
     },
     {
       "ident": "KE-6002",
@@ -2860,7 +3123,8 @@
       "iso_region": "KE-400",
       "municipality": "Laisamis",
       "gps_code": "HKLA",
-      "coordinates": "1.578387, 37.810799"
+      "coordinates": "1.578387, 37.810799",
+      "metar_available": false
     },
     {
       "ident": "KE-6007",
@@ -2872,7 +3136,8 @@
       "iso_region": "KE-700",
       "municipality": "Lokori",
       "gps_code": "HKLR",
-      "coordinates": "1.966667, 36.016668"
+      "coordinates": "1.966667, 36.016668",
+      "metar_available": false
     },
     {
       "ident": "KE-6012",
@@ -2884,7 +3149,8 @@
       "iso_region": "KE-700",
       "municipality": "Arroket",
       "gps_code": "HKAR",
-      "coordinates": "-0.623426, 35.065867"
+      "coordinates": "-0.623426, 35.065867",
+      "metar_available": false
     },
     {
       "ident": "KE-6013",
@@ -2896,7 +3162,8 @@
       "iso_region": "KE-400",
       "municipality": "Balesa",
       "gps_code": "HKBL",
-      "coordinates": "3.646972, 37.350861"
+      "coordinates": "3.646972, 37.350861",
+      "metar_available": false
     },
     {
       "ident": "KE-6018",
@@ -2908,7 +3175,8 @@
       "iso_region": "KE-700",
       "municipality": "Masai Mara National Park",
       "gps_code": "HKFT",
-      "coordinates": "-1.434722, 35.193249"
+      "coordinates": "-1.434722, 35.193249",
+      "metar_available": false
     },
     {
       "ident": "KE-6019",
@@ -2919,7 +3187,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Head Office Delamere Estates",
-      "coordinates": "-0.467954, 36.191218"
+      "coordinates": "-0.467954, 36.191218",
+      "metar_available": false
     },
     {
       "ident": "KE-6020",
@@ -2931,7 +3200,8 @@
       "iso_region": "KE-700",
       "municipality": "Itona Ranch",
       "gps_code": "HKIC",
-      "coordinates": "-1.135916, 34.83411"
+      "coordinates": "-1.135916, 34.83411",
+      "metar_available": false
     },
     {
       "ident": "KE-6021",
@@ -2942,7 +3212,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Karimbuni",
-      "coordinates": "-0.8029670119285583, 36.09061050415039"
+      "coordinates": "-0.8029670119285583, 36.09061050415039",
+      "metar_available": false
     },
     {
       "ident": "KE-6024",
@@ -2953,7 +3224,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kichwa Tembo",
-      "coordinates": "1.2666670083999634, 35.033329010009766"
+      "coordinates": "1.2666670083999634, 35.033329010009766",
+      "metar_available": false
     },
     {
       "ident": "KE-6025",
@@ -2963,7 +3235,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-400",
-      "coordinates": "0.04727799817919731, 37.4341926574707"
+      "coordinates": "0.04727799817919731, 37.4341926574707",
+      "metar_available": false
     },
     {
       "ident": "KE-6027",
@@ -2974,7 +3247,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kamok",
-      "coordinates": "0.013944000005722046, 36.80083465576172"
+      "coordinates": "0.013944000005722046, 36.80083465576172",
+      "metar_available": false
     },
     {
       "ident": "KE-6028",
@@ -2985,7 +3259,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "gps_code": "HKUR",
-      "coordinates": "-3.083333, 39.416668"
+      "coordinates": "-3.083333, 39.416668",
+      "metar_available": false
     },
     {
       "ident": "KE-6029",
@@ -2996,7 +3271,8 @@
       "iso_country": "KE",
       "iso_region": "KE-110",
       "municipality": "Lubarra",
-      "coordinates": "-1.2999999523162842, 36.95000076293945"
+      "coordinates": "-1.2999999523162842, 36.95000076293945",
+      "metar_available": false
     },
     {
       "ident": "KE-6033",
@@ -3007,7 +3283,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Dadaab",
-      "coordinates": "0.12532299757003784, 40.28998565673828"
+      "coordinates": "0.12532299757003784, 40.28998565673828",
+      "metar_available": false
     },
     {
       "ident": "KE-6034",
@@ -3019,7 +3296,8 @@
       "iso_region": "KE-700",
       "municipality": "Lomolo",
       "gps_code": "HKMX",
-      "coordinates": "0.031057, 35.988683"
+      "coordinates": "0.031057, 35.988683",
+      "metar_available": false
     },
     {
       "ident": "KE-6035",
@@ -3031,7 +3309,8 @@
       "iso_region": "KE-700",
       "municipality": "Loporot",
       "gps_code": "HKOP",
-      "coordinates": "2.345275, 35.882778"
+      "coordinates": "2.345275, 35.882778",
+      "metar_available": false
     },
     {
       "ident": "KE-6036",
@@ -3043,7 +3322,8 @@
       "iso_region": "KE-700",
       "municipality": "Lothagah",
       "gps_code": "HKTH",
-      "coordinates": "3.033333, 36.049999"
+      "coordinates": "3.033333, 36.049999",
+      "metar_available": false
     },
     {
       "ident": "KE-6037",
@@ -3054,7 +3334,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Lotubae",
-      "coordinates": "1.9833329916000366, 36.04999923706055"
+      "coordinates": "1.9833329916000366, 36.04999923706055",
+      "metar_available": false
     },
     {
       "ident": "KE-6040",
@@ -3065,7 +3346,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Menengai",
-      "coordinates": "-0.23602800071239471, 36.00080490112305"
+      "coordinates": "-0.23602800071239471, 36.00080490112305",
+      "metar_available": false
     },
     {
       "ident": "KE-6041",
@@ -3076,7 +3358,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nampaso",
-      "coordinates": "-1.0423929691314697, 35.24995422363281"
+      "coordinates": "-1.0423929691314697, 35.24995422363281",
+      "metar_available": false
     },
     {
       "ident": "KE-6042",
@@ -3087,7 +3370,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Ndovu",
-      "coordinates": "2.0137779712677, 38.634220123291016"
+      "coordinates": "2.0137779712677, 38.634220123291016",
+      "metar_available": false
     },
     {
       "ident": "KE-6043",
@@ -3098,7 +3382,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Neylan's",
-      "coordinates": "-0.28600001335144043, 36.15080642700195"
+      "coordinates": "-0.28600001335144043, 36.15080642700195",
+      "metar_available": false
     },
     {
       "ident": "KE-6044",
@@ -3109,7 +3394,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Ngore Ngore",
-      "coordinates": "-1.8359440565109253, 37.78419494628906"
+      "coordinates": "-1.8359440565109253, 37.78419494628906",
+      "metar_available": false
     },
     {
       "ident": "KE-6045",
@@ -3120,7 +3406,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Njoro",
-      "coordinates": "-0.316978, 35.922549"
+      "coordinates": "-0.316978, 35.922549",
+      "metar_available": false
     },
     {
       "ident": "KE-6046",
@@ -3131,7 +3418,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nkreta",
-      "coordinates": "-1.0166670083999634, 35.83333206176758"
+      "coordinates": "-1.0166670083999634, 35.83333206176758",
+      "metar_available": false
     },
     {
       "ident": "KE-6048",
@@ -3142,7 +3430,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Olereren",
-      "coordinates": "0.013944000005722046, 36.8841667175293"
+      "coordinates": "0.013944000005722046, 36.8841667175293",
+      "metar_available": false
     },
     {
       "ident": "KE-6050",
@@ -3153,7 +3442,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Gaitu",
-      "coordinates": "-0.05272199958562851, 37.734195709228516"
+      "coordinates": "-0.05272199958562851, 37.734195709228516",
+      "metar_available": false
     },
     {
       "ident": "KE-6053",
@@ -3164,7 +3454,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Taita Hills",
-      "coordinates": "-3.5123889446258545, 38.250221252441406"
+      "coordinates": "-3.5123889446258545, 38.250221252441406",
+      "metar_available": false
     },
     {
       "ident": "KE-6054",
@@ -3175,7 +3466,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Taveta Sisal",
-      "coordinates": "-3.418889045715332, 37.6341667175293"
+      "coordinates": "-3.418889045715332, 37.6341667175293",
+      "metar_available": false
     },
     {
       "ident": "KE-6055",
@@ -3186,7 +3478,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Turkwel Gorge",
-      "coordinates": "1.895681, 35.38826"
+      "coordinates": "1.895681, 35.38826",
+      "metar_available": false
     },
     {
       "ident": "KE-6056",
@@ -3197,7 +3490,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Ziwani",
-      "coordinates": "-3.2193610668182373, 37.80072021484375"
+      "coordinates": "-3.2193610668182373, 37.80072021484375",
+      "metar_available": false
     },
     {
       "ident": "KE-6058",
@@ -3208,7 +3502,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Didima Bule",
-      "coordinates": "-2.3691670894622803, 39.617584228515625"
+      "coordinates": "-2.3691670894622803, 39.617584228515625",
+      "metar_available": false
     },
     {
       "ident": "KE-6061",
@@ -3219,7 +3514,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Komofodo Galana",
-      "coordinates": "2.552500009536743, 39.66758346557617"
+      "coordinates": "2.552500009536743, 39.66758346557617",
+      "metar_available": false
     },
     {
       "ident": "KE-6062",
@@ -3230,7 +3526,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Embori Farm",
-      "coordinates": "0.07766, 37.34969"
+      "coordinates": "0.07766, 37.34969",
+      "metar_available": false
     },
     {
       "ident": "KE-6064",
@@ -3241,7 +3538,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Shekiko",
-      "coordinates": "-2.569034, 40.322601"
+      "coordinates": "-2.569034, 40.322601",
+      "metar_available": false
     },
     {
       "ident": "KE-6066",
@@ -3252,7 +3550,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ngerende",
-      "coordinates": "-1.083519, 35.18565"
+      "coordinates": "-1.083519, 35.18565",
+      "metar_available": false
     },
     {
       "ident": "KE-6067",
@@ -3263,7 +3562,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Barina",
-      "coordinates": "-0.13600000739097595, 36.01747131347656"
+      "coordinates": "-0.13600000739097595, 36.01747131347656",
+      "metar_available": false
     },
     {
       "ident": "KE-6068",
@@ -3274,7 +3574,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "SOY-Chemoset",
-      "coordinates": "0.7138890027999878, 36.86750030517578"
+      "coordinates": "0.7138890027999878, 36.86750030517578",
+      "metar_available": false
     },
     {
       "ident": "KE-6071",
@@ -3285,7 +3586,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ngorare",
-      "coordinates": "0.33058300614356995, 36.65083312988281"
+      "coordinates": "0.33058300614356995, 36.65083312988281",
+      "metar_available": false
     },
     {
       "ident": "KE-6072",
@@ -3296,7 +3598,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Ilkek",
-      "coordinates": "-0.6026390194892883, 36.36747360229492"
+      "coordinates": "-0.6026390194892883, 36.36747360229492",
+      "metar_available": false
     },
     {
       "ident": "KE-6074",
@@ -3307,7 +3610,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Kalacha South",
-      "coordinates": "3.0199999809265137, 37.448333740234375"
+      "coordinates": "3.0199999809265137, 37.448333740234375",
+      "metar_available": false
     },
     {
       "ident": "KE-6075",
@@ -3318,7 +3622,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Masnami",
-      "coordinates": "-1.1333329677581787, 35.33333206176758"
+      "coordinates": "-1.1333329677581787, 35.33333206176758",
+      "metar_available": false
     },
     {
       "ident": "KE-6076",
@@ -3328,7 +3633,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.1821729987859726, 36.911842346191406"
+      "coordinates": "0.1821729987859726, 36.911842346191406",
+      "metar_available": false
     },
     {
       "ident": "KE-6077",
@@ -3339,7 +3645,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Lali Galana",
-      "coordinates": "-3.1357779502868652, 39.30088806152344"
+      "coordinates": "-3.1357779502868652, 39.30088806152344",
+      "metar_available": false
     },
     {
       "ident": "KE-6079",
@@ -3351,7 +3658,8 @@
       "iso_region": "KE-700",
       "municipality": "Kilgoris",
       "gps_code": "HKRS",
-      "coordinates": "-1.079585, 34.87741"
+      "coordinates": "-1.079585, 34.87741",
+      "metar_available": false
     },
     {
       "ident": "KE-6081",
@@ -3362,7 +3670,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Oserian",
-      "coordinates": "-0.8526390194892883, 36.26747131347656"
+      "coordinates": "-0.8526390194892883, 36.26747131347656",
+      "metar_available": false
     },
     {
       "ident": "KE-6082",
@@ -3373,7 +3682,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Kinna",
-      "coordinates": "0.31666699051856995, 38.20000076293945"
+      "coordinates": "0.31666699051856995, 38.20000076293945",
+      "metar_available": false
     },
     {
       "ident": "KE-6084",
@@ -3384,7 +3694,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Green Park",
-      "coordinates": "-0.6696670055389404, 36.310279846191406"
+      "coordinates": "-0.6696670055389404, 36.310279846191406",
+      "metar_available": false
     },
     {
       "ident": "KE-6087",
@@ -3397,7 +3708,8 @@
       "municipality": "Mara",
       "gps_code": "HKMF",
       "iata_code": "HKR",
-      "coordinates": "-1.14542, 35.124922"
+      "coordinates": "-1.14542, 35.124922",
+      "metar_available": false
     },
     {
       "ident": "KE-6088",
@@ -3408,7 +3720,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Cottar's Camp",
-      "coordinates": "-1.4952269792556763, 35.41211700439453"
+      "coordinates": "-1.4952269792556763, 35.41211700439453",
+      "metar_available": false
     },
     {
       "ident": "KE-6089",
@@ -3420,7 +3733,8 @@
       "iso_region": "KE-700",
       "municipality": "Maji Mazuri",
       "gps_code": "HKZM",
-      "coordinates": "0.933333, 35.166668"
+      "coordinates": "0.933333, 35.166668",
+      "metar_available": false
     },
     {
       "ident": "KE-6095",
@@ -3431,7 +3745,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Kilifi",
-      "coordinates": "-3.6333329677581787, 39.849998474121094"
+      "coordinates": "-3.6333329677581787, 39.849998474121094",
+      "metar_available": false
     },
     {
       "ident": "KE-6109",
@@ -3442,7 +3757,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Mitunguu",
-      "coordinates": "-0.10968299955129623, 37.79010009765625"
+      "coordinates": "-0.10968299955129623, 37.79010009765625",
+      "metar_available": false
     },
     {
       "ident": "KE-6110",
@@ -3453,7 +3769,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Mkowe",
-      "coordinates": "-2.228892, 40.845313"
+      "coordinates": "-2.228892, 40.845313",
+      "metar_available": false
     },
     {
       "ident": "KE-6112",
@@ -3466,7 +3783,8 @@
       "municipality": "Maasai Mara",
       "gps_code": "HKOM",
       "iata_code": "ANA",
-      "coordinates": "-1.27156, 34.955513"
+      "coordinates": "-1.27156, 34.955513",
+      "metar_available": false
     },
     {
       "ident": "KE-6121",
@@ -3478,7 +3796,8 @@
       "iso_region": "KE-700",
       "municipality": "Musiara",
       "iata_code": "MDR",
-      "coordinates": "-1.298636, 35.063885"
+      "coordinates": "-1.298636, 35.063885",
+      "metar_available": false
     },
     {
       "ident": "KE-6123",
@@ -3489,7 +3808,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Namanga",
-      "coordinates": "-2.57938888889, 36.912166666699996"
+      "coordinates": "-2.57938888889, 36.912166666699996",
+      "metar_available": false
     },
     {
       "ident": "KE-6127",
@@ -3501,7 +3821,8 @@
       "iso_region": "KE-400",
       "municipality": "North Horr",
       "gps_code": "HKZT",
-      "coordinates": "3.316666, 37.066666"
+      "coordinates": "3.316666, 37.066666",
+      "metar_available": false
     },
     {
       "ident": "KE-6151",
@@ -3511,7 +3832,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "-0.24516700208187103, 36.8848876953125"
+      "coordinates": "-0.24516700208187103, 36.8848876953125",
+      "metar_available": false
     },
     {
       "ident": "KE-6152",
@@ -3522,7 +3844,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Rumuruti",
-      "coordinates": "0.2775940001010895, 36.53333282470703"
+      "coordinates": "0.2775940001010895, 36.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "KE-6153",
@@ -3533,7 +3856,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Sabarei",
-      "coordinates": "4.333976, 36.906768"
+      "coordinates": "4.333976, 36.906768",
+      "metar_available": false
     },
     {
       "ident": "KE-6155",
@@ -3544,7 +3868,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Sigor",
-      "coordinates": "1.483333, 35.466667"
+      "coordinates": "1.483333, 35.466667",
+      "metar_available": false
     },
     {
       "ident": "KE-6158",
@@ -3555,7 +3880,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Oljogi Ranch",
-      "coordinates": "0.290272, 36.940397"
+      "coordinates": "0.290272, 36.940397",
+      "metar_available": false
     },
     {
       "ident": "KE-6166",
@@ -3566,7 +3892,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Todonyang",
-      "coordinates": "4.47532, 35.91425"
+      "coordinates": "4.47532, 35.91425",
+      "metar_available": false
     },
     {
       "ident": "KE-6175",
@@ -3577,7 +3904,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Voi",
-      "coordinates": "-3.3627219200134277, 38.605167388916016"
+      "coordinates": "-3.3627219200134277, 38.605167388916016",
+      "metar_available": false
     },
     {
       "ident": "KE-6178",
@@ -3588,7 +3916,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Wamba",
-      "coordinates": "0.9777780175209045, 37.31888198852539"
+      "coordinates": "0.9777780175209045, 37.31888198852539",
+      "metar_available": false
     },
     {
       "ident": "KE-6208",
@@ -3601,7 +3930,8 @@
       "municipality": "Olkiombo",
       "gps_code": "HKOK",
       "iata_code": "OLX",
-      "coordinates": "-1.408586, 35.110689"
+      "coordinates": "-1.408586, 35.110689",
+      "metar_available": false
     },
     {
       "ident": "KE-6320",
@@ -3611,7 +3941,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.5833330154418945, 36.43333435058594"
+      "coordinates": "0.5833330154418945, 36.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "KE-6394",
@@ -3622,7 +3953,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Lunga-Lunga",
-      "coordinates": "-4.52864, 39.152237"
+      "coordinates": "-4.52864, 39.152237",
+      "metar_available": false
     },
     {
       "ident": "KE-6396",
@@ -3633,7 +3965,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Maralal",
-      "coordinates": "1.099450945854187, 36.69509506225586"
+      "coordinates": "1.099450945854187, 36.69509506225586",
+      "metar_available": false
     },
     {
       "ident": "KE-6557",
@@ -3645,7 +3978,8 @@
       "iso_region": "KE-700",
       "municipality": "Kakuma",
       "gps_code": "HKKM",
-      "coordinates": "3.705094, 34.871293"
+      "coordinates": "3.705094, 34.871293",
+      "metar_available": false
     },
     {
       "ident": "KE-6576",
@@ -3656,7 +3990,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Taveta",
-      "coordinates": "-3.3947649002075195, 37.697757720947266"
+      "coordinates": "-3.3947649002075195, 37.697757720947266",
+      "metar_available": false
     },
     {
       "ident": "KE-6596",
@@ -3667,7 +4002,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kajiado",
-      "coordinates": "-1.850000023841858, 36.78333282470703"
+      "coordinates": "-1.850000023841858, 36.78333282470703",
+      "metar_available": false
     },
     {
       "ident": "KE-6646",
@@ -3678,7 +4014,8 @@
       "iso_country": "KE",
       "iso_region": "KE-200",
       "municipality": "Mweiga",
-      "coordinates": "-0.3405900001525879, 36.91352462768555"
+      "coordinates": "-0.3405900001525879, 36.91352462768555",
+      "metar_available": false
     },
     {
       "ident": "KE-6647",
@@ -3689,7 +4026,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Nginyang",
-      "coordinates": "0.9666669964790344, 36.016666412353516"
+      "coordinates": "0.9666669964790344, 36.016666412353516",
+      "metar_available": false
     },
     {
       "ident": "KE-6648",
@@ -3700,7 +4038,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Ngulia Lodge",
-      "coordinates": "-2.947635, 38.250075"
+      "coordinates": "-2.947635, 38.250075",
+      "metar_available": false
     },
     {
       "ident": "KE-6649",
@@ -3711,7 +4050,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Takabba",
-      "coordinates": "3.426179, 40.229733"
+      "coordinates": "3.426179, 40.229733",
+      "metar_available": false
     },
     {
       "ident": "KE-6650",
@@ -3722,7 +4062,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Sololo",
-      "coordinates": "3.554547071456909, 38.64363479614258"
+      "coordinates": "3.554547071456909, 38.64363479614258",
+      "metar_available": false
     },
     {
       "ident": "KE-6656",
@@ -3733,7 +4074,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Banisa",
-      "coordinates": "3.897056, 40.320253"
+      "coordinates": "3.897056, 40.320253",
+      "metar_available": false
     },
     {
       "ident": "KE-6873",
@@ -3743,7 +4085,8 @@
       "continent": "AF",
       "iso_country": "KE",
       "iso_region": "KE-700",
-      "coordinates": "0.6166669726371765, 35.29999923706055"
+      "coordinates": "0.6166669726371765, 35.29999923706055",
+      "metar_available": false
     },
     {
       "ident": "KE-6878",
@@ -3754,7 +4097,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Shimba Hills",
-      "coordinates": "-1.2356940507888794, 39.41755676269531"
+      "coordinates": "-1.2356940507888794, 39.41755676269531",
+      "metar_available": false
     },
     {
       "ident": "KE-6883",
@@ -3765,7 +4109,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Mount Kenya",
-      "coordinates": "-0.045436, 37.129827"
+      "coordinates": "-0.045436, 37.129827",
+      "metar_available": false
     },
     {
       "ident": "KE-6885",
@@ -3776,7 +4121,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Lewa Downs",
-      "coordinates": "0.195346, 37.470331"
+      "coordinates": "0.195346, 37.470331",
+      "metar_available": false
     },
     {
       "ident": "KE-6888",
@@ -3787,7 +4133,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kapsumbeiwa Nandi",
-      "coordinates": "0.13033999502658844, 35.2208251953125"
+      "coordinates": "0.13033999502658844, 35.2208251953125",
+      "metar_available": false
     },
     {
       "ident": "KE-6890",
@@ -3798,7 +4145,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Baragoi",
-      "coordinates": "1.7814079523086548, 36.801368713378906"
+      "coordinates": "1.7814079523086548, 36.801368713378906",
+      "metar_available": false
     },
     {
       "ident": "KE-6893",
@@ -3809,7 +4157,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Changoi Tea Estate",
-      "coordinates": "-0.476943999529, 35.2422218323"
+      "coordinates": "-0.476943999529, 35.2422218323",
+      "metar_available": false
     },
     {
       "ident": "KE-6894",
@@ -3820,7 +4169,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Borana",
-      "coordinates": "0.23058299720287323, 37.2841682434082"
+      "coordinates": "0.23058299720287323, 37.2841682434082",
+      "metar_available": false
     },
     {
       "ident": "KE-6907",
@@ -3831,7 +4181,8 @@
       "iso_country": "KE",
       "iso_region": "KE-400",
       "municipality": "Kambi Ya",
-      "coordinates": "-2.316667079925537, 37.91666793823242"
+      "coordinates": "-2.316667079925537, 37.91666793823242",
+      "metar_available": false
     },
     {
       "ident": "KE-6911",
@@ -3842,7 +4193,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Koitogo",
-      "coordinates": "-3.766666889190674, 39.28333282470703"
+      "coordinates": "-3.766666889190674, 39.28333282470703",
+      "metar_available": false
     },
     {
       "ident": "KE-6920",
@@ -3853,7 +4205,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Masalani",
-      "coordinates": "-1.6956549882888794, 40.1257209777832"
+      "coordinates": "-1.6956549882888794, 40.1257209777832",
+      "metar_available": false
     },
     {
       "ident": "KE-6924",
@@ -3864,7 +4217,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Mado Gashi",
-      "coordinates": "0.7223730087280273, 39.176143646240234"
+      "coordinates": "0.7223730087280273, 39.176143646240234",
+      "metar_available": false
     },
     {
       "ident": "KE-6937",
@@ -3875,7 +4229,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Lokichar",
-      "coordinates": "2.3833329677581787, 35.650001525878906"
+      "coordinates": "2.3833329677581787, 35.650001525878906",
+      "metar_available": false
     },
     {
       "ident": "KE-6946",
@@ -3886,7 +4241,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kapenguria",
-      "coordinates": "1.2693220376968384, 35.076324462890625"
+      "coordinates": "1.2693220376968384, 35.076324462890625",
+      "metar_available": false
     },
     {
       "ident": "KE-6951",
@@ -3897,7 +4253,8 @@
       "iso_country": "KE",
       "iso_region": "KE-500",
       "municipality": "Hulugho",
-      "coordinates": "-1.135972023010254, 41.05097198486328"
+      "coordinates": "-1.135972023010254, 41.05097198486328",
+      "metar_available": false
     },
     {
       "ident": "KE-6957",
@@ -3908,7 +4265,8 @@
       "iso_country": "KE",
       "iso_region": "KE-300",
       "municipality": "Aruba",
-      "coordinates": "-3.3333330154418945, 38.766666412353516"
+      "coordinates": "-3.3333330154418945, 38.766666412353516",
+      "metar_available": false
     },
     {
       "ident": "KE-6978",
@@ -3920,7 +4278,8 @@
       "iso_region": "KE-700",
       "municipality": "Kimwarer",
       "iata_code": "KRV",
-      "coordinates": "0.319638, 35.66256"
+      "coordinates": "0.319638, 35.66256",
+      "metar_available": false
     },
     {
       "ident": "KE-6996",
@@ -3931,7 +4290,8 @@
       "iso_country": "KE",
       "iso_region": "KE-700",
       "municipality": "Kapchomuswo",
-      "coordinates": "0.536848, 35.728044"
+      "coordinates": "0.536848, 35.728044",
+      "metar_available": false
     },
     {
       "ident": "KE-6997",
@@ -3943,7 +4303,8 @@
       "iso_region": "KE-900",
       "municipality": "Busia",
       "local_code": "HKBA",
-      "coordinates": "0.45708501338959, 34.130279541016"
+      "coordinates": "0.45708501338959, 34.130279541016",
+      "metar_available": false
     },
     {
       "ident": "KE-6998",
@@ -3955,7 +4316,8 @@
       "iso_region": "KE-900",
       "municipality": "Bungoma",
       "local_code": "HKBU",
-      "coordinates": "0.57620799541473, 34.553451538086"
+      "coordinates": "0.57620799541473, 34.553451538086",
+      "metar_available": false
     },
     {
       "ident": "KE-6999",
@@ -3967,7 +4329,8 @@
       "iso_region": "KE-700",
       "municipality": "Eldoret",
       "local_code": "HKED",
-      "coordinates": "0.536926, 35.280518"
+      "coordinates": "0.536926, 35.280518",
+      "metar_available": false
     },
     {
       "ident": "KE-7000",
@@ -3979,7 +4342,8 @@
       "iso_region": "KE-700",
       "municipality": "Loitokitok",
       "local_code": "HKLT",
-      "coordinates": "-2.909884929657, 37.526107788086"
+      "coordinates": "-2.909884929657, 37.526107788086",
+      "metar_available": false
     },
     {
       "ident": "KE-7001",
@@ -3991,7 +4355,8 @@
       "iso_region": "KE-700",
       "municipality": "Magadi",
       "local_code": "HKMG",
-      "coordinates": "-1.9480570554733, 36.283332824707"
+      "coordinates": "-1.9480570554733, 36.283332824707",
+      "metar_available": false
     },
     {
       "ident": "KE-7002",
@@ -4003,7 +4368,8 @@
       "iso_region": "KE-300",
       "municipality": "Mackinnon Road",
       "local_code": "HKMR",
-      "coordinates": "-3.730548, 39.039413"
+      "coordinates": "-3.730548, 39.039413",
+      "metar_available": false
     },
     {
       "ident": "KE-7003",
@@ -4015,7 +4381,8 @@
       "iso_region": "KE-300",
       "municipality": "Mtito",
       "local_code": "HKMT",
-      "coordinates": "-2.7170820236206, 38.197566986084"
+      "coordinates": "-2.7170820236206, 38.197566986084",
+      "metar_available": false
     },
     {
       "ident": "KE-7004",
@@ -4027,7 +4394,8 @@
       "iso_region": "KE-110",
       "municipality": "Embakasi",
       "local_code": "HKSA",
-      "coordinates": "-1.2982189655304, 36.915546417236"
+      "coordinates": "-1.2982189655304, 36.915546417236",
+      "metar_available": false
     },
     {
       "ident": "KE-KIU",
@@ -4039,7 +4407,8 @@
       "iso_region": "KE-300",
       "municipality": "Kiunga",
       "iata_code": "KIU",
-      "coordinates": "-1.7438290119171143, 41.484344482421875"
+      "coordinates": "-1.7438290119171143, 41.484344482421875",
+      "metar_available": false
     },
     {
       "ident": "KE-LBK",
@@ -4051,7 +4420,8 @@
       "iso_region": "KE-500",
       "municipality": "Liboi",
       "iata_code": "LBK",
-      "coordinates": "0.348333, 40.881699"
+      "coordinates": "0.348333, 40.881699",
+      "metar_available": false
     },
     {
       "ident": "KE-LKU",
@@ -4063,7 +4433,8 @@
       "iso_region": "KE-700",
       "municipality": "Kalokol",
       "iata_code": "LKU",
-      "coordinates": "3.416256, 35.885468"
+      "coordinates": "3.416256, 35.885468",
+      "metar_available": false
     },
     {
       "ident": "KE-MUM",
@@ -4074,7 +4445,8 @@
       "iso_country": "KE",
       "iso_region": "KE-900",
       "municipality": "Mumias",
-      "coordinates": "0.355399, 34.528234"
+      "coordinates": "0.355399, 34.528234",
+      "metar_available": false
     },
     {
       "ident": "KWY",
@@ -4086,7 +4458,8 @@
       "iso_region": "KE-300",
       "municipality": "Kiwayu",
       "iata_code": "KWY",
-      "coordinates": "-1.96056, 41.297501"
+      "coordinates": "-1.96056, 41.297501",
+      "metar_available": false
     }
   ]
 }

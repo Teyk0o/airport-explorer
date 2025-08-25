@@ -2,7 +2,7 @@
   "country_code": "BZ",
   "country_name": "Belize",
   "total_airports": 36,
-  "last_updated": "2025-08-01T00:18:22.582605",
+  "last_updated": "2025-08-25T10:08:40.719028",
   "types_distribution": {
     "small_airport": 17,
     "closed": 4,
@@ -20,7 +20,8 @@
       "iso_region": "BZ-OW",
       "municipality": "Gallon Jug",
       "gps_code": "MZGJ",
-      "coordinates": "17.5664, -89.0468"
+      "coordinates": "17.5664, -89.0468",
+      "metar_available": false
     },
     {
       "ident": "BZ-0002",
@@ -30,7 +31,8 @@
       "iso_region": "BZ-BZ",
       "municipality": "Northern Caye",
       "gps_code": "MZLH",
-      "coordinates": "17.452965, -87.500671"
+      "coordinates": "17.452965, -87.500671",
+      "metar_available": false
     },
     {
       "ident": "BZ-0003",
@@ -40,7 +42,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-OW",
       "municipality": "San Felipe",
-      "coordinates": "17.88531, -88.887286"
+      "coordinates": "17.88531, -88.887286",
+      "metar_available": false
     },
     {
       "ident": "BZ-0004",
@@ -50,7 +53,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-CZL",
       "municipality": "Consejo",
-      "coordinates": "18.456596, -88.305407"
+      "coordinates": "18.456596, -88.305407",
+      "metar_available": false
     },
     {
       "ident": "BZ-0005",
@@ -60,7 +64,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-OW",
       "municipality": "San Felipe",
-      "coordinates": "17.915341, -88.743301"
+      "coordinates": "17.915341, -88.743301",
+      "metar_available": false
     },
     {
       "ident": "BZ-0006",
@@ -70,7 +75,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-CY",
       "municipality": "Augustine",
-      "coordinates": "16.970298, -88.987916"
+      "coordinates": "16.970298, -88.987916",
+      "metar_available": false
     },
     {
       "ident": "BZ-0007",
@@ -79,7 +85,8 @@
       "elevation_ft": 1500.0,
       "iso_country": "BZ",
       "iso_region": "BZ-CY",
-      "coordinates": "17.039, -88.9547"
+      "coordinates": "17.039, -88.9547",
+      "metar_available": false
     },
     {
       "ident": "BZ-0008",
@@ -89,7 +96,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-SC",
       "municipality": "Placencia",
-      "coordinates": "16.685052, -88.348708"
+      "coordinates": "16.685052, -88.348708",
+      "metar_available": false
     },
     {
       "ident": "BZ-0009",
@@ -99,7 +107,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-BZ",
       "municipality": "Belize City",
-      "coordinates": "17.470036, -88.247348"
+      "coordinates": "17.470036, -88.247348",
+      "metar_available": false
     },
     {
       "ident": "BZ-0010",
@@ -109,7 +118,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-BZ",
       "municipality": "Belize City",
-      "coordinates": "17.496334, -88.234666"
+      "coordinates": "17.496334, -88.234666",
+      "metar_available": false
     },
     {
       "ident": "BZ-0011",
@@ -119,7 +129,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-BZ",
       "municipality": "Cayo Espanto",
-      "coordinates": "17.914927, -88.001003"
+      "coordinates": "17.914927, -88.001003",
+      "metar_available": false
     },
     {
       "ident": "BZ-0012",
@@ -129,7 +140,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-BZ",
       "municipality": "Ambergris Caye",
-      "coordinates": "17.983672, -87.922897"
+      "coordinates": "17.983672, -87.922897",
+      "metar_available": false
     },
     {
       "ident": "BZ-0013",
@@ -139,7 +151,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-CY",
       "municipality": "Chiquibul National Park",
-      "coordinates": "16.864574, -89.039359"
+      "coordinates": "16.864574, -89.039359",
+      "metar_available": false
     },
     {
       "ident": "BZ-0014",
@@ -148,7 +161,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-OW",
       "municipality": "Shipyard",
-      "coordinates": "17.90194, -88.986833"
+      "coordinates": "17.90194, -88.986833",
+      "metar_available": false
     },
     {
       "ident": "BZ-0015",
@@ -157,7 +171,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-OW",
       "municipality": "Backlanding",
-      "coordinates": "17.85615, -88.58883"
+      "coordinates": "17.85615, -88.58883",
+      "metar_available": false
     },
     {
       "ident": "BZ-BCV",
@@ -169,7 +184,8 @@
       "municipality": "Belmopan",
       "gps_code": "MZBP",
       "iata_code": "BCV",
-      "coordinates": "17.269603, -88.776496"
+      "coordinates": "17.269603, -88.776496",
+      "metar_available": false
     },
     {
       "ident": "BZ-BGK",
@@ -181,7 +197,8 @@
       "municipality": "Big Creek",
       "gps_code": "MZBG",
       "iata_code": "BGK",
-      "coordinates": "16.519369, -88.407913"
+      "coordinates": "16.519369, -88.407913",
+      "metar_available": false
     },
     {
       "ident": "BZ-CUK",
@@ -193,7 +210,8 @@
       "municipality": "Caye Caulker",
       "gps_code": "MZCK",
       "iata_code": "CUK",
-      "coordinates": "17.735015, -88.032862"
+      "coordinates": "17.735015, -88.032862",
+      "metar_available": false
     },
     {
       "ident": "BZ-CYC",
@@ -205,7 +223,8 @@
       "municipality": "Caye Chapel",
       "gps_code": "MZCP",
       "iata_code": "CYC",
-      "coordinates": "17.683792, -88.044985"
+      "coordinates": "17.683792, -88.044985",
+      "metar_available": false
     },
     {
       "ident": "BZ-CZH",
@@ -217,7 +236,8 @@
       "municipality": "Corozal",
       "gps_code": "MZCZ",
       "iata_code": "CZH",
-      "coordinates": "18.3822, -88.411903"
+      "coordinates": "18.3822, -88.411903",
+      "metar_available": false
     },
     {
       "ident": "BZ-DGA",
@@ -229,7 +249,8 @@
       "municipality": "Dangriga",
       "gps_code": "MZPB",
       "iata_code": "DGA",
-      "coordinates": "16.98251, -88.230988"
+      "coordinates": "16.98251, -88.230988",
+      "metar_available": false
     },
     {
       "ident": "BZ-INB",
@@ -241,7 +262,8 @@
       "municipality": "Independence",
       "gps_code": "MZSV",
       "iata_code": "INB",
-      "coordinates": "16.53456, -88.441615"
+      "coordinates": "16.53456, -88.441615",
+      "metar_available": false
     },
     {
       "ident": "BZ-MDB",
@@ -253,7 +275,8 @@
       "municipality": "Melinda",
       "gps_code": "MZML",
       "iata_code": "MDB",
-      "coordinates": "17.004299, -88.304199"
+      "coordinates": "17.004299, -88.304199",
+      "metar_available": false
     },
     {
       "ident": "BZ-ORZ",
@@ -265,7 +288,8 @@
       "municipality": "Orange Walk",
       "gps_code": "MZAM",
       "iata_code": "ORZ",
-      "coordinates": "18.046767, -88.583858"
+      "coordinates": "18.046767, -88.583858",
+      "metar_available": false
     },
     {
       "ident": "BZ-PND",
@@ -278,7 +302,8 @@
       "gps_code": "MZPG",
       "iata_code": "PND",
       "local_code": "PND",
-      "coordinates": "16.1024, -88.808296"
+      "coordinates": "16.1024, -88.808296",
+      "metar_available": false
     },
     {
       "ident": "BZ-SJX",
@@ -290,7 +315,8 @@
       "municipality": "Sartaneja",
       "gps_code": "MZSJ",
       "iata_code": "SJX",
-      "coordinates": "18.3561, -88.130798"
+      "coordinates": "18.3561, -88.130798",
+      "metar_available": false
     },
     {
       "ident": "BZ-SPR",
@@ -302,7 +328,8 @@
       "municipality": "San Pedro",
       "gps_code": "MZSP",
       "iata_code": "SPR",
-      "coordinates": "17.9139, -87.9711"
+      "coordinates": "17.9139, -87.9711",
+      "metar_available": false
     },
     {
       "ident": "BZ-SQS",
@@ -314,7 +341,8 @@
       "municipality": "Spanish Lookout",
       "gps_code": "MZCF",
       "iata_code": "SQS",
-      "coordinates": "17.185898, -89.009936"
+      "coordinates": "17.185898, -89.009936",
+      "metar_available": false
     },
     {
       "ident": "BZ-STU",
@@ -325,7 +353,8 @@
       "iso_region": "BZ-CZL",
       "municipality": "Santa Cruz",
       "iata_code": "STU",
-      "coordinates": "18.2721004486084, -88.456298828125"
+      "coordinates": "18.2721004486084, -88.456298828125",
+      "metar_available": false
     },
     {
       "ident": "BZ-SVK",
@@ -337,7 +366,8 @@
       "municipality": "Silver Creek",
       "gps_code": "MZKT",
       "iata_code": "SVK",
-      "coordinates": "16.728338, -88.369174"
+      "coordinates": "16.728338, -88.369174",
+      "metar_available": false
     },
     {
       "ident": "BZ-TZA",
@@ -349,7 +379,8 @@
       "municipality": "Belize City",
       "gps_code": "MZBE",
       "iata_code": "TZA",
-      "coordinates": "17.517239, -88.195775"
+      "coordinates": "17.517239, -88.195775",
+      "metar_available": false
     },
     {
       "ident": "MZBZ",
@@ -361,7 +392,8 @@
       "municipality": "Belize City",
       "gps_code": "MZBZ",
       "iata_code": "BZE",
-      "coordinates": "17.539951, -88.303556"
+      "coordinates": "17.539951, -88.303556",
+      "metar_available": false
     },
     {
       "ident": "MZE",
@@ -371,7 +403,8 @@
       "iso_country": "BZ",
       "iso_region": "BZ-CY",
       "iata_code": "MZE",
-      "coordinates": "17.27846, -89.0238"
+      "coordinates": "17.27846, -89.0238",
+      "metar_available": false
     },
     {
       "ident": "MZJC",
@@ -382,7 +415,8 @@
       "iso_region": "BZ-CZL",
       "municipality": "Chan Chen",
       "gps_code": "MZJC",
-      "coordinates": "18.44031, -88.45334"
+      "coordinates": "18.44031, -88.45334",
+      "metar_available": false
     },
     {
       "ident": "MZMF",
@@ -394,7 +428,8 @@
       "municipality": "Maya Flats",
       "gps_code": "MZMF",
       "iata_code": "CYD",
-      "coordinates": "17.104872, -89.101129"
+      "coordinates": "17.104872, -89.101129",
+      "metar_available": false
     },
     {
       "ident": "MZPL",
@@ -407,7 +442,8 @@
       "gps_code": "MZPL",
       "iata_code": "PLJ",
       "local_code": "PLJ",
-      "coordinates": "16.536957, -88.361511"
+      "coordinates": "16.536957, -88.361511",
+      "metar_available": false
     }
   ]
 }

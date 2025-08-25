@@ -2,7 +2,7 @@
   "country_code": "EC",
   "country_name": "Ecuador",
   "total_airports": 357,
-  "last_updated": "2025-08-01T00:18:22.676116",
+  "last_updated": "2025-08-25T10:08:40.816647",
   "types_distribution": {
     "small_airport": 301,
     "closed": 12,
@@ -20,7 +20,8 @@
       "iso_country": "EC",
       "iso_region": "EC-O",
       "municipality": "Carabon",
-      "coordinates": "-3.6285500526428223, -80.18779754638672"
+      "coordinates": "-3.6285500526428223, -80.18779754638672",
+      "metar_available": false
     },
     {
       "ident": "EC-0002",
@@ -30,7 +31,8 @@
       "iso_country": "EC",
       "iso_region": "EC-W",
       "municipality": "Isla Baltra",
-      "coordinates": "-0.472063, -90.287704"
+      "coordinates": "-0.472063, -90.287704",
+      "metar_available": false
     },
     {
       "ident": "EC-0003",
@@ -41,7 +43,8 @@
       "iso_country": "EC",
       "iso_region": "EC-R",
       "municipality": "Santa Rosa",
-      "coordinates": "-3.435141, -79.977604"
+      "coordinates": "-3.435141, -79.977604",
+      "metar_available": false
     },
     {
       "ident": "EC-0004",
@@ -51,7 +54,8 @@
       "iso_country": "EC",
       "iso_region": "EC-D",
       "municipality": "Nuevo Rocafuerte",
-      "coordinates": "-0.927875, -75.394383"
+      "coordinates": "-0.927875, -75.394383",
+      "metar_available": false
     },
     {
       "ident": "EC-0005",
@@ -63,7 +67,8 @@
       "iso_region": "EC-Y",
       "municipality": "Lorocachi",
       "gps_code": "SEOH",
-      "coordinates": "-1.615731, -75.98772"
+      "coordinates": "-1.615731, -75.98772",
+      "metar_available": false
     },
     {
       "ident": "EC-0006",
@@ -74,7 +79,8 @@
       "iso_region": "EC-Y",
       "municipality": "Pavacachi",
       "gps_code": "SEVA",
-      "coordinates": "-1.578569, -76.353395"
+      "coordinates": "-1.578569, -76.353395",
+      "metar_available": false
     },
     {
       "ident": "EC-0007",
@@ -86,7 +92,8 @@
       "iso_region": "EC-Y",
       "municipality": "Quilloalpa",
       "gps_code": "SEJR",
-      "coordinates": "-1.384429, -76.958553"
+      "coordinates": "-1.384429, -76.958553",
+      "metar_available": false
     },
     {
       "ident": "EC-0008",
@@ -96,7 +103,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Taracoa",
-      "coordinates": "-1.368989, -76.947394"
+      "coordinates": "-1.368989, -76.947394",
+      "metar_available": false
     },
     {
       "ident": "EC-0009",
@@ -105,7 +113,8 @@
       "continent": "SA",
       "iso_country": "EC",
       "iso_region": "EC-Y",
-      "coordinates": "-1.497908, -77.474409"
+      "coordinates": "-1.497908, -77.474409",
+      "metar_available": false
     },
     {
       "ident": "EC-0010",
@@ -115,7 +124,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Pacayacu",
-      "coordinates": "-1.650816, -77.596069"
+      "coordinates": "-1.650816, -77.596069",
+      "metar_available": false
     },
     {
       "ident": "EC-0011",
@@ -125,7 +135,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Sarayaku",
-      "coordinates": "-1.739358, -77.485087"
+      "coordinates": "-1.739358, -77.485087",
+      "metar_available": false
     },
     {
       "ident": "EC-0012",
@@ -135,7 +146,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Teresa Mama",
-      "coordinates": "-1.923175, -77.211526"
+      "coordinates": "-1.923175, -77.211526",
+      "metar_available": false
     },
     {
       "ident": "EC-0013",
@@ -147,7 +159,8 @@
       "iso_region": "EC-Y",
       "municipality": "Huito Molino",
       "gps_code": "SEIO",
-      "coordinates": "-1.828625, -77.321688"
+      "coordinates": "-1.828625, -77.321688",
+      "metar_available": false
     },
     {
       "ident": "EC-0014",
@@ -159,7 +172,8 @@
       "iso_region": "EC-S",
       "municipality": "Macuma",
       "gps_code": "SEAK",
-      "coordinates": "-2.145775, -77.700306"
+      "coordinates": "-2.145775, -77.700306",
+      "metar_available": false
     },
     {
       "ident": "EC-0015",
@@ -171,7 +185,8 @@
       "iso_region": "EC-Y",
       "municipality": "Chichirata",
       "gps_code": "SEHT",
-      "coordinates": "-2.38364, -76.656656"
+      "coordinates": "-2.38364, -76.656656",
+      "metar_available": false
     },
     {
       "ident": "EC-0016",
@@ -181,7 +196,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Andoas",
-      "coordinates": "-2.568889, -76.660795"
+      "coordinates": "-2.568889, -76.660795",
+      "metar_available": false
     },
     {
       "ident": "EC-0017",
@@ -193,7 +209,8 @@
       "iso_region": "EC-S",
       "municipality": "Patukmai",
       "gps_code": "SEUX",
-      "coordinates": "-2.483436, -77.201006"
+      "coordinates": "-2.483436, -77.201006",
+      "metar_available": false
     },
     {
       "ident": "EC-0018",
@@ -203,7 +220,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Villano",
-      "coordinates": "-1.502584, -77.327519"
+      "coordinates": "-1.502584, -77.327519",
+      "metar_available": false
     },
     {
       "ident": "EC-0019",
@@ -212,7 +230,8 @@
       "continent": "SA",
       "iso_country": "EC",
       "iso_region": "EC-S",
-      "coordinates": "-2.212734, -77.572687"
+      "coordinates": "-2.212734, -77.572687",
+      "metar_available": false
     },
     {
       "ident": "EC-0020",
@@ -224,7 +243,8 @@
       "iso_region": "EC-S",
       "municipality": "Yuvientza",
       "gps_code": "SEYV",
-      "coordinates": "-2.164911, -77.57744"
+      "coordinates": "-2.164911, -77.57744",
+      "metar_available": false
     },
     {
       "ident": "EC-0021",
@@ -234,7 +254,8 @@
       "iso_country": "EC",
       "iso_region": "EC-S",
       "municipality": "Ayuy",
-      "coordinates": "-2.082567, -77.580241"
+      "coordinates": "-2.082567, -77.580241",
+      "metar_available": false
     },
     {
       "ident": "EC-0022",
@@ -246,7 +267,8 @@
       "iso_region": "EC-Y",
       "municipality": "Copataza",
       "gps_code": "SEOZ",
-      "coordinates": "-2.090779, -77.446868"
+      "coordinates": "-2.090779, -77.446868",
+      "metar_available": false
     },
     {
       "ident": "EC-0023",
@@ -256,7 +278,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Jimbiquiti",
-      "coordinates": "-1.990084, -77.716252"
+      "coordinates": "-1.990084, -77.716252",
+      "metar_available": false
     },
     {
       "ident": "EC-0024",
@@ -268,7 +291,8 @@
       "iso_region": "EC-Y",
       "municipality": "Sharamentza",
       "gps_code": "SEAW",
-      "coordinates": "-2.463387, -76.992629"
+      "coordinates": "-2.463387, -76.992629",
+      "metar_available": false
     },
     {
       "ident": "EC-0025",
@@ -280,7 +304,8 @@
       "iso_region": "EC-Y",
       "municipality": "Capauari",
       "gps_code": "SEPH",
-      "coordinates": "-2.070324, -77.173335"
+      "coordinates": "-2.070324, -77.173335",
+      "metar_available": false
     },
     {
       "ident": "EC-0026",
@@ -292,7 +317,8 @@
       "iso_region": "EC-Y",
       "municipality": "Achuar",
       "gps_code": "SEAT",
-      "coordinates": "-2.023662, -77.468825"
+      "coordinates": "-2.023662, -77.468825",
+      "metar_available": false
     },
     {
       "ident": "EC-0027",
@@ -304,7 +330,8 @@
       "iso_region": "EC-Y",
       "municipality": "Shaimi",
       "gps_code": "SEHX",
-      "coordinates": "-1.926173, -77.505011"
+      "coordinates": "-1.926173, -77.505011",
+      "metar_available": false
     },
     {
       "ident": "EC-0028",
@@ -316,7 +343,8 @@
       "iso_region": "EC-S",
       "municipality": "Yaupi",
       "gps_code": "SEYA",
-      "coordinates": "-2.852197, -77.942373"
+      "coordinates": "-2.852197, -77.942373",
+      "metar_available": false
     },
     {
       "ident": "EC-0029",
@@ -326,7 +354,8 @@
       "iso_country": "EC",
       "iso_region": "EC-S",
       "municipality": "Wasakentza",
-      "coordinates": "-2.543927, -77.199249"
+      "coordinates": "-2.543927, -77.199249",
+      "metar_available": false
     },
     {
       "ident": "EC-0030",
@@ -338,7 +367,8 @@
       "iso_region": "EC-S",
       "municipality": "Wampuik",
       "gps_code": "SEWP",
-      "coordinates": "-2.61555, -77.023164"
+      "coordinates": "-2.61555, -77.023164",
+      "metar_available": false
     },
     {
       "ident": "EC-0031",
@@ -348,7 +378,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Tambo Borja",
-      "coordinates": "-2.36646, -76.513774"
+      "coordinates": "-2.36646, -76.513774",
+      "metar_available": false
     },
     {
       "ident": "EC-0032",
@@ -358,7 +389,8 @@
       "iso_country": "EC",
       "iso_region": "EC-Y",
       "municipality": "Tambo",
-      "coordinates": "-1.873892, -76.773644"
+      "coordinates": "-1.873892, -76.773644",
+      "metar_available": false
     },
     {
       "ident": "EC-0033",
@@ -370,7 +402,8 @@
       "iso_region": "EC-Y",
       "municipality": "Cononaco Bameno",
       "gps_code": "SECB",
-      "coordinates": "-1.298779, -76.154546"
+      "coordinates": "-1.298779, -76.154546",
+      "metar_available": false
     },
     {
       "ident": "EC-0034",
@@ -382,7 +415,8 @@
       "iso_region": "EC-Y",
       "municipality": "Atatakuinjia",
       "gps_code": "SEKJ",
-      "coordinates": "-1.649742, -77.047942"
+      "coordinates": "-1.649742, -77.047942",
+      "metar_available": false
     },
     {
       "ident": "EC-0035",
@@ -393,7 +427,8 @@
       "iso_country": "EC",
       "iso_region": "EC-R",
       "municipality": "Holandesa",
-      "coordinates": "-0.72495, -79.46976"
+      "coordinates": "-0.72495, -79.46976",
+      "metar_available": false
     },
     {
       "ident": "EC-0036",
@@ -405,7 +440,8 @@
       "iso_region": "EC-R",
       "municipality": "La Esperanza",
       "gps_code": "SEAN",
-      "coordinates": "-0.96115, -79.4162"
+      "coordinates": "-0.96115, -79.4162",
+      "metar_available": false
     },
     {
       "ident": "EC-0037",
@@ -417,7 +453,8 @@
       "iso_region": "EC-R",
       "municipality": "Quevedo",
       "gps_code": "SELC",
-      "coordinates": "-0.93109, -79.420359"
+      "coordinates": "-0.93109, -79.420359",
+      "metar_available": false
     },
     {
       "ident": "EC-0038",
@@ -429,7 +466,8 @@
       "iso_region": "EC-R",
       "municipality": "Quevedo",
       "gps_code": "SEEG",
-      "coordinates": "-0.98999, -79.43663"
+      "coordinates": "-0.98999, -79.43663",
+      "metar_available": false
     },
     {
       "ident": "EC-0039",
@@ -441,7 +479,8 @@
       "iso_region": "EC-R",
       "municipality": "Quevedo",
       "gps_code": "SEJL",
-      "coordinates": "-0.98762, -79.4445"
+      "coordinates": "-0.98762, -79.4445",
+      "metar_available": false
     },
     {
       "ident": "EC-0040",
@@ -453,7 +492,8 @@
       "iso_region": "EC-R",
       "municipality": "Valencia",
       "gps_code": "SEVL",
-      "coordinates": "-0.94007, -79.31379"
+      "coordinates": "-0.94007, -79.31379",
+      "metar_available": false
     },
     {
       "ident": "EC-0041",
@@ -465,7 +505,8 @@
       "iso_region": "EC-G",
       "municipality": "Tres Postes",
       "gps_code": "SEBS",
-      "coordinates": "-1.98576, -79.62703"
+      "coordinates": "-1.98576, -79.62703",
+      "metar_available": false
     },
     {
       "ident": "EC-0042",
@@ -476,7 +517,8 @@
       "iso_country": "EC",
       "iso_region": "EC-W",
       "municipality": "Puerto Velasco Ibarra",
-      "coordinates": "-1.27676, -90.48181"
+      "coordinates": "-1.27676, -90.48181",
+      "metar_available": false
     },
     {
       "ident": "EC-0043",
@@ -488,7 +530,8 @@
       "iso_region": "EC-O",
       "municipality": "El Guabo",
       "gps_code": "SESQ",
-      "coordinates": "-3.18885, -79.86874"
+      "coordinates": "-3.18885, -79.86874",
+      "metar_available": false
     },
     {
       "ident": "EC-0044",
@@ -499,7 +542,8 @@
       "iso_country": "EC",
       "iso_region": "EC-O",
       "municipality": "Machala",
-      "coordinates": "-3.28783, -79.92046"
+      "coordinates": "-3.28783, -79.92046",
+      "metar_available": false
     },
     {
       "ident": "EC-0045",
@@ -510,7 +554,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "Aguada",
-      "coordinates": "-3.01335, -80.257"
+      "coordinates": "-3.01335, -80.257",
+      "metar_available": false
     },
     {
       "ident": "EC-0046",
@@ -521,7 +566,8 @@
       "iso_country": "EC",
       "iso_region": "EC-O",
       "municipality": "Huaquillas",
-      "coordinates": "-3.45926, -80.19701"
+      "coordinates": "-3.45926, -80.19701",
+      "metar_available": false
     },
     {
       "ident": "EC-0047",
@@ -533,7 +579,8 @@
       "iso_region": "EC-G",
       "municipality": "Posorja",
       "gps_code": "SENX",
-      "coordinates": "-2.72034, -80.249194"
+      "coordinates": "-2.72034, -80.249194",
+      "metar_available": false
     },
     {
       "ident": "EC-0048",
@@ -545,7 +592,8 @@
       "iso_region": "EC-G",
       "municipality": "General Villamil",
       "gps_code": "SEPL",
-      "coordinates": "-2.6338, -80.40429"
+      "coordinates": "-2.6338, -80.40429",
+      "metar_available": false
     },
     {
       "ident": "EC-0049",
@@ -556,7 +604,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "San Antonio de Playas",
-      "coordinates": "-2.53345, -80.40968"
+      "coordinates": "-2.53345, -80.40968",
+      "metar_available": false
     },
     {
       "ident": "EC-0050",
@@ -567,7 +616,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "Guayaquil",
-      "coordinates": "-2.28323, -80.10262"
+      "coordinates": "-2.28323, -80.10262",
+      "metar_available": false
     },
     {
       "ident": "EC-0051",
@@ -577,7 +627,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "Guayaquil",
-      "coordinates": "-2.17613, -79.94109"
+      "coordinates": "-2.17613, -79.94109",
+      "metar_available": false
     },
     {
       "ident": "EC-0052",
@@ -588,7 +639,8 @@
       "iso_country": "EC",
       "iso_region": "EC-H",
       "municipality": "Tambillo",
-      "coordinates": "-0.40349, -78.52983"
+      "coordinates": "-0.40349, -78.52983",
+      "metar_available": false
     },
     {
       "ident": "EC-0053",
@@ -599,7 +651,8 @@
       "iso_country": "EC",
       "iso_region": "EC-P",
       "municipality": "Quito",
-      "coordinates": "-0.00327, -78.45354"
+      "coordinates": "-0.00327, -78.45354",
+      "metar_available": false
     },
     {
       "ident": "EC-0054",
@@ -610,7 +663,8 @@
       "iso_country": "EC",
       "iso_region": "EC-P",
       "municipality": "Quito",
-      "coordinates": "-0.23626, -78.47779"
+      "coordinates": "-0.23626, -78.47779",
+      "metar_available": false
     },
     {
       "ident": "EC-0055",
@@ -621,7 +675,8 @@
       "iso_country": "EC",
       "iso_region": "EC-P",
       "municipality": "Cayambe",
-      "coordinates": "0.057, -78.13857"
+      "coordinates": "0.057, -78.13857",
+      "metar_available": false
     },
     {
       "ident": "EC-0056",
@@ -633,7 +688,8 @@
       "iso_region": "EC-G",
       "municipality": "Aguayo",
       "gps_code": "SEAA",
-      "coordinates": "-2.928941, -80.075941"
+      "coordinates": "-2.928941, -80.075941",
+      "metar_available": false
     },
     {
       "ident": "EC-0057",
@@ -644,7 +700,8 @@
       "iso_country": "EC",
       "iso_region": "EC-E",
       "municipality": "Rocafuerte",
-      "coordinates": "1.064419, -79.351037"
+      "coordinates": "1.064419, -79.351037",
+      "metar_available": false
     },
     {
       "ident": "EC-0058",
@@ -655,7 +712,8 @@
       "iso_country": "EC",
       "iso_region": "EC-E",
       "municipality": "Rompido",
-      "coordinates": "1.110251, -79.137712"
+      "coordinates": "1.110251, -79.137712",
+      "metar_available": false
     },
     {
       "ident": "EC-0059",
@@ -666,7 +724,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "Milagro",
-      "coordinates": "-2.12665, -79.58841"
+      "coordinates": "-2.12665, -79.58841",
+      "metar_available": false
     },
     {
       "ident": "EC-0060",
@@ -676,7 +735,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "Milagro",
-      "coordinates": "-2.131837, -79.578722"
+      "coordinates": "-2.131837, -79.578722",
+      "metar_available": false
     },
     {
       "ident": "EC-0061",
@@ -688,7 +748,8 @@
       "iso_region": "EC-S",
       "municipality": "Huasaga",
       "gps_code": "SEHG",
-      "coordinates": "-2.559842, -77.172101"
+      "coordinates": "-2.559842, -77.172101",
+      "metar_available": false
     },
     {
       "ident": "EC-0062",
@@ -700,7 +761,8 @@
       "iso_region": "EC-Y",
       "municipality": "Moretecocha",
       "gps_code": "SENH",
-      "coordinates": "-1.627303, -77.303546"
+      "coordinates": "-1.627303, -77.303546",
+      "metar_available": false
     },
     {
       "ident": "EC-0063",
@@ -711,7 +773,8 @@
       "iso_country": "EC",
       "iso_region": "EC-I",
       "municipality": "Ibarra",
-      "coordinates": "0.338419, -78.136398"
+      "coordinates": "0.338419, -78.136398",
+      "metar_available": false
     },
     {
       "ident": "EC-0064",
@@ -722,7 +785,8 @@
       "iso_country": "EC",
       "iso_region": "EC-O",
       "municipality": "Machala",
-      "coordinates": "-3.2689, -79.961601"
+      "coordinates": "-3.2689, -79.961601",
+      "metar_available": false
     },
     {
       "ident": "EC-0065",
@@ -733,7 +797,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "municipality": "Puná",
-      "coordinates": "-2.73368, -79.915298"
+      "coordinates": "-2.73368, -79.915298",
+      "metar_available": false
     },
     {
       "ident": "EC-0066",
@@ -744,7 +809,8 @@
       "iso_country": "EC",
       "iso_region": "EC-H",
       "municipality": "El Vergel",
-      "coordinates": "-1.746606, -78.608558"
+      "coordinates": "-1.746606, -78.608558",
+      "metar_available": false
     },
     {
       "ident": "EC-0067",
@@ -755,7 +821,8 @@
       "iso_country": "EC",
       "iso_region": "EC-I",
       "municipality": "Cotacachi",
-      "coordinates": "0.29278, -78.25904"
+      "coordinates": "0.29278, -78.25904",
+      "metar_available": false
     },
     {
       "ident": "EC-0068",
@@ -766,7 +833,8 @@
       "iso_country": "EC",
       "iso_region": "EC-P",
       "municipality": "Ascazubi",
-      "coordinates": "-0.083333, -78.283333"
+      "coordinates": "-0.083333, -78.283333",
+      "metar_available": false
     },
     {
       "ident": "EC-0069",
@@ -777,7 +845,8 @@
       "iso_country": "EC",
       "iso_region": "EC-R",
       "municipality": "Buena Fe",
-      "coordinates": "-0.837328, -79.486759"
+      "coordinates": "-0.837328, -79.486759",
+      "metar_available": false
     },
     {
       "ident": "EC-0070",
@@ -789,7 +858,8 @@
       "iso_region": "EC-P",
       "municipality": "Quito",
       "local_code": "SEQU",
-      "coordinates": "-0.136782, -78.490598"
+      "coordinates": "-0.136782, -78.490598",
+      "metar_available": false
     },
     {
       "ident": "EC-MZD",
@@ -801,7 +871,8 @@
       "iso_region": "EC-S",
       "municipality": "Santiago de Méndez",
       "iata_code": "MZD",
-      "coordinates": "-2.733330011367798, -78.31670379638672"
+      "coordinates": "-2.733330011367798, -78.31670379638672",
+      "metar_available": false
     },
     {
       "ident": "SE01",
@@ -813,7 +884,8 @@
       "iso_region": "EC-G",
       "municipality": "Bucay",
       "gps_code": "SEAE",
-      "coordinates": "-2.173581, -79.280763"
+      "coordinates": "-2.173581, -79.280763",
+      "metar_available": false
     },
     {
       "ident": "SE02",
@@ -825,7 +897,8 @@
       "iso_region": "EC-G",
       "municipality": "Soledad",
       "gps_code": "SEGB",
-      "coordinates": "-2.773399, -79.702411"
+      "coordinates": "-2.773399, -79.702411",
+      "metar_available": false
     },
     {
       "ident": "SE03",
@@ -837,7 +910,8 @@
       "iso_region": "EC-G",
       "municipality": "Puerto Grande",
       "gps_code": "SEEN",
-      "coordinates": "-2.94716, -80.1007"
+      "coordinates": "-2.94716, -80.1007",
+      "metar_available": false
     },
     {
       "ident": "SE04",
@@ -849,7 +923,8 @@
       "iso_region": "EC-M",
       "municipality": "Manta",
       "gps_code": "SEXF",
-      "coordinates": "-0.995765, -80.688436"
+      "coordinates": "-0.995765, -80.688436",
+      "metar_available": false
     },
     {
       "ident": "SE05",
@@ -862,7 +937,8 @@
       "municipality": "Posorja",
       "gps_code": "SE05",
       "local_code": "SE05",
-      "coordinates": "-2.7316670417785645, -80.24583435058594"
+      "coordinates": "-2.7316670417785645, -80.24583435058594",
+      "metar_available": false
     },
     {
       "ident": "SE06",
@@ -875,7 +951,8 @@
       "municipality": "Lérida",
       "gps_code": "SE06",
       "local_code": "SE06",
-      "coordinates": "-2.1902780532836914, -80.024169921875"
+      "coordinates": "-2.1902780532836914, -80.024169921875",
+      "metar_available": false
     },
     {
       "ident": "SE07",
@@ -887,7 +964,8 @@
       "iso_region": "EC-O",
       "municipality": "Machala",
       "gps_code": "SEXV",
-      "coordinates": "-3.263056, -79.96167"
+      "coordinates": "-3.263056, -79.96167",
+      "metar_available": false
     },
     {
       "ident": "SE08",
@@ -900,7 +978,8 @@
       "municipality": "Lorenzo de Garaicoa",
       "gps_code": "SE08",
       "local_code": "SE08",
-      "coordinates": "-2.054719924926758, -79.43309783935547"
+      "coordinates": "-2.054719924926758, -79.43309783935547",
+      "metar_available": false
     },
     {
       "ident": "SE09",
@@ -912,7 +991,8 @@
       "iso_region": "EC-G",
       "municipality": "Bucay",
       "gps_code": "SESR",
-      "coordinates": "-2.174602, -79.234887"
+      "coordinates": "-2.174602, -79.234887",
+      "metar_available": false
     },
     {
       "ident": "SE10",
@@ -924,7 +1004,8 @@
       "iso_region": "EC-R",
       "municipality": "Vinces",
       "gps_code": "SEVN",
-      "coordinates": "-1.59611, -79.726097"
+      "coordinates": "-1.59611, -79.726097",
+      "metar_available": false
     },
     {
       "ident": "SE11",
@@ -936,7 +1017,8 @@
       "iso_region": "EC-26",
       "municipality": "Luz de América",
       "gps_code": "SEKI",
-      "coordinates": "-0.536183, -79.371976"
+      "coordinates": "-0.536183, -79.371976",
+      "metar_available": false
     },
     {
       "ident": "SE12",
@@ -948,7 +1030,8 @@
       "iso_region": "EC-G",
       "municipality": "Guayaquil",
       "gps_code": "SEUO",
-      "coordinates": "-2.165556, -79.896942"
+      "coordinates": "-2.165556, -79.896942",
+      "metar_available": false
     },
     {
       "ident": "SE13",
@@ -961,7 +1044,8 @@
       "municipality": "Babahoyo",
       "gps_code": "SE13",
       "local_code": "SE13",
-      "coordinates": "-1.7033530473709106, -79.53804779052734"
+      "coordinates": "-1.7033530473709106, -79.53804779052734",
+      "metar_available": false
     },
     {
       "ident": "SE14",
@@ -973,7 +1057,8 @@
       "iso_region": "EC-G",
       "municipality": "Coronel Marcelino Maridueña",
       "gps_code": "SESN",
-      "coordinates": "-2.21775, -79.43136"
+      "coordinates": "-2.21775, -79.43136",
+      "metar_available": false
     },
     {
       "ident": "SE15",
@@ -986,7 +1071,8 @@
       "municipality": "Quevedo",
       "gps_code": "SE15",
       "local_code": "SE15",
-      "coordinates": "-0.9998260140419006, -79.41535949707031"
+      "coordinates": "-0.9998260140419006, -79.41535949707031",
+      "metar_available": false
     },
     {
       "ident": "SE16",
@@ -999,7 +1085,8 @@
       "municipality": "Loja",
       "gps_code": "SE16",
       "local_code": "SE16",
-      "coordinates": "-3.8814239501953125, -79.23474884033203"
+      "coordinates": "-3.8814239501953125, -79.23474884033203",
+      "metar_available": false
     },
     {
       "ident": "SE17",
@@ -1011,7 +1098,8 @@
       "iso_region": "EC-G",
       "municipality": "Guayaquil",
       "gps_code": "SEXO",
-      "coordinates": "-2.118989, -79.934982"
+      "coordinates": "-2.118989, -79.934982",
+      "metar_available": false
     },
     {
       "ident": "SE22",
@@ -1023,7 +1111,8 @@
       "iso_region": "EC-O",
       "municipality": "Pasaje",
       "gps_code": "SEEL",
-      "coordinates": "-3.27905, -79.80118"
+      "coordinates": "-3.27905, -79.80118",
+      "metar_available": false
     },
     {
       "ident": "SE58",
@@ -1035,7 +1124,8 @@
       "iso_region": "EC-O",
       "municipality": "Buenavista",
       "gps_code": "SEBA",
-      "coordinates": "-3.34094, -79.8638"
+      "coordinates": "-3.34094, -79.8638",
+      "metar_available": false
     },
     {
       "ident": "SE59",
@@ -1047,7 +1137,8 @@
       "iso_region": "EC-O",
       "municipality": "El Guabo",
       "gps_code": "SEIN",
-      "coordinates": "-3.202759, -79.79825"
+      "coordinates": "-3.202759, -79.79825",
+      "metar_available": false
     },
     {
       "ident": "SE60",
@@ -1059,7 +1150,8 @@
       "iso_region": "EC-F",
       "municipality": "La Puntilla",
       "gps_code": "SELU",
-      "coordinates": "-2.443333, -79.399167"
+      "coordinates": "-2.443333, -79.399167",
+      "metar_available": false
     },
     {
       "ident": "SEAB",
@@ -1071,7 +1163,8 @@
       "iso_region": "EC-25",
       "municipality": "Mar Abierto",
       "gps_code": "SEAB",
-      "coordinates": "-2.156493, -80.773187"
+      "coordinates": "-2.156493, -80.773187",
+      "metar_available": false
     },
     {
       "ident": "SEAC",
@@ -1083,7 +1176,8 @@
       "iso_region": "EC-Y",
       "municipality": "Acado",
       "gps_code": "SEAC",
-      "coordinates": "-1.397507, -77.19885"
+      "coordinates": "-1.397507, -77.19885",
+      "metar_available": false
     },
     {
       "ident": "SEAD",
@@ -1095,7 +1189,8 @@
       "iso_region": "EC-S",
       "municipality": "Paandin",
       "gps_code": "SEAD",
-      "coordinates": "-2.137235, -77.677402"
+      "coordinates": "-2.137235, -77.677402",
+      "metar_available": false
     },
     {
       "ident": "SEAG",
@@ -1107,7 +1202,8 @@
       "iso_region": "EC-G",
       "municipality": "Durán",
       "gps_code": "SEAG",
-      "coordinates": "-2.164471, -79.847522"
+      "coordinates": "-2.164471, -79.847522",
+      "metar_available": false
     },
     {
       "ident": "SEAH",
@@ -1119,7 +1215,8 @@
       "iso_region": "EC-S",
       "municipality": "Achuentza",
       "gps_code": "SEAH",
-      "coordinates": "-2.833653, -77.761799"
+      "coordinates": "-2.833653, -77.761799",
+      "metar_available": false
     },
     {
       "ident": "SEAI",
@@ -1131,7 +1228,8 @@
       "iso_region": "EC-M",
       "municipality": "Manta",
       "gps_code": "SEAI",
-      "coordinates": "-0.948005, -80.750853"
+      "coordinates": "-0.948005, -80.750853",
+      "metar_available": false
     },
     {
       "ident": "SEAJ",
@@ -1143,7 +1241,8 @@
       "iso_region": "EC-R",
       "municipality": "Valencia",
       "gps_code": "SEAJ",
-      "coordinates": "-0.881361, -79.396645"
+      "coordinates": "-0.881361, -79.396645",
+      "metar_available": false
     },
     {
       "ident": "SEAL",
@@ -1155,7 +1254,8 @@
       "iso_region": "EC-G",
       "municipality": "Guayaquil",
       "gps_code": "SEAL",
-      "coordinates": "-2.288551, -80.019765"
+      "coordinates": "-2.288551, -80.019765",
+      "metar_available": false
     },
     {
       "ident": "SEAM",
@@ -1168,7 +1268,8 @@
       "municipality": "Ambato",
       "gps_code": "SEAM",
       "iata_code": "ATF",
-      "coordinates": "-1.21207, -78.5746"
+      "coordinates": "-1.21207, -78.5746",
+      "metar_available": false
     },
     {
       "ident": "SEAO",
@@ -1180,7 +1281,8 @@
       "iso_region": "EC-G",
       "municipality": "Samborondón",
       "gps_code": "SEAO",
-      "coordinates": "-2.453185, -80.066835"
+      "coordinates": "-2.453185, -80.066835",
+      "metar_available": false
     },
     {
       "ident": "SEAP",
@@ -1192,7 +1294,8 @@
       "iso_region": "EC-S",
       "municipality": "Sangay",
       "gps_code": "SEAP",
-      "coordinates": "-1.8576200008392334, -77.94139862060547"
+      "coordinates": "-1.8576200008392334, -77.94139862060547",
+      "metar_available": false
     },
     {
       "ident": "SEAQ",
@@ -1204,7 +1307,8 @@
       "iso_region": "EC-25",
       "municipality": "Engunga",
       "gps_code": "SEAQ",
-      "coordinates": "-2.496764, -80.552155"
+      "coordinates": "-2.496764, -80.552155",
+      "metar_available": false
     },
     {
       "ident": "SEAR",
@@ -1216,7 +1320,8 @@
       "iso_region": "EC-Y",
       "municipality": "Arajuno",
       "gps_code": "SEAR",
-      "coordinates": "-1.2357300519943237, -77.6854019165039"
+      "coordinates": "-1.2357300519943237, -77.6854019165039",
+      "metar_available": false
     },
     {
       "ident": "SEAU",
@@ -1228,7 +1333,8 @@
       "iso_region": "EC-S",
       "municipality": "Morona Santiago",
       "gps_code": "SEAU",
-      "coordinates": "-2.823807, -77.771768"
+      "coordinates": "-2.823807, -77.771768",
+      "metar_available": false
     },
     {
       "ident": "SEAV",
@@ -1240,7 +1346,8 @@
       "iso_region": "EC-O",
       "municipality": "Santa Rosa",
       "gps_code": "SEAV",
-      "coordinates": "-3.446531, -79.980131"
+      "coordinates": "-3.446531, -79.980131",
+      "metar_available": false
     },
     {
       "ident": "SEAY",
@@ -1252,7 +1359,8 @@
       "iso_region": "EC-25",
       "municipality": "Ayangue",
       "gps_code": "SEAY",
-      "coordinates": "-1.977683, -80.745158"
+      "coordinates": "-1.977683, -80.745158",
+      "metar_available": false
     },
     {
       "ident": "SEAZ",
@@ -1264,7 +1372,8 @@
       "iso_region": "EC-R",
       "municipality": "Valencia",
       "gps_code": "SEAZ",
-      "coordinates": "-0.873078, -79.327704"
+      "coordinates": "-0.873078, -79.327704",
+      "metar_available": false
     },
     {
       "ident": "SEBL",
@@ -1276,7 +1385,8 @@
       "iso_region": "EC-Y",
       "municipality": "Balzaura",
       "gps_code": "SEBL",
-      "coordinates": "-1.947116, -76.308024"
+      "coordinates": "-1.947116, -76.308024",
+      "metar_available": false
     },
     {
       "ident": "SEBM",
@@ -1288,7 +1398,8 @@
       "iso_region": "EC-G",
       "municipality": "Isla Puná",
       "gps_code": "SEBM",
-      "coordinates": "-2.828381, -80.020884"
+      "coordinates": "-2.828381, -80.020884",
+      "metar_available": false
     },
     {
       "ident": "SEBO",
@@ -1300,7 +1411,8 @@
       "iso_region": "EC-R",
       "municipality": "Ventanas",
       "gps_code": "SEBO",
-      "coordinates": "-1.423874, -79.396144"
+      "coordinates": "-1.423874, -79.396144",
+      "metar_available": false
     },
     {
       "ident": "SEBP",
@@ -1312,7 +1424,8 @@
       "iso_region": "EC-G",
       "municipality": "Mariscal Sucre",
       "gps_code": "SEBP",
-      "coordinates": "-2.103534, -79.469433"
+      "coordinates": "-2.103534, -79.469433",
+      "metar_available": false
     },
     {
       "ident": "SEBT",
@@ -1324,7 +1437,8 @@
       "iso_region": "EC-G",
       "municipality": "Samborondón",
       "gps_code": "SEBT",
-      "coordinates": "-2.094038, -79.880885"
+      "coordinates": "-2.094038, -79.880885",
+      "metar_available": false
     },
     {
       "ident": "SEBU",
@@ -1336,7 +1450,8 @@
       "iso_region": "EC-Y",
       "municipality": "Pastaza",
       "gps_code": "SEBU",
-      "coordinates": "-2.192174, -76.784617"
+      "coordinates": "-2.192174, -76.784617",
+      "metar_available": false
     },
     {
       "ident": "SEBW",
@@ -1348,7 +1463,8 @@
       "iso_region": "EC-D",
       "municipality": "Boanamo",
       "gps_code": "SEBW",
-      "coordinates": "-1.260964, -76.387219"
+      "coordinates": "-1.260964, -76.387219",
+      "metar_available": false
     },
     {
       "ident": "SEBX",
@@ -1360,7 +1476,8 @@
       "iso_region": "EC-G",
       "municipality": "El Recreo",
       "gps_code": "SEBX",
-      "coordinates": "-2.605359, -79.614612"
+      "coordinates": "-2.605359, -79.614612",
+      "metar_available": false
     },
     {
       "ident": "SEBZ",
@@ -1372,7 +1489,8 @@
       "iso_region": "EC-Z",
       "municipality": "Cumbaratza",
       "gps_code": "SEBZ",
-      "coordinates": "-4.018793, -78.887293"
+      "coordinates": "-4.018793, -78.887293",
+      "metar_available": false
     },
     {
       "ident": "SECC",
@@ -1384,7 +1502,8 @@
       "iso_region": "EC-26",
       "municipality": "La Concordia",
       "gps_code": "SECC",
-      "coordinates": "0.012807, -79.367843"
+      "coordinates": "0.012807, -79.367843",
+      "metar_available": false
     },
     {
       "ident": "SECD",
@@ -1396,7 +1515,8 @@
       "iso_region": "EC-G",
       "municipality": "Los Lojas",
       "gps_code": "SECD",
-      "coordinates": "-2.584669, -79.964156"
+      "coordinates": "-2.584669, -79.964156",
+      "metar_available": false
     },
     {
       "ident": "SECG",
@@ -1408,7 +1528,8 @@
       "iso_region": "EC-G",
       "municipality": "Chongón",
       "gps_code": "SECG",
-      "coordinates": "-2.230291, -80.054455"
+      "coordinates": "-2.230291, -80.054455",
+      "metar_available": false
     },
     {
       "ident": "SECH",
@@ -1420,7 +1541,8 @@
       "iso_region": "EC-M",
       "municipality": "Chone",
       "gps_code": "SECH",
-      "coordinates": "-0.6951010227203369, -80.0886001586914"
+      "coordinates": "-0.6951010227203369, -80.0886001586914",
+      "metar_available": false
     },
     {
       "ident": "SECI",
@@ -1432,7 +1554,8 @@
       "iso_region": "EC-G",
       "municipality": "Los Lojas",
       "gps_code": "SECI",
-      "coordinates": "-2.516987, -80.13594"
+      "coordinates": "-2.516987, -80.13594",
+      "metar_available": false
     },
     {
       "ident": "SECK",
@@ -1444,7 +1567,8 @@
       "iso_region": "EC-S",
       "municipality": "Morona Santiago",
       "gps_code": "SECK",
-      "coordinates": "-2.240933, -77.459008"
+      "coordinates": "-2.240933, -77.459008",
+      "metar_available": false
     },
     {
       "ident": "SECM",
@@ -1456,7 +1580,8 @@
       "iso_region": "EC-R",
       "municipality": "Pozuelos",
       "gps_code": "SECM",
-      "coordinates": "-1.7062699794769287, -79.37889862060547"
+      "coordinates": "-1.7062699794769287, -79.37889862060547",
+      "metar_available": false
     },
     {
       "ident": "SECO",
@@ -1469,7 +1594,8 @@
       "municipality": "Coca",
       "gps_code": "SECO",
       "iata_code": "OCC",
-      "coordinates": "-0.462886, -76.986801"
+      "coordinates": "-0.462886, -76.986801",
+      "metar_available": false
     },
     {
       "ident": "SECQ",
@@ -1481,7 +1607,8 @@
       "iso_region": "EC-M",
       "municipality": "Coaque",
       "gps_code": "SECQ",
-      "coordinates": "0.016175, -80.091923"
+      "coordinates": "0.016175, -80.091923",
+      "metar_available": false
     },
     {
       "ident": "SECR",
@@ -1493,7 +1620,8 @@
       "iso_region": "EC-Y",
       "municipality": "Curacay",
       "gps_code": "SECR",
-      "coordinates": "-1.384465, -76.938944"
+      "coordinates": "-1.384465, -76.938944",
+      "metar_available": false
     },
     {
       "ident": "SECU",
@@ -1506,7 +1634,8 @@
       "municipality": "Cuenca",
       "gps_code": "SECU",
       "iata_code": "CUE",
-      "coordinates": "-2.88947, -78.984398"
+      "coordinates": "-2.88947, -78.984398",
+      "metar_available": false
     },
     {
       "ident": "SECY",
@@ -1518,7 +1647,8 @@
       "iso_region": "EC-G",
       "municipality": "Camaguay",
       "gps_code": "SECY",
-      "coordinates": "-2.534167, -80.137167"
+      "coordinates": "-2.534167, -80.137167",
+      "metar_available": false
     },
     {
       "ident": "SECZ",
@@ -1530,7 +1660,8 @@
       "iso_region": "EC-G",
       "municipality": "Cerro Azul",
       "gps_code": "SECZ",
-      "coordinates": "-2.205134, -80.049993"
+      "coordinates": "-2.205134, -80.049993",
+      "metar_available": false
     },
     {
       "ident": "SEDA",
@@ -1542,7 +1673,8 @@
       "iso_region": "EC-G",
       "municipality": "El Consuelo",
       "gps_code": "SEDA",
-      "coordinates": "-2.361448, -80.162387"
+      "coordinates": "-2.361448, -80.162387",
+      "metar_available": false
     },
     {
       "ident": "SEDB",
@@ -1554,7 +1686,8 @@
       "iso_region": "EC-G",
       "municipality": "Guayas",
       "gps_code": "SEDB",
-      "coordinates": "-2.551863, -79.492396"
+      "coordinates": "-2.551863, -79.492396",
+      "metar_available": false
     },
     {
       "ident": "SEDF",
@@ -1566,7 +1699,8 @@
       "iso_region": "EC-G",
       "municipality": "El Morro",
       "gps_code": "SEDF",
-      "coordinates": "-2.58906, -80.291019"
+      "coordinates": "-2.58906, -80.291019",
+      "metar_available": false
     },
     {
       "ident": "SEDL",
@@ -1578,7 +1712,8 @@
       "iso_region": "EC-M",
       "municipality": "Manta",
       "gps_code": "SEDL",
-      "coordinates": "-0.929935, -80.664091"
+      "coordinates": "-0.929935, -80.664091",
+      "metar_available": false
     },
     {
       "ident": "SEDM",
@@ -1590,7 +1725,8 @@
       "iso_region": "EC-Y",
       "municipality": "Damointaro",
       "gps_code": "SEDM",
-      "coordinates": "-1.294722, -77.319722"
+      "coordinates": "-1.294722, -77.319722",
+      "metar_available": false
     },
     {
       "ident": "SEDO",
@@ -1602,7 +1738,8 @@
       "iso_region": "EC-G",
       "municipality": "Isla Puná",
       "gps_code": "SEDO",
-      "coordinates": "-2.698472, -80.061409"
+      "coordinates": "-2.698472, -80.061409",
+      "metar_available": false
     },
     {
       "ident": "SEDP",
@@ -1614,7 +1751,8 @@
       "iso_region": "EC-Y",
       "municipality": "Pukuan",
       "gps_code": "SEDP",
-      "coordinates": "-2.101027, -77.15742"
+      "coordinates": "-2.101027, -77.15742",
+      "metar_available": false
     },
     {
       "ident": "SEDS",
@@ -1626,7 +1764,8 @@
       "iso_region": "EC-G",
       "municipality": "Isla Puná",
       "gps_code": "SEDS",
-      "coordinates": "-2.723363, -80.13474"
+      "coordinates": "-2.723363, -80.13474",
+      "metar_available": false
     },
     {
       "ident": "SEED",
@@ -1638,7 +1777,8 @@
       "iso_region": "EC-D",
       "municipality": "San Eduardo",
       "gps_code": "SEED",
-      "coordinates": "-0.365597, -77.302946"
+      "coordinates": "-0.365597, -77.302946",
+      "metar_available": false
     },
     {
       "ident": "SEEF",
@@ -1650,7 +1790,8 @@
       "iso_region": "EC-M",
       "municipality": "Manta",
       "gps_code": "SEEF",
-      "coordinates": "-1.008925, -80.690226"
+      "coordinates": "-1.008925, -80.690226",
+      "metar_available": false
     },
     {
       "ident": "SEEH",
@@ -1662,7 +1803,8 @@
       "iso_region": "EC-R",
       "municipality": "Los Ríos",
       "gps_code": "SEEH",
-      "coordinates": "-1.832222, -79.449722"
+      "coordinates": "-1.832222, -79.449722",
+      "metar_available": false
     },
     {
       "ident": "SEEK",
@@ -1674,7 +1816,8 @@
       "iso_region": "EC-Y",
       "municipality": "Tekerika Suraka",
       "gps_code": "SEEK",
-      "coordinates": "-1.954569, -76.554826"
+      "coordinates": "-1.954569, -76.554826",
+      "metar_available": false
     },
     {
       "ident": "SEEM",
@@ -1686,7 +1829,8 @@
       "iso_region": "EC-P",
       "municipality": "Tumbaco",
       "gps_code": "SEEM",
-      "coordinates": "-0.222535, -78.377947"
+      "coordinates": "-0.222535, -78.377947",
+      "metar_available": false
     },
     {
       "ident": "SEEO",
@@ -1698,7 +1842,8 @@
       "iso_region": "EC-G",
       "municipality": "El Morro",
       "gps_code": "SEEO",
-      "coordinates": "-2.643455, -80.350049"
+      "coordinates": "-2.643455, -80.350049",
+      "metar_available": false
     },
     {
       "ident": "SEEP",
@@ -1710,7 +1855,8 @@
       "iso_region": "EC-F",
       "municipality": "San Pedro",
       "gps_code": "SEEP",
-      "coordinates": "-2.341612, -79.279642"
+      "coordinates": "-2.341612, -79.279642",
+      "metar_available": false
     },
     {
       "ident": "SEER",
@@ -1722,7 +1868,8 @@
       "iso_region": "EC-E",
       "municipality": "Esmeraldas",
       "gps_code": "SEER",
-      "coordinates": "1.221636, -78.868266"
+      "coordinates": "1.221636, -78.868266",
+      "metar_available": false
     },
     {
       "ident": "SEES",
@@ -1734,7 +1881,8 @@
       "iso_region": "EC-P",
       "municipality": "Quito",
       "gps_code": "SEES",
-      "coordinates": "-0.288714, -78.540891"
+      "coordinates": "-0.288714, -78.540891",
+      "metar_available": false
     },
     {
       "ident": "SEET",
@@ -1746,7 +1894,8 @@
       "iso_region": "EC-S",
       "municipality": "Etza",
       "gps_code": "SEET",
-      "coordinates": "-2.905964, -77.575509"
+      "coordinates": "-2.905964, -77.575509",
+      "metar_available": false
     },
     {
       "ident": "SEEU",
@@ -1758,7 +1907,8 @@
       "iso_region": "EC-S",
       "municipality": "Setuch",
       "gps_code": "SEEU",
-      "coordinates": "-2.794536, -77.281829"
+      "coordinates": "-2.794536, -77.281829",
+      "metar_available": false
     },
     {
       "ident": "SEEX",
@@ -1770,7 +1920,8 @@
       "iso_region": "EC-G",
       "municipality": "Chongón",
       "gps_code": "SEEX",
-      "coordinates": "-2.515499, -80.221437"
+      "coordinates": "-2.515499, -80.221437",
+      "metar_available": false
     },
     {
       "ident": "SEEZ",
@@ -1782,7 +1933,8 @@
       "iso_region": "EC-S",
       "municipality": "Shiramentza",
       "gps_code": "SEEZ",
-      "coordinates": "-2.750557, -77.556644"
+      "coordinates": "-2.750557, -77.556644",
+      "metar_available": false
     },
     {
       "ident": "SEFM",
@@ -1794,7 +1946,8 @@
       "iso_region": "EC-S",
       "municipality": "San Francisco de Macuma",
       "gps_code": "SEFM",
-      "coordinates": "-2.060004, -77.608323"
+      "coordinates": "-2.060004, -77.608323",
+      "metar_available": false
     },
     {
       "ident": "SEFR",
@@ -1806,7 +1959,8 @@
       "iso_region": "EC-G",
       "municipality": "Daule",
       "gps_code": "SEFR",
-      "coordinates": "-1.869181, -80.011529"
+      "coordinates": "-1.869181, -80.011529",
+      "metar_available": false
     },
     {
       "ident": "SEFU",
@@ -1818,7 +1972,8 @@
       "iso_region": "EC-G",
       "municipality": "Las Mercedes",
       "gps_code": "SEFU",
-      "coordinates": "-2.563699, -79.54552"
+      "coordinates": "-2.563699, -79.54552",
+      "metar_available": false
     },
     {
       "ident": "SEGE",
@@ -1830,7 +1985,8 @@
       "iso_region": "EC-M",
       "municipality": "Guale",
       "gps_code": "SEGE",
-      "coordinates": "-1.61667001247406, -80.2332992553711"
+      "coordinates": "-1.61667001247406, -80.2332992553711",
+      "metar_available": false
     },
     {
       "ident": "SEGH",
@@ -1842,7 +1998,8 @@
       "iso_region": "EC-G",
       "municipality": "Balzar",
       "gps_code": "SEGH",
-      "coordinates": "-1.274146, -79.932926"
+      "coordinates": "-1.274146, -79.932926",
+      "metar_available": false
     },
     {
       "ident": "SEGL",
@@ -1854,7 +2011,8 @@
       "iso_region": "EC-R",
       "municipality": "Guarumal",
       "gps_code": "SEGL",
-      "coordinates": "-1.860214, -79.642868"
+      "coordinates": "-1.860214, -79.642868",
+      "metar_available": false
     },
     {
       "ident": "SEGN",
@@ -1866,7 +2024,8 @@
       "iso_region": "EC-Y",
       "municipality": "Tanguntza",
       "gps_code": "SEGN",
-      "coordinates": "-2.037239, -76.473366"
+      "coordinates": "-2.037239, -76.473366",
+      "metar_available": false
     },
     {
       "ident": "SEGO",
@@ -1878,7 +2037,8 @@
       "iso_region": "EC-G",
       "municipality": "Naranjal",
       "gps_code": "SEGO",
-      "coordinates": "-2.770718, -79.767049"
+      "coordinates": "-2.770718, -79.767049",
+      "metar_available": false
     },
     {
       "ident": "SEGQ",
@@ -1890,7 +2050,8 @@
       "iso_region": "EC-G",
       "municipality": "Guayaquil",
       "gps_code": "SEGQ",
-      "coordinates": "-2.185295, -79.880227"
+      "coordinates": "-2.185295, -79.880227",
+      "metar_available": false
     },
     {
       "ident": "SEGR",
@@ -1902,7 +2063,8 @@
       "iso_region": "EC-Y",
       "municipality": "Guaraní",
       "gps_code": "SEGR",
-      "coordinates": "-2.235544, -77.240177"
+      "coordinates": "-2.235544, -77.240177",
+      "metar_available": false
     },
     {
       "ident": "SEGS",
@@ -1915,7 +2077,8 @@
       "municipality": "Isla Baltra",
       "gps_code": "SEGS",
       "iata_code": "GPS",
-      "coordinates": "-0.453758, -90.2659"
+      "coordinates": "-0.453758, -90.2659",
+      "metar_available": false
     },
     {
       "ident": "SEGT",
@@ -1927,7 +2090,8 @@
       "iso_region": "EC-Y",
       "municipality": "Tarangaro",
       "gps_code": "SEGT",
-      "coordinates": "-1.400583, -77.383055"
+      "coordinates": "-1.400583, -77.383055",
+      "metar_available": false
     },
     {
       "ident": "SEGU",
@@ -1940,7 +2104,8 @@
       "municipality": "Guayaquil",
       "gps_code": "SEGU",
       "iata_code": "GYE",
-      "coordinates": "-2.15742, -79.883598"
+      "coordinates": "-2.15742, -79.883598",
+      "metar_available": false
     },
     {
       "ident": "SEGX",
@@ -1952,7 +2117,8 @@
       "iso_region": "EC-G",
       "municipality": "Guayas",
       "gps_code": "SEGX",
-      "coordinates": "-2.087116, -79.688834"
+      "coordinates": "-2.087116, -79.688834",
+      "metar_available": false
     },
     {
       "ident": "SEGZ",
@@ -1964,7 +2130,8 @@
       "iso_region": "EC-S",
       "municipality": "Santiago",
       "gps_code": "SEGZ",
-      "coordinates": "-3.42321, -78.567001"
+      "coordinates": "-3.42321, -78.567001",
+      "metar_available": false
     },
     {
       "ident": "SEHB",
@@ -1976,7 +2143,8 @@
       "iso_region": "EC-P",
       "municipality": "Chumbi",
       "gps_code": "SEHB",
-      "coordinates": "-2.09847, -77.477692"
+      "coordinates": "-2.09847, -77.477692",
+      "metar_available": false
     },
     {
       "ident": "SEHE",
@@ -1988,7 +2156,8 @@
       "iso_region": "EC-Y",
       "municipality": "Mashient",
       "gps_code": "SEHE",
-      "coordinates": "-2.159177, -77.322834"
+      "coordinates": "-2.159177, -77.322834",
+      "metar_available": false
     },
     {
       "ident": "SEHF",
@@ -2000,7 +2169,8 @@
       "iso_region": "EC-M",
       "municipality": "Manta",
       "gps_code": "SEHF",
-      "coordinates": "-0.973032, -80.651808"
+      "coordinates": "-0.973032, -80.651808",
+      "metar_available": false
     },
     {
       "ident": "SEHN",
@@ -2012,7 +2182,8 @@
       "iso_region": "EC-S",
       "municipality": "Mashuin",
       "gps_code": "SEHN",
-      "coordinates": "-2.616113, -76.916497"
+      "coordinates": "-2.616113, -76.916497",
+      "metar_available": false
     },
     {
       "ident": "SEHR",
@@ -2024,7 +2195,8 @@
       "iso_region": "EC-Y",
       "municipality": "Masurash",
       "gps_code": "SEHR",
-      "coordinates": "-2.205549, -77.265694"
+      "coordinates": "-2.205549, -77.265694",
+      "metar_available": false
     },
     {
       "ident": "SEHS",
@@ -2036,7 +2208,8 @@
       "iso_region": "EC-S",
       "municipality": "Kashaints",
       "gps_code": "SEHS",
-      "coordinates": "-2.698513, -77.536647"
+      "coordinates": "-2.698513, -77.536647",
+      "metar_available": false
     },
     {
       "ident": "SEHU",
@@ -2048,7 +2221,8 @@
       "iso_region": "EC-Y",
       "municipality": "Chuindia",
       "gps_code": "SEHU",
-      "coordinates": "-2.014083, -76.681475"
+      "coordinates": "-2.014083, -76.681475",
+      "metar_available": false
     },
     {
       "ident": "SEHV",
@@ -2060,7 +2234,8 @@
       "iso_region": "EC-G",
       "municipality": "Progreso",
       "gps_code": "SEHV",
-      "coordinates": "-2.33171, -80.20473"
+      "coordinates": "-2.33171, -80.20473",
+      "metar_available": false
     },
     {
       "ident": "SEHW",
@@ -2072,7 +2247,8 @@
       "iso_region": "EC-S",
       "municipality": "Shuwin Mamus",
       "gps_code": "SEHW",
-      "coordinates": "-2.465768, -77.039586"
+      "coordinates": "-2.465768, -77.039586",
+      "metar_available": false
     },
     {
       "ident": "SEHZ",
@@ -2084,7 +2260,8 @@
       "iso_region": "EC-S",
       "municipality": "Mashientenza",
       "gps_code": "SEHZ",
-      "coordinates": "-2.363793, -77.406923"
+      "coordinates": "-2.363793, -77.406923",
+      "metar_available": false
     },
     {
       "ident": "SEIA",
@@ -2096,7 +2273,8 @@
       "iso_region": "EC-G",
       "municipality": "Balao",
       "gps_code": "SEIA",
-      "coordinates": "-2.898919, -79.812775"
+      "coordinates": "-2.898919, -79.812775",
+      "metar_available": false
     },
     {
       "ident": "SEID",
@@ -2108,7 +2286,8 @@
       "iso_region": "EC-S",
       "municipality": "Ishpingo de Amuntay",
       "gps_code": "SEID",
-      "coordinates": "-2.566312, -76.756598"
+      "coordinates": "-2.566312, -76.756598",
+      "metar_available": false
     },
     {
       "ident": "SEIE",
@@ -2120,7 +2299,8 @@
       "iso_region": "EC-S",
       "municipality": "Morona Santiago",
       "gps_code": "SEIE",
-      "coordinates": "-2.162952, -77.484895"
+      "coordinates": "-2.162952, -77.484895",
+      "metar_available": false
     },
     {
       "ident": "SEIF",
@@ -2132,7 +2312,8 @@
       "iso_region": "EC-S",
       "municipality": "Sasain",
       "gps_code": "SEIF",
-      "coordinates": "-2.261075, -77.33273"
+      "coordinates": "-2.261075, -77.33273",
+      "metar_available": false
     },
     {
       "ident": "SEIG",
@@ -2144,7 +2325,8 @@
       "iso_region": "EC-S",
       "municipality": "Santiago",
       "gps_code": "SEIG",
-      "coordinates": "-3.049372, -78.010229"
+      "coordinates": "-3.049372, -78.010229",
+      "metar_available": false
     },
     {
       "ident": "SEIH",
@@ -2156,7 +2338,8 @@
       "iso_region": "EC-S",
       "municipality": "Ishpink",
       "gps_code": "SEIH",
-      "coordinates": "-2.316061, -77.410011"
+      "coordinates": "-2.316061, -77.410011",
+      "metar_available": false
     },
     {
       "ident": "SEII",
@@ -2169,7 +2352,8 @@
       "municipality": "Puerto Villamil",
       "gps_code": "SEII",
       "iata_code": "IBB",
-      "coordinates": "-0.942628, -90.953003"
+      "coordinates": "-0.942628, -90.953003",
+      "metar_available": false
     },
     {
       "ident": "SEIM",
@@ -2181,7 +2365,8 @@
       "iso_region": "EC-G",
       "municipality": "Naranjito",
       "gps_code": "SEIM",
-      "coordinates": "-2.104494, -79.381905"
+      "coordinates": "-2.104494, -79.381905",
+      "metar_available": false
     },
     {
       "ident": "SEIP",
@@ -2193,7 +2378,8 @@
       "iso_region": "EC-S",
       "municipality": "Ipiak",
       "gps_code": "SEIP",
-      "coordinates": "-2.467547, -77.145839"
+      "coordinates": "-2.467547, -77.145839",
+      "metar_available": false
     },
     {
       "ident": "SEIR",
@@ -2205,7 +2391,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kapirna",
       "gps_code": "SEIR",
-      "coordinates": "-2.219802, -76.814087"
+      "coordinates": "-2.219802, -76.814087",
+      "metar_available": false
     },
     {
       "ident": "SEIS",
@@ -2217,7 +2404,8 @@
       "iso_region": "EC-G",
       "municipality": "América",
       "gps_code": "SEIS",
-      "coordinates": "-1.86667001247406, -79.7332992553711"
+      "coordinates": "-1.86667001247406, -79.7332992553711",
+      "metar_available": false
     },
     {
       "ident": "SEIT",
@@ -2229,7 +2417,8 @@
       "iso_region": "EC-S",
       "municipality": "Kapitian",
       "gps_code": "SEIT",
-      "coordinates": "-2.726732, -77.537105"
+      "coordinates": "-2.726732, -77.537105",
+      "metar_available": false
     },
     {
       "ident": "SEIU",
@@ -2241,7 +2430,8 @@
       "iso_region": "EC-S",
       "municipality": "Pitiur",
       "gps_code": "SEIU",
-      "coordinates": "-2.251998, -77.401788"
+      "coordinates": "-2.251998, -77.401788",
+      "metar_available": false
     },
     {
       "ident": "SEIV",
@@ -2253,7 +2443,8 @@
       "iso_region": "EC-G",
       "municipality": "Milagro",
       "gps_code": "SEIV",
-      "coordinates": "-2.111175, -79.599184"
+      "coordinates": "-2.111175, -79.599184",
+      "metar_available": false
     },
     {
       "ident": "SEIW",
@@ -2265,7 +2456,8 @@
       "iso_region": "EC-Y",
       "municipality": "Iwia",
       "gps_code": "SEIW",
-      "coordinates": "-2.071725, -77.523399"
+      "coordinates": "-2.071725, -77.523399",
+      "metar_available": false
     },
     {
       "ident": "SEIX",
@@ -2277,7 +2469,8 @@
       "iso_region": "EC-S",
       "municipality": "Pimpintza",
       "gps_code": "SEIX",
-      "coordinates": "-2.275, -77.469444"
+      "coordinates": "-2.275, -77.469444",
+      "metar_available": false
     },
     {
       "ident": "SEIY",
@@ -2289,7 +2482,8 @@
       "iso_region": "EC-S",
       "municipality": "Iñaywa Sur",
       "gps_code": "SEIY",
-      "coordinates": "-2.748776, -77.443761"
+      "coordinates": "-2.748776, -77.443761",
+      "metar_available": false
     },
     {
       "ident": "SEIZ",
@@ -2301,7 +2495,8 @@
       "iso_region": "EC-F",
       "municipality": "La Troncal",
       "gps_code": "SEIZ",
-      "coordinates": "-2.442218, -79.35504"
+      "coordinates": "-2.442218, -79.35504",
+      "metar_available": false
     },
     {
       "ident": "SEJA",
@@ -2313,7 +2508,8 @@
       "iso_region": "EC-Y",
       "municipality": "Jandiyacu",
       "gps_code": "SEJA",
-      "coordinates": "-1.730931, -77.109686"
+      "coordinates": "-1.730931, -77.109686",
+      "metar_available": false
     },
     {
       "ident": "SEJD",
@@ -2326,7 +2522,8 @@
       "municipality": "Ahuano",
       "gps_code": "SEJD",
       "iata_code": "TNW",
-      "coordinates": "-1.060185, -77.580525"
+      "coordinates": "-1.060185, -77.580525",
+      "metar_available": false
     },
     {
       "ident": "SEJE",
@@ -2338,7 +2535,8 @@
       "iso_region": "EC-S",
       "municipality": "Jempentza",
       "gps_code": "SEJE",
-      "coordinates": "-2.744252, -77.487304"
+      "coordinates": "-2.744252, -77.487304",
+      "metar_available": false
     },
     {
       "ident": "SEJG",
@@ -2350,7 +2548,8 @@
       "iso_region": "EC-G",
       "municipality": "Yaguachi",
       "gps_code": "SEJG",
-      "coordinates": "-2.084547, -79.672864"
+      "coordinates": "-2.084547, -79.672864",
+      "metar_available": false
     },
     {
       "ident": "SEJI",
@@ -2363,7 +2562,8 @@
       "municipality": "Jipijapa",
       "gps_code": "SEJI",
       "iata_code": "JIP",
-      "coordinates": "-1, -80.66666412353516"
+      "coordinates": "-1, -80.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "SEJK",
@@ -2375,7 +2575,8 @@
       "iso_region": "EC-S",
       "municipality": "Juyukam Entsa",
       "gps_code": "SEJK",
-      "coordinates": "-2.721043, -77.240896"
+      "coordinates": "-2.721043, -77.240896",
+      "metar_available": false
     },
     {
       "ident": "SEJM",
@@ -2387,7 +2588,8 @@
       "iso_region": "EC-M",
       "municipality": "Jama",
       "gps_code": "SEJM",
-      "coordinates": "-0.20149700343608856, -80.2654037475586"
+      "coordinates": "-0.20149700343608856, -80.2654037475586",
+      "metar_available": false
     },
     {
       "ident": "SEJS",
@@ -2399,7 +2601,8 @@
       "iso_region": "EC-D",
       "municipality": "Joya de Los Sachas",
       "gps_code": "SEJS",
-      "coordinates": "-0.328361, -76.879399"
+      "coordinates": "-0.328361, -76.879399",
+      "metar_available": false
     },
     {
       "ident": "SEJT",
@@ -2411,7 +2614,8 @@
       "iso_region": "EC-S",
       "municipality": "Taisha",
       "gps_code": "SEJT",
-      "coordinates": "-2.389295, -77.509117"
+      "coordinates": "-2.389295, -77.509117",
+      "metar_available": false
     },
     {
       "ident": "SEJU",
@@ -2423,7 +2627,8 @@
       "iso_region": "EC-S",
       "municipality": "San Juan",
       "gps_code": "SEJU",
-      "coordinates": "-2.105596, -77.519023"
+      "coordinates": "-2.105596, -77.519023",
+      "metar_available": false
     },
     {
       "ident": "SEJY",
@@ -2435,7 +2640,8 @@
       "iso_region": "EC-Y",
       "municipality": "Juyuintsa",
       "gps_code": "SEJY",
-      "coordinates": "-2.116691, -76.20208"
+      "coordinates": "-2.116691, -76.20208",
+      "metar_available": false
     },
     {
       "ident": "SEJZ",
@@ -2447,7 +2653,8 @@
       "iso_region": "EC-S",
       "municipality": "Jimiarentsa",
       "gps_code": "SEJZ",
-      "coordinates": "-2.51669, -77.432241"
+      "coordinates": "-2.51669, -77.432241",
+      "metar_available": false
     },
     {
       "ident": "SEKA",
@@ -2459,7 +2666,8 @@
       "iso_region": "EC-S",
       "municipality": "Kaank Chico",
       "gps_code": "SEKA",
-      "coordinates": "-2.873817, -77.868204"
+      "coordinates": "-2.873817, -77.868204",
+      "metar_available": false
     },
     {
       "ident": "SEKB",
@@ -2471,7 +2679,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kusutkau",
       "gps_code": "SEKB",
-      "coordinates": "-2.515333, -76.896588"
+      "coordinates": "-2.515333, -76.896588",
+      "metar_available": false
     },
     {
       "ident": "SEKC",
@@ -2483,7 +2692,8 @@
       "iso_region": "EC-S",
       "municipality": "Kaiptach",
       "gps_code": "SEKC",
-      "coordinates": "-2.639283, -77.127571"
+      "coordinates": "-2.639283, -77.127571",
+      "metar_available": false
     },
     {
       "ident": "SEKE",
@@ -2495,7 +2705,8 @@
       "iso_region": "EC-S",
       "municipality": "Morona",
       "gps_code": "SEKE",
-      "coordinates": "-2.23362, -77.735664"
+      "coordinates": "-2.23362, -77.735664",
+      "metar_available": false
     },
     {
       "ident": "SEKF",
@@ -2507,7 +2718,8 @@
       "iso_region": "EC-S",
       "municipality": "Huasaga",
       "gps_code": "SEKF",
-      "coordinates": "-2.607173, -76.934738"
+      "coordinates": "-2.607173, -76.934738",
+      "metar_available": false
     },
     {
       "ident": "SEKH",
@@ -2519,7 +2731,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kuakash",
       "gps_code": "SEKH",
-      "coordinates": "-2.033081, -77.670886"
+      "coordinates": "-2.033081, -77.670886",
+      "metar_available": false
     },
     {
       "ident": "SEKK",
@@ -2531,7 +2744,8 @@
       "iso_region": "EC-E",
       "municipality": "Vía Quinindé-La Concordia",
       "gps_code": "SEKK",
-      "coordinates": "0.18465, -79.391181"
+      "coordinates": "0.18465, -79.391181",
+      "metar_available": false
     },
     {
       "ident": "SEKL",
@@ -2543,7 +2757,8 @@
       "iso_region": "EC-26",
       "municipality": "La Concordia",
       "gps_code": "SEKL",
-      "coordinates": "-0.03085, -79.366315"
+      "coordinates": "-0.03085, -79.366315",
+      "metar_available": false
     },
     {
       "ident": "SEKN",
@@ -2555,7 +2770,8 @@
       "iso_region": "EC-S",
       "municipality": "Taisha",
       "gps_code": "SEKN",
-      "coordinates": "-2.710571, -77.505235"
+      "coordinates": "-2.710571, -77.505235",
+      "metar_available": false
     },
     {
       "ident": "SEKP",
@@ -2567,7 +2783,8 @@
       "iso_region": "EC-S",
       "municipality": "Kapatinentza",
       "gps_code": "SEKP",
-      "coordinates": "-2.681793, -77.477093"
+      "coordinates": "-2.681793, -77.477093",
+      "metar_available": false
     },
     {
       "ident": "SEKQ",
@@ -2579,7 +2796,8 @@
       "iso_region": "EC-S",
       "municipality": "Kikints",
       "gps_code": "SEKQ",
-      "coordinates": "-2.301939, -77.357591"
+      "coordinates": "-2.301939, -77.357591",
+      "metar_available": false
     },
     {
       "ident": "SEKS",
@@ -2591,7 +2809,8 @@
       "iso_region": "EC-S",
       "municipality": "Vargas Guerra",
       "gps_code": "SEKS",
-      "coordinates": "-2.828304, -77.71069"
+      "coordinates": "-2.828304, -77.71069",
+      "metar_available": false
     },
     {
       "ident": "SEKT",
@@ -2603,7 +2822,8 @@
       "iso_region": "EC-S",
       "municipality": "Ayuy",
       "gps_code": "SEKT",
-      "coordinates": "-2.096276, -77.641338"
+      "coordinates": "-2.096276, -77.641338",
+      "metar_available": false
     },
     {
       "ident": "SEKU",
@@ -2615,7 +2835,8 @@
       "iso_region": "EC-S",
       "municipality": "Pedro",
       "gps_code": "SEKU",
-      "coordinates": "-2.644734, -77.223029"
+      "coordinates": "-2.644734, -77.223029",
+      "metar_available": false
     },
     {
       "ident": "SEKV",
@@ -2627,7 +2848,8 @@
       "iso_region": "EC-S",
       "municipality": "Iniayu",
       "gps_code": "SEKV",
-      "coordinates": "-2.695432, -77.379026"
+      "coordinates": "-2.695432, -77.379026",
+      "metar_available": false
     },
     {
       "ident": "SEKW",
@@ -2639,7 +2861,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kapawi",
       "gps_code": "SEKW",
-      "coordinates": "-2.534276, -76.84217"
+      "coordinates": "-2.534276, -76.84217",
+      "metar_available": false
     },
     {
       "ident": "SEKX",
@@ -2651,7 +2874,8 @@
       "iso_region": "EC-S",
       "municipality": "Chimbucta",
       "gps_code": "SEKX",
-      "coordinates": "-2.462189, -77.459466"
+      "coordinates": "-2.462189, -77.459466",
+      "metar_available": false
     },
     {
       "ident": "SEKY",
@@ -2663,7 +2887,8 @@
       "iso_region": "EC-S",
       "municipality": "Capadino Entza",
       "gps_code": "SEKY",
-      "coordinates": "-2.005646, -77.73578"
+      "coordinates": "-2.005646, -77.73578",
+      "metar_available": false
     },
     {
       "ident": "SEKZ",
@@ -2675,7 +2900,8 @@
       "iso_region": "EC-S",
       "municipality": "Kayantza",
       "gps_code": "SEKZ",
-      "coordinates": "-2.174349, -77.368609"
+      "coordinates": "-2.174349, -77.368609",
+      "metar_available": false
     },
     {
       "ident": "SELD",
@@ -2687,7 +2913,8 @@
       "iso_region": "EC-G",
       "municipality": "Chongón",
       "gps_code": "SELD",
-      "coordinates": "-2.2078, -80.083339"
+      "coordinates": "-2.2078, -80.083339",
+      "metar_available": false
     },
     {
       "ident": "SELI",
@@ -2699,7 +2926,8 @@
       "iso_region": "EC-U",
       "municipality": "Limoncocha",
       "gps_code": "SELI",
-      "coordinates": "-0.40636301040649414, -76.6238021850586"
+      "coordinates": "-0.40636301040649414, -76.6238021850586",
+      "metar_available": false
     },
     {
       "ident": "SELJ",
@@ -2711,7 +2939,8 @@
       "iso_region": "EC-R",
       "municipality": "Julia",
       "gps_code": "SELJ",
-      "coordinates": "-1.70438, -79.552299"
+      "coordinates": "-1.70438, -79.552299",
+      "metar_available": false
     },
     {
       "ident": "SELK",
@@ -2723,7 +2952,8 @@
       "iso_region": "EC-S",
       "municipality": "Panientza",
       "gps_code": "SELK",
-      "coordinates": "-2.802859, -77.569399"
+      "coordinates": "-2.802859, -77.569399",
+      "metar_available": false
     },
     {
       "ident": "SELL",
@@ -2735,7 +2965,8 @@
       "iso_region": "EC-R",
       "municipality": "Babahoyo",
       "gps_code": "SELL",
-      "coordinates": "-1.718359, -79.591112"
+      "coordinates": "-1.718359, -79.591112",
+      "metar_available": false
     },
     {
       "ident": "SELM",
@@ -2747,7 +2978,8 @@
       "iso_region": "EC-R",
       "municipality": "Loma Larga",
       "gps_code": "SELM",
-      "coordinates": "-1.501579999923706, -79.48090362548828"
+      "coordinates": "-1.501579999923706, -79.48090362548828",
+      "metar_available": false
     },
     {
       "ident": "SELN",
@@ -2759,7 +2991,8 @@
       "iso_region": "EC-26",
       "municipality": "Santo Domingo de los Tsáchilas",
       "gps_code": "SELN",
-      "coordinates": "-0.241944, -79.3125"
+      "coordinates": "-0.241944, -79.3125",
+      "metar_available": false
     },
     {
       "ident": "SELT",
@@ -2772,7 +3005,8 @@
       "municipality": "Latacunga",
       "gps_code": "SELT",
       "iata_code": "LTX",
-      "coordinates": "-0.906833, -78.615799"
+      "coordinates": "-0.906833, -78.615799",
+      "metar_available": false
     },
     {
       "ident": "SELV",
@@ -2784,7 +3018,8 @@
       "iso_region": "EC-R",
       "municipality": "Zapotal",
       "gps_code": "SELV",
-      "coordinates": "-1.225142, -79.50581"
+      "coordinates": "-1.225142, -79.50581",
+      "metar_available": false
     },
     {
       "ident": "SEMA",
@@ -2797,7 +3032,8 @@
       "municipality": "Macará",
       "gps_code": "SEMA",
       "iata_code": "MRR",
-      "coordinates": "-4.37823009491, -79.94100189210002"
+      "coordinates": "-4.37823009491, -79.94100189210002",
+      "metar_available": false
     },
     {
       "ident": "SEMC",
@@ -2810,7 +3046,8 @@
       "municipality": "Macas",
       "gps_code": "SEMC",
       "iata_code": "XMS",
-      "coordinates": "-2.2991700172424316, -78.12079620361328"
+      "coordinates": "-2.2991700172424316, -78.12079620361328",
+      "metar_available": false
     },
     {
       "ident": "SEML",
@@ -2821,7 +3058,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "gps_code": "SEML",
-      "coordinates": "-1.844848, -80.73696"
+      "coordinates": "-1.844848, -80.73696",
+      "metar_available": false
     },
     {
       "ident": "SEMO",
@@ -2833,7 +3071,8 @@
       "iso_region": "EC-Y",
       "municipality": "Montalvo",
       "gps_code": "SEMO",
-      "coordinates": "-2.06701, -76.9757"
+      "coordinates": "-2.06701, -76.9757",
+      "metar_available": false
     },
     {
       "ident": "SEMT",
@@ -2846,7 +3085,8 @@
       "municipality": "Manta",
       "gps_code": "SEMT",
       "iata_code": "MEC",
-      "coordinates": "-0.9460780024528503, -80.67880249023438"
+      "coordinates": "-0.9460780024528503, -80.67880249023438",
+      "metar_available": false
     },
     {
       "ident": "SEMX",
@@ -2858,7 +3098,8 @@
       "iso_region": "EC-G",
       "municipality": "Puerto Balao",
       "gps_code": "SEMX",
-      "coordinates": "-2.8511, -79.803596"
+      "coordinates": "-2.8511, -79.803596",
+      "metar_available": false
     },
     {
       "ident": "SEMY",
@@ -2870,7 +3111,8 @@
       "iso_region": "EC-R",
       "municipality": "Martinica",
       "gps_code": "SEMY",
-      "coordinates": "-1.7397199869155884, -79.62149810791016"
+      "coordinates": "-1.7397199869155884, -79.62149810791016",
+      "metar_available": false
     },
     {
       "ident": "SENB",
@@ -2882,7 +3124,8 @@
       "iso_region": "EC-S",
       "municipality": "Canusa",
       "gps_code": "SENB",
-      "coordinates": "-2.407136, -77.740141"
+      "coordinates": "-2.407136, -77.740141",
+      "metar_available": false
     },
     {
       "ident": "SEND",
@@ -2894,7 +3137,8 @@
       "iso_region": "EC-Y",
       "municipality": "Nemonpade",
       "gps_code": "SEND",
-      "coordinates": "-1.236018, -77.25913"
+      "coordinates": "-1.236018, -77.25913",
+      "metar_available": false
     },
     {
       "ident": "SENE",
@@ -2906,7 +3150,8 @@
       "iso_region": "EC-Y",
       "municipality": "Nuevo Corrientes",
       "gps_code": "SENE",
-      "coordinates": "-1.997976, -76.764307"
+      "coordinates": "-1.997976, -76.764307",
+      "metar_available": false
     },
     {
       "ident": "SENF",
@@ -2918,7 +3163,8 @@
       "iso_region": "EC-S",
       "municipality": "Napurak",
       "gps_code": "SENF",
-      "coordinates": "-2.52258, -76.990489"
+      "coordinates": "-2.52258, -76.990489",
+      "metar_available": false
     },
     {
       "ident": "SENL",
@@ -2931,7 +3177,8 @@
       "municipality": "Lago Agrio",
       "gps_code": "SENL",
       "iata_code": "LGQ",
-      "coordinates": "0.0930560007691, -76.86750030520001"
+      "coordinates": "0.0930560007691, -76.86750030520001",
+      "metar_available": false
     },
     {
       "ident": "SEOC",
@@ -2943,7 +3190,8 @@
       "iso_region": "EC-Y",
       "municipality": "Alto Corrientes",
       "gps_code": "SEOC",
-      "coordinates": "-1.910051, -76.9596"
+      "coordinates": "-1.910051, -76.9596",
+      "metar_available": false
     },
     {
       "ident": "SEOI",
@@ -2955,7 +3203,8 @@
       "iso_region": "EC-G",
       "municipality": "Golfo de Guayaquil",
       "gps_code": "SEOI",
-      "coordinates": "-2.436371, -79.83377"
+      "coordinates": "-2.436371, -79.83377",
+      "metar_available": false
     },
     {
       "ident": "SEOM",
@@ -2967,7 +3216,8 @@
       "iso_region": "EC-G",
       "municipality": "Progreso",
       "gps_code": "SEOM",
-      "coordinates": "-2.463834, -80.13694"
+      "coordinates": "-2.463834, -80.13694",
+      "metar_available": false
     },
     {
       "ident": "SEON",
@@ -2979,7 +3229,8 @@
       "iso_region": "EC-Y",
       "municipality": "Conambo",
       "gps_code": "SEON",
-      "coordinates": "-1.871397, -76.877802"
+      "coordinates": "-1.871397, -76.877802",
+      "metar_available": false
     },
     {
       "ident": "SEOS",
@@ -2991,7 +3242,8 @@
       "iso_region": "EC-G",
       "municipality": "Durán",
       "gps_code": "SEOS",
-      "coordinates": "-2.186138, -79.859172"
+      "coordinates": "-2.186138, -79.859172",
+      "metar_available": false
     },
     {
       "ident": "SEOU",
@@ -3003,7 +3255,8 @@
       "iso_region": "EC-P",
       "municipality": "Pedro Vicente Maldonado",
       "gps_code": "SEOU",
-      "coordinates": "-0.076808, -79.134895"
+      "coordinates": "-0.076808, -79.134895",
+      "metar_available": false
     },
     {
       "ident": "SEOY",
@@ -3015,7 +3268,8 @@
       "iso_region": "EC-R",
       "municipality": "Valencia",
       "gps_code": "SEOY",
-      "coordinates": "-0.841075, -79.288232"
+      "coordinates": "-0.841075, -79.288232",
+      "metar_available": false
     },
     {
       "ident": "SEPA",
@@ -3027,7 +3281,8 @@
       "iso_region": "EC-S",
       "municipality": "Morona Santiago",
       "gps_code": "SEPA",
-      "coordinates": "-2.247454, -77.712845"
+      "coordinates": "-2.247454, -77.712845",
+      "metar_available": false
     },
     {
       "ident": "SEPB",
@@ -3039,7 +3294,8 @@
       "iso_region": "EC-G",
       "municipality": "Pecro Carbo",
       "gps_code": "SEPB",
-      "coordinates": "-1.8115930557250977, -80.23246002197266"
+      "coordinates": "-1.8115930557250977, -80.23246002197266",
+      "metar_available": false
     },
     {
       "ident": "SEPC",
@@ -3051,7 +3307,8 @@
       "iso_region": "EC-S",
       "municipality": "Patuca",
       "gps_code": "SEPC",
-      "coordinates": "-2.75172, -78.263603"
+      "coordinates": "-2.75172, -78.263603",
+      "metar_available": false
     },
     {
       "ident": "SEPD",
@@ -3063,7 +3320,8 @@
       "iso_region": "EC-M",
       "municipality": "Pedernales",
       "gps_code": "SEPD",
-      "coordinates": "0.06761900335550308, -80.05049896240234"
+      "coordinates": "0.06761900335550308, -80.05049896240234",
+      "metar_available": false
     },
     {
       "ident": "SEPE",
@@ -3075,7 +3333,8 @@
       "iso_region": "EC-G",
       "municipality": "Naranjal",
       "gps_code": "SEPE",
-      "coordinates": "-2.658895, -79.618793"
+      "coordinates": "-2.658895, -79.618793",
+      "metar_available": false
     },
     {
       "ident": "SEPI",
@@ -3087,7 +3346,8 @@
       "iso_region": "EC-Y",
       "municipality": "Pindoyacu",
       "gps_code": "SEPI",
-      "coordinates": "-1.731878, -76.60763"
+      "coordinates": "-1.731878, -76.60763",
+      "metar_available": false
     },
     {
       "ident": "SEPK",
@@ -3099,7 +3359,8 @@
       "iso_region": "EC-S",
       "municipality": "Pakintza",
       "gps_code": "SEPK",
-      "coordinates": "-2.32312, -77.276133"
+      "coordinates": "-2.32312, -77.276133",
+      "metar_available": false
     },
     {
       "ident": "SEPN",
@@ -3110,7 +3371,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "gps_code": "SEPN",
-      "coordinates": "-2.421208, -80.65012"
+      "coordinates": "-2.421208, -80.65012",
+      "metar_available": false
     },
     {
       "ident": "SEPO",
@@ -3122,7 +3384,8 @@
       "iso_region": "EC-G",
       "municipality": "Posorja",
       "gps_code": "SEPO",
-      "coordinates": "-2.681735, -80.276606"
+      "coordinates": "-2.681735, -80.276606",
+      "metar_available": false
     },
     {
       "ident": "SEPS",
@@ -3134,7 +3397,8 @@
       "iso_region": "EC-O",
       "municipality": "Pasaje",
       "gps_code": "SEPS",
-      "coordinates": "-3.31967, -79.769203"
+      "coordinates": "-3.31967, -79.769203",
+      "metar_available": false
     },
     {
       "ident": "SEPT",
@@ -3147,7 +3411,8 @@
       "municipality": "Puerto Putumayo",
       "gps_code": "SEPT",
       "iata_code": "PYO",
-      "coordinates": "0.115949, -75.85022"
+      "coordinates": "0.115949, -75.85022",
+      "metar_available": false
     },
     {
       "ident": "SEPV",
@@ -3160,7 +3425,8 @@
       "municipality": "Portoviejo",
       "gps_code": "SEPV",
       "iata_code": "PVO",
-      "coordinates": "-1.04165, -80.472198"
+      "coordinates": "-1.04165, -80.472198",
+      "metar_available": false
     },
     {
       "ident": "SEPX",
@@ -3172,7 +3438,8 @@
       "iso_region": "EC-G",
       "municipality": "Hacienda Payo",
       "gps_code": "SEPX",
-      "coordinates": "-2.292292, -79.50222"
+      "coordinates": "-2.292292, -79.50222",
+      "metar_available": false
     },
     {
       "ident": "SEPZ",
@@ -3184,7 +3451,8 @@
       "iso_region": "EC-R",
       "municipality": "Los Perez",
       "gps_code": "SEPZ",
-      "coordinates": "-0.953189, -79.375331"
+      "coordinates": "-0.953189, -79.375331",
+      "metar_available": false
     },
     {
       "ident": "SEQE",
@@ -3196,7 +3464,8 @@
       "iso_region": "EC-R",
       "municipality": "Quevedo",
       "gps_code": "SEQE",
-      "coordinates": "-0.989013, -79.465571"
+      "coordinates": "-0.989013, -79.465571",
+      "metar_available": false
     },
     {
       "ident": "SEQM",
@@ -3210,7 +3479,8 @@
       "gps_code": "SEQM",
       "iata_code": "UIO",
       "local_code": "UIO",
-      "coordinates": "-0.125399, -78.354306"
+      "coordinates": "-0.125399, -78.354306",
+      "metar_available": false
     },
     {
       "ident": "SERB",
@@ -3222,7 +3492,8 @@
       "iso_region": "EC-H",
       "municipality": "Riobamba",
       "gps_code": "SERB",
-      "coordinates": "-1.653324, -78.656342"
+      "coordinates": "-1.653324, -78.656342",
+      "metar_available": false
     },
     {
       "ident": "SERI",
@@ -3233,7 +3504,8 @@
       "iso_country": "EC",
       "iso_region": "EC-R",
       "gps_code": "SERI",
-      "coordinates": "-1.177302, -79.496123"
+      "coordinates": "-1.177302, -79.496123",
+      "metar_available": false
     },
     {
       "ident": "SERL",
@@ -3245,7 +3517,8 @@
       "iso_region": "EC-G",
       "municipality": "Isla Puná,",
       "gps_code": "SERL",
-      "coordinates": "-3.00529, -80.229"
+      "coordinates": "-3.00529, -80.229",
+      "metar_available": false
     },
     {
       "ident": "SERO",
@@ -3258,7 +3531,8 @@
       "municipality": "Santa Rosa",
       "gps_code": "SERO",
       "iata_code": "ETR",
-      "coordinates": "-3.441986, -79.996957"
+      "coordinates": "-3.441986, -79.996957",
+      "metar_available": false
     },
     {
       "ident": "SERS",
@@ -3270,7 +3544,8 @@
       "iso_region": "EC-R",
       "municipality": "Cotopaxi",
       "gps_code": "SERS",
-      "coordinates": "-0.999248, -79.358836"
+      "coordinates": "-0.999248, -79.358836",
+      "metar_available": false
     },
     {
       "ident": "SESA",
@@ -3283,7 +3558,8 @@
       "municipality": "Salinas",
       "gps_code": "SESA",
       "iata_code": "SNC",
-      "coordinates": "-2.210057, -80.985067"
+      "coordinates": "-2.210057, -80.985067",
+      "metar_available": false
     },
     {
       "ident": "SESB",
@@ -3295,7 +3571,8 @@
       "iso_region": "EC-S",
       "municipality": "Morona Santiago",
       "gps_code": "SESB",
-      "coordinates": "-2.641853, -77.15722"
+      "coordinates": "-2.641853, -77.15722",
+      "metar_available": false
     },
     {
       "ident": "SESC",
@@ -3308,7 +3585,8 @@
       "municipality": "Sucúa",
       "gps_code": "SESC",
       "iata_code": "SUQ",
-      "coordinates": "-2.474201, -78.169041"
+      "coordinates": "-2.474201, -78.169041",
+      "metar_available": false
     },
     {
       "ident": "SESD",
@@ -3320,7 +3598,8 @@
       "iso_region": "EC-26",
       "municipality": "Santo Domingo de Los Colorades",
       "gps_code": "SESD",
-      "coordinates": "-0.248288, -79.209062"
+      "coordinates": "-0.248288, -79.209062",
+      "metar_available": false
     },
     {
       "ident": "SESE",
@@ -3332,7 +3611,8 @@
       "iso_region": "EC-G",
       "municipality": "Jesús María",
       "gps_code": "SESE",
-      "coordinates": "-2.579977, -79.516547"
+      "coordinates": "-2.579977, -79.516547",
+      "metar_available": false
     },
     {
       "ident": "SESF",
@@ -3344,7 +3624,8 @@
       "iso_region": "EC-U",
       "municipality": "Shushufind",
       "gps_code": "SESF",
-      "coordinates": "-0.195626, -76.648237"
+      "coordinates": "-0.195626, -76.648237",
+      "metar_available": false
     },
     {
       "ident": "SESH",
@@ -3355,7 +3636,8 @@
       "iso_country": "EC",
       "iso_region": "EC-G",
       "gps_code": "SESH",
-      "coordinates": "-1.113791, -79.680157"
+      "coordinates": "-1.113791, -79.680157",
+      "metar_available": false
     },
     {
       "ident": "SESJ",
@@ -3367,7 +3649,8 @@
       "iso_region": "EC-G",
       "municipality": "Hacienda San José",
       "gps_code": "SESJ",
-      "coordinates": "-1.893894, -79.490485"
+      "coordinates": "-1.893894, -79.490485",
+      "metar_available": false
     },
     {
       "ident": "SESK",
@@ -3379,7 +3662,8 @@
       "iso_region": "EC-S",
       "municipality": "Tsunkintza",
       "gps_code": "SESK",
-      "coordinates": "-2.663498, -77.110696"
+      "coordinates": "-2.663498, -77.110696",
+      "metar_available": false
     },
     {
       "ident": "SESL",
@@ -3391,7 +3675,8 @@
       "iso_region": "EC-E",
       "municipality": "San Lorenzo",
       "gps_code": "SESL",
-      "coordinates": "1.264791, -78.797094"
+      "coordinates": "1.264791, -78.797094",
+      "metar_available": false
     },
     {
       "ident": "SESM",
@@ -3404,7 +3689,8 @@
       "municipality": "Shell Mera",
       "gps_code": "SESM",
       "iata_code": "PTZ",
-      "coordinates": "-1.50524, -78.062698"
+      "coordinates": "-1.50524, -78.062698",
+      "metar_available": false
     },
     {
       "ident": "SESO",
@@ -3416,7 +3702,8 @@
       "iso_region": "EC-R",
       "municipality": "Puebloviejo",
       "gps_code": "SESO",
-      "coordinates": "-1.567288, -79.539826"
+      "coordinates": "-1.567288, -79.539826",
+      "metar_available": false
     },
     {
       "ident": "SESP",
@@ -3428,7 +3715,8 @@
       "iso_region": "EC-G",
       "municipality": "Golfo de Guayaquil",
       "gps_code": "SESP",
-      "coordinates": "-2.578345, -80.034351"
+      "coordinates": "-2.578345, -80.034351",
+      "metar_available": false
     },
     {
       "ident": "SESS",
@@ -3440,7 +3728,8 @@
       "iso_region": "EC-Y",
       "municipality": "San Carlos",
       "gps_code": "SESS",
-      "coordinates": "-2.055229, -77.590771"
+      "coordinates": "-2.055229, -77.590771",
+      "metar_available": false
     },
     {
       "ident": "SEST",
@@ -3453,7 +3742,8 @@
       "municipality": "Puerto Baquerizo Moreno",
       "gps_code": "SEST",
       "iata_code": "SCY",
-      "coordinates": "-0.910206, -89.617401"
+      "coordinates": "-0.910206, -89.617401",
+      "metar_available": false
     },
     {
       "ident": "SESV",
@@ -3466,7 +3756,8 @@
       "municipality": "Bahía de Caraquez",
       "gps_code": "SESV",
       "iata_code": "BHA",
-      "coordinates": "-0.608111, -80.402702"
+      "coordinates": "-0.608111, -80.402702",
+      "metar_available": false
     },
     {
       "ident": "SETA",
@@ -3478,7 +3769,8 @@
       "iso_region": "EC-G",
       "municipality": "Virgen de Fatima",
       "gps_code": "SETA",
-      "coordinates": "-2.26104, -79.680199"
+      "coordinates": "-2.26104, -79.680199",
+      "metar_available": false
     },
     {
       "ident": "SETE",
@@ -3490,7 +3782,8 @@
       "iso_region": "EC-N",
       "municipality": "Tena",
       "gps_code": "SETE",
-      "coordinates": "-0.986767, -77.819504"
+      "coordinates": "-0.986767, -77.819504",
+      "metar_available": false
     },
     {
       "ident": "SETG",
@@ -3502,7 +3795,8 @@
       "iso_region": "EC-G",
       "municipality": "Tenguel",
       "gps_code": "SETG",
-      "coordinates": "-2.998017, -79.795922"
+      "coordinates": "-2.998017, -79.795922",
+      "metar_available": false
     },
     {
       "ident": "SETH",
@@ -3515,7 +3809,8 @@
       "municipality": "Taisha",
       "gps_code": "SETH",
       "iata_code": "TSC",
-      "coordinates": "-2.38167, -77.5028"
+      "coordinates": "-2.38167, -77.5028",
+      "metar_available": false
     },
     {
       "ident": "SETI",
@@ -3528,7 +3823,8 @@
       "municipality": "Tiputini",
       "gps_code": "SETI",
       "iata_code": "TPN",
-      "coordinates": "-0.776111, -75.526398"
+      "coordinates": "-0.776111, -75.526398",
+      "metar_available": false
     },
     {
       "ident": "SETM",
@@ -3541,7 +3837,8 @@
       "municipality": "La Toma (Catamayo)",
       "gps_code": "SECA",
       "iata_code": "LOH",
-      "coordinates": "-3.995606, -79.371902"
+      "coordinates": "-3.995606, -79.371902",
+      "metar_available": false
     },
     {
       "ident": "SETN",
@@ -3554,7 +3851,8 @@
       "municipality": "Tachina",
       "gps_code": "SETN",
       "iata_code": "ESM",
-      "coordinates": "0.978519, -79.626602"
+      "coordinates": "0.978519, -79.626602",
+      "metar_available": false
     },
     {
       "ident": "SETO",
@@ -3565,7 +3863,8 @@
       "iso_country": "EC",
       "iso_region": "EC-P",
       "gps_code": "SETO",
-      "coordinates": "0.061667, -78.222833"
+      "coordinates": "0.061667, -78.222833",
+      "metar_available": false
     },
     {
       "ident": "SETR",
@@ -3578,7 +3877,8 @@
       "municipality": "Tarapoa",
       "gps_code": "SETR",
       "iata_code": "TPC",
-      "coordinates": "-0.122956, -76.337799"
+      "coordinates": "-0.122956, -76.337799",
+      "metar_available": false
     },
     {
       "ident": "SETS",
@@ -3590,7 +3890,8 @@
       "iso_region": "EC-S",
       "municipality": "Bacundo",
       "gps_code": "SETS",
-      "coordinates": "-2.55673, -77.401593"
+      "coordinates": "-2.55673, -77.401593",
+      "metar_available": false
     },
     {
       "ident": "SETU",
@@ -3603,7 +3904,8 @@
       "municipality": "Tulcán",
       "gps_code": "SETU",
       "iata_code": "TUA",
-      "coordinates": "0.809506, -77.708099"
+      "coordinates": "0.809506, -77.708099",
+      "metar_available": false
     },
     {
       "ident": "SETW",
@@ -3615,7 +3917,8 @@
       "iso_region": "EC-Y",
       "municipality": "Tiwaeno",
       "gps_code": "SETW",
-      "coordinates": "-1.321658, -77.455634"
+      "coordinates": "-1.321658, -77.455634",
+      "metar_available": false
     },
     {
       "ident": "SEUA",
@@ -3627,7 +3930,8 @@
       "iso_region": "EC-U",
       "municipality": "Lago Agrio",
       "gps_code": "SEUA",
-      "coordinates": "-0.050556, -76.568889"
+      "coordinates": "-0.050556, -76.568889",
+      "metar_available": false
     },
     {
       "ident": "SEUC",
@@ -3639,7 +3943,8 @@
       "iso_region": "EC-S",
       "municipality": "Chumbela",
       "gps_code": "SEUC",
-      "coordinates": "-2.603056, -77.116389"
+      "coordinates": "-2.603056, -77.116389",
+      "metar_available": false
     },
     {
       "ident": "SEUD",
@@ -3651,7 +3956,8 @@
       "iso_region": "EC-S",
       "municipality": "Pedro",
       "gps_code": "SEUD",
-      "coordinates": "-2.585928, -77.218528"
+      "coordinates": "-2.585928, -77.218528",
+      "metar_available": false
     },
     {
       "ident": "SEUE",
@@ -3663,7 +3969,8 @@
       "iso_region": "EC-S",
       "municipality": "Pedro",
       "gps_code": "SEUE",
-      "coordinates": "-2.474584, -77.333041"
+      "coordinates": "-2.474584, -77.333041",
+      "metar_available": false
     },
     {
       "ident": "SEUI",
@@ -3675,7 +3982,8 @@
       "iso_region": "EC-S",
       "municipality": "Taisha",
       "gps_code": "SEUI",
-      "coordinates": "-2.72319, -77.681991"
+      "coordinates": "-2.72319, -77.681991",
+      "metar_available": false
     },
     {
       "ident": "SEUK",
@@ -3687,7 +3995,8 @@
       "iso_region": "EC-S",
       "municipality": "Copataza",
       "gps_code": "SEUK",
-      "coordinates": "-2.148425, -77.3572"
+      "coordinates": "-2.148425, -77.3572",
+      "metar_available": false
     },
     {
       "ident": "SEUN",
@@ -3699,7 +4008,8 @@
       "iso_region": "EC-S",
       "municipality": "Putunts",
       "gps_code": "SEUN",
-      "coordinates": "-2.596584, -77.420483"
+      "coordinates": "-2.596584, -77.420483",
+      "metar_available": false
     },
     {
       "ident": "SEUQ",
@@ -3711,7 +4021,8 @@
       "iso_region": "EC-S",
       "municipality": "Untsuri Entsa",
       "gps_code": "SEUQ",
-      "coordinates": "-2.452778, -77.917728"
+      "coordinates": "-2.452778, -77.917728",
+      "metar_available": false
     },
     {
       "ident": "SEUR",
@@ -3723,7 +4034,8 @@
       "iso_region": "EC-S",
       "municipality": "Pucar",
       "gps_code": "SEUR",
-      "coordinates": "-2.78881, -77.648093"
+      "coordinates": "-2.78881, -77.648093",
+      "metar_available": false
     },
     {
       "ident": "SEUV",
@@ -3735,7 +4047,8 @@
       "iso_region": "EC-S",
       "municipality": "Putuimi",
       "gps_code": "SEUV",
-      "coordinates": "-2.548547, -77.117863"
+      "coordinates": "-2.548547, -77.117863",
+      "metar_available": false
     },
     {
       "ident": "SEUW",
@@ -3747,7 +4060,8 @@
       "iso_region": "EC-S",
       "municipality": "Uunt Suants",
       "gps_code": "SEUW",
-      "coordinates": "-2.555542, -77.898885"
+      "coordinates": "-2.555542, -77.898885",
+      "metar_available": false
     },
     {
       "ident": "SEUY",
@@ -3759,7 +4073,8 @@
       "iso_region": "EC-Y",
       "municipality": "Uyuimi",
       "gps_code": "SEUY",
-      "coordinates": "-1.828889, -77.676389"
+      "coordinates": "-1.828889, -77.676389",
+      "metar_available": false
     },
     {
       "ident": "SEUZ",
@@ -3771,7 +4086,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kurintza",
       "gps_code": "SEUZ",
-      "coordinates": "-2.068437, -76.794788"
+      "coordinates": "-2.068437, -76.794788",
+      "metar_available": false
     },
     {
       "ident": "SEVS",
@@ -3782,7 +4098,8 @@
       "iso_country": "EC",
       "iso_region": "EC-R",
       "gps_code": "SEVS",
-      "coordinates": "-1.30789, -79.560124"
+      "coordinates": "-1.30789, -79.560124",
+      "metar_available": false
     },
     {
       "ident": "SEWA",
@@ -3794,7 +4111,8 @@
       "iso_region": "EC-S",
       "municipality": "Wachirpas",
       "gps_code": "SEWA",
-      "coordinates": "-2.573494, -76.806843"
+      "coordinates": "-2.573494, -76.806843",
+      "metar_available": false
     },
     {
       "ident": "SEWE",
@@ -3806,7 +4124,8 @@
       "iso_region": "EC-Y",
       "municipality": "Wentado",
       "gps_code": "SEWE",
-      "coordinates": "-1.023494, -77.22108"
+      "coordinates": "-1.023494, -77.22108",
+      "metar_available": false
     },
     {
       "ident": "SEWG",
@@ -3818,7 +4137,8 @@
       "iso_region": "EC-S",
       "municipality": "Tarimiant",
       "gps_code": "SEWG",
-      "coordinates": "-2.547432, -77.088446"
+      "coordinates": "-2.547432, -77.088446",
+      "metar_available": false
     },
     {
       "ident": "SEWH",
@@ -3830,7 +4150,8 @@
       "iso_region": "EC-Y",
       "municipality": "Washintza",
       "gps_code": "SEWH",
-      "coordinates": "-2.037259, -77.562323"
+      "coordinates": "-2.037259, -77.562323",
+      "metar_available": false
     },
     {
       "ident": "SEWI",
@@ -3842,7 +4163,8 @@
       "iso_region": "EC-S",
       "municipality": "Wichimi",
       "gps_code": "SEWI",
-      "coordinates": "-2.742677, -77.370289"
+      "coordinates": "-2.742677, -77.370289",
+      "metar_available": false
     },
     {
       "ident": "SEWK",
@@ -3854,7 +4176,8 @@
       "iso_region": "EC-S",
       "municipality": "Wasurak",
       "gps_code": "SEWK",
-      "coordinates": "-2.576955, -77.346225"
+      "coordinates": "-2.576955, -77.346225",
+      "metar_available": false
     },
     {
       "ident": "SEWM",
@@ -3866,7 +4189,8 @@
       "iso_region": "EC-Y",
       "municipality": "Wiririma",
       "gps_code": "SEWM",
-      "coordinates": "-1.958333, -76.146667"
+      "coordinates": "-1.958333, -76.146667",
+      "metar_available": false
     },
     {
       "ident": "SEWN",
@@ -3878,7 +4202,8 @@
       "iso_region": "EC-Y",
       "municipality": "Wusui Norte",
       "gps_code": "SEWN",
-      "coordinates": "-2.087305, -77.491704"
+      "coordinates": "-2.087305, -77.491704",
+      "metar_available": false
     },
     {
       "ident": "SEWO",
@@ -3890,7 +4215,8 @@
       "iso_region": "EC-R",
       "municipality": "Buena Fe",
       "gps_code": "SEWO",
-      "coordinates": "-0.695957, -79.417448"
+      "coordinates": "-0.695957, -79.417448",
+      "metar_available": false
     },
     {
       "ident": "SEWR",
@@ -3902,7 +4228,8 @@
       "iso_region": "EC-S",
       "municipality": "Warientza",
       "gps_code": "SEWR",
-      "coordinates": "-3.169647, -78.26025"
+      "coordinates": "-3.169647, -78.26025",
+      "metar_available": false
     },
     {
       "ident": "SEWT",
@@ -3914,7 +4241,8 @@
       "iso_region": "EC-S",
       "municipality": "Waruintza",
       "gps_code": "SEWT",
-      "coordinates": "-2.610352, -77.182968"
+      "coordinates": "-2.610352, -77.182968",
+      "metar_available": false
     },
     {
       "ident": "SEWU",
@@ -3926,7 +4254,8 @@
       "iso_region": "EC-S",
       "municipality": "Wisui",
       "gps_code": "SEWU",
-      "coordinates": "-2.113471, -77.738423"
+      "coordinates": "-2.113471, -77.738423",
+      "metar_available": false
     },
     {
       "ident": "SEWX",
@@ -3938,7 +4267,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kawa",
       "gps_code": "SEWX",
-      "coordinates": "-2.001295, -77.669082"
+      "coordinates": "-2.001295, -77.669082",
+      "metar_available": false
     },
     {
       "ident": "SEWY",
@@ -3950,7 +4280,8 @@
       "iso_region": "EC-Y",
       "municipality": "Wayusentsa",
       "gps_code": "SEWY",
-      "coordinates": "-2.441689, -76.916739"
+      "coordinates": "-2.441689, -76.916739",
+      "metar_available": false
     },
     {
       "ident": "SEWZ",
@@ -3962,7 +4293,8 @@
       "iso_region": "EC-S",
       "municipality": "Washintsa",
       "gps_code": "SEWZ",
-      "coordinates": "-2.738798, -77.279803"
+      "coordinates": "-2.738798, -77.279803",
+      "metar_available": false
     },
     {
       "ident": "SEXI",
@@ -3974,7 +4306,8 @@
       "iso_region": "EC-S",
       "municipality": "Itak",
       "gps_code": "SEXI",
-      "coordinates": "-2.645666, -77.294678"
+      "coordinates": "-2.645666, -77.294678",
+      "metar_available": false
     },
     {
       "ident": "SEXK",
@@ -3986,7 +4319,8 @@
       "iso_region": "EC-Y",
       "municipality": "Kambantsa",
       "gps_code": "SEXK",
-      "coordinates": "-2.014226, -76.832401"
+      "coordinates": "-2.014226, -76.832401",
+      "metar_available": false
     },
     {
       "ident": "SEXM",
@@ -3998,7 +4332,8 @@
       "iso_region": "EC-G",
       "municipality": "Balao",
       "gps_code": "SEXM",
-      "coordinates": "-2.883111, -79.743474"
+      "coordinates": "-2.883111, -79.743474",
+      "metar_available": false
     },
     {
       "ident": "SEXP",
@@ -4010,7 +4345,8 @@
       "iso_region": "EC-Y",
       "municipality": "Atacapi",
       "gps_code": "SEXP",
-      "coordinates": "-1.353683, -77.621933"
+      "coordinates": "-1.353683, -77.621933",
+      "metar_available": false
     },
     {
       "ident": "SEXS",
@@ -4022,7 +4358,8 @@
       "iso_region": "EC-R",
       "municipality": "Los Rios",
       "gps_code": "SEXS",
-      "coordinates": "-0.749722, -79.365556"
+      "coordinates": "-0.749722, -79.365556",
+      "metar_available": false
     },
     {
       "ident": "SEXT",
@@ -4034,7 +4371,8 @@
       "iso_region": "EC-S",
       "municipality": "Tres Marias",
       "gps_code": "SEXT",
-      "coordinates": "-2.09426, -77.551003"
+      "coordinates": "-2.09426, -77.551003",
+      "metar_available": false
     },
     {
       "ident": "SEYD",
@@ -4046,7 +4384,8 @@
       "iso_region": "EC-Y",
       "municipality": "Pastaza",
       "gps_code": "SEYD",
-      "coordinates": "-2.047949, -76.359451"
+      "coordinates": "-2.047949, -76.359451",
+      "metar_available": false
     },
     {
       "ident": "SEYH",
@@ -4058,7 +4397,8 @@
       "iso_region": "EC-T",
       "municipality": "Cuyacocha",
       "gps_code": "SEYH",
-      "coordinates": "-1.615763, -76.942377"
+      "coordinates": "-1.615763, -76.942377",
+      "metar_available": false
     },
     {
       "ident": "SEYJ",
@@ -4070,7 +4410,8 @@
       "iso_region": "EC-G",
       "municipality": "Balao",
       "gps_code": "SEYJ",
-      "coordinates": "-2.889273, -79.650605"
+      "coordinates": "-2.889273, -79.650605",
+      "metar_available": false
     },
     {
       "ident": "SEYK",
@@ -4082,7 +4423,8 @@
       "iso_region": "EC-S",
       "municipality": "Yankuntza",
       "gps_code": "SEYK",
-      "coordinates": "-2.68365, -77.309595"
+      "coordinates": "-2.68365, -77.309595",
+      "metar_available": false
     },
     {
       "ident": "SEYM",
@@ -4094,7 +4436,8 @@
       "iso_region": "EC-S",
       "municipality": "Yampuna",
       "gps_code": "SEYM",
-      "coordinates": "-2.12698, -77.513906"
+      "coordinates": "-2.12698, -77.513906",
+      "metar_available": false
     },
     {
       "ident": "SEYN",
@@ -4106,7 +4449,8 @@
       "iso_region": "EC-Y",
       "municipality": "Yanayaku",
       "gps_code": "SEYN",
-      "coordinates": "-1.953868, -76.101964"
+      "coordinates": "-1.953868, -76.101964",
+      "metar_available": false
     },
     {
       "ident": "SEYP",
@@ -4118,7 +4462,8 @@
       "iso_region": "EC-S",
       "municipality": "Yaapi",
       "gps_code": "SEYP",
-      "coordinates": "-2.825404, -77.928979"
+      "coordinates": "-2.825404, -77.928979",
+      "metar_available": false
     },
     {
       "ident": "SEYS",
@@ -4130,7 +4475,8 @@
       "iso_region": "EC-S",
       "municipality": "Yasnunka",
       "gps_code": "SEYS",
-      "coordinates": "-2.650484, -77.399815"
+      "coordinates": "-2.650484, -77.399815",
+      "metar_available": false
     },
     {
       "ident": "SEYT",
@@ -4142,7 +4488,8 @@
       "iso_region": "EC-Y",
       "municipality": "Yutsuntz",
       "gps_code": "SEYT",
-      "coordinates": "-2.350797, -76.45388"
+      "coordinates": "-2.350797, -76.45388",
+      "metar_available": false
     },
     {
       "ident": "SEYW",
@@ -4154,7 +4501,8 @@
       "iso_region": "EC-S",
       "municipality": "Yawaentza",
       "gps_code": "SEYW",
-      "coordinates": "-2.783602, -77.45764"
+      "coordinates": "-2.783602, -77.45764",
+      "metar_available": false
     },
     {
       "ident": "SEYX",
@@ -4166,7 +4514,8 @@
       "iso_region": "EC-S",
       "municipality": "Yamaran",
       "gps_code": "SEYX",
-      "coordinates": "-2.223304, -77.54792"
+      "coordinates": "-2.223304, -77.54792",
+      "metar_available": false
     },
     {
       "ident": "SEZA",
@@ -4178,7 +4527,8 @@
       "iso_region": "EC-S",
       "municipality": "Pampantza",
       "gps_code": "SEZA",
-      "coordinates": "-2.554289, -77.443745"
+      "coordinates": "-2.554289, -77.443745",
+      "metar_available": false
     },
     {
       "ident": "SEZD",
@@ -4190,7 +4540,8 @@
       "iso_region": "EC-M",
       "municipality": "Puerto Cayo",
       "gps_code": "SEZD",
-      "coordinates": "-1.333578, -80.748832"
+      "coordinates": "-1.333578, -80.748832",
+      "metar_available": false
     },
     {
       "ident": "SEZE",
@@ -4202,7 +4553,8 @@
       "iso_region": "EC-S",
       "municipality": "Tzapapentza",
       "gps_code": "SEZE",
-      "coordinates": "-2.831069, -77.369267"
+      "coordinates": "-2.831069, -77.369267",
+      "metar_available": false
     },
     {
       "ident": "SEZI",
@@ -4214,7 +4566,8 @@
       "iso_region": "EC-Y",
       "municipality": "Imatiño",
       "gps_code": "SEZI",
-      "coordinates": "-1.918108, -76.625161"
+      "coordinates": "-1.918108, -76.625161",
+      "metar_available": false
     },
     {
       "ident": "SEZK",
@@ -4226,7 +4579,8 @@
       "iso_region": "EC-S",
       "municipality": "Karakam",
       "gps_code": "SEZK",
-      "coordinates": "-2.785009, -77.408045"
+      "coordinates": "-2.785009, -77.408045",
+      "metar_available": false
     },
     {
       "ident": "SEZM",
@@ -4238,7 +4592,8 @@
       "iso_region": "EC-S",
       "municipality": "Tamantza",
       "gps_code": "SEZM",
-      "coordinates": "-2.159088, -77.613177"
+      "coordinates": "-2.159088, -77.613177",
+      "metar_available": false
     },
     {
       "ident": "SEZN",
@@ -4250,7 +4605,8 @@
       "iso_region": "EC-Y",
       "municipality": "Tzapino",
       "gps_code": "SEZN",
-      "coordinates": "-1.188339, -77.230792"
+      "coordinates": "-1.188339, -77.230792",
+      "metar_available": false
     },
     {
       "ident": "SEZR",
@@ -4262,7 +4618,8 @@
       "iso_region": "EC-S",
       "municipality": "Surikentza",
       "gps_code": "SEZR",
-      "coordinates": "-2.598404, -77.089405"
+      "coordinates": "-2.598404, -77.089405",
+      "metar_available": false
     }
   ]
 }

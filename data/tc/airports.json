@@ -2,7 +2,7 @@
   "country_code": "TC",
   "country_name": "Turks and Caicos Islands",
   "total_airports": 9,
-  "last_updated": "2025-08-01T00:18:22.826991",
+  "last_updated": "2025-08-25T10:08:40.981414",
   "types_distribution": {
     "small_airport": 5,
     "medium_airport": 3,
@@ -18,7 +18,8 @@
       "iso_region": "TC-AC",
       "municipality": "Big Ambergris Cay",
       "gps_code": "MBAC",
-      "coordinates": "21.302649, -71.637168"
+      "coordinates": "21.302649, -71.637168",
+      "metar_available": false
     },
     {
       "ident": "MBGT",
@@ -30,7 +31,8 @@
       "municipality": "Cockburn Town",
       "gps_code": "MBGT",
       "iata_code": "GDT",
-      "coordinates": "21.4445, -71.142303"
+      "coordinates": "21.4445, -71.142303",
+      "metar_available": false
     },
     {
       "ident": "MBMC",
@@ -42,7 +44,8 @@
       "municipality": "Middle Caicos",
       "gps_code": "MBMC",
       "iata_code": "MDS",
-      "coordinates": "21.82602, -71.8025"
+      "coordinates": "21.82602, -71.8025",
+      "metar_available": false
     },
     {
       "ident": "MBNC",
@@ -54,7 +57,8 @@
       "municipality": "North Caicos",
       "gps_code": "MBNC",
       "iata_code": "NCA",
-      "coordinates": "21.916094, -71.942954"
+      "coordinates": "21.916094, -71.942954",
+      "metar_available": false
     },
     {
       "ident": "MBPI",
@@ -66,7 +70,8 @@
       "municipality": "Pine Cay",
       "gps_code": "MBPI",
       "iata_code": "PIC",
-      "coordinates": "21.874661, -72.090573"
+      "coordinates": "21.874661, -72.090573",
+      "metar_available": false
     },
     {
       "ident": "MBPV",
@@ -78,7 +83,8 @@
       "municipality": "Providenciales",
       "gps_code": "MBPV",
       "iata_code": "PLS",
-      "coordinates": "21.773697, -72.268321"
+      "coordinates": "21.773697, -72.268321",
+      "metar_available": false
     },
     {
       "ident": "MBSC",
@@ -90,7 +96,8 @@
       "municipality": "South Caicos",
       "gps_code": "MBSC",
       "iata_code": "XSC",
-      "coordinates": "21.515699, -71.528503"
+      "coordinates": "21.515699, -71.528503",
+      "metar_available": false
     },
     {
       "ident": "MBSY",
@@ -102,7 +109,8 @@
       "municipality": "Salt Cay",
       "gps_code": "MBSY",
       "iata_code": "SLX",
-      "coordinates": "21.333000183099998, -71.1999969482"
+      "coordinates": "21.333000183099998, -71.1999969482",
+      "metar_available": false
     },
     {
       "ident": "TC-0001",
@@ -112,7 +120,8 @@
       "iso_region": "TC-WC",
       "municipality": "Yankee Town",
       "gps_code": "MB01",
-      "coordinates": "21.68178, -72.46157"
+      "coordinates": "21.68178, -72.46157",
+      "metar_available": false
     }
   ]
 }

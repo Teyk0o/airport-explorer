@@ -2,7 +2,7 @@
   "country_code": "HK",
   "country_name": "Hong Kong",
   "total_airports": 152,
-  "last_updated": "2025-08-01T00:18:22.741701",
+  "last_updated": "2025-08-25T10:08:40.887454",
   "types_distribution": {
     "closed": 8,
     "heliport": 142,
@@ -18,7 +18,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sha Tin",
-      "coordinates": "22.380238, 114.189835"
+      "coordinates": "22.380238, 114.189835",
+      "metar_available": false
     },
     {
       "ident": "HK-0002",
@@ -28,7 +29,8 @@
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Yau Tsim Mong",
-      "coordinates": "22.298906, 114.156815"
+      "coordinates": "22.298906, 114.156815",
+      "metar_available": false
     },
     {
       "ident": "HK-0003",
@@ -38,7 +40,8 @@
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Yau Tsim Mong",
-      "coordinates": "22.29539, 114.171816"
+      "coordinates": "22.29539, 114.171816",
+      "metar_available": false
     },
     {
       "ident": "HK-0004",
@@ -49,7 +52,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.547742, 114.428353"
+      "coordinates": "22.547742, 114.428353",
+      "metar_available": false
     },
     {
       "ident": "HK-0005",
@@ -61,7 +65,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "CC04",
-      "coordinates": "22.207961, 114.033558"
+      "coordinates": "22.207961, 114.033558",
+      "metar_available": false
     },
     {
       "ident": "HK-0006",
@@ -72,7 +77,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "IS01",
-      "coordinates": "22.40305, 114.27703"
+      "coordinates": "22.40305, 114.27703",
+      "metar_available": false
     },
     {
       "ident": "HK-0007",
@@ -84,7 +90,8 @@
       "iso_region": "HK-HK",
       "municipality": "Southern",
       "local_code": "HK15",
-      "coordinates": "22.219076, 114.215286"
+      "coordinates": "22.219076, 114.215286",
+      "metar_available": false
     },
     {
       "ident": "HK-0008",
@@ -94,7 +101,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North",
-      "coordinates": "22.49456, 114.11534"
+      "coordinates": "22.49456, 114.11534",
+      "metar_available": false
     },
     {
       "ident": "HK-0009",
@@ -106,7 +114,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "P10",
-      "coordinates": "22.537939, 114.126538"
+      "coordinates": "22.537939, 114.126538",
+      "metar_available": false
     },
     {
       "ident": "HK-0010",
@@ -116,7 +125,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
-      "coordinates": "22.431, 114.1106"
+      "coordinates": "22.431, 114.1106",
+      "metar_available": false
     },
     {
       "ident": "HK-0011",
@@ -128,7 +138,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "WB17",
-      "coordinates": "22.50086, 114.11614"
+      "coordinates": "22.50086, 114.11614",
+      "metar_available": false
     },
     {
       "ident": "HK-0012",
@@ -138,7 +149,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North",
-      "coordinates": "22.53301, 114.11995"
+      "coordinates": "22.53301, 114.11995",
+      "metar_available": false
     },
     {
       "ident": "HK-0013",
@@ -150,7 +162,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "CP17",
-      "coordinates": "22.449334, 113.976299"
+      "coordinates": "22.449334, 113.976299",
+      "metar_available": false
     },
     {
       "ident": "HK-0014",
@@ -160,7 +173,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.41326, 113.908782"
+      "coordinates": "22.41326, 113.908782",
+      "metar_available": false
     },
     {
       "ident": "HK-0015",
@@ -172,7 +186,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "CP02",
-      "coordinates": "22.406562, 113.906441"
+      "coordinates": "22.406562, 113.906441",
+      "metar_available": false
     },
     {
       "ident": "HK-0016",
@@ -184,7 +199,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "CP08",
-      "coordinates": "22.378441, 113.917262"
+      "coordinates": "22.378441, 113.917262",
+      "metar_available": false
     },
     {
       "ident": "HK-0017",
@@ -196,7 +212,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "TL13",
-      "coordinates": "22.407091, 113.975226"
+      "coordinates": "22.407091, 113.975226",
+      "metar_available": false
     },
     {
       "ident": "HK-0018",
@@ -206,7 +223,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
-      "coordinates": "22.407686, 114.100651"
+      "coordinates": "22.407686, 114.100651",
+      "metar_available": false
     },
     {
       "ident": "HK-0019",
@@ -216,7 +234,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.39678, 114.0486"
+      "coordinates": "22.39678, 114.0486",
+      "metar_available": false
     },
     {
       "ident": "HK-0020",
@@ -226,7 +245,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.36011, 114.0184"
+      "coordinates": "22.36011, 114.0184",
+      "metar_available": false
     },
     {
       "ident": "HK-0021",
@@ -238,7 +258,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP04",
-      "coordinates": "22.37986, 114.33768"
+      "coordinates": "22.37986, 114.33768",
+      "metar_available": false
     },
     {
       "ident": "HK-0022",
@@ -250,7 +271,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP10",
-      "coordinates": "22.39835, 114.36995"
+      "coordinates": "22.39835, 114.36995",
+      "metar_available": false
     },
     {
       "ident": "HK-0023",
@@ -262,7 +284,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP12",
-      "coordinates": "22.411561, 114.374548"
+      "coordinates": "22.411561, 114.374548",
+      "metar_available": false
     },
     {
       "ident": "HK-0024",
@@ -274,7 +297,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
       "local_code": "SP22",
-      "coordinates": "22.44106, 114.32785"
+      "coordinates": "22.44106, 114.32785",
+      "metar_available": false
     },
     {
       "ident": "HK-0025",
@@ -284,7 +308,8 @@
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Yau Tsim Mong",
-      "coordinates": "22.30628, 114.17433"
+      "coordinates": "22.30628, 114.17433",
+      "metar_available": false
     },
     {
       "ident": "HK-0026",
@@ -296,7 +321,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK01",
-      "coordinates": "22.290228, 114.036466"
+      "coordinates": "22.290228, 114.036466",
+      "metar_available": false
     },
     {
       "ident": "HK-0027",
@@ -308,7 +334,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT17",
-      "coordinates": "22.29215, 114.02367"
+      "coordinates": "22.29215, 114.02367",
+      "metar_available": false
     },
     {
       "ident": "HK-0028",
@@ -320,7 +347,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "CC03",
-      "coordinates": "22.248, 114.04213"
+      "coordinates": "22.248, 114.04213",
+      "metar_available": false
     },
     {
       "ident": "HK-0029",
@@ -332,7 +360,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "CC05",
-      "coordinates": "22.256247, 114.03066"
+      "coordinates": "22.256247, 114.03066",
+      "metar_available": false
     },
     {
       "ident": "HK-0030",
@@ -342,7 +371,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sha Tin",
-      "coordinates": "22.391, 114.19973"
+      "coordinates": "22.391, 114.19973",
+      "metar_available": false
     },
     {
       "ident": "HK-0031",
@@ -352,7 +382,8 @@
       "iso_country": "HK",
       "iso_region": "HK-HK",
       "municipality": "Eastern",
-      "coordinates": "22.269411, 114.236398"
+      "coordinates": "22.269411, 114.236398",
+      "metar_available": false
     },
     {
       "ident": "HK-0032",
@@ -364,7 +395,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK02",
-      "coordinates": "22.224869, 114.10869"
+      "coordinates": "22.224869, 114.10869",
+      "metar_available": false
     },
     {
       "ident": "HK-0033",
@@ -376,7 +408,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK05",
-      "coordinates": "22.219311, 114.103827"
+      "coordinates": "22.219311, 114.103827",
+      "metar_available": false
     },
     {
       "ident": "HK-0034",
@@ -388,7 +421,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK04",
-      "coordinates": "22.202265, 114.146239"
+      "coordinates": "22.202265, 114.146239",
+      "metar_available": false
     },
     {
       "ident": "HK-0035",
@@ -398,7 +432,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.2296, 114.10976"
+      "coordinates": "22.2296, 114.10976",
+      "metar_available": false
     },
     {
       "ident": "HK-0036",
@@ -408,7 +443,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tsuen Wan",
-      "coordinates": "22.41201, 114.15855"
+      "coordinates": "22.41201, 114.15855",
+      "metar_available": false
     },
     {
       "ident": "HK-0037",
@@ -418,7 +454,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sha Tin",
-      "coordinates": "22.41043, 114.21418"
+      "coordinates": "22.41043, 114.21418",
+      "metar_available": false
     },
     {
       "ident": "HK-0038",
@@ -429,7 +466,8 @@
       "iso_region": "HK-HK",
       "municipality": "Southern District",
       "local_code": "HK21",
-      "coordinates": "22.240588, 114.173145"
+      "coordinates": "22.240588, 114.173145",
+      "metar_available": false
     },
     {
       "ident": "HK-0039",
@@ -441,7 +479,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "CP03",
-      "coordinates": "22.38947, 113.95305"
+      "coordinates": "22.38947, 113.95305",
+      "metar_available": false
     },
     {
       "ident": "HK-0040",
@@ -452,7 +491,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.388736, 113.99522"
+      "coordinates": "22.388736, 113.99522",
+      "metar_available": false
     },
     {
       "ident": "HK-0041",
@@ -464,7 +504,8 @@
       "iso_region": "HK-KLN",
       "municipality": "Wong Tai Sin",
       "local_code": "KL08",
-      "coordinates": "22.34098, 114.22318"
+      "coordinates": "22.34098, 114.22318",
+      "metar_available": false
     },
     {
       "ident": "HK-0042",
@@ -474,7 +515,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.44537, 114.17942"
+      "coordinates": "22.44537, 114.17942",
+      "metar_available": false
     },
     {
       "ident": "HK-0043",
@@ -486,7 +528,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
       "local_code": "SP03",
-      "coordinates": "22.43555, 114.30572"
+      "coordinates": "22.43555, 114.30572",
+      "metar_available": false
     },
     {
       "ident": "HK-0044",
@@ -498,7 +541,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "EB07",
-      "coordinates": "22.511414, 114.211731"
+      "coordinates": "22.511414, 114.211731",
+      "metar_available": false
     },
     {
       "ident": "HK-0045",
@@ -508,7 +552,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
-      "coordinates": "22.3773, 113.88287"
+      "coordinates": "22.3773, 113.88287",
+      "metar_available": false
     },
     {
       "ident": "HK-0046",
@@ -520,7 +565,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "IS05",
-      "coordinates": "22.37512, 114.27429"
+      "coordinates": "22.37512, 114.27429",
+      "metar_available": false
     },
     {
       "ident": "HK-0047",
@@ -532,7 +578,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT16",
-      "coordinates": "22.2608, 114.00622"
+      "coordinates": "22.2608, 114.00622",
+      "metar_available": false
     },
     {
       "ident": "HK-0048",
@@ -542,7 +589,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tsuen Wan",
-      "coordinates": "22.32095, 114.04086"
+      "coordinates": "22.32095, 114.04086",
+      "metar_available": false
     },
     {
       "ident": "HK-0049",
@@ -552,7 +600,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North",
-      "coordinates": "22.558047, 114.163195"
+      "coordinates": "22.558047, 114.163195",
+      "metar_available": false
     },
     {
       "ident": "HK-0050",
@@ -562,7 +611,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North",
-      "coordinates": "22.558024, 114.161769"
+      "coordinates": "22.558024, 114.161769",
+      "metar_available": false
     },
     {
       "ident": "HK-0051",
@@ -572,7 +622,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North",
-      "coordinates": "22.5399, 114.18718"
+      "coordinates": "22.5399, 114.18718",
+      "metar_available": false
     },
     {
       "ident": "HK-0052",
@@ -582,7 +633,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.43938, 114.18048"
+      "coordinates": "22.43938, 114.18048",
+      "metar_available": false
     },
     {
       "ident": "HK-0061",
@@ -594,7 +646,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "LT28",
-      "coordinates": "22.345667, 113.889775"
+      "coordinates": "22.345667, 113.889775",
+      "metar_available": false
     },
     {
       "ident": "HK-0062",
@@ -606,7 +659,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "CC02",
-      "coordinates": "22.194421, 113.993517"
+      "coordinates": "22.194421, 113.993517",
+      "metar_available": false
     },
     {
       "ident": "HK-0063",
@@ -616,7 +670,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North",
-      "coordinates": "22.54461, 114.21992"
+      "coordinates": "22.54461, 114.21992",
+      "metar_available": false
     },
     {
       "ident": "HK-0064",
@@ -628,7 +683,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT06",
-      "coordinates": "22.222866, 113.908728"
+      "coordinates": "22.222866, 113.908728",
+      "metar_available": false
     },
     {
       "ident": "HK-0065",
@@ -640,7 +696,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "HK19",
-      "coordinates": "22.248222, 114.291921"
+      "coordinates": "22.248222, 114.291921",
+      "metar_available": false
     },
     {
       "ident": "HK-0066",
@@ -650,7 +707,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tsuen Wan",
-      "coordinates": "22.41235, 114.12516"
+      "coordinates": "22.41235, 114.12516",
+      "metar_available": false
     },
     {
       "ident": "HK-0067",
@@ -660,7 +718,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.46838, 114.23462"
+      "coordinates": "22.46838, 114.23462",
+      "metar_available": false
     },
     {
       "ident": "HK-0068",
@@ -670,7 +729,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.45263, 114.18928"
+      "coordinates": "22.45263, 114.18928",
+      "metar_available": false
     },
     {
       "ident": "HK-0069",
@@ -680,7 +740,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
-      "coordinates": "22.33125, 114.36261"
+      "coordinates": "22.33125, 114.36261",
+      "metar_available": false
     },
     {
       "ident": "HK-0070",
@@ -690,7 +751,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.16771, 113.90877"
+      "coordinates": "22.16771, 113.90877",
+      "metar_available": false
     },
     {
       "ident": "HK-0071",
@@ -702,7 +764,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT08",
-      "coordinates": "22.16357, 113.91086"
+      "coordinates": "22.16357, 113.91086",
+      "metar_available": false
     },
     {
       "ident": "HK-0072",
@@ -714,7 +777,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
       "local_code": "SP08",
-      "coordinates": "22.46581, 114.33769"
+      "coordinates": "22.46581, 114.33769",
+      "metar_available": false
     },
     {
       "ident": "HK-0073",
@@ -726,7 +790,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
       "local_code": "SP09",
-      "coordinates": "22.47199, 114.36306"
+      "coordinates": "22.47199, 114.36306",
+      "metar_available": false
     },
     {
       "ident": "HK-0074",
@@ -738,7 +803,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "PT02",
-      "coordinates": "22.182743, 114.303823"
+      "coordinates": "22.182743, 114.303823",
+      "metar_available": false
     },
     {
       "ident": "HK-0075",
@@ -749,7 +815,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Kwai Tsing",
-      "coordinates": "22.32783, 114.09899"
+      "coordinates": "22.32783, 114.09899",
+      "metar_available": false
     },
     {
       "ident": "HK-0076",
@@ -761,7 +828,8 @@
       "iso_region": "HK-NT",
       "municipality": "Kwai Tsing",
       "local_code": "KL20",
-      "coordinates": "22.35282, 114.08419"
+      "coordinates": "22.35282, 114.08419",
+      "metar_available": false
     },
     {
       "ident": "HK-0077",
@@ -773,7 +841,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT14",
-      "coordinates": "22.23393, 114.0011"
+      "coordinates": "22.23393, 114.0011",
+      "metar_available": false
     },
     {
       "ident": "HK-0078",
@@ -785,7 +854,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT13",
-      "coordinates": "22.21343, 113.98862"
+      "coordinates": "22.21343, 113.98862",
+      "metar_available": false
     },
     {
       "ident": "HK-0079",
@@ -795,7 +865,8 @@
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Kowloon City",
-      "coordinates": "22.32463, 114.19064"
+      "coordinates": "22.32463, 114.19064",
+      "metar_available": false
     },
     {
       "ident": "HK-0080",
@@ -806,7 +877,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.43316, 114.12094"
+      "coordinates": "22.43316, 114.12094",
+      "metar_available": false
     },
     {
       "ident": "HK-0081",
@@ -817,7 +889,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tsuen Wan",
-      "coordinates": "22.34254, 114.13185"
+      "coordinates": "22.34254, 114.13185",
+      "metar_available": false
     },
     {
       "ident": "HK-0082",
@@ -829,7 +902,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "WB13",
-      "coordinates": "22.48616, 114.0115"
+      "coordinates": "22.48616, 114.0115",
+      "metar_available": false
     },
     {
       "ident": "HK-0083",
@@ -841,7 +915,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK13",
-      "coordinates": "22.283669, 114.075829"
+      "coordinates": "22.283669, 114.075829",
+      "metar_available": false
     },
     {
       "ident": "HK-0084",
@@ -853,7 +928,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT04",
-      "coordinates": "22.22028, 113.88933"
+      "coordinates": "22.22028, 113.88933",
+      "metar_available": false
     },
     {
       "ident": "HK-0085",
@@ -864,7 +940,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.255732, 113.853207"
+      "coordinates": "22.255732, 113.853207",
+      "metar_available": false
     },
     {
       "ident": "HK-0086",
@@ -875,7 +952,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.31461, 114.00631"
+      "coordinates": "22.31461, 114.00631",
+      "metar_available": false
     },
     {
       "ident": "HK-0087",
@@ -887,7 +965,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT20",
-      "coordinates": "22.33782, 114.04841"
+      "coordinates": "22.33782, 114.04841",
+      "metar_available": false
     },
     {
       "ident": "HK-0088",
@@ -899,7 +978,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "IS07",
-      "coordinates": "22.36649, 114.30794"
+      "coordinates": "22.36649, 114.30794",
+      "metar_available": false
     },
     {
       "ident": "HK-0089",
@@ -910,7 +990,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
-      "coordinates": "22.37066, 114.312"
+      "coordinates": "22.37066, 114.312",
+      "metar_available": false
     },
     {
       "ident": "HK-0090",
@@ -921,7 +1002,8 @@
       "iso_country": "HK",
       "iso_region": "HK-HK",
       "municipality": "Central and Western",
-      "coordinates": "22.2809, 114.15773"
+      "coordinates": "22.2809, 114.15773",
+      "metar_available": false
     },
     {
       "ident": "HK-0091",
@@ -932,7 +1014,8 @@
       "iso_country": "HK",
       "iso_region": "HK-HK",
       "municipality": "Central and Western",
-      "coordinates": "22.28157, 114.15783"
+      "coordinates": "22.28157, 114.15783",
+      "metar_available": false
     },
     {
       "ident": "HK-0092",
@@ -944,7 +1027,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tai Wai",
       "local_code": "KL06",
-      "coordinates": "22.34638, 114.15287"
+      "coordinates": "22.34638, 114.15287",
+      "metar_available": false
     },
     {
       "ident": "HK-0093",
@@ -955,7 +1039,8 @@
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Kowloon City",
-      "coordinates": "22.30336, 114.21576"
+      "coordinates": "22.30336, 114.21576",
+      "metar_available": false
     },
     {
       "ident": "HK-0094",
@@ -966,7 +1051,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Islands",
-      "coordinates": "22.27199, 114.02147"
+      "coordinates": "22.27199, 114.02147",
+      "metar_available": false
     },
     {
       "ident": "HK-0095",
@@ -978,7 +1064,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT02",
-      "coordinates": "22.25465, 113.85985"
+      "coordinates": "22.25465, 113.85985",
+      "metar_available": false
     },
     {
       "ident": "HK-0096",
@@ -989,7 +1076,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tsuen Wan",
-      "coordinates": "22.30885, 114.03388"
+      "coordinates": "22.30885, 114.03388",
+      "metar_available": false
     },
     {
       "ident": "HK-0097",
@@ -1001,7 +1089,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK03",
-      "coordinates": "22.206218, 114.132499"
+      "coordinates": "22.206218, 114.132499",
+      "metar_available": false
     },
     {
       "ident": "HK-0098",
@@ -1013,7 +1102,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK01A",
-      "coordinates": "22.288128, 114.03873"
+      "coordinates": "22.288128, 114.03873",
+      "metar_available": false
     },
     {
       "ident": "HK-0099",
@@ -1024,7 +1114,8 @@
       "iso_country": "HK",
       "iso_region": "HK-KLN",
       "municipality": "Kowloon City",
-      "coordinates": "22.320304, 114.198074"
+      "coordinates": "22.320304, 114.198074",
+      "metar_available": false
     },
     {
       "ident": "HK-0100",
@@ -1035,7 +1126,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Tai Po",
-      "coordinates": "22.41249, 114.1865"
+      "coordinates": "22.41249, 114.1865",
+      "metar_available": false
     },
     {
       "ident": "HK-0101",
@@ -1047,7 +1139,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "P03",
-      "coordinates": "22.522875, 114.107162"
+      "coordinates": "22.522875, 114.107162",
+      "metar_available": false
     },
     {
       "ident": "HK-0102",
@@ -1058,7 +1151,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Fanling",
-      "coordinates": "22.47148, 114.13605"
+      "coordinates": "22.47148, 114.13605",
+      "metar_available": false
     },
     {
       "ident": "HK-0103",
@@ -1069,7 +1163,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tai Lam",
       "local_code": "SK08",
-      "coordinates": "22.427782, 114.108357"
+      "coordinates": "22.427782, 114.108357",
+      "metar_available": false
     },
     {
       "ident": "HK-0104",
@@ -1080,7 +1175,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
-      "coordinates": "22.35605, 114.32358"
+      "coordinates": "22.35605, 114.32358",
+      "metar_available": false
     },
     {
       "ident": "HK-0105",
@@ -1092,7 +1188,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "WB12",
-      "coordinates": "22.482271, 114.032497"
+      "coordinates": "22.482271, 114.032497",
+      "metar_available": false
     },
     {
       "ident": "HK-0106",
@@ -1104,7 +1201,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "P01",
-      "coordinates": "22.49612, 114.04836"
+      "coordinates": "22.49612, 114.04836",
+      "metar_available": false
     },
     {
       "ident": "HK-0107",
@@ -1116,7 +1214,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "P02",
-      "coordinates": "22.511474, 114.073745"
+      "coordinates": "22.511474, 114.073745",
+      "metar_available": false
     },
     {
       "ident": "HK-0108",
@@ -1127,7 +1226,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "North District",
-      "coordinates": "22.51053, 114.14183"
+      "coordinates": "22.51053, 114.14183",
+      "metar_available": false
     },
     {
       "ident": "HK-0109",
@@ -1139,7 +1239,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "LT37",
-      "coordinates": "22.33003, 113.96767"
+      "coordinates": "22.33003, 113.96767",
+      "metar_available": false
     },
     {
       "ident": "HK-0110",
@@ -1151,7 +1252,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "LT31",
-      "coordinates": "22.33826, 113.98195"
+      "coordinates": "22.33826, 113.98195",
+      "metar_available": false
     },
     {
       "ident": "HK-0111",
@@ -1163,7 +1265,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "HK06",
-      "coordinates": "22.20539, 114.13867"
+      "coordinates": "22.20539, 114.13867",
+      "metar_available": false
     },
     {
       "ident": "HK-0112",
@@ -1175,7 +1278,8 @@
       "iso_region": "HK-HK",
       "municipality": "Southern District",
       "local_code": "HK09A",
-      "coordinates": "22.24745, 114.173"
+      "coordinates": "22.24745, 114.173",
+      "metar_available": false
     },
     {
       "ident": "HK-0113",
@@ -1187,7 +1291,8 @@
       "iso_region": "HK-HK",
       "municipality": "Southern District",
       "local_code": "HK10",
-      "coordinates": "22.21548, 114.21455"
+      "coordinates": "22.21548, 114.21455",
+      "metar_available": false
     },
     {
       "ident": "HK-0114",
@@ -1199,7 +1304,8 @@
       "iso_region": "HK-HK",
       "municipality": "Southern District",
       "local_code": "HK11",
-      "coordinates": "22.20049, 114.21782"
+      "coordinates": "22.20049, 114.21782",
+      "metar_available": false
     },
     {
       "ident": "HK-0115",
@@ -1211,7 +1317,8 @@
       "iso_region": "HK-HK",
       "municipality": "Southern District",
       "local_code": "HK12",
-      "coordinates": "22.21053, 114.21853"
+      "coordinates": "22.21053, 114.21853",
+      "metar_available": false
     },
     {
       "ident": "HK-0116",
@@ -1223,7 +1330,8 @@
       "iso_region": "HK-HK",
       "municipality": "Eastern District",
       "local_code": "HK18",
-      "coordinates": "22.24935, 114.25364"
+      "coordinates": "22.24935, 114.25364",
+      "metar_available": false
     },
     {
       "ident": "HK-0117",
@@ -1235,7 +1343,8 @@
       "iso_region": "HK-KLN",
       "municipality": "Sham Shui Po",
       "local_code": "KL05",
-      "coordinates": "22.321029, 114.140817"
+      "coordinates": "22.321029, 114.140817",
+      "metar_available": false
     },
     {
       "ident": "HK-0118",
@@ -1247,7 +1356,8 @@
       "iso_region": "HK-KLN",
       "municipality": "Sham Shui Po",
       "local_code": "KL11",
-      "coordinates": "22.31912, 114.13497"
+      "coordinates": "22.31912, 114.13497",
+      "metar_available": false
     },
     {
       "ident": "HK-0119",
@@ -1259,7 +1369,8 @@
       "iso_region": "HK-KLN",
       "municipality": "Sham Shui Po",
       "local_code": "KL16",
-      "coordinates": "22.32714, 114.16976"
+      "coordinates": "22.32714, 114.16976",
+      "metar_available": false
     },
     {
       "ident": "HK-0120",
@@ -1271,7 +1382,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "CC01",
-      "coordinates": "22.19702, 113.98707"
+      "coordinates": "22.19702, 113.98707",
+      "metar_available": false
     },
     {
       "ident": "HK-0121",
@@ -1283,7 +1395,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "CC06",
-      "coordinates": "22.20631, 114.03315"
+      "coordinates": "22.20631, 114.03315",
+      "metar_available": false
     },
     {
       "ident": "HK-0122",
@@ -1295,7 +1408,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT23",
-      "coordinates": "22.24976, 113.98971"
+      "coordinates": "22.24976, 113.98971",
+      "metar_available": false
     },
     {
       "ident": "HK-0123",
@@ -1307,7 +1421,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "HK25",
-      "coordinates": "22.26986, 114.30402"
+      "coordinates": "22.26986, 114.30402",
+      "metar_available": false
     },
     {
       "ident": "HK-0124",
@@ -1319,7 +1434,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT08A",
-      "coordinates": "22.16613, 113.91276"
+      "coordinates": "22.16613, 113.91276",
+      "metar_available": false
     },
     {
       "ident": "HK-0125",
@@ -1331,7 +1447,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT03",
-      "coordinates": "22.25138, 113.86373"
+      "coordinates": "22.25138, 113.86373",
+      "metar_available": false
     },
     {
       "ident": "HK-0126",
@@ -1343,7 +1460,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT05",
-      "coordinates": "22.28937, 113.90243"
+      "coordinates": "22.28937, 113.90243",
+      "metar_available": false
     },
     {
       "ident": "HK-0127",
@@ -1355,7 +1473,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT10",
-      "coordinates": "22.2802, 113.93057"
+      "coordinates": "22.2802, 113.93057",
+      "metar_available": false
     },
     {
       "ident": "HK-0128",
@@ -1367,7 +1486,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT12",
-      "coordinates": "22.25783, 113.98398"
+      "coordinates": "22.25783, 113.98398",
+      "metar_available": false
     },
     {
       "ident": "HK-0129",
@@ -1379,7 +1499,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "local_code": "LT19",
-      "coordinates": "22.24132, 113.97744"
+      "coordinates": "22.24132, 113.97744",
+      "metar_available": false
     },
     {
       "ident": "HK-0130",
@@ -1391,7 +1512,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "LT34",
-      "coordinates": "22.34587, 113.89249"
+      "coordinates": "22.34587, 113.89249",
+      "metar_available": false
     },
     {
       "ident": "HK-0131",
@@ -1402,7 +1524,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "TL12",
-      "coordinates": "22.39139, 114.27365"
+      "coordinates": "22.39139, 114.27365",
+      "metar_available": false
     },
     {
       "ident": "HK-0132",
@@ -1412,7 +1535,8 @@
       "iso_country": "HK",
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
-      "coordinates": "22.44279, 114.02126"
+      "coordinates": "22.44279, 114.02126",
+      "metar_available": false
     },
     {
       "ident": "HK-0133",
@@ -1423,7 +1547,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "TL02",
-      "coordinates": "22.38664, 113.96293"
+      "coordinates": "22.38664, 113.96293",
+      "metar_available": false
     },
     {
       "ident": "HK-0134",
@@ -1435,7 +1560,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "TL14",
-      "coordinates": "22.36229, 114.02025"
+      "coordinates": "22.36229, 114.02025",
+      "metar_available": false
     },
     {
       "ident": "HK-0135",
@@ -1447,7 +1573,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP11",
-      "coordinates": "22.41748, 114.37253"
+      "coordinates": "22.41748, 114.37253",
+      "metar_available": false
     },
     {
       "ident": "HK-0136",
@@ -1459,7 +1586,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP16A",
-      "coordinates": "22.37608, 114.37524"
+      "coordinates": "22.37608, 114.37524",
+      "metar_available": false
     },
     {
       "ident": "HK-0137",
@@ -1471,7 +1599,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP16",
-      "coordinates": "22.37472, 114.37618"
+      "coordinates": "22.37472, 114.37618",
+      "metar_available": false
     },
     {
       "ident": "HK-0138",
@@ -1483,7 +1612,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "SP21",
-      "coordinates": "22.42465, 114.35462"
+      "coordinates": "22.42465, 114.35462",
+      "metar_available": false
     },
     {
       "ident": "HK-0139",
@@ -1494,7 +1624,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "P05",
-      "coordinates": "22.51772, 114.10086"
+      "coordinates": "22.51772, 114.10086",
+      "metar_available": false
     },
     {
       "ident": "HK-0140",
@@ -1505,7 +1636,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "SK06",
-      "coordinates": "22.434535, 114.080824"
+      "coordinates": "22.434535, 114.080824",
+      "metar_available": false
     },
     {
       "ident": "HK-0141",
@@ -1516,7 +1648,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "SK07",
-      "coordinates": "22.4344, 114.08413"
+      "coordinates": "22.4344, 114.08413",
+      "metar_available": false
     },
     {
       "ident": "HK-0142",
@@ -1527,7 +1660,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "SK03",
-      "coordinates": "22.43791, 114.08317"
+      "coordinates": "22.43791, 114.08317",
+      "metar_available": false
     },
     {
       "ident": "HK-0143",
@@ -1538,7 +1672,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "SK01",
-      "coordinates": "22.4396, 114.07915"
+      "coordinates": "22.4396, 114.07915",
+      "metar_available": false
     },
     {
       "ident": "HK-0144",
@@ -1550,7 +1685,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "SK04",
-      "coordinates": "22.43932, 114.07532"
+      "coordinates": "22.43932, 114.07532",
+      "metar_available": false
     },
     {
       "ident": "HK-0145",
@@ -1562,7 +1698,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "SK02",
-      "coordinates": "22.4401, 114.08133"
+      "coordinates": "22.4401, 114.08133",
+      "metar_available": false
     },
     {
       "ident": "HK-0146",
@@ -1574,7 +1711,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "WB02",
-      "coordinates": "22.49023, 114.08175"
+      "coordinates": "22.49023, 114.08175",
+      "metar_available": false
     },
     {
       "ident": "HK-0147",
@@ -1586,7 +1724,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "WB16",
-      "coordinates": "22.4987, 114.11655"
+      "coordinates": "22.4987, 114.11655",
+      "metar_available": false
     },
     {
       "ident": "HK-0148",
@@ -1598,7 +1737,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "WB15",
-      "coordinates": "22.48967, 114.13245"
+      "coordinates": "22.48967, 114.13245",
+      "metar_available": false
     },
     {
       "ident": "HK-0149",
@@ -1610,7 +1750,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "WB05",
-      "coordinates": "22.30686, 114.27394"
+      "coordinates": "22.30686, 114.27394",
+      "metar_available": false
     },
     {
       "ident": "HK-0150",
@@ -1622,7 +1763,8 @@
       "iso_region": "HK-NT",
       "municipality": "Sai Kung",
       "local_code": "IS06",
-      "coordinates": "22.33907, 114.26383"
+      "coordinates": "22.33907, 114.26383",
+      "metar_available": false
     },
     {
       "ident": "HK-0151",
@@ -1634,7 +1776,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "CP11",
-      "coordinates": "22.43268, 113.97376"
+      "coordinates": "22.43268, 113.97376",
+      "metar_available": false
     },
     {
       "ident": "HK-0152",
@@ -1646,7 +1789,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "CP01",
-      "coordinates": "22.42501, 113.94687"
+      "coordinates": "22.42501, 113.94687",
+      "metar_available": false
     },
     {
       "ident": "HK-0153",
@@ -1658,7 +1802,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "CP09",
-      "coordinates": "22.4412, 113.96504"
+      "coordinates": "22.4412, 113.96504",
+      "metar_available": false
     },
     {
       "ident": "HK-0154",
@@ -1670,7 +1815,8 @@
       "iso_region": "HK-NT",
       "municipality": "Yuen Long",
       "local_code": "CP04",
-      "coordinates": "22.43353, 113.9595"
+      "coordinates": "22.43353, 113.9595",
+      "metar_available": false
     },
     {
       "ident": "HK-0155",
@@ -1682,7 +1828,8 @@
       "iso_region": "HK-NT",
       "municipality": "Tuen Mun",
       "local_code": "CP15",
-      "coordinates": "22.36019, 113.94733"
+      "coordinates": "22.36019, 113.94733",
+      "metar_available": false
     },
     {
       "ident": "HK-0156",
@@ -1694,7 +1841,8 @@
       "iso_region": "HK-NT",
       "municipality": "North District",
       "local_code": "EB06",
-      "coordinates": "22.52135, 114.24493"
+      "coordinates": "22.52135, 114.24493",
+      "metar_available": false
     },
     {
       "ident": "HK07",
@@ -1707,7 +1855,8 @@
       "municipality": "Wan Chai",
       "gps_code": "HK07",
       "local_code": "HK07",
-      "coordinates": "22.285045, 114.174277"
+      "coordinates": "22.285045, 114.174277",
+      "metar_available": false
     },
     {
       "ident": "VHHH",
@@ -1720,7 +1869,8 @@
       "municipality": "Hong Kong",
       "gps_code": "VHHH",
       "iata_code": "HKG",
-      "coordinates": "22.308901, 113.915001"
+      "coordinates": "22.308901, 113.915001",
+      "metar_available": false
     },
     {
       "ident": "VHSK",
@@ -1732,7 +1882,8 @@
       "iso_region": "HK-NT",
       "municipality": "Islands",
       "gps_code": "VHSK",
-      "coordinates": "22.4366, 114.080002"
+      "coordinates": "22.4366, 114.080002",
+      "metar_available": false
     },
     {
       "ident": "VHST",
@@ -1745,7 +1896,8 @@
       "municipality": "Central and Western",
       "gps_code": "VHST",
       "iata_code": "HHP",
-      "coordinates": "22.288868, 114.152369"
+      "coordinates": "22.288868, 114.152369",
+      "metar_available": false
     }
   ]
 }

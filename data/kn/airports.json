@@ -2,7 +2,7 @@
   "country_code": "KN",
   "country_name": "Saint Kitts and Nevis",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.802912",
+  "last_updated": "2025-08-25T10:08:40.955116",
   "types_distribution": {
     "heliport": 1,
     "medium_airport": 2
@@ -15,7 +15,8 @@
       "iso_country": "KN",
       "iso_region": "KN-U-A",
       "municipality": "Lucas",
-      "coordinates": "17.291017, -62.689065"
+      "coordinates": "17.291017, -62.689065",
+      "metar_available": false
     },
     {
       "ident": "TKPK",
@@ -27,7 +28,8 @@
       "municipality": "Basseterre",
       "gps_code": "TKPK",
       "iata_code": "SKB",
-      "coordinates": "17.311199188232422, -62.71870040893555"
+      "coordinates": "17.311199188232422, -62.71870040893555",
+      "metar_available": false
     },
     {
       "ident": "TKPN",
@@ -39,7 +41,8 @@
       "municipality": "Charlestown",
       "gps_code": "TKPN",
       "iata_code": "NEV",
-      "coordinates": "17.205699920654297, -62.589900970458984"
+      "coordinates": "17.205699920654297, -62.589900970458984",
+      "metar_available": false
     }
   ]
 }

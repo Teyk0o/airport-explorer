@@ -2,7 +2,7 @@
   "country_code": "VE",
   "country_name": "Venezuela",
   "total_airports": 612,
-  "last_updated": "2025-08-01T00:18:22.846739",
+  "last_updated": "2025-08-25T10:08:41.002486",
   "types_distribution": {
     "small_airport": 461,
     "medium_airport": 46,
@@ -21,7 +21,8 @@
       "iso_region": "VE-B",
       "municipality": "El Roble",
       "gps_code": "SV02",
-      "coordinates": "8.404430389404297, -65.0155029296875"
+      "coordinates": "8.404430389404297, -65.0155029296875",
+      "metar_available": false
     },
     {
       "ident": "SV73",
@@ -32,7 +33,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SV73",
-      "coordinates": "8.670319557189941, -62.62540054321289"
+      "coordinates": "8.670319557189941, -62.62540054321289",
+      "metar_available": false
     },
     {
       "ident": "SV74",
@@ -43,7 +45,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SV74",
-      "coordinates": "9.581870079040527, -72.78800201416016"
+      "coordinates": "9.581870079040527, -72.78800201416016",
+      "metar_available": false
     },
     {
       "ident": "SV75",
@@ -54,7 +57,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SV75",
-      "coordinates": "10.088299751281738, -72.55480194091797"
+      "coordinates": "10.088299751281738, -72.55480194091797",
+      "metar_available": false
     },
     {
       "ident": "SVAC",
@@ -67,7 +71,8 @@
       "municipality": "Acarigua",
       "gps_code": "SVAC",
       "iata_code": "AGV",
-      "coordinates": "9.553375, -69.237869"
+      "coordinates": "9.553375, -69.237869",
+      "metar_available": false
     },
     {
       "ident": "SVAE",
@@ -78,7 +83,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVAE",
-      "coordinates": "10.328100204467773, -72.48100280761719"
+      "coordinates": "10.328100204467773, -72.48100280761719",
+      "metar_available": false
     },
     {
       "ident": "SVAF",
@@ -90,7 +96,8 @@
       "iso_region": "VE-C",
       "municipality": "Médano Alto",
       "gps_code": "SVAF",
-      "coordinates": "6.933332920074463, -68.01667022705078"
+      "coordinates": "6.933332920074463, -68.01667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVAH",
@@ -102,7 +109,8 @@
       "iso_region": "VE-K",
       "municipality": "Coco de Mono",
       "gps_code": "SVAH",
-      "coordinates": "10.033332824707031, -69.16666412353516"
+      "coordinates": "10.033332824707031, -69.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVAJ",
@@ -113,7 +121,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVNJ",
-      "coordinates": "8.81893, -65.886703"
+      "coordinates": "8.81893, -65.886703",
+      "metar_available": false
     },
     {
       "ident": "SVAL",
@@ -124,7 +133,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVAL",
-      "coordinates": "8.350000381469727, -69.51667022705078"
+      "coordinates": "8.350000381469727, -69.51667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVAM",
@@ -135,7 +145,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVAM",
-      "coordinates": "7.316667079925537, -69.19999694824219"
+      "coordinates": "7.316667079925537, -69.19999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVAN",
@@ -148,7 +159,8 @@
       "municipality": "Anaco",
       "gps_code": "SVAN",
       "iata_code": "AAO",
-      "coordinates": "9.430225, -64.470726"
+      "coordinates": "9.430225, -64.470726",
+      "metar_available": false
     },
     {
       "ident": "SVAO",
@@ -159,7 +171,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVAO",
-      "coordinates": "9.863332748413086, -66.2933349609375"
+      "coordinates": "9.863332748413086, -66.2933349609375",
+      "metar_available": false
     },
     {
       "ident": "SVAP",
@@ -171,7 +184,8 @@
       "iso_region": "VE-C",
       "municipality": "Apurito",
       "gps_code": "SVAP",
-      "coordinates": "7.918849945068359, -68.48300170898438"
+      "coordinates": "7.918849945068359, -68.48300170898438",
+      "metar_available": false
     },
     {
       "ident": "SVAQ",
@@ -182,7 +196,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVAQ",
-      "coordinates": "9.25, -68.48332977294922"
+      "coordinates": "9.25, -68.48332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVAR",
@@ -194,7 +209,8 @@
       "iso_region": "VE-I",
       "municipality": "Adícora",
       "gps_code": "SVAD",
-      "coordinates": "11.936079, -69.811965"
+      "coordinates": "11.936079, -69.811965",
+      "metar_available": false
     },
     {
       "ident": "SVAS",
@@ -207,7 +223,8 @@
       "municipality": "Guayabal",
       "gps_code": "SVAS",
       "iata_code": "LPJ",
-      "coordinates": "6.57805, -66.816902"
+      "coordinates": "6.57805, -66.816902",
+      "metar_available": false
     },
     {
       "ident": "SVAT",
@@ -219,7 +236,8 @@
       "iso_region": "VE-Z",
       "municipality": "San Fernando de Atabapo",
       "gps_code": "SVAT",
-      "coordinates": "4.051683, -67.701133"
+      "coordinates": "4.051683, -67.701133",
+      "metar_available": false
     },
     {
       "ident": "SVAU",
@@ -230,7 +248,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVAU",
-      "coordinates": "6.75, -68.33333587646484"
+      "coordinates": "6.75, -68.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVAV",
@@ -241,7 +260,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVAV",
-      "coordinates": "9.273332595825195, -63.418331146240234"
+      "coordinates": "9.273332595825195, -63.418331146240234",
+      "metar_available": false
     },
     {
       "ident": "SVAW",
@@ -252,7 +272,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVAW",
-      "coordinates": "7.483333110809326, -67.8499984741211"
+      "coordinates": "7.483333110809326, -67.8499984741211",
+      "metar_available": false
     },
     {
       "ident": "SVAX",
@@ -263,7 +284,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVIA",
-      "coordinates": "10, -72.583336"
+      "coordinates": "10, -72.583336",
+      "metar_available": false
     },
     {
       "ident": "SVAY",
@@ -273,7 +295,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "gps_code": "SVAA",
-      "coordinates": "10.597167, -64.272"
+      "coordinates": "10.597167, -64.272",
+      "metar_available": false
     },
     {
       "ident": "SVAZ",
@@ -284,7 +307,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVAZ",
-      "coordinates": "8.433333396911621, -68.55000305175781"
+      "coordinates": "8.433333396911621, -68.55000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVBA",
@@ -296,7 +320,8 @@
       "iso_region": "VE-E",
       "municipality": "Boca de Anaro",
       "gps_code": "SVBA",
-      "coordinates": "7.8333330154418945, -70.26667022705078"
+      "coordinates": "7.8333330154418945, -70.26667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVBC",
@@ -309,7 +334,8 @@
       "municipality": "Barcelona",
       "gps_code": "SVBC",
       "iata_code": "BLA",
-      "coordinates": "10.111111, -64.692222"
+      "coordinates": "10.111111, -64.692222",
+      "metar_available": false
     },
     {
       "ident": "SVBD",
@@ -320,7 +346,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVBD",
-      "coordinates": "7.616666793823242, -69.05000305175781"
+      "coordinates": "7.616666793823242, -69.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVBE",
@@ -331,7 +358,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVBE",
-      "coordinates": "9.666666984558105, -72.58333587646484"
+      "coordinates": "9.666666984558105, -72.58333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVBG",
@@ -343,7 +371,8 @@
       "iso_region": "VE-H",
       "municipality": "La Cruz",
       "gps_code": "SVBG",
-      "coordinates": "9.199999809265137, -68.16666412353516"
+      "coordinates": "9.199999809265137, -68.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVBH",
@@ -354,7 +383,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVBH",
-      "coordinates": "10.941666603088379, -68.26667022705078"
+      "coordinates": "10.941666603088379, -68.26667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVBI",
@@ -367,7 +397,8 @@
       "municipality": "Barinas",
       "gps_code": "SVBI",
       "iata_code": "BNS",
-      "coordinates": "8.615, -70.214167"
+      "coordinates": "8.615, -70.214167",
+      "metar_available": false
     },
     {
       "ident": "SVBJ",
@@ -378,7 +409,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVBJ",
-      "coordinates": "7.321667194366455, -69.66999816894531"
+      "coordinates": "7.321667194366455, -69.66999816894531",
+      "metar_available": false
     },
     {
       "ident": "SVBK",
@@ -389,7 +421,8 @@
       "iso_region": "VE-T",
       "municipality": "Bocono",
       "gps_code": "SVBO",
-      "coordinates": "9.2671, -70.230499"
+      "coordinates": "9.2671, -70.230499",
+      "metar_available": false
     },
     {
       "ident": "SVBL",
@@ -401,7 +434,8 @@
       "iso_region": "VE-D",
       "gps_code": "SVBL",
       "local_code": "ELR",
-      "coordinates": "10.183375, -67.55732"
+      "coordinates": "10.183375, -67.55732",
+      "metar_available": false
     },
     {
       "ident": "SVBM",
@@ -414,7 +448,8 @@
       "municipality": "Barquisimeto",
       "gps_code": "SVBM",
       "iata_code": "BRM",
-      "coordinates": "10.042747, -69.35862"
+      "coordinates": "10.042747, -69.35862",
+      "metar_available": false
     },
     {
       "ident": "SVBN",
@@ -425,7 +460,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVBN",
-      "coordinates": "6.599999904632568, -62.733333587646484"
+      "coordinates": "6.599999904632568, -62.733333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVBP",
@@ -437,7 +473,8 @@
       "iso_region": "VE-C",
       "municipality": "San Fernando de Apure",
       "gps_code": "SVBP",
-      "coordinates": "7.590715, -67.207841"
+      "coordinates": "7.590715, -67.207841",
+      "metar_available": false
     },
     {
       "ident": "SVBR",
@@ -448,7 +485,8 @@
       "iso_country": "VE",
       "iso_region": "VE-U",
       "gps_code": "SVBR",
-      "coordinates": "10.416666984558105, -68.66666412353516"
+      "coordinates": "10.416666984558105, -68.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVBS",
@@ -460,7 +498,8 @@
       "municipality": "Maracay",
       "gps_code": "SVBS",
       "iata_code": "MYC",
-      "coordinates": "10.249978, -67.649422"
+      "coordinates": "10.249978, -67.649422",
+      "metar_available": false
     },
     {
       "ident": "SVBT",
@@ -471,7 +510,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVBT",
-      "coordinates": "9.199999809265137, -69.75"
+      "coordinates": "9.199999809265137, -69.75",
+      "metar_available": false
     },
     {
       "ident": "SVBU",
@@ -483,7 +523,8 @@
       "iso_region": "VE-T",
       "municipality": "Bobures",
       "gps_code": "SVBU",
-      "coordinates": "9.173054, -71.112871"
+      "coordinates": "9.173054, -71.112871",
+      "metar_available": false
     },
     {
       "ident": "SVBV",
@@ -494,7 +535,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVBV",
-      "coordinates": "8.733332633972168, -69.53333282470703"
+      "coordinates": "8.733332633972168, -69.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVBW",
@@ -505,7 +547,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVBW",
-      "coordinates": "7.128957, -63.461154"
+      "coordinates": "7.128957, -63.461154",
+      "metar_available": false
     },
     {
       "ident": "SVCB",
@@ -518,7 +561,8 @@
       "municipality": "Ciudad Bolivar",
       "gps_code": "SVCB",
       "iata_code": "CBL",
-      "coordinates": "8.122161, -63.536957"
+      "coordinates": "8.122161, -63.536957",
+      "metar_available": false
     },
     {
       "ident": "SVCD",
@@ -530,7 +574,8 @@
       "iso_region": "VE-F",
       "gps_code": "SVCD",
       "iata_code": "CXA",
-      "coordinates": "7.62551, -66.162804"
+      "coordinates": "7.62551, -66.162804",
+      "metar_available": false
     },
     {
       "ident": "SVCE",
@@ -543,7 +588,8 @@
       "municipality": "Zaraza",
       "gps_code": "SVCE",
       "iata_code": "ZRZ",
-      "coordinates": "9.350306, -65.280655"
+      "coordinates": "9.350306, -65.280655",
+      "metar_available": false
     },
     {
       "ident": "SVCG",
@@ -556,7 +602,8 @@
       "municipality": "Casigua El Cubo",
       "gps_code": "SVCG",
       "iata_code": "CUV",
-      "coordinates": "8.75814, -72.536301"
+      "coordinates": "8.75814, -72.536301",
+      "metar_available": false
     },
     {
       "ident": "SVCH",
@@ -567,7 +614,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVCH",
-      "coordinates": "7.739999771118164, -68.23999786376953"
+      "coordinates": "7.739999771118164, -68.23999786376953",
+      "metar_available": false
     },
     {
       "ident": "SVCJ",
@@ -579,7 +627,8 @@
       "iso_region": "VE-H",
       "municipality": "San Carlos",
       "gps_code": "SVCJ",
-      "coordinates": "9.64772, -68.574699"
+      "coordinates": "9.64772, -68.574699",
+      "metar_available": false
     },
     {
       "ident": "SVCK",
@@ -591,7 +640,8 @@
       "iso_region": "VE-P",
       "municipality": "El Poblado",
       "gps_code": "SVCK",
-      "coordinates": "9.416666984558105, -68.88333129882812"
+      "coordinates": "9.416666984558105, -68.88333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVCL",
@@ -603,7 +653,8 @@
       "municipality": "Guarico",
       "gps_code": "SVCL",
       "iata_code": "CLZ",
-      "coordinates": "8.924656, -67.417091"
+      "coordinates": "8.924656, -67.417091",
+      "metar_available": false
     },
     {
       "ident": "SVCM",
@@ -615,7 +666,8 @@
       "iso_region": "VE-H",
       "municipality": "Tinaco",
       "gps_code": "SVCM",
-      "coordinates": "9.683333396911621, -68.41666412353516"
+      "coordinates": "9.683333396911621, -68.41666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVCN",
@@ -628,7 +680,8 @@
       "municipality": "Canaima",
       "gps_code": "SVCN",
       "iata_code": "CAJ",
-      "coordinates": "6.231989, -62.85485"
+      "coordinates": "6.231989, -62.85485",
+      "metar_available": false
     },
     {
       "ident": "SVCP",
@@ -641,7 +694,8 @@
       "municipality": "Carúpano",
       "gps_code": "SVCP",
       "iata_code": "CUP",
-      "coordinates": "10.660014, -63.261681"
+      "coordinates": "10.660014, -63.261681",
+      "metar_available": false
     },
     {
       "ident": "SVCQ",
@@ -652,7 +706,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVCQ",
-      "coordinates": "8.060600280761719, -66.96990203857422"
+      "coordinates": "8.060600280761719, -66.96990203857422",
+      "metar_available": false
     },
     {
       "ident": "SVCR",
@@ -665,7 +720,8 @@
       "municipality": "Coro",
       "gps_code": "SVCR",
       "iata_code": "CZE",
-      "coordinates": "11.414944, -69.680901"
+      "coordinates": "11.414944, -69.680901",
+      "metar_available": false
     },
     {
       "ident": "SVCS",
@@ -676,7 +732,8 @@
       "iso_region": "VE-M",
       "municipality": "Charallave",
       "gps_code": "SVCS",
-      "coordinates": "10.286874, -66.815847"
+      "coordinates": "10.286874, -66.815847",
+      "metar_available": false
     },
     {
       "ident": "SVCT",
@@ -687,7 +744,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVCT",
-      "coordinates": "6.883333206176758, -68.38333129882812"
+      "coordinates": "6.883333206176758, -68.38333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVCU",
@@ -699,7 +757,8 @@
       "iso_region": "VE-R",
       "gps_code": "SVCU",
       "iata_code": "CUM",
-      "coordinates": "10.450333, -64.13047"
+      "coordinates": "10.450333, -64.13047",
+      "metar_available": false
     },
     {
       "ident": "SVCV",
@@ -711,7 +770,8 @@
       "iso_region": "VE-C",
       "municipality": "Cunaviche",
       "gps_code": "SVCV",
-      "coordinates": "7.400000095367432, -67.43333435058594"
+      "coordinates": "7.400000095367432, -67.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVCW",
@@ -722,7 +782,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "gps_code": "SVCW",
-      "coordinates": "9.326666831970215, -70.93333435058594"
+      "coordinates": "9.326666831970215, -70.93333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVCX",
@@ -733,7 +794,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVCX",
-      "coordinates": "7.300000190734863, -68.36666870117188"
+      "coordinates": "7.300000190734863, -68.36666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVCY",
@@ -745,7 +807,8 @@
       "iso_region": "VE-C",
       "municipality": "Las Campanas",
       "gps_code": "SVCY",
-      "coordinates": "6.933332920074463, -68.63333129882812"
+      "coordinates": "6.933332920074463, -68.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVCZ",
@@ -756,7 +819,8 @@
       "iso_region": "VE-J",
       "municipality": "Carrizal",
       "gps_code": "SVCZ",
-      "coordinates": "9.37265, -66.922798"
+      "coordinates": "9.37265, -66.922798",
+      "metar_available": false
     },
     {
       "ident": "SVDA",
@@ -768,7 +832,8 @@
       "iso_region": "VE-O",
       "municipality": "Isla La Tortuga",
       "gps_code": "SVDA",
-      "coordinates": "10.946759, -65.228966"
+      "coordinates": "10.946759, -65.228966",
+      "metar_available": false
     },
     {
       "ident": "SVDB",
@@ -779,7 +844,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVDB",
-      "coordinates": "9.333333015441895, -68.43333435058594"
+      "coordinates": "9.333333015441895, -68.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVDC",
@@ -790,7 +856,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVDC",
-      "coordinates": "8.59000015258789, -66.25499725341797"
+      "coordinates": "8.59000015258789, -66.25499725341797",
+      "metar_available": false
     },
     {
       "ident": "SVDF",
@@ -801,7 +868,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVDF",
-      "coordinates": "6.866666793823242, -68.78333282470703"
+      "coordinates": "6.866666793823242, -68.78333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVDG",
@@ -812,7 +880,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVDG",
-      "coordinates": "9.649999618530273, -63.7216682434082"
+      "coordinates": "9.649999618530273, -63.7216682434082",
+      "metar_available": false
     },
     {
       "ident": "SVDM",
@@ -823,7 +892,8 @@
       "iso_region": "VE-W",
       "municipality": "Isla Los Roques",
       "gps_code": "SVDM",
-      "coordinates": "11.794284, -66.892958"
+      "coordinates": "11.794284, -66.892958",
+      "metar_available": false
     },
     {
       "ident": "SVDP",
@@ -834,7 +904,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVDP",
-      "coordinates": "4.730000019073486, -60.96500015258789"
+      "coordinates": "4.730000019073486, -60.96500015258789",
+      "metar_available": false
     },
     {
       "ident": "SVDR",
@@ -845,7 +916,8 @@
       "iso_region": "VE-E",
       "municipality": "Cordereño",
       "gps_code": "SVUC",
-      "coordinates": "7.933333, -69.900002"
+      "coordinates": "7.933333, -69.900002",
+      "metar_available": false
     },
     {
       "ident": "SVDS",
@@ -856,7 +928,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVDS",
-      "coordinates": "4.7916669845581055, -61.119998931884766"
+      "coordinates": "4.7916669845581055, -61.119998931884766",
+      "metar_available": false
     },
     {
       "ident": "SVDU",
@@ -867,7 +940,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVDU",
-      "coordinates": "11.0275, -70.6925"
+      "coordinates": "11.0275, -70.6925",
+      "metar_available": false
     },
     {
       "ident": "SVDV",
@@ -878,7 +952,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVDV",
-      "coordinates": "9.449999809265137, -63.17499923706055"
+      "coordinates": "9.449999809265137, -63.17499923706055",
+      "metar_available": false
     },
     {
       "ident": "SVDW",
@@ -889,7 +964,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVDW",
-      "coordinates": "7.493790149688721, -63.269798278808594"
+      "coordinates": "7.493790149688721, -63.269798278808594",
+      "metar_available": false
     },
     {
       "ident": "SVDX",
@@ -900,7 +976,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Y",
       "gps_code": "SVDX",
-      "coordinates": "8.466667175292969, -62.483333587646484"
+      "coordinates": "8.466667175292969, -62.483333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVDZ",
@@ -913,7 +990,8 @@
       "municipality": "Puerto Paez",
       "gps_code": "SVDZ",
       "iata_code": "PPZ",
-      "coordinates": "6.220095, -67.447508"
+      "coordinates": "6.220095, -67.447508",
+      "metar_available": false
     },
     {
       "ident": "SVEB",
@@ -924,7 +1002,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVEB",
-      "coordinates": "8.676159858703613, -72.33560180664062"
+      "coordinates": "8.676159858703613, -72.33560180664062",
+      "metar_available": false
     },
     {
       "ident": "SVED",
@@ -937,7 +1016,8 @@
       "municipality": "Bolivar",
       "gps_code": "SVED",
       "iata_code": "EOR",
-      "coordinates": "6.71573, -61.638786"
+      "coordinates": "6.71573, -61.638786",
+      "metar_available": false
     },
     {
       "ident": "SVEE",
@@ -949,7 +1029,8 @@
       "iso_region": "VE-C",
       "municipality": "El Samán de Apure",
       "gps_code": "SVEE",
-      "coordinates": "7.908332824707031, -68.69667053222656"
+      "coordinates": "7.908332824707031, -68.69667053222656",
+      "metar_available": false
     },
     {
       "ident": "SVEF",
@@ -960,7 +1041,8 @@
       "iso_country": "VE",
       "iso_region": "VE-U",
       "gps_code": "SVEF",
-      "coordinates": "10.595000267028809, -68.49500274658203"
+      "coordinates": "10.595000267028809, -68.49500274658203",
+      "metar_available": false
     },
     {
       "ident": "SVEG",
@@ -971,7 +1053,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVEG",
-      "coordinates": "9.699999809265137, -68.33333587646484"
+      "coordinates": "9.699999809265137, -68.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVEJ",
@@ -982,7 +1065,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "gps_code": "SVEJ",
-      "coordinates": "9.449999809265137, -70.80000305175781"
+      "coordinates": "9.449999809265137, -70.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVEK",
@@ -993,7 +1077,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVEK",
-      "coordinates": "10.11359977722168, -72.57659912109375"
+      "coordinates": "10.11359977722168, -72.57659912109375",
+      "metar_available": false
     },
     {
       "ident": "SVEL",
@@ -1004,7 +1089,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVEL",
-      "coordinates": "7.300000190734863, -61.79999923706055"
+      "coordinates": "7.300000190734863, -61.79999923706055",
+      "metar_available": false
     },
     {
       "ident": "SVEM",
@@ -1016,7 +1102,8 @@
       "iso_region": "VE-E",
       "municipality": "El Paraiso",
       "gps_code": "SVEM",
-      "coordinates": "8.333333015441895, -70.375"
+      "coordinates": "8.333333015441895, -70.375",
+      "metar_available": false
     },
     {
       "ident": "SVEN",
@@ -1027,7 +1114,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVEW",
-      "coordinates": "9.03777, -72.24797"
+      "coordinates": "9.03777, -72.24797",
+      "metar_available": false
     },
     {
       "ident": "SVEP",
@@ -1038,7 +1126,8 @@
       "iso_country": "VE",
       "iso_region": "VE-D",
       "gps_code": "SVEP",
-      "coordinates": "10.206666946411133, -67.44166564941406"
+      "coordinates": "10.206666946411133, -67.44166564941406",
+      "metar_available": false
     },
     {
       "ident": "SVER",
@@ -1049,7 +1138,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVER",
-      "coordinates": "7.216667175292969, -68.98332977294922"
+      "coordinates": "7.216667175292969, -68.98332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVES",
@@ -1061,7 +1151,8 @@
       "iso_region": "VE-C",
       "municipality": "El Samán de Apure",
       "gps_code": "SVES",
-      "coordinates": "7.912350177764893, -68.69270324707031"
+      "coordinates": "7.912350177764893, -68.69270324707031",
+      "metar_available": false
     },
     {
       "ident": "SVET",
@@ -1072,7 +1163,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVET",
-      "coordinates": "7.349514, -62.531447"
+      "coordinates": "7.349514, -62.531447",
+      "metar_available": false
     },
     {
       "ident": "SVEW",
@@ -1083,7 +1175,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "gps_code": "SVKC",
-      "coordinates": "9.55, -70.683334"
+      "coordinates": "9.55, -70.683334",
+      "metar_available": false
     },
     {
       "ident": "SVEX",
@@ -1094,7 +1187,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVEX",
-      "coordinates": "8.699999809265137, -69.07499694824219"
+      "coordinates": "8.699999809265137, -69.07499694824219",
+      "metar_available": false
     },
     {
       "ident": "SVEY",
@@ -1105,7 +1199,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVEY",
-      "coordinates": "6.28000020980835, -69.11666870117188"
+      "coordinates": "6.28000020980835, -69.11666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVEZ",
@@ -1117,7 +1212,8 @@
       "iso_region": "VE-C",
       "gps_code": "SVEZ",
       "iata_code": "EOZ",
-      "coordinates": "7.059677, -69.4967"
+      "coordinates": "7.059677, -69.4967",
+      "metar_available": false
     },
     {
       "ident": "SVFE",
@@ -1129,7 +1225,8 @@
       "iso_region": "VE-V",
       "municipality": "Hacienda Santa Fé",
       "gps_code": "SVFE",
-      "coordinates": "9.57438, -72.565838"
+      "coordinates": "9.57438, -72.565838",
+      "metar_available": false
     },
     {
       "ident": "SVFG",
@@ -1140,7 +1237,8 @@
       "iso_region": "VE-J",
       "municipality": "Francisco de Miranda",
       "gps_code": "SVFG",
-      "coordinates": "9.1856, -67.032452"
+      "coordinates": "9.1856, -67.032452",
+      "metar_available": false
     },
     {
       "ident": "SVFK",
@@ -1152,7 +1250,8 @@
       "iso_region": "VE-J",
       "municipality": "La Mosca",
       "gps_code": "SVFK",
-      "coordinates": "9.483332633972168, -67.81666564941406"
+      "coordinates": "9.483332633972168, -67.81666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVFL",
@@ -1163,7 +1262,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVFL",
-      "coordinates": "7.199999809265137, -68.13333129882812"
+      "coordinates": "7.199999809265137, -68.13333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVFM",
@@ -1174,7 +1274,8 @@
       "iso_region": "VE-M",
       "municipality": "Caracas",
       "gps_code": "SVFM",
-      "coordinates": "10.485033, -66.843513"
+      "coordinates": "10.485033, -66.843513",
+      "metar_available": false
     },
     {
       "ident": "SVFR",
@@ -1186,7 +1287,8 @@
       "iso_region": "VE-C",
       "municipality": "Guarico",
       "gps_code": "SVFR",
-      "coordinates": "7.823332786560059, -68.89833068847656"
+      "coordinates": "7.823332786560059, -68.89833068847656",
+      "metar_available": false
     },
     {
       "ident": "SVFS",
@@ -1197,7 +1299,8 @@
       "iso_country": "VE",
       "iso_region": "VE-D",
       "gps_code": "SVFS",
-      "coordinates": "9.401639938354492, -66.64309692382812"
+      "coordinates": "9.401639938354492, -66.64309692382812",
+      "metar_available": false
     },
     {
       "ident": "SVFT",
@@ -1207,7 +1310,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVBF",
-      "coordinates": "7.1, -69.583333"
+      "coordinates": "7.1, -69.583333",
+      "metar_available": false
     },
     {
       "ident": "SVFU",
@@ -1219,7 +1323,8 @@
       "iso_region": "VE-S",
       "municipality": "San Antonio de Caparo",
       "gps_code": "SVFU",
-      "coordinates": "7.5833330154418945, -71.46666717529297"
+      "coordinates": "7.5833330154418945, -71.46666717529297",
+      "metar_available": false
     },
     {
       "ident": "SVFW",
@@ -1230,7 +1335,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVFW",
-      "coordinates": "9.868, -63.752167"
+      "coordinates": "9.868, -63.752167",
+      "metar_available": false
     },
     {
       "ident": "SVFX",
@@ -1241,7 +1347,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVFX",
-      "coordinates": "7.2133331298828125, -69.49666595458984"
+      "coordinates": "7.2133331298828125, -69.49666595458984",
+      "metar_available": false
     },
     {
       "ident": "SVFY",
@@ -1252,7 +1359,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVFY",
-      "coordinates": "9.033332824707031, -69.0999984741211"
+      "coordinates": "9.033332824707031, -69.0999984741211",
+      "metar_available": false
     },
     {
       "ident": "SVGA",
@@ -1263,7 +1371,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVGA",
-      "coordinates": "8.75, -70"
+      "coordinates": "8.75, -70",
+      "metar_available": false
     },
     {
       "ident": "SVGC",
@@ -1274,7 +1383,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVKG",
-      "coordinates": "9.77708, -72.486801"
+      "coordinates": "9.77708, -72.486801",
+      "metar_available": false
     },
     {
       "ident": "SVGD",
@@ -1287,7 +1397,8 @@
       "municipality": "Guasdualito",
       "gps_code": "SVGD",
       "iata_code": "GDO",
-      "coordinates": "7.210834, -70.756386"
+      "coordinates": "7.210834, -70.756386",
+      "metar_available": false
     },
     {
       "ident": "SVGE",
@@ -1298,7 +1409,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVGE",
-      "coordinates": "9.210000038146973, -69.5816650390625"
+      "coordinates": "9.210000038146973, -69.5816650390625",
+      "metar_available": false
     },
     {
       "ident": "SVGG",
@@ -1309,7 +1421,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVGG",
-      "coordinates": "9.583333015441895, -63.04999923706055"
+      "coordinates": "9.583333015441895, -63.04999923706055",
+      "metar_available": false
     },
     {
       "ident": "SVGH",
@@ -1320,7 +1433,8 @@
       "iso_country": "VE",
       "iso_region": "VE-D",
       "gps_code": "SVGH",
-      "coordinates": "9.53499984741211, -66.7249984741211"
+      "coordinates": "9.53499984741211, -66.7249984741211",
+      "metar_available": false
     },
     {
       "ident": "SVGI",
@@ -1332,7 +1446,8 @@
       "iso_region": "VE-R",
       "gps_code": "SVGI",
       "iata_code": "GUI",
-      "coordinates": "10.574077606200001, -62.3126678467"
+      "coordinates": "10.574077606200001, -62.3126678467",
+      "metar_available": false
     },
     {
       "ident": "SVGL",
@@ -1343,7 +1458,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVGL",
-      "coordinates": "7.635000228881836, -70.8499984741211"
+      "coordinates": "7.635000228881836, -70.8499984741211",
+      "metar_available": false
     },
     {
       "ident": "SVGP",
@@ -1354,7 +1470,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVGP",
-      "coordinates": "9.633333206176758, -67.18333435058594"
+      "coordinates": "9.633333206176758, -67.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVGR",
@@ -1365,7 +1482,8 @@
       "iso_country": "VE",
       "iso_region": "VE-U",
       "gps_code": "SVGR",
-      "coordinates": "10.152999877929688, -68.37519836425781"
+      "coordinates": "10.152999877929688, -68.37519836425781",
+      "metar_available": false
     },
     {
       "ident": "SVGT",
@@ -1376,7 +1494,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVGT",
-      "coordinates": "7.475, -61.900002"
+      "coordinates": "7.475, -61.900002",
+      "metar_available": false
     },
     {
       "ident": "SVGU",
@@ -1389,7 +1508,8 @@
       "municipality": "Guanare",
       "gps_code": "SVGU",
       "iata_code": "GUQ",
-      "coordinates": "9.026944, -69.75515"
+      "coordinates": "9.026944, -69.75515",
+      "metar_available": false
     },
     {
       "ident": "SVGX",
@@ -1401,7 +1521,8 @@
       "iso_region": "VE-B",
       "municipality": "Independencia",
       "gps_code": "SVGX",
-      "coordinates": "8.749278, -63.556488"
+      "coordinates": "8.749278, -63.556488",
+      "metar_available": false
     },
     {
       "ident": "SVGZ",
@@ -1412,7 +1533,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVGZ",
-      "coordinates": "7.949999809265137, -69.11666870117188"
+      "coordinates": "7.949999809265137, -69.11666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVHA",
@@ -1423,7 +1545,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVHA",
-      "coordinates": "7.599999904632568, -63.21666717529297"
+      "coordinates": "7.599999904632568, -63.21666717529297",
+      "metar_available": false
     },
     {
       "ident": "SVHC",
@@ -1434,7 +1557,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVHC",
-      "coordinates": "10.149999618530273, -72.18333435058594"
+      "coordinates": "10.149999618530273, -72.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVHD",
@@ -1445,7 +1569,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVHD",
-      "coordinates": "9.899999618530273, -72.55000305175781"
+      "coordinates": "9.899999618530273, -72.55000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVHE",
@@ -1456,7 +1581,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVHE",
-      "coordinates": "9.566666603088379, -67.56666564941406"
+      "coordinates": "9.566666603088379, -67.56666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVHG",
@@ -1468,7 +1594,8 @@
       "municipality": "Higuerote",
       "gps_code": "SVHG",
       "iata_code": "HGE",
-      "coordinates": "10.462474, -66.092779"
+      "coordinates": "10.462474, -66.092779",
+      "metar_available": false
     },
     {
       "ident": "SVHH",
@@ -1480,7 +1607,8 @@
       "iso_region": "VE-I",
       "municipality": "Churuguara",
       "gps_code": "SVHH",
-      "coordinates": "10.808099746704102, -69.63839721679688"
+      "coordinates": "10.808099746704102, -69.63839721679688",
+      "metar_available": false
     },
     {
       "ident": "SVHK",
@@ -1491,7 +1619,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVHK",
-      "coordinates": "9.399999618530273, -67.78333282470703"
+      "coordinates": "9.399999618530273, -67.78333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVHL",
@@ -1502,7 +1631,8 @@
       "iso_country": "VE",
       "iso_region": "VE-D",
       "gps_code": "SVHL",
-      "coordinates": "9.716667175292969, -66.78333282470703"
+      "coordinates": "9.716667175292969, -66.78333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVHM",
@@ -1514,7 +1644,8 @@
       "iso_region": "VE-H",
       "municipality": "Hato Los Mamomes",
       "gps_code": "SVHM",
-      "coordinates": "9.333333015441895, -67.91666412353516"
+      "coordinates": "9.333333015441895, -67.91666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVHN",
@@ -1525,7 +1656,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVHN",
-      "coordinates": "8.105409622192383, -68.71910095214844"
+      "coordinates": "8.105409622192383, -68.71910095214844",
+      "metar_available": false
     },
     {
       "ident": "SVHO",
@@ -1536,7 +1668,8 @@
       "iso_region": "VE-E",
       "municipality": "La Palmita",
       "gps_code": "SVJZ",
-      "coordinates": "8.36822, -69.9571"
+      "coordinates": "8.36822, -69.9571",
+      "metar_available": false
     },
     {
       "ident": "SVHP",
@@ -1548,7 +1681,8 @@
       "iso_region": "VE-K",
       "municipality": "Las Vegas del Tuy",
       "gps_code": "SVHP",
-      "coordinates": "10.713333129882812, -69.20833587646484"
+      "coordinates": "10.713333129882812, -69.20833587646484",
+      "metar_available": false
     },
     {
       "ident": "SVHR",
@@ -1560,7 +1694,8 @@
       "iso_region": "VE-H",
       "municipality": "Los Marimares",
       "gps_code": "SVHR",
-      "coordinates": "9.5, -67.94999694824219"
+      "coordinates": "9.5, -67.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVHS",
@@ -1572,7 +1707,8 @@
       "iso_region": "VE-J",
       "municipality": "El Socorro",
       "gps_code": "SVXS",
-      "coordinates": "8.245639, -65.556921"
+      "coordinates": "8.245639, -65.556921",
+      "metar_available": false
     },
     {
       "ident": "SVHT",
@@ -1583,7 +1719,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVHT",
-      "coordinates": "9.366666793823242, -63.08333206176758"
+      "coordinates": "9.366666793823242, -63.08333206176758",
+      "metar_available": false
     },
     {
       "ident": "SVHX",
@@ -1594,7 +1731,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVHX",
-      "coordinates": "8.683333396911621, -67.71666717529297"
+      "coordinates": "8.683333396911621, -67.71666717529297",
+      "metar_available": false
     },
     {
       "ident": "SVHY",
@@ -1605,7 +1743,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVHY",
-      "coordinates": "8.720000267028809, -68.47166442871094"
+      "coordinates": "8.720000267028809, -68.47166442871094",
+      "metar_available": false
     },
     {
       "ident": "SVIC",
@@ -1617,7 +1756,8 @@
       "iso_region": "VE-F",
       "gps_code": "SVIC",
       "iata_code": "ICA",
-      "coordinates": "4.33632, -61.739601"
+      "coordinates": "4.33632, -61.739601",
+      "metar_available": false
     },
     {
       "ident": "SVIE",
@@ -1630,7 +1770,8 @@
       "municipality": "Isla de Coche",
       "gps_code": "SVIE",
       "iata_code": "ICC",
-      "coordinates": "10.794432, -63.98159"
+      "coordinates": "10.794432, -63.98159",
+      "metar_available": false
     },
     {
       "ident": "SVIM",
@@ -1641,7 +1782,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVIM",
-      "coordinates": "9.100000381469727, -69.62000274658203"
+      "coordinates": "9.100000381469727, -69.62000274658203",
+      "metar_available": false
     },
     {
       "ident": "SVJC",
@@ -1654,7 +1796,8 @@
       "municipality": "Paraguaná",
       "gps_code": "SVJC",
       "iata_code": "LSP",
-      "coordinates": "11.780775, -70.151497"
+      "coordinates": "11.780775, -70.151497",
+      "metar_available": false
     },
     {
       "ident": "SVJF",
@@ -1665,7 +1808,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVJF",
-      "coordinates": "7.400000095367432, -67.98332977294922"
+      "coordinates": "7.400000095367432, -67.98332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVJH",
@@ -1677,7 +1821,8 @@
       "iso_region": "VE-B",
       "municipality": "Soledad",
       "gps_code": "SVJH",
-      "coordinates": "8.179719924926758, -63.59600067138672"
+      "coordinates": "8.179719924926758, -63.59600067138672",
+      "metar_available": false
     },
     {
       "ident": "SVJI",
@@ -1688,7 +1833,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVJI",
-      "coordinates": "9.097180366516113, -63.11859893798828"
+      "coordinates": "9.097180366516113, -63.11859893798828",
+      "metar_available": false
     },
     {
       "ident": "SVJJ",
@@ -1700,7 +1846,8 @@
       "iso_region": "VE-C",
       "municipality": "Anzoategui",
       "gps_code": "SVJJ",
-      "coordinates": "7.443333148956299, -67.79666900634766"
+      "coordinates": "7.443333148956299, -67.79666900634766",
+      "metar_available": false
     },
     {
       "ident": "SVJL",
@@ -1712,7 +1859,8 @@
       "iso_region": "VE-J",
       "municipality": "Guayabal",
       "gps_code": "SVJL",
-      "coordinates": "7.995295, -67.403704"
+      "coordinates": "7.995295, -67.403704",
+      "metar_available": false
     },
     {
       "ident": "SVJM",
@@ -1724,7 +1872,8 @@
       "iso_region": "VE-J",
       "municipality": "San Juan de los Morros",
       "gps_code": "SVJM",
-      "coordinates": "9.906953, -67.379639"
+      "coordinates": "9.906953, -67.379639",
+      "metar_available": false
     },
     {
       "ident": "SVJO",
@@ -1735,7 +1884,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVJO",
-      "coordinates": "9.666666984558105, -67.05000305175781"
+      "coordinates": "9.666666984558105, -67.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVJU",
@@ -1746,7 +1896,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVJU",
-      "coordinates": "9.203088, -68.10817"
+      "coordinates": "9.203088, -68.10817",
+      "metar_available": false
     },
     {
       "ident": "SVKA",
@@ -1759,7 +1910,8 @@
       "municipality": "Kavanayén",
       "gps_code": "SVKA",
       "iata_code": "KAV",
-      "coordinates": "5.593056, -61.763333"
+      "coordinates": "5.593056, -61.763333",
+      "metar_available": false
     },
     {
       "ident": "SVKB",
@@ -1770,7 +1922,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVKB",
-      "coordinates": "7.983333110809326, -70.0999984741211"
+      "coordinates": "7.983333110809326, -70.0999984741211",
+      "metar_available": false
     },
     {
       "ident": "SVKC",
@@ -1781,7 +1934,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVQR",
-      "coordinates": "8.543421, -68.805013"
+      "coordinates": "8.543421, -68.805013",
+      "metar_available": false
     },
     {
       "ident": "SVKI",
@@ -1792,7 +1946,8 @@
       "iso_region": "VE-C",
       "municipality": "Piscuri",
       "gps_code": "SVKI",
-      "coordinates": "7.547239, -71.788179"
+      "coordinates": "7.547239, -71.788179",
+      "metar_available": false
     },
     {
       "ident": "SVKL",
@@ -1804,7 +1959,8 @@
       "iso_region": "VE-L",
       "municipality": "Las Clavellinasmer",
       "gps_code": "SVKL",
-      "coordinates": "9.324999809265137, -70.9749984741211"
+      "coordinates": "9.324999809265137, -70.9749984741211",
+      "metar_available": false
     },
     {
       "ident": "SVKM",
@@ -1817,7 +1973,8 @@
       "municipality": "Kamarata",
       "gps_code": "SVKM",
       "iata_code": "KTV",
-      "coordinates": "5.7171, -62.33727"
+      "coordinates": "5.7171, -62.33727",
+      "metar_available": false
     },
     {
       "ident": "SVKN",
@@ -1828,7 +1985,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVKN",
-      "coordinates": "5.5, -65.61833190917969"
+      "coordinates": "5.5, -65.61833190917969",
+      "metar_available": false
     },
     {
       "ident": "SVLA",
@@ -1840,7 +1998,8 @@
       "iso_region": "VE-B",
       "municipality": "Las Colmenas",
       "gps_code": "SVLA",
-      "coordinates": "9.016667366027832, -63.75"
+      "coordinates": "9.016667366027832, -63.75",
+      "metar_available": false
     },
     {
       "ident": "SVLB",
@@ -1851,7 +2010,8 @@
       "iso_region": "VE-O",
       "municipality": "La Blanquilla - Isla Margarita",
       "gps_code": "SVIB",
-      "coordinates": "11.820579, -64.586212"
+      "coordinates": "11.820579, -64.586212",
+      "metar_available": false
     },
     {
       "ident": "SVLC",
@@ -1863,7 +2023,8 @@
       "iso_region": "VE-C",
       "municipality": "El Lucero",
       "gps_code": "SVLC",
-      "coordinates": "6.983333110809326, -68.06666564941406"
+      "coordinates": "6.983333110809326, -68.06666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVLD",
@@ -1875,7 +2036,8 @@
       "iso_region": "VE-C",
       "municipality": "Mata de Vino",
       "gps_code": "SVLD",
-      "coordinates": "7.203332901000977, -69.53666687011719"
+      "coordinates": "7.203332901000977, -69.53666687011719",
+      "metar_available": false
     },
     {
       "ident": "SVLF",
@@ -1887,7 +2049,8 @@
       "iso_region": "VE-S",
       "gps_code": "SVLF",
       "iata_code": "LFR",
-      "coordinates": "8.239167, -72.271027"
+      "coordinates": "8.239167, -72.271027",
+      "metar_available": false
     },
     {
       "ident": "SVLG",
@@ -1898,7 +2061,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVLG",
-      "coordinates": "9.649999618530273, -68.98332977294922"
+      "coordinates": "9.649999618530273, -68.98332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVLH",
@@ -1910,7 +2074,8 @@
       "iso_region": "VE-C",
       "municipality": "Banco del Medio",
       "gps_code": "SVLH",
-      "coordinates": "7.1666669845581055, -69.38333129882812"
+      "coordinates": "7.1666669845581055, -69.38333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVLI",
@@ -1921,7 +2086,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLI",
-      "coordinates": "7.30698, -67.35287"
+      "coordinates": "7.30698, -67.35287",
+      "metar_available": false
     },
     {
       "ident": "SVLJ",
@@ -1933,7 +2099,8 @@
       "iso_region": "VE-B",
       "municipality": "La Ceiba",
       "gps_code": "SVLJ",
-      "coordinates": "9.683333396911621, -64.18333435058594"
+      "coordinates": "9.683333396911621, -64.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVLK",
@@ -1944,7 +2111,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLK",
-      "coordinates": "6.1666669845581055, -69.16666412353516"
+      "coordinates": "6.1666669845581055, -69.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVLL",
@@ -1956,7 +2124,8 @@
       "iso_region": "VE-E",
       "municipality": "Callejas",
       "gps_code": "SVLL",
-      "coordinates": "8.008333206176758, -69.62666320800781"
+      "coordinates": "8.008333206176758, -69.62666320800781",
+      "metar_available": false
     },
     {
       "ident": "SVLM",
@@ -1967,7 +2136,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVLM",
-      "coordinates": "9.497940063476562, -62.90130615234375"
+      "coordinates": "9.497940063476562, -62.90130615234375",
+      "metar_available": false
     },
     {
       "ident": "SVLN",
@@ -1978,7 +2148,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVLN",
-      "coordinates": "10.726699829101562, -68.33350372314453"
+      "coordinates": "10.726699829101562, -68.33350372314453",
+      "metar_available": false
     },
     {
       "ident": "SVLO",
@@ -1990,7 +2161,8 @@
       "iso_region": "VE-W",
       "municipality": "Isla La Orchila",
       "gps_code": "SVLO",
-      "coordinates": "11.80823, -66.180768"
+      "coordinates": "11.80823, -66.180768",
+      "metar_available": false
     },
     {
       "ident": "SVLP",
@@ -2001,7 +2173,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLP",
-      "coordinates": "6.933332920074463, -68.36666870117188"
+      "coordinates": "6.933332920074463, -68.36666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVLS",
@@ -2012,7 +2185,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLS",
-      "coordinates": "6.766666889190674, -68.3499984741211"
+      "coordinates": "6.766666889190674, -68.3499984741211",
+      "metar_available": false
     },
     {
       "ident": "SVLT",
@@ -2023,7 +2197,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLT",
-      "coordinates": "7.5833330154418945, -69.18333435058594"
+      "coordinates": "7.5833330154418945, -69.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVLU",
@@ -2035,7 +2210,8 @@
       "iso_region": "VE-D",
       "municipality": "El Lechozo",
       "gps_code": "SVLU",
-      "coordinates": "9.300000190734863, -66.67832946777344"
+      "coordinates": "9.300000190734863, -66.67832946777344",
+      "metar_available": false
     },
     {
       "ident": "SVLW",
@@ -2046,7 +2222,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "gps_code": "SVLW",
-      "coordinates": "10.06833267211914, -68.02166748046875"
+      "coordinates": "10.06833267211914, -68.02166748046875",
+      "metar_available": false
     },
     {
       "ident": "SVLX",
@@ -2057,7 +2234,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLX",
-      "coordinates": "6.966667175292969, -69.3499984741211"
+      "coordinates": "6.966667175292969, -69.3499984741211",
+      "metar_available": false
     },
     {
       "ident": "SVLY",
@@ -2068,7 +2246,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVLY",
-      "coordinates": "7.283332824707031, -68.53333282470703"
+      "coordinates": "7.283332824707031, -68.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVLZ",
@@ -2079,7 +2258,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVLZ",
-      "coordinates": "8.328880310058594, -68.75199890136719"
+      "coordinates": "8.328880310058594, -68.75199890136719",
+      "metar_available": false
     },
     {
       "ident": "SVMA",
@@ -2090,7 +2270,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "gps_code": "SVMA",
-      "coordinates": "10.143199920654297, -68.1978988647461"
+      "coordinates": "10.143199920654297, -68.1978988647461",
+      "metar_available": false
     },
     {
       "ident": "SVMB",
@@ -2101,7 +2282,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVMB",
-      "coordinates": "8.671667098999023, -66.50499725341797"
+      "coordinates": "8.671667098999023, -66.50499725341797",
+      "metar_available": false
     },
     {
       "ident": "SVMC",
@@ -2114,7 +2296,8 @@
       "municipality": "Maracaibo",
       "gps_code": "SVMC",
       "iata_code": "MAR",
-      "coordinates": "10.5582084656, -71.7278594971"
+      "coordinates": "10.5582084656, -71.7278594971",
+      "metar_available": false
     },
     {
       "ident": "SVMD",
@@ -2126,7 +2309,8 @@
       "municipality": "Mérida",
       "gps_code": "SVMD",
       "iata_code": "MRD",
-      "coordinates": "8.582078, -71.161041"
+      "coordinates": "8.582078, -71.161041",
+      "metar_available": false
     },
     {
       "ident": "SVME",
@@ -2137,7 +2321,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Y",
       "gps_code": "SVME",
-      "coordinates": "7.7386298179626465, -64.71949768066406"
+      "coordinates": "7.7386298179626465, -64.71949768066406",
+      "metar_available": false
     },
     {
       "ident": "SVMF",
@@ -2148,7 +2333,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVMF",
-      "coordinates": "8.533332824707031, -69.94999694824219"
+      "coordinates": "8.533332824707031, -69.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVMG",
@@ -2161,7 +2347,8 @@
       "municipality": "Isla Margarita",
       "gps_code": "SVMG",
       "iata_code": "PMV",
-      "coordinates": "10.912603378295898, -63.96659851074219"
+      "coordinates": "10.912603378295898, -63.96659851074219",
+      "metar_available": false
     },
     {
       "ident": "SVMH",
@@ -2172,7 +2359,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVYM",
-      "coordinates": "7.316667, -68"
+      "coordinates": "7.316667, -68",
+      "metar_available": false
     },
     {
       "ident": "SVMI",
@@ -2184,7 +2372,8 @@
       "municipality": "Maiquetía",
       "gps_code": "SVMI",
       "iata_code": "CCS",
-      "coordinates": "10.601194, -66.991222"
+      "coordinates": "10.601194, -66.991222",
+      "metar_available": false
     },
     {
       "ident": "SVMJ",
@@ -2195,7 +2384,8 @@
       "iso_country": "VE",
       "iso_region": "VE-U",
       "gps_code": "SVMJ",
-      "coordinates": "10.598333358764648, -68.53500366210938"
+      "coordinates": "10.598333358764648, -68.53500366210938",
+      "metar_available": false
     },
     {
       "ident": "SVMK",
@@ -2206,7 +2396,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVMK",
-      "coordinates": "9.229999542236328, -67.97000122070312"
+      "coordinates": "9.229999542236328, -67.97000122070312",
+      "metar_available": false
     },
     {
       "ident": "SVML",
@@ -2217,7 +2408,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVML",
-      "coordinates": "7.26544, -67.279643"
+      "coordinates": "7.26544, -67.279643",
+      "metar_available": false
     },
     {
       "ident": "SVMM",
@@ -2228,7 +2420,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVMM",
-      "coordinates": "11.266667366027832, -70.25"
+      "coordinates": "11.266667366027832, -70.25",
+      "metar_available": false
     },
     {
       "ident": "SVMN",
@@ -2240,7 +2433,8 @@
       "iso_region": "VE-V",
       "municipality": "Mene Grande",
       "gps_code": "SVMN",
-      "coordinates": "9.803159713745117, -70.89219665527344"
+      "coordinates": "9.803159713745117, -70.89219665527344",
+      "metar_available": false
     },
     {
       "ident": "SVMO",
@@ -2251,7 +2445,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVMO",
-      "coordinates": "7.683332920074463, -68.18333435058594"
+      "coordinates": "7.683332920074463, -68.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVMP",
@@ -2262,7 +2457,8 @@
       "iso_region": "VE-M",
       "municipality": "Ocumare del Tuy",
       "gps_code": "SVMP",
-      "coordinates": "10.133169, -66.787827"
+      "coordinates": "10.133169, -66.787827",
+      "metar_available": false
     },
     {
       "ident": "SVMQ",
@@ -2273,7 +2469,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVMQ",
-      "coordinates": "8.841667175292969, -70.03333282470703"
+      "coordinates": "8.841667175292969, -70.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVMS",
@@ -2284,7 +2481,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVMS",
-      "coordinates": "7.716667175292969, -67.98332977294922"
+      "coordinates": "7.716667175292969, -67.98332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVMT",
@@ -2297,7 +2495,8 @@
       "municipality": "Maturín",
       "gps_code": "SVMT",
       "iata_code": "MUN",
-      "coordinates": "9.749023, -63.153348"
+      "coordinates": "9.749023, -63.153348",
+      "metar_available": false
     },
     {
       "ident": "SVMV",
@@ -2309,7 +2508,8 @@
       "iso_region": "VE-Z",
       "municipality": "Maroa",
       "gps_code": "SVMV",
-      "coordinates": "2.725057, -67.546875"
+      "coordinates": "2.725057, -67.546875",
+      "metar_available": false
     },
     {
       "ident": "SVMW",
@@ -2320,7 +2520,8 @@
       "iso_country": "VE",
       "iso_region": "VE-S",
       "gps_code": "SVMW",
-      "coordinates": "7.616666793823242, -72.44999694824219"
+      "coordinates": "7.616666793823242, -72.44999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVMX",
@@ -2332,7 +2533,8 @@
       "iso_region": "VE-B",
       "municipality": "Las Fernández",
       "gps_code": "SVMX",
-      "coordinates": "9.199999809265137, -64.05000305175781"
+      "coordinates": "9.199999809265137, -64.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVMY",
@@ -2344,7 +2546,8 @@
       "iso_region": "VE-Z",
       "municipality": "San Juan de Manapiare",
       "gps_code": "SVUE",
-      "coordinates": "5.313198, -66.049775"
+      "coordinates": "5.313198, -66.049775",
+      "metar_available": false
     },
     {
       "ident": "SVMZ",
@@ -2356,7 +2559,8 @@
       "iso_region": "VE-C",
       "municipality": "Mantecal",
       "gps_code": "SVMZ",
-      "coordinates": "7.55757999420166, -69.1416015625"
+      "coordinates": "7.55757999420166, -69.1416015625",
+      "metar_available": false
     },
     {
       "ident": "SVNA",
@@ -2367,7 +2571,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVNA",
-      "coordinates": "9.923020362854004, -72.08049774169922"
+      "coordinates": "9.923020362854004, -72.08049774169922",
+      "metar_available": false
     },
     {
       "ident": "SVNB",
@@ -2378,7 +2583,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVNB",
-      "coordinates": "7.400000095367432, -65.18333435058594"
+      "coordinates": "7.400000095367432, -65.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVNE",
@@ -2389,7 +2595,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVNE",
-      "coordinates": "7.766666889190674, -70.26667022705078"
+      "coordinates": "7.766666889190674, -70.26667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVNF",
@@ -2401,7 +2608,8 @@
       "iso_region": "VE-C",
       "municipality": "Morichito",
       "gps_code": "SVNF",
-      "coordinates": "7.383333206176758, -68.83333587646484"
+      "coordinates": "7.383333206176758, -68.83333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVNG",
@@ -2412,7 +2620,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVNG",
-      "coordinates": "10.283332824707031, -72.46666717529297"
+      "coordinates": "10.283332824707031, -72.46666717529297",
+      "metar_available": false
     },
     {
       "ident": "SVNJ",
@@ -2422,7 +2631,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVMH",
-      "coordinates": "8.966667, -66.083336"
+      "coordinates": "8.966667, -66.083336",
+      "metar_available": false
     },
     {
       "ident": "SVNK",
@@ -2433,7 +2643,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "gps_code": "SVNK",
-      "coordinates": "8.417778015136719, -63.567779541015625"
+      "coordinates": "8.417778015136719, -63.567779541015625",
+      "metar_available": false
     },
     {
       "ident": "SVNP",
@@ -2444,7 +2655,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVNP",
-      "coordinates": "9.133333206176758, -69.05500030517578"
+      "coordinates": "9.133333206176758, -69.05500030517578",
+      "metar_available": false
     },
     {
       "ident": "SVNR",
@@ -2455,7 +2667,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVNR",
-      "coordinates": "6.983333110809326, -68.63333129882812"
+      "coordinates": "6.983333110809326, -68.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVNT",
@@ -2467,7 +2680,8 @@
       "iso_region": "VE-C",
       "municipality": "La Guarandinga",
       "gps_code": "SVNT",
-      "coordinates": "7.699999809265137, -69.30000305175781"
+      "coordinates": "7.699999809265137, -69.30000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVNV",
@@ -2478,7 +2692,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVNV",
-      "coordinates": "6.5833330154418945, -66.19999694824219"
+      "coordinates": "6.5833330154418945, -66.19999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVNX",
@@ -2489,7 +2704,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVNX",
-      "coordinates": "8.828149795532227, -63.095001220703125"
+      "coordinates": "8.828149795532227, -63.095001220703125",
+      "metar_available": false
     },
     {
       "ident": "SVOA",
@@ -2500,7 +2716,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVOA",
-      "coordinates": "8.284722328186035, -69.91666412353516"
+      "coordinates": "8.284722328186035, -69.91666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVOB",
@@ -2511,7 +2728,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVOB",
-      "coordinates": "11.050000190734863, -68.48332977294922"
+      "coordinates": "11.050000190734863, -68.48332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVOC",
@@ -2522,7 +2740,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOC",
-      "coordinates": "6.966667175292969, -68.33333587646484"
+      "coordinates": "6.966667175292969, -68.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVOD",
@@ -2533,7 +2752,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVOD",
-      "coordinates": "7.983333110809326, -67.6500015258789"
+      "coordinates": "7.983333110809326, -67.6500015258789",
+      "metar_available": false
     },
     {
       "ident": "SVOE",
@@ -2545,7 +2765,8 @@
       "iso_region": "VE-E",
       "municipality": "Sabaneta",
       "gps_code": "SVOE",
-      "coordinates": "8.744139671325684, -69.91380310058594"
+      "coordinates": "8.744139671325684, -69.91380310058594",
+      "metar_available": false
     },
     {
       "ident": "SVOF",
@@ -2556,7 +2777,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVOF",
-      "coordinates": "9.69849967956543, -63.62229919433594"
+      "coordinates": "9.69849967956543, -63.62229919433594",
+      "metar_available": false
     },
     {
       "ident": "SVOG",
@@ -2567,7 +2789,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVZA",
-      "coordinates": "3.953611, -67.097778"
+      "coordinates": "3.953611, -67.097778",
+      "metar_available": false
     },
     {
       "ident": "SVOH",
@@ -2578,7 +2801,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVOH",
-      "coordinates": "8.350000381469727, -70.05000305175781"
+      "coordinates": "8.350000381469727, -70.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVOI",
@@ -2589,7 +2813,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOI",
-      "coordinates": "7.300000190734863, -68.06666564941406"
+      "coordinates": "7.300000190734863, -68.06666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVOJ",
@@ -2600,7 +2825,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVOJ",
-      "coordinates": "8.066666603088379, -70.18333435058594"
+      "coordinates": "8.066666603088379, -70.18333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVOK",
@@ -2612,7 +2838,8 @@
       "iso_region": "VE-N",
       "municipality": "Oritupano",
       "gps_code": "SVOK",
-      "coordinates": "9.061304, -63.445116"
+      "coordinates": "9.061304, -63.445116",
+      "metar_available": false
     },
     {
       "ident": "SVOL",
@@ -2624,7 +2851,8 @@
       "iso_region": "VE-B",
       "municipality": "Santa Ana",
       "gps_code": "SVOL",
-      "coordinates": "9.316666603088379, -64.63333129882812"
+      "coordinates": "9.316666603088379, -64.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVON",
@@ -2637,7 +2865,8 @@
       "municipality": "Cabimas",
       "gps_code": "SVON",
       "iata_code": "CBS",
-      "coordinates": "10.3307, -71.322502"
+      "coordinates": "10.3307, -71.322502",
+      "metar_available": false
     },
     {
       "ident": "SVOO",
@@ -2648,7 +2877,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOO",
-      "coordinates": "7.650000095367432, -69.41666412353516"
+      "coordinates": "7.650000095367432, -69.41666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVOP",
@@ -2659,7 +2889,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOP",
-      "coordinates": "7.599999904632568, -68.43333435058594"
+      "coordinates": "7.599999904632568, -68.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "SVOQ",
@@ -2670,7 +2901,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVOQ",
-      "coordinates": "8.666666984558105, -67.66666412353516"
+      "coordinates": "8.666666984558105, -67.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVOR",
@@ -2681,7 +2913,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVOR",
-      "coordinates": "8.091667175292969, -66.42166900634766"
+      "coordinates": "8.091667175292969, -66.42166900634766",
+      "metar_available": false
     },
     {
       "ident": "SVOS",
@@ -2692,7 +2925,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOS",
-      "coordinates": "7.466667175292969, -68.66666412353516"
+      "coordinates": "7.466667175292969, -68.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVOT",
@@ -2703,7 +2937,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVOT",
-      "coordinates": "7.766666889190674, -70.63333129882812"
+      "coordinates": "7.766666889190674, -70.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVOW",
@@ -2714,7 +2949,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOW",
-      "coordinates": "7.199999809265137, -68.51667022705078"
+      "coordinates": "7.199999809265137, -68.51667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVOZ",
@@ -2725,7 +2961,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVOZ",
-      "coordinates": "7.783332824707031, -68.5"
+      "coordinates": "7.783332824707031, -68.5",
+      "metar_available": false
     },
     {
       "ident": "SVPA",
@@ -2737,7 +2974,8 @@
       "municipality": "Puerto Ayacucho",
       "gps_code": "SVPA",
       "iata_code": "PYH",
-      "coordinates": "5.61999, -67.606102"
+      "coordinates": "5.61999, -67.606102",
+      "metar_available": false
     },
     {
       "ident": "SVPB",
@@ -2748,7 +2986,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVPB",
-      "coordinates": "10.783900260925293, -68.34369659423828"
+      "coordinates": "10.783900260925293, -68.34369659423828",
+      "metar_available": false
     },
     {
       "ident": "SVPC",
@@ -2760,7 +2999,8 @@
       "iso_region": "VE-G",
       "gps_code": "SVPC",
       "iata_code": "PBL",
-      "coordinates": "10.4805, -68.072998"
+      "coordinates": "10.4805, -68.072998",
+      "metar_available": false
     },
     {
       "ident": "SVPD",
@@ -2771,7 +3011,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVPD",
-      "coordinates": "7.099999904632568, -67.9000015258789"
+      "coordinates": "7.099999904632568, -67.9000015258789",
+      "metar_available": false
     },
     {
       "ident": "SVPE",
@@ -2783,7 +3024,8 @@
       "iso_region": "VE-Y",
       "gps_code": "SVPE",
       "iata_code": "PDZ",
-      "coordinates": "9.97924, -62.2286"
+      "coordinates": "9.97924, -62.2286",
+      "metar_available": false
     },
     {
       "ident": "SVPF",
@@ -2795,7 +3037,8 @@
       "iso_region": "VE-B",
       "municipality": "Pariaguán",
       "gps_code": "SVPF",
-      "coordinates": "8.819120407104492, -64.73970031738281"
+      "coordinates": "8.819120407104492, -64.73970031738281",
+      "metar_available": false
     },
     {
       "ident": "SVPG",
@@ -2806,7 +3049,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVPG",
-      "coordinates": "7.133333206176758, -68.58333587646484"
+      "coordinates": "7.133333206176758, -68.58333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVPH",
@@ -2819,7 +3063,8 @@
       "municipality": "Parai-tepuí",
       "gps_code": "SVPX",
       "iata_code": "PPH",
-      "coordinates": "4.570275, -61.520262"
+      "coordinates": "4.570275, -61.520262",
+      "metar_available": false
     },
     {
       "ident": "SVPI",
@@ -2830,7 +3075,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVPI",
-      "coordinates": "4.466667175292969, -61.59333419799805"
+      "coordinates": "4.466667175292969, -61.59333419799805",
+      "metar_available": false
     },
     {
       "ident": "SVPJ",
@@ -2841,7 +3087,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVPJ",
-      "coordinates": "6.283332824707031, -69.31666564941406"
+      "coordinates": "6.283332824707031, -69.31666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVPK",
@@ -2852,7 +3099,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVPK",
-      "coordinates": "7.633333206176758, -69.36666870117188"
+      "coordinates": "7.633333206176758, -69.36666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVPL",
@@ -2863,7 +3111,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVPL",
-      "coordinates": "7.816667079925537, -62.71666717529297"
+      "coordinates": "7.816667079925537, -62.71666717529297",
+      "metar_available": false
     },
     {
       "ident": "SVPM",
@@ -2875,7 +3124,8 @@
       "iso_region": "VE-S",
       "gps_code": "SVPM",
       "iata_code": "SCI",
-      "coordinates": "7.80132, -72.202904"
+      "coordinates": "7.80132, -72.202904",
+      "metar_available": false
     },
     {
       "ident": "SVPN",
@@ -2886,7 +3136,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVPN",
-      "coordinates": "8.56350040435791, -66.01830291748047"
+      "coordinates": "8.56350040435791, -66.01830291748047",
+      "metar_available": false
     },
     {
       "ident": "SVPO",
@@ -2897,7 +3148,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVPO",
-      "coordinates": "7.550000190734863, -68.25"
+      "coordinates": "7.550000190734863, -68.25",
+      "metar_available": false
     },
     {
       "ident": "SVPP",
@@ -2908,7 +3160,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVPP",
-      "coordinates": "5.792679786682129, -61.44020080566406"
+      "coordinates": "5.792679786682129, -61.44020080566406",
+      "metar_available": false
     },
     {
       "ident": "SVPR",
@@ -2921,7 +3174,8 @@
       "municipality": "Puerto Ordaz-Ciudad Guayana",
       "gps_code": "SVPR",
       "iata_code": "PZO",
-      "coordinates": "8.288530349731445, -62.760398864746094"
+      "coordinates": "8.288530349731445, -62.760398864746094",
+      "metar_available": false
     },
     {
       "ident": "SVPS",
@@ -2933,7 +3187,8 @@
       "iso_region": "VE-K",
       "municipality": "San Pedro",
       "gps_code": "SVPS",
-      "coordinates": "9.890000343322754, -70.12166595458984"
+      "coordinates": "9.890000343322754, -70.12166595458984",
+      "metar_available": false
     },
     {
       "ident": "SVPT",
@@ -2946,7 +3201,8 @@
       "municipality": "Palmarito",
       "gps_code": "SVPT",
       "iata_code": "PTM",
-      "coordinates": "7.56667, -70.183296"
+      "coordinates": "7.56667, -70.183296",
+      "metar_available": false
     },
     {
       "ident": "SVPU",
@@ -2958,7 +3214,8 @@
       "iso_region": "VE-F",
       "municipality": "La Paragua",
       "gps_code": "SVPU",
-      "coordinates": "6.835093, -63.34949"
+      "coordinates": "6.835093, -63.34949",
+      "metar_available": false
     },
     {
       "ident": "SVPV",
@@ -2970,7 +3227,8 @@
       "iso_region": "VE-E",
       "municipality": "Pedraza La Vieja",
       "gps_code": "SVPV",
-      "coordinates": "7.9166669845581055, -71.03333282470703"
+      "coordinates": "7.9166669845581055, -71.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVPW",
@@ -2982,7 +3240,8 @@
       "iso_region": "VE-B",
       "municipality": "Pedro María Freites",
       "gps_code": "SVPW",
-      "coordinates": "9.01309, -63.664095"
+      "coordinates": "9.01309, -63.664095",
+      "metar_available": false
     },
     {
       "ident": "SVPY",
@@ -2993,7 +3252,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "gps_code": "SVPY",
-      "coordinates": "10.489999771118164, -68.17500305175781"
+      "coordinates": "10.489999771118164, -68.17500305175781",
+      "metar_available": false
     },
     {
       "ident": "SVPZ",
@@ -3004,7 +3264,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVPZ",
-      "coordinates": "7.488333225250244, -68.99333190917969"
+      "coordinates": "7.488333225250244, -68.99333190917969",
+      "metar_available": false
     },
     {
       "ident": "SVQA",
@@ -3015,7 +3276,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVQA",
-      "coordinates": "7.466667175292969, -65.56666564941406"
+      "coordinates": "7.466667175292969, -65.56666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVQB",
@@ -3026,7 +3288,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVQB",
-      "coordinates": "7.050000190734863, -67.76667022705078"
+      "coordinates": "7.050000190734863, -67.76667022705078",
+      "metar_available": false
     },
     {
       "ident": "SVQC",
@@ -3037,7 +3300,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVQC",
-      "coordinates": "6.5, -67.13333129882812"
+      "coordinates": "6.5, -67.13333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVQD",
@@ -3048,7 +3312,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVQD",
-      "coordinates": "8.958333015441895, -65.13833618164062"
+      "coordinates": "8.958333015441895, -65.13833618164062",
+      "metar_available": false
     },
     {
       "ident": "SVQI",
@@ -3059,7 +3324,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVQI",
-      "coordinates": "9.350000381469727, -65.80000305175781"
+      "coordinates": "9.350000381469727, -65.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVQJ",
@@ -3071,7 +3337,8 @@
       "iso_region": "VE-C",
       "municipality": "La Trinidad",
       "gps_code": "SVQJ",
-      "coordinates": "7.233333110809326, -69.0999984741211"
+      "coordinates": "7.233333110809326, -69.0999984741211",
+      "metar_available": false
     },
     {
       "ident": "SVQK",
@@ -3082,7 +3349,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVQK",
-      "coordinates": "9.678333282470703, -66.163330078125"
+      "coordinates": "9.678333282470703, -66.163330078125",
+      "metar_available": false
     },
     {
       "ident": "SVQL",
@@ -3094,7 +3362,8 @@
       "iso_region": "VE-F",
       "municipality": "Gurí",
       "gps_code": "SVQL",
-      "coordinates": "7.757760047912598, -63.082298278808594"
+      "coordinates": "7.757760047912598, -63.082298278808594",
+      "metar_available": false
     },
     {
       "ident": "SVQN",
@@ -3105,7 +3374,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVQN",
-      "coordinates": "8.316666603088379, -70.05000305175781"
+      "coordinates": "8.316666603088379, -70.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVQO",
@@ -3116,7 +3386,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "gps_code": "SVQO",
-      "coordinates": "10.080336, -68.121452"
+      "coordinates": "10.080336, -68.121452",
+      "metar_available": false
     },
     {
       "ident": "SVQP",
@@ -3128,7 +3399,8 @@
       "iso_region": "VE-V",
       "municipality": "Miguelón",
       "gps_code": "SVQP",
-      "coordinates": "8.995973, -71.373576"
+      "coordinates": "8.995973, -71.373576",
+      "metar_available": false
     },
     {
       "ident": "SVQQ",
@@ -3139,7 +3411,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "gps_code": "SVQQ",
-      "coordinates": "9.850000381469727, -65.31666564941406"
+      "coordinates": "9.850000381469727, -65.31666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVQT",
@@ -3150,7 +3423,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVQT",
-      "coordinates": "7.633333206176758, -69.92500305175781"
+      "coordinates": "7.633333206176758, -69.92500305175781",
+      "metar_available": false
     },
     {
       "ident": "SVQU",
@@ -3162,7 +3436,8 @@
       "iso_region": "VE-P",
       "municipality": "San Isidro",
       "gps_code": "SVQU",
-      "coordinates": "8.749580383300781, -69.72250366210938"
+      "coordinates": "8.749580383300781, -69.72250366210938",
+      "metar_available": false
     },
     {
       "ident": "SVQW",
@@ -3173,7 +3448,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVQW",
-      "coordinates": "8.833333015441895, -66.36666870117188"
+      "coordinates": "8.833333015441895, -66.36666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVQX",
@@ -3185,7 +3461,8 @@
       "iso_region": "VE-K",
       "municipality": "El Paso",
       "gps_code": "SVQX",
-      "coordinates": "10.566666603088379, -70.13333129882812"
+      "coordinates": "10.566666603088379, -70.13333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVQY",
@@ -3196,7 +3473,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVQY",
-      "coordinates": "7.909999847412109, -64.05833435058594"
+      "coordinates": "7.909999847412109, -64.05833435058594",
+      "metar_available": false
     },
     {
       "ident": "SVQZ",
@@ -3207,7 +3485,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVQZ",
-      "coordinates": "8.433333396911621, -69.73332977294922"
+      "coordinates": "8.433333396911621, -69.73332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVRA",
@@ -3218,7 +3497,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "gps_code": "SVRA",
-      "coordinates": "10.571700096130371, -62.9922981262207"
+      "coordinates": "10.571700096130371, -62.9922981262207",
+      "metar_available": false
     },
     {
       "ident": "SVRB",
@@ -3230,7 +3510,8 @@
       "iso_region": "VE-I",
       "municipality": "Tocópero",
       "gps_code": "SVRB",
-      "coordinates": "11.512376, -69.314507"
+      "coordinates": "11.512376, -69.314507",
+      "metar_available": false
     },
     {
       "ident": "SVRC",
@@ -3241,7 +3522,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVRC",
-      "coordinates": "10.783332824707031, -68.55000305175781"
+      "coordinates": "10.783332824707031, -68.55000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVRE",
@@ -3252,7 +3534,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVRE",
-      "coordinates": "8.393333435058594, -65.86666870117188"
+      "coordinates": "8.393333435058594, -65.86666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVRG",
@@ -3264,7 +3547,8 @@
       "iso_region": "VE-C",
       "municipality": "La Leona",
       "gps_code": "SVRG",
-      "coordinates": "7.349999904632568, -69.3499984741211"
+      "coordinates": "7.349999904632568, -69.3499984741211",
+      "metar_available": false
     },
     {
       "ident": "SVRH",
@@ -3275,7 +3559,8 @@
       "iso_country": "VE",
       "iso_region": "VE-S",
       "gps_code": "SVRH",
-      "coordinates": "7.616666793823242, -71.98332977294922"
+      "coordinates": "7.616666793823242, -71.98332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVRI",
@@ -3287,7 +3572,8 @@
       "iso_region": "VE-C",
       "municipality": "Caño Riecito",
       "gps_code": "SVRI",
-      "coordinates": "6.784060001373291, -68.86509704589844"
+      "coordinates": "6.784060001373291, -68.86509704589844",
+      "metar_available": false
     },
     {
       "ident": "SVRK",
@@ -3298,7 +3584,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVRK",
-      "coordinates": "9.166666984558105, -67.75"
+      "coordinates": "9.166666984558105, -67.75",
+      "metar_available": false
     },
     {
       "ident": "SVRL",
@@ -3309,7 +3596,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVRL",
-      "coordinates": "8.516667366027832, -69.64167022705078"
+      "coordinates": "8.516667366027832, -69.64167022705078",
+      "metar_available": false
     },
     {
       "ident": "SVRM",
@@ -3320,7 +3608,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVRM",
-      "coordinates": "9.5, -67.66666412353516"
+      "coordinates": "9.5, -67.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVRN",
@@ -3331,7 +3620,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVRN",
-      "coordinates": "9.383333206176758, -63.266666412353516"
+      "coordinates": "9.383333206176758, -63.266666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVRO",
@@ -3342,7 +3632,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "gps_code": "SVRO",
-      "coordinates": "10.436667442321777, -63.91666793823242"
+      "coordinates": "10.436667442321777, -63.91666793823242",
+      "metar_available": false
     },
     {
       "ident": "SVRQ",
@@ -3353,7 +3644,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVRQ",
-      "coordinates": "5.433332920074463, -66.13417053222656"
+      "coordinates": "5.433332920074463, -66.13417053222656",
+      "metar_available": false
     },
     {
       "ident": "SVRR",
@@ -3364,7 +3656,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVRR",
-      "coordinates": "6.238992, -62.830839"
+      "coordinates": "6.238992, -62.830839",
+      "metar_available": false
     },
     {
       "ident": "SVRS",
@@ -3376,7 +3669,8 @@
       "municipality": "Gran Roque Island",
       "gps_code": "SVRS",
       "iata_code": "LRV",
-      "coordinates": "11.946177, -66.669836"
+      "coordinates": "11.946177, -66.669836",
+      "metar_available": false
     },
     {
       "ident": "SVRT",
@@ -3387,7 +3681,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVRT",
-      "coordinates": "7.050000190734863, -68.56666564941406"
+      "coordinates": "7.050000190734863, -68.56666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVRU",
@@ -3398,7 +3693,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVRU",
-      "coordinates": "9.200220108032227, -66.31111145019531"
+      "coordinates": "9.200220108032227, -66.31111145019531",
+      "metar_available": false
     },
     {
       "ident": "SVRW",
@@ -3409,7 +3705,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVRW",
-      "coordinates": "9.162762, -72.486452"
+      "coordinates": "9.162762, -72.486452",
+      "metar_available": false
     },
     {
       "ident": "SVRX",
@@ -3420,7 +3717,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVRX",
-      "coordinates": "9.843469619750977, -72.54720306396484"
+      "coordinates": "9.843469619750977, -72.54720306396484",
+      "metar_available": false
     },
     {
       "ident": "SVRY",
@@ -3431,7 +3729,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVRY",
-      "coordinates": "8.166666984558105, -62.83333206176758"
+      "coordinates": "8.166666984558105, -62.83333206176758",
+      "metar_available": false
     },
     {
       "ident": "SVRZ",
@@ -3442,7 +3741,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVRZ",
-      "coordinates": "8.466667175292969, -66.03333282470703"
+      "coordinates": "8.466667175292969, -66.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "SVSA",
@@ -3454,7 +3754,8 @@
       "iso_region": "VE-S",
       "gps_code": "SVSA",
       "iata_code": "SVZ",
-      "coordinates": "7.84083, -72.439697"
+      "coordinates": "7.84083, -72.439697",
+      "metar_available": false
     },
     {
       "ident": "SVSB",
@@ -3467,7 +3768,8 @@
       "municipality": "Santa Bárbara",
       "gps_code": "SVSB",
       "iata_code": "SBB",
-      "coordinates": "7.803514, -71.165718"
+      "coordinates": "7.803514, -71.165718",
+      "metar_available": false
     },
     {
       "ident": "SVSC",
@@ -3478,7 +3780,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVSC",
-      "coordinates": "1.9166669845581055, -67.05000305175781"
+      "coordinates": "1.9166669845581055, -67.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVSD",
@@ -3489,7 +3792,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVSD",
-      "coordinates": "8.816666603088379, -69.63333129882812"
+      "coordinates": "8.816666603088379, -69.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVSE",
@@ -3501,7 +3805,8 @@
       "iso_region": "VE-F",
       "gps_code": "SVSE",
       "iata_code": "SNV",
-      "coordinates": "4.555, -61.150002"
+      "coordinates": "4.555, -61.150002",
+      "metar_available": false
     },
     {
       "ident": "SVSF",
@@ -3512,7 +3817,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVSF",
-      "coordinates": "11.050000190734863, -68.38500213623047"
+      "coordinates": "11.050000190734863, -68.38500213623047",
+      "metar_available": false
     },
     {
       "ident": "SVSG",
@@ -3524,7 +3830,8 @@
       "iso_region": "VE-E",
       "municipality": "Barinas",
       "gps_code": "SVSG",
-      "coordinates": "8.566666603088379, -70.05000305175781"
+      "coordinates": "8.566666603088379, -70.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVSH",
@@ -3535,7 +3842,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVSH",
-      "coordinates": "7.18416690826416, -67.16805267333984"
+      "coordinates": "7.18416690826416, -67.16805267333984",
+      "metar_available": false
     },
     {
       "ident": "SVSI",
@@ -3546,7 +3854,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVSI",
-      "coordinates": "8.949999809265137, -68.08333587646484"
+      "coordinates": "8.949999809265137, -68.08333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVSK",
@@ -3557,7 +3866,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVSK",
-      "coordinates": "9.778332710266113, -68.17500305175781"
+      "coordinates": "9.778332710266113, -68.17500305175781",
+      "metar_available": false
     },
     {
       "ident": "SVSL",
@@ -3568,7 +3878,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "gps_code": "SVSL",
-      "coordinates": "10.316666603088379, -66.30000305175781"
+      "coordinates": "10.316666603088379, -66.30000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVSM",
@@ -3579,7 +3890,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVSM",
-      "coordinates": "8.321666717529297, -70.24666595458984"
+      "coordinates": "8.321666717529297, -70.24666595458984",
+      "metar_available": false
     },
     {
       "ident": "SVSN",
@@ -3590,7 +3902,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVSN",
-      "coordinates": "8.875639915466309, -66.83989715576172"
+      "coordinates": "8.875639915466309, -66.83989715576172",
+      "metar_available": false
     },
     {
       "ident": "SVSO",
@@ -3603,7 +3916,8 @@
       "municipality": "Santo Domingo",
       "gps_code": "SVSO",
       "iata_code": "STD",
-      "coordinates": "7.56538, -72.035103"
+      "coordinates": "7.56538, -72.035103",
+      "metar_available": false
     },
     {
       "ident": "SVSP",
@@ -3616,7 +3930,8 @@
       "municipality": "San Felipe",
       "gps_code": "SVSP",
       "iata_code": "SNF",
-      "coordinates": "10.2787, -68.755203"
+      "coordinates": "10.2787, -68.755203",
+      "metar_available": false
     },
     {
       "ident": "SVSQ",
@@ -3627,7 +3942,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVSQ",
-      "coordinates": "7.033332824707031, -68.33333587646484"
+      "coordinates": "7.033332824707031, -68.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVSR",
@@ -3640,7 +3956,8 @@
       "municipality": "San Fernando de Apure",
       "gps_code": "SVSR",
       "iata_code": "SFD",
-      "coordinates": "7.88332, -67.444"
+      "coordinates": "7.88332, -67.444",
+      "metar_available": false
     },
     {
       "ident": "SVST",
@@ -3653,7 +3970,8 @@
       "municipality": "El Tigre",
       "gps_code": "SVST",
       "iata_code": "SOM",
-      "coordinates": "8.9451465606689, -64.151084899902"
+      "coordinates": "8.9451465606689, -64.151084899902",
+      "metar_available": false
     },
     {
       "ident": "SVSU",
@@ -3664,7 +3982,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVSU",
-      "coordinates": "10.30222225189209, -72.0522232055664"
+      "coordinates": "10.30222225189209, -72.0522232055664",
+      "metar_available": false
     },
     {
       "ident": "SVSW",
@@ -3675,7 +3994,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "gps_code": "SVSW",
-      "coordinates": "10.102222442626953, -68.08333587646484"
+      "coordinates": "10.102222442626953, -68.08333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVSX",
@@ -3686,7 +4006,8 @@
       "iso_country": "VE",
       "iso_region": "VE-I",
       "gps_code": "SVSX",
-      "coordinates": "11.175000190734863, -68.42166900634766"
+      "coordinates": "11.175000190734863, -68.42166900634766",
+      "metar_available": false
     },
     {
       "ident": "SVSY",
@@ -3697,7 +4018,8 @@
       "iso_country": "VE",
       "iso_region": "VE-L",
       "gps_code": "SVSY",
-      "coordinates": "8.800000190734863, -71.58333587646484"
+      "coordinates": "8.800000190734863, -71.58333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVSZ",
@@ -3710,7 +4032,8 @@
       "municipality": "San Carlos del Zulia",
       "gps_code": "SVSZ",
       "iata_code": "STB",
-      "coordinates": "8.97455, -71.943253"
+      "coordinates": "8.97455, -71.943253",
+      "metar_available": false
     },
     {
       "ident": "SVTB",
@@ -3721,7 +4044,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVTB",
-      "coordinates": "7.400000095367432, -64.36666870117188"
+      "coordinates": "7.400000095367432, -64.36666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVTC",
@@ -3734,7 +4058,8 @@
       "municipality": "Tucupita",
       "gps_code": "SVTC",
       "iata_code": "TUV",
-      "coordinates": "9.088994, -62.094173"
+      "coordinates": "9.088994, -62.094173",
+      "metar_available": false
     },
     {
       "ident": "SVTD",
@@ -3746,7 +4071,8 @@
       "iso_region": "VE-C",
       "municipality": "La Estacada",
       "gps_code": "SVTD",
-      "coordinates": "7.400000095367432, -69.06666564941406"
+      "coordinates": "7.400000095367432, -69.06666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVTE",
@@ -3757,7 +4083,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVTE",
-      "coordinates": "6.483333110809326, -62.883331298828125"
+      "coordinates": "6.483333110809326, -62.883331298828125",
+      "metar_available": false
     },
     {
       "ident": "SVTF",
@@ -3768,7 +4095,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVTF",
-      "coordinates": "7.400000095367432, -67.94999694824219"
+      "coordinates": "7.400000095367432, -67.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVTG",
@@ -3779,7 +4107,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVTG",
-      "coordinates": "7.633333206176758, -68.69999694824219"
+      "coordinates": "7.633333206176758, -68.69999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVTJ",
@@ -3791,7 +4120,8 @@
       "iso_region": "VE-U",
       "municipality": "central Matilde",
       "gps_code": "SVTJ",
-      "coordinates": "10.157899856567383, -68.86160278320312"
+      "coordinates": "10.157899856567383, -68.86160278320312",
+      "metar_available": false
     },
     {
       "ident": "SVTK",
@@ -3802,7 +4132,8 @@
       "iso_region": "VE-C",
       "municipality": "La Trinidad de Orichuna",
       "gps_code": "SVTH",
-      "coordinates": "7.108084, -69.789227"
+      "coordinates": "7.108084, -69.789227",
+      "metar_available": false
     },
     {
       "ident": "SVTL",
@@ -3813,7 +4144,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVTL",
-      "coordinates": "6.941667079925537, -65.89167022705078"
+      "coordinates": "6.941667079925537, -65.89167022705078",
+      "metar_available": false
     },
     {
       "ident": "SVTM",
@@ -3825,7 +4157,8 @@
       "iso_region": "VE-F",
       "gps_code": "SVTM",
       "iata_code": "TMO",
-      "coordinates": "7.24938, -61.52893"
+      "coordinates": "7.24938, -61.52893",
+      "metar_available": false
     },
     {
       "ident": "SVTN",
@@ -3836,7 +4169,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVTN",
-      "coordinates": "8.133333206176758, -68.66666412353516"
+      "coordinates": "8.133333206176758, -68.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVTO",
@@ -3848,7 +4182,8 @@
       "iso_region": "VE-B",
       "municipality": "El Toco",
       "gps_code": "SVTO",
-      "coordinates": "9.199999809265137, -64.8499984741211"
+      "coordinates": "9.199999809265137, -64.8499984741211",
+      "metar_available": false
     },
     {
       "ident": "SVTP",
@@ -3859,7 +4194,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "gps_code": "SVTP",
-      "coordinates": "10.141092, -65.437757"
+      "coordinates": "10.141092, -65.437757",
+      "metar_available": false
     },
     {
       "ident": "SVTR",
@@ -3870,7 +4206,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVTR",
-      "coordinates": "9.016667366027832, -62.733333587646484"
+      "coordinates": "9.016667366027832, -62.733333587646484",
+      "metar_available": false
     },
     {
       "ident": "SVTT",
@@ -3881,7 +4218,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVTT",
-      "coordinates": "9.511260032653809, -66.55390167236328"
+      "coordinates": "9.511260032653809, -66.55390167236328",
+      "metar_available": false
     },
     {
       "ident": "SVTU",
@@ -3893,7 +4231,8 @@
       "iso_region": "VE-C",
       "municipality": "Turagua",
       "gps_code": "SVTU",
-      "coordinates": "7.783332824707031, -69.23332977294922"
+      "coordinates": "7.783332824707031, -69.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVTV",
@@ -3904,7 +4243,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "gps_code": "SVTV",
-      "coordinates": "9.25, -69.13333129882812"
+      "coordinates": "9.25, -69.13333129882812",
+      "metar_available": false
     },
     {
       "ident": "SVTY",
@@ -3916,7 +4256,8 @@
       "iso_region": "VE-J",
       "municipality": "Las Mercedes del Llano",
       "gps_code": "SVTW",
-      "coordinates": "9.130826, -66.391153"
+      "coordinates": "9.130826, -66.391153",
+      "metar_available": false
     },
     {
       "ident": "SVUA",
@@ -3927,7 +4268,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVUA",
-      "coordinates": "6.250135, -62.785046"
+      "coordinates": "6.250135, -62.785046",
+      "metar_available": false
     },
     {
       "ident": "SVUK",
@@ -3938,7 +4280,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVUK",
-      "coordinates": "9.449999809265137, -68.36666870117188"
+      "coordinates": "9.449999809265137, -68.36666870117188",
+      "metar_available": false
     },
     {
       "ident": "SVUM",
@@ -3950,7 +4293,8 @@
       "iso_region": "VE-F",
       "gps_code": "SVUM",
       "iata_code": "URM",
-      "coordinates": "5.333333, -62.766666"
+      "coordinates": "5.333333, -62.766666",
+      "metar_available": false
     },
     {
       "ident": "SVUP",
@@ -3961,7 +4305,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVUP",
-      "coordinates": "7.979939937591553, -62.32279968261719"
+      "coordinates": "7.979939937591553, -62.32279968261719",
+      "metar_available": false
     },
     {
       "ident": "SVUQ",
@@ -3972,7 +4317,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVUQ",
-      "coordinates": "4.983333, -61.728333"
+      "coordinates": "4.983333, -61.728333",
+      "metar_available": false
     },
     {
       "ident": "SVUY",
@@ -3983,7 +4329,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVUY",
-      "coordinates": "5.680422, -62.457705"
+      "coordinates": "5.680422, -62.457705",
+      "metar_available": false
     },
     {
       "ident": "SVVA",
@@ -3996,7 +4343,8 @@
       "municipality": "Valencia",
       "gps_code": "SVVA",
       "iata_code": "VLN",
-      "coordinates": "10.14973258972168, -67.92839813232422"
+      "coordinates": "10.14973258972168, -67.92839813232422",
+      "metar_available": false
     },
     {
       "ident": "SVVB",
@@ -4007,7 +4355,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVVB",
-      "coordinates": "9.05138874053955, -66.46749877929688"
+      "coordinates": "9.05138874053955, -66.46749877929688",
+      "metar_available": false
     },
     {
       "ident": "SVVD",
@@ -4018,7 +4367,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVVD",
-      "coordinates": "8.266667366027832, -67.16666412353516"
+      "coordinates": "8.266667366027832, -67.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "SVVG",
@@ -4031,7 +4381,8 @@
       "municipality": "El Vigía",
       "gps_code": "SVVG",
       "iata_code": "VIG",
-      "coordinates": "8.624139, -71.672668"
+      "coordinates": "8.624139, -71.672668",
+      "metar_available": false
     },
     {
       "ident": "SVVH",
@@ -4042,7 +4393,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "gps_code": "SVVH",
-      "coordinates": "9.366666793823242, -62.91666793823242"
+      "coordinates": "9.366666793823242, -62.91666793823242",
+      "metar_available": false
     },
     {
       "ident": "SVVK",
@@ -4054,7 +4406,8 @@
       "iso_region": "VE-C",
       "municipality": "Las Queseritas",
       "gps_code": "SVVK",
-      "coordinates": "7.133333206176758, -69.05000305175781"
+      "coordinates": "7.133333206176758, -69.05000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVVL",
@@ -4067,7 +4420,8 @@
       "municipality": "Valera",
       "gps_code": "SVVL",
       "iata_code": "VLV",
-      "coordinates": "9.340478, -70.584061"
+      "coordinates": "9.340478, -70.584061",
+      "metar_available": false
     },
     {
       "ident": "SVVM",
@@ -4078,7 +4432,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVVM",
-      "coordinates": "6.9166669845581055, -68.1500015258789"
+      "coordinates": "6.9166669845581055, -68.1500015258789",
+      "metar_available": false
     },
     {
       "ident": "SVVP",
@@ -4090,7 +4445,8 @@
       "iso_region": "VE-J",
       "gps_code": "SVVP",
       "iata_code": "VDP",
-      "coordinates": "9.22202777863, -65.9935836792"
+      "coordinates": "9.22202777863, -65.9935836792",
+      "metar_available": false
     },
     {
       "ident": "SVVQ",
@@ -4102,7 +4458,8 @@
       "iso_region": "VE-K",
       "municipality": "Quebrada Arriba",
       "gps_code": "SVVQ",
-      "coordinates": "10.242799758911133, -70.50180053710938"
+      "coordinates": "10.242799758911133, -70.50180053710938",
+      "metar_available": false
     },
     {
       "ident": "SVVR",
@@ -4113,7 +4470,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVVR",
-      "coordinates": "6.8333330154418945, -63.58333206176758"
+      "coordinates": "6.8333330154418945, -63.58333206176758",
+      "metar_available": false
     },
     {
       "ident": "SVVS",
@@ -4124,7 +4482,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "gps_code": "SVVS",
-      "coordinates": "10.316666603088379, -72.30000305175781"
+      "coordinates": "10.316666603088379, -72.30000305175781",
+      "metar_available": false
     },
     {
       "ident": "SVVV",
@@ -4135,7 +4494,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "gps_code": "SVVV",
-      "coordinates": "10.540200233459473, -68.24539947509766"
+      "coordinates": "10.540200233459473, -68.24539947509766",
+      "metar_available": false
     },
     {
       "ident": "SVVX",
@@ -4146,7 +4506,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "gps_code": "SVVX",
-      "coordinates": "6.561666965484619, -66.00166320800781"
+      "coordinates": "6.561666965484619, -66.00166320800781",
+      "metar_available": false
     },
     {
       "ident": "SVWA",
@@ -4158,7 +4519,8 @@
       "iso_region": "VE-C",
       "municipality": "Santa Bárbara",
       "gps_code": "SVWA",
-      "coordinates": "7.316667079925537, -67.90833282470703"
+      "coordinates": "7.316667079925537, -67.90833282470703",
+      "metar_available": false
     },
     {
       "ident": "SVWB",
@@ -4169,7 +4531,8 @@
       "iso_country": "VE",
       "iso_region": "VE-U",
       "gps_code": "SVWB",
-      "coordinates": "10.479499816894531, -68.4728012084961"
+      "coordinates": "10.479499816894531, -68.4728012084961",
+      "metar_available": false
     },
     {
       "ident": "SVWE",
@@ -4179,7 +4542,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVJB",
-      "coordinates": "8.011667, -69.831665"
+      "coordinates": "8.011667, -69.831665",
+      "metar_available": false
     },
     {
       "ident": "SVWQ",
@@ -4191,7 +4555,8 @@
       "iso_region": "VE-E",
       "municipality": "Mijagual",
       "gps_code": "SVWQ",
-      "coordinates": "8.59827, -69.760803"
+      "coordinates": "8.59827, -69.760803",
+      "metar_available": false
     },
     {
       "ident": "SVWX",
@@ -4202,7 +4567,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "gps_code": "SVWX",
-      "coordinates": "9.040833, -67.603"
+      "coordinates": "9.040833, -67.603",
+      "metar_available": false
     },
     {
       "ident": "SVXF",
@@ -4213,7 +4579,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVXF",
-      "coordinates": "7.150000095367432, -69.25"
+      "coordinates": "7.150000095367432, -69.25",
+      "metar_available": false
     },
     {
       "ident": "SVYA",
@@ -4224,7 +4591,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "gps_code": "SVYA",
-      "coordinates": "7.716667175292969, -71.23332977294922"
+      "coordinates": "7.716667175292969, -71.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "SVYG",
@@ -4235,7 +4603,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVYG",
-      "coordinates": "7.466667175292969, -68.44999694824219"
+      "coordinates": "7.466667175292969, -68.44999694824219",
+      "metar_available": false
     },
     {
       "ident": "SVYI",
@@ -4246,7 +4615,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVYI",
-      "coordinates": "5.4583330154418945, -65.89833068847656"
+      "coordinates": "5.4583330154418945, -65.89833068847656",
+      "metar_available": false
     },
     {
       "ident": "SVYP",
@@ -4257,7 +4627,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "gps_code": "SVYP",
-      "coordinates": "7.199999809265137, -69.31666564941406"
+      "coordinates": "7.199999809265137, -69.31666564941406",
+      "metar_available": false
     },
     {
       "ident": "SVYT",
@@ -4268,7 +4639,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVYU",
-      "coordinates": "5.60978, -66.110397"
+      "coordinates": "5.60978, -66.110397",
+      "metar_available": false
     },
     {
       "ident": "VE-0001",
@@ -4278,7 +4650,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.233333110809326, -65.94999694824219"
+      "coordinates": "3.233333110809326, -65.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0002",
@@ -4288,7 +4661,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.233333110809326, -65.94999694824219"
+      "coordinates": "3.233333110809326, -65.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0003",
@@ -4299,7 +4673,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "municipality": "Acarigua",
-      "coordinates": "9.542195, -69.241566"
+      "coordinates": "9.542195, -69.241566",
+      "metar_available": false
     },
     {
       "ident": "VE-0004",
@@ -4309,7 +4684,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-N",
-      "coordinates": "9.579999923706055, -63.63516616821289"
+      "coordinates": "9.579999923706055, -63.63516616821289",
+      "metar_available": false
     },
     {
       "ident": "VE-0005",
@@ -4320,7 +4696,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "municipality": "Cumaná",
-      "coordinates": "10.471667289733887, -64.18499755859375"
+      "coordinates": "10.471667289733887, -64.18499755859375",
+      "metar_available": false
     },
     {
       "ident": "VE-0006",
@@ -4331,7 +4708,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "municipality": "Tumeremo",
-      "coordinates": "7.300556182861328, -61.50138854980469"
+      "coordinates": "7.300556182861328, -61.50138854980469",
+      "metar_available": false
     },
     {
       "ident": "VE-0007",
@@ -4342,7 +4720,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "municipality": "Acarigua",
-      "coordinates": "9.538128, -69.223776"
+      "coordinates": "9.538128, -69.223776",
+      "metar_available": false
     },
     {
       "ident": "VE-0008",
@@ -4352,7 +4731,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "9.258333206176758, -67.55833435058594"
+      "coordinates": "9.258333206176758, -67.55833435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0009",
@@ -4363,7 +4743,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Aguasay",
-      "coordinates": "9.421667098999023, -63.73833465576172"
+      "coordinates": "9.421667098999023, -63.73833465576172",
+      "metar_available": false
     },
     {
       "ident": "VE-0010",
@@ -4374,7 +4755,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Altagracia de Orituco",
-      "coordinates": "9.87166690826416, -66.30833435058594"
+      "coordinates": "9.87166690826416, -66.30833435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0011",
@@ -4385,7 +4767,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Aragua de Maturín",
-      "coordinates": "9.933333396911621, -63.5"
+      "coordinates": "9.933333396911621, -63.5",
+      "metar_available": false
     },
     {
       "ident": "VE-0012",
@@ -4396,7 +4779,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "municipality": "Canaima",
-      "coordinates": "6.483333110809326, -62.891666412353516"
+      "coordinates": "6.483333110809326, -62.891666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0013",
@@ -4406,7 +4790,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "7.0391669273376465, -65.1675033569336"
+      "coordinates": "7.0391669273376465, -65.1675033569336",
+      "metar_available": false
     },
     {
       "ident": "VE-0014",
@@ -4417,7 +4802,8 @@
       "iso_country": "VE",
       "iso_region": "VE-E",
       "municipality": "Arismendi",
-      "coordinates": "8.484167098999023, -68.366943359375"
+      "coordinates": "8.484167098999023, -68.366943359375",
+      "metar_available": false
     },
     {
       "ident": "VE-0015",
@@ -4427,7 +4813,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.468889236450195, -65.7691650390625"
+      "coordinates": "4.468889236450195, -65.7691650390625",
+      "metar_available": false
     },
     {
       "ident": "VE-0016",
@@ -4437,7 +4824,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.199999809265137, -65.58333587646484"
+      "coordinates": "5.199999809265137, -65.58333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0017",
@@ -4448,7 +4836,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "Caracas",
-      "coordinates": "10.481332778930664, -66.70649719238281"
+      "coordinates": "10.481332778930664, -66.70649719238281",
+      "metar_available": false
     },
     {
       "ident": "VE-0018",
@@ -4458,7 +4847,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "San Francisco de Yare",
-      "coordinates": "10.152201, -66.746803"
+      "coordinates": "10.152201, -66.746803",
+      "metar_available": false
     },
     {
       "ident": "VE-0019",
@@ -4469,7 +4859,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Maracaibo",
-      "coordinates": "10.658332824707031, -71.61000061035156"
+      "coordinates": "10.658332824707031, -71.61000061035156",
+      "metar_available": false
     },
     {
       "ident": "VE-0020",
@@ -4480,7 +4871,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Barrancas",
-      "coordinates": "8.699999809265137, -62.20500183105469"
+      "coordinates": "8.699999809265137, -62.20500183105469",
+      "metar_available": false
     },
     {
       "ident": "VE-0021",
@@ -4491,7 +4883,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "municipality": "Culebra",
-      "coordinates": "3.74666690826416, -65.76333618164062"
+      "coordinates": "3.74666690826416, -65.76333618164062",
+      "metar_available": false
     },
     {
       "ident": "VE-0022",
@@ -4502,7 +4895,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Boca de Uracoa",
-      "coordinates": "9.121832847595215, -62.32350158691406"
+      "coordinates": "9.121832847595215, -62.32350158691406",
+      "metar_available": false
     },
     {
       "ident": "VE-0023",
@@ -4512,7 +4906,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.5, -65.33333587646484"
+      "coordinates": "3.5, -65.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0024",
@@ -4522,7 +4917,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-B",
-      "coordinates": "9.356833457946777, -64.51882934570312"
+      "coordinates": "9.356833457946777, -64.51882934570312",
+      "metar_available": false
     },
     {
       "ident": "VE-0025",
@@ -4533,7 +4929,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "San José de Buja",
-      "coordinates": "9.583333015441895, -62.654998779296875"
+      "coordinates": "9.583333015441895, -62.654998779296875",
+      "metar_available": false
     },
     {
       "ident": "VE-0026",
@@ -4544,7 +4941,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Las Múcuras",
-      "coordinates": "10.466667175292969, -71.44999694824219"
+      "coordinates": "10.466667175292969, -71.44999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0027",
@@ -4555,7 +4953,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "municipality": "Canaripo",
-      "coordinates": "4.062468, -66.828305"
+      "coordinates": "4.062468, -66.828305",
+      "metar_available": false
     },
     {
       "ident": "VE-0028",
@@ -4566,7 +4965,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "gps_code": "SVAJ",
-      "coordinates": "4.803983, -65.339719"
+      "coordinates": "4.803983, -65.339719",
+      "metar_available": false
     },
     {
       "ident": "VE-0029",
@@ -4576,7 +4976,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.050000190734863, -66.9000015258789"
+      "coordinates": "6.050000190734863, -66.9000015258789",
+      "metar_available": false
     },
     {
       "ident": "VE-0030",
@@ -4587,7 +4988,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Caicara de Maturín",
-      "coordinates": "9.80666732788086, -63.60499954223633"
+      "coordinates": "9.80666732788086, -63.60499954223633",
+      "metar_available": false
     },
     {
       "ident": "VE-0031",
@@ -4597,7 +4999,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.108333110809326, -66.25833129882812"
+      "coordinates": "5.108333110809326, -66.25833129882812",
+      "metar_available": false
     },
     {
       "ident": "VE-0032",
@@ -4608,7 +5011,8 @@
       "iso_country": "VE",
       "iso_region": "VE-D",
       "municipality": "Camatagua",
-      "coordinates": "9.8114595413208, -66.8927993774414"
+      "coordinates": "9.8114595413208, -66.8927993774414",
+      "metar_available": false
     },
     {
       "ident": "VE-0033",
@@ -4618,7 +5022,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "8.620490074157715, -72.22599792480469"
+      "coordinates": "8.620490074157715, -72.22599792480469",
+      "metar_available": false
     },
     {
       "ident": "VE-0034",
@@ -4628,7 +5033,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.050000190734863, -65.61666870117188"
+      "coordinates": "5.050000190734863, -65.61666870117188",
+      "metar_available": false
     },
     {
       "ident": "VE-0035",
@@ -4638,7 +5044,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.550000190734863, -66.25"
+      "coordinates": "5.550000190734863, -66.25",
+      "metar_available": false
     },
     {
       "ident": "VE-0036",
@@ -4649,7 +5056,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Lagunillas",
-      "coordinates": "10.118332862854004, -71.23833465576172"
+      "coordinates": "10.118332862854004, -71.23833465576172",
+      "metar_available": false
     },
     {
       "ident": "VE-0037",
@@ -4659,7 +5067,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Y",
-      "coordinates": "9.966667175292969, -62.150001525878906"
+      "coordinates": "9.966667175292969, -62.150001525878906",
+      "metar_available": false
     },
     {
       "ident": "VE-0038",
@@ -4670,7 +5079,8 @@
       "iso_country": "VE",
       "iso_region": "VE-X",
       "municipality": "Caracas",
-      "coordinates": "10.598333358800001, -66.9966659546"
+      "coordinates": "10.598333358800001, -66.9966659546",
+      "metar_available": false
     },
     {
       "ident": "VE-0039",
@@ -4681,7 +5091,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Caripe",
-      "coordinates": "10.155555725097656, -63.5"
+      "coordinates": "10.155555725097656, -63.5",
+      "metar_available": false
     },
     {
       "ident": "VE-0040",
@@ -4692,7 +5103,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Caripiro",
-      "coordinates": "10.106200218200684, -63.0974006652832"
+      "coordinates": "10.106200218200684, -63.0974006652832",
+      "metar_available": false
     },
     {
       "ident": "VE-0041",
@@ -4703,7 +5115,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "municipality": "Simaraña",
-      "coordinates": "4.599999904632568, -63.93333435058594"
+      "coordinates": "4.599999904632568, -63.93333435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0042",
@@ -4713,7 +5126,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.4215199947357178, -64.29730224609375"
+      "coordinates": "2.4215199947357178, -64.29730224609375",
+      "metar_available": false
     },
     {
       "ident": "VE-0043",
@@ -4724,7 +5138,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "municipality": "La Ceiba",
-      "coordinates": "9.406841, -71.039725"
+      "coordinates": "9.406841, -71.039725",
+      "metar_available": false
     },
     {
       "ident": "VE-0044",
@@ -4734,7 +5149,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.873332977294922, -71.45500183105469"
+      "coordinates": "9.873332977294922, -71.45500183105469",
+      "metar_available": false
     },
     {
       "ident": "VE-0045",
@@ -4745,7 +5161,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Maracaibo",
-      "coordinates": "10.648332595825195, -71.62999725341797"
+      "coordinates": "10.648332595825195, -71.62999725341797",
+      "metar_available": false
     },
     {
       "ident": "VE-0046",
@@ -4755,7 +5172,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "7.5, -63.400001525878906"
+      "coordinates": "7.5, -63.400001525878906",
+      "metar_available": false
     },
     {
       "ident": "VE-0047",
@@ -4766,7 +5184,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Cerro El Divorcio",
-      "coordinates": "10.091667175292969, -63.80699920654297"
+      "coordinates": "10.091667175292969, -63.80699920654297",
+      "metar_available": false
     },
     {
       "ident": "VE-0048",
@@ -4777,7 +5196,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "municipality": "Buena Esperanza",
-      "coordinates": "10.419333457946777, -63.27299880981445"
+      "coordinates": "10.419333457946777, -63.27299880981445",
+      "metar_available": false
     },
     {
       "ident": "VE-0049",
@@ -4788,7 +5208,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Cerro Negro",
-      "coordinates": "10.213333129882812, -63.5716667175293"
+      "coordinates": "10.213333129882812, -63.5716667175293",
+      "metar_available": false
     },
     {
       "ident": "VE-0050",
@@ -4798,7 +5219,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.1483330726623535, -64.84833526611328"
+      "coordinates": "5.1483330726623535, -64.84833526611328",
+      "metar_available": false
     },
     {
       "ident": "VE-0051",
@@ -4808,7 +5230,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "6.5883331298828125, -68.28666687011719"
+      "coordinates": "6.5883331298828125, -68.28666687011719",
+      "metar_available": false
     },
     {
       "ident": "VE-0052",
@@ -4818,7 +5241,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.033332824707031, -66.26667022705078"
+      "coordinates": "6.033332824707031, -66.26667022705078",
+      "metar_available": false
     },
     {
       "ident": "VE-0053",
@@ -4828,7 +5252,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-K",
-      "coordinates": "10.033332824707031, -69.25"
+      "coordinates": "10.033332824707031, -69.25",
+      "metar_available": false
     },
     {
       "ident": "VE-0054",
@@ -4839,7 +5264,8 @@
       "iso_country": "VE",
       "iso_region": "VE-A",
       "municipality": "Chacao",
-      "coordinates": "10.516500473022461, -66.86609649658203"
+      "coordinates": "10.516500473022461, -66.86609649658203",
+      "metar_available": false
     },
     {
       "ident": "VE-0055",
@@ -4850,7 +5276,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "La Carlota",
-      "coordinates": "10.500100135803223, -66.8677978515625"
+      "coordinates": "10.500100135803223, -66.8677978515625",
+      "metar_available": false
     },
     {
       "ident": "VE-0056",
@@ -4860,7 +5287,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.0833330154418945, -65.81500244140625"
+      "coordinates": "3.0833330154418945, -65.81500244140625",
+      "metar_available": false
     },
     {
       "ident": "VE-0057",
@@ -4870,7 +5298,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.150000095367432, -67.06666564941406"
+      "coordinates": "6.150000095367432, -67.06666564941406",
+      "metar_available": false
     },
     {
       "ident": "VE-0058",
@@ -4881,7 +5310,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "municipality": "Apure",
-      "coordinates": "7.431666851043701, -69.32666778564453"
+      "coordinates": "7.431666851043701, -69.32666778564453",
+      "metar_available": false
     },
     {
       "ident": "VE-0059",
@@ -4891,7 +5321,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.434721946716309, -65.81888580322266"
+      "coordinates": "6.434721946716309, -65.81888580322266",
+      "metar_available": false
     },
     {
       "ident": "VE-0060",
@@ -4902,7 +5333,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "El Encantado",
-      "coordinates": "10.45199966430664, -66.7947998046875"
+      "coordinates": "10.45199966430664, -66.7947998046875",
+      "metar_available": false
     },
     {
       "ident": "VE-0061",
@@ -4912,7 +5344,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "8.316666603088379, -67.11166381835938"
+      "coordinates": "8.316666603088379, -67.11166381835938",
+      "metar_available": false
     },
     {
       "ident": "VE-0062",
@@ -4922,7 +5355,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-E",
-      "coordinates": "8.543333053588867, -70.16666412353516"
+      "coordinates": "8.543333053588867, -70.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0063",
@@ -4932,7 +5366,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "8.824999809265137, -67.0183334350586"
+      "coordinates": "8.824999809265137, -67.0183334350586",
+      "metar_available": false
     },
     {
       "ident": "VE-0064",
@@ -4942,7 +5377,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "10.046667098999023, -71.586669921875"
+      "coordinates": "10.046667098999023, -71.586669921875",
+      "metar_available": false
     },
     {
       "ident": "VE-0065",
@@ -4951,7 +5387,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.585832595825195, -71.4669418334961"
+      "coordinates": "9.585832595825195, -71.4669418334961",
+      "metar_available": false
     },
     {
       "ident": "VE-0066",
@@ -4961,7 +5398,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "9.598210334777832, -66.1355972290039"
+      "coordinates": "9.598210334777832, -66.1355972290039",
+      "metar_available": false
     },
     {
       "ident": "VE-0067",
@@ -4971,7 +5409,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.9583330154418945, -64.43333435058594"
+      "coordinates": "5.9583330154418945, -64.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0068",
@@ -4981,7 +5420,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.133333206176758, -64.8499984741211"
+      "coordinates": "5.133333206176758, -64.8499984741211",
+      "metar_available": false
     },
     {
       "ident": "VE-0069",
@@ -4992,7 +5432,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "municipality": "Cumaná",
-      "coordinates": "10.471667289733887, -64.19000244140625"
+      "coordinates": "10.471667289733887, -64.19000244140625",
+      "metar_available": false
     },
     {
       "ident": "VE-0070",
@@ -5002,7 +5443,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
-      "coordinates": "10.483332633972168, -66.75"
+      "coordinates": "10.483332633972168, -66.75",
+      "metar_available": false
     },
     {
       "ident": "VE-0071",
@@ -5012,7 +5454,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
-      "coordinates": "10.475099563598633, -66.7698974609375"
+      "coordinates": "10.475099563598633, -66.7698974609375",
+      "metar_available": false
     },
     {
       "ident": "VE-0072",
@@ -5022,7 +5465,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-U",
-      "coordinates": "10.158332824707031, -68.9316635131836"
+      "coordinates": "10.158332824707031, -68.9316635131836",
+      "metar_available": false
     },
     {
       "ident": "VE-0073",
@@ -5033,7 +5477,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "El Cercado",
-      "coordinates": "10.479999542236328, -66.64833068847656"
+      "coordinates": "10.479999542236328, -66.64833068847656",
+      "metar_available": false
     },
     {
       "ident": "VE-0074",
@@ -5043,7 +5488,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-M",
-      "coordinates": "10.399999618530273, -67.00833129882812"
+      "coordinates": "10.399999618530273, -67.00833129882812",
+      "metar_available": false
     },
     {
       "ident": "VE-0075",
@@ -5053,7 +5499,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-P",
-      "coordinates": "8.673333168029785, -69.18499755859375"
+      "coordinates": "8.673333168029785, -69.18499755859375",
+      "metar_available": false
     },
     {
       "ident": "VE-0076",
@@ -5063,7 +5510,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.682809829711914, -66.35800170898438"
+      "coordinates": "5.682809829711914, -66.35800170898438",
+      "metar_available": false
     },
     {
       "ident": "VE-0077",
@@ -5073,7 +5521,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.633333206176758, -66.21666717529297"
+      "coordinates": "5.633333206176758, -66.21666717529297",
+      "metar_available": false
     },
     {
       "ident": "VE-0078",
@@ -5083,7 +5532,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Y",
-      "coordinates": "9.191944122314453, -61.09138870239258"
+      "coordinates": "9.191944122314453, -61.09138870239258",
+      "metar_available": false
     },
     {
       "ident": "VE-0079",
@@ -5093,7 +5543,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-E",
-      "coordinates": "8.050000190734863, -69.8499984741211"
+      "coordinates": "8.050000190734863, -69.8499984741211",
+      "metar_available": false
     },
     {
       "ident": "VE-0081",
@@ -5103,7 +5554,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "8.116666793823242, -66.58333587646484"
+      "coordinates": "8.116666793823242, -66.58333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0082",
@@ -5113,7 +5565,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "8.966667175292969, -67.80000305175781"
+      "coordinates": "8.966667175292969, -67.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "VE-0083",
@@ -5123,7 +5576,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-B",
-      "coordinates": "8.84000015258789, -63.60166549682617"
+      "coordinates": "8.84000015258789, -63.60166549682617",
+      "metar_available": false
     },
     {
       "ident": "VE-0084",
@@ -5133,7 +5587,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "8.805000305175781, -67.13166809082031"
+      "coordinates": "8.805000305175781, -67.13166809082031",
+      "metar_available": false
     },
     {
       "ident": "VE-0085",
@@ -5144,7 +5599,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "municipality": "El Socorro",
-      "coordinates": "8.991666793823242, -68.2249984741211"
+      "coordinates": "8.991666793823242, -68.2249984741211",
+      "metar_available": false
     },
     {
       "ident": "VE-0086",
@@ -5154,7 +5610,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-N",
-      "coordinates": "9.838333129882812, -63.573333740234375"
+      "coordinates": "9.838333129882812, -63.573333740234375",
+      "metar_available": false
     },
     {
       "ident": "VE-0087",
@@ -5164,7 +5621,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "9.635000228881836, -65.80332946777344"
+      "coordinates": "9.635000228881836, -65.80332946777344",
+      "metar_available": false
     },
     {
       "ident": "VE-0088",
@@ -5174,7 +5632,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-B",
-      "coordinates": "8.78499984741211, -63.73833465576172"
+      "coordinates": "8.78499984741211, -63.73833465576172",
+      "metar_available": false
     },
     {
       "ident": "VE-0089",
@@ -5184,7 +5643,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "9.050000190734863, -67.6500015258789"
+      "coordinates": "9.050000190734863, -67.6500015258789",
+      "metar_available": false
     },
     {
       "ident": "VE-0090",
@@ -5194,7 +5654,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "7.668333053588867, -69.32499694824219"
+      "coordinates": "7.668333053588867, -69.32499694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0091",
@@ -5204,7 +5665,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "6.989999771118164, -68.26166534423828"
+      "coordinates": "6.989999771118164, -68.26166534423828",
+      "metar_available": false
     },
     {
       "ident": "VE-0092",
@@ -5215,7 +5677,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "municipality": "Las Matas",
-      "coordinates": "8.704999923706055, -64.62000274658203"
+      "coordinates": "8.704999923706055, -64.62000274658203",
+      "metar_available": false
     },
     {
       "ident": "VE-0093",
@@ -5225,7 +5688,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.589670181274414, -65.86070251464844"
+      "coordinates": "5.589670181274414, -65.86070251464844",
+      "metar_available": false
     },
     {
       "ident": "VE-0094",
@@ -5236,7 +5700,8 @@
       "iso_country": "VE",
       "iso_region": "VE-U",
       "municipality": "La Piedra",
-      "coordinates": "10.116666793823242, -69.08333587646484"
+      "coordinates": "10.116666793823242, -69.08333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0095",
@@ -5247,7 +5712,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Y",
       "municipality": "Isla de Tigre",
-      "coordinates": "9.57, -62.436699"
+      "coordinates": "9.57, -62.436699",
+      "metar_available": false
     },
     {
       "ident": "VE-0096",
@@ -5257,7 +5723,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.050278186798096, -67.81722259521484"
+      "coordinates": "5.050278186798096, -67.81722259521484",
+      "metar_available": false
     },
     {
       "ident": "VE-0097",
@@ -5268,7 +5735,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "municipality": "El José",
-      "coordinates": "10.069899559020996, -64.8678970336914"
+      "coordinates": "10.069899559020996, -64.8678970336914",
+      "metar_available": false
     },
     {
       "ident": "VE-0098",
@@ -5279,7 +5747,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "municipality": "Juan Mateo",
-      "coordinates": "7.431666851043701, -68.13666534423828"
+      "coordinates": "7.431666851043701, -68.13666534423828",
+      "metar_available": false
     },
     {
       "ident": "VE-0099",
@@ -5289,7 +5758,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.050000190734863, -66.23332977294922"
+      "coordinates": "5.050000190734863, -66.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "VE-0100",
@@ -5299,7 +5769,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "4.433332920074463, -64.13333129882812"
+      "coordinates": "4.433332920074463, -64.13333129882812",
+      "metar_available": false
     },
     {
       "ident": "VE-0101",
@@ -5309,7 +5780,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "4.4166669845581055, -64.11666870117188"
+      "coordinates": "4.4166669845581055, -64.11666870117188",
+      "metar_available": false
     },
     {
       "ident": "VE-0102",
@@ -5319,7 +5791,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.066667079925537, -66.94999694824219"
+      "coordinates": "4.066667079925537, -66.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0103",
@@ -5329,7 +5802,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.71196, -62.409559"
+      "coordinates": "5.71196, -62.409559",
+      "metar_available": false
     },
     {
       "ident": "VE-0104",
@@ -5339,7 +5813,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "7.483333110809326, -68.9000015258789"
+      "coordinates": "7.483333110809326, -68.9000015258789",
+      "metar_available": false
     },
     {
       "ident": "VE-0105",
@@ -5349,7 +5824,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-P",
-      "coordinates": "8.716667175292969, -69.24166870117188"
+      "coordinates": "8.716667175292969, -69.24166870117188",
+      "metar_available": false
     },
     {
       "ident": "VE-0106",
@@ -5360,7 +5836,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "La Concepción",
-      "coordinates": "10.618332862854004, -71.8183364868164"
+      "coordinates": "10.618332862854004, -71.8183364868164",
+      "metar_available": false
     },
     {
       "ident": "VE-0107",
@@ -5372,7 +5849,8 @@
       "iso_region": "VE-Z",
       "municipality": "La Esmeralda",
       "gps_code": "SVLE",
-      "coordinates": "3.172225, -65.541086"
+      "coordinates": "3.172225, -65.541086",
+      "metar_available": false
     },
     {
       "ident": "VE-0108",
@@ -5382,7 +5860,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Y",
-      "coordinates": "9.290833473205566, -62.288333892822266"
+      "coordinates": "9.290833473205566, -62.288333892822266",
+      "metar_available": false
     },
     {
       "ident": "VE-0109",
@@ -5393,7 +5872,8 @@
       "iso_country": "VE",
       "iso_region": "VE-O",
       "municipality": "Isla La Tortuga",
-      "coordinates": "10.9266996383667, -65.40889739990234"
+      "coordinates": "10.9266996383667, -65.40889739990234",
+      "metar_available": false
     },
     {
       "ident": "VE-0110",
@@ -5403,7 +5883,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.099999904632568, -65.93333435058594"
+      "coordinates": "5.099999904632568, -65.93333435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0111",
@@ -5413,7 +5894,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-H",
-      "coordinates": "8.731666564941406, -68.47000122070312"
+      "coordinates": "8.731666564941406, -68.47000122070312",
+      "metar_available": false
     },
     {
       "ident": "VE-0112",
@@ -5424,7 +5906,8 @@
       "iso_country": "VE",
       "iso_region": "VE-R",
       "municipality": "Guariquén",
-      "coordinates": "10.199999809265137, -62.866668701171875"
+      "coordinates": "10.199999809265137, -62.866668701171875",
+      "metar_available": false
     },
     {
       "ident": "VE-0113",
@@ -5435,7 +5918,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Lagunillas",
-      "coordinates": "10.133333206176758, -71.25"
+      "coordinates": "10.133333206176758, -71.25",
+      "metar_available": false
     },
     {
       "ident": "VE-0114",
@@ -5447,7 +5931,8 @@
       "iso_region": "VE-V",
       "municipality": "Lagunillas",
       "iata_code": "LGY",
-      "coordinates": "10.12399959564209, -71.23799896240234"
+      "coordinates": "10.12399959564209, -71.23799896240234",
+      "metar_available": false
     },
     {
       "ident": "VE-0115",
@@ -5457,7 +5942,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.65999984741211, -71.6449966430664"
+      "coordinates": "9.65999984741211, -71.6449966430664",
+      "metar_available": false
     },
     {
       "ident": "VE-0116",
@@ -5467,7 +5953,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "7.211667060852051, -69.8499984741211"
+      "coordinates": "7.211667060852051, -69.8499984741211",
+      "metar_available": false
     },
     {
       "ident": "VE-0117",
@@ -5478,7 +5965,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "municipality": "La Villeguera",
-      "coordinates": "6.953951, -67.241082"
+      "coordinates": "6.953951, -67.241082",
+      "metar_available": false
     },
     {
       "ident": "VE-0118",
@@ -5489,7 +5977,8 @@
       "iso_country": "VE",
       "iso_region": "VE-X",
       "municipality": "Mamo",
-      "coordinates": "10.5916671753, -67.063331604"
+      "coordinates": "10.5916671753, -67.063331604",
+      "metar_available": false
     },
     {
       "ident": "VE-0119",
@@ -5500,7 +5989,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "municipality": "Los Caballos",
-      "coordinates": "9.311667442321777, -68.163330078125"
+      "coordinates": "9.311667442321777, -68.163330078125",
+      "metar_available": false
     },
     {
       "ident": "VE-0120",
@@ -5510,7 +6000,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-H",
-      "coordinates": "9.616666793823242, -68.4000015258789"
+      "coordinates": "9.616666793823242, -68.4000015258789",
+      "metar_available": false
     },
     {
       "ident": "VE-0121",
@@ -5520,7 +6011,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "8.276666641235352, -62.39833450317383"
+      "coordinates": "8.276666641235352, -62.39833450317383",
+      "metar_available": false
     },
     {
       "ident": "VE-0122",
@@ -5530,7 +6022,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.466667175292969, -65.91666412353516"
+      "coordinates": "5.466667175292969, -65.91666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0123",
@@ -5540,7 +6033,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.133333206176758, -65.03333282470703"
+      "coordinates": "5.133333206176758, -65.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "VE-0124",
@@ -5550,7 +6044,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.233333110809326, -64.9000015258789"
+      "coordinates": "5.233333110809326, -64.9000015258789",
+      "metar_available": false
     },
     {
       "ident": "VE-0125",
@@ -5560,7 +6055,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-X",
-      "coordinates": "10.6162004471, -66.8252029419"
+      "coordinates": "10.6162004471, -66.8252029419",
+      "metar_available": false
     },
     {
       "ident": "VE-0126",
@@ -5570,7 +6066,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.966667175292969, -66.91666412353516"
+      "coordinates": "5.966667175292969, -66.91666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0127",
@@ -5580,7 +6077,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.164999961853027, -66.5250015258789"
+      "coordinates": "5.164999961853027, -66.5250015258789",
+      "metar_available": false
     },
     {
       "ident": "VE-0128",
@@ -5590,7 +6088,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.301667213439941, -66.29666900634766"
+      "coordinates": "4.301667213439941, -66.29666900634766",
+      "metar_available": false
     },
     {
       "ident": "VE-0129",
@@ -5600,7 +6099,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-E",
-      "coordinates": "8.416666984558105, -68.44999694824219"
+      "coordinates": "8.416666984558105, -68.44999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0130",
@@ -5610,7 +6110,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "7.989630222320557, -69.2782974243164"
+      "coordinates": "7.989630222320557, -69.2782974243164",
+      "metar_available": false
     },
     {
       "ident": "VE-0131",
@@ -5620,7 +6121,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.537709951400757, -65.20279693603516"
+      "coordinates": "2.537709951400757, -65.20279693603516",
+      "metar_available": false
     },
     {
       "ident": "VE-0132",
@@ -5630,7 +6132,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.5206899642944336, -65.1990966796875"
+      "coordinates": "2.5206899642944336, -65.1990966796875",
+      "metar_available": false
     },
     {
       "ident": "VE-0133",
@@ -5640,7 +6143,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.1666669845581055, -65.19999694824219"
+      "coordinates": "4.1666669845581055, -65.19999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0134",
@@ -5650,7 +6154,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.733333110809326, -64.08333587646484"
+      "coordinates": "2.733333110809326, -64.08333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0135",
@@ -5661,7 +6166,8 @@
       "iso_country": "VE",
       "iso_region": "VE-X",
       "municipality": "La Guaira",
-      "coordinates": "10.6153478622, -66.84023284909999"
+      "coordinates": "10.6153478622, -66.84023284909999",
+      "metar_available": false
     },
     {
       "ident": "VE-0136",
@@ -5671,7 +6177,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.716667175292969, -71.17832946777344"
+      "coordinates": "9.716667175292969, -71.17832946777344",
+      "metar_available": false
     },
     {
       "ident": "VE-0137",
@@ -5681,7 +6188,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "7.131667137145996, -69.23332977294922"
+      "coordinates": "7.131667137145996, -69.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "VE-0138",
@@ -5691,7 +6199,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.5833330154418945, -65.94999694824219"
+      "coordinates": "5.5833330154418945, -65.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0139",
@@ -5701,7 +6210,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3, -65.28333282470703"
+      "coordinates": "3, -65.28333282470703",
+      "metar_available": false
     },
     {
       "ident": "VE-0140",
@@ -5711,7 +6221,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.716667175292969, -66.33333587646484"
+      "coordinates": "4.716667175292969, -66.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0141",
@@ -5722,7 +6233,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "municipality": "Santa Isabel",
-      "coordinates": "9.62166690826416, -70.80833435058594"
+      "coordinates": "9.62166690826416, -70.80833435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0142",
@@ -5732,7 +6244,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-N",
-      "coordinates": "9.12527847290039, -62.32805633544922"
+      "coordinates": "9.12527847290039, -62.32805633544922",
+      "metar_available": false
     },
     {
       "ident": "VE-0143",
@@ -5743,7 +6256,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "municipality": "Puerto La Cruz",
-      "coordinates": "10.237099647521973, -64.6343994140625"
+      "coordinates": "10.237099647521973, -64.6343994140625",
+      "metar_available": false
     },
     {
       "ident": "VE-0144",
@@ -5753,7 +6267,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.7895898818969727, -65.216796875"
+      "coordinates": "2.7895898818969727, -65.216796875",
+      "metar_available": false
     },
     {
       "ident": "VE-0145",
@@ -5763,7 +6278,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "6.599999904632568, -68.43333435058594"
+      "coordinates": "6.599999904632568, -68.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0146",
@@ -5773,7 +6289,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.7833330631256104, -64.23332977294922"
+      "coordinates": "2.7833330631256104, -64.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "VE-0147",
@@ -5784,7 +6301,8 @@
       "iso_country": "VE",
       "iso_region": "VE-A",
       "municipality": "Caracas",
-      "coordinates": "10.50100040435791, -66.90129852294922"
+      "coordinates": "10.50100040435791, -66.90129852294922",
+      "metar_available": false
     },
     {
       "ident": "VE-0148",
@@ -5794,7 +6312,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.4816670417785645, -63.621665954589844"
+      "coordinates": "5.4816670417785645, -63.621665954589844",
+      "metar_available": false
     },
     {
       "ident": "VE-0149",
@@ -5805,7 +6324,8 @@
       "iso_country": "VE",
       "iso_region": "VE-A",
       "municipality": "Caracas",
-      "coordinates": "10.452500343322754, -66.92350006103516"
+      "coordinates": "10.452500343322754, -66.92350006103516",
+      "metar_available": false
     },
     {
       "ident": "VE-0150",
@@ -5815,7 +6335,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.102089881896973, -67.06849670410156"
+      "coordinates": "6.102089881896973, -67.06849670410156",
+      "metar_available": false
     },
     {
       "ident": "VE-0151",
@@ -5825,7 +6346,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.983333110809326, -66.23332977294922"
+      "coordinates": "5.983333110809326, -66.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "VE-0152",
@@ -5835,7 +6357,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "10.116666793823242, -71.53333282470703"
+      "coordinates": "10.116666793823242, -71.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "VE-0153",
@@ -5845,7 +6368,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "10.125, -71.53500366210938"
+      "coordinates": "10.125, -71.53500366210938",
+      "metar_available": false
     },
     {
       "ident": "VE-0154",
@@ -5855,7 +6379,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.933500289916992, -71.6433334350586"
+      "coordinates": "9.933500289916992, -71.6433334350586",
+      "metar_available": false
     },
     {
       "ident": "VE-0155",
@@ -5866,7 +6391,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "La Paz",
-      "coordinates": "10.701666831970215, -71.96700286865234"
+      "coordinates": "10.701666831970215, -71.96700286865234",
+      "metar_available": false
     },
     {
       "ident": "VE-0156",
@@ -5877,7 +6403,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Campo Mara",
-      "coordinates": "10.880000114440918, -71.88666534423828"
+      "coordinates": "10.880000114440918, -71.88666534423828",
+      "metar_available": false
     },
     {
       "ident": "VE-0157",
@@ -5888,7 +6415,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "municipality": "Puerto Ayacucho",
-      "coordinates": "5.699260234832764, -67.59950256347656"
+      "coordinates": "5.699260234832764, -67.59950256347656",
+      "metar_available": false
     },
     {
       "ident": "VE-0158",
@@ -5898,7 +6426,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "8.084444046020508, -63.40194320678711"
+      "coordinates": "8.084444046020508, -63.40194320678711",
+      "metar_available": false
     },
     {
       "ident": "VE-0159",
@@ -5909,7 +6438,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "municipality": "Puerto Ordaz",
-      "coordinates": "8.239999771118164, -62.866668701171875"
+      "coordinates": "8.239999771118164, -62.866668701171875",
+      "metar_available": false
     },
     {
       "ident": "VE-0160",
@@ -5919,7 +6449,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-B",
-      "coordinates": "8.966699600219727, -64.20249938964844"
+      "coordinates": "8.966699600219727, -64.20249938964844",
+      "metar_available": false
     },
     {
       "ident": "VE-0161",
@@ -5929,7 +6460,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "2.429229974746704, -64.90859985351562"
+      "coordinates": "2.429229974746704, -64.90859985351562",
+      "metar_available": false
     },
     {
       "ident": "VE-0162",
@@ -5940,7 +6472,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Altagracia de Orituco",
-      "coordinates": "9.84000015258789, -66.38666534423828"
+      "coordinates": "9.84000015258789, -66.38666534423828",
+      "metar_available": false
     },
     {
       "ident": "VE-0163",
@@ -5951,7 +6484,8 @@
       "iso_country": "VE",
       "iso_region": "VE-G",
       "municipality": "Valencia",
-      "coordinates": "10.18166732788086, -67.97666931152344"
+      "coordinates": "10.18166732788086, -67.97666931152344",
+      "metar_available": false
     },
     {
       "ident": "VE-0164",
@@ -5961,7 +6495,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-B",
-      "coordinates": "9.942333221435547, -64.05783081054688"
+      "coordinates": "9.942333221435547, -64.05783081054688",
+      "metar_available": false
     },
     {
       "ident": "VE-0165",
@@ -5972,7 +6507,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "municipality": "Punta de Mata",
-      "coordinates": "9.666666984558105, -63.650001525878906"
+      "coordinates": "9.666666984558105, -63.650001525878906",
+      "metar_available": false
     },
     {
       "ident": "VE-0166",
@@ -5983,7 +6519,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Palmarejo",
-      "coordinates": "10.4399995803833, -71.62999725341797"
+      "coordinates": "10.4399995803833, -71.62999725341797",
+      "metar_available": false
     },
     {
       "ident": "VE-0167",
@@ -5993,7 +6530,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Y",
-      "coordinates": "9.440667152404785, -62.40299987792969"
+      "coordinates": "9.440667152404785, -62.40299987792969",
+      "metar_available": false
     },
     {
       "ident": "VE-0168",
@@ -6004,7 +6542,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Quiriquiri",
-      "coordinates": "9.971667289733887, -63.2216682434082"
+      "coordinates": "9.971667289733887, -63.2216682434082",
+      "metar_available": false
     },
     {
       "ident": "VE-0169",
@@ -6014,7 +6553,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.800000190734863, -65.38333129882812"
+      "coordinates": "4.800000190734863, -65.38333129882812",
+      "metar_available": false
     },
     {
       "ident": "VE-0170",
@@ -6024,7 +6564,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.045000076293945, -67.55500030517578"
+      "coordinates": "5.045000076293945, -67.55500030517578",
+      "metar_available": false
     },
     {
       "ident": "VE-0171",
@@ -6034,7 +6575,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-B",
-      "coordinates": "10.032221794128418, -64.04638671875"
+      "coordinates": "10.032221794128418, -64.04638671875",
+      "metar_available": false
     },
     {
       "ident": "VE-0172",
@@ -6044,7 +6586,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "10.5, -71.75"
+      "coordinates": "10.5, -71.75",
+      "metar_available": false
     },
     {
       "ident": "VE-0173",
@@ -6055,7 +6598,8 @@
       "iso_country": "VE",
       "iso_region": "VE-M",
       "municipality": "San José de Río Chico",
-      "coordinates": "10.283332824707031, -65.80000305175781"
+      "coordinates": "10.283332824707031, -65.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "VE-0174",
@@ -6065,7 +6609,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.783332824707031, -65.3499984741211"
+      "coordinates": "4.783332824707031, -65.3499984741211",
+      "metar_available": false
     },
     {
       "ident": "VE-0175",
@@ -6076,7 +6621,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "municipality": "San Antonio",
-      "coordinates": "3.463082, -66.739923"
+      "coordinates": "3.463082, -66.739923",
+      "metar_available": false
     },
     {
       "ident": "VE-0176",
@@ -6087,7 +6633,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "San Antonio",
-      "coordinates": "10.116666793823242, -63.71666717529297"
+      "coordinates": "10.116666793823242, -63.71666717529297",
+      "metar_available": false
     },
     {
       "ident": "VE-0177",
@@ -6098,7 +6645,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Maracaibo",
-      "coordinates": "10.542979, -71.621171"
+      "coordinates": "10.542979, -71.621171",
+      "metar_available": false
     },
     {
       "ident": "VE-0178",
@@ -6108,7 +6656,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.318333148956299, -65.37666320800781"
+      "coordinates": "6.318333148956299, -65.37666320800781",
+      "metar_available": false
     },
     {
       "ident": "VE-0179",
@@ -6118,7 +6667,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.5, -66.71666717529297"
+      "coordinates": "5.5, -66.71666717529297",
+      "metar_available": false
     },
     {
       "ident": "VE-0180",
@@ -6128,7 +6678,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.361667156219482, -64.24333190917969"
+      "coordinates": "5.361667156219482, -64.24333190917969",
+      "metar_available": false
     },
     {
       "ident": "VE-0181",
@@ -6138,7 +6689,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "1.2552000284194946, -66.82630157470703"
+      "coordinates": "1.2552000284194946, -66.82630157470703",
+      "metar_available": false
     },
     {
       "ident": "VE-0182",
@@ -6148,7 +6700,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "4.949999809265137, -64.80000305175781"
+      "coordinates": "4.949999809265137, -64.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "VE-0183",
@@ -6159,7 +6712,8 @@
       "iso_country": "VE",
       "iso_region": "VE-A",
       "municipality": "Caracas",
-      "coordinates": "10.48550033569336, -66.85199737548828"
+      "coordinates": "10.48550033569336, -66.85199737548828",
+      "metar_available": false
     },
     {
       "ident": "VE-0184",
@@ -6169,7 +6723,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.816667079925537, -64.5999984741211"
+      "coordinates": "3.816667079925537, -64.5999984741211",
+      "metar_available": false
     },
     {
       "ident": "VE-0185",
@@ -6180,7 +6735,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "municipality": "La Sabanita",
-      "coordinates": "6.258333, -67.11"
+      "coordinates": "6.258333, -67.11",
+      "metar_available": false
     },
     {
       "ident": "VE-0186",
@@ -6190,7 +6746,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.650000095367432, -66.30000305175781"
+      "coordinates": "4.650000095367432, -66.30000305175781",
+      "metar_available": false
     },
     {
       "ident": "VE-0187",
@@ -6201,7 +6758,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Temblador",
-      "coordinates": "9.033332824707031, -62.53333282470703"
+      "coordinates": "9.033332824707031, -62.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "VE-0188",
@@ -6211,7 +6769,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.033332824707031, -65.51667022705078"
+      "coordinates": "5.033332824707031, -65.51667022705078",
+      "metar_available": false
     },
     {
       "ident": "VE-0189",
@@ -6221,7 +6780,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "5.033332824707031, -65.63333129882812"
+      "coordinates": "5.033332824707031, -65.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "VE-0190",
@@ -6232,7 +6792,8 @@
       "iso_country": "VE",
       "iso_region": "VE-K",
       "municipality": "Quibor",
-      "coordinates": "9.933333396911621, -69.66666412353516"
+      "coordinates": "9.933333396911621, -69.66666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0191",
@@ -6242,7 +6803,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.1666669845581055, -65.16666412353516"
+      "coordinates": "3.1666669845581055, -65.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0192",
@@ -6252,7 +6814,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "8.108332633972168, -66.43333435058594"
+      "coordinates": "8.108332633972168, -66.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "VE-0193",
@@ -6262,7 +6825,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.766667366027832, -71.20166778564453"
+      "coordinates": "9.766667366027832, -71.20166778564453",
+      "metar_available": false
     },
     {
       "ident": "VE-0194",
@@ -6271,7 +6835,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-N",
-      "coordinates": "9.016667366027832, -62.375"
+      "coordinates": "9.016667366027832, -62.375",
+      "metar_available": false
     },
     {
       "ident": "VE-0195",
@@ -6282,7 +6847,8 @@
       "iso_country": "VE",
       "iso_region": "VE-B",
       "municipality": "Urica",
-      "coordinates": "9.699999809265137, -64.03333282470703"
+      "coordinates": "9.699999809265137, -64.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "VE-0196",
@@ -6293,7 +6859,8 @@
       "iso_country": "VE",
       "iso_region": "VE-D",
       "municipality": "La Victoria",
-      "coordinates": "10.233332633972168, -67.44999694824219"
+      "coordinates": "10.233332633972168, -67.44999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0197",
@@ -6303,7 +6870,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-D",
-      "coordinates": "10.25, -67.16666412353516"
+      "coordinates": "10.25, -67.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "VE-0198",
@@ -6313,7 +6881,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.3333330154418945, -65.25"
+      "coordinates": "4.3333330154418945, -65.25",
+      "metar_available": false
     },
     {
       "ident": "VE-0199",
@@ -6323,7 +6892,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "4.739109992980957, -65.21530151367188"
+      "coordinates": "4.739109992980957, -65.21530151367188",
+      "metar_available": false
     },
     {
       "ident": "VE-0200",
@@ -6333,7 +6903,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.4666669368743896, -65.33333587646484"
+      "coordinates": "3.4666669368743896, -65.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0201",
@@ -6343,7 +6914,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Y",
-      "coordinates": "8.184832572937012, -60.01716613769531"
+      "coordinates": "8.184832572937012, -60.01716613769531",
+      "metar_available": false
     },
     {
       "ident": "VE-0202",
@@ -6353,7 +6925,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-Z",
-      "coordinates": "3.6166670322418213, -65.19999694824219"
+      "coordinates": "3.6166670322418213, -65.19999694824219",
+      "metar_available": false
     },
     {
       "ident": "VE-0203",
@@ -6364,7 +6937,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Colorado",
-      "coordinates": "10.156999588012695, -63.419166564941406"
+      "coordinates": "10.156999588012695, -63.419166564941406",
+      "metar_available": false
     },
     {
       "ident": "VE-0204",
@@ -6374,7 +6948,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "6.290535, -67.175323"
+      "coordinates": "6.290535, -67.175323",
+      "metar_available": false
     },
     {
       "ident": "VE-0206",
@@ -6385,7 +6960,8 @@
       "iso_country": "VE",
       "iso_region": "VE-X",
       "municipality": "Ciudad Caribia",
-      "coordinates": "10.53333, -67.033333"
+      "coordinates": "10.53333, -67.033333",
+      "metar_available": false
     },
     {
       "ident": "VE-0207",
@@ -6398,7 +6974,8 @@
       "municipality": "Ciudad Guayana",
       "gps_code": "SVMU",
       "iata_code": "SFX",
-      "coordinates": "8.2788, -62.6652"
+      "coordinates": "8.2788, -62.6652",
+      "metar_available": false
     },
     {
       "ident": "VE-0208",
@@ -6410,7 +6987,8 @@
       "iso_region": "VE-F",
       "municipality": "San Salvador de Paul",
       "iata_code": "SVV",
-      "coordinates": "7, -62"
+      "coordinates": "7, -62",
+      "metar_available": false
     },
     {
       "ident": "VE-0209",
@@ -6422,7 +7000,8 @@
       "iso_region": "VE-F",
       "municipality": "Wonken",
       "iata_code": "WOK",
-      "coordinates": "5.25, -61.733333587646484"
+      "coordinates": "5.25, -61.733333587646484",
+      "metar_available": false
     },
     {
       "ident": "VE-0210",
@@ -6433,7 +7012,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "gps_code": "SVKZ",
-      "coordinates": "9.284347, -68.391008"
+      "coordinates": "9.284347, -68.391008",
+      "metar_available": false
     },
     {
       "ident": "VE-0211",
@@ -6443,7 +7023,8 @@
       "iso_country": "VE",
       "iso_region": "VE-Z",
       "municipality": "Predra Lais",
-      "coordinates": "3.14861111111, -65.8611111111"
+      "coordinates": "3.14861111111, -65.8611111111",
+      "metar_available": false
     },
     {
       "ident": "VE-0212",
@@ -6453,7 +7034,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "municipality": "Apartaderos",
-      "coordinates": "9.687776, -68.952097"
+      "coordinates": "9.687776, -68.952097",
+      "metar_available": false
     },
     {
       "ident": "VE-0213",
@@ -6463,7 +7045,8 @@
       "iso_country": "VE",
       "iso_region": "VE-P",
       "municipality": "Acarigua",
-      "coordinates": "9.558571, -69.218464"
+      "coordinates": "9.558571, -69.218464",
+      "metar_available": false
     },
     {
       "ident": "VE-0214",
@@ -6473,7 +7056,8 @@
       "iso_country": "VE",
       "iso_region": "VE-H",
       "municipality": "Campo Alegre",
-      "coordinates": "9.453367, -68.677618"
+      "coordinates": "9.453367, -68.677618",
+      "metar_available": false
     },
     {
       "ident": "VE-0215",
@@ -6482,7 +7066,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-F",
-      "coordinates": "5.681915, -62.409442"
+      "coordinates": "5.681915, -62.409442",
+      "metar_available": false
     },
     {
       "ident": "VE-0216",
@@ -6493,7 +7078,8 @@
       "iso_country": "VE",
       "iso_region": "VE-N",
       "municipality": "Maturín",
-      "coordinates": "9.429, -63.3372"
+      "coordinates": "9.429, -63.3372",
+      "metar_available": false
     },
     {
       "ident": "VE-0217",
@@ -6503,7 +7089,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Castilletes",
-      "coordinates": "11.82596, -71.34955"
+      "coordinates": "11.82596, -71.34955",
+      "metar_available": false
     },
     {
       "ident": "VE-0218",
@@ -6515,7 +7102,8 @@
       "iso_region": "VE-V",
       "municipality": "El Lucero",
       "gps_code": "SVFZ",
-      "coordinates": "9.829045, -72.244551"
+      "coordinates": "9.829045, -72.244551",
+      "metar_available": false
     },
     {
       "ident": "VE-0219",
@@ -6525,7 +7113,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "10.0015, -71.083921"
+      "coordinates": "10.0015, -71.083921",
+      "metar_available": false
     },
     {
       "ident": "VE-0220",
@@ -6535,7 +7124,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-C",
-      "coordinates": "7.363178, -68.698173"
+      "coordinates": "7.363178, -68.698173",
+      "metar_available": false
     },
     {
       "ident": "VE-0221",
@@ -6546,7 +7136,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Maracaibo",
-      "coordinates": "10.675116, -71.639099"
+      "coordinates": "10.675116, -71.639099",
+      "metar_available": false
     },
     {
       "ident": "VE-0222",
@@ -6558,7 +7149,8 @@
       "iso_region": "VE-B",
       "municipality": "El Tigre",
       "iata_code": "ELX",
-      "coordinates": "8.833546, -64.20828"
+      "coordinates": "8.833546, -64.20828",
+      "metar_available": false
     },
     {
       "ident": "VE-0223",
@@ -6569,7 +7161,8 @@
       "iso_country": "VE",
       "iso_region": "VE-K",
       "municipality": "Carora",
-      "coordinates": "10.175603, -70.065216"
+      "coordinates": "10.175603, -70.065216",
+      "metar_available": false
     },
     {
       "ident": "VE-0224",
@@ -6579,7 +7172,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "9.766667, -72.699997"
+      "coordinates": "9.766667, -72.699997",
+      "metar_available": false
     },
     {
       "ident": "VE-0225",
@@ -6590,7 +7184,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "municipality": "La Ceiba",
-      "coordinates": "9.500339, -70.948704"
+      "coordinates": "9.500339, -70.948704",
+      "metar_available": false
     },
     {
       "ident": "VE-0226",
@@ -6601,7 +7196,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "La Bombita",
-      "coordinates": "9.668302, -70.969759"
+      "coordinates": "9.668302, -70.969759",
+      "metar_available": false
     },
     {
       "ident": "VE-0227",
@@ -6611,7 +7207,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-J",
-      "coordinates": "9.11999988556, -66.4233322144"
+      "coordinates": "9.11999988556, -66.4233322144",
+      "metar_available": false
     },
     {
       "ident": "VE-0228",
@@ -6621,7 +7218,8 @@
       "continent": "SA",
       "iso_country": "VE",
       "iso_region": "VE-V",
-      "coordinates": "8.935567, -71.952735"
+      "coordinates": "8.935567, -71.952735",
+      "metar_available": false
     },
     {
       "ident": "VE-0229",
@@ -6632,7 +7230,8 @@
       "iso_country": "VE",
       "iso_region": "VE-T",
       "municipality": "San José de Trujillo",
-      "coordinates": "9.454154, -71.042078"
+      "coordinates": "9.454154, -71.042078",
+      "metar_available": false
     },
     {
       "ident": "VE-0230",
@@ -6643,7 +7242,8 @@
       "iso_country": "VE",
       "iso_region": "VE-V",
       "municipality": "Cabimas",
-      "coordinates": "10.370879, -71.412098"
+      "coordinates": "10.370879, -71.412098",
+      "metar_available": false
     },
     {
       "ident": "VE-0231",
@@ -6654,7 +7254,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "local_code": "SVBF",
-      "coordinates": "6.99328, -67.19261"
+      "coordinates": "6.99328, -67.19261",
+      "metar_available": false
     },
     {
       "ident": "VE-0232",
@@ -6665,7 +7266,8 @@
       "iso_region": "VE-C",
       "municipality": "El Diero",
       "local_code": "SVQR",
-      "coordinates": "7.516667, -68.683334"
+      "coordinates": "7.516667, -68.683334",
+      "metar_available": false
     },
     {
       "ident": "VE-0233",
@@ -6676,7 +7278,8 @@
       "iso_country": "VE",
       "iso_region": "VE-F",
       "municipality": "La Urbana",
-      "coordinates": "7.12859, -66.9235"
+      "coordinates": "7.12859, -66.9235",
+      "metar_available": false
     },
     {
       "ident": "VE-0234",
@@ -6688,7 +7291,8 @@
       "iso_region": "VE-C",
       "municipality": "San Fernando de Apure",
       "gps_code": "SVQS",
-      "coordinates": "7.57581, -67.01453"
+      "coordinates": "7.57581, -67.01453",
+      "metar_available": false
     },
     {
       "ident": "VE-0235",
@@ -6699,7 +7303,8 @@
       "iso_country": "VE",
       "iso_region": "VE-C",
       "municipality": "San Fernando de Apure",
-      "coordinates": "7.71426, -67.11603"
+      "coordinates": "7.71426, -67.11603",
+      "metar_available": false
     },
     {
       "ident": "VE-0236",
@@ -6710,7 +7315,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Corocito",
-      "coordinates": "8.27121, -67.61337"
+      "coordinates": "8.27121, -67.61337",
+      "metar_available": false
     },
     {
       "ident": "VE-0237",
@@ -6721,7 +7327,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Bancos de San Pedro",
-      "coordinates": "8.75015, -67.54335"
+      "coordinates": "8.75015, -67.54335",
+      "metar_available": false
     },
     {
       "ident": "VE-0238",
@@ -6732,7 +7339,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Los Naranjos",
-      "coordinates": "8.89058, -67.56241"
+      "coordinates": "8.89058, -67.56241",
+      "metar_available": false
     },
     {
       "ident": "VE-0239",
@@ -6743,7 +7351,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Los Naranjos",
-      "coordinates": "8.86984, -67.50918"
+      "coordinates": "8.86984, -67.50918",
+      "metar_available": false
     },
     {
       "ident": "VE-0240",
@@ -6754,7 +7363,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Calabozo",
-      "coordinates": "8.9317, -67.47298"
+      "coordinates": "8.9317, -67.47298",
+      "metar_available": false
     },
     {
       "ident": "VE-0241",
@@ -6765,7 +7375,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Francisco de Miranda",
-      "coordinates": "9.16006, -67.01918"
+      "coordinates": "9.16006, -67.01918",
+      "metar_available": false
     },
     {
       "ident": "VE-0242",
@@ -6776,7 +7387,8 @@
       "iso_country": "VE",
       "iso_region": "VE-J",
       "municipality": "Julián Mellado",
-      "coordinates": "9.48593, -67.01622"
+      "coordinates": "9.48593, -67.01622",
+      "metar_available": false
     }
   ]
 }

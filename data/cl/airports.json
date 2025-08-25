@@ -2,7 +2,7 @@
   "country_code": "CL",
   "country_name": "Chile",
   "total_airports": 516,
-  "last_updated": "2025-08-01T00:18:22.626687",
+  "last_updated": "2025-08-25T10:08:40.763720",
   "types_distribution": {
     "closed": 22,
     "small_airport": 346,
@@ -20,7 +20,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "Punta Arenas",
-      "coordinates": "-53.1315, -70.87"
+      "coordinates": "-53.1315, -70.87",
+      "metar_available": false
     },
     {
       "ident": "CL-0002",
@@ -31,7 +32,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "Porvenir",
-      "coordinates": "-53.064, -70.26"
+      "coordinates": "-53.064, -70.26",
+      "metar_available": false
     },
     {
       "ident": "CL-0003",
@@ -42,7 +44,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "San Gregorio",
-      "coordinates": "-52.403, -69.704"
+      "coordinates": "-52.403, -69.704",
+      "metar_available": false
     },
     {
       "ident": "CL-0004",
@@ -53,7 +56,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "Santa Maria",
-      "coordinates": "-52.595, -70.3521"
+      "coordinates": "-52.595, -70.3521",
+      "metar_available": false
     },
     {
       "ident": "CL-0005",
@@ -63,7 +67,8 @@
       "continent": "SA",
       "iso_country": "CL",
       "iso_region": "CL-MA",
-      "coordinates": "-52.5427, -70.535"
+      "coordinates": "-52.5427, -70.535",
+      "metar_available": false
     },
     {
       "ident": "CL-0006",
@@ -74,7 +79,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "Onaisin",
-      "coordinates": "-53.3812, -69.293"
+      "coordinates": "-53.3812, -69.293",
+      "metar_available": false
     },
     {
       "ident": "CL-0007",
@@ -85,7 +91,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "Rio Grande",
-      "coordinates": "-53.8924, -68.8"
+      "coordinates": "-53.8924, -68.8",
+      "metar_available": false
     },
     {
       "ident": "CL-0008",
@@ -97,7 +104,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHCD",
-      "coordinates": "-33.392103, -70.572969"
+      "coordinates": "-33.392103, -70.572969",
+      "metar_available": false
     },
     {
       "ident": "CL-0009",
@@ -108,7 +116,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "Primavera",
-      "coordinates": "-52.54046, -69.3702"
+      "coordinates": "-52.54046, -69.3702",
+      "metar_available": false
     },
     {
       "ident": "CL-0010",
@@ -120,7 +129,8 @@
       "iso_region": "CL-LI",
       "municipality": "Pichilemu",
       "gps_code": "SCMN",
-      "coordinates": "-34.263583, -71.96753"
+      "coordinates": "-34.263583, -71.96753",
+      "metar_available": false
     },
     {
       "ident": "CL-0011",
@@ -131,7 +141,8 @@
       "iso_country": "CL",
       "iso_region": "CL-AT",
       "municipality": "Lonquimay",
-      "coordinates": "-38.7391, -71.2018"
+      "coordinates": "-38.7391, -71.2018",
+      "metar_available": false
     },
     {
       "ident": "CL-0012",
@@ -143,7 +154,8 @@
       "iso_region": "CL-ML",
       "municipality": "Linares",
       "gps_code": "SCAV",
-      "coordinates": "-36.141999, -71.374"
+      "coordinates": "-36.141999, -71.374",
+      "metar_available": false
     },
     {
       "ident": "CL-0013",
@@ -155,7 +167,8 @@
       "iso_region": "CL-VS",
       "municipality": "Zapallar",
       "gps_code": "SCCP",
-      "coordinates": "-32.563805, -71.287698"
+      "coordinates": "-32.563805, -71.287698",
+      "metar_available": false
     },
     {
       "ident": "CL-0014",
@@ -166,7 +179,8 @@
       "iso_country": "CL",
       "iso_region": "CL-AT",
       "municipality": "Domeyko",
-      "coordinates": "-28.96787, -70.922703"
+      "coordinates": "-28.96787, -70.922703",
+      "metar_available": false
     },
     {
       "ident": "CL-0016",
@@ -178,7 +192,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "local_code": "ETNSM",
-      "coordinates": "-33.422742, -70.621952"
+      "coordinates": "-33.422742, -70.621952",
+      "metar_available": false
     },
     {
       "ident": "CL-0017",
@@ -190,7 +205,8 @@
       "iso_region": "CL-RM",
       "municipality": "Peldehue",
       "gps_code": "SCPD",
-      "coordinates": "-33.118575, -70.683074"
+      "coordinates": "-33.118575, -70.683074",
+      "metar_available": false
     },
     {
       "ident": "CL-0018",
@@ -201,7 +217,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Osorno",
-      "coordinates": "-40.547199, -73.155602"
+      "coordinates": "-40.547199, -73.155602",
+      "metar_available": false
     },
     {
       "ident": "CL-0019",
@@ -212,7 +229,8 @@
       "iso_country": "CL",
       "iso_region": "CL-AN",
       "municipality": "La Chimba",
-      "coordinates": "-23.5536003113, -70.3961029053"
+      "coordinates": "-23.5536003113, -70.3961029053",
+      "metar_available": false
     },
     {
       "ident": "CL-0020",
@@ -223,7 +241,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Chaitén",
-      "coordinates": "-42.9328, -72.6991"
+      "coordinates": "-42.9328, -72.6991",
+      "metar_available": false
     },
     {
       "ident": "CL-0021",
@@ -234,7 +253,8 @@
       "iso_country": "CL",
       "iso_region": "CL-RM",
       "municipality": "Santiago",
-      "coordinates": "-33.493598938, -70.6977996826"
+      "coordinates": "-33.493598938, -70.6977996826",
+      "metar_available": false
     },
     {
       "ident": "CL-0022",
@@ -245,7 +265,8 @@
       "iso_country": "CL",
       "iso_region": "CL-RM",
       "municipality": "Alhue",
-      "coordinates": "-34.060197, -71.253719"
+      "coordinates": "-34.060197, -71.253719",
+      "metar_available": false
     },
     {
       "ident": "CL-0023",
@@ -256,7 +277,8 @@
       "iso_country": "CL",
       "iso_region": "CL-ML",
       "municipality": "Panimavida",
-      "coordinates": "-35.760957, -71.40653"
+      "coordinates": "-35.760957, -71.40653",
+      "metar_available": false
     },
     {
       "ident": "CL-0024",
@@ -267,7 +289,8 @@
       "iso_country": "CL",
       "iso_region": "CL-RM",
       "municipality": "Paine",
-      "coordinates": "-33.862398, -70.771008"
+      "coordinates": "-33.862398, -70.771008",
+      "metar_available": false
     },
     {
       "ident": "CL-0025",
@@ -278,7 +301,8 @@
       "iso_country": "CL",
       "iso_region": "CL-NB",
       "municipality": "Chillan",
-      "coordinates": "-36.613271, -72.041323"
+      "coordinates": "-36.613271, -72.041323",
+      "metar_available": false
     },
     {
       "ident": "CL-0026",
@@ -289,7 +313,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Osorno",
-      "coordinates": "-40.620277, -72.84639"
+      "coordinates": "-40.620277, -72.84639",
+      "metar_available": false
     },
     {
       "ident": "CL-0027",
@@ -300,7 +325,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LR",
       "municipality": "Panguipulli",
-      "coordinates": "-39.536914, -72.356129"
+      "coordinates": "-39.536914, -72.356129",
+      "metar_available": false
     },
     {
       "ident": "CL-0028",
@@ -311,7 +337,8 @@
       "iso_country": "CL",
       "iso_region": "CL-AN",
       "municipality": "Maria Elena",
-      "coordinates": "-22.303669, -69.705527"
+      "coordinates": "-22.303669, -69.705527",
+      "metar_available": false
     },
     {
       "ident": "CL-0029",
@@ -322,7 +349,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LR",
       "municipality": "Panguipulli",
-      "coordinates": "-39.549722, -72.291111"
+      "coordinates": "-39.549722, -72.291111",
+      "metar_available": false
     },
     {
       "ident": "CL-0030",
@@ -333,7 +361,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LI",
       "municipality": "Rengo",
-      "coordinates": "-34.320278, -70.92028"
+      "coordinates": "-34.320278, -70.92028",
+      "metar_available": false
     },
     {
       "ident": "CL-0031",
@@ -344,7 +373,8 @@
       "iso_country": "CL",
       "iso_region": "CL-MA",
       "municipality": "San Gregorio",
-      "coordinates": "-52.393909, -69.756446"
+      "coordinates": "-52.393909, -69.756446",
+      "metar_available": false
     },
     {
       "ident": "CL-0032",
@@ -356,7 +386,8 @@
       "iso_region": "CL-AI",
       "municipality": "Puerto Guadal",
       "local_code": "SCMC",
-      "coordinates": "-46.74606, -72.527319"
+      "coordinates": "-46.74606, -72.527319",
+      "metar_available": false
     },
     {
       "ident": "CL-0033",
@@ -367,7 +398,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Paso El León",
-      "coordinates": "-41.50647, -71.85189"
+      "coordinates": "-41.50647, -71.85189",
+      "metar_available": false
     },
     {
       "ident": "CL-0034",
@@ -378,7 +410,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Paso El León",
-      "coordinates": "-41.50454, -71.86033"
+      "coordinates": "-41.50454, -71.86033",
+      "metar_available": false
     },
     {
       "ident": "CL-0035",
@@ -389,7 +422,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Puerto Varas",
-      "coordinates": "-41.40244, -72.94333"
+      "coordinates": "-41.40244, -72.94333",
+      "metar_available": false
     },
     {
       "ident": "CL-0036",
@@ -400,7 +434,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Trumao",
-      "coordinates": "-40.40695, -73.16096"
+      "coordinates": "-40.40695, -73.16096",
+      "metar_available": false
     },
     {
       "ident": "CL-SC49",
@@ -412,7 +447,8 @@
       "iso_region": "CL-TA",
       "municipality": "Oficina Victoria",
       "gps_code": "SC49",
-      "coordinates": "-20.734699249267578, -69.62570190429688"
+      "coordinates": "-20.734699249267578, -69.62570190429688",
+      "metar_available": false
     },
     {
       "ident": "SC1A",
@@ -424,7 +460,8 @@
       "iso_region": "CL-TA",
       "municipality": "Canchones",
       "gps_code": "SC1A",
-      "coordinates": "-20.427099227905273, -69.6415023803711"
+      "coordinates": "-20.427099227905273, -69.6415023803711",
+      "metar_available": false
     },
     {
       "ident": "SCAA",
@@ -435,7 +472,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LL",
       "municipality": "Frutillar",
-      "coordinates": "-41.042778, -73.047501"
+      "coordinates": "-41.042778, -73.047501",
+      "metar_available": false
     },
     {
       "ident": "SCAB",
@@ -447,7 +485,8 @@
       "iso_region": "CL-RM",
       "municipality": "La Lumbrera",
       "gps_code": "SCAB",
-      "coordinates": "-33.658694, -71.289877"
+      "coordinates": "-33.658694, -71.289877",
+      "metar_available": false
     },
     {
       "ident": "SCAC",
@@ -460,7 +499,8 @@
       "municipality": "Ancud",
       "gps_code": "SCAC",
       "iata_code": "ZUD",
-      "coordinates": "-41.904251, -73.796571"
+      "coordinates": "-41.904251, -73.796571",
+      "metar_available": false
     },
     {
       "ident": "SCAD",
@@ -472,7 +512,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SCAD",
-      "coordinates": "-30.628611, -71.273056"
+      "coordinates": "-30.628611, -71.273056",
+      "metar_available": false
     },
     {
       "ident": "SCAE",
@@ -484,7 +525,8 @@
       "iso_region": "CL-AP",
       "municipality": "Arica",
       "gps_code": "SCAE",
-      "coordinates": "-18.508938, -70.290707"
+      "coordinates": "-18.508938, -70.290707",
+      "metar_available": false
     },
     {
       "ident": "SCAG",
@@ -496,7 +538,8 @@
       "iso_region": "CL-LI",
       "municipality": "Palmilla",
       "gps_code": "SCAG",
-      "coordinates": "-34.551476, -71.335891"
+      "coordinates": "-34.551476, -71.335891",
+      "metar_available": false
     },
     {
       "ident": "SCAH",
@@ -508,7 +551,8 @@
       "iso_region": "CL-LL",
       "municipality": "Achao",
       "gps_code": "SCAH",
-      "coordinates": "-42.4494018555, -73.5246963501"
+      "coordinates": "-42.4494018555, -73.5246963501",
+      "metar_available": false
     },
     {
       "ident": "SCAI",
@@ -520,7 +564,8 @@
       "iso_region": "CL-AR",
       "municipality": "Curacautín",
       "gps_code": "SCAI",
-      "coordinates": "-38.431514, -71.923027"
+      "coordinates": "-38.431514, -71.923027",
+      "metar_available": false
     },
     {
       "ident": "SCAJ",
@@ -532,7 +577,8 @@
       "iso_region": "CL-ML",
       "municipality": "Retiro",
       "gps_code": "SCAJ",
-      "coordinates": "-36.145279, -71.763054"
+      "coordinates": "-36.145279, -71.763054",
+      "metar_available": false
     },
     {
       "ident": "SCAK",
@@ -544,7 +590,8 @@
       "iso_region": "CL-NB",
       "municipality": "Recinto",
       "gps_code": "SCAK",
-      "coordinates": "-36.919383, -71.577764"
+      "coordinates": "-36.919383, -71.577764",
+      "metar_available": false
     },
     {
       "ident": "SCAL",
@@ -556,7 +603,8 @@
       "iso_region": "CL-AI",
       "municipality": "Cochrane",
       "gps_code": "SCAL",
-      "coordinates": "-47.116279, -72.481975"
+      "coordinates": "-47.116279, -72.481975",
+      "metar_available": false
     },
     {
       "ident": "SCAM",
@@ -568,7 +616,8 @@
       "iso_region": "CL-ML",
       "municipality": "Teno",
       "gps_code": "SCAM",
-      "coordinates": "-34.865002, -71.101944"
+      "coordinates": "-34.865002, -71.101944",
+      "metar_available": false
     },
     {
       "ident": "SCAN",
@@ -581,7 +630,8 @@
       "municipality": "Los Andes",
       "gps_code": "SCAN",
       "iata_code": "LOB",
-      "coordinates": "-32.814201, -70.646698"
+      "coordinates": "-32.814201, -70.646698",
+      "metar_available": false
     },
     {
       "ident": "SCAO",
@@ -593,7 +643,8 @@
       "iso_region": "CL-LI",
       "municipality": "Lolol",
       "gps_code": "SCAO",
-      "coordinates": "-34.733055, -71.740837"
+      "coordinates": "-34.733055, -71.740837",
+      "metar_available": false
     },
     {
       "ident": "SCAP",
@@ -606,7 +657,8 @@
       "municipality": "Palena",
       "gps_code": "SCAP",
       "iata_code": "WAP",
-      "coordinates": "-43.611492, -71.805452"
+      "coordinates": "-43.611492, -71.805452",
+      "metar_available": false
     },
     {
       "ident": "SCAQ",
@@ -618,7 +670,8 @@
       "iso_region": "CL-LR",
       "municipality": "Lago Ranco",
       "gps_code": "SCAQ",
-      "coordinates": "-40.198299, -72.029198"
+      "coordinates": "-40.198299, -72.029198",
+      "metar_available": false
     },
     {
       "ident": "SCAR",
@@ -631,7 +684,8 @@
       "municipality": "Arica",
       "gps_code": "SCAR",
       "iata_code": "ARI",
-      "coordinates": "-18.348499, -70.338699"
+      "coordinates": "-18.348499, -70.338699",
+      "metar_available": false
     },
     {
       "ident": "SCAS",
@@ -644,7 +698,8 @@
       "municipality": "Puerto Aysén",
       "gps_code": "SCAS",
       "iata_code": "WPA",
-      "coordinates": "-45.3992, -72.670303"
+      "coordinates": "-45.3992, -72.670303",
+      "metar_available": false
     },
     {
       "ident": "SCAT",
@@ -657,7 +712,8 @@
       "municipality": "Copiapo",
       "gps_code": "SCAT",
       "iata_code": "CPO",
-      "coordinates": "-27.2611999512, -70.7791976929"
+      "coordinates": "-27.2611999512, -70.7791976929",
+      "metar_available": false
     },
     {
       "ident": "SCAU",
@@ -669,7 +725,8 @@
       "iso_region": "CL-RM",
       "municipality": "Paine",
       "gps_code": "SCAU",
-      "coordinates": "-33.8936, -70.885597"
+      "coordinates": "-33.8936, -70.885597",
+      "metar_available": false
     },
     {
       "ident": "SCAY",
@@ -681,7 +738,8 @@
       "iso_region": "CL-LL",
       "municipality": "Ayacara",
       "gps_code": "SCAY",
-      "coordinates": "-42.310832, -72.790275"
+      "coordinates": "-42.310832, -72.790275",
+      "metar_available": false
     },
     {
       "ident": "SCAZ",
@@ -693,7 +751,8 @@
       "iso_region": "CL-MA",
       "municipality": "Timaukel",
       "gps_code": "SCAZ",
-      "coordinates": "-54.481014, -68.940689"
+      "coordinates": "-54.481014, -68.940689",
+      "metar_available": false
     },
     {
       "ident": "SCBA",
@@ -706,7 +765,8 @@
       "municipality": "Balmaceda",
       "gps_code": "SCBA",
       "iata_code": "BBA",
-      "coordinates": "-45.915968, -71.689499"
+      "coordinates": "-45.915968, -71.689499",
+      "metar_available": false
     },
     {
       "ident": "SCBB",
@@ -718,7 +778,8 @@
       "iso_region": "CL-BI",
       "municipality": "Negrete",
       "gps_code": "SCBB",
-      "coordinates": "-37.587222, -72.503611"
+      "coordinates": "-37.587222, -72.503611",
+      "metar_available": false
     },
     {
       "ident": "SCBC",
@@ -730,7 +791,8 @@
       "iso_region": "CL-AI",
       "municipality": "Lago Verde",
       "gps_code": "SCBC",
-      "coordinates": "-44.23111, -71.864166"
+      "coordinates": "-44.23111, -71.864166",
+      "metar_available": false
     },
     {
       "ident": "SCBD",
@@ -742,7 +804,8 @@
       "iso_region": "CL-LI",
       "municipality": "Santa Cruz",
       "gps_code": "SCBD",
-      "coordinates": "-34.684444, -71.206108"
+      "coordinates": "-34.684444, -71.206108",
+      "metar_available": false
     },
     {
       "ident": "SCBE",
@@ -755,7 +818,8 @@
       "municipality": "Tocopilla",
       "gps_code": "SCBE",
       "iata_code": "TOQ",
-      "coordinates": "-22.1411, -70.062897"
+      "coordinates": "-22.1411, -70.062897",
+      "metar_available": false
     },
     {
       "ident": "SCBI",
@@ -768,7 +832,8 @@
       "municipality": "Bahia Inutil",
       "gps_code": "SCBI",
       "iata_code": "DPB",
-      "coordinates": "-54.049977, -68.809193"
+      "coordinates": "-54.049977, -68.809193",
+      "metar_available": false
     },
     {
       "ident": "SCBL",
@@ -780,7 +845,8 @@
       "iso_region": "CL-VS",
       "municipality": "Casablanca",
       "gps_code": "SCBL",
-      "coordinates": "-33.273056, -71.525278"
+      "coordinates": "-33.273056, -71.525278",
+      "metar_available": false
     },
     {
       "ident": "SCBN",
@@ -792,7 +858,8 @@
       "iso_region": "CL-LR",
       "municipality": "Rio Bueno",
       "gps_code": "SCBN",
-      "coordinates": "-40.4006, -72.6614"
+      "coordinates": "-40.4006, -72.6614",
+      "metar_available": false
     },
     {
       "ident": "SCBQ",
@@ -804,7 +871,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SCBQ",
-      "coordinates": "-33.561798, -70.6884"
+      "coordinates": "-33.561798, -70.6884",
+      "metar_available": false
     },
     {
       "ident": "SCBR",
@@ -816,7 +884,8 @@
       "iso_region": "CL-AI",
       "municipality": "Lago Brown",
       "gps_code": "SCBR",
-      "coordinates": "-47.391945, -72.317497"
+      "coordinates": "-47.391945, -72.317497",
+      "metar_available": false
     },
     {
       "ident": "SCBS",
@@ -828,7 +897,8 @@
       "iso_region": "CL-MA",
       "municipality": "Bahia Posesion",
       "gps_code": "SCBS",
-      "coordinates": "-52.292588, -68.933029"
+      "coordinates": "-52.292588, -68.933029",
+      "metar_available": false
     },
     {
       "ident": "SCBT",
@@ -840,7 +910,8 @@
       "iso_region": "CL-LL",
       "municipality": "Cochamo",
       "gps_code": "SCBT",
-      "coordinates": "-42.028889, -72.096107"
+      "coordinates": "-42.028889, -72.096107",
+      "metar_available": false
     },
     {
       "ident": "SCBU",
@@ -852,7 +923,8 @@
       "iso_region": "CL-ML",
       "municipality": "Molina",
       "gps_code": "SCBU",
-      "coordinates": "-35.341435, -70.9108"
+      "coordinates": "-35.341435, -70.9108",
+      "metar_available": false
     },
     {
       "ident": "SCBV",
@@ -864,7 +936,8 @@
       "iso_region": "CL-ML",
       "municipality": "Rio Claro",
       "gps_code": "SCBV",
-      "coordinates": "-35.189724, -71.296669"
+      "coordinates": "-35.189724, -71.296669",
+      "metar_available": false
     },
     {
       "ident": "SCCA",
@@ -876,7 +949,8 @@
       "iso_region": "CL-ML",
       "municipality": "Cauquenes",
       "gps_code": "SCCA",
-      "coordinates": "-35.97139, -72.224998"
+      "coordinates": "-35.97139, -72.224998",
+      "metar_available": false
     },
     {
       "ident": "SCCB",
@@ -888,7 +962,8 @@
       "iso_region": "CL-CO",
       "municipality": "Combarbala",
       "gps_code": "SCCB",
-      "coordinates": "-31.221945, -71.070274"
+      "coordinates": "-31.221945, -71.070274",
+      "metar_available": false
     },
     {
       "ident": "SCCC",
@@ -901,7 +976,8 @@
       "municipality": "Chile Chico",
       "gps_code": "SCCC",
       "iata_code": "CCH",
-      "coordinates": "-46.5831, -71.686323"
+      "coordinates": "-46.5831, -71.686323",
+      "metar_available": false
     },
     {
       "ident": "SCCE",
@@ -913,7 +989,8 @@
       "iso_region": "CL-ML",
       "municipality": "Cauquenes",
       "gps_code": "SCCE",
-      "coordinates": "-35.896389, -72.055833"
+      "coordinates": "-35.896389, -72.055833",
+      "metar_available": false
     },
     {
       "ident": "SCCF",
@@ -926,7 +1003,8 @@
       "municipality": "Calama",
       "gps_code": "SCCF",
       "iata_code": "CJC",
-      "coordinates": "-22.498199, -68.903603"
+      "coordinates": "-22.498199, -68.903603",
+      "metar_available": false
     },
     {
       "ident": "SCCG",
@@ -938,7 +1016,8 @@
       "iso_region": "CL-CO",
       "municipality": "Combarbala",
       "gps_code": "SCCG",
-      "coordinates": "-31.063889, -70.954445"
+      "coordinates": "-31.063889, -70.954445",
+      "metar_available": false
     },
     {
       "ident": "SCCH",
@@ -951,7 +1030,8 @@
       "municipality": "Chillan",
       "gps_code": "SCCH",
       "iata_code": "YAI",
-      "coordinates": "-36.5825, -72.031403"
+      "coordinates": "-36.5825, -72.031403",
+      "metar_available": false
     },
     {
       "ident": "SCCI",
@@ -964,7 +1044,8 @@
       "municipality": "Punta Arenas",
       "gps_code": "SCCI",
       "iata_code": "PUQ",
-      "coordinates": "-53.002602, -70.854599"
+      "coordinates": "-53.002602, -70.854599",
+      "metar_available": false
     },
     {
       "ident": "SCCK",
@@ -976,7 +1057,8 @@
       "iso_region": "CL-LL",
       "municipality": "Contao",
       "gps_code": "SCCK",
-      "coordinates": "-41.800304, -72.722237"
+      "coordinates": "-41.800304, -72.722237",
+      "metar_available": false
     },
     {
       "ident": "SCCL",
@@ -988,7 +1070,8 @@
       "iso_region": "CL-AT",
       "municipality": "Caldera",
       "gps_code": "SCCL",
-      "coordinates": "-27.0781, -70.795303"
+      "coordinates": "-27.0781, -70.795303",
+      "metar_available": false
     },
     {
       "ident": "SCCM",
@@ -1000,7 +1083,8 @@
       "iso_region": "CL-LR",
       "municipality": "Choshuenco",
       "gps_code": "SCCM",
-      "coordinates": "-39.825001, -72.082497"
+      "coordinates": "-39.825001, -72.082497",
+      "metar_available": false
     },
     {
       "ident": "SCCN",
@@ -1012,7 +1096,8 @@
       "iso_region": "CL-ML",
       "municipality": "Cauquenes",
       "gps_code": "SCCN",
-      "coordinates": "-35.88028, -72.327225"
+      "coordinates": "-35.88028, -72.327225",
+      "metar_available": false
     },
     {
       "ident": "SCCQ",
@@ -1025,7 +1110,8 @@
       "municipality": "Coquimbo",
       "gps_code": "SCCQ",
       "iata_code": "COW",
-      "coordinates": "-30.198889, -71.246944"
+      "coordinates": "-30.198889, -71.246944",
+      "metar_available": false
     },
     {
       "ident": "SCCR",
@@ -1037,7 +1123,8 @@
       "iso_region": "CL-AI",
       "municipality": "Caleta Tortel",
       "gps_code": "SCCR",
-      "coordinates": "-47.787079, -73.533028"
+      "coordinates": "-47.787079, -73.533028",
+      "metar_available": false
     },
     {
       "ident": "SCCS",
@@ -1049,7 +1136,8 @@
       "iso_region": "CL-VS",
       "municipality": "Casablanca",
       "gps_code": "SCCS",
-      "coordinates": "-33.2775, -71.45639"
+      "coordinates": "-33.2775, -71.45639",
+      "metar_available": false
     },
     {
       "ident": "SCCT",
@@ -1061,7 +1149,8 @@
       "iso_region": "CL-ML",
       "municipality": "Constitucion",
       "gps_code": "SCCT",
-      "coordinates": "-35.308601, -72.392799"
+      "coordinates": "-35.308601, -72.392799",
+      "metar_available": false
     },
     {
       "ident": "SCCU",
@@ -1073,7 +1162,8 @@
       "iso_region": "CL-AR",
       "municipality": "Lonquimay",
       "gps_code": "SCCU",
-      "coordinates": "-38.158054, -71.423889"
+      "coordinates": "-38.158054, -71.423889",
+      "metar_available": false
     },
     {
       "ident": "SCCV",
@@ -1085,7 +1175,8 @@
       "iso_region": "CL-RM",
       "municipality": "Curacaví",
       "gps_code": "SCCV",
-      "coordinates": "-33.4128, -71.165604"
+      "coordinates": "-33.4128, -71.165604",
+      "metar_available": false
     },
     {
       "ident": "SCCY",
@@ -1098,7 +1189,8 @@
       "municipality": "Coyhaique",
       "gps_code": "SCCY",
       "iata_code": "GXQ",
-      "coordinates": "-45.5942, -72.106102"
+      "coordinates": "-45.5942, -72.106102",
+      "metar_available": false
     },
     {
       "ident": "SCDA",
@@ -1111,7 +1203,8 @@
       "municipality": "Iquique",
       "gps_code": "SCDA",
       "iata_code": "IQQ",
-      "coordinates": "-20.5352, -70.181297"
+      "coordinates": "-20.5352, -70.181297",
+      "metar_available": false
     },
     {
       "ident": "SCDD",
@@ -1123,7 +1216,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Varas",
       "gps_code": "SCDD",
-      "coordinates": "-41.235473, -72.514667"
+      "coordinates": "-41.235473, -72.514667",
+      "metar_available": false
     },
     {
       "ident": "SCDG",
@@ -1135,7 +1229,8 @@
       "iso_region": "CL-LI",
       "municipality": "La Estrella",
       "gps_code": "SCDG",
-      "coordinates": "-34.193889, -71.568056"
+      "coordinates": "-34.193889, -71.568056",
+      "metar_available": false
     },
     {
       "ident": "SCDH",
@@ -1147,7 +1242,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCDH",
-      "coordinates": "-42.488888, -72.350555"
+      "coordinates": "-42.488888, -72.350555",
+      "metar_available": false
     },
     {
       "ident": "SCDI",
@@ -1159,7 +1255,8 @@
       "iso_region": "CL-CO",
       "municipality": "Pichidangui",
       "gps_code": "SCDI",
-      "coordinates": "-32.143055, -71.50528"
+      "coordinates": "-32.143055, -71.50528",
+      "metar_available": false
     },
     {
       "ident": "SCDK",
@@ -1171,7 +1268,8 @@
       "iso_region": "CL-BI",
       "municipality": "Concepcion",
       "gps_code": "SCDK",
-      "coordinates": "-37.025519, -72.982733"
+      "coordinates": "-37.025519, -72.982733",
+      "metar_available": false
     },
     {
       "ident": "SCDL",
@@ -1183,7 +1281,8 @@
       "iso_region": "CL-VS",
       "municipality": "Cabildo",
       "gps_code": "SCDL",
-      "coordinates": "-32.471943, -70.993057"
+      "coordinates": "-32.471943, -70.993057",
+      "metar_available": false
     },
     {
       "ident": "SCDM",
@@ -1195,7 +1294,8 @@
       "iso_region": "CL-ML",
       "municipality": "Duao",
       "gps_code": "SCDM",
-      "coordinates": "-34.878056, -72.145554"
+      "coordinates": "-34.878056, -72.145554",
+      "metar_available": false
     },
     {
       "ident": "SCDQ",
@@ -1207,7 +1307,8 @@
       "iso_region": "CL-BI",
       "municipality": "Duqueco",
       "gps_code": "SCDQ",
-      "coordinates": "-37.523335, -71.726112"
+      "coordinates": "-37.523335, -71.726112",
+      "metar_available": false
     },
     {
       "ident": "SCDS",
@@ -1219,7 +1320,8 @@
       "iso_region": "CL-ML",
       "municipality": "Retiro",
       "gps_code": "SCDS",
-      "coordinates": "-36.005554, -71.76667"
+      "coordinates": "-36.005554, -71.76667",
+      "metar_available": false
     },
     {
       "ident": "SCDW",
@@ -1231,7 +1333,8 @@
       "iso_region": "CL-MA",
       "municipality": "Isla Dawson",
       "gps_code": "SCDW",
-      "coordinates": "-53.610699, -70.470497"
+      "coordinates": "-53.610699, -70.470497",
+      "metar_available": false
     },
     {
       "ident": "SCEA",
@@ -1243,7 +1346,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCEA",
-      "coordinates": "-43.006111, -72.478333"
+      "coordinates": "-43.006111, -72.478333",
+      "metar_available": false
     },
     {
       "ident": "SCEB",
@@ -1255,7 +1359,8 @@
       "iso_region": "CL-AI",
       "municipality": "Entrada Baker",
       "gps_code": "SCEB",
-      "coordinates": "-47.184166, -71.976112"
+      "coordinates": "-47.184166, -71.976112",
+      "metar_available": false
     },
     {
       "ident": "SCEC",
@@ -1267,7 +1372,8 @@
       "iso_region": "CL-CO",
       "municipality": "Estacion Chañaral",
       "gps_code": "SCEC",
-      "coordinates": "-29.144899, -70.887802"
+      "coordinates": "-29.144899, -70.887802",
+      "metar_available": false
     },
     {
       "ident": "SCED",
@@ -1279,7 +1385,8 @@
       "iso_region": "CL-ML",
       "municipality": "Sagrada Familia",
       "gps_code": "SCED",
-      "coordinates": "-35.154999, -71.585281"
+      "coordinates": "-35.154999, -71.585281",
+      "metar_available": false
     },
     {
       "ident": "SCEG",
@@ -1291,7 +1398,8 @@
       "iso_region": "CL-RM",
       "municipality": "Talagante",
       "gps_code": "SCEG",
-      "coordinates": "-33.709999, -70.913055"
+      "coordinates": "-33.709999, -70.913055",
+      "metar_available": false
     },
     {
       "ident": "SCEH",
@@ -1303,7 +1411,8 @@
       "iso_region": "CL-BI",
       "municipality": "Santa Barbara",
       "gps_code": "SCEH",
-      "coordinates": "-37.647221, -71.753891"
+      "coordinates": "-37.647221, -71.753891",
+      "metar_available": false
     },
     {
       "ident": "SCEI",
@@ -1315,7 +1424,8 @@
       "iso_region": "CL-AT",
       "municipality": "Diego de Almagro",
       "gps_code": "SCEI",
-      "coordinates": "-26.380144, -69.475458"
+      "coordinates": "-26.380144, -69.475458",
+      "metar_available": false
     },
     {
       "ident": "SCEK",
@@ -1327,7 +1437,8 @@
       "iso_region": "CL-LI",
       "municipality": "Chepica",
       "gps_code": "SCEK",
-      "coordinates": "-34.739723, -71.324722"
+      "coordinates": "-34.739723, -71.324722",
+      "metar_available": false
     },
     {
       "ident": "SCEL",
@@ -1340,7 +1451,8 @@
       "municipality": "Santiago",
       "gps_code": "SCEL",
       "iata_code": "SCL",
-      "coordinates": "-33.393001556396484, -70.78579711914062"
+      "coordinates": "-33.393001556396484, -70.78579711914062",
+      "metar_available": false
     },
     {
       "ident": "SCEO",
@@ -1352,7 +1464,8 @@
       "iso_region": "CL-ML",
       "municipality": "Parral",
       "gps_code": "SCEO",
-      "coordinates": "-36.13028, -71.857498"
+      "coordinates": "-36.13028, -71.857498",
+      "metar_available": false
     },
     {
       "ident": "SCEP",
@@ -1364,7 +1477,8 @@
       "iso_region": "CL-RM",
       "municipality": "Pirque",
       "gps_code": "SCEP",
-      "coordinates": "-33.724998, -70.5103"
+      "coordinates": "-33.724998, -70.5103",
+      "metar_available": false
     },
     {
       "ident": "SCER",
@@ -1376,7 +1490,8 @@
       "iso_region": "CL-VS",
       "municipality": "Quintero",
       "gps_code": "SCER",
-      "coordinates": "-32.790199, -71.521698"
+      "coordinates": "-32.790199, -71.521698",
+      "metar_available": false
     },
     {
       "ident": "SCES",
@@ -1389,7 +1504,8 @@
       "municipality": "El Salvador",
       "gps_code": "SCES",
       "iata_code": "ESR",
-      "coordinates": "-26.3111, -69.765198"
+      "coordinates": "-26.3111, -69.765198",
+      "metar_available": false
     },
     {
       "ident": "SCET",
@@ -1401,7 +1517,8 @@
       "iso_region": "CL-LI",
       "municipality": "San Vicente De Tagua Tagua",
       "gps_code": "SCET",
-      "coordinates": "-34.475555, -71.014168"
+      "coordinates": "-34.475555, -71.014168",
+      "metar_available": false
     },
     {
       "ident": "SCEV",
@@ -1414,7 +1531,8 @@
       "municipality": "Frutillar",
       "gps_code": "SCEV",
       "iata_code": "FRT",
-      "coordinates": "-41.051666, -73.35111"
+      "coordinates": "-41.051666, -73.35111",
+      "metar_available": false
     },
     {
       "ident": "SCEX",
@@ -1426,7 +1544,8 @@
       "iso_region": "CL-AI",
       "municipality": "Aysén",
       "gps_code": "SCEX",
-      "coordinates": "-46.353611, -73.327778"
+      "coordinates": "-46.353611, -73.327778",
+      "metar_available": false
     },
     {
       "ident": "SCEY",
@@ -1438,7 +1557,8 @@
       "iso_region": "CL-AI",
       "municipality": "Entrada Mayer",
       "gps_code": "SCEY",
-      "coordinates": "-48.201452, -72.32759"
+      "coordinates": "-48.201452, -72.32759",
+      "metar_available": false
     },
     {
       "ident": "SCFA",
@@ -1451,7 +1571,8 @@
       "municipality": "Antofagasta",
       "gps_code": "SCFA",
       "iata_code": "ANF",
-      "coordinates": "-23.444501, -70.445099"
+      "coordinates": "-23.444501, -70.445099",
+      "metar_available": false
     },
     {
       "ident": "SCFC",
@@ -1463,7 +1584,8 @@
       "iso_region": "CL-AI",
       "municipality": "Fachinal",
       "gps_code": "SCFC",
-      "coordinates": "-46.548343, -72.218714"
+      "coordinates": "-46.548343, -72.218714",
+      "metar_available": false
     },
     {
       "ident": "SCFF",
@@ -1475,7 +1597,8 @@
       "iso_region": "CL-AT",
       "municipality": "Freirina",
       "gps_code": "SCFF",
-      "coordinates": "-28.526388, -71.061943"
+      "coordinates": "-28.526388, -71.061943",
+      "metar_available": false
     },
     {
       "ident": "SCFI",
@@ -1487,7 +1610,8 @@
       "iso_region": "CL-LL",
       "municipality": "Frutillar",
       "gps_code": "SCFI",
-      "coordinates": "-41.091965, -73.127023"
+      "coordinates": "-41.091965, -73.127023",
+      "metar_available": false
     },
     {
       "ident": "SCFJ",
@@ -1499,7 +1623,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SCFJ",
-      "coordinates": "-30.68, -71.578613"
+      "coordinates": "-30.68, -71.578613",
+      "metar_available": false
     },
     {
       "ident": "SCFK",
@@ -1511,7 +1636,8 @@
       "iso_region": "CL-NB",
       "municipality": "Chillan",
       "gps_code": "SCFK",
-      "coordinates": "-36.641796, -72.011862"
+      "coordinates": "-36.641796, -72.011862",
+      "metar_available": false
     },
     {
       "ident": "SCFL",
@@ -1523,7 +1649,8 @@
       "iso_region": "CL-VS",
       "municipality": "Casablanca",
       "gps_code": "SCFL",
-      "coordinates": "-33.279999, -71.379204"
+      "coordinates": "-33.279999, -71.379204",
+      "metar_available": false
     },
     {
       "ident": "SCFM",
@@ -1536,7 +1663,8 @@
       "municipality": "Porvenir",
       "gps_code": "SCFM",
       "iata_code": "WPR",
-      "coordinates": "-53.2537, -70.319199"
+      "coordinates": "-53.2537, -70.319199",
+      "metar_available": false
     },
     {
       "ident": "SCFN",
@@ -1548,7 +1676,8 @@
       "iso_region": "CL-MA",
       "municipality": "Timaukel",
       "gps_code": "SCFN",
-      "coordinates": "-53.799, -69.12"
+      "coordinates": "-53.799, -69.12",
+      "metar_available": false
     },
     {
       "ident": "SCFO",
@@ -1560,7 +1689,8 @@
       "iso_region": "CL-ML",
       "municipality": "Pelarco",
       "gps_code": "SCFO",
-      "coordinates": "-35.458057, -71.281113"
+      "coordinates": "-35.458057, -71.281113",
+      "metar_available": false
     },
     {
       "ident": "SCFR",
@@ -1572,7 +1702,8 @@
       "iso_region": "CL-LL",
       "municipality": "Frutillar",
       "gps_code": "SCFR",
-      "coordinates": "-41.130833, -73.06472"
+      "coordinates": "-41.130833, -73.06472",
+      "metar_available": false
     },
     {
       "ident": "SCFS",
@@ -1584,7 +1715,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chonchi",
       "gps_code": "SCFS",
-      "coordinates": "-42.67889, -73.896667"
+      "coordinates": "-42.67889, -73.896667",
+      "metar_available": false
     },
     {
       "ident": "SCFT",
@@ -1597,7 +1729,8 @@
       "municipality": "Futaleufu",
       "gps_code": "SCFT",
       "iata_code": "FFU",
-      "coordinates": "-43.189201, -71.851097"
+      "coordinates": "-43.189201, -71.851097",
+      "metar_available": false
     },
     {
       "ident": "SCFU",
@@ -1609,7 +1742,8 @@
       "iso_region": "CL-LR",
       "municipality": "Futrono",
       "gps_code": "SCFU",
-      "coordinates": "-40.066399, -72.537804"
+      "coordinates": "-40.066399, -72.537804",
+      "metar_available": false
     },
     {
       "ident": "SCFX",
@@ -1621,7 +1755,8 @@
       "iso_region": "CL-AT",
       "municipality": "Isla San Felix",
       "gps_code": "SCFX",
-      "coordinates": "-26.2939, -80.096199"
+      "coordinates": "-26.2939, -80.096199",
+      "metar_available": false
     },
     {
       "ident": "SCGA",
@@ -1633,7 +1768,8 @@
       "iso_region": "CL-LR",
       "municipality": "La Union",
       "gps_code": "SCGA",
-      "coordinates": "-40.0019, -73.696404"
+      "coordinates": "-40.0019, -73.696404",
+      "metar_available": false
     },
     {
       "ident": "SCGB",
@@ -1645,7 +1781,8 @@
       "iso_region": "CL-AR",
       "municipality": "Los Sauces",
       "gps_code": "SCGB",
-      "coordinates": "-37.977779, -72.929443"
+      "coordinates": "-37.977779, -72.929443",
+      "metar_available": false
     },
     {
       "ident": "SCGE",
@@ -1658,7 +1795,8 @@
       "municipality": "Los Angeles",
       "gps_code": "SCGE",
       "iata_code": "LSQ",
-      "coordinates": "-37.401699, -72.4254"
+      "coordinates": "-37.401699, -72.4254",
+      "metar_available": false
     },
     {
       "ident": "SCGF",
@@ -1670,7 +1808,8 @@
       "iso_region": "CL-LR",
       "municipality": "Futrono",
       "gps_code": "SCGF",
-      "coordinates": "-40.140833, -72.283611"
+      "coordinates": "-40.140833, -72.283611",
+      "metar_available": false
     },
     {
       "ident": "SCGH",
@@ -1682,7 +1821,8 @@
       "iso_region": "CL-BI",
       "municipality": "Los Angeles",
       "gps_code": "SCGH",
-      "coordinates": "-37.469723, -72.138611"
+      "coordinates": "-37.469723, -72.138611",
+      "metar_available": false
     },
     {
       "ident": "SCGI",
@@ -1694,7 +1834,8 @@
       "iso_region": "CL-ML",
       "municipality": "Retiro",
       "gps_code": "SCGI",
-      "coordinates": "-36.00111, -71.829445"
+      "coordinates": "-36.00111, -71.829445",
+      "metar_available": false
     },
     {
       "ident": "SCGL",
@@ -1706,7 +1847,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rapel",
       "gps_code": "SCGL",
-      "coordinates": "-34.169167, -71.531113"
+      "coordinates": "-34.169167, -71.531113",
+      "metar_available": false
     },
     {
       "ident": "SCGM",
@@ -1718,7 +1860,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rengo",
       "gps_code": "SCGM",
-      "coordinates": "-34.361111, -70.881943"
+      "coordinates": "-34.361111, -70.881943",
+      "metar_available": false
     },
     {
       "ident": "SCGN",
@@ -1730,7 +1873,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCGN",
-      "coordinates": "-42.56361, -72.599724"
+      "coordinates": "-42.56361, -72.599724",
+      "metar_available": false
     },
     {
       "ident": "SCGO",
@@ -1742,7 +1886,8 @@
       "iso_region": "CL-AR",
       "municipality": "Angol",
       "gps_code": "SCGO",
-      "coordinates": "-37.794701, -72.687202"
+      "coordinates": "-37.794701, -72.687202",
+      "metar_available": false
     },
     {
       "ident": "SCGS",
@@ -1754,7 +1899,8 @@
       "iso_region": "CL-BI",
       "municipality": "Cholguan",
       "gps_code": "SCGS",
-      "coordinates": "-37.177223, -72.07972"
+      "coordinates": "-37.177223, -72.07972",
+      "metar_available": false
     },
     {
       "ident": "SCGU",
@@ -1766,7 +1912,8 @@
       "iso_region": "CL-AN",
       "municipality": "Antofagasta",
       "gps_code": "SCGU",
-      "coordinates": "-24.123091, -69.845917"
+      "coordinates": "-24.123091, -69.845917",
+      "metar_available": false
     },
     {
       "ident": "SCGV",
@@ -1778,7 +1925,8 @@
       "iso_region": "CL-AT",
       "municipality": "Caleta Chañaral De Aceituno",
       "gps_code": "SCGV",
-      "coordinates": "-29.084444, -71.467222"
+      "coordinates": "-29.084444, -71.467222",
+      "metar_available": false
     },
     {
       "ident": "SCGY",
@@ -1790,7 +1938,8 @@
       "iso_region": "CL-AR",
       "municipality": "Cunco",
       "gps_code": "SCGY",
-      "coordinates": "-39.053055, -71.993614"
+      "coordinates": "-39.053055, -71.993614",
+      "metar_available": false
     },
     {
       "ident": "SCGZ",
@@ -1803,7 +1952,8 @@
       "municipality": "Puerto Williams",
       "gps_code": "SCGZ",
       "iata_code": "WPU",
-      "coordinates": "-54.931099, -67.626297"
+      "coordinates": "-54.931099, -67.626297",
+      "metar_available": false
     },
     {
       "ident": "SCHA",
@@ -1815,7 +1965,8 @@
       "iso_region": "CL-AT",
       "municipality": "Copiapo",
       "gps_code": "SCHA",
-      "coordinates": "-27.2968997955, -70.4131011963"
+      "coordinates": "-27.2968997955, -70.4131011963",
+      "metar_available": false
     },
     {
       "ident": "SCHC",
@@ -1827,7 +1978,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SCHC",
-      "coordinates": "-33.267776, -70.647224"
+      "coordinates": "-33.267776, -70.647224",
+      "metar_available": false
     },
     {
       "ident": "SCHD",
@@ -1839,7 +1991,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCHD",
-      "coordinates": "-42.524445, -72.816948"
+      "coordinates": "-42.524445, -72.816948",
+      "metar_available": false
     },
     {
       "ident": "SCHE",
@@ -1851,7 +2004,8 @@
       "iso_region": "CL-BI",
       "municipality": "Huepil",
       "gps_code": "SCHE",
-      "coordinates": "-37.199722, -71.896667"
+      "coordinates": "-37.199722, -71.896667",
+      "metar_available": false
     },
     {
       "ident": "SCHG",
@@ -1863,7 +2017,8 @@
       "iso_region": "CL-LI",
       "municipality": "Pichidegua",
       "gps_code": "SCHG",
-      "coordinates": "-34.398613, -71.371109"
+      "coordinates": "-34.398613, -71.371109",
+      "metar_available": false
     },
     {
       "ident": "SCHH",
@@ -1875,7 +2030,8 @@
       "iso_region": "CL-AI",
       "municipality": "Chile Chico",
       "gps_code": "SCHH",
-      "coordinates": "-46.792906, -72.79614"
+      "coordinates": "-46.792906, -72.79614",
+      "metar_available": false
     },
     {
       "ident": "SCHK",
@@ -1887,7 +2043,8 @@
       "iso_region": "CL-LR",
       "municipality": "La Union",
       "gps_code": "SCHK",
-      "coordinates": "-40.1586, -73.654404"
+      "coordinates": "-40.1586, -73.654404",
+      "metar_available": false
     },
     {
       "ident": "SCHL",
@@ -1899,7 +2056,8 @@
       "iso_region": "CL-RM",
       "municipality": "Lampa",
       "gps_code": "SCHL",
-      "coordinates": "-33.335278, -70.91111"
+      "coordinates": "-33.335278, -70.91111",
+      "metar_available": false
     },
     {
       "ident": "SCHM",
@@ -1911,7 +2069,8 @@
       "iso_region": "CL-BI",
       "municipality": "Isla Mocha",
       "gps_code": "SCHM",
-      "coordinates": "-38.41, -73.900833"
+      "coordinates": "-38.41, -73.900833",
+      "metar_available": false
     },
     {
       "ident": "SCHN",
@@ -1923,7 +2082,8 @@
       "iso_region": "CL-LR",
       "municipality": "Choshuenco",
       "gps_code": "SCHN",
-      "coordinates": "-39.865799, -72.131401"
+      "coordinates": "-39.865799, -72.131401",
+      "metar_available": false
     },
     {
       "ident": "SCHO",
@@ -1935,7 +2095,8 @@
       "iso_region": "CL-CO",
       "municipality": "Los Vilos",
       "gps_code": "SCHO",
-      "coordinates": "-31.882778, -71.476387"
+      "coordinates": "-31.882778, -71.476387",
+      "metar_available": false
     },
     {
       "ident": "SCHP",
@@ -1947,7 +2108,8 @@
       "iso_region": "CL-ML",
       "municipality": "Retiro",
       "gps_code": "SCHP",
-      "coordinates": "-36.077499, -71.779724"
+      "coordinates": "-36.077499, -71.779724",
+      "metar_available": false
     },
     {
       "ident": "SCHR",
@@ -1960,7 +2122,8 @@
       "municipality": "Cochrane",
       "gps_code": "SCHR",
       "iata_code": "LGR",
-      "coordinates": "-47.243591, -72.58815"
+      "coordinates": "-47.243591, -72.58815",
+      "metar_available": false
     },
     {
       "ident": "SCHT",
@@ -1972,7 +2135,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCHT",
-      "coordinates": "-43.613056, -72.897499"
+      "coordinates": "-43.613056, -72.897499",
+      "metar_available": false
     },
     {
       "ident": "SCHU",
@@ -1984,7 +2148,8 @@
       "iso_region": "CL-AT",
       "municipality": "Huasco",
       "gps_code": "SCHU",
-      "coordinates": "-28.098888, -71.146667"
+      "coordinates": "-28.098888, -71.146667",
+      "metar_available": false
     },
     {
       "ident": "SCHW",
@@ -1996,7 +2161,8 @@
       "iso_region": "CL-LL",
       "municipality": "Hualaihue",
       "gps_code": "SCHW",
-      "coordinates": "-42.02861, -72.689445"
+      "coordinates": "-42.02861, -72.689445",
+      "metar_available": false
     },
     {
       "ident": "SCIA",
@@ -2008,7 +2174,8 @@
       "iso_region": "CL-LL",
       "municipality": "Isla Apiao",
       "gps_code": "SCIA",
-      "coordinates": "-42.599724, -73.212219"
+      "coordinates": "-42.599724, -73.212219",
+      "metar_available": false
     },
     {
       "ident": "SCIB",
@@ -2020,7 +2187,8 @@
       "iso_region": "CL-LL",
       "municipality": "Isla Butachauques",
       "gps_code": "SCIB",
-      "coordinates": "-42.308334, -73.14222"
+      "coordinates": "-42.308334, -73.14222",
+      "metar_available": false
     },
     {
       "ident": "SCIC",
@@ -2032,7 +2200,8 @@
       "iso_region": "CL-ML",
       "municipality": "Curico",
       "gps_code": "SCIC",
-      "coordinates": "-34.966667, -71.216393"
+      "coordinates": "-34.966667, -71.216393",
+      "metar_available": false
     },
     {
       "ident": "SCID",
@@ -2044,7 +2213,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Arenas",
       "gps_code": "SCID",
-      "coordinates": "-52.881537, -70.753365"
+      "coordinates": "-52.881537, -70.753365",
+      "metar_available": false
     },
     {
       "ident": "SCIE",
@@ -2057,7 +2227,8 @@
       "municipality": "Concepcion",
       "gps_code": "SCIE",
       "iata_code": "CCP",
-      "coordinates": "-36.772701, -73.063103"
+      "coordinates": "-36.772701, -73.063103",
+      "metar_available": false
     },
     {
       "ident": "SCIF",
@@ -2069,7 +2240,8 @@
       "iso_region": "CL-LR",
       "municipality": "Llifen",
       "gps_code": "SCIF",
-      "coordinates": "-40.205799, -72.2314"
+      "coordinates": "-40.205799, -72.2314",
+      "metar_available": false
     },
     {
       "ident": "SCIH",
@@ -2081,7 +2253,8 @@
       "iso_region": "CL-AI",
       "municipality": "Caleta Andrade",
       "gps_code": "SCIH",
-      "coordinates": "-45.149121, -73.513118"
+      "coordinates": "-45.149121, -73.513118",
+      "metar_available": false
     },
     {
       "ident": "SCII",
@@ -2093,7 +2266,8 @@
       "iso_region": "CL-AI",
       "municipality": "Puerto Ingeniero Ibañez",
       "gps_code": "SCII",
-      "coordinates": "-46.293966, -71.949601"
+      "coordinates": "-46.293966, -71.949601",
+      "metar_available": false
     },
     {
       "ident": "SCIK",
@@ -2105,7 +2279,8 @@
       "iso_region": "CL-LL",
       "municipality": "Isla Talcan",
       "gps_code": "SCIK",
-      "coordinates": "-42.744357, -72.966861"
+      "coordinates": "-42.744357, -72.966861",
+      "metar_available": false
     },
     {
       "ident": "SCIL",
@@ -2117,7 +2292,8 @@
       "iso_region": "CL-CO",
       "municipality": "Illapel",
       "gps_code": "SCIL",
-      "coordinates": "-31.577801, -71.110802"
+      "coordinates": "-31.577801, -71.110802",
+      "metar_available": false
     },
     {
       "ident": "SCIM",
@@ -2129,7 +2305,8 @@
       "iso_region": "CL-BI",
       "municipality": "Isla Mocha",
       "gps_code": "SCIM",
-      "coordinates": "-38.384998, -73.868896"
+      "coordinates": "-38.384998, -73.868896",
+      "metar_available": false
     },
     {
       "ident": "SCIN",
@@ -2140,7 +2317,8 @@
       "iso_country": "CL",
       "iso_region": "CL-AR",
       "gps_code": "SCIN",
-      "coordinates": "-37.848, -72.462833"
+      "coordinates": "-37.848, -72.462833",
+      "metar_available": false
     },
     {
       "ident": "SCIO",
@@ -2152,7 +2330,8 @@
       "iso_region": "CL-AI",
       "municipality": "Villa O'Higgins",
       "gps_code": "SCIO",
-      "coordinates": "-48.93357849121094, -72.79961395263672"
+      "coordinates": "-48.93357849121094, -72.79961395263672",
+      "metar_available": false
     },
     {
       "ident": "SCIP",
@@ -2165,7 +2344,8 @@
       "municipality": "Isla De Pascua",
       "gps_code": "SCIP",
       "iata_code": "IPC",
-      "coordinates": "-27.1648006439, -109.42199707"
+      "coordinates": "-27.1648006439, -109.42199707",
+      "metar_available": false
     },
     {
       "ident": "SCIR",
@@ -2177,7 +2357,8 @@
       "iso_region": "CL-VS",
       "municipality": "Isla Robinson Crusoe",
       "gps_code": "SCIR",
-      "coordinates": "-33.6650009155, -78.9297027588"
+      "coordinates": "-33.6650009155, -78.9297027588",
+      "metar_available": false
     },
     {
       "ident": "SCIS",
@@ -2189,7 +2370,8 @@
       "iso_region": "CL-BI",
       "municipality": "Isla Santa Maria",
       "gps_code": "SCIS",
-      "coordinates": "-37.026112, -73.506943"
+      "coordinates": "-37.026112, -73.506943",
+      "metar_available": false
     },
     {
       "ident": "SCIT",
@@ -2201,7 +2383,8 @@
       "iso_region": "CL-MA",
       "municipality": "Isla Tierra Del Fuego",
       "gps_code": "SCIT",
-      "coordinates": "-52.955002, -70.032799"
+      "coordinates": "-52.955002, -70.032799",
+      "metar_available": false
     },
     {
       "ident": "SCJC",
@@ -2213,7 +2396,8 @@
       "iso_region": "CL-NB",
       "municipality": "Ranguelmo",
       "gps_code": "SCJC",
-      "coordinates": "-36.580454, -72.7724"
+      "coordinates": "-36.580454, -72.7724",
+      "metar_available": false
     },
     {
       "ident": "SCJK",
@@ -2225,7 +2409,8 @@
       "iso_region": "CL-LL",
       "municipality": "Osorno",
       "gps_code": "SCJK",
-      "coordinates": "-40.889708, -72.371812"
+      "coordinates": "-40.889708, -72.371812",
+      "metar_available": false
     },
     {
       "ident": "SCJO",
@@ -2238,7 +2423,8 @@
       "municipality": "Osorno",
       "gps_code": "SCJO",
       "iata_code": "ZOS",
-      "coordinates": "-40.611198, -73.060997"
+      "coordinates": "-40.611198, -73.060997",
+      "metar_available": false
     },
     {
       "ident": "SCJS",
@@ -2249,7 +2435,8 @@
       "iso_country": "CL",
       "iso_region": "CL-NB",
       "gps_code": "SCJS",
-      "coordinates": "-36.234129, -72.05951"
+      "coordinates": "-36.234129, -72.05951",
+      "metar_available": false
     },
     {
       "ident": "SCJV",
@@ -2261,7 +2448,8 @@
       "iso_region": "CL-ML",
       "municipality": "San Javier",
       "gps_code": "SCJV",
-      "coordinates": "-35.54805374145508, -71.77610778808594"
+      "coordinates": "-35.54805374145508, -71.77610778808594",
+      "metar_available": false
     },
     {
       "ident": "SCKA",
@@ -2273,7 +2461,8 @@
       "iso_region": "CL-NB",
       "municipality": "San Carlos",
       "gps_code": "SCKA",
-      "coordinates": "-36.490767, -71.890692"
+      "coordinates": "-36.490767, -71.890692",
+      "metar_available": false
     },
     {
       "ident": "SCKB",
@@ -2285,7 +2474,8 @@
       "iso_region": "CL-AR",
       "municipality": "Lago Caburga",
       "gps_code": "SCKB",
-      "coordinates": "-39.057499, -71.68972"
+      "coordinates": "-39.057499, -71.68972",
+      "metar_available": false
     },
     {
       "ident": "SCKC",
@@ -2297,7 +2487,8 @@
       "iso_region": "CL-AR",
       "municipality": "Cunco",
       "gps_code": "SCKC",
-      "coordinates": "-38.906944274902344, -72.21527862548828"
+      "coordinates": "-38.906944274902344, -72.21527862548828",
+      "metar_available": false
     },
     {
       "ident": "SCKD",
@@ -2309,7 +2500,8 @@
       "iso_region": "CL-LR",
       "municipality": "Rio Bueno",
       "gps_code": "SCKD",
-      "coordinates": "-40.4678, -72.684998"
+      "coordinates": "-40.4678, -72.684998",
+      "metar_available": false
     },
     {
       "ident": "SCKE",
@@ -2321,7 +2513,8 @@
       "iso_region": "CL-ML",
       "municipality": "Pelluhue",
       "gps_code": "SCKE",
-      "coordinates": "-35.854443, -72.645836"
+      "coordinates": "-35.854443, -72.645836",
+      "metar_available": false
     },
     {
       "ident": "SCKI",
@@ -2333,7 +2526,8 @@
       "iso_region": "CL-ML",
       "municipality": "Curico",
       "gps_code": "SCKI",
-      "coordinates": "-34.903889, -71.201385"
+      "coordinates": "-34.903889, -71.201385",
+      "metar_available": false
     },
     {
       "ident": "SCKK",
@@ -2345,7 +2539,8 @@
       "iso_region": "CL-ML",
       "municipality": "Molina",
       "gps_code": "SCKK",
-      "coordinates": "-35.384998, -71.106667"
+      "coordinates": "-35.384998, -71.106667",
+      "metar_available": false
     },
     {
       "ident": "SCKL",
@@ -2357,7 +2552,8 @@
       "iso_region": "CL-RM",
       "municipality": "Lampa",
       "gps_code": "SCKL",
-      "coordinates": "-33.331112, -70.849998"
+      "coordinates": "-33.331112, -70.849998",
+      "metar_available": false
     },
     {
       "ident": "SCKM",
@@ -2369,7 +2565,8 @@
       "iso_region": "CL-LL",
       "municipality": "Cochamo",
       "gps_code": "SCKM",
-      "coordinates": "-41.483334, -72.300003"
+      "coordinates": "-41.483334, -72.300003",
+      "metar_available": false
     },
     {
       "ident": "SCKN",
@@ -2381,7 +2578,8 @@
       "iso_region": "CL-ML",
       "municipality": "Licanten",
       "gps_code": "SCKN",
-      "coordinates": "-34.989166, -72.01889"
+      "coordinates": "-34.989166, -72.01889",
+      "metar_available": false
     },
     {
       "ident": "SCKO",
@@ -2393,7 +2591,8 @@
       "iso_region": "CL-AR",
       "municipality": "Collipulli",
       "gps_code": "SCKO",
-      "coordinates": "-37.993889, -72.249168"
+      "coordinates": "-37.993889, -72.249168",
+      "metar_available": false
     },
     {
       "ident": "SCKP",
@@ -2406,7 +2605,8 @@
       "municipality": "Pica",
       "gps_code": "SCKP",
       "iata_code": "CPP",
-      "coordinates": "-20.7505, -68.683502"
+      "coordinates": "-20.7505, -68.683502",
+      "metar_available": false
     },
     {
       "ident": "SCKQ",
@@ -2418,7 +2618,8 @@
       "iso_region": "CL-AR",
       "municipality": "Pucon",
       "gps_code": "SCKQ",
-      "coordinates": "-39.326946, -72.027222"
+      "coordinates": "-39.326946, -72.027222",
+      "metar_available": false
     },
     {
       "ident": "SCKT",
@@ -2430,7 +2631,8 @@
       "iso_region": "CL-NB",
       "municipality": "Coelemu",
       "gps_code": "SCKT",
-      "coordinates": "-36.499399, -72.679857"
+      "coordinates": "-36.499399, -72.679857",
+      "metar_available": false
     },
     {
       "ident": "SCLA",
@@ -2442,7 +2644,8 @@
       "iso_region": "CL-AR",
       "municipality": "Lautaro",
       "gps_code": "SCLA",
-      "coordinates": "-38.542778, -72.45472"
+      "coordinates": "-38.542778, -72.45472",
+      "metar_available": false
     },
     {
       "ident": "SCLB",
@@ -2454,7 +2657,8 @@
       "iso_region": "CL-BI",
       "municipality": "Lebu",
       "gps_code": "SCLB",
-      "coordinates": "-37.658054, -73.629448"
+      "coordinates": "-37.658054, -73.629448",
+      "metar_available": false
     },
     {
       "ident": "SCLC",
@@ -2466,7 +2670,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SCLC",
-      "coordinates": "-33.380798, -70.582199"
+      "coordinates": "-33.380798, -70.582199",
+      "metar_available": false
     },
     {
       "ident": "SCLD",
@@ -2478,7 +2683,8 @@
       "iso_region": "CL-LL",
       "municipality": "Llanada Grande",
       "gps_code": "SCLD",
-      "coordinates": "-41.87189, -71.937241"
+      "coordinates": "-41.87189, -71.937241",
+      "metar_available": false
     },
     {
       "ident": "SCLE",
@@ -2490,7 +2696,8 @@
       "iso_region": "CL-AN",
       "municipality": "Antofagasta",
       "gps_code": "SCLE",
-      "coordinates": "-24.294701, -69.131699"
+      "coordinates": "-24.294701, -69.131699",
+      "metar_available": false
     },
     {
       "ident": "SCLF",
@@ -2502,7 +2709,8 @@
       "iso_region": "CL-LR",
       "municipality": "Llifen",
       "gps_code": "SCLF",
-      "coordinates": "-40.244202, -72.2369"
+      "coordinates": "-40.244202, -72.2369",
+      "metar_available": false
     },
     {
       "ident": "SCLG",
@@ -2514,7 +2722,8 @@
       "iso_region": "CL-ML",
       "municipality": "Pencahue",
       "gps_code": "SCLG",
-      "coordinates": "-35.342777, -71.776947"
+      "coordinates": "-35.342777, -71.776947",
+      "metar_available": false
     },
     {
       "ident": "SCLI",
@@ -2526,7 +2735,8 @@
       "iso_region": "CL-ML",
       "municipality": "Llico",
       "gps_code": "SCLI",
-      "coordinates": "-34.783333, -72.050835"
+      "coordinates": "-34.783333, -72.050835",
+      "metar_available": false
     },
     {
       "ident": "SCLJ",
@@ -2538,7 +2748,8 @@
       "iso_region": "CL-AI",
       "municipality": "La Junta",
       "gps_code": "SCLJ",
-      "coordinates": "-43.978111, -72.413352"
+      "coordinates": "-43.978111, -72.413352",
+      "metar_available": false
     },
     {
       "ident": "SCLK",
@@ -2550,7 +2761,8 @@
       "iso_region": "CL-AR",
       "municipality": "Cunco",
       "gps_code": "SCLK",
-      "coordinates": "-39.057499, -72.074165"
+      "coordinates": "-39.057499, -72.074165",
+      "metar_available": false
     },
     {
       "ident": "SCLL",
@@ -2563,7 +2775,8 @@
       "municipality": "Vallenar",
       "gps_code": "SCLL",
       "iata_code": "VLR",
-      "coordinates": "-28.596399, -70.755997"
+      "coordinates": "-28.596399, -70.755997",
+      "metar_available": false
     },
     {
       "ident": "SCLM",
@@ -2575,7 +2788,8 @@
       "iso_region": "CL-ML",
       "municipality": "San Javier",
       "gps_code": "SCLM",
-      "coordinates": "-35.5, -71.880836"
+      "coordinates": "-35.5, -71.880836",
+      "metar_available": false
     },
     {
       "ident": "SCLN",
@@ -2588,7 +2802,8 @@
       "municipality": "Linares",
       "gps_code": "SCLN",
       "iata_code": "ZLR",
-      "coordinates": "-35.861698, -71.548599"
+      "coordinates": "-35.861698, -71.548599",
+      "metar_available": false
     },
     {
       "ident": "SCLO",
@@ -2600,7 +2815,8 @@
       "iso_region": "CL-AI",
       "municipality": "Chile Chico",
       "gps_code": "SCLO",
-      "coordinates": "-46.765556, -72.818336"
+      "coordinates": "-46.765556, -72.818336",
+      "metar_available": false
     },
     {
       "ident": "SCLP",
@@ -2612,7 +2828,8 @@
       "iso_region": "CL-ML",
       "municipality": "Molina",
       "gps_code": "SCLP",
-      "coordinates": "-35.21555709838867, -71.10861206054688"
+      "coordinates": "-35.21555709838867, -71.10861206054688",
+      "metar_available": false
     },
     {
       "ident": "SCLQ",
@@ -2624,7 +2841,8 @@
       "iso_region": "CL-VS",
       "municipality": "La Ligua",
       "gps_code": "SCLQ",
-      "coordinates": "-32.452499, -71.258888"
+      "coordinates": "-32.452499, -71.258888",
+      "metar_available": false
     },
     {
       "ident": "SCLR",
@@ -2636,7 +2854,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCLR",
-      "coordinates": "-42.780893, -72.64524"
+      "coordinates": "-42.780893, -72.64524",
+      "metar_available": false
     },
     {
       "ident": "SCLS",
@@ -2648,7 +2867,8 @@
       "iso_region": "CL-AR",
       "municipality": "Lautaro",
       "gps_code": "SCLS",
-      "coordinates": "-38.548889, -72.145836"
+      "coordinates": "-38.548889, -72.145836",
+      "metar_available": false
     },
     {
       "ident": "SCLT",
@@ -2660,7 +2880,8 @@
       "iso_region": "CL-LI",
       "municipality": "Litueche",
       "gps_code": "SCLT",
-      "coordinates": "-34.112222, -71.938056"
+      "coordinates": "-34.112222, -71.938056",
+      "metar_available": false
     },
     {
       "ident": "SCLU",
@@ -2672,7 +2893,8 @@
       "iso_region": "CL-LI",
       "municipality": "Marchigue",
       "gps_code": "SCLU",
-      "coordinates": "-34.352501, -71.663887"
+      "coordinates": "-34.352501, -71.663887",
+      "metar_available": false
     },
     {
       "ident": "SCLV",
@@ -2684,7 +2906,8 @@
       "iso_region": "CL-CO",
       "municipality": "Guangali",
       "gps_code": "SCLV",
-      "coordinates": "-32.138054, -71.398056"
+      "coordinates": "-32.138054, -71.398056",
+      "metar_available": false
     },
     {
       "ident": "SCLY",
@@ -2696,7 +2919,8 @@
       "iso_region": "CL-BI",
       "municipality": "Arauco",
       "gps_code": "SCLY",
-      "coordinates": "-37.216389, -73.233055"
+      "coordinates": "-37.216389, -73.233055",
+      "metar_available": false
     },
     {
       "ident": "SCMA",
@@ -2708,7 +2932,8 @@
       "iso_region": "CL-AI",
       "municipality": "Puerto Marin Balmaceda",
       "gps_code": "SCMA",
-      "coordinates": "-43.787633, -72.950994"
+      "coordinates": "-43.787633, -72.950994",
+      "metar_available": false
     },
     {
       "ident": "SCME",
@@ -2720,7 +2945,8 @@
       "iso_region": "CL-RM",
       "municipality": "Melipilla",
       "gps_code": "SCME",
-      "coordinates": "-33.676109, -71.143333"
+      "coordinates": "-33.676109, -71.143333",
+      "metar_available": false
     },
     {
       "ident": "SCMF",
@@ -2732,7 +2958,8 @@
       "iso_region": "CL-AR",
       "municipality": "Villarrica",
       "gps_code": "SCMF",
-      "coordinates": "-39.255833, -72.34333"
+      "coordinates": "-39.255833, -72.34333",
+      "metar_available": false
     },
     {
       "ident": "SCMG",
@@ -2744,7 +2971,8 @@
       "iso_region": "CL-ML",
       "municipality": "San Javier",
       "gps_code": "SCMG",
-      "coordinates": "-35.570557, -72.003891"
+      "coordinates": "-35.570557, -72.003891",
+      "metar_available": false
     },
     {
       "ident": "SCMH",
@@ -2756,7 +2984,8 @@
       "iso_region": "CL-LI",
       "municipality": "Marchigue",
       "gps_code": "SCMH",
-      "coordinates": "-34.287224, -71.558334"
+      "coordinates": "-34.287224, -71.558334",
+      "metar_available": false
     },
     {
       "ident": "SCMI",
@@ -2768,7 +2997,8 @@
       "iso_region": "CL-CO",
       "municipality": "Mialqui",
       "gps_code": "SCMI",
-      "coordinates": "-30.737499, -70.859726"
+      "coordinates": "-30.737499, -70.859726",
+      "metar_available": false
     },
     {
       "ident": "SCMK",
@@ -2780,7 +3010,8 @@
       "iso_region": "CL-AI",
       "municipality": "Melinka",
       "gps_code": "SCMK",
-      "coordinates": "-43.895, -73.738892"
+      "coordinates": "-43.895, -73.738892",
+      "metar_available": false
     },
     {
       "ident": "SCML",
@@ -2792,7 +3023,8 @@
       "iso_region": "CL-AR",
       "municipality": "Melipeuco",
       "gps_code": "SCML",
-      "coordinates": "-38.856111, -71.8125"
+      "coordinates": "-38.856111, -71.8125",
+      "metar_available": false
     },
     {
       "ident": "SCMO",
@@ -2804,7 +3036,8 @@
       "iso_region": "CL-ML",
       "municipality": "Molina",
       "gps_code": "SCMO",
-      "coordinates": "-35.190277, -71.41861"
+      "coordinates": "-35.190277, -71.41861",
+      "metar_available": false
     },
     {
       "ident": "SCMP",
@@ -2816,7 +3049,8 @@
       "iso_region": "CL-RM",
       "municipality": "Melipilla",
       "gps_code": "SCMP",
-      "coordinates": "-33.673889, -71.193611"
+      "coordinates": "-33.673889, -71.193611",
+      "metar_available": false
     },
     {
       "ident": "SCMR",
@@ -2828,7 +3062,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rapel",
       "gps_code": "SCMR",
-      "coordinates": "-34.169167, -71.531111"
+      "coordinates": "-34.169167, -71.531111",
+      "metar_available": false
     },
     {
       "ident": "SCMS",
@@ -2840,7 +3075,8 @@
       "iso_region": "CL-ML",
       "municipality": "Longavi",
       "gps_code": "SCMS",
-      "coordinates": "-36.010278, -71.594444"
+      "coordinates": "-36.010278, -71.594444",
+      "metar_available": false
     },
     {
       "ident": "SCMU",
@@ -2852,7 +3088,8 @@
       "iso_region": "CL-LI",
       "municipality": "Pichilemu",
       "gps_code": "SCMU",
-      "coordinates": "-34.281113, -71.946945"
+      "coordinates": "-34.281113, -71.946945",
+      "metar_available": false
     },
     {
       "ident": "SCMV",
@@ -2864,7 +3101,8 @@
       "iso_region": "CL-ML",
       "municipality": "Molina",
       "gps_code": "SCMV",
-      "coordinates": "-35.105835, -71.327774"
+      "coordinates": "-35.105835, -71.327774",
+      "metar_available": false
     },
     {
       "ident": "SCMY",
@@ -2876,7 +3114,8 @@
       "iso_region": "CL-AN",
       "municipality": "Michilla",
       "gps_code": "SCMY",
-      "coordinates": "-22.703611, -70.282501"
+      "coordinates": "-22.703611, -70.282501",
+      "metar_available": false
     },
     {
       "ident": "SCMZ",
@@ -2888,7 +3127,8 @@
       "iso_region": "CL-LI",
       "municipality": "El Manzano",
       "gps_code": "SCMZ",
-      "coordinates": "-34.151669, -71.445831"
+      "coordinates": "-34.151669, -71.445831",
+      "metar_available": false
     },
     {
       "ident": "SCNA",
@@ -2900,7 +3140,8 @@
       "iso_region": "CL-ML",
       "municipality": "Linares",
       "gps_code": "SCNA",
-      "coordinates": "-35.976389, -71.597222"
+      "coordinates": "-35.976389, -71.597222",
+      "metar_available": false
     },
     {
       "ident": "SCND",
@@ -2912,7 +3153,8 @@
       "iso_region": "CL-AI",
       "municipality": "Ñadis",
       "gps_code": "SCND",
-      "coordinates": "-47.47072, -72.93013"
+      "coordinates": "-47.47072, -72.93013",
+      "metar_available": false
     },
     {
       "ident": "SCNH",
@@ -2924,7 +3166,8 @@
       "iso_region": "CL-AR",
       "municipality": "Vilcún",
       "gps_code": "SCNH",
-      "coordinates": "-38.683333, -72.243889"
+      "coordinates": "-38.683333, -72.243889",
+      "metar_available": false
     },
     {
       "ident": "SCNI",
@@ -2936,7 +3179,8 @@
       "iso_region": "CL-NB",
       "municipality": "San Nicolas",
       "gps_code": "SCNI",
-      "coordinates": "-36.437157, -72.15917"
+      "coordinates": "-36.437157, -72.15917",
+      "metar_available": false
     },
     {
       "ident": "SCNK",
@@ -2948,7 +3192,8 @@
       "iso_region": "CL-CO",
       "municipality": "Cuncumen",
       "gps_code": "SCNK",
-      "coordinates": "-31.873056, -70.618332"
+      "coordinates": "-31.873056, -70.618332",
+      "metar_available": false
     },
     {
       "ident": "SCNL",
@@ -2960,7 +3205,8 @@
       "iso_region": "CL-AI",
       "municipality": "Villa Cerro Castillo",
       "gps_code": "SCNL",
-      "coordinates": "-46.12999, -72.14587"
+      "coordinates": "-46.12999, -72.14587",
+      "metar_available": false
     },
     {
       "ident": "SCNM",
@@ -2972,7 +3218,8 @@
       "iso_region": "CL-BI",
       "municipality": "Cañete",
       "gps_code": "SCNM",
-      "coordinates": "-37.776112, -73.383614"
+      "coordinates": "-37.776112, -73.383614",
+      "metar_available": false
     },
     {
       "ident": "SCNO",
@@ -2984,7 +3231,8 @@
       "iso_region": "CL-LL",
       "municipality": "Ñochaco",
       "gps_code": "SCNO",
-      "coordinates": "-40.892868, -72.879997"
+      "coordinates": "-40.892868, -72.879997",
+      "metar_available": false
     },
     {
       "ident": "SCNP",
@@ -2995,7 +3243,8 @@
       "iso_country": "CL",
       "iso_region": "CL-CO",
       "gps_code": "SCNP",
-      "coordinates": "-31.7075, -71.24717"
+      "coordinates": "-31.7075, -71.24717",
+      "metar_available": false
     },
     {
       "ident": "SCNT",
@@ -3008,7 +3257,8 @@
       "municipality": "Puerto Natales",
       "gps_code": "SCNT",
       "iata_code": "PNT",
-      "coordinates": "-51.67067, -72.529078"
+      "coordinates": "-51.67067, -72.529078",
+      "metar_available": false
     },
     {
       "ident": "SCNY",
@@ -3020,7 +3270,8 @@
       "iso_region": "CL-MA",
       "municipality": "Navarino",
       "gps_code": "SCNY",
-      "coordinates": "-54.830973, -68.834926"
+      "coordinates": "-54.830973, -68.834926",
+      "metar_available": false
     },
     {
       "ident": "SCOA",
@@ -3032,7 +3283,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SCOA",
-      "coordinates": "-30.789444, -71.618332"
+      "coordinates": "-30.789444, -71.618332",
+      "metar_available": false
     },
     {
       "ident": "SCOB",
@@ -3044,7 +3296,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SCOB",
-      "coordinates": "-30.643333, -71.401944"
+      "coordinates": "-30.643333, -71.401944",
+      "metar_available": false
     },
     {
       "ident": "SCOC",
@@ -3056,7 +3309,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Octay",
       "gps_code": "SCOC",
-      "coordinates": "-40.991103, -72.661123"
+      "coordinates": "-40.991103, -72.661123",
+      "metar_available": false
     },
     {
       "ident": "SCOE",
@@ -3068,7 +3322,8 @@
       "iso_region": "CL-ML",
       "municipality": "Romeral",
       "gps_code": "SCOE",
-      "coordinates": "-34.962223, -71.016388"
+      "coordinates": "-34.962223, -71.016388",
+      "metar_available": false
     },
     {
       "ident": "SCOH",
@@ -3080,7 +3335,8 @@
       "iso_region": "CL-AI",
       "municipality": "Villa O'Higgins",
       "gps_code": "SCOH",
-      "coordinates": "-48.469212, -72.564316"
+      "coordinates": "-48.469212, -72.564316",
+      "metar_available": false
     },
     {
       "ident": "SCOI",
@@ -3092,7 +3348,8 @@
       "iso_region": "CL-ML",
       "municipality": "Hualanne",
       "gps_code": "SCOI",
-      "coordinates": "-34.912778, -71.660833"
+      "coordinates": "-34.912778, -71.660833",
+      "metar_available": false
     },
     {
       "ident": "SCOL",
@@ -3104,7 +3361,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puyehue",
       "gps_code": "SCOL",
-      "coordinates": "-40.689445, -72.345558"
+      "coordinates": "-40.689445, -72.345558",
+      "metar_available": false
     },
     {
       "ident": "SCOM",
@@ -3116,7 +3374,8 @@
       "iso_region": "CL-VS",
       "municipality": "Olmué",
       "gps_code": "SCOM",
-      "coordinates": "-32.997093, -71.17169"
+      "coordinates": "-32.997093, -71.17169",
+      "metar_available": false
     },
     {
       "ident": "SCON",
@@ -3128,7 +3387,8 @@
       "iso_region": "CL-LL",
       "municipality": "Quellon",
       "gps_code": "SCON",
-      "coordinates": "-43.1367, -73.635002"
+      "coordinates": "-43.1367, -73.635002",
+      "metar_available": false
     },
     {
       "ident": "SCOO",
@@ -3140,7 +3400,8 @@
       "iso_region": "CL-AI",
       "municipality": "Cisnes",
       "gps_code": "SCOO",
-      "coordinates": "-44.0975, -73.096944"
+      "coordinates": "-44.0975, -73.096944",
+      "metar_available": false
     },
     {
       "ident": "SCOP",
@@ -3152,7 +3413,8 @@
       "iso_region": "CL-LL",
       "municipality": "Osorno",
       "gps_code": "SCOP",
-      "coordinates": "-40.553653, -73.130057"
+      "coordinates": "-40.553653, -73.130057",
+      "metar_available": false
     },
     {
       "ident": "SCOT",
@@ -3164,7 +3426,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SCOT",
-      "coordinates": "-30.6765, -71.401001"
+      "coordinates": "-30.6765, -71.401001",
+      "metar_available": false
     },
     {
       "ident": "SCOV",
@@ -3177,7 +3440,8 @@
       "municipality": "Ovalle",
       "gps_code": "SCOV",
       "iata_code": "OVL",
-      "coordinates": "-30.5592, -71.175598"
+      "coordinates": "-30.5592, -71.175598",
+      "metar_available": false
     },
     {
       "ident": "SCOY",
@@ -3189,7 +3453,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SCOY",
-      "coordinates": "-30.430555, -71.532219"
+      "coordinates": "-30.430555, -71.532219",
+      "metar_available": false
     },
     {
       "ident": "SCPA",
@@ -3201,7 +3466,8 @@
       "iso_region": "CL-AN",
       "municipality": "Antofagasta",
       "gps_code": "SCPA",
-      "coordinates": "-24.6394, -70.3489"
+      "coordinates": "-24.6394, -70.3489",
+      "metar_available": false
     },
     {
       "ident": "SCPB",
@@ -3213,7 +3479,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puelo Bajo",
       "gps_code": "SCPB",
-      "coordinates": "-41.662224, -72.302223"
+      "coordinates": "-41.662224, -72.302223",
+      "metar_available": false
     },
     {
       "ident": "SCPC",
@@ -3226,7 +3493,8 @@
       "municipality": "Pucon",
       "gps_code": "SCPC",
       "iata_code": "ZPC",
-      "coordinates": "-39.292801, -71.915901"
+      "coordinates": "-39.292801, -71.915901",
+      "metar_available": false
     },
     {
       "ident": "SCPE",
@@ -3238,7 +3506,8 @@
       "iso_region": "CL-AN",
       "municipality": "San Pedro De Atacama",
       "gps_code": "SCPE",
-      "coordinates": "-22.9217, -68.158401"
+      "coordinates": "-22.9217, -68.158401",
+      "metar_available": false
     },
     {
       "ident": "SCPF",
@@ -3250,7 +3519,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Montt",
       "gps_code": "SCPF",
-      "coordinates": "-41.455685, -72.918704"
+      "coordinates": "-41.455685, -72.918704",
+      "metar_available": false
     },
     {
       "ident": "SCPG",
@@ -3262,7 +3532,8 @@
       "iso_region": "CL-LR",
       "municipality": "Panguipulli",
       "gps_code": "SCPG",
-      "coordinates": "-39.653301, -72.360298"
+      "coordinates": "-39.653301, -72.360298",
+      "metar_available": false
     },
     {
       "ident": "SCPH",
@@ -3274,7 +3545,8 @@
       "iso_region": "CL-AI",
       "municipality": "Puyuhuapi",
       "gps_code": "SCPH",
-      "coordinates": "-44.382948, -72.593631"
+      "coordinates": "-44.382948, -72.593631",
+      "metar_available": false
     },
     {
       "ident": "SCPI",
@@ -3286,7 +3558,8 @@
       "iso_region": "CL-NB",
       "municipality": "Coihueco",
       "gps_code": "SCPI",
-      "coordinates": "-36.586667, -71.807778"
+      "coordinates": "-36.586667, -71.807778",
+      "metar_available": false
     },
     {
       "ident": "SCPK",
@@ -3298,7 +3571,8 @@
       "iso_region": "CL-AI",
       "municipality": "Puerto Cisnes",
       "gps_code": "SCPK",
-      "coordinates": "-44.759304, -72.697763"
+      "coordinates": "-44.759304, -72.697763",
+      "metar_available": false
     },
     {
       "ident": "SCPL",
@@ -3310,7 +3584,8 @@
       "iso_region": "CL-LR",
       "municipality": "Paillaco",
       "gps_code": "SCPL",
-      "coordinates": "-40.128899, -72.661697"
+      "coordinates": "-40.128899, -72.661697",
+      "metar_available": false
     },
     {
       "ident": "SCPM",
@@ -3322,7 +3597,8 @@
       "iso_region": "CL-LI",
       "municipality": "Pichilemu",
       "gps_code": "SCPM",
-      "coordinates": "-34.394165, -72.019165"
+      "coordinates": "-34.394165, -72.019165",
+      "metar_available": false
     },
     {
       "ident": "SCPN",
@@ -3334,7 +3610,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCPN",
-      "coordinates": "-42.546112, -72.494164"
+      "coordinates": "-42.546112, -72.494164",
+      "metar_available": false
     },
     {
       "ident": "SCPO",
@@ -3346,7 +3623,8 @@
       "iso_region": "CL-LI",
       "municipality": "Quinta Tilcoco",
       "gps_code": "SCPO",
-      "coordinates": "-34.328056, -70.964165"
+      "coordinates": "-34.328056, -70.964165",
+      "metar_available": false
     },
     {
       "ident": "SCPP",
@@ -3358,7 +3636,8 @@
       "iso_region": "CL-BI",
       "municipality": "Mulchen",
       "gps_code": "SCPP",
-      "coordinates": "-37.848888, -72.008331"
+      "coordinates": "-37.848888, -72.008331",
+      "metar_available": false
     },
     {
       "ident": "SCPQ",
@@ -3371,7 +3650,8 @@
       "municipality": "Dalcahue",
       "gps_code": "SCPQ",
       "iata_code": "MHC",
-      "coordinates": "-42.340388, -73.715693"
+      "coordinates": "-42.340388, -73.715693",
+      "metar_available": false
     },
     {
       "ident": "SCPR",
@@ -3383,7 +3663,8 @@
       "iso_region": "CL-LL",
       "municipality": "Purranque",
       "gps_code": "SCPR",
-      "coordinates": "-40.941038, -73.168894"
+      "coordinates": "-40.941038, -73.168894",
+      "metar_available": false
     },
     {
       "ident": "SCPS",
@@ -3395,7 +3676,8 @@
       "iso_region": "CL-AT",
       "municipality": "Copiapo",
       "gps_code": "SCPS",
-      "coordinates": "-27.351667404174805, -70.58944702148438"
+      "coordinates": "-27.351667404174805, -70.58944702148438",
+      "metar_available": false
     },
     {
       "ident": "SCPT",
@@ -3407,7 +3689,8 @@
       "iso_region": "CL-LI",
       "municipality": "Santa Cruz",
       "gps_code": "SCPT",
-      "coordinates": "-34.613056, -71.375833"
+      "coordinates": "-34.613056, -71.375833",
+      "metar_available": false
     },
     {
       "ident": "SCPU",
@@ -3419,7 +3702,8 @@
       "iso_region": "CL-LL",
       "municipality": "Peulla",
       "gps_code": "SCPU",
-      "coordinates": "-41.057078, -72.013525"
+      "coordinates": "-41.057078, -72.013525",
+      "metar_available": false
     },
     {
       "ident": "SCPV",
@@ -3432,7 +3716,8 @@
       "municipality": "Puerto Varas",
       "gps_code": "SCPV",
       "iata_code": "PUX",
-      "coordinates": "-41.3494, -72.946701"
+      "coordinates": "-41.3494, -72.946701",
+      "metar_available": false
     },
     {
       "ident": "SCPW",
@@ -3444,7 +3729,8 @@
       "iso_region": "CL-LI",
       "municipality": "Peumo",
       "gps_code": "SCPW",
-      "coordinates": "-34.40889, -71.168892"
+      "coordinates": "-34.40889, -71.168892",
+      "metar_available": false
     },
     {
       "ident": "SCPX",
@@ -3456,7 +3742,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Catalina",
       "gps_code": "SCPX",
-      "coordinates": "-52.555011, -68.749884"
+      "coordinates": "-52.555011, -68.749884",
+      "metar_available": false
     },
     {
       "ident": "SCPY",
@@ -3468,7 +3755,8 @@
       "iso_region": "CL-MA",
       "municipality": "Cerro Castillo",
       "gps_code": "SCPY",
-      "coordinates": "-51.260222, -72.336836"
+      "coordinates": "-51.260222, -72.336836",
+      "metar_available": false
     },
     {
       "ident": "SCQC",
@@ -3480,7 +3768,8 @@
       "iso_region": "CL-AR",
       "municipality": "Quino",
       "gps_code": "SCQC",
-      "coordinates": "-38.333057, -72.586945"
+      "coordinates": "-38.333057, -72.586945",
+      "metar_available": false
     },
     {
       "ident": "SCQE",
@@ -3492,7 +3781,8 @@
       "iso_region": "CL-LL",
       "municipality": "Isla Quenac",
       "gps_code": "SCQE",
-      "coordinates": "-42.467224, -73.335831"
+      "coordinates": "-42.467224, -73.335831",
+      "metar_available": false
     },
     {
       "ident": "SCQI",
@@ -3504,7 +3794,8 @@
       "iso_region": "CL-AR",
       "municipality": "Lonquimay",
       "gps_code": "SCMC",
-      "coordinates": "-38.733339, -71.218067"
+      "coordinates": "-38.733339, -71.218067",
+      "metar_available": false
     },
     {
       "ident": "SCQK",
@@ -3516,7 +3807,8 @@
       "iso_region": "CL-BI",
       "municipality": "Tirua",
       "gps_code": "SCQK",
-      "coordinates": "-38.362655, -73.48978"
+      "coordinates": "-38.362655, -73.48978",
+      "metar_available": false
     },
     {
       "ident": "SCQL",
@@ -3528,7 +3820,8 @@
       "iso_region": "CL-VS",
       "municipality": "Quillota",
       "gps_code": "SCQL",
-      "coordinates": "-32.851112, -71.246391"
+      "coordinates": "-32.851112, -71.246391",
+      "metar_available": false
     },
     {
       "ident": "SCQM",
@@ -3540,7 +3833,8 @@
       "iso_region": "CL-LL",
       "municipality": "Osorno",
       "gps_code": "SCQM",
-      "coordinates": "-40.638332, -73.127792"
+      "coordinates": "-40.638332, -73.127792",
+      "metar_available": false
     },
     {
       "ident": "SCQO",
@@ -3552,7 +3846,8 @@
       "iso_region": "CL-AI",
       "municipality": "Aysén",
       "gps_code": "SCQO",
-      "coordinates": "-45.580556, -73.225556"
+      "coordinates": "-45.580556, -73.225556",
+      "metar_available": false
     },
     {
       "ident": "SCQP",
@@ -3565,7 +3860,8 @@
       "municipality": "Temuco",
       "gps_code": "SCQP",
       "iata_code": "ZCO",
-      "coordinates": "-38.9259, -72.6515"
+      "coordinates": "-38.9259, -72.6515",
+      "metar_available": false
     },
     {
       "ident": "SCQR",
@@ -3577,7 +3873,8 @@
       "iso_region": "CL-NB",
       "municipality": "Cobquecura",
       "gps_code": "SCQR",
-      "coordinates": "-36.122624, -72.804916"
+      "coordinates": "-36.122624, -72.804916",
+      "metar_available": false
     },
     {
       "ident": "SCQT",
@@ -3589,7 +3886,8 @@
       "iso_region": "CL-CO",
       "municipality": "Quebrada Las Tacas",
       "gps_code": "SCQT",
-      "coordinates": "-30.096399, -71.364098"
+      "coordinates": "-30.096399, -71.364098",
+      "metar_available": false
     },
     {
       "ident": "SCQW",
@@ -3601,7 +3899,8 @@
       "iso_region": "CL-LL",
       "municipality": "Quemchi",
       "gps_code": "SCQW",
-      "coordinates": "-42.152779, -73.516945"
+      "coordinates": "-42.152779, -73.516945",
+      "metar_available": false
     },
     {
       "ident": "SCQX",
@@ -3613,7 +3912,8 @@
       "iso_region": "CL-LL",
       "municipality": "Queilen",
       "gps_code": "SCQX",
-      "coordinates": "-42.893055, -73.476387"
+      "coordinates": "-42.893055, -73.476387",
+      "metar_available": false
     },
     {
       "ident": "SCQY",
@@ -3625,7 +3925,8 @@
       "iso_region": "CL-AR",
       "municipality": "Lonquimay",
       "gps_code": "SCQY",
-      "coordinates": "-38.449902, -71.354797"
+      "coordinates": "-38.449902, -71.354797",
+      "metar_available": false
     },
     {
       "ident": "SCRA",
@@ -3638,7 +3939,8 @@
       "municipality": "Chañaral",
       "gps_code": "SCRA",
       "iata_code": "CNR",
-      "coordinates": "-26.3325, -70.6073"
+      "coordinates": "-26.3325, -70.6073",
+      "metar_available": false
     },
     {
       "ident": "SCRB",
@@ -3650,7 +3952,8 @@
       "iso_region": "CL-AI",
       "municipality": "Tortel",
       "gps_code": "SCRB",
-      "coordinates": "-47.990466, -73.142261"
+      "coordinates": "-47.990466, -73.142261",
+      "metar_available": false
     },
     {
       "ident": "SCRC",
@@ -3662,7 +3965,8 @@
       "iso_region": "CL-AI",
       "municipality": "Rio Cisnes",
       "gps_code": "SCRC",
-      "coordinates": "-44.626389, -71.638885"
+      "coordinates": "-44.626389, -71.638885",
+      "metar_available": false
     },
     {
       "ident": "SCRD",
@@ -3675,7 +3979,8 @@
       "municipality": "Viña Del Mar",
       "gps_code": "SCRD",
       "iata_code": "VAP",
-      "coordinates": "-33.0681, -71.557503"
+      "coordinates": "-33.0681, -71.557503",
+      "metar_available": false
     },
     {
       "ident": "SCRE",
@@ -3687,7 +3992,8 @@
       "iso_region": "CL-AI",
       "municipality": "Rio Cisnes",
       "gps_code": "SCRE",
-      "coordinates": "-44.5, -71.321663"
+      "coordinates": "-44.5, -71.321663",
+      "metar_available": false
     },
     {
       "ident": "SCRF",
@@ -3699,7 +4005,8 @@
       "iso_region": "CL-AI",
       "municipality": "Laguna San Rafael",
       "gps_code": "SCRF",
-      "coordinates": "-46.638889, -73.849998"
+      "coordinates": "-46.638889, -73.849998",
+      "metar_available": false
     },
     {
       "ident": "SCRG",
@@ -3711,7 +4018,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rancagua",
       "gps_code": "SCRG",
-      "coordinates": "-34.173698, -70.775703"
+      "coordinates": "-34.173698, -70.775703",
+      "metar_available": false
     },
     {
       "ident": "SCRH",
@@ -3723,7 +4031,8 @@
       "iso_region": "CL-LL",
       "municipality": "Reñihue",
       "gps_code": "SCRH",
-      "coordinates": "-42.585556, -72.494446"
+      "coordinates": "-42.585556, -72.494446",
+      "metar_available": false
     },
     {
       "ident": "SCRI",
@@ -3735,7 +4044,8 @@
       "iso_region": "CL-LL",
       "municipality": "Cochamó",
       "gps_code": "SCRI",
-      "coordinates": "-41.742523, -71.909854"
+      "coordinates": "-41.742523, -71.909854",
+      "metar_available": false
     },
     {
       "ident": "SCRL",
@@ -3747,7 +4057,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rapel",
       "gps_code": "SCRL",
-      "coordinates": "-34.201111, -71.481667"
+      "coordinates": "-34.201111, -71.481667",
+      "metar_available": false
     },
     {
       "ident": "SCRN",
@@ -3759,7 +4070,8 @@
       "iso_region": "CL-LL",
       "municipality": "Río Negro",
       "gps_code": "SCRN",
-      "coordinates": "-41.962223, -72.453888"
+      "coordinates": "-41.962223, -72.453888",
+      "metar_available": false
     },
     {
       "ident": "SCRO",
@@ -3771,7 +4083,8 @@
       "iso_region": "CL-ML",
       "municipality": "Romeral",
       "gps_code": "SCRO",
-      "coordinates": "-34.958889, -71.182777"
+      "coordinates": "-34.958889, -71.182777",
+      "metar_available": false
     },
     {
       "ident": "SCRP",
@@ -3783,7 +4096,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rapel",
       "gps_code": "SCRP",
-      "coordinates": "-34.105801, -71.512802"
+      "coordinates": "-34.105801, -71.512802",
+      "metar_available": false
     },
     {
       "ident": "SCRQ",
@@ -3795,7 +4109,8 @@
       "iso_region": "CL-LR",
       "municipality": "Rio Bueno",
       "gps_code": "SCRQ",
-      "coordinates": "-40.5219, -72.772797"
+      "coordinates": "-40.5219, -72.772797",
+      "metar_available": false
     },
     {
       "ident": "SCRR",
@@ -3807,7 +4122,8 @@
       "iso_region": "CL-LR",
       "municipality": "Rio Bueno",
       "gps_code": "SCRR",
-      "coordinates": "-40.365278, -72.776667"
+      "coordinates": "-40.365278, -72.776667",
+      "metar_available": false
     },
     {
       "ident": "SCRS",
@@ -3819,7 +4135,8 @@
       "iso_region": "CL-VS",
       "municipality": "Cartagena",
       "gps_code": "SCRS",
-      "coordinates": "-33.488889, -71.405556"
+      "coordinates": "-33.488889, -71.405556",
+      "metar_available": false
     },
     {
       "ident": "SCRT",
@@ -3831,7 +4148,8 @@
       "iso_region": "CL-ML",
       "municipality": "Retiro",
       "gps_code": "SCRT",
-      "coordinates": "-35.960556, -71.793335"
+      "coordinates": "-35.960556, -71.793335",
+      "metar_available": false
     },
     {
       "ident": "SCRU",
@@ -3843,7 +4161,8 @@
       "iso_region": "CL-AI",
       "municipality": "Rio Murta",
       "gps_code": "SCRU",
-      "coordinates": "-46.455673, -72.676653"
+      "coordinates": "-46.455673, -72.676653",
+      "metar_available": false
     },
     {
       "ident": "SCRV",
@@ -3855,7 +4174,8 @@
       "iso_region": "CL-AR",
       "municipality": "Vilcún",
       "gps_code": "SCRV",
-      "coordinates": "-38.611389, -72.128889"
+      "coordinates": "-38.611389, -72.128889",
+      "metar_available": false
     },
     {
       "ident": "SCRW",
@@ -3867,7 +4187,8 @@
       "iso_region": "CL-LI",
       "municipality": "Paredones",
       "gps_code": "SCRW",
-      "coordinates": "-34.548611, -72.04528"
+      "coordinates": "-34.548611, -72.04528",
+      "metar_available": false
     },
     {
       "ident": "SCRZ",
@@ -3879,7 +4200,8 @@
       "iso_region": "CL-LI",
       "municipality": "Marchigue",
       "gps_code": "SCRZ",
-      "coordinates": "-34.443333, -71.706111"
+      "coordinates": "-34.443333, -71.706111",
+      "metar_available": false
     },
     {
       "ident": "SCSA",
@@ -3891,7 +4213,8 @@
       "iso_region": "CL-RM",
       "municipality": "Til Til",
       "gps_code": "SCSA",
-      "coordinates": "-33.02861, -70.879997"
+      "coordinates": "-33.02861, -70.879997",
+      "metar_available": false
     },
     {
       "ident": "SCSB",
@@ -3904,7 +4227,8 @@
       "municipality": "Cerro Sombrero",
       "gps_code": "SCSB",
       "iata_code": "SMB",
-      "coordinates": "-52.736698, -69.333603"
+      "coordinates": "-52.736698, -69.333603",
+      "metar_available": false
     },
     {
       "ident": "SCSD",
@@ -3916,7 +4240,8 @@
       "iso_region": "CL-LI",
       "municipality": "San Fernando",
       "gps_code": "SCSD",
-      "coordinates": "-34.5658, -70.9683"
+      "coordinates": "-34.5658, -70.9683",
+      "metar_available": false
     },
     {
       "ident": "SCSE",
@@ -3929,7 +4254,8 @@
       "municipality": "La Serena-Coquimbo",
       "gps_code": "SCSE",
       "iata_code": "LSC",
-      "coordinates": "-29.916201, -71.199501"
+      "coordinates": "-29.916201, -71.199501",
+      "metar_available": false
     },
     {
       "ident": "SCSF",
@@ -3942,7 +4268,8 @@
       "municipality": "San Felipe",
       "gps_code": "SCSF",
       "iata_code": "SSD",
-      "coordinates": "-32.7458, -70.705002"
+      "coordinates": "-32.7458, -70.705002",
+      "metar_available": false
     },
     {
       "ident": "SCSG",
@@ -3954,7 +4281,8 @@
       "iso_region": "CL-VS",
       "municipality": "Algarrobo",
       "gps_code": "SCSG",
-      "coordinates": "-33.3532981873, -71.6260986328"
+      "coordinates": "-33.3532981873, -71.6260986328",
+      "metar_available": false
     },
     {
       "ident": "SCSH",
@@ -3966,7 +4294,8 @@
       "iso_region": "CL-AR",
       "municipality": "Teodoro Schmidt",
       "gps_code": "SCSH",
-      "coordinates": "-39.062778, -73.169998"
+      "coordinates": "-39.062778, -73.169998",
+      "metar_available": false
     },
     {
       "ident": "SCSI",
@@ -3978,7 +4307,8 @@
       "iso_region": "CL-AN",
       "municipality": "Salar De Atacama",
       "gps_code": "SCSL",
-      "coordinates": "-23.648899, -68.305"
+      "coordinates": "-23.648899, -68.305",
+      "metar_available": false
     },
     {
       "ident": "SCSJ",
@@ -3990,7 +4320,8 @@
       "iso_region": "CL-ML",
       "municipality": "San Javier",
       "gps_code": "SCSJ",
-      "coordinates": "-35.629723, -71.699722"
+      "coordinates": "-35.629723, -71.699722",
+      "metar_available": false
     },
     {
       "ident": "SCSK",
@@ -4002,7 +4333,8 @@
       "iso_region": "CL-ML",
       "municipality": "San Clemente",
       "gps_code": "SCSK",
-      "coordinates": "-35.663055, -71.303612"
+      "coordinates": "-35.663055, -71.303612",
+      "metar_available": false
     },
     {
       "ident": "SCSM",
@@ -4014,7 +4346,8 @@
       "iso_region": "CL-AN",
       "municipality": "Salar De Atacama",
       "gps_code": "SCSM",
-      "coordinates": "-23.585278, -68.382774"
+      "coordinates": "-23.585278, -68.382774",
+      "metar_available": false
     },
     {
       "ident": "SCSN",
@@ -4026,7 +4359,8 @@
       "iso_region": "CL-VS",
       "municipality": "Santo Domingo",
       "gps_code": "SCSN",
-      "coordinates": "-33.656399, -71.614403"
+      "coordinates": "-33.656399, -71.614403",
+      "metar_available": false
     },
     {
       "ident": "SCSO",
@@ -4038,7 +4372,8 @@
       "iso_region": "CL-LI",
       "municipality": "Lago Rapel",
       "gps_code": "SCSO",
-      "coordinates": "-34.120834, -71.527222"
+      "coordinates": "-34.120834, -71.527222",
+      "metar_available": false
     },
     {
       "ident": "SCSP",
@@ -4050,7 +4385,8 @@
       "iso_region": "CL-VS",
       "municipality": "Petorca",
       "gps_code": "SCSP",
-      "coordinates": "-32.223611, -70.8"
+      "coordinates": "-32.223611, -70.8",
+      "metar_available": false
     },
     {
       "ident": "SCSQ",
@@ -4062,7 +4398,8 @@
       "iso_region": "CL-LL",
       "municipality": "San Pablo",
       "gps_code": "SCSQ",
-      "coordinates": "-40.34111, -73.317223"
+      "coordinates": "-40.34111, -73.317223",
+      "metar_available": false
     },
     {
       "ident": "SCSR",
@@ -4074,7 +4411,8 @@
       "iso_region": "CL-LL",
       "municipality": "Segundo Corral",
       "gps_code": "SCSR",
-      "coordinates": "-42.083332, -71.863892"
+      "coordinates": "-42.083332, -71.863892",
+      "metar_available": false
     },
     {
       "ident": "SCSS",
@@ -4086,7 +4424,8 @@
       "iso_region": "CL-MA",
       "municipality": "Porvenir",
       "gps_code": "SCSS",
-      "coordinates": "-53.316205, -68.657301"
+      "coordinates": "-53.316205, -68.657301",
+      "metar_available": false
     },
     {
       "ident": "SCST",
@@ -4099,7 +4438,8 @@
       "municipality": "Castro",
       "gps_code": "SCST",
       "iata_code": "WCA",
-      "coordinates": "-42.490299, -73.772797"
+      "coordinates": "-42.490299, -73.772797",
+      "metar_available": false
     },
     {
       "ident": "SCSU",
@@ -4111,7 +4451,8 @@
       "iso_region": "CL-AR",
       "municipality": "Freire",
       "gps_code": "SCSU",
-      "coordinates": "-38.919167, -72.366669"
+      "coordinates": "-38.919167, -72.366669",
+      "metar_available": false
     },
     {
       "ident": "SCSV",
@@ -4123,7 +4464,8 @@
       "iso_region": "CL-LI",
       "municipality": "Peralillo",
       "gps_code": "SCSV",
-      "coordinates": "-34.448891, -71.385834"
+      "coordinates": "-34.448891, -71.385834",
+      "metar_available": false
     },
     {
       "ident": "SCSZ",
@@ -4135,7 +4477,8 @@
       "iso_region": "CL-AI",
       "municipality": "Puerto Sanchez",
       "gps_code": "SCSZ",
-      "coordinates": "-46.592434, -72.585932"
+      "coordinates": "-46.592434, -72.585932",
+      "metar_available": false
     },
     {
       "ident": "SCTA",
@@ -4147,7 +4490,8 @@
       "iso_region": "CL-BI",
       "municipality": "Santa Barbara",
       "gps_code": "SCTA",
-      "coordinates": "-37.743889, -71.71"
+      "coordinates": "-37.743889, -71.71",
+      "metar_available": false
     },
     {
       "ident": "SCTB",
@@ -4159,7 +4503,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SCTB",
-      "coordinates": "-33.456299, -70.5467"
+      "coordinates": "-33.456299, -70.5467",
+      "metar_available": false
     },
     {
       "ident": "SCTC",
@@ -4172,7 +4517,8 @@
       "municipality": "Temuco",
       "gps_code": "SCTC",
       "iata_code": "PZS",
-      "coordinates": "-38.766799926758, -72.637100219727"
+      "coordinates": "-38.766799926758, -72.637100219727",
+      "metar_available": false
     },
     {
       "ident": "SCTE",
@@ -4185,7 +4531,8 @@
       "municipality": "Puerto Montt",
       "gps_code": "SCTE",
       "iata_code": "PMC",
-      "coordinates": "-41.438899993896484, -73.09400177001953"
+      "coordinates": "-41.438899993896484, -73.09400177001953",
+      "metar_available": false
     },
     {
       "ident": "SCTG",
@@ -4197,7 +4544,8 @@
       "iso_region": "CL-CO",
       "municipality": "Tongoy",
       "gps_code": "SCTG",
-      "coordinates": "-30.266388, -71.483612"
+      "coordinates": "-30.266388, -71.483612",
+      "metar_available": false
     },
     {
       "ident": "SCTH",
@@ -4209,7 +4557,8 @@
       "iso_region": "CL-MA",
       "municipality": "San Gregorio",
       "gps_code": "SCTH",
-      "coordinates": "-52.525278, -70.723889"
+      "coordinates": "-52.525278, -70.723889",
+      "metar_available": false
     },
     {
       "ident": "SCTL",
@@ -4222,7 +4571,8 @@
       "municipality": "Talca",
       "gps_code": "SCTL",
       "iata_code": "TLX",
-      "coordinates": "-35.3778, -71.6017"
+      "coordinates": "-35.3778, -71.6017",
+      "metar_available": false
     },
     {
       "ident": "SCTM",
@@ -4234,7 +4584,8 @@
       "iso_region": "CL-ML",
       "municipality": "Curico",
       "gps_code": "SCTM",
-      "coordinates": "-34.9689, -70.9333"
+      "coordinates": "-34.9689, -70.9333",
+      "metar_available": false
     },
     {
       "ident": "SCTN",
@@ -4247,7 +4598,8 @@
       "municipality": "Chaitén",
       "gps_code": "SCTN",
       "iata_code": "WCH",
-      "coordinates": "-42.781943, -72.834999"
+      "coordinates": "-42.781943, -72.834999",
+      "metar_available": false
     },
     {
       "ident": "SCTO",
@@ -4260,7 +4612,8 @@
       "municipality": "Victoria",
       "gps_code": "SCTO",
       "iata_code": "ZIC",
-      "coordinates": "-38.245602, -72.348602"
+      "coordinates": "-38.245602, -72.348602",
+      "metar_available": false
     },
     {
       "ident": "SCTP",
@@ -4272,7 +4625,8 @@
       "iso_region": "CL-AI",
       "municipality": "Tortel",
       "gps_code": "SCTP",
-      "coordinates": "-48.22903, -73.299127"
+      "coordinates": "-48.22903, -73.299127",
+      "metar_available": false
     },
     {
       "ident": "SCTQ",
@@ -4284,7 +4638,8 @@
       "iso_region": "CL-AT",
       "municipality": "Alto Del Carmen",
       "gps_code": "SCTQ",
-      "coordinates": "-29.26, -70.087"
+      "coordinates": "-29.26, -70.087",
+      "metar_available": false
     },
     {
       "ident": "SCTR",
@@ -4296,7 +4651,8 @@
       "iso_region": "CL-AR",
       "municipality": "Traiguen",
       "gps_code": "SCTR",
-      "coordinates": "-38.271389, -72.662498"
+      "coordinates": "-38.271389, -72.662498",
+      "metar_available": false
     },
     {
       "ident": "SCTS",
@@ -4308,7 +4664,8 @@
       "iso_region": "CL-RM",
       "municipality": "Melipilla",
       "gps_code": "SCTS",
-      "coordinates": "-33.575554, -71.260834"
+      "coordinates": "-33.575554, -71.260834",
+      "metar_available": false
     },
     {
       "ident": "SCTT",
@@ -4321,7 +4678,8 @@
       "municipality": "Taltal",
       "gps_code": "SCTT",
       "iata_code": "TTC",
-      "coordinates": "-25.564301, -70.3759"
+      "coordinates": "-25.564301, -70.3759",
+      "metar_available": false
     },
     {
       "ident": "SCTU",
@@ -4333,7 +4691,8 @@
       "iso_region": "CL-LI",
       "municipality": "Litueche",
       "gps_code": "SCTU",
-      "coordinates": "-34.110554, -71.715836"
+      "coordinates": "-34.110554, -71.715836",
+      "metar_available": false
     },
     {
       "ident": "SCTW",
@@ -4345,7 +4704,8 @@
       "iso_region": "CL-VS",
       "municipality": "Casablanca",
       "gps_code": "SCTW",
-      "coordinates": "-33.320278, -71.336113"
+      "coordinates": "-33.320278, -71.336113",
+      "metar_available": false
     },
     {
       "ident": "SCUI",
@@ -4357,7 +4717,8 @@
       "iso_region": "CL-LL",
       "municipality": "Chaiten",
       "gps_code": "SCUI",
-      "coordinates": "-42.701107, -72.83428"
+      "coordinates": "-42.701107, -72.83428",
+      "metar_available": false
     },
     {
       "ident": "SCUL",
@@ -4369,7 +4730,8 @@
       "iso_region": "CL-NB",
       "municipality": "Bulnes",
       "gps_code": "SCUL",
-      "coordinates": "-36.796764, -72.417288"
+      "coordinates": "-36.796764, -72.417288",
+      "metar_available": false
     },
     {
       "ident": "SCUM",
@@ -4381,7 +4743,8 @@
       "iso_region": "CL-ML",
       "municipality": "Cumpeo",
       "gps_code": "SCUM",
-      "coordinates": "-35.300556, -71.330276"
+      "coordinates": "-35.300556, -71.330276",
+      "metar_available": false
     },
     {
       "ident": "SCUN",
@@ -4393,7 +4756,8 @@
       "iso_region": "CL-ML",
       "municipality": "Teno",
       "gps_code": "SCUN",
-      "coordinates": "-34.813057, -71.046112"
+      "coordinates": "-34.813057, -71.046112",
+      "metar_available": false
     },
     {
       "ident": "SCUP",
@@ -4405,7 +4769,8 @@
       "iso_region": "CL-ML",
       "municipality": "Cumpeo",
       "gps_code": "SCUP",
-      "coordinates": "-35.282223, -71.236389"
+      "coordinates": "-35.282223, -71.236389",
+      "metar_available": false
     },
     {
       "ident": "SCUR",
@@ -4417,7 +4782,8 @@
       "iso_region": "CL-NB",
       "municipality": "Bulnes",
       "gps_code": "SCUR",
-      "coordinates": "-36.811943, -72.167221"
+      "coordinates": "-36.811943, -72.167221",
+      "metar_available": false
     },
     {
       "ident": "SCUT",
@@ -4429,7 +4795,8 @@
       "iso_region": "CL-ML",
       "municipality": "Longavi",
       "gps_code": "SCUT",
-      "coordinates": "-36.212502, -71.544441"
+      "coordinates": "-36.212502, -71.544441",
+      "metar_available": false
     },
     {
       "ident": "SCUU",
@@ -4440,7 +4807,8 @@
       "iso_country": "CL",
       "iso_region": "CL-CO",
       "gps_code": "SCUU",
-      "coordinates": "-31.653369, -71.243344"
+      "coordinates": "-31.653369, -71.243344",
+      "metar_available": false
     },
     {
       "ident": "SCUZ",
@@ -4452,7 +4820,8 @@
       "iso_region": "CL-LI",
       "municipality": "Santa Cruz",
       "gps_code": "SCUZ",
-      "coordinates": "-34.649166, -71.386108"
+      "coordinates": "-34.649166, -71.386108",
+      "metar_available": false
     },
     {
       "ident": "SCVA",
@@ -4464,7 +4833,8 @@
       "iso_region": "CL-VS",
       "municipality": "Casablanca",
       "gps_code": "SCVA",
-      "coordinates": "-33.356945, -71.354164"
+      "coordinates": "-33.356945, -71.354164",
+      "metar_available": false
     },
     {
       "ident": "SCVB",
@@ -4476,7 +4846,8 @@
       "iso_region": "CL-ML",
       "municipality": "Parral",
       "gps_code": "SCVB",
-      "coordinates": "-36.400276, -71.563332"
+      "coordinates": "-36.400276, -71.563332",
+      "metar_available": false
     },
     {
       "ident": "SCVC",
@@ -4488,7 +4859,8 @@
       "iso_region": "CL-CO",
       "municipality": "Vicuña",
       "gps_code": "SCVC",
-      "coordinates": "-29.834444, -70.046112"
+      "coordinates": "-29.834444, -70.046112",
+      "metar_available": false
     },
     {
       "ident": "SCVD",
@@ -4501,7 +4873,8 @@
       "municipality": "Valdivia",
       "gps_code": "SCVD",
       "iata_code": "ZAL",
-      "coordinates": "-39.6500015259, -73.0860977173"
+      "coordinates": "-39.6500015259, -73.0860977173",
+      "metar_available": false
     },
     {
       "ident": "SCVE",
@@ -4513,7 +4886,8 @@
       "iso_region": "CL-AI",
       "municipality": "Lago Verde",
       "gps_code": "SCVE",
-      "coordinates": "-44.270832, -71.916664"
+      "coordinates": "-44.270832, -71.916664",
+      "metar_available": false
     },
     {
       "ident": "SCVF",
@@ -4525,7 +4899,8 @@
       "iso_region": "CL-RM",
       "municipality": "San Pedro",
       "gps_code": "SCVF",
-      "coordinates": "-34.007221, -71.391945"
+      "coordinates": "-34.007221, -71.391945",
+      "metar_available": false
     },
     {
       "ident": "SCVG",
@@ -4537,7 +4912,8 @@
       "iso_region": "CL-LR",
       "municipality": "Riñihue",
       "gps_code": "SCVG",
-      "coordinates": "-39.829399, -72.488297"
+      "coordinates": "-39.829399, -72.488297",
+      "metar_available": false
     },
     {
       "ident": "SCVH",
@@ -4549,7 +4925,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SCVH",
-      "coordinates": "-33.050835, -70.708885"
+      "coordinates": "-33.050835, -70.708885",
+      "metar_available": false
     },
     {
       "ident": "SCVI",
@@ -4561,7 +4938,8 @@
       "iso_region": "CL-AR",
       "municipality": "Villarrica",
       "gps_code": "SCVI",
-      "coordinates": "-39.316672, -72.228696"
+      "coordinates": "-39.316672, -72.228696",
+      "metar_available": false
     },
     {
       "ident": "SCVJ",
@@ -4573,7 +4951,8 @@
       "iso_region": "CL-LI",
       "municipality": "Marchigue",
       "gps_code": "SCVJ",
-      "coordinates": "-34.395832, -71.54528"
+      "coordinates": "-34.395832, -71.54528",
+      "metar_available": false
     },
     {
       "ident": "SCVK",
@@ -4585,7 +4964,8 @@
       "iso_region": "CL-ML",
       "municipality": "Vichuquen",
       "gps_code": "SCVK",
-      "coordinates": "-34.847778, -72.022224"
+      "coordinates": "-34.847778, -72.022224",
+      "metar_available": false
     },
     {
       "ident": "SCVL",
@@ -4597,7 +4977,8 @@
       "iso_region": "CL-LR",
       "municipality": "Valdivia",
       "gps_code": "SCVL",
-      "coordinates": "-39.7969017029, -73.24169921880001"
+      "coordinates": "-39.7969017029, -73.24169921880001",
+      "metar_available": false
     },
     {
       "ident": "SCVM",
@@ -4610,7 +4991,8 @@
       "municipality": "Viña del Mar",
       "gps_code": "SCVM",
       "iata_code": "KNA",
-      "coordinates": "-32.9496, -71.4786"
+      "coordinates": "-32.9496, -71.4786",
+      "metar_available": false
     },
     {
       "ident": "SCVN",
@@ -4622,7 +5004,8 @@
       "iso_region": "CL-CO",
       "municipality": "Vicuña",
       "gps_code": "SCVN",
-      "coordinates": "-30.032615, -70.742083"
+      "coordinates": "-30.032615, -70.742083",
+      "metar_available": false
     },
     {
       "ident": "SCVO",
@@ -4634,7 +5017,8 @@
       "iso_region": "CL-AR",
       "municipality": "Victoria",
       "gps_code": "SCVO",
-      "coordinates": "-38.231945, -72.48333"
+      "coordinates": "-38.231945, -72.48333",
+      "metar_available": false
     },
     {
       "ident": "SCVQ",
@@ -4646,7 +5030,8 @@
       "iso_region": "CL-ML",
       "municipality": "Vichuquen",
       "gps_code": "SCVQ",
-      "coordinates": "-34.837223, -72.065002"
+      "coordinates": "-34.837223, -72.065002",
+      "metar_available": false
     },
     {
       "ident": "SCVS",
@@ -4658,7 +5043,8 @@
       "iso_region": "CL-AI",
       "municipality": "Cochrane",
       "gps_code": "SCVS",
-      "coordinates": "-47.679513, -73.071039"
+      "coordinates": "-47.679513, -73.071039",
+      "metar_available": false
     },
     {
       "ident": "SCVT",
@@ -4670,7 +5056,8 @@
       "iso_region": "CL-RM",
       "municipality": "Isla De Maipo",
       "gps_code": "SCVT",
-      "coordinates": "-33.766109, -70.923889"
+      "coordinates": "-33.766109, -70.923889",
+      "metar_available": false
     },
     {
       "ident": "SCVU",
@@ -4682,7 +5069,8 @@
       "iso_region": "CL-AR",
       "municipality": "Vilcun",
       "gps_code": "SCVU",
-      "coordinates": "-38.695835, -72.340553"
+      "coordinates": "-38.695835, -72.340553",
+      "metar_available": false
     },
     {
       "ident": "SCVV",
@@ -4694,7 +5082,8 @@
       "iso_region": "CL-LR",
       "municipality": "La Union",
       "gps_code": "SCVV",
-      "coordinates": "-40.317423, -72.980365"
+      "coordinates": "-40.317423, -72.980365",
+      "metar_available": false
     },
     {
       "ident": "SCVY",
@@ -4706,7 +5095,8 @@
       "iso_region": "CL-AR",
       "municipality": "Vilcun",
       "gps_code": "SCVY",
-      "coordinates": "-38.691387, -72.285553"
+      "coordinates": "-38.691387, -72.285553",
+      "metar_available": false
     },
     {
       "ident": "SCVZ",
@@ -4717,7 +5107,8 @@
       "iso_country": "CL",
       "iso_region": "CL-LI",
       "gps_code": "SCVZ",
-      "coordinates": "-34.698674, -71.563258"
+      "coordinates": "-34.698674, -71.563258",
+      "metar_available": false
     },
     {
       "ident": "SCXA",
@@ -4729,7 +5120,8 @@
       "iso_region": "CL-ML",
       "municipality": "Molina",
       "gps_code": "SCXA",
-      "coordinates": "-35.239445, -71.070831"
+      "coordinates": "-35.239445, -71.070831",
+      "metar_available": false
     },
     {
       "ident": "SCXB",
@@ -4741,7 +5133,8 @@
       "iso_region": "CL-CO",
       "municipality": "Salamanca",
       "gps_code": "SCXB",
-      "coordinates": "-31.786667, -71.011108"
+      "coordinates": "-31.786667, -71.011108",
+      "metar_available": false
     },
     {
       "ident": "SCXR",
@@ -4753,7 +5146,8 @@
       "iso_region": "CL-LR",
       "municipality": "Lago Ranco",
       "gps_code": "SCXR",
-      "coordinates": "-40.32, -72.224998"
+      "coordinates": "-40.32, -72.224998",
+      "metar_available": false
     },
     {
       "ident": "SCYB",
@@ -4765,7 +5159,8 @@
       "iso_region": "CL-BI",
       "municipality": "Yumbel",
       "gps_code": "SCYB",
-      "coordinates": "-37.117222, -72.41111"
+      "coordinates": "-37.117222, -72.41111",
+      "metar_available": false
     },
     {
       "ident": "SCYC",
@@ -4777,7 +5172,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puyehue",
       "gps_code": "SCYC",
-      "coordinates": "-40.627777, -72.762222"
+      "coordinates": "-40.627777, -72.762222",
+      "metar_available": false
     },
     {
       "ident": "SCYL",
@@ -4789,7 +5185,8 @@
       "iso_region": "CL-LR",
       "municipality": "Puyehue",
       "gps_code": "SCYL",
-      "coordinates": "-40.641399, -72.411102"
+      "coordinates": "-40.641399, -72.411102",
+      "metar_available": false
     },
     {
       "ident": "SCYO",
@@ -4801,7 +5198,8 @@
       "iso_region": "CL-LL",
       "municipality": "El Chaiten",
       "gps_code": "SCYO",
-      "coordinates": "-42.226667, -72.693611"
+      "coordinates": "-42.226667, -72.693611",
+      "metar_available": false
     },
     {
       "ident": "SCYR",
@@ -4813,7 +5211,8 @@
       "iso_region": "CL-ML",
       "municipality": "Retiro",
       "gps_code": "SCYR",
-      "coordinates": "-36.031666, -71.741112"
+      "coordinates": "-36.031666, -71.741112",
+      "metar_available": false
     },
     {
       "ident": "SCYU",
@@ -4825,7 +5224,8 @@
       "iso_region": "CL-LL",
       "municipality": "Purranque",
       "gps_code": "SCYU",
-      "coordinates": "-40.940556, -73.011667"
+      "coordinates": "-40.940556, -73.011667",
+      "metar_available": false
     },
     {
       "ident": "SCZB",
@@ -4837,7 +5237,8 @@
       "iso_region": "CL-LR",
       "municipality": "La Unión",
       "gps_code": "SCZB",
-      "coordinates": "-40.205278, -72.568056"
+      "coordinates": "-40.205278, -72.568056",
+      "metar_available": false
     },
     {
       "ident": "SCZC",
@@ -4849,7 +5250,8 @@
       "iso_region": "CL-VS",
       "municipality": "Zapallar",
       "gps_code": "SCZC",
-      "coordinates": "-32.595276, -71.347221"
+      "coordinates": "-32.595276, -71.347221",
+      "metar_available": false
     },
     {
       "ident": "SCZE",
@@ -4861,7 +5263,8 @@
       "iso_region": "CL-RM",
       "municipality": "Pirque",
       "gps_code": "SCZE",
-      "coordinates": "-33.744999, -70.549446"
+      "coordinates": "-33.744999, -70.549446",
+      "metar_available": false
     },
     {
       "ident": "SCZR",
@@ -4873,7 +5276,8 @@
       "iso_region": "CL-ML",
       "municipality": "Curepto",
       "gps_code": "SCZR",
-      "coordinates": "-35.096246, -71.732719"
+      "coordinates": "-35.096246, -71.732719",
+      "metar_available": false
     },
     {
       "ident": "SHAB",
@@ -4885,7 +5289,8 @@
       "iso_region": "CL-VS",
       "municipality": "Puchuncavi",
       "gps_code": "SHAB",
-      "coordinates": "-32.665556, -71.440278"
+      "coordinates": "-32.665556, -71.440278",
+      "metar_available": false
     },
     {
       "ident": "SHAC",
@@ -4897,7 +5302,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHAC",
-      "coordinates": "-33.44361114501953, -70.6322250366211"
+      "coordinates": "-33.44361114501953, -70.6322250366211",
+      "metar_available": false
     },
     {
       "ident": "SHAE",
@@ -4909,7 +5315,8 @@
       "iso_region": "CL-RM",
       "municipality": "Pudahuel",
       "gps_code": "SHAE",
-      "coordinates": "-33.439722, -70.831389"
+      "coordinates": "-33.439722, -70.831389",
+      "metar_available": false
     },
     {
       "ident": "SHAF",
@@ -4921,7 +5328,8 @@
       "iso_region": "CL-ML",
       "municipality": "Vichuquén",
       "gps_code": "SHAF",
-      "coordinates": "-34.826222, -72.066622"
+      "coordinates": "-34.826222, -72.066622",
+      "metar_available": false
     },
     {
       "ident": "SHAG",
@@ -4933,7 +5341,8 @@
       "iso_region": "CL-MA",
       "municipality": "Magallanes",
       "gps_code": "SHAG",
-      "coordinates": "-52.49944305419922, -68.72555541992188"
+      "coordinates": "-52.49944305419922, -68.72555541992188",
+      "metar_available": false
     },
     {
       "ident": "SHAH",
@@ -4944,7 +5353,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHAH",
-      "coordinates": "-33.400001525878906, -70.57389831542969"
+      "coordinates": "-33.400001525878906, -70.57389831542969",
+      "metar_available": false
     },
     {
       "ident": "SHAL",
@@ -4956,7 +5366,8 @@
       "iso_region": "CL-RM",
       "municipality": "Isla De Maipo",
       "gps_code": "SHAL",
-      "coordinates": "-33.725556, -70.930278"
+      "coordinates": "-33.725556, -70.930278",
+      "metar_available": false
     },
     {
       "ident": "SHAO",
@@ -4968,7 +5379,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SHAO",
-      "coordinates": "-30.578565, -71.191728"
+      "coordinates": "-30.578565, -71.191728",
+      "metar_available": false
     },
     {
       "ident": "SHAP",
@@ -4980,7 +5392,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHAP",
-      "coordinates": "-33.439998626708984, -70.63722229003906"
+      "coordinates": "-33.439998626708984, -70.63722229003906",
+      "metar_available": false
     },
     {
       "ident": "SHAQ",
@@ -4992,7 +5405,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHAQ",
-      "coordinates": "-33.417772, -70.599148"
+      "coordinates": "-33.417772, -70.599148",
+      "metar_available": false
     },
     {
       "ident": "SHAU",
@@ -5004,7 +5418,8 @@
       "iso_region": "CL-RM",
       "municipality": "Curacavi",
       "gps_code": "SHAU",
-      "coordinates": "-33.42527770996094, -71.02305603027344"
+      "coordinates": "-33.42527770996094, -71.02305603027344",
+      "metar_available": false
     },
     {
       "ident": "SHBC",
@@ -5016,7 +5431,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHBC",
-      "coordinates": "-33.239722, -70.696111"
+      "coordinates": "-33.239722, -70.696111",
+      "metar_available": false
     },
     {
       "ident": "SHBE",
@@ -5028,7 +5444,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHBE",
-      "coordinates": "-33.43611145019531, -70.6449966430664"
+      "coordinates": "-33.43611145019531, -70.6449966430664",
+      "metar_available": false
     },
     {
       "ident": "SHBL",
@@ -5040,7 +5457,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHBL",
-      "coordinates": "-33.48527908325195, -70.64444732666016"
+      "coordinates": "-33.48527908325195, -70.64444732666016",
+      "metar_available": false
     },
     {
       "ident": "SHBP",
@@ -5052,7 +5470,8 @@
       "iso_region": "CL-LI",
       "municipality": "La Estrella",
       "gps_code": "SHBP",
-      "coordinates": "-34.11083221435547, -71.5352783203125"
+      "coordinates": "-34.11083221435547, -71.5352783203125",
+      "metar_available": false
     },
     {
       "ident": "SHBS",
@@ -5064,7 +5483,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHBS",
-      "coordinates": "-33.43611145019531, -70.6513900756836"
+      "coordinates": "-33.43611145019531, -70.6513900756836",
+      "metar_available": false
     },
     {
       "ident": "SHCA",
@@ -5076,7 +5496,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHCA",
-      "coordinates": "-33.45527648925781, -70.54833221435547"
+      "coordinates": "-33.45527648925781, -70.54833221435547",
+      "metar_available": false
     },
     {
       "ident": "SHCB",
@@ -5088,7 +5509,8 @@
       "iso_region": "CL-AR",
       "municipality": "Pucon",
       "gps_code": "SHCB",
-      "coordinates": "-39.16694259643555, -71.76055908203125"
+      "coordinates": "-39.16694259643555, -71.76055908203125",
+      "metar_available": false
     },
     {
       "ident": "SHCC",
@@ -5100,7 +5522,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHCC",
-      "coordinates": "-33.385276794433594, -70.53083038330078"
+      "coordinates": "-33.385276794433594, -70.53083038330078",
+      "metar_available": false
     },
     {
       "ident": "SHCF",
@@ -5112,7 +5535,8 @@
       "iso_region": "CL-AN",
       "municipality": "Calama",
       "gps_code": "SHCF",
-      "coordinates": "-22.444481, -68.916692"
+      "coordinates": "-22.444481, -68.916692",
+      "metar_available": false
     },
     {
       "ident": "SHCG",
@@ -5124,7 +5548,8 @@
       "iso_region": "CL-VS",
       "municipality": "Zapallar",
       "gps_code": "SHCG",
-      "coordinates": "-32.578887939453125, -71.4544448852539"
+      "coordinates": "-32.578887939453125, -71.4544448852539",
+      "metar_available": false
     },
     {
       "ident": "SHCI",
@@ -5136,7 +5561,8 @@
       "iso_region": "CL-VS",
       "municipality": "Zapallar",
       "gps_code": "SHCI",
-      "coordinates": "-32.57611083984375, -71.45249938964844"
+      "coordinates": "-32.57611083984375, -71.45249938964844",
+      "metar_available": false
     },
     {
       "ident": "SHCM",
@@ -5148,7 +5574,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHCM",
-      "coordinates": "-33.440277099609375, -70.63777923583984"
+      "coordinates": "-33.440277099609375, -70.63777923583984",
+      "metar_available": false
     },
     {
       "ident": "SHCP",
@@ -5160,7 +5587,8 @@
       "iso_region": "CL-LI",
       "municipality": "Rancagua",
       "gps_code": "SHCP",
-      "coordinates": "-34.136390686035156, -70.77055358886719"
+      "coordinates": "-34.136390686035156, -70.77055358886719",
+      "metar_available": false
     },
     {
       "ident": "SHCY",
@@ -5172,7 +5600,8 @@
       "iso_region": "CL-AI",
       "municipality": "Coyhaique",
       "gps_code": "SHCY",
-      "coordinates": "-45.568792, -72.075629"
+      "coordinates": "-45.568792, -72.075629",
+      "metar_available": false
     },
     {
       "ident": "SHDG",
@@ -5184,7 +5613,8 @@
       "iso_region": "CL-MA",
       "municipality": "Magallanes",
       "gps_code": "SHDG",
-      "coordinates": "-52.38083267211914, -68.43138885498047"
+      "coordinates": "-52.38083267211914, -68.43138885498047",
+      "metar_available": false
     },
     {
       "ident": "SHDN",
@@ -5196,7 +5626,8 @@
       "iso_region": "CL-MA",
       "municipality": "Magallanes",
       "gps_code": "SHDN",
-      "coordinates": "-52.364723205566406, -68.76499938964844"
+      "coordinates": "-52.364723205566406, -68.76499938964844",
+      "metar_available": false
     },
     {
       "ident": "SHDO",
@@ -5208,7 +5639,8 @@
       "iso_region": "CL-RM",
       "municipality": "Farellones",
       "gps_code": "SHDO",
-      "coordinates": "-33.363887786865234, -70.25166320800781"
+      "coordinates": "-33.363887786865234, -70.25166320800781",
+      "metar_available": false
     },
     {
       "ident": "SHDP",
@@ -5220,7 +5652,8 @@
       "iso_region": "CL-AR",
       "municipality": "Temuco",
       "gps_code": "SHDP",
-      "coordinates": "-38.75416564941406, -72.80249786376953"
+      "coordinates": "-38.75416564941406, -72.80249786376953",
+      "metar_available": false
     },
     {
       "ident": "SHEB",
@@ -5232,7 +5665,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHEB",
-      "coordinates": "-33.457784, -70.657424"
+      "coordinates": "-33.457784, -70.657424",
+      "metar_available": false
     },
     {
       "ident": "SHEC",
@@ -5244,7 +5678,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHEC",
-      "coordinates": "-33.416555, -70.593563"
+      "coordinates": "-33.416555, -70.593563",
+      "metar_available": false
     },
     {
       "ident": "SHEE",
@@ -5256,7 +5691,8 @@
       "iso_region": "CL-ML",
       "municipality": "Yerbas Buenas",
       "gps_code": "SHEE",
-      "coordinates": "-35.720001220703125, -71.50971984863281"
+      "coordinates": "-35.720001220703125, -71.50971984863281",
+      "metar_available": false
     },
     {
       "ident": "SHEH",
@@ -5268,7 +5704,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHEH",
-      "coordinates": "-33.40388870239258, -70.5727767944336"
+      "coordinates": "-33.40388870239258, -70.5727767944336",
+      "metar_available": false
     },
     {
       "ident": "SHEI",
@@ -5280,7 +5717,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHEI",
-      "coordinates": "-33.45944595336914, -70.71666717529297"
+      "coordinates": "-33.45944595336914, -70.71666717529297",
+      "metar_available": false
     },
     {
       "ident": "SHEJ",
@@ -5292,7 +5730,8 @@
       "iso_region": "CL-AN",
       "municipality": "Antofagasta",
       "gps_code": "SHEJ",
-      "coordinates": "-23.6825, -70.413889"
+      "coordinates": "-23.6825, -70.413889",
+      "metar_available": false
     },
     {
       "ident": "SHEM",
@@ -5304,7 +5743,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHEM",
-      "coordinates": "-33.38111114501953, -70.59583282470703"
+      "coordinates": "-33.38111114501953, -70.59583282470703",
+      "metar_available": false
     },
     {
       "ident": "SHEQ",
@@ -5316,7 +5756,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHEQ",
-      "coordinates": "-33.37055587768555, -70.65055847167969"
+      "coordinates": "-33.37055587768555, -70.65055847167969",
+      "metar_available": false
     },
     {
       "ident": "SHES",
@@ -5328,7 +5769,8 @@
       "iso_region": "CL-AN",
       "municipality": "Antofagasta",
       "gps_code": "SHES",
-      "coordinates": "-24.638334274291992, -70.38471984863281"
+      "coordinates": "-24.638334274291992, -70.38471984863281",
+      "metar_available": false
     },
     {
       "ident": "SHET",
@@ -5340,7 +5782,8 @@
       "iso_region": "CL-ML",
       "municipality": "Yerbas Buenas",
       "gps_code": "SHET",
-      "coordinates": "-35.70222091674805, -71.57221984863281"
+      "coordinates": "-35.70222091674805, -71.57221984863281",
+      "metar_available": false
     },
     {
       "ident": "SHFA",
@@ -5352,7 +5795,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHFA",
-      "coordinates": "-33.496389, -70.695278"
+      "coordinates": "-33.496389, -70.695278",
+      "metar_available": false
     },
     {
       "ident": "SHFE",
@@ -5364,7 +5808,8 @@
       "iso_region": "CL-VS",
       "municipality": "San Felipe",
       "gps_code": "SHFE",
-      "coordinates": "-32.74833297729492, -70.70999908447266"
+      "coordinates": "-32.74833297729492, -70.70999908447266",
+      "metar_available": false
     },
     {
       "ident": "SHFR",
@@ -5376,7 +5821,8 @@
       "iso_region": "CL-LI",
       "municipality": "Litueche",
       "gps_code": "SHFR",
-      "coordinates": "-34.15972137451172, -71.75166320800781"
+      "coordinates": "-34.15972137451172, -71.75166320800781",
+      "metar_available": false
     },
     {
       "ident": "SHGA",
@@ -5388,7 +5834,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHGA",
-      "coordinates": "-33.4474983215332, -70.60694122314453"
+      "coordinates": "-33.4474983215332, -70.60694122314453",
+      "metar_available": false
     },
     {
       "ident": "SHGE",
@@ -5400,7 +5847,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHGE",
-      "coordinates": "-33.413612365722656, -70.5897216796875"
+      "coordinates": "-33.413612365722656, -70.5897216796875",
+      "metar_available": false
     },
     {
       "ident": "SHGR",
@@ -5412,7 +5860,8 @@
       "iso_region": "CL-RM",
       "municipality": "Las Condes",
       "gps_code": "SHGR",
-      "coordinates": "-33.404444, -70.573056"
+      "coordinates": "-33.404444, -70.573056",
+      "metar_available": false
     },
     {
       "ident": "SHHC",
@@ -5424,7 +5873,8 @@
       "iso_region": "CL-BI",
       "municipality": "Concepcion",
       "gps_code": "SHHC",
-      "coordinates": "-36.82083511352539, -73.03500366210938"
+      "coordinates": "-36.82083511352539, -73.03500366210938",
+      "metar_available": false
     },
     {
       "ident": "SHHE",
@@ -5436,7 +5886,8 @@
       "iso_region": "CL-LI",
       "municipality": "Machali",
       "gps_code": "SHHE",
-      "coordinates": "-34.21055603027344, -70.71583557128906"
+      "coordinates": "-34.21055603027344, -70.71583557128906",
+      "metar_available": false
     },
     {
       "ident": "SHHF",
@@ -5448,7 +5899,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHHF",
-      "coordinates": "-33.397124, -70.545874"
+      "coordinates": "-33.397124, -70.545874",
+      "metar_available": false
     },
     {
       "ident": "SHHI",
@@ -5460,7 +5912,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHHI",
-      "coordinates": "-33.417763, -70.528879"
+      "coordinates": "-33.417763, -70.528879",
+      "metar_available": false
     },
     {
       "ident": "SHHL",
@@ -5471,7 +5924,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHHL",
-      "coordinates": "-33.37329864501953, -70.52439880371094"
+      "coordinates": "-33.37329864501953, -70.52439880371094",
+      "metar_available": false
     },
     {
       "ident": "SHHM",
@@ -5483,7 +5937,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHHM",
-      "coordinates": "-33.415279388427734, -70.60333251953125"
+      "coordinates": "-33.415279388427734, -70.60333251953125",
+      "metar_available": false
     },
     {
       "ident": "SHHN",
@@ -5495,7 +5950,8 @@
       "iso_region": "CL-VS",
       "municipality": "Viña Del Mar",
       "gps_code": "SHHN",
-      "coordinates": "-33.996665954589844, -71.53583526611328"
+      "coordinates": "-33.996665954589844, -71.53583526611328",
+      "metar_available": false
     },
     {
       "ident": "SHHR",
@@ -5507,7 +5963,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Arenas",
       "gps_code": "SHHR",
-      "coordinates": "-53.15638732910156, -70.92222595214844"
+      "coordinates": "-53.15638732910156, -70.92222595214844",
+      "metar_available": false
     },
     {
       "ident": "SHHS",
@@ -5519,7 +5976,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHHS",
-      "coordinates": "-33.43611145019531, -70.62110900878906"
+      "coordinates": "-33.43611145019531, -70.62110900878906",
+      "metar_available": false
     },
     {
       "ident": "SHHV",
@@ -5531,7 +5989,8 @@
       "iso_region": "CL-AP",
       "municipality": "Arica",
       "gps_code": "SHHV",
-      "coordinates": "-18.472200393676758, -70.32060241699219"
+      "coordinates": "-18.472200393676758, -70.32060241699219",
+      "metar_available": false
     },
     {
       "ident": "SHIN",
@@ -5543,7 +6002,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHIN",
-      "coordinates": "-33.420833, -70.617778"
+      "coordinates": "-33.420833, -70.617778",
+      "metar_available": false
     },
     {
       "ident": "SHIQ",
@@ -5555,7 +6015,8 @@
       "iso_region": "CL-TA",
       "municipality": "Iquique",
       "gps_code": "SHIQ",
-      "coordinates": "-20.229999542236328, -70.1449966430664"
+      "coordinates": "-20.229999542236328, -70.1449966430664",
+      "metar_available": false
     },
     {
       "ident": "SHIS",
@@ -5567,7 +6028,8 @@
       "iso_region": "CL-RM",
       "municipality": "Las Condes",
       "gps_code": "SHIS",
-      "coordinates": "-33.414011, -70.598112"
+      "coordinates": "-33.414011, -70.598112",
+      "metar_available": false
     },
     {
       "ident": "SHJO",
@@ -5579,7 +6041,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHJO",
-      "coordinates": "-33.40861129760742, -70.6522216796875"
+      "coordinates": "-33.40861129760742, -70.6522216796875",
+      "metar_available": false
     },
     {
       "ident": "SHKI",
@@ -5591,7 +6054,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHKI",
-      "coordinates": "-33.56027603149414, -70.74444580078125"
+      "coordinates": "-33.56027603149414, -70.74444580078125",
+      "metar_available": false
     },
     {
       "ident": "SHLA",
@@ -5603,7 +6067,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHLA",
-      "coordinates": "-33.43583297729492, -70.6433334350586"
+      "coordinates": "-33.43583297729492, -70.6433334350586",
+      "metar_available": false
     },
     {
       "ident": "SHLC",
@@ -5615,7 +6080,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHLC",
-      "coordinates": "-33.38389, -70.750556"
+      "coordinates": "-33.38389, -70.750556",
+      "metar_available": false
     },
     {
       "ident": "SHLP",
@@ -5627,7 +6093,8 @@
       "iso_region": "CL-RM",
       "municipality": "Farellones",
       "gps_code": "SHLP",
-      "coordinates": "-33.328887939453125, -70.28333282470703"
+      "coordinates": "-33.328887939453125, -70.28333282470703",
+      "metar_available": false
     },
     {
       "ident": "SHLS",
@@ -5639,7 +6106,8 @@
       "iso_region": "CL-VS",
       "municipality": "Viña Del Mar",
       "gps_code": "SHLS",
-      "coordinates": "-32.99583435058594, -71.54722595214844"
+      "coordinates": "-32.99583435058594, -71.54722595214844",
+      "metar_available": false
     },
     {
       "ident": "SHMA",
@@ -5651,7 +6119,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHMA",
-      "coordinates": "-33.432220458984375, -70.62833404541016"
+      "coordinates": "-33.432220458984375, -70.62833404541016",
+      "metar_available": false
     },
     {
       "ident": "SHMB",
@@ -5663,7 +6132,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHMB",
-      "coordinates": "-33.461666107177734, -70.7147216796875"
+      "coordinates": "-33.461666107177734, -70.7147216796875",
+      "metar_available": false
     },
     {
       "ident": "SHMD",
@@ -5675,7 +6145,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHMD",
-      "coordinates": "-33.43527603149414, -70.63805389404297"
+      "coordinates": "-33.43527603149414, -70.63805389404297",
+      "metar_available": false
     },
     {
       "ident": "SHME",
@@ -5687,7 +6158,8 @@
       "iso_region": "CL-RM",
       "municipality": "San Pedro",
       "gps_code": "SHME",
-      "coordinates": "-33.974615, -71.388481"
+      "coordinates": "-33.974615, -71.388481",
+      "metar_available": false
     },
     {
       "ident": "SHMS",
@@ -5699,7 +6171,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHMS",
-      "coordinates": "-33.45805740356445, -70.69999694824219"
+      "coordinates": "-33.45805740356445, -70.69999694824219",
+      "metar_available": false
     },
     {
       "ident": "SHNC",
@@ -5711,7 +6184,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Arenas",
       "gps_code": "SHNC",
-      "coordinates": "-52.5636100769043, -68.67555236816406"
+      "coordinates": "-52.5636100769043, -68.67555236816406",
+      "metar_available": false
     },
     {
       "ident": "SHNL",
@@ -5723,7 +6197,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHNL",
-      "coordinates": "-33.421377, -70.61059"
+      "coordinates": "-33.421377, -70.61059",
+      "metar_available": false
     },
     {
       "ident": "SHNO",
@@ -5735,7 +6210,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Arenas",
       "gps_code": "SHNO",
-      "coordinates": "-52.575279235839844, -69.66361236572266"
+      "coordinates": "-52.575279235839844, -69.66361236572266",
+      "metar_available": false
     },
     {
       "ident": "SHNZ",
@@ -5747,7 +6223,8 @@
       "iso_region": "CL-RM",
       "municipality": "Pirque",
       "gps_code": "SHNZ",
-      "coordinates": "-33.65277862548828, -70.5272216796875"
+      "coordinates": "-33.65277862548828, -70.5272216796875",
+      "metar_available": false
     },
     {
       "ident": "SHOT",
@@ -5759,7 +6236,8 @@
       "iso_region": "CL-CO",
       "municipality": "Ovalle",
       "gps_code": "SHOT",
-      "coordinates": "-30.679444, -71.408611"
+      "coordinates": "-30.679444, -71.408611",
+      "metar_available": false
     },
     {
       "ident": "SHOV",
@@ -5771,7 +6249,8 @@
       "iso_region": "CL-VS",
       "municipality": "Casablanca",
       "gps_code": "SHOV",
-      "coordinates": "-33.250831604003906, -71.36833190917969"
+      "coordinates": "-33.250831604003906, -71.36833190917969",
+      "metar_available": false
     },
     {
       "ident": "SHPD",
@@ -5783,7 +6262,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHPD",
-      "coordinates": "-33.413156, -70.603804"
+      "coordinates": "-33.413156, -70.603804",
+      "metar_available": false
     },
     {
       "ident": "SHPE",
@@ -5795,7 +6275,8 @@
       "iso_region": "CL-LL",
       "municipality": "Puerto Montt",
       "gps_code": "SHPE",
-      "coordinates": "-41.48555374145508, -72.90277862548828"
+      "coordinates": "-41.48555374145508, -72.90277862548828",
+      "metar_available": false
     },
     {
       "ident": "SHPM",
@@ -5807,7 +6288,8 @@
       "iso_region": "CL-AI",
       "municipality": "Coyahique",
       "gps_code": "SHPM",
-      "coordinates": "-45.922804, -72.146251"
+      "coordinates": "-45.922804, -72.146251",
+      "metar_available": false
     },
     {
       "ident": "SHPP",
@@ -5819,7 +6301,8 @@
       "iso_region": "CL-VS",
       "municipality": "Papudo",
       "gps_code": "SHPP",
-      "coordinates": "-32.50027847290039, -71.45916748046875"
+      "coordinates": "-32.50027847290039, -71.45916748046875",
+      "metar_available": false
     },
     {
       "ident": "SHPT",
@@ -5831,7 +6314,8 @@
       "iso_region": "CL-VS",
       "municipality": "Los Andes",
       "gps_code": "SHPT",
-      "coordinates": "-32.836387634277344, -70.13111114501953"
+      "coordinates": "-32.836387634277344, -70.13111114501953",
+      "metar_available": false
     },
     {
       "ident": "SHPU",
@@ -5843,7 +6327,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Catalina",
       "gps_code": "SHPU",
-      "coordinates": "-52.545833587646484, -68.75833129882812"
+      "coordinates": "-52.545833587646484, -68.75833129882812",
+      "metar_available": false
     },
     {
       "ident": "SHQN",
@@ -5855,7 +6340,8 @@
       "iso_region": "CL-LR",
       "municipality": "Valdivia",
       "gps_code": "SHQN",
-      "coordinates": "-39.852500915527344, -73.2572021484375"
+      "coordinates": "-39.852500915527344, -73.2572021484375",
+      "metar_available": false
     },
     {
       "ident": "SHRB",
@@ -5867,7 +6353,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHRB",
-      "coordinates": "-33.45916748046875, -70.51721954345703"
+      "coordinates": "-33.45916748046875, -70.51721954345703",
+      "metar_available": false
     },
     {
       "ident": "SHRE",
@@ -5879,7 +6366,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHRE",
-      "coordinates": "-33.441389, -70.655"
+      "coordinates": "-33.441389, -70.655",
+      "metar_available": false
     },
     {
       "ident": "SHRP",
@@ -5891,7 +6379,8 @@
       "iso_region": "CL-LI",
       "municipality": "Las Cabras",
       "gps_code": "SHRP",
-      "coordinates": "-34.21277618408203, -71.45305633544922"
+      "coordinates": "-34.21277618408203, -71.45305633544922",
+      "metar_available": false
     },
     {
       "ident": "SHSB",
@@ -5903,7 +6392,8 @@
       "iso_region": "CL-MA",
       "municipality": "Magallanes",
       "gps_code": "SHSB",
-      "coordinates": "-52.766666412353516, -69.28888702392578"
+      "coordinates": "-52.766666412353516, -69.28888702392578",
+      "metar_available": false
     },
     {
       "ident": "SHSC",
@@ -5915,7 +6405,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHSC",
-      "coordinates": "-33.43916702270508, -70.64805603027344"
+      "coordinates": "-33.43916702270508, -70.64805603027344",
+      "metar_available": false
     },
     {
       "ident": "SHSD",
@@ -5927,7 +6418,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHSD",
-      "coordinates": "-33.437552, -70.655898"
+      "coordinates": "-33.437552, -70.655898",
+      "metar_available": false
     },
     {
       "ident": "SHSE",
@@ -5939,7 +6431,8 @@
       "iso_region": "CL-MA",
       "municipality": "Posesion",
       "gps_code": "SHSE",
-      "coordinates": "-52.249395, -68.936248"
+      "coordinates": "-52.249395, -68.936248",
+      "metar_available": false
     },
     {
       "ident": "SHSI",
@@ -5951,7 +6444,8 @@
       "iso_region": "CL-MA",
       "municipality": "Posesion",
       "gps_code": "SHSI",
-      "coordinates": "-52.268333435058594, -69.07333374023438"
+      "coordinates": "-52.268333435058594, -69.07333374023438",
+      "metar_available": false
     },
     {
       "ident": "SHSJ",
@@ -5963,7 +6457,8 @@
       "iso_region": "CL-LL",
       "municipality": "Osorno",
       "gps_code": "SHSJ",
-      "coordinates": "-40.58905, -73.127543"
+      "coordinates": "-40.58905, -73.127543",
+      "metar_available": false
     },
     {
       "ident": "SHSK",
@@ -5975,7 +6470,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Catalina",
       "gps_code": "SHSK",
-      "coordinates": "-52.4091682434082, -68.7852783203125"
+      "coordinates": "-52.4091682434082, -68.7852783203125",
+      "metar_available": false
     },
     {
       "ident": "SHSM",
@@ -5987,7 +6483,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHSM",
-      "coordinates": "-33.423132, -70.62236"
+      "coordinates": "-33.423132, -70.62236",
+      "metar_available": false
     },
     {
       "ident": "SHSN",
@@ -5999,7 +6496,8 @@
       "iso_region": "CL-AT",
       "municipality": "Copiapó",
       "gps_code": "SHSN",
-      "coordinates": "-27.373597, -70.322049"
+      "coordinates": "-27.373597, -70.322049",
+      "metar_available": false
     },
     {
       "ident": "SHSO",
@@ -6011,7 +6509,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHSO",
-      "coordinates": "-33.500187, -70.57894"
+      "coordinates": "-33.500187, -70.57894",
+      "metar_available": false
     },
     {
       "ident": "SHSP",
@@ -6023,7 +6522,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHSP",
-      "coordinates": "-33.442778, -70.655"
+      "coordinates": "-33.442778, -70.655",
+      "metar_available": false
     },
     {
       "ident": "SHSR",
@@ -6035,7 +6535,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHSR",
-      "coordinates": "-33.420741, -70.606438"
+      "coordinates": "-33.420741, -70.606438",
+      "metar_available": false
     },
     {
       "ident": "SHSS",
@@ -6047,7 +6548,8 @@
       "iso_region": "CL-AR",
       "municipality": "Temuco",
       "gps_code": "SHSS",
-      "coordinates": "-38.73583221435547, -72.59833526611328"
+      "coordinates": "-38.73583221435547, -72.59833526611328",
+      "metar_available": false
     },
     {
       "ident": "SHST",
@@ -6059,7 +6561,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHST",
-      "coordinates": "-33.382092, -70.625616"
+      "coordinates": "-33.382092, -70.625616",
+      "metar_available": false
     },
     {
       "ident": "SHSU",
@@ -6071,7 +6574,8 @@
       "iso_region": "CL-MA",
       "municipality": "Punta Catalina",
       "gps_code": "SHSU",
-      "coordinates": "-52.375831604003906, -68.78861236572266"
+      "coordinates": "-52.375831604003906, -68.78861236572266",
+      "metar_available": false
     },
     {
       "ident": "SHTC",
@@ -6083,7 +6587,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHTC",
-      "coordinates": "-33.436944, -70.632525"
+      "coordinates": "-33.436944, -70.632525",
+      "metar_available": false
     },
     {
       "ident": "SHTI",
@@ -6095,7 +6600,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHTI",
-      "coordinates": "-33.440636, -70.645823"
+      "coordinates": "-33.440636, -70.645823",
+      "metar_available": false
     },
     {
       "ident": "SHTL",
@@ -6107,7 +6613,8 @@
       "iso_region": "CL-BI",
       "municipality": "Concepcion",
       "gps_code": "SHTL",
-      "coordinates": "-36.827656, -73.052527"
+      "coordinates": "-36.827656, -73.052527",
+      "metar_available": false
     },
     {
       "ident": "SHTO",
@@ -6119,7 +6626,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHTO",
-      "coordinates": "-33.43888854980469, -70.63500213623047"
+      "coordinates": "-33.43888854980469, -70.63500213623047",
+      "metar_available": false
     },
     {
       "ident": "SHTR",
@@ -6131,7 +6639,8 @@
       "iso_region": "CL-BI",
       "municipality": "Los Angeles",
       "gps_code": "SHTR",
-      "coordinates": "-37.478611, -72.326668"
+      "coordinates": "-37.478611, -72.326668",
+      "metar_available": false
     },
     {
       "ident": "SHTS",
@@ -6143,7 +6652,8 @@
       "iso_region": "CL-RM",
       "municipality": "Lo Barnechea",
       "gps_code": "SHTS",
-      "coordinates": "-33.32225, -70.590849"
+      "coordinates": "-33.32225, -70.590849",
+      "metar_available": false
     },
     {
       "ident": "SHUC",
@@ -6155,7 +6665,8 @@
       "iso_region": "CL-RM",
       "municipality": "Las Condes",
       "gps_code": "SHUC",
-      "coordinates": "-33.40064, -70.507904"
+      "coordinates": "-33.40064, -70.507904",
+      "metar_available": false
     },
     {
       "ident": "SHUE",
@@ -6167,7 +6678,8 @@
       "iso_region": "CL-BI",
       "municipality": "Talcahuano",
       "gps_code": "SHUE",
-      "coordinates": "-36.770833, -73.106667"
+      "coordinates": "-36.770833, -73.106667",
+      "metar_available": false
     },
     {
       "ident": "SHVI",
@@ -6179,7 +6691,8 @@
       "iso_region": "CL-AR",
       "municipality": "Villarrica",
       "gps_code": "SHVI",
-      "coordinates": "-39.301944, -72.088889"
+      "coordinates": "-39.301944, -72.088889",
+      "metar_available": false
     },
     {
       "ident": "SHVM",
@@ -6191,7 +6704,8 @@
       "iso_region": "CL-VS",
       "municipality": "Cartagena",
       "gps_code": "SHVM",
-      "coordinates": "-33.469444, -71.399167"
+      "coordinates": "-33.469444, -71.399167",
+      "metar_available": false
     },
     {
       "ident": "SHWT",
@@ -6203,7 +6717,8 @@
       "iso_region": "CL-RM",
       "municipality": "Santiago",
       "gps_code": "SHWT",
-      "coordinates": "-33.41642, -70.605274"
+      "coordinates": "-33.41642, -70.605274",
+      "metar_available": false
     },
     {
       "ident": "SHYA",
@@ -6215,7 +6730,8 @@
       "iso_region": "CL-RM",
       "municipality": "Pirque",
       "gps_code": "SHYA",
-      "coordinates": "-33.676666259765625, -70.54722595214844"
+      "coordinates": "-33.676666259765625, -70.54722595214844",
+      "metar_available": false
     }
   ]
 }

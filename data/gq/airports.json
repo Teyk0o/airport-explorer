@@ -2,7 +2,7 @@
   "country_code": "GQ",
   "country_name": "Equatorial Guinea",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.710141",
+  "last_updated": "2025-08-25T10:08:40.853601",
   "types_distribution": {
     "small_airport": 5,
     "medium_airport": 2
@@ -19,7 +19,8 @@
       "municipality": "San Antonio de Palé",
       "gps_code": "FGAN",
       "iata_code": "NBN",
-      "coordinates": "-1.408615, 5.624163"
+      "coordinates": "-1.408615, 5.624163",
+      "metar_available": false
     },
     {
       "ident": "FGBT",
@@ -32,7 +33,8 @@
       "municipality": "Bata",
       "gps_code": "FGBT",
       "iata_code": "BSG",
-      "coordinates": "1.90547, 9.80568"
+      "coordinates": "1.90547, 9.80568",
+      "metar_available": false
     },
     {
       "ident": "FGMY",
@@ -45,7 +47,8 @@
       "municipality": "Mengomeyén",
       "gps_code": "FGMY",
       "iata_code": "GEM",
-      "coordinates": "1.685334, 11.024394"
+      "coordinates": "1.685334, 11.024394",
+      "metar_available": false
     },
     {
       "ident": "FGSL",
@@ -58,7 +61,8 @@
       "municipality": "Malabo",
       "gps_code": "FGSL",
       "iata_code": "SSG",
-      "coordinates": "3.755270004272461, 8.708720207214355"
+      "coordinates": "3.755270004272461, 8.708720207214355",
+      "metar_available": false
     },
     {
       "ident": "GQ-0001",
@@ -70,7 +74,8 @@
       "iso_region": "GQ-WN",
       "municipality": "Mongomo",
       "gps_code": "FGMM",
-      "coordinates": "1.636763, 11.302458"
+      "coordinates": "1.636763, 11.302458",
+      "metar_available": false
     },
     {
       "ident": "MDV",
@@ -82,7 +87,8 @@
       "iso_region": "GQ-CS",
       "municipality": "Médouneu, Gabon",
       "iata_code": "MDV",
-      "coordinates": "1.0085, 10.7552"
+      "coordinates": "1.0085, 10.7552",
+      "metar_available": false
     },
     {
       "ident": "OCS",
@@ -95,7 +101,8 @@
       "municipality": "Corisco Island",
       "gps_code": "FGCO",
       "iata_code": "OCS",
-      "coordinates": "0.9125, 9.3304"
+      "coordinates": "0.9125, 9.3304",
+      "metar_available": false
     }
   ]
 }

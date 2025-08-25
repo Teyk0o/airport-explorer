@@ -2,7 +2,7 @@
   "country_code": "MC",
   "country_name": "Monaco",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.819714",
+  "last_updated": "2025-08-25T10:08:40.973601",
   "types_distribution": {
     "heliport": 3
   },
@@ -18,7 +18,8 @@
       "municipality": "Fontvieille",
       "gps_code": "LNMC",
       "iata_code": "MCM",
-      "coordinates": "43.725798, 7.419673"
+      "coordinates": "43.725798, 7.419673",
+      "metar_available": false
     },
     {
       "ident": "MC-0001",
@@ -28,7 +29,8 @@
       "iso_country": "MC",
       "iso_region": "MC-U-A",
       "municipality": "Larvotto",
-      "coordinates": "43.746543, 7.43894"
+      "coordinates": "43.746543, 7.43894",
+      "metar_available": false
     },
     {
       "ident": "MC-0002",
@@ -38,7 +40,8 @@
       "iso_country": "MC",
       "iso_region": "MC-U-A",
       "municipality": "La Colle",
-      "coordinates": "43.729392, 7.410111"
+      "coordinates": "43.729392, 7.410111",
+      "metar_available": false
     }
   ]
 }

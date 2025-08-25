@@ -2,7 +2,7 @@
   "country_code": "MK",
   "country_name": "Macedonia",
   "total_airports": 34,
-  "last_updated": "2025-08-01T00:18:22.825214",
+  "last_updated": "2025-08-25T10:08:40.979529",
   "types_distribution": {
     "small_airport": 11,
     "medium_airport": 1,
@@ -20,7 +20,8 @@
       "iso_country": "MK",
       "iso_region": "MK-005",
       "municipality": "Malo Konjari",
-      "coordinates": "41.333099, 21.4491"
+      "coordinates": "41.333099, 21.4491",
+      "metar_available": false
     },
     {
       "ident": "LW67",
@@ -31,7 +32,8 @@
       "iso_country": "MK",
       "iso_region": "MK-007",
       "municipality": "Kumanovo",
-      "coordinates": "42.154242, 21.699328"
+      "coordinates": "42.154242, 21.699328",
+      "metar_available": false
     },
     {
       "ident": "LW70",
@@ -42,7 +44,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Karatmanovo",
-      "coordinates": "41.758796, 21.842451"
+      "coordinates": "41.758796, 21.842451",
+      "metar_available": false
     },
     {
       "ident": "LW71",
@@ -53,7 +56,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Peshirovo",
-      "coordinates": "41.828073, 21.986585"
+      "coordinates": "41.828073, 21.986585",
+      "metar_available": false
     },
     {
       "ident": "LW73",
@@ -64,7 +68,8 @@
       "iso_country": "MK",
       "iso_region": "MK-002",
       "municipality": "Krivi Dol",
-      "coordinates": "41.798058, 22.109863"
+      "coordinates": "41.798058, 22.109863",
+      "metar_available": false
     },
     {
       "ident": "LW74",
@@ -75,7 +80,8 @@
       "iso_country": "MK",
       "iso_region": "MK-005",
       "municipality": "Logovardi",
-      "coordinates": "41.017721, 21.426186"
+      "coordinates": "41.017721, 21.426186",
+      "metar_available": false
     },
     {
       "ident": "LW75",
@@ -86,7 +92,8 @@
       "iso_country": "MK",
       "iso_region": "MK-004",
       "municipality": "Brazda",
-      "coordinates": "42.0594, 21.388514"
+      "coordinates": "42.0594, 21.388514",
+      "metar_available": false
     },
     {
       "ident": "LWOH",
@@ -99,7 +106,8 @@
       "municipality": "Ohrid",
       "gps_code": "LWOH",
       "iata_code": "OHD",
-      "coordinates": "41.18, 20.7423"
+      "coordinates": "41.18, 20.7423",
+      "metar_available": false
     },
     {
       "ident": "LWSK",
@@ -112,7 +120,8 @@
       "municipality": "Ilinden",
       "gps_code": "LWSK",
       "iata_code": "SKP",
-      "coordinates": "41.958087, 21.622581"
+      "coordinates": "41.958087, 21.622581",
+      "metar_available": false
     },
     {
       "ident": "LWST",
@@ -123,7 +132,8 @@
       "iso_region": "MK-002",
       "municipality": "Štip",
       "gps_code": "LWST",
-      "coordinates": "41.759745, 22.147781"
+      "coordinates": "41.759745, 22.147781",
+      "metar_available": false
     },
     {
       "ident": "MK-0001",
@@ -134,7 +144,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Gradsko",
-      "coordinates": "41.552799, 21.948817"
+      "coordinates": "41.552799, 21.948817",
+      "metar_available": false
     },
     {
       "ident": "MK-0003",
@@ -143,7 +154,8 @@
       "continent": "EU",
       "iso_country": "MK",
       "iso_region": "MK-001",
-      "coordinates": "41.26633, 22.18748"
+      "coordinates": "41.26633, 22.18748",
+      "metar_available": false
     },
     {
       "ident": "MK-0004",
@@ -154,7 +166,8 @@
       "iso_country": "MK",
       "iso_region": "MK-008",
       "municipality": "Skopje",
-      "coordinates": "42.012717, 21.354818"
+      "coordinates": "42.012717, 21.354818",
+      "metar_available": false
     },
     {
       "ident": "MK-0005",
@@ -165,7 +178,8 @@
       "iso_country": "MK",
       "iso_region": "MK-008",
       "municipality": "Skopje",
-      "coordinates": "41.988576, 21.423777"
+      "coordinates": "41.988576, 21.423777",
+      "metar_available": false
     },
     {
       "ident": "MK-0006",
@@ -176,7 +190,8 @@
       "iso_country": "MK",
       "iso_region": "MK-008",
       "municipality": "Skopje",
-      "coordinates": "42.017457, 21.419386"
+      "coordinates": "42.017457, 21.419386",
+      "metar_available": false
     },
     {
       "ident": "MK-0007",
@@ -187,7 +202,8 @@
       "iso_country": "MK",
       "iso_region": "MK-008",
       "municipality": "Skopje",
-      "coordinates": "42.004424, 21.402704"
+      "coordinates": "42.004424, 21.402704",
+      "metar_available": false
     },
     {
       "ident": "MK-0008",
@@ -198,7 +214,8 @@
       "iso_country": "MK",
       "iso_region": "MK-008",
       "municipality": "Skopje",
-      "coordinates": "42.019295, 21.417507"
+      "coordinates": "42.019295, 21.417507",
+      "metar_available": false
     },
     {
       "ident": "MK-0009",
@@ -209,7 +226,8 @@
       "iso_country": "MK",
       "iso_region": "MK-007",
       "municipality": "Kumanovo",
-      "coordinates": "42.138915, 21.700064"
+      "coordinates": "42.138915, 21.700064",
+      "metar_available": false
     },
     {
       "ident": "MK-0010",
@@ -220,7 +238,8 @@
       "iso_country": "MK",
       "iso_region": "MK-002",
       "municipality": "Osogovo",
-      "coordinates": "42.025968, 22.355895"
+      "coordinates": "42.025968, 22.355895",
+      "metar_available": false
     },
     {
       "ident": "MK-0011",
@@ -231,7 +250,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Crveni Bregovi",
-      "coordinates": "41.540292, 22.104539"
+      "coordinates": "41.540292, 22.104539",
+      "metar_available": false
     },
     {
       "ident": "MK-0012",
@@ -242,7 +262,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Veles",
-      "coordinates": "41.713567, 21.7617"
+      "coordinates": "41.713567, 21.7617",
+      "metar_available": false
     },
     {
       "ident": "MK-0013",
@@ -253,7 +274,8 @@
       "iso_country": "MK",
       "iso_region": "MK-005",
       "municipality": "Prilep",
-      "coordinates": "41.358554, 21.561165"
+      "coordinates": "41.358554, 21.561165",
+      "metar_available": false
     },
     {
       "ident": "MK-0014",
@@ -264,7 +286,8 @@
       "iso_country": "MK",
       "iso_region": "MK-006",
       "municipality": "Zherovjane",
-      "coordinates": "41.92919, 20.93601"
+      "coordinates": "41.92919, 20.93601",
+      "metar_available": false
     },
     {
       "ident": "MK-0015",
@@ -275,7 +298,8 @@
       "iso_country": "MK",
       "iso_region": "MK-008",
       "municipality": "Skopje",
-      "coordinates": "41.98923, 21.4772"
+      "coordinates": "41.98923, 21.4772",
+      "metar_available": false
     },
     {
       "ident": "MK-0016",
@@ -286,7 +310,8 @@
       "iso_country": "MK",
       "iso_region": "MK-003",
       "municipality": "Kičevo",
-      "coordinates": "41.52283, 20.95958"
+      "coordinates": "41.52283, 20.95958",
+      "metar_available": false
     },
     {
       "ident": "MK-0017",
@@ -297,7 +322,8 @@
       "iso_country": "MK",
       "iso_region": "MK-003",
       "municipality": "Ohrid",
-      "coordinates": "41.12954, 20.80965"
+      "coordinates": "41.12954, 20.80965",
+      "metar_available": false
     },
     {
       "ident": "MK-0018",
@@ -308,7 +334,8 @@
       "iso_country": "MK",
       "iso_region": "MK-005",
       "municipality": "Ostriltsi",
-      "coordinates": "41.34004, 21.25599"
+      "coordinates": "41.34004, 21.25599",
+      "metar_available": false
     },
     {
       "ident": "MK-0019",
@@ -319,7 +346,8 @@
       "iso_country": "MK",
       "iso_region": "MK-005",
       "municipality": "Srpci",
-      "coordinates": "41.151605, 21.406839"
+      "coordinates": "41.151605, 21.406839",
+      "metar_available": false
     },
     {
       "ident": "MK-0020",
@@ -330,7 +358,8 @@
       "iso_country": "MK",
       "iso_region": "MK-005",
       "municipality": "Dolneni",
-      "coordinates": "41.429551, 21.402176"
+      "coordinates": "41.429551, 21.402176",
+      "metar_available": false
     },
     {
       "ident": "MK-0021",
@@ -341,7 +370,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Crveni Bregovi",
-      "coordinates": "41.51788, 22.088066"
+      "coordinates": "41.51788, 22.088066",
+      "metar_available": false
     },
     {
       "ident": "MK-0022",
@@ -352,7 +382,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Mavrovica",
-      "coordinates": "41.912399, 21.9554"
+      "coordinates": "41.912399, 21.9554",
+      "metar_available": false
     },
     {
       "ident": "MK-0023",
@@ -363,7 +394,8 @@
       "iso_country": "MK",
       "iso_region": "MK-001",
       "municipality": "Veles",
-      "coordinates": "41.71446, 21.77594"
+      "coordinates": "41.71446, 21.77594",
+      "metar_available": false
     },
     {
       "ident": "MK-0024",
@@ -374,7 +406,8 @@
       "iso_country": "MK",
       "iso_region": "MK-002",
       "municipality": "Štip",
-      "coordinates": "41.75616, 22.18812"
+      "coordinates": "41.75616, 22.18812",
+      "metar_available": false
     },
     {
       "ident": "MK-0025",
@@ -385,7 +418,8 @@
       "iso_country": "MK",
       "iso_region": "MK-002",
       "municipality": "Češinovo-Obleševo",
-      "coordinates": "41.8806, 22.33097"
+      "coordinates": "41.8806, 22.33097",
+      "metar_available": false
     }
   ]
 }

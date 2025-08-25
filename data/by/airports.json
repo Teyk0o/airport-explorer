@@ -2,7 +2,7 @@
   "country_code": "BY",
   "country_name": "Belarus",
   "total_airports": 70,
-  "last_updated": "2025-08-01T00:18:22.578939",
+  "last_updated": "2025-08-25T10:08:40.714953",
   "types_distribution": {
     "medium_airport": 9,
     "closed": 20,
@@ -22,7 +22,8 @@
       "municipality": "Orsha",
       "gps_code": "UMIO",
       "iata_code": "TXC",
-      "coordinates": "54.439999, 30.2967"
+      "coordinates": "54.439999, 30.2967",
+      "metar_available": false
     },
     {
       "ident": "BY-0002",
@@ -33,7 +34,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Lomskoe",
-      "coordinates": "54.375, 29.376699"
+      "coordinates": "54.375, 29.376699",
+      "metar_available": false
     },
     {
       "ident": "BY-0003",
@@ -44,7 +46,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HO",
       "municipality": "Kalinovichi",
-      "coordinates": "52.278301, 29.360001"
+      "coordinates": "52.278301, 29.360001",
+      "metar_available": false
     },
     {
       "ident": "BY-0004",
@@ -56,7 +59,8 @@
       "iso_region": "BY-VI",
       "municipality": "Polatsk",
       "gps_code": "UMWB",
-      "coordinates": "55.608299, 28.678301"
+      "coordinates": "55.608299, 28.678301",
+      "metar_available": false
     },
     {
       "ident": "BY-0005",
@@ -67,7 +71,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Polotsk",
-      "coordinates": "55.411667, 28.748333"
+      "coordinates": "55.411667, 28.748333",
+      "metar_available": false
     },
     {
       "ident": "BY-0006",
@@ -78,7 +83,8 @@
       "iso_region": "BY-BR",
       "municipality": "Byaroza",
       "gps_code": "UMMO",
-      "coordinates": "52.556999, 24.884001"
+      "coordinates": "52.556999, 24.884001",
+      "metar_available": false
     },
     {
       "ident": "BY-0007",
@@ -88,7 +94,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MA",
       "municipality": "Bykhau",
-      "coordinates": "53.52000045776367, 30.200000762939453"
+      "coordinates": "53.52000045776367, 30.200000762939453",
+      "metar_available": false
     },
     {
       "ident": "BY-0008",
@@ -98,7 +105,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MA",
       "municipality": "Krichaw",
-      "coordinates": "53.779817, 31.66495"
+      "coordinates": "53.779817, 31.66495",
+      "metar_available": false
     },
     {
       "ident": "BY-0009",
@@ -109,7 +117,8 @@
       "iso_region": "BY-HR",
       "municipality": "Lida",
       "gps_code": "UMDD",
-      "coordinates": "53.877, 25.377"
+      "coordinates": "53.877, 25.377",
+      "metar_available": false
     },
     {
       "ident": "BY-0010",
@@ -119,7 +128,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Polatsk",
-      "coordinates": "55.534696443, 28.7904453278"
+      "coordinates": "55.534696443, 28.7904453278",
+      "metar_available": false
     },
     {
       "ident": "BY-0012",
@@ -129,7 +139,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "gps_code": "UMNI",
-      "coordinates": "55.160995, 29.974589"
+      "coordinates": "55.160995, 29.974589",
+      "metar_available": false
     },
     {
       "ident": "BY-0013",
@@ -139,7 +150,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HO",
       "municipality": "Mazyr",
-      "coordinates": "51.983484, 29.163566"
+      "coordinates": "51.983484, 29.163566",
+      "metar_available": false
     },
     {
       "ident": "BY-0014",
@@ -149,7 +161,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "gps_code": "UMMI",
-      "coordinates": "53.913545, 27.708775"
+      "coordinates": "53.913545, 27.708775",
+      "metar_available": false
     },
     {
       "ident": "BY-0015",
@@ -159,7 +172,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "gps_code": "UMMK",
-      "coordinates": "55.144536, 26.829358"
+      "coordinates": "55.144536, 26.829358",
+      "metar_available": false
     },
     {
       "ident": "BY-0016",
@@ -169,7 +183,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MA",
       "municipality": "Gorki",
-      "coordinates": "54.30052, 30.948463"
+      "coordinates": "54.30052, 30.948463",
+      "metar_available": false
     },
     {
       "ident": "BY-0017",
@@ -180,7 +195,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Kokhanovichi",
-      "coordinates": "55.85734, 28.09827"
+      "coordinates": "55.85734, 28.09827",
+      "metar_available": false
     },
     {
       "ident": "BY-0018",
@@ -191,7 +207,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Bozhki",
-      "coordinates": "55.816719, 28.025859"
+      "coordinates": "55.816719, 28.025859",
+      "metar_available": false
     },
     {
       "ident": "BY-0019",
@@ -202,7 +219,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HR",
       "municipality": "Zheludok",
-      "coordinates": "53.598206, 24.9719"
+      "coordinates": "53.598206, 24.9719",
+      "metar_available": false
     },
     {
       "ident": "BY-0020",
@@ -214,7 +232,8 @@
       "iso_region": "BY-HR",
       "municipality": "Njeman",
       "local_code": "H492",
-      "coordinates": "53.6793, 25.5686"
+      "coordinates": "53.6793, 25.5686",
+      "metar_available": false
     },
     {
       "ident": "BY-0021",
@@ -226,7 +245,8 @@
       "iso_region": "BY-MI",
       "municipality": "Drozdy",
       "local_code": "H213",
-      "coordinates": "53.9506, 27.5053"
+      "coordinates": "53.9506, 27.5053",
+      "metar_available": false
     },
     {
       "ident": "BY-0022",
@@ -238,7 +258,8 @@
       "iso_region": "BY-MI",
       "municipality": "Dzerzhinsky",
       "local_code": "ZD7M",
-      "coordinates": "53.68874, 27.339573"
+      "coordinates": "53.68874, 27.339573",
+      "metar_available": false
     },
     {
       "ident": "BY-0023",
@@ -250,7 +271,8 @@
       "iso_region": "BY-MA",
       "municipality": "Babruysk",
       "gps_code": "UMNS",
-      "coordinates": "53.21033, 29.129039"
+      "coordinates": "53.21033, 29.129039",
+      "metar_available": false
     },
     {
       "ident": "BY-0024",
@@ -262,7 +284,8 @@
       "iso_region": "BY-HR",
       "municipality": "Grodno",
       "gps_code": "UMNG",
-      "coordinates": "53.632516, 23.735275"
+      "coordinates": "53.632516, 23.735275",
+      "metar_available": false
     },
     {
       "ident": "BY-0025",
@@ -273,7 +296,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Voirovka",
-      "coordinates": "53.619614, 27.551783"
+      "coordinates": "53.619614, 27.551783",
+      "metar_available": false
     },
     {
       "ident": "BY-0026",
@@ -283,7 +307,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-MI",
-      "coordinates": "53.213143, 27.36075"
+      "coordinates": "53.213143, 27.36075",
+      "metar_available": false
     },
     {
       "ident": "BY-0027",
@@ -293,7 +318,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Kisyali",
-      "coordinates": "54.028259, 26.924768"
+      "coordinates": "54.028259, 26.924768",
+      "metar_available": false
     },
     {
       "ident": "BY-0028",
@@ -304,7 +330,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Vidzy",
-      "coordinates": "55.37879, 26.626022"
+      "coordinates": "55.37879, 26.626022",
+      "metar_available": false
     },
     {
       "ident": "BY-0029",
@@ -313,7 +340,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-BR",
-      "coordinates": "52.7040425, 24.3782919"
+      "coordinates": "52.7040425, 24.3782919",
+      "metar_available": false
     },
     {
       "ident": "BY-0030",
@@ -322,7 +350,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-HR",
-      "coordinates": "52.75557, 24.462681"
+      "coordinates": "52.75557, 24.462681",
+      "metar_available": false
     },
     {
       "ident": "BY-0031",
@@ -331,7 +360,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-VI",
-      "coordinates": "55.2516188, 27.9213048"
+      "coordinates": "55.2516188, 27.9213048",
+      "metar_available": false
     },
     {
       "ident": "BY-0032",
@@ -342,7 +372,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MA",
       "municipality": "Mazalovo",
-      "coordinates": "53.973285, 31.58801"
+      "coordinates": "53.973285, 31.58801",
+      "metar_available": false
     },
     {
       "ident": "BY-0033",
@@ -351,7 +382,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-MA",
-      "coordinates": "53.32445, 31.58792"
+      "coordinates": "53.32445, 31.58792",
+      "metar_available": false
     },
     {
       "ident": "BY-0034",
@@ -360,7 +392,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-MA",
-      "coordinates": "54.2313, 30.77433"
+      "coordinates": "54.2313, 30.77433",
+      "metar_available": false
     },
     {
       "ident": "BY-0035",
@@ -370,7 +403,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Ptich",
-      "coordinates": "53.58516, 27.68329"
+      "coordinates": "53.58516, 27.68329",
+      "metar_available": false
     },
     {
       "ident": "BY-0036",
@@ -380,7 +414,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-MA",
-      "coordinates": "53.73478, 31.91705"
+      "coordinates": "53.73478, 31.91705",
+      "metar_available": false
     },
     {
       "ident": "BY-0037",
@@ -389,7 +424,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-BR",
-      "coordinates": "51.995, 24.71341"
+      "coordinates": "51.995, 24.71341",
+      "metar_available": false
     },
     {
       "ident": "BY-0038",
@@ -400,7 +436,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Voirovka",
-      "coordinates": "53.62221, 27.56414"
+      "coordinates": "53.62221, 27.56414",
+      "metar_available": false
     },
     {
       "ident": "BY-0039",
@@ -410,7 +447,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HO",
       "municipality": "Pogonnoye",
-      "coordinates": "51.6114, 29.9808"
+      "coordinates": "51.6114, 29.9808",
+      "metar_available": false
     },
     {
       "ident": "BY-0040",
@@ -421,7 +459,8 @@
       "iso_country": "BY",
       "iso_region": "BY-BR",
       "municipality": "Galevo",
-      "coordinates": "52.155729, 26.128964"
+      "coordinates": "52.155729, 26.128964",
+      "metar_available": false
     },
     {
       "ident": "BY-0041",
@@ -430,7 +469,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-MI",
-      "coordinates": "53.830978, 27.376385"
+      "coordinates": "53.830978, 27.376385",
+      "metar_available": false
     },
     {
       "ident": "BY-0042",
@@ -439,7 +479,8 @@
       "continent": "EU",
       "iso_country": "BY",
       "iso_region": "BY-MI",
-      "coordinates": "53.748533, 26.864619"
+      "coordinates": "53.748533, 26.864619",
+      "metar_available": false
     },
     {
       "ident": "BY-0043",
@@ -449,7 +490,8 @@
       "iso_country": "BY",
       "iso_region": "BY-BR",
       "municipality": "Minkavichi",
-      "coordinates": "52.361764, 23.544216"
+      "coordinates": "52.361764, 23.544216",
+      "metar_available": false
     },
     {
       "ident": "BY-0044",
@@ -459,7 +501,8 @@
       "iso_country": "BY",
       "iso_region": "BY-BR",
       "municipality": "Mihalin",
-      "coordinates": "51.98863, 23.90717"
+      "coordinates": "51.98863, 23.90717",
+      "metar_available": false
     },
     {
       "ident": "BY-0045",
@@ -469,7 +512,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Sivitsa",
-      "coordinates": "54.103559, 28.577714"
+      "coordinates": "54.103559, 28.577714",
+      "metar_available": false
     },
     {
       "ident": "BY-0046",
@@ -481,7 +525,8 @@
       "iso_region": "BY-HO",
       "municipality": "Korovatichi",
       "local_code": "ZDF8",
-      "coordinates": "52.240398, 30.1663"
+      "coordinates": "52.240398, 30.1663",
+      "metar_available": false
     },
     {
       "ident": "BY-0047",
@@ -492,7 +537,8 @@
       "iso_country": "BY",
       "iso_region": "BY-BR",
       "municipality": "Kobryn",
-      "coordinates": "52.23833, 24.346667"
+      "coordinates": "52.23833, 24.346667",
+      "metar_available": false
     },
     {
       "ident": "BY-0048",
@@ -502,7 +548,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Palačany",
-      "coordinates": "54.24219, 26.72302"
+      "coordinates": "54.24219, 26.72302",
+      "metar_available": false
     },
     {
       "ident": "BY-1095",
@@ -513,7 +560,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Postavy",
-      "coordinates": "55.116699, 26.7617"
+      "coordinates": "55.116699, 26.7617",
+      "metar_available": false
     },
     {
       "ident": "BY-1210",
@@ -524,7 +572,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Maladzyechna",
-      "coordinates": "54.24829864501953, 26.871700286865234"
+      "coordinates": "54.24829864501953, 26.871700286865234",
+      "metar_available": false
     },
     {
       "ident": "BY-3111",
@@ -535,7 +584,8 @@
       "iso_country": "BY",
       "iso_region": "BY-VI",
       "municipality": "Vitebsk",
-      "coordinates": "55.255001, 30.2467"
+      "coordinates": "55.255001, 30.2467",
+      "metar_available": false
     },
     {
       "ident": "BY-4247",
@@ -546,7 +596,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HO",
       "municipality": "Gomel",
-      "coordinates": "52.30500030517578, 31.163299560546875"
+      "coordinates": "52.30500030517578, 31.163299560546875",
+      "metar_available": false
     },
     {
       "ident": "BY-7836",
@@ -557,7 +608,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HR",
       "municipality": "Smorgon",
-      "coordinates": "54.52330017089844, 26.306699752807617"
+      "coordinates": "54.52330017089844, 26.306699752807617",
+      "metar_available": false
     },
     {
       "ident": "BY-9934",
@@ -569,7 +621,8 @@
       "iso_region": "BY-BR",
       "municipality": "Luninets",
       "gps_code": "UMNL",
-      "coordinates": "52.275673, 26.774629"
+      "coordinates": "52.275673, 26.774629",
+      "metar_available": false
     },
     {
       "ident": "BY-9935",
@@ -579,7 +632,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Minsk",
-      "coordinates": "53.864498, 27.5397"
+      "coordinates": "53.864498, 27.5397",
+      "metar_available": false
     },
     {
       "ident": "BY-9936",
@@ -589,7 +643,8 @@
       "iso_country": "BY",
       "iso_region": "BY-MI",
       "municipality": "Minsk",
-      "coordinates": "53.960461, 27.650596"
+      "coordinates": "53.960461, 27.650596",
+      "metar_available": false
     },
     {
       "ident": "BY-9937",
@@ -599,7 +654,8 @@
       "iso_country": "BY",
       "iso_region": "BY-HR",
       "municipality": "Ross",
-      "coordinates": "53.303, 24.369"
+      "coordinates": "53.303, 24.369",
+      "metar_available": false
     },
     {
       "ident": "BY-9938",
@@ -611,7 +667,8 @@
       "iso_region": "BY-HR",
       "municipality": "Shchuchyn",
       "local_code": "XMDU",
-      "coordinates": "53.598206, 24.763414"
+      "coordinates": "53.598206, 24.763414",
+      "metar_available": false
     },
     {
       "ident": "UMBB",
@@ -624,7 +681,8 @@
       "municipality": "Brest",
       "gps_code": "UMBB",
       "iata_code": "BQT",
-      "coordinates": "52.108299, 23.8981"
+      "coordinates": "52.108299, 23.8981",
+      "metar_available": false
     },
     {
       "ident": "UMBK",
@@ -636,7 +694,8 @@
       "iso_region": "BY-BR",
       "municipality": "Barysava",
       "gps_code": "UMBK",
-      "coordinates": "52.164, 24.3999"
+      "coordinates": "52.164, 24.3999",
+      "metar_available": false
     },
     {
       "ident": "UMGG",
@@ -649,7 +708,8 @@
       "municipality": "Gomel",
       "gps_code": "UMGG",
       "iata_code": "GME",
-      "coordinates": "52.527000427246094, 31.016700744628906"
+      "coordinates": "52.527000427246094, 31.016700744628906",
+      "metar_available": false
     },
     {
       "ident": "UMGI",
@@ -660,7 +720,8 @@
       "iso_region": "BY-HO",
       "municipality": "Min'kov",
       "gps_code": "UMGI",
-      "coordinates": "53.014712, 29.878516"
+      "coordinates": "53.014712, 29.878516",
+      "metar_available": false
     },
     {
       "ident": "UMII",
@@ -673,7 +734,8 @@
       "municipality": "Vitebsk",
       "gps_code": "UMII",
       "iata_code": "VTB",
-      "coordinates": "55.126499176025, 30.349599838257"
+      "coordinates": "55.126499176025, 30.349599838257",
+      "metar_available": false
     },
     {
       "ident": "UMLI",
@@ -685,7 +747,8 @@
       "iso_region": "BY-MI",
       "municipality": "Minsk",
       "gps_code": "UMLI",
-      "coordinates": "53.7733, 27.58"
+      "coordinates": "53.7733, 27.58",
+      "metar_available": false
     },
     {
       "ident": "UMMA",
@@ -696,7 +759,8 @@
       "iso_region": "BY-BR",
       "municipality": "Baranavichi",
       "gps_code": "UMMA",
-      "coordinates": "53.099998, 26.049999"
+      "coordinates": "53.099998, 26.049999",
+      "metar_available": false
     },
     {
       "ident": "UMMG",
@@ -709,7 +773,8 @@
       "municipality": "Hrodna",
       "gps_code": "UMMG",
       "iata_code": "GNA",
-      "coordinates": "53.602001, 24.053801"
+      "coordinates": "53.602001, 24.053801",
+      "metar_available": false
     },
     {
       "ident": "UMMS",
@@ -722,7 +787,8 @@
       "municipality": "Minsk",
       "gps_code": "UMMS",
       "iata_code": "MSQ",
-      "coordinates": "53.888071, 28.039964"
+      "coordinates": "53.888071, 28.039964",
+      "metar_available": false
     },
     {
       "ident": "UMNB",
@@ -734,7 +800,8 @@
       "iso_region": "BY-MA",
       "municipality": "Babruisk",
       "gps_code": "UMNB",
-      "coordinates": "53.105, 29.205"
+      "coordinates": "53.105, 29.205",
+      "metar_available": false
     },
     {
       "ident": "UMNM",
@@ -745,7 +812,8 @@
       "iso_region": "BY-MA",
       "municipality": "Mahiylow / Mogilev",
       "gps_code": "UMNM",
-      "coordinates": "53.945, 30.244"
+      "coordinates": "53.945, 30.244",
+      "metar_available": false
     },
     {
       "ident": "UMNV",
@@ -756,7 +824,8 @@
       "iso_region": "BY-BR",
       "municipality": "Pruzhany",
       "gps_code": "UMNV",
-      "coordinates": "52.582296, 24.379864"
+      "coordinates": "52.582296, 24.379864",
+      "metar_available": false
     },
     {
       "ident": "UMOO",
@@ -769,7 +838,8 @@
       "municipality": "Mogilev",
       "gps_code": "UMOO",
       "iata_code": "MVQ",
-      "coordinates": "53.954898834228516, 30.09510040283203"
+      "coordinates": "53.954898834228516, 30.09510040283203",
+      "metar_available": false
     }
   ]
 }

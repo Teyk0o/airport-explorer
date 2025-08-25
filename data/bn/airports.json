@@ -2,7 +2,7 @@
   "country_code": "BN",
   "country_name": "Brunei",
   "total_airports": 16,
-  "last_updated": "2025-08-01T00:18:22.498453",
+  "last_updated": "2025-08-25T10:08:40.629743",
   "types_distribution": {
     "heliport": 14,
     "small_airport": 1,
@@ -17,7 +17,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BM",
       "municipality": "Bandar Seri Begawan",
-      "coordinates": "4.872524, 114.921956"
+      "coordinates": "4.872524, 114.921956",
+      "metar_available": false
     },
     {
       "ident": "BN-0002",
@@ -27,7 +28,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BM",
       "municipality": "Bandar Seri Begawan",
-      "coordinates": "4.877107, 114.926715"
+      "coordinates": "4.877107, 114.926715",
+      "metar_available": false
     },
     {
       "ident": "BN-0003",
@@ -37,7 +39,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BM",
       "municipality": "Pulau Muara Besar",
-      "coordinates": "5.006128, 115.088457"
+      "coordinates": "5.006128, 115.088457",
+      "metar_available": false
     },
     {
       "ident": "BN-0004",
@@ -47,7 +50,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BM",
       "municipality": "Muara",
-      "coordinates": "5.035629, 115.089139"
+      "coordinates": "5.035629, 115.089139",
+      "metar_available": false
     },
     {
       "ident": "BN-0005",
@@ -57,7 +61,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BM",
       "municipality": "Bandar Seri Begawan",
-      "coordinates": "4.895136, 114.933612"
+      "coordinates": "4.895136, 114.933612",
+      "metar_available": false
     },
     {
       "ident": "BN-0006",
@@ -67,7 +72,8 @@
       "iso_country": "BN",
       "iso_region": "BN-TE",
       "municipality": "Ulu Ulu",
-      "coordinates": "4.554246, 115.154487"
+      "coordinates": "4.554246, 115.154487",
+      "metar_available": false
     },
     {
       "ident": "BN-0007",
@@ -77,7 +83,8 @@
       "iso_country": "BN",
       "iso_region": "BN-TE",
       "municipality": "Bangar",
-      "coordinates": "4.708963, 115.075272"
+      "coordinates": "4.708963, 115.075272",
+      "metar_available": false
     },
     {
       "ident": "BN-0008",
@@ -87,7 +94,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BM",
       "municipality": "Sengkurong",
-      "coordinates": "4.941359, 114.821"
+      "coordinates": "4.941359, 114.821",
+      "metar_available": false
     },
     {
       "ident": "BN-0009",
@@ -97,7 +105,8 @@
       "iso_country": "BN",
       "iso_region": "BN-TU",
       "municipality": "Tutong",
-      "coordinates": "4.819815, 114.667712"
+      "coordinates": "4.819815, 114.667712",
+      "metar_available": false
     },
     {
       "ident": "BN-0010",
@@ -107,7 +116,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BE",
       "municipality": "Kuala Belait",
-      "coordinates": "4.588976, 114.188284"
+      "coordinates": "4.588976, 114.188284",
+      "metar_available": false
     },
     {
       "ident": "BN-0011",
@@ -119,7 +129,8 @@
       "iso_region": "BN-BE",
       "municipality": "Seria",
       "gps_code": "WBML",
-      "coordinates": "4.608473, 114.327288"
+      "coordinates": "4.608473, 114.327288",
+      "metar_available": false
     },
     {
       "ident": "BN-0012",
@@ -129,7 +140,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BE",
       "municipality": "Seria",
-      "coordinates": "4.609976, 114.304473"
+      "coordinates": "4.609976, 114.304473",
+      "metar_available": false
     },
     {
       "ident": "BN-0013",
@@ -139,7 +151,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BE",
       "municipality": "Panaga",
-      "coordinates": "4.607876, 114.291313"
+      "coordinates": "4.607876, 114.291313",
+      "metar_available": false
     },
     {
       "ident": "BN-0014",
@@ -150,7 +163,8 @@
       "iso_country": "BN",
       "iso_region": "BN-BE",
       "municipality": "Kuala Belait",
-      "coordinates": "4.58448, 114.1994"
+      "coordinates": "4.58448, 114.1994",
+      "metar_available": false
     },
     {
       "ident": "WBAK",
@@ -162,7 +176,8 @@
       "iso_region": "BN-BE",
       "municipality": "Seria",
       "gps_code": "WBAK",
-      "coordinates": "4.635158, 114.378748"
+      "coordinates": "4.635158, 114.378748",
+      "metar_available": false
     },
     {
       "ident": "WBSB",
@@ -175,7 +190,8 @@
       "municipality": "Bandar Seri Begawan",
       "gps_code": "WBSB",
       "iata_code": "BWN",
-      "coordinates": "4.9442, 114.928001"
+      "coordinates": "4.9442, 114.928001",
+      "metar_available": false
     }
   ]
 }

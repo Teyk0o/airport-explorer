@@ -2,7 +2,7 @@
   "country_code": "PW",
   "country_name": "Palau",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.430034",
+  "last_updated": "2025-08-25T10:08:40.555920",
   "types_distribution": {
     "small_airport": 2,
     "medium_airport": 1
@@ -18,7 +18,8 @@
       "iso_region": "PW-010",
       "municipality": "Angaur Island",
       "local_code": "ANG",
-      "coordinates": "6.906829, 134.145386"
+      "coordinates": "6.906829, 134.145386",
+      "metar_available": false
     },
     {
       "ident": "C23",
@@ -30,7 +31,8 @@
       "iso_region": "PW-350",
       "municipality": "Peleliu",
       "local_code": "C23",
-      "coordinates": "6.99744, 134.232055"
+      "coordinates": "6.99744, 134.232055",
+      "metar_available": false
     },
     {
       "ident": "PTRO",
@@ -44,7 +46,8 @@
       "gps_code": "PTRO",
       "iata_code": "ROR",
       "local_code": "ROR",
-      "coordinates": "7.36731, 134.544236"
+      "coordinates": "7.36731, 134.544236",
+      "metar_available": false
     }
   ]
 }

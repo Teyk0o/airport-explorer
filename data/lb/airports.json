@@ -2,7 +2,7 @@
   "country_code": "LB",
   "country_name": "Lebanon",
   "total_airports": 38,
-  "last_updated": "2025-08-01T00:18:22.817689",
+  "last_updated": "2025-08-25T10:08:40.971425",
   "types_distribution": {
     "heliport": 27,
     "small_airport": 4,
@@ -19,7 +19,8 @@
       "iso_country": "LB",
       "iso_region": "LB-BA",
       "municipality": "Beirut",
-      "coordinates": "33.893873, 35.52346"
+      "coordinates": "33.893873, 35.52346",
+      "metar_available": false
     },
     {
       "ident": "LB-0002",
@@ -29,7 +30,8 @@
       "iso_country": "LB",
       "iso_region": "LB-BA",
       "municipality": "Beirut",
-      "coordinates": "33.885044, 35.515414"
+      "coordinates": "33.885044, 35.515414",
+      "metar_available": false
     },
     {
       "ident": "LB-0003",
@@ -39,7 +41,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JL",
       "municipality": "Ghobeiry",
-      "coordinates": "33.858218, 35.503514"
+      "coordinates": "33.858218, 35.503514",
+      "metar_available": false
     },
     {
       "ident": "LB-0004",
@@ -50,7 +53,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JL",
       "municipality": "Baadarâne",
-      "coordinates": "33.636065, 35.614209"
+      "coordinates": "33.636065, 35.614209",
+      "metar_available": false
     },
     {
       "ident": "LB-0005",
@@ -60,7 +64,8 @@
       "iso_country": "LB",
       "iso_region": "LB-BH",
       "municipality": "Iaat",
-      "coordinates": "34.047911, 36.173396"
+      "coordinates": "34.047911, 36.173396",
+      "metar_available": false
     },
     {
       "ident": "LB-0006",
@@ -70,7 +75,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Kafr Kila",
-      "coordinates": "33.294663, 35.578101"
+      "coordinates": "33.294663, 35.578101",
+      "metar_available": false
     },
     {
       "ident": "LB-0007",
@@ -80,7 +86,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JL",
       "municipality": "Dekwaneh",
-      "coordinates": "33.86781, 35.55294"
+      "coordinates": "33.86781, 35.55294",
+      "metar_available": false
     },
     {
       "ident": "LB-0008",
@@ -90,7 +97,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JL",
       "municipality": "Fidar",
-      "coordinates": "34.10468, 35.65336"
+      "coordinates": "34.10468, 35.65336",
+      "metar_available": false
     },
     {
       "ident": "LB-0009",
@@ -100,7 +108,8 @@
       "continent": "AS",
       "iso_country": "LB",
       "iso_region": "LB-BH",
-      "coordinates": "34.305368, 36.351591"
+      "coordinates": "34.305368, 36.351591",
+      "metar_available": false
     },
     {
       "ident": "LB-0010",
@@ -109,7 +118,8 @@
       "continent": "AS",
       "iso_country": "LB",
       "iso_region": "LB-NA",
-      "coordinates": "33.301671, 35.565352"
+      "coordinates": "33.301671, 35.565352",
+      "metar_available": false
     },
     {
       "ident": "LB-0011",
@@ -119,7 +129,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Kafr Kila",
-      "coordinates": "33.278784, 35.548145"
+      "coordinates": "33.278784, 35.548145",
+      "metar_available": false
     },
     {
       "ident": "LB-0012",
@@ -129,7 +140,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Meiss el Jabal",
-      "coordinates": "33.18651, 35.507252"
+      "coordinates": "33.18651, 35.507252",
+      "metar_available": false
     },
     {
       "ident": "LB-0013",
@@ -139,7 +151,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Wazzani",
-      "coordinates": "33.279925, 35.635942"
+      "coordinates": "33.279925, 35.635942",
+      "metar_available": false
     },
     {
       "ident": "LB-0014",
@@ -149,7 +162,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Majidieh-Mari",
-      "coordinates": "33.297091, 35.692382"
+      "coordinates": "33.297091, 35.692382",
+      "metar_available": false
     },
     {
       "ident": "LB-0015",
@@ -159,7 +173,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Nkhayleh",
-      "coordinates": "33.31187, 35.705374"
+      "coordinates": "33.31187, 35.705374",
+      "metar_available": false
     },
     {
       "ident": "LB-0016",
@@ -169,7 +184,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Blat",
-      "coordinates": "33.377444, 35.615993"
+      "coordinates": "33.377444, 35.615993",
+      "metar_available": false
     },
     {
       "ident": "LB-0017",
@@ -179,7 +195,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Aadchit el Qsair",
-      "coordinates": "33.272853, 35.492857"
+      "coordinates": "33.272853, 35.492857",
+      "metar_available": false
     },
     {
       "ident": "LB-0018",
@@ -189,7 +206,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Debel",
-      "coordinates": "33.126977, 35.388557"
+      "coordinates": "33.126977, 35.388557",
+      "metar_available": false
     },
     {
       "ident": "LB-0019",
@@ -199,7 +217,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Debel",
-      "coordinates": "33.131011, 35.398614"
+      "coordinates": "33.131011, 35.398614",
+      "metar_available": false
     },
     {
       "ident": "LB-0020",
@@ -209,7 +228,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Naqoura",
-      "coordinates": "33.107964, 35.127812"
+      "coordinates": "33.107964, 35.127812",
+      "metar_available": false
     },
     {
       "ident": "LB-0021",
@@ -219,7 +239,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Naqoura",
-      "coordinates": "33.122924, 35.135338"
+      "coordinates": "33.122924, 35.135338",
+      "metar_available": false
     },
     {
       "ident": "LB-0022",
@@ -229,7 +250,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Naqoura",
-      "coordinates": "33.125588, 35.140346"
+      "coordinates": "33.125588, 35.140346",
+      "metar_available": false
     },
     {
       "ident": "LB-0023",
@@ -239,7 +261,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Jejim",
-      "coordinates": "33.106409, 35.209009"
+      "coordinates": "33.106409, 35.209009",
+      "metar_available": false
     },
     {
       "ident": "LB-0024",
@@ -249,7 +272,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Salhaneh",
-      "coordinates": "33.104224, 35.279975"
+      "coordinates": "33.104224, 35.279975",
+      "metar_available": false
     },
     {
       "ident": "LB-0025",
@@ -259,7 +283,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Yaroun",
-      "coordinates": "33.062557, 35.402343"
+      "coordinates": "33.062557, 35.402343",
+      "metar_available": false
     },
     {
       "ident": "LB-0026",
@@ -269,7 +294,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Meiss el Jabal",
-      "coordinates": "33.161725, 35.527208"
+      "coordinates": "33.161725, 35.527208",
+      "metar_available": false
     },
     {
       "ident": "LB-0027",
@@ -279,7 +305,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Deir Kifa",
-      "coordinates": "33.263088, 35.412106"
+      "coordinates": "33.263088, 35.412106",
+      "metar_available": false
     },
     {
       "ident": "LB-0028",
@@ -289,7 +316,8 @@
       "iso_country": "LB",
       "iso_region": "LB-NA",
       "municipality": "Qouzah",
-      "coordinates": "33.129735, 35.350285"
+      "coordinates": "33.129735, 35.350285",
+      "metar_available": false
     },
     {
       "ident": "LB-0029",
@@ -299,7 +327,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Yanouh",
-      "coordinates": "33.257651, 35.312778"
+      "coordinates": "33.257651, 35.312778",
+      "metar_available": false
     },
     {
       "ident": "LB-0030",
@@ -309,7 +338,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Borj el Chmali",
-      "coordinates": "33.277016, 35.249712"
+      "coordinates": "33.277016, 35.249712",
+      "metar_available": false
     },
     {
       "ident": "LB-0031",
@@ -319,7 +349,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Aaziyyeh",
-      "coordinates": "33.18347, 35.235093"
+      "coordinates": "33.18347, 35.235093",
+      "metar_available": false
     },
     {
       "ident": "LB-0032",
@@ -329,7 +360,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Iskandarounah",
-      "coordinates": "33.154278, 35.196472"
+      "coordinates": "33.154278, 35.196472",
+      "metar_available": false
     },
     {
       "ident": "LB-0033",
@@ -339,7 +371,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Al Bayyadah",
-      "coordinates": "33.1618, 35.176616"
+      "coordinates": "33.1618, 35.176616",
+      "metar_available": false
     },
     {
       "ident": "OLBA",
@@ -352,7 +385,8 @@
       "municipality": "Beirut",
       "gps_code": "OLBA",
       "iata_code": "BEY",
-      "coordinates": "33.820899963378906, 35.488399505615234"
+      "coordinates": "33.820899963378906, 35.488399505615234",
+      "metar_available": false
     },
     {
       "ident": "OLKA",
@@ -365,7 +399,8 @@
       "municipality": "Tripoli",
       "gps_code": "OLKA",
       "iata_code": "KYE",
-      "coordinates": "34.589298, 36.011299"
+      "coordinates": "34.589298, 36.011299",
+      "metar_available": false
     },
     {
       "ident": "OLRA",
@@ -377,7 +412,8 @@
       "iso_region": "LB-BI",
       "municipality": "Rayak",
       "gps_code": "OLRA",
-      "coordinates": "33.850799560546875, 35.987701416015625"
+      "coordinates": "33.850799560546875, 35.987701416015625",
+      "metar_available": false
     },
     {
       "ident": "SY-0028",
@@ -387,7 +423,8 @@
       "iso_country": "LB",
       "iso_region": "LB-JA",
       "municipality": "Dahr El-Darjeh",
-      "coordinates": "33.473974, 35.608798"
+      "coordinates": "33.473974, 35.608798",
+      "metar_available": false
     },
     {
       "ident": "Z19O",
@@ -399,7 +436,8 @@
       "iso_region": "LB-AS",
       "municipality": "Hamat",
       "local_code": "Z19O",
-      "coordinates": "34.281226, 35.680096"
+      "coordinates": "34.281226, 35.680096",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "MU",
   "country_name": "Mauritius",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.710669",
+  "last_updated": "2025-08-25T10:08:40.854138",
   "types_distribution": {
     "large_airport": 1,
     "medium_airport": 2,
@@ -22,7 +22,8 @@
       "municipality": "Plaine Magnien",
       "gps_code": "FIMP",
       "iata_code": "MRU",
-      "coordinates": "-20.430201, 57.683601"
+      "coordinates": "-20.430201, 57.683601",
+      "metar_available": false
     },
     {
       "ident": "FIMR",
@@ -35,7 +36,8 @@
       "municipality": "Port Mathurin",
       "gps_code": "FIMR",
       "iata_code": "RRG",
-      "coordinates": "-19.7577, 63.361"
+      "coordinates": "-19.7577, 63.361",
+      "metar_available": false
     },
     {
       "ident": "MU-0001",
@@ -48,7 +50,8 @@
       "municipality": "Vingt Cinq",
       "gps_code": "FIMA",
       "iata_code": "AHG",
-      "coordinates": "-10.3731, 56.609798"
+      "coordinates": "-10.3731, 56.609798",
+      "metar_available": false
     },
     {
       "ident": "MU-0002",
@@ -58,7 +61,8 @@
       "iso_country": "MU",
       "iso_region": "MU-RP",
       "municipality": "Belle Vue Maurel",
-      "coordinates": "-20.123793, 57.681656"
+      "coordinates": "-20.123793, 57.681656",
+      "metar_available": false
     },
     {
       "ident": "MU-0003",
@@ -69,7 +73,8 @@
       "iso_country": "MU",
       "iso_region": "MU-PA",
       "municipality": "Port Louis",
-      "coordinates": "-20.097715, 57.558786"
+      "coordinates": "-20.097715, 57.558786",
+      "metar_available": false
     },
     {
       "ident": "MU-0004",
@@ -79,7 +84,8 @@
       "iso_country": "MU",
       "iso_region": "MU-AG",
       "municipality": "Vingt Cinq",
-      "coordinates": "-10.372483, 56.603537"
+      "coordinates": "-10.372483, 56.603537",
+      "metar_available": false
     },
     {
       "ident": "MU-0005",
@@ -89,7 +95,8 @@
       "iso_country": "MU",
       "iso_region": "MU-RP",
       "municipality": "Grand Gaube",
-      "coordinates": "-20.003047, 57.661781"
+      "coordinates": "-20.003047, 57.661781",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "LC",
   "country_name": "Saint Lucia",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.853104",
+  "last_updated": "2025-08-25T10:08:41.009489",
   "types_distribution": {
     "medium_airport": 1,
     "large_airport": 1
@@ -18,7 +18,8 @@
       "municipality": "Castries",
       "gps_code": "TLPC",
       "iata_code": "SLU",
-      "coordinates": "14.0202, -60.992901"
+      "coordinates": "14.0202, -60.992901",
+      "metar_available": false
     },
     {
       "ident": "TLPL",
@@ -30,7 +31,8 @@
       "municipality": "Vieux Fort",
       "gps_code": "TLPL",
       "iata_code": "UVF",
-      "coordinates": "13.7332, -60.952599"
+      "coordinates": "13.7332, -60.952599",
+      "metar_available": false
     }
   ]
 }

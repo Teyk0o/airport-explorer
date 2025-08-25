@@ -2,7 +2,7 @@
   "country_code": "AD",
   "country_name": "Andorra",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.383408",
+  "last_updated": "2025-08-25T10:08:40.504481",
   "types_distribution": {
     "heliport": 2,
     "closed": 1
@@ -16,7 +16,8 @@
       "iso_country": "AD",
       "iso_region": "AD-04",
       "municipality": "La Massana",
-      "coordinates": "42.546257, 1.51916"
+      "coordinates": "42.546257, 1.51916",
+      "metar_available": false
     },
     {
       "ident": "AD-0002",
@@ -26,7 +27,8 @@
       "iso_country": "AD",
       "iso_region": "AD-04",
       "municipality": "La Massana",
-      "coordinates": "42.544983, 1.452258"
+      "coordinates": "42.544983, 1.452258",
+      "metar_available": false
     },
     {
       "ident": "AD-ALV",
@@ -37,7 +39,8 @@
       "iso_country": "AD",
       "iso_region": "AD-08",
       "municipality": "Escaldes-Engordany",
-      "coordinates": "42.511228, 1.533651"
+      "coordinates": "42.511228, 1.533651",
+      "metar_available": false
     }
   ]
 }

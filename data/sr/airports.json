@@ -2,7 +2,7 @@
   "country_code": "SR",
   "country_name": "Suriname",
   "total_airports": 56,
-  "last_updated": "2025-08-01T00:18:22.740959",
+  "last_updated": "2025-08-25T10:08:40.886670",
   "types_distribution": {
     "small_airport": 54,
     "heliport": 1,
@@ -20,7 +20,8 @@
       "municipality": "Botopasi",
       "gps_code": "SMBO",
       "iata_code": "BTO",
-      "coordinates": "4.217511, -55.447054"
+      "coordinates": "4.217511, -55.447054",
+      "metar_available": false
     },
     {
       "ident": "GY-DOE",
@@ -33,7 +34,8 @@
       "municipality": "Djumu-Djomoe",
       "gps_code": "SMDJ",
       "iata_code": "DOE",
-      "coordinates": "4.005713, -55.481644"
+      "coordinates": "4.005713, -55.481644",
+      "metar_available": false
     },
     {
       "ident": "SMAF",
@@ -45,7 +47,8 @@
       "iso_region": "SR-BR",
       "municipality": "Afobakka",
       "gps_code": "SMAF",
-      "coordinates": "4.998505, -54.992033"
+      "coordinates": "4.998505, -54.992033",
+      "metar_available": false
     },
     {
       "ident": "SMAN",
@@ -57,7 +60,8 @@
       "iso_region": "SR-SI",
       "municipality": "Benzdorp",
       "gps_code": "SMAN",
-      "coordinates": "3.619932, -54.142714"
+      "coordinates": "3.619932, -54.142714",
+      "metar_available": false
     },
     {
       "ident": "SMBG",
@@ -69,7 +73,8 @@
       "iso_region": "SR-SI",
       "municipality": "Bakhuys",
       "gps_code": "SMBG",
-      "coordinates": "4.778882, -56.768699"
+      "coordinates": "4.778882, -56.768699",
+      "metar_available": false
     },
     {
       "ident": "SMBN",
@@ -82,7 +87,8 @@
       "municipality": "Albina",
       "gps_code": "SMBN",
       "iata_code": "ABN",
-      "coordinates": "5.51272, -54.050098"
+      "coordinates": "5.51272, -54.050098",
+      "metar_available": false
     },
     {
       "ident": "SMCA",
@@ -95,7 +101,8 @@
       "municipality": "Awaradam",
       "gps_code": "SMCA",
       "iata_code": "AAJ",
-      "coordinates": "3.898681, -55.577907"
+      "coordinates": "3.898681, -55.577907",
+      "metar_available": false
     },
     {
       "ident": "SMCB",
@@ -106,7 +113,8 @@
       "iso_region": "SR-SI",
       "municipality": "Cabana",
       "gps_code": "SMCB",
-      "coordinates": "4.852778, -55.593056"
+      "coordinates": "4.852778, -55.593056",
+      "metar_available": false
     },
     {
       "ident": "SMCI",
@@ -118,7 +126,8 @@
       "iso_region": "SR-SI",
       "municipality": "Coeroeni",
       "gps_code": "SMCI",
-      "coordinates": "3.370684, -57.346046"
+      "coordinates": "3.370684, -57.346046",
+      "metar_available": false
     },
     {
       "ident": "SMCO",
@@ -131,7 +140,8 @@
       "municipality": "Totness",
       "gps_code": "SMCO",
       "iata_code": "TOT",
-      "coordinates": "5.86583, -56.327499"
+      "coordinates": "5.86583, -56.327499",
+      "metar_available": false
     },
     {
       "ident": "SMCT",
@@ -143,7 +153,8 @@
       "iso_region": "SR-SI",
       "municipality": "Lawa Cottica",
       "gps_code": "SMCT",
-      "coordinates": "3.85216, -54.228201"
+      "coordinates": "3.85216, -54.228201",
+      "metar_available": false
     },
     {
       "ident": "SMDA",
@@ -156,7 +167,8 @@
       "municipality": "Drietabbetje",
       "gps_code": "SMDA",
       "iata_code": "DRJ",
-      "coordinates": "4.111359, -54.672766"
+      "coordinates": "4.111359, -54.672766",
+      "metar_available": false
     },
     {
       "ident": "SMDK",
@@ -167,7 +179,8 @@
       "iso_region": "SR-SI",
       "municipality": "Donderskamp",
       "gps_code": "SMDK",
-      "coordinates": "5.350385, -56.363047"
+      "coordinates": "5.350385, -56.363047",
+      "metar_available": false
     },
     {
       "ident": "SMDO",
@@ -180,7 +193,8 @@
       "municipality": "Aurora",
       "gps_code": "SMDO",
       "iata_code": "LDO",
-      "coordinates": "4.376108, -55.407057"
+      "coordinates": "4.376108, -55.407057",
+      "metar_available": false
     },
     {
       "ident": "SMDU",
@@ -192,7 +206,8 @@
       "iso_region": "SR-SI",
       "municipality": "Alalapadi",
       "gps_code": "SMDU",
-      "coordinates": "2.5235, -56.3247"
+      "coordinates": "2.5235, -56.3247",
+      "metar_available": false
     },
     {
       "ident": "SMGA",
@@ -204,7 +219,8 @@
       "iso_region": "SR-SI",
       "municipality": "Gakaba",
       "gps_code": "SMGA",
-      "coordinates": "4.454167, -54.445833"
+      "coordinates": "4.454167, -54.445833",
+      "metar_available": false
     },
     {
       "ident": "SMGH",
@@ -216,7 +232,8 @@
       "iso_region": "SR-SI",
       "municipality": "Pikienkondre of Miranda",
       "gps_code": "SMGH",
-      "coordinates": "4.0583, -54.7861"
+      "coordinates": "4.0583, -54.7861",
+      "metar_available": false
     },
     {
       "ident": "SMGR",
@@ -226,7 +243,8 @@
       "iso_country": "SR",
       "iso_region": "SR-BR",
       "gps_code": "SMGR",
-      "coordinates": "5.091667, -55.249167"
+      "coordinates": "5.091667, -55.249167",
+      "metar_available": false
     },
     {
       "ident": "SMHA",
@@ -238,7 +256,8 @@
       "iso_region": "SR-SA",
       "municipality": "Antongron",
       "gps_code": "SMHA",
-      "coordinates": "5.831891, -55.636875"
+      "coordinates": "5.831891, -55.636875",
+      "metar_available": false
     },
     {
       "ident": "SMHP",
@@ -250,7 +269,8 @@
       "iso_region": "SR-PM",
       "municipality": "Paramaribo",
       "gps_code": "SMHP",
-      "coordinates": "5.858887, -55.193117"
+      "coordinates": "5.858887, -55.193117",
+      "metar_available": false
     },
     {
       "ident": "SMJA",
@@ -262,7 +282,8 @@
       "iso_region": "SR-SA",
       "municipality": "Jarikaba",
       "gps_code": "SMJA",
-      "coordinates": "5.826389, -55.3375"
+      "coordinates": "5.826389, -55.3375",
+      "metar_available": false
     },
     {
       "ident": "SMJP",
@@ -275,7 +296,8 @@
       "municipality": "Zandery",
       "gps_code": "SMJP",
       "iata_code": "PBM",
-      "coordinates": "5.45283, -55.187801"
+      "coordinates": "5.45283, -55.187801",
+      "metar_available": false
     },
     {
       "ident": "SMKA",
@@ -287,7 +309,8 @@
       "iso_region": "SR-SI",
       "municipality": "Kabalebo",
       "gps_code": "SMKA",
-      "coordinates": "4.406617, -57.223678"
+      "coordinates": "4.406617, -57.223678",
+      "metar_available": false
     },
     {
       "ident": "SMKE",
@@ -299,7 +322,8 @@
       "iso_region": "SR-SI",
       "municipality": "Kayserberg",
       "gps_code": "SMKE",
-      "coordinates": "3.094343, -56.472702"
+      "coordinates": "3.094343, -56.472702",
+      "metar_available": false
     },
     {
       "ident": "SMLA",
@@ -311,7 +335,8 @@
       "iso_region": "SR-SI",
       "municipality": "Anapaike",
       "gps_code": "SMLA",
-      "coordinates": "3.410484, -54.028294"
+      "coordinates": "3.410484, -54.028294",
+      "metar_available": false
     },
     {
       "ident": "SMLI",
@@ -323,7 +348,8 @@
       "iso_region": "SR-SI",
       "municipality": "Lelygebergte",
       "gps_code": "SMLI",
-      "coordinates": "4.268056, -54.743056"
+      "coordinates": "4.268056, -54.743056",
+      "metar_available": false
     },
     {
       "ident": "SMLT",
@@ -335,7 +361,8 @@
       "iso_region": "SR-SI",
       "municipality": "Langatabbetje",
       "gps_code": "SMLT",
-      "coordinates": "4.996111, -54.441667"
+      "coordinates": "4.996111, -54.441667",
+      "metar_available": false
     },
     {
       "ident": "SMMO",
@@ -348,7 +375,8 @@
       "municipality": "Moengo",
       "gps_code": "SMMO",
       "iata_code": "MOJ",
-      "coordinates": "5.6076, -54.4003"
+      "coordinates": "5.6076, -54.4003",
+      "metar_available": false
     },
     {
       "ident": "SMNI",
@@ -361,7 +389,8 @@
       "municipality": "Nieuw Nickerie",
       "gps_code": "SMNI",
       "iata_code": "ICK",
-      "coordinates": "5.955435, -57.040617"
+      "coordinates": "5.955435, -57.040617",
+      "metar_available": false
     },
     {
       "ident": "SMOL",
@@ -372,7 +401,8 @@
       "iso_country": "SR",
       "iso_region": "SR-SI",
       "gps_code": "SMOL",
-      "coordinates": "3.104167, -54.543056"
+      "coordinates": "3.104167, -54.543056",
+      "metar_available": false
     },
     {
       "ident": "SMPA",
@@ -385,7 +415,8 @@
       "municipality": "Paloemeu",
       "gps_code": "SMPA",
       "iata_code": "OEM",
-      "coordinates": "3.346051, -55.443707"
+      "coordinates": "3.346051, -55.443707",
+      "metar_available": false
     },
     {
       "ident": "SMPE",
@@ -396,7 +427,8 @@
       "iso_region": "SR-SI",
       "municipality": "Poeketi",
       "gps_code": "SMPE",
-      "coordinates": "4.126389, -54.623611"
+      "coordinates": "4.126389, -54.623611",
+      "metar_available": false
     },
     {
       "ident": "SMPG",
@@ -408,7 +440,8 @@
       "iso_region": "SR-SI",
       "municipality": "Poesoegroenoe",
       "gps_code": "SMPG",
-      "coordinates": "4.397914, -55.793374"
+      "coordinates": "4.397914, -55.793374",
+      "metar_available": false
     },
     {
       "ident": "SMPT",
@@ -419,7 +452,8 @@
       "iso_region": "SR-SI",
       "municipality": "Apetina",
       "gps_code": "SMPT",
-      "coordinates": "3.502836, -55.057989"
+      "coordinates": "3.502836, -55.057989",
+      "metar_available": false
     },
     {
       "ident": "SMRA",
@@ -431,7 +465,8 @@
       "iso_region": "SR-SI",
       "municipality": "Ralleigh",
       "gps_code": "SMRA",
-      "coordinates": "4.722778, -56.208333"
+      "coordinates": "4.722778, -56.208333",
+      "metar_available": false
     },
     {
       "ident": "SMRN",
@@ -443,7 +478,8 @@
       "iso_region": "SR-SI",
       "municipality": "Ragoebarsing",
       "gps_code": "SMRN",
-      "coordinates": "4.884722, -56.940278"
+      "coordinates": "4.884722, -56.940278",
+      "metar_available": false
     },
     {
       "ident": "SMSI",
@@ -455,7 +491,8 @@
       "iso_region": "SR-SI",
       "municipality": "Sipaliwini",
       "gps_code": "SMSI",
-      "coordinates": "2.026438, -56.126412"
+      "coordinates": "2.026438, -56.126412",
+      "metar_available": false
     },
     {
       "ident": "SMSK",
@@ -467,7 +504,8 @@
       "iso_region": "SR-BR",
       "municipality": "Sarakreek",
       "gps_code": "SMSK",
-      "coordinates": "4.318516, -54.967227"
+      "coordinates": "4.318516, -54.967227",
+      "metar_available": false
     },
     {
       "ident": "SMSM",
@@ -479,7 +517,8 @@
       "iso_region": "SR-SI",
       "municipality": "Kwamalasoemoetoe Airport",
       "gps_code": "SMSM",
-      "coordinates": "2.354427, -56.792431"
+      "coordinates": "2.354427, -56.792431",
+      "metar_available": false
     },
     {
       "ident": "SMST",
@@ -492,7 +531,8 @@
       "municipality": "Stoelmanseiland",
       "gps_code": "SMST",
       "iata_code": "SMZ",
-      "coordinates": "4.351389, -54.418056"
+      "coordinates": "4.351389, -54.418056",
+      "metar_available": false
     },
     {
       "ident": "SMTA",
@@ -504,7 +544,8 @@
       "iso_region": "SR-SI",
       "municipality": "Benzdorp",
       "gps_code": "SMTA",
-      "coordinates": "3.679806, -54.085207"
+      "coordinates": "3.679806, -54.085207",
+      "metar_available": false
     },
     {
       "ident": "SMTB",
@@ -516,7 +557,8 @@
       "iso_region": "SR-SI",
       "municipality": "Tafelberg",
       "gps_code": "SMTB",
-      "coordinates": "3.787625, -56.149487"
+      "coordinates": "3.787625, -56.149487",
+      "metar_available": false
     },
     {
       "ident": "SMTP",
@@ -529,7 +571,8 @@
       "municipality": "Kasikasima",
       "gps_code": "SMTP",
       "iata_code": "KCB",
-      "coordinates": "3.15000009537, -55.716999054"
+      "coordinates": "3.15000009537, -55.716999054",
+      "metar_available": false
     },
     {
       "ident": "SMVG",
@@ -541,7 +584,8 @@
       "iso_region": "SR-SI",
       "municipality": "Vier Gebroeders",
       "gps_code": "SMVG",
-      "coordinates": "1.9625, -55.929167"
+      "coordinates": "1.9625, -55.929167",
+      "metar_available": false
     },
     {
       "ident": "SMVO",
@@ -552,7 +596,8 @@
       "iso_region": "SR-SI",
       "municipality": "Avanavero",
       "gps_code": "SMVO",
-      "coordinates": "4.825685, -57.282415"
+      "coordinates": "4.825685, -57.282415",
+      "metar_available": false
     },
     {
       "ident": "SMWA",
@@ -565,7 +610,8 @@
       "municipality": "Wageningen",
       "gps_code": "SMWA",
       "iata_code": "AGI",
-      "coordinates": "5.841252, -56.673247"
+      "coordinates": "5.841252, -56.673247",
+      "metar_available": false
     },
     {
       "ident": "SMWS",
@@ -578,7 +624,8 @@
       "municipality": "Washabo",
       "gps_code": "SMWS",
       "iata_code": "WSO",
-      "coordinates": "5.215277, -57.185302"
+      "coordinates": "5.215277, -57.185302",
+      "metar_available": false
     },
     {
       "ident": "SMZO",
@@ -591,7 +638,8 @@
       "municipality": "Paramaribo",
       "gps_code": "SMZO",
       "iata_code": "ORG",
-      "coordinates": "5.811131, -55.1913"
+      "coordinates": "5.811131, -55.1913",
+      "metar_available": false
     },
     {
       "ident": "SR-0001",
@@ -602,7 +650,8 @@
       "iso_region": "SR-SI",
       "municipality": "Amatopo",
       "gps_code": "SMAM",
-      "coordinates": "3.547885, -57.633958"
+      "coordinates": "3.547885, -57.633958",
+      "metar_available": false
     },
     {
       "ident": "SR-0002",
@@ -614,7 +663,8 @@
       "iso_region": "SR-SI",
       "municipality": "Nieuw Jacobkondre",
       "gps_code": "SMJK",
-      "coordinates": "4.935714, -55.534735"
+      "coordinates": "4.935714, -55.534735",
+      "metar_available": false
     },
     {
       "ident": "SR-0003",
@@ -624,7 +674,8 @@
       "iso_country": "SR",
       "iso_region": "SR-BR",
       "municipality": "Brownsweg",
-      "coordinates": "5.022859, -55.165171"
+      "coordinates": "5.022859, -55.165171",
+      "metar_available": false
     },
     {
       "ident": "SR-0004",
@@ -635,7 +686,8 @@
       "iso_country": "SR",
       "iso_region": "SR-NI",
       "municipality": "Alupi",
-      "coordinates": "5.821147, -56.81464"
+      "coordinates": "5.821147, -56.81464",
+      "metar_available": false
     },
     {
       "ident": "SR-0005",
@@ -646,7 +698,8 @@
       "iso_country": "SR",
       "iso_region": "SR-SA",
       "municipality": "Calcutta",
-      "coordinates": "5.83756, -55.77047"
+      "coordinates": "5.83756, -55.77047",
+      "metar_available": false
     },
     {
       "ident": "SR-0006",
@@ -657,7 +710,8 @@
       "iso_country": "SR",
       "iso_region": "SR-NI",
       "municipality": "Middenstandspolder",
-      "coordinates": "5.88091, -56.81213"
+      "coordinates": "5.88091, -56.81213",
+      "metar_available": false
     },
     {
       "ident": "SR-0007",
@@ -668,7 +722,8 @@
       "iso_country": "SR",
       "iso_region": "SR-NI",
       "municipality": "Oostelijke Polders",
-      "coordinates": "5.881552, -56.956718"
+      "coordinates": "5.881552, -56.956718",
+      "metar_available": false
     },
     {
       "ident": "SR-0008",
@@ -679,7 +734,8 @@
       "iso_country": "SR",
       "iso_region": "SR-NI",
       "municipality": "Nieuw-Nickerie",
-      "coordinates": "5.88444, -56.97911"
+      "coordinates": "5.88444, -56.97911",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "ER",
   "country_name": "Eritrea",
   "total_airports": 12,
-  "last_updated": "2025-08-01T00:18:22.695749",
+  "last_updated": "2025-08-25T10:08:40.838257",
   "types_distribution": {
     "small_airport": 8,
     "closed": 1,
@@ -17,7 +17,8 @@
       "iso_country": "ER",
       "iso_region": "ER-SK",
       "municipality": "Dahlak Kebir",
-      "coordinates": "15.68151, 40.104431"
+      "coordinates": "15.68151, 40.104431",
+      "metar_available": false
     },
     {
       "ident": "ER-0002",
@@ -27,7 +28,8 @@
       "iso_country": "ER",
       "iso_region": "ER-SK",
       "municipality": "Dhu Bellu",
-      "coordinates": "15.72753, 40.07532"
+      "coordinates": "15.72753, 40.07532",
+      "metar_available": false
     },
     {
       "ident": "ER-0003",
@@ -37,7 +39,8 @@
       "iso_country": "ER",
       "iso_region": "ER-SK",
       "municipality": "Melill",
-      "coordinates": "15.75794, 39.97046"
+      "coordinates": "15.75794, 39.97046",
+      "metar_available": false
     },
     {
       "ident": "ER-0004",
@@ -48,7 +51,8 @@
       "iso_country": "ER",
       "iso_region": "ER-GB",
       "municipality": "Omhajer",
-      "coordinates": "14.32168, 36.63028"
+      "coordinates": "14.32168, 36.63028",
+      "metar_available": false
     },
     {
       "ident": "ER-0005",
@@ -58,7 +62,8 @@
       "iso_country": "ER",
       "iso_region": "ER-SK",
       "municipality": "Massawa",
-      "coordinates": "15.61353, 39.44008"
+      "coordinates": "15.61353, 39.44008",
+      "metar_available": false
     },
     {
       "ident": "ER-0006",
@@ -69,7 +74,8 @@
       "iso_country": "ER",
       "iso_region": "ER-AN",
       "municipality": "Keren",
-      "coordinates": "15.78437, 38.42529"
+      "coordinates": "15.78437, 38.42529",
+      "metar_available": false
     },
     {
       "ident": "HHAG",
@@ -80,7 +86,8 @@
       "iso_region": "ER-GB",
       "municipality": "Agordat",
       "gps_code": "HHAG",
-      "coordinates": "15.536313, 37.865546"
+      "coordinates": "15.536313, 37.865546",
+      "metar_available": false
     },
     {
       "ident": "HHAS",
@@ -93,7 +100,8 @@
       "municipality": "Asmara",
       "gps_code": "HHAS",
       "iata_code": "ASM",
-      "coordinates": "15.291899681091309, 38.910701751708984"
+      "coordinates": "15.291899681091309, 38.910701751708984",
+      "metar_available": false
     },
     {
       "ident": "HHBA",
@@ -104,7 +112,8 @@
       "iso_region": "ER-GB",
       "municipality": "Barentu",
       "gps_code": "HHBA",
-      "coordinates": "15.122394, 37.614335"
+      "coordinates": "15.122394, 37.614335",
+      "metar_available": false
     },
     {
       "ident": "HHMS",
@@ -117,7 +126,8 @@
       "municipality": "Massawa",
       "gps_code": "HHMS",
       "iata_code": "MSW",
-      "coordinates": "15.67, 39.370098"
+      "coordinates": "15.67, 39.370098",
+      "metar_available": false
     },
     {
       "ident": "HHSB",
@@ -130,7 +140,8 @@
       "municipality": "Assab",
       "gps_code": "HHSB",
       "iata_code": "ASA",
-      "coordinates": "13.0718, 42.645"
+      "coordinates": "13.0718, 42.645",
+      "metar_available": false
     },
     {
       "ident": "HHTS",
@@ -143,7 +154,8 @@
       "municipality": "Tessenei",
       "gps_code": "HHTS",
       "iata_code": "TES",
-      "coordinates": "15.104322, 36.681711"
+      "coordinates": "15.104322, 36.681711",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "VN",
   "country_name": "Vietnam",
   "total_airports": 90,
-  "last_updated": "2025-08-01T00:18:22.745666",
+  "last_updated": "2025-08-25T10:08:40.891762",
   "types_distribution": {
     "small_airport": 15,
     "closed": 27,
@@ -22,7 +22,8 @@
       "iso_region": "VN-CH",
       "municipality": "Đăk R'Lấp",
       "iata_code": "HOO",
-      "coordinates": "11.9787, 107.5638"
+      "coordinates": "11.9787, 107.5638",
+      "metar_available": false
     },
     {
       "ident": "SOA",
@@ -34,7 +35,8 @@
       "iso_region": "VN-SW",
       "municipality": "Sóc Trăng",
       "iata_code": "SOA",
-      "coordinates": "9.5814, 105.9602"
+      "coordinates": "9.5814, 105.9602",
+      "metar_available": false
     },
     {
       "ident": "VN-0002",
@@ -44,7 +46,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Duc My",
-      "coordinates": "12.5384566216, 109.007956982"
+      "coordinates": "12.5384566216, 109.007956982",
+      "metar_available": false
     },
     {
       "ident": "VN-0003",
@@ -54,7 +57,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Thanh Xuan)",
-      "coordinates": "20.996632, 105.832232"
+      "coordinates": "20.996632, 105.832232",
+      "metar_available": false
     },
     {
       "ident": "VN-0004",
@@ -66,7 +70,8 @@
       "iso_region": "VN-NW",
       "municipality": "Yen Bai",
       "gps_code": "VVYB",
-      "coordinates": "21.732873, 104.853601"
+      "coordinates": "21.732873, 104.853601",
+      "metar_available": false
     },
     {
       "ident": "VN-0005",
@@ -76,7 +81,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "8.644541, 111.920347"
+      "coordinates": "8.644541, 111.920347",
+      "metar_available": false
     },
     {
       "ident": "VN-0006",
@@ -86,7 +92,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Đảo Nam Yết / Namyit island)",
-      "coordinates": "10.178882, 114.368989"
+      "coordinates": "10.178882, 114.368989",
+      "metar_available": false
     },
     {
       "ident": "VN-0007",
@@ -96,7 +103,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "8.845476, 112.195874"
+      "coordinates": "8.845476, 112.195874",
+      "metar_available": false
     },
     {
       "ident": "VN-0008",
@@ -106,7 +114,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Đá Lớn / Discovery Great Reef)",
-      "coordinates": "10.022871, 113.854429"
+      "coordinates": "10.022871, 113.854429",
+      "metar_available": false
     },
     {
       "ident": "VN-0009",
@@ -116,7 +125,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Đảo Phan Vinh / Pearson Reef B)",
-      "coordinates": "8.959083, 113.653409"
+      "coordinates": "8.959083, 113.653409",
+      "metar_available": false
     },
     {
       "ident": "VN-0010",
@@ -127,7 +137,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Duong Dong",
-      "coordinates": "10.2270002365, 103.967002869"
+      "coordinates": "10.2270002365, 103.967002869",
+      "metar_available": false
     },
     {
       "ident": "VN-0011",
@@ -138,7 +149,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Năm Căn",
-      "coordinates": "8.754521, 104.983229"
+      "coordinates": "8.754521, 104.983229",
+      "metar_available": false
     },
     {
       "ident": "VN-0012",
@@ -150,7 +162,8 @@
       "iso_region": "VN-SCC",
       "municipality": "Da Nang",
       "gps_code": "VVNM",
-      "coordinates": "16.028581, 108.252851"
+      "coordinates": "16.028581, 108.252851",
+      "metar_available": false
     },
     {
       "ident": "VN-0013",
@@ -161,7 +174,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Da Nang",
-      "coordinates": "16.096, 108.143"
+      "coordinates": "16.096, 108.143",
+      "metar_available": false
     },
     {
       "ident": "VN-0014",
@@ -171,7 +185,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Dong Da)",
-      "coordinates": "21.02465, 105.80721"
+      "coordinates": "21.02465, 105.80721",
+      "metar_available": false
     },
     {
       "ident": "VN-0015",
@@ -181,7 +196,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Nam Tu Liem)",
-      "coordinates": "21.018246, 105.784203"
+      "coordinates": "21.018246, 105.784203",
+      "metar_available": false
     },
     {
       "ident": "VN-0016",
@@ -191,7 +207,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Nam Tu Liem)",
-      "coordinates": "21.017639, 105.783358"
+      "coordinates": "21.017639, 105.783358",
+      "metar_available": false
     },
     {
       "ident": "VN-0017",
@@ -201,7 +218,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Nam Tu Liem)",
-      "coordinates": "21.016751, 105.784181"
+      "coordinates": "21.016751, 105.784181",
+      "metar_available": false
     },
     {
       "ident": "VN-0018",
@@ -212,7 +230,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Ho Chi Minh City (Long Thanh)",
-      "coordinates": "10.7725, 107.045278"
+      "coordinates": "10.7725, 107.045278",
+      "metar_available": false
     },
     {
       "ident": "VN-0019",
@@ -223,7 +242,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Phu Quy",
-      "coordinates": "10.53367, 108.92867"
+      "coordinates": "10.53367, 108.92867",
+      "metar_available": false
     },
     {
       "ident": "VN-0021",
@@ -233,7 +253,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "7.891412, 112.921032"
+      "coordinates": "7.891412, 112.921032",
+      "metar_available": false
     },
     {
       "ident": "VN-0022",
@@ -243,7 +264,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "8.930851, 112.352639"
+      "coordinates": "8.930851, 112.352639",
+      "metar_available": false
     },
     {
       "ident": "VN-0023",
@@ -253,7 +275,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "8.644365, 111.918647"
+      "coordinates": "8.644365, 111.918647",
+      "metar_available": false
     },
     {
       "ident": "VN-0024",
@@ -263,7 +286,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Đảo Phan Vinh / Pearson Reef A)",
-      "coordinates": "8.975395, 113.707745"
+      "coordinates": "8.975395, 113.707745",
+      "metar_available": false
     },
     {
       "ident": "VN-0025",
@@ -273,7 +297,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Sinh Tồn)",
-      "coordinates": "10.373569, 114.481078"
+      "coordinates": "10.373569, 114.481078",
+      "metar_available": false
     },
     {
       "ident": "VN-0026",
@@ -283,7 +308,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Sinh Tồn)",
-      "coordinates": "9.884198, 114.331133"
+      "coordinates": "9.884198, 114.331133",
+      "metar_available": false
     },
     {
       "ident": "VN-0027",
@@ -293,7 +319,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Sinh Tồn)",
-      "coordinates": "9.903182, 114.563638"
+      "coordinates": "9.903182, 114.563638",
+      "metar_available": false
     },
     {
       "ident": "VN-0028",
@@ -303,7 +330,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Song Tử Tây)",
-      "coordinates": "11.429637, 114.332163"
+      "coordinates": "11.429637, 114.332163",
+      "metar_available": false
     },
     {
       "ident": "VN-0029",
@@ -314,7 +342,8 @@
       "iso_country": "VN",
       "iso_region": "VN-NW",
       "municipality": "Phu Tho",
-      "coordinates": "21.39981, 105.20861"
+      "coordinates": "21.39981, 105.20861",
+      "metar_available": false
     },
     {
       "ident": "VN-0030",
@@ -325,7 +354,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Thach That)",
-      "coordinates": "21.028531, 105.487428"
+      "coordinates": "21.028531, 105.487428",
+      "metar_available": false
     },
     {
       "ident": "VN-0031",
@@ -335,7 +365,8 @@
       "iso_country": "VN",
       "iso_region": "VN-NE",
       "municipality": "Ha Long",
-      "coordinates": "20.916443, 106.989654"
+      "coordinates": "20.916443, 106.989654",
+      "metar_available": false
     },
     {
       "ident": "VN-0032",
@@ -346,7 +377,8 @@
       "iso_country": "VN",
       "iso_region": "VN-NE",
       "municipality": "Ha Long",
-      "coordinates": "20.92382, 106.99229"
+      "coordinates": "20.92382, 106.99229",
+      "metar_available": false
     },
     {
       "ident": "VN-0033",
@@ -357,7 +389,8 @@
       "iso_country": "VN",
       "iso_region": "VN-NE",
       "municipality": "Ha Long",
-      "coordinates": "20.96198, 107.05843"
+      "coordinates": "20.96198, 107.05843",
+      "metar_available": false
     },
     {
       "ident": "VN-0034",
@@ -367,7 +400,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Hoan Kiem)",
-      "coordinates": "21.01809, 105.86157"
+      "coordinates": "21.01809, 105.86157",
+      "metar_available": false
     },
     {
       "ident": "VN-0035",
@@ -377,7 +411,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Hoan Kiem)",
-      "coordinates": "21.01721, 105.85995"
+      "coordinates": "21.01721, 105.85995",
+      "metar_available": false
     },
     {
       "ident": "VN-0036",
@@ -387,7 +422,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Hanoi (Hoan Kiem)",
-      "coordinates": "21.01647, 105.86016"
+      "coordinates": "21.01647, 105.86016",
+      "metar_available": false
     },
     {
       "ident": "VN-0037",
@@ -397,7 +433,8 @@
       "iso_country": "VN",
       "iso_region": "VN-NC",
       "municipality": "Huế",
-      "coordinates": "16.47629, 107.56879"
+      "coordinates": "16.47629, 107.56879",
+      "metar_available": false
     },
     {
       "ident": "VN-0038",
@@ -407,7 +444,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Bu Dop",
-      "coordinates": "12.02068, 106.81091"
+      "coordinates": "12.02068, 106.81091",
+      "metar_available": false
     },
     {
       "ident": "VN-0039",
@@ -417,7 +455,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Phuoc Binh",
-      "coordinates": "11.82115, 106.96111"
+      "coordinates": "11.82115, 106.96111",
+      "metar_available": false
     },
     {
       "ident": "VN-0040",
@@ -427,7 +466,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Tan Loi",
-      "coordinates": "11.67391, 106.66366"
+      "coordinates": "11.67391, 106.66366",
+      "metar_available": false
     },
     {
       "ident": "VN-0041",
@@ -437,7 +477,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Hon Quan",
-      "coordinates": "11.58743, 106.4887"
+      "coordinates": "11.58743, 106.4887",
+      "metar_available": false
     },
     {
       "ident": "VN-0042",
@@ -447,7 +488,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Dau Tieng",
-      "coordinates": "11.28692, 106.36333"
+      "coordinates": "11.28692, 106.36333",
+      "metar_available": false
     },
     {
       "ident": "VN-0043",
@@ -457,7 +499,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Chon Thanh",
-      "coordinates": "11.40283, 106.6168"
+      "coordinates": "11.40283, 106.6168",
+      "metar_available": false
     },
     {
       "ident": "VN-0044",
@@ -468,7 +511,8 @@
       "iso_region": "VN-SE",
       "municipality": "Phu Giao",
       "iata_code": "PHU",
-      "coordinates": "11.30034, 106.79325"
+      "coordinates": "11.30034, 106.79325",
+      "metar_available": false
     },
     {
       "ident": "VN-0045",
@@ -478,7 +522,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Long Khanh",
-      "coordinates": "10.91308, 107.24561"
+      "coordinates": "10.91308, 107.24561",
+      "metar_available": false
     },
     {
       "ident": "VN-0046",
@@ -488,7 +533,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Thong Binh",
-      "coordinates": "10.92421, 105.50921"
+      "coordinates": "10.92421, 105.50921",
+      "metar_available": false
     },
     {
       "ident": "VN-0047",
@@ -498,7 +544,8 @@
       "iso_country": "VN",
       "iso_region": "VN-CH",
       "municipality": "Dak Mil",
-      "coordinates": "12.43221, 107.66625"
+      "coordinates": "12.43221, 107.66625",
+      "metar_available": false
     },
     {
       "ident": "VN-0048",
@@ -509,7 +556,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Can Tho",
-      "coordinates": "10.05125, 105.76271"
+      "coordinates": "10.05125, 105.76271",
+      "metar_available": false
     },
     {
       "ident": "VN-0049",
@@ -519,7 +567,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Binh Duong",
-      "coordinates": "10.99827, 106.69953"
+      "coordinates": "10.99827, 106.69953",
+      "metar_available": false
     },
     {
       "ident": "VN-0050",
@@ -529,7 +578,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Chau Duc",
-      "coordinates": "10.56844, 107.18631"
+      "coordinates": "10.56844, 107.18631",
+      "metar_available": false
     },
     {
       "ident": "VN-0051",
@@ -539,7 +589,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "7.70309, 111.75218"
+      "coordinates": "7.70309, 111.75218",
+      "metar_available": false
     },
     {
       "ident": "VN-0052",
@@ -549,7 +600,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "7.5348, 111.54725"
+      "coordinates": "7.5348, 111.54725",
+      "metar_available": false
     },
     {
       "ident": "VN-0053",
@@ -559,7 +611,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Trường Sa (Trường Sa)",
-      "coordinates": "7.875317, 111.744572"
+      "coordinates": "7.875317, 111.744572",
+      "metar_available": false
     },
     {
       "ident": "VN-0054",
@@ -568,7 +621,8 @@
       "continent": "AS",
       "iso_country": "VN",
       "iso_region": "VN-U-A",
-      "coordinates": "10.83481, 106.959386"
+      "coordinates": "10.83481, 106.959386",
+      "metar_available": false
     },
     {
       "ident": "VN-0070",
@@ -579,7 +633,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Nha Trang",
-      "coordinates": "12.2275, 109.192001"
+      "coordinates": "12.2275, 109.192001",
+      "metar_available": false
     },
     {
       "ident": "VN-0071",
@@ -589,7 +644,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Phan Thiet",
-      "coordinates": "10.906204, 108.069008"
+      "coordinates": "10.906204, 108.069008",
+      "metar_available": false
     },
     {
       "ident": "VN-0072",
@@ -600,7 +656,8 @@
       "iso_country": "VN",
       "iso_region": "VN-CH",
       "municipality": "Kontum",
-      "coordinates": "14.356075, 108.016667"
+      "coordinates": "14.356075, 108.016667",
+      "metar_available": false
     },
     {
       "ident": "VN-0073",
@@ -610,7 +667,8 @@
       "continent": "AS",
       "iso_country": "VN",
       "iso_region": "VN-CH",
-      "coordinates": "11.950284, 108.411005"
+      "coordinates": "11.950284, 108.411005",
+      "metar_available": false
     },
     {
       "ident": "VN-0074",
@@ -621,7 +679,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Vinh Long",
-      "coordinates": "10.2509, 105.9445"
+      "coordinates": "10.2509, 105.9445",
+      "metar_available": false
     },
     {
       "ident": "VN-0075",
@@ -632,7 +691,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SW",
       "municipality": "Long Xuyên",
-      "coordinates": "10.330134, 105.473144"
+      "coordinates": "10.330134, 105.473144",
+      "metar_available": false
     },
     {
       "ident": "VN-0076",
@@ -643,7 +703,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SCC",
       "municipality": "Quảng Ngãi",
-      "coordinates": "15.115474, 108.771816"
+      "coordinates": "15.115474, 108.771816",
+      "metar_available": false
     },
     {
       "ident": "VV02",
@@ -654,7 +715,8 @@
       "iso_country": "VN",
       "iso_region": "VN-SE",
       "municipality": "Bien Hoa",
-      "coordinates": "10.9766998291, 106.818000793"
+      "coordinates": "10.9766998291, 106.818000793",
+      "metar_available": false
     },
     {
       "ident": "VV03",
@@ -665,7 +727,8 @@
       "iso_country": "VN",
       "iso_region": "VN-RRD",
       "municipality": "Haiphong (Kien An)",
-      "coordinates": "20.8034, 106.605003"
+      "coordinates": "20.8034, 106.605003",
+      "metar_available": false
     },
     {
       "ident": "VVBM",
@@ -678,7 +741,8 @@
       "municipality": "Buon Ma Thuot",
       "gps_code": "VVBM",
       "iata_code": "BMV",
-      "coordinates": "12.668299675, 108.120002747"
+      "coordinates": "12.668299675, 108.120002747",
+      "metar_available": false
     },
     {
       "ident": "VVCA",
@@ -691,7 +755,8 @@
       "municipality": "Tam Nghĩa",
       "gps_code": "VVCA",
       "iata_code": "VCL",
-      "coordinates": "15.4033, 108.706001"
+      "coordinates": "15.4033, 108.706001",
+      "metar_available": false
     },
     {
       "ident": "VVCI",
@@ -704,7 +769,8 @@
       "municipality": "Haiphong (Hai An)",
       "gps_code": "VVCI",
       "iata_code": "HPH",
-      "coordinates": "20.81686, 106.722994"
+      "coordinates": "20.81686, 106.722994",
+      "metar_available": false
     },
     {
       "ident": "VVCM",
@@ -717,7 +783,8 @@
       "municipality": "Ca Mau City",
       "gps_code": "VVCM",
       "iata_code": "CAH",
-      "coordinates": "9.177667, 105.177778"
+      "coordinates": "9.177667, 105.177778",
+      "metar_available": false
     },
     {
       "ident": "VVCR",
@@ -730,7 +797,8 @@
       "municipality": "Cam Ranh",
       "gps_code": "VVCR",
       "iata_code": "CXR",
-      "coordinates": "11.9982, 109.219002"
+      "coordinates": "11.9982, 109.219002",
+      "metar_available": false
     },
     {
       "ident": "VVCS",
@@ -743,7 +811,8 @@
       "municipality": "Con Dao",
       "gps_code": "VVCS",
       "iata_code": "VCS",
-      "coordinates": "8.73183, 106.633003"
+      "coordinates": "8.73183, 106.633003",
+      "metar_available": false
     },
     {
       "ident": "VVCT",
@@ -756,7 +825,8 @@
       "municipality": "Can Tho",
       "gps_code": "VVCT",
       "iata_code": "VCA",
-      "coordinates": "10.0851, 105.711998"
+      "coordinates": "10.0851, 105.711998",
+      "metar_available": false
     },
     {
       "ident": "VVDB",
@@ -769,7 +839,8 @@
       "municipality": "Dien Bien Phu",
       "gps_code": "VVDB",
       "iata_code": "DIN",
-      "coordinates": "21.3974990845, 103.008003235"
+      "coordinates": "21.3974990845, 103.008003235",
+      "metar_available": false
     },
     {
       "ident": "VVDH",
@@ -782,7 +853,8 @@
       "municipality": "Dong Hoi",
       "gps_code": "VVDH",
       "iata_code": "VDH",
-      "coordinates": "17.515, 106.590556"
+      "coordinates": "17.515, 106.590556",
+      "metar_available": false
     },
     {
       "ident": "VVDL",
@@ -795,7 +867,8 @@
       "municipality": "Da Lat",
       "gps_code": "VVDL",
       "iata_code": "DLI",
-      "coordinates": "11.750556, 108.366997"
+      "coordinates": "11.750556, 108.366997",
+      "metar_available": false
     },
     {
       "ident": "VVDN",
@@ -808,7 +881,8 @@
       "municipality": "Da Nang",
       "gps_code": "VVDN",
       "iata_code": "DAD",
-      "coordinates": "16.0439, 108.198997"
+      "coordinates": "16.0439, 108.198997",
+      "metar_available": false
     },
     {
       "ident": "VVGL",
@@ -820,7 +894,8 @@
       "iso_region": "VN-RRD",
       "municipality": "Hanoi  (Long Bien)",
       "gps_code": "VVGL",
-      "coordinates": "21.040501, 105.886002"
+      "coordinates": "21.040501, 105.886002",
+      "metar_available": false
     },
     {
       "ident": "VVKP",
@@ -832,7 +907,8 @@
       "iso_region": "VN-NE",
       "municipality": "Kep",
       "gps_code": "VVKP",
-      "coordinates": "21.3946, 106.261002"
+      "coordinates": "21.3946, 106.261002",
+      "metar_available": false
     },
     {
       "ident": "VVNB",
@@ -845,7 +921,8 @@
       "municipality": "Hanoi (Soc Son)",
       "gps_code": "VVNB",
       "iata_code": "HAN",
-      "coordinates": "21.221201, 105.806999"
+      "coordinates": "21.221201, 105.806999",
+      "metar_available": false
     },
     {
       "ident": "VVNS",
@@ -858,7 +935,8 @@
       "municipality": "Mai Son",
       "gps_code": "VVNS",
       "iata_code": "SQH",
-      "coordinates": "21.215301, 104.032803"
+      "coordinates": "21.215301, 104.032803",
+      "metar_available": false
     },
     {
       "ident": "VVPB",
@@ -871,7 +949,8 @@
       "municipality": "Huế",
       "gps_code": "VVPB",
       "iata_code": "HUI",
-      "coordinates": "16.400628, 107.703094"
+      "coordinates": "16.400628, 107.703094",
+      "metar_available": false
     },
     {
       "ident": "VVPC",
@@ -884,7 +963,8 @@
       "municipality": "Quy Nohn",
       "gps_code": "VVPC",
       "iata_code": "UIH",
-      "coordinates": "13.955, 109.042"
+      "coordinates": "13.955, 109.042",
+      "metar_available": false
     },
     {
       "ident": "VVPK",
@@ -897,7 +977,8 @@
       "municipality": "Pleiku",
       "gps_code": "VVPK",
       "iata_code": "PXU",
-      "coordinates": "14.004500389099121, 108.01699829101562"
+      "coordinates": "14.004500389099121, 108.01699829101562",
+      "metar_available": false
     },
     {
       "ident": "VVPQ",
@@ -910,7 +991,8 @@
       "municipality": "Phu Quoc Island",
       "gps_code": "VVPQ",
       "iata_code": "PQC",
-      "coordinates": "10.1698, 103.9931"
+      "coordinates": "10.1698, 103.9931",
+      "metar_available": false
     },
     {
       "ident": "VVPR",
@@ -923,7 +1005,8 @@
       "municipality": "Phan Rang",
       "gps_code": "VVPR",
       "iata_code": "PHA",
-      "coordinates": "11.6335, 108.952003"
+      "coordinates": "11.6335, 108.952003",
+      "metar_available": false
     },
     {
       "ident": "VVRG",
@@ -936,7 +1019,8 @@
       "municipality": "Rach Gia",
       "gps_code": "VVRG",
       "iata_code": "VKG",
-      "coordinates": "9.95802997234, 105.132379532"
+      "coordinates": "9.95802997234, 105.132379532",
+      "metar_available": false
     },
     {
       "ident": "VVTH",
@@ -949,7 +1033,8 @@
       "municipality": "Tuy Hoa",
       "gps_code": "VVTH",
       "iata_code": "TBB",
-      "coordinates": "13.0496, 109.334"
+      "coordinates": "13.0496, 109.334",
+      "metar_available": false
     },
     {
       "ident": "VVTS",
@@ -962,7 +1047,8 @@
       "municipality": "Ho Chi Minh City",
       "gps_code": "VVTS",
       "iata_code": "SGN",
-      "coordinates": "10.8188, 106.652"
+      "coordinates": "10.8188, 106.652",
+      "metar_available": false
     },
     {
       "ident": "VVTX",
@@ -975,7 +1061,8 @@
       "municipality": "Thanh Hóa",
       "gps_code": "VVTX",
       "iata_code": "THD",
-      "coordinates": "19.901667, 105.467778"
+      "coordinates": "19.901667, 105.467778",
+      "metar_available": false
     },
     {
       "ident": "VVVD",
@@ -988,7 +1075,8 @@
       "municipality": "Van Don",
       "gps_code": "VVVD",
       "iata_code": "VDO",
-      "coordinates": "21.120693, 107.41539"
+      "coordinates": "21.120693, 107.41539",
+      "metar_available": false
     },
     {
       "ident": "VVVH",
@@ -1001,7 +1089,8 @@
       "municipality": "Vinh",
       "gps_code": "VVVH",
       "iata_code": "VII",
-      "coordinates": "18.7376003265, 105.67099762"
+      "coordinates": "18.7376003265, 105.67099762",
+      "metar_available": false
     },
     {
       "ident": "VVVT",
@@ -1014,7 +1103,8 @@
       "municipality": "Vũng Tàu",
       "gps_code": "VVVT",
       "iata_code": "VTG",
-      "coordinates": "10.375093, 107.096185"
+      "coordinates": "10.375093, 107.096185",
+      "metar_available": false
     }
   ]
 }

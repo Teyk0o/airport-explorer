@@ -2,7 +2,7 @@
   "country_code": "AS",
   "country_name": "American Samoa",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.440605",
+  "last_updated": "2025-08-25T10:08:40.567383",
   "types_distribution": {
     "closed": 1,
     "small_airport": 2,
@@ -18,7 +18,8 @@
       "iso_country": "AS",
       "iso_region": "AS-MA",
       "municipality": "Tau",
-      "coordinates": "-14.23178, -169.51101"
+      "coordinates": "-14.23178, -169.51101",
+      "metar_available": false
     },
     {
       "ident": "NSAS",
@@ -32,7 +33,8 @@
       "gps_code": "NSAS",
       "iata_code": "OFU",
       "local_code": "Z08",
-      "coordinates": "-14.1844, -169.669998"
+      "coordinates": "-14.1844, -169.669998",
+      "metar_available": false
     },
     {
       "ident": "NSFQ",
@@ -46,7 +48,8 @@
       "gps_code": "NSFQ",
       "iata_code": "FTI",
       "local_code": "FAQ",
-      "coordinates": "-14.216131, -169.423771"
+      "coordinates": "-14.216131, -169.423771",
+      "metar_available": false
     },
     {
       "ident": "NSTU",
@@ -60,7 +63,8 @@
       "gps_code": "NSTU",
       "iata_code": "PPG",
       "local_code": "PPG",
-      "coordinates": "-14.331, -170.710007"
+      "coordinates": "-14.331, -170.710007",
+      "metar_available": false
     }
   ]
 }

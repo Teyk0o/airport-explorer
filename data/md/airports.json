@@ -2,7 +2,7 @@
   "country_code": "MD",
   "country_name": "Moldova",
   "total_airports": 14,
-  "last_updated": "2025-08-01T00:18:22.824843",
+  "last_updated": "2025-08-25T10:08:40.979154",
   "types_distribution": {
     "medium_airport": 5,
     "closed": 3,
@@ -21,7 +21,8 @@
       "municipality": "Bălți",
       "gps_code": "LUBL",
       "iata_code": "BZY",
-      "coordinates": "47.837666, 27.781108"
+      "coordinates": "47.837666, 27.781108",
+      "metar_available": false
     },
     {
       "ident": "LUBM",
@@ -33,7 +34,8 @@
       "iso_region": "MD-FR",
       "municipality": "Mărculeşti",
       "gps_code": "LUBM",
-      "coordinates": "47.862701, 28.212799"
+      "coordinates": "47.862701, 28.212799",
+      "metar_available": false
     },
     {
       "ident": "LUCH",
@@ -45,7 +47,8 @@
       "iso_region": "MD-CH",
       "municipality": "Cahul",
       "gps_code": "LUCH",
-      "coordinates": "45.8438, 28.2637"
+      "coordinates": "45.8438, 28.2637",
+      "metar_available": false
     },
     {
       "ident": "LUKK",
@@ -58,7 +61,8 @@
       "municipality": "Chişinău",
       "gps_code": "LUKK",
       "iata_code": "RMO",
-      "coordinates": "46.9277, 28.931"
+      "coordinates": "46.9277, 28.931",
+      "metar_available": false
     },
     {
       "ident": "LUTR",
@@ -70,7 +74,8 @@
       "iso_region": "MD-SN",
       "municipality": "Tiraspol",
       "gps_code": "LUTR",
-      "coordinates": "46.868099, 29.590599"
+      "coordinates": "46.868099, 29.590599",
+      "metar_available": false
     },
     {
       "ident": "MD-0001",
@@ -80,7 +85,8 @@
       "iso_country": "MD",
       "iso_region": "MD-BL",
       "municipality": "Bălţi",
-      "coordinates": "47.774399, 27.9575"
+      "coordinates": "47.774399, 27.9575",
+      "metar_available": false
     },
     {
       "ident": "MD-0002",
@@ -91,7 +97,8 @@
       "iso_country": "MD",
       "iso_region": "MD-CU",
       "gps_code": "LUKV",
-      "coordinates": "47.0681, 29.0954"
+      "coordinates": "47.0681, 29.0954",
+      "metar_available": false
     },
     {
       "ident": "MD-0003",
@@ -102,7 +109,8 @@
       "iso_region": "MD-IL",
       "municipality": "Horeshti",
       "gps_code": "LUKH",
-      "coordinates": "46.83656, 28.901639"
+      "coordinates": "46.83656, 28.901639",
+      "metar_available": false
     },
     {
       "ident": "MD-0004",
@@ -112,7 +120,8 @@
       "iso_country": "MD",
       "iso_region": "MD-CL",
       "municipality": "Călărași",
-      "coordinates": "47.2521452, 28.2802413"
+      "coordinates": "47.2521452, 28.2802413",
+      "metar_available": false
     },
     {
       "ident": "MD-0005",
@@ -123,7 +132,8 @@
       "iso_country": "MD",
       "iso_region": "MD-CH",
       "municipality": "Alexanderfeld",
-      "coordinates": "45.7945, 28.42239"
+      "coordinates": "45.7945, 28.42239",
+      "metar_available": false
     },
     {
       "ident": "MD-0006",
@@ -132,7 +142,8 @@
       "continent": "EU",
       "iso_country": "MD",
       "iso_region": "MD-CT",
-      "coordinates": "46.18065, 28.38241"
+      "coordinates": "46.18065, 28.38241",
+      "metar_available": false
     },
     {
       "ident": "MD-0007",
@@ -143,7 +154,8 @@
       "iso_country": "MD",
       "iso_region": "MD-SV",
       "gps_code": "LUKE",
-      "coordinates": "46.45025, 29.92919"
+      "coordinates": "46.45025, 29.92919",
+      "metar_available": false
     },
     {
       "ident": "MD-0008",
@@ -154,7 +166,8 @@
       "iso_country": "MD",
       "iso_region": "MD-CH",
       "municipality": "Giurgiulești",
-      "coordinates": "45.49542, 28.18215"
+      "coordinates": "45.49542, 28.18215",
+      "metar_available": false
     },
     {
       "ident": "MD-0009",
@@ -165,7 +178,8 @@
       "iso_country": "MD",
       "iso_region": "MD-GA",
       "municipality": "Ceadîr-Lunga",
-      "coordinates": "46.034994, 28.851844"
+      "coordinates": "46.034994, 28.851844",
+      "metar_available": false
     }
   ]
 }

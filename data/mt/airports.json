@@ -2,7 +2,7 @@
   "country_code": "MT",
   "country_name": "Malta",
   "total_airports": 9,
-  "last_updated": "2025-08-01T00:18:22.819436",
+  "last_updated": "2025-08-25T10:08:40.973320",
   "types_distribution": {
     "heliport": 2,
     "large_airport": 1,
@@ -18,7 +18,8 @@
       "iso_region": "MT-62",
       "municipality": "Gozo",
       "gps_code": "LMMG",
-      "coordinates": "36.027199, 14.2728"
+      "coordinates": "36.027199, 14.2728",
+      "metar_available": false
     },
     {
       "ident": "LMML",
@@ -31,7 +32,8 @@
       "municipality": "Valletta",
       "gps_code": "LMML",
       "iata_code": "MLA",
-      "coordinates": "35.857498, 14.4775"
+      "coordinates": "35.857498, 14.4775",
+      "metar_available": false
     },
     {
       "ident": "MT-0001",
@@ -41,7 +43,8 @@
       "continent": "EU",
       "iso_country": "MT",
       "iso_region": "MT-05",
-      "coordinates": "35.81333, 14.513379"
+      "coordinates": "35.81333, 14.513379",
+      "metar_available": false
     },
     {
       "ident": "MT-0002",
@@ -51,7 +54,8 @@
       "iso_country": "MT",
       "iso_region": "MT-25",
       "municipality": "Safi",
-      "coordinates": "35.839985, 14.494478"
+      "coordinates": "35.839985, 14.494478",
+      "metar_available": false
     },
     {
       "ident": "MT-0003",
@@ -60,7 +64,8 @@
       "continent": "EU",
       "iso_country": "MT",
       "iso_region": "MT-01",
-      "coordinates": "35.896914, 14.418733"
+      "coordinates": "35.896914, 14.418733",
+      "metar_available": false
     },
     {
       "ident": "MT-0004",
@@ -70,7 +75,8 @@
       "iso_country": "MT",
       "iso_region": "MT-44",
       "municipality": "Qrendi",
-      "coordinates": "35.835423, 14.435584"
+      "coordinates": "35.835423, 14.435584",
+      "metar_available": false
     },
     {
       "ident": "MT-0005",
@@ -80,7 +86,8 @@
       "iso_country": "MT",
       "iso_region": "MT-26",
       "municipality": "Marsa",
-      "coordinates": "35.876926, 14.489352"
+      "coordinates": "35.876926, 14.489352",
+      "metar_available": false
     },
     {
       "ident": "MT-0006",
@@ -91,7 +98,8 @@
       "iso_country": "MT",
       "iso_region": "MT-62",
       "municipality": "Xewkija",
-      "coordinates": "36.03082, 14.264878"
+      "coordinates": "36.03082, 14.264878",
+      "metar_available": false
     },
     {
       "ident": "MT-0007",
@@ -102,7 +110,8 @@
       "iso_country": "MT",
       "iso_region": "MT-13",
       "municipality": "Comino",
-      "coordinates": "36.01007, 14.347306"
+      "coordinates": "36.01007, 14.347306",
+      "metar_available": false
     }
   ]
 }

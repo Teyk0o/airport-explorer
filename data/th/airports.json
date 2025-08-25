@@ -2,7 +2,7 @@
   "country_code": "TH",
   "country_name": "Thailand",
   "total_airports": 118,
-  "last_updated": "2025-08-01T00:18:22.575569",
+  "last_updated": "2025-08-25T10:08:40.711365",
   "types_distribution": {
     "medium_airport": 39,
     "small_airport": 62,
@@ -22,7 +22,8 @@
       "municipality": "Betong",
       "gps_code": "VTSY",
       "iata_code": "BTZ",
-      "coordinates": "5.79, 101.15"
+      "coordinates": "5.79, 101.15",
+      "metar_available": false
     },
     {
       "ident": "TH-0001",
@@ -34,7 +35,8 @@
       "iso_region": "TH-20",
       "municipality": "Pattaya (Bang Lamung)",
       "local_code": "EFC",
-      "coordinates": "12.902439, 100.933227"
+      "coordinates": "12.902439, 100.933227",
+      "metar_available": false
     },
     {
       "ident": "TH-0002",
@@ -44,7 +46,8 @@
       "iso_country": "TH",
       "iso_region": "TH-13",
       "municipality": "Khlong Si",
-      "coordinates": "14.170617, 100.691757"
+      "coordinates": "14.170617, 100.691757",
+      "metar_available": false
     },
     {
       "ident": "TH-0003",
@@ -54,7 +57,8 @@
       "continent": "AS",
       "iso_country": "TH",
       "iso_region": "TH-26",
-      "coordinates": "14.114705, 100.949485"
+      "coordinates": "14.114705, 100.949485",
+      "metar_available": false
     },
     {
       "ident": "TH-0004",
@@ -64,7 +68,8 @@
       "iso_country": "TH",
       "iso_region": "TH-25",
       "municipality": "Prachin Buri",
-      "coordinates": "14.163603, 101.337118"
+      "coordinates": "14.163603, 101.337118",
+      "metar_available": false
     },
     {
       "ident": "TH-0005",
@@ -74,7 +79,8 @@
       "iso_country": "TH",
       "iso_region": "TH-13",
       "municipality": "Khlong Luang",
-      "coordinates": "14.03662, 100.69448"
+      "coordinates": "14.03662, 100.69448",
+      "metar_available": false
     },
     {
       "ident": "TH-0006",
@@ -85,7 +91,8 @@
       "iso_country": "TH",
       "iso_region": "TH-10",
       "municipality": "Don Mueang",
-      "coordinates": "13.94571, 100.57441"
+      "coordinates": "13.94571, 100.57441",
+      "metar_available": false
     },
     {
       "ident": "TH-0007",
@@ -96,7 +103,8 @@
       "iso_region": "TH-22",
       "municipality": "Khao Wua",
       "gps_code": "VTBC",
-      "coordinates": "12.63247, 102.02603"
+      "coordinates": "12.63247, 102.02603",
+      "metar_available": false
     },
     {
       "ident": "TH-0008",
@@ -106,7 +114,8 @@
       "iso_country": "TH",
       "iso_region": "TH-23",
       "municipality": "Ko Kut",
-      "coordinates": "11.71678, 102.51975"
+      "coordinates": "11.71678, 102.51975",
+      "metar_available": false
     },
     {
       "ident": "TH-0009",
@@ -116,7 +125,8 @@
       "iso_country": "TH",
       "iso_region": "TH-22",
       "municipality": "Khao Khitchakut",
-      "coordinates": "12.836021, 102.168767"
+      "coordinates": "12.836021, 102.168767",
+      "metar_available": false
     },
     {
       "ident": "TH-0010",
@@ -126,7 +136,8 @@
       "iso_country": "TH",
       "iso_region": "TH-21",
       "municipality": "Klaeng",
-      "coordinates": "12.709905, 101.630542"
+      "coordinates": "12.709905, 101.630542",
+      "metar_available": false
     },
     {
       "ident": "TH-0011",
@@ -136,7 +147,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Si Racha",
-      "coordinates": "13.14027, 101.04642"
+      "coordinates": "13.14027, 101.04642",
+      "metar_available": false
     },
     {
       "ident": "TH-0012",
@@ -146,7 +158,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Bang Phra",
-      "coordinates": "13.236033, 100.994902"
+      "coordinates": "13.236033, 100.994902",
+      "metar_available": false
     },
     {
       "ident": "TH-0013",
@@ -156,7 +169,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Ko Chan",
-      "coordinates": "13.3938, 101.32055"
+      "coordinates": "13.3938, 101.32055",
+      "metar_available": false
     },
     {
       "ident": "TH-0014",
@@ -166,7 +180,8 @@
       "iso_country": "TH",
       "iso_region": "TH-12",
       "municipality": "Bang Yai",
-      "coordinates": "13.85782, 100.32493"
+      "coordinates": "13.85782, 100.32493",
+      "metar_available": false
     },
     {
       "ident": "TH-0015",
@@ -176,7 +191,8 @@
       "iso_country": "TH",
       "iso_region": "TH-74",
       "municipality": "Samut Sakhon",
-      "coordinates": "13.54018, 100.32936"
+      "coordinates": "13.54018, 100.32936",
+      "metar_available": false
     },
     {
       "ident": "TH-0016",
@@ -186,7 +202,8 @@
       "iso_country": "TH",
       "iso_region": "TH-70",
       "municipality": "Ratchaburi",
-      "coordinates": "13.57376, 99.75296"
+      "coordinates": "13.57376, 99.75296",
+      "metar_available": false
     },
     {
       "ident": "TH-0017",
@@ -196,7 +213,8 @@
       "iso_country": "TH",
       "iso_region": "TH-67",
       "municipality": "Tha Yang",
-      "coordinates": "12.87173, 99.79265"
+      "coordinates": "12.87173, 99.79265",
+      "metar_available": false
     },
     {
       "ident": "TH-0018",
@@ -206,7 +224,8 @@
       "iso_country": "TH",
       "iso_region": "TH-77",
       "municipality": "Pran Buri",
-      "coordinates": "12.38962, 99.95801"
+      "coordinates": "12.38962, 99.95801",
+      "metar_available": false
     },
     {
       "ident": "TH-0019",
@@ -216,7 +235,8 @@
       "iso_country": "TH",
       "iso_region": "TH-90",
       "municipality": "Rattaphum",
-      "coordinates": "7.1349, 100.33063"
+      "coordinates": "7.1349, 100.33063",
+      "metar_available": false
     },
     {
       "ident": "TH-0020",
@@ -226,7 +246,8 @@
       "iso_country": "TH",
       "iso_region": "TH-90",
       "municipality": "Thepha",
-      "coordinates": "6.83411, 101.02211"
+      "coordinates": "6.83411, 101.02211",
+      "metar_available": false
     },
     {
       "ident": "TH-0021",
@@ -238,7 +259,8 @@
       "iso_region": "TH-24",
       "municipality": "Phanom Sarakham",
       "local_code": "PMM",
-      "coordinates": "13.7553, 101.395"
+      "coordinates": "13.7553, 101.395",
+      "metar_available": false
     },
     {
       "ident": "TH-0022",
@@ -248,7 +270,8 @@
       "iso_country": "TH",
       "iso_region": "TH-95",
       "municipality": "Betong",
-      "coordinates": "5.78161, 101.159256"
+      "coordinates": "5.78161, 101.159256",
+      "metar_available": false
     },
     {
       "ident": "TH-0023",
@@ -258,7 +281,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Si Racha District",
-      "coordinates": "13.14421, 101.106062"
+      "coordinates": "13.14421, 101.106062",
+      "metar_available": false
     },
     {
       "ident": "TH-0024",
@@ -267,7 +291,8 @@
       "continent": "AS",
       "iso_country": "TH",
       "iso_region": "TH-27",
-      "coordinates": "13.94495, 102.00432"
+      "coordinates": "13.94495, 102.00432",
+      "metar_available": false
     },
     {
       "ident": "TH-0025",
@@ -277,7 +302,8 @@
       "iso_country": "TH",
       "iso_region": "TH-21",
       "municipality": "Klaeng",
-      "coordinates": "12.6714, 101.5476"
+      "coordinates": "12.6714, 101.5476",
+      "metar_available": false
     },
     {
       "ident": "TH-0026",
@@ -287,7 +313,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Pattaya",
-      "coordinates": "12.893226, 100.96015"
+      "coordinates": "12.893226, 100.96015",
+      "metar_available": false
     },
     {
       "ident": "TH-0027",
@@ -296,7 +323,8 @@
       "continent": "AS",
       "iso_country": "TH",
       "iso_region": "TH-50",
-      "coordinates": "18.67614, 99.10522"
+      "coordinates": "18.67614, 99.10522",
+      "metar_available": false
     },
     {
       "ident": "TH-0028",
@@ -306,7 +334,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Si Racha",
-      "coordinates": "13.09147, 100.96813"
+      "coordinates": "13.09147, 100.96813",
+      "metar_available": false
     },
     {
       "ident": "TH-0029",
@@ -316,7 +345,8 @@
       "iso_country": "TH",
       "iso_region": "TH-46",
       "municipality": "Na Khu",
-      "coordinates": "16.77324, 104.03372"
+      "coordinates": "16.77324, 104.03372",
+      "metar_available": false
     },
     {
       "ident": "TH-0030",
@@ -326,7 +356,8 @@
       "iso_country": "TH",
       "iso_region": "TH-35",
       "municipality": "Kut Kho Kan",
-      "coordinates": "16.159589, 104.593206"
+      "coordinates": "16.159589, 104.593206",
+      "metar_available": false
     },
     {
       "ident": "TH-0031",
@@ -337,7 +368,8 @@
       "iso_country": "TH",
       "iso_region": "TH-84",
       "municipality": "Pha-ngan Island",
-      "coordinates": "9.741118, 100.070686"
+      "coordinates": "9.741118, 100.070686",
+      "metar_available": false
     },
     {
       "ident": "TH-0032",
@@ -347,7 +379,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Pattaya (Bang Lamung)",
-      "coordinates": "12.8351, 100.98118"
+      "coordinates": "12.8351, 100.98118",
+      "metar_available": false
     },
     {
       "ident": "TH-0033",
@@ -357,7 +390,8 @@
       "iso_country": "TH",
       "iso_region": "TH-13",
       "municipality": "Lat Lum Kaeo",
-      "coordinates": "13.99575, 100.36536"
+      "coordinates": "13.99575, 100.36536",
+      "metar_available": false
     },
     {
       "ident": "TH-0034",
@@ -368,7 +402,8 @@
       "iso_country": "TH",
       "iso_region": "TH-13",
       "municipality": "Nong Suea",
-      "coordinates": "14.08045, 100.852589"
+      "coordinates": "14.08045, 100.852589",
+      "metar_available": false
     },
     {
       "ident": "TH-0035",
@@ -378,7 +413,8 @@
       "iso_country": "TH",
       "iso_region": "TH-13",
       "municipality": "Nong Suea",
-      "coordinates": "14.11717, 100.76169"
+      "coordinates": "14.11717, 100.76169",
+      "metar_available": false
     },
     {
       "ident": "TH-0036",
@@ -388,7 +424,8 @@
       "iso_country": "TH",
       "iso_region": "TH-25",
       "municipality": "Kabin Buri",
-      "coordinates": "14.01966, 101.70217"
+      "coordinates": "14.01966, 101.70217",
+      "metar_available": false
     },
     {
       "ident": "TH-0037",
@@ -398,7 +435,8 @@
       "iso_country": "TH",
       "iso_region": "TH-71",
       "municipality": "Kanchanaburi",
-      "coordinates": "14.125242, 99.446955"
+      "coordinates": "14.125242, 99.446955",
+      "metar_available": false
     },
     {
       "ident": "TH-0038",
@@ -408,7 +446,8 @@
       "iso_country": "TH",
       "iso_region": "TH-71",
       "municipality": "Kanchanaburi",
-      "coordinates": "14.06445, 99.36168"
+      "coordinates": "14.06445, 99.36168",
+      "metar_available": false
     },
     {
       "ident": "TH-0039",
@@ -418,7 +457,8 @@
       "iso_country": "TH",
       "iso_region": "TH-25",
       "municipality": "Si Maha Phot",
-      "coordinates": "13.77697, 101.61345"
+      "coordinates": "13.77697, 101.61345",
+      "metar_available": false
     },
     {
       "ident": "TH-0040",
@@ -428,7 +468,8 @@
       "iso_country": "TH",
       "iso_region": "TH-30",
       "municipality": "Khanong Phra",
-      "coordinates": "14.63123, 101.4659"
+      "coordinates": "14.63123, 101.4659",
+      "metar_available": false
     },
     {
       "ident": "TH-0041",
@@ -437,7 +478,8 @@
       "continent": "AS",
       "iso_country": "TH",
       "iso_region": "TH-83",
-      "coordinates": "8.0779, 98.3017"
+      "coordinates": "8.0779, 98.3017",
+      "metar_available": false
     },
     {
       "ident": "TH-0042",
@@ -448,7 +490,8 @@
       "iso_country": "TH",
       "iso_region": "TH-50",
       "municipality": "San Kamphaeng",
-      "coordinates": "18.70403, 99.11917"
+      "coordinates": "18.70403, 99.11917",
+      "metar_available": false
     },
     {
       "ident": "TH-0043",
@@ -459,7 +502,8 @@
       "iso_country": "TH",
       "iso_region": "TH-47",
       "municipality": "Sai Mun",
-      "coordinates": "17.522045, 103.551192"
+      "coordinates": "17.522045, 103.551192",
+      "metar_available": false
     },
     {
       "ident": "TH-0044",
@@ -470,7 +514,8 @@
       "iso_country": "TH",
       "iso_region": "TH-19",
       "municipality": "Phra Phutthabat",
-      "coordinates": "14.7712, 100.776"
+      "coordinates": "14.7712, 100.776",
+      "metar_available": false
     },
     {
       "ident": "TH-0045",
@@ -481,7 +526,8 @@
       "iso_country": "TH",
       "iso_region": "TH-21",
       "local_code": "VTX9",
-      "coordinates": "12.920684, 101.183631"
+      "coordinates": "12.920684, 101.183631",
+      "metar_available": false
     },
     {
       "ident": "TH-0046",
@@ -492,7 +538,8 @@
       "iso_country": "TH",
       "iso_region": "TH-13",
       "municipality": "Khlong Luang",
-      "coordinates": "14.11945, 100.620959"
+      "coordinates": "14.11945, 100.620959",
+      "metar_available": false
     },
     {
       "ident": "TH-0047",
@@ -503,7 +550,8 @@
       "iso_country": "TH",
       "iso_region": "TH-10",
       "municipality": "Bangkok",
-      "coordinates": "13.860447, 100.633909"
+      "coordinates": "13.860447, 100.633909",
+      "metar_available": false
     },
     {
       "ident": "TH-0048",
@@ -513,7 +561,8 @@
       "iso_country": "TH",
       "iso_region": "TH-10",
       "municipality": "Pathum Wan",
-      "coordinates": "13.73851, 100.537562"
+      "coordinates": "13.73851, 100.537562",
+      "metar_available": false
     },
     {
       "ident": "TH-0049",
@@ -522,7 +571,8 @@
       "continent": "AS",
       "iso_country": "TH",
       "iso_region": "TH-20",
-      "coordinates": "13.289235, 100.963154"
+      "coordinates": "13.289235, 100.963154",
+      "metar_available": false
     },
     {
       "ident": "TH-0050",
@@ -532,7 +582,8 @@
       "continent": "AS",
       "iso_country": "TH",
       "iso_region": "TH-20",
-      "coordinates": "12.85511, 100.990908"
+      "coordinates": "12.85511, 100.990908",
+      "metar_available": false
     },
     {
       "ident": "TH-0051",
@@ -543,7 +594,8 @@
       "iso_country": "TH",
       "iso_region": "TH-57",
       "municipality": "Chiang Rai",
-      "coordinates": "19.885401, 99.826797"
+      "coordinates": "19.885401, 99.826797",
+      "metar_available": false
     },
     {
       "ident": "TH-0052",
@@ -554,7 +606,8 @@
       "iso_country": "TH",
       "iso_region": "TH-20",
       "municipality": "Pattaya (Bang Lamung)",
-      "coordinates": "12.8325, 100.949444"
+      "coordinates": "12.8325, 100.949444",
+      "metar_available": false
     },
     {
       "ident": "VN-0020",
@@ -566,7 +619,8 @@
       "iso_region": "TH-26",
       "municipality": "Ongkarak",
       "local_code": "VT16",
-      "coordinates": "14.10993, 101.00166"
+      "coordinates": "14.10993, 101.00166",
+      "metar_available": false
     },
     {
       "ident": "VTBD",
@@ -579,7 +633,8 @@
       "municipality": "Bangkok",
       "gps_code": "VTBD",
       "iata_code": "DMK",
-      "coordinates": "13.9125995636, 100.607002258"
+      "coordinates": "13.9125995636, 100.607002258",
+      "metar_available": false
     },
     {
       "ident": "VTBH",
@@ -591,7 +646,8 @@
       "iso_region": "TH-16",
       "gps_code": "VTBH",
       "iata_code": "KKM",
-      "coordinates": "14.9493999481, 100.642997742"
+      "coordinates": "14.9493999481, 100.642997742",
+      "metar_available": false
     },
     {
       "ident": "VTBI",
@@ -603,7 +659,8 @@
       "iso_region": "TH-25",
       "municipality": "Prachin Buri",
       "gps_code": "VTBI",
-      "coordinates": "14.0778, 101.379997"
+      "coordinates": "14.0778, 101.379997",
+      "metar_available": false
     },
     {
       "ident": "VTBK",
@@ -616,7 +673,8 @@
       "municipality": "Nakhon Pathom",
       "gps_code": "VTBK",
       "iata_code": "KDT",
-      "coordinates": "14.1020002365, 99.9171981812"
+      "coordinates": "14.1020002365, 99.9171981812",
+      "metar_available": false
     },
     {
       "ident": "VTBL",
@@ -627,7 +685,8 @@
       "iso_country": "TH",
       "iso_region": "TH-16",
       "gps_code": "VTBL",
-      "coordinates": "14.8746, 100.663002"
+      "coordinates": "14.8746, 100.663002",
+      "metar_available": false
     },
     {
       "ident": "VTBN",
@@ -638,7 +697,8 @@
       "iso_region": "TH-77",
       "municipality": "Prachuap Khiri Khan",
       "gps_code": "VTBN",
-      "coordinates": "12.417200088500977, 99.86940002441406"
+      "coordinates": "12.417200088500977, 99.86940002441406",
+      "metar_available": false
     },
     {
       "ident": "VTBO",
@@ -651,7 +711,8 @@
       "municipality": "Laem Ngop",
       "gps_code": "VTBO",
       "iata_code": "TDX",
-      "coordinates": "12.2746, 102.319"
+      "coordinates": "12.2746, 102.319",
+      "metar_available": false
     },
     {
       "ident": "VTBP",
@@ -662,7 +723,8 @@
       "iso_country": "TH",
       "iso_region": "TH-77",
       "gps_code": "VTBP",
-      "coordinates": "11.788399696350098, 99.80470275878906"
+      "coordinates": "11.788399696350098, 99.80470275878906",
+      "metar_available": false
     },
     {
       "ident": "VTBS",
@@ -675,7 +737,8 @@
       "municipality": "Bangkok",
       "gps_code": "VTBS",
       "iata_code": "BKK",
-      "coordinates": "13.681099891662598, 100.74700164794922"
+      "coordinates": "13.681099891662598, 100.74700164794922",
+      "metar_available": false
     },
     {
       "ident": "VTBT",
@@ -687,7 +750,8 @@
       "iso_region": "TH-20",
       "municipality": "Bang Phra",
       "gps_code": "VTBT",
-      "coordinates": "13.232426, 100.956802"
+      "coordinates": "13.232426, 100.956802",
+      "metar_available": false
     },
     {
       "ident": "VTBU",
@@ -700,7 +764,8 @@
       "municipality": "Rayong",
       "gps_code": "VTBU",
       "iata_code": "UTP",
-      "coordinates": "12.679900169372559, 101.00499725341797"
+      "coordinates": "12.679900169372559, 101.00499725341797",
+      "metar_available": false
     },
     {
       "ident": "VTBW",
@@ -712,7 +777,8 @@
       "iso_region": "TH-27",
       "municipality": "Watthana Nakhon",
       "gps_code": "VTBW",
-      "coordinates": "13.769203, 102.316017"
+      "coordinates": "13.769203, 102.316017",
+      "metar_available": false
     },
     {
       "ident": "VTCB",
@@ -724,7 +790,8 @@
       "iso_region": "TH-56",
       "municipality": "Phayao Ban Chiang Kham",
       "gps_code": "VTCB",
-      "coordinates": "19.5, 100.28299713134766"
+      "coordinates": "19.5, 100.28299713134766",
+      "metar_available": false
     },
     {
       "ident": "VTCC",
@@ -737,7 +804,8 @@
       "municipality": "Chiang Mai",
       "gps_code": "VTCC",
       "iata_code": "CNX",
-      "coordinates": "18.766799926799997, 98.962600708"
+      "coordinates": "18.766799926799997, 98.962600708",
+      "metar_available": false
     },
     {
       "ident": "VTCH",
@@ -750,7 +818,8 @@
       "municipality": "Mae Hong Son",
       "gps_code": "VTCH",
       "iata_code": "HGN",
-      "coordinates": "19.3013, 97.9758"
+      "coordinates": "19.3013, 97.9758",
+      "metar_available": false
     },
     {
       "ident": "VTCI",
@@ -763,7 +832,8 @@
       "municipality": "Pai",
       "gps_code": "VTCI",
       "iata_code": "PYY",
-      "coordinates": "19.372054, 98.435904"
+      "coordinates": "19.372054, 98.435904",
+      "metar_available": false
     },
     {
       "ident": "VTCL",
@@ -775,7 +845,8 @@
       "iso_region": "TH-52",
       "gps_code": "VTCL",
       "iata_code": "LPT",
-      "coordinates": "18.27090072631836, 99.50420379638672"
+      "coordinates": "18.27090072631836, 99.50420379638672",
+      "metar_available": false
     },
     {
       "ident": "VTCN",
@@ -787,7 +858,8 @@
       "iso_region": "TH-55",
       "gps_code": "VTCN",
       "iata_code": "NNT",
-      "coordinates": "18.807899475097656, 100.78299713134766"
+      "coordinates": "18.807899475097656, 100.78299713134766",
+      "metar_available": false
     },
     {
       "ident": "VTCO",
@@ -798,7 +870,8 @@
       "iso_country": "TH",
       "iso_region": "TH-51",
       "gps_code": "VTCO",
-      "coordinates": "18.546816, 99.012029"
+      "coordinates": "18.546816, 99.012029",
+      "metar_available": false
     },
     {
       "ident": "VTCP",
@@ -810,7 +883,8 @@
       "iso_region": "TH-54",
       "gps_code": "VTCP",
       "iata_code": "PRH",
-      "coordinates": "18.1322, 100.165001"
+      "coordinates": "18.1322, 100.165001",
+      "metar_available": false
     },
     {
       "ident": "VTCS",
@@ -822,7 +896,8 @@
       "iso_region": "TH-58",
       "municipality": "Mae Sariang",
       "gps_code": "VTCS",
-      "coordinates": "18.180962, 97.930627"
+      "coordinates": "18.180962, 97.930627",
+      "metar_available": false
     },
     {
       "ident": "VTCT",
@@ -835,7 +910,8 @@
       "municipality": "Chiang Rai",
       "gps_code": "VTCT",
       "iata_code": "CEI",
-      "coordinates": "19.952299, 99.882896"
+      "coordinates": "19.952299, 99.882896",
+      "metar_available": false
     },
     {
       "ident": "VTCY",
@@ -845,7 +921,8 @@
       "iso_country": "TH",
       "iso_region": "TH-50",
       "gps_code": "VTCY",
-      "coordinates": "18.6762, 99.11157"
+      "coordinates": "18.6762, 99.11157",
+      "metar_available": false
     },
     {
       "ident": "VTED",
@@ -857,7 +934,8 @@
       "municipality": "Ban Mak Khaen",
       "gps_code": "VTED",
       "iata_code": "BAO",
-      "coordinates": "17.382999420166016, 102.80000305175781"
+      "coordinates": "17.382999420166016, 102.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "VTPB",
@@ -869,7 +947,8 @@
       "iso_region": "TH-67",
       "gps_code": "VTPB",
       "iata_code": "PHY",
-      "coordinates": "16.6760005951, 101.194999695"
+      "coordinates": "16.6760005951, 101.194999695",
+      "metar_available": false
     },
     {
       "ident": "VTPH",
@@ -882,7 +961,8 @@
       "municipality": "Hua Hin",
       "gps_code": "VTPH",
       "iata_code": "HHQ",
-      "coordinates": "12.6361999512, 99.951499939"
+      "coordinates": "12.6361999512, 99.951499939",
+      "metar_available": false
     },
     {
       "ident": "VTPI",
@@ -894,7 +974,8 @@
       "iso_region": "TH-60",
       "gps_code": "VTPI",
       "iata_code": "TKH",
-      "coordinates": "15.277299881, 100.29599762"
+      "coordinates": "15.277299881, 100.29599762",
+      "metar_available": false
     },
     {
       "ident": "VTPL",
@@ -905,7 +986,8 @@
       "iso_country": "TH",
       "iso_region": "TH-67",
       "gps_code": "VTPL",
-      "coordinates": "16.824301, 101.250999"
+      "coordinates": "16.824301, 101.250999",
+      "metar_available": false
     },
     {
       "ident": "VTPM",
@@ -917,7 +999,8 @@
       "iso_region": "TH-63",
       "gps_code": "VTPM",
       "iata_code": "MAQ",
-      "coordinates": "16.699899673461914, 98.54509735107422"
+      "coordinates": "16.699899673461914, 98.54509735107422",
+      "metar_available": false
     },
     {
       "ident": "VTPN",
@@ -928,7 +1011,8 @@
       "iso_country": "TH",
       "iso_region": "TH-60",
       "gps_code": "VTPN",
-      "coordinates": "15.673, 100.137001"
+      "coordinates": "15.673, 100.137001",
+      "metar_available": false
     },
     {
       "ident": "VTPO",
@@ -940,7 +1024,8 @@
       "iso_region": "TH-64",
       "gps_code": "VTPO",
       "iata_code": "THS",
-      "coordinates": "17.238000869750977, 99.81819915771484"
+      "coordinates": "17.238000869750977, 99.81819915771484",
+      "metar_available": false
     },
     {
       "ident": "VTPP",
@@ -953,7 +1038,8 @@
       "municipality": "Phitsanulok",
       "gps_code": "VTPP",
       "iata_code": "PHS",
-      "coordinates": "16.7829, 100.278999"
+      "coordinates": "16.7829, 100.278999",
+      "metar_available": false
     },
     {
       "ident": "VTPR",
@@ -965,7 +1051,8 @@
       "iso_region": "TH-70",
       "municipality": "Photharam",
       "gps_code": "VTPR",
-      "coordinates": "13.668600082397461, 99.73139953613281"
+      "coordinates": "13.668600082397461, 99.73139953613281",
+      "metar_available": false
     },
     {
       "ident": "VTPT",
@@ -977,7 +1064,8 @@
       "iso_region": "TH-63",
       "gps_code": "VTPT",
       "iata_code": "TKT",
-      "coordinates": "16.896, 99.253304"
+      "coordinates": "16.896, 99.253304",
+      "metar_available": false
     },
     {
       "ident": "VTPU",
@@ -990,7 +1078,8 @@
       "municipality": "Uttaradit",
       "gps_code": "VTPU",
       "iata_code": "UTR",
-      "coordinates": "17.617000579833984, 100.0999984741211"
+      "coordinates": "17.617000579833984, 100.0999984741211",
+      "metar_available": false
     },
     {
       "ident": "VTPY",
@@ -1001,7 +1090,8 @@
       "iso_country": "TH",
       "iso_region": "TH-63",
       "gps_code": "VTPY",
-      "coordinates": "17.23419952392578, 99.05789947509766"
+      "coordinates": "17.23419952392578, 99.05789947509766",
+      "metar_available": false
     },
     {
       "ident": "VTSA",
@@ -1012,7 +1102,8 @@
       "iso_country": "TH",
       "iso_region": "TH-91",
       "gps_code": "VTSA",
-      "coordinates": "6.661399841308594, 100.08000183105469"
+      "coordinates": "6.661399841308594, 100.08000183105469",
+      "metar_available": false
     },
     {
       "ident": "VTSB",
@@ -1025,7 +1116,8 @@
       "municipality": "Surat Thani",
       "gps_code": "VTSB",
       "iata_code": "URT",
-      "coordinates": "9.13259983063, 99.135597229"
+      "coordinates": "9.13259983063, 99.135597229",
+      "metar_available": false
     },
     {
       "ident": "VTSC",
@@ -1037,7 +1129,8 @@
       "iso_region": "TH-96",
       "gps_code": "VTSC",
       "iata_code": "NAW",
-      "coordinates": "6.5199198722839355, 101.74299621582031"
+      "coordinates": "6.5199198722839355, 101.74299621582031",
+      "metar_available": false
     },
     {
       "ident": "VTSE",
@@ -1050,7 +1143,8 @@
       "municipality": "Chumphon",
       "gps_code": "VTSE",
       "iata_code": "CJM",
-      "coordinates": "10.7112, 99.361702"
+      "coordinates": "10.7112, 99.361702",
+      "metar_available": false
     },
     {
       "ident": "VTSF",
@@ -1063,7 +1157,8 @@
       "municipality": "Nakhon Si Thammarat",
       "gps_code": "VTSF",
       "iata_code": "NST",
-      "coordinates": "8.539620399475098, 99.9447021484375"
+      "coordinates": "8.539620399475098, 99.9447021484375",
+      "metar_available": false
     },
     {
       "ident": "VTSG",
@@ -1076,7 +1171,8 @@
       "municipality": "Krabi",
       "gps_code": "VTSG",
       "iata_code": "KBV",
-      "coordinates": "8.09912014008, 98.9861984253"
+      "coordinates": "8.09912014008, 98.9861984253",
+      "metar_available": false
     },
     {
       "ident": "VTSH",
@@ -1088,7 +1184,8 @@
       "iso_region": "TH-90",
       "gps_code": "VTSH",
       "iata_code": "SGZ",
-      "coordinates": "7.186560153961182, 100.60800170898438"
+      "coordinates": "7.186560153961182, 100.60800170898438",
+      "metar_available": false
     },
     {
       "ident": "VTSK",
@@ -1100,7 +1197,8 @@
       "iso_region": "TH-94",
       "gps_code": "VTSK",
       "iata_code": "PAN",
-      "coordinates": "6.78546, 101.153999"
+      "coordinates": "6.78546, 101.153999",
+      "metar_available": false
     },
     {
       "ident": "VTSM",
@@ -1113,7 +1211,8 @@
       "municipality": "Na Thon (Ko Samui Island)",
       "gps_code": "VTSM",
       "iata_code": "USM",
-      "coordinates": "9.54779, 100.061996"
+      "coordinates": "9.54779, 100.061996",
+      "metar_available": false
     },
     {
       "ident": "VTSN",
@@ -1125,7 +1224,8 @@
       "iso_region": "TH-80",
       "municipality": "Nakhon Si Thammarat",
       "gps_code": "VTSN",
-      "coordinates": "8.47115039825, 99.9555969238"
+      "coordinates": "8.47115039825, 99.9555969238",
+      "metar_available": false
     },
     {
       "ident": "VTSP",
@@ -1138,7 +1238,8 @@
       "municipality": "Phuket",
       "gps_code": "VTSP",
       "iata_code": "HKT",
-      "coordinates": "8.1132, 98.316902"
+      "coordinates": "8.1132, 98.316902",
+      "metar_available": false
     },
     {
       "ident": "VTSR",
@@ -1151,7 +1252,8 @@
       "municipality": "Ranong",
       "gps_code": "VTSR",
       "iata_code": "UNN",
-      "coordinates": "9.77762, 98.585503"
+      "coordinates": "9.77762, 98.585503",
+      "metar_available": false
     },
     {
       "ident": "VTSS",
@@ -1164,7 +1266,8 @@
       "municipality": "Hat Yai",
       "gps_code": "VTSS",
       "iata_code": "HDY",
-      "coordinates": "6.93320989609, 100.392997742"
+      "coordinates": "6.93320989609, 100.392997742",
+      "metar_available": false
     },
     {
       "ident": "VTST",
@@ -1177,7 +1280,8 @@
       "municipality": "Trang",
       "gps_code": "VTST",
       "iata_code": "TST",
-      "coordinates": "7.50874, 99.6166"
+      "coordinates": "7.50874, 99.6166",
+      "metar_available": false
     },
     {
       "ident": "VTSW",
@@ -1189,7 +1293,8 @@
       "iso_region": "TH-83",
       "municipality": "Talang",
       "gps_code": "VTSW",
-      "coordinates": "8.018733, 98.40291"
+      "coordinates": "8.018733, 98.40291",
+      "metar_available": false
     },
     {
       "ident": "VTUD",
@@ -1202,7 +1307,8 @@
       "municipality": "Udon Thani",
       "gps_code": "VTUD",
       "iata_code": "UTH",
-      "coordinates": "17.386400222800003, 102.788002014"
+      "coordinates": "17.386400222800003, 102.788002014",
+      "metar_available": false
     },
     {
       "ident": "VTUI",
@@ -1214,7 +1320,8 @@
       "iso_region": "TH-47",
       "gps_code": "VTUI",
       "iata_code": "SNO",
-      "coordinates": "17.195100784301758, 104.11900329589844"
+      "coordinates": "17.195100784301758, 104.11900329589844",
+      "metar_available": false
     },
     {
       "ident": "VTUJ",
@@ -1227,7 +1334,8 @@
       "municipality": "Surin",
       "gps_code": "VTUJ",
       "iata_code": "PXR",
-      "coordinates": "14.868300437927, 103.49800109863"
+      "coordinates": "14.868300437927, 103.49800109863",
+      "metar_available": false
     },
     {
       "ident": "VTUK",
@@ -1240,7 +1348,8 @@
       "municipality": "Khon Kaen",
       "gps_code": "VTUK",
       "iata_code": "KKC",
-      "coordinates": "16.466600418099997, 102.783996582"
+      "coordinates": "16.466600418099997, 102.783996582",
+      "metar_available": false
     },
     {
       "ident": "VTUL",
@@ -1252,7 +1361,8 @@
       "iso_region": "TH-42",
       "gps_code": "VTUL",
       "iata_code": "LOE",
-      "coordinates": "17.43910026550293, 101.72200012207031"
+      "coordinates": "17.43910026550293, 101.72200012207031",
+      "metar_available": false
     },
     {
       "ident": "VTUN",
@@ -1264,7 +1374,8 @@
       "iso_region": "TH-30",
       "municipality": "Nakhon Ratchasima",
       "gps_code": "VTUN",
-      "coordinates": "14.9345, 102.079002"
+      "coordinates": "14.9345, 102.079002",
+      "metar_available": false
     },
     {
       "ident": "VTUO",
@@ -1277,7 +1388,8 @@
       "municipality": "Buriram",
       "gps_code": "VTUO",
       "iata_code": "BFV",
-      "coordinates": "15.2295, 103.252998"
+      "coordinates": "15.2295, 103.252998",
+      "metar_available": false
     },
     {
       "ident": "VTUQ",
@@ -1290,7 +1402,8 @@
       "municipality": "Chaloem Phra Kiat",
       "gps_code": "VTUQ",
       "iata_code": "NAK",
-      "coordinates": "14.9495, 102.313004"
+      "coordinates": "14.9495, 102.313004",
+      "metar_available": false
     },
     {
       "ident": "VTUR",
@@ -1301,7 +1414,8 @@
       "iso_country": "TH",
       "iso_region": "TH-45",
       "gps_code": "VTUR",
-      "coordinates": "16.07040023803711, 103.64600372314453"
+      "coordinates": "16.07040023803711, 103.64600372314453",
+      "metar_available": false
     },
     {
       "ident": "VTUU",
@@ -1314,7 +1428,8 @@
       "municipality": "Ubon Ratchathani",
       "gps_code": "VTUU",
       "iata_code": "UBP",
-      "coordinates": "15.2512998581, 104.870002747"
+      "coordinates": "15.2512998581, 104.870002747",
+      "metar_available": false
     },
     {
       "ident": "VTUV",
@@ -1327,7 +1442,8 @@
       "municipality": "Roi Et",
       "gps_code": "VTUV",
       "iata_code": "ROI",
-      "coordinates": "16.1168, 103.774002"
+      "coordinates": "16.1168, 103.774002",
+      "metar_available": false
     },
     {
       "ident": "VTUW",
@@ -1340,7 +1456,8 @@
       "municipality": "Nakhon Phanom",
       "gps_code": "VTUW",
       "iata_code": "KOP",
-      "coordinates": "17.383801, 104.642998"
+      "coordinates": "17.383801, 104.642998",
+      "metar_available": false
     },
     {
       "ident": "VTUZ",
@@ -1351,7 +1468,8 @@
       "iso_region": "TH-40",
       "municipality": "Khon Kaen",
       "gps_code": "VTUZ",
-      "coordinates": "16.65220069885254, 102.96700286865234"
+      "coordinates": "16.65220069885254, 102.96700286865234",
+      "metar_available": false
     }
   ]
 }

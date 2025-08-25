@@ -2,7 +2,7 @@
   "country_code": "SG",
   "country_name": "Singapore",
   "total_airports": 11,
-  "last_updated": "2025-08-01T00:18:22.845160",
+  "last_updated": "2025-08-25T10:08:41.000841",
   "types_distribution": {
     "heliport": 1,
     "small_airport": 3,
@@ -19,7 +19,8 @@
       "iso_country": "SG",
       "iso_region": "SG-01",
       "municipality": "Bukit Merah",
-      "coordinates": "1.256974, 103.833179"
+      "coordinates": "1.256974, 103.833179",
+      "metar_available": false
     },
     {
       "ident": "SG-0002",
@@ -29,7 +30,8 @@
       "iso_country": "SG",
       "iso_region": "SG-05",
       "municipality": "Western Islands",
-      "coordinates": "1.20532, 103.719002"
+      "coordinates": "1.20532, 103.719002",
+      "metar_available": false
     },
     {
       "ident": "SG-0003",
@@ -39,7 +41,8 @@
       "iso_country": "SG",
       "iso_region": "SG-03",
       "municipality": "Western Water Catchment",
-      "coordinates": "1.390671, 103.698435"
+      "coordinates": "1.390671, 103.698435",
+      "metar_available": false
     },
     {
       "ident": "SG-0004",
@@ -49,7 +52,8 @@
       "iso_country": "SG",
       "iso_region": "SG-01",
       "municipality": "Kallang",
-      "coordinates": "1.307411, 103.873378"
+      "coordinates": "1.307411, 103.873378",
+      "metar_available": false
     },
     {
       "ident": "SG-0005",
@@ -60,7 +64,8 @@
       "iso_country": "SG",
       "iso_region": "SG-03",
       "municipality": "Western Water Catchment",
-      "coordinates": "1.39203, 103.69951"
+      "coordinates": "1.39203, 103.69951",
+      "metar_available": false
     },
     {
       "ident": "WSAC",
@@ -72,7 +77,8 @@
       "iso_region": "SG-04",
       "municipality": "Singapore",
       "gps_code": "WSAC",
-      "coordinates": "1.3441400528, 104.009002686"
+      "coordinates": "1.3441400528, 104.009002686",
+      "metar_available": false
     },
     {
       "ident": "WSAG",
@@ -84,7 +90,8 @@
       "iso_region": "SG-03",
       "municipality": "Sembawang",
       "gps_code": "WSAG",
-      "coordinates": "1.42526, 103.813004"
+      "coordinates": "1.42526, 103.813004",
+      "metar_available": false
     },
     {
       "ident": "WSAP",
@@ -97,7 +104,8 @@
       "municipality": "Paya Lebar",
       "gps_code": "WSAP",
       "iata_code": "QPG",
-      "coordinates": "1.36042, 103.910004"
+      "coordinates": "1.36042, 103.910004",
+      "metar_available": false
     },
     {
       "ident": "WSAT",
@@ -110,7 +118,8 @@
       "municipality": "Western Water Catchment",
       "gps_code": "WSAT",
       "iata_code": "TGA",
-      "coordinates": "1.387561, 103.708291"
+      "coordinates": "1.387561, 103.708291",
+      "metar_available": false
     },
     {
       "ident": "WSSL",
@@ -123,7 +132,8 @@
       "municipality": "Seletar",
       "gps_code": "WSSL",
       "iata_code": "XSP",
-      "coordinates": "1.41555, 103.86673"
+      "coordinates": "1.41555, 103.86673",
+      "metar_available": false
     },
     {
       "ident": "WSSS",
@@ -136,7 +146,8 @@
       "municipality": "Singapore",
       "gps_code": "WSSS",
       "iata_code": "SIN",
-      "coordinates": "1.35019, 103.994003"
+      "coordinates": "1.35019, 103.994003",
+      "metar_available": false
     }
   ]
 }

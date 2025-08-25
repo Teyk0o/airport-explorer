@@ -2,7 +2,7 @@
   "country_code": "XP",
   "country_name": "XP",
   "total_airports": 9,
-  "last_updated": "2025-08-01T00:18:22.857006",
+  "last_updated": "2025-08-25T10:08:41.013753",
   "types_distribution": {
     "heliport": 7,
     "small_airport": 2
@@ -16,7 +16,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Triton Island",
-      "coordinates": "15.782977, 111.198893"
+      "coordinates": "15.782977, 111.198893",
+      "metar_available": false
     },
     {
       "ident": "XP-0002",
@@ -26,7 +27,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Triton Island",
-      "coordinates": "15.783471, 111.20274"
+      "coordinates": "15.783471, 111.20274",
+      "metar_available": false
     },
     {
       "ident": "XP-0003",
@@ -36,7 +38,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Woody Island",
-      "coordinates": "16.8328, 112.344002"
+      "coordinates": "16.8328, 112.344002",
+      "metar_available": false
     },
     {
       "ident": "XP-0004",
@@ -46,7 +49,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Duncan Island",
-      "coordinates": "16.454206, 111.706946"
+      "coordinates": "16.454206, 111.706946",
+      "metar_available": false
     },
     {
       "ident": "XP-0005",
@@ -56,7 +60,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Antelope Reef",
-      "coordinates": "16.44635, 111.606529"
+      "coordinates": "16.44635, 111.606529",
+      "metar_available": false
     },
     {
       "ident": "XP-0006",
@@ -67,7 +72,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Money Island",
-      "coordinates": "16.447476, 111.507111"
+      "coordinates": "16.447476, 111.507111",
+      "metar_available": false
     },
     {
       "ident": "XP-0007",
@@ -78,7 +84,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Pattle Island",
-      "coordinates": "16.535115, 111.608675"
+      "coordinates": "16.535115, 111.608675",
+      "metar_available": false
     },
     {
       "ident": "XP-0008",
@@ -88,7 +95,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "North Island",
-      "coordinates": "16.96058, 112.3147"
+      "coordinates": "16.96058, 112.3147",
+      "metar_available": false
     },
     {
       "ident": "XP-0009",
@@ -98,7 +106,8 @@
       "iso_country": "XP",
       "iso_region": "XP-U-A",
       "municipality": "Tree Island",
-      "coordinates": "16.9782, 112.2664"
+      "coordinates": "16.9782, 112.2664",
+      "metar_available": false
     }
   ]
 }

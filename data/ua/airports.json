@@ -2,7 +2,7 @@
   "country_code": "UA",
   "country_name": "Ukraine",
   "total_airports": 275,
-  "last_updated": "2025-08-01T00:18:22.579796",
+  "last_updated": "2025-08-25T10:08:40.715838",
   "types_distribution": {
     "small_airport": 119,
     "closed": 77,
@@ -18,7 +18,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-46",
-      "coordinates": "50.3771921, 23.9648804"
+      "coordinates": "50.3771921, 23.9648804",
+      "metar_available": false
     },
     {
       "ident": "RU-2098",
@@ -29,7 +30,8 @@
       "iso_country": "UA",
       "iso_region": "UA-21",
       "municipality": "Mukacheve",
-      "coordinates": "48.398499, 22.686896"
+      "coordinates": "48.398499, 22.686896",
+      "metar_available": false
     },
     {
       "ident": "UA-0001",
@@ -40,7 +42,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Borodyanka",
-      "coordinates": "50.6633, 29.8933"
+      "coordinates": "50.6633, 29.8933",
+      "metar_available": false
     },
     {
       "ident": "UA-0002",
@@ -52,7 +55,8 @@
       "iso_region": "UA-46",
       "municipality": "Brody",
       "gps_code": "UKBL",
-      "coordinates": "50.130001, 25.17"
+      "coordinates": "50.130001, 25.17",
+      "metar_available": false
     },
     {
       "ident": "UA-0003",
@@ -63,7 +67,8 @@
       "iso_country": "UA",
       "iso_region": "UA-74",
       "municipality": "Chernihiv",
-      "coordinates": "51.547537, 31.309374"
+      "coordinates": "51.547537, 31.309374",
+      "metar_available": false
     },
     {
       "ident": "UA-0004",
@@ -74,7 +79,8 @@
       "iso_country": "UA",
       "iso_region": "UA-59",
       "municipality": "Hlukhiv",
-      "coordinates": "51.849998474121094, 34.04999923706055"
+      "coordinates": "51.849998474121094, 34.04999923706055",
+      "metar_available": false
     },
     {
       "ident": "UA-0005",
@@ -86,7 +92,8 @@
       "iso_region": "UA-74",
       "municipality": "Nizhyn",
       "gps_code": "UKRN",
-      "coordinates": "51.088535, 31.870995"
+      "coordinates": "51.088535, 31.870995",
+      "metar_available": false
     },
     {
       "ident": "UA-0006",
@@ -95,7 +102,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-26",
-      "coordinates": "48.528999, 25.125"
+      "coordinates": "48.528999, 25.125",
+      "metar_available": false
     },
     {
       "ident": "UA-0007",
@@ -105,7 +113,8 @@
       "iso_country": "UA",
       "iso_region": "UA-26",
       "municipality": "Kolomiya",
-      "coordinates": "48.55099868774414, 25.04199981689453"
+      "coordinates": "48.55099868774414, 25.04199981689453",
+      "metar_available": false
     },
     {
       "ident": "UA-0008",
@@ -115,7 +124,8 @@
       "iso_country": "UA",
       "iso_region": "UA-61",
       "municipality": "Chortkiv",
-      "coordinates": "48.97800064086914, 25.742000579833984"
+      "coordinates": "48.97800064086914, 25.742000579833984",
+      "metar_available": false
     },
     {
       "ident": "UA-0009",
@@ -125,7 +135,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Otvazhnoe",
-      "coordinates": "45.012616, 35.247767"
+      "coordinates": "45.012616, 35.247767",
+      "metar_available": false
     },
     {
       "ident": "UA-0010",
@@ -135,7 +146,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Oktyabrskoe",
-      "coordinates": "45.31999969482422, 34.099998474121094"
+      "coordinates": "45.31999969482422, 34.099998474121094",
+      "metar_available": false
     },
     {
       "ident": "UA-0011",
@@ -146,7 +158,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Volnoye",
-      "coordinates": "45.577999, 34.282001"
+      "coordinates": "45.577999, 34.282001",
+      "metar_available": false
     },
     {
       "ident": "UA-0012",
@@ -156,7 +169,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Kirovskoe",
-      "coordinates": "45.16699981689453, 35.18299865722656"
+      "coordinates": "45.16699981689453, 35.18299865722656",
+      "metar_available": false
     },
     {
       "ident": "UA-0013",
@@ -166,7 +180,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Rysove",
-      "coordinates": "45.995499, 33.681017"
+      "coordinates": "45.995499, 33.681017",
+      "metar_available": false
     },
     {
       "ident": "UA-0014",
@@ -177,7 +192,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Myrnyi",
-      "coordinates": "45.325884, 33.050407"
+      "coordinates": "45.325884, 33.050407",
+      "metar_available": false
     },
     {
       "ident": "UA-0015",
@@ -187,7 +203,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Armyansk",
-      "coordinates": "46.15800094604492, 33.71699905395508"
+      "coordinates": "46.15800094604492, 33.71699905395508",
+      "metar_available": false
     },
     {
       "ident": "UA-0016",
@@ -199,7 +216,8 @@
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
       "gps_code": "UKFP",
-      "coordinates": "44.549003, 33.488613"
+      "coordinates": "44.549003, 33.488613",
+      "metar_available": false
     },
     {
       "ident": "UA-0017",
@@ -209,7 +227,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Genichesk",
-      "coordinates": "46.209, 34.764999"
+      "coordinates": "46.209, 34.764999",
+      "metar_available": false
     },
     {
       "ident": "UA-0018",
@@ -220,7 +239,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.578466, 33.395462"
+      "coordinates": "44.578466, 33.395462",
+      "metar_available": false
     },
     {
       "ident": "UA-0019",
@@ -230,7 +250,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Bagerovo",
-      "coordinates": "45.407001, 36.244999"
+      "coordinates": "45.407001, 36.244999",
+      "metar_available": false
     },
     {
       "ident": "UA-0020",
@@ -241,7 +262,8 @@
       "iso_region": "UA-23",
       "municipality": "Melitopol",
       "gps_code": "UKDM",
-      "coordinates": "46.880001, 35.305"
+      "coordinates": "46.880001, 35.305",
+      "metar_available": false
     },
     {
       "ident": "UA-0021",
@@ -253,7 +275,8 @@
       "iso_region": "UA-65",
       "municipality": "Skadovsk",
       "gps_code": "UKOS",
-      "coordinates": "46.131888, 32.902506"
+      "coordinates": "46.131888, 32.902506",
+      "metar_available": false
     },
     {
       "ident": "UA-0022",
@@ -265,7 +288,8 @@
       "iso_region": "UA-43",
       "municipality": "Kacha",
       "gps_code": "UKFA",
-      "coordinates": "44.779764, 33.572245"
+      "coordinates": "44.779764, 33.572245",
+      "metar_available": false
     },
     {
       "ident": "UA-0023",
@@ -275,7 +299,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Pervomaiske",
-      "coordinates": "45.073002, 35.202999"
+      "coordinates": "45.073002, 35.202999",
+      "metar_available": false
     },
     {
       "ident": "UA-0024",
@@ -285,7 +310,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Khrestivka",
-      "coordinates": "46.419998, 33.724998"
+      "coordinates": "46.419998, 33.724998",
+      "metar_available": false
     },
     {
       "ident": "UA-0025",
@@ -297,7 +323,8 @@
       "iso_region": "UA-32",
       "municipality": "Bila Tserkva",
       "gps_code": "UKBC",
-      "coordinates": "49.795228, 30.024435"
+      "coordinates": "49.795228, 30.024435",
+      "metar_available": false
     },
     {
       "ident": "UA-0026",
@@ -307,7 +334,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Petrovka",
-      "coordinates": "46.89500045776367, 30.700000762939453"
+      "coordinates": "46.89500045776367, 30.700000762939453",
+      "metar_available": false
     },
     {
       "ident": "UA-0027",
@@ -318,7 +346,8 @@
       "iso_region": "UA-63",
       "municipality": "Lozovaya",
       "gps_code": "UKHB",
-      "coordinates": "48.876999, 36.549999"
+      "coordinates": "48.876999, 36.549999",
+      "metar_available": false
     },
     {
       "ident": "UA-0028",
@@ -329,7 +358,8 @@
       "iso_region": "UA-51",
       "municipality": "Bolgrad",
       "gps_code": "UKOD",
-      "coordinates": "45.639999, 28.67"
+      "coordinates": "45.639999, 28.67",
+      "metar_available": false
     },
     {
       "ident": "UA-0029",
@@ -339,7 +369,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Tokmak",
-      "coordinates": "47.285459, 35.707855"
+      "coordinates": "47.285459, 35.707855",
+      "metar_available": false
     },
     {
       "ident": "UA-0030",
@@ -349,7 +380,8 @@
       "iso_country": "UA",
       "iso_region": "UA-77",
       "municipality": "Luzhani",
-      "coordinates": "48.38399887084961, 25.767000198364258"
+      "coordinates": "48.38399887084961, 25.767000198364258",
+      "metar_available": false
     },
     {
       "ident": "UA-0031",
@@ -359,7 +391,8 @@
       "iso_country": "UA",
       "iso_region": "UA-35",
       "municipality": "Oleksandriya",
-      "coordinates": "48.68000030517578, 33.18000030517578"
+      "coordinates": "48.68000030517578, 33.18000030517578",
+      "metar_available": false
     },
     {
       "ident": "UA-0032",
@@ -370,7 +403,8 @@
       "iso_region": "UA-51",
       "municipality": "Artsyz",
       "gps_code": "UKOA",
-      "coordinates": "45.945829, 29.376832"
+      "coordinates": "45.945829, 29.376832",
+      "metar_available": false
     },
     {
       "ident": "UA-0033",
@@ -381,7 +415,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Kiliya",
-      "coordinates": "45.458866, 29.287591"
+      "coordinates": "45.458866, 29.287591",
+      "metar_available": false
     },
     {
       "ident": "UA-0034",
@@ -392,7 +427,8 @@
       "iso_region": "UA-51",
       "municipality": "Lymanske",
       "gps_code": "UKOM",
-      "coordinates": "46.668998, 30.011105"
+      "coordinates": "46.668998, 30.011105",
+      "metar_available": false
     },
     {
       "ident": "UA-0035",
@@ -403,7 +439,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Chоrnobil",
-      "coordinates": "51.285999, 30.198999"
+      "coordinates": "51.285999, 30.198999",
+      "metar_available": false
     },
     {
       "ident": "UA-0036",
@@ -414,7 +451,8 @@
       "iso_region": "UA-09",
       "municipality": "Novoaydar",
       "gps_code": "UKCD",
-      "coordinates": "48.950001, 39.115002"
+      "coordinates": "48.950001, 39.115002",
+      "metar_available": false
     },
     {
       "ident": "UA-0037",
@@ -425,7 +463,8 @@
       "iso_country": "UA",
       "iso_region": "UA-74",
       "municipality": "Dobrianka",
-      "coordinates": "52.082491, 31.121171"
+      "coordinates": "52.082491, 31.121171",
+      "metar_available": false
     },
     {
       "ident": "UA-0038",
@@ -437,7 +476,8 @@
       "iso_region": "UA-32",
       "municipality": "Petropavlivska Borshchahivka",
       "gps_code": "UKKJ",
-      "coordinates": "50.431185, 30.30093"
+      "coordinates": "50.431185, 30.30093",
+      "metar_available": false
     },
     {
       "ident": "UA-0039",
@@ -449,7 +489,8 @@
       "iso_region": "UA-46",
       "municipality": "Gorodok",
       "gps_code": "UKGC",
-      "coordinates": "49.831848, 23.690052"
+      "coordinates": "49.831848, 23.690052",
+      "metar_available": false
     },
     {
       "ident": "UA-0040",
@@ -459,7 +500,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Sovyetskiy",
-      "coordinates": "45.35499954223633, 34.939998626708984"
+      "coordinates": "45.35499954223633, 34.939998626708984",
+      "metar_available": false
     },
     {
       "ident": "UA-0041",
@@ -469,7 +511,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.5800018311, 33.4959983826"
+      "coordinates": "44.5800018311, 33.4959983826",
+      "metar_available": false
     },
     {
       "ident": "UA-0042",
@@ -480,7 +523,8 @@
       "iso_region": "UA-48",
       "municipality": "Voznesensk",
       "gps_code": "UKOW",
-      "coordinates": "47.509998, 31.254999"
+      "coordinates": "47.509998, 31.254999",
+      "metar_available": false
     },
     {
       "ident": "UA-0043",
@@ -491,7 +535,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Foros",
-      "coordinates": "44.391897, 33.753988"
+      "coordinates": "44.391897, 33.753988",
+      "metar_available": false
     },
     {
       "ident": "UA-0044",
@@ -501,7 +546,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.61029815673828, 33.47949981689453"
+      "coordinates": "44.61029815673828, 33.47949981689453",
+      "metar_available": false
     },
     {
       "ident": "UA-0045",
@@ -512,7 +558,8 @@
       "iso_region": "UA-63",
       "municipality": "Ivanivka",
       "gps_code": "UKHI",
-      "coordinates": "49.259998, 37.154999"
+      "coordinates": "49.259998, 37.154999",
+      "metar_available": false
     },
     {
       "ident": "UA-0046",
@@ -523,7 +570,8 @@
       "iso_region": "UA-05",
       "municipality": "Kalynivka",
       "gps_code": "UKKN",
-      "coordinates": "49.485372, 28.539097"
+      "coordinates": "49.485372, 28.539097",
+      "metar_available": false
     },
     {
       "ident": "UA-0047",
@@ -534,7 +582,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Kryvyi Rih",
-      "coordinates": "47.887, 33.533"
+      "coordinates": "47.887, 33.533",
+      "metar_available": false
     },
     {
       "ident": "UA-0048",
@@ -544,7 +593,8 @@
       "iso_country": "UA",
       "iso_region": "UA-53",
       "municipality": "Poltava",
-      "coordinates": "49.627, 34.487"
+      "coordinates": "49.627, 34.487",
+      "metar_available": false
     },
     {
       "ident": "UA-0049",
@@ -557,7 +607,8 @@
       "municipality": "Myrhorod",
       "gps_code": "UKBM",
       "iata_code": "MXR",
-      "coordinates": "49.932, 33.641"
+      "coordinates": "49.932, 33.641",
+      "metar_available": false
     },
     {
       "ident": "UA-0050",
@@ -570,7 +621,8 @@
       "municipality": "Kremenchuk",
       "gps_code": "UKHK",
       "iata_code": "KHU",
-      "coordinates": "49.136799, 33.477893"
+      "coordinates": "49.136799, 33.477893",
+      "metar_available": false
     },
     {
       "ident": "UA-0051",
@@ -581,7 +633,8 @@
       "iso_region": "UA-53",
       "municipality": "Lokhvitsya",
       "local_code": "ZD9Y",
-      "coordinates": "50.346, 33.296"
+      "coordinates": "50.346, 33.296",
+      "metar_available": false
     },
     {
       "ident": "UA-0052",
@@ -592,7 +645,8 @@
       "iso_country": "UA",
       "iso_region": "UA-63",
       "municipality": "Novyy Korotych",
-      "coordinates": "49.97482, 36.01425"
+      "coordinates": "49.97482, 36.01425",
+      "metar_available": false
     },
     {
       "ident": "UA-0053",
@@ -602,7 +656,8 @@
       "iso_country": "UA",
       "iso_region": "UA-71",
       "municipality": "Zolotonosha",
-      "coordinates": "49.763, 32.123"
+      "coordinates": "49.763, 32.123",
+      "metar_available": false
     },
     {
       "ident": "UA-0054",
@@ -613,7 +668,8 @@
       "iso_region": "UA-63",
       "municipality": "Kupyansk",
       "gps_code": "UKHU",
-      "coordinates": "49.684, 37.715"
+      "coordinates": "49.684, 37.715",
+      "metar_available": false
     },
     {
       "ident": "UA-0055",
@@ -623,7 +679,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Zaporizhia",
-      "coordinates": "47.9188730788, 34.9574661255"
+      "coordinates": "47.9188730788, 34.9574661255",
+      "metar_available": false
     },
     {
       "ident": "UA-0056",
@@ -633,7 +690,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Mayske",
-      "coordinates": "48.491944, 35.625933"
+      "coordinates": "48.491944, 35.625933",
+      "metar_available": false
     },
     {
       "ident": "UA-0057",
@@ -643,7 +701,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Mospyne",
-      "coordinates": "47.841620693900005, 38.100843429600005"
+      "coordinates": "47.841620693900005, 38.100843429600005",
+      "metar_available": false
     },
     {
       "ident": "UA-0058",
@@ -654,7 +713,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Yenakiyeve",
-      "coordinates": "48.179565, 38.201866"
+      "coordinates": "48.179565, 38.201866",
+      "metar_available": false
     },
     {
       "ident": "UA-0059",
@@ -664,7 +724,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Volnovakha",
-      "coordinates": "47.6288427809, 37.399778366099994"
+      "coordinates": "47.6288427809, 37.399778366099994",
+      "metar_available": false
     },
     {
       "ident": "UA-0060",
@@ -674,7 +735,8 @@
       "iso_country": "UA",
       "iso_region": "UA-09",
       "municipality": "Luhansk",
-      "coordinates": "48.532282, 39.390879"
+      "coordinates": "48.532282, 39.390879",
+      "metar_available": false
     },
     {
       "ident": "UA-0061",
@@ -685,7 +747,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Odessa",
-      "coordinates": "46.493108, 30.618859"
+      "coordinates": "46.493108, 30.618859",
+      "metar_available": false
     },
     {
       "ident": "UA-0062",
@@ -696,7 +759,8 @@
       "iso_region": "UA-51",
       "municipality": "Naberezhne",
       "gps_code": "UKOE",
-      "coordinates": "46.57851, 30.703053"
+      "coordinates": "46.57851, 30.703053",
+      "metar_available": false
     },
     {
       "ident": "UA-0063",
@@ -706,7 +770,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.6014149349, 33.4506440163"
+      "coordinates": "44.6014149349, 33.4506440163",
+      "metar_available": false
     },
     {
       "ident": "UA-0064",
@@ -717,7 +782,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.485596, 34.13744"
+      "coordinates": "44.485596, 34.13744",
+      "metar_available": false
     },
     {
       "ident": "UA-0065",
@@ -727,7 +793,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.432273, 34.081035"
+      "coordinates": "44.432273, 34.081035",
+      "metar_available": false
     },
     {
       "ident": "UA-0066",
@@ -737,7 +804,8 @@
       "iso_country": "UA",
       "iso_region": "UA-48",
       "municipality": "Ochakiv",
-      "coordinates": "46.647786, 31.553764"
+      "coordinates": "46.647786, 31.553764",
+      "metar_available": false
     },
     {
       "ident": "UA-0067",
@@ -747,7 +815,8 @@
       "iso_country": "UA",
       "iso_region": "UA-35",
       "municipality": "Kirovohrad",
-      "coordinates": "48.561364587499995, 32.3872071505"
+      "coordinates": "48.561364587499995, 32.3872071505",
+      "metar_available": false
     },
     {
       "ident": "UA-0068",
@@ -757,7 +826,8 @@
       "iso_country": "UA",
       "iso_region": "UA-35",
       "municipality": "Mala Vyska",
-      "coordinates": "48.632, 31.616"
+      "coordinates": "48.632, 31.616",
+      "metar_available": false
     },
     {
       "ident": "UA-0069",
@@ -767,7 +837,8 @@
       "iso_country": "UA",
       "iso_region": "UA-71",
       "municipality": "Uman",
-      "coordinates": "48.79403, 30.208197"
+      "coordinates": "48.79403, 30.208197",
+      "metar_available": false
     },
     {
       "ident": "UA-0070",
@@ -777,7 +848,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Dnipro",
-      "coordinates": "48.552552, 35.01729"
+      "coordinates": "48.552552, 35.01729",
+      "metar_available": false
     },
     {
       "ident": "UA-0071",
@@ -787,7 +859,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Zhovti Vody",
-      "coordinates": "48.350502506, 33.444271087599994"
+      "coordinates": "48.350502506, 33.444271087599994",
+      "metar_available": false
     },
     {
       "ident": "UA-0072",
@@ -797,7 +870,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Zhovti Vody",
-      "coordinates": "48.2840353492, 33.4489488602"
+      "coordinates": "48.2840353492, 33.4489488602",
+      "metar_available": false
     },
     {
       "ident": "UA-0073",
@@ -807,7 +881,8 @@
       "iso_country": "UA",
       "iso_region": "UA-30",
       "municipality": "Kyiv",
-      "coordinates": "50.458134, 30.568124"
+      "coordinates": "50.458134, 30.568124",
+      "metar_available": false
     },
     {
       "ident": "UA-0074",
@@ -817,7 +892,8 @@
       "iso_country": "UA",
       "iso_region": "UA-30",
       "municipality": "Kyiv",
-      "coordinates": "50.449147, 30.541149"
+      "coordinates": "50.449147, 30.541149",
+      "metar_available": false
     },
     {
       "ident": "UA-0075",
@@ -826,7 +902,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-46",
-      "coordinates": "50.4734613, 24.4743705"
+      "coordinates": "50.4734613, 24.4743705",
+      "metar_available": false
     },
     {
       "ident": "UA-0076",
@@ -835,7 +912,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-46",
-      "coordinates": "50.120551, 24.035789"
+      "coordinates": "50.120551, 24.035789",
+      "metar_available": false
     },
     {
       "ident": "UA-0077",
@@ -844,7 +922,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-46",
-      "coordinates": "49.451556, 24.043866"
+      "coordinates": "49.451556, 24.043866",
+      "metar_available": false
     },
     {
       "ident": "UA-0078",
@@ -854,7 +933,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Kubei",
-      "coordinates": "45.791888, 28.72434"
+      "coordinates": "45.791888, 28.72434",
+      "metar_available": false
     },
     {
       "ident": "UA-0079",
@@ -863,7 +943,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-18",
-      "coordinates": "50.0193428, 28.9912024"
+      "coordinates": "50.0193428, 28.9912024",
+      "metar_available": false
     },
     {
       "ident": "UA-0080",
@@ -872,7 +953,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-18",
-      "coordinates": "51.2312512, 29.0707288"
+      "coordinates": "51.2312512, 29.0707288",
+      "metar_available": false
     },
     {
       "ident": "UA-0081",
@@ -881,7 +963,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-71",
-      "coordinates": "48.8715407, 30.6593031"
+      "coordinates": "48.8715407, 30.6593031",
+      "metar_available": false
     },
     {
       "ident": "UA-0082",
@@ -891,7 +974,8 @@
       "iso_country": "UA",
       "iso_region": "UA-05",
       "municipality": "Sutysky",
-      "coordinates": "49.066667, 28.44166"
+      "coordinates": "49.066667, 28.44166",
+      "metar_available": false
     },
     {
       "ident": "UA-0083",
@@ -900,7 +984,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-05",
-      "coordinates": "49.335903, 29.270067"
+      "coordinates": "49.335903, 29.270067",
+      "metar_available": false
     },
     {
       "ident": "UA-0084",
@@ -911,7 +996,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Mykolaivka-Novorosiis'ka",
-      "coordinates": "46.130858, 29.874125"
+      "coordinates": "46.130858, 29.874125",
+      "metar_available": false
     },
     {
       "ident": "UA-0085",
@@ -920,7 +1006,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-68",
-      "coordinates": "50.1196431, 26.8681069"
+      "coordinates": "50.1196431, 26.8681069",
+      "metar_available": false
     },
     {
       "ident": "UA-0086",
@@ -930,7 +1017,8 @@
       "iso_country": "UA",
       "iso_region": "UA-05",
       "municipality": "Pohrebyshche",
-      "coordinates": "49.4943236, 29.2417992"
+      "coordinates": "49.4943236, 29.2417992",
+      "metar_available": false
     },
     {
       "ident": "UA-0087",
@@ -940,7 +1028,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Okny",
-      "coordinates": "47.549189, 29.428682"
+      "coordinates": "47.549189, 29.428682",
+      "metar_available": false
     },
     {
       "ident": "UA-0088",
@@ -950,7 +1039,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Krasnobirka",
-      "coordinates": "50.588009, 29.264402"
+      "coordinates": "50.588009, 29.264402",
+      "metar_available": false
     },
     {
       "ident": "UA-0089",
@@ -960,7 +1050,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Shevchenkove",
-      "coordinates": "50.876703, 29.071036"
+      "coordinates": "50.876703, 29.071036",
+      "metar_available": false
     },
     {
       "ident": "UA-0090",
@@ -970,7 +1061,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Korostelivka",
-      "coordinates": "50.557511, 28.781421"
+      "coordinates": "50.557511, 28.781421",
+      "metar_available": false
     },
     {
       "ident": "UA-0091",
@@ -980,7 +1072,8 @@
       "iso_country": "UA",
       "iso_region": "UA-19",
       "municipality": "Lidavo",
-      "coordinates": "50.4681472, 26.2177308"
+      "coordinates": "50.4681472, 26.2177308",
+      "metar_available": false
     },
     {
       "ident": "UA-0092",
@@ -990,7 +1083,8 @@
       "iso_country": "UA",
       "iso_region": "UA-05",
       "municipality": "Holubeche",
-      "coordinates": "48.35874, 28.860397"
+      "coordinates": "48.35874, 28.860397",
+      "metar_available": false
     },
     {
       "ident": "UA-0093",
@@ -1000,7 +1094,8 @@
       "iso_country": "UA",
       "iso_region": "UA-05",
       "municipality": "Pishchanka",
-      "coordinates": "48.200516, 28.863063"
+      "coordinates": "48.200516, 28.863063",
+      "metar_available": false
     },
     {
       "ident": "UA-0094",
@@ -1010,7 +1105,8 @@
       "iso_country": "UA",
       "iso_region": "UA-26",
       "municipality": "Smodna",
-      "coordinates": "48.306675, 25.14064"
+      "coordinates": "48.306675, 25.14064",
+      "metar_available": false
     },
     {
       "ident": "UA-0095",
@@ -1020,7 +1116,8 @@
       "iso_country": "UA",
       "iso_region": "UA-07",
       "municipality": "Radovychi",
-      "coordinates": "51.021679, 24.618763"
+      "coordinates": "51.021679, 24.618763",
+      "metar_available": false
     },
     {
       "ident": "UA-0096",
@@ -1029,7 +1126,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-51",
-      "coordinates": "47.3313702, 29.7908674"
+      "coordinates": "47.3313702, 29.7908674",
+      "metar_available": false
     },
     {
       "ident": "UA-0097",
@@ -1039,7 +1137,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Troits'ke",
-      "coordinates": "47.6693733, 30.2982862"
+      "coordinates": "47.6693733, 30.2982862",
+      "metar_available": false
     },
     {
       "ident": "UA-0098",
@@ -1049,7 +1148,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Volodarka",
-      "coordinates": "49.532738, 29.887719"
+      "coordinates": "49.532738, 29.887719",
+      "metar_available": false
     },
     {
       "ident": "UA-0099",
@@ -1060,7 +1160,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Kremydivka",
-      "coordinates": "46.758049, 30.792846"
+      "coordinates": "46.758049, 30.792846",
+      "metar_available": false
     },
     {
       "ident": "UA-0100",
@@ -1070,7 +1171,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "gps_code": "UKBD",
-      "coordinates": "50.005647, 30.197924"
+      "coordinates": "50.005647, 30.197924",
+      "metar_available": false
     },
     {
       "ident": "UA-0101",
@@ -1080,7 +1182,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Novi Petrivtsi",
-      "coordinates": "50.621493, 30.460464"
+      "coordinates": "50.621493, 30.460464",
+      "metar_available": false
     },
     {
       "ident": "UA-0102",
@@ -1091,7 +1194,8 @@
       "iso_country": "UA",
       "iso_region": "UA-74",
       "municipality": "Kovpyta",
-      "coordinates": "51.413316, 30.87469"
+      "coordinates": "51.413316, 30.87469",
+      "metar_available": false
     },
     {
       "ident": "UA-0103",
@@ -1101,7 +1205,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Buzova",
-      "coordinates": "50.401711, 30.053718"
+      "coordinates": "50.401711, 30.053718",
+      "metar_available": false
     },
     {
       "ident": "UA-0104",
@@ -1111,7 +1216,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Dymer",
-      "coordinates": "51.0071035, 29.9782477"
+      "coordinates": "51.0071035, 29.9782477",
+      "metar_available": false
     },
     {
       "ident": "UA-0105",
@@ -1120,7 +1226,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-18",
-      "coordinates": "50.274742, 29.441407"
+      "coordinates": "50.274742, 29.441407",
+      "metar_available": false
     },
     {
       "ident": "UA-0106",
@@ -1129,7 +1236,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-51",
-      "coordinates": "47.6796995, 29.9669261"
+      "coordinates": "47.6796995, 29.9669261",
+      "metar_available": false
     },
     {
       "ident": "UA-0107",
@@ -1142,7 +1250,8 @@
       "municipality": "Kamyan'ka",
       "gps_code": "UKLK",
       "iata_code": "KCP",
-      "coordinates": "48.695631, 26.609471"
+      "coordinates": "48.695631, 26.609471",
+      "metar_available": false
     },
     {
       "ident": "UA-0108",
@@ -1154,7 +1263,8 @@
       "iso_region": "UA-46",
       "municipality": "Drohobych",
       "gps_code": "UKMD",
-      "coordinates": "49.366803, 23.568044"
+      "coordinates": "49.366803, 23.568044",
+      "metar_available": false
     },
     {
       "ident": "UA-0109",
@@ -1164,7 +1274,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Malyn",
-      "coordinates": "50.786675, 29.246711"
+      "coordinates": "50.786675, 29.246711",
+      "metar_available": false
     },
     {
       "ident": "UA-0110",
@@ -1173,7 +1284,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-77",
-      "coordinates": "48.525151, 25.993457"
+      "coordinates": "48.525151, 25.993457",
+      "metar_available": false
     },
     {
       "ident": "UA-0111",
@@ -1183,7 +1295,8 @@
       "iso_country": "UA",
       "iso_region": "UA-68",
       "municipality": "Rudnya",
-      "coordinates": "49.37228, 27.531321"
+      "coordinates": "49.37228, 27.531321",
+      "metar_available": false
     },
     {
       "ident": "UA-0112",
@@ -1192,7 +1305,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-32",
-      "coordinates": "50.0129543, 29.9795159"
+      "coordinates": "50.0129543, 29.9795159",
+      "metar_available": false
     },
     {
       "ident": "UA-0113",
@@ -1202,7 +1316,8 @@
       "iso_country": "UA",
       "iso_region": "UA-61",
       "municipality": "Lanivtsi",
-      "coordinates": "49.84537, 26.116193"
+      "coordinates": "49.84537, 26.116193",
+      "metar_available": false
     },
     {
       "ident": "UA-0114",
@@ -1212,7 +1327,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Zahnitkiv",
-      "coordinates": "48.0351886, 28.9258992"
+      "coordinates": "48.0351886, 28.9258992",
+      "metar_available": false
     },
     {
       "ident": "UA-0115",
@@ -1222,7 +1338,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Hardyshivka",
-      "coordinates": "49.898809, 28.436614"
+      "coordinates": "49.898809, 28.436614",
+      "metar_available": false
     },
     {
       "ident": "UA-0116",
@@ -1232,7 +1349,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Nova Vasylivka",
-      "coordinates": "50.3228953, 28.3612108"
+      "coordinates": "50.3228953, 28.3612108",
+      "metar_available": false
     },
     {
       "ident": "UA-0117",
@@ -1244,7 +1362,8 @@
       "iso_region": "UA-12",
       "municipality": "Orekhovo",
       "gps_code": "UKYO",
-      "coordinates": "48.20211, 35.021351"
+      "coordinates": "48.20211, 35.021351",
+      "metar_available": false
     },
     {
       "ident": "UA-0118",
@@ -1253,7 +1372,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-19",
-      "coordinates": "51.360218, 25.9194958"
+      "coordinates": "51.360218, 25.9194958",
+      "metar_available": false
     },
     {
       "ident": "UA-0119",
@@ -1263,7 +1383,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Romashky",
-      "coordinates": "49.7354043, 30.5536534"
+      "coordinates": "49.7354043, 30.5536534",
+      "metar_available": false
     },
     {
       "ident": "UA-0120",
@@ -1273,7 +1394,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Novopavlivka",
-      "coordinates": "48.13629, 36.73524"
+      "coordinates": "48.13629, 36.73524",
+      "metar_available": false
     },
     {
       "ident": "UA-0121",
@@ -1283,7 +1405,8 @@
       "iso_country": "UA",
       "iso_region": "UA-53",
       "municipality": "Kobelyachok",
-      "coordinates": "49.0522143, 33.7993478"
+      "coordinates": "49.0522143, 33.7993478",
+      "metar_available": false
     },
     {
       "ident": "UA-0122",
@@ -1293,7 +1416,8 @@
       "iso_country": "UA",
       "iso_region": "UA-35",
       "municipality": "Iskrivka",
-      "coordinates": "48.1787704, 33.354016"
+      "coordinates": "48.1787704, 33.354016",
+      "metar_available": false
     },
     {
       "ident": "UA-0123",
@@ -1304,7 +1428,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Biloyarivka",
-      "coordinates": "47.810729, 38.629275"
+      "coordinates": "47.810729, 38.629275",
+      "metar_available": false
     },
     {
       "ident": "UA-0124",
@@ -1314,7 +1439,8 @@
       "iso_country": "UA",
       "iso_region": "UA-19",
       "municipality": "Vychivka",
-      "coordinates": "51.8205394, 26.2873632"
+      "coordinates": "51.8205394, 26.2873632",
+      "metar_available": false
     },
     {
       "ident": "UA-0125",
@@ -1325,7 +1451,8 @@
       "iso_region": "UA-32",
       "municipality": "Bilohorodka",
       "local_code": "HD2P",
-      "coordinates": "50.424592, 30.272464"
+      "coordinates": "50.424592, 30.272464",
+      "metar_available": false
     },
     {
       "ident": "UA-0126",
@@ -1335,7 +1462,8 @@
       "iso_country": "UA",
       "iso_region": "UA-26",
       "gps_code": "UKMG",
-      "coordinates": "48.788823, 24.476531"
+      "coordinates": "48.788823, 24.476531",
+      "metar_available": false
     },
     {
       "ident": "UA-0127",
@@ -1347,7 +1475,8 @@
       "iso_region": "UA-21",
       "municipality": "Koson'",
       "gps_code": "UKMN",
-      "coordinates": "48.25318, 22.498503"
+      "coordinates": "48.25318, 22.498503",
+      "metar_available": false
     },
     {
       "ident": "UA-0128",
@@ -1357,7 +1486,8 @@
       "iso_country": "UA",
       "iso_region": "UA-26",
       "local_code": "ZF5F",
-      "coordinates": "48.78682, 25.217443"
+      "coordinates": "48.78682, 25.217443",
+      "metar_available": false
     },
     {
       "ident": "UA-0129",
@@ -1368,7 +1498,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Otvazhnoe",
-      "coordinates": "45.020896, 35.206845"
+      "coordinates": "45.020896, 35.206845",
+      "metar_available": false
     },
     {
       "ident": "UA-0130",
@@ -1378,7 +1509,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Kurhanne",
-      "coordinates": "45.8541, 33.7062"
+      "coordinates": "45.8541, 33.7062",
+      "metar_available": false
     },
     {
       "ident": "UA-0131",
@@ -1388,7 +1520,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Kukushkino",
-      "coordinates": "45.698139, 33.36079"
+      "coordinates": "45.698139, 33.36079",
+      "metar_available": false
     },
     {
       "ident": "UA-0132",
@@ -1399,7 +1532,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Slavne",
-      "coordinates": "45.731711, 33.21123"
+      "coordinates": "45.731711, 33.21123",
+      "metar_available": false
     },
     {
       "ident": "UA-0133",
@@ -1409,7 +1543,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Pochetne",
-      "coordinates": "45.999861, 33.78224"
+      "coordinates": "45.999861, 33.78224",
+      "metar_available": false
     },
     {
       "ident": "UA-0134",
@@ -1419,7 +1554,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Preobrazhenka",
-      "coordinates": "46.18, 33.5934"
+      "coordinates": "46.18, 33.5934",
+      "metar_available": false
     },
     {
       "ident": "UA-0135",
@@ -1429,7 +1565,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Pryvillya",
-      "coordinates": "46.149626, 33.404544"
+      "coordinates": "46.149626, 33.404544",
+      "metar_available": false
     },
     {
       "ident": "UA-0136",
@@ -1440,7 +1577,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Lazurne",
-      "coordinates": "46.0838, 32.5075"
+      "coordinates": "46.0838, 32.5075",
+      "metar_available": false
     },
     {
       "ident": "UA-0137",
@@ -1451,7 +1589,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Bekhtery",
-      "coordinates": "46.232, 32.292"
+      "coordinates": "46.232, 32.292",
+      "metar_available": false
     },
     {
       "ident": "UA-0138",
@@ -1461,7 +1600,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Oleksiivka",
-      "coordinates": "46.2626, 32.218"
+      "coordinates": "46.2626, 32.218",
+      "metar_available": false
     },
     {
       "ident": "UA-0139",
@@ -1472,7 +1612,8 @@
       "iso_country": "UA",
       "iso_region": "UA-71",
       "municipality": "Trakhtemyriv",
-      "coordinates": "49.984294, 31.339095"
+      "coordinates": "49.984294, 31.339095",
+      "metar_available": false
     },
     {
       "ident": "UA-0140",
@@ -1484,7 +1625,8 @@
       "iso_region": "UA-30",
       "municipality": "Kyiv",
       "gps_code": "UKIH",
-      "coordinates": "50.406424, 30.579473"
+      "coordinates": "50.406424, 30.579473",
+      "metar_available": false
     },
     {
       "ident": "UA-0141",
@@ -1495,7 +1637,8 @@
       "iso_country": "UA",
       "iso_region": "UA-09",
       "municipality": "Luhansk",
-      "coordinates": "48.50259, 39.150295"
+      "coordinates": "48.50259, 39.150295",
+      "metar_available": false
     },
     {
       "ident": "UA-0142",
@@ -1506,7 +1649,8 @@
       "iso_country": "UA",
       "iso_region": "UA-09",
       "municipality": "Lysychansk",
-      "coordinates": "48.9323, 38.4097"
+      "coordinates": "48.9323, 38.4097",
+      "metar_available": false
     },
     {
       "ident": "UA-0143",
@@ -1517,7 +1661,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Siyatel'",
-      "coordinates": "47.9042, 38.5194"
+      "coordinates": "47.9042, 38.5194",
+      "metar_available": false
     },
     {
       "ident": "UA-0144",
@@ -1529,7 +1674,8 @@
       "iso_region": "UA-32",
       "municipality": "Borodyanka",
       "gps_code": "UKKB",
-      "coordinates": "50.6661, 29.9329"
+      "coordinates": "50.6661, 29.9329",
+      "metar_available": false
     },
     {
       "ident": "UA-0145",
@@ -1540,7 +1686,8 @@
       "iso_country": "UA",
       "iso_region": "UA-74",
       "municipality": "Hirmanka",
-      "coordinates": "51.5196, 30.955"
+      "coordinates": "51.5196, 30.955",
+      "metar_available": false
     },
     {
       "ident": "UA-0146",
@@ -1551,7 +1698,8 @@
       "iso_country": "UA",
       "iso_region": "UA-61",
       "municipality": "Borschiv",
-      "coordinates": "48.81223, 26.022577"
+      "coordinates": "48.81223, 26.022577",
+      "metar_available": false
     },
     {
       "ident": "UA-0147",
@@ -1562,7 +1710,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Yuzhne",
-      "coordinates": "46.61731, 31.11865"
+      "coordinates": "46.61731, 31.11865",
+      "metar_available": false
     },
     {
       "ident": "UA-0148",
@@ -1573,7 +1722,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Oleksandrivka",
-      "coordinates": "46.3069, 31.9753"
+      "coordinates": "46.3069, 31.9753",
+      "metar_available": false
     },
     {
       "ident": "UA-0149",
@@ -1584,7 +1734,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.3977, 33.94168"
+      "coordinates": "44.3977, 33.94168",
+      "metar_available": false
     },
     {
       "ident": "UA-0150",
@@ -1595,7 +1746,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.40043, 33.92258"
+      "coordinates": "44.40043, 33.92258",
+      "metar_available": false
     },
     {
       "ident": "UA-0151",
@@ -1606,7 +1758,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.5097, 33.6069"
+      "coordinates": "44.5097, 33.6069",
+      "metar_available": false
     },
     {
       "ident": "UA-0152",
@@ -1617,7 +1770,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.4207, 33.6741"
+      "coordinates": "44.4207, 33.6741",
+      "metar_available": false
     },
     {
       "ident": "UA-0153",
@@ -1628,7 +1782,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.4074, 33.8539"
+      "coordinates": "44.4074, 33.8539",
+      "metar_available": false
     },
     {
       "ident": "UA-0154",
@@ -1638,7 +1793,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.4045, 33.8663"
+      "coordinates": "44.4045, 33.8663",
+      "metar_available": false
     },
     {
       "ident": "UA-0155",
@@ -1648,7 +1804,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.4043, 33.8779"
+      "coordinates": "44.4043, 33.8779",
+      "metar_available": false
     },
     {
       "ident": "UA-0156",
@@ -1659,7 +1816,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.40605, 33.88245"
+      "coordinates": "44.40605, 33.88245",
+      "metar_available": false
     },
     {
       "ident": "UA-0157",
@@ -1670,7 +1828,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.39893, 33.9192"
+      "coordinates": "44.39893, 33.9192",
+      "metar_available": false
     },
     {
       "ident": "UA-0158",
@@ -1681,7 +1840,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.4513, 34.1293"
+      "coordinates": "44.4513, 34.1293",
+      "metar_available": false
     },
     {
       "ident": "UA-0159",
@@ -1692,7 +1852,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.461824, 34.145346"
+      "coordinates": "44.461824, 34.145346",
+      "metar_available": false
     },
     {
       "ident": "UA-0160",
@@ -1703,7 +1864,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.5145, 34.2039"
+      "coordinates": "44.5145, 34.2039",
+      "metar_available": false
     },
     {
       "ident": "UA-0161",
@@ -1714,7 +1876,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.56059, 34.307563"
+      "coordinates": "44.56059, 34.307563",
+      "metar_available": false
     },
     {
       "ident": "UA-0162",
@@ -1725,7 +1888,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Alushta",
-      "coordinates": "44.586, 34.3396"
+      "coordinates": "44.586, 34.3396",
+      "metar_available": false
     },
     {
       "ident": "UA-0163",
@@ -1736,7 +1900,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Alushta",
-      "coordinates": "44.6511, 34.3995"
+      "coordinates": "44.6511, 34.3995",
+      "metar_available": false
     },
     {
       "ident": "UA-0164",
@@ -1747,7 +1912,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Reni",
-      "coordinates": "45.42554, 28.29038"
+      "coordinates": "45.42554, 28.29038",
+      "metar_available": false
     },
     {
       "ident": "UA-0165",
@@ -1758,7 +1924,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Semysotka",
-      "coordinates": "46.29002, 29.40827"
+      "coordinates": "46.29002, 29.40827",
+      "metar_available": false
     },
     {
       "ident": "UA-0166",
@@ -1769,7 +1936,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Semysotka",
-      "coordinates": "46.29598, 29.41779"
+      "coordinates": "46.29598, 29.41779",
+      "metar_available": false
     },
     {
       "ident": "UA-0167",
@@ -1780,7 +1948,8 @@
       "iso_country": "UA",
       "iso_region": "UA-40",
       "municipality": "Sevastopol",
-      "coordinates": "44.57702, 33.49612"
+      "coordinates": "44.57702, 33.49612",
+      "metar_available": false
     },
     {
       "ident": "UA-0168",
@@ -1791,7 +1960,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Chaplynka",
-      "coordinates": "46.34539, 33.54191"
+      "coordinates": "46.34539, 33.54191",
+      "metar_available": false
     },
     {
       "ident": "UA-0169",
@@ -1802,7 +1972,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Vesele",
-      "coordinates": "47.0369, 34.91204"
+      "coordinates": "47.0369, 34.91204",
+      "metar_available": false
     },
     {
       "ident": "UA-0170",
@@ -1813,7 +1984,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Shyroke",
-      "coordinates": "46.94635, 34.91222"
+      "coordinates": "46.94635, 34.91222",
+      "metar_available": false
     },
     {
       "ident": "UA-0171",
@@ -1824,7 +1996,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Prymors'k",
-      "coordinates": "46.7441, 36.32766"
+      "coordinates": "46.7441, 36.32766",
+      "metar_available": false
     },
     {
       "ident": "UA-0172",
@@ -1835,7 +2008,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Pryazovs'ke",
-      "coordinates": "46.7513, 35.6342"
+      "coordinates": "46.7513, 35.6342",
+      "metar_available": false
     },
     {
       "ident": "UA-0173",
@@ -1846,7 +2020,8 @@
       "iso_country": "UA",
       "iso_region": "UA-59",
       "municipality": "Hlukhiv",
-      "coordinates": "51.68335, 33.87135"
+      "coordinates": "51.68335, 33.87135",
+      "metar_available": false
     },
     {
       "ident": "UA-0174",
@@ -1855,7 +2030,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-51",
-      "coordinates": "45.255778, 30.201306"
+      "coordinates": "45.255778, 30.201306",
+      "metar_available": false
     },
     {
       "ident": "UA-0175",
@@ -1866,7 +2042,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Holubivka",
-      "coordinates": "48.63034, 38.67211"
+      "coordinates": "48.63034, 38.67211",
+      "metar_available": false
     },
     {
       "ident": "UA-0176",
@@ -1876,7 +2053,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Yalta",
-      "coordinates": "44.511515, 34.155678"
+      "coordinates": "44.511515, 34.155678",
+      "metar_available": false
     },
     {
       "ident": "UA-0177",
@@ -1887,7 +2065,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Orlyanske",
-      "coordinates": "47.34706, 35.142817"
+      "coordinates": "47.34706, 35.142817",
+      "metar_available": false
     },
     {
       "ident": "UA-0178",
@@ -1898,7 +2077,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Mala Bilozerka",
-      "coordinates": "47.268353, 34.962648"
+      "coordinates": "47.268353, 34.962648",
+      "metar_available": false
     },
     {
       "ident": "UA-0179",
@@ -1909,7 +2089,8 @@
       "iso_country": "UA",
       "iso_region": "UA-77",
       "municipality": "Mamalyha",
-      "coordinates": "48.2477, 26.58473"
+      "coordinates": "48.2477, 26.58473",
+      "metar_available": false
     },
     {
       "ident": "UA-0180",
@@ -1920,7 +2101,8 @@
       "iso_country": "UA",
       "iso_region": "UA-63",
       "municipality": "Sydorenko",
-      "coordinates": "49.711725, 35.385783"
+      "coordinates": "49.711725, 35.385783",
+      "metar_available": false
     },
     {
       "ident": "UA-0181",
@@ -1930,7 +2112,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Novomikolayivka, Polohy Raion",
-      "coordinates": "47.100432, 35.702487"
+      "coordinates": "47.100432, 35.702487",
+      "metar_available": false
     },
     {
       "ident": "UA-0182",
@@ -1940,7 +2123,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Vil'nyanka, Zaporizhzhia Raion",
-      "coordinates": "47.966307, 35.390482"
+      "coordinates": "47.966307, 35.390482",
+      "metar_available": false
     },
     {
       "ident": "UA-0183",
@@ -1950,7 +2134,8 @@
       "iso_country": "UA",
       "iso_region": "UA-23",
       "municipality": "Balabyne, Zaporizhzhia Raion",
-      "coordinates": "47.768436, 35.2604"
+      "coordinates": "47.768436, 35.2604",
+      "metar_available": false
     },
     {
       "ident": "UA-0184",
@@ -1960,7 +2145,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Apostolove",
-      "coordinates": "47.657898, 33.752977"
+      "coordinates": "47.657898, 33.752977",
+      "metar_available": false
     },
     {
       "ident": "UA-0186",
@@ -1970,7 +2156,8 @@
       "iso_country": "UA",
       "iso_region": "UA-65",
       "municipality": "Tarasivka",
-      "coordinates": "46.424692, 33.05609"
+      "coordinates": "46.424692, 33.05609",
+      "metar_available": false
     },
     {
       "ident": "UA-0187",
@@ -1981,7 +2168,8 @@
       "iso_country": "UA",
       "iso_region": "UA-21",
       "municipality": "Solovka",
-      "coordinates": "48.364593, 22.271009"
+      "coordinates": "48.364593, 22.271009",
+      "metar_available": false
     },
     {
       "ident": "UA-0188",
@@ -1991,7 +2179,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-21",
-      "coordinates": "49.04233, 22.604014"
+      "coordinates": "49.04233, 22.604014",
+      "metar_available": false
     },
     {
       "ident": "UA-0189",
@@ -2002,7 +2191,8 @@
       "iso_country": "UA",
       "iso_region": "UA-43",
       "municipality": "Shcholkine",
-      "coordinates": "45.388932, 35.776355"
+      "coordinates": "45.388932, 35.776355",
+      "metar_available": false
     },
     {
       "ident": "UA-0190",
@@ -2013,7 +2203,8 @@
       "iso_country": "UA",
       "iso_region": "UA-05",
       "municipality": "Khmilnyk",
-      "coordinates": "49.569142, 28.016074"
+      "coordinates": "49.569142, 28.016074",
+      "metar_available": false
     },
     {
       "ident": "UA-0191",
@@ -2022,7 +2213,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-65",
-      "coordinates": "45.890486, 34.896269"
+      "coordinates": "45.890486, 34.896269",
+      "metar_available": false
     },
     {
       "ident": "UA-0192",
@@ -2034,7 +2226,8 @@
       "iso_region": "UA-46",
       "municipality": "Rava-Ruska",
       "local_code": "HG29",
-      "coordinates": "50.268803, 23.593541"
+      "coordinates": "50.268803, 23.593541",
+      "metar_available": false
     },
     {
       "ident": "UA-0193",
@@ -2045,7 +2238,8 @@
       "iso_country": "UA",
       "iso_region": "UA-26",
       "municipality": "Lukvitsa",
-      "coordinates": "48.755572, 24.278632"
+      "coordinates": "48.755572, 24.278632",
+      "metar_available": false
     },
     {
       "ident": "UA-0194",
@@ -2056,7 +2250,8 @@
       "iso_country": "UA",
       "iso_region": "UA-07",
       "municipality": "Mar'yanivka",
-      "coordinates": "50.464547, 24.833452"
+      "coordinates": "50.464547, 24.833452",
+      "metar_available": false
     },
     {
       "ident": "UA-0195",
@@ -2067,7 +2262,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Bucha",
-      "coordinates": "50.568457, 30.214526"
+      "coordinates": "50.568457, 30.214526",
+      "metar_available": false
     },
     {
       "ident": "UA-0196",
@@ -2078,7 +2274,8 @@
       "iso_country": "UA",
       "iso_region": "UA-35",
       "municipality": "Znamenka",
-      "coordinates": "48.740052, 32.696645"
+      "coordinates": "48.740052, 32.696645",
+      "metar_available": false
     },
     {
       "ident": "UA-0197",
@@ -2087,7 +2284,8 @@
       "continent": "EU",
       "iso_country": "UA",
       "iso_region": "UA-26",
-      "coordinates": "49.360802, 24.619849"
+      "coordinates": "49.360802, 24.619849",
+      "metar_available": false
     },
     {
       "ident": "UA-0198",
@@ -2097,7 +2295,8 @@
       "iso_country": "UA",
       "iso_region": "UA-68",
       "municipality": "Fadiivka",
-      "coordinates": "49.99397, 27.40754"
+      "coordinates": "49.99397, 27.40754",
+      "metar_available": false
     },
     {
       "ident": "UA-1901",
@@ -2109,7 +2308,8 @@
       "iso_region": "UA-46",
       "municipality": "Sambir",
       "gps_code": "UKLA",
-      "coordinates": "49.550654, 23.334579"
+      "coordinates": "49.550654, 23.334579",
+      "metar_available": false
     },
     {
       "ident": "UA-2644",
@@ -2121,7 +2321,8 @@
       "iso_region": "UA-68",
       "municipality": "Starokostiantyniv",
       "gps_code": "UKLS",
-      "coordinates": "49.748299, 27.2733"
+      "coordinates": "49.748299, 27.2733",
+      "metar_available": false
     },
     {
       "ident": "UA-2904",
@@ -2133,7 +2334,8 @@
       "iso_region": "UA-19",
       "municipality": "Dubno",
       "gps_code": "UKLJ",
-      "coordinates": "50.444987, 25.838414"
+      "coordinates": "50.444987, 25.838414",
+      "metar_available": false
     },
     {
       "ident": "UA-3578",
@@ -2145,7 +2347,8 @@
       "iso_region": "UA-59",
       "municipality": "Konotop",
       "gps_code": "UKBF",
-      "coordinates": "51.240304, 33.146532"
+      "coordinates": "51.240304, 33.146532",
+      "metar_available": false
     },
     {
       "ident": "UA-3730",
@@ -2156,7 +2359,8 @@
       "iso_country": "UA",
       "iso_region": "UA-59",
       "municipality": "Okhtyrka",
-      "coordinates": "50.306, 35.02"
+      "coordinates": "50.306, 35.02",
+      "metar_available": false
     },
     {
       "ident": "UA-3897",
@@ -2167,7 +2371,8 @@
       "iso_country": "UA",
       "iso_region": "UA-59",
       "municipality": "Lebedyn",
-      "coordinates": "50.549999, 34.533298"
+      "coordinates": "50.549999, 34.533298",
+      "metar_available": false
     },
     {
       "ident": "UA-6118",
@@ -2179,7 +2384,8 @@
       "iso_region": "UA-32",
       "municipality": "Vasylkiv",
       "gps_code": "UKKW",
-      "coordinates": "50.234689, 30.30092"
+      "coordinates": "50.234689, 30.30092",
+      "metar_available": false
     },
     {
       "ident": "UA-6709",
@@ -2190,7 +2396,8 @@
       "iso_country": "UA",
       "iso_region": "UA-53",
       "municipality": "Pyriatyn",
-      "coordinates": "50.1500015259, 32.5332984924"
+      "coordinates": "50.1500015259, 32.5332984924",
+      "metar_available": false
     },
     {
       "ident": "UA-7707",
@@ -2202,7 +2409,8 @@
       "iso_region": "UA-74",
       "municipality": "Pryluky",
       "gps_code": "UKBP",
-      "coordinates": "50.5667, 32.3167"
+      "coordinates": "50.5667, 32.3167",
+      "metar_available": false
     },
     {
       "ident": "UA-8143",
@@ -2213,7 +2421,8 @@
       "iso_country": "UA",
       "iso_region": "UA-46",
       "municipality": "Stryi",
-      "coordinates": "49.24330139160156, 23.786699295043945"
+      "coordinates": "49.24330139160156, 23.786699295043945",
+      "metar_available": false
     },
     {
       "ident": "UA-8322",
@@ -2224,7 +2433,8 @@
       "iso_country": "UA",
       "iso_region": "UA-74",
       "municipality": "Gorodnya",
-      "coordinates": "51.883767, 31.645489"
+      "coordinates": "51.883767, 31.645489",
+      "metar_available": false
     },
     {
       "ident": "UA-8381",
@@ -2235,7 +2445,8 @@
       "iso_country": "UA",
       "iso_region": "UA-46",
       "municipality": "Kalush",
-      "coordinates": "49.2883, 24.198299"
+      "coordinates": "49.2883, 24.198299",
+      "metar_available": false
     },
     {
       "ident": "UA-8984",
@@ -2246,7 +2457,8 @@
       "iso_country": "UA",
       "iso_region": "UA-07",
       "municipality": "Lutsk",
-      "coordinates": "50.788683025299996, 25.3482913971"
+      "coordinates": "50.788683025299996, 25.3482913971",
+      "metar_available": false
     },
     {
       "ident": "UA-9155",
@@ -2257,7 +2469,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Ovruch",
-      "coordinates": "51.271366, 28.720837"
+      "coordinates": "51.271366, 28.720837",
+      "metar_available": false
     },
     {
       "ident": "UA-9861",
@@ -2268,7 +2481,8 @@
       "iso_country": "UA",
       "iso_region": "UA-07",
       "municipality": "Volodymyr-Volynskyi",
-      "coordinates": "50.9109992980957, 24.45199966430664"
+      "coordinates": "50.9109992980957, 24.45199966430664",
+      "metar_available": false
     },
     {
       "ident": "UA-9862",
@@ -2279,7 +2493,8 @@
       "iso_country": "UA",
       "iso_region": "UA-14",
       "municipality": "Donetsk",
-      "coordinates": "48.075072, 37.72527"
+      "coordinates": "48.075072, 37.72527",
+      "metar_available": false
     },
     {
       "ident": "UA-9863",
@@ -2290,7 +2505,8 @@
       "iso_country": "UA",
       "iso_region": "UA-09",
       "municipality": "Luhansk",
-      "coordinates": "48.4174, 39.3741"
+      "coordinates": "48.4174, 39.3741",
+      "metar_available": false
     },
     {
       "ident": "UA-9864",
@@ -2301,7 +2517,8 @@
       "iso_country": "UA",
       "iso_region": "UA-32",
       "municipality": "Uzin",
-      "coordinates": "49.7906, 30.441401"
+      "coordinates": "49.7906, 30.441401",
+      "metar_available": false
     },
     {
       "ident": "UA-9865",
@@ -2312,7 +2529,8 @@
       "iso_country": "UA",
       "iso_region": "UA-74",
       "municipality": "Chernihiv",
-      "coordinates": "51.402199, 31.1583"
+      "coordinates": "51.402199, 31.1583",
+      "metar_available": false
     },
     {
       "ident": "UA-9866",
@@ -2323,7 +2541,8 @@
       "iso_country": "UA",
       "iso_region": "UA-09",
       "municipality": "Sievierodonetsk",
-      "coordinates": "48.900926, 38.54279"
+      "coordinates": "48.900926, 38.54279",
+      "metar_available": false
     },
     {
       "ident": "UA-9867",
@@ -2334,7 +2553,8 @@
       "iso_country": "UA",
       "iso_region": "UA-30",
       "municipality": "Kyiv",
-      "coordinates": "50.478224, 30.384631"
+      "coordinates": "50.478224, 30.384631",
+      "metar_available": false
     },
     {
       "ident": "UA-9868",
@@ -2345,7 +2565,8 @@
       "iso_country": "UA",
       "iso_region": "UA-51",
       "municipality": "Izmail",
-      "coordinates": "45.395959, 28.801403"
+      "coordinates": "45.395959, 28.801403",
+      "metar_available": false
     },
     {
       "ident": "UA-9869",
@@ -2356,7 +2577,8 @@
       "iso_country": "UA",
       "iso_region": "UA-18",
       "municipality": "Popilnia",
-      "coordinates": "49.962967, 29.404316"
+      "coordinates": "49.962967, 29.404316",
+      "metar_available": false
     },
     {
       "ident": "UA-9870",
@@ -2367,7 +2589,8 @@
       "iso_country": "UA",
       "iso_region": "UA-63",
       "municipality": "Lyutivka",
-      "coordinates": "50.290867, 35.837666"
+      "coordinates": "50.290867, 35.837666",
+      "metar_available": false
     },
     {
       "ident": "UA-9871",
@@ -2378,7 +2601,8 @@
       "iso_country": "UA",
       "iso_region": "UA-19",
       "municipality": "Ozeryany",
-      "coordinates": "50.462433, 26.010916"
+      "coordinates": "50.462433, 26.010916",
+      "metar_available": false
     },
     {
       "ident": "UA-9872",
@@ -2389,7 +2613,8 @@
       "iso_country": "UA",
       "iso_region": "UA-63",
       "municipality": "Rakytne",
-      "coordinates": "49.83241, 35.9175"
+      "coordinates": "49.83241, 35.9175",
+      "metar_available": false
     },
     {
       "ident": "UA-9873",
@@ -2399,7 +2624,8 @@
       "iso_country": "UA",
       "iso_region": "UA-71",
       "municipality": "Pekari",
-      "coordinates": "49.69852, 31.560553"
+      "coordinates": "49.69852, 31.560553",
+      "metar_available": false
     },
     {
       "ident": "UA-9874",
@@ -2410,7 +2636,8 @@
       "iso_country": "UA",
       "iso_region": "UA-12",
       "municipality": "Petrykivka",
-      "coordinates": "48.74488, 34.63659"
+      "coordinates": "48.74488, 34.63659",
+      "metar_available": false
     },
     {
       "ident": "UA-9875",
@@ -2420,7 +2647,8 @@
       "iso_country": "UA",
       "iso_region": "UA-68",
       "municipality": "Polonne",
-      "coordinates": "50.11822, 27.45884"
+      "coordinates": "50.11822, 27.45884",
+      "metar_available": false
     },
     {
       "ident": "UA-9876",
@@ -2431,7 +2659,8 @@
       "iso_country": "UA",
       "iso_region": "UA-35",
       "municipality": "Podorozhnje",
-      "coordinates": "49.03422, 33.10005"
+      "coordinates": "49.03422, 33.10005",
+      "metar_available": false
     },
     {
       "ident": "UK59",
@@ -2443,7 +2672,8 @@
       "iso_region": "UA-63",
       "municipality": "Chuhuiv",
       "gps_code": "UKHW",
-      "coordinates": "49.8382, 36.641201"
+      "coordinates": "49.8382, 36.641201",
+      "metar_available": false
     },
     {
       "ident": "UK61",
@@ -2455,7 +2685,8 @@
       "iso_region": "UA-46",
       "municipality": "Gorodok",
       "gps_code": "UKMC",
-      "coordinates": "49.7379, 23.6689"
+      "coordinates": "49.7379, 23.6689",
+      "metar_available": false
     },
     {
       "ident": "UKBB",
@@ -2468,7 +2699,8 @@
       "municipality": "Boryspil",
       "gps_code": "UKBB",
       "iata_code": "KBP",
-      "coordinates": "50.345001, 30.894699"
+      "coordinates": "50.345001, 30.894699",
+      "metar_available": false
     },
     {
       "ident": "UKBH",
@@ -2479,7 +2711,8 @@
       "iso_country": "UA",
       "iso_region": "UA-71",
       "gps_code": "UKBH",
-      "coordinates": "49.424902, 31.230242"
+      "coordinates": "49.424902, 31.230242",
+      "metar_available": false
     },
     {
       "ident": "UKCK",
@@ -2492,7 +2725,8 @@
       "municipality": "Kramatorsk",
       "gps_code": "UKCK",
       "iata_code": "KRQ",
-      "coordinates": "48.706799, 37.630922"
+      "coordinates": "48.706799, 37.630922",
+      "metar_available": false
     },
     {
       "ident": "UKCM",
@@ -2505,7 +2739,8 @@
       "municipality": "Mariupol",
       "gps_code": "UKCM",
       "iata_code": "MPW",
-      "coordinates": "47.07609939575195, 37.44960021972656"
+      "coordinates": "47.07609939575195, 37.44960021972656",
+      "metar_available": false
     },
     {
       "ident": "UKDB",
@@ -2518,7 +2753,8 @@
       "municipality": "Berdyansk",
       "gps_code": "UKDB",
       "iata_code": "ERD",
-      "coordinates": "46.814999, 36.758099"
+      "coordinates": "46.814999, 36.758099",
+      "metar_available": false
     },
     {
       "ident": "UKDD",
@@ -2531,7 +2767,8 @@
       "municipality": "Dnipro",
       "gps_code": "UKDD",
       "iata_code": "DNK",
-      "coordinates": "48.357201, 35.100601"
+      "coordinates": "48.357201, 35.100601",
+      "metar_available": false
     },
     {
       "ident": "UKDE",
@@ -2544,7 +2781,8 @@
       "municipality": "Zaporizhia",
       "gps_code": "UKDE",
       "iata_code": "OZH",
-      "coordinates": "47.867000579833984, 35.31570053100586"
+      "coordinates": "47.867000579833984, 35.31570053100586",
+      "metar_available": false
     },
     {
       "ident": "UKDR",
@@ -2557,7 +2795,8 @@
       "municipality": "Kryvyi Rih",
       "gps_code": "UKDR",
       "iata_code": "KWG",
-      "coordinates": "48.04330062866211, 33.209999084472656"
+      "coordinates": "48.04330062866211, 33.209999084472656",
+      "metar_available": false
     },
     {
       "ident": "UKFB",
@@ -2570,7 +2809,8 @@
       "municipality": "Sevastopol",
       "gps_code": "UKFB",
       "iata_code": "UKS",
-      "coordinates": "44.691822, 33.57462"
+      "coordinates": "44.691822, 33.57462",
+      "metar_available": false
     },
     {
       "ident": "UKFF",
@@ -2584,7 +2824,8 @@
       "gps_code": "UKFF",
       "iata_code": "SIP",
       "local_code": "URFF",
-      "coordinates": "45.0522, 33.975101"
+      "coordinates": "45.0522, 33.975101",
+      "metar_available": false
     },
     {
       "ident": "UKFG",
@@ -2597,7 +2838,8 @@
       "municipality": "Hvardiiske",
       "gps_code": "UKFG",
       "local_code": "XRFG",
-      "coordinates": "45.116192, 33.976625"
+      "coordinates": "45.116192, 33.976625",
+      "metar_available": false
     },
     {
       "ident": "UKFI",
@@ -2609,7 +2851,8 @@
       "iso_region": "UA-43",
       "municipality": "Novofedorivka",
       "gps_code": "UKFI",
-      "coordinates": "45.090611, 33.598536"
+      "coordinates": "45.090611, 33.598536",
+      "metar_available": false
     },
     {
       "ident": "UKFK",
@@ -2622,7 +2865,8 @@
       "municipality": "Kerch",
       "gps_code": "UKFK",
       "iata_code": "KHC",
-      "coordinates": "45.372501, 36.401402"
+      "coordinates": "45.372501, 36.401402",
+      "metar_available": false
     },
     {
       "ident": "UKFV",
@@ -2634,7 +2878,8 @@
       "iso_region": "UA-43",
       "municipality": "Yevpatoriya",
       "gps_code": "UKFE",
-      "coordinates": "45.225601, 33.376701"
+      "coordinates": "45.225601, 33.376701",
+      "metar_available": false
     },
     {
       "ident": "UKFW",
@@ -2646,7 +2891,8 @@
       "iso_region": "UA-43",
       "municipality": "Simferopol",
       "gps_code": "UKFW",
-      "coordinates": "44.916281, 34.061586"
+      "coordinates": "44.916281, 34.061586",
+      "metar_available": false
     },
     {
       "ident": "UKFY",
@@ -2659,7 +2905,8 @@
       "municipality": "Dzhankoy",
       "gps_code": "UKFY",
       "local_code": "XRFY",
-      "coordinates": "45.700901, 34.4189"
+      "coordinates": "45.700901, 34.4189",
+      "metar_available": false
     },
     {
       "ident": "UKGW",
@@ -2671,7 +2918,8 @@
       "iso_region": "UA-19",
       "municipality": "Voroniv",
       "gps_code": "UKGW",
-      "coordinates": "50.695956, 26.699958"
+      "coordinates": "50.695956, 26.699958",
+      "metar_available": false
     },
     {
       "ident": "UKHD",
@@ -2683,7 +2931,8 @@
       "iso_region": "UA-63",
       "municipality": "Kharkiv",
       "gps_code": "UKHD",
-      "coordinates": "50.024675, 36.266775"
+      "coordinates": "50.024675, 36.266775",
+      "metar_available": false
     },
     {
       "ident": "UKHH",
@@ -2696,7 +2945,8 @@
       "municipality": "Kharkiv",
       "gps_code": "UKHH",
       "iata_code": "HRK",
-      "coordinates": "49.926943, 36.290814"
+      "coordinates": "49.926943, 36.290814",
+      "metar_available": false
     },
     {
       "ident": "UKHP",
@@ -2709,7 +2959,8 @@
       "municipality": "Poltava",
       "gps_code": "UKHP",
       "iata_code": "PLV",
-      "coordinates": "49.5686, 34.397202"
+      "coordinates": "49.5686, 34.397202",
+      "metar_available": false
     },
     {
       "ident": "UKHS",
@@ -2722,7 +2973,8 @@
       "municipality": "Sumy",
       "gps_code": "UKHS",
       "iata_code": "UMY",
-      "coordinates": "50.858299, 34.762501"
+      "coordinates": "50.858299, 34.762501",
+      "metar_available": false
     },
     {
       "ident": "UKIN",
@@ -2734,7 +2986,8 @@
       "iso_region": "UA-05",
       "municipality": "Haisyn",
       "gps_code": "UKIN",
-      "coordinates": "48.825876, 29.33431"
+      "coordinates": "48.825876, 29.33431",
+      "metar_available": false
     },
     {
       "ident": "UKKE",
@@ -2747,7 +3000,8 @@
       "municipality": "Cherkasy",
       "gps_code": "UKKE",
       "iata_code": "CKC",
-      "coordinates": "49.4156, 31.9953"
+      "coordinates": "49.4156, 31.9953",
+      "metar_available": false
     },
     {
       "ident": "UKKG",
@@ -2760,7 +3014,8 @@
       "municipality": "Kirovograd",
       "gps_code": "UKKG",
       "iata_code": "KGO",
-      "coordinates": "48.542801, 32.285"
+      "coordinates": "48.542801, 32.285",
+      "metar_available": false
     },
     {
       "ident": "UKKK",
@@ -2773,7 +3028,8 @@
       "municipality": "Kyiv",
       "gps_code": "UKKK",
       "iata_code": "IEV",
-      "coordinates": "50.40194, 30.45194"
+      "coordinates": "50.40194, 30.45194",
+      "metar_available": false
     },
     {
       "ident": "UKKM",
@@ -2785,7 +3041,8 @@
       "iso_region": "UA-32",
       "municipality": "Kiev",
       "gps_code": "UKKM",
-      "coordinates": "50.6035, 30.1919"
+      "coordinates": "50.6035, 30.1919",
+      "metar_available": false
     },
     {
       "ident": "UKKO",
@@ -2797,7 +3054,8 @@
       "iso_region": "UA-18",
       "municipality": "Zhytomyr",
       "gps_code": "UKKO",
-      "coordinates": "50.158298, 28.7383"
+      "coordinates": "50.158298, 28.7383",
+      "metar_available": false
     },
     {
       "ident": "UKKV",
@@ -2809,7 +3067,8 @@
       "municipality": "Zhytomyr",
       "gps_code": "UKKV",
       "iata_code": "ZTR",
-      "coordinates": "50.270556, 28.738611"
+      "coordinates": "50.270556, 28.738611",
+      "metar_available": false
     },
     {
       "ident": "UKLC",
@@ -2822,7 +3081,8 @@
       "municipality": "Lutsk",
       "gps_code": "UKLC",
       "iata_code": "UCK",
-      "coordinates": "50.678404, 25.487165"
+      "coordinates": "50.678404, 25.487165",
+      "metar_available": false
     },
     {
       "ident": "UKLH",
@@ -2835,7 +3095,8 @@
       "municipality": "Khmelnytskyi",
       "gps_code": "UKLH",
       "iata_code": "HMJ",
-      "coordinates": "49.359699, 26.933399"
+      "coordinates": "49.359699, 26.933399",
+      "metar_available": false
     },
     {
       "ident": "UKLI",
@@ -2848,7 +3109,8 @@
       "municipality": "Ivano-Frankivsk",
       "gps_code": "UKLI",
       "iata_code": "IFO",
-      "coordinates": "48.88420104980469, 24.686100006103516"
+      "coordinates": "48.88420104980469, 24.686100006103516",
+      "metar_available": false
     },
     {
       "ident": "UKLL",
@@ -2861,7 +3123,8 @@
       "municipality": "Lviv",
       "gps_code": "UKLL",
       "iata_code": "LWO",
-      "coordinates": "49.8125, 23.9561"
+      "coordinates": "49.8125, 23.9561",
+      "metar_available": false
     },
     {
       "ident": "UKLN",
@@ -2874,7 +3137,8 @@
       "municipality": "Chernivtsi",
       "gps_code": "UKLN",
       "iata_code": "CWC",
-      "coordinates": "48.259300231933594, 25.98080062866211"
+      "coordinates": "48.259300231933594, 25.98080062866211",
+      "metar_available": false
     },
     {
       "ident": "UKLR",
@@ -2887,7 +3151,8 @@
       "municipality": "Rivne",
       "gps_code": "UKLR",
       "iata_code": "RWN",
-      "coordinates": "50.60710144042969, 26.141599655151367"
+      "coordinates": "50.60710144042969, 26.141599655151367",
+      "metar_available": false
     },
     {
       "ident": "UKLT",
@@ -2900,7 +3165,8 @@
       "municipality": "Ternopil",
       "gps_code": "UKLT",
       "iata_code": "TNL",
-      "coordinates": "49.5242, 25.7001"
+      "coordinates": "49.5242, 25.7001",
+      "metar_available": false
     },
     {
       "ident": "UKLU",
@@ -2913,7 +3179,8 @@
       "municipality": "Uzhhorod",
       "gps_code": "UKLU",
       "iata_code": "UDJ",
-      "coordinates": "48.6343, 22.263399"
+      "coordinates": "48.6343, 22.263399",
+      "metar_available": false
     },
     {
       "ident": "UKNG",
@@ -2924,7 +3191,8 @@
       "iso_region": "UA-32",
       "municipality": "Gogoliv (Kiev)",
       "gps_code": "UKNG",
-      "coordinates": "50.515308, 31.046581"
+      "coordinates": "50.515308, 31.046581",
+      "metar_available": false
     },
     {
       "ident": "UKOH",
@@ -2937,7 +3205,8 @@
       "municipality": "Kherson",
       "gps_code": "UKOH",
       "iata_code": "KHE",
-      "coordinates": "46.6758, 32.506401"
+      "coordinates": "46.6758, 32.506401",
+      "metar_available": false
     },
     {
       "ident": "UKON",
@@ -2950,7 +3219,8 @@
       "municipality": "Nikolayev",
       "gps_code": "UKON",
       "iata_code": "NLV",
-      "coordinates": "47.057899, 31.9198"
+      "coordinates": "47.057899, 31.9198",
+      "metar_available": false
     },
     {
       "ident": "UKOO",
@@ -2963,7 +3233,8 @@
       "municipality": "Odessa",
       "gps_code": "UKOO",
       "iata_code": "ODS",
-      "coordinates": "46.4268, 30.6765"
+      "coordinates": "46.4268, 30.6765",
+      "metar_available": false
     },
     {
       "ident": "UKOR",
@@ -2975,7 +3246,8 @@
       "iso_region": "UA-48",
       "municipality": "Mykolaiv",
       "gps_code": "UKOR",
-      "coordinates": "46.936433, 32.098618"
+      "coordinates": "46.936433, 32.098618",
+      "metar_available": false
     },
     {
       "ident": "UKVN",
@@ -2986,7 +3258,8 @@
       "iso_region": "UA-32",
       "municipality": "Nalyvaikivka",
       "gps_code": "UKVN",
-      "coordinates": "50.479167, 29.735833"
+      "coordinates": "50.479167, 29.735833",
+      "metar_available": false
     },
     {
       "ident": "UKWW",
@@ -2999,7 +3272,8 @@
       "municipality": "Vinnitsa",
       "gps_code": "UKWW",
       "iata_code": "VIN",
-      "coordinates": "49.242531, 28.613778"
+      "coordinates": "49.242531, 28.613778",
+      "metar_available": false
     },
     {
       "ident": "UPTS",
@@ -3011,7 +3285,8 @@
       "iso_region": "UA-46",
       "municipality": "Truskavets",
       "gps_code": "UPTS",
-      "coordinates": "49.267747, 23.496729"
+      "coordinates": "49.267747, 23.496729",
+      "metar_available": false
     }
   ]
 }

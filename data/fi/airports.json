@@ -2,7 +2,7 @@
   "country_code": "FI",
   "country_name": "Finland",
   "total_airports": 125,
-  "last_updated": "2025-08-01T00:18:22.681600",
+  "last_updated": "2025-08-25T10:08:40.822779",
   "types_distribution": {
     "small_airport": 67,
     "heliport": 17,
@@ -20,7 +20,8 @@
       "iso_country": "FI",
       "iso_region": "FI-10",
       "gps_code": "EFAA",
-      "coordinates": "67.6036, 23.971701"
+      "coordinates": "67.6036, 23.971701",
+      "metar_available": false
     },
     {
       "ident": "EFAH",
@@ -32,7 +33,8 @@
       "iso_region": "FI-14",
       "municipality": "Oulu",
       "gps_code": "EFAH",
-      "coordinates": "64.895302, 25.752199"
+      "coordinates": "64.895302, 25.752199",
+      "metar_available": false
     },
     {
       "ident": "EFAL",
@@ -44,7 +46,8 @@
       "iso_region": "FI-03",
       "municipality": "Alavus",
       "gps_code": "EFAL",
-      "coordinates": "62.554699, 23.573299"
+      "coordinates": "62.554699, 23.573299",
+      "metar_available": false
     },
     {
       "ident": "EFEJ",
@@ -56,7 +59,8 @@
       "iso_region": "FI-18",
       "municipality": "Helsinki",
       "gps_code": "EFEJ",
-      "coordinates": "60.220833, 24.68639"
+      "coordinates": "60.220833, 24.68639",
+      "metar_available": false
     },
     {
       "ident": "EFEK",
@@ -67,7 +71,8 @@
       "iso_country": "FI",
       "iso_region": "FI-10",
       "gps_code": "EFEK",
-      "coordinates": "69.0022201538086, 20.89638900756836"
+      "coordinates": "69.0022201538086, 20.89638900756836",
+      "metar_available": false
     },
     {
       "ident": "EFET",
@@ -80,7 +85,8 @@
       "municipality": "Enontekio",
       "gps_code": "EFET",
       "iata_code": "ENF",
-      "coordinates": "68.362602233887, 23.424299240112"
+      "coordinates": "68.362602233887, 23.424299240112",
+      "metar_available": false
     },
     {
       "ident": "EFEU",
@@ -92,7 +98,8 @@
       "iso_region": "FI-17",
       "municipality": "Eura",
       "gps_code": "EFEU",
-      "coordinates": "61.1161, 22.201401"
+      "coordinates": "61.1161, 22.201401",
+      "metar_available": false
     },
     {
       "ident": "EFFO",
@@ -104,7 +111,8 @@
       "iso_region": "FI-06",
       "municipality": "Forssa",
       "gps_code": "EFFO",
-      "coordinates": "60.803683, 23.650802"
+      "coordinates": "60.803683, 23.650802",
+      "metar_available": false
     },
     {
       "ident": "EFGE",
@@ -116,7 +124,8 @@
       "iso_region": "FI-19",
       "municipality": "Genböle",
       "gps_code": "EFGE",
-      "coordinates": "60.086899, 22.5219"
+      "coordinates": "60.086899, 22.5219",
+      "metar_available": false
     },
     {
       "ident": "EFHA",
@@ -129,7 +138,8 @@
       "municipality": "Jämsä",
       "gps_code": "EFHA",
       "iata_code": "KEV",
-      "coordinates": "61.856039, 24.786686"
+      "coordinates": "61.856039, 24.786686",
+      "metar_available": false
     },
     {
       "ident": "EFHE",
@@ -142,7 +152,8 @@
       "municipality": "Helsinki",
       "gps_code": "EFHE",
       "iata_code": "HEN",
-      "coordinates": "60.147778, 24.924444"
+      "coordinates": "60.147778, 24.924444",
+      "metar_available": false
     },
     {
       "ident": "EFHH",
@@ -154,7 +165,8 @@
       "iso_region": "FI-06",
       "municipality": "Hämeenlinna",
       "gps_code": "EFHH",
-      "coordinates": "60.991112, 24.415277"
+      "coordinates": "60.991112, 24.415277",
+      "metar_available": false
     },
     {
       "ident": "EFHK",
@@ -167,7 +179,8 @@
       "municipality": "Helsinki (Vantaa)",
       "gps_code": "EFHK",
       "iata_code": "HEL",
-      "coordinates": "60.318363, 24.963341"
+      "coordinates": "60.318363, 24.963341",
+      "metar_available": false
     },
     {
       "ident": "EFHL",
@@ -179,7 +192,8 @@
       "iso_region": "FI-14",
       "municipality": "Hailuoto",
       "gps_code": "EFHL",
-      "coordinates": "64.969553, 24.704218"
+      "coordinates": "64.969553, 24.704218",
+      "metar_available": false
     },
     {
       "ident": "EFHM",
@@ -191,7 +205,8 @@
       "iso_region": "FI-11",
       "municipality": "Hämeenkyrö",
       "gps_code": "EFHM",
-      "coordinates": "61.689701, 23.0737"
+      "coordinates": "61.689701, 23.0737",
+      "metar_available": false
     },
     {
       "ident": "EFHN",
@@ -203,7 +218,8 @@
       "iso_region": "FI-18",
       "municipality": "Hanko",
       "gps_code": "EFHN",
-      "coordinates": "59.8489, 23.083599"
+      "coordinates": "59.8489, 23.083599",
+      "metar_available": false
     },
     {
       "ident": "EFHO",
@@ -215,7 +231,8 @@
       "iso_region": "FI-14",
       "municipality": "Oulu",
       "gps_code": "EFHO",
-      "coordinates": "65.003609, 25.520279"
+      "coordinates": "65.003609, 25.520279",
+      "metar_available": false
     },
     {
       "ident": "EFHP",
@@ -227,7 +244,8 @@
       "iso_region": "FI-14",
       "municipality": "Haapavesi",
       "gps_code": "EFHP",
-      "coordinates": "64.113098, 25.5042"
+      "coordinates": "64.113098, 25.5042",
+      "metar_available": false
     },
     {
       "ident": "EFHS",
@@ -239,7 +257,8 @@
       "iso_region": "FI-03",
       "municipality": "Seinäjoen",
       "gps_code": "EFHS",
-      "coordinates": "62.769919, 22.822402"
+      "coordinates": "62.769919, 22.822402",
+      "metar_available": false
     },
     {
       "ident": "EFHV",
@@ -252,7 +271,8 @@
       "municipality": "Hyvinkää",
       "gps_code": "EFHV",
       "iata_code": "HYV",
-      "coordinates": "60.6544, 24.8811"
+      "coordinates": "60.6544, 24.8811",
+      "metar_available": false
     },
     {
       "ident": "EFHY",
@@ -264,7 +284,8 @@
       "iso_region": "FI-18",
       "municipality": "Helsinki",
       "gps_code": "EFHY",
-      "coordinates": "60.188909, 24.907276"
+      "coordinates": "60.188909, 24.907276",
+      "metar_available": false
     },
     {
       "ident": "EFII",
@@ -276,7 +297,8 @@
       "iso_region": "FI-15",
       "municipality": "Iisalmi",
       "gps_code": "EFII",
-      "coordinates": "63.631901, 27.1222"
+      "coordinates": "63.631901, 27.1222",
+      "metar_available": false
     },
     {
       "ident": "EFIK",
@@ -288,7 +310,8 @@
       "iso_region": "FI-19",
       "municipality": "Kikala",
       "gps_code": "EFIK",
-      "coordinates": "60.462502, 23.6525"
+      "coordinates": "60.462502, 23.6525",
+      "metar_available": false
     },
     {
       "ident": "EFIM",
@@ -300,7 +323,8 @@
       "iso_region": "FI-02",
       "municipality": "Imatra",
       "gps_code": "EFIM",
-      "coordinates": "61.249199, 28.9037"
+      "coordinates": "61.249199, 28.9037",
+      "metar_available": false
     },
     {
       "ident": "EFIT",
@@ -313,7 +337,8 @@
       "municipality": "Kitee",
       "gps_code": "EFIT",
       "iata_code": "KTQ",
-      "coordinates": "62.1661, 30.073601"
+      "coordinates": "62.1661, 30.073601",
+      "metar_available": false
     },
     {
       "ident": "EFIV",
@@ -326,7 +351,8 @@
       "municipality": "Ivalo",
       "gps_code": "EFIV",
       "iata_code": "IVL",
-      "coordinates": "68.607299804688, 27.405300140381"
+      "coordinates": "68.607299804688, 27.405300140381",
+      "metar_available": false
     },
     {
       "ident": "EFJE",
@@ -338,7 +364,8 @@
       "iso_region": "FI-13",
       "municipality": "Joensuu",
       "gps_code": "EFJE",
-      "coordinates": "62.590832, 29.777779"
+      "coordinates": "62.590832, 29.777779",
+      "metar_available": false
     },
     {
       "ident": "EFJI",
@@ -348,7 +375,8 @@
       "iso_country": "FI",
       "iso_region": "FI-03",
       "gps_code": "EFIJ",
-      "coordinates": "62.324167, 22.694167"
+      "coordinates": "62.324167, 22.694167",
+      "metar_available": false
     },
     {
       "ident": "EFJM",
@@ -360,7 +388,8 @@
       "iso_region": "FI-17",
       "municipality": "Jämijärvi",
       "gps_code": "EFJM",
-      "coordinates": "61.778599, 22.716101"
+      "coordinates": "61.778599, 22.716101",
+      "metar_available": false
     },
     {
       "ident": "EFJO",
@@ -373,7 +402,8 @@
       "municipality": "Joensuu",
       "gps_code": "EFJO",
       "iata_code": "JOE",
-      "coordinates": "62.658815, 29.619398"
+      "coordinates": "62.658815, 29.619398",
+      "metar_available": false
     },
     {
       "ident": "EFJP",
@@ -383,7 +413,8 @@
       "iso_country": "FI",
       "iso_region": "FI-10",
       "gps_code": "EFJP",
-      "coordinates": "68.711403, 25.7528"
+      "coordinates": "68.711403, 25.7528",
+      "metar_available": false
     },
     {
       "ident": "EFJV",
@@ -395,7 +426,8 @@
       "iso_region": "FI-08",
       "municipality": "Jyväskylä",
       "gps_code": "EFJV",
-      "coordinates": "62.230361, 25.71154"
+      "coordinates": "62.230361, 25.71154",
+      "metar_available": false
     },
     {
       "ident": "EFJY",
@@ -408,7 +440,8 @@
       "municipality": "Jyväskylän Maalaiskunta",
       "gps_code": "EFJY",
       "iata_code": "JYV",
-      "coordinates": "62.399502, 25.678301"
+      "coordinates": "62.399502, 25.678301",
+      "metar_available": false
     },
     {
       "ident": "EFKA",
@@ -421,7 +454,8 @@
       "municipality": "Kauhava",
       "gps_code": "EFKA",
       "iata_code": "KAU",
-      "coordinates": "63.127102, 23.051399"
+      "coordinates": "63.127102, 23.051399",
+      "metar_available": false
     },
     {
       "ident": "EFKE",
@@ -434,7 +468,8 @@
       "municipality": "Kemi / Tornio",
       "gps_code": "EFKE",
       "iata_code": "KEM",
-      "coordinates": "65.778701782227, 24.582099914551"
+      "coordinates": "65.778701782227, 24.582099914551",
+      "metar_available": false
     },
     {
       "ident": "EFKG",
@@ -445,7 +480,8 @@
       "iso_country": "FI",
       "iso_region": "FI-01",
       "gps_code": "EFKG",
-      "coordinates": "60.246899, 20.804701"
+      "coordinates": "60.246899, 20.804701",
+      "metar_available": false
     },
     {
       "ident": "EFKH",
@@ -457,7 +493,8 @@
       "iso_region": "FI-05",
       "municipality": "Kuhmo",
       "gps_code": "EFKH",
-      "coordinates": "64.112503, 29.438601"
+      "coordinates": "64.112503, 29.438601",
+      "metar_available": false
     },
     {
       "ident": "EFKI",
@@ -470,7 +507,8 @@
       "municipality": "Kajaani",
       "gps_code": "EFKI",
       "iata_code": "KAJ",
-      "coordinates": "64.2855, 27.6924"
+      "coordinates": "64.2855, 27.6924",
+      "metar_available": false
     },
     {
       "ident": "EFKJ",
@@ -483,7 +521,8 @@
       "municipality": "Kauhajoki",
       "gps_code": "EFKJ",
       "iata_code": "KHJ",
-      "coordinates": "62.463212, 22.390817"
+      "coordinates": "62.463212, 22.390817",
+      "metar_available": false
     },
     {
       "ident": "EFKK",
@@ -496,7 +535,8 @@
       "municipality": "Kokkola / Kruunupyy",
       "gps_code": "EFKK",
       "iata_code": "KOK",
-      "coordinates": "63.721199, 23.143101"
+      "coordinates": "63.721199, 23.143101",
+      "metar_available": false
     },
     {
       "ident": "EFKM",
@@ -507,7 +547,8 @@
       "iso_country": "FI",
       "iso_region": "FI-10",
       "gps_code": "EFKM",
-      "coordinates": "66.712898, 27.156799"
+      "coordinates": "66.712898, 27.156799",
+      "metar_available": false
     },
     {
       "ident": "EFKN",
@@ -519,7 +560,8 @@
       "iso_region": "FI-07",
       "municipality": "Kannus",
       "gps_code": "EFKN",
-      "coordinates": "63.920601, 24.0867"
+      "coordinates": "63.920601, 24.0867",
+      "metar_available": false
     },
     {
       "ident": "EFKO",
@@ -531,7 +573,8 @@
       "iso_region": "FI-14",
       "municipality": "Kalajoki",
       "gps_code": "EFKO",
-      "coordinates": "64.2286, 23.826401"
+      "coordinates": "64.2286, 23.826401",
+      "metar_available": false
     },
     {
       "ident": "EFKR",
@@ -543,7 +586,8 @@
       "iso_region": "FI-14",
       "municipality": "Kärsämäki",
       "gps_code": "EFKR",
-      "coordinates": "63.989201, 25.743601"
+      "coordinates": "63.989201, 25.743601",
+      "metar_available": false
     },
     {
       "ident": "EFKS",
@@ -556,7 +600,8 @@
       "municipality": "Kuusamo",
       "gps_code": "EFKS",
       "iata_code": "KAO",
-      "coordinates": "65.987602, 29.239401"
+      "coordinates": "65.987602, 29.239401",
+      "metar_available": false
     },
     {
       "ident": "EFKT",
@@ -569,7 +614,8 @@
       "municipality": "Kittilä",
       "gps_code": "EFKT",
       "iata_code": "KTT",
-      "coordinates": "67.700996398926, 24.846799850464"
+      "coordinates": "67.700996398926, 24.846799850464",
+      "metar_available": false
     },
     {
       "ident": "EFKU",
@@ -582,7 +628,8 @@
       "municipality": "Kuopio / Siilinjärvi",
       "gps_code": "EFKU",
       "iata_code": "KUO",
-      "coordinates": "63.007099, 27.7978"
+      "coordinates": "63.007099, 27.7978",
+      "metar_available": false
     },
     {
       "ident": "EFKV",
@@ -593,7 +640,8 @@
       "iso_country": "FI",
       "iso_region": "FI-07",
       "gps_code": "EFKV",
-      "coordinates": "63.125301, 25.124201"
+      "coordinates": "63.125301, 25.124201",
+      "metar_available": false
     },
     {
       "ident": "EFKY",
@@ -605,7 +653,8 @@
       "iso_region": "FI-09",
       "municipality": "Peippola",
       "gps_code": "EFKY",
-      "coordinates": "60.5714, 26.896099"
+      "coordinates": "60.5714, 26.896099",
+      "metar_available": false
     },
     {
       "ident": "EFLA",
@@ -617,7 +666,8 @@
       "iso_region": "FI-16",
       "municipality": "Lahti",
       "gps_code": "EFLA",
-      "coordinates": "61.144199, 25.693501"
+      "coordinates": "61.144199, 25.693501",
+      "metar_available": false
     },
     {
       "ident": "EFLL",
@@ -629,7 +679,8 @@
       "iso_region": "FI-15",
       "municipality": "Lapinlahti",
       "gps_code": "EFLL",
-      "coordinates": "63.399399, 27.478901"
+      "coordinates": "63.399399, 27.478901",
+      "metar_available": false
     },
     {
       "ident": "EFLN",
@@ -641,7 +692,8 @@
       "iso_region": "FI-13",
       "municipality": "Nurmes",
       "gps_code": "EFLN",
-      "coordinates": "63.511902, 29.6292"
+      "coordinates": "63.511902, 29.6292",
+      "metar_available": false
     },
     {
       "ident": "EFLP",
@@ -654,7 +706,8 @@
       "municipality": "Lappeenranta",
       "gps_code": "EFLP",
       "iata_code": "LPP",
-      "coordinates": "61.044601, 28.144743"
+      "coordinates": "61.044601, 28.144743",
+      "metar_available": false
     },
     {
       "ident": "EFLR",
@@ -666,7 +719,8 @@
       "iso_region": "FI-10",
       "municipality": "Rovaniemi",
       "gps_code": "EFLR",
-      "coordinates": "66.491914, 25.778312"
+      "coordinates": "66.491914, 25.778312",
+      "metar_available": false
     },
     {
       "ident": "EFMA",
@@ -679,7 +733,8 @@
       "municipality": "Mariehamn",
       "gps_code": "EFMA",
       "iata_code": "MHQ",
-      "coordinates": "60.1222, 19.898199"
+      "coordinates": "60.1222, 19.898199",
+      "metar_available": false
     },
     {
       "ident": "EFME",
@@ -691,7 +746,8 @@
       "iso_region": "FI-03",
       "municipality": "Alajärvi",
       "gps_code": "EFME",
-      "coordinates": "62.946701, 23.5189"
+      "coordinates": "62.946701, 23.5189",
+      "metar_available": false
     },
     {
       "ident": "EFMI",
@@ -704,7 +760,8 @@
       "municipality": "Mikkeli",
       "gps_code": "EFMI",
       "iata_code": "MIK",
-      "coordinates": "61.6866, 27.201799"
+      "coordinates": "61.6866, 27.201799",
+      "metar_available": false
     },
     {
       "ident": "EFML",
@@ -716,7 +773,8 @@
       "iso_region": "FI-14",
       "municipality": "Ii",
       "gps_code": "EFML",
-      "coordinates": "65.301144, 25.416226"
+      "coordinates": "65.301144, 25.416226",
+      "metar_available": false
     },
     {
       "ident": "EFMN",
@@ -728,7 +786,8 @@
       "iso_region": "FI-18",
       "municipality": "Mäntsälä",
       "gps_code": "EFMN",
-      "coordinates": "60.572498, 25.5089"
+      "coordinates": "60.572498, 25.5089",
+      "metar_available": false
     },
     {
       "ident": "EFNS",
@@ -740,7 +799,8 @@
       "iso_region": "FI-18",
       "municipality": "Nurmijärvi",
       "gps_code": "EFNS",
-      "coordinates": "60.52, 24.831699"
+      "coordinates": "60.52, 24.831699",
+      "metar_available": false
     },
     {
       "ident": "EFNU",
@@ -752,7 +812,8 @@
       "iso_region": "FI-18",
       "municipality": "Vihti / Nummela",
       "gps_code": "EFNU",
-      "coordinates": "60.3339, 24.2964"
+      "coordinates": "60.3339, 24.2964",
+      "metar_available": false
     },
     {
       "ident": "EFOP",
@@ -764,7 +825,8 @@
       "iso_region": "FI-19",
       "municipality": "Oripää",
       "gps_code": "EFOP",
-      "coordinates": "60.8764, 22.744699"
+      "coordinates": "60.8764, 22.744699",
+      "metar_available": false
     },
     {
       "ident": "EFOU",
@@ -777,7 +839,8 @@
       "municipality": "Oulu / Oulunsalo",
       "gps_code": "EFOU",
       "iata_code": "OUL",
-      "coordinates": "64.930099, 25.354601"
+      "coordinates": "64.930099, 25.354601",
+      "metar_available": false
     },
     {
       "ident": "EFPA",
@@ -788,7 +851,8 @@
       "iso_country": "FI",
       "iso_region": "FI-10",
       "gps_code": "EFPA",
-      "coordinates": "68.150223, 25.829372"
+      "coordinates": "68.150223, 25.829372",
+      "metar_available": false
     },
     {
       "ident": "EFPE",
@@ -800,7 +864,8 @@
       "iso_region": "FI-18",
       "municipality": "Helsinki",
       "gps_code": "EFPE",
-      "coordinates": "60.331112, 25.060833"
+      "coordinates": "60.331112, 25.060833",
+      "metar_available": false
     },
     {
       "ident": "EFPI",
@@ -812,7 +877,8 @@
       "iso_region": "FI-17",
       "municipality": "Kokemäki",
       "gps_code": "EFPI",
-      "coordinates": "61.245602, 22.193399"
+      "coordinates": "61.245602, 22.193399",
+      "metar_available": false
     },
     {
       "ident": "EFPJ",
@@ -824,7 +890,8 @@
       "iso_region": "FI-15",
       "municipality": "Kuopio",
       "gps_code": "EFPJ",
-      "coordinates": "62.897499, 27.648333"
+      "coordinates": "62.897499, 27.648333",
+      "metar_available": false
     },
     {
       "ident": "EFPK",
@@ -836,7 +903,8 @@
       "iso_region": "FI-04",
       "municipality": "Pieksämäki",
       "gps_code": "EFPK",
-      "coordinates": "62.264702, 27.0028"
+      "coordinates": "62.264702, 27.0028",
+      "metar_available": false
     },
     {
       "ident": "EFPL",
@@ -848,7 +916,8 @@
       "iso_region": "FI-16",
       "municipality": "Lahti",
       "gps_code": "EFPL",
-      "coordinates": "60.99177, 25.569456"
+      "coordinates": "60.99177, 25.569456",
+      "metar_available": false
     },
     {
       "ident": "EFPN",
@@ -860,7 +929,8 @@
       "iso_region": "FI-04",
       "municipality": "Savonlinna",
       "gps_code": "EFPN",
-      "coordinates": "61.728901, 29.3936"
+      "coordinates": "61.728901, 29.3936",
+      "metar_available": false
     },
     {
       "ident": "EFPO",
@@ -873,7 +943,8 @@
       "municipality": "Pori",
       "gps_code": "EFPO",
       "iata_code": "POR",
-      "coordinates": "61.4617, 21.799999"
+      "coordinates": "61.4617, 21.799999",
+      "metar_available": false
     },
     {
       "ident": "EFPR",
@@ -885,7 +956,8 @@
       "iso_region": "FI-09",
       "municipality": "Helsinki (Pyhtää)",
       "gps_code": "EFPR",
-      "coordinates": "60.479167, 26.593889"
+      "coordinates": "60.479167, 26.593889",
+      "metar_available": false
     },
     {
       "ident": "EFPT",
@@ -897,7 +969,8 @@
       "iso_region": "FI-11",
       "municipality": "Tampere",
       "gps_code": "EFPT",
-      "coordinates": "61.50639, 23.8125"
+      "coordinates": "61.50639, 23.8125",
+      "metar_available": false
     },
     {
       "ident": "EFPU",
@@ -909,7 +982,8 @@
       "iso_region": "FI-14",
       "municipality": "Pudasjärvi",
       "gps_code": "EFPU",
-      "coordinates": "65.402199, 26.946899"
+      "coordinates": "65.402199, 26.946899",
+      "metar_available": false
     },
     {
       "ident": "EFPY",
@@ -921,7 +995,8 @@
       "iso_region": "FI-14",
       "municipality": "Pyhäjärvi",
       "gps_code": "EFPY",
-      "coordinates": "63.731899, 25.9263"
+      "coordinates": "63.731899, 25.9263",
+      "metar_available": false
     },
     {
       "ident": "EFRA",
@@ -933,7 +1008,8 @@
       "iso_region": "FI-15",
       "municipality": "Rautavaara",
       "gps_code": "EFRA",
-      "coordinates": "63.424198, 28.124201"
+      "coordinates": "63.424198, 28.124201",
+      "metar_available": false
     },
     {
       "ident": "EFRH",
@@ -945,7 +1021,8 @@
       "iso_region": "FI-14",
       "municipality": "Raahe",
       "gps_code": "EFRH",
-      "coordinates": "64.688103, 24.695801"
+      "coordinates": "64.688103, 24.695801",
+      "metar_available": false
     },
     {
       "ident": "EFRN",
@@ -957,7 +1034,8 @@
       "iso_region": "FI-04",
       "municipality": "Rantasalmi",
       "gps_code": "EFRN",
-      "coordinates": "62.065498, 28.356501"
+      "coordinates": "62.065498, 28.356501",
+      "metar_available": false
     },
     {
       "ident": "EFRO",
@@ -970,7 +1048,8 @@
       "municipality": "Rovaniemi",
       "gps_code": "EFRO",
       "iata_code": "RVN",
-      "coordinates": "66.564796447754, 25.830400466919"
+      "coordinates": "66.564796447754, 25.830400466919",
+      "metar_available": false
     },
     {
       "ident": "EFRU",
@@ -981,7 +1060,8 @@
       "iso_country": "FI",
       "iso_region": "FI-10",
       "gps_code": "EFRU",
-      "coordinates": "65.973099, 26.365299"
+      "coordinates": "65.973099, 26.365299",
+      "metar_available": false
     },
     {
       "ident": "EFRV",
@@ -993,7 +1073,8 @@
       "iso_region": "FI-15",
       "municipality": "Kiuruvesi",
       "gps_code": "EFRV",
-      "coordinates": "63.705601, 26.6164"
+      "coordinates": "63.705601, 26.6164",
+      "metar_available": false
     },
     {
       "ident": "EFRY",
@@ -1005,7 +1086,8 @@
       "iso_region": "FI-06",
       "municipality": "Loppi",
       "gps_code": "EFRY",
-      "coordinates": "60.744701, 24.1078"
+      "coordinates": "60.744701, 24.1078",
+      "metar_available": false
     },
     {
       "ident": "EFSA",
@@ -1018,7 +1100,8 @@
       "municipality": "Savonlinna",
       "gps_code": "EFSA",
       "iata_code": "SVL",
-      "coordinates": "61.9431, 28.945101"
+      "coordinates": "61.9431, 28.945101",
+      "metar_available": false
     },
     {
       "ident": "EFSE",
@@ -1030,7 +1113,8 @@
       "iso_region": "FI-09",
       "municipality": "Kouvola",
       "gps_code": "EFSE",
-      "coordinates": "61.062401, 26.798901"
+      "coordinates": "61.062401, 26.798901",
+      "metar_available": false
     },
     {
       "ident": "EFSI",
@@ -1043,7 +1127,8 @@
       "municipality": "Seinäjoki / Ilmajoki",
       "gps_code": "EFSI",
       "iata_code": "SJY",
-      "coordinates": "62.692101, 22.8323"
+      "coordinates": "62.692101, 22.8323",
+      "metar_available": false
     },
     {
       "ident": "EFSO",
@@ -1056,7 +1141,8 @@
       "municipality": "Sodankyla",
       "gps_code": "EFSO",
       "iata_code": "SOT",
-      "coordinates": "67.3949966431, 26.6191005707"
+      "coordinates": "67.3949966431, 26.6191005707",
+      "metar_available": false
     },
     {
       "ident": "EFSU",
@@ -1068,7 +1154,8 @@
       "iso_region": "FI-05",
       "municipality": "Suomussalmi",
       "gps_code": "EFSU",
-      "coordinates": "64.821899, 28.7103"
+      "coordinates": "64.821899, 28.7103",
+      "metar_available": false
     },
     {
       "ident": "EFTO",
@@ -1080,7 +1167,8 @@
       "iso_region": "FI-18",
       "municipality": "Ingå",
       "gps_code": "EFTO",
-      "coordinates": "60.079201, 24.172199"
+      "coordinates": "60.079201, 24.172199",
+      "metar_available": false
     },
     {
       "ident": "EFTP",
@@ -1093,7 +1181,8 @@
       "municipality": "Tampere / Pirkkala",
       "gps_code": "EFTP",
       "iata_code": "TMP",
-      "coordinates": "61.414101, 23.604401"
+      "coordinates": "61.414101, 23.604401",
+      "metar_available": false
     },
     {
       "ident": "EFTU",
@@ -1106,7 +1195,8 @@
       "municipality": "Turku",
       "gps_code": "EFTU",
       "iata_code": "TKU",
-      "coordinates": "60.514099, 22.2628"
+      "coordinates": "60.514099, 22.2628",
+      "metar_available": false
     },
     {
       "ident": "EFTV",
@@ -1118,7 +1208,8 @@
       "iso_region": "FI-19",
       "municipality": "Turku",
       "gps_code": "EFTV",
-      "coordinates": "60.451111, 22.290277"
+      "coordinates": "60.451111, 22.290277",
+      "metar_available": false
     },
     {
       "ident": "EFUT",
@@ -1131,7 +1222,8 @@
       "municipality": "Utti / Valkeala",
       "gps_code": "EFUT",
       "iata_code": "UTI",
-      "coordinates": "60.8964, 26.9384"
+      "coordinates": "60.8964, 26.9384",
+      "metar_available": false
     },
     {
       "ident": "EFVA",
@@ -1144,7 +1236,8 @@
       "municipality": "Vaasa",
       "gps_code": "EFVA",
       "iata_code": "VAA",
-      "coordinates": "63.050701, 21.762199"
+      "coordinates": "63.050701, 21.762199",
+      "metar_available": false
     },
     {
       "ident": "EFVI",
@@ -1156,7 +1249,8 @@
       "iso_region": "FI-08",
       "municipality": "Viitasaari",
       "gps_code": "EFVI",
-      "coordinates": "63.122501, 25.816099"
+      "coordinates": "63.122501, 25.816099",
+      "metar_available": false
     },
     {
       "ident": "EFVL",
@@ -1168,7 +1262,8 @@
       "iso_region": "FI-14",
       "municipality": "Vaala",
       "gps_code": "EFVL",
-      "coordinates": "64.5019, 26.76"
+      "coordinates": "64.5019, 26.76",
+      "metar_available": false
     },
     {
       "ident": "EFVP",
@@ -1180,7 +1275,8 @@
       "iso_region": "FI-17",
       "municipality": "Huittinen",
       "gps_code": "EFVP",
-      "coordinates": "61.0397, 22.5917"
+      "coordinates": "61.0397, 22.5917",
+      "metar_available": false
     },
     {
       "ident": "EFVR",
@@ -1193,7 +1289,8 @@
       "municipality": "Varkaus / Joroinen",
       "gps_code": "EFVR",
       "iata_code": "VRK",
-      "coordinates": "62.171101, 27.868601"
+      "coordinates": "62.171101, 27.868601",
+      "metar_available": false
     },
     {
       "ident": "EFVT",
@@ -1205,7 +1302,8 @@
       "iso_region": "FI-07",
       "municipality": "Veteli",
       "gps_code": "EFVT",
-      "coordinates": "63.3978, 24.0306"
+      "coordinates": "63.3978, 24.0306",
+      "metar_available": false
     },
     {
       "ident": "EFVU",
@@ -1216,7 +1314,8 @@
       "iso_region": "FI-10",
       "municipality": "Vuotso",
       "gps_code": "EFVU",
-      "coordinates": "68.087196, 27.123899"
+      "coordinates": "68.087196, 27.123899",
+      "metar_available": false
     },
     {
       "ident": "EFWB",
@@ -1228,7 +1327,8 @@
       "iso_region": "FI-09",
       "municipality": "Anjalankoski",
       "gps_code": "EFWB",
-      "coordinates": "60.663601, 26.7458"
+      "coordinates": "60.663601, 26.7458",
+      "metar_available": false
     },
     {
       "ident": "EFYL",
@@ -1241,7 +1341,8 @@
       "municipality": "Ylivieska",
       "gps_code": "EFYL",
       "iata_code": "YLI",
-      "coordinates": "64.054722, 24.725278"
+      "coordinates": "64.054722, 24.725278",
+      "metar_available": false
     },
     {
       "ident": "FI-0001",
@@ -1251,7 +1352,8 @@
       "iso_country": "FI",
       "iso_region": "FI-04",
       "municipality": "Hirvensalo",
-      "coordinates": "61.567659, 28.01329"
+      "coordinates": "61.567659, 28.01329",
+      "metar_available": false
     },
     {
       "ident": "FI-0002",
@@ -1262,7 +1364,8 @@
       "iso_country": "FI",
       "iso_region": "FI-09",
       "municipality": "Myllykoski",
-      "coordinates": "60.75732, 26.734313"
+      "coordinates": "60.75732, 26.734313",
+      "metar_available": false
     },
     {
       "ident": "FI-0003",
@@ -1273,7 +1376,8 @@
       "iso_country": "FI",
       "iso_region": "FI-03",
       "municipality": "Nummijärvi",
-      "coordinates": "62.308695, 22.518812"
+      "coordinates": "62.308695, 22.518812",
+      "metar_available": false
     },
     {
       "ident": "FI-0004",
@@ -1283,7 +1387,8 @@
       "iso_country": "FI",
       "iso_region": "FI-03",
       "municipality": "Ähtäri",
-      "coordinates": "62.513442, 24.068282"
+      "coordinates": "62.513442, 24.068282",
+      "metar_available": false
     },
     {
       "ident": "FI-0005",
@@ -1293,7 +1398,8 @@
       "iso_country": "FI",
       "iso_region": "FI-11",
       "municipality": "Mänttä",
-      "coordinates": "62.028, 24.664"
+      "coordinates": "62.028, 24.664",
+      "metar_available": false
     },
     {
       "ident": "FI-0006",
@@ -1302,7 +1408,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-14",
-      "coordinates": "65.34774, 28.34182"
+      "coordinates": "65.34774, 28.34182",
+      "metar_available": false
     },
     {
       "ident": "FI-0007",
@@ -1311,7 +1418,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-11",
-      "coordinates": "62.01534, 23.05801"
+      "coordinates": "62.01534, 23.05801",
+      "metar_available": false
     },
     {
       "ident": "FI-0008",
@@ -1320,7 +1428,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-03",
-      "coordinates": "62.861405, 24.165115"
+      "coordinates": "62.861405, 24.165115",
+      "metar_available": false
     },
     {
       "ident": "FI-0009",
@@ -1329,7 +1438,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-10",
-      "coordinates": "66.75258, 28.71291"
+      "coordinates": "66.75258, 28.71291",
+      "metar_available": false
     },
     {
       "ident": "FI-0010",
@@ -1338,7 +1448,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-09",
-      "coordinates": "60.934393, 26.235523"
+      "coordinates": "60.934393, 26.235523",
+      "metar_available": false
     },
     {
       "ident": "FI-0011",
@@ -1349,7 +1460,8 @@
       "iso_country": "FI",
       "iso_region": "FI-18",
       "municipality": "Helsinki",
-      "coordinates": "60.164123, 24.975121"
+      "coordinates": "60.164123, 24.975121",
+      "metar_available": false
     },
     {
       "ident": "FI-0012",
@@ -1358,7 +1470,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-08",
-      "coordinates": "61.89421, 26.18803"
+      "coordinates": "61.89421, 26.18803",
+      "metar_available": false
     },
     {
       "ident": "FI-0013",
@@ -1367,7 +1480,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-02",
-      "coordinates": "61.04778, 27.2256"
+      "coordinates": "61.04778, 27.2256",
+      "metar_available": false
     },
     {
       "ident": "FI-0014",
@@ -1376,7 +1490,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-06",
-      "coordinates": "60.946, 24.66863"
+      "coordinates": "60.946, 24.66863",
+      "metar_available": false
     },
     {
       "ident": "FI-0015",
@@ -1385,7 +1500,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-17",
-      "coordinates": "61.20674, 22.88885"
+      "coordinates": "61.20674, 22.88885",
+      "metar_available": false
     },
     {
       "ident": "FI-0016",
@@ -1395,7 +1511,8 @@
       "iso_country": "FI",
       "iso_region": "FI-09",
       "municipality": "Hamina",
-      "coordinates": "60.349325, 27.453726"
+      "coordinates": "60.349325, 27.453726",
+      "metar_available": false
     },
     {
       "ident": "FI-0017",
@@ -1405,7 +1522,8 @@
       "iso_country": "FI",
       "iso_region": "FI-09",
       "municipality": "Virolahti",
-      "coordinates": "60.455114, 27.723057"
+      "coordinates": "60.455114, 27.723057",
+      "metar_available": false
     },
     {
       "ident": "FI-0018",
@@ -1416,7 +1534,8 @@
       "iso_country": "FI",
       "iso_region": "FI-18",
       "municipality": "Helsinki",
-      "coordinates": "60.254601, 25.042801"
+      "coordinates": "60.254601, 25.042801",
+      "metar_available": false
     },
     {
       "ident": "FI-0019",
@@ -1427,7 +1546,8 @@
       "iso_country": "FI",
       "iso_region": "FI-11",
       "municipality": "Tampere",
-      "coordinates": "61.7733, 24.027"
+      "coordinates": "61.7733, 24.027",
+      "metar_available": false
     },
     {
       "ident": "FI-0020",
@@ -1438,7 +1558,8 @@
       "iso_country": "FI",
       "iso_region": "FI-14",
       "municipality": "Haapajärvi",
-      "coordinates": "63.7122, 25.395"
+      "coordinates": "63.7122, 25.395",
+      "metar_available": false
     },
     {
       "ident": "FI-0021",
@@ -1447,7 +1568,8 @@
       "continent": "EU",
       "iso_country": "FI",
       "iso_region": "FI-10",
-      "coordinates": "68.660301, 25.7029"
+      "coordinates": "68.660301, 25.7029",
+      "metar_available": false
     },
     {
       "ident": "FI-0022",
@@ -1458,7 +1580,8 @@
       "iso_country": "FI",
       "iso_region": "FI-08",
       "municipality": "Haapamäki",
-      "coordinates": "62.255204, 24.349478"
+      "coordinates": "62.255204, 24.349478",
+      "metar_available": false
     },
     {
       "ident": "FI-0023",
@@ -1469,7 +1592,8 @@
       "iso_country": "FI",
       "iso_region": "FI-13",
       "municipality": "Joensuu",
-      "coordinates": "62.464699, 30.035299"
+      "coordinates": "62.464699, 30.035299",
+      "metar_available": false
     },
     {
       "ident": "FI-0024",
@@ -1480,7 +1604,8 @@
       "iso_country": "FI",
       "iso_region": "FI-15",
       "municipality": "Sonkajärvi",
-      "coordinates": "63.819401, 27.7694"
+      "coordinates": "63.819401, 27.7694",
+      "metar_available": false
     }
   ]
 }

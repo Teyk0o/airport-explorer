@@ -2,7 +2,7 @@
   "country_code": "BO",
   "country_name": "Bolivia",
   "total_airports": 205,
-  "last_updated": "2025-08-01T00:18:22.498838",
+  "last_updated": "2025-08-25T10:08:40.630134",
   "types_distribution": {
     "small_airport": 182,
     "heliport": 3,
@@ -20,7 +20,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "Puerto Leigue",
-      "coordinates": "-14.2626, -64.8721"
+      "coordinates": "-14.2626, -64.8721",
+      "metar_available": false
     },
     {
       "ident": "BO-0004",
@@ -31,7 +32,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "Puerto Ustarez",
-      "coordinates": "-12.3431, -64.5205"
+      "coordinates": "-12.3431, -64.5205",
+      "metar_available": false
     },
     {
       "ident": "BO-0005",
@@ -42,7 +44,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "Santa Rosa de Vigo",
-      "coordinates": "-12.2974, -65.0986"
+      "coordinates": "-12.2974, -65.0986",
+      "metar_available": false
     },
     {
       "ident": "BO-0006",
@@ -53,7 +56,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "El Mojar",
-      "coordinates": "-12.4274, -65.5061"
+      "coordinates": "-12.4274, -65.5061",
+      "metar_available": false
     },
     {
       "ident": "BO-0007",
@@ -64,7 +68,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "El Tacuaral",
-      "coordinates": "-14.0807, -65.658"
+      "coordinates": "-14.0807, -65.658",
+      "metar_available": false
     },
     {
       "ident": "BO-0008",
@@ -75,7 +80,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "Camiare",
-      "coordinates": "-13.9698, -65.6699"
+      "coordinates": "-13.9698, -65.6699",
+      "metar_available": false
     },
     {
       "ident": "BO-0009",
@@ -86,7 +92,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "municipality": "Cordillera",
-      "coordinates": "-19.3911991119, -63.072101593"
+      "coordinates": "-19.3911991119, -63.072101593",
+      "metar_available": false
     },
     {
       "ident": "BO-0010",
@@ -96,7 +103,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "Buen Jesus",
-      "coordinates": "-13.657813, -62.801874"
+      "coordinates": "-13.657813, -62.801874",
+      "metar_available": false
     },
     {
       "ident": "BO-0011",
@@ -106,7 +114,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "municipality": "Tres Personas",
-      "coordinates": "-14.130654, -61.820904"
+      "coordinates": "-14.130654, -61.820904",
+      "metar_available": false
     },
     {
       "ident": "BO-0012",
@@ -116,7 +125,8 @@
       "iso_country": "BO",
       "iso_region": "BO-T",
       "municipality": "Ibibobo",
-      "coordinates": "-21.532782, -62.971537"
+      "coordinates": "-21.532782, -62.971537",
+      "metar_available": false
     },
     {
       "ident": "BO-0013",
@@ -127,7 +137,8 @@
       "iso_country": "BO",
       "iso_region": "BO-B",
       "municipality": "Loreto",
-      "coordinates": "-15.190029, -64.757926"
+      "coordinates": "-15.190029, -64.757926",
+      "metar_available": false
     },
     {
       "ident": "BO-0014",
@@ -137,7 +148,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "municipality": "Espiritu",
-      "coordinates": "-16.226916, -60.546454"
+      "coordinates": "-16.226916, -60.546454",
+      "metar_available": false
     },
     {
       "ident": "BO-0015",
@@ -148,7 +160,8 @@
       "iso_country": "BO",
       "iso_region": "BO-N",
       "municipality": "Nueva Esperanza",
-      "coordinates": "-10.05245, -65.33933"
+      "coordinates": "-10.05245, -65.33933",
+      "metar_available": false
     },
     {
       "ident": "BO-0016",
@@ -158,7 +171,8 @@
       "iso_country": "BO",
       "iso_region": "BO-P",
       "municipality": "Villa Alota",
-      "coordinates": "-21.40185, -67.59456"
+      "coordinates": "-21.40185, -67.59456",
+      "metar_available": false
     },
     {
       "ident": "BO-0017",
@@ -168,7 +182,8 @@
       "iso_country": "BO",
       "iso_region": "BO-P",
       "municipality": "Culpina K",
-      "coordinates": "-21.26314, -67.22413"
+      "coordinates": "-21.26314, -67.22413",
+      "metar_available": false
     },
     {
       "ident": "BO-0018",
@@ -179,7 +194,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "gps_code": "SLCH",
-      "coordinates": "-17.43685, -62.34296"
+      "coordinates": "-17.43685, -62.34296",
+      "metar_available": false
     },
     {
       "ident": "BO-0019",
@@ -190,7 +206,8 @@
       "iso_country": "BO",
       "iso_region": "BO-H",
       "municipality": "Redención Pampa",
-      "coordinates": "-18.839831, -64.620142"
+      "coordinates": "-18.839831, -64.620142",
+      "metar_available": false
     },
     {
       "ident": "BO-0020",
@@ -201,7 +218,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "municipality": "Abapó",
-      "coordinates": "-18.63447, -62.936735"
+      "coordinates": "-18.63447, -62.936735",
+      "metar_available": false
     },
     {
       "ident": "BO-0021",
@@ -213,7 +231,8 @@
       "iso_region": "BO-B",
       "municipality": "Cercado",
       "local_code": "SLJN",
-      "coordinates": "-14.162648, -64.759276"
+      "coordinates": "-14.162648, -64.759276",
+      "metar_available": false
     },
     {
       "ident": "BO-BVL",
@@ -226,7 +245,8 @@
       "municipality": "Baures",
       "gps_code": "SLBA",
       "iata_code": "BVL",
-      "coordinates": "-13.654426, -63.704718"
+      "coordinates": "-13.654426, -63.704718",
+      "metar_available": false
     },
     {
       "ident": "SLAG",
@@ -239,7 +259,8 @@
       "municipality": "El Bañado",
       "gps_code": "SLAG",
       "iata_code": "MHW",
-      "coordinates": "-19.827, -63.960999"
+      "coordinates": "-19.827, -63.960999",
+      "metar_available": false
     },
     {
       "ident": "SLAL",
@@ -252,7 +273,8 @@
       "municipality": "Yamparaez",
       "gps_code": "SLAL",
       "iata_code": "SRE",
-      "coordinates": "-19.246835, -65.149611"
+      "coordinates": "-19.246835, -65.149611",
+      "metar_available": false
     },
     {
       "ident": "SLAM",
@@ -264,7 +286,8 @@
       "iso_region": "BO-P",
       "municipality": "Gral. Ballivian",
       "gps_code": "SLAM",
-      "coordinates": "-17.883333, -66.099998"
+      "coordinates": "-17.883333, -66.099998",
+      "metar_available": false
     },
     {
       "ident": "SLAN",
@@ -276,7 +299,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLAN",
-      "coordinates": "-14.4323, -65.768799"
+      "coordinates": "-14.4323, -65.768799",
+      "metar_available": false
     },
     {
       "ident": "SLAP",
@@ -289,7 +313,8 @@
       "municipality": "Apolo",
       "gps_code": "SLAP",
       "iata_code": "APB",
-      "coordinates": "-14.7356, -68.411903"
+      "coordinates": "-14.7356, -68.411903",
+      "metar_available": false
     },
     {
       "ident": "SLAQ",
@@ -301,7 +326,8 @@
       "iso_region": "BO-C",
       "municipality": "Campero",
       "gps_code": "SLAQ",
-      "coordinates": "-18.215401, -65.187798"
+      "coordinates": "-18.215401, -65.187798",
+      "metar_available": false
     },
     {
       "ident": "SLAS",
@@ -314,7 +340,8 @@
       "municipality": "Ascensión de Guarayos",
       "gps_code": "SLAS",
       "iata_code": "ASC",
-      "coordinates": "-15.9303, -63.1567"
+      "coordinates": "-15.9303, -63.1567",
+      "metar_available": false
     },
     {
       "ident": "SLBB",
@@ -326,7 +353,8 @@
       "iso_region": "BO-C",
       "municipality": "Carrasco",
       "gps_code": "SLBB",
-      "coordinates": "-17.257334, -64.366669"
+      "coordinates": "-17.257334, -64.366669",
+      "metar_available": false
     },
     {
       "ident": "SLBF",
@@ -338,7 +366,8 @@
       "iso_region": "BO-N",
       "municipality": "Madre De Dios",
       "gps_code": "SLBF",
-      "coordinates": "-11.7272, -66.9263"
+      "coordinates": "-11.7272, -66.9263",
+      "metar_available": false
     },
     {
       "ident": "SLBH",
@@ -350,7 +379,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLBH",
-      "coordinates": "-12.133333, -66.533333"
+      "coordinates": "-12.133333, -66.533333",
+      "metar_available": false
     },
     {
       "ident": "SLBJ",
@@ -363,7 +393,8 @@
       "municipality": "Bermejo",
       "gps_code": "SLBJ",
       "iata_code": "BJO",
-      "coordinates": "-22.7733001709, -64.31289672850001"
+      "coordinates": "-22.7733001709, -64.31289672850001",
+      "metar_available": false
     },
     {
       "ident": "SLBN",
@@ -375,7 +406,8 @@
       "iso_region": "BO-B",
       "municipality": "Mamoré",
       "gps_code": "SLBN",
-      "coordinates": "-13.633333, -65.283333"
+      "coordinates": "-13.633333, -65.283333",
+      "metar_available": false
     },
     {
       "ident": "SLBR",
@@ -387,7 +419,8 @@
       "iso_region": "BO-B",
       "municipality": "Itenes",
       "gps_code": "SLBR",
-      "coordinates": "-13.416667, -63.483334"
+      "coordinates": "-13.416667, -63.483334",
+      "metar_available": false
     },
     {
       "ident": "SLBS",
@@ -399,7 +432,8 @@
       "iso_region": "BO-B",
       "municipality": "Itenes",
       "gps_code": "SLBS",
-      "coordinates": "-14.2677001953125, -64.29900360107422"
+      "coordinates": "-14.2677001953125, -64.29900360107422",
+      "metar_available": false
     },
     {
       "ident": "SLBT",
@@ -411,7 +445,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLBT",
-      "coordinates": "-13.9, -66.550003"
+      "coordinates": "-13.9, -66.550003",
+      "metar_available": false
     },
     {
       "ident": "SLBV",
@@ -423,7 +458,8 @@
       "iso_region": "BO-B",
       "municipality": "De Montaño",
       "gps_code": "SLBV",
-      "coordinates": "-13.85, -66.366669"
+      "coordinates": "-13.85, -66.366669",
+      "metar_available": false
     },
     {
       "ident": "SLCA",
@@ -436,7 +472,8 @@
       "municipality": "Camiri",
       "gps_code": "SLCA",
       "iata_code": "CAM",
-      "coordinates": "-20.00656, -63.527827"
+      "coordinates": "-20.00656, -63.527827",
+      "metar_available": false
     },
     {
       "ident": "SLCB",
@@ -449,7 +486,8 @@
       "municipality": "Cochabamba",
       "gps_code": "SLCB",
       "iata_code": "CBB",
-      "coordinates": "-17.421100616455078, -66.1771011352539"
+      "coordinates": "-17.421100616455078, -66.1771011352539",
+      "metar_available": false
     },
     {
       "ident": "SLCC",
@@ -461,7 +499,8 @@
       "iso_region": "BO-L",
       "municipality": "Copacabana",
       "gps_code": "SLCC",
-      "coordinates": "-16.191099, -69.095596"
+      "coordinates": "-16.191099, -69.095596",
+      "metar_available": false
     },
     {
       "ident": "SLCD",
@@ -473,7 +512,8 @@
       "iso_region": "BO-S",
       "municipality": "Gutierrez",
       "gps_code": "SLCD",
-      "coordinates": "-20.0254, -63.0891"
+      "coordinates": "-20.0254, -63.0891",
+      "metar_available": false
     },
     {
       "ident": "SLCE",
@@ -485,7 +525,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLCE",
-      "coordinates": "-18.797433, -63.301611"
+      "coordinates": "-18.797433, -63.301611",
+      "metar_available": false
     },
     {
       "ident": "SLCG",
@@ -497,7 +538,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLCG",
-      "coordinates": "-19.785601, -63.1884"
+      "coordinates": "-19.785601, -63.1884",
+      "metar_available": false
     },
     {
       "ident": "SLCI",
@@ -509,7 +551,8 @@
       "iso_region": "BO-T",
       "municipality": "Gran Chaco",
       "gps_code": "SLCI",
-      "coordinates": "-21.136389, -63.752778"
+      "coordinates": "-21.136389, -63.752778",
+      "metar_available": false
     },
     {
       "ident": "SLCL",
@@ -521,7 +564,8 @@
       "iso_region": "BO-O",
       "municipality": "Abaroa",
       "gps_code": "SLCL",
-      "coordinates": "-18.891666, -66.783333"
+      "coordinates": "-18.891666, -66.783333",
+      "metar_available": false
     },
     {
       "ident": "SLCM",
@@ -533,7 +577,8 @@
       "iso_region": "BO-N",
       "municipality": "Camacho",
       "gps_code": "SLCM",
-      "coordinates": "-11.505, -67.6847"
+      "coordinates": "-11.505, -67.6847",
+      "metar_available": false
     },
     {
       "ident": "SLCN",
@@ -545,7 +590,8 @@
       "iso_region": "BO-L",
       "municipality": "Charaña",
       "gps_code": "SLCN",
-      "coordinates": "-17.5947, -69.433098"
+      "coordinates": "-17.5947, -69.433098",
+      "metar_available": false
     },
     {
       "ident": "SLCO",
@@ -558,7 +604,8 @@
       "municipality": "Cobija",
       "gps_code": "SLCO",
       "iata_code": "CIJ",
-      "coordinates": "-11.040399551400002, -68.7829971313"
+      "coordinates": "-11.040399551400002, -68.7829971313",
+      "metar_available": false
     },
     {
       "ident": "SLCP",
@@ -571,7 +618,8 @@
       "municipality": "Concepción",
       "gps_code": "SLCP",
       "iata_code": "CEP",
-      "coordinates": "-16.142688, -62.026595"
+      "coordinates": "-16.142688, -62.026595",
+      "metar_available": false
     },
     {
       "ident": "SLCR",
@@ -583,7 +631,8 @@
       "iso_region": "BO-S",
       "municipality": "M. Caballero",
       "gps_code": "SLCR",
-      "coordinates": "-17.913601, -64.517799"
+      "coordinates": "-17.913601, -64.517799",
+      "metar_available": false
     },
     {
       "ident": "SLCS",
@@ -595,7 +644,8 @@
       "iso_region": "BO-P",
       "municipality": "Nor Lipez",
       "gps_code": "SLCS",
-      "coordinates": "-20.808333, -66.401111"
+      "coordinates": "-20.808333, -66.401111",
+      "metar_available": false
     },
     {
       "ident": "SLCT",
@@ -607,7 +657,8 @@
       "iso_region": "BO-B",
       "municipality": "Mamore",
       "gps_code": "SLCT",
-      "coordinates": "-13.5145, -64.965202"
+      "coordinates": "-13.5145, -64.965202",
+      "metar_available": false
     },
     {
       "ident": "SLCU",
@@ -619,7 +670,8 @@
       "iso_region": "BO-H",
       "municipality": "Sud Cinti",
       "gps_code": "SLCU",
-      "coordinates": "-20.833334, -64.966667"
+      "coordinates": "-20.833334, -64.966667",
+      "metar_available": false
     },
     {
       "ident": "SLCV",
@@ -631,7 +683,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLCV",
-      "coordinates": "-12.5498, -66.912498"
+      "coordinates": "-12.5498, -66.912498",
+      "metar_available": false
     },
     {
       "ident": "SLCX",
@@ -643,7 +696,8 @@
       "iso_region": "BO-L",
       "municipality": "Iturralde",
       "gps_code": "SLCX",
-      "coordinates": "-12.377833366394043, -68.56766510009766"
+      "coordinates": "-12.377833366394043, -68.56766510009766",
+      "metar_available": false
     },
     {
       "ident": "SLCY",
@@ -655,7 +709,8 @@
       "iso_region": "BO-S",
       "municipality": "A. Ibañez",
       "gps_code": "SLCY",
-      "coordinates": "-17.565000534057617, -63.17470169067383"
+      "coordinates": "-17.565000534057617, -63.17470169067383",
+      "metar_available": false
     },
     {
       "ident": "SLDA",
@@ -667,7 +722,8 @@
       "iso_region": "BO-S",
       "municipality": "Ichilo",
       "gps_code": "SLDA",
-      "coordinates": "-17.512562, -63.537002"
+      "coordinates": "-17.512562, -63.537002",
+      "metar_available": false
     },
     {
       "ident": "SLDL",
@@ -678,7 +734,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "gps_code": "SLDL",
-      "coordinates": "-17.4426, -62.2442"
+      "coordinates": "-17.4426, -62.2442",
+      "metar_available": false
     },
     {
       "ident": "SLDN",
@@ -690,7 +747,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLDN",
-      "coordinates": "-14.2736, -65.440002"
+      "coordinates": "-14.2736, -65.440002",
+      "metar_available": false
     },
     {
       "ident": "SLEA",
@@ -702,7 +760,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLEA",
-      "coordinates": "-13.569948, -66.071841"
+      "coordinates": "-13.569948, -66.071841",
+      "metar_available": false
     },
     {
       "ident": "SLEC",
@@ -714,7 +773,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLEC",
-      "coordinates": "-13.783334, -66.400002"
+      "coordinates": "-13.783334, -66.400002",
+      "metar_available": false
     },
     {
       "ident": "SLEE",
@@ -726,7 +786,8 @@
       "iso_region": "BO-T",
       "municipality": "Tesoro",
       "gps_code": "SLEE",
-      "coordinates": "-21.466999, -63.352798"
+      "coordinates": "-21.466999, -63.352798",
+      "metar_available": false
     },
     {
       "ident": "SLEF",
@@ -738,7 +799,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLEF",
-      "coordinates": "-13.883333, -65.76667"
+      "coordinates": "-13.883333, -65.76667",
+      "metar_available": false
     },
     {
       "ident": "SLEH",
@@ -750,7 +812,8 @@
       "iso_region": "BO-B",
       "municipality": "Mamore",
       "gps_code": "SLEH",
-      "coordinates": "-13.05, -65.033333"
+      "coordinates": "-13.05, -65.033333",
+      "metar_available": false
     },
     {
       "ident": "SLEI",
@@ -762,7 +825,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLEI",
-      "coordinates": "-19.2999, -63.209"
+      "coordinates": "-19.2999, -63.209",
+      "metar_available": false
     },
     {
       "ident": "SLEK",
@@ -774,7 +838,8 @@
       "iso_region": "BO-T",
       "municipality": "Tesoro",
       "gps_code": "SLEK",
-      "coordinates": "-21.700834, -63.456833"
+      "coordinates": "-21.700834, -63.456833",
+      "metar_available": false
     },
     {
       "ident": "SLEO",
@@ -786,7 +851,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLEO",
-      "coordinates": "-14.383333, -65.849998"
+      "coordinates": "-14.383333, -65.849998",
+      "metar_available": false
     },
     {
       "ident": "SLEP",
@@ -798,7 +864,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLEP",
-      "coordinates": "-14.603954, -65.635157"
+      "coordinates": "-14.603954, -65.635157",
+      "metar_available": false
     },
     {
       "ident": "SLER",
@@ -810,7 +877,8 @@
       "iso_region": "BO-H",
       "municipality": "Hernando Siles",
       "gps_code": "SLER",
-      "coordinates": "-20.016666412353516, -64.03333282470703"
+      "coordinates": "-20.016666412353516, -64.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "SLES",
@@ -822,7 +890,8 @@
       "iso_region": "BO-O",
       "municipality": "Poopo",
       "gps_code": "SLES",
-      "coordinates": "-18.450000762939453, -66.91666412353516"
+      "coordinates": "-18.450000762939453, -66.91666412353516",
+      "metar_available": false
     },
     {
       "ident": "SLET",
@@ -835,7 +904,8 @@
       "municipality": "Santa Cruz",
       "gps_code": "SLET",
       "iata_code": "SRZ",
-      "coordinates": "-17.8115997314, -63.1715011597"
+      "coordinates": "-17.8115997314, -63.1715011597",
+      "metar_available": false
     },
     {
       "ident": "SLEV",
@@ -847,7 +917,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLEV",
-      "coordinates": "-14.4983, -66.762901"
+      "coordinates": "-14.4983, -66.762901",
+      "metar_available": false
     },
     {
       "ident": "SLEZ",
@@ -859,7 +930,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLEZ",
-      "coordinates": "-14.766666412353516, -65.53333282470703"
+      "coordinates": "-14.766666412353516, -65.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "SLFA",
@@ -871,7 +943,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLFA",
-      "coordinates": "-15.333333, -66.800003"
+      "coordinates": "-15.333333, -66.800003",
+      "metar_available": false
     },
     {
       "ident": "SLFL",
@@ -883,7 +956,8 @@
       "iso_region": "BO-S",
       "municipality": "Moira",
       "gps_code": "SLFL",
-      "coordinates": "-14.607418, -61.198396"
+      "coordinates": "-14.607418, -61.198396",
+      "metar_available": false
     },
     {
       "ident": "SLFO",
@@ -895,7 +969,8 @@
       "iso_region": "BO-S",
       "municipality": "Moxos",
       "gps_code": "SLFO",
-      "coordinates": "-13.5548, -61.004101"
+      "coordinates": "-13.5548, -61.004101",
+      "metar_available": false
     },
     {
       "ident": "SLFR",
@@ -907,7 +982,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLFR",
-      "coordinates": "-15.683333, -65.566666"
+      "coordinates": "-15.683333, -65.566666",
+      "metar_available": false
     },
     {
       "ident": "SLGM",
@@ -920,7 +996,8 @@
       "municipality": "Guayaramerín",
       "gps_code": "SLGM",
       "iata_code": "GYA",
-      "coordinates": "-10.88856, -65.380955"
+      "coordinates": "-10.88856, -65.380955",
+      "metar_available": false
     },
     {
       "ident": "SLGP",
@@ -932,7 +1009,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLGP",
-      "coordinates": "-18.056, -63.163166"
+      "coordinates": "-18.056, -63.163166",
+      "metar_available": false
     },
     {
       "ident": "SLGQ",
@@ -943,7 +1021,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "gps_code": "SLGQ",
-      "coordinates": "-18.5222, -60.6804"
+      "coordinates": "-18.5222, -60.6804",
+      "metar_available": false
     },
     {
       "ident": "SLGY",
@@ -955,7 +1034,8 @@
       "iso_region": "BO-B",
       "municipality": "Guayaramerín",
       "gps_code": "SLGY",
-      "coordinates": "-10.820306, -65.346494"
+      "coordinates": "-10.820306, -65.346494",
+      "metar_available": false
     },
     {
       "ident": "SLHA",
@@ -967,7 +1047,8 @@
       "iso_region": "BO-B",
       "municipality": "Itenes",
       "gps_code": "SLHA",
-      "coordinates": "-13.5, -64.199997"
+      "coordinates": "-13.5, -64.199997",
+      "metar_available": false
     },
     {
       "ident": "SLHC",
@@ -979,7 +1060,8 @@
       "iso_region": "BO-H",
       "municipality": "H. Silez",
       "gps_code": "SLHC",
-      "coordinates": "-20.3908, -64.015404"
+      "coordinates": "-20.3908, -64.015404",
+      "metar_available": false
     },
     {
       "ident": "SLHI",
@@ -992,7 +1074,8 @@
       "municipality": "Chimore",
       "gps_code": "SLHI",
       "iata_code": "CCA",
-      "coordinates": "-16.976834, -65.145568"
+      "coordinates": "-16.976834, -65.145568",
+      "metar_available": false
     },
     {
       "ident": "SLHJ",
@@ -1005,7 +1088,8 @@
       "municipality": "Itenes",
       "gps_code": "SLHJ",
       "iata_code": "BVK",
-      "coordinates": "-13.605556, -63.879444"
+      "coordinates": "-13.605556, -63.879444",
+      "metar_available": false
     },
     {
       "ident": "SLHS",
@@ -1017,7 +1101,8 @@
       "iso_region": "BO-S",
       "municipality": "Parapeti",
       "gps_code": "SLHS",
-      "coordinates": "-19.594801, -62.565701"
+      "coordinates": "-19.594801, -62.565701",
+      "metar_available": false
     },
     {
       "ident": "SLHT",
@@ -1029,7 +1114,8 @@
       "iso_region": "BO-T",
       "municipality": "Transierra Natural Gas Co.",
       "gps_code": "SLHT",
-      "coordinates": "-21.3385, -63.479"
+      "coordinates": "-21.3385, -63.479",
+      "metar_available": false
     },
     {
       "ident": "SLIG",
@@ -1041,7 +1127,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLIG",
-      "coordinates": "-13.4438, -66.505997"
+      "coordinates": "-13.4438, -66.505997",
+      "metar_available": false
     },
     {
       "ident": "SLIN",
@@ -1053,7 +1140,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLIN",
-      "coordinates": "-15.5, -65.91666412353516"
+      "coordinates": "-15.5, -65.91666412353516",
+      "metar_available": false
     },
     {
       "ident": "SLIP",
@@ -1065,7 +1153,8 @@
       "iso_region": "BO-S",
       "municipality": "Florida",
       "gps_code": "SLIP",
-      "coordinates": "-18.193056, -63.877778"
+      "coordinates": "-18.193056, -63.877778",
+      "metar_available": false
     },
     {
       "ident": "SLIR",
@@ -1077,7 +1166,8 @@
       "iso_region": "BO-B",
       "municipality": "Itenes",
       "gps_code": "SLIR",
-      "coordinates": "-13.050000190734863, -63.66666793823242"
+      "coordinates": "-13.050000190734863, -63.66666793823242",
+      "metar_available": false
     },
     {
       "ident": "SLIT",
@@ -1089,7 +1179,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLIT",
-      "coordinates": "-19.7775, -63.087799"
+      "coordinates": "-19.7775, -63.087799",
+      "metar_available": false
     },
     {
       "ident": "SLIX",
@@ -1101,7 +1192,8 @@
       "iso_region": "BO-L",
       "municipality": "Iturralde",
       "gps_code": "SLIX",
-      "coordinates": "-13.76, -68.136833"
+      "coordinates": "-13.76, -68.136833",
+      "metar_available": false
     },
     {
       "ident": "SLIY",
@@ -1113,7 +1205,8 @@
       "iso_region": "BO-O",
       "municipality": "La Joya",
       "gps_code": "SLIY",
-      "coordinates": "-17.795833, -67.434722"
+      "coordinates": "-17.795833, -67.434722",
+      "metar_available": false
     },
     {
       "ident": "SLIZ",
@@ -1125,7 +1218,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLIZ",
-      "coordinates": "-18.663834, -63.002335"
+      "coordinates": "-18.663834, -63.002335",
+      "metar_available": false
     },
     {
       "ident": "SLJA",
@@ -1137,7 +1231,8 @@
       "iso_region": "BO-N",
       "municipality": "Madre De Dios",
       "gps_code": "SLJA",
-      "coordinates": "-11.772833, -67.255997"
+      "coordinates": "-11.772833, -67.255997",
+      "metar_available": false
     },
     {
       "ident": "SLJE",
@@ -1150,7 +1245,8 @@
       "municipality": "San José de Chiquitos",
       "gps_code": "SLJE",
       "iata_code": "SJS",
-      "coordinates": "-17.830799, -60.743099"
+      "coordinates": "-17.830799, -60.743099",
+      "metar_available": false
     },
     {
       "ident": "SLJO",
@@ -1163,7 +1259,8 @@
       "municipality": "San Joaquín",
       "gps_code": "SLJO",
       "iata_code": "SJB",
-      "coordinates": "-13.0528, -64.661697"
+      "coordinates": "-13.0528, -64.661697",
+      "metar_available": false
     },
     {
       "ident": "SLJS",
@@ -1175,7 +1272,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLJS",
-      "coordinates": "-13.083333, -66.166664"
+      "coordinates": "-13.083333, -66.166664",
+      "metar_available": false
     },
     {
       "ident": "SLJV",
@@ -1188,7 +1286,8 @@
       "municipality": "San Javier",
       "gps_code": "SLJV",
       "iata_code": "SJV",
-      "coordinates": "-16.2708, -62.470299"
+      "coordinates": "-16.2708, -62.470299",
+      "metar_available": false
     },
     {
       "ident": "SLLB",
@@ -1200,7 +1299,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLLB",
-      "coordinates": "-14.516666, -65.76667"
+      "coordinates": "-14.516666, -65.76667",
+      "metar_available": false
     },
     {
       "ident": "SLLH",
@@ -1212,7 +1312,8 @@
       "iso_region": "BO-B",
       "municipality": "Itenes",
       "gps_code": "SLLH",
-      "coordinates": "-14.016666412353516, -63.53333282470703"
+      "coordinates": "-14.016666412353516, -63.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "SLLI",
@@ -1224,7 +1325,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLLI",
-      "coordinates": "-13.573833, -66.83567"
+      "coordinates": "-13.573833, -66.83567",
+      "metar_available": false
     },
     {
       "ident": "SLLJ",
@@ -1236,7 +1338,8 @@
       "iso_region": "BO-L",
       "municipality": "Los Andes",
       "gps_code": "SLLJ",
-      "coordinates": "-16.533899307250977, -68.30059814453125"
+      "coordinates": "-16.533899307250977, -68.30059814453125",
+      "metar_available": false
     },
     {
       "ident": "SLLL",
@@ -1248,7 +1351,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLLL",
-      "coordinates": "-14.283333, -66.7925"
+      "coordinates": "-14.283333, -66.7925",
+      "metar_available": false
     },
     {
       "ident": "SLLP",
@@ -1261,7 +1365,8 @@
       "municipality": "La Paz / El Alto",
       "gps_code": "SLLP",
       "iata_code": "LPB",
-      "coordinates": "-16.5132999420166, -68.19229888916016"
+      "coordinates": "-16.5132999420166, -68.19229888916016",
+      "metar_available": false
     },
     {
       "ident": "SLLQ",
@@ -1273,7 +1378,8 @@
       "iso_region": "BO-O",
       "municipality": "L. Cabrera",
       "gps_code": "SLLQ",
-      "coordinates": "-19.33333396911621, -67.08333587646484"
+      "coordinates": "-19.33333396911621, -67.08333587646484",
+      "metar_available": false
     },
     {
       "ident": "SLLS",
@@ -1285,7 +1391,8 @@
       "iso_region": "BO-S",
       "municipality": "Caraparicito",
       "gps_code": "SLLS",
-      "coordinates": "-19.600000381469727, -63.650001525878906"
+      "coordinates": "-19.600000381469727, -63.650001525878906",
+      "metar_available": false
     },
     {
       "ident": "SLLZ",
@@ -1297,7 +1404,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLLZ",
-      "coordinates": "-15.383333, -65.75"
+      "coordinates": "-15.383333, -65.75",
+      "metar_available": false
     },
     {
       "ident": "SLMB",
@@ -1309,7 +1417,8 @@
       "iso_region": "BO-O",
       "municipality": "Velasco",
       "gps_code": "SLMB",
-      "coordinates": "-13.787833213806152, -68.35466766357422"
+      "coordinates": "-13.787833213806152, -68.35466766357422",
+      "metar_available": false
     },
     {
       "ident": "SLMD",
@@ -1321,7 +1430,8 @@
       "iso_region": "BO-L",
       "municipality": "Iturralde",
       "gps_code": "SLMD",
-      "coordinates": "-13.383333206176758, -68.6500015258789"
+      "coordinates": "-13.383333206176758, -68.6500015258789",
+      "metar_available": false
     },
     {
       "ident": "SLME",
@@ -1333,7 +1443,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLME",
-      "coordinates": "-20.398000717163086, -63.140499114990234"
+      "coordinates": "-20.398000717163086, -63.140499114990234",
+      "metar_available": false
     },
     {
       "ident": "SLMG",
@@ -1346,7 +1457,8 @@
       "municipality": "Magdalena",
       "gps_code": "SLMG",
       "iata_code": "MGD",
-      "coordinates": "-13.2607483767, -64.0607643127"
+      "coordinates": "-13.2607483767, -64.0607643127",
+      "metar_available": false
     },
     {
       "ident": "SLMM",
@@ -1358,7 +1470,8 @@
       "iso_region": "BO-S",
       "municipality": "Velasco",
       "gps_code": "SLMM",
-      "coordinates": "-14.608499526977539, -61.19183349609375"
+      "coordinates": "-14.608499526977539, -61.19183349609375",
+      "metar_available": false
     },
     {
       "ident": "SLMN",
@@ -1370,7 +1483,8 @@
       "iso_region": "BO-N",
       "municipality": "Manuripi",
       "gps_code": "SLMN",
-      "coordinates": "-11.7385, -68.354668"
+      "coordinates": "-11.7385, -68.354668",
+      "metar_available": false
     },
     {
       "ident": "SLMX",
@@ -1382,7 +1496,8 @@
       "iso_region": "BO-S",
       "municipality": "Valle Grande",
       "gps_code": "SLMX",
-      "coordinates": "-17.33333396911621, -64.16666412353516"
+      "coordinates": "-17.33333396911621, -64.16666412353516",
+      "metar_available": false
     },
     {
       "ident": "SLMZ",
@@ -1394,7 +1509,8 @@
       "iso_region": "BO-C",
       "municipality": "Mizque",
       "gps_code": "SLMZ",
-      "coordinates": "-17.931, -65.380203"
+      "coordinates": "-17.931, -65.380203",
+      "metar_available": false
     },
     {
       "ident": "SLNL",
@@ -1406,7 +1522,8 @@
       "iso_region": "BO-S",
       "municipality": "Chiquitos",
       "gps_code": "SLNL",
-      "coordinates": "-17.601, -62.3957"
+      "coordinates": "-17.601, -62.3957",
+      "metar_available": false
     },
     {
       "ident": "SLNO",
@@ -1418,7 +1535,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLNO",
-      "coordinates": "-14.433333, -66.066666"
+      "coordinates": "-14.433333, -66.066666",
+      "metar_available": false
     },
     {
       "ident": "SLNV",
@@ -1430,7 +1548,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLNV",
-      "coordinates": "-14.016666, -65.800003"
+      "coordinates": "-14.016666, -65.800003",
+      "metar_available": false
     },
     {
       "ident": "SLOR",
@@ -1443,7 +1562,8 @@
       "municipality": "Oruro",
       "gps_code": "SLOR",
       "iata_code": "ORU",
-      "coordinates": "-17.962601, -67.076202"
+      "coordinates": "-17.962601, -67.076202",
+      "metar_available": false
     },
     {
       "ident": "SLPA",
@@ -1455,7 +1575,8 @@
       "iso_region": "BO-S",
       "municipality": "Guanacos",
       "gps_code": "SLPA",
-      "coordinates": "-18.97166633605957, -62.97533416748047"
+      "coordinates": "-18.97166633605957, -62.97533416748047",
+      "metar_available": false
     },
     {
       "ident": "SLPB",
@@ -1467,7 +1588,8 @@
       "iso_region": "BO-T",
       "municipality": "Entre Ríos, O'Connor",
       "gps_code": "SLPB",
-      "coordinates": "-21.395556, -63.756667"
+      "coordinates": "-21.395556, -63.756667",
+      "metar_available": false
     },
     {
       "ident": "SLPF",
@@ -1479,7 +1601,8 @@
       "iso_region": "BO-S",
       "municipality": "Velasco",
       "gps_code": "SLPF",
-      "coordinates": "-13.628834, -61.738667"
+      "coordinates": "-13.628834, -61.738667",
+      "metar_available": false
     },
     {
       "ident": "SLPG",
@@ -1491,7 +1614,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLPG",
-      "coordinates": "-14.1784, -65.375603"
+      "coordinates": "-14.1784, -65.375603",
+      "metar_available": false
     },
     {
       "ident": "SLPI",
@@ -1503,7 +1627,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLPI",
-      "coordinates": "-15.808492, -65.619471"
+      "coordinates": "-15.808492, -65.619471",
+      "metar_available": false
     },
     {
       "ident": "SLPL",
@@ -1515,7 +1640,8 @@
       "iso_region": "BO-H",
       "municipality": "J. Mendoza",
       "gps_code": "SLPL",
-      "coordinates": "-19.2994, -64.294098"
+      "coordinates": "-19.2994, -64.294098",
+      "metar_available": false
     },
     {
       "ident": "SLPM",
@@ -1527,7 +1653,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLPM",
-      "coordinates": "-13.737951, -66.409333"
+      "coordinates": "-13.737951, -66.409333",
+      "metar_available": false
     },
     {
       "ident": "SLPN",
@@ -1539,7 +1666,8 @@
       "iso_region": "BO-S",
       "municipality": "Velasco",
       "gps_code": "SLPN",
-      "coordinates": "-13.987333, -61.545666"
+      "coordinates": "-13.987333, -61.545666",
+      "metar_available": false
     },
     {
       "ident": "SLPO",
@@ -1552,7 +1680,8 @@
       "municipality": "Potosí",
       "gps_code": "SLPO",
       "iata_code": "POI",
-      "coordinates": "-19.543331, -65.723734"
+      "coordinates": "-19.543331, -65.723734",
+      "metar_available": false
     },
     {
       "ident": "SLPR",
@@ -1565,7 +1694,8 @@
       "municipality": "Puerto Rico/Manuripi",
       "gps_code": "SLPR",
       "iata_code": "PUR",
-      "coordinates": "-11.107663, -67.551155"
+      "coordinates": "-11.107663, -67.551155",
+      "metar_available": false
     },
     {
       "ident": "SLPS",
@@ -1578,7 +1708,8 @@
       "municipality": "Puerto Suárez",
       "gps_code": "SLPS",
       "iata_code": "PSZ",
-      "coordinates": "-18.975301, -57.820599"
+      "coordinates": "-18.975301, -57.820599",
+      "metar_available": false
     },
     {
       "ident": "SLPW",
@@ -1590,7 +1721,8 @@
       "iso_region": "BO-H",
       "municipality": "Luis Calvo",
       "gps_code": "SLPW",
-      "coordinates": "-20.7547, -63.2094"
+      "coordinates": "-20.7547, -63.2094",
+      "metar_available": false
     },
     {
       "ident": "SLPY",
@@ -1602,7 +1734,8 @@
       "iso_region": "BO-S",
       "municipality": "Sanja Honda",
       "gps_code": "SLPY",
-      "coordinates": "-18.333499908447266, -63.192501068115234"
+      "coordinates": "-18.333499908447266, -63.192501068115234",
+      "metar_available": false
     },
     {
       "ident": "SLQN",
@@ -1614,7 +1747,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLQN",
-      "coordinates": "-13.183333, -67"
+      "coordinates": "-13.183333, -67",
+      "metar_available": false
     },
     {
       "ident": "SLRA",
@@ -1627,7 +1761,8 @@
       "municipality": "San Ramón / Mamoré",
       "gps_code": "SLRA",
       "iata_code": "SRD",
-      "coordinates": "-13.2639, -64.603897"
+      "coordinates": "-13.2639, -64.603897",
+      "metar_available": false
     },
     {
       "ident": "SLRB",
@@ -1640,7 +1775,8 @@
       "municipality": "Roboré",
       "gps_code": "SLRB",
       "iata_code": "RBO",
-      "coordinates": "-18.328224, -59.765339"
+      "coordinates": "-18.328224, -59.765339",
+      "metar_available": false
     },
     {
       "ident": "SLRF",
@@ -1652,7 +1788,8 @@
       "iso_region": "BO-S",
       "municipality": "Velasco",
       "gps_code": "SLRF",
-      "coordinates": "-14.7627, -61.032001"
+      "coordinates": "-14.7627, -61.032001",
+      "metar_available": false
     },
     {
       "ident": "SLRH",
@@ -1664,7 +1801,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLRH",
-      "coordinates": "-12.166667, -65.783333"
+      "coordinates": "-12.166667, -65.783333",
+      "metar_available": false
     },
     {
       "ident": "SLRI",
@@ -1677,7 +1815,8 @@
       "municipality": "Riberalta",
       "gps_code": "SLRI",
       "iata_code": "RIB",
-      "coordinates": "-11.009355, -66.075468"
+      "coordinates": "-11.009355, -66.075468",
+      "metar_available": false
     },
     {
       "ident": "SLRL",
@@ -1689,7 +1828,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLRL",
-      "coordinates": "-13.975000381469727, -65.625"
+      "coordinates": "-13.975000381469727, -65.625",
+      "metar_available": false
     },
     {
       "ident": "SLRP",
@@ -1701,7 +1841,8 @@
       "iso_region": "BO-O",
       "municipality": "Carangas",
       "gps_code": "SLRP",
-      "coordinates": "-18.641666412353516, -67.55833435058594"
+      "coordinates": "-18.641666412353516, -67.55833435058594",
+      "metar_available": false
     },
     {
       "ident": "SLRQ",
@@ -1714,7 +1855,8 @@
       "municipality": "Rurrenabaque",
       "gps_code": "SLRQ",
       "iata_code": "RBQ",
-      "coordinates": "-14.4279, -67.496803"
+      "coordinates": "-14.4279, -67.496803",
+      "metar_available": false
     },
     {
       "ident": "SLRR",
@@ -1726,7 +1868,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLRR",
-      "coordinates": "-14.483334, -66.349998"
+      "coordinates": "-14.483334, -66.349998",
+      "metar_available": false
     },
     {
       "ident": "SLRS",
@@ -1738,7 +1881,8 @@
       "iso_region": "BO-S",
       "municipality": "Campo Ingelmeco",
       "gps_code": "SLRS",
-      "coordinates": "-18.200834274291992, -63.25600051879883"
+      "coordinates": "-18.200834274291992, -63.25600051879883",
+      "metar_available": false
     },
     {
       "ident": "SLRT",
@@ -1750,7 +1894,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLRT",
-      "coordinates": "-13.933333, -66.333336"
+      "coordinates": "-13.933333, -66.333336",
+      "metar_available": false
     },
     {
       "ident": "SLRX",
@@ -1762,7 +1907,8 @@
       "iso_region": "BO-S",
       "municipality": "German Busch",
       "gps_code": "SLRX",
-      "coordinates": "-18.200834, -58.169998"
+      "coordinates": "-18.200834, -58.169998",
+      "metar_available": false
     },
     {
       "ident": "SLRY",
@@ -1775,7 +1921,8 @@
       "municipality": "Reyes",
       "gps_code": "SLRY",
       "iata_code": "REY",
-      "coordinates": "-14.3044, -67.353401"
+      "coordinates": "-14.3044, -67.353401",
+      "metar_available": false
     },
     {
       "ident": "SLSA",
@@ -1788,7 +1935,8 @@
       "municipality": "Santa Ana del Yacuma",
       "gps_code": "SLSA",
       "iata_code": "SBL",
-      "coordinates": "-13.762200355500001, -65.4352035522"
+      "coordinates": "-13.762200355500001, -65.4352035522",
+      "metar_available": false
     },
     {
       "ident": "SLSB",
@@ -1801,7 +1949,8 @@
       "municipality": "San Borja",
       "gps_code": "SLSB",
       "iata_code": "SRJ",
-      "coordinates": "-14.8592, -66.737503"
+      "coordinates": "-14.8592, -66.737503",
+      "metar_available": false
     },
     {
       "ident": "SLSD",
@@ -1813,7 +1962,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLSD",
-      "coordinates": "-14.5611, -65.527199"
+      "coordinates": "-14.5611, -65.527199",
+      "metar_available": false
     },
     {
       "ident": "SLSE",
@@ -1825,7 +1975,8 @@
       "iso_region": "BO-S",
       "municipality": "Angel Sandoval",
       "gps_code": "SLSE",
-      "coordinates": "-16.285, -59.495167"
+      "coordinates": "-16.285, -59.495167",
+      "metar_available": false
     },
     {
       "ident": "SLSF",
@@ -1836,7 +1987,8 @@
       "iso_country": "BO",
       "iso_region": "BO-S",
       "gps_code": "SLSF",
-      "coordinates": "-17.2891, -62.304"
+      "coordinates": "-17.2891, -62.304",
+      "metar_available": false
     },
     {
       "ident": "SLSG",
@@ -1848,7 +2000,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLSG",
-      "coordinates": "-13.9021, -66.1567"
+      "coordinates": "-13.9021, -66.1567",
+      "metar_available": false
     },
     {
       "ident": "SLSH",
@@ -1860,7 +2013,8 @@
       "iso_region": "BO-L",
       "municipality": "Sud Yungas",
       "gps_code": "SLSH",
-      "coordinates": "-15.483334, -67.48333"
+      "coordinates": "-15.483334, -67.48333",
+      "metar_available": false
     },
     {
       "ident": "SLSI",
@@ -1873,7 +2027,8 @@
       "municipality": "San Ignacio de Velasco",
       "gps_code": "SLSI",
       "iata_code": "SNG",
-      "coordinates": "-16.38719, -60.962318"
+      "coordinates": "-16.38719, -60.962318",
+      "metar_available": false
     },
     {
       "ident": "SLSJ",
@@ -1885,7 +2040,8 @@
       "iso_region": "BO-O",
       "municipality": "Ladislao Cabrera",
       "gps_code": "SLSJ",
-      "coordinates": "-19.5, -67.33333587646484"
+      "coordinates": "-19.5, -67.33333587646484",
+      "metar_available": false
     },
     {
       "ident": "SLSK",
@@ -1897,7 +2053,8 @@
       "iso_region": "BO-S",
       "municipality": "A. Ibañez",
       "gps_code": "SLSK",
-      "coordinates": "-17.104719, -63.608372"
+      "coordinates": "-17.104719, -63.608372",
+      "metar_available": false
     },
     {
       "ident": "SLSM",
@@ -1910,7 +2067,8 @@
       "municipality": "San Ignacio de Moxos",
       "gps_code": "SLSM",
       "iata_code": "SNM",
-      "coordinates": "-14.9658, -65.6338"
+      "coordinates": "-14.9658, -65.6338",
+      "metar_available": false
     },
     {
       "ident": "SLSN",
@@ -1922,7 +2080,8 @@
       "iso_region": "BO-T",
       "municipality": "Gran Chaco",
       "gps_code": "SLSN",
-      "coordinates": "-21.649999618530273, -63.599998474121094"
+      "coordinates": "-21.649999618530273, -63.599998474121094",
+      "metar_available": false
     },
     {
       "ident": "SLSP",
@@ -1934,7 +2093,8 @@
       "iso_region": "BO-T",
       "municipality": "Gran Chaco",
       "gps_code": "SLSP",
-      "coordinates": "-21.0735, -63.109501"
+      "coordinates": "-21.0735, -63.109501",
+      "metar_available": false
     },
     {
       "ident": "SLSQ",
@@ -1946,7 +2106,8 @@
       "iso_region": "BO-S",
       "municipality": "Santiago de Chiquitos",
       "gps_code": "SLSQ",
-      "coordinates": "-18.3458, -59.604801"
+      "coordinates": "-18.3458, -59.604801",
+      "metar_available": false
     },
     {
       "ident": "SLSR",
@@ -1959,7 +2120,8 @@
       "municipality": "Santa Rosa",
       "gps_code": "SLSR",
       "iata_code": "SRB",
-      "coordinates": "-14.0662, -66.786797"
+      "coordinates": "-14.0662, -66.786797",
+      "metar_available": false
     },
     {
       "ident": "SLSS",
@@ -1971,7 +2133,8 @@
       "iso_region": "BO-S",
       "municipality": "Sunsas",
       "gps_code": "SLSS",
-      "coordinates": "-18.4754, -58.2767"
+      "coordinates": "-18.4754, -58.2767",
+      "metar_available": false
     },
     {
       "ident": "SLSU",
@@ -1983,7 +2146,8 @@
       "iso_region": "BO-H",
       "municipality": "Sucre",
       "gps_code": "SLSU",
-      "coordinates": "-19.007099, -65.288696"
+      "coordinates": "-19.007099, -65.288696",
+      "metar_available": false
     },
     {
       "ident": "SLSV",
@@ -1995,7 +2159,8 @@
       "iso_region": "BO-S",
       "municipality": "San Ignacio de Velasco",
       "gps_code": "SLSV",
-      "coordinates": "-16.401239, -61.0452"
+      "coordinates": "-16.401239, -61.0452",
+      "metar_available": false
     },
     {
       "ident": "SLTA",
@@ -2007,7 +2172,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLTA",
-      "coordinates": "-20.3433, -63.1394"
+      "coordinates": "-20.3433, -63.1394",
+      "metar_available": false
     },
     {
       "ident": "SLTC",
@@ -2019,7 +2185,8 @@
       "iso_region": "BO-S",
       "municipality": "Chiquitos",
       "gps_code": "SLTC",
-      "coordinates": "-17.3604, -62.2796"
+      "coordinates": "-17.3604, -62.2796",
+      "metar_available": false
     },
     {
       "ident": "SLTE",
@@ -2031,7 +2198,8 @@
       "iso_region": "BO-L",
       "municipality": "Larecaja",
       "gps_code": "SLTE",
-      "coordinates": "-15.498333, -67.816666"
+      "coordinates": "-15.498333, -67.816666",
+      "metar_available": false
     },
     {
       "ident": "SLTG",
@@ -2043,7 +2211,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLTG",
-      "coordinates": "-15.2278, -65.450104"
+      "coordinates": "-15.2278, -65.450104",
+      "metar_available": false
     },
     {
       "ident": "SLTI",
@@ -2056,7 +2225,8 @@
       "municipality": "San Matías",
       "gps_code": "SLTI",
       "iata_code": "MQK",
-      "coordinates": "-16.339199, -58.401901"
+      "coordinates": "-16.339199, -58.401901",
+      "metar_available": false
     },
     {
       "ident": "SLTJ",
@@ -2069,7 +2239,8 @@
       "municipality": "Tarija",
       "gps_code": "SLTJ",
       "iata_code": "TJA",
-      "coordinates": "-21.5557, -64.701302"
+      "coordinates": "-21.5557, -64.701302",
+      "metar_available": false
     },
     {
       "ident": "SLTL",
@@ -2081,7 +2252,8 @@
       "iso_region": "BO-P",
       "municipality": "Nor Lipez",
       "gps_code": "SLTL",
-      "coordinates": "-21.175602, -67.166689"
+      "coordinates": "-21.175602, -67.166689",
+      "metar_available": false
     },
     {
       "ident": "SLTO",
@@ -2093,7 +2265,8 @@
       "iso_region": "BO-O",
       "municipality": "Oruro",
       "gps_code": "SLTO",
-      "coordinates": "-17.798166275024414, -68.09349822998047"
+      "coordinates": "-17.798166275024414, -68.09349822998047",
+      "metar_available": false
     },
     {
       "ident": "SLTR",
@@ -2106,7 +2279,8 @@
       "municipality": "Trinidad",
       "gps_code": "SLTR",
       "iata_code": "TDD",
-      "coordinates": "-14.8186998367, -64.9179992676"
+      "coordinates": "-14.8186998367, -64.9179992676",
+      "metar_available": false
     },
     {
       "ident": "SLTU",
@@ -2118,7 +2292,8 @@
       "iso_region": "BO-O",
       "municipality": "Sajama",
       "gps_code": "SLTU",
-      "coordinates": "-18.195833206176758, -68.14199829101562"
+      "coordinates": "-18.195833206176758, -68.14199829101562",
+      "metar_available": false
     },
     {
       "ident": "SLTW",
@@ -2130,7 +2305,8 @@
       "iso_region": "BO-S",
       "municipality": "San Rafael",
       "gps_code": "SLTW",
-      "coordinates": "-18.466400146484375, -62.11199951171875"
+      "coordinates": "-18.466400146484375, -62.11199951171875",
+      "metar_available": false
     },
     {
       "ident": "SLTX",
@@ -2142,7 +2318,8 @@
       "iso_region": "BO-L",
       "municipality": "Franz Tamayo",
       "gps_code": "SLTX",
-      "coordinates": "-14.316666603088379, -68.58333587646484"
+      "coordinates": "-14.316666603088379, -68.58333587646484",
+      "metar_available": false
     },
     {
       "ident": "SLTY",
@@ -2154,7 +2331,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLTY",
-      "coordinates": "-13.800000190734863, -66.23332977294922"
+      "coordinates": "-13.800000190734863, -66.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "SLTZ",
@@ -2166,7 +2344,8 @@
       "iso_region": "BO-P",
       "municipality": "Sud Chichas",
       "gps_code": "SLTZ",
-      "coordinates": "-21.337012, -65.612228"
+      "coordinates": "-21.337012, -65.612228",
+      "metar_available": false
     },
     {
       "ident": "SLUC",
@@ -2178,7 +2357,8 @@
       "iso_region": "BO-S",
       "municipality": "Cordillera",
       "gps_code": "SLUC",
-      "coordinates": "-20.480499, -63.528168"
+      "coordinates": "-20.480499, -63.528168",
+      "metar_available": false
     },
     {
       "ident": "SLUK",
@@ -2190,7 +2370,8 @@
       "iso_region": "BO-O",
       "municipality": "Oruro",
       "gps_code": "SLUK",
-      "coordinates": "-17.98579978942871, -68.39430236816406"
+      "coordinates": "-17.98579978942871, -68.39430236816406",
+      "metar_available": false
     },
     {
       "ident": "SLUP",
@@ -2202,7 +2383,8 @@
       "iso_region": "BO-N",
       "municipality": "Puerto America",
       "gps_code": "SLUP",
-      "coordinates": "-11.7616, -67.95864"
+      "coordinates": "-11.7616, -67.95864",
+      "metar_available": false
     },
     {
       "ident": "SLUS",
@@ -2214,7 +2396,8 @@
       "iso_region": "BO-B",
       "municipality": "Ballivian",
       "gps_code": "SLUS",
-      "coordinates": "-14.316667, -66.166664"
+      "coordinates": "-14.316667, -66.166664",
+      "metar_available": false
     },
     {
       "ident": "SLUU",
@@ -2226,7 +2409,8 @@
       "iso_region": "BO-L",
       "municipality": "Franz Tamayo",
       "gps_code": "SLUU",
-      "coordinates": "-15.033334, -69.25"
+      "coordinates": "-15.033334, -69.25",
+      "metar_available": false
     },
     {
       "ident": "SLUY",
@@ -2239,7 +2423,8 @@
       "municipality": "Quijarro",
       "gps_code": "SLUY",
       "iata_code": "UYU",
-      "coordinates": "-20.441304, -66.857553"
+      "coordinates": "-20.441304, -66.857553",
+      "metar_available": false
     },
     {
       "ident": "SLVA",
@@ -2251,7 +2436,8 @@
       "iso_region": "BO-L",
       "municipality": "Aroma",
       "gps_code": "SLVA",
-      "coordinates": "-17.32101, -67.75322"
+      "coordinates": "-17.32101, -67.75322",
+      "metar_available": false
     },
     {
       "ident": "SLVD",
@@ -2263,7 +2449,8 @@
       "iso_region": "BO-L",
       "municipality": "Sud Yungas",
       "gps_code": "SLVD",
-      "coordinates": "-15.833333, -67.083336"
+      "coordinates": "-15.833333, -67.083336",
+      "metar_available": false
     },
     {
       "ident": "SLVE",
@@ -2275,7 +2462,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLVE",
-      "coordinates": "-14.636, -66.750298"
+      "coordinates": "-14.636, -66.750298",
+      "metar_available": false
     },
     {
       "ident": "SLVG",
@@ -2288,7 +2476,8 @@
       "municipality": "Vallegrande",
       "gps_code": "SLVG",
       "iata_code": "VAH",
-      "coordinates": "-18.4825, -64.099403"
+      "coordinates": "-18.4825, -64.099403",
+      "metar_available": false
     },
     {
       "ident": "SLVI",
@@ -2300,7 +2489,8 @@
       "iso_region": "BO-L",
       "municipality": "Nor Yungas",
       "gps_code": "SLVI",
-      "coordinates": "-15.75, -67.56666564941406"
+      "coordinates": "-15.75, -67.56666564941406",
+      "metar_available": false
     },
     {
       "ident": "SLVM",
@@ -2313,7 +2503,8 @@
       "municipality": "Villamontes",
       "gps_code": "SLVM",
       "iata_code": "VLM",
-      "coordinates": "-21.255199432399998, -63.4056015015"
+      "coordinates": "-21.255199432399998, -63.4056015015",
+      "metar_available": false
     },
     {
       "ident": "SLVN",
@@ -2325,7 +2516,8 @@
       "iso_region": "BO-B",
       "municipality": "Yacuma",
       "gps_code": "SLVN",
-      "coordinates": "-13.2658, -65.875801"
+      "coordinates": "-13.2658, -65.875801",
+      "metar_available": false
     },
     {
       "ident": "SLVR",
@@ -2338,7 +2530,8 @@
       "municipality": "Santa Cruz",
       "gps_code": "SLVR",
       "iata_code": "VVI",
-      "coordinates": "-17.6448, -63.135399"
+      "coordinates": "-17.6448, -63.135399",
+      "metar_available": false
     },
     {
       "ident": "SLVT",
@@ -2350,7 +2543,8 @@
       "iso_region": "BO-T",
       "municipality": "Tesoro",
       "gps_code": "SLVT",
-      "coordinates": "-21.266666, -63.358334"
+      "coordinates": "-21.266666, -63.358334",
+      "metar_available": false
     },
     {
       "ident": "SLVU",
@@ -2362,7 +2556,8 @@
       "iso_region": "BO-H",
       "municipality": "Luis Calvo",
       "gps_code": "SLVU",
-      "coordinates": "-20.904833, -63.192165"
+      "coordinates": "-20.904833, -63.192165",
+      "metar_available": false
     },
     {
       "ident": "SLVV",
@@ -2374,7 +2569,8 @@
       "iso_region": "BO-B",
       "municipality": "Mamore",
       "gps_code": "SLVV",
-      "coordinates": "-13.6443, -64.440804"
+      "coordinates": "-13.6443, -64.440804",
+      "metar_available": false
     },
     {
       "ident": "SLVZ",
@@ -2386,7 +2582,8 @@
       "iso_region": "BO-P",
       "municipality": "M.Omiste",
       "gps_code": "SLVZ",
-      "coordinates": "-22.053604, -65.639249"
+      "coordinates": "-22.053604, -65.639249",
+      "metar_available": false
     },
     {
       "ident": "SLYA",
@@ -2399,7 +2596,8 @@
       "municipality": "Yacuíba",
       "gps_code": "SLYA",
       "iata_code": "BYC",
-      "coordinates": "-21.960899353027344, -63.65169906616211"
+      "coordinates": "-21.960899353027344, -63.65169906616211",
+      "metar_available": false
     },
     {
       "ident": "SLYG",
@@ -2411,7 +2609,8 @@
       "iso_region": "BO-S",
       "municipality": "Las Juntas",
       "gps_code": "SLYG",
-      "coordinates": "-18.654499, -63.132801"
+      "coordinates": "-18.654499, -63.132801",
+      "metar_available": false
     },
     {
       "ident": "SLYI",
@@ -2423,7 +2622,8 @@
       "iso_region": "BO-S",
       "municipality": "Ichilo",
       "gps_code": "SLYI",
-      "coordinates": "-17.015667, -64.056335"
+      "coordinates": "-17.015667, -64.056335",
+      "metar_available": false
     },
     {
       "ident": "SLZB",
@@ -2435,7 +2635,8 @@
       "iso_region": "BO-B",
       "municipality": "Moxos",
       "gps_code": "SLZB",
-      "coordinates": "-14.866667, -65.650002"
+      "coordinates": "-14.866667, -65.650002",
+      "metar_available": false
     },
     {
       "ident": "SLZC",
@@ -2447,7 +2648,8 @@
       "iso_region": "BO-S",
       "municipality": "Ichilo",
       "gps_code": "SLZC",
-      "coordinates": "-17.427798, -63.674953"
+      "coordinates": "-17.427798, -63.674953",
+      "metar_available": false
     },
     {
       "ident": "SLZF",
@@ -2459,7 +2661,8 @@
       "iso_region": "BO-B",
       "municipality": "Nacif",
       "gps_code": "SLZF",
-      "coordinates": "-13.7486, -64.453697"
+      "coordinates": "-13.7486, -64.453697",
+      "metar_available": false
     },
     {
       "ident": "SLZJ",
@@ -2471,7 +2674,8 @@
       "iso_region": "BO-B",
       "municipality": "Itenes",
       "gps_code": "SLZJ",
-      "coordinates": "-14.216666, -63.650002"
+      "coordinates": "-14.216666, -63.650002",
+      "metar_available": false
     },
     {
       "ident": "SLZV",
@@ -2483,7 +2687,8 @@
       "iso_region": "BO-S",
       "municipality": "Velasco",
       "gps_code": "SLZV",
-      "coordinates": "-16.273701, -60.090698"
+      "coordinates": "-16.273701, -60.090698",
+      "metar_available": false
     }
   ]
 }

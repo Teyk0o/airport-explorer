@@ -2,7 +2,7 @@
   "country_code": "AT",
   "country_name": "Austria",
   "total_airports": 188,
-  "last_updated": "2025-08-01T00:18:22.440895",
+  "last_updated": "2025-08-25T10:08:40.567692",
   "types_distribution": {
     "heliport": 112,
     "seaplane_base": 1,
@@ -22,7 +22,8 @@
       "iso_region": "AT-3",
       "municipality": "Pöchlarn-Wörth",
       "gps_code": "LOAL",
-      "coordinates": "48.214737, 15.255424"
+      "coordinates": "48.214737, 15.255424",
+      "metar_available": false
     },
     {
       "ident": "AT-0002",
@@ -32,7 +33,8 @@
       "iso_country": "AT",
       "iso_region": "AT-4",
       "municipality": "Lake Wolfgang",
-      "coordinates": "47.734705433100004, 13.4438323975"
+      "coordinates": "47.734705433100004, 13.4438323975",
+      "metar_available": false
     },
     {
       "ident": "AT-0003",
@@ -43,7 +45,8 @@
       "iso_country": "AT",
       "iso_region": "AT-1",
       "municipality": "Bad Tatzmannsdorf",
-      "coordinates": "47.33072, 16.22207"
+      "coordinates": "47.33072, 16.22207",
+      "metar_available": false
     },
     {
       "ident": "AT-0004",
@@ -54,7 +57,8 @@
       "iso_country": "AT",
       "iso_region": "AT-1",
       "municipality": "Güssing",
-      "coordinates": "47.04977, 16.3217"
+      "coordinates": "47.04977, 16.3217",
+      "metar_available": false
     },
     {
       "ident": "AT-0005",
@@ -65,7 +69,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Retz",
-      "coordinates": "48.75447, 15.962132"
+      "coordinates": "48.75447, 15.962132",
+      "metar_available": false
     },
     {
       "ident": "AT-0006",
@@ -77,7 +82,8 @@
       "iso_region": "AT-8",
       "municipality": "Frastanz",
       "gps_code": "LOJN",
-      "coordinates": "47.208934, 9.659745"
+      "coordinates": "47.208934, 9.659745",
+      "metar_available": false
     },
     {
       "ident": "AT-0007",
@@ -89,7 +95,8 @@
       "iso_region": "AT-3",
       "municipality": "Haselgraben",
       "gps_code": "LOLY",
-      "coordinates": "47.969106, 14.939405"
+      "coordinates": "47.969106, 14.939405",
+      "metar_available": false
     },
     {
       "ident": "AT-0008",
@@ -101,7 +108,8 @@
       "iso_region": "AT-3",
       "municipality": "Gmünd",
       "gps_code": "LOBG",
-      "coordinates": "48.78522, 14.974763"
+      "coordinates": "48.78522, 14.974763",
+      "metar_available": false
     },
     {
       "ident": "AT-0009",
@@ -111,7 +119,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Ameis",
-      "coordinates": "48.657837, 16.540234"
+      "coordinates": "48.657837, 16.540234",
+      "metar_available": false
     },
     {
       "ident": "AT-0010",
@@ -120,7 +129,8 @@
       "continent": "EU",
       "iso_country": "AT",
       "iso_region": "AT-6",
-      "coordinates": "46.76296, 15.90426"
+      "coordinates": "46.76296, 15.90426",
+      "metar_available": false
     },
     {
       "ident": "AT-0011",
@@ -131,7 +141,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Poysdorf",
-      "coordinates": "48.6976, 16.6598"
+      "coordinates": "48.6976, 16.6598",
+      "metar_available": false
     },
     {
       "ident": "AT-0013",
@@ -142,7 +153,8 @@
       "iso_country": "AT",
       "iso_region": "AT-8",
       "municipality": "Höchst",
-      "coordinates": "47.47909, 9.60508"
+      "coordinates": "47.47909, 9.60508",
+      "metar_available": false
     },
     {
       "ident": "AT-0014",
@@ -153,7 +165,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Strasshof an der Nordbahn",
-      "coordinates": "48.30172, 16.61866"
+      "coordinates": "48.30172, 16.61866",
+      "metar_available": false
     },
     {
       "ident": "AT-0015",
@@ -165,7 +178,8 @@
       "iso_region": "AT-8",
       "municipality": "Lech",
       "gps_code": "LOJW",
-      "coordinates": "47.184186, 10.157166"
+      "coordinates": "47.184186, 10.157166",
+      "metar_available": false
     },
     {
       "ident": "AT-0016",
@@ -176,7 +190,8 @@
       "iso_country": "AT",
       "iso_region": "AT-8",
       "municipality": "Ehrwald",
-      "coordinates": "47.40553, 10.91682"
+      "coordinates": "47.40553, 10.91682",
+      "metar_available": false
     },
     {
       "ident": "AT-0017",
@@ -187,7 +202,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Laa an der Thaya",
-      "coordinates": "48.69335, 16.46472"
+      "coordinates": "48.69335, 16.46472",
+      "metar_available": false
     },
     {
       "ident": "AT-0018",
@@ -200,7 +216,8 @@
       "municipality": "Wien",
       "gps_code": "LOBU",
       "local_code": "LOBU",
-      "coordinates": "48.17287, 16.34463"
+      "coordinates": "48.17287, 16.34463",
+      "metar_available": false
     },
     {
       "ident": "AT-0019",
@@ -210,7 +227,8 @@
       "iso_country": "AT",
       "iso_region": "AT-9",
       "municipality": "Wien",
-      "coordinates": "48.21528, 16.36419"
+      "coordinates": "48.21528, 16.36419",
+      "metar_available": false
     },
     {
       "ident": "AT-0020",
@@ -220,7 +238,8 @@
       "iso_country": "AT",
       "iso_region": "AT-9",
       "municipality": "Wien",
-      "coordinates": "48.23442, 16.35713"
+      "coordinates": "48.23442, 16.35713",
+      "metar_available": false
     },
     {
       "ident": "AT-0021",
@@ -232,7 +251,8 @@
       "municipality": "Wien",
       "gps_code": "LOBB",
       "local_code": "LOBB",
-      "coordinates": "48.26766, 16.405914"
+      "coordinates": "48.26766, 16.405914",
+      "metar_available": false
     },
     {
       "ident": "AT-0022",
@@ -243,7 +263,8 @@
       "iso_country": "AT",
       "iso_region": "AT-1",
       "municipality": "Breitenbrunn am Neusiedler See",
-      "coordinates": "47.94516, 16.72973"
+      "coordinates": "47.94516, 16.72973",
+      "metar_available": false
     },
     {
       "ident": "AT-0023",
@@ -255,7 +276,8 @@
       "iso_region": "AT-3",
       "municipality": "Leoben",
       "gps_code": "LODA",
-      "coordinates": "47.38066, 15.08471"
+      "coordinates": "47.38066, 15.08471",
+      "metar_available": false
     },
     {
       "ident": "AT-0024",
@@ -266,7 +288,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Franzen",
-      "coordinates": "48.61453, 15.40598"
+      "coordinates": "48.61453, 15.40598",
+      "metar_available": false
     },
     {
       "ident": "AT-0025",
@@ -277,7 +300,8 @@
       "iso_country": "AT",
       "iso_region": "AT-4",
       "municipality": "Usting",
-      "coordinates": "48.31459, 13.71796"
+      "coordinates": "48.31459, 13.71796",
+      "metar_available": false
     },
     {
       "ident": "AT-0026",
@@ -288,7 +312,8 @@
       "iso_country": "AT",
       "iso_region": "AT-2",
       "municipality": "Klagenfurt am Wörthersee",
-      "coordinates": "46.61925, 14.34095"
+      "coordinates": "46.61925, 14.34095",
+      "metar_available": false
     },
     {
       "ident": "AT-0027",
@@ -299,7 +324,8 @@
       "iso_country": "AT",
       "iso_region": "AT-2",
       "municipality": "Klagenfurt am Wörthersee",
-      "coordinates": "46.62137, 14.29898"
+      "coordinates": "46.62137, 14.29898",
+      "metar_available": false
     },
     {
       "ident": "AT-0028",
@@ -310,7 +336,8 @@
       "iso_country": "AT",
       "iso_region": "AT-7",
       "municipality": "Wiesing",
-      "coordinates": "47.4013, 11.80198"
+      "coordinates": "47.4013, 11.80198",
+      "metar_available": false
     },
     {
       "ident": "AT-0029",
@@ -321,7 +348,8 @@
       "iso_country": "AT",
       "iso_region": "AT-2",
       "municipality": "Treffen am Ossiacher See",
-      "coordinates": "46.65278, 13.89145"
+      "coordinates": "46.65278, 13.89145",
+      "metar_available": false
     },
     {
       "ident": "AT-0030",
@@ -332,7 +360,8 @@
       "iso_country": "AT",
       "iso_region": "AT-9",
       "municipality": "Vienna",
-      "coordinates": "48.2244, 16.5082"
+      "coordinates": "48.2244, 16.5082",
+      "metar_available": false
     },
     {
       "ident": "AT-0031",
@@ -343,7 +372,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Leopoldsdorf im Marchfelde",
-      "coordinates": "48.2267, 16.672199"
+      "coordinates": "48.2267, 16.672199",
+      "metar_available": false
     },
     {
       "ident": "AT-0032",
@@ -354,7 +384,8 @@
       "iso_country": "AT",
       "iso_region": "AT-1",
       "municipality": "Trausdorf an der Wulka",
-      "coordinates": "47.798024, 16.558172"
+      "coordinates": "47.798024, 16.558172",
+      "metar_available": false
     },
     {
       "ident": "AT-0033",
@@ -365,7 +396,8 @@
       "iso_country": "AT",
       "iso_region": "AT-2",
       "municipality": "Klagenfurt am Wörthersee",
-      "coordinates": "46.620018, 14.307845"
+      "coordinates": "46.620018, 14.307845",
+      "metar_available": false
     },
     {
       "ident": "AT-0034",
@@ -376,7 +408,8 @@
       "iso_country": "AT",
       "iso_region": "AT-7",
       "municipality": "Kitzbühel",
-      "coordinates": "47.449756, 12.396033"
+      "coordinates": "47.449756, 12.396033",
+      "metar_available": false
     },
     {
       "ident": "AT-0035",
@@ -388,7 +421,8 @@
       "iso_region": "AT-1",
       "municipality": "Kittsee",
       "local_code": "LOAC",
-      "coordinates": "48.09321, 17.06593"
+      "coordinates": "48.09321, 17.06593",
+      "metar_available": false
     },
     {
       "ident": "AT-0036",
@@ -400,7 +434,8 @@
       "iso_region": "AT-1",
       "municipality": "Oberpullendorf",
       "local_code": "LOAO",
-      "coordinates": "47.507738, 16.511697"
+      "coordinates": "47.507738, 16.511697",
+      "metar_available": false
     },
     {
       "ident": "AT-0037",
@@ -412,7 +447,8 @@
       "iso_region": "AT-1",
       "municipality": "Oberwart",
       "local_code": "LOGR",
-      "coordinates": "47.279549, 16.201566"
+      "coordinates": "47.279549, 16.201566",
+      "metar_available": false
     },
     {
       "ident": "AT-0038",
@@ -424,7 +460,8 @@
       "iso_region": "AT-2",
       "municipality": "Bad Kleinkircheim",
       "local_code": "LOKB",
-      "coordinates": "46.811943054199, 13.783888816833"
+      "coordinates": "46.811943054199, 13.783888816833",
+      "metar_available": false
     },
     {
       "ident": "AT-0039",
@@ -436,7 +473,8 @@
       "iso_region": "AT-2",
       "municipality": "Villach",
       "local_code": "LOKD",
-      "coordinates": "46.601768493652, 13.949712753296"
+      "coordinates": "46.601768493652, 13.949712753296",
+      "metar_available": false
     },
     {
       "ident": "AT-0040",
@@ -448,7 +486,8 @@
       "iso_region": "AT-2",
       "municipality": "Wietersdorf",
       "local_code": "LOKI",
-      "coordinates": "46.847778320312, 14.536944389343"
+      "coordinates": "46.847778320312, 14.536944389343",
+      "metar_available": false
     },
     {
       "ident": "AT-0041",
@@ -460,7 +499,8 @@
       "iso_region": "AT-2",
       "municipality": "Halleg",
       "local_code": "LOKK",
-      "coordinates": "46.648056030273, 14.245833396912"
+      "coordinates": "46.648056030273, 14.245833396912",
+      "metar_available": false
     },
     {
       "ident": "AT-0042",
@@ -472,7 +512,8 @@
       "iso_region": "AT-2",
       "municipality": "Friesach",
       "local_code": "LOKP",
-      "coordinates": "46.94722366333, 14.410833358765"
+      "coordinates": "46.94722366333, 14.410833358765",
+      "metar_available": false
     },
     {
       "ident": "AT-0043",
@@ -484,7 +525,8 @@
       "iso_region": "AT-2",
       "municipality": "St. Andrä",
       "local_code": "LOKS",
-      "coordinates": "46.758331298828, 14.825555801392"
+      "coordinates": "46.758331298828, 14.825555801392",
+      "metar_available": false
     },
     {
       "ident": "AT-0044",
@@ -496,7 +538,8 @@
       "iso_region": "AT-2",
       "municipality": "Villach",
       "local_code": "LOKT",
-      "coordinates": "46.615692138672, 13.857175827026"
+      "coordinates": "46.615692138672, 13.857175827026",
+      "metar_available": false
     },
     {
       "ident": "AT-0045",
@@ -508,7 +551,8 @@
       "iso_region": "AT-2",
       "municipality": "Klagenfurt am Wörthersee",
       "local_code": "LOKU",
-      "coordinates": "46.617901, 14.295486"
+      "coordinates": "46.617901, 14.295486",
+      "metar_available": false
     },
     {
       "ident": "AT-0046",
@@ -520,7 +564,8 @@
       "iso_region": "AT-2",
       "municipality": "Völkermarkt",
       "local_code": "LOKV",
-      "coordinates": "46.661109924316, 14.615833282471"
+      "coordinates": "46.661109924316, 14.615833282471",
+      "metar_available": false
     },
     {
       "ident": "AT-0047",
@@ -532,7 +577,8 @@
       "iso_region": "AT-2",
       "municipality": "Zwatzhof",
       "local_code": "LOKZ",
-      "coordinates": "46.975555419922, 14.274722099304"
+      "coordinates": "46.975555419922, 14.274722099304",
+      "metar_available": false
     },
     {
       "ident": "AT-0048",
@@ -544,7 +590,8 @@
       "iso_region": "AT-2",
       "municipality": "Patergassen",
       "local_code": "LOMP",
-      "coordinates": "46.819442749023, 13.857221603394"
+      "coordinates": "46.819442749023, 13.857221603394",
+      "metar_available": false
     },
     {
       "ident": "AT-0049",
@@ -556,7 +603,8 @@
       "iso_region": "AT-2",
       "municipality": "Wolfsberg",
       "local_code": "LOMW",
-      "coordinates": "46.832500457764, 14.848055839539"
+      "coordinates": "46.832500457764, 14.848055839539",
+      "metar_available": false
     },
     {
       "ident": "AT-0050",
@@ -568,7 +616,8 @@
       "iso_region": "AT-1",
       "municipality": "Eisenstadt",
       "local_code": "LOAE",
-      "coordinates": "47.84677, 16.51345"
+      "coordinates": "47.84677, 16.51345",
+      "metar_available": false
     },
     {
       "ident": "AT-0051",
@@ -580,7 +629,8 @@
       "iso_region": "AT-3",
       "municipality": "Baden",
       "local_code": "LOAF",
-      "coordinates": "48.000612, 16.255796"
+      "coordinates": "48.000612, 16.255796",
+      "metar_available": false
     },
     {
       "ident": "AT-0052",
@@ -592,7 +642,8 @@
       "iso_region": "AT-3",
       "municipality": "Horn",
       "local_code": "LOAH",
-      "coordinates": "48.669249, 15.660705"
+      "coordinates": "48.669249, 15.660705",
+      "metar_available": false
     },
     {
       "ident": "AT-0053",
@@ -604,7 +655,8 @@
       "iso_region": "AT-3",
       "municipality": "Krems",
       "local_code": "LOAK",
-      "coordinates": "48.412753, 15.615224"
+      "coordinates": "48.412753, 15.615224",
+      "metar_available": false
     },
     {
       "ident": "AT-0054",
@@ -616,7 +668,8 @@
       "iso_region": "AT-3",
       "municipality": "Amstetten",
       "local_code": "LOAQ",
-      "coordinates": "48.126714, 14.880871"
+      "coordinates": "48.126714, 14.880871",
+      "metar_available": false
     },
     {
       "ident": "AT-0055",
@@ -628,7 +681,8 @@
       "iso_region": "AT-3",
       "municipality": "Wiener Neustadt",
       "local_code": "LOAW",
-      "coordinates": "47.845135, 16.251601"
+      "coordinates": "47.845135, 16.251601",
+      "metar_available": false
     },
     {
       "ident": "AT-0056",
@@ -640,7 +694,8 @@
       "iso_region": "AT-3",
       "municipality": "Sankt Pölten",
       "local_code": "LOAX",
-      "coordinates": "48.213279, 15.627702"
+      "coordinates": "48.213279, 15.627702",
+      "metar_available": false
     },
     {
       "ident": "AT-0057",
@@ -652,7 +707,8 @@
       "iso_region": "AT-3",
       "municipality": "Kilb",
       "local_code": "LOAY",
-      "coordinates": "48.086067, 15.428381"
+      "coordinates": "48.086067, 15.428381",
+      "metar_available": false
     },
     {
       "ident": "AT-0058",
@@ -664,7 +720,8 @@
       "iso_region": "AT-3",
       "municipality": "Zwettl",
       "local_code": "LOAZ",
-      "coordinates": "48.599721, 15.163697"
+      "coordinates": "48.599721, 15.163697",
+      "metar_available": false
     },
     {
       "ident": "AT-0059",
@@ -676,7 +733,8 @@
       "iso_region": "AT-5",
       "municipality": "Goldeck Talstation",
       "local_code": "LOKO",
-      "coordinates": "46.793151855469, 13.483258247375"
+      "coordinates": "46.793151855469, 13.483258247375",
+      "metar_available": false
     },
     {
       "ident": "AT-0060",
@@ -688,7 +746,8 @@
       "iso_region": "AT-5",
       "municipality": "St. Johann Im Pongau",
       "local_code": "LOSJ",
-      "coordinates": "47.39416885376, 13.222222328186"
+      "coordinates": "47.39416885376, 13.222222328186",
+      "metar_available": false
     },
     {
       "ident": "AT-0061",
@@ -700,7 +759,8 @@
       "iso_region": "AT-5",
       "municipality": "Salzburg",
       "local_code": "LOSL",
-      "coordinates": "47.805839538574, 13.027724266052"
+      "coordinates": "47.805839538574, 13.027724266052",
+      "metar_available": false
     },
     {
       "ident": "AT-0062",
@@ -712,7 +772,8 @@
       "iso_region": "AT-5",
       "municipality": "Schwarzach",
       "local_code": "LOSS",
-      "coordinates": "47.324443817139, 13.154999732971"
+      "coordinates": "47.324443817139, 13.154999732971",
+      "metar_available": false
     },
     {
       "ident": "AT-0063",
@@ -724,7 +785,8 @@
       "iso_region": "AT-5",
       "municipality": "Salzburg",
       "local_code": "LOXS",
-      "coordinates": "47.797500610352, 12.981666564941"
+      "coordinates": "47.797500610352, 12.981666564941",
+      "metar_available": false
     },
     {
       "ident": "AT-0064",
@@ -736,7 +798,8 @@
       "iso_region": "AT-6",
       "municipality": "Judenburg",
       "local_code": "LOGJ",
-      "coordinates": "47.165000915527, 14.654999732971"
+      "coordinates": "47.165000915527, 14.654999732971",
+      "metar_available": false
     },
     {
       "ident": "AT-0065",
@@ -748,7 +811,8 @@
       "iso_region": "AT-7",
       "municipality": "Zams",
       "local_code": "LOIL",
-      "coordinates": "47.176235, 10.611887"
+      "coordinates": "47.176235, 10.611887",
+      "metar_available": false
     },
     {
       "ident": "AT-0066",
@@ -760,7 +824,8 @@
       "iso_region": "AT-7",
       "municipality": "Telfs",
       "local_code": "LOIN",
-      "coordinates": "47.308638, 11.050546"
+      "coordinates": "47.308638, 11.050546",
+      "metar_available": false
     },
     {
       "ident": "AT-0067",
@@ -772,7 +837,8 @@
       "iso_region": "AT-7",
       "municipality": "Sölden",
       "local_code": "LOIO",
-      "coordinates": "46.946556, 11.018499"
+      "coordinates": "46.946556, 11.018499",
+      "metar_available": false
     },
     {
       "ident": "AT-0068",
@@ -784,7 +850,8 @@
       "iso_region": "AT-7",
       "municipality": "Ischgl",
       "local_code": "LOIP",
-      "coordinates": "46.980419, 10.315908"
+      "coordinates": "46.980419, 10.315908",
+      "metar_available": false
     },
     {
       "ident": "AT-0069",
@@ -796,7 +863,8 @@
       "iso_region": "AT-7",
       "municipality": "Wattens",
       "local_code": "LOIS",
-      "coordinates": "47.294643, 11.600066"
+      "coordinates": "47.294643, 11.600066",
+      "metar_available": false
     },
     {
       "ident": "AT-0070",
@@ -808,7 +876,8 @@
       "iso_region": "AT-7",
       "municipality": "Innsbruck",
       "local_code": "LOIU",
-      "coordinates": "47.261018, 11.384733"
+      "coordinates": "47.261018, 11.384733",
+      "metar_available": false
     },
     {
       "ident": "AT-0071",
@@ -820,7 +889,8 @@
       "iso_region": "AT-7",
       "municipality": "Zams",
       "local_code": "LOIV",
-      "coordinates": "47.16131, 10.593883"
+      "coordinates": "47.16131, 10.593883",
+      "metar_available": false
     },
     {
       "ident": "AT-0072",
@@ -832,7 +902,8 @@
       "iso_region": "AT-7",
       "municipality": "Waidring",
       "local_code": "LOIW",
-      "coordinates": "47.585304, 12.592628"
+      "coordinates": "47.585304, 12.592628",
+      "metar_available": false
     },
     {
       "ident": "AT-0073",
@@ -844,7 +915,8 @@
       "iso_region": "AT-7",
       "municipality": "Schwaz",
       "local_code": "LOIZ",
-      "coordinates": "47.343887, 11.704742"
+      "coordinates": "47.343887, 11.704742",
+      "metar_available": false
     },
     {
       "ident": "AT-0074",
@@ -856,7 +928,8 @@
       "iso_region": "AT-7",
       "municipality": "Kaltenbach",
       "local_code": "LOJK",
-      "coordinates": "47.284914, 11.880088"
+      "coordinates": "47.284914, 11.880088",
+      "metar_available": false
     },
     {
       "ident": "AT-0075",
@@ -868,7 +941,8 @@
       "iso_region": "AT-7",
       "municipality": "Mayrhofen",
       "local_code": "LOJM",
-      "coordinates": "47.17763, 11.867096"
+      "coordinates": "47.17763, 11.867096",
+      "metar_available": false
     },
     {
       "ident": "AT-0076",
@@ -880,7 +954,8 @@
       "iso_region": "AT-7",
       "municipality": "Innsbruck",
       "local_code": "LOJO",
-      "coordinates": "47.255034, 11.345485"
+      "coordinates": "47.255034, 11.345485",
+      "metar_available": false
     },
     {
       "ident": "AT-0077",
@@ -892,7 +967,8 @@
       "iso_region": "AT-7",
       "municipality": "Karres",
       "local_code": "LOJP",
-      "coordinates": "47.218956, 10.768817"
+      "coordinates": "47.218956, 10.768817",
+      "metar_available": false
     },
     {
       "ident": "AT-0078",
@@ -904,7 +980,8 @@
       "iso_region": "AT-7",
       "municipality": "Ehrwald",
       "local_code": "LOJZ",
-      "coordinates": "47.419359, 10.926628"
+      "coordinates": "47.419359, 10.926628",
+      "metar_available": false
     },
     {
       "ident": "AT-0079",
@@ -916,7 +993,8 @@
       "iso_region": "AT-2",
       "municipality": "Ferlach",
       "local_code": "LOKC",
-      "coordinates": "46.522736, 14.29705"
+      "coordinates": "46.522736, 14.29705",
+      "metar_available": false
     },
     {
       "ident": "AT-0080",
@@ -928,7 +1006,8 @@
       "iso_region": "AT-7",
       "municipality": "Feldkirchen-Waiern",
       "local_code": "LOKX",
-      "coordinates": "46.734443664551, 14.087778091431"
+      "coordinates": "46.734443664551, 14.087778091431",
+      "metar_available": false
     },
     {
       "ident": "AT-0081",
@@ -940,7 +1019,8 @@
       "iso_region": "AT-7",
       "municipality": "Hochfilzen",
       "local_code": "LOXH",
-      "coordinates": "47.477500915527, 12.650278091431"
+      "coordinates": "47.477500915527, 12.650278091431",
+      "metar_available": false
     },
     {
       "ident": "AT-0082",
@@ -952,7 +1032,8 @@
       "iso_region": "AT-7",
       "municipality": "Schwaz",
       "local_code": "LOXI",
-      "coordinates": "47.334998, 11.697559"
+      "coordinates": "47.334998, 11.697559",
+      "metar_available": false
     },
     {
       "ident": "AT-0083",
@@ -964,7 +1045,8 @@
       "iso_region": "AT-8",
       "municipality": "Feldkirch",
       "local_code": "LOIQ",
-      "coordinates": "47.274818, 9.591209"
+      "coordinates": "47.274818, 9.591209",
+      "metar_available": false
     },
     {
       "ident": "AT-0084",
@@ -976,7 +1058,8 @@
       "iso_region": "AT-8",
       "municipality": "Bregenz",
       "local_code": "LOIX",
-      "coordinates": "47.496662, 9.745111"
+      "coordinates": "47.496662, 9.745111",
+      "metar_available": false
     },
     {
       "ident": "AT-0085",
@@ -988,7 +1071,8 @@
       "iso_region": "AT-8",
       "municipality": "Schruns",
       "local_code": "LOIY",
-      "coordinates": "47.073796, 9.913287"
+      "coordinates": "47.073796, 9.913287",
+      "metar_available": false
     },
     {
       "ident": "AT-0086",
@@ -1000,7 +1084,8 @@
       "iso_region": "AT-9",
       "municipality": "Aspern",
       "local_code": "LOAJ",
-      "coordinates": "48.222772, 16.512824"
+      "coordinates": "48.222772, 16.512824",
+      "metar_available": false
     },
     {
       "ident": "AT-0087",
@@ -1012,7 +1097,8 @@
       "iso_region": "AT-9",
       "municipality": "Vienna",
       "local_code": "LOAM",
-      "coordinates": "48.173743, 16.322633"
+      "coordinates": "48.173743, 16.322633",
+      "metar_available": false
     },
     {
       "ident": "AT-0088",
@@ -1024,7 +1110,8 @@
       "iso_region": "AT-9",
       "municipality": "Wien",
       "local_code": "LOBA",
-      "coordinates": "48.221426, 16.346201"
+      "coordinates": "48.221426, 16.346201",
+      "metar_available": false
     },
     {
       "ident": "AT-0089",
@@ -1035,7 +1122,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Fels am Wagram",
-      "coordinates": "48.43317, 15.80151"
+      "coordinates": "48.43317, 15.80151",
+      "metar_available": false
     },
     {
       "ident": "AT-0090",
@@ -1046,7 +1134,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "municipality": "Markersdorf-Haindorf",
-      "coordinates": "48.18544, 15.49419"
+      "coordinates": "48.18544, 15.49419",
+      "metar_available": false
     },
     {
       "ident": "AT-0091",
@@ -1057,7 +1146,8 @@
       "iso_country": "AT",
       "iso_region": "AT-7",
       "municipality": "Innsbruck",
-      "coordinates": "47.271238, 11.421206"
+      "coordinates": "47.271238, 11.421206",
+      "metar_available": false
     },
     {
       "ident": "AT-0092",
@@ -1068,7 +1158,8 @@
       "iso_country": "AT",
       "iso_region": "AT-4",
       "municipality": "Alkoven",
-      "coordinates": "48.29197, 14.05555"
+      "coordinates": "48.29197, 14.05555",
+      "metar_available": false
     },
     {
       "ident": "DE-0354",
@@ -1079,7 +1170,8 @@
       "iso_country": "AT",
       "iso_region": "AT-6",
       "municipality": "Ternberg",
-      "coordinates": "47.93474, 14.350854"
+      "coordinates": "47.93474, 14.350854",
+      "metar_available": false
     },
     {
       "ident": "LOAA",
@@ -1091,7 +1183,8 @@
       "iso_region": "AT-3",
       "municipality": "Ottenschlag",
       "gps_code": "LOAA",
-      "coordinates": "48.4189, 15.215661"
+      "coordinates": "48.4189, 15.215661",
+      "metar_available": false
     },
     {
       "ident": "LOAB",
@@ -1103,7 +1196,8 @@
       "iso_region": "AT-3",
       "municipality": "Dobersberg",
       "gps_code": "LOAB",
-      "coordinates": "48.922222, 15.296944"
+      "coordinates": "48.922222, 15.296944",
+      "metar_available": false
     },
     {
       "ident": "LOAD",
@@ -1115,7 +1209,8 @@
       "iso_region": "AT-3",
       "municipality": "Ober-Grafendorf",
       "gps_code": "LOAD",
-      "coordinates": "48.160081, 15.58677"
+      "coordinates": "48.160081, 15.58677",
+      "metar_available": false
     },
     {
       "ident": "LOAG",
@@ -1127,7 +1222,8 @@
       "iso_region": "AT-3",
       "municipality": "Krems an der Donau",
       "gps_code": "LOAG",
-      "coordinates": "48.446155, 15.635011"
+      "coordinates": "48.446155, 15.635011",
+      "metar_available": false
     },
     {
       "ident": "LOAI",
@@ -1139,7 +1235,8 @@
       "municipality": "Wiener Neustadt",
       "gps_code": "LOAI",
       "local_code": "LOAI",
-      "coordinates": "47.8159, 16.24713"
+      "coordinates": "47.8159, 16.24713",
+      "metar_available": false
     },
     {
       "ident": "LOAN",
@@ -1151,7 +1248,8 @@
       "iso_region": "AT-3",
       "municipality": "Wiener Neustadt",
       "gps_code": "LOAN",
-      "coordinates": "47.8433, 16.260099"
+      "coordinates": "47.8433, 16.260099",
+      "metar_available": true
     },
     {
       "ident": "LOAP",
@@ -1163,7 +1261,8 @@
       "iso_region": "AT-3",
       "municipality": "Waidhofen an der Ybbs",
       "gps_code": "LOAP",
-      "coordinates": "47.952692, 14.788011"
+      "coordinates": "47.952692, 14.788011",
+      "metar_available": false
     },
     {
       "ident": "LOAR",
@@ -1175,7 +1274,8 @@
       "iso_region": "AT-3",
       "municipality": "Altlichtenwarth",
       "gps_code": "LOAR",
-      "coordinates": "48.6661, 16.825"
+      "coordinates": "48.6661, 16.825",
+      "metar_available": false
     },
     {
       "ident": "LOAS",
@@ -1187,7 +1287,8 @@
       "iso_region": "AT-3",
       "municipality": "Hundsheim",
       "gps_code": "LOAS",
-      "coordinates": "48.099157, 16.933527"
+      "coordinates": "48.099157, 16.933527",
+      "metar_available": false
     },
     {
       "ident": "LOAU",
@@ -1199,7 +1300,8 @@
       "iso_region": "AT-3",
       "municipality": "Stockerau",
       "gps_code": "LOAU",
-      "coordinates": "48.409121, 16.191015"
+      "coordinates": "48.409121, 16.191015",
+      "metar_available": false
     },
     {
       "ident": "LOAV",
@@ -1211,7 +1313,8 @@
       "iso_region": "AT-3",
       "municipality": "Bad Vöslau",
       "gps_code": "LOAV",
-      "coordinates": "47.965, 16.26"
+      "coordinates": "47.965, 16.26",
+      "metar_available": false
     },
     {
       "ident": "LOBD",
@@ -1223,7 +1326,8 @@
       "municipality": "Wien",
       "gps_code": "LOBD",
       "local_code": "LOBD",
-      "coordinates": "48.21892, 16.46347"
+      "coordinates": "48.21892, 16.46347",
+      "metar_available": false
     },
     {
       "ident": "LOBF",
@@ -1234,7 +1338,8 @@
       "iso_region": "AT-9",
       "municipality": "Vienna",
       "gps_code": "LOBF",
-      "coordinates": "48.189198, 16.412214"
+      "coordinates": "48.189198, 16.412214",
+      "metar_available": false
     },
     {
       "ident": "LOBH",
@@ -1246,7 +1351,8 @@
       "iso_region": "AT-9",
       "municipality": "Wien",
       "gps_code": "LOBH",
-      "coordinates": "48.199921, 16.291308"
+      "coordinates": "48.199921, 16.291308",
+      "metar_available": false
     },
     {
       "ident": "LOBI",
@@ -1257,7 +1363,8 @@
       "iso_region": "AT-3",
       "municipality": "Mödling",
       "gps_code": "LOBI",
-      "coordinates": "48.089471, 16.298242"
+      "coordinates": "48.089471, 16.298242",
+      "metar_available": false
     },
     {
       "ident": "LOBM",
@@ -1269,7 +1376,8 @@
       "iso_region": "AT-3",
       "municipality": "Mistelbach",
       "gps_code": "LOBM",
-      "coordinates": "48.567201, 16.580976"
+      "coordinates": "48.567201, 16.580976",
+      "metar_available": false
     },
     {
       "ident": "LOBN",
@@ -1281,7 +1389,8 @@
       "municipality": "Neunkirchen",
       "gps_code": "LOBN",
       "local_code": "LOBN",
-      "coordinates": "47.72679, 16.08644"
+      "coordinates": "47.72679, 16.08644",
+      "metar_available": false
     },
     {
       "ident": "LOBT",
@@ -1292,7 +1401,8 @@
       "iso_country": "AT",
       "iso_region": "AT-3",
       "gps_code": "LOBT",
-      "coordinates": "48.322167, 16.065"
+      "coordinates": "48.322167, 16.065",
+      "metar_available": false
     },
     {
       "ident": "LOBW",
@@ -1304,7 +1414,8 @@
       "municipality": "Wien",
       "gps_code": "LOBW",
       "local_code": "LOBW",
-      "coordinates": "48.21067, 16.30078"
+      "coordinates": "48.21067, 16.30078",
+      "metar_available": false
     },
     {
       "ident": "LODC",
@@ -1316,7 +1427,8 @@
       "iso_region": "AT-6",
       "municipality": "Sankt Michael in Obersteiermark",
       "gps_code": "LODC",
-      "coordinates": "47.33593, 15.00104"
+      "coordinates": "47.33593, 15.00104",
+      "metar_available": false
     },
     {
       "ident": "LODL",
@@ -1328,7 +1440,8 @@
       "iso_region": "AT-6",
       "municipality": "Kirchberg An Der Raab",
       "gps_code": "LODL",
-      "coordinates": "46.968071, 15.800702"
+      "coordinates": "46.968071, 15.800702",
+      "metar_available": false
     },
     {
       "ident": "LODO",
@@ -1340,7 +1453,8 @@
       "iso_region": "AT-1",
       "municipality": "Oberwart",
       "gps_code": "LODO",
-      "coordinates": "47.30526, 16.18352"
+      "coordinates": "47.30526, 16.18352",
+      "metar_available": false
     },
     {
       "ident": "LOGA",
@@ -1352,7 +1466,8 @@
       "iso_region": "AT-6",
       "municipality": "Bad Radkersburg",
       "gps_code": "LOGA",
-      "coordinates": "46.691607, 15.992397"
+      "coordinates": "46.691607, 15.992397",
+      "metar_available": false
     },
     {
       "ident": "LOGC",
@@ -1364,7 +1479,8 @@
       "iso_region": "AT-6",
       "municipality": "Niederöblarn",
       "gps_code": "LOGC",
-      "coordinates": "47.479664, 14.009866"
+      "coordinates": "47.479664, 14.009866",
+      "metar_available": false
     },
     {
       "ident": "LOGF",
@@ -1376,7 +1492,8 @@
       "iso_region": "AT-6",
       "municipality": "Fürstenfeld",
       "gps_code": "LOGF",
-      "coordinates": "47.061873, 16.083901"
+      "coordinates": "47.061873, 16.083901",
+      "metar_available": false
     },
     {
       "ident": "LOGG",
@@ -1388,7 +1505,8 @@
       "iso_region": "AT-1",
       "municipality": "Punitz",
       "gps_code": "LOGG",
-      "coordinates": "47.146654, 16.317058"
+      "coordinates": "47.146654, 16.317058",
+      "metar_available": false
     },
     {
       "ident": "LOGH",
@@ -1400,7 +1518,8 @@
       "iso_region": "AT-6",
       "municipality": "Graz",
       "gps_code": "LOGH",
-      "coordinates": "47.08059, 15.46381"
+      "coordinates": "47.08059, 15.46381",
+      "metar_available": false
     },
     {
       "ident": "LOGI",
@@ -1412,7 +1531,8 @@
       "iso_region": "AT-6",
       "municipality": "Trieben",
       "gps_code": "LOGI",
-      "coordinates": "47.493364, 14.49558"
+      "coordinates": "47.493364, 14.49558",
+      "metar_available": false
     },
     {
       "ident": "LOGK",
@@ -1424,7 +1544,8 @@
       "iso_region": "AT-6",
       "municipality": "Kapfenberg",
       "gps_code": "LOGK",
-      "coordinates": "47.457544, 15.331125"
+      "coordinates": "47.457544, 15.331125",
+      "metar_available": false
     },
     {
       "ident": "LOGL",
@@ -1436,7 +1557,8 @@
       "iso_region": "AT-6",
       "municipality": "Göriach",
       "gps_code": "LOGL",
-      "coordinates": "47.556155, 15.320327"
+      "coordinates": "47.556155, 15.320327",
+      "metar_available": false
     },
     {
       "ident": "LOGM",
@@ -1448,7 +1570,8 @@
       "iso_region": "AT-6",
       "municipality": "Mariazell",
       "gps_code": "LOGM",
-      "coordinates": "47.789733, 15.300333"
+      "coordinates": "47.789733, 15.300333",
+      "metar_available": false
     },
     {
       "ident": "LOGO",
@@ -1460,7 +1583,8 @@
       "iso_region": "AT-6",
       "municipality": "Niederöblarn",
       "gps_code": "LOGO",
-      "coordinates": "47.478742, 14.007101"
+      "coordinates": "47.478742, 14.007101",
+      "metar_available": false
     },
     {
       "ident": "LOGP",
@@ -1472,7 +1596,8 @@
       "iso_region": "AT-1",
       "municipality": "Pinkafeld",
       "gps_code": "LOGP",
-      "coordinates": "47.386684, 16.112673"
+      "coordinates": "47.386684, 16.112673",
+      "metar_available": false
     },
     {
       "ident": "LOGT",
@@ -1484,7 +1609,8 @@
       "iso_region": "AT-6",
       "municipality": "Timmersdorf",
       "gps_code": "LOGT",
-      "coordinates": "47.379648, 14.964044"
+      "coordinates": "47.379648, 14.964044",
+      "metar_available": false
     },
     {
       "ident": "LOGW",
@@ -1496,7 +1622,8 @@
       "iso_region": "AT-6",
       "municipality": "Weiz",
       "gps_code": "LOGW",
-      "coordinates": "47.170293, 15.664468"
+      "coordinates": "47.170293, 15.664468",
+      "metar_available": false
     },
     {
       "ident": "LOGZ",
@@ -1508,7 +1635,8 @@
       "iso_region": "AT-6",
       "municipality": "Graz",
       "gps_code": "LOGZ",
-      "coordinates": "47.084404, 15.468957"
+      "coordinates": "47.084404, 15.468957",
+      "metar_available": false
     },
     {
       "ident": "LOHD",
@@ -1519,7 +1647,8 @@
       "iso_region": "AT-6",
       "municipality": "Hartberg",
       "gps_code": "LODH",
-      "coordinates": "47.273333, 15.966111"
+      "coordinates": "47.273333, 15.966111",
+      "metar_available": false
     },
     {
       "ident": "LOIB",
@@ -1531,7 +1660,8 @@
       "iso_region": "AT-7",
       "municipality": "Kitzbühel",
       "gps_code": "LOIB",
-      "coordinates": "47.466857, 12.367752"
+      "coordinates": "47.466857, 12.367752",
+      "metar_available": false
     },
     {
       "ident": "LOIC",
@@ -1544,7 +1674,8 @@
       "municipality": "Sankt Anton am Arlberg",
       "gps_code": "LOIC",
       "iata_code": "ANT",
-      "coordinates": "47.119621, 10.240524"
+      "coordinates": "47.119621, 10.240524",
+      "metar_available": false
     },
     {
       "ident": "LOID",
@@ -1556,7 +1687,8 @@
       "iso_region": "AT-7",
       "municipality": "Kufstein",
       "gps_code": "LOID",
-      "coordinates": "47.57124, 12.149485"
+      "coordinates": "47.57124, 12.149485",
+      "metar_available": false
     },
     {
       "ident": "LOIE",
@@ -1568,7 +1700,8 @@
       "iso_region": "AT-7",
       "municipality": "Reutte",
       "gps_code": "LOIE",
-      "coordinates": "47.473015, 10.711659"
+      "coordinates": "47.473015, 10.711659",
+      "metar_available": false
     },
     {
       "ident": "LOIF",
@@ -1580,7 +1713,8 @@
       "iso_region": "AT-8",
       "municipality": "Feldkirch",
       "gps_code": "LOIF",
-      "coordinates": "47.2312, 9.578721"
+      "coordinates": "47.2312, 9.578721",
+      "metar_available": false
     },
     {
       "ident": "LOIG",
@@ -1592,7 +1726,8 @@
       "iso_region": "AT-8",
       "municipality": "Ludesch",
       "gps_code": "LOIG",
-      "coordinates": "47.200313, 9.780208"
+      "coordinates": "47.200313, 9.780208",
+      "metar_available": false
     },
     {
       "ident": "LOIH",
@@ -1605,7 +1740,8 @@
       "municipality": "Hohenems",
       "gps_code": "LOIH",
       "iata_code": "HOH",
-      "coordinates": "47.384477, 9.699776"
+      "coordinates": "47.384477, 9.699776",
+      "metar_available": false
     },
     {
       "ident": "LOII",
@@ -1617,7 +1753,8 @@
       "iso_region": "AT-7",
       "municipality": "Hall in Tirol",
       "gps_code": "LOII",
-      "coordinates": "47.281078, 11.515657"
+      "coordinates": "47.281078, 11.515657",
+      "metar_available": false
     },
     {
       "ident": "LOIJ",
@@ -1629,7 +1766,8 @@
       "iso_region": "AT-7",
       "municipality": "Sankt Johann in Tirol",
       "gps_code": "LOIJ",
-      "coordinates": "47.5201, 12.4497"
+      "coordinates": "47.5201, 12.4497",
+      "metar_available": false
     },
     {
       "ident": "LOIK",
@@ -1641,7 +1779,8 @@
       "iso_region": "AT-7",
       "municipality": "Langkampfen",
       "gps_code": "LOIK",
-      "coordinates": "47.564713, 12.127576"
+      "coordinates": "47.564713, 12.127576",
+      "metar_available": false
     },
     {
       "ident": "LOIM",
@@ -1653,7 +1792,8 @@
       "iso_region": "AT-7",
       "municipality": "Langkampfen",
       "gps_code": "LOIM",
-      "coordinates": "47.5661125183, 12.1350002289"
+      "coordinates": "47.5661125183, 12.1350002289",
+      "metar_available": false
     },
     {
       "ident": "LOIR",
@@ -1665,7 +1805,8 @@
       "iso_region": "AT-7",
       "municipality": "Reutte",
       "gps_code": "LOIR",
-      "coordinates": "47.470897, 10.6913"
+      "coordinates": "47.470897, 10.6913",
+      "metar_available": false
     },
     {
       "ident": "LOIT",
@@ -1677,7 +1818,8 @@
       "iso_region": "AT-7",
       "municipality": "Sankt Johann In Tirol",
       "gps_code": "LOIT",
-      "coordinates": "47.520935, 12.429672"
+      "coordinates": "47.520935, 12.429672",
+      "metar_available": false
     },
     {
       "ident": "LOJB",
@@ -1689,7 +1831,8 @@
       "iso_region": "AT-8",
       "municipality": "Bludenz",
       "gps_code": "LOJB",
-      "coordinates": "47.159475, 9.821193"
+      "coordinates": "47.159475, 9.821193",
+      "metar_available": false
     },
     {
       "ident": "LOJC",
@@ -1702,7 +1845,8 @@
       "municipality": "Reith bei Kitzbühel",
       "gps_code": "LOJC",
       "local_code": "LOJC",
-      "coordinates": "47.48886, 12.36512"
+      "coordinates": "47.48886, 12.36512",
+      "metar_available": false
     },
     {
       "ident": "LOJD",
@@ -1712,7 +1856,8 @@
       "iso_country": "AT",
       "iso_region": "AT-8",
       "municipality": "Dornbirn",
-      "coordinates": "47.406315, 9.740058"
+      "coordinates": "47.406315, 9.740058",
+      "metar_available": false
     },
     {
       "ident": "LOJH",
@@ -1725,7 +1870,8 @@
       "municipality": "Sölden",
       "gps_code": "LOJH",
       "local_code": "LOJH",
-      "coordinates": "46.91097, 11.05352"
+      "coordinates": "46.91097, 11.05352",
+      "metar_available": false
     },
     {
       "ident": "LOJI",
@@ -1738,7 +1884,8 @@
       "municipality": "Imst",
       "gps_code": "LOJI",
       "local_code": "LOJI",
-      "coordinates": "47.21341, 10.70015"
+      "coordinates": "47.21341, 10.70015",
+      "metar_available": false
     },
     {
       "ident": "LOJR",
@@ -1751,7 +1898,8 @@
       "municipality": "Riezlern",
       "gps_code": "LOJR",
       "local_code": "LOJR",
-      "coordinates": "47.35788, 10.17551"
+      "coordinates": "47.35788, 10.17551",
+      "metar_available": false
     },
     {
       "ident": "LOJS",
@@ -1764,7 +1912,8 @@
       "municipality": "Neustift im Stubaital",
       "gps_code": "LOJS",
       "local_code": "LOJS",
-      "coordinates": "47.05056, 11.23622"
+      "coordinates": "47.05056, 11.23622",
+      "metar_available": false
     },
     {
       "ident": "LOJT",
@@ -1776,7 +1925,8 @@
       "iso_region": "AT-7",
       "municipality": "Madseit",
       "gps_code": "LOJT",
-      "coordinates": "47.133498, 11.70391"
+      "coordinates": "47.133498, 11.70391",
+      "metar_available": false
     },
     {
       "ident": "LOKA",
@@ -1788,7 +1938,8 @@
       "iso_region": "AT-2",
       "municipality": "Klagenfurt am Wörthersee",
       "gps_code": "LOKA",
-      "coordinates": "46.635386, 14.306521"
+      "coordinates": "46.635386, 14.306521",
+      "metar_available": false
     },
     {
       "ident": "LOKF",
@@ -1800,7 +1951,8 @@
       "iso_region": "AT-2",
       "municipality": "Feldkirchen in Kärnten",
       "gps_code": "LOKF",
-      "coordinates": "46.70893, 14.076722"
+      "coordinates": "46.70893, 14.076722",
+      "metar_available": false
     },
     {
       "ident": "LOKG",
@@ -1812,7 +1964,8 @@
       "iso_region": "AT-2",
       "municipality": "Ferlach",
       "gps_code": "LOKG",
-      "coordinates": "46.532778, 14.330833"
+      "coordinates": "46.532778, 14.330833",
+      "metar_available": false
     },
     {
       "ident": "LOKH",
@@ -1824,7 +1977,8 @@
       "iso_region": "AT-2",
       "municipality": "Micheldorf",
       "gps_code": "LOKH",
-      "coordinates": "46.927491, 14.431848"
+      "coordinates": "46.927491, 14.431848",
+      "metar_available": false
     },
     {
       "ident": "LOKJ",
@@ -1836,7 +1990,8 @@
       "iso_region": "AT-7",
       "municipality": "Lienz",
       "gps_code": "LOKJ",
-      "coordinates": "46.834961, 12.764722"
+      "coordinates": "46.834961, 12.764722",
+      "metar_available": false
     },
     {
       "ident": "LOKL",
@@ -1848,7 +2003,8 @@
       "iso_region": "AT-7",
       "municipality": "Lengberg",
       "gps_code": "LOKL",
-      "coordinates": "46.798069, 12.87833"
+      "coordinates": "46.798069, 12.87833",
+      "metar_available": false
     },
     {
       "ident": "LOKM",
@@ -1860,7 +2016,8 @@
       "iso_region": "AT-2",
       "municipality": "Mayerhofen",
       "gps_code": "LOKM",
-      "coordinates": "46.974996, 14.371228"
+      "coordinates": "46.974996, 14.371228",
+      "metar_available": false
     },
     {
       "ident": "LOKN",
@@ -1872,7 +2029,8 @@
       "iso_region": "AT-2",
       "municipality": "Nötsch im Gailtal",
       "gps_code": "LOKN",
-      "coordinates": "46.5811, 13.6292"
+      "coordinates": "46.5811, 13.6292",
+      "metar_available": false
     },
     {
       "ident": "LOKQ",
@@ -1884,7 +2042,8 @@
       "iso_region": "AT-7",
       "municipality": "Lengberg",
       "gps_code": "LOKQ",
-      "coordinates": "46.79974, 12.876815"
+      "coordinates": "46.79974, 12.876815",
+      "metar_available": false
     },
     {
       "ident": "LOKR",
@@ -1896,7 +2055,8 @@
       "iso_region": "AT-2",
       "municipality": "Mairist",
       "gps_code": "LOKR",
-      "coordinates": "46.743139, 14.413134"
+      "coordinates": "46.743139, 14.413134",
+      "metar_available": false
     },
     {
       "ident": "LOKW",
@@ -1908,7 +2068,8 @@
       "iso_region": "AT-2",
       "municipality": "Wolfsberg",
       "gps_code": "LOKW",
-      "coordinates": "46.818202, 14.825154"
+      "coordinates": "46.818202, 14.825154",
+      "metar_available": false
     },
     {
       "ident": "LOLA",
@@ -1920,7 +2081,8 @@
       "iso_region": "AT-4",
       "municipality": "Linz",
       "gps_code": "LOLA",
-      "coordinates": "48.303207, 14.303505"
+      "coordinates": "48.303207, 14.303505",
+      "metar_available": false
     },
     {
       "ident": "LOLC",
@@ -1932,7 +2094,8 @@
       "iso_region": "AT-4",
       "municipality": "Scharnstein",
       "gps_code": "LOLC",
-      "coordinates": "47.898602, 13.9394"
+      "coordinates": "47.898602, 13.9394",
+      "metar_available": false
     },
     {
       "ident": "LOLD",
@@ -1944,7 +2107,8 @@
       "iso_region": "AT-4",
       "municipality": "Suben",
       "gps_code": "LOLD",
-      "coordinates": "48.400802, 13.449803"
+      "coordinates": "48.400802, 13.449803",
+      "metar_available": false
     },
     {
       "ident": "LOLE",
@@ -1956,7 +2120,8 @@
       "iso_region": "AT-4",
       "municipality": "Pupping",
       "gps_code": "LOLE",
-      "coordinates": "48.338793, 13.985209"
+      "coordinates": "48.338793, 13.985209",
+      "metar_available": false
     },
     {
       "ident": "LOLF",
@@ -1968,7 +2133,8 @@
       "iso_region": "AT-4",
       "municipality": "Freistadt",
       "gps_code": "LOLF",
-      "coordinates": "48.513748, 14.406579"
+      "coordinates": "48.513748, 14.406579",
+      "metar_available": false
     },
     {
       "ident": "LOLG",
@@ -1980,7 +2146,8 @@
       "iso_region": "AT-3",
       "municipality": "Sankt Georgen am Ybbsfelde",
       "gps_code": "LOLG",
-      "coordinates": "48.10332, 14.951091"
+      "coordinates": "48.10332, 14.951091",
+      "metar_available": false
     },
     {
       "ident": "LOLH",
@@ -1992,7 +2159,8 @@
       "iso_region": "AT-4",
       "municipality": "Hofkirchen",
       "gps_code": "LOLH",
-      "coordinates": "48.13911, 14.33584"
+      "coordinates": "48.13911, 14.33584",
+      "metar_available": false
     },
     {
       "ident": "LOLK",
@@ -2004,7 +2172,8 @@
       "iso_region": "AT-4",
       "municipality": "Kirchheim im Innkreis",
       "gps_code": "LOLK",
-      "coordinates": "48.21227, 13.345678"
+      "coordinates": "48.21227, 13.345678",
+      "metar_available": false
     },
     {
       "ident": "LOLM",
@@ -2016,7 +2185,8 @@
       "iso_region": "AT-4",
       "municipality": "Micheldorf",
       "gps_code": "LOLM",
-      "coordinates": "47.871669, 14.125149"
+      "coordinates": "47.871669, 14.125149",
+      "metar_available": false
     },
     {
       "ident": "LOLO",
@@ -2028,7 +2198,8 @@
       "iso_region": "AT-4",
       "municipality": "Linz",
       "gps_code": "LOLO",
-      "coordinates": "48.300044, 14.333606"
+      "coordinates": "48.300044, 14.333606",
+      "metar_available": false
     },
     {
       "ident": "LOLS",
@@ -2040,7 +2211,8 @@
       "iso_region": "AT-4",
       "municipality": "Suben",
       "gps_code": "LOLS",
-      "coordinates": "48.403301, 13.4483"
+      "coordinates": "48.403301, 13.4483",
+      "metar_available": false
     },
     {
       "ident": "LOLT",
@@ -2052,7 +2224,8 @@
       "iso_region": "AT-3",
       "municipality": "Seitenstetten",
       "gps_code": "LOLT",
-      "coordinates": "48.050556, 14.661944"
+      "coordinates": "48.050556, 14.661944",
+      "metar_available": false
     },
     {
       "ident": "LOLU",
@@ -2064,7 +2237,8 @@
       "iso_region": "AT-4",
       "municipality": "Laakirchen",
       "gps_code": "LOLU",
-      "coordinates": "47.951541, 13.867271"
+      "coordinates": "47.951541, 13.867271",
+      "metar_available": false
     },
     {
       "ident": "LOLW",
@@ -2076,7 +2250,8 @@
       "iso_region": "AT-4",
       "municipality": "Wels",
       "gps_code": "LOLW",
-      "coordinates": "48.182513, 14.039283"
+      "coordinates": "48.182513, 14.039283",
+      "metar_available": false
     },
     {
       "ident": "LOPE",
@@ -2088,7 +2263,8 @@
       "iso_region": "AT-4",
       "municipality": "Linz",
       "gps_code": "LOPE",
-      "coordinates": "48.305416, 14.294207"
+      "coordinates": "48.305416, 14.294207",
+      "metar_available": false
     },
     {
       "ident": "LOSM",
@@ -2100,7 +2276,8 @@
       "iso_region": "AT-5",
       "municipality": "Mauterndorf",
       "gps_code": "LOSM",
-      "coordinates": "47.131995, 13.695867"
+      "coordinates": "47.131995, 13.695867",
+      "metar_available": false
     },
     {
       "ident": "LOWG",
@@ -2113,7 +2290,8 @@
       "municipality": "Feldkirchen bei Graz",
       "gps_code": "LOWG",
       "iata_code": "GRZ",
-      "coordinates": "46.9911, 15.4396"
+      "coordinates": "46.9911, 15.4396",
+      "metar_available": true
     },
     {
       "ident": "LOWI",
@@ -2126,7 +2304,8 @@
       "municipality": "Innsbruck",
       "gps_code": "LOWI",
       "iata_code": "INN",
-      "coordinates": "47.260201, 11.344"
+      "coordinates": "47.260201, 11.344",
+      "metar_available": true
     },
     {
       "ident": "LOWK",
@@ -2139,7 +2318,8 @@
       "municipality": "Klagenfurt am Wörthersee",
       "gps_code": "LOWK",
       "iata_code": "KLU",
-      "coordinates": "46.642502, 14.3377"
+      "coordinates": "46.642502, 14.3377",
+      "metar_available": true
     },
     {
       "ident": "LOWL",
@@ -2152,7 +2332,8 @@
       "municipality": "Linz",
       "gps_code": "LOWL",
       "iata_code": "LNZ",
-      "coordinates": "48.2332, 14.1875"
+      "coordinates": "48.2332, 14.1875",
+      "metar_available": true
     },
     {
       "ident": "LOWS",
@@ -2165,7 +2346,8 @@
       "municipality": "Salzburg",
       "gps_code": "LOWS",
       "iata_code": "SZG",
-      "coordinates": "47.793301, 13.0043"
+      "coordinates": "47.793301, 13.0043",
+      "metar_available": true
     },
     {
       "ident": "LOWW",
@@ -2178,7 +2360,8 @@
       "municipality": "Vienna",
       "gps_code": "LOWW",
       "iata_code": "VIE",
-      "coordinates": "48.110298, 16.5697"
+      "coordinates": "48.110298, 16.5697",
+      "metar_available": true
     },
     {
       "ident": "LOWZ",
@@ -2190,7 +2373,8 @@
       "iso_region": "AT-5",
       "municipality": "Zell am See",
       "gps_code": "LOWZ",
-      "coordinates": "47.291468, 12.790632"
+      "coordinates": "47.291468, 12.790632",
+      "metar_available": false
     },
     {
       "ident": "LOXA",
@@ -2202,7 +2386,8 @@
       "iso_region": "AT-6",
       "municipality": "Aigen im Ennstal",
       "gps_code": "LOXA",
-      "coordinates": "47.53573, 14.141488"
+      "coordinates": "47.53573, 14.141488",
+      "metar_available": false
     },
     {
       "ident": "LOXN",
@@ -2214,7 +2399,8 @@
       "iso_region": "AT-3",
       "municipality": "Wiener Neustadt",
       "gps_code": "LOXN",
-      "coordinates": "47.836933, 16.221838"
+      "coordinates": "47.836933, 16.221838",
+      "metar_available": false
     },
     {
       "ident": "LOXT",
@@ -2226,7 +2412,8 @@
       "iso_region": "AT-3",
       "municipality": "Tulln an der Donau",
       "gps_code": "LOXT",
-      "coordinates": "48.319247, 16.114016"
+      "coordinates": "48.319247, 16.114016",
+      "metar_available": false
     },
     {
       "ident": "LOXZ",
@@ -2238,7 +2425,8 @@
       "iso_region": "AT-6",
       "municipality": "Zeltweg",
       "gps_code": "LOXZ",
-      "coordinates": "47.202801, 14.7442"
+      "coordinates": "47.202801, 14.7442",
+      "metar_available": true
     }
   ]
 }

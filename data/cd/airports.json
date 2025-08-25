@@ -2,7 +2,7 @@
   "country_code": "CD",
   "country_name": "Democratic Republic of the Congo",
   "total_airports": 306,
-  "last_updated": "2025-08-01T00:18:22.612944",
+  "last_updated": "2025-08-25T10:08:40.749405",
   "types_distribution": {
     "small_airport": 250,
     "medium_airport": 22,
@@ -21,7 +21,8 @@
       "iso_region": "CD-NK",
       "municipality": "Beni",
       "gps_code": "FZNS",
-      "coordinates": "0.510171, 29.475803"
+      "coordinates": "0.510171, 29.475803",
+      "metar_available": false
     },
     {
       "ident": "CD-0002",
@@ -32,7 +33,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HK",
       "municipality": "Kashobwe",
-      "coordinates": "-9.666293, 28.619004"
+      "coordinates": "-9.666293, 28.619004",
+      "metar_available": false
     },
     {
       "ident": "CD-0003",
@@ -43,7 +45,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HU",
       "municipality": "Nagero",
-      "coordinates": "3.746155, 29.509964"
+      "coordinates": "3.746155, 29.509964",
+      "metar_available": false
     },
     {
       "ident": "CD-0004",
@@ -53,7 +56,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TU",
       "municipality": "Djolu",
-      "coordinates": "0.633418, 22.46305"
+      "coordinates": "0.633418, 22.46305",
+      "metar_available": false
     },
     {
       "ident": "CD-0005",
@@ -63,7 +67,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MO",
       "municipality": "Pimu",
-      "coordinates": "1.778935, 20.904077"
+      "coordinates": "1.778935, 20.904077",
+      "metar_available": false
     },
     {
       "ident": "CD-0006",
@@ -73,7 +78,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BU",
       "municipality": "Bondo",
-      "coordinates": "3.815869, 23.671694"
+      "coordinates": "3.815869, 23.671694",
+      "metar_available": false
     },
     {
       "ident": "CD-0007",
@@ -83,7 +89,8 @@
       "iso_country": "CD",
       "iso_region": "CD-NU",
       "municipality": "Yakoma",
-      "coordinates": "4.075469, 22.45943"
+      "coordinates": "4.075469, 22.45943",
+      "metar_available": false
     },
     {
       "ident": "CD-0008",
@@ -93,7 +100,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HU",
       "municipality": "Dungu",
-      "coordinates": "3.677731, 28.601282"
+      "coordinates": "3.677731, 28.601282",
+      "metar_available": false
     },
     {
       "ident": "CD-0009",
@@ -103,7 +111,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HU",
       "municipality": "Zaniwe",
-      "coordinates": "3.679098, 29.127699"
+      "coordinates": "3.679098, 29.127699",
+      "metar_available": false
     },
     {
       "ident": "CD-0010",
@@ -113,7 +122,8 @@
       "iso_country": "CD",
       "iso_region": "CD-IT",
       "municipality": "Mambasa",
-      "coordinates": "1.348012, 29.080458"
+      "coordinates": "1.348012, 29.080458",
+      "metar_available": false
     },
     {
       "ident": "CD-0011",
@@ -123,7 +133,8 @@
       "iso_country": "CD",
       "iso_region": "CD-IT",
       "municipality": "Mongbwalu",
-      "coordinates": "1.943837, 30.060973"
+      "coordinates": "1.943837, 30.060973",
+      "metar_available": false
     },
     {
       "ident": "CD-0012",
@@ -133,7 +144,8 @@
       "iso_country": "CD",
       "iso_region": "CD-IT",
       "municipality": "Nyankunde",
-      "coordinates": "1.43828, 30.02943"
+      "coordinates": "1.43828, 30.02943",
+      "metar_available": false
     },
     {
       "ident": "CD-0013",
@@ -143,7 +155,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BU",
       "municipality": "Poko",
-      "coordinates": "3.135224, 26.884789"
+      "coordinates": "3.135224, 26.884789",
+      "metar_available": false
     },
     {
       "ident": "CD-0014",
@@ -153,7 +166,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BU",
       "municipality": "Monga",
-      "coordinates": "4.20144, 22.825513"
+      "coordinates": "4.20144, 22.825513",
+      "metar_available": false
     },
     {
       "ident": "CD-0015",
@@ -163,7 +177,8 @@
       "iso_country": "CD",
       "iso_region": "CD-IT",
       "municipality": "Epulu",
-      "coordinates": "1.409542, 28.569931"
+      "coordinates": "1.409542, 28.569931",
+      "metar_available": false
     },
     {
       "ident": "CD-0016",
@@ -173,7 +188,8 @@
       "iso_country": "CD",
       "iso_region": "CD-IT",
       "municipality": "Nia-Nia",
-      "coordinates": "1.399379, 27.610131"
+      "coordinates": "1.399379, 27.610131",
+      "metar_available": false
     },
     {
       "ident": "CD-0017",
@@ -183,7 +199,8 @@
       "iso_country": "CD",
       "iso_region": "CD-IT",
       "municipality": "Aru",
-      "coordinates": "2.884104, 30.833833"
+      "coordinates": "2.884104, 30.833833",
+      "metar_available": false
     },
     {
       "ident": "CD-0018",
@@ -193,7 +210,8 @@
       "iso_country": "CD",
       "iso_region": "CD-NK",
       "municipality": "Ishango",
-      "coordinates": "-0.125497, 29.608915"
+      "coordinates": "-0.125497, 29.608915",
+      "metar_available": false
     },
     {
       "ident": "CD-0019",
@@ -203,7 +221,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KS",
       "municipality": "Tshimpumpu",
-      "coordinates": "-5.302778, 21.409722"
+      "coordinates": "-5.302778, 21.409722",
+      "metar_available": false
     },
     {
       "ident": "CD-0020",
@@ -213,7 +232,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MN",
       "municipality": "Bokoro",
-      "coordinates": "-2.884722, 18.352778"
+      "coordinates": "-2.884722, 18.352778",
+      "metar_available": false
     },
     {
       "ident": "CD-0021",
@@ -224,7 +244,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BU",
       "municipality": "Boeli",
-      "coordinates": "4.170088, 27.082157"
+      "coordinates": "4.170088, 27.082157",
+      "metar_available": false
     },
     {
       "ident": "CD-0022",
@@ -235,7 +256,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BU",
       "municipality": "Dakwa",
-      "coordinates": "3.99561, 26.43509"
+      "coordinates": "3.99561, 26.43509",
+      "metar_available": false
     },
     {
       "ident": "CD-0023",
@@ -246,7 +268,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HU",
       "municipality": "Nebobongo",
-      "coordinates": "2.458075, 27.63125"
+      "coordinates": "2.458075, 27.63125",
+      "metar_available": false
     },
     {
       "ident": "CD-0024",
@@ -257,7 +280,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BC",
       "municipality": "Boma",
-      "coordinates": "-5.80543, 12.99582"
+      "coordinates": "-5.80543, 12.99582",
+      "metar_available": false
     },
     {
       "ident": "CD-0025",
@@ -268,7 +292,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KN",
       "municipality": "Maluku",
-      "coordinates": "-4.0711, 15.5431"
+      "coordinates": "-4.0711, 15.5431",
+      "metar_available": false
     },
     {
       "ident": "CD-0026",
@@ -279,7 +304,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MN",
       "municipality": "Bolobo",
-      "coordinates": "-2.17405, 16.267987"
+      "coordinates": "-2.17405, 16.267987",
+      "metar_available": false
     },
     {
       "ident": "CD-0027",
@@ -290,7 +316,8 @@
       "iso_country": "CD",
       "iso_region": "CD-LU",
       "municipality": "Kolwezi",
-      "coordinates": "-10.767007, 25.257075"
+      "coordinates": "-10.767007, 25.257075",
+      "metar_available": false
     },
     {
       "ident": "CD-0028",
@@ -301,7 +328,8 @@
       "iso_country": "CD",
       "iso_region": "CD-SA",
       "municipality": "Lodja",
-      "coordinates": "-3.53167, 23.63285"
+      "coordinates": "-3.53167, 23.63285",
+      "metar_available": false
     },
     {
       "ident": "CD-0029",
@@ -312,7 +340,8 @@
       "iso_country": "CD",
       "iso_region": "CD-EQ",
       "municipality": "Irebu",
-      "coordinates": "-0.62291, 17.78105"
+      "coordinates": "-0.62291, 17.78105",
+      "metar_available": false
     },
     {
       "ident": "CD-0030",
@@ -323,7 +352,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MA",
       "municipality": "Kibombo",
-      "coordinates": "-3.92162, 25.94802"
+      "coordinates": "-3.92162, 25.94802",
+      "metar_available": false
     },
     {
       "ident": "CD-0031",
@@ -334,7 +364,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HL",
       "municipality": "Mulongo",
-      "coordinates": "-7.8229, 27.00432"
+      "coordinates": "-7.8229, 27.00432",
+      "metar_available": false
     },
     {
       "ident": "CD-0032",
@@ -344,7 +375,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KG",
       "municipality": "Pelende",
-      "coordinates": "-6.51364, 17.24444"
+      "coordinates": "-6.51364, 17.24444",
+      "metar_available": false
     },
     {
       "ident": "CD-0033",
@@ -354,7 +386,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KG",
       "municipality": "Kabuba",
-      "coordinates": "-4.65034, 16.45366"
+      "coordinates": "-4.65034, 16.45366",
+      "metar_available": false
     },
     {
       "ident": "CD-0034",
@@ -364,7 +397,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MN",
       "municipality": "Kutu",
-      "coordinates": "-2.71399, 18.16326"
+      "coordinates": "-2.71399, 18.16326",
+      "metar_available": false
     },
     {
       "ident": "CD-0035",
@@ -374,7 +408,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Lubondaie",
-      "coordinates": "-6.570868, 22.647285"
+      "coordinates": "-6.570868, 22.647285",
+      "metar_available": false
     },
     {
       "ident": "CD-0036",
@@ -384,7 +419,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Mbulungu",
-      "coordinates": "-6.039547, 21.888542"
+      "coordinates": "-6.039547, 21.888542",
+      "metar_available": false
     },
     {
       "ident": "CD-0037",
@@ -396,7 +432,8 @@
       "iso_region": "CD-KG",
       "municipality": "Kasongo-Lunda",
       "iata_code": "KGN",
-      "coordinates": "-6.468027, 16.805012"
+      "coordinates": "-6.468027, 16.805012",
+      "metar_available": false
     },
     {
       "ident": "CD-0038",
@@ -408,7 +445,8 @@
       "iso_region": "CD-TU",
       "municipality": "Boende",
       "local_code": "BNB",
-      "coordinates": "-0.2875, 20.883056"
+      "coordinates": "-0.2875, 20.883056",
+      "metar_available": false
     },
     {
       "ident": "CD-0039",
@@ -419,7 +457,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MN",
       "municipality": "Ipope",
-      "coordinates": "-2.575372, 20.364485"
+      "coordinates": "-2.575372, 20.364485",
+      "metar_available": false
     },
     {
       "ident": "CD-0041",
@@ -430,7 +469,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HK",
       "municipality": "Pweto",
-      "coordinates": "-8.466956, 28.889451"
+      "coordinates": "-8.466956, 28.889451",
+      "metar_available": false
     },
     {
       "ident": "CD-0042",
@@ -441,7 +481,8 @@
       "iso_country": "CD",
       "iso_region": "CD-BC",
       "municipality": "Kitona",
-      "coordinates": "-5.918629, 12.446136"
+      "coordinates": "-5.918629, 12.446136",
+      "metar_available": false
     },
     {
       "ident": "CD-0043",
@@ -452,7 +493,8 @@
       "iso_country": "CD",
       "iso_region": "CD-EQ",
       "municipality": "Bikoro",
-      "coordinates": "-0.733, 18.132999"
+      "coordinates": "-0.733, 18.132999",
+      "metar_available": false
     },
     {
       "ident": "CD-0044",
@@ -463,7 +505,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MN",
       "municipality": "Isongo",
-      "coordinates": "-1.4, 18.4"
+      "coordinates": "-1.4, 18.4",
+      "metar_available": false
     },
     {
       "ident": "CD-0045",
@@ -474,7 +517,8 @@
       "iso_country": "CD",
       "iso_region": "CD-EQ",
       "municipality": "Monieka",
-      "coordinates": "-0.067, 19.983"
+      "coordinates": "-0.067, 19.983",
+      "metar_available": false
     },
     {
       "ident": "CD-0046",
@@ -485,7 +529,8 @@
       "iso_country": "CD",
       "iso_region": "CD-EQ",
       "municipality": "Ngumu",
-      "coordinates": "1.48638, 20.30128"
+      "coordinates": "1.48638, 20.30128",
+      "metar_available": false
     },
     {
       "ident": "CD-0047",
@@ -496,7 +541,8 @@
       "iso_country": "CD",
       "iso_region": "CD-SU",
       "municipality": "Imesse",
-      "coordinates": "2.517298, 18.282452"
+      "coordinates": "2.517298, 18.282452",
+      "metar_available": false
     },
     {
       "ident": "CD-0048",
@@ -507,7 +553,8 @@
       "iso_country": "CD",
       "iso_region": "CD-SU",
       "municipality": "Bau",
-      "coordinates": "3.733, 19.083"
+      "coordinates": "3.733, 19.083",
+      "metar_available": false
     },
     {
       "ident": "CD-0049",
@@ -518,7 +565,8 @@
       "iso_country": "CD",
       "iso_region": "CD-NU",
       "municipality": "Bokada",
-      "coordinates": "4.145359, 19.38882"
+      "coordinates": "4.145359, 19.38882",
+      "metar_available": false
     },
     {
       "ident": "CD-0050",
@@ -529,7 +577,8 @@
       "iso_country": "CD",
       "iso_region": "CD-SU",
       "municipality": "Kala",
-      "coordinates": "3.38312, 18.654635"
+      "coordinates": "3.38312, 18.654635",
+      "metar_available": false
     },
     {
       "ident": "CD-0051",
@@ -540,7 +589,8 @@
       "iso_country": "CD",
       "iso_region": "CD-NU",
       "municipality": "Lombo",
-      "coordinates": "4.43889, 19.5389"
+      "coordinates": "4.43889, 19.5389",
+      "metar_available": false
     },
     {
       "ident": "CD-0052",
@@ -551,7 +601,8 @@
       "iso_country": "CD",
       "iso_region": "CD-NU",
       "municipality": "Gbado",
-      "coordinates": "3.883, 20.783001"
+      "coordinates": "3.883, 20.783001",
+      "metar_available": false
     },
     {
       "ident": "CD-0053",
@@ -562,7 +613,8 @@
       "iso_country": "CD",
       "iso_region": "CD-MO",
       "municipality": "Bosondjo",
-      "coordinates": "1.869832, 21.759882"
+      "coordinates": "1.869832, 21.759882",
+      "metar_available": false
     },
     {
       "ident": "CD-0054",
@@ -573,7 +625,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TU",
       "municipality": "Mondombe",
-      "coordinates": "-0.751265, 22.706079"
+      "coordinates": "-0.751265, 22.706079",
+      "metar_available": false
     },
     {
       "ident": "CD-0055",
@@ -584,7 +637,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TU",
       "municipality": "Wema",
-      "coordinates": "-0.485026, 21.626115"
+      "coordinates": "-0.485026, 21.626115",
+      "metar_available": false
     },
     {
       "ident": "CD-0056",
@@ -595,7 +649,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TU",
       "municipality": "Yemo",
-      "coordinates": "-0.447989, 21.917896"
+      "coordinates": "-0.447989, 21.917896",
+      "metar_available": false
     },
     {
       "ident": "CD-0057",
@@ -606,7 +661,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TO",
       "municipality": "Kabeta",
-      "coordinates": "-0.138446, 25.389318"
+      "coordinates": "-0.138446, 25.389318",
+      "metar_available": false
     },
     {
       "ident": "CD-0058",
@@ -617,7 +673,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TA",
       "municipality": "Kabombo",
-      "coordinates": "-7.404388, 28.031659"
+      "coordinates": "-7.404388, 28.031659",
+      "metar_available": false
     },
     {
       "ident": "CD-0059",
@@ -628,7 +685,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TA",
       "municipality": "Sominka",
-      "coordinates": "-7.417, 27.15"
+      "coordinates": "-7.417, 27.15",
+      "metar_available": false
     },
     {
       "ident": "CD-0060",
@@ -639,7 +697,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Lubondaie",
-      "coordinates": "-6.50209, 22.45663"
+      "coordinates": "-6.50209, 22.45663",
+      "metar_available": false
     },
     {
       "ident": "CD-0061",
@@ -650,7 +709,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Kasonga",
-      "coordinates": "-6.648889, 22.391338"
+      "coordinates": "-6.648889, 22.391338",
+      "metar_available": false
     },
     {
       "ident": "CD-0062",
@@ -661,7 +721,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Muambi",
-      "coordinates": "-6.683, 22.533001"
+      "coordinates": "-6.683, 22.533001",
+      "metar_available": false
     },
     {
       "ident": "CD-0063",
@@ -672,7 +733,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Tshibala",
-      "coordinates": "-6.933, 22"
+      "coordinates": "-6.933, 22",
+      "metar_available": false
     },
     {
       "ident": "CD-0064",
@@ -683,7 +745,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Katubwe",
-      "coordinates": "-6.05, 22.6"
+      "coordinates": "-6.05, 22.6",
+      "metar_available": false
     },
     {
       "ident": "CD-0065",
@@ -694,7 +757,8 @@
       "iso_country": "CD",
       "iso_region": "CD-KC",
       "municipality": "Lutshatsha",
-      "coordinates": "-6.05669, 22.18663"
+      "coordinates": "-6.05669, 22.18663",
+      "metar_available": false
     },
     {
       "ident": "CD-0066",
@@ -705,7 +769,8 @@
       "iso_country": "CD",
       "iso_region": "CD-SA",
       "municipality": "Kutusongo",
-      "coordinates": "-2.68003, 23.283119"
+      "coordinates": "-2.68003, 23.283119",
+      "metar_available": false
     },
     {
       "ident": "CD-0067",
@@ -716,7 +781,8 @@
       "iso_country": "CD",
       "iso_region": "CD-SA",
       "municipality": "Wasolo",
-      "coordinates": "-3.95, 22.517"
+      "coordinates": "-3.95, 22.517",
+      "metar_available": false
     },
     {
       "ident": "CD-0068",
@@ -727,7 +793,8 @@
       "iso_country": "CD",
       "iso_region": "CD-LO",
       "municipality": "Kisengwa",
-      "coordinates": "-6.017, 25.882999"
+      "coordinates": "-6.017, 25.882999",
+      "metar_available": false
     },
     {
       "ident": "CD-0069",
@@ -738,7 +805,8 @@
       "iso_country": "CD",
       "iso_region": "CD-LO",
       "municipality": "Ngandajika",
-      "coordinates": "-6.725944, 23.938265"
+      "coordinates": "-6.725944, 23.938265",
+      "metar_available": false
     },
     {
       "ident": "CD-0070",
@@ -748,7 +816,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HU",
       "municipality": "Isiro",
-      "coordinates": "2.78222, 27.625799"
+      "coordinates": "2.78222, 27.625799",
+      "metar_available": false
     },
     {
       "ident": "FZAA",
@@ -761,7 +830,8 @@
       "municipality": "Kinshasa",
       "gps_code": "FZAA",
       "iata_code": "FIH",
-      "coordinates": "-4.38575, 15.4446"
+      "coordinates": "-4.38575, 15.4446",
+      "metar_available": false
     },
     {
       "ident": "FZAB",
@@ -774,7 +844,8 @@
       "municipality": "N'dolo",
       "gps_code": "FZAB",
       "iata_code": "NLO",
-      "coordinates": "-4.32666015625, 15.327500343323"
+      "coordinates": "-4.32666015625, 15.327500343323",
+      "metar_available": false
     },
     {
       "ident": "FZAD",
@@ -786,7 +857,8 @@
       "iso_region": "CD-BC",
       "municipality": "Celo Zongo",
       "gps_code": "FZAD",
-      "coordinates": "-4.790881, 14.905695"
+      "coordinates": "-4.790881, 14.905695",
+      "metar_available": false
     },
     {
       "ident": "FZAE",
@@ -798,7 +870,8 @@
       "iso_region": "CD-KN",
       "municipality": "Kimpoko",
       "gps_code": "FZAE",
-      "coordinates": "-4.2170000076293945, 15.567000389099121"
+      "coordinates": "-4.2170000076293945, 15.567000389099121",
+      "metar_available": false
     },
     {
       "ident": "FZAF",
@@ -810,7 +883,8 @@
       "iso_region": "CD-BC",
       "municipality": "Nsangi",
       "gps_code": "FZAF",
-      "coordinates": "-5.599999904632568, 15.317000389099121"
+      "coordinates": "-5.599999904632568, 15.317000389099121",
+      "metar_available": false
     },
     {
       "ident": "FZAG",
@@ -823,7 +897,8 @@
       "municipality": "Muanda",
       "gps_code": "FZAG",
       "iata_code": "MNB",
-      "coordinates": "-5.930637, 12.351334"
+      "coordinates": "-5.930637, 12.351334",
+      "metar_available": false
     },
     {
       "ident": "FZAH",
@@ -835,7 +910,8 @@
       "iso_region": "CD-BC",
       "municipality": "Tshela",
       "gps_code": "FZAH",
-      "coordinates": "-4.982999801635742, 12.932999610900879"
+      "coordinates": "-4.982999801635742, 12.932999610900879",
+      "metar_available": false
     },
     {
       "ident": "FZAJ",
@@ -848,7 +924,8 @@
       "municipality": "Boma",
       "gps_code": "FZAJ",
       "iata_code": "BOA",
-      "coordinates": "-5.854, 13.064"
+      "coordinates": "-5.854, 13.064",
+      "metar_available": false
     },
     {
       "ident": "FZAL",
@@ -861,7 +938,8 @@
       "municipality": "Luozi",
       "gps_code": "FZAL",
       "iata_code": "LZI",
-      "coordinates": "-4.943881, 14.123337"
+      "coordinates": "-4.943881, 14.123337",
+      "metar_available": false
     },
     {
       "ident": "FZAM",
@@ -874,7 +952,8 @@
       "municipality": "Matadi",
       "gps_code": "FZAM",
       "iata_code": "MAT",
-      "coordinates": "-5.79961, 13.4404"
+      "coordinates": "-5.79961, 13.4404",
+      "metar_available": false
     },
     {
       "ident": "FZAN",
@@ -886,7 +965,8 @@
       "iso_region": "CD-BC",
       "municipality": "Inga",
       "gps_code": "FZAN",
-      "coordinates": "-5.530681, 13.578766"
+      "coordinates": "-5.530681, 13.578766",
+      "metar_available": false
     },
     {
       "ident": "FZAP",
@@ -898,7 +978,8 @@
       "iso_region": "CD-BC",
       "municipality": "Lukala",
       "gps_code": "FZAP",
-      "coordinates": "-5.497948, 14.528839"
+      "coordinates": "-5.497948, 14.528839",
+      "metar_available": false
     },
     {
       "ident": "FZAR",
@@ -911,7 +992,8 @@
       "municipality": "N'Kolo-Fuma",
       "gps_code": "FZAR",
       "iata_code": "NKL",
-      "coordinates": "-5.421, 14.8169"
+      "coordinates": "-5.421, 14.8169",
+      "metar_available": false
     },
     {
       "ident": "FZAS",
@@ -923,7 +1005,8 @@
       "iso_region": "CD-BC",
       "municipality": "Inkisi",
       "gps_code": "FZAS",
-      "coordinates": "-5.167, 15"
+      "coordinates": "-5.167, 15",
+      "metar_available": false
     },
     {
       "ident": "FZAU",
@@ -935,7 +1018,8 @@
       "iso_region": "CD-BC",
       "municipality": "Konde",
       "gps_code": "FZAU",
-      "coordinates": "-5.769707, 12.250986"
+      "coordinates": "-5.769707, 12.250986",
+      "metar_available": false
     },
     {
       "ident": "FZAW",
@@ -947,7 +1031,8 @@
       "iso_region": "CD-BC",
       "municipality": "Kwilu-Ngongo",
       "gps_code": "FZAW",
-      "coordinates": "-5.5, 14.7"
+      "coordinates": "-5.5, 14.7",
+      "metar_available": false
     },
     {
       "ident": "FZAX",
@@ -959,7 +1044,8 @@
       "iso_region": "CD-BC",
       "municipality": "Luheki",
       "gps_code": "FZAX",
-      "coordinates": "-4.849999904632568, 13.767000198364258"
+      "coordinates": "-4.849999904632568, 13.767000198364258",
+      "metar_available": false
     },
     {
       "ident": "FZAY",
@@ -971,7 +1057,8 @@
       "iso_region": "CD-BC",
       "municipality": "Mvula Sanda",
       "gps_code": "FZAY",
-      "coordinates": "-5.62788, 13.423684"
+      "coordinates": "-5.62788, 13.423684",
+      "metar_available": false
     },
     {
       "ident": "FZBA",
@@ -984,7 +1071,8 @@
       "municipality": "Inongo",
       "gps_code": "FZBA",
       "iata_code": "INO",
-      "coordinates": "-1.94722, 18.285801"
+      "coordinates": "-1.94722, 18.285801",
+      "metar_available": false
     },
     {
       "ident": "FZBB",
@@ -996,7 +1084,8 @@
       "iso_region": "CD-MN",
       "municipality": "Bongimba",
       "gps_code": "FZBB",
-      "coordinates": "-3.407612, 20.084124"
+      "coordinates": "-3.407612, 20.084124",
+      "metar_available": false
     },
     {
       "ident": "FZBD",
@@ -1008,7 +1097,8 @@
       "iso_region": "CD-MN",
       "municipality": "Oshwe",
       "gps_code": "FZBD",
-      "coordinates": "-3.423012, 19.419662"
+      "coordinates": "-3.423012, 19.419662",
+      "metar_available": false
     },
     {
       "ident": "FZBE",
@@ -1020,7 +1110,8 @@
       "iso_region": "CD-KL",
       "municipality": "Beno",
       "gps_code": "FZBE",
-      "coordinates": "-3.6, 17.783001"
+      "coordinates": "-3.6, 17.783001",
+      "metar_available": false
     },
     {
       "ident": "FZBF",
@@ -1032,7 +1123,8 @@
       "iso_region": "CD-MN",
       "municipality": "Bonkita",
       "gps_code": "FZBF",
-      "coordinates": "-3.109085, 18.786256"
+      "coordinates": "-3.109085, 18.786256",
+      "metar_available": false
     },
     {
       "ident": "FZBG",
@@ -1044,7 +1136,8 @@
       "iso_region": "CD-MN",
       "municipality": "Kempa",
       "gps_code": "FZBG",
-      "coordinates": "-2.954206, 18.378426"
+      "coordinates": "-2.954206, 18.378426",
+      "metar_available": false
     },
     {
       "ident": "FZBI",
@@ -1057,7 +1150,8 @@
       "municipality": "Nioki",
       "gps_code": "FZBI",
       "iata_code": "NIO",
-      "coordinates": "-2.717453, 17.685735"
+      "coordinates": "-2.717453, 17.685735",
+      "metar_available": false
     },
     {
       "ident": "FZBJ",
@@ -1069,7 +1163,8 @@
       "iso_region": "CD-MN",
       "municipality": "Mushie",
       "gps_code": "FZBJ",
-      "coordinates": "-3.007239, 16.925898"
+      "coordinates": "-3.007239, 16.925898",
+      "metar_available": false
     },
     {
       "ident": "FZBK",
@@ -1081,7 +1176,8 @@
       "iso_region": "CD-MN",
       "municipality": "Boshwe",
       "gps_code": "FZBK",
-      "coordinates": "-3.06666, 18.641701"
+      "coordinates": "-3.06666, 18.641701",
+      "metar_available": false
     },
     {
       "ident": "FZBL",
@@ -1093,7 +1189,8 @@
       "iso_region": "CD-MN",
       "municipality": "Djokele",
       "gps_code": "FZBL",
-      "coordinates": "-2.970159, 17.105026"
+      "coordinates": "-2.970159, 17.105026",
+      "metar_available": false
     },
     {
       "ident": "FZBN",
@@ -1105,7 +1202,8 @@
       "iso_region": "CD-MN",
       "municipality": "Malebo",
       "gps_code": "FZBN",
-      "coordinates": "-2.46461, 16.48034"
+      "coordinates": "-2.46461, 16.48034",
+      "metar_available": false
     },
     {
       "ident": "FZBO",
@@ -1118,7 +1216,8 @@
       "municipality": "Bandundu",
       "gps_code": "FZBO",
       "iata_code": "FDU",
-      "coordinates": "-3.31132, 17.381701"
+      "coordinates": "-3.31132, 17.381701",
+      "metar_available": false
     },
     {
       "ident": "FZBP",
@@ -1130,7 +1229,8 @@
       "iso_region": "CD-MN",
       "municipality": "Bolongonkele",
       "gps_code": "FZBR",
-      "coordinates": "-2.490665, 20.006125"
+      "coordinates": "-2.490665, 20.006125",
+      "metar_available": false
     },
     {
       "ident": "FZBQ",
@@ -1142,7 +1242,8 @@
       "iso_region": "CD-MN",
       "municipality": "Bindja",
       "gps_code": "FZBQ",
-      "coordinates": "-3.379255, 19.596348"
+      "coordinates": "-3.379255, 19.596348",
+      "metar_available": false
     },
     {
       "ident": "FZBS",
@@ -1154,7 +1255,8 @@
       "iso_region": "CD-MN",
       "municipality": "Semendwa",
       "gps_code": "FZBS",
-      "coordinates": "-3.237609, 18.133965"
+      "coordinates": "-3.237609, 18.133965",
+      "metar_available": false
     },
     {
       "ident": "FZBT",
@@ -1167,7 +1269,8 @@
       "municipality": "Kiri",
       "gps_code": "FZBT",
       "iata_code": "KRZ",
-      "coordinates": "-1.499806, 18.928456"
+      "coordinates": "-1.499806, 18.928456",
+      "metar_available": false
     },
     {
       "ident": "FZBU",
@@ -1179,7 +1282,8 @@
       "iso_region": "CD-MN",
       "municipality": "Ipeke",
       "gps_code": "FZBU",
-      "coordinates": "-2.538084, 18.244686"
+      "coordinates": "-2.538084, 18.244686",
+      "metar_available": false
     },
     {
       "ident": "FZBV",
@@ -1191,7 +1295,8 @@
       "iso_region": "CD-MN",
       "municipality": "Kempili",
       "gps_code": "FZBV",
-      "coordinates": "-2.729542, 18.106874"
+      "coordinates": "-2.729542, 18.106874",
+      "metar_available": false
     },
     {
       "ident": "FZBW",
@@ -1203,7 +1308,8 @@
       "iso_region": "CD-MN",
       "municipality": "Basengele",
       "gps_code": "FZBW",
-      "coordinates": "-1.861131, 17.960973"
+      "coordinates": "-1.861131, 17.960973",
+      "metar_available": false
     },
     {
       "ident": "FZCA",
@@ -1216,7 +1322,8 @@
       "municipality": "Kikwit",
       "gps_code": "FZCA",
       "iata_code": "KKW",
-      "coordinates": "-5.03577, 18.785601"
+      "coordinates": "-5.03577, 18.785601",
+      "metar_available": false
     },
     {
       "ident": "FZCB",
@@ -1229,7 +1336,8 @@
       "municipality": "Idiofa",
       "gps_code": "FZCB",
       "iata_code": "IDF",
-      "coordinates": "-4.970605, 19.57867"
+      "coordinates": "-4.970605, 19.57867",
+      "metar_available": false
     },
     {
       "ident": "FZCD",
@@ -1241,7 +1349,8 @@
       "iso_region": "CD-KL",
       "municipality": "Vanga",
       "gps_code": "FZCD",
-      "coordinates": "-4.4, 18.466999"
+      "coordinates": "-4.4, 18.466999",
+      "metar_available": false
     },
     {
       "ident": "FZCE",
@@ -1254,7 +1363,8 @@
       "municipality": "Lusanga",
       "gps_code": "FZCE",
       "iata_code": "LUS",
-      "coordinates": "-4.8, 18.716999"
+      "coordinates": "-4.8, 18.716999",
+      "metar_available": false
     },
     {
       "ident": "FZCF",
@@ -1266,7 +1376,8 @@
       "iso_region": "CD-KG",
       "municipality": "Kahemba",
       "gps_code": "FZCF",
-      "coordinates": "-7.341012, 18.989182"
+      "coordinates": "-7.341012, 18.989182",
+      "metar_available": false
     },
     {
       "ident": "FZCG",
@@ -1277,7 +1388,8 @@
       "iso_country": "CD",
       "iso_region": "CD-U-A",
       "gps_code": "FZCG",
-      "coordinates": "-7.699422, 17.342288"
+      "coordinates": "-7.699422, 17.342288",
+      "metar_available": false
     },
     {
       "ident": "FZCI",
@@ -1289,7 +1401,8 @@
       "iso_region": "CD-KS",
       "municipality": "Banga",
       "gps_code": "FZCI",
-      "coordinates": "-5.458965, 20.462208"
+      "coordinates": "-5.458965, 20.462208",
+      "metar_available": false
     },
     {
       "ident": "FZCK",
@@ -1301,7 +1414,8 @@
       "iso_region": "CD-KG",
       "municipality": "Kajiji",
       "gps_code": "FZCK",
-      "coordinates": "-7.647706, 18.49617"
+      "coordinates": "-7.647706, 18.49617",
+      "metar_available": false
     },
     {
       "ident": "FZCL",
@@ -1313,7 +1427,8 @@
       "iso_region": "CD-KL",
       "municipality": "Banza Lute",
       "gps_code": "FZCL",
-      "coordinates": "-4.199999809265137, 17.83300018310547"
+      "coordinates": "-4.199999809265137, 17.83300018310547",
+      "metar_available": false
     },
     {
       "ident": "FZCM",
@@ -1325,7 +1440,8 @@
       "iso_region": "CD-KL",
       "municipality": "Mangai Ii",
       "gps_code": "FZCM",
-      "coordinates": "-4.083, 19.5"
+      "coordinates": "-4.083, 19.5",
+      "metar_available": false
     },
     {
       "ident": "FZCO",
@@ -1337,7 +1453,8 @@
       "iso_region": "CD-KG",
       "municipality": "Boko",
       "gps_code": "FZCO",
-      "coordinates": "-5.29199, 16.774879"
+      "coordinates": "-5.29199, 16.774879",
+      "metar_available": false
     },
     {
       "ident": "FZCP",
@@ -1349,7 +1466,8 @@
       "iso_region": "CD-KG",
       "municipality": "Popokabaka",
       "gps_code": "FZCP",
-      "coordinates": "-5.739467, 16.587489"
+      "coordinates": "-5.739467, 16.587489",
+      "metar_available": false
     },
     {
       "ident": "FZCR",
@@ -1361,7 +1479,8 @@
       "iso_region": "CD-KL",
       "municipality": "Busala",
       "gps_code": "FZCR",
-      "coordinates": "-4.167435, 18.698932"
+      "coordinates": "-4.167435, 18.698932",
+      "metar_available": false
     },
     {
       "ident": "FZCS",
@@ -1373,7 +1492,8 @@
       "iso_region": "CD-KG",
       "municipality": "Kenge",
       "gps_code": "FZCS",
-      "coordinates": "-4.837882, 17.029452"
+      "coordinates": "-4.837882, 17.029452",
+      "metar_available": false
     },
     {
       "ident": "FZCT",
@@ -1385,7 +1505,8 @@
       "iso_region": "CD-KL",
       "municipality": "Fatundu",
       "gps_code": "FZCT",
-      "coordinates": "-4.132999897003174, 17.299999237060547"
+      "coordinates": "-4.132999897003174, 17.299999237060547",
+      "metar_available": false
     },
     {
       "ident": "FZCU",
@@ -1397,7 +1518,8 @@
       "iso_region": "CD-KL",
       "municipality": "Ito",
       "gps_code": "FZCU",
-      "coordinates": "-3.333, 17.466999"
+      "coordinates": "-3.333, 17.466999",
+      "metar_available": false
     },
     {
       "ident": "FZCV",
@@ -1410,7 +1532,8 @@
       "municipality": "Masi Manimba",
       "gps_code": "FZCV",
       "iata_code": "MSM",
-      "coordinates": "-4.783, 17.85"
+      "coordinates": "-4.783, 17.85",
+      "metar_available": false
     },
     {
       "ident": "FZCW",
@@ -1422,7 +1545,8 @@
       "iso_region": "CD-KL",
       "municipality": "Kikongo Sur Wamba",
       "gps_code": "FZCW",
-      "coordinates": "-4.267, 17.267"
+      "coordinates": "-4.267, 17.267",
+      "metar_available": false
     },
     {
       "ident": "FZCX",
@@ -1434,7 +1558,8 @@
       "iso_region": "CD-KG",
       "municipality": "Kimafu",
       "gps_code": "FZCX",
-      "coordinates": "-4.6, 17.583"
+      "coordinates": "-4.6, 17.583",
+      "metar_available": false
     },
     {
       "ident": "FZCY",
@@ -1446,7 +1571,8 @@
       "iso_region": "CD-KL",
       "municipality": "Yuki",
       "gps_code": "FZCY",
-      "coordinates": "-4.083000183105469, 19.433000564575195"
+      "coordinates": "-4.083000183105469, 19.433000564575195",
+      "metar_available": false
     },
     {
       "ident": "FZDA",
@@ -1458,7 +1584,8 @@
       "iso_region": "CD-BC",
       "municipality": "Malanga",
       "gps_code": "FZDA",
-      "coordinates": "-5.5329999923706055, 14.850000381469727"
+      "coordinates": "-5.5329999923706055, 14.850000381469727",
+      "metar_available": false
     },
     {
       "ident": "FZDB",
@@ -1470,7 +1597,8 @@
       "iso_region": "CD-KL",
       "municipality": "Kimbau",
       "gps_code": "FZDB",
-      "coordinates": "-5.617000102996826, 17.600000381469727"
+      "coordinates": "-5.617000102996826, 17.600000381469727",
+      "metar_available": false
     },
     {
       "ident": "FZDD",
@@ -1482,7 +1610,8 @@
       "iso_region": "CD-KG",
       "municipality": "Wamba Luadi",
       "gps_code": "FZDD",
-      "coordinates": "-6.473483, 17.337327"
+      "coordinates": "-6.473483, 17.337327",
+      "metar_available": false
     },
     {
       "ident": "FZDE",
@@ -1494,7 +1623,8 @@
       "iso_region": "CD-KG",
       "municipality": "Tono",
       "gps_code": "FZDE",
-      "coordinates": "-6.33422, 18.21408"
+      "coordinates": "-6.33422, 18.21408",
+      "metar_available": false
     },
     {
       "ident": "FZDF",
@@ -1506,7 +1636,8 @@
       "iso_region": "CD-KG",
       "municipality": "Nzamba",
       "gps_code": "FZDF",
-      "coordinates": "-6.83261, 17.69593"
+      "coordinates": "-6.83261, 17.69593",
+      "metar_available": false
     },
     {
       "ident": "FZDG",
@@ -1518,7 +1649,8 @@
       "iso_region": "CD-KS",
       "municipality": "Nyanga",
       "gps_code": "FZDG",
-      "coordinates": "-5.965924, 20.435936"
+      "coordinates": "-5.965924, 20.435936",
+      "metar_available": false
     },
     {
       "ident": "FZDH",
@@ -1530,7 +1662,8 @@
       "iso_region": "CD-KL",
       "municipality": "Ngi",
       "gps_code": "FZDH",
-      "coordinates": "-4.416999816894531, 17.16699981689453"
+      "coordinates": "-4.416999816894531, 17.16699981689453",
+      "metar_available": false
     },
     {
       "ident": "FZDJ",
@@ -1542,7 +1675,8 @@
       "iso_region": "CD-KS",
       "municipality": "Mutena",
       "gps_code": "FZDJ",
-      "coordinates": "-6.763782, 21.159342"
+      "coordinates": "-6.763782, 21.159342",
+      "metar_available": false
     },
     {
       "ident": "FZDK",
@@ -1554,7 +1688,8 @@
       "iso_region": "CD-KL",
       "municipality": "Kipata Katika",
       "gps_code": "FZDK",
-      "coordinates": "-5.0329999923706055, 17.649999618530273"
+      "coordinates": "-5.0329999923706055, 17.649999618530273",
+      "metar_available": false
     },
     {
       "ident": "FZDL",
@@ -1566,7 +1701,8 @@
       "iso_region": "CD-KG",
       "municipality": "Kolokoso",
       "gps_code": "FZDL",
-      "coordinates": "-4.45, 17.417"
+      "coordinates": "-4.45, 17.417",
+      "metar_available": false
     },
     {
       "ident": "FZDM",
@@ -1578,7 +1714,8 @@
       "iso_region": "CD-KL",
       "municipality": "Masamuna",
       "gps_code": "FZDM",
-      "coordinates": "-4.800000190734863, 17.58300018310547"
+      "coordinates": "-4.800000190734863, 17.58300018310547",
+      "metar_available": false
     },
     {
       "ident": "FZDN",
@@ -1590,7 +1727,8 @@
       "iso_region": "CD-KG",
       "municipality": "Mongo Wa Kenda",
       "gps_code": "FZDN",
-      "coordinates": "-6.91785, 16.91941"
+      "coordinates": "-6.91785, 16.91941",
+      "metar_available": false
     },
     {
       "ident": "FZDO",
@@ -1602,7 +1740,8 @@
       "iso_region": "CD-KL",
       "municipality": "Moanza",
       "gps_code": "FZDO",
-      "coordinates": "-5.5329999923706055, 17.617000579833984"
+      "coordinates": "-5.5329999923706055, 17.617000579833984",
+      "metar_available": false
     },
     {
       "ident": "FZDP",
@@ -1614,7 +1753,8 @@
       "iso_region": "CD-KL",
       "municipality": "Mukedi",
       "gps_code": "FZDP",
-      "coordinates": "-5.7, 19.767"
+      "coordinates": "-5.7, 19.767",
+      "metar_available": false
     },
     {
       "ident": "FZDQ",
@@ -1626,7 +1766,8 @@
       "iso_region": "CD-KG",
       "municipality": "Mazelele",
       "gps_code": "FZDQ",
-      "coordinates": "-7.283, 17.033001"
+      "coordinates": "-7.283, 17.033001",
+      "metar_available": false
     },
     {
       "ident": "FZDR",
@@ -1638,7 +1779,8 @@
       "iso_region": "CD-TU",
       "municipality": "Bokela",
       "gps_code": "FZDR",
-      "coordinates": "-1.24741, 22.00784"
+      "coordinates": "-1.24741, 22.00784",
+      "metar_available": false
     },
     {
       "ident": "FZDS",
@@ -1650,7 +1792,8 @@
       "iso_region": "CD-KL",
       "municipality": "Yasa Bongo",
       "gps_code": "FZDS",
-      "coordinates": "-4.449999809265137, 17.783000946044922"
+      "coordinates": "-4.449999809265137, 17.783000946044922",
+      "metar_available": false
     },
     {
       "ident": "FZDT",
@@ -1662,7 +1805,8 @@
       "iso_region": "CD-KG",
       "municipality": "Matari",
       "gps_code": "FZDT",
-      "coordinates": "-6.151841, 17.602501"
+      "coordinates": "-6.151841, 17.602501",
+      "metar_available": false
     },
     {
       "ident": "FZDU",
@@ -1674,7 +1818,8 @@
       "iso_region": "CD-BC",
       "municipality": "Kimpangu",
       "gps_code": "FZDU",
-      "coordinates": "-5.833000183105469, 15"
+      "coordinates": "-5.833000183105469, 15",
+      "metar_available": false
     },
     {
       "ident": "FZDY",
@@ -1686,7 +1831,8 @@
       "iso_region": "CD-KL",
       "municipality": "Missayi",
       "gps_code": "FZDY",
-      "coordinates": "-3.882999897003174, 17.350000381469727"
+      "coordinates": "-3.882999897003174, 17.350000381469727",
+      "metar_available": false
     },
     {
       "ident": "FZEA",
@@ -1699,7 +1845,8 @@
       "municipality": "Mbandaka",
       "gps_code": "FZEA",
       "iata_code": "MDK",
-      "coordinates": "0.0226000007242, 18.2887001038"
+      "coordinates": "0.0226000007242, 18.2887001038",
+      "metar_available": false
     },
     {
       "ident": "FZEI",
@@ -1711,7 +1858,8 @@
       "iso_region": "CD-EQ",
       "municipality": "Ingende",
       "gps_code": "FZEI",
-      "coordinates": "-0.30953, 18.94545"
+      "coordinates": "-0.30953, 18.94545",
+      "metar_available": false
     },
     {
       "ident": "FZEM",
@@ -1723,7 +1871,8 @@
       "iso_region": "CD-KL",
       "municipality": "Yembe Moke",
       "gps_code": "FZEM",
-      "coordinates": "-4.683, 18.216999"
+      "coordinates": "-4.683, 18.216999",
+      "metar_available": false
     },
     {
       "ident": "FZEN",
@@ -1736,7 +1885,8 @@
       "municipality": "Basankusu",
       "gps_code": "FZEN",
       "iata_code": "BSU",
-      "coordinates": "1.224789, 19.788097"
+      "coordinates": "1.224789, 19.788097",
+      "metar_available": false
     },
     {
       "ident": "FZEO",
@@ -1748,7 +1898,8 @@
       "iso_region": "CD-TU",
       "municipality": "Beongo",
       "gps_code": "FZEO",
-      "coordinates": "1.017, 20.6"
+      "coordinates": "1.017, 20.6",
+      "metar_available": false
     },
     {
       "ident": "FZEP",
@@ -1760,7 +1911,8 @@
       "iso_region": "CD-EQ",
       "municipality": "Mentole",
       "gps_code": "FZEP",
-      "coordinates": "1.3170000314712524, 20.700000762939453"
+      "coordinates": "1.3170000314712524, 20.700000762939453",
+      "metar_available": false
     },
     {
       "ident": "FZER",
@@ -1772,7 +1924,8 @@
       "iso_region": "CD-EQ",
       "municipality": "Kodoro",
       "gps_code": "FZER",
-      "coordinates": "1.2829999923706055, 20.33300018310547"
+      "coordinates": "1.2829999923706055, 20.33300018310547",
+      "metar_available": false
     },
     {
       "ident": "FZFA",
@@ -1785,7 +1938,8 @@
       "municipality": "Libenge",
       "gps_code": "FZFA",
       "iata_code": "LIE",
-      "coordinates": "3.626584, 18.638477"
+      "coordinates": "3.626584, 18.638477",
+      "metar_available": false
     },
     {
       "ident": "FZFC",
@@ -1797,7 +1951,8 @@
       "iso_region": "CD-MO",
       "municipality": "Engengele",
       "gps_code": "FZFC",
-      "coordinates": "2.116575, 22.647328"
+      "coordinates": "2.116575, 22.647328",
+      "metar_available": false
     },
     {
       "ident": "FZFD",
@@ -1810,7 +1965,8 @@
       "municipality": "Gbadolite",
       "gps_code": "FZFD",
       "iata_code": "BDT",
-      "coordinates": "4.252745, 20.975271"
+      "coordinates": "4.252745, 20.975271",
+      "metar_available": false
     },
     {
       "ident": "FZFE",
@@ -1822,7 +1978,8 @@
       "iso_region": "CD-NU",
       "municipality": "Abumumbazi",
       "gps_code": "FZFE",
-      "coordinates": "3.695793, 22.150068"
+      "coordinates": "3.695793, 22.150068",
+      "metar_available": false
     },
     {
       "ident": "FZFH",
@@ -1834,7 +1991,8 @@
       "iso_region": "CD-TO",
       "municipality": "Mokaria-Yamoleka",
       "gps_code": "FZFH",
-      "coordinates": "2.117, 23.283001"
+      "coordinates": "2.117, 23.283001",
+      "metar_available": false
     },
     {
       "ident": "FZFJ",
@@ -1846,7 +2004,8 @@
       "iso_region": "CD-NU",
       "municipality": "Goyongo",
       "gps_code": "FZFJ",
-      "coordinates": "4.176768, 19.800625"
+      "coordinates": "4.176768, 19.800625",
+      "metar_available": false
     },
     {
       "ident": "FZFK",
@@ -1859,7 +2018,8 @@
       "municipality": "Gemena",
       "gps_code": "FZFK",
       "iata_code": "GMA",
-      "coordinates": "3.23537, 19.771299"
+      "coordinates": "3.23537, 19.771299",
+      "metar_available": false
     },
     {
       "ident": "FZFP",
@@ -1872,7 +2032,8 @@
       "municipality": "Kotakoli",
       "gps_code": "FZFP",
       "iata_code": "KLI",
-      "coordinates": "4.156991, 21.66667"
+      "coordinates": "4.156991, 21.66667",
+      "metar_available": false
     },
     {
       "ident": "FZFQ",
@@ -1884,7 +2045,8 @@
       "iso_region": "CD-SU",
       "municipality": "Mpaka",
       "gps_code": "FZFQ",
-      "coordinates": "4.106144, 19.230709"
+      "coordinates": "4.106144, 19.230709",
+      "metar_available": false
     },
     {
       "ident": "FZFR",
@@ -1896,7 +2058,8 @@
       "iso_region": "CD-TO",
       "municipality": "Mombongo",
       "gps_code": "FZFR",
-      "coordinates": "1.65, 23.15"
+      "coordinates": "1.65, 23.15",
+      "metar_available": false
     },
     {
       "ident": "FZFS",
@@ -1908,7 +2071,8 @@
       "iso_region": "CD-NU",
       "municipality": "Karawa",
       "gps_code": "FZFS",
-      "coordinates": "3.36156, 20.298979"
+      "coordinates": "3.36156, 20.298979",
+      "metar_available": false
     },
     {
       "ident": "FZFT",
@@ -1920,7 +2084,8 @@
       "iso_region": "CD-SU",
       "municipality": "Tandala",
       "gps_code": "FZFT",
-      "coordinates": "2.978206, 19.351065"
+      "coordinates": "2.978206, 19.351065",
+      "metar_available": false
     },
     {
       "ident": "FZFU",
@@ -1932,7 +2097,8 @@
       "municipality": "Bumba",
       "gps_code": "FZFU",
       "iata_code": "BMB",
-      "coordinates": "2.183261, 22.479572"
+      "coordinates": "2.183261, 22.479572",
+      "metar_available": false
     },
     {
       "ident": "FZFW",
@@ -1944,7 +2110,8 @@
       "iso_region": "CD-SU",
       "municipality": "Gwaka",
       "gps_code": "FZFW",
-      "coordinates": "2.473384, 20.091419"
+      "coordinates": "2.473384, 20.091419",
+      "metar_available": false
     },
     {
       "ident": "FZGA",
@@ -1957,7 +2124,8 @@
       "municipality": "Lisala",
       "gps_code": "FZGA",
       "iata_code": "LIQ",
-      "coordinates": "2.17066, 21.496901"
+      "coordinates": "2.17066, 21.496901",
+      "metar_available": false
     },
     {
       "ident": "FZGC",
@@ -1969,7 +2137,8 @@
       "iso_region": "CD-TO",
       "municipality": "Bolila",
       "gps_code": "FZGC",
-      "coordinates": "1.85, 23.117001"
+      "coordinates": "1.85, 23.117001",
+      "metar_available": false
     },
     {
       "ident": "FZGE",
@@ -1981,7 +2150,8 @@
       "iso_region": "CD-MO",
       "municipality": "Binga",
       "gps_code": "FZGE",
-      "coordinates": "2.36688, 20.51299"
+      "coordinates": "2.36688, 20.51299",
+      "metar_available": false
     },
     {
       "ident": "FZGF",
@@ -1993,7 +2163,8 @@
       "iso_region": "CD-TU",
       "municipality": "Bokungu",
       "gps_code": "FZGF",
-      "coordinates": "-0.589819, 22.299843"
+      "coordinates": "-0.589819, 22.299843",
+      "metar_available": false
     },
     {
       "ident": "FZGI",
@@ -2005,7 +2176,8 @@
       "iso_region": "CD-MO",
       "municipality": "Yalingimba",
       "gps_code": "FZGI",
-      "coordinates": "2.272462, 22.847528"
+      "coordinates": "2.272462, 22.847528",
+      "metar_available": false
     },
     {
       "ident": "FZGN",
@@ -2018,7 +2190,8 @@
       "municipality": "Boende",
       "gps_code": "FZGN",
       "iata_code": "BNB",
-      "coordinates": "-0.286652, 20.883551"
+      "coordinates": "-0.286652, 20.883551",
+      "metar_available": false
     },
     {
       "ident": "FZGT",
@@ -2030,7 +2203,8 @@
       "iso_region": "CD-EQ",
       "municipality": "Boteka",
       "gps_code": "FZGT",
-      "coordinates": "-0.317, 19.066999"
+      "coordinates": "-0.317, 19.066999",
+      "metar_available": false
     },
     {
       "ident": "FZGV",
@@ -2043,7 +2217,8 @@
       "municipality": "Ikela",
       "gps_code": "FZGV",
       "iata_code": "IKL",
-      "coordinates": "-1.048109, 23.372501"
+      "coordinates": "-1.048109, 23.372501",
+      "metar_available": false
     },
     {
       "ident": "FZGX",
@@ -2055,7 +2230,8 @@
       "iso_region": "CD-TU",
       "municipality": "Monkoto",
       "gps_code": "FZGX",
-      "coordinates": "-1.72268, 20.68958"
+      "coordinates": "-1.72268, 20.68958",
+      "metar_available": false
     },
     {
       "ident": "FZIA",
@@ -2066,7 +2242,8 @@
       "iso_country": "CD",
       "iso_region": "CD-TO",
       "gps_code": "FZIA",
-      "coordinates": "0.5175, 25.155001"
+      "coordinates": "0.5175, 25.155001",
+      "metar_available": false
     },
     {
       "ident": "FZIC",
@@ -2079,7 +2256,8 @@
       "municipality": "Kisangani",
       "gps_code": "FZIC",
       "iata_code": "FKI",
-      "coordinates": "0.481638997793, 25.3379993439"
+      "coordinates": "0.481638997793, 25.3379993439",
+      "metar_available": false
     },
     {
       "ident": "FZIK",
@@ -2091,7 +2269,8 @@
       "iso_region": "CD-TO",
       "municipality": "Katende",
       "gps_code": "FZIK",
-      "coordinates": "0.3330000042915344, 25.5"
+      "coordinates": "0.3330000042915344, 25.5",
+      "metar_available": false
     },
     {
       "ident": "FZIR",
@@ -2104,7 +2283,8 @@
       "municipality": "Yangambi",
       "gps_code": "FZIR",
       "iata_code": "YAN",
-      "coordinates": "0.783, 24.466999"
+      "coordinates": "0.783, 24.466999",
+      "metar_available": false
     },
     {
       "ident": "FZIZ",
@@ -2116,7 +2296,8 @@
       "iso_region": "CD-TO",
       "municipality": "Lokutu",
       "gps_code": "FZIZ",
-      "coordinates": "1.131052, 23.602301"
+      "coordinates": "1.131052, 23.602301",
+      "metar_available": false
     },
     {
       "ident": "FZJB",
@@ -2128,7 +2309,8 @@
       "iso_region": "CD-TO",
       "municipality": "Doko",
       "gps_code": "FZJB",
-      "coordinates": "3.233, 29.566999"
+      "coordinates": "3.233, 29.566999",
+      "metar_available": false
     },
     {
       "ident": "FZJC",
@@ -2140,7 +2322,8 @@
       "iso_region": "CD-HU",
       "municipality": "Dungu",
       "gps_code": "FZJC",
-      "coordinates": "3.597484, 28.57674"
+      "coordinates": "3.597484, 28.57674",
+      "metar_available": false
     },
     {
       "ident": "FZJD",
@@ -2152,7 +2335,8 @@
       "iso_region": "CD-HU",
       "municipality": "Doruma",
       "gps_code": "FZJD",
-      "coordinates": "4.717158, 27.691089"
+      "coordinates": "4.717158, 27.691089",
+      "metar_available": false
     },
     {
       "ident": "FZJF",
@@ -2164,7 +2348,8 @@
       "iso_region": "CD-HU",
       "municipality": "Aba",
       "gps_code": "FZJF",
-      "coordinates": "3.859556, 30.253676"
+      "coordinates": "3.859556, 30.253676",
+      "metar_available": false
     },
     {
       "ident": "FZJH",
@@ -2177,7 +2362,8 @@
       "municipality": "Isiro",
       "gps_code": "FZJH",
       "iata_code": "IRP",
-      "coordinates": "2.82761, 27.588301"
+      "coordinates": "2.82761, 27.588301",
+      "metar_available": false
     },
     {
       "ident": "FZJI",
@@ -2189,7 +2375,8 @@
       "iso_region": "CD-HU",
       "municipality": "Watsa",
       "gps_code": "FZJI",
-      "coordinates": "2.994577, 29.547772"
+      "coordinates": "2.994577, 29.547772",
+      "metar_available": false
     },
     {
       "ident": "FZJK",
@@ -2201,7 +2388,8 @@
       "iso_region": "CD-HU",
       "municipality": "Faradje",
       "gps_code": "FZJK",
-      "coordinates": "3.7149, 29.71261"
+      "coordinates": "3.7149, 29.71261",
+      "metar_available": false
     },
     {
       "ident": "FZJN",
@@ -2213,7 +2401,8 @@
       "iso_region": "CD-HL",
       "municipality": "Luniemu",
       "gps_code": "FZJN",
-      "coordinates": "-8.208429, 24.702759"
+      "coordinates": "-8.208429, 24.702759",
+      "metar_available": false
     },
     {
       "ident": "FZJR",
@@ -2225,7 +2414,8 @@
       "iso_region": "CD-IT",
       "municipality": "Kere Kere",
       "gps_code": "FZJR",
-      "coordinates": "2.731236, 30.533323"
+      "coordinates": "2.731236, 30.533323",
+      "metar_available": false
     },
     {
       "ident": "FZKA",
@@ -2238,7 +2428,8 @@
       "municipality": "Bunia",
       "gps_code": "FZKA",
       "iata_code": "BUX",
-      "coordinates": "1.565743, 30.220685"
+      "coordinates": "1.565743, 30.220685",
+      "metar_available": false
     },
     {
       "ident": "FZKB",
@@ -2250,7 +2441,8 @@
       "iso_region": "CD-BU",
       "municipality": "Bambili-Dingila",
       "gps_code": "FZKB",
-      "coordinates": "3.655191, 26.083345"
+      "coordinates": "3.655191, 26.083345",
+      "metar_available": false
     },
     {
       "ident": "FZKC",
@@ -2262,7 +2454,8 @@
       "iso_region": "CD-IT",
       "municipality": "Mahagi",
       "gps_code": "FZKC",
-      "coordinates": "2.29317, 31.026227"
+      "coordinates": "2.29317, 31.026227",
+      "metar_available": false
     },
     {
       "ident": "FZKF",
@@ -2274,7 +2467,8 @@
       "iso_region": "CD-IT",
       "municipality": "Kilomines",
       "gps_code": "FZKF",
-      "coordinates": "1.817, 30.233"
+      "coordinates": "1.817, 30.233",
+      "metar_available": false
     },
     {
       "ident": "FZKI",
@@ -2286,7 +2480,8 @@
       "iso_region": "CD-TO",
       "municipality": "Yedi",
       "gps_code": "FZKI",
-      "coordinates": "2.0329999923706055, 24.799999237060547"
+      "coordinates": "2.0329999923706055, 24.799999237060547",
+      "metar_available": false
     },
     {
       "ident": "FZKJ",
@@ -2299,7 +2494,8 @@
       "municipality": "Buta",
       "gps_code": "FZKJ",
       "iata_code": "BZU",
-      "coordinates": "2.818058, 24.793997"
+      "coordinates": "2.818058, 24.793997",
+      "metar_available": false
     },
     {
       "ident": "FZKN",
@@ -2311,7 +2507,8 @@
       "iso_region": "CD-BU",
       "municipality": "Aketi",
       "gps_code": "FZKN",
-      "coordinates": "2.730399, 23.793468"
+      "coordinates": "2.730399, 23.793468",
+      "metar_available": false
     },
     {
       "ident": "FZKO",
@@ -2323,7 +2520,8 @@
       "iso_region": "CD-BU",
       "municipality": "Ango",
       "gps_code": "FZKO",
-      "coordinates": "4.029001, 25.862846"
+      "coordinates": "4.029001, 25.862846",
+      "metar_available": false
     },
     {
       "ident": "FZMA",
@@ -2336,7 +2534,8 @@
       "municipality": "Kamakombe",
       "gps_code": "FZMA",
       "iata_code": "BKY",
-      "coordinates": "-2.30898, 28.8088"
+      "coordinates": "-2.30898, 28.8088",
+      "metar_available": false
     },
     {
       "ident": "FZMB",
@@ -2349,7 +2548,8 @@
       "municipality": "Butembo",
       "gps_code": "FZMB",
       "iata_code": "RUE",
-      "coordinates": "0.117142, 29.312992"
+      "coordinates": "0.117142, 29.312992",
+      "metar_available": false
     },
     {
       "ident": "FZMC",
@@ -2361,7 +2561,8 @@
       "iso_region": "CD-SK",
       "municipality": "Mulungu",
       "gps_code": "FZMC",
-      "coordinates": "-2.975603, 27.868892"
+      "coordinates": "-2.975603, 27.868892",
+      "metar_available": false
     },
     {
       "ident": "FZMD",
@@ -2373,7 +2574,8 @@
       "iso_region": "CD-SK",
       "municipality": "Nzovu",
       "gps_code": "FZMD",
-      "coordinates": "-2.574118, 27.990112"
+      "coordinates": "-2.574118, 27.990112",
+      "metar_available": false
     },
     {
       "ident": "FZMK",
@@ -2385,7 +2587,8 @@
       "iso_region": "CD-SK",
       "municipality": "Bulongo Kigogo",
       "gps_code": "FZMK",
-      "coordinates": "-2.6670000553131104, 28.799999237060547"
+      "coordinates": "-2.6670000553131104, 28.799999237060547",
+      "metar_available": false
     },
     {
       "ident": "FZMP",
@@ -2397,7 +2600,8 @@
       "iso_region": "CD-MA",
       "municipality": "Kimano Ii",
       "gps_code": "FZMP",
-      "coordinates": "-4.382999897003174, 28.350000381469727"
+      "coordinates": "-4.382999897003174, 28.350000381469727",
+      "metar_available": false
     },
     {
       "ident": "FZMW",
@@ -2409,7 +2613,8 @@
       "iso_region": "CD-SK",
       "municipality": "Shabunda",
       "gps_code": "FZMW",
-      "coordinates": "-2.683, 27.333"
+      "coordinates": "-2.683, 27.333",
+      "metar_available": false
     },
     {
       "ident": "FZNA",
@@ -2422,7 +2627,8 @@
       "municipality": "Goma",
       "gps_code": "FZNA",
       "iata_code": "GOM",
-      "coordinates": "-1.66617, 29.237929"
+      "coordinates": "-1.66617, 29.237929",
+      "metar_available": false
     },
     {
       "ident": "FZNB",
@@ -2434,7 +2640,8 @@
       "iso_region": "CD-NK",
       "municipality": "Katale",
       "gps_code": "FZNB",
-      "coordinates": "-1.30472, 29.373899"
+      "coordinates": "-1.30472, 29.373899",
+      "metar_available": false
     },
     {
       "ident": "FZNC",
@@ -2446,7 +2653,8 @@
       "iso_region": "CD-NK",
       "municipality": "Rutshuru",
       "gps_code": "FZNC",
-      "coordinates": "-1.167, 29.417"
+      "coordinates": "-1.167, 29.417",
+      "metar_available": false
     },
     {
       "ident": "FZNF",
@@ -2458,7 +2666,8 @@
       "iso_region": "CD-NK",
       "municipality": "Lubero",
       "gps_code": "FZNF",
-      "coordinates": "-0.139505, 29.241677"
+      "coordinates": "-0.139505, 29.241677",
+      "metar_available": false
     },
     {
       "ident": "FZNI",
@@ -2470,7 +2679,8 @@
       "iso_region": "CD-NK",
       "municipality": "Ishasha",
       "gps_code": "FZNI",
-      "coordinates": "-0.7415, 29.6245"
+      "coordinates": "-0.7415, 29.6245",
+      "metar_available": false
     },
     {
       "ident": "FZNK",
@@ -2482,7 +2692,8 @@
       "iso_region": "CD-NK",
       "municipality": "Katanda Rusthuru",
       "gps_code": "FZNK",
-      "coordinates": "-0.800000011920929, 29.367000579833984"
+      "coordinates": "-0.800000011920929, 29.367000579833984",
+      "metar_available": false
     },
     {
       "ident": "FZNP",
@@ -2495,7 +2706,8 @@
       "municipality": "Beni",
       "gps_code": "FZNP",
       "iata_code": "BNC",
-      "coordinates": "0.575, 29.4739"
+      "coordinates": "0.575, 29.4739",
+      "metar_available": false
     },
     {
       "ident": "FZNQ",
@@ -2507,7 +2719,8 @@
       "iso_region": "CD-NK",
       "municipality": "Obaye",
       "gps_code": "FZNQ",
-      "coordinates": "-1.335654, 27.728529"
+      "coordinates": "-1.335654, 27.728529",
+      "metar_available": false
     },
     {
       "ident": "FZNR",
@@ -2519,7 +2732,8 @@
       "iso_region": "CD-NK",
       "municipality": "Rwindi",
       "gps_code": "FZNR",
-      "coordinates": "-0.796652, 29.28966"
+      "coordinates": "-0.796652, 29.28966",
+      "metar_available": false
     },
     {
       "ident": "FZOA",
@@ -2532,7 +2746,8 @@
       "municipality": "Kindu",
       "gps_code": "FZOA",
       "iata_code": "KND",
-      "coordinates": "-2.91917991638, 25.915399551399997"
+      "coordinates": "-2.91917991638, 25.915399551399997",
+      "metar_available": false
     },
     {
       "ident": "FZOB",
@@ -2544,7 +2759,8 @@
       "iso_region": "CD-MA",
       "municipality": "Tingi-Tingi",
       "gps_code": "FZOB",
-      "coordinates": "-0.7625, 26.609699"
+      "coordinates": "-0.7625, 26.609699",
+      "metar_available": false
     },
     {
       "ident": "FZOC",
@@ -2555,7 +2771,8 @@
       "iso_region": "CD-MA",
       "municipality": "Kalima",
       "gps_code": "FZOC",
-      "coordinates": "-2.55, 26.616667"
+      "coordinates": "-2.55, 26.616667",
+      "metar_available": false
     },
     {
       "ident": "FZOD",
@@ -2568,7 +2785,8 @@
       "municipality": "Kalima",
       "gps_code": "FZOD",
       "iata_code": "KLY",
-      "coordinates": "-2.578, 26.733999"
+      "coordinates": "-2.578, 26.733999",
+      "metar_available": false
     },
     {
       "ident": "FZOE",
@@ -2580,7 +2798,8 @@
       "iso_region": "CD-MA",
       "municipality": "Kampene",
       "gps_code": "FZOE",
-      "coordinates": "-3.593609, 26.703024"
+      "coordinates": "-3.593609, 26.703024",
+      "metar_available": false
     },
     {
       "ident": "FZOF",
@@ -2592,7 +2811,8 @@
       "iso_region": "CD-SK",
       "municipality": "Kiapupe",
       "gps_code": "FZOF",
-      "coordinates": "-2.9000000953674316, 27.299999237060547"
+      "coordinates": "-2.9000000953674316, 27.299999237060547",
+      "metar_available": false
     },
     {
       "ident": "FZOG",
@@ -2604,7 +2824,8 @@
       "iso_region": "CD-SK",
       "municipality": "Lulingu Tshionka",
       "gps_code": "FZOG",
-      "coordinates": "-2.316583, 27.526245"
+      "coordinates": "-2.316583, 27.526245",
+      "metar_available": false
     },
     {
       "ident": "FZOH",
@@ -2616,7 +2837,8 @@
       "iso_region": "CD-MA",
       "municipality": "Moga",
       "gps_code": "FZOH",
-      "coordinates": "-2.467, 26.799999"
+      "coordinates": "-2.467, 26.799999",
+      "metar_available": false
     },
     {
       "ident": "FZOJ",
@@ -2628,7 +2850,8 @@
       "iso_region": "CD-MA",
       "municipality": "Obokote",
       "gps_code": "FZOJ",
-      "coordinates": "-0.8500000238418579, 26.33300018310547"
+      "coordinates": "-0.8500000238418579, 26.33300018310547",
+      "metar_available": false
     },
     {
       "ident": "FZOK",
@@ -2640,7 +2863,8 @@
       "iso_region": "CD-MA",
       "municipality": "Kasongo",
       "gps_code": "FZOK",
-      "coordinates": "-4.524032, 26.60023"
+      "coordinates": "-4.524032, 26.60023",
+      "metar_available": false
     },
     {
       "ident": "FZOO",
@@ -2652,7 +2876,8 @@
       "iso_region": "CD-MA",
       "municipality": "Kailo",
       "gps_code": "FZOO",
-      "coordinates": "-2.633, 26.1"
+      "coordinates": "-2.633, 26.1",
+      "metar_available": false
     },
     {
       "ident": "FZOP",
@@ -2665,7 +2890,8 @@
       "municipality": "Punia",
       "gps_code": "FZOP",
       "iata_code": "PUN",
-      "coordinates": "-1.390698, 26.348146"
+      "coordinates": "-1.390698, 26.348146",
+      "metar_available": false
     },
     {
       "ident": "FZOQ",
@@ -2677,7 +2903,8 @@
       "iso_region": "CD-MA",
       "municipality": "Punia-Basenge",
       "gps_code": "FZOQ",
-      "coordinates": "-1.483139, 26.44018"
+      "coordinates": "-1.483139, 26.44018",
+      "metar_available": false
     },
     {
       "ident": "FZOR",
@@ -2689,7 +2916,8 @@
       "iso_region": "CD-MA",
       "municipality": "Saulia",
       "gps_code": "FZOR",
-      "coordinates": "-1.533, 26.533001"
+      "coordinates": "-1.533, 26.533001",
+      "metar_available": false
     },
     {
       "ident": "FZOS",
@@ -2701,7 +2929,8 @@
       "iso_region": "CD-MA",
       "municipality": "Kasese",
       "gps_code": "FZOS",
-      "coordinates": "-1.638378, 27.084326"
+      "coordinates": "-1.638378, 27.084326",
+      "metar_available": false
     },
     {
       "ident": "FZOT",
@@ -2713,7 +2942,8 @@
       "iso_region": "CD-SK",
       "municipality": "Phibraki",
       "gps_code": "FZOT",
-      "coordinates": "-2.933000087738037, 27.533000946044922"
+      "coordinates": "-2.933000087738037, 27.533000946044922",
+      "metar_available": false
     },
     {
       "ident": "FZPB",
@@ -2725,7 +2955,8 @@
       "iso_region": "CD-SK",
       "municipality": "Kamituga",
       "gps_code": "FZPB",
-      "coordinates": "-3.045631, 28.167955"
+      "coordinates": "-3.045631, 28.167955",
+      "metar_available": false
     },
     {
       "ident": "FZPC",
@@ -2737,7 +2968,8 @@
       "iso_region": "CD-SK",
       "municipality": "Lugushwa",
       "gps_code": "FZPC",
-      "coordinates": "-3.356858, 27.870898"
+      "coordinates": "-3.356858, 27.870898",
+      "metar_available": false
     },
     {
       "ident": "FZQA",
@@ -2750,7 +2982,8 @@
       "municipality": "Lubumbashi",
       "gps_code": "FZQA",
       "iata_code": "FBM",
-      "coordinates": "-11.5913000107, 27.5308990479"
+      "coordinates": "-11.5913000107, 27.5308990479",
+      "metar_available": false
     },
     {
       "ident": "FZQC",
@@ -2763,7 +2996,8 @@
       "municipality": "Pweto",
       "gps_code": "FZQC",
       "iata_code": "PWO",
-      "coordinates": "-8.400768, 28.926285"
+      "coordinates": "-8.400768, 28.926285",
+      "metar_available": false
     },
     {
       "ident": "FZQD",
@@ -2775,7 +3009,8 @@
       "iso_region": "CD-HK",
       "municipality": "Mulungwishi",
       "gps_code": "FZQD",
-      "coordinates": "-10.75, 26.632999420166016"
+      "coordinates": "-10.75, 26.632999420166016",
+      "metar_available": false
     },
     {
       "ident": "FZQF",
@@ -2787,7 +3022,8 @@
       "iso_region": "CD-LU",
       "municipality": "Fungurume",
       "gps_code": "FZQF",
-      "coordinates": "-10.530346, 26.325903"
+      "coordinates": "-10.530346, 26.325903",
+      "metar_available": false
     },
     {
       "ident": "FZQG",
@@ -2800,7 +3036,8 @@
       "municipality": "Kasenga",
       "gps_code": "FZQG",
       "iata_code": "KEC",
-      "coordinates": "-10.35, 28.632999"
+      "coordinates": "-10.35, 28.632999",
+      "metar_available": false
     },
     {
       "ident": "FZQH",
@@ -2812,7 +3049,8 @@
       "iso_region": "CD-HK",
       "municipality": "Katwe",
       "gps_code": "FZQH",
-      "coordinates": "-10.55, 27.85"
+      "coordinates": "-10.55, 27.85",
+      "metar_available": false
     },
     {
       "ident": "FZQI",
@@ -2823,7 +3061,8 @@
       "iso_country": "CD",
       "iso_region": "CD-HK",
       "municipality": "Kamatanda",
-      "coordinates": "-10.833, 26.75"
+      "coordinates": "-10.833, 26.75",
+      "metar_available": false
     },
     {
       "ident": "FZQJ",
@@ -2835,7 +3074,8 @@
       "iso_region": "CD-HK",
       "municipality": "Mwadingusha",
       "gps_code": "FZQJ",
-      "coordinates": "-10.756564, 27.215524"
+      "coordinates": "-10.756564, 27.215524",
+      "metar_available": false
     },
     {
       "ident": "FZQM",
@@ -2848,7 +3088,8 @@
       "municipality": "Kolwezi",
       "gps_code": "FZQM",
       "iata_code": "KWZ",
-      "coordinates": "-10.7659, 25.505699"
+      "coordinates": "-10.7659, 25.505699",
+      "metar_available": false
     },
     {
       "ident": "FZQN",
@@ -2860,7 +3101,8 @@
       "iso_region": "CD-LU",
       "municipality": "Mutshatsha",
       "gps_code": "FZQN",
-      "coordinates": "-10.56258, 24.416771"
+      "coordinates": "-10.56258, 24.416771",
+      "metar_available": false
     },
     {
       "ident": "FZQP",
@@ -2872,7 +3114,8 @@
       "iso_region": "CD-LU",
       "municipality": "Kisenge",
       "gps_code": "FZQP",
-      "coordinates": "-10.666955, 23.174243"
+      "coordinates": "-10.666955, 23.174243",
+      "metar_available": false
     },
     {
       "ident": "FZQU",
@@ -2884,7 +3127,8 @@
       "iso_region": "CD-HK",
       "municipality": "Lubudi",
       "gps_code": "FZQU",
-      "coordinates": "-9.933, 26"
+      "coordinates": "-9.933, 26",
+      "metar_available": false
     },
     {
       "ident": "FZQV",
@@ -2896,7 +3140,8 @@
       "iso_region": "CD-HK",
       "municipality": "Mitwaba",
       "gps_code": "FZQV",
-      "coordinates": "-8.645, 27.344999"
+      "coordinates": "-8.645, 27.344999",
+      "metar_available": false
     },
     {
       "ident": "FZRA",
@@ -2909,7 +3154,8 @@
       "municipality": "Manono",
       "gps_code": "FZRA",
       "iata_code": "MNO",
-      "coordinates": "-7.28889, 27.3944"
+      "coordinates": "-7.28889, 27.3944",
+      "metar_available": false
     },
     {
       "ident": "FZRB",
@@ -2922,7 +3168,8 @@
       "municipality": "Moba",
       "gps_code": "FZRB",
       "iata_code": "BDV",
-      "coordinates": "-7.08488, 29.737072"
+      "coordinates": "-7.08488, 29.737072",
+      "metar_available": false
     },
     {
       "ident": "FZRC",
@@ -2934,7 +3181,8 @@
       "iso_region": "CD-TA",
       "municipality": "Mukoy",
       "gps_code": "FZRC",
-      "coordinates": "-7.549181, 28.673115"
+      "coordinates": "-7.549181, 28.673115",
+      "metar_available": false
     },
     {
       "ident": "FZRE",
@@ -2946,7 +3194,8 @@
       "iso_region": "CD-HL",
       "municipality": "Bukena",
       "gps_code": "FZRE",
-      "coordinates": "-7.777828, 27.215881"
+      "coordinates": "-7.777828, 27.215881",
+      "metar_available": false
     },
     {
       "ident": "FZRF",
@@ -2959,7 +3208,8 @@
       "municipality": "Kalemie",
       "gps_code": "FZRF",
       "iata_code": "FMI",
-      "coordinates": "-5.87556, 29.25"
+      "coordinates": "-5.87556, 29.25",
+      "metar_available": false
     },
     {
       "ident": "FZRJ",
@@ -2971,7 +3221,8 @@
       "iso_region": "CD-TA",
       "municipality": "Pepa",
       "gps_code": "FZRJ",
-      "coordinates": "-7.717201, 29.809685"
+      "coordinates": "-7.717201, 29.809685",
+      "metar_available": false
     },
     {
       "ident": "FZRK",
@@ -2983,7 +3234,8 @@
       "iso_region": "CD-TA",
       "municipality": "Kansimba",
       "gps_code": "FZRK",
-      "coordinates": "-7.323646, 29.176683"
+      "coordinates": "-7.323646, 29.176683",
+      "metar_available": false
     },
     {
       "ident": "FZRL",
@@ -2995,7 +3247,8 @@
       "iso_region": "CD-HK",
       "municipality": "Lusinga",
       "gps_code": "FZRL",
-      "coordinates": "-8.933, 27.183001"
+      "coordinates": "-8.933, 27.183001",
+      "metar_available": false
     },
     {
       "ident": "FZRM",
@@ -3008,7 +3261,8 @@
       "municipality": "Kabalo",
       "gps_code": "FZRM",
       "iata_code": "KBO",
-      "coordinates": "-6.083, 26.917"
+      "coordinates": "-6.083, 26.917",
+      "metar_available": false
     },
     {
       "ident": "FZRN",
@@ -3020,7 +3274,8 @@
       "iso_region": "CD-TA",
       "municipality": "Nyunzu",
       "gps_code": "FZRN",
-      "coordinates": "-5.951063, 28.035564"
+      "coordinates": "-5.951063, 28.035564",
+      "metar_available": false
     },
     {
       "ident": "FZRO",
@@ -3032,7 +3287,8 @@
       "iso_region": "CD-HK",
       "municipality": "Katemesha",
       "gps_code": "FZRO",
-      "coordinates": "-7.927827, 28.527288"
+      "coordinates": "-7.927827, 28.527288",
+      "metar_available": false
     },
     {
       "ident": "FZRQ",
@@ -3045,7 +3301,8 @@
       "municipality": "Kongolo",
       "gps_code": "FZRQ",
       "iata_code": "KOO",
-      "coordinates": "-5.393898, 26.989932"
+      "coordinates": "-5.393898, 26.989932",
+      "metar_available": false
     },
     {
       "ident": "FZSA",
@@ -3057,7 +3314,8 @@
       "iso_region": "CD-HL",
       "municipality": "Lumwe",
       "gps_code": "FZSA",
-      "coordinates": "-8.64202, 25.252899"
+      "coordinates": "-8.64202, 25.252899",
+      "metar_available": false
     },
     {
       "ident": "FZSB",
@@ -3070,7 +3328,8 @@
       "municipality": "Kamina",
       "gps_code": "FZSB",
       "iata_code": "KMN",
-      "coordinates": "-8.728878, 24.991407"
+      "coordinates": "-8.728878, 24.991407",
+      "metar_available": false
     },
     {
       "ident": "FZSC",
@@ -3082,7 +3341,8 @@
       "iso_region": "CD-HL",
       "municipality": "Songa",
       "gps_code": "FZSC",
-      "coordinates": "-8.11293, 25.036898"
+      "coordinates": "-8.11293, 25.036898",
+      "metar_available": false
     },
     {
       "ident": "FZSD",
@@ -3094,7 +3354,8 @@
       "iso_region": "CD-LU",
       "municipality": "Sandoa",
       "gps_code": "FZSD",
-      "coordinates": "-9.715488, 22.929325"
+      "coordinates": "-9.715488, 22.929325",
+      "metar_available": false
     },
     {
       "ident": "FZSE",
@@ -3106,7 +3367,8 @@
       "iso_region": "CD-HL",
       "municipality": "Kanene",
       "gps_code": "FZSE",
-      "coordinates": "-9.360405, 24.683747"
+      "coordinates": "-9.360405, 24.683747",
+      "metar_available": false
     },
     {
       "ident": "FZSI",
@@ -3118,7 +3380,8 @@
       "iso_region": "CD-LU",
       "municipality": "Dilolo",
       "gps_code": "FZSI",
-      "coordinates": "-10.757847, 22.342672"
+      "coordinates": "-10.757847, 22.342672",
+      "metar_available": false
     },
     {
       "ident": "FZSJ",
@@ -3130,7 +3393,8 @@
       "iso_region": "CD-LU",
       "municipality": "Kasaji",
       "gps_code": "FZSJ",
-      "coordinates": "-10.371989, 23.42577"
+      "coordinates": "-10.371989, 23.42577",
+      "metar_available": false
     },
     {
       "ident": "FZSK",
@@ -3143,7 +3407,8 @@
       "municipality": "Kapanga",
       "gps_code": "FZSK",
       "iata_code": "KAP",
-      "coordinates": "-8.371157, 22.647457"
+      "coordinates": "-8.371157, 22.647457",
+      "metar_available": false
     },
     {
       "ident": "FZTK",
@@ -3156,7 +3421,8 @@
       "municipality": "Kaniama",
       "gps_code": "FZTK",
       "iata_code": "KNM",
-      "coordinates": "-7.599343, 24.158592"
+      "coordinates": "-7.599343, 24.158592",
+      "metar_available": false
     },
     {
       "ident": "FZTL",
@@ -3168,7 +3434,8 @@
       "iso_region": "CD-HL",
       "municipality": "Luena",
       "gps_code": "FZTL",
-      "coordinates": "-9.469211, 25.759335"
+      "coordinates": "-9.469211, 25.759335",
+      "metar_available": false
     },
     {
       "ident": "FZTS",
@@ -3180,7 +3447,8 @@
       "iso_region": "CD-HL",
       "municipality": "Kasese",
       "gps_code": "FZTS",
-      "coordinates": "-7.698494, 24.049416"
+      "coordinates": "-7.698494, 24.049416",
+      "metar_available": false
     },
     {
       "ident": "FZUA",
@@ -3193,7 +3461,8 @@
       "municipality": "Kananga",
       "gps_code": "FZUA",
       "iata_code": "KGA",
-      "coordinates": "-5.90005, 22.4692"
+      "coordinates": "-5.90005, 22.4692",
+      "metar_available": false
     },
     {
       "ident": "FZUG",
@@ -3206,7 +3475,8 @@
       "municipality": "Luiza",
       "gps_code": "FZUG",
       "iata_code": "LZA",
-      "coordinates": "-7.189971, 22.39254"
+      "coordinates": "-7.189971, 22.39254",
+      "metar_available": false
     },
     {
       "ident": "FZUH",
@@ -3218,7 +3488,8 @@
       "iso_region": "CD-KC",
       "municipality": "Moma",
       "gps_code": "FZUH",
-      "coordinates": "-7.235189, 22.608833"
+      "coordinates": "-7.235189, 22.608833",
+      "metar_available": false
     },
     {
       "ident": "FZUI",
@@ -3230,7 +3501,8 @@
       "iso_region": "CD-KC",
       "municipality": "Mboi",
       "gps_code": "FZUI",
-      "coordinates": "-6.841893, 22.008533"
+      "coordinates": "-6.841893, 22.008533",
+      "metar_available": false
     },
     {
       "ident": "FZUK",
@@ -3243,7 +3515,8 @@
       "municipality": "Tshikapa",
       "gps_code": "FZUK",
       "iata_code": "TSH",
-      "coordinates": "-6.43833, 20.794701"
+      "coordinates": "-6.43833, 20.794701",
+      "metar_available": false
     },
     {
       "ident": "FZUL",
@@ -3255,7 +3528,8 @@
       "iso_region": "CD-KS",
       "municipality": "Bulape",
       "gps_code": "FZUL",
-      "coordinates": "-4.617000102996826, 21.600000381469727"
+      "coordinates": "-4.617000102996826, 21.600000381469727",
+      "metar_available": false
     },
     {
       "ident": "FZUM",
@@ -3267,7 +3541,8 @@
       "iso_region": "CD-KE",
       "municipality": "Mutoto",
       "gps_code": "FZUM",
-      "coordinates": "-5.699999809265137, 23.716999053955078"
+      "coordinates": "-5.699999809265137, 23.716999053955078",
+      "metar_available": false
     },
     {
       "ident": "FZUN",
@@ -3279,7 +3554,8 @@
       "iso_region": "CD-KS",
       "municipality": "Luebo",
       "gps_code": "FZUN",
-      "coordinates": "-5.35, 21.333"
+      "coordinates": "-5.35, 21.333",
+      "metar_available": false
     },
     {
       "ident": "FZUO",
@@ -3291,7 +3567,8 @@
       "iso_region": "CD-KS",
       "municipality": "Musese",
       "gps_code": "FZUO",
-      "coordinates": "-5.5, 21.433001"
+      "coordinates": "-5.5, 21.433001",
+      "metar_available": false
     },
     {
       "ident": "FZUP",
@@ -3303,7 +3580,8 @@
       "iso_region": "CD-KS",
       "municipality": "Diboko",
       "gps_code": "FZUP",
-      "coordinates": "-7.00361, 21.2442"
+      "coordinates": "-7.00361, 21.2442",
+      "metar_available": false
     },
     {
       "ident": "FZUS",
@@ -3315,7 +3593,8 @@
       "iso_region": "CD-KC",
       "municipality": "Tshikaji",
       "gps_code": "FZUS",
-      "coordinates": "-5.977018, 22.457771"
+      "coordinates": "-5.977018, 22.457771",
+      "metar_available": false
     },
     {
       "ident": "FZUV",
@@ -3327,7 +3606,8 @@
       "iso_region": "CD-KS",
       "municipality": "Kalonda",
       "gps_code": "FZUV",
-      "coordinates": "-6.467, 20.799999"
+      "coordinates": "-6.467, 20.799999",
+      "metar_available": false
     },
     {
       "ident": "FZVA",
@@ -3340,7 +3620,8 @@
       "municipality": "Lodja",
       "gps_code": "FZVA",
       "iata_code": "LJA",
-      "coordinates": "-3.462745, 23.615162"
+      "coordinates": "-3.462745, 23.615162",
+      "metar_available": false
     },
     {
       "ident": "FZVC",
@@ -3352,7 +3633,8 @@
       "iso_region": "CD-SA",
       "municipality": "Kole Sur Lukenie",
       "gps_code": "FZVC",
-      "coordinates": "-3.419344, 22.516479"
+      "coordinates": "-3.419344, 22.516479",
+      "metar_available": false
     },
     {
       "ident": "FZVD",
@@ -3364,7 +3646,8 @@
       "iso_region": "CD-SA",
       "municipality": "Dingele",
       "gps_code": "FZVD",
-      "coordinates": "-3.609192, 24.569142"
+      "coordinates": "-3.609192, 24.569142",
+      "metar_available": false
     },
     {
       "ident": "FZVE",
@@ -3376,7 +3659,8 @@
       "iso_region": "CD-SA",
       "municipality": "Lomela",
       "gps_code": "FZVE",
-      "coordinates": "-2.290361, 23.35423"
+      "coordinates": "-2.290361, 23.35423",
+      "metar_available": false
     },
     {
       "ident": "FZVG",
@@ -3388,7 +3672,8 @@
       "iso_region": "CD-SA",
       "municipality": "Katako'kombe",
       "gps_code": "FZVG",
-      "coordinates": "-3.457053, 24.423637"
+      "coordinates": "-3.457053, 24.423637",
+      "metar_available": false
     },
     {
       "ident": "FZVH",
@@ -3400,7 +3685,8 @@
       "iso_region": "CD-KS",
       "municipality": "Shongamba",
       "gps_code": "FZVH",
-      "coordinates": "-4.349999904632568, 21.283000946044922"
+      "coordinates": "-4.349999904632568, 21.283000946044922",
+      "metar_available": false
     },
     {
       "ident": "FZVI",
@@ -3413,7 +3699,8 @@
       "municipality": "Lusambo",
       "gps_code": "FZVI",
       "iata_code": "LBO",
-      "coordinates": "-4.96167, 23.3783"
+      "coordinates": "-4.96167, 23.3783",
+      "metar_available": false
     },
     {
       "ident": "FZVJ",
@@ -3425,7 +3712,8 @@
       "iso_region": "CD-SA",
       "municipality": "Tshumbe",
       "gps_code": "FZVJ",
-      "coordinates": "-4.039285, 24.365616"
+      "coordinates": "-4.039285, 24.365616",
+      "metar_available": false
     },
     {
       "ident": "FZVK",
@@ -3437,7 +3725,8 @@
       "iso_region": "CD-KS",
       "municipality": "Lukombe-Batwa",
       "gps_code": "FZVK",
-      "coordinates": "-4.333000183105469, 22.08300018310547"
+      "coordinates": "-4.333000183105469, 22.08300018310547",
+      "metar_available": false
     },
     {
       "ident": "FZVM",
@@ -3450,7 +3739,8 @@
       "municipality": "Mweka",
       "gps_code": "FZVM",
       "iata_code": "MEW",
-      "coordinates": "-4.855027, 21.541786"
+      "coordinates": "-4.855027, 21.541786",
+      "metar_available": false
     },
     {
       "ident": "FZVN",
@@ -3462,7 +3752,8 @@
       "iso_region": "CD-SA",
       "municipality": "Wembo-Nyama",
       "gps_code": "FZVN",
-      "coordinates": "-4.122406, 24.511399"
+      "coordinates": "-4.122406, 24.511399",
+      "metar_available": false
     },
     {
       "ident": "FZVO",
@@ -3474,7 +3765,8 @@
       "iso_region": "CD-SA",
       "municipality": "Bena-Dibele",
       "gps_code": "FZVO",
-      "coordinates": "-4.072623, 22.841091"
+      "coordinates": "-4.072623, 22.841091",
+      "metar_available": false
     },
     {
       "ident": "FZVP",
@@ -3486,7 +3778,8 @@
       "iso_region": "CD-SA",
       "municipality": "Dikungu",
       "gps_code": "FZVP",
-      "coordinates": "-4.03953, 24.470501"
+      "coordinates": "-4.03953, 24.470501",
+      "metar_available": false
     },
     {
       "ident": "FZVR",
@@ -3499,7 +3792,8 @@
       "municipality": "Basongo",
       "gps_code": "FZVR",
       "iata_code": "BAN",
-      "coordinates": "-4.315802, 20.414891"
+      "coordinates": "-4.315802, 20.414891",
+      "metar_available": false
     },
     {
       "ident": "FZVS",
@@ -3512,7 +3806,8 @@
       "municipality": "Ilebo",
       "gps_code": "FZVS",
       "iata_code": "PFR",
-      "coordinates": "-4.329919, 20.590124"
+      "coordinates": "-4.329919, 20.590124",
+      "metar_available": false
     },
     {
       "ident": "FZVT",
@@ -3524,7 +3819,8 @@
       "iso_region": "CD-KS",
       "municipality": "Dekese",
       "gps_code": "FZVT",
-      "coordinates": "-3.50612, 21.409121"
+      "coordinates": "-3.50612, 21.409121",
+      "metar_available": false
     },
     {
       "ident": "FZVU",
@@ -3536,7 +3832,8 @@
       "iso_region": "CD-KS",
       "municipality": "Idumbe",
       "gps_code": "FZVU",
-      "coordinates": "-3.917, 21.583"
+      "coordinates": "-3.917, 21.583",
+      "metar_available": false
     },
     {
       "ident": "FZWA",
@@ -3549,7 +3846,8 @@
       "municipality": "Mbuji Mayi",
       "gps_code": "FZWA",
       "iata_code": "MJM",
-      "coordinates": "-6.121240139010001, 23.569000244099996"
+      "coordinates": "-6.121240139010001, 23.569000244099996",
+      "metar_available": false
     },
     {
       "ident": "FZWB",
@@ -3561,7 +3859,8 @@
       "iso_region": "CD-KE",
       "municipality": "Bibanga",
       "gps_code": "FZWB",
-      "coordinates": "-6.25336, 23.945979"
+      "coordinates": "-6.25336, 23.945979",
+      "metar_available": false
     },
     {
       "ident": "FZWE",
@@ -3573,7 +3872,8 @@
       "iso_region": "CD-LO",
       "municipality": "Mwene-Ditu",
       "gps_code": "FZWE",
-      "coordinates": "-6.980742, 23.434739"
+      "coordinates": "-6.980742, 23.434739",
+      "metar_available": false
     },
     {
       "ident": "FZWF",
@@ -3585,7 +3885,8 @@
       "iso_region": "CD-LO",
       "municipality": "Kipushi",
       "gps_code": "FZWF",
-      "coordinates": "-6.136394, 25.159314"
+      "coordinates": "-6.136394, 25.159314",
+      "metar_available": false
     },
     {
       "ident": "FZWI",
@@ -3597,7 +3898,8 @@
       "iso_region": "CD-LO",
       "municipality": "Kashia",
       "gps_code": "FZWI",
-      "coordinates": "-7.22216, 23.758707"
+      "coordinates": "-7.22216, 23.758707",
+      "metar_available": false
     },
     {
       "ident": "FZWL",
@@ -3609,7 +3911,8 @@
       "iso_region": "CD-KC",
       "municipality": "Munkamba",
       "gps_code": "FZWL",
-      "coordinates": "-5.760603, 23.05584"
+      "coordinates": "-5.760603, 23.05584",
+      "metar_available": false
     },
     {
       "ident": "FZWS",
@@ -3621,7 +3924,8 @@
       "iso_region": "CD-LO",
       "municipality": "Lubao",
       "gps_code": "FZWS",
-      "coordinates": "-5.389327, 25.743198"
+      "coordinates": "-5.389327, 25.743198",
+      "metar_available": false
     },
     {
       "ident": "FZWT",
@@ -3634,7 +3938,8 @@
       "municipality": "Kabinda",
       "gps_code": "FZWT",
       "iata_code": "KBN",
-      "coordinates": "-6.120761, 24.546204"
+      "coordinates": "-6.120761, 24.546204",
+      "metar_available": false
     },
     {
       "ident": "KIL",
@@ -3646,7 +3951,8 @@
       "iso_region": "CD-HK",
       "municipality": "Kilwa",
       "iata_code": "KIL",
-      "coordinates": "-9.2886, 28.3269"
+      "coordinates": "-9.2886, 28.3269",
+      "metar_available": false
     }
   ]
 }

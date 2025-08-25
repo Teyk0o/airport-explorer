@@ -2,7 +2,7 @@
   "country_code": "GP",
   "country_name": "Guadeloupe",
   "total_airports": 10,
-  "last_updated": "2025-08-01T00:18:22.737337",
+  "last_updated": "2025-08-25T10:08:40.882826",
   "types_distribution": {
     "heliport": 1,
     "seaplane_base": 3,
@@ -19,7 +19,8 @@
       "iso_country": "GP",
       "iso_region": "GP-U-A",
       "municipality": "Les Abymes",
-      "coordinates": "16.23614, -61.52393"
+      "coordinates": "16.23614, -61.52393",
+      "metar_available": false
     },
     {
       "ident": "GP-0002",
@@ -28,7 +29,8 @@
       "iso_country": "GP",
       "iso_region": "GP-U-A",
       "municipality": "Le Gosier",
-      "coordinates": "16.20949, -61.50821"
+      "coordinates": "16.20949, -61.50821",
+      "metar_available": false
     },
     {
       "ident": "GP-0003",
@@ -38,7 +40,8 @@
       "iso_country": "GP",
       "iso_region": "GP-U-A",
       "municipality": "Sainte Rose",
-      "coordinates": "16.336078, -61.701279"
+      "coordinates": "16.336078, -61.701279",
+      "metar_available": false
     },
     {
       "ident": "GP-0004",
@@ -48,7 +51,8 @@
       "iso_country": "GP",
       "iso_region": "GP-U-A",
       "municipality": "Grande-Terre",
-      "coordinates": "16.211667, -61.512778"
+      "coordinates": "16.211667, -61.512778",
+      "metar_available": false
     },
     {
       "ident": "TFFA",
@@ -60,7 +64,8 @@
       "municipality": "Grande Anse",
       "gps_code": "TFFA",
       "iata_code": "DSD",
-      "coordinates": "16.296902, -61.0844"
+      "coordinates": "16.296902, -61.0844",
+      "metar_available": false
     },
     {
       "ident": "TFFB",
@@ -72,7 +77,8 @@
       "municipality": "Basse-Terre",
       "gps_code": "TFFB",
       "iata_code": "BBR",
-      "coordinates": "16.013648, -61.742928"
+      "coordinates": "16.013648, -61.742928",
+      "metar_available": false
     },
     {
       "ident": "TFFC",
@@ -84,7 +90,8 @@
       "municipality": "St-François",
       "gps_code": "TFFC",
       "iata_code": "SFC",
-      "coordinates": "16.257799, -61.262501"
+      "coordinates": "16.257799, -61.262501",
+      "metar_available": false
     },
     {
       "ident": "TFFM",
@@ -96,7 +103,8 @@
       "municipality": "Grand-Bourg",
       "gps_code": "TFFM",
       "iata_code": "GBJ",
-      "coordinates": "15.868925, -61.270087"
+      "coordinates": "15.868925, -61.270087",
+      "metar_available": false
     },
     {
       "ident": "TFFR",
@@ -108,7 +116,8 @@
       "municipality": "Pointe-à-Pitre",
       "gps_code": "TFFR",
       "iata_code": "PTP",
-      "coordinates": "16.265301, -61.531799"
+      "coordinates": "16.265301, -61.531799",
+      "metar_available": false
     },
     {
       "ident": "TFFS",
@@ -120,7 +129,8 @@
       "municipality": "Les Saintes",
       "gps_code": "TFFS",
       "iata_code": "LSS",
-      "coordinates": "15.86439991, -61.5806007385"
+      "coordinates": "15.86439991, -61.5806007385",
+      "metar_available": false
     }
   ]
 }

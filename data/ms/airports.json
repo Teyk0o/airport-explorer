@@ -2,7 +2,7 @@
   "country_code": "MS",
   "country_name": "Montserrat",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.829294",
+  "last_updated": "2025-08-25T10:08:40.983862",
   "types_distribution": {
     "closed": 1,
     "medium_airport": 1
@@ -16,7 +16,8 @@
       "iso_country": "MS",
       "iso_region": "MS-SG",
       "municipality": "Trants",
-      "coordinates": "16.7589, -62.156399"
+      "coordinates": "16.7589, -62.156399",
+      "metar_available": false
     },
     {
       "ident": "TRPG",
@@ -28,7 +29,8 @@
       "municipality": "Gerald's Park",
       "gps_code": "TRPG",
       "iata_code": "MNI",
-      "coordinates": "16.791401, -62.193298"
+      "coordinates": "16.791401, -62.193298",
+      "metar_available": false
     }
   ]
 }

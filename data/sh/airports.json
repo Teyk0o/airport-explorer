@@ -2,7 +2,7 @@
   "country_code": "SH",
   "country_name": "Saint Helena",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.710438",
+  "last_updated": "2025-08-25T10:08:40.853901",
   "types_distribution": {
     "medium_airport": 1,
     "small_airport": 1,
@@ -20,7 +20,8 @@
       "municipality": "Cat Hill",
       "gps_code": "FHAW",
       "iata_code": "ASI",
-      "coordinates": "-7.9696, -14.3937"
+      "coordinates": "-7.9696, -14.3937",
+      "metar_available": false
     },
     {
       "ident": "FHSH",
@@ -33,7 +34,8 @@
       "municipality": "Longwood",
       "gps_code": "FHSH",
       "iata_code": "HLE",
-      "coordinates": "-15.957725, -5.645943"
+      "coordinates": "-15.957725, -5.645943",
+      "metar_available": false
     },
     {
       "ident": "SH-0001",
@@ -45,7 +47,8 @@
       "municipality": "Gough Island",
       "gps_code": "FAGE",
       "local_code": "FHGH",
-      "coordinates": "-40.347933, -9.881306"
+      "coordinates": "-40.347933, -9.881306",
+      "metar_available": false
     },
     {
       "ident": "SH-0002",
@@ -55,7 +58,8 @@
       "iso_country": "SH",
       "iso_region": "SH-SH",
       "municipality": "Longwood",
-      "coordinates": "-15.960775, -5.654768"
+      "coordinates": "-15.960775, -5.654768",
+      "metar_available": false
     }
   ]
 }

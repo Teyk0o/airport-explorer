@@ -2,7 +2,7 @@
   "country_code": "MR",
   "country_name": "Mauritania",
   "total_airports": 34,
-  "last_updated": "2025-08-01T00:18:22.737636",
+  "last_updated": "2025-08-25T10:08:40.883125",
   "types_distribution": {
     "small_airport": 22,
     "large_airport": 1,
@@ -22,7 +22,8 @@
       "municipality": "Aioun El Atrouss",
       "gps_code": "GQNA",
       "iata_code": "AEO",
-      "coordinates": "16.711299896240234, -9.637880325317383"
+      "coordinates": "16.711299896240234, -9.637880325317383",
+      "metar_available": false
     },
     {
       "ident": "GQNB",
@@ -35,7 +36,8 @@
       "municipality": "Boutilimit",
       "gps_code": "GQNB",
       "iata_code": "OTL",
-      "coordinates": "17.52832, -14.71412"
+      "coordinates": "17.52832, -14.71412",
+      "metar_available": false
     },
     {
       "ident": "GQNC",
@@ -48,7 +50,8 @@
       "municipality": "Tichitt",
       "gps_code": "GQNC",
       "iata_code": "THI",
-      "coordinates": "18.433942, -9.486411"
+      "coordinates": "18.433942, -9.486411",
+      "metar_available": false
     },
     {
       "ident": "GQND",
@@ -61,7 +64,8 @@
       "municipality": "Tidjikja",
       "gps_code": "GQND",
       "iata_code": "TIY",
-      "coordinates": "18.570101, -11.4235"
+      "coordinates": "18.570101, -11.4235",
+      "metar_available": false
     },
     {
       "ident": "GQNE",
@@ -74,7 +78,8 @@
       "municipality": "Boghe",
       "gps_code": "GQNE",
       "iata_code": "BGH",
-      "coordinates": "16.63331413269043, -14.200000762939453"
+      "coordinates": "16.63331413269043, -14.200000762939453",
+      "metar_available": false
     },
     {
       "ident": "GQNF",
@@ -87,7 +92,8 @@
       "municipality": "Kiffa",
       "gps_code": "GQNF",
       "iata_code": "KFA",
-      "coordinates": "16.59, -11.4062"
+      "coordinates": "16.59, -11.4062",
+      "metar_available": false
     },
     {
       "ident": "GQNH",
@@ -100,7 +106,8 @@
       "municipality": "Timbedra",
       "gps_code": "GQNH",
       "iata_code": "TMD",
-      "coordinates": "16.233671, -8.163464"
+      "coordinates": "16.233671, -8.163464",
+      "metar_available": false
     },
     {
       "ident": "GQNI",
@@ -113,7 +120,8 @@
       "municipality": "Néma",
       "gps_code": "GQNI",
       "iata_code": "EMN",
-      "coordinates": "16.622, -7.3166"
+      "coordinates": "16.622, -7.3166",
+      "metar_available": false
     },
     {
       "ident": "GQNJ",
@@ -126,7 +134,8 @@
       "municipality": "Akjoujt",
       "gps_code": "GQNJ",
       "iata_code": "AJJ",
-      "coordinates": "19.727998, -14.377214"
+      "coordinates": "19.727998, -14.377214",
+      "metar_available": false
     },
     {
       "ident": "GQNK",
@@ -139,7 +148,8 @@
       "municipality": "Kaédi",
       "gps_code": "GQNK",
       "iata_code": "KED",
-      "coordinates": "16.1595, -13.5076"
+      "coordinates": "16.1595, -13.5076",
+      "metar_available": false
     },
     {
       "ident": "GQNL",
@@ -152,7 +162,8 @@
       "municipality": "Moudjeria",
       "gps_code": "GQNL",
       "iata_code": "MOM",
-      "coordinates": "17.75, -12.5"
+      "coordinates": "17.75, -12.5",
+      "metar_available": false
     },
     {
       "ident": "GQNM",
@@ -164,7 +175,8 @@
       "iso_region": "MR-01",
       "municipality": "Timbreda",
       "gps_code": "GQNM",
-      "coordinates": "16.299999237060547, -8.050000190734863"
+      "coordinates": "16.299999237060547, -8.050000190734863",
+      "metar_available": false
     },
     {
       "ident": "GQNO",
@@ -177,7 +189,8 @@
       "municipality": "Nouakchott",
       "gps_code": "GQNO",
       "iata_code": "NKC",
-      "coordinates": "18.31, -15.969722"
+      "coordinates": "18.31, -15.969722",
+      "metar_available": false
     },
     {
       "ident": "GQNS",
@@ -190,7 +203,8 @@
       "municipality": "Sélibaby",
       "gps_code": "GQNS",
       "iata_code": "SEY",
-      "coordinates": "15.179699897766113, -12.207300186157227"
+      "coordinates": "15.179699897766113, -12.207300186157227",
+      "metar_available": false
     },
     {
       "ident": "GQNT",
@@ -203,7 +217,8 @@
       "municipality": "Tamchakett",
       "gps_code": "GQNT",
       "iata_code": "THT",
-      "coordinates": "17.23157, -10.77923"
+      "coordinates": "17.23157, -10.77923",
+      "metar_available": false
     },
     {
       "ident": "GQPA",
@@ -216,7 +231,8 @@
       "municipality": "Atar",
       "gps_code": "GQPA",
       "iata_code": "ATR",
-      "coordinates": "20.506799697875977, -13.04319953918457"
+      "coordinates": "20.506799697875977, -13.04319953918457",
+      "metar_available": false
     },
     {
       "ident": "GQPF",
@@ -229,7 +245,8 @@
       "municipality": "Fderik",
       "gps_code": "GQPF",
       "iata_code": "FGD",
-      "coordinates": "22.673551, -12.729262"
+      "coordinates": "22.673551, -12.729262",
+      "metar_available": false
     },
     {
       "ident": "GQPP",
@@ -242,7 +259,8 @@
       "municipality": "Nouadhibou",
       "gps_code": "GQPP",
       "iata_code": "NDB",
-      "coordinates": "20.9330997467041, -17.030000686645508"
+      "coordinates": "20.9330997467041, -17.030000686645508",
+      "metar_available": false
     },
     {
       "ident": "GQPT",
@@ -254,7 +272,8 @@
       "iso_region": "MR-11",
       "municipality": "Bir Moghrein",
       "gps_code": "GQPT",
-      "coordinates": "25.183531, -11.609001"
+      "coordinates": "25.183531, -11.609001",
+      "metar_available": false
     },
     {
       "ident": "GQPZ",
@@ -267,7 +286,8 @@
       "municipality": "Zouérate",
       "gps_code": "GQPZ",
       "iata_code": "OUZ",
-      "coordinates": "22.757345, -12.482228"
+      "coordinates": "22.757345, -12.482228",
+      "metar_available": false
     },
     {
       "ident": "MR-0001",
@@ -278,7 +298,8 @@
       "iso_country": "MR",
       "iso_region": "MR-01",
       "municipality": "Néma",
-      "coordinates": "16.6057, -7.2835"
+      "coordinates": "16.6057, -7.2835",
+      "metar_available": false
     },
     {
       "ident": "MR-0002",
@@ -289,7 +310,8 @@
       "iso_country": "MR",
       "iso_region": "MR-03",
       "municipality": "Bou Gara",
-      "coordinates": "16.5334, -10.7912"
+      "coordinates": "16.5334, -10.7912",
+      "metar_available": false
     },
     {
       "ident": "MR-0003",
@@ -300,7 +322,8 @@
       "iso_country": "MR",
       "iso_region": "MR-11",
       "municipality": "Bir Moghrein",
-      "coordinates": "25.23513, -11.58825"
+      "coordinates": "25.23513, -11.58825",
+      "metar_available": false
     },
     {
       "ident": "MR-0004",
@@ -311,7 +334,8 @@
       "iso_country": "MR",
       "iso_region": "MR-11",
       "municipality": "Twajeel",
-      "coordinates": "22.16864, -12.68248"
+      "coordinates": "22.16864, -12.68248",
+      "metar_available": false
     },
     {
       "ident": "MR-0005",
@@ -322,7 +346,8 @@
       "iso_country": "MR",
       "iso_region": "MR-12",
       "municipality": "Taziazet",
-      "coordinates": "20.58434, -15.47742"
+      "coordinates": "20.58434, -15.47742",
+      "metar_available": false
     },
     {
       "ident": "MR-0006",
@@ -333,7 +358,8 @@
       "iso_country": "MR",
       "iso_region": "MR-01",
       "municipality": "Bassikounou",
-      "coordinates": "15.8872, -5.91618"
+      "coordinates": "15.8872, -5.91618",
+      "metar_available": false
     },
     {
       "ident": "MR-0007",
@@ -344,7 +370,8 @@
       "iso_country": "MR",
       "iso_region": "MR-01",
       "municipality": "Fassala",
-      "coordinates": "15.55045, -5.51966"
+      "coordinates": "15.55045, -5.51966",
+      "metar_available": false
     },
     {
       "ident": "MR-0008",
@@ -355,7 +382,8 @@
       "iso_country": "MR",
       "iso_region": "MR-01",
       "municipality": "Bassikounou",
-      "coordinates": "15.88407, -5.92856"
+      "coordinates": "15.88407, -5.92856",
+      "metar_available": false
     },
     {
       "ident": "MR-0009",
@@ -367,7 +395,8 @@
       "iso_region": "MR-06",
       "municipality": "Rosso",
       "gps_code": "GQNR",
-      "coordinates": "16.547614, -15.790227"
+      "coordinates": "16.547614, -15.790227",
+      "metar_available": false
     },
     {
       "ident": "MR-0010",
@@ -377,7 +406,8 @@
       "iso_country": "MR",
       "iso_region": "MR-07",
       "municipality": "Choum",
-      "coordinates": "21.30503, -13.0665"
+      "coordinates": "21.30503, -13.0665",
+      "metar_available": false
     },
     {
       "ident": "MR-0011",
@@ -387,7 +417,8 @@
       "iso_country": "MR",
       "iso_region": "MR-05",
       "municipality": "Aleg",
-      "coordinates": "17.06862, -13.9084"
+      "coordinates": "17.06862, -13.9084",
+      "metar_available": false
     },
     {
       "ident": "MR-0012",
@@ -398,7 +429,8 @@
       "iso_country": "MR",
       "iso_region": "MR-11",
       "municipality": "Chegga",
-      "coordinates": "25.365756, -5.74055"
+      "coordinates": "25.365756, -5.74055",
+      "metar_available": false
     },
     {
       "ident": "MR-0013",
@@ -409,7 +441,8 @@
       "iso_country": "MR",
       "iso_region": "MR-NKC",
       "municipality": "Nouakchott",
-      "coordinates": "18.09754, -15.948222"
+      "coordinates": "18.09754, -15.948222",
+      "metar_available": false
     },
     {
       "ident": "MR-0014",
@@ -420,7 +453,8 @@
       "iso_country": "MR",
       "iso_region": "MR-07",
       "municipality": "Chinguetti",
-      "coordinates": "20.5055, -12.3978"
+      "coordinates": "20.5055, -12.3978",
+      "metar_available": false
     }
   ]
 }
