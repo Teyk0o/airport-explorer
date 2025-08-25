@@ -119,6 +119,20 @@ class AirportDataUpdater:
     def process_airports(self, df: pd.DataFrame) -> None:
         print("\nProcessing airports...")
 
+        # Only keep airports that are likely to be enrichable. This avoids
+        # iterating over the ~82k world airports when only a small subset is
+        # actually supported by AirportDB.
+        enrichable = df[
+            df['iso_country'].isin(WESTERN_EUROPE)
+            & df['type'].isin(PRIORITIZED_TYPES)
+        ].copy()
+
+        if enrichable.empty:
+            print("No enrichable airports found")
+            return
+
+        self.total_airports = len(enrichable)
+
         possible_columns = [
             'ident', 'type', 'name', 'elevation_ft', 'continent',
             'iso_country', 'iso_region', 'municipality', 'gps_code',
@@ -127,37 +141,27 @@ class AirportDataUpdater:
 
         pbar = tqdm(total=self.total_airports, desc="Processing airports")
 
-        if 'continent' in df.columns:
+        if 'continent' in enrichable.columns:
             unique_countries = (
-                df[['iso_country', 'continent']]
+                enrichable[['iso_country', 'continent']]
                 .dropna(subset=['iso_country'])
                 .drop_duplicates()
             )
         else:
             unique_countries = (
-                df[['iso_country']]
+                enrichable[['iso_country']]
                 .dropna()
                 .drop_duplicates()
             )
             unique_countries['continent'] = None
-        western = [c for c in unique_countries['iso_country'] if c in WESTERN_EUROPE]
-        rest_europe = [
-            row.iso_country
-            for row in unique_countries.itertuples(index=False)
-            if row.continent == 'EU' and row.iso_country not in WESTERN_EUROPE
-        ]
-        us = [c for c in unique_countries['iso_country'] if c == 'US']
-        others = [
-            c for c in unique_countries['iso_country']
-            if c not in set(western + rest_europe + us)
-        ]
-        ordered_countries = western + rest_europe + us + others
+
+        ordered_countries = list(unique_countries['iso_country'])
 
         for country in ordered_countries:
             if pd.isna(country):
                 continue
 
-            country_data = df[df['iso_country'] == country]
+            country_data = enrichable[enrichable['iso_country'] == country]
             country_dir = self.data_dir / country.lower()
             existing_airports = {}
             country_file = country_dir / 'airports.json'
