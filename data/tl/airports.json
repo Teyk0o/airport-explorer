@@ -2,7 +2,7 @@
   "country_code": "TL",
   "country_name": "East Timor",
   "total_airports": 14,
-  "last_updated": "2025-08-01T00:18:22.759400",
+  "last_updated": "2025-08-25T10:08:40.906877",
   "types_distribution": {
     "heliport": 2,
     "small_airport": 7,
@@ -19,7 +19,8 @@
       "iso_country": "TL",
       "iso_region": "TL-DI",
       "municipality": "Dili",
-      "coordinates": "-8.54854011536, 125.519996643"
+      "coordinates": "-8.54854011536, 125.519996643",
+      "metar_available": false
     },
     {
       "ident": "ID-KCI",
@@ -30,7 +31,8 @@
       "iso_country": "TL",
       "iso_region": "TL-LA",
       "municipality": "Com",
-      "coordinates": "-8.349193, 127.050793"
+      "coordinates": "-8.349193, 127.050793",
+      "metar_available": false
     },
     {
       "ident": "TL-0001",
@@ -40,7 +42,8 @@
       "iso_country": "TL",
       "iso_region": "TL-LA",
       "municipality": "Lospalos",
-      "coordinates": "-8.455563, 126.975861"
+      "coordinates": "-8.455563, 126.975861",
+      "metar_available": false
     },
     {
       "ident": "TL-0002",
@@ -50,7 +53,8 @@
       "iso_country": "TL",
       "iso_region": "TL-LA",
       "municipality": "Lori",
-      "coordinates": "-8.670092, 127.022542"
+      "coordinates": "-8.670092, 127.022542",
+      "metar_available": false
     },
     {
       "ident": "WPAT",
@@ -63,7 +67,8 @@
       "municipality": "Vila",
       "gps_code": "WPAT",
       "iata_code": "AUT",
-      "coordinates": "-8.243133, 125.606378"
+      "coordinates": "-8.243133, 125.606378",
+      "metar_available": false
     },
     {
       "ident": "WPDB",
@@ -76,7 +81,8 @@
       "municipality": "Suai",
       "gps_code": "WPDB",
       "iata_code": "UAI",
-      "coordinates": "-9.30331039428711, 125.28700256347656"
+      "coordinates": "-9.30331039428711, 125.28700256347656",
+      "metar_available": false
     },
     {
       "ident": "WPDH",
@@ -87,7 +93,8 @@
       "iso_region": "TL-DI",
       "municipality": "Dili",
       "gps_code": "WPDH",
-      "coordinates": "-8.55900001526, 125.537002563"
+      "coordinates": "-8.55900001526, 125.537002563",
+      "metar_available": false
     },
     {
       "ident": "WPDL",
@@ -100,7 +107,8 @@
       "municipality": "Dili",
       "gps_code": "WPDL",
       "iata_code": "DIL",
-      "coordinates": "-8.546562, 125.524507"
+      "coordinates": "-8.546562, 125.524507",
+      "metar_available": false
     },
     {
       "ident": "WPEC",
@@ -113,7 +121,8 @@
       "municipality": "Baucau",
       "gps_code": "WPEC",
       "iata_code": "BCH",
-      "coordinates": "-8.486479, 126.399981"
+      "coordinates": "-8.486479, 126.399981",
+      "metar_available": false
     },
     {
       "ident": "WPFL",
@@ -125,7 +134,8 @@
       "iso_region": "TL-LA",
       "municipality": "Fuiloro",
       "gps_code": "WPFL",
-      "coordinates": "-8.447964, 126.987362"
+      "coordinates": "-8.447964, 126.987362",
+      "metar_available": false
     },
     {
       "ident": "WPMN",
@@ -137,7 +147,8 @@
       "municipality": "Maliana",
       "gps_code": "WPMN",
       "iata_code": "MPT",
-      "coordinates": "-8.97224, 125.214996"
+      "coordinates": "-8.97224, 125.214996",
+      "metar_available": false
     },
     {
       "ident": "WPOC",
@@ -149,7 +160,8 @@
       "municipality": "Oecussi-Ambeno",
       "gps_code": "WPOC",
       "iata_code": "OEC",
-      "coordinates": "-9.19806, 124.343002"
+      "coordinates": "-9.19806, 124.343002",
+      "metar_available": false
     },
     {
       "ident": "WPSM",
@@ -160,7 +172,8 @@
       "iso_country": "TL",
       "iso_region": "TL-MF",
       "gps_code": "WPSM",
-      "coordinates": "-9.000988, 125.683942"
+      "coordinates": "-9.000988, 125.683942",
+      "metar_available": false
     },
     {
       "ident": "WPVQ",
@@ -173,7 +186,8 @@
       "municipality": "Viqueque",
       "gps_code": "WPVQ",
       "iata_code": "VIQ",
-      "coordinates": "-8.88379955291748, 126.37300109863281"
+      "coordinates": "-8.88379955291748, 126.37300109863281",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "SL",
   "country_name": "Sierra Leone",
   "total_airports": 12,
-  "last_updated": "2025-08-01T00:18:22.735415",
+  "last_updated": "2025-08-25T10:08:40.880755",
   "types_distribution": {
     "medium_airport": 3,
     "small_airport": 4,
@@ -22,7 +22,8 @@
       "municipality": "Bo",
       "gps_code": "GFBO",
       "iata_code": "KBS",
-      "coordinates": "7.9444, -11.761"
+      "coordinates": "7.9444, -11.761",
+      "metar_available": false
     },
     {
       "ident": "GFGK",
@@ -35,7 +36,8 @@
       "municipality": "Gbangbatok",
       "gps_code": "GFGK",
       "iata_code": "GBK",
-      "coordinates": "7.812535, -12.377815"
+      "coordinates": "7.812535, -12.377815",
+      "metar_available": false
     },
     {
       "ident": "GFHA",
@@ -48,7 +50,8 @@
       "municipality": "Freetown",
       "gps_code": "GFHA",
       "iata_code": "HGS",
-      "coordinates": "8.394348, -13.128891"
+      "coordinates": "8.394348, -13.128891",
+      "metar_available": false
     },
     {
       "ident": "GFKB",
@@ -61,7 +64,8 @@
       "municipality": "Kabala",
       "gps_code": "GFKB",
       "iata_code": "KBA",
-      "coordinates": "9.638322913429999, -11.5155601501"
+      "coordinates": "9.638322913429999, -11.5155601501",
+      "metar_available": false
     },
     {
       "ident": "GFKE",
@@ -74,7 +78,8 @@
       "municipality": "Kenema",
       "gps_code": "GFKE",
       "iata_code": "KEN",
-      "coordinates": "7.896364, -11.174126"
+      "coordinates": "7.896364, -11.174126",
+      "metar_available": false
     },
     {
       "ident": "GFLL",
@@ -87,7 +92,8 @@
       "municipality": "Freetown (Lungi-Town)",
       "gps_code": "GFLL",
       "iata_code": "FNA",
-      "coordinates": "8.61644, -13.1955"
+      "coordinates": "8.61644, -13.1955",
+      "metar_available": false
     },
     {
       "ident": "GFTO",
@@ -99,7 +105,8 @@
       "iso_region": "SL-E",
       "municipality": "Tongo",
       "gps_code": "GFTO",
-      "coordinates": "8.217000007629395, -11.067000389099121"
+      "coordinates": "8.217000007629395, -11.067000389099121",
+      "metar_available": false
     },
     {
       "ident": "GFYE",
@@ -112,7 +119,8 @@
       "municipality": "Yengema",
       "gps_code": "GFYE",
       "iata_code": "WYE",
-      "coordinates": "8.61047, -11.0454"
+      "coordinates": "8.61047, -11.0454",
+      "metar_available": false
     },
     {
       "ident": "SL-0001",
@@ -122,7 +130,8 @@
       "iso_country": "SL",
       "iso_region": "SL-W",
       "local_code": "JMY",
-      "coordinates": "8.49231124864, -13.2884573936"
+      "coordinates": "8.49231124864, -13.2884573936",
+      "metar_available": false
     },
     {
       "ident": "SL-0002",
@@ -132,7 +141,8 @@
       "iso_country": "SL",
       "iso_region": "SL-W",
       "municipality": "Freetown",
-      "coordinates": "8.473991, -13.277643"
+      "coordinates": "8.473991, -13.277643",
+      "metar_available": false
     },
     {
       "ident": "SL-0003",
@@ -141,7 +151,8 @@
       "continent": "AF",
       "iso_country": "SL",
       "iso_region": "SL-W",
-      "coordinates": "8.48768473679, -13.288103342100001"
+      "coordinates": "8.48768473679, -13.288103342100001",
+      "metar_available": false
     },
     {
       "ident": "SL-0004",
@@ -152,7 +163,8 @@
       "iso_country": "SL",
       "iso_region": "SL-S",
       "municipality": "Bonthe",
-      "coordinates": "7.53242, -12.5189"
+      "coordinates": "7.53242, -12.5189",
+      "metar_available": false
     }
   ]
 }

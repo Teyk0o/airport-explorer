@@ -2,7 +2,7 @@
   "country_code": "PE",
   "country_name": "Peru",
   "total_airports": 206,
-  "last_updated": "2025-08-01T00:18:22.840108",
+  "last_updated": "2025-08-25T10:08:40.995368",
   "types_distribution": {
     "small_airport": 143,
     "closed": 25,
@@ -20,7 +20,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LOR",
       "municipality": "Lagunas",
-      "coordinates": "-5.2475, -75.678"
+      "coordinates": "-5.2475, -75.678",
+      "metar_available": false
     },
     {
       "ident": "PE-0002",
@@ -32,7 +33,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Iquitos",
       "gps_code": "SPID",
-      "coordinates": "-3.7422, -73.2604"
+      "coordinates": "-3.7422, -73.2604",
+      "metar_available": false
     },
     {
       "ident": "PE-0003",
@@ -42,7 +44,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LOR",
       "municipality": "Cabo Pantoja",
-      "coordinates": "-0.952, -75.179731"
+      "coordinates": "-0.952, -75.179731",
+      "metar_available": false
     },
     {
       "ident": "PE-0004",
@@ -52,7 +55,8 @@
       "continent": "SA",
       "iso_country": "PE",
       "iso_region": "PE-MDD",
-      "coordinates": "-11.940815, -68.994212"
+      "coordinates": "-11.940815, -68.994212",
+      "metar_available": false
     },
     {
       "ident": "PE-0005",
@@ -63,7 +67,8 @@
       "iso_country": "PE",
       "iso_region": "PE-CUS",
       "municipality": "Kirigueti",
-      "coordinates": "-11.574279, -73.128657"
+      "coordinates": "-11.574279, -73.128657",
+      "metar_available": false
     },
     {
       "ident": "PE-0006",
@@ -75,7 +80,8 @@
       "iso_region": "PE-JUN",
       "municipality": "Cutivireni",
       "gps_code": "SPCV",
-      "coordinates": "-11.876932, -73.916868"
+      "coordinates": "-11.876932, -73.916868",
+      "metar_available": false
     },
     {
       "ident": "PE-0007",
@@ -86,7 +92,8 @@
       "iso_country": "PE",
       "iso_region": "PE-UCA",
       "municipality": "Pucallpa",
-      "coordinates": "-8.361953, -74.656877"
+      "coordinates": "-8.361953, -74.656877",
+      "metar_available": false
     },
     {
       "ident": "PE-0008",
@@ -97,7 +104,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LOR",
       "municipality": "Saramuro",
-      "coordinates": "-4.707892, -74.876733"
+      "coordinates": "-4.707892, -74.876733",
+      "metar_available": false
     },
     {
       "ident": "PE-0009",
@@ -109,7 +117,8 @@
       "iso_region": "PE-LOR",
       "municipality": "San Lorenzo",
       "gps_code": "SPQM",
-      "coordinates": "-4.824369, -76.56032"
+      "coordinates": "-4.824369, -76.56032",
+      "metar_available": false
     },
     {
       "ident": "PE-0010",
@@ -120,7 +129,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Pativilca",
-      "coordinates": "-10.705015, -77.800884"
+      "coordinates": "-10.705015, -77.800884",
+      "metar_available": false
     },
     {
       "ident": "PE-0011",
@@ -131,7 +141,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Barranca",
-      "coordinates": "-10.714039, -77.746854"
+      "coordinates": "-10.714039, -77.746854",
+      "metar_available": false
     },
     {
       "ident": "PE-0012",
@@ -142,7 +153,8 @@
       "iso_country": "PE",
       "iso_region": "PE-CUS",
       "municipality": "Chinchero",
-      "coordinates": "-13.3915, -72.069"
+      "coordinates": "-13.3915, -72.069",
+      "metar_available": false
     },
     {
       "ident": "PE-0013",
@@ -153,7 +165,8 @@
       "iso_country": "PE",
       "iso_region": "PE-UCA",
       "municipality": "Pucallpa",
-      "coordinates": "-8.3515, -74.5819"
+      "coordinates": "-8.3515, -74.5819",
+      "metar_available": false
     },
     {
       "ident": "PE-0014",
@@ -164,7 +177,8 @@
       "iso_country": "PE",
       "iso_region": "PE-UCA",
       "municipality": "Pucallpa",
-      "coordinates": "-8.35681, -74.66043"
+      "coordinates": "-8.35681, -74.66043",
+      "metar_available": false
     },
     {
       "ident": "PE-0015",
@@ -175,7 +189,8 @@
       "iso_country": "PE",
       "iso_region": "PE-JUN",
       "municipality": "Puerto Anapati",
-      "coordinates": "-11.92859, -73.9877"
+      "coordinates": "-11.92859, -73.9877",
+      "metar_available": false
     },
     {
       "ident": "PE-0016",
@@ -186,7 +201,8 @@
       "iso_country": "PE",
       "iso_region": "PE-JUN",
       "municipality": "Misión",
-      "coordinates": "-11.857, -73.9589"
+      "coordinates": "-11.857, -73.9589",
+      "metar_available": false
     },
     {
       "ident": "PE-0017",
@@ -197,7 +213,8 @@
       "iso_country": "PE",
       "iso_region": "PE-JUN",
       "municipality": "Puerto Ocopa",
-      "coordinates": "-11.14793, -74.30629"
+      "coordinates": "-11.14793, -74.30629",
+      "metar_available": false
     },
     {
       "ident": "PE-0018",
@@ -208,7 +225,8 @@
       "iso_country": "PE",
       "iso_region": "PE-JUN",
       "municipality": "Tanquin",
-      "coordinates": "-12.12632, -74.07599"
+      "coordinates": "-12.12632, -74.07599",
+      "metar_available": false
     },
     {
       "ident": "PE-0019",
@@ -219,7 +237,8 @@
       "iso_country": "PE",
       "iso_region": "PE-APU",
       "municipality": "Tamburco",
-      "coordinates": "-13.56872, -72.82457"
+      "coordinates": "-13.56872, -72.82457",
+      "metar_available": false
     },
     {
       "ident": "PE-0020",
@@ -230,7 +249,8 @@
       "iso_country": "PE",
       "iso_region": "PE-APU",
       "municipality": "Curahuasi",
-      "coordinates": "-13.54249, -72.70599"
+      "coordinates": "-13.54249, -72.70599",
+      "metar_available": false
     },
     {
       "ident": "PE-0021",
@@ -241,7 +261,8 @@
       "iso_country": "PE",
       "iso_region": "PE-AYA",
       "municipality": "Sivia",
-      "coordinates": "-12.50306, -73.85287"
+      "coordinates": "-12.50306, -73.85287",
+      "metar_available": false
     },
     {
       "ident": "PE-0022",
@@ -252,7 +273,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LAL",
       "municipality": "Virú",
-      "coordinates": "-8.58173, -78.68142"
+      "coordinates": "-8.58173, -78.68142",
+      "metar_available": false
     },
     {
       "ident": "PE-0023",
@@ -266,7 +288,8 @@
       "gps_code": "SPWB",
       "iata_code": "PTL",
       "local_code": "SPWB",
-      "coordinates": "-4.08687, -81.02577"
+      "coordinates": "-4.08687, -81.02577",
+      "metar_available": false
     },
     {
       "ident": "PE-0024",
@@ -277,7 +300,8 @@
       "iso_country": "PE",
       "iso_region": "PE-PIU",
       "municipality": "Yapatera",
-      "coordinates": "-5.06777, -80.14731"
+      "coordinates": "-5.06777, -80.14731",
+      "metar_available": false
     },
     {
       "ident": "PE-0025",
@@ -288,7 +312,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Santa María",
-      "coordinates": "-11.11008, -77.55382"
+      "coordinates": "-11.11008, -77.55382",
+      "metar_available": false
     },
     {
       "ident": "PE-0026",
@@ -300,7 +325,8 @@
       "iso_region": "PE-ICA",
       "municipality": "Ica",
       "gps_code": "SPLH",
-      "coordinates": "-14.03561, -75.76004"
+      "coordinates": "-14.03561, -75.76004",
+      "metar_available": false
     },
     {
       "ident": "PE-0027",
@@ -310,7 +336,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "San Bartolo",
-      "coordinates": "-12.38084, -76.78206"
+      "coordinates": "-12.38084, -76.78206",
+      "metar_available": false
     },
     {
       "ident": "PE-0028",
@@ -320,7 +347,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Chilca",
-      "coordinates": "-12.50469, -76.74428"
+      "coordinates": "-12.50469, -76.74428",
+      "metar_available": false
     },
     {
       "ident": "PE-0029",
@@ -330,7 +358,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Cerro Azul",
-      "coordinates": "-12.91902, -76.49186"
+      "coordinates": "-12.91902, -76.49186",
+      "metar_available": false
     },
     {
       "ident": "PE-0030",
@@ -340,7 +369,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Santa María del Mar",
-      "coordinates": "-12.40001, -76.76806"
+      "coordinates": "-12.40001, -76.76806",
+      "metar_available": false
     },
     {
       "ident": "PE-0031",
@@ -350,7 +380,8 @@
       "iso_country": "PE",
       "iso_region": "PE-PIU",
       "municipality": "Paita",
-      "coordinates": "-5.15176, -80.94737"
+      "coordinates": "-5.15176, -80.94737",
+      "metar_available": false
     },
     {
       "ident": "PE-0032",
@@ -360,7 +391,8 @@
       "iso_country": "PE",
       "iso_region": "PE-ARE",
       "municipality": "Chivay",
-      "coordinates": "-15.63627, -71.61376"
+      "coordinates": "-15.63627, -71.61376",
+      "metar_available": false
     },
     {
       "ident": "PE-0034",
@@ -371,7 +403,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Miraflores",
-      "coordinates": "-12.103711, -77.030216"
+      "coordinates": "-12.103711, -77.030216",
+      "metar_available": false
     },
     {
       "ident": "PE-0035",
@@ -382,7 +415,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Collique Bajo",
-      "coordinates": "-11.9287, -77.061096"
+      "coordinates": "-11.9287, -77.061096",
+      "metar_available": false
     },
     {
       "ident": "PE-0036",
@@ -393,7 +427,8 @@
       "iso_country": "PE",
       "iso_region": "PE-ARE",
       "municipality": "Camana",
-      "coordinates": "-16.606999, -72.697649"
+      "coordinates": "-16.606999, -72.697649",
+      "metar_available": false
     },
     {
       "ident": "PE-0037",
@@ -404,7 +439,8 @@
       "iso_country": "PE",
       "iso_region": "PE-JUN",
       "municipality": "Satipo",
-      "coordinates": "-11.2625, -74.647778"
+      "coordinates": "-11.2625, -74.647778",
+      "metar_available": false
     },
     {
       "ident": "PE-0038",
@@ -415,7 +451,8 @@
       "iso_country": "PE",
       "iso_region": "PE-JUN",
       "municipality": "Puerto Ocopa",
-      "coordinates": "-11.143755, -74.307153"
+      "coordinates": "-11.143755, -74.307153",
+      "metar_available": false
     },
     {
       "ident": "PE-0039",
@@ -426,7 +463,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Paramonga",
-      "coordinates": "-10.667, -77.833"
+      "coordinates": "-10.667, -77.833",
+      "metar_available": false
     },
     {
       "ident": "PE-0040",
@@ -437,7 +475,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LOR",
       "municipality": "Requena",
-      "coordinates": "-5.078026, -73.856404"
+      "coordinates": "-5.078026, -73.856404",
+      "metar_available": false
     },
     {
       "ident": "PE-0041",
@@ -448,7 +487,8 @@
       "iso_country": "PE",
       "iso_region": "PE-PIU",
       "municipality": "Bayóvar",
-      "coordinates": "-5.83075, -81.025803"
+      "coordinates": "-5.83075, -81.025803",
+      "metar_available": false
     },
     {
       "ident": "PE-0042",
@@ -459,7 +499,8 @@
       "iso_country": "PE",
       "iso_region": "PE-ICA",
       "municipality": "Chincha",
-      "coordinates": "-13.37036, -76.11276"
+      "coordinates": "-13.37036, -76.11276",
+      "metar_available": false
     },
     {
       "ident": "PE-0043",
@@ -470,7 +511,8 @@
       "iso_country": "PE",
       "iso_region": "PE-ICA",
       "municipality": "Ica",
-      "coordinates": "-14.2001, -75.573898"
+      "coordinates": "-14.2001, -75.573898",
+      "metar_available": false
     },
     {
       "ident": "PE-0044",
@@ -481,7 +523,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Ancón",
-      "coordinates": "-11.7947, -77.180901"
+      "coordinates": "-11.7947, -77.180901",
+      "metar_available": false
     },
     {
       "ident": "PE-0045",
@@ -492,7 +535,8 @@
       "iso_country": "PE",
       "iso_region": "PE-PIU",
       "municipality": "Sullana",
-      "coordinates": "-4.903889, -80.68528"
+      "coordinates": "-4.903889, -80.68528",
+      "metar_available": false
     },
     {
       "ident": "PE-0046",
@@ -503,7 +547,8 @@
       "iso_country": "PE",
       "iso_region": "PE-ICA",
       "municipality": "San Juan Aposento",
-      "coordinates": "-15.3539, -75.167099"
+      "coordinates": "-15.3539, -75.167099",
+      "metar_available": false
     },
     {
       "ident": "PE-0047",
@@ -514,7 +559,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Barranca",
-      "coordinates": "-10.75, -77.76667"
+      "coordinates": "-10.75, -77.76667",
+      "metar_available": false
     },
     {
       "ident": "PE-0048",
@@ -525,7 +571,8 @@
       "iso_country": "PE",
       "iso_region": "PE-ARE",
       "municipality": "Cunocuno",
-      "coordinates": "-15.977222, -73.10833"
+      "coordinates": "-15.977222, -73.10833",
+      "metar_available": false
     },
     {
       "ident": "PE-0049",
@@ -536,7 +583,8 @@
       "iso_country": "PE",
       "iso_region": "PE-CUS",
       "municipality": "Fausa",
-      "coordinates": "-14.7094, -71.731102"
+      "coordinates": "-14.7094, -71.731102",
+      "metar_available": false
     },
     {
       "ident": "PE-0050",
@@ -547,7 +595,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LAM",
       "municipality": "Olmos",
-      "coordinates": "-5.984722, -79.745277"
+      "coordinates": "-5.984722, -79.745277",
+      "metar_available": false
     },
     {
       "ident": "PE-0051",
@@ -558,7 +607,8 @@
       "iso_country": "PE",
       "iso_region": "PE-PIU",
       "municipality": "Lobitos",
-      "coordinates": "-4.448611, -81.275558"
+      "coordinates": "-4.448611, -81.275558",
+      "metar_available": false
     },
     {
       "ident": "PE-0052",
@@ -569,7 +619,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LIM",
       "municipality": "Santa María",
-      "coordinates": "-11.983334, -77"
+      "coordinates": "-11.983334, -77",
+      "metar_available": false
     },
     {
       "ident": "PE-0053",
@@ -580,7 +631,8 @@
       "iso_country": "PE",
       "iso_region": "PE-TUM",
       "municipality": "Contralmirante Villar",
-      "coordinates": "-3.67374, -80.652397"
+      "coordinates": "-3.67374, -80.652397",
+      "metar_available": false
     },
     {
       "ident": "PE-0054",
@@ -591,7 +643,8 @@
       "iso_country": "PE",
       "iso_region": "PE-AYA",
       "municipality": "Pomacocha",
-      "coordinates": "-15.1792, -73.274399"
+      "coordinates": "-15.1792, -73.274399",
+      "metar_available": false
     },
     {
       "ident": "PE-0055",
@@ -602,7 +655,8 @@
       "iso_country": "PE",
       "iso_region": "PE-APU",
       "municipality": "Tintay",
-      "coordinates": "-13.959167, -73.185837"
+      "coordinates": "-13.959167, -73.185837",
+      "metar_available": false
     },
     {
       "ident": "PE-0056",
@@ -614,7 +668,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Bellavista",
       "iata_code": "BLP",
-      "coordinates": "-7.06056, -76.582199"
+      "coordinates": "-7.06056, -76.582199",
+      "metar_available": false
     },
     {
       "ident": "SOML",
@@ -626,7 +681,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Malin",
       "gps_code": "SOML",
-      "coordinates": "-7.63332986831665, -78.6500015258789"
+      "coordinates": "-7.63332986831665, -78.6500015258789",
+      "metar_available": false
     },
     {
       "ident": "SPAA",
@@ -638,7 +694,8 @@
       "iso_region": "PE-ANC",
       "municipality": "Ancash",
       "gps_code": "SPAA",
-      "coordinates": "-9.05142879486084, -77.81014251708984"
+      "coordinates": "-9.05142879486084, -77.81014251708984",
+      "metar_available": false
     },
     {
       "ident": "SPAB",
@@ -651,7 +708,8 @@
       "municipality": "Huancabamba",
       "gps_code": "SPAB",
       "local_code": "SP72",
-      "coordinates": "-5.256770133972168, -79.44290161132812"
+      "coordinates": "-5.256770133972168, -79.44290161132812",
+      "metar_available": false
     },
     {
       "ident": "SPAC",
@@ -663,7 +721,8 @@
       "iso_region": "PE-AMA",
       "municipality": "Santa María de Nieva",
       "gps_code": "SPAC",
-      "coordinates": "-4.607492, -77.940935"
+      "coordinates": "-4.607492, -77.940935",
+      "metar_available": false
     },
     {
       "ident": "SPAG",
@@ -675,7 +734,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Aguaytia",
       "gps_code": "SPAG",
-      "coordinates": "-9.037409782409668, -75.50920104980469"
+      "coordinates": "-9.037409782409668, -75.50920104980469",
+      "metar_available": false
     },
     {
       "ident": "SPAI",
@@ -687,7 +747,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Pataz",
       "gps_code": "SPAI",
-      "coordinates": "-8.3495, -77.3985"
+      "coordinates": "-8.3495, -77.3985",
+      "metar_available": false
     },
     {
       "ident": "SPAL",
@@ -699,7 +760,8 @@
       "iso_region": "PE-SAM",
       "municipality": "El Dorado",
       "gps_code": "SPAL",
-      "coordinates": "-6.5, -76.7166976928711"
+      "coordinates": "-6.5, -76.7166976928711",
+      "metar_available": false
     },
     {
       "ident": "SPAP",
@@ -711,7 +773,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Picota",
       "gps_code": "SPAP",
-      "coordinates": "-6.909451, -76.32909"
+      "coordinates": "-6.909451, -76.32909",
+      "metar_available": false
     },
     {
       "ident": "SPAR",
@@ -724,7 +787,8 @@
       "municipality": "Fortaleza",
       "gps_code": "SPAR",
       "iata_code": "ALD",
-      "coordinates": "-11.65018, -69.229614"
+      "coordinates": "-11.65018, -69.229614",
+      "metar_available": false
     },
     {
       "ident": "SPAS",
@@ -737,7 +801,8 @@
       "municipality": "Andoas",
       "gps_code": "SPAS",
       "iata_code": "AOP",
-      "coordinates": "-2.79612994194, -76.46659851070001"
+      "coordinates": "-2.79612994194, -76.46659851070001",
+      "metar_available": false
     },
     {
       "ident": "SPAT",
@@ -749,7 +814,8 @@
       "iso_region": "PE-HUC",
       "municipality": "Aguas Calientes",
       "gps_code": "SPAT",
-      "coordinates": "-8.833330154418945, -74.68329620361328"
+      "coordinates": "-8.833330154418945, -74.68329620361328",
+      "metar_available": false
     },
     {
       "ident": "SPAY",
@@ -762,7 +828,8 @@
       "municipality": "Atalaya",
       "gps_code": "SPAY",
       "iata_code": "AYX",
-      "coordinates": "-10.7291, -73.766502"
+      "coordinates": "-10.7291, -73.766502",
+      "metar_available": false
     },
     {
       "ident": "SPBB",
@@ -775,7 +842,8 @@
       "municipality": "Moyobamba",
       "gps_code": "SPBB",
       "iata_code": "MBP",
-      "coordinates": "-6.018889, -76.988327"
+      "coordinates": "-6.018889, -76.988327",
+      "metar_available": false
     },
     {
       "ident": "SPBC",
@@ -788,7 +856,8 @@
       "municipality": "Caballococha",
       "gps_code": "SPBC",
       "local_code": "LHC",
-      "coordinates": "-3.91686010361, -70.5082015991"
+      "coordinates": "-3.91686010361, -70.5082015991",
+      "metar_available": false
     },
     {
       "ident": "SPBL",
@@ -800,7 +869,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Bolognesi",
       "gps_code": "SPBL",
-      "coordinates": "-10.029555, -73.943375"
+      "coordinates": "-10.029555, -73.943375",
+      "metar_available": false
     },
     {
       "ident": "SPBQ",
@@ -812,7 +882,8 @@
       "iso_region": "PE-ARE",
       "municipality": "San Isidro",
       "gps_code": "SPBQ",
-      "coordinates": "-15.45003, -74.74423"
+      "coordinates": "-15.45003, -74.74423",
+      "metar_available": false
     },
     {
       "ident": "SPBR",
@@ -825,7 +896,8 @@
       "municipality": "Iberia",
       "gps_code": "SPBR",
       "iata_code": "IBP",
-      "coordinates": "-11.4116, -69.488701"
+      "coordinates": "-11.4116, -69.488701",
+      "metar_available": false
     },
     {
       "ident": "SPBS",
@@ -837,7 +909,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Jeberos",
       "gps_code": "SPBS",
-      "coordinates": "-5.28839, -76.292099"
+      "coordinates": "-5.28839, -76.292099",
+      "metar_available": false
     },
     {
       "ident": "SPBT",
@@ -849,7 +922,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Obenteni",
       "gps_code": "SPBT",
-      "coordinates": "-10.755137, -74.221749"
+      "coordinates": "-10.755137, -74.221749",
+      "metar_available": false
     },
     {
       "ident": "SPCC",
@@ -861,7 +935,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Ciudad Constitución",
       "gps_code": "SPCC",
-      "coordinates": "-9.865278, -75.008888"
+      "coordinates": "-9.865278, -75.008888",
+      "metar_available": false
     },
     {
       "ident": "SPCG",
@@ -873,7 +948,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Ascope",
       "gps_code": "SPCG",
-      "coordinates": "-7.743888854980469, -79.18638610839844"
+      "coordinates": "-7.743888854980469, -79.18638610839844",
+      "metar_available": false
     },
     {
       "ident": "SPCH",
@@ -886,7 +962,8 @@
       "municipality": "Tocache",
       "gps_code": "SPCH",
       "local_code": "TCG",
-      "coordinates": "-8.195356, -76.530241"
+      "coordinates": "-8.195356, -76.530241",
+      "metar_available": false
     },
     {
       "ident": "SPCI",
@@ -897,7 +974,8 @@
       "iso_country": "PE",
       "iso_region": "PE-MOQ",
       "gps_code": "SPCI",
-      "coordinates": "-17.615403, -71.330883"
+      "coordinates": "-17.615403, -71.330883",
+      "metar_available": false
     },
     {
       "ident": "SPCL",
@@ -910,7 +988,8 @@
       "municipality": "Pucallpa",
       "gps_code": "SPCL",
       "iata_code": "PCL",
-      "coordinates": "-8.37794017791748, -74.57430267333984"
+      "coordinates": "-8.37794017791748, -74.57430267333984",
+      "metar_available": false
     },
     {
       "ident": "SPCM",
@@ -923,7 +1002,8 @@
       "municipality": "Contamana",
       "gps_code": "SPCM",
       "local_code": "CTF",
-      "coordinates": "-7.335827, -74.992531"
+      "coordinates": "-7.335827, -74.992531",
+      "metar_available": false
     },
     {
       "ident": "SPCP",
@@ -935,7 +1015,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Pucacaca",
       "gps_code": "SPCP",
-      "coordinates": "-6.843543, -76.33959"
+      "coordinates": "-6.843543, -76.33959",
+      "metar_available": false
     },
     {
       "ident": "SPCR",
@@ -947,7 +1028,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Acarí",
       "gps_code": "SPCR",
-      "coordinates": "-15.5, -74.66667175292969"
+      "coordinates": "-15.5, -74.66667175292969",
+      "metar_available": false
     },
     {
       "ident": "SPCT",
@@ -959,7 +1041,8 @@
       "iso_region": "PE-CAJ",
       "municipality": "Chota",
       "gps_code": "SPCT",
-      "coordinates": "-6.550000190734863, -78.6500015258789"
+      "coordinates": "-6.550000190734863, -78.6500015258789",
+      "metar_available": false
     },
     {
       "ident": "SPDN",
@@ -971,7 +1054,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Colonia Angamos",
       "gps_code": "SPDN",
-      "coordinates": "-5.137125, -72.867889"
+      "coordinates": "-5.137125, -72.867889",
+      "metar_available": false
     },
     {
       "ident": "SPDO",
@@ -983,7 +1067,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Mollendo",
       "gps_code": "SPDO",
-      "coordinates": "-17.045401, -71.983704"
+      "coordinates": "-17.045401, -71.983704",
+      "metar_available": false
     },
     {
       "ident": "SPDR",
@@ -996,7 +1081,8 @@
       "municipality": "Corrientes",
       "gps_code": "SPDR",
       "iata_code": "TDP",
-      "coordinates": "-3.80601, -75.039299"
+      "coordinates": "-3.80601, -75.039299",
+      "metar_available": false
     },
     {
       "ident": "SPDS",
@@ -1008,7 +1094,8 @@
       "iso_region": "PE-MOQ",
       "municipality": "Cuajone",
       "gps_code": "SPDS",
-      "coordinates": "-17.070833, -70.770833"
+      "coordinates": "-17.070833, -70.770833",
+      "metar_available": false
     },
     {
       "ident": "SPDU",
@@ -1019,7 +1106,8 @@
       "iso_country": "PE",
       "iso_region": "PE-HUC",
       "gps_code": "SPDU",
-      "coordinates": "-9.664617, -75.285337"
+      "coordinates": "-9.664617, -75.285337",
+      "metar_available": false
     },
     {
       "ident": "SPEB",
@@ -1031,7 +1119,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Loreto",
       "gps_code": "SPEB",
-      "coordinates": "-3.3333001136779785, -71.81670379638672"
+      "coordinates": "-3.3333001136779785, -71.81670379638672",
+      "metar_available": false
     },
     {
       "ident": "SPEE",
@@ -1043,7 +1132,8 @@
       "iso_region": "PE-LOR",
       "gps_code": "SPEE",
       "local_code": "SP69",
-      "coordinates": "-2.45406, -72.670601"
+      "coordinates": "-2.45406, -72.670601",
+      "metar_available": false
     },
     {
       "ident": "SPEN",
@@ -1055,7 +1145,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Iscozasin",
       "gps_code": "SPEN",
-      "coordinates": "-10.182999610900879, -75.1500015258789"
+      "coordinates": "-10.182999610900879, -75.1500015258789",
+      "metar_available": false
     },
     {
       "ident": "SPEO",
@@ -1068,7 +1159,8 @@
       "municipality": "Chimbote",
       "gps_code": "SPEO",
       "iata_code": "CHM",
-      "coordinates": "-9.14961, -78.523804"
+      "coordinates": "-9.14961, -78.523804",
+      "metar_available": false
     },
     {
       "ident": "SPEP",
@@ -1080,7 +1172,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Esperanza",
       "gps_code": "SPEP",
-      "coordinates": "-9.76813, -70.706497"
+      "coordinates": "-9.76813, -70.706497",
+      "metar_available": false
     },
     {
       "ident": "SPEQ",
@@ -1092,7 +1185,8 @@
       "iso_region": "PE-MOQ",
       "municipality": "Moquegua",
       "gps_code": "SPEQ",
-      "coordinates": "-17.179001, -70.930801"
+      "coordinates": "-17.179001, -70.930801",
+      "metar_available": false
     },
     {
       "ident": "SPEZ",
@@ -1104,7 +1198,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Oxapampa",
       "gps_code": "SPEZ",
-      "coordinates": "-10.299200057983398, -74.93720245361328"
+      "coordinates": "-10.299200057983398, -74.93720245361328",
+      "metar_available": false
     },
     {
       "ident": "SPGB",
@@ -1115,7 +1210,8 @@
       "iso_country": "PE",
       "iso_region": "PE-AMA",
       "gps_code": "SPGB",
-      "coordinates": "-4.03188, -77.758797"
+      "coordinates": "-4.03188, -77.758797",
+      "metar_available": false
     },
     {
       "ident": "SPGL",
@@ -1126,7 +1222,8 @@
       "iso_country": "PE",
       "iso_region": "PE-LAL",
       "gps_code": "SPGL",
-      "coordinates": "-7.798106, -77.6495"
+      "coordinates": "-7.798106, -77.6495",
+      "metar_available": false
     },
     {
       "ident": "SPGM",
@@ -1139,7 +1236,8 @@
       "municipality": "Tingo Maria",
       "gps_code": "SPGM",
       "iata_code": "TGI",
-      "coordinates": "-9.289667, -76.005058"
+      "coordinates": "-9.289667, -76.005058",
+      "metar_available": false
     },
     {
       "ident": "SPGP",
@@ -1151,7 +1249,8 @@
       "iso_region": "PE-LOR",
       "gps_code": "SPGP",
       "local_code": "SP01",
-      "coordinates": "-0.119056, -75.247902"
+      "coordinates": "-0.119056, -75.247902",
+      "metar_available": false
     },
     {
       "ident": "SPGS",
@@ -1163,7 +1262,8 @@
       "iso_region": "PE-CAJ",
       "municipality": "Cajamarca",
       "gps_code": "SPGS",
-      "coordinates": "-6.900000095367432, -78.63333129882812"
+      "coordinates": "-6.900000095367432, -78.63333129882812",
+      "metar_available": false
     },
     {
       "ident": "SPGT",
@@ -1175,7 +1275,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Puerto Victoria",
       "gps_code": "SPGT",
-      "coordinates": "-9.902609825134277, -74.96410369873047"
+      "coordinates": "-9.902609825134277, -74.96410369873047",
+      "metar_available": false
     },
     {
       "ident": "SPGU",
@@ -1187,7 +1288,8 @@
       "iso_region": "PE-AMA",
       "municipality": "Baguá",
       "gps_code": "SPGU",
-      "coordinates": "-5.6347222328186035, -78.53055572509766"
+      "coordinates": "-5.6347222328186035, -78.53055572509766",
+      "metar_available": false
     },
     {
       "ident": "SPHC",
@@ -1199,7 +1301,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Puerto Chala",
       "gps_code": "SPHC",
-      "coordinates": "-15.80703, -74.28699"
+      "coordinates": "-15.80703, -74.28699",
+      "metar_available": false
     },
     {
       "ident": "SPHI",
@@ -1212,7 +1315,8 @@
       "municipality": "Chiclayo",
       "gps_code": "SPHI",
       "iata_code": "CIX",
-      "coordinates": "-6.78748, -79.828102"
+      "coordinates": "-6.78748, -79.828102",
+      "metar_available": false
     },
     {
       "ident": "SPHO",
@@ -1225,7 +1329,8 @@
       "municipality": "Ayacucho",
       "gps_code": "SPHO",
       "iata_code": "AYP",
-      "coordinates": "-13.1548, -74.204399"
+      "coordinates": "-13.1548, -74.204399",
+      "metar_available": false
     },
     {
       "ident": "SPHU",
@@ -1237,7 +1342,8 @@
       "iso_region": "PE-JUN",
       "municipality": "Huancayo",
       "gps_code": "SPHU",
-      "coordinates": "-12.069899559020996, -75.19850158691406"
+      "coordinates": "-12.069899559020996, -75.19850158691406",
+      "metar_available": false
     },
     {
       "ident": "SPHV",
@@ -1249,7 +1355,8 @@
       "iso_region": "PE-HUC",
       "municipality": "Huánuco Viejo",
       "gps_code": "SPHV",
-      "coordinates": "-9.92632007598877, -76.23390197753906"
+      "coordinates": "-9.92632007598877, -76.23390197753906",
+      "metar_available": false
     },
     {
       "ident": "SPHY",
@@ -1262,7 +1369,8 @@
       "municipality": "Andahuaylas",
       "gps_code": "SPHY",
       "iata_code": "ANS",
-      "coordinates": "-13.706399917602539, -73.35040283203125"
+      "coordinates": "-13.706399917602539, -73.35040283203125",
+      "metar_available": false
     },
     {
       "ident": "SPHZ",
@@ -1275,7 +1383,8 @@
       "municipality": "Anta",
       "gps_code": "SPHZ",
       "iata_code": "ATA",
-      "coordinates": "-9.347439765930176, -77.59839630126953"
+      "coordinates": "-9.347439765930176, -77.59839630126953",
+      "metar_available": false
     },
     {
       "ident": "SPIL",
@@ -1288,7 +1397,8 @@
       "municipality": "Quince Mil",
       "gps_code": "SPIL",
       "iata_code": "UMI",
-      "coordinates": "-13.231357, -70.75145"
+      "coordinates": "-13.231357, -70.75145",
+      "metar_available": false
     },
     {
       "ident": "SPIM",
@@ -1301,7 +1411,8 @@
       "municipality": "Lima",
       "gps_code": "SPJC",
       "iata_code": "LIM",
-      "coordinates": "-12.0219, -77.114305"
+      "coordinates": "-12.0219, -77.114305",
+      "metar_available": false
     },
     {
       "ident": "SPIN",
@@ -1313,7 +1424,8 @@
       "iso_region": "PE-MDD",
       "municipality": "Iñapari",
       "gps_code": "SPIN",
-      "coordinates": "-10.979, -69.559402"
+      "coordinates": "-10.979, -69.559402",
+      "metar_available": false
     },
     {
       "ident": "SPIR",
@@ -1325,7 +1437,8 @@
       "iso_region": "PE-CUS",
       "municipality": "Pillcopata",
       "gps_code": "SPIR",
-      "coordinates": "-12.966295, -71.429936"
+      "coordinates": "-12.966295, -71.429936",
+      "metar_available": false
     },
     {
       "ident": "SPIS",
@@ -1337,7 +1450,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Pataz",
       "gps_code": "SPIS",
-      "coordinates": "-7.92062, -77.52518"
+      "coordinates": "-7.92062, -77.52518",
+      "metar_available": false
     },
     {
       "ident": "SPIT",
@@ -1349,7 +1463,8 @@
       "iso_region": "PE-PIU",
       "municipality": "Paita Wesr",
       "gps_code": "SPIT",
-      "coordinates": "-5.085949897766113, -81.15280151367188"
+      "coordinates": "-5.085949897766113, -81.15280151367188",
+      "metar_available": false
     },
     {
       "ident": "SPIY",
@@ -1361,7 +1476,8 @@
       "iso_region": "PE-CUS",
       "municipality": "Yauri",
       "gps_code": "SPIY",
-      "coordinates": "-14.796129, -71.431818"
+      "coordinates": "-14.796129, -71.431818",
+      "metar_available": false
     },
     {
       "ident": "SPIZ",
@@ -1374,7 +1490,8 @@
       "municipality": "Uchiza",
       "gps_code": "SPIZ",
       "iata_code": "UCZ",
-      "coordinates": "-8.467, -76.349998"
+      "coordinates": "-8.467, -76.349998",
+      "metar_available": false
     },
     {
       "ident": "SPJA",
@@ -1387,7 +1504,8 @@
       "municipality": "Rioja",
       "gps_code": "SPJA",
       "iata_code": "RIJ",
-      "coordinates": "-6.06786, -77.160004"
+      "coordinates": "-6.06786, -77.160004",
+      "metar_available": false
     },
     {
       "ident": "SPJB",
@@ -1399,7 +1517,8 @@
       "iso_region": "PE-CAJ",
       "municipality": "Pampa Grande",
       "gps_code": "SPJB",
-      "coordinates": "-7.61447, -78.06159"
+      "coordinates": "-7.61447, -78.06159",
+      "metar_available": false
     },
     {
       "ident": "SPJE",
@@ -1412,7 +1531,8 @@
       "municipality": "Jaén",
       "gps_code": "SPJE",
       "iata_code": "JAE",
-      "coordinates": "-5.59248, -78.774002"
+      "coordinates": "-5.59248, -78.774002",
+      "metar_available": false
     },
     {
       "ident": "SPJI",
@@ -1425,7 +1545,8 @@
       "municipality": "Juanjuí",
       "gps_code": "SPJI",
       "iata_code": "JJI",
-      "coordinates": "-7.1691, -76.7286"
+      "coordinates": "-7.1691, -76.7286",
+      "metar_available": false
     },
     {
       "ident": "SPJJ",
@@ -1438,7 +1559,8 @@
       "municipality": "Jauja",
       "gps_code": "SPJJ",
       "iata_code": "JAU",
-      "coordinates": "-11.7831001282, -75.47339630130001"
+      "coordinates": "-11.7831001282, -75.47339630130001",
+      "metar_available": false
     },
     {
       "ident": "SPJL",
@@ -1451,7 +1573,8 @@
       "municipality": "Juliaca",
       "gps_code": "SPJL",
       "iata_code": "JUL",
-      "coordinates": "-15.467100143432617, -70.158203125"
+      "coordinates": "-15.467100143432617, -70.158203125",
+      "metar_available": false
     },
     {
       "ident": "SPJN",
@@ -1464,7 +1587,8 @@
       "municipality": "San Juan de Marcona",
       "gps_code": "SPJN",
       "iata_code": "SJA",
-      "coordinates": "-15.357508, -75.135005"
+      "coordinates": "-15.357508, -75.135005",
+      "metar_available": false
     },
     {
       "ident": "SPJR",
@@ -1477,7 +1601,8 @@
       "municipality": "Cajamarca",
       "gps_code": "SPJR",
       "iata_code": "CJA",
-      "coordinates": "-7.13918, -78.489403"
+      "coordinates": "-7.13918, -78.489403",
+      "metar_available": false
     },
     {
       "ident": "SPLA",
@@ -1488,7 +1613,8 @@
       "iso_region": "PE-AYA",
       "municipality": "Luisiana",
       "gps_code": "SPLA",
-      "coordinates": "-12.673815, -73.710266"
+      "coordinates": "-12.673815, -73.710266",
+      "metar_available": false
     },
     {
       "ident": "SPLC",
@@ -1500,7 +1626,8 @@
       "iso_region": "PE-ARE",
       "municipality": "La Joya",
       "gps_code": "SPLC",
-      "coordinates": "-16.7915, -71.886597"
+      "coordinates": "-16.7915, -71.886597",
+      "metar_available": false
     },
     {
       "ident": "SPLD",
@@ -1512,7 +1639,8 @@
       "iso_region": "PE-CAJ",
       "municipality": "Celendín",
       "gps_code": "SPLD",
-      "coordinates": "-6.867599964141846, -78.14990234375"
+      "coordinates": "-6.867599964141846, -78.14990234375",
+      "metar_available": false
     },
     {
       "ident": "SPLG",
@@ -1524,7 +1652,8 @@
       "iso_region": "PE-MDD",
       "municipality": "Lagarto",
       "gps_code": "SPLG",
-      "coordinates": "-12.641599655151367, -69.8375015258789"
+      "coordinates": "-12.641599655151367, -69.8375015258789",
+      "metar_available": false
     },
     {
       "ident": "SPLN",
@@ -1537,7 +1666,8 @@
       "municipality": "Rodriguez de Mendoza",
       "gps_code": "SPLN",
       "iata_code": "RIM",
-      "coordinates": "-6.39231, -77.501198"
+      "coordinates": "-6.39231, -77.501198",
+      "metar_available": false
     },
     {
       "ident": "SPLO",
@@ -1550,7 +1680,8 @@
       "municipality": "Ilo",
       "gps_code": "SPLO",
       "iata_code": "ILQ",
-      "coordinates": "-17.695, -71.344002"
+      "coordinates": "-17.695, -71.344002",
+      "metar_available": false
     },
     {
       "ident": "SPLP",
@@ -1562,7 +1693,8 @@
       "iso_region": "PE-LIM",
       "municipality": "Chorrillos",
       "gps_code": "SPLP",
-      "coordinates": "-12.16069984436, -76.998901367188"
+      "coordinates": "-12.16069984436, -76.998901367188",
+      "metar_available": false
     },
     {
       "ident": "SPLS",
@@ -1574,7 +1706,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Zorrillos",
       "gps_code": "SPLS",
-      "coordinates": "-8.416999816894531, -75.13300323486328"
+      "coordinates": "-8.416999816894531, -75.13300323486328",
+      "metar_available": false
     },
     {
       "ident": "SPLX",
@@ -1586,7 +1719,8 @@
       "iso_region": "PE-LIM",
       "municipality": "San Bartolo",
       "gps_code": "SPLX",
-      "coordinates": "-12.38875, -76.75834"
+      "coordinates": "-12.38875, -76.75834",
+      "metar_available": false
     },
     {
       "ident": "SPME",
@@ -1599,7 +1733,8 @@
       "municipality": "Tumbes",
       "gps_code": "SPME",
       "iata_code": "TBP",
-      "coordinates": "-3.552074, -80.381086"
+      "coordinates": "-3.552074, -80.381086",
+      "metar_available": false
     },
     {
       "ident": "SPMF",
@@ -1612,7 +1747,8 @@
       "municipality": "Mazamari",
       "gps_code": "SPMF",
       "iata_code": "MZA",
-      "coordinates": "-11.3254, -74.535598"
+      "coordinates": "-11.3254, -74.535598",
+      "metar_available": false
     },
     {
       "ident": "SPMS",
@@ -1625,7 +1761,8 @@
       "municipality": "Yurimaguas",
       "gps_code": "SPMS",
       "iata_code": "YMS",
-      "coordinates": "-5.89377, -76.118202"
+      "coordinates": "-5.89377, -76.118202",
+      "metar_available": false
     },
     {
       "ident": "SPNC",
@@ -1638,7 +1775,8 @@
       "municipality": "Huánuco",
       "gps_code": "SPNC",
       "iata_code": "HUU",
-      "coordinates": "-9.878809928894043, -76.20480346679688"
+      "coordinates": "-9.878809928894043, -76.20480346679688",
+      "metar_available": false
     },
     {
       "ident": "SPNH",
@@ -1650,7 +1788,8 @@
       "iso_region": "PE-HUV",
       "municipality": "Choclococha",
       "gps_code": "SPNH",
-      "coordinates": "-13.16569995880127, -75.0719985961914"
+      "coordinates": "-13.16569995880127, -75.0719985961914",
+      "metar_available": false
     },
     {
       "ident": "SPNM",
@@ -1662,7 +1801,8 @@
       "iso_region": "PE-CUS",
       "municipality": "Nuevo Mundo",
       "gps_code": "SPNM",
-      "coordinates": "-11.541500091552734, -73.14219665527344"
+      "coordinates": "-11.541500091552734, -73.14219665527344",
+      "metar_available": false
     },
     {
       "ident": "SPNP",
@@ -1674,7 +1814,8 @@
       "iso_region": "PE-PUN",
       "municipality": "Ventilla",
       "gps_code": "SPNP",
-      "coordinates": "-15.85131, -70.05871"
+      "coordinates": "-15.85131, -70.05871",
+      "metar_available": false
     },
     {
       "ident": "SPNR",
@@ -1686,7 +1827,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Ricrán",
       "gps_code": "SPNR",
-      "coordinates": "-10.777950286865234, -76.25131225585938"
+      "coordinates": "-10.777950286865234, -76.25131225585938",
+      "metar_available": false
     },
     {
       "ident": "SPNT",
@@ -1698,7 +1840,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Intuto",
       "gps_code": "SPNT",
-      "coordinates": "-3.5829999446868896, -74.75"
+      "coordinates": "-3.5829999446868896, -74.75",
+      "metar_available": false
     },
     {
       "ident": "SPNU",
@@ -1710,7 +1853,8 @@
       "iso_region": "PE-MDD",
       "municipality": "Manu",
       "gps_code": "SPNU",
-      "coordinates": "-12.289721, -70.890199"
+      "coordinates": "-12.289721, -70.890199",
+      "metar_available": false
     },
     {
       "ident": "SPOA",
@@ -1723,7 +1867,8 @@
       "municipality": "Plaza Saposoa",
       "gps_code": "SPOA",
       "iata_code": "SQU",
-      "coordinates": "-6.96003, -76.768402"
+      "coordinates": "-6.96003, -76.768402",
+      "metar_available": false
     },
     {
       "ident": "SPON",
@@ -1735,7 +1880,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Orellana",
       "gps_code": "SPON",
-      "coordinates": "-6.896733, -75.153182"
+      "coordinates": "-6.896733, -75.153182",
+      "metar_available": false
     },
     {
       "ident": "SPOR",
@@ -1747,7 +1893,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Orcopampa",
       "gps_code": "SPOR",
-      "coordinates": "-15.315232, -72.352095"
+      "coordinates": "-15.315232, -72.352095",
+      "metar_available": false
     },
     {
       "ident": "SPOV",
@@ -1759,7 +1906,8 @@
       "iso_region": "PE-MDD",
       "municipality": "Leon Velarde",
       "gps_code": "SPOV",
-      "coordinates": "-11.9, -69.167"
+      "coordinates": "-11.9, -69.167",
+      "metar_available": false
     },
     {
       "ident": "SPOY",
@@ -1771,7 +1919,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Atico",
       "gps_code": "SPOY",
-      "coordinates": "-16.232846, -73.605652"
+      "coordinates": "-16.232846, -73.605652",
+      "metar_available": false
     },
     {
       "ident": "SPPB",
@@ -1783,7 +1932,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Puerto Breu",
       "gps_code": "SPPB",
-      "coordinates": "-9.53306, -72.756897"
+      "coordinates": "-9.53306, -72.756897",
+      "metar_available": false
     },
     {
       "ident": "SPPE",
@@ -1795,7 +1945,8 @@
       "iso_region": "PE-AYA",
       "municipality": "Palmapampa",
       "gps_code": "SPPE",
-      "coordinates": "-12.763889, -73.652778"
+      "coordinates": "-12.763889, -73.652778",
+      "metar_available": false
     },
     {
       "ident": "SPPH",
@@ -1807,7 +1958,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Pampa Hermosa",
       "gps_code": "SPPH",
-      "coordinates": "-7.206774, -75.297559"
+      "coordinates": "-7.206774, -75.297559",
+      "metar_available": false
     },
     {
       "ident": "SPPL",
@@ -1819,7 +1971,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Trismaje",
       "gps_code": "SPPL",
-      "coordinates": "-8.517820358276367, -76.48049926757812"
+      "coordinates": "-8.517820358276367, -76.48049926757812",
+      "metar_available": false
     },
     {
       "ident": "SPPN",
@@ -1831,7 +1984,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Palmas del Espino",
       "gps_code": "SPPN",
-      "coordinates": "-8.343722, -76.48935"
+      "coordinates": "-8.343722, -76.48935",
+      "metar_available": false
     },
     {
       "ident": "SPPO",
@@ -1843,7 +1997,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Pozuzo",
       "gps_code": "SPPO",
-      "coordinates": "-10.070099830627441, -75.55000305175781"
+      "coordinates": "-10.070099830627441, -75.55000305175781",
+      "metar_available": false
     },
     {
       "ident": "SPPP",
@@ -1855,7 +2010,8 @@
       "iso_region": "PE-APU",
       "municipality": "Huanacopampa",
       "gps_code": "SPPP",
-      "coordinates": "-14.14334, -72.33455"
+      "coordinates": "-14.14334, -72.33455",
+      "metar_available": false
     },
     {
       "ident": "SPPY",
@@ -1868,7 +2024,8 @@
       "municipality": "Chachapoyas",
       "gps_code": "SPPY",
       "iata_code": "CHH",
-      "coordinates": "-6.201911, -77.856195"
+      "coordinates": "-6.201911, -77.856195",
+      "metar_available": false
     },
     {
       "ident": "SPPZ",
@@ -1880,7 +2037,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Porvenir",
       "gps_code": "SPPZ",
-      "coordinates": "-9.895833015441895, -75.1177749633789"
+      "coordinates": "-9.895833015441895, -75.1177749633789",
+      "metar_available": false
     },
     {
       "ident": "SPQI",
@@ -1892,7 +2050,8 @@
       "iso_region": "PE-CUS",
       "municipality": "La Convención",
       "gps_code": "SPKI",
-      "coordinates": "-12.648669, -73.036579"
+      "coordinates": "-12.648669, -73.036579",
+      "metar_available": false
     },
     {
       "ident": "SPQJ",
@@ -1903,7 +2062,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Jaquí",
       "gps_code": "SPQJ",
-      "coordinates": "-15.466667175292969, -74.43333435058594"
+      "coordinates": "-15.466667175292969, -74.43333435058594",
+      "metar_available": false
     },
     {
       "ident": "SPQR",
@@ -1915,7 +2075,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Qiruvilca",
       "gps_code": "SPQR",
-      "coordinates": "-7.9666666984558105, -78.19999694824219"
+      "coordinates": "-7.9666666984558105, -78.19999694824219",
+      "metar_available": false
     },
     {
       "ident": "SPQT",
@@ -1928,7 +2089,8 @@
       "municipality": "Iquitos",
       "gps_code": "SPQT",
       "iata_code": "IQT",
-      "coordinates": "-3.78474, -73.3088"
+      "coordinates": "-3.78474, -73.3088",
+      "metar_available": false
     },
     {
       "ident": "SPQU",
@@ -1941,7 +2103,8 @@
       "municipality": "Arequipa",
       "gps_code": "SPQU",
       "iata_code": "AQP",
-      "coordinates": "-16.3411006927, -71.5830993652"
+      "coordinates": "-16.3411006927, -71.5830993652",
+      "metar_available": false
     },
     {
       "ident": "SPRF",
@@ -1953,7 +2116,8 @@
       "iso_region": "PE-PUN",
       "municipality": "San Rafael",
       "gps_code": "SPRF",
-      "coordinates": "-14.28201, -70.37989"
+      "coordinates": "-14.28201, -70.37989",
+      "metar_available": false
     },
     {
       "ident": "SPRG",
@@ -1965,7 +2129,8 @@
       "iso_region": "PE-ICA",
       "municipality": "Chincha",
       "gps_code": "SPRG",
-      "coordinates": "-13.5113, -76.08398"
+      "coordinates": "-13.5113, -76.08398",
+      "metar_available": false
     },
     {
       "ident": "SPRL",
@@ -1976,7 +2141,8 @@
       "iso_region": "PE-LIM",
       "municipality": "Imperial",
       "gps_code": "SPRL",
-      "coordinates": "-12.316666603088379, -75.06666564941406"
+      "coordinates": "-12.316666603088379, -75.06666564941406",
+      "metar_available": false
     },
     {
       "ident": "SPRM",
@@ -1988,7 +2154,8 @@
       "iso_region": "PE-JUN",
       "municipality": "San Ramón",
       "gps_code": "SPRM",
-      "coordinates": "-11.128600120544434, -75.35050201416016"
+      "coordinates": "-11.128600120544434, -75.35050201416016",
+      "metar_available": false
     },
     {
       "ident": "SPRR",
@@ -2000,7 +2167,8 @@
       "iso_region": "PE-LIM",
       "municipality": "San Vicente de Cañete",
       "gps_code": "SPRR",
-      "coordinates": "-13.22283, -76.26927"
+      "coordinates": "-13.22283, -76.26927",
+      "metar_available": false
     },
     {
       "ident": "SPRU",
@@ -2013,7 +2181,8 @@
       "municipality": "Trujillo",
       "gps_code": "SPRU",
       "iata_code": "TRU",
-      "coordinates": "-8.08141040802002, -79.10880279541016"
+      "coordinates": "-8.08141040802002, -79.10880279541016",
+      "metar_available": false
     },
     {
       "ident": "SPSA",
@@ -2025,7 +2194,8 @@
       "iso_region": "PE-ANC",
       "municipality": "Casma",
       "gps_code": "SPSA",
-      "coordinates": "-9.450235, -78.294346"
+      "coordinates": "-9.450235, -78.294346",
+      "metar_available": false
     },
     {
       "ident": "SPSE",
@@ -2037,7 +2207,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Sepahua",
       "gps_code": "SPSE",
-      "coordinates": "-11.14227, -73.034327"
+      "coordinates": "-11.14227, -73.034327",
+      "metar_available": false
     },
     {
       "ident": "SPSF",
@@ -2049,7 +2220,8 @@
       "iso_region": "PE-AMA",
       "municipality": "San Francisco de Yeso",
       "gps_code": "SPSF",
-      "coordinates": "-6.6166801452637, -77.766700744629"
+      "coordinates": "-6.6166801452637, -77.766700744629",
+      "metar_available": false
     },
     {
       "ident": "SPSI",
@@ -2061,7 +2233,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Siguas",
       "gps_code": "SPSI",
-      "coordinates": "-16.367000579833984, -72.16699981689453"
+      "coordinates": "-16.367000579833984, -72.16699981689453",
+      "metar_available": false
     },
     {
       "ident": "SPSJ",
@@ -2073,7 +2246,8 @@
       "iso_region": "PE-SAM",
       "municipality": "El Dorado",
       "gps_code": "SPSJ",
-      "coordinates": "-6.616489887237549, -76.68840026855469"
+      "coordinates": "-6.616489887237549, -76.68840026855469",
+      "metar_available": false
     },
     {
       "ident": "SPSL",
@@ -2085,7 +2259,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Lamas",
       "gps_code": "SPSL",
-      "coordinates": "-6.416666507720947, -76.53333282470703"
+      "coordinates": "-6.416666507720947, -76.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "SPSN",
@@ -2097,7 +2272,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Shapaja",
       "gps_code": "SPSN",
-      "coordinates": "-6.5797200202941895, -76.26280212402344"
+      "coordinates": "-6.5797200202941895, -76.26280212402344",
+      "metar_available": false
     },
     {
       "ident": "SPSO",
@@ -2110,7 +2286,8 @@
       "municipality": "Pisco",
       "gps_code": "SPSO",
       "iata_code": "PIO",
-      "coordinates": "-13.7449, -76.220299"
+      "coordinates": "-13.7449, -76.220299",
+      "metar_available": false
     },
     {
       "ident": "SPSS",
@@ -2122,7 +2299,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Masisea",
       "gps_code": "SPSS",
-      "coordinates": "-8.61142, -74.309962"
+      "coordinates": "-8.61142, -74.309962",
+      "metar_available": false
     },
     {
       "ident": "SPST",
@@ -2135,7 +2313,8 @@
       "municipality": "Tarapoto",
       "gps_code": "SPST",
       "iata_code": "TPP",
-      "coordinates": "-6.508739948272705, -76.37319946289062"
+      "coordinates": "-6.508739948272705, -76.37319946289062",
+      "metar_available": false
     },
     {
       "ident": "SPSY",
@@ -2148,7 +2327,8 @@
       "municipality": "Shiringayoc",
       "gps_code": "SPSY",
       "iata_code": "SYC",
-      "coordinates": "-11.898, -69.0625"
+      "coordinates": "-11.898, -69.0625",
+      "metar_available": false
     },
     {
       "ident": "SPTA",
@@ -2160,7 +2340,8 @@
       "iso_region": "PE-LOR",
       "municipality": "Nauta",
       "gps_code": "SPTA",
-      "coordinates": "-4.54186, -73.562951"
+      "coordinates": "-4.54186, -73.562951",
+      "metar_available": false
     },
     {
       "ident": "SPTE",
@@ -2172,7 +2353,8 @@
       "iso_region": "PE-CUS",
       "municipality": "San Francisco",
       "gps_code": "SPTE",
-      "coordinates": "-12.532999992370605, -73.80000305175781"
+      "coordinates": "-12.532999992370605, -73.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "SPTI",
@@ -2184,7 +2366,8 @@
       "iso_region": "PE-HUC",
       "municipality": "Puerto Inca",
       "gps_code": "SPTI",
-      "coordinates": "-9.383000373840332, -74.96700286865234"
+      "coordinates": "-9.383000373840332, -74.96700286865234",
+      "metar_available": false
     },
     {
       "ident": "SPTN",
@@ -2197,7 +2380,8 @@
       "municipality": "Tacna",
       "gps_code": "SPTN",
       "iata_code": "TCQ",
-      "coordinates": "-18.053300857500002, -70.2758026123"
+      "coordinates": "-18.053300857500002, -70.2758026123",
+      "metar_available": false
     },
     {
       "ident": "SPTO",
@@ -2209,7 +2393,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Santa Clara de Tulpo",
       "gps_code": "SPTO",
-      "coordinates": "-8.127167, -77.988"
+      "coordinates": "-8.127167, -77.988",
+      "metar_available": false
     },
     {
       "ident": "SPTP",
@@ -2221,7 +2406,8 @@
       "iso_region": "PE-PIU",
       "municipality": "Talara",
       "gps_code": "SPTP",
-      "coordinates": "-4.54981, -81.224098"
+      "coordinates": "-4.54981, -81.224098",
+      "metar_available": false
     },
     {
       "ident": "SPTQ",
@@ -2233,7 +2419,8 @@
       "iso_region": "PE-TAC",
       "municipality": "Toquepala",
       "gps_code": "SPTQ",
-      "coordinates": "-17.2995, -70.652802"
+      "coordinates": "-17.2995, -70.652802",
+      "metar_available": false
     },
     {
       "ident": "SPTR",
@@ -2245,7 +2432,8 @@
       "iso_region": "PE-HUC",
       "municipality": "Tournavista",
       "gps_code": "SPTR",
-      "coordinates": "-8.922406, -74.715234"
+      "coordinates": "-8.922406, -74.715234",
+      "metar_available": false
     },
     {
       "ident": "SPTU",
@@ -2258,7 +2446,8 @@
       "municipality": "Puerto Maldonado",
       "gps_code": "SPTU",
       "iata_code": "PEM",
-      "coordinates": "-12.6135997772, -69.2285995483"
+      "coordinates": "-12.6135997772, -69.2285995483",
+      "metar_available": false
     },
     {
       "ident": "SPUC",
@@ -2270,7 +2459,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Huamachuco",
       "gps_code": "SPUC",
-      "coordinates": "-7.81808, -78.02834"
+      "coordinates": "-7.81808, -78.02834",
+      "metar_available": false
     },
     {
       "ident": "SPUR",
@@ -2283,7 +2473,8 @@
       "municipality": "Piura",
       "gps_code": "SPUR",
       "iata_code": "PIU",
-      "coordinates": "-5.20574998856, -80.61640167239999"
+      "coordinates": "-5.20574998856, -80.61640167239999",
+      "metar_available": false
     },
     {
       "ident": "SPVA",
@@ -2294,7 +2485,8 @@
       "iso_region": "PE-AMA",
       "municipality": "El Valor",
       "gps_code": "SPVA",
-      "coordinates": "-5.672621, -78.644257"
+      "coordinates": "-5.672621, -78.644257",
+      "metar_available": false
     },
     {
       "ident": "SPVI",
@@ -2306,7 +2498,8 @@
       "iso_region": "PE-PAS",
       "municipality": "Vicco",
       "gps_code": "SPVI",
-      "coordinates": "-10.847844, -76.246956"
+      "coordinates": "-10.847844, -76.246956",
+      "metar_available": false
     },
     {
       "ident": "SPVL",
@@ -2318,7 +2511,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Caraveli",
       "gps_code": "SPVL",
-      "coordinates": "-15.77904, -73.36176"
+      "coordinates": "-15.77904, -73.36176",
+      "metar_available": false
     },
     {
       "ident": "SPVN",
@@ -2330,7 +2524,8 @@
       "iso_region": "PE-AYA",
       "municipality": "Vilcashuamán",
       "gps_code": "SPVN",
-      "coordinates": "-13.67817, -73.927"
+      "coordinates": "-13.67817, -73.927",
+      "metar_available": false
     },
     {
       "ident": "SPVR",
@@ -2341,7 +2536,8 @@
       "iso_region": "PE-ARE",
       "municipality": "La Joya",
       "gps_code": "SPVR",
-      "coordinates": "-16.429199, -71.837799"
+      "coordinates": "-16.429199, -71.837799",
+      "metar_available": false
     },
     {
       "ident": "SPYA",
@@ -2353,7 +2549,8 @@
       "iso_region": "PE-LAM",
       "municipality": "Luya",
       "gps_code": "SPYA",
-      "coordinates": "-6.691699981689453, -79.70169830322266"
+      "coordinates": "-6.691699981689453, -79.70169830322266",
+      "metar_available": false
     },
     {
       "ident": "SPYC",
@@ -2365,7 +2562,8 @@
       "iso_region": "PE-UCA",
       "municipality": "Pucallpa",
       "gps_code": "SPYC",
-      "coordinates": "-8.340436, -74.597906"
+      "coordinates": "-8.340436, -74.597906",
+      "metar_available": false
     },
     {
       "ident": "SPYL",
@@ -2378,7 +2576,8 @@
       "municipality": "Talara",
       "gps_code": "SPYL",
       "iata_code": "TYL",
-      "coordinates": "-4.57664, -81.254097"
+      "coordinates": "-4.57664, -81.254097",
+      "metar_available": false
     },
     {
       "ident": "SPYO",
@@ -2390,7 +2589,8 @@
       "iso_region": "PE-LAL",
       "municipality": "Pacasmayo",
       "gps_code": "SPYO",
-      "coordinates": "-7.40694, -79.568901"
+      "coordinates": "-7.40694, -79.568901",
+      "metar_available": false
     },
     {
       "ident": "SPYU",
@@ -2402,7 +2602,8 @@
       "iso_region": "PE-ARE",
       "municipality": "Yauca",
       "gps_code": "SPYU",
-      "coordinates": "-15.618900299072266, -74.53610229492188"
+      "coordinates": "-15.618900299072266, -74.53610229492188",
+      "metar_available": false
     },
     {
       "ident": "SPZA",
@@ -2415,7 +2616,8 @@
       "municipality": "Nazca",
       "gps_code": "SPZA",
       "iata_code": "NZC",
-      "coordinates": "-14.854, -74.961502"
+      "coordinates": "-14.854, -74.961502",
+      "metar_available": false
     },
     {
       "ident": "SPZH",
@@ -2427,7 +2629,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Pachiza",
       "gps_code": "SPZH",
-      "coordinates": "-7.299280166625977, -76.77459716796875"
+      "coordinates": "-7.299280166625977, -76.77459716796875",
+      "metar_available": false
     },
     {
       "ident": "SPZO",
@@ -2440,7 +2643,8 @@
       "municipality": "Cusco",
       "gps_code": "SPZO",
       "iata_code": "CUZ",
-      "coordinates": "-13.535699844400002, -71.9387969971"
+      "coordinates": "-13.535699844400002, -71.9387969971",
+      "metar_available": false
     },
     {
       "ident": "SPZT",
@@ -2452,7 +2656,8 @@
       "iso_region": "PE-SAM",
       "municipality": "Chazuta",
       "gps_code": "SPZT",
-      "coordinates": "-6.574166774749756, -76.13666534423828"
+      "coordinates": "-6.574166774749756, -76.13666534423828",
+      "metar_available": false
     },
     {
       "ident": "VVN",
@@ -2465,7 +2670,8 @@
       "municipality": "Las Malvinas",
       "gps_code": "SPWT",
       "iata_code": "VVN",
-      "coordinates": "-11.854861, -72.939332"
+      "coordinates": "-11.854861, -72.939332",
+      "metar_available": false
     }
   ]
 }

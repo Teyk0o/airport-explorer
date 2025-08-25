@@ -2,7 +2,7 @@
   "country_code": "NC",
   "country_name": "New Caledonia",
   "total_airports": 27,
-  "last_updated": "2025-08-01T00:18:22.830335",
+  "last_updated": "2025-08-25T10:08:40.984960",
   "types_distribution": {
     "small_airport": 12,
     "heliport": 2,
@@ -19,7 +19,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Hugon Island",
-      "coordinates": "-22.041724, 166.03215"
+      "coordinates": "-22.041724, 166.03215",
+      "metar_available": false
     },
     {
       "ident": "NC-0002",
@@ -30,7 +31,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Dumbéa",
-      "coordinates": "-22.16896, 166.4332"
+      "coordinates": "-22.16896, 166.4332",
+      "metar_available": false
     },
     {
       "ident": "NC-0003",
@@ -40,7 +42,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Dumbéa-sur-Mer",
-      "coordinates": "-22.20842, 166.45288"
+      "coordinates": "-22.20842, 166.45288",
+      "metar_available": false
     },
     {
       "ident": "NC-0004",
@@ -51,7 +54,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Nouméa",
-      "coordinates": "-22.31222, 166.44845"
+      "coordinates": "-22.31222, 166.44845",
+      "metar_available": false
     },
     {
       "ident": "NC-0005",
@@ -62,7 +66,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Ouinne",
-      "coordinates": "-21.96923, 166.672"
+      "coordinates": "-21.96923, 166.672",
+      "metar_available": false
     },
     {
       "ident": "NC-0006",
@@ -73,7 +78,8 @@
       "iso_country": "NC",
       "iso_region": "NC-02",
       "municipality": "Canala",
-      "coordinates": "-21.520435, 165.971947"
+      "coordinates": "-21.520435, 165.971947",
+      "metar_available": false
     },
     {
       "ident": "NC-0007",
@@ -84,7 +90,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Ouara",
-      "coordinates": "-22.460295, 166.782718"
+      "coordinates": "-22.460295, 166.782718",
+      "metar_available": false
     },
     {
       "ident": "NC-0008",
@@ -95,7 +102,8 @@
       "iso_country": "NC",
       "iso_region": "NC-02",
       "municipality": "Voh",
-      "coordinates": "-20.966999, 164.699997"
+      "coordinates": "-20.966999, 164.699997",
+      "metar_available": false
     },
     {
       "ident": "NC-0009",
@@ -106,7 +114,8 @@
       "iso_country": "NC",
       "iso_region": "NC-03",
       "municipality": "Plaine des Lacs",
-      "coordinates": "-22.270616, 166.926301"
+      "coordinates": "-22.270616, 166.926301",
+      "metar_available": false
     },
     {
       "ident": "NWWA",
@@ -119,7 +128,8 @@
       "municipality": "Tiga",
       "gps_code": "NWWA",
       "iata_code": "TGJ",
-      "coordinates": "-21.096407, 167.80379"
+      "coordinates": "-21.096407, 167.80379",
+      "metar_available": false
     },
     {
       "ident": "NWWB",
@@ -131,7 +141,8 @@
       "iso_region": "NC-03",
       "municipality": "Poé",
       "gps_code": "NWWB",
-      "coordinates": "-21.609604, 165.397103"
+      "coordinates": "-21.609604, 165.397103",
+      "metar_available": false
     },
     {
       "ident": "NWWC",
@@ -144,7 +155,8 @@
       "municipality": "Waala",
       "gps_code": "NWWC",
       "iata_code": "BMY",
-      "coordinates": "-19.720521, 163.661077"
+      "coordinates": "-19.720521, 163.661077",
+      "metar_available": false
     },
     {
       "ident": "NWWD",
@@ -157,7 +169,8 @@
       "municipality": "Koné",
       "gps_code": "NWWD",
       "iata_code": "KNQ",
-      "coordinates": "-21.053551, 164.838768"
+      "coordinates": "-21.053551, 164.838768",
+      "metar_available": false
     },
     {
       "ident": "NWWE",
@@ -170,7 +183,8 @@
       "municipality": "Île des Pins",
       "gps_code": "NWWE",
       "iata_code": "ILP",
-      "coordinates": "-22.588899612426758, 167.45599365234375"
+      "coordinates": "-22.588899612426758, 167.45599365234375",
+      "metar_available": false
     },
     {
       "ident": "NWWH",
@@ -182,7 +196,8 @@
       "iso_region": "NC-02",
       "municipality": "Houailou",
       "gps_code": "NWWH",
-      "coordinates": "-21.257288, 165.61821"
+      "coordinates": "-21.257288, 165.61821",
+      "metar_available": false
     },
     {
       "ident": "NWWI",
@@ -194,7 +209,8 @@
       "iso_region": "NC-02",
       "municipality": "Hienghène",
       "gps_code": "NWWI",
-      "coordinates": "-20.69446, 164.99249"
+      "coordinates": "-20.69446, 164.99249",
+      "metar_available": false
     },
     {
       "ident": "NWWK",
@@ -207,7 +223,8 @@
       "municipality": "Koumac",
       "gps_code": "NWWK",
       "iata_code": "KOC",
-      "coordinates": "-20.546323, 164.255648"
+      "coordinates": "-20.546323, 164.255648",
+      "metar_available": false
     },
     {
       "ident": "NWWL",
@@ -220,7 +237,8 @@
       "municipality": "Lifou",
       "gps_code": "NWWL",
       "iata_code": "LIF",
-      "coordinates": "-20.774563, 167.239328"
+      "coordinates": "-20.774563, 167.239328",
+      "metar_available": false
     },
     {
       "ident": "NWWM",
@@ -233,7 +251,8 @@
       "municipality": "Nouméa",
       "gps_code": "NWWM",
       "iata_code": "GEA",
-      "coordinates": "-22.25812, 166.472783"
+      "coordinates": "-22.25812, 166.472783",
+      "metar_available": false
     },
     {
       "ident": "NWWP",
@@ -246,7 +265,8 @@
       "municipality": "Malabou",
       "gps_code": "NWWP",
       "iata_code": "PUV",
-      "coordinates": "-20.289155, 164.09935"
+      "coordinates": "-20.289155, 164.09935",
+      "metar_available": false
     },
     {
       "ident": "NWWQ",
@@ -259,7 +279,8 @@
       "municipality": "Népoui",
       "gps_code": "NWWQ",
       "iata_code": "PDC",
-      "coordinates": "-21.316456, 164.999399"
+      "coordinates": "-21.316456, 164.999399",
+      "metar_available": false
     },
     {
       "ident": "NWWR",
@@ -272,7 +293,8 @@
       "municipality": "Maré",
       "gps_code": "NWWR",
       "iata_code": "MEE",
-      "coordinates": "-21.482438, 168.038465"
+      "coordinates": "-21.482438, 168.038465",
+      "metar_available": false
     },
     {
       "ident": "NWWT",
@@ -284,7 +306,8 @@
       "iso_region": "NC-03",
       "municipality": "La Foa",
       "gps_code": "NWWT",
-      "coordinates": "-21.819700241088867, 165.86099243164062"
+      "coordinates": "-21.819700241088867, 165.86099243164062",
+      "metar_available": false
     },
     {
       "ident": "NWWU",
@@ -297,7 +320,8 @@
       "municipality": "Touho",
       "gps_code": "NWWU",
       "iata_code": "TOU",
-      "coordinates": "-20.790127, 165.259524"
+      "coordinates": "-20.790127, 165.259524",
+      "metar_available": false
     },
     {
       "ident": "NWWV",
@@ -310,7 +334,8 @@
       "municipality": "Ouvéa",
       "gps_code": "NWWV",
       "iata_code": "UVE",
-      "coordinates": "-20.640932, 166.573024"
+      "coordinates": "-20.640932, 166.573024",
+      "metar_available": false
     },
     {
       "ident": "NWWW",
@@ -323,7 +348,8 @@
       "municipality": "Nouméa (La Tontouta)",
       "gps_code": "NWWW",
       "iata_code": "NOU",
-      "coordinates": "-22.014601, 166.212997"
+      "coordinates": "-22.014601, 166.212997",
+      "metar_available": false
     },
     {
       "ident": "NWWY",
@@ -335,7 +361,8 @@
       "iso_region": "NC-02",
       "municipality": "Ouaco",
       "gps_code": "NWWY",
-      "coordinates": "-20.855494, 164.535542"
+      "coordinates": "-20.855494, 164.535542",
+      "metar_available": false
     }
   ]
 }

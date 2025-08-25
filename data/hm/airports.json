@@ -2,7 +2,7 @@
   "country_code": "HM",
   "country_name": "Heard Island and McDonald Islands",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.442753",
+  "last_updated": "2025-08-25T10:08:40.569740",
   "types_distribution": {
     "heliport": 2
   },
@@ -15,7 +15,8 @@
       "iso_country": "HM",
       "iso_region": "HM-U-A",
       "municipality": "Atlas Cove Station",
-      "coordinates": "-53.01885, 73.39349"
+      "coordinates": "-53.01885, 73.39349",
+      "metar_available": false
     },
     {
       "ident": "AU-0179",
@@ -25,7 +26,8 @@
       "iso_country": "HM",
       "iso_region": "HM-U-A",
       "municipality": "Spit Bay",
-      "coordinates": "-53.10732, 73.72013"
+      "coordinates": "-53.10732, 73.72013",
+      "metar_available": false
     }
   ]
 }

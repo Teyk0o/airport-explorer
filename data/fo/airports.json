@@ -2,7 +2,7 @@
   "country_code": "FO",
   "country_name": "Faroe Islands",
   "total_airports": 16,
-  "last_updated": "2025-08-01T00:18:22.688143",
+  "last_updated": "2025-08-25T10:08:40.829862",
   "types_distribution": {
     "heliport": 12,
     "medium_airport": 1,
@@ -19,7 +19,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Froðba",
       "gps_code": "EKFA",
-      "coordinates": "61.543701, -6.77442"
+      "coordinates": "61.543701, -6.77442",
+      "metar_available": false
     },
     {
       "ident": "EKKU",
@@ -31,7 +32,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Kirkja",
       "gps_code": "EKKU",
-      "coordinates": "62.317141, -6.313314"
+      "coordinates": "62.317141, -6.313314",
+      "metar_available": false
     },
     {
       "ident": "EKKV",
@@ -43,7 +45,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Klaksvík",
       "gps_code": "EKKV",
-      "coordinates": "62.217619, -6.576274"
+      "coordinates": "62.217619, -6.576274",
+      "metar_available": false
     },
     {
       "ident": "EKMS",
@@ -55,7 +58,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Mykines",
       "gps_code": "EKMS",
-      "coordinates": "62.102169, -7.645934"
+      "coordinates": "62.102169, -7.645934",
+      "metar_available": false
     },
     {
       "ident": "EKSO",
@@ -67,7 +71,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Svínoy",
       "gps_code": "EKSO",
-      "coordinates": "62.276632, -6.341524"
+      "coordinates": "62.276632, -6.341524",
+      "metar_available": false
     },
     {
       "ident": "EKSR",
@@ -79,7 +84,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Stóra Dímun",
       "gps_code": "EKSR",
-      "coordinates": "61.685315, -6.758303"
+      "coordinates": "61.685315, -6.758303",
+      "metar_available": false
     },
     {
       "ident": "EKSY",
@@ -91,7 +97,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Skúvoy",
       "gps_code": "EKSY",
-      "coordinates": "61.769556, -6.80349"
+      "coordinates": "61.769556, -6.80349",
+      "metar_available": false
     },
     {
       "ident": "EKTB",
@@ -103,7 +110,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Tórshavn",
       "gps_code": "EKTB",
-      "coordinates": "62.021684, -6.757452"
+      "coordinates": "62.021684, -6.757452",
+      "metar_available": false
     },
     {
       "ident": "EKVG",
@@ -116,7 +124,8 @@
       "municipality": "Vágar",
       "gps_code": "EKVG",
       "iata_code": "FAE",
-      "coordinates": "62.063256, -7.275782"
+      "coordinates": "62.063256, -7.275782",
+      "metar_available": false
     },
     {
       "ident": "FO-0001",
@@ -127,7 +136,8 @@
       "iso_region": "FO-U-A",
       "municipality": "Hattarvík",
       "gps_code": "EKHI",
-      "coordinates": "62.330297, -6.276734"
+      "coordinates": "62.330297, -6.276734",
+      "metar_available": false
     },
     {
       "ident": "FO-0002",
@@ -137,7 +147,8 @@
       "iso_country": "FO",
       "iso_region": "FO-U-A",
       "municipality": "Koltur",
-      "coordinates": "61.984601, -6.963484"
+      "coordinates": "61.984601, -6.963484",
+      "metar_available": false
     },
     {
       "ident": "FO-0003",
@@ -147,7 +158,8 @@
       "iso_country": "FO",
       "iso_region": "FO-U-A",
       "municipality": "Skopun",
-      "coordinates": "61.904545, -6.884192"
+      "coordinates": "61.904545, -6.884192",
+      "metar_available": false
     },
     {
       "ident": "FO-0004",
@@ -157,7 +169,8 @@
       "iso_country": "FO",
       "iso_region": "FO-U-A",
       "municipality": "Tórshavn",
-      "coordinates": "62.001588, -6.774736"
+      "coordinates": "62.001588, -6.774736",
+      "metar_available": false
     },
     {
       "ident": "FO-0005",
@@ -167,7 +180,8 @@
       "iso_country": "FO",
       "iso_region": "FO-U-A",
       "municipality": "Trøllanes",
-      "coordinates": "62.362427, -6.788021"
+      "coordinates": "62.362427, -6.788021",
+      "metar_available": false
     },
     {
       "ident": "FO-0006",
@@ -177,7 +191,8 @@
       "iso_country": "FO",
       "iso_region": "FO-U-A",
       "municipality": "Gásadalur",
-      "coordinates": "62.108372, -7.434793"
+      "coordinates": "62.108372, -7.434793",
+      "metar_available": false
     },
     {
       "ident": "FO-0007",
@@ -187,7 +202,8 @@
       "iso_country": "FO",
       "iso_region": "FO-U-A",
       "municipality": "Múli",
-      "coordinates": "62.349895, -6.582285"
+      "coordinates": "62.349895, -6.582285",
+      "metar_available": false
     }
   ]
 }

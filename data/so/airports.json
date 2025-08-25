@@ -2,7 +2,7 @@
   "country_code": "SO",
   "country_name": "Somalia",
   "total_airports": 43,
-  "last_updated": "2025-08-01T00:18:22.368736",
+  "last_updated": "2025-08-25T10:08:40.488603",
   "types_distribution": {
     "small_airport": 35,
     "medium_airport": 5,
@@ -19,7 +19,8 @@
       "iso_region": "SO-GA",
       "municipality": "Adado",
       "iata_code": "AAD",
-      "coordinates": "6.095802, 46.6375"
+      "coordinates": "6.095802, 46.6375",
+      "metar_available": false
     },
     {
       "ident": "GBM",
@@ -31,7 +32,8 @@
       "iso_region": "SO-GE",
       "municipality": "Garbaharey",
       "iata_code": "GBM",
-      "coordinates": "3.32294, 42.21309"
+      "coordinates": "3.32294, 42.21309",
+      "metar_available": false
     },
     {
       "ident": "HCDM",
@@ -42,7 +44,8 @@
       "iso_country": "SO",
       "iso_region": "SO-GA",
       "gps_code": "HCDM",
-      "coordinates": "5.472, 46.359833"
+      "coordinates": "5.472, 46.359833",
+      "metar_available": false
     },
     {
       "ident": "HCMA",
@@ -55,7 +58,8 @@
       "municipality": "Alula",
       "gps_code": "HCMA",
       "iata_code": "ALU",
-      "coordinates": "11.9582, 50.748"
+      "coordinates": "11.9582, 50.748",
+      "metar_available": false
     },
     {
       "ident": "HCMB",
@@ -68,7 +72,8 @@
       "municipality": "Baidoa",
       "gps_code": "HCMB",
       "iata_code": "BIB",
-      "coordinates": "3.10192, 43.627137"
+      "coordinates": "3.10192, 43.627137",
+      "metar_available": false
     },
     {
       "ident": "HCMC",
@@ -81,7 +86,8 @@
       "municipality": "Candala",
       "gps_code": "HCMC",
       "iata_code": "CXN",
-      "coordinates": "11.495627, 49.909816"
+      "coordinates": "11.495627, 49.909816",
+      "metar_available": false
     },
     {
       "ident": "HCMD",
@@ -94,7 +100,8 @@
       "municipality": "Baardheere",
       "gps_code": "HCMD",
       "iata_code": "BSY",
-      "coordinates": "2.330195, 42.311802"
+      "coordinates": "2.330195, 42.311802",
+      "metar_available": false
     },
     {
       "ident": "HCME",
@@ -107,7 +114,8 @@
       "municipality": "Eyl",
       "gps_code": "HCME",
       "iata_code": "HCM",
-      "coordinates": "8.104, 49.82"
+      "coordinates": "8.104, 49.82",
+      "metar_available": false
     },
     {
       "ident": "HCMF",
@@ -120,7 +128,8 @@
       "municipality": "Bosaso",
       "gps_code": "HCMF",
       "iata_code": "BSA",
-      "coordinates": "11.275235, 49.139231"
+      "coordinates": "11.275235, 49.139231",
+      "metar_available": false
     },
     {
       "ident": "HCMG",
@@ -133,7 +142,8 @@
       "municipality": "Gardo",
       "gps_code": "HCMG",
       "iata_code": "GSR",
-      "coordinates": "9.545975, 49.119148"
+      "coordinates": "9.545975, 49.119148",
+      "metar_available": false
     },
     {
       "ident": "HCMH",
@@ -146,7 +156,8 @@
       "municipality": "Hargeisa",
       "gps_code": "HCMH",
       "iata_code": "HGA",
-      "coordinates": "9.513207, 44.082389"
+      "coordinates": "9.513207, 44.082389",
+      "metar_available": false
     },
     {
       "ident": "HCMI",
@@ -159,7 +170,8 @@
       "municipality": "Berbera",
       "gps_code": "HCMI",
       "iata_code": "BBO",
-      "coordinates": "10.385035, 44.936723"
+      "coordinates": "10.385035, 44.936723",
+      "metar_available": false
     },
     {
       "ident": "HCMJ",
@@ -172,7 +184,8 @@
       "municipality": "Luuq",
       "gps_code": "HCMJ",
       "iata_code": "LGX",
-      "coordinates": "3.8124, 42.5459"
+      "coordinates": "3.8124, 42.5459",
+      "metar_available": false
     },
     {
       "ident": "HCMK",
@@ -185,7 +198,8 @@
       "municipality": "Kismayo",
       "gps_code": "HCMK",
       "iata_code": "KMU",
-      "coordinates": "-0.377353, 42.459202"
+      "coordinates": "-0.377353, 42.459202",
+      "metar_available": false
     },
     {
       "ident": "HCMM",
@@ -198,7 +212,8 @@
       "municipality": "Mogadishu",
       "gps_code": "HCMM",
       "iata_code": "MGQ",
-      "coordinates": "2.0144400596618652, 45.3046989440918"
+      "coordinates": "2.0144400596618652, 45.3046989440918",
+      "metar_available": false
     },
     {
       "ident": "HCMN",
@@ -211,7 +226,8 @@
       "municipality": "Beledweyne",
       "gps_code": "HCMN",
       "iata_code": "BLW",
-      "coordinates": "4.766976, 45.2388"
+      "coordinates": "4.766976, 45.2388",
+      "metar_available": false
     },
     {
       "ident": "HCMO",
@@ -224,7 +240,8 @@
       "municipality": "Hobyo",
       "gps_code": "HCMO",
       "iata_code": "CMO",
-      "coordinates": "5.358003, 48.515281"
+      "coordinates": "5.358003, 48.515281",
+      "metar_available": false
     },
     {
       "ident": "HCMR",
@@ -237,7 +254,8 @@
       "municipality": "Galcaio",
       "gps_code": "HCMR",
       "iata_code": "GLK",
-      "coordinates": "6.78082990646, 47.45470047"
+      "coordinates": "6.78082990646, 47.45470047",
+      "metar_available": false
     },
     {
       "ident": "HCMS",
@@ -250,7 +268,8 @@
       "municipality": "Iskushuban",
       "gps_code": "HCMS",
       "iata_code": "CMS",
-      "coordinates": "10.313889, 50.205556"
+      "coordinates": "10.313889, 50.205556",
+      "metar_available": false
     },
     {
       "ident": "HCMU",
@@ -263,7 +282,8 @@
       "municipality": "Erigavo",
       "gps_code": "HCMU",
       "iata_code": "ERA",
-      "coordinates": "10.642050549, 47.3879814148"
+      "coordinates": "10.642050549, 47.3879814148",
+      "metar_available": false
     },
     {
       "ident": "HCMV",
@@ -276,7 +296,8 @@
       "municipality": "Burao",
       "gps_code": "HCMV",
       "iata_code": "BUO",
-      "coordinates": "9.5275, 45.5549"
+      "coordinates": "9.5275, 45.5549",
+      "metar_available": false
     },
     {
       "ident": "HCMW",
@@ -289,7 +310,8 @@
       "municipality": "Garowe",
       "gps_code": "HCGR",
       "iata_code": "GGR",
-      "coordinates": "8.457942, 48.567407"
+      "coordinates": "8.457942, 48.567407",
+      "metar_available": false
     },
     {
       "ident": "SO-0001",
@@ -300,7 +322,8 @@
       "iso_country": "SO",
       "iso_region": "SO-SH",
       "municipality": "Mogadishu",
-      "coordinates": "2.00528, 44.986599"
+      "coordinates": "2.00528, 44.986599",
+      "metar_available": false
     },
     {
       "ident": "SO-0002",
@@ -313,7 +336,8 @@
       "municipality": "Wanlaweyn",
       "gps_code": "HC01",
       "local_code": "HC01",
-      "coordinates": "2.670742, 44.792897"
+      "coordinates": "2.670742, 44.792897",
+      "metar_available": false
     },
     {
       "ident": "SO-0003",
@@ -323,7 +347,8 @@
       "iso_country": "SO",
       "iso_region": "SO-SH",
       "municipality": "Mogadishu",
-      "coordinates": "1.972613, 45.222878"
+      "coordinates": "1.972613, 45.222878",
+      "metar_available": false
     },
     {
       "ident": "SO-0004",
@@ -334,7 +359,8 @@
       "iso_country": "SO",
       "iso_region": "SO-BR",
       "municipality": "Hafun",
-      "coordinates": "10.445, 51.2466"
+      "coordinates": "10.445, 51.2466",
+      "metar_available": false
     },
     {
       "ident": "SO-0005",
@@ -345,7 +371,8 @@
       "iso_country": "SO",
       "iso_region": "SO-BR",
       "municipality": "Hafun",
-      "coordinates": "10.4154, 51.3256"
+      "coordinates": "10.4154, 51.3256",
+      "metar_available": false
     },
     {
       "ident": "SO-0006",
@@ -355,7 +382,8 @@
       "iso_country": "SO",
       "iso_region": "SO-GE",
       "municipality": "Buurdhuubo",
-      "coordinates": "3.157458, 42.525189"
+      "coordinates": "3.157458, 42.525189",
+      "metar_available": false
     },
     {
       "ident": "SO-0007",
@@ -365,7 +393,8 @@
       "iso_country": "SO",
       "iso_region": "SO-JH",
       "municipality": "Dhoobley",
-      "coordinates": "0.399533, 40.99606"
+      "coordinates": "0.399533, 40.99606",
+      "metar_available": false
     },
     {
       "ident": "SO-0008",
@@ -376,7 +405,8 @@
       "iso_region": "SO-SA",
       "municipality": "Las Khorey",
       "iata_code": "LKR",
-      "coordinates": "11.17348, 48.21426"
+      "coordinates": "11.17348, 48.21426",
+      "metar_available": false
     },
     {
       "ident": "SO-0009",
@@ -386,7 +416,8 @@
       "iso_country": "SO",
       "iso_region": "SO-BR",
       "municipality": "Bosaso",
-      "coordinates": "11.26794, 49.09876"
+      "coordinates": "11.26794, 49.09876",
+      "metar_available": false
     },
     {
       "ident": "SO-0010",
@@ -396,7 +427,8 @@
       "iso_country": "SO",
       "iso_region": "SO-BR",
       "municipality": "Bandarbeyla",
-      "coordinates": "9.4603, 50.7416"
+      "coordinates": "9.4603, 50.7416",
+      "metar_available": false
     },
     {
       "ident": "SO-0011",
@@ -406,7 +438,8 @@
       "iso_country": "SO",
       "iso_region": "SO-MU",
       "municipality": "Garacad",
-      "coordinates": "6.8773, 49.2476"
+      "coordinates": "6.8773, 49.2476",
+      "metar_available": false
     },
     {
       "ident": "SO-0012",
@@ -416,7 +449,8 @@
       "iso_country": "SO",
       "iso_region": "SO-GA",
       "municipality": "Ceeldheer",
-      "coordinates": "3.84182, 47.16841"
+      "coordinates": "3.84182, 47.16841",
+      "metar_available": false
     },
     {
       "ident": "SO-0013",
@@ -426,7 +460,8 @@
       "iso_country": "SO",
       "iso_region": "SO-SH",
       "municipality": "Mogadishu",
-      "coordinates": "2.122039, 45.268856"
+      "coordinates": "2.122039, 45.268856",
+      "metar_available": false
     },
     {
       "ident": "SO-0014",
@@ -436,7 +471,8 @@
       "iso_country": "SO",
       "iso_region": "SO-SH",
       "municipality": "Merca",
-      "coordinates": "1.63274, 44.64865"
+      "coordinates": "1.63274, 44.64865",
+      "metar_available": false
     },
     {
       "ident": "SO-0015",
@@ -446,7 +482,8 @@
       "iso_country": "SO",
       "iso_region": "SO-SH",
       "municipality": "Baraawe",
-      "coordinates": "1.09438, 43.99532"
+      "coordinates": "1.09438, 43.99532",
+      "metar_available": false
     },
     {
       "ident": "SO-0016",
@@ -456,7 +493,8 @@
       "iso_country": "SO",
       "iso_region": "SO-JH",
       "municipality": "Jamaame",
-      "coordinates": "0.05754, 42.755045"
+      "coordinates": "0.05754, 42.755045",
+      "metar_available": false
     },
     {
       "ident": "SO-0017",
@@ -467,7 +505,8 @@
       "iso_country": "SO",
       "iso_region": "SO-JH",
       "municipality": "Afmadow",
-      "coordinates": "0.53769, 42.05637"
+      "coordinates": "0.53769, 42.05637",
+      "metar_available": false
     },
     {
       "ident": "SO-0018",
@@ -479,7 +518,8 @@
       "iso_region": "SO-JH",
       "municipality": "Bu'aale",
       "gps_code": "HCBU",
-      "coordinates": "1.26821, 42.58794"
+      "coordinates": "1.26821, 42.58794",
+      "metar_available": false
     },
     {
       "ident": "SO-0019",
@@ -490,7 +530,8 @@
       "iso_country": "SO",
       "iso_region": "SO-GE",
       "municipality": "Doolow",
-      "coordinates": "4.1493, 42.08119"
+      "coordinates": "4.1493, 42.08119",
+      "metar_available": false
     },
     {
       "ident": "SO-0020",
@@ -501,7 +542,8 @@
       "iso_region": "SO-GA",
       "municipality": "Guriel",
       "iata_code": "GUO",
-      "coordinates": "5.317412, 45.985308"
+      "coordinates": "5.317412, 45.985308",
+      "metar_available": false
     },
     {
       "ident": "SO-BXX",
@@ -512,7 +554,8 @@
       "iso_region": "SO-WO",
       "municipality": "Borama",
       "iata_code": "BXX",
-      "coordinates": "9.9463, 43.1495"
+      "coordinates": "9.9463, 43.1495",
+      "metar_available": false
     }
   ]
 }

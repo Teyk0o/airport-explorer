@@ -2,7 +2,7 @@
   "country_code": "CG",
   "country_name": "Republic of the Congo",
   "total_airports": 57,
-  "last_updated": "2025-08-01T00:18:22.616878",
+  "last_updated": "2025-08-25T10:08:40.753303",
   "types_distribution": {
     "small_airport": 50,
     "closed": 1,
@@ -17,7 +17,8 @@
       "iso_country": "CG",
       "iso_region": "CG-7",
       "municipality": "Matoko",
-      "coordinates": "-1.012216, 17.104403"
+      "coordinates": "-1.012216, 17.104403",
+      "metar_available": false
     },
     {
       "ident": "CG-0002",
@@ -27,7 +28,8 @@
       "iso_country": "CG",
       "iso_region": "CG-13",
       "municipality": "Bomassa",
-      "coordinates": "2.202584, 16.185859"
+      "coordinates": "2.202584, 16.185859",
+      "metar_available": false
     },
     {
       "ident": "CG-0003",
@@ -38,7 +40,8 @@
       "iso_country": "CG",
       "iso_region": "CG-7",
       "municipality": "Mokabi",
-      "coordinates": "3.278863, 16.756092"
+      "coordinates": "3.278863, 16.756092",
+      "metar_available": false
     },
     {
       "ident": "CG-0004",
@@ -49,7 +52,8 @@
       "iso_country": "CG",
       "iso_region": "CG-7",
       "municipality": "Enyele",
-      "coordinates": "2.829175, 18.02458"
+      "coordinates": "2.829175, 18.02458",
+      "metar_available": false
     },
     {
       "ident": "CG-0005",
@@ -60,7 +64,8 @@
       "iso_country": "CG",
       "iso_region": "CG-7",
       "municipality": "Thanry",
-      "coordinates": "2.651304, 17.173194"
+      "coordinates": "2.651304, 17.173194",
+      "metar_available": false
     },
     {
       "ident": "CG-0006",
@@ -70,7 +75,8 @@
       "iso_country": "CG",
       "iso_region": "CG-8",
       "municipality": "Obouya",
-      "coordinates": "-0.92292, 15.71381"
+      "coordinates": "-0.92292, 15.71381",
+      "metar_available": false
     },
     {
       "ident": "CG-OKG",
@@ -82,7 +88,8 @@
       "iso_region": "CG-8",
       "municipality": "Okoyo",
       "iata_code": "OKG",
-      "coordinates": "-1.4483300447464, 15.073300361633"
+      "coordinates": "-1.4483300447464, 15.073300361633",
+      "metar_available": false
     },
     {
       "ident": "FCBA",
@@ -94,7 +101,8 @@
       "iso_region": "CG-12",
       "municipality": "La Louila",
       "gps_code": "FCBA",
-      "coordinates": "-4.083000183105469, 14.232999801635742"
+      "coordinates": "-4.083000183105469, 14.232999801635742",
+      "metar_available": false
     },
     {
       "ident": "FCBB",
@@ -107,7 +115,8 @@
       "municipality": "Brazzaville",
       "gps_code": "FCBB",
       "iata_code": "BZV",
-      "coordinates": "-4.251699924468994, 15.253000259399414"
+      "coordinates": "-4.251699924468994, 15.253000259399414",
+      "metar_available": false
     },
     {
       "ident": "FCBD",
@@ -120,7 +129,8 @@
       "municipality": "Djambala",
       "gps_code": "FCBD",
       "iata_code": "DJM",
-      "coordinates": "-2.516883, 14.754403"
+      "coordinates": "-2.516883, 14.754403",
+      "metar_available": false
     },
     {
       "ident": "FCBK",
@@ -133,7 +143,8 @@
       "municipality": "Kindamba",
       "gps_code": "FCBK",
       "iata_code": "KNJ",
-      "coordinates": "-3.749781, 14.490264"
+      "coordinates": "-3.749781, 14.490264",
+      "metar_available": false
     },
     {
       "ident": "FCBL",
@@ -146,7 +157,8 @@
       "municipality": "Lague",
       "gps_code": "FCBL",
       "iata_code": "LCO",
-      "coordinates": "-2.45, 14.533"
+      "coordinates": "-2.45, 14.533",
+      "metar_available": false
     },
     {
       "ident": "FCBM",
@@ -159,7 +171,8 @@
       "municipality": "Mouyondzi",
       "gps_code": "FCBM",
       "iata_code": "MUY",
-      "coordinates": "-4.014874, 13.966112"
+      "coordinates": "-4.014874, 13.966112",
+      "metar_available": false
     },
     {
       "ident": "FCBP",
@@ -171,7 +184,8 @@
       "iso_region": "CG-12",
       "municipality": "M'passa",
       "gps_code": "FCBP",
-      "coordinates": "-4.367000102996826, 14.149999618530273"
+      "coordinates": "-4.367000102996826, 14.149999618530273",
+      "metar_available": false
     },
     {
       "ident": "FCBS",
@@ -184,7 +198,8 @@
       "municipality": "Sibiti",
       "gps_code": "FCBS",
       "iata_code": "SIB",
-      "coordinates": "-3.683, 13.35"
+      "coordinates": "-3.683, 13.35",
+      "metar_available": false
     },
     {
       "ident": "FCBT",
@@ -196,7 +211,8 @@
       "iso_region": "CG-11",
       "municipality": "Loutete",
       "gps_code": "FCBT",
-      "coordinates": "-4.2829999923706055, 13.866999626159668"
+      "coordinates": "-4.2829999923706055, 13.866999626159668",
+      "metar_available": false
     },
     {
       "ident": "FCBU",
@@ -208,7 +224,8 @@
       "iso_region": "CG-11",
       "municipality": "Aubeville",
       "gps_code": "FCBU",
-      "coordinates": "-4.267000198364258, 13.532999992370605"
+      "coordinates": "-4.267000198364258, 13.532999992370605",
+      "metar_available": false
     },
     {
       "ident": "FCBY",
@@ -221,7 +238,8 @@
       "municipality": "Nkayi",
       "gps_code": "FCBY",
       "iata_code": "NKY",
-      "coordinates": "-4.223077, 13.286347"
+      "coordinates": "-4.223077, 13.286347",
+      "metar_available": false
     },
     {
       "ident": "FCBZ",
@@ -234,7 +252,8 @@
       "municipality": "Zanaga",
       "gps_code": "FCBZ",
       "iata_code": "ANJ",
-      "coordinates": "-2.85, 13.817"
+      "coordinates": "-2.85, 13.817",
+      "metar_available": false
     },
     {
       "ident": "FCMA",
@@ -246,7 +265,8 @@
       "iso_region": "CG-9",
       "municipality": "Mavinza",
       "gps_code": "FCMA",
-      "coordinates": "-2.450000047683716, 11.649999618530273"
+      "coordinates": "-2.450000047683716, 11.649999618530273",
+      "metar_available": false
     },
     {
       "ident": "FCMB",
@@ -258,7 +278,8 @@
       "iso_region": "CG-9",
       "municipality": "N'Ziba",
       "gps_code": "FCMB",
-      "coordinates": "-2.7170000076293945, 12.532999992370605"
+      "coordinates": "-2.7170000076293945, 12.532999992370605",
+      "metar_available": false
     },
     {
       "ident": "FCMD",
@@ -270,7 +291,8 @@
       "iso_region": "CG-9",
       "municipality": "Sidetra",
       "gps_code": "FCMD",
-      "coordinates": "-2.867000102996826, 12.866999626159668"
+      "coordinates": "-2.867000102996826, 12.866999626159668",
+      "metar_available": false
     },
     {
       "ident": "FCMF",
@@ -282,7 +304,8 @@
       "iso_region": "CG-9",
       "municipality": "Loufoula",
       "gps_code": "FCMF",
-      "coordinates": "-3, 12"
+      "coordinates": "-3, 12",
+      "metar_available": false
     },
     {
       "ident": "FCMG",
@@ -294,7 +317,8 @@
       "iso_region": "CG-9",
       "municipality": "Gokango",
       "gps_code": "FCMG",
-      "coordinates": "-3.0329999923706055, 12.133000373840332"
+      "coordinates": "-3.0329999923706055, 12.133000373840332",
+      "metar_available": false
     },
     {
       "ident": "FCMI",
@@ -306,7 +330,8 @@
       "iso_region": "CG-9",
       "municipality": "Irogo",
       "gps_code": "FCMI",
-      "coordinates": "-2.7170000076293945, 11.883000373840332"
+      "coordinates": "-2.7170000076293945, 11.883000373840332",
+      "metar_available": false
     },
     {
       "ident": "FCMK",
@@ -318,7 +343,8 @@
       "iso_region": "CG-9",
       "municipality": "Kele Kibangou",
       "gps_code": "FCMK",
-      "coordinates": "-3.316999912261963, 12.616999626159668"
+      "coordinates": "-3.316999912261963, 12.616999626159668",
+      "metar_available": false
     },
     {
       "ident": "FCML",
@@ -330,7 +356,8 @@
       "iso_region": "CG-9",
       "municipality": "Leboulou",
       "gps_code": "FCML",
-      "coordinates": "-2.9000000953674316, 12.366999626159668"
+      "coordinates": "-2.9000000953674316, 12.366999626159668",
+      "metar_available": false
     },
     {
       "ident": "FCMM",
@@ -343,7 +370,8 @@
       "municipality": "Mossendjo",
       "gps_code": "FCMM",
       "iata_code": "MSX",
-      "coordinates": "-2.95, 12.7"
+      "coordinates": "-2.95, 12.7",
+      "metar_available": false
     },
     {
       "ident": "FCMN",
@@ -355,7 +383,8 @@
       "iso_region": "CG-9",
       "municipality": "N'gongo",
       "gps_code": "FCMN",
-      "coordinates": "-2.9830000400543213, 12.199999809265137"
+      "coordinates": "-2.9830000400543213, 12.199999809265137",
+      "metar_available": false
     },
     {
       "ident": "FCMO",
@@ -367,7 +396,8 @@
       "iso_region": "CG-9",
       "municipality": "Mandoro",
       "gps_code": "FCMO",
-      "coordinates": "-2.6500000953674316, 12.883000373840332"
+      "coordinates": "-2.6500000953674316, 12.883000373840332",
+      "metar_available": false
     },
     {
       "ident": "FCMR",
@@ -379,7 +409,8 @@
       "iso_region": "CG-9",
       "municipality": "Marala",
       "gps_code": "FCMR",
-      "coordinates": "-2.9000000953674316, 12.633000373840332"
+      "coordinates": "-2.9000000953674316, 12.633000373840332",
+      "metar_available": false
     },
     {
       "ident": "FCMS",
@@ -391,7 +422,8 @@
       "iso_region": "CG-9",
       "municipality": "Nyanga",
       "gps_code": "FCMS",
-      "coordinates": "-2.867000102996826, 11.949999809265137"
+      "coordinates": "-2.867000102996826, 11.949999809265137",
+      "metar_available": false
     },
     {
       "ident": "FCMY",
@@ -403,7 +435,8 @@
       "iso_region": "CG-9",
       "municipality": "Legala",
       "gps_code": "FCMY",
-      "coordinates": "-2.2170000076293945, 12.833000183105469"
+      "coordinates": "-2.2170000076293945, 12.833000183105469",
+      "metar_available": false
     },
     {
       "ident": "FCMZ",
@@ -415,7 +448,8 @@
       "iso_region": "CG-9",
       "municipality": "N'Zabi",
       "gps_code": "FCMZ",
-      "coordinates": "-3.1670000553131104, 12.866999626159668"
+      "coordinates": "-3.1670000553131104, 12.866999626159668",
+      "metar_available": false
     },
     {
       "ident": "FCOB",
@@ -428,7 +462,8 @@
       "municipality": "Boundji",
       "gps_code": "FCOB",
       "iata_code": "BOE",
-      "coordinates": "-1.03104, 15.336009"
+      "coordinates": "-1.03104, 15.336009",
+      "metar_available": false
     },
     {
       "ident": "FCOD",
@@ -441,7 +476,8 @@
       "municipality": "Oyo",
       "gps_code": "FCOD",
       "iata_code": "OLL",
-      "coordinates": "-1.226666, 15.91"
+      "coordinates": "-1.226666, 15.91",
+      "metar_available": false
     },
     {
       "ident": "FCOE",
@@ -454,7 +490,8 @@
       "municipality": "Ewo",
       "gps_code": "FCOE",
       "iata_code": "EWO",
-      "coordinates": "-0.883, 14.8"
+      "coordinates": "-0.883, 14.8",
+      "metar_available": false
     },
     {
       "ident": "FCOG",
@@ -467,7 +504,8 @@
       "municipality": "Gamboma",
       "gps_code": "FCOG",
       "iata_code": "GMM",
-      "coordinates": "-1.829403, 15.885237"
+      "coordinates": "-1.829403, 15.885237",
+      "metar_available": false
     },
     {
       "ident": "FCOI",
@@ -480,7 +518,8 @@
       "municipality": "Impfondo",
       "gps_code": "FCOI",
       "iata_code": "ION",
-      "coordinates": "1.589968, 18.046624"
+      "coordinates": "1.589968, 18.046624",
+      "metar_available": false
     },
     {
       "ident": "FCOK",
@@ -493,7 +532,8 @@
       "municipality": "Kelle",
       "gps_code": "FCOK",
       "iata_code": "KEE",
-      "coordinates": "-0.071271, 14.506621"
+      "coordinates": "-0.071271, 14.506621",
+      "metar_available": false
     },
     {
       "ident": "FCOM",
@@ -506,7 +546,8 @@
       "municipality": "Makoua",
       "gps_code": "FCOM",
       "iata_code": "MKJ",
-      "coordinates": "-0.020842, 15.577746"
+      "coordinates": "-0.020842, 15.577746",
+      "metar_available": false
     },
     {
       "ident": "FCOO",
@@ -519,7 +560,8 @@
       "municipality": "Owando",
       "gps_code": "FCOO",
       "iata_code": "FTX",
-      "coordinates": "-0.524566, 15.93782"
+      "coordinates": "-0.524566, 15.93782",
+      "metar_available": false
     },
     {
       "ident": "FCOS",
@@ -532,7 +574,8 @@
       "municipality": "Souanke",
       "gps_code": "FCOS",
       "iata_code": "SOE",
-      "coordinates": "1.998326, 14.174217"
+      "coordinates": "1.998326, 14.174217",
+      "metar_available": false
     },
     {
       "ident": "FCOT",
@@ -545,7 +588,8 @@
       "municipality": "Betou",
       "gps_code": "FCOT",
       "iata_code": "BTB",
-      "coordinates": "3.057593, 18.514433"
+      "coordinates": "3.057593, 18.514433",
+      "metar_available": false
     },
     {
       "ident": "FCOU",
@@ -557,7 +601,8 @@
       "iso_region": "CG-13",
       "gps_code": "FCOU",
       "iata_code": "OUE",
-      "coordinates": "1.61599, 16.037901"
+      "coordinates": "1.61599, 16.037901",
+      "metar_available": false
     },
     {
       "ident": "FCPA",
@@ -570,7 +615,8 @@
       "municipality": "Makabana",
       "gps_code": "FCPA",
       "iata_code": "KMK",
-      "coordinates": "-3.483, 12.617"
+      "coordinates": "-3.483, 12.617",
+      "metar_available": false
     },
     {
       "ident": "FCPB",
@@ -582,7 +628,8 @@
       "iso_region": "CG-2",
       "municipality": "Bangamba",
       "gps_code": "FCPB",
-      "coordinates": "-3.683000087738037, 13.199999809265137"
+      "coordinates": "-3.683000087738037, 13.199999809265137",
+      "metar_available": false
     },
     {
       "ident": "FCPE",
@@ -594,7 +641,8 @@
       "iso_region": "CG-2",
       "municipality": "Leganda",
       "gps_code": "FCPE",
-      "coordinates": "-3.433000087738037, 12.932999610900879"
+      "coordinates": "-3.433000087738037, 12.932999610900879",
+      "metar_available": false
     },
     {
       "ident": "FCPG",
@@ -606,7 +654,8 @@
       "iso_region": "CG-9",
       "municipality": "Kibangou",
       "gps_code": "FCPG",
-      "coordinates": "-3.4830000400543213, 12.300000190734863"
+      "coordinates": "-3.4830000400543213, 12.300000190734863",
+      "metar_available": false
     },
     {
       "ident": "FCPI",
@@ -618,7 +667,8 @@
       "iso_region": "CG-9",
       "municipality": "Loubetsi",
       "gps_code": "FCPI",
-      "coordinates": "-3.700000047683716, 12.133000373840332"
+      "coordinates": "-3.700000047683716, 12.133000373840332",
+      "metar_available": false
     },
     {
       "ident": "FCPK",
@@ -630,7 +680,8 @@
       "iso_region": "CG-5",
       "municipality": "N'zambi",
       "gps_code": "FCPK",
-      "coordinates": "-3.93999, 11.30887"
+      "coordinates": "-3.93999, 11.30887",
+      "metar_available": false
     },
     {
       "ident": "FCPL",
@@ -643,7 +694,8 @@
       "municipality": "Dolisie",
       "gps_code": "FCPD",
       "iata_code": "DIS",
-      "coordinates": "-4.20635, 12.6599"
+      "coordinates": "-4.20635, 12.6599",
+      "metar_available": false
     },
     {
       "ident": "FCPN",
@@ -655,7 +707,8 @@
       "iso_region": "CG-5",
       "municipality": "Noumbi",
       "gps_code": "FCPN",
-      "coordinates": "-4.144149, 11.383476"
+      "coordinates": "-4.144149, 11.383476",
+      "metar_available": false
     },
     {
       "ident": "FCPO",
@@ -667,7 +720,8 @@
       "iso_region": "CG-9",
       "municipality": "Pemo",
       "gps_code": "FCPO",
-      "coordinates": "-2.867000102996826, 12.532999992370605"
+      "coordinates": "-2.867000102996826, 12.532999992370605",
+      "metar_available": false
     },
     {
       "ident": "FCPP",
@@ -680,7 +734,8 @@
       "municipality": "Pointe Noire",
       "gps_code": "FCPP",
       "iata_code": "PNR",
-      "coordinates": "-4.81603, 11.8866"
+      "coordinates": "-4.81603, 11.8866",
+      "metar_available": false
     },
     {
       "ident": "FCPY",
@@ -692,7 +747,8 @@
       "iso_region": "CG-5",
       "municipality": "Loukanyi",
       "gps_code": "FCPY",
-      "coordinates": "-4.048475, 11.521568"
+      "coordinates": "-4.048475, 11.521568",
+      "metar_available": false
     },
     {
       "ident": "LKC",
@@ -704,7 +760,8 @@
       "iso_region": "CG-14",
       "municipality": "Lekana",
       "iata_code": "LKC",
-      "coordinates": "-2.313, 14.606"
+      "coordinates": "-2.313, 14.606",
+      "metar_available": false
     }
   ]
 }

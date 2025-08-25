@@ -2,7 +2,7 @@
   "country_code": "TT",
   "country_name": "Trinidad and Tobago",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.854607",
+  "last_updated": "2025-08-25T10:08:41.011082",
   "types_distribution": {
     "small_airport": 1,
     "medium_airport": 2
@@ -17,7 +17,8 @@
       "iso_region": "TT-CTT",
       "municipality": "Couva",
       "local_code": "TT01",
-      "coordinates": "10.4263, -61.439701"
+      "coordinates": "10.4263, -61.439701",
+      "metar_available": false
     },
     {
       "ident": "TTCP",
@@ -29,7 +30,8 @@
       "municipality": "Scarborough",
       "gps_code": "TTCP",
       "iata_code": "TAB",
-      "coordinates": "11.1497, -60.832199"
+      "coordinates": "11.1497, -60.832199",
+      "metar_available": false
     },
     {
       "ident": "TTPP",
@@ -41,7 +43,8 @@
       "municipality": "Port of Spain",
       "gps_code": "TTPP",
       "iata_code": "POS",
-      "coordinates": "10.5954, -61.3372"
+      "coordinates": "10.5954, -61.3372",
+      "metar_available": false
     }
   ]
 }

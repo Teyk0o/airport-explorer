@@ -2,7 +2,7 @@
   "country_code": "HN",
   "country_name": "Honduras",
   "total_airports": 159,
-  "last_updated": "2025-08-01T00:18:22.744127",
+  "last_updated": "2025-08-25T10:08:40.890081",
   "types_distribution": {
     "small_airport": 121,
     "closed": 24,
@@ -18,7 +18,8 @@
       "iso_country": "HN",
       "iso_region": "HN-OL",
       "municipality": "La Lima",
-      "coordinates": "14.596943855285645, -86.50749969482422"
+      "coordinates": "14.596943855285645, -86.50749969482422",
+      "metar_available": false
     },
     {
       "ident": "HN-0002",
@@ -28,7 +29,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CL",
       "municipality": "Corocito",
-      "coordinates": "15.745400428771973, -85.722900390625"
+      "coordinates": "15.745400428771973, -85.722900390625",
+      "metar_available": false
     },
     {
       "ident": "HN-0003",
@@ -39,7 +41,8 @@
       "iso_region": "HN-EP",
       "municipality": "Danli",
       "gps_code": "MHCQ",
-      "coordinates": "14.087192, -86.649427"
+      "coordinates": "14.087192, -86.649427",
+      "metar_available": false
     },
     {
       "ident": "HN-0004",
@@ -49,7 +52,8 @@
       "iso_country": "HN",
       "iso_region": "HN-AT",
       "municipality": "El Retiro",
-      "coordinates": "15.583333015442, -87.393058776855"
+      "coordinates": "15.583333015442, -87.393058776855",
+      "metar_available": false
     },
     {
       "ident": "HN-0005",
@@ -59,7 +63,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CR",
       "municipality": "San Pedro Sula",
-      "coordinates": "15.508610725402832, -88.01944732666016"
+      "coordinates": "15.508610725402832, -88.01944732666016",
+      "metar_available": false
     },
     {
       "ident": "HN-0006",
@@ -70,7 +75,8 @@
       "iso_region": "HN-YO",
       "municipality": "El Caulote",
       "gps_code": "MHYO",
-      "coordinates": "15.183333, -87.069443"
+      "coordinates": "15.183333, -87.069443",
+      "metar_available": false
     },
     {
       "ident": "HN-0007",
@@ -80,7 +86,8 @@
       "iso_country": "HN",
       "iso_region": "HN-IB",
       "municipality": "Isla de Guanaja",
-      "coordinates": "16.4943, -85.865868"
+      "coordinates": "16.4943, -85.865868",
+      "metar_available": false
     },
     {
       "ident": "HN-0008",
@@ -90,7 +97,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CR",
       "municipality": "Higuerito",
-      "coordinates": "15.188333, -87.938614"
+      "coordinates": "15.188333, -87.938614",
+      "metar_available": false
     },
     {
       "ident": "HN-0009",
@@ -100,7 +108,8 @@
       "iso_country": "HN",
       "iso_region": "HN-VA",
       "municipality": "Amapala",
-      "coordinates": "13.283075, -87.617362"
+      "coordinates": "13.283075, -87.617362",
+      "metar_available": false
     },
     {
       "ident": "HN-0010",
@@ -110,7 +119,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CM",
       "municipality": "Siguatepeque",
-      "coordinates": "14.593056, -87.840553"
+      "coordinates": "14.593056, -87.840553",
+      "metar_available": false
     },
     {
       "ident": "HN-0011",
@@ -120,7 +130,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CM",
       "municipality": "Comayagua",
-      "coordinates": "14.432799, -87.625596"
+      "coordinates": "14.432799, -87.625596",
+      "metar_available": false
     },
     {
       "ident": "HN-0012",
@@ -130,7 +141,8 @@
       "iso_country": "HN",
       "iso_region": "HN-LP",
       "municipality": "Marcala",
-      "coordinates": "14.161944, -88.034447"
+      "coordinates": "14.161944, -88.034447",
+      "metar_available": false
     },
     {
       "ident": "HN-0013",
@@ -140,7 +152,8 @@
       "iso_country": "HN",
       "iso_region": "HN-YO",
       "municipality": "Agua Blanca",
-      "coordinates": "15.269722, -87.902779"
+      "coordinates": "15.269722, -87.902779",
+      "metar_available": false
     },
     {
       "ident": "HN-0014",
@@ -150,7 +163,8 @@
       "iso_country": "HN",
       "iso_region": "HN-LP",
       "municipality": "Santiago de Puringla",
-      "coordinates": "14.3675, -87.911392"
+      "coordinates": "14.3675, -87.911392",
+      "metar_available": false
     },
     {
       "ident": "HN-0015",
@@ -160,7 +174,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CL",
       "municipality": "La Puerta",
-      "coordinates": "15.910278, -85.171112"
+      "coordinates": "15.910278, -85.171112",
+      "metar_available": false
     },
     {
       "ident": "HN-0016",
@@ -170,7 +185,8 @@
       "iso_country": "HN",
       "iso_region": "HN-YO",
       "municipality": "Jocón",
-      "coordinates": "15.290556, -86.912224"
+      "coordinates": "15.290556, -86.912224",
+      "metar_available": false
     },
     {
       "ident": "HN-0017",
@@ -180,7 +196,8 @@
       "iso_country": "HN",
       "iso_region": "HN-SB",
       "municipality": "Las Vegas",
-      "coordinates": "14.874575, -88.07353"
+      "coordinates": "14.874575, -88.07353",
+      "metar_available": false
     },
     {
       "ident": "HN-0018",
@@ -190,7 +207,8 @@
       "iso_country": "HN",
       "iso_region": "HN-YO",
       "municipality": "Vallecillo",
-      "coordinates": "15.051111, -87.246666"
+      "coordinates": "15.051111, -87.246666",
+      "metar_available": false
     },
     {
       "ident": "HN-0019",
@@ -200,7 +218,8 @@
       "iso_country": "HN",
       "iso_region": "HN-SB",
       "municipality": "San Antonio de Malera",
-      "coordinates": "14.674313, -88.257208"
+      "coordinates": "14.674313, -88.257208",
+      "metar_available": false
     },
     {
       "ident": "HN-0020",
@@ -210,7 +229,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CH",
       "municipality": "Nacaome",
-      "coordinates": "13.528624, -87.500095"
+      "coordinates": "13.528624, -87.500095",
+      "metar_available": false
     },
     {
       "ident": "HN-0021",
@@ -220,7 +240,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CL",
       "municipality": "Farallones",
-      "coordinates": "15.875833, -85.396942"
+      "coordinates": "15.875833, -85.396942",
+      "metar_available": false
     },
     {
       "ident": "HN-0022",
@@ -230,7 +251,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CP",
       "municipality": "Santa Rosa de Copán",
-      "coordinates": "14.777889, -88.775021"
+      "coordinates": "14.777889, -88.775021",
+      "metar_available": false
     },
     {
       "ident": "HN-0023",
@@ -239,7 +261,8 @@
       "iso_country": "HN",
       "iso_region": "HN-SB",
       "municipality": "Santa Bárbara",
-      "coordinates": "14.94024, -88.24115"
+      "coordinates": "14.94024, -88.24115",
+      "metar_available": false
     },
     {
       "ident": "HN-0024",
@@ -249,7 +272,8 @@
       "iso_country": "HN",
       "iso_region": "HN-LP",
       "municipality": "Santa María",
-      "coordinates": "14.287174, -87.937167"
+      "coordinates": "14.287174, -87.937167",
+      "metar_available": false
     },
     {
       "ident": "HN-0025",
@@ -259,7 +283,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CR",
       "municipality": "Canchias",
-      "coordinates": "14.915556, -87.833336"
+      "coordinates": "14.915556, -87.833336",
+      "metar_available": false
     },
     {
       "ident": "HN-0026",
@@ -269,7 +294,8 @@
       "iso_country": "HN",
       "iso_region": "HN-LE",
       "municipality": "La Unión",
-      "coordinates": "14.80786, -88.41691"
+      "coordinates": "14.80786, -88.41691",
+      "metar_available": false
     },
     {
       "ident": "HN-0027",
@@ -279,7 +305,8 @@
       "iso_country": "HN",
       "iso_region": "HN-SB",
       "municipality": "Villa Guadalupe",
-      "coordinates": "15.045979, -88.308041"
+      "coordinates": "15.045979, -88.308041",
+      "metar_available": false
     },
     {
       "ident": "HN-0028",
@@ -289,7 +316,8 @@
       "iso_country": "HN",
       "iso_region": "HN-YO",
       "municipality": "Trojes",
-      "coordinates": "15.404218, -86.682687"
+      "coordinates": "15.404218, -86.682687",
+      "metar_available": false
     },
     {
       "ident": "HN-0029",
@@ -299,7 +327,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CL",
       "municipality": "Puerto Castilla",
-      "coordinates": "16.008354, -85.968149"
+      "coordinates": "16.008354, -85.968149",
+      "metar_available": false
     },
     {
       "ident": "HN-0030",
@@ -310,7 +339,8 @@
       "iso_region": "HN-IN",
       "municipality": "Concepción",
       "local_code": "MHCC",
-      "coordinates": "14.0266666412, -88.3441696167"
+      "coordinates": "14.0266666412, -88.3441696167",
+      "metar_available": false
     },
     {
       "ident": "HN-MOP",
@@ -320,7 +350,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CH",
       "municipality": "El Limón",
-      "coordinates": "13.0600004196167, -86.9574966430664"
+      "coordinates": "13.0600004196167, -86.9574966430664",
+      "metar_available": false
     },
     {
       "ident": "HN-MOR",
@@ -331,7 +362,8 @@
       "iso_region": "HN-GD",
       "municipality": "Mocorón",
       "gps_code": "MHOR",
-      "coordinates": "15.0297, -84.279297"
+      "coordinates": "15.0297, -84.279297",
+      "metar_available": false
     },
     {
       "ident": "HN-MSF",
@@ -341,7 +373,8 @@
       "iso_country": "HN",
       "iso_region": "HN-OL",
       "municipality": "San Francisco de La Paz",
-      "coordinates": "14.876943588256836, -86.19139099121094"
+      "coordinates": "14.876943588256836, -86.19139099121094",
+      "metar_available": false
     },
     {
       "ident": "HN-MST",
@@ -351,7 +384,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CH",
       "municipality": "Aguacatal",
-      "coordinates": "13.239167213439941, -87.00555419921875"
+      "coordinates": "13.239167213439941, -87.00555419921875",
+      "metar_available": false
     },
     {
       "ident": "HN-MUG",
@@ -363,7 +397,8 @@
       "municipality": "Erandique",
       "gps_code": "MHGU",
       "iata_code": "EDQ",
-      "coordinates": "14.235833, -88.437225"
+      "coordinates": "14.235833, -88.437225",
+      "metar_available": false
     },
     {
       "ident": "LLH",
@@ -374,7 +409,8 @@
       "iso_region": "HN-CR",
       "municipality": "La Lima",
       "iata_code": "LLH",
-      "coordinates": "15.442801, -87.898564"
+      "coordinates": "15.442801, -87.898564",
+      "metar_available": false
     },
     {
       "ident": "MHAC",
@@ -385,7 +421,8 @@
       "iso_region": "HN-CH",
       "municipality": "Acensa",
       "gps_code": "MHAC",
-      "coordinates": "13.243481, -87.341427"
+      "coordinates": "13.243481, -87.341427",
+      "metar_available": false
     },
     {
       "ident": "MHAG",
@@ -396,7 +433,8 @@
       "iso_region": "HN-CH",
       "municipality": "Buena Vista",
       "gps_code": "MHAG",
-      "coordinates": "13.250055, -87.357187"
+      "coordinates": "13.250055, -87.357187",
+      "metar_available": false
     },
     {
       "ident": "MHAH",
@@ -408,7 +446,8 @@
       "municipality": "Ahuas",
       "gps_code": "MHAH",
       "iata_code": "AHS",
-      "coordinates": "15.4722, -84.352203"
+      "coordinates": "15.4722, -84.352203",
+      "metar_available": false
     },
     {
       "ident": "MHAL",
@@ -418,7 +457,8 @@
       "iso_country": "HN",
       "iso_region": "HN-FM",
       "gps_code": "MHAL",
-      "coordinates": "14.493332862854004, -87.10639190673828"
+      "coordinates": "14.493332862854004, -87.10639190673828",
+      "metar_available": false
     },
     {
       "ident": "MHAN",
@@ -429,7 +469,8 @@
       "iso_region": "HN-CM",
       "municipality": "San Luis",
       "gps_code": "MHAN",
-      "coordinates": "14.745833396911621, -87.40528106689453"
+      "coordinates": "14.745833396911621, -87.40528106689453",
+      "metar_available": false
     },
     {
       "ident": "MHAP",
@@ -440,7 +481,8 @@
       "iso_region": "HN-EP",
       "municipality": "Apala",
       "gps_code": "MHAP",
-      "coordinates": "14.010832786560059, -86.38916778564453"
+      "coordinates": "14.010832786560059, -86.38916778564453",
+      "metar_available": false
     },
     {
       "ident": "MHAR",
@@ -451,7 +493,8 @@
       "iso_region": "HN-FM",
       "municipality": "Archaga",
       "gps_code": "MHAR",
-      "coordinates": "14.2852783203125, -87.22916412353516"
+      "coordinates": "14.2852783203125, -87.22916412353516",
+      "metar_available": false
     },
     {
       "ident": "MHAU",
@@ -462,7 +505,8 @@
       "iso_region": "HN-OL",
       "municipality": "Tasajeras",
       "gps_code": "MHAU",
-      "coordinates": "14.717778205871582, -86.57083129882812"
+      "coordinates": "14.717778205871582, -86.57083129882812",
+      "metar_available": false
     },
     {
       "ident": "MHAY",
@@ -473,7 +517,8 @@
       "iso_region": "HN-GD",
       "municipality": "Araslaya",
       "gps_code": "MHAY",
-      "coordinates": "15.735278129577637, -84.5433349609375"
+      "coordinates": "15.735278129577637, -84.5433349609375",
+      "metar_available": false
     },
     {
       "ident": "MHAZ",
@@ -484,7 +529,8 @@
       "iso_region": "HN-OL",
       "municipality": "Cacao",
       "gps_code": "MHAZ",
-      "coordinates": "14.433333396911621, -86.08916473388672"
+      "coordinates": "14.433333396911621, -86.08916473388672",
+      "metar_available": false
     },
     {
       "ident": "MHBA",
@@ -495,7 +541,8 @@
       "iso_region": "HN-IB",
       "municipality": "Barbareta Island",
       "gps_code": "MHBA",
-      "coordinates": "16.432216, -86.139299"
+      "coordinates": "16.432216, -86.139299",
+      "metar_available": false
     },
     {
       "ident": "MHBE",
@@ -506,7 +553,8 @@
       "iso_region": "HN-CH",
       "municipality": "San Bernardo",
       "gps_code": "MHBE",
-      "coordinates": "13.101943969726562, -87.1419448852539"
+      "coordinates": "13.101943969726562, -87.1419448852539",
+      "metar_available": false
     },
     {
       "ident": "MHBL",
@@ -518,7 +566,8 @@
       "municipality": "Brus Laguna",
       "gps_code": "MHBL",
       "iata_code": "BHG",
-      "coordinates": "15.7631, -84.543602"
+      "coordinates": "15.7631, -84.543602",
+      "metar_available": false
     },
     {
       "ident": "MHCA",
@@ -529,7 +578,8 @@
       "iso_region": "HN-OL",
       "municipality": "Catacamas",
       "gps_code": "MHCA",
-      "coordinates": "14.917, -85.900002"
+      "coordinates": "14.917, -85.900002",
+      "metar_available": false
     },
     {
       "ident": "MHCB",
@@ -540,7 +590,8 @@
       "iso_region": "HN-GD",
       "municipality": "Cocobila",
       "gps_code": "MHCB",
-      "coordinates": "15.888333320617676, -84.75555419921875"
+      "coordinates": "15.888333320617676, -84.75555419921875",
+      "metar_available": false
     },
     {
       "ident": "MHCI",
@@ -551,7 +602,8 @@
       "iso_region": "HN-CL",
       "municipality": "Chiquerito",
       "gps_code": "MHCI",
-      "coordinates": "15.831944465637207, -85.02694702148438"
+      "coordinates": "15.831944465637207, -85.02694702148438",
+      "metar_available": false
     },
     {
       "ident": "MHCM",
@@ -562,7 +614,8 @@
       "iso_region": "HN-SB",
       "municipality": "Choloma",
       "gps_code": "MHCM",
-      "coordinates": "14.890107, -88.404515"
+      "coordinates": "14.890107, -88.404515",
+      "metar_available": false
     },
     {
       "ident": "MHCO",
@@ -572,7 +625,8 @@
       "iso_country": "HN",
       "iso_region": "HN-GD",
       "gps_code": "MHCO",
-      "coordinates": "15.252778053283691, -84.23332977294922"
+      "coordinates": "15.252778053283691, -84.23332977294922",
+      "metar_available": false
     },
     {
       "ident": "MHCP",
@@ -583,7 +637,8 @@
       "iso_region": "HN-IB",
       "municipality": "Cochino Pequeño Island",
       "gps_code": "MHCP",
-      "coordinates": "15.952824, -86.498635"
+      "coordinates": "15.952824, -86.498635",
+      "metar_available": false
     },
     {
       "ident": "MHCR",
@@ -595,7 +650,8 @@
       "municipality": "La Unión",
       "gps_code": "MHCR",
       "iata_code": "LUI",
-      "coordinates": "15.033192, -86.692334"
+      "coordinates": "15.033192, -86.692334",
+      "metar_available": false
     },
     {
       "ident": "MHCS",
@@ -607,7 +663,8 @@
       "municipality": "Coyoles",
       "gps_code": "MHCS",
       "iata_code": "CYL",
-      "coordinates": "15.445556, -86.675278"
+      "coordinates": "15.445556, -86.675278",
+      "metar_available": false
     },
     {
       "ident": "MHCU",
@@ -619,7 +676,8 @@
       "municipality": "Cauquira",
       "gps_code": "MHCU",
       "iata_code": "CDD",
-      "coordinates": "15.316667, -83.591667"
+      "coordinates": "15.316667, -83.591667",
+      "metar_available": false
     },
     {
       "ident": "MHDU",
@@ -630,7 +688,8 @@
       "iso_region": "HN-GD",
       "municipality": "Mocorón",
       "gps_code": "MHDU",
-      "coordinates": "14.9891, -84.220802"
+      "coordinates": "14.9891, -84.220802",
+      "metar_available": false
     },
     {
       "ident": "MHEA",
@@ -642,7 +701,8 @@
       "municipality": "Olanchito",
       "gps_code": "MHEA",
       "iata_code": "OAN",
-      "coordinates": "15.505556, -86.574722"
+      "coordinates": "15.505556, -86.574722",
+      "metar_available": false
     },
     {
       "ident": "MHEC",
@@ -652,7 +712,8 @@
       "iso_country": "HN",
       "iso_region": "HN-FM",
       "gps_code": "MHEC",
-      "coordinates": "14.457777976989746, -87.05860900878906"
+      "coordinates": "14.457777976989746, -87.05860900878906",
+      "metar_available": false
     },
     {
       "ident": "MHEI",
@@ -663,7 +724,8 @@
       "iso_region": "HN-YO",
       "municipality": "El Guanacaste",
       "gps_code": "MHEI",
-      "coordinates": "15.648611068725586, -87.788330078125"
+      "coordinates": "15.648611068725586, -87.788330078125",
+      "metar_available": false
     },
     {
       "ident": "MHEL",
@@ -674,7 +736,8 @@
       "iso_region": "HN-EP",
       "municipality": "El Paraiso",
       "gps_code": "MHEL",
-      "coordinates": "13.873056411743164, -86.56055450439453"
+      "coordinates": "13.873056411743164, -86.56055450439453",
+      "metar_available": false
     },
     {
       "ident": "MHEN",
@@ -685,7 +748,8 @@
       "iso_region": "HN-FM",
       "municipality": "La Canoa",
       "gps_code": "MHEN",
-      "coordinates": "14.661944389343262, -86.91500091552734"
+      "coordinates": "14.661944389343262, -86.91500091552734",
+      "metar_available": false
     },
     {
       "ident": "MHEZ",
@@ -696,7 +760,8 @@
       "iso_region": "HN-CL",
       "municipality": "Lérida",
       "gps_code": "MHEZ",
-      "coordinates": "15.609722, -86.139442"
+      "coordinates": "15.609722, -86.139442",
+      "metar_available": false
     },
     {
       "ident": "MHFA",
@@ -707,7 +772,8 @@
       "iso_region": "HN-OL",
       "municipality": "La Lima",
       "gps_code": "MHFA",
-      "coordinates": "14.598055839538574, -86.48388671875"
+      "coordinates": "14.598055839538574, -86.48388671875",
+      "metar_available": false
     },
     {
       "ident": "MHFC",
@@ -718,7 +784,8 @@
       "iso_region": "HN-IB",
       "municipality": "Fort Morgan Cay",
       "gps_code": "MHFC",
-      "coordinates": "16.403823, -86.286635"
+      "coordinates": "16.403823, -86.286635",
+      "metar_available": false
     },
     {
       "ident": "MHFN",
@@ -729,7 +796,8 @@
       "iso_region": "HN-FM",
       "municipality": "San Fernando",
       "gps_code": "MHFN",
-      "coordinates": "14.113332748413086, -86.9527816772461"
+      "coordinates": "14.113332748413086, -86.9527816772461",
+      "metar_available": false
     },
     {
       "ident": "MHGA",
@@ -740,7 +808,8 @@
       "iso_region": "HN-SB",
       "municipality": "Chumbagua",
       "gps_code": "MHGA",
-      "coordinates": "15.24246, -88.49044"
+      "coordinates": "15.24246, -88.49044",
+      "metar_available": false
     },
     {
       "ident": "MHGB",
@@ -751,7 +820,8 @@
       "iso_region": "HN-CM",
       "municipality": "Esquias",
       "gps_code": "MHGB",
-      "coordinates": "14.74666690826416, -87.37527465820312"
+      "coordinates": "14.74666690826416, -87.37527465820312",
+      "metar_available": false
     },
     {
       "ident": "MHGC",
@@ -762,7 +832,8 @@
       "iso_region": "HN-OL",
       "municipality": "Catacamas",
       "gps_code": "MHGC",
-      "coordinates": "14.838610649108887, -85.86833190917969"
+      "coordinates": "14.838610649108887, -85.86833190917969",
+      "metar_available": false
     },
     {
       "ident": "MHGE",
@@ -774,7 +845,8 @@
       "municipality": "El Aguacate",
       "gps_code": "MHGE",
       "iata_code": "CAA",
-      "coordinates": "14.875, -85.776108"
+      "coordinates": "14.875, -85.776108",
+      "metar_available": false
     },
     {
       "ident": "MHGR",
@@ -785,7 +857,8 @@
       "iso_region": "HN-CL",
       "municipality": "Donel",
       "gps_code": "MHGR",
-      "coordinates": "15.974482, -85.079753"
+      "coordinates": "15.974482, -85.079753",
+      "metar_available": false
     },
     {
       "ident": "MHGS",
@@ -797,7 +870,8 @@
       "municipality": "Gracias",
       "gps_code": "MHCG",
       "iata_code": "GAC",
-      "coordinates": "14.573492, -88.595801"
+      "coordinates": "14.573492, -88.595801",
+      "metar_available": false
     },
     {
       "ident": "MHGY",
@@ -808,7 +882,8 @@
       "iso_region": "HN-OL",
       "municipality": "El Zapato",
       "gps_code": "MHGY",
-      "coordinates": "14.784722328186035, -86.86333465576172"
+      "coordinates": "14.784722328186035, -86.86333465576172",
+      "metar_available": false
     },
     {
       "ident": "MHHC",
@@ -819,7 +894,8 @@
       "iso_region": "HN-CR",
       "municipality": "San Pedro Sula",
       "gps_code": "MHHC",
-      "coordinates": "15.47249984741211, -87.9941635131836"
+      "coordinates": "15.47249984741211, -87.9941635131836",
+      "metar_available": false
     },
     {
       "ident": "MHHE",
@@ -830,7 +906,8 @@
       "iso_region": "HN-OL",
       "municipality": "Punuare",
       "gps_code": "MHHE",
-      "coordinates": "14.755000114440918, -86.00416564941406"
+      "coordinates": "14.755000114440918, -86.00416564941406",
+      "metar_available": false
     },
     {
       "ident": "MHHG",
@@ -841,7 +918,8 @@
       "iso_region": "HN-OL",
       "municipality": "La Lima",
       "gps_code": "MHHG",
-      "coordinates": "14.598889350891113, -86.46083068847656"
+      "coordinates": "14.598889350891113, -86.46083068847656",
+      "metar_available": false
     },
     {
       "ident": "MHHO",
@@ -852,7 +930,8 @@
       "iso_region": "HN-YO",
       "municipality": "Horcones",
       "gps_code": "MHHO",
-      "coordinates": "15.430653, -86.891049"
+      "coordinates": "15.430653, -86.891049",
+      "metar_available": false
     },
     {
       "ident": "MHIC",
@@ -863,7 +942,8 @@
       "iso_region": "HN-IB",
       "municipality": "Del Cisne Island",
       "gps_code": "MHIC",
-      "coordinates": "17.407301, -83.932701"
+      "coordinates": "17.407301, -83.932701",
+      "metar_available": false
     },
     {
       "ident": "MHIN",
@@ -874,7 +954,8 @@
       "iso_region": "HN-CM",
       "municipality": "Minas de Oro",
       "gps_code": "MHIN",
-      "coordinates": "14.78861141204834, -87.34972381591797"
+      "coordinates": "14.78861141204834, -87.34972381591797",
+      "metar_available": false
     },
     {
       "ident": "MHIR",
@@ -886,7 +967,8 @@
       "municipality": "Iriona",
       "gps_code": "MHIR",
       "iata_code": "IRN",
-      "coordinates": "15.939167022700001, -85.13722229"
+      "coordinates": "15.939167022700001, -85.13722229",
+      "metar_available": false
     },
     {
       "ident": "MHJE",
@@ -897,7 +979,8 @@
       "iso_region": "HN-GD",
       "municipality": "Rio Plátano",
       "gps_code": "MHJE",
-      "coordinates": "15.878055572509766, -84.72638702392578"
+      "coordinates": "15.878055572509766, -84.72638702392578",
+      "metar_available": false
     },
     {
       "ident": "MHJI",
@@ -908,7 +991,8 @@
       "iso_region": "HN-OL",
       "municipality": "Jicalapa",
       "gps_code": "MHJI",
-      "coordinates": "15.006111, -86.049164"
+      "coordinates": "15.006111, -86.049164",
+      "metar_available": false
     },
     {
       "ident": "MHJO",
@@ -918,7 +1002,8 @@
       "iso_country": "HN",
       "iso_region": "HN-FM",
       "gps_code": "MHJO",
-      "coordinates": "14.80472183227539, -86.9191665649414"
+      "coordinates": "14.80472183227539, -86.9191665649414",
+      "metar_available": false
     },
     {
       "ident": "MHJQ",
@@ -929,7 +1014,8 @@
       "iso_region": "HN-FM",
       "municipality": "Caleras/El Triunfo",
       "gps_code": "MHJQ",
-      "coordinates": "14.838889122009277, -86.96221923828125"
+      "coordinates": "14.838889122009277, -86.96221923828125",
+      "metar_available": false
     },
     {
       "ident": "MHJU",
@@ -941,7 +1027,8 @@
       "municipality": "Jutigalpa",
       "gps_code": "MHJU",
       "iata_code": "JUT",
-      "coordinates": "14.652600288391113, -86.22029876708984"
+      "coordinates": "14.652600288391113, -86.22029876708984",
+      "metar_available": false
     },
     {
       "ident": "MHLA",
@@ -952,7 +1039,8 @@
       "iso_region": "HN-LE",
       "municipality": "Candelaria",
       "gps_code": "MHLA",
-      "coordinates": "14.108888626098633, -88.53388977050781"
+      "coordinates": "14.108888626098633, -88.53388977050781",
+      "metar_available": false
     },
     {
       "ident": "MHLC",
@@ -964,7 +1052,8 @@
       "municipality": "La Ceiba",
       "gps_code": "MHLC",
       "iata_code": "LCE",
-      "coordinates": "15.7425, -86.852997"
+      "coordinates": "15.7425, -86.852997",
+      "metar_available": false
     },
     {
       "ident": "MHLE",
@@ -976,7 +1065,8 @@
       "municipality": "La Esperanza",
       "gps_code": "MHLE",
       "iata_code": "LEZ",
-      "coordinates": "14.291111, -88.175003"
+      "coordinates": "14.291111, -88.175003",
+      "metar_available": false
     },
     {
       "ident": "MHLF",
@@ -986,7 +1076,8 @@
       "iso_country": "HN",
       "iso_region": "HN-FM",
       "gps_code": "MHLF",
-      "coordinates": "14.423333168029785, -87.11972045898438"
+      "coordinates": "14.423333168029785, -87.11972045898438",
+      "metar_available": false
     },
     {
       "ident": "MHLG",
@@ -997,7 +1088,8 @@
       "iso_region": "HN-CH",
       "municipality": "Monjarás",
       "gps_code": "MHLG",
-      "coordinates": "13.214629, -87.360374"
+      "coordinates": "13.214629, -87.360374",
+      "metar_available": false
     },
     {
       "ident": "MHLI",
@@ -1007,7 +1099,8 @@
       "iso_country": "HN",
       "iso_region": "HN-FM",
       "gps_code": "MHLI",
-      "coordinates": "14.487500190734863, -87.17972564697266"
+      "coordinates": "14.487500190734863, -87.17972564697266",
+      "metar_available": false
     },
     {
       "ident": "MHLJ",
@@ -1018,7 +1111,8 @@
       "iso_region": "HN-OL",
       "municipality": "Coyoles",
       "gps_code": "MHLJ",
-      "coordinates": "14.894721984863281, -86.57472229003906"
+      "coordinates": "14.894721984863281, -86.57472229003906",
+      "metar_available": false
     },
     {
       "ident": "MHLL",
@@ -1030,7 +1124,8 @@
       "municipality": "Tegucigalpa",
       "gps_code": "MHLL",
       "local_code": "MHLL",
-      "coordinates": "14.08065, -87.17283"
+      "coordinates": "14.08065, -87.17283",
+      "metar_available": false
     },
     {
       "ident": "MHLM",
@@ -1042,7 +1137,8 @@
       "municipality": "San Pedro Sula",
       "gps_code": "MHLM",
       "iata_code": "SAP",
-      "coordinates": "15.4526, -87.923599"
+      "coordinates": "15.4526, -87.923599",
+      "metar_available": false
     },
     {
       "ident": "MHLN",
@@ -1054,7 +1150,8 @@
       "municipality": "Limón",
       "gps_code": "MHLN",
       "iata_code": "LMH",
-      "coordinates": "15.856066, -85.443978"
+      "coordinates": "15.856066, -85.443978",
+      "metar_available": false
     },
     {
       "ident": "MHLP",
@@ -1065,7 +1162,8 @@
       "iso_region": "HN-LE",
       "municipality": "Mapulaca",
       "gps_code": "MHLP",
-      "coordinates": "14.034167289733887, -88.62833404541016"
+      "coordinates": "14.034167289733887, -88.62833404541016",
+      "metar_available": false
     },
     {
       "ident": "MHLS",
@@ -1076,7 +1174,8 @@
       "iso_region": "HN-OL",
       "municipality": "Laguna Seca",
       "gps_code": "MHLS",
-      "coordinates": "14.644700050354004, -86.0698013305664"
+      "coordinates": "14.644700050354004, -86.0698013305664",
+      "metar_available": false
     },
     {
       "ident": "MHLT",
@@ -1087,7 +1186,8 @@
       "iso_region": "HN-EP",
       "municipality": "Moroceli",
       "gps_code": "MHLT",
-      "coordinates": "14.076666831970215, -86.84166717529297"
+      "coordinates": "14.076666831970215, -86.84166717529297",
+      "metar_available": false
     },
     {
       "ident": "MHLU",
@@ -1098,7 +1198,8 @@
       "iso_region": "HN-SB",
       "municipality": "San Luis Pajón",
       "gps_code": "MHLU",
-      "coordinates": "15.133798, -88.442409"
+      "coordinates": "15.133798, -88.442409",
+      "metar_available": false
     },
     {
       "ident": "MHLZ",
@@ -1109,7 +1210,8 @@
       "iso_region": "HN-CP",
       "municipality": "el agua",
       "gps_code": "MHLZ",
-      "coordinates": "15.016667366027832, -88.80000305175781"
+      "coordinates": "15.016667366027832, -88.80000305175781",
+      "metar_available": false
     },
     {
       "ident": "MHMC",
@@ -1120,7 +1222,8 @@
       "iso_region": "HN-CP",
       "municipality": "Hacienda Montecristo",
       "gps_code": "MHMC",
-      "coordinates": "14.866666793823242, -88.75833129882812"
+      "coordinates": "14.866666793823242, -88.75833129882812",
+      "metar_available": false
     },
     {
       "ident": "MHML",
@@ -1131,7 +1234,8 @@
       "iso_region": "HN-CH",
       "municipality": "Monte Líbano",
       "gps_code": "MHML",
-      "coordinates": "13.179444313049316, -87.18555450439453"
+      "coordinates": "13.179444313049316, -87.18555450439453",
+      "metar_available": false
     },
     {
       "ident": "MHMN",
@@ -1142,7 +1246,8 @@
       "iso_region": "HN-AT",
       "municipality": "Monica",
       "gps_code": "MHMN",
-      "coordinates": "15.652999877929688, -87.08769989013672"
+      "coordinates": "15.652999877929688, -87.08769989013672",
+      "metar_available": false
     },
     {
       "ident": "MHMO",
@@ -1153,7 +1258,8 @@
       "iso_region": "HN-OC",
       "municipality": "San Marcos",
       "gps_code": "MHMO",
-      "coordinates": "14.413056373596191, -88.95194244384766"
+      "coordinates": "14.413056373596191, -88.95194244384766",
+      "metar_available": false
     },
     {
       "ident": "MHMP",
@@ -1164,7 +1270,8 @@
       "iso_region": "HN-YO",
       "municipality": "Agua Blanca Sur",
       "gps_code": "MHMP",
-      "coordinates": "15.284682, -87.885518"
+      "coordinates": "15.284682, -87.885518",
+      "metar_available": false
     },
     {
       "ident": "MHMS",
@@ -1175,7 +1282,8 @@
       "iso_region": "HN-GD",
       "municipality": "Siksatara",
       "gps_code": "MHMS",
-      "coordinates": "15.672778129577637, -84.84471893310547"
+      "coordinates": "15.672778129577637, -84.84471893310547",
+      "metar_available": false
     },
     {
       "ident": "MHMT",
@@ -1186,7 +1294,8 @@
       "iso_region": "HN-OL",
       "municipality": "Manto",
       "gps_code": "MHMT",
-      "coordinates": "14.915555953979492, -86.38166809082031"
+      "coordinates": "14.915555953979492, -86.38166809082031",
+      "metar_available": false
     },
     {
       "ident": "MHNB",
@@ -1197,7 +1306,8 @@
       "iso_region": "HN-EP",
       "municipality": "Apala",
       "gps_code": "MHNB",
-      "coordinates": "14.043299674987793, -86.4207992553711"
+      "coordinates": "14.043299674987793, -86.4207992553711",
+      "metar_available": false
     },
     {
       "ident": "MHNC",
@@ -1208,7 +1318,8 @@
       "iso_region": "HN-CH",
       "municipality": "Choluteca",
       "gps_code": "MHNC",
-      "coordinates": "13.319825, -87.149025"
+      "coordinates": "13.319825, -87.149025",
+      "metar_available": false
     },
     {
       "ident": "MHNJ",
@@ -1220,7 +1331,8 @@
       "municipality": "Guanaja",
       "gps_code": "MHNJ",
       "iata_code": "GJA",
-      "coordinates": "16.4454, -85.906601"
+      "coordinates": "16.4454, -85.906601",
+      "metar_available": false
     },
     {
       "ident": "MHNS",
@@ -1231,7 +1343,8 @@
       "iso_region": "HN-LP",
       "municipality": "Marcala",
       "gps_code": "MHNS",
-      "coordinates": "14.204254, -88.019564"
+      "coordinates": "14.204254, -88.019564",
+      "metar_available": false
     },
     {
       "ident": "MHNV",
@@ -1242,7 +1355,8 @@
       "iso_region": "HN-OC",
       "municipality": "Nueva Ocotepeque",
       "gps_code": "MHNV",
-      "coordinates": "14.428889, -89.193886"
+      "coordinates": "14.428889, -89.193886",
+      "metar_available": false
     },
     {
       "ident": "MHOT",
@@ -1253,7 +1367,8 @@
       "iso_region": "HN-CL",
       "municipality": "Copón",
       "gps_code": "MHOT",
-      "coordinates": "15.669166564941406, -85.19444274902344"
+      "coordinates": "15.669166564941406, -85.19444274902344",
+      "metar_available": false
     },
     {
       "ident": "MHPA",
@@ -1264,7 +1379,8 @@
       "iso_region": "HN-GD",
       "municipality": "Barra del Patuca",
       "gps_code": "MHPA",
-      "coordinates": "15.80138874053955, -84.29666900634766"
+      "coordinates": "15.80138874053955, -84.29666900634766",
+      "metar_available": false
     },
     {
       "ident": "MHPB",
@@ -1275,7 +1391,8 @@
       "iso_region": "HN-CR",
       "municipality": "San Pedro Sula",
       "gps_code": "MHPB",
-      "coordinates": "15.453332901000977, -88.02194213867188"
+      "coordinates": "15.453332901000977, -88.02194213867188",
+      "metar_available": false
     },
     {
       "ident": "MHPC",
@@ -1287,7 +1404,8 @@
       "municipality": "Palacios",
       "gps_code": "MHPC",
       "iata_code": "PCH",
-      "coordinates": "15.955, -84.941391"
+      "coordinates": "15.955, -84.941391",
+      "metar_available": false
     },
     {
       "ident": "MHPI",
@@ -1298,7 +1416,8 @@
       "iso_region": "HN-CH",
       "municipality": "Buena Vista",
       "gps_code": "MHPI",
-      "coordinates": "13.296314, -87.33838"
+      "coordinates": "13.296314, -87.33838",
+      "metar_available": false
     },
     {
       "ident": "MHPL",
@@ -1310,7 +1429,8 @@
       "municipality": "Puerto Lempira",
       "gps_code": "MHPL",
       "iata_code": "PEU",
-      "coordinates": "15.2622, -83.781197"
+      "coordinates": "15.2622, -83.781197",
+      "metar_available": false
     },
     {
       "ident": "MHPS",
@@ -1321,7 +1441,8 @@
       "iso_region": "HN-OL",
       "municipality": "El Encinal",
       "gps_code": "MHPS",
-      "coordinates": "14.595832824707031, -86.1500015258789"
+      "coordinates": "14.595832824707031, -86.1500015258789",
+      "metar_available": false
     },
     {
       "ident": "MHPV",
@@ -1332,7 +1453,8 @@
       "iso_region": "HN-CL",
       "municipality": "Manga",
       "gps_code": "MHPV",
-      "coordinates": "15.530278, -86.273613"
+      "coordinates": "15.530278, -86.273613",
+      "metar_available": false
     },
     {
       "ident": "MHRA",
@@ -1342,7 +1464,8 @@
       "iso_country": "HN",
       "iso_region": "HN-EP",
       "gps_code": "MHRA",
-      "coordinates": "14.07361125946045, -86.91000366210938"
+      "coordinates": "14.07361125946045, -86.91000366210938",
+      "metar_available": false
     },
     {
       "ident": "MHRD",
@@ -1353,7 +1476,8 @@
       "iso_region": "HN-GD",
       "municipality": "Rus Rus",
       "gps_code": "MHRD",
-      "coordinates": "14.787221908569336, -84.36972045898438"
+      "coordinates": "14.787221908569336, -84.36972045898438",
+      "metar_available": false
     },
     {
       "ident": "MHRH",
@@ -1363,7 +1487,8 @@
       "iso_country": "HN",
       "iso_region": "HN-CL",
       "gps_code": "MHRH",
-      "coordinates": "15.563332557678223, -86.19139099121094"
+      "coordinates": "15.563332557678223, -86.19139099121094",
+      "metar_available": false
     },
     {
       "ident": "MHRJ",
@@ -1374,7 +1499,8 @@
       "iso_region": "HN-EP",
       "municipality": "Apala",
       "gps_code": "MHRJ",
-      "coordinates": "14.060999870300293, -86.40750122070312"
+      "coordinates": "14.060999870300293, -86.40750122070312",
+      "metar_available": false
     },
     {
       "ident": "MHRO",
@@ -1386,7 +1512,8 @@
       "municipality": "Coxen Hole",
       "gps_code": "MHRO",
       "iata_code": "RTB",
-      "coordinates": "16.316799, -86.523003"
+      "coordinates": "16.316799, -86.523003",
+      "metar_available": false
     },
     {
       "ident": "MHRR",
@@ -1397,7 +1524,8 @@
       "iso_region": "HN-GD",
       "municipality": "Rus Rus",
       "gps_code": "MHRR",
-      "coordinates": "14.713055610656738, -84.45249938964844"
+      "coordinates": "14.713055610656738, -84.45249938964844",
+      "metar_available": false
     },
     {
       "ident": "MHRU",
@@ -1409,7 +1537,8 @@
       "municipality": "Copán Ruinas",
       "gps_code": "MHRC",
       "iata_code": "RUY",
-      "coordinates": "14.914885, -89.007837"
+      "coordinates": "14.914885, -89.007837",
+      "metar_available": false
     },
     {
       "ident": "MHRY",
@@ -1420,7 +1549,8 @@
       "iso_region": "HN-GD",
       "municipality": "Raya",
       "gps_code": "MHRY",
-      "coordinates": "15.066389083862305, -83.2972183227539"
+      "coordinates": "15.066389083862305, -83.2972183227539",
+      "metar_available": false
     },
     {
       "ident": "MHSC",
@@ -1432,7 +1562,8 @@
       "municipality": "Palmerola",
       "gps_code": "MHPR",
       "iata_code": "XPL",
-      "coordinates": "14.3824, -87.621201"
+      "coordinates": "14.3824, -87.621201",
+      "metar_available": false
     },
     {
       "ident": "MHSI",
@@ -1443,7 +1574,8 @@
       "iso_region": "HN-CL",
       "municipality": "Sico",
       "gps_code": "MHSI",
-      "coordinates": "15.818611145019531, -85.11444091796875"
+      "coordinates": "15.818611145019531, -85.11444091796875",
+      "metar_available": false
     },
     {
       "ident": "MHSJ",
@@ -1454,7 +1586,8 @@
       "iso_region": "HN-EP",
       "municipality": "Oropoli",
       "gps_code": "MHSJ",
-      "coordinates": "13.827777862548828, -86.8102798461914"
+      "coordinates": "13.827777862548828, -86.8102798461914",
+      "metar_available": false
     },
     {
       "ident": "MHSL",
@@ -1465,7 +1598,8 @@
       "iso_region": "HN-VA",
       "municipality": "El Hato",
       "gps_code": "MHSL",
-      "coordinates": "13.442222, -87.459724"
+      "coordinates": "13.442222, -87.459724",
+      "metar_available": false
     },
     {
       "ident": "MHSN",
@@ -1476,7 +1610,8 @@
       "iso_region": "HN-CL",
       "municipality": "Sinaloa",
       "gps_code": "MHSN",
-      "coordinates": "15.69333267211914, -85.95527648925781"
+      "coordinates": "15.69333267211914, -85.95527648925781",
+      "metar_available": false
     },
     {
       "ident": "MHSX",
@@ -1486,7 +1621,8 @@
       "iso_country": "HN",
       "iso_region": "HN-GD",
       "gps_code": "MHSX",
-      "coordinates": "15.183610916137695, -84.36972045898438"
+      "coordinates": "15.183610916137695, -84.36972045898438",
+      "metar_available": false
     },
     {
       "ident": "MHTA",
@@ -1497,7 +1633,8 @@
       "iso_region": "HN-FM",
       "municipality": "Tamara",
       "gps_code": "MHTA",
-      "coordinates": "14.180000305175781, -87.3499984741211"
+      "coordinates": "14.180000305175781, -87.3499984741211",
+      "metar_available": false
     },
     {
       "ident": "MHTB",
@@ -1508,7 +1645,8 @@
       "iso_region": "HN-GD",
       "municipality": "Tuntuntara",
       "gps_code": "MHTB",
-      "coordinates": "15.175000190734863, -83.68222045898438"
+      "coordinates": "15.175000190734863, -83.68222045898438",
+      "metar_available": false
     },
     {
       "ident": "MHTE",
@@ -1520,7 +1658,8 @@
       "municipality": "Tela",
       "gps_code": "MHTE",
       "iata_code": "TEA",
-      "coordinates": "15.7759, -87.4758"
+      "coordinates": "15.7759, -87.4758",
+      "metar_available": false
     },
     {
       "ident": "MHTG",
@@ -1532,7 +1671,8 @@
       "municipality": "Tegucigalpa",
       "gps_code": "MHTG",
       "iata_code": "TGU",
-      "coordinates": "14.0609, -87.217201"
+      "coordinates": "14.0609, -87.217201",
+      "metar_available": false
     },
     {
       "ident": "MHTI",
@@ -1543,7 +1683,8 @@
       "iso_region": "HN-GD",
       "municipality": "Tipimunatara",
       "gps_code": "MHTI",
-      "coordinates": "15.001111030578613, -83.72222137451172"
+      "coordinates": "15.001111030578613, -83.72222137451172",
+      "metar_available": false
     },
     {
       "ident": "MHTJ",
@@ -1555,7 +1696,8 @@
       "municipality": "Trujillo",
       "gps_code": "MHTJ",
       "iata_code": "TJI",
-      "coordinates": "15.926599, -85.938573"
+      "coordinates": "15.926599, -85.938573",
+      "metar_available": false
     },
     {
       "ident": "MHTO",
@@ -1567,7 +1709,8 @@
       "municipality": "Tocoa",
       "gps_code": "MHTO",
       "iata_code": "TCF",
-      "coordinates": "15.659722, -85.994164"
+      "coordinates": "15.659722, -85.994164",
+      "metar_available": false
     },
     {
       "ident": "MHUC",
@@ -1578,7 +1721,8 @@
       "iso_region": "HN-GD",
       "municipality": "Auca",
       "gps_code": "MHUC",
-      "coordinates": "14.93722152709961, -83.84416961669922"
+      "coordinates": "14.93722152709961, -83.84416961669922",
+      "metar_available": false
     },
     {
       "ident": "MHUH",
@@ -1589,7 +1733,8 @@
       "iso_region": "HN-GD",
       "municipality": "Uhi",
       "gps_code": "MHUH",
-      "coordinates": "15.476099967956543, -83.91130065917969"
+      "coordinates": "15.476099967956543, -83.91130065917969",
+      "metar_available": false
     },
     {
       "ident": "MHUL",
@@ -1601,7 +1746,8 @@
       "municipality": "Sulaco",
       "gps_code": "MHUL",
       "iata_code": "SCD",
-      "coordinates": "14.90719985961914, -87.26339721679688"
+      "coordinates": "14.90719985961914, -87.26339721679688",
+      "metar_available": false
     },
     {
       "ident": "MHUT",
@@ -1613,7 +1759,8 @@
       "municipality": "Utila Island",
       "gps_code": "MHUT",
       "iata_code": "UII",
-      "coordinates": "16.1131, -86.880302"
+      "coordinates": "16.1131, -86.880302",
+      "metar_available": false
     },
     {
       "ident": "MHUY",
@@ -1624,7 +1771,8 @@
       "iso_region": "HN-CP",
       "municipality": "Cucuyagua",
       "gps_code": "MHUY",
-      "coordinates": "14.626943588256836, -88.87638854980469"
+      "coordinates": "14.626943588256836, -88.87638854980469",
+      "metar_available": false
     },
     {
       "ident": "MHVE",
@@ -1635,7 +1783,8 @@
       "iso_region": "HN-LE",
       "municipality": "Coyolillo",
       "gps_code": "MHVE",
-      "coordinates": "14.230278015136719, -88.79944610595703"
+      "coordinates": "14.230278015136719, -88.79944610595703",
+      "metar_available": false
     },
     {
       "ident": "MHWA",
@@ -1646,7 +1795,8 @@
       "iso_region": "HN-GD",
       "municipality": "Wampusirpi",
       "gps_code": "MHWA",
-      "coordinates": "15.1602783203125, -84.61722564697266"
+      "coordinates": "15.1602783203125, -84.61722564697266",
+      "metar_available": false
     },
     {
       "ident": "MHWD",
@@ -1657,7 +1807,8 @@
       "iso_region": "HN-GD",
       "municipality": "Wampusirpi",
       "gps_code": "MHWD",
-      "coordinates": "15.159167289733887, -84.59833526611328"
+      "coordinates": "15.159167289733887, -84.59833526611328",
+      "metar_available": false
     },
     {
       "ident": "MHWP",
@@ -1668,7 +1819,8 @@
       "iso_region": "HN-GD",
       "municipality": "Waplaya",
       "gps_code": "MHWP",
-      "coordinates": "15.213055610656738, -84.06861114501953"
+      "coordinates": "15.213055610656738, -84.06861114501953",
+      "metar_available": false
     },
     {
       "ident": "MHWR",
@@ -1679,7 +1831,8 @@
       "iso_region": "HN-GD",
       "municipality": "Warunta",
       "gps_code": "MHWR",
-      "coordinates": "15.348610877990723, -84.23444366455078"
+      "coordinates": "15.348610877990723, -84.23444366455078",
+      "metar_available": false
     },
     {
       "ident": "MHWS",
@@ -1690,7 +1843,8 @@
       "iso_region": "HN-GD",
       "municipality": "Wasma",
       "gps_code": "MHWS",
-      "coordinates": "15.481900215148926, -84.41609954833984"
+      "coordinates": "15.481900215148926, -84.41609954833984",
+      "metar_available": false
     },
     {
       "ident": "MHWW",
@@ -1701,7 +1855,8 @@
       "iso_region": "HN-GD",
       "municipality": "Wawina",
       "gps_code": "MHWW",
-      "coordinates": "15.41611099243164, -84.4736099243164"
+      "coordinates": "15.41611099243164, -84.4736099243164",
+      "metar_available": false
     },
     {
       "ident": "MHYR",
@@ -1713,7 +1868,8 @@
       "municipality": "Yoro",
       "gps_code": "MHYR",
       "iata_code": "ORO",
-      "coordinates": "15.1275, -87.135"
+      "coordinates": "15.1275, -87.135",
+      "metar_available": false
     },
     {
       "ident": "MHYX",
@@ -1724,7 +1880,8 @@
       "iso_region": "HN-GD",
       "municipality": "Puerto Lempira",
       "gps_code": "MHYX",
-      "coordinates": "15.27750015258789, -83.82027435302734"
+      "coordinates": "15.27750015258789, -83.82027435302734",
+      "metar_available": false
     },
     {
       "ident": "MHZA",
@@ -1735,7 +1892,8 @@
       "iso_region": "HN-IN",
       "municipality": "Azacualpa",
       "gps_code": "MHZA",
-      "coordinates": "14.256943702697754, -88.39250183105469"
+      "coordinates": "14.256943702697754, -88.39250183105469",
+      "metar_available": false
     },
     {
       "ident": "VTA",
@@ -1745,7 +1903,8 @@
       "iso_country": "HN",
       "iso_region": "HN-YO",
       "municipality": "Victoria",
-      "coordinates": "14.9344, -87.394"
+      "coordinates": "14.9344, -87.394",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "SZ",
   "country_name": "Swaziland",
   "total_airports": 17,
-  "last_updated": "2025-08-01T00:18:22.709783",
+  "last_updated": "2025-08-25T10:08:40.853230",
   "types_distribution": {
     "small_airport": 14,
     "medium_airport": 1,
@@ -20,7 +20,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Big Bend",
       "gps_code": "FDBM",
-      "coordinates": "-26.867000579833984, 31.933000564575195"
+      "coordinates": "-26.867000579833984, 31.933000564575195",
+      "metar_available": false
     },
     {
       "ident": "FDBS",
@@ -32,7 +33,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Big Bend",
       "gps_code": "FDBS",
-      "coordinates": "-26.836111, 31.92"
+      "coordinates": "-26.836111, 31.92",
+      "metar_available": false
     },
     {
       "ident": "FDBT",
@@ -44,7 +46,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Big Bend",
       "gps_code": "FDBT",
-      "coordinates": "-26.735201, 31.7759"
+      "coordinates": "-26.735201, 31.7759",
+      "metar_available": false
     },
     {
       "ident": "FDGL",
@@ -56,7 +59,8 @@
       "iso_region": "SZ-SH",
       "municipality": "Lavumisa",
       "gps_code": "FDGL",
-      "coordinates": "-27.320100784301758, 31.889799118041992"
+      "coordinates": "-27.320100784301758, 31.889799118041992",
+      "metar_available": false
     },
     {
       "ident": "FDKB",
@@ -68,7 +72,8 @@
       "iso_region": "SZ-SH",
       "municipality": "Kubuta B",
       "gps_code": "FDKB",
-      "coordinates": "-26.881528, 31.488889"
+      "coordinates": "-26.881528, 31.488889",
+      "metar_available": false
     },
     {
       "ident": "FDMH",
@@ -80,7 +85,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Mhlume",
       "gps_code": "FDMH",
-      "coordinates": "-26.0242, 31.809999"
+      "coordinates": "-26.0242, 31.809999",
+      "metar_available": false
     },
     {
       "ident": "FDMS",
@@ -93,7 +99,8 @@
       "municipality": "Manzini",
       "gps_code": "FDMS",
       "iata_code": "MTS",
-      "coordinates": "-26.528999, 31.307501"
+      "coordinates": "-26.528999, 31.307501",
+      "metar_available": false
     },
     {
       "ident": "FDNG",
@@ -105,7 +112,8 @@
       "iso_region": "SZ-HH",
       "municipality": "Ngonini",
       "gps_code": "FDNG",
-      "coordinates": "-25.798056, 31.4125"
+      "coordinates": "-25.798056, 31.4125",
+      "metar_available": false
     },
     {
       "ident": "FDNH",
@@ -117,7 +125,8 @@
       "iso_region": "SZ-SH",
       "municipality": "Nhlangano",
       "gps_code": "FDNH",
-      "coordinates": "-27.119494, 31.212118"
+      "coordinates": "-27.119494, 31.212118",
+      "metar_available": false
     },
     {
       "ident": "FDNS",
@@ -129,7 +138,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Nsoko",
       "gps_code": "FDNS",
-      "coordinates": "-26.987222, 31.937222"
+      "coordinates": "-26.987222, 31.937222",
+      "metar_available": false
     },
     {
       "ident": "FDSK",
@@ -142,7 +152,8 @@
       "municipality": "Mpaka",
       "gps_code": "FDSK",
       "iata_code": "SHO",
-      "coordinates": "-26.358611, 31.716944"
+      "coordinates": "-26.358611, 31.716944",
+      "metar_available": false
     },
     {
       "ident": "FDSM",
@@ -154,7 +165,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Simunye",
       "gps_code": "FDSM",
-      "coordinates": "-26.200001, 31.933332"
+      "coordinates": "-26.200001, 31.933332",
+      "metar_available": false
     },
     {
       "ident": "FDST",
@@ -166,7 +178,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Siteki",
       "gps_code": "FDST",
-      "coordinates": "-26.471957, 31.942567"
+      "coordinates": "-26.471957, 31.942567",
+      "metar_available": false
     },
     {
       "ident": "FDTM",
@@ -178,7 +191,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Tambankulu",
       "gps_code": "FDTM",
-      "coordinates": "-26.106429, 31.919489"
+      "coordinates": "-26.106429, 31.919489",
+      "metar_available": false
     },
     {
       "ident": "FDTS",
@@ -190,7 +204,8 @@
       "iso_region": "SZ-HH",
       "municipality": "Tshaneni",
       "gps_code": "FDTS",
-      "coordinates": "-25.983334, 31.200001"
+      "coordinates": "-25.983334, 31.200001",
+      "metar_available": false
     },
     {
       "ident": "FDUB",
@@ -201,7 +216,8 @@
       "iso_region": "SZ-LU",
       "municipality": "Big Bend",
       "gps_code": "FDUB",
-      "coordinates": "-26.7708, 31.936399"
+      "coordinates": "-26.7708, 31.936399",
+      "metar_available": false
     },
     {
       "ident": "SZ-0001",
@@ -212,7 +228,8 @@
       "iso_country": "SZ",
       "iso_region": "SZ-HH",
       "municipality": "Mbabane",
-      "coordinates": "-26.330818, 31.143942"
+      "coordinates": "-26.330818, 31.143942",
+      "metar_available": false
     }
   ]
 }

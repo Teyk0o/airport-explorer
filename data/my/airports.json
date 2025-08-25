@@ -2,7 +2,7 @@
   "country_code": "MY",
   "country_name": "Malaysia",
   "total_airports": 135,
-  "last_updated": "2025-08-01T00:18:22.816339",
+  "last_updated": "2025-08-25T10:08:40.969959",
   "types_distribution": {
     "small_airport": 71,
     "heliport": 24,
@@ -22,7 +22,8 @@
       "iso_region": "MY-12",
       "municipality": "Pulau Layang-Layang (Swallow Reef)",
       "iata_code": "LAC",
-      "coordinates": "7.37157, 113.844002"
+      "coordinates": "7.37157, 113.844002",
+      "metar_available": false
     },
     {
       "ident": "MY-0001",
@@ -32,7 +33,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Terumbu Peninjau (Investigator Shoal)",
-      "coordinates": "8.11853, 114.577985"
+      "coordinates": "8.11853, 114.577985",
+      "metar_available": false
     },
     {
       "ident": "MY-0002",
@@ -42,7 +44,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Terumbu Mantanani (Mariveles Reef)",
-      "coordinates": "7.966962, 113.916362"
+      "coordinates": "7.966962, 113.916362",
+      "metar_available": false
     },
     {
       "ident": "MY-0003",
@@ -52,7 +55,8 @@
       "iso_country": "MY",
       "iso_region": "MY-06",
       "municipality": "Ringlet",
-      "coordinates": "4.440291, 101.421724"
+      "coordinates": "4.440291, 101.421724",
+      "metar_available": false
     },
     {
       "ident": "MY-0004",
@@ -62,7 +66,8 @@
       "iso_country": "MY",
       "iso_region": "MY-06",
       "municipality": "Temerloh",
-      "coordinates": "3.45361, 102.45338"
+      "coordinates": "3.45361, 102.45338",
+      "metar_available": false
     },
     {
       "ident": "MY-0005",
@@ -72,7 +77,8 @@
       "iso_country": "MY",
       "iso_region": "MY-01",
       "municipality": "Tanjung Pengelih",
-      "coordinates": "1.372145, 104.093959"
+      "coordinates": "1.372145, 104.093959",
+      "metar_available": false
     },
     {
       "ident": "MY-0006",
@@ -82,7 +88,8 @@
       "iso_country": "MY",
       "iso_region": "MY-08",
       "municipality": "Lumut",
-      "coordinates": "4.23302, 100.61787"
+      "coordinates": "4.23302, 100.61787",
+      "metar_available": false
     },
     {
       "ident": "MY-0007",
@@ -92,7 +99,8 @@
       "iso_country": "MY",
       "iso_region": "MY-06",
       "municipality": "Kuantan",
-      "coordinates": "3.96909, 103.43113"
+      "coordinates": "3.96909, 103.43113",
+      "metar_available": false
     },
     {
       "ident": "MY-0008",
@@ -102,7 +110,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Limbang",
-      "coordinates": "4.758474, 115.009884"
+      "coordinates": "4.758474, 115.009884",
+      "metar_available": false
     },
     {
       "ident": "MY-0009",
@@ -113,7 +122,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Mukah",
-      "coordinates": "2.907082, 112.077756"
+      "coordinates": "2.907082, 112.077756",
+      "metar_available": false
     },
     {
       "ident": "MY-0010",
@@ -123,7 +133,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Terumbu Ubi (Ardasier Reef)",
-      "coordinates": "7.60642, 113.930363"
+      "coordinates": "7.60642, 113.930363",
+      "metar_available": false
     },
     {
       "ident": "MY-0011",
@@ -133,7 +144,8 @@
       "iso_country": "MY",
       "iso_region": "MY-14",
       "municipality": "Kuala Lumpur",
-      "coordinates": "3.161877, 101.666788"
+      "coordinates": "3.161877, 101.666788",
+      "metar_available": false
     },
     {
       "ident": "MY-0012",
@@ -143,7 +155,8 @@
       "iso_country": "MY",
       "iso_region": "MY-14",
       "municipality": "Kuala Lumpur",
-      "coordinates": "3.157058, 101.703002"
+      "coordinates": "3.157058, 101.703002",
+      "metar_available": false
     },
     {
       "ident": "MY-0013",
@@ -153,7 +166,8 @@
       "iso_country": "MY",
       "iso_region": "MY-10",
       "municipality": "Sepang",
-      "coordinates": "2.761501, 101.739817"
+      "coordinates": "2.761501, 101.739817",
+      "metar_available": false
     },
     {
       "ident": "MY-0014",
@@ -163,7 +177,8 @@
       "iso_country": "MY",
       "iso_region": "MY-10",
       "municipality": "Sepang",
-      "coordinates": "2.760815, 101.734392"
+      "coordinates": "2.760815, 101.734392",
+      "metar_available": false
     },
     {
       "ident": "MY-0015",
@@ -174,7 +189,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Morotai",
-      "coordinates": "4.4103899002075195, 117.78700256347656"
+      "coordinates": "4.4103899002075195, 117.78700256347656",
+      "metar_available": false
     },
     {
       "ident": "MY-0016",
@@ -185,7 +201,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Jeroco",
-      "coordinates": "5.406111240386963, 118.3963851928711"
+      "coordinates": "5.406111240386963, 118.3963851928711",
+      "metar_available": false
     },
     {
       "ident": "MY-0017",
@@ -196,7 +213,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Kelabakan",
-      "coordinates": "4.416388988494873, 117.49639129638672"
+      "coordinates": "4.416388988494873, 117.49639129638672",
+      "metar_available": false
     },
     {
       "ident": "MY-0018",
@@ -207,7 +225,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Kuala Kahaba",
-      "coordinates": "5.11638879776001, 116.14666748046875"
+      "coordinates": "5.11638879776001, 116.14666748046875",
+      "metar_available": false
     },
     {
       "ident": "MY-0019",
@@ -218,7 +237,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Kuala Medamit",
-      "coordinates": "4.466390132904053, 114.91300201416016"
+      "coordinates": "4.466390132904053, 114.91300201416016",
+      "metar_available": false
     },
     {
       "ident": "MY-0020",
@@ -229,7 +249,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Marak Parak",
-      "coordinates": "6.312222003936768, 116.72972106933594"
+      "coordinates": "6.312222003936768, 116.72972106933594",
+      "metar_available": false
     },
     {
       "ident": "MY-0021",
@@ -240,7 +261,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Meligan",
-      "coordinates": "4.681666851043701, 115.69805908203125"
+      "coordinates": "4.681666851043701, 115.69805908203125",
+      "metar_available": false
     },
     {
       "ident": "MY-0022",
@@ -251,7 +273,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Meridi",
-      "coordinates": "6.0941667556762695, 116.97000122070312"
+      "coordinates": "6.0941667556762695, 116.97000122070312",
+      "metar_available": false
     },
     {
       "ident": "MY-0023",
@@ -262,7 +285,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Nangoh",
-      "coordinates": "5.966388702392578, 117.29638671875"
+      "coordinates": "5.966388702392578, 117.29638671875",
+      "metar_available": false
     },
     {
       "ident": "MY-0024",
@@ -273,7 +297,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Pandewan",
-      "coordinates": "4.974722385406494, 116.47166442871094"
+      "coordinates": "4.974722385406494, 116.47166442871094",
+      "metar_available": false
     },
     {
       "ident": "MY-0025",
@@ -284,7 +309,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Paramudu",
-      "coordinates": "3.555431, 115.49503"
+      "coordinates": "3.555431, 115.49503",
+      "metar_available": false
     },
     {
       "ident": "MY-0026",
@@ -294,7 +320,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Sook",
-      "coordinates": "5.141388893127441, 116.30777740478516"
+      "coordinates": "5.141388893127441, 116.30777740478516",
+      "metar_available": false
     },
     {
       "ident": "MY-0027",
@@ -305,7 +332,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Ulu Tomani",
-      "coordinates": "4.696944236755371, 115.86333465576172"
+      "coordinates": "4.696944236755371, 115.86333465576172",
+      "metar_available": false
     },
     {
       "ident": "MY-0028",
@@ -316,7 +344,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Wallace Bay",
-      "coordinates": "4.244166851043701, 117.65611267089844"
+      "coordinates": "4.244166851043701, 117.65611267089844",
+      "metar_available": false
     },
     {
       "ident": "MY-0029",
@@ -326,7 +355,8 @@
       "iso_country": "MY",
       "iso_region": "MY-10",
       "municipality": "Sepang",
-      "coordinates": "2.763797, 101.73718"
+      "coordinates": "2.763797, 101.73718",
+      "metar_available": false
     },
     {
       "ident": "MY-0030",
@@ -336,7 +366,8 @@
       "iso_country": "MY",
       "iso_region": "MY-10",
       "municipality": "Sepang",
-      "coordinates": "2.758894, 101.728113"
+      "coordinates": "2.758894, 101.728113",
+      "metar_available": false
     },
     {
       "ident": "MY-0031",
@@ -346,7 +377,8 @@
       "iso_country": "MY",
       "iso_region": "MY-10",
       "municipality": "Sepang",
-      "coordinates": "2.764049, 101.701175"
+      "coordinates": "2.764049, 101.701175",
+      "metar_available": false
     },
     {
       "ident": "MY-0032",
@@ -356,7 +388,8 @@
       "iso_country": "MY",
       "iso_region": "MY-04",
       "municipality": "Mashid Tanah",
-      "coordinates": "2.295796, 102.090654"
+      "coordinates": "2.295796, 102.090654",
+      "metar_available": false
     },
     {
       "ident": "MY-0033",
@@ -366,7 +399,8 @@
       "iso_country": "MY",
       "iso_region": "MY-01",
       "municipality": "Johor Bahru",
-      "coordinates": "1.479169, 103.78247"
+      "coordinates": "1.479169, 103.78247",
+      "metar_available": false
     },
     {
       "ident": "MY-0034",
@@ -376,7 +410,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Marudi",
-      "coordinates": "3.558464, 115.555936"
+      "coordinates": "3.558464, 115.555936",
+      "metar_available": false
     },
     {
       "ident": "MY-0035",
@@ -386,7 +421,8 @@
       "iso_country": "MY",
       "iso_region": "MY-06",
       "municipality": "Genting Highlands",
-      "coordinates": "3.42491, 101.7914"
+      "coordinates": "3.42491, 101.7914",
+      "metar_available": false
     },
     {
       "ident": "MY-0036",
@@ -396,7 +432,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Sarikei",
-      "coordinates": "2.13516, 111.49218"
+      "coordinates": "2.13516, 111.49218",
+      "metar_available": false
     },
     {
       "ident": "MY-0037",
@@ -406,7 +443,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Sibu",
-      "coordinates": "2.29754, 111.88918"
+      "coordinates": "2.29754, 111.88918",
+      "metar_available": false
     },
     {
       "ident": "MY-0038",
@@ -416,7 +454,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Saratok",
-      "coordinates": "1.74693, 111.34072"
+      "coordinates": "1.74693, 111.34072",
+      "metar_available": false
     },
     {
       "ident": "MY-0039",
@@ -426,7 +465,8 @@
       "iso_country": "MY",
       "iso_region": "MY-01",
       "municipality": "Air Tawar",
-      "coordinates": "1.67001, 104.02488"
+      "coordinates": "1.67001, 104.02488",
+      "metar_available": false
     },
     {
       "ident": "MY-0040",
@@ -436,7 +476,8 @@
       "iso_country": "MY",
       "iso_region": "MY-01",
       "municipality": "Lok Heng",
-      "coordinates": "1.6945, 104.08725"
+      "coordinates": "1.6945, 104.08725",
+      "metar_available": false
     },
     {
       "ident": "MY-0041",
@@ -446,7 +487,8 @@
       "iso_country": "MY",
       "iso_region": "MY-01",
       "municipality": "Bandar Penawar",
-      "coordinates": "1.58898, 104.16391"
+      "coordinates": "1.58898, 104.16391",
+      "metar_available": false
     },
     {
       "ident": "MY-0042",
@@ -456,7 +498,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Pulau Layang-Layang (Swallow Reef)",
-      "coordinates": "7.37375, 113.84672"
+      "coordinates": "7.37375, 113.84672",
+      "metar_available": false
     },
     {
       "ident": "MY-0043",
@@ -466,7 +509,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Terumbu Siput (Erica Reef)",
-      "coordinates": "8.1025, 114.13812"
+      "coordinates": "8.1025, 114.13812",
+      "metar_available": false
     },
     {
       "ident": "MY-0044",
@@ -477,7 +521,8 @@
       "iso_country": "MY",
       "iso_region": "MY-16",
       "municipality": "Putrajaya",
-      "coordinates": "2.9027, 101.66618"
+      "coordinates": "2.9027, 101.66618",
+      "metar_available": false
     },
     {
       "ident": "MY-0045",
@@ -488,7 +533,8 @@
       "iso_country": "MY",
       "iso_region": "MY-16",
       "municipality": "Putrajaya",
-      "coordinates": "2.893768, 101.679261"
+      "coordinates": "2.893768, 101.679261",
+      "metar_available": false
     },
     {
       "ident": "MY-0046",
@@ -497,7 +543,8 @@
       "continent": "AS",
       "iso_country": "MY",
       "iso_region": "MY-04",
-      "coordinates": "3.1319, 101.6841"
+      "coordinates": "3.1319, 101.6841",
+      "metar_available": false
     },
     {
       "ident": "MY-0048",
@@ -508,7 +555,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Sri Aman",
-      "coordinates": "1.2219, 111.4636"
+      "coordinates": "1.2219, 111.4636",
+      "metar_available": false
     },
     {
       "ident": "MY-0049",
@@ -519,7 +567,8 @@
       "iso_country": "MY",
       "iso_region": "MY-06",
       "municipality": "Bentong",
-      "coordinates": "3.550811, 101.894041"
+      "coordinates": "3.550811, 101.894041",
+      "metar_available": false
     },
     {
       "ident": "MY-0050",
@@ -530,7 +579,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Genting",
-      "coordinates": "2.11666703224, 111.699996948"
+      "coordinates": "2.11666703224, 111.699996948",
+      "metar_available": false
     },
     {
       "ident": "MY-0051",
@@ -541,7 +591,8 @@
       "iso_country": "MY",
       "iso_region": "MY-12",
       "municipality": "Mostyn",
-      "coordinates": "4.616666, 118.150002"
+      "coordinates": "4.616666, 118.150002",
+      "metar_available": false
     },
     {
       "ident": "MY-0052",
@@ -552,7 +603,8 @@
       "iso_country": "MY",
       "iso_region": "MY-05",
       "municipality": "Bahau",
-      "coordinates": "2.81667, 102.417"
+      "coordinates": "2.81667, 102.417",
+      "metar_available": false
     },
     {
       "ident": "MY-0053",
@@ -563,7 +615,8 @@
       "iso_country": "MY",
       "iso_region": "MY-02",
       "municipality": "Sungai Petani",
-      "coordinates": "5.623781, 100.541963"
+      "coordinates": "5.623781, 100.541963",
+      "metar_available": false
     },
     {
       "ident": "MY-0054",
@@ -574,7 +627,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Lutong",
-      "coordinates": "4.454601, 114.003518"
+      "coordinates": "4.454601, 114.003518",
+      "metar_available": false
     },
     {
       "ident": "MY-GTK",
@@ -586,7 +640,8 @@
       "iso_region": "MY-01",
       "municipality": "Sungai Tekai",
       "iata_code": "GTK",
-      "coordinates": "2.64118, 102.89297"
+      "coordinates": "2.64118, 102.89297",
+      "metar_available": false
     },
     {
       "ident": "MY-LBP",
@@ -598,7 +653,8 @@
       "iso_region": "MY-13",
       "municipality": "Long Banga",
       "iata_code": "LBP",
-      "coordinates": "3.202138, 115.401811"
+      "coordinates": "3.202138, 115.401811",
+      "metar_available": false
     },
     {
       "ident": "MY-LLM",
@@ -609,7 +665,8 @@
       "iso_country": "MY",
       "iso_region": "MY-13",
       "municipality": "Long Lama",
-      "coordinates": "3.76667, 114.466667"
+      "coordinates": "3.76667, 114.466667",
+      "metar_available": false
     },
     {
       "ident": "MY-SPT",
@@ -621,7 +678,8 @@
       "iso_region": "MY-12",
       "municipality": "Sipitang",
       "iata_code": "SPT",
-      "coordinates": "5.0833330154418945, 115.55000305175781"
+      "coordinates": "5.0833330154418945, 115.55000305175781",
+      "metar_available": false
     },
     {
       "ident": "WBGA",
@@ -633,7 +691,8 @@
       "iso_region": "MY-13",
       "municipality": "Long Atip",
       "gps_code": "WBGA",
-      "coordinates": "3.816999912261963, 114.69999694824219"
+      "coordinates": "3.816999912261963, 114.69999694824219",
+      "metar_available": false
     },
     {
       "ident": "WBGB",
@@ -646,7 +705,8 @@
       "municipality": "Bintulu",
       "gps_code": "WBGB",
       "iata_code": "BTU",
-      "coordinates": "3.12385010719, 113.019996643"
+      "coordinates": "3.12385010719, 113.019996643",
+      "metar_available": false
     },
     {
       "ident": "WBGC",
@@ -659,7 +719,8 @@
       "municipality": "Belaga",
       "gps_code": "WBGC",
       "iata_code": "BLG",
-      "coordinates": "2.652143, 113.767043"
+      "coordinates": "2.652143, 113.767043",
+      "metar_available": false
     },
     {
       "ident": "WBGD",
@@ -672,7 +733,8 @@
       "municipality": "Long Semado",
       "gps_code": "WBGD",
       "iata_code": "LSM",
-      "coordinates": "4.21700000763, 115.599998474"
+      "coordinates": "4.21700000763, 115.599998474",
+      "metar_available": false
     },
     {
       "ident": "WBGE",
@@ -684,7 +746,8 @@
       "iso_region": "MY-13",
       "municipality": "Long Geng",
       "gps_code": "WBGE",
-      "coordinates": "2.617, 114.133003"
+      "coordinates": "2.617, 114.133003",
+      "metar_available": false
     },
     {
       "ident": "WBGF",
@@ -697,7 +760,8 @@
       "municipality": "Long Datih",
       "gps_code": "WBGF",
       "iata_code": "LGL",
-      "coordinates": "3.4210000038099997, 115.153999329"
+      "coordinates": "3.4210000038099997, 115.153999329",
+      "metar_available": false
     },
     {
       "ident": "WBGG",
@@ -710,7 +774,8 @@
       "municipality": "Kuching",
       "gps_code": "WBGG",
       "iata_code": "KCH",
-      "coordinates": "1.487364, 110.352859"
+      "coordinates": "1.487364, 110.352859",
+      "metar_available": false
     },
     {
       "ident": "WBGI",
@@ -723,7 +788,8 @@
       "municipality": "Long Seridan",
       "gps_code": "WBGI",
       "iata_code": "ODN",
-      "coordinates": "3.976087, 115.067303"
+      "coordinates": "3.976087, 115.067303",
+      "metar_available": false
     },
     {
       "ident": "WBGJ",
@@ -736,7 +802,8 @@
       "municipality": "Limbang",
       "gps_code": "WBGJ",
       "iata_code": "LMN",
-      "coordinates": "4.808300018310547, 115.01000213623047"
+      "coordinates": "4.808300018310547, 115.01000213623047",
+      "metar_available": false
     },
     {
       "ident": "WBGK",
@@ -749,7 +816,8 @@
       "municipality": "Mukah",
       "gps_code": "WBGK",
       "iata_code": "MKM",
-      "coordinates": "2.881944, 112.043333"
+      "coordinates": "2.881944, 112.043333",
+      "metar_available": false
     },
     {
       "ident": "WBGL",
@@ -762,7 +830,8 @@
       "municipality": "Long Akah",
       "gps_code": "WBGL",
       "iata_code": "LKH",
-      "coordinates": "3.310909, 114.785553"
+      "coordinates": "3.310909, 114.785553",
+      "metar_available": false
     },
     {
       "ident": "WBGM",
@@ -775,7 +844,8 @@
       "municipality": "Marudi",
       "gps_code": "WBGM",
       "iata_code": "MUR",
-      "coordinates": "4.178734, 114.330318"
+      "coordinates": "4.178734, 114.330318",
+      "metar_available": false
     },
     {
       "ident": "WBGN",
@@ -788,7 +858,8 @@
       "municipality": "Sematan",
       "gps_code": "WBGN",
       "iata_code": "BSE",
-      "coordinates": "1.812678, 109.765391"
+      "coordinates": "1.812678, 109.765391",
+      "metar_available": false
     },
     {
       "ident": "WBGO",
@@ -800,7 +871,8 @@
       "iso_region": "MY-13",
       "municipality": "Lio Matu",
       "gps_code": "WBGO",
-      "coordinates": "3.197567, 115.308802"
+      "coordinates": "3.197567, 115.308802",
+      "metar_available": false
     },
     {
       "ident": "WBGP",
@@ -813,7 +885,8 @@
       "municipality": "Kapit",
       "gps_code": "WBGP",
       "iata_code": "KPI",
-      "coordinates": "2.01052374505, 112.931468248"
+      "coordinates": "2.01052374505, 112.931468248",
+      "metar_available": false
     },
     {
       "ident": "WBGQ",
@@ -826,7 +899,8 @@
       "municipality": "Bakalalan",
       "gps_code": "WBGQ",
       "iata_code": "BKM",
-      "coordinates": "3.974, 115.617996"
+      "coordinates": "3.974, 115.617996",
+      "metar_available": false
     },
     {
       "ident": "WBGR",
@@ -839,7 +913,8 @@
       "municipality": "Miri",
       "gps_code": "WBGR",
       "iata_code": "MYY",
-      "coordinates": "4.32201, 113.987"
+      "coordinates": "4.32201, 113.987",
+      "metar_available": false
     },
     {
       "ident": "WBGS",
@@ -852,7 +927,8 @@
       "municipality": "Sibu",
       "gps_code": "WBGS",
       "iata_code": "SBW",
-      "coordinates": "2.2616, 111.985001"
+      "coordinates": "2.2616, 111.985001",
+      "metar_available": false
     },
     {
       "ident": "WBGU",
@@ -865,7 +941,8 @@
       "municipality": "Long Sukang",
       "gps_code": "WBGU",
       "iata_code": "LSU",
-      "coordinates": "4.55222, 115.494003"
+      "coordinates": "4.55222, 115.494003",
+      "metar_available": false
     },
     {
       "ident": "WBGW",
@@ -878,7 +955,8 @@
       "municipality": "Lawas",
       "gps_code": "WBGW",
       "iata_code": "LWY",
-      "coordinates": "4.84917, 115.407997"
+      "coordinates": "4.84917, 115.407997",
+      "metar_available": false
     },
     {
       "ident": "WBGZ",
@@ -891,7 +969,8 @@
       "municipality": "Bario",
       "gps_code": "WBGZ",
       "iata_code": "BBN",
-      "coordinates": "3.734648, 115.478548"
+      "coordinates": "3.734648, 115.478548",
+      "metar_available": false
     },
     {
       "ident": "WBKA",
@@ -904,7 +983,8 @@
       "municipality": "Semporna",
       "gps_code": "WBKA",
       "iata_code": "SMM",
-      "coordinates": "4.454596, 118.595023"
+      "coordinates": "4.454596, 118.595023",
+      "metar_available": false
     },
     {
       "ident": "WBKB",
@@ -916,7 +996,8 @@
       "iso_region": "MY-12",
       "municipality": "Kota Belud",
       "gps_code": "WBKB",
-      "coordinates": "6.36516, 116.471001"
+      "coordinates": "6.36516, 116.471001",
+      "metar_available": false
     },
     {
       "ident": "WBKD",
@@ -929,7 +1010,8 @@
       "municipality": "Lahad Datu",
       "gps_code": "WBKD",
       "iata_code": "LDU",
-      "coordinates": "5.03241, 118.32376"
+      "coordinates": "5.03241, 118.32376",
+      "metar_available": false
     },
     {
       "ident": "WBKE",
@@ -942,7 +1024,8 @@
       "municipality": "Telupid",
       "gps_code": "WBKE",
       "iata_code": "TEL",
-      "coordinates": "5.62861, 117.125999"
+      "coordinates": "5.62861, 117.125999",
+      "metar_available": false
     },
     {
       "ident": "WBKG",
@@ -955,7 +1038,8 @@
       "municipality": "Keningau",
       "gps_code": "WBKG",
       "iata_code": "KGU",
-      "coordinates": "5.355487, 116.164884"
+      "coordinates": "5.355487, 116.164884",
+      "metar_available": false
     },
     {
       "ident": "WBKH",
@@ -968,7 +1052,8 @@
       "municipality": "Sahabat",
       "gps_code": "WBKH",
       "iata_code": "SXS",
-      "coordinates": "5.087779998779297, 119.09400177001953"
+      "coordinates": "5.087779998779297, 119.09400177001953",
+      "metar_available": false
     },
     {
       "ident": "WBKK",
@@ -981,7 +1066,8 @@
       "municipality": "Kota Kinabalu",
       "gps_code": "WBKK",
       "iata_code": "BKI",
-      "coordinates": "5.932743, 116.049324"
+      "coordinates": "5.932743, 116.049324",
+      "metar_available": false
     },
     {
       "ident": "WBKL",
@@ -994,7 +1080,8 @@
       "municipality": "Labuan",
       "gps_code": "WBKL",
       "iata_code": "LBU",
-      "coordinates": "5.301667, 115.248333"
+      "coordinates": "5.301667, 115.248333",
+      "metar_available": false
     },
     {
       "ident": "WBKM",
@@ -1007,7 +1094,8 @@
       "municipality": "Tomanggong",
       "gps_code": "WBKM",
       "iata_code": "TMG",
-      "coordinates": "5.40257, 118.65763"
+      "coordinates": "5.40257, 118.65763",
+      "metar_available": false
     },
     {
       "ident": "WBKN",
@@ -1020,7 +1108,8 @@
       "municipality": "Long Miau",
       "gps_code": "WBKN",
       "iata_code": "GSA",
-      "coordinates": "4.409756, 115.724473"
+      "coordinates": "4.409756, 115.724473",
+      "metar_available": false
     },
     {
       "ident": "WBKO",
@@ -1033,7 +1122,8 @@
       "municipality": "Sepulot",
       "gps_code": "WBKO",
       "iata_code": "SPE",
-      "coordinates": "4.732999801635742, 116.46700286865234"
+      "coordinates": "4.732999801635742, 116.46700286865234",
+      "metar_available": false
     },
     {
       "ident": "WBKP",
@@ -1046,7 +1136,8 @@
       "municipality": "Pamol",
       "gps_code": "WBKP",
       "iata_code": "PAY",
-      "coordinates": "5.996571, 117.404795"
+      "coordinates": "5.996571, 117.404795",
+      "metar_available": false
     },
     {
       "ident": "WBKR",
@@ -1059,7 +1150,8 @@
       "municipality": "Ranau",
       "gps_code": "WBKR",
       "iata_code": "RNU",
-      "coordinates": "5.957793, 116.680191"
+      "coordinates": "5.957793, 116.680191",
+      "metar_available": false
     },
     {
       "ident": "WBKS",
@@ -1072,7 +1164,8 @@
       "municipality": "Sandakan",
       "gps_code": "WBKS",
       "iata_code": "SDK",
-      "coordinates": "5.900899887084961, 118.05899810791016"
+      "coordinates": "5.900899887084961, 118.05899810791016",
+      "metar_available": false
     },
     {
       "ident": "WBKT",
@@ -1085,7 +1178,8 @@
       "municipality": "Kudat",
       "gps_code": "WBKT",
       "iata_code": "KUD",
-      "coordinates": "6.924111, 116.837068"
+      "coordinates": "6.924111, 116.837068",
+      "metar_available": false
     },
     {
       "ident": "WBKU",
@@ -1097,7 +1191,8 @@
       "iso_region": "MY-12",
       "municipality": "Kuala Penyu",
       "gps_code": "WBKU",
-      "coordinates": "5.597195, 115.582695"
+      "coordinates": "5.597195, 115.582695",
+      "metar_available": false
     },
     {
       "ident": "WBKW",
@@ -1110,7 +1205,8 @@
       "municipality": "Tawau",
       "gps_code": "WBKW",
       "iata_code": "TWU",
-      "coordinates": "4.31338, 118.12152"
+      "coordinates": "4.31338, 118.12152",
+      "metar_available": false
     },
     {
       "ident": "WBMU",
@@ -1123,7 +1219,8 @@
       "municipality": "Mulu",
       "gps_code": "WBMU",
       "iata_code": "MZV",
-      "coordinates": "4.048329830169678, 114.80500030517578"
+      "coordinates": "4.048329830169678, 114.80500030517578",
+      "metar_available": false
     },
     {
       "ident": "WBTM",
@@ -1136,7 +1233,8 @@
       "municipality": "Belawai",
       "gps_code": "WBTM",
       "iata_code": "TGC",
-      "coordinates": "2.17784, 111.202003"
+      "coordinates": "2.17784, 111.202003",
+      "metar_available": false
     },
     {
       "ident": "WMAB",
@@ -1148,7 +1246,8 @@
       "iso_region": "MY-01",
       "municipality": "Batu Pahat",
       "gps_code": "WMAB",
-      "coordinates": "1.74666, 102.987976"
+      "coordinates": "1.74666, 102.987976",
+      "metar_available": false
     },
     {
       "ident": "WMAC",
@@ -1160,7 +1259,8 @@
       "iso_region": "MY-06",
       "municipality": "Benta",
       "gps_code": "WMAC",
-      "coordinates": "4.048643, 101.985569"
+      "coordinates": "4.048643, 101.985569",
+      "metar_available": false
     },
     {
       "ident": "WMAE",
@@ -1172,7 +1272,8 @@
       "iso_region": "MY-08",
       "municipality": "Bidor",
       "gps_code": "WMAE",
-      "coordinates": "4.11638879776001, 101.28199768066406"
+      "coordinates": "4.11638879776001, 101.28199768066406",
+      "metar_available": false
     },
     {
       "ident": "WMAG",
@@ -1184,7 +1285,8 @@
       "iso_region": "MY-11",
       "municipality": "Dungun",
       "gps_code": "WMAG",
-      "coordinates": "4.786290168762207, 103.38200378417969"
+      "coordinates": "4.786290168762207, 103.38200378417969",
+      "metar_available": false
     },
     {
       "ident": "WMAH",
@@ -1196,7 +1298,8 @@
       "iso_region": "MY-08",
       "municipality": "Grik",
       "gps_code": "WMAH",
-      "coordinates": "5.432849, 101.123658"
+      "coordinates": "5.432849, 101.123658",
+      "metar_available": false
     },
     {
       "ident": "WMAJ",
@@ -1208,7 +1311,8 @@
       "iso_region": "MY-08",
       "municipality": "Jendarata",
       "gps_code": "WMAJ",
-      "coordinates": "3.89972, 100.948997"
+      "coordinates": "3.89972, 100.948997",
+      "metar_available": false
     },
     {
       "ident": "WMAL",
@@ -1220,7 +1324,8 @@
       "iso_region": "MY-03",
       "municipality": "Kuala Kerai",
       "gps_code": "WMAL",
-      "coordinates": "5.538680076599121, 102.19499969482422"
+      "coordinates": "5.538680076599121, 102.19499969482422",
+      "metar_available": false
     },
     {
       "ident": "WMAN",
@@ -1233,7 +1338,8 @@
       "municipality": "Taman Negara",
       "gps_code": "WMAN",
       "iata_code": "SXT",
-      "coordinates": "4.330277919769287, 102.3949966430664"
+      "coordinates": "4.330277919769287, 102.3949966430664",
+      "metar_available": false
     },
     {
       "ident": "WMAP",
@@ -1245,7 +1351,8 @@
       "iso_region": "MY-01",
       "municipality": "Kluang",
       "gps_code": "WMAP",
-      "coordinates": "2.04138994217, 103.306999207"
+      "coordinates": "2.04138994217, 103.306999207",
+      "metar_available": false
     },
     {
       "ident": "WMAQ",
@@ -1257,7 +1364,8 @@
       "iso_region": "MY-01",
       "municipality": "Labis",
       "gps_code": "WMAQ",
-      "coordinates": "2.38024, 103.03393"
+      "coordinates": "2.38024, 103.03393",
+      "metar_available": false
     },
     {
       "ident": "WMAU",
@@ -1270,7 +1378,8 @@
       "municipality": "Mersing",
       "gps_code": "WMAU",
       "iata_code": "MEP",
-      "coordinates": "2.389148, 103.874183"
+      "coordinates": "2.389148, 103.874183",
+      "metar_available": false
     },
     {
       "ident": "WMAV",
@@ -1282,7 +1391,8 @@
       "iso_region": "MY-01",
       "municipality": "Muar",
       "gps_code": "WMAV",
-      "coordinates": "2.05215, 102.65795"
+      "coordinates": "2.05215, 102.65795",
+      "metar_available": false
     },
     {
       "ident": "WMAZ",
@@ -1294,7 +1404,8 @@
       "iso_region": "MY-01",
       "municipality": "Segamat",
       "gps_code": "WMAZ",
-      "coordinates": "2.498023, 102.839756"
+      "coordinates": "2.498023, 102.839756",
+      "metar_available": false
     },
     {
       "ident": "WMBA",
@@ -1307,7 +1418,8 @@
       "municipality": "Sitiawan",
       "gps_code": "WMBA",
       "iata_code": "SWY",
-      "coordinates": "4.2222, 100.6993"
+      "coordinates": "4.2222, 100.6993",
+      "metar_available": false
     },
     {
       "ident": "WMBE",
@@ -1319,7 +1431,8 @@
       "iso_region": "MY-06",
       "municipality": "Temerloh",
       "gps_code": "WMBE",
-      "coordinates": "3.480521, 102.377901"
+      "coordinates": "3.480521, 102.377901",
+      "metar_available": false
     },
     {
       "ident": "WMBF",
@@ -1331,7 +1444,8 @@
       "iso_region": "MY-08",
       "municipality": "Ulu Bernam",
       "gps_code": "WMBF",
-      "coordinates": "3.740934, 101.168504"
+      "coordinates": "3.740934, 101.168504",
+      "metar_available": false
     },
     {
       "ident": "WMBH",
@@ -1343,7 +1457,8 @@
       "iso_region": "MY-08",
       "municipality": "Pengkalan Hulu",
       "gps_code": "WMBH",
-      "coordinates": "5.695909, 100.996797"
+      "coordinates": "5.695909, 100.996797",
+      "metar_available": false
     },
     {
       "ident": "WMBI",
@@ -1356,7 +1471,8 @@
       "municipality": "Taiping",
       "gps_code": "WMBI",
       "iata_code": "TPG",
-      "coordinates": "4.866432, 100.715381"
+      "coordinates": "4.866432, 100.715381",
+      "metar_available": false
     },
     {
       "ident": "WMBT",
@@ -1369,7 +1485,8 @@
       "municipality": "Tioman Island",
       "gps_code": "WMBT",
       "iata_code": "TOD",
-      "coordinates": "2.81818, 104.160004"
+      "coordinates": "2.81818, 104.160004",
+      "metar_available": false
     },
     {
       "ident": "WMGK",
@@ -1380,7 +1497,8 @@
       "iso_country": "MY",
       "iso_region": "MY-03",
       "gps_code": "WMGK",
-      "coordinates": "5.79957, 102.484001"
+      "coordinates": "5.79957, 102.484001",
+      "metar_available": false
     },
     {
       "ident": "WMKA",
@@ -1393,7 +1511,8 @@
       "municipality": "Alor Satar",
       "gps_code": "WMKA",
       "iata_code": "AOR",
-      "coordinates": "6.189670085906982, 100.39800262451172"
+      "coordinates": "6.189670085906982, 100.39800262451172",
+      "metar_available": false
     },
     {
       "ident": "WMKB",
@@ -1406,7 +1525,8 @@
       "municipality": "Butterworth",
       "gps_code": "WMKB",
       "iata_code": "BWH",
-      "coordinates": "5.46592, 100.390999"
+      "coordinates": "5.46592, 100.390999",
+      "metar_available": false
     },
     {
       "ident": "WMKC",
@@ -1419,7 +1539,8 @@
       "municipality": "Kota Baharu",
       "gps_code": "WMKC",
       "iata_code": "KBR",
-      "coordinates": "6.1668500900268555, 102.29299926757812"
+      "coordinates": "6.1668500900268555, 102.29299926757812",
+      "metar_available": false
     },
     {
       "ident": "WMKD",
@@ -1432,7 +1553,8 @@
       "municipality": "Kuantan",
       "gps_code": "WMKD",
       "iata_code": "KUA",
-      "coordinates": "3.7753899097442627, 103.20899963378906"
+      "coordinates": "3.7753899097442627, 103.20899963378906",
+      "metar_available": false
     },
     {
       "ident": "WMKE",
@@ -1445,7 +1567,8 @@
       "municipality": "Kerteh",
       "gps_code": "WMKE",
       "iata_code": "KTE",
-      "coordinates": "4.53722, 103.427002"
+      "coordinates": "4.53722, 103.427002",
+      "metar_available": false
     },
     {
       "ident": "WMKF",
@@ -1457,7 +1580,8 @@
       "iso_region": "MY-14",
       "municipality": "Kuala Lumpur",
       "gps_code": "WMKF",
-      "coordinates": "3.1122500896453857, 101.7030029296875"
+      "coordinates": "3.1122500896453857, 101.7030029296875",
+      "metar_available": false
     },
     {
       "ident": "WMKI",
@@ -1470,7 +1594,8 @@
       "municipality": "Ipoh",
       "gps_code": "WMKI",
       "iata_code": "IPH",
-      "coordinates": "4.567969799041748, 101.09200286865234"
+      "coordinates": "4.567969799041748, 101.09200286865234",
+      "metar_available": false
     },
     {
       "ident": "WMKJ",
@@ -1483,7 +1608,8 @@
       "municipality": "Johor Bahru",
       "gps_code": "WMKJ",
       "iata_code": "JHB",
-      "coordinates": "1.64131, 103.669998"
+      "coordinates": "1.64131, 103.669998",
+      "metar_available": false
     },
     {
       "ident": "WMKK",
@@ -1496,7 +1622,8 @@
       "municipality": "Sepang",
       "gps_code": "WMKK",
       "iata_code": "KUL",
-      "coordinates": "2.74558, 101.709999"
+      "coordinates": "2.74558, 101.709999",
+      "metar_available": false
     },
     {
       "ident": "WMKL",
@@ -1509,7 +1636,8 @@
       "municipality": "Langkawi",
       "gps_code": "WMKL",
       "iata_code": "LGK",
-      "coordinates": "6.329730033874512, 99.72869873046875"
+      "coordinates": "6.329730033874512, 99.72869873046875",
+      "metar_available": false
     },
     {
       "ident": "WMKM",
@@ -1522,7 +1650,8 @@
       "municipality": "Malacca",
       "gps_code": "WMKM",
       "iata_code": "MKZ",
-      "coordinates": "2.265613, 102.252778"
+      "coordinates": "2.265613, 102.252778",
+      "metar_available": false
     },
     {
       "ident": "WMKN",
@@ -1535,7 +1664,8 @@
       "municipality": "Kuala Terengganu",
       "gps_code": "WMKN",
       "iata_code": "TGG",
-      "coordinates": "5.3826398849487305, 103.10299682617188"
+      "coordinates": "5.3826398849487305, 103.10299682617188",
+      "metar_available": false
     },
     {
       "ident": "WMKP",
@@ -1548,7 +1678,8 @@
       "municipality": "Penang",
       "gps_code": "WMKP",
       "iata_code": "PEN",
-      "coordinates": "5.297140121459961, 100.2770004272461"
+      "coordinates": "5.297140121459961, 100.2770004272461",
+      "metar_available": false
     },
     {
       "ident": "WMLH",
@@ -1560,7 +1691,8 @@
       "iso_region": "MY-08",
       "municipality": "Lumut",
       "gps_code": "WMLH",
-      "coordinates": "4.233307, 100.616276"
+      "coordinates": "4.233307, 100.616276",
+      "metar_available": false
     },
     {
       "ident": "WMPA",
@@ -1573,7 +1705,8 @@
       "municipality": "Pangkor Island",
       "gps_code": "WMPA",
       "iata_code": "PKG",
-      "coordinates": "4.244719982147217, 100.5530014038086"
+      "coordinates": "4.244719982147217, 100.5530014038086",
+      "metar_available": false
     },
     {
       "ident": "WMPR",
@@ -1586,7 +1719,8 @@
       "municipality": "Redang",
       "gps_code": "WMPR",
       "iata_code": "RDN",
-      "coordinates": "5.764804, 103.004942"
+      "coordinates": "5.764804, 103.004942",
+      "metar_available": false
     },
     {
       "ident": "WMSA",
@@ -1599,7 +1733,8 @@
       "municipality": "Subang",
       "gps_code": "WMSA",
       "iata_code": "SZB",
-      "coordinates": "3.130579948425293, 101.54900360107422"
+      "coordinates": "3.130579948425293, 101.54900360107422",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "TM",
   "country_name": "Turkmenistan",
   "total_airports": 51,
-  "last_updated": "2025-08-01T00:18:22.853342",
+  "last_updated": "2025-08-25T10:08:41.009723",
   "types_distribution": {
     "small_airport": 16,
     "closed": 3,
@@ -20,7 +20,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Garabogaz",
-      "coordinates": "41.546672, 52.611931"
+      "coordinates": "41.546672, 52.611931",
+      "metar_available": false
     },
     {
       "ident": "TM-0002",
@@ -31,7 +32,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Dzhebel",
-      "coordinates": "39.681052, 54.206008"
+      "coordinates": "39.681052, 54.206008",
+      "metar_available": false
     },
     {
       "ident": "TM-0003",
@@ -41,7 +43,8 @@
       "iso_country": "TM",
       "iso_region": "TM-A",
       "municipality": "Gyaurs",
-      "coordinates": "37.853775, 58.789127"
+      "coordinates": "37.853775, 58.789127",
+      "metar_available": false
     },
     {
       "ident": "TM-0004",
@@ -50,7 +53,8 @@
       "continent": "AS",
       "iso_country": "TM",
       "iso_region": "TM-B",
-      "coordinates": "37.7489497946, 54.679877758"
+      "coordinates": "37.7489497946, 54.679877758",
+      "metar_available": false
     },
     {
       "ident": "TM-0005",
@@ -59,7 +63,8 @@
       "continent": "AS",
       "iso_country": "TM",
       "iso_region": "TM-B",
-      "coordinates": "37.6529245108, 54.7513103485"
+      "coordinates": "37.6529245108, 54.7513103485",
+      "metar_available": false
     },
     {
       "ident": "TM-0006",
@@ -69,7 +74,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.927391, 58.382454"
+      "coordinates": "37.927391, 58.382454",
+      "metar_available": false
     },
     {
       "ident": "TM-0007",
@@ -79,7 +85,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.935809, 58.377721"
+      "coordinates": "37.935809, 58.377721",
+      "metar_available": false
     },
     {
       "ident": "TM-0008",
@@ -89,7 +96,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.913477, 58.375071"
+      "coordinates": "37.913477, 58.375071",
+      "metar_available": false
     },
     {
       "ident": "TM-0009",
@@ -99,7 +107,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "38.006674, 58.430019"
+      "coordinates": "38.006674, 58.430019",
+      "metar_available": false
     },
     {
       "ident": "TM-0010",
@@ -109,7 +118,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.940432, 58.364157"
+      "coordinates": "37.940432, 58.364157",
+      "metar_available": false
     },
     {
       "ident": "TM-0011",
@@ -119,7 +129,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Awaza",
-      "coordinates": "39.91011, 52.90693"
+      "coordinates": "39.91011, 52.90693",
+      "metar_available": false
     },
     {
       "ident": "TM-0012",
@@ -129,7 +140,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Awaza",
-      "coordinates": "40.004694, 52.773218"
+      "coordinates": "40.004694, 52.773218",
+      "metar_available": false
     },
     {
       "ident": "TM-0013",
@@ -139,7 +151,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Dzhanga",
-      "coordinates": "39.985091, 53.113749"
+      "coordinates": "39.985091, 53.113749",
+      "metar_available": false
     },
     {
       "ident": "TM-0014",
@@ -149,7 +162,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Dzhanga",
-      "coordinates": "39.994327, 53.124179"
+      "coordinates": "39.994327, 53.124179",
+      "metar_available": false
     },
     {
       "ident": "TM-0015",
@@ -159,7 +173,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Dzhanga",
-      "coordinates": "39.995549, 53.125238"
+      "coordinates": "39.995549, 53.125238",
+      "metar_available": false
     },
     {
       "ident": "TM-0016",
@@ -169,7 +184,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Mollagara",
-      "coordinates": "39.626647, 54.17339"
+      "coordinates": "39.626647, 54.17339",
+      "metar_available": false
     },
     {
       "ident": "TM-0017",
@@ -179,7 +195,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Belek",
-      "coordinates": "39.941349, 53.866348"
+      "coordinates": "39.941349, 53.866348",
+      "metar_available": false
     },
     {
       "ident": "TM-0018",
@@ -189,7 +206,8 @@
       "iso_country": "TM",
       "iso_region": "TM-A",
       "municipality": "Arçman",
-      "coordinates": "38.519675, 57.171759"
+      "coordinates": "38.519675, 57.171759",
+      "metar_available": false
     },
     {
       "ident": "TM-0019",
@@ -199,7 +217,8 @@
       "iso_country": "TM",
       "iso_region": "TM-A",
       "municipality": "Gokdepe",
-      "coordinates": "38.130407, 57.906413"
+      "coordinates": "38.130407, 57.906413",
+      "metar_available": false
     },
     {
       "ident": "TM-0020",
@@ -209,7 +228,8 @@
       "iso_country": "TM",
       "iso_region": "TM-A",
       "municipality": "Yarajy",
-      "coordinates": "38.263237, 57.735114"
+      "coordinates": "38.263237, 57.735114",
+      "metar_available": false
     },
     {
       "ident": "TM-0021",
@@ -219,7 +239,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.949405, 58.336733"
+      "coordinates": "37.949405, 58.336733",
+      "metar_available": false
     },
     {
       "ident": "TM-0022",
@@ -229,7 +250,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.951526, 58.338146"
+      "coordinates": "37.951526, 58.338146",
+      "metar_available": false
     },
     {
       "ident": "TM-0023",
@@ -239,7 +261,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.949907, 58.341706"
+      "coordinates": "37.949907, 58.341706",
+      "metar_available": false
     },
     {
       "ident": "TM-0024",
@@ -249,7 +272,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.945654, 58.337203"
+      "coordinates": "37.945654, 58.337203",
+      "metar_available": false
     },
     {
       "ident": "TM-0025",
@@ -259,7 +283,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.945615, 58.33569"
+      "coordinates": "37.945615, 58.33569",
+      "metar_available": false
     },
     {
       "ident": "TM-0026",
@@ -269,7 +294,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "37.933416, 58.380851"
+      "coordinates": "37.933416, 58.380851",
+      "metar_available": false
     },
     {
       "ident": "TM-0027",
@@ -279,7 +305,8 @@
       "iso_country": "TM",
       "iso_region": "TM-A",
       "municipality": "Tejen",
-      "coordinates": "37.362201, 60.586662"
+      "coordinates": "37.362201, 60.586662",
+      "metar_available": false
     },
     {
       "ident": "TM-0028",
@@ -289,7 +316,8 @@
       "iso_country": "TM",
       "iso_region": "TM-A",
       "municipality": "Tejen",
-      "coordinates": "37.351976, 60.538414"
+      "coordinates": "37.351976, 60.538414",
+      "metar_available": false
     },
     {
       "ident": "TM-0029",
@@ -299,7 +327,8 @@
       "iso_country": "TM",
       "iso_region": "TM-M",
       "municipality": "Mary",
-      "coordinates": "37.56935, 61.87228"
+      "coordinates": "37.56935, 61.87228",
+      "metar_available": false
     },
     {
       "ident": "TM-0030",
@@ -310,7 +339,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Türkmenabat",
-      "coordinates": "39.084182, 63.61124"
+      "coordinates": "39.084182, 63.61124",
+      "metar_available": false
     },
     {
       "ident": "TM-0031",
@@ -321,7 +351,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Garabogaz",
-      "coordinates": "41.52368, 52.61801"
+      "coordinates": "41.52368, 52.61801",
+      "metar_available": false
     },
     {
       "ident": "TM-0032",
@@ -331,7 +362,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Turkmenabat",
-      "coordinates": "39.092542, 63.58828"
+      "coordinates": "39.092542, 63.58828",
+      "metar_available": false
     },
     {
       "ident": "TM-0033",
@@ -341,7 +373,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Turkmenabat",
-      "coordinates": "38.978301, 63.52476"
+      "coordinates": "38.978301, 63.52476",
+      "metar_available": false
     },
     {
       "ident": "TM-0034",
@@ -351,7 +384,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Kerki",
-      "coordinates": "37.810331, 65.212097"
+      "coordinates": "37.810331, 65.212097",
+      "metar_available": false
     },
     {
       "ident": "TM-0035",
@@ -362,7 +396,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Türkmenabat",
-      "coordinates": "39.015583, 63.597915"
+      "coordinates": "39.015583, 63.597915",
+      "metar_available": false
     },
     {
       "ident": "TM-UT50",
@@ -373,7 +408,8 @@
       "iso_country": "TM",
       "iso_region": "TM-M",
       "municipality": "Saraghs",
-      "coordinates": "36.49190139770508, 61.26649856567383"
+      "coordinates": "36.49190139770508, 61.26649856567383",
+      "metar_available": false
     },
     {
       "ident": "TM-UT52",
@@ -384,7 +420,8 @@
       "iso_country": "TM",
       "iso_region": "TM-M",
       "municipality": "Mary",
-      "coordinates": "37.66429901123047, 61.82699966430664"
+      "coordinates": "37.66429901123047, 61.82699966430664",
+      "metar_available": false
     },
     {
       "ident": "TM-UT55",
@@ -395,7 +432,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Kizyl-Arvat",
-      "coordinates": "38.98419952392578, 56.356998443603516"
+      "coordinates": "38.98419952392578, 56.356998443603516",
+      "metar_available": false
     },
     {
       "ident": "TM-UT56",
@@ -406,7 +444,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Gaurdak",
-      "coordinates": "37.80590057373047, 65.96549987792969"
+      "coordinates": "37.80590057373047, 65.96549987792969",
+      "metar_available": false
     },
     {
       "ident": "TM-UT58",
@@ -417,7 +456,8 @@
       "iso_country": "TM",
       "iso_region": "TM-M",
       "municipality": "Turkmenkarakul",
-      "coordinates": "35.662899017333984, 62.5547981262207"
+      "coordinates": "35.662899017333984, 62.5547981262207",
+      "metar_available": false
     },
     {
       "ident": "UT1E",
@@ -428,7 +468,8 @@
       "iso_country": "TM",
       "iso_region": "TM-L",
       "municipality": "Gazojak",
-      "coordinates": "41.124373, 61.414535"
+      "coordinates": "41.124373, 61.414535",
+      "metar_available": false
     },
     {
       "ident": "UT1F",
@@ -439,7 +480,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Yangadzha",
-      "coordinates": "40.038486, 53.32868"
+      "coordinates": "40.038486, 53.32868",
+      "metar_available": false
     },
     {
       "ident": "UT1G",
@@ -450,7 +492,8 @@
       "iso_country": "TM",
       "iso_region": "TM-S",
       "municipality": "Ashgabat",
-      "coordinates": "38.012001, 58.195"
+      "coordinates": "38.012001, 58.195",
+      "metar_available": false
     },
     {
       "ident": "UT1H",
@@ -462,7 +505,8 @@
       "iso_region": "TM-B",
       "municipality": "Balkanabat",
       "iata_code": "BKN",
-      "coordinates": "39.480598, 54.366001"
+      "coordinates": "39.480598, 54.366001",
+      "metar_available": false
     },
     {
       "ident": "UT1J",
@@ -473,7 +517,8 @@
       "iso_country": "TM",
       "iso_region": "TM-B",
       "municipality": "Cheleken",
-      "coordinates": "39.411515, 53.199037"
+      "coordinates": "39.411515, 53.199037",
+      "metar_available": false
     },
     {
       "ident": "UTAA",
@@ -486,7 +531,8 @@
       "municipality": "Ashgabat",
       "gps_code": "UTAA",
       "iata_code": "ASB",
-      "coordinates": "37.986801, 58.361"
+      "coordinates": "37.986801, 58.361",
+      "metar_available": false
     },
     {
       "ident": "UTAE",
@@ -499,7 +545,8 @@
       "municipality": "Kerki",
       "gps_code": "UTAE",
       "iata_code": "KEA",
-      "coordinates": "37.822051, 65.135279"
+      "coordinates": "37.822051, 65.135279",
+      "metar_available": false
     },
     {
       "ident": "UTAK",
@@ -512,7 +559,8 @@
       "municipality": "Turkmenbashi",
       "gps_code": "UTAK",
       "iata_code": "KRW",
-      "coordinates": "40.063301, 53.007198"
+      "coordinates": "40.063301, 53.007198",
+      "metar_available": false
     },
     {
       "ident": "UTAM",
@@ -525,7 +573,8 @@
       "municipality": "Mary",
       "gps_code": "UTAM",
       "iata_code": "MYP",
-      "coordinates": "37.62353, 61.895668"
+      "coordinates": "37.62353, 61.895668",
+      "metar_available": false
     },
     {
       "ident": "UTAT",
@@ -538,7 +587,8 @@
       "municipality": "Daşoguz",
       "gps_code": "UTAT",
       "iata_code": "TAZ",
-      "coordinates": "41.759853, 59.836149"
+      "coordinates": "41.759853, 59.836149",
+      "metar_available": false
     },
     {
       "ident": "UTAV",
@@ -551,7 +601,8 @@
       "municipality": "Türkmenabat",
       "gps_code": "UTAV",
       "iata_code": "CRZ",
-      "coordinates": "38.930662, 63.563982"
+      "coordinates": "38.930662, 63.563982",
+      "metar_available": false
     }
   ]
 }

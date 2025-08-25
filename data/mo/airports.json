@@ -2,7 +2,7 @@
   "country_code": "MO",
   "country_name": "Macao",
   "total_airports": 5,
-  "last_updated": "2025-08-01T00:18:22.828819",
+  "last_updated": "2025-08-25T10:08:40.983364",
   "types_distribution": {
     "heliport": 4,
     "large_airport": 1
@@ -16,7 +16,8 @@
       "iso_country": "MO",
       "iso_region": "MO-SEE",
       "municipality": "Sé",
-      "coordinates": "22.194657, 113.546807"
+      "coordinates": "22.194657, 113.546807",
+      "metar_available": false
     },
     {
       "ident": "MO-0002",
@@ -27,7 +28,8 @@
       "iso_region": "MO-CAR",
       "municipality": "Nossa Senhora do Carmo",
       "gps_code": "VMMH",
-      "coordinates": "22.166616, 113.577416"
+      "coordinates": "22.166616, 113.577416",
+      "metar_available": false
     },
     {
       "ident": "MO-0003",
@@ -37,7 +39,8 @@
       "iso_country": "MO",
       "iso_region": "MO-CAR",
       "municipality": "Nossa Senhora do Carmo",
-      "coordinates": "22.165493, 113.582668"
+      "coordinates": "22.165493, 113.582668",
+      "metar_available": false
     },
     {
       "ident": "VMMC",
@@ -50,7 +53,8 @@
       "municipality": "Nossa Senhora do Carmo",
       "gps_code": "VMMC",
       "iata_code": "MFM",
-      "coordinates": "22.149599, 113.592003"
+      "coordinates": "22.149599, 113.592003",
+      "metar_available": false
     },
     {
       "ident": "XZM",
@@ -61,7 +65,8 @@
       "iso_region": "MO-SEE",
       "municipality": "Sé",
       "iata_code": "XZM",
-      "coordinates": "22.196242, 113.55936"
+      "coordinates": "22.196242, 113.55936",
+      "metar_available": false
     }
   ]
 }

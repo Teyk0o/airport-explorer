@@ -2,7 +2,7 @@
   "country_code": "UG",
   "country_name": "Uganda",
   "total_airports": 41,
-  "last_updated": "2025-08-01T00:18:22.758822",
+  "last_updated": "2025-08-25T10:08:40.906263",
   "types_distribution": {
     "small_airport": 35,
     "medium_airport": 3,
@@ -20,7 +20,8 @@
       "iso_region": "UG-N",
       "municipality": "Adjumani",
       "gps_code": "HUAJ",
-      "coordinates": "3.339239, 31.763854"
+      "coordinates": "3.339239, 31.763854",
+      "metar_available": false
     },
     {
       "ident": "HUAR",
@@ -33,7 +34,8 @@
       "municipality": "Arua",
       "gps_code": "HUAR",
       "iata_code": "RUA",
-      "coordinates": "3.049152, 30.911714"
+      "coordinates": "3.049152, 30.911714",
+      "metar_available": false
     },
     {
       "ident": "HUBU",
@@ -45,7 +47,8 @@
       "iso_region": "UG-W",
       "municipality": "Bundibugyo",
       "gps_code": "HUBU",
-      "coordinates": "0.67349, 30.025483"
+      "coordinates": "0.67349, 30.025483",
+      "metar_available": false
     },
     {
       "ident": "HUEN",
@@ -58,7 +61,8 @@
       "municipality": "Kampala",
       "gps_code": "HUEN",
       "iata_code": "EBB",
-      "coordinates": "0.042386, 32.443501"
+      "coordinates": "0.042386, 32.443501",
+      "metar_available": false
     },
     {
       "ident": "HUFP",
@@ -71,7 +75,8 @@
       "municipality": "Fort Portal",
       "gps_code": "HUFP",
       "local_code": "HUFP",
-      "coordinates": "0.7063, 30.2493"
+      "coordinates": "0.7063, 30.2493",
+      "metar_available": false
     },
     {
       "ident": "HUGG",
@@ -83,7 +88,8 @@
       "iso_region": "UG-W",
       "municipality": "Bujenje",
       "gps_code": "HUGG",
-      "coordinates": "2.202788, 31.554341"
+      "coordinates": "2.202788, 31.554341",
+      "metar_available": false
     },
     {
       "ident": "HUGU",
@@ -96,7 +102,8 @@
       "municipality": "Gulu",
       "gps_code": "HUGU",
       "iata_code": "ULU",
-      "coordinates": "2.8055601119995117, 32.27180099487305"
+      "coordinates": "2.8055601119995117, 32.27180099487305",
+      "metar_available": false
     },
     {
       "ident": "HUJI",
@@ -109,7 +116,8 @@
       "municipality": "Jinja",
       "gps_code": "HUJI",
       "iata_code": "JIN",
-      "coordinates": "0.453094, 33.19356"
+      "coordinates": "0.453094, 33.19356",
+      "metar_available": false
     },
     {
       "ident": "HUKB",
@@ -120,7 +128,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "gps_code": "HUKB",
-      "coordinates": "-1.226111, 29.96"
+      "coordinates": "-1.226111, 29.96",
+      "metar_available": false
     },
     {
       "ident": "HUKD",
@@ -132,7 +141,8 @@
       "iso_region": "UG-N",
       "municipality": "Kidepo Valley National Park",
       "gps_code": "HUKD",
-      "coordinates": "3.7176, 33.7487"
+      "coordinates": "3.7176, 33.7487",
+      "metar_available": false
     },
     {
       "ident": "HUKJ",
@@ -145,7 +155,8 @@
       "municipality": "Kampala",
       "gps_code": "HUKJ",
       "iata_code": "KJJ",
-      "coordinates": "0.1968, 32.55297"
+      "coordinates": "0.1968, 32.55297",
+      "metar_available": false
     },
     {
       "ident": "HUKK",
@@ -157,7 +168,8 @@
       "iso_region": "UG-E",
       "municipality": "Kakira",
       "gps_code": "HUKK",
-      "coordinates": "0.4933, 33.281"
+      "coordinates": "0.4933, 33.281",
+      "metar_available": false
     },
     {
       "ident": "HUKO",
@@ -169,7 +181,8 @@
       "iso_region": "UG-N",
       "municipality": "Kotido",
       "gps_code": "HUKO",
-      "coordinates": "2.953, 34.1232"
+      "coordinates": "2.953, 34.1232",
+      "metar_available": false
     },
     {
       "ident": "HUKS",
@@ -182,7 +195,8 @@
       "municipality": "Kasese",
       "gps_code": "HUKS",
       "iata_code": "KSE",
-      "coordinates": "0.183, 30.1"
+      "coordinates": "0.183, 30.1",
+      "metar_available": false
     },
     {
       "ident": "HUKT",
@@ -194,7 +208,8 @@
       "iso_region": "UG-N",
       "municipality": "Kitgum",
       "gps_code": "HUKT",
-      "coordinates": "3.2817, 32.8882"
+      "coordinates": "3.2817, 32.8882",
+      "metar_available": false
     },
     {
       "ident": "HULI",
@@ -206,7 +221,8 @@
       "iso_region": "UG-N",
       "municipality": "Lira",
       "gps_code": "HULI",
-      "coordinates": "2.25, 32.9169998169"
+      "coordinates": "2.25, 32.9169998169",
+      "metar_available": false
     },
     {
       "ident": "HUMA",
@@ -219,7 +235,8 @@
       "municipality": "Mbarara",
       "gps_code": "HUMA",
       "iata_code": "MBQ",
-      "coordinates": "-0.555278, 30.5994"
+      "coordinates": "-0.555278, 30.5994",
+      "metar_available": false
     },
     {
       "ident": "HUMI",
@@ -232,7 +249,8 @@
       "municipality": "Masindi",
       "gps_code": "HUMI",
       "iata_code": "KCU",
-      "coordinates": "1.75806, 31.7367"
+      "coordinates": "1.75806, 31.7367",
+      "metar_available": false
     },
     {
       "ident": "HUMO",
@@ -244,7 +262,8 @@
       "iso_region": "UG-N",
       "municipality": "Moroto",
       "gps_code": "HUMO",
-      "coordinates": "2.5051, 34.5946"
+      "coordinates": "2.5051, 34.5946",
+      "metar_available": false
     },
     {
       "ident": "HUMW",
@@ -256,7 +275,8 @@
       "iso_region": "UG-W",
       "municipality": "Mweya",
       "gps_code": "HUMW",
-      "coordinates": "-0.194, 29.8941"
+      "coordinates": "-0.194, 29.8941",
+      "metar_available": false
     },
     {
       "ident": "HUPA",
@@ -269,7 +289,8 @@
       "municipality": "Pakuba",
       "gps_code": "HUPA",
       "iata_code": "PAF",
-      "coordinates": "2.326563, 31.497698"
+      "coordinates": "2.326563, 31.497698",
+      "metar_available": false
     },
     {
       "ident": "HUSO",
@@ -282,7 +303,8 @@
       "municipality": "Soroti",
       "gps_code": "HUSO",
       "iata_code": "SRT",
-      "coordinates": "1.7276899814605713, 33.622798919677734"
+      "coordinates": "1.7276899814605713, 33.622798919677734",
+      "metar_available": false
     },
     {
       "ident": "HUTO",
@@ -295,7 +317,8 @@
       "municipality": "Tororo",
       "gps_code": "HUTO",
       "iata_code": "TRY",
-      "coordinates": "0.683, 34.167"
+      "coordinates": "0.683, 34.167",
+      "metar_available": false
     },
     {
       "ident": "UG-0001",
@@ -308,7 +331,8 @@
       "municipality": "Kisoro",
       "gps_code": "HUKI",
       "iata_code": "KXO",
-      "coordinates": "-1.2837, 29.7197"
+      "coordinates": "-1.2837, 29.7197",
+      "metar_available": false
     },
     {
       "ident": "UG-0002",
@@ -320,7 +344,8 @@
       "iso_region": "UG-W",
       "municipality": "Kihihi",
       "iata_code": "KHX",
-      "coordinates": "-0.7165, 29.6997"
+      "coordinates": "-0.7165, 29.6997",
+      "metar_available": false
     },
     {
       "ident": "UG-0003",
@@ -331,7 +356,8 @@
       "iso_country": "UG",
       "iso_region": "UG-C",
       "municipality": "Mutukula",
-      "coordinates": "-0.9273, 31.4417"
+      "coordinates": "-0.9273, 31.4417",
+      "metar_available": false
     },
     {
       "ident": "UG-0004",
@@ -342,7 +368,8 @@
       "iso_country": "UG",
       "iso_region": "UG-C",
       "municipality": "Nakasongola",
-      "coordinates": "1.4077, 32.4642"
+      "coordinates": "1.4077, 32.4642",
+      "metar_available": false
     },
     {
       "ident": "UG-0005",
@@ -352,7 +379,8 @@
       "iso_country": "UG",
       "iso_region": "UG-N",
       "municipality": "Koboko",
-      "coordinates": "3.409147, 30.969793"
+      "coordinates": "3.409147, 30.969793",
+      "metar_available": false
     },
     {
       "ident": "UG-0006",
@@ -362,7 +390,8 @@
       "iso_country": "UG",
       "iso_region": "UG-N",
       "municipality": "Kalongo",
-      "coordinates": "3.044704, 33.379279"
+      "coordinates": "3.044704, 33.379279",
+      "metar_available": false
     },
     {
       "ident": "UG-0007",
@@ -374,7 +403,8 @@
       "iso_region": "UG-W",
       "municipality": "Lolim",
       "local_code": "HUOY",
-      "coordinates": "2.239199, 32.14468"
+      "coordinates": "2.239199, 32.14468",
+      "metar_available": false
     },
     {
       "ident": "UG-0008",
@@ -385,7 +415,8 @@
       "iso_country": "UG",
       "iso_region": "UG-N",
       "municipality": "Matany",
-      "coordinates": "2.449456, 34.396493"
+      "coordinates": "2.449456, 34.396493",
+      "metar_available": false
     },
     {
       "ident": "UG-0009",
@@ -395,7 +426,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "municipality": "Munihoro",
-      "coordinates": "1.47099, 30.93749"
+      "coordinates": "1.47099, 30.93749",
+      "metar_available": false
     },
     {
       "ident": "UG-0010",
@@ -405,7 +437,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "municipality": "Buhuka",
-      "coordinates": "1.246181, 30.747939"
+      "coordinates": "1.246181, 30.747939",
+      "metar_available": false
     },
     {
       "ident": "UG-0011",
@@ -415,7 +448,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "municipality": "Buseruka",
-      "coordinates": "1.555726, 31.094862"
+      "coordinates": "1.555726, 31.094862",
+      "metar_available": false
     },
     {
       "ident": "UG-0012",
@@ -425,7 +459,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "municipality": "Butiaba",
-      "coordinates": "1.80863, 31.342983"
+      "coordinates": "1.80863, 31.342983",
+      "metar_available": false
     },
     {
       "ident": "UG-0013",
@@ -436,7 +471,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "municipality": "Hoima",
-      "coordinates": "1.448544, 31.073214"
+      "coordinates": "1.448544, 31.073214",
+      "metar_available": false
     },
     {
       "ident": "UG-0014",
@@ -446,7 +482,8 @@
       "iso_country": "UG",
       "iso_region": "UG-C",
       "municipality": "Kyamuswa",
-      "coordinates": "-0.40721, 32.50876"
+      "coordinates": "-0.40721, 32.50876",
+      "metar_available": false
     },
     {
       "ident": "UG-0015",
@@ -456,7 +493,8 @@
       "iso_country": "UG",
       "iso_region": "UG-C",
       "municipality": "Mukono",
-      "coordinates": "-0.02421, 32.66506"
+      "coordinates": "-0.02421, 32.66506",
+      "metar_available": false
     },
     {
       "ident": "UG-0016",
@@ -467,7 +505,8 @@
       "iso_country": "UG",
       "iso_region": "UG-W",
       "municipality": "Kyabuyorwa",
-      "coordinates": "-0.862163, 29.639553"
+      "coordinates": "-0.862163, 29.639553",
+      "metar_available": false
     },
     {
       "ident": "UG-0017",
@@ -478,7 +517,8 @@
       "iso_country": "UG",
       "iso_region": "UG-C",
       "municipality": "Kampala",
-      "coordinates": "0.3262, 32.594"
+      "coordinates": "0.3262, 32.594",
+      "metar_available": false
     },
     {
       "ident": "UG-OYG",
@@ -491,7 +531,8 @@
       "municipality": "Moyo",
       "gps_code": "HUMY",
       "iata_code": "OYG",
-      "coordinates": "3.6444, 31.762762"
+      "coordinates": "3.6444, 31.762762",
+      "metar_available": false
     }
   ]
 }

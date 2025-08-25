@@ -2,7 +2,7 @@
   "country_code": "UZ",
   "country_name": "Uzbekistan",
   "total_airports": 180,
-  "last_updated": "2025-08-01T00:18:22.855093",
+  "last_updated": "2025-08-25T10:08:41.011635",
   "types_distribution": {
     "small_airport": 64,
     "medium_airport": 9,
@@ -22,7 +22,8 @@
       "municipality": "Chirchik",
       "gps_code": "UTTC",
       "local_code": "UA66",
-      "coordinates": "41.5168, 69.575401"
+      "coordinates": "41.5168, 69.575401",
+      "metar_available": false
     },
     {
       "ident": "UT1M",
@@ -35,7 +36,8 @@
       "municipality": "Goran",
       "gps_code": "UT1M",
       "local_code": "UT1M",
-      "coordinates": "37.624298095703125, 67.5176010131836"
+      "coordinates": "37.624298095703125, 67.5176010131836",
+      "metar_available": false
     },
     {
       "ident": "UT1P",
@@ -48,7 +50,8 @@
       "municipality": "Kogon",
       "gps_code": "UT1P",
       "local_code": "UT1P",
-      "coordinates": "39.686776, 64.548161"
+      "coordinates": "39.686776, 64.548161",
+      "metar_available": false
     },
     {
       "ident": "UT1Q",
@@ -61,7 +64,8 @@
       "municipality": "Pakhtakor",
       "gps_code": "UT1Q",
       "local_code": "UT1Q",
-      "coordinates": "40.25270080566406, 67.91079711914062"
+      "coordinates": "40.25270080566406, 67.91079711914062",
+      "metar_available": false
     },
     {
       "ident": "UTFN",
@@ -74,7 +78,8 @@
       "municipality": "Namangan",
       "gps_code": "UTFN",
       "iata_code": "NMA",
-      "coordinates": "40.9846, 71.556702"
+      "coordinates": "40.9846, 71.556702",
+      "metar_available": false
     },
     {
       "ident": "UTKA",
@@ -87,7 +92,8 @@
       "municipality": "Andizhan",
       "gps_code": "UTFA",
       "iata_code": "AZN",
-      "coordinates": "40.727699, 72.293999"
+      "coordinates": "40.727699, 72.293999",
+      "metar_available": false
     },
     {
       "ident": "UTKF",
@@ -100,7 +106,8 @@
       "municipality": "Fergana",
       "gps_code": "UTFF",
       "iata_code": "FEG",
-      "coordinates": "40.358799, 71.745003"
+      "coordinates": "40.358799, 71.745003",
+      "metar_available": false
     },
     {
       "ident": "UTKK",
@@ -113,7 +120,8 @@
       "municipality": "Kokand",
       "gps_code": "UTKK",
       "iata_code": "OQN",
-      "coordinates": "40.447183, 70.989144"
+      "coordinates": "40.447183, 70.989144",
+      "metar_available": false
     },
     {
       "ident": "UTNM",
@@ -126,7 +134,8 @@
       "municipality": "Muynak",
       "gps_code": "UTNM",
       "iata_code": "MOK",
-      "coordinates": "43.753636, 59.029884"
+      "coordinates": "43.753636, 59.029884",
+      "metar_available": false
     },
     {
       "ident": "UTNN",
@@ -139,7 +148,8 @@
       "municipality": "Nukus",
       "gps_code": "UTNN",
       "iata_code": "NCU",
-      "coordinates": "42.4884, 59.623299"
+      "coordinates": "42.4884, 59.623299",
+      "metar_available": false
     },
     {
       "ident": "UTNT",
@@ -151,7 +161,8 @@
       "iso_region": "UZ-QR",
       "municipality": "Turtkul",
       "gps_code": "UTNT",
-      "coordinates": "41.57500076293945, 60.96659851074219"
+      "coordinates": "41.57500076293945, 60.96659851074219",
+      "metar_available": false
     },
     {
       "ident": "UTNU",
@@ -164,7 +175,8 @@
       "municipality": "Urgench",
       "gps_code": "UTNU",
       "iata_code": "UGC",
-      "coordinates": "41.58430099487305, 60.641700744628906"
+      "coordinates": "41.58430099487305, 60.641700744628906",
+      "metar_available": false
     },
     {
       "ident": "UTSA",
@@ -177,7 +189,8 @@
       "municipality": "Navoi",
       "gps_code": "UTSA",
       "iata_code": "NVI",
-      "coordinates": "40.117199, 65.170799"
+      "coordinates": "40.117199, 65.170799",
+      "metar_available": false
     },
     {
       "ident": "UTSB",
@@ -190,7 +203,8 @@
       "municipality": "Bukhara",
       "gps_code": "UTSB",
       "iata_code": "BHK",
-      "coordinates": "39.775002, 64.483299"
+      "coordinates": "39.775002, 64.483299",
+      "metar_available": false
     },
     {
       "ident": "UTSH",
@@ -202,7 +216,8 @@
       "iso_region": "UZ-QA",
       "municipality": "Shahrisabz",
       "gps_code": "UTSH",
-      "coordinates": "39.068003, 66.758388"
+      "coordinates": "39.068003, 66.758388",
+      "metar_available": false
     },
     {
       "ident": "UTSK",
@@ -216,7 +231,8 @@
       "gps_code": "UTSK",
       "iata_code": "KSQ",
       "local_code": "UT1N",
-      "coordinates": "38.802246, 65.773068"
+      "coordinates": "38.802246, 65.773068",
+      "metar_available": false
     },
     {
       "ident": "UTSL",
@@ -228,7 +244,8 @@
       "iso_region": "UZ-QA",
       "municipality": "Khanabad",
       "gps_code": "UTSL",
-      "coordinates": "38.833599, 65.921501"
+      "coordinates": "38.833599, 65.921501",
+      "metar_available": false
     },
     {
       "ident": "UTSM",
@@ -240,7 +257,8 @@
       "iso_region": "UZ-NW",
       "municipality": "Tandy Bulak",
       "gps_code": "UTSM",
-      "coordinates": "41.76079177856445, 64.60240173339844"
+      "coordinates": "41.76079177856445, 64.60240173339844",
+      "metar_available": false
     },
     {
       "ident": "UTSN",
@@ -253,7 +271,8 @@
       "municipality": "Zarafshan",
       "gps_code": "UTSN",
       "iata_code": "AFS",
-      "coordinates": "41.613899, 64.2332"
+      "coordinates": "41.613899, 64.2332",
+      "metar_available": false
     },
     {
       "ident": "UTSR",
@@ -265,7 +284,8 @@
       "iso_region": "UZ-SU",
       "municipality": "Sariasiya",
       "gps_code": "UTSR",
-      "coordinates": "38.41059875488281, 67.94519805908203"
+      "coordinates": "38.41059875488281, 67.94519805908203",
+      "metar_available": false
     },
     {
       "ident": "UTSS",
@@ -278,7 +298,8 @@
       "municipality": "Samarkand",
       "gps_code": "UTSS",
       "iata_code": "SKD",
-      "coordinates": "39.70050048828125, 66.98380279541016"
+      "coordinates": "39.70050048828125, 66.98380279541016",
+      "metar_available": false
     },
     {
       "ident": "UTST",
@@ -291,7 +312,8 @@
       "municipality": "Termez",
       "gps_code": "UTST",
       "iata_code": "TMJ",
-      "coordinates": "37.287261, 67.311869"
+      "coordinates": "37.287261, 67.311869",
+      "metar_available": false
     },
     {
       "ident": "UTSU",
@@ -303,7 +325,8 @@
       "iso_region": "UZ-NW",
       "municipality": "Uchkuduk",
       "gps_code": "UTSU",
-      "coordinates": "42.083099365234375, 63.44929885864258"
+      "coordinates": "42.083099365234375, 63.44929885864258",
+      "metar_available": false
     },
     {
       "ident": "UTTP",
@@ -315,7 +338,8 @@
       "iso_region": "UZ-TO",
       "municipality": "Tashkent",
       "gps_code": "UTTP",
-      "coordinates": "41.312889, 69.395535"
+      "coordinates": "41.312889, 69.395535",
+      "metar_available": false
     },
     {
       "ident": "UTTT",
@@ -328,7 +352,8 @@
       "municipality": "Tashkent",
       "gps_code": "UTTT",
       "iata_code": "TAS",
-      "coordinates": "41.257900238, 69.2811965942"
+      "coordinates": "41.257900238, 69.2811965942",
+      "metar_available": false
     },
     {
       "ident": "UZ-0001",
@@ -339,7 +364,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Kurgantepa",
-      "coordinates": "40.753399, 72.752296"
+      "coordinates": "40.753399, 72.752296",
+      "metar_available": false
     },
     {
       "ident": "UZ-0002",
@@ -350,7 +376,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Ak Kurgan",
-      "coordinates": "40.86287, 69.029046"
+      "coordinates": "40.86287, 69.029046",
+      "metar_available": false
     },
     {
       "ident": "UZ-0003",
@@ -361,7 +388,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Jasliq",
-      "coordinates": "44.054254, 57.54776"
+      "coordinates": "44.054254, 57.54776",
+      "metar_available": false
     },
     {
       "ident": "UZ-0004",
@@ -372,7 +400,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Andizhan",
-      "coordinates": "40.887563, 72.406724"
+      "coordinates": "40.887563, 72.406724",
+      "metar_available": false
     },
     {
       "ident": "UZ-0005",
@@ -383,7 +412,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Saryksu",
-      "coordinates": "40.827202, 71.767998"
+      "coordinates": "40.827202, 71.767998",
+      "metar_available": false
     },
     {
       "ident": "UZ-0006",
@@ -394,7 +424,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Besh Kotan",
-      "coordinates": "37.493271, 66.978463"
+      "coordinates": "37.493271, 66.978463",
+      "metar_available": false
     },
     {
       "ident": "UZ-0007",
@@ -405,7 +436,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Charkhin",
-      "coordinates": "39.6665, 66.7705"
+      "coordinates": "39.6665, 66.7705",
+      "metar_available": false
     },
     {
       "ident": "UZ-0008",
@@ -416,7 +448,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Chartak",
-      "coordinates": "40.949405, 69.043633"
+      "coordinates": "40.949405, 69.043633",
+      "metar_available": false
     },
     {
       "ident": "UZ-0009",
@@ -427,7 +460,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Chinaz",
-      "coordinates": "40.97949981689453, 68.79219818115234"
+      "coordinates": "40.97949981689453, 68.79219818115234",
+      "metar_available": false
     },
     {
       "ident": "UZ-0010",
@@ -438,7 +472,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Dustlik",
-      "coordinates": "40.549809, 68.08371"
+      "coordinates": "40.549809, 68.08371",
+      "metar_available": false
     },
     {
       "ident": "UZ-0011",
@@ -449,7 +484,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Rishtan",
-      "coordinates": "40.372501, 71.370499"
+      "coordinates": "40.372501, 71.370499",
+      "metar_available": false
     },
     {
       "ident": "UZ-0012",
@@ -460,7 +496,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Kunkhodzha",
-      "coordinates": "43.118801, 58.3736"
+      "coordinates": "43.118801, 58.3736",
+      "metar_available": false
     },
     {
       "ident": "UZ-0013",
@@ -471,7 +508,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Dzhar-Tepe",
-      "coordinates": "39.16740036010742, 66.7145004272461"
+      "coordinates": "39.16740036010742, 66.7145004272461",
+      "metar_available": false
     },
     {
       "ident": "UZ-0014",
@@ -482,7 +520,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Fergana",
-      "coordinates": "40.309101, 71.7145"
+      "coordinates": "40.309101, 71.7145",
+      "metar_available": false
     },
     {
       "ident": "UZ-0015",
@@ -493,7 +532,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Galyabita",
-      "coordinates": "38.419701, 68.101097"
+      "coordinates": "38.419701, 68.101097",
+      "metar_available": false
     },
     {
       "ident": "UZ-0016",
@@ -504,7 +544,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Guzar",
-      "coordinates": "38.634701, 66.272797"
+      "coordinates": "38.634701, 66.272797",
+      "metar_available": false
     },
     {
       "ident": "UZ-0017",
@@ -515,7 +556,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Atakent",
-      "coordinates": "40.874993, 68.460041"
+      "coordinates": "40.874993, 68.460041",
+      "metar_available": false
     },
     {
       "ident": "UZ-0018",
@@ -526,7 +568,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Ilich",
-      "coordinates": "40.939201, 68.520203"
+      "coordinates": "40.939201, 68.520203",
+      "metar_available": false
     },
     {
       "ident": "UZ-0019",
@@ -537,7 +580,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Imeni Kirova",
-      "coordinates": "40.633514, 68.617562"
+      "coordinates": "40.633514, 68.617562",
+      "metar_available": false
     },
     {
       "ident": "UZ-0020",
@@ -548,7 +592,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Aranchi",
-      "coordinates": "41.026817, 69.199536"
+      "coordinates": "41.026817, 69.199536",
+      "metar_available": false
     },
     {
       "ident": "UZ-0021",
@@ -559,7 +604,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Kamashi",
-      "coordinates": "38.80440139770508, 66.52960205078125"
+      "coordinates": "38.80440139770508, 66.52960205078125",
+      "metar_available": false
     },
     {
       "ident": "UZ-0022",
@@ -570,7 +616,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Kara Kalpak",
-      "coordinates": "40.80339813232422, 71.18920135498047"
+      "coordinates": "40.80339813232422, 71.18920135498047",
+      "metar_available": false
     },
     {
       "ident": "UZ-0023",
@@ -581,7 +628,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Kayki",
-      "coordinates": "41.078374, 72.028289"
+      "coordinates": "41.078374, 72.028289",
+      "metar_available": false
     },
     {
       "ident": "UZ-0024",
@@ -591,7 +639,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Dehqonobod",
-      "coordinates": "38.343389, 66.447908"
+      "coordinates": "38.343389, 66.447908",
+      "metar_available": false
     },
     {
       "ident": "UZ-0025",
@@ -602,7 +651,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Kokand",
-      "coordinates": "40.377905, 71.093859"
+      "coordinates": "40.377905, 71.093859",
+      "metar_available": false
     },
     {
       "ident": "UZ-0026",
@@ -613,7 +663,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-BU",
       "municipality": "Chor Bakr",
-      "coordinates": "39.766998, 64.312103"
+      "coordinates": "39.766998, 64.312103",
+      "metar_available": false
     },
     {
       "ident": "UZ-0027",
@@ -624,7 +675,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Kumushkent",
-      "coordinates": "39.807999, 66.844299"
+      "coordinates": "39.807999, 66.844299",
+      "metar_available": false
     },
     {
       "ident": "UZ-0028",
@@ -635,7 +687,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Markhamat",
-      "coordinates": "40.483441, 72.280825"
+      "coordinates": "40.483441, 72.280825",
+      "metar_available": false
     },
     {
       "ident": "UZ-0029",
@@ -646,7 +699,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Ramadan",
-      "coordinates": "40.504785, 71.902458"
+      "coordinates": "40.504785, 71.902458",
+      "metar_available": false
     },
     {
       "ident": "UZ-0030",
@@ -657,7 +711,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Muglan",
-      "coordinates": "38.901798248291016, 65.39669799804688"
+      "coordinates": "38.901798248291016, 65.39669799804688",
+      "metar_available": false
     },
     {
       "ident": "UZ-0031",
@@ -668,7 +723,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NW",
       "municipality": "Muruntau",
-      "coordinates": "41.47116470336914, 64.66607666015625"
+      "coordinates": "41.47116470336914, 64.66607666015625",
+      "metar_available": false
     },
     {
       "ident": "UZ-0032",
@@ -679,7 +735,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Namangan",
-      "coordinates": "41.044891, 71.786989"
+      "coordinates": "41.044891, 71.786989",
+      "metar_available": false
     },
     {
       "ident": "UZ-0033",
@@ -690,7 +747,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Akkurgan",
-      "coordinates": "37.65290069580078, 66.97380065917969"
+      "coordinates": "37.65290069580078, 66.97380065917969",
+      "metar_available": false
     },
     {
       "ident": "UZ-0034",
@@ -701,7 +759,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Nishan",
-      "coordinates": "38.58919906616211, 65.60970306396484"
+      "coordinates": "38.58919906616211, 65.60970306396484",
+      "metar_available": false
     },
     {
       "ident": "UZ-0035",
@@ -712,7 +771,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Nukus",
-      "coordinates": "42.36360168457031, 59.516998291015625"
+      "coordinates": "42.36360168457031, 59.516998291015625",
+      "metar_available": false
     },
     {
       "ident": "UZ-0036",
@@ -723,7 +783,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Khodzhi Sagat",
-      "coordinates": "38.249298, 67.721703"
+      "coordinates": "38.249298, 67.721703",
+      "metar_available": false
     },
     {
       "ident": "UZ-0037",
@@ -734,7 +795,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Kantubek",
-      "coordinates": "45.159148, 59.301882"
+      "coordinates": "45.159148, 59.301882",
+      "metar_available": false
     },
     {
       "ident": "UZ-0038",
@@ -745,7 +807,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Kantubek",
-      "coordinates": "45.089666, 59.220406"
+      "coordinates": "45.089666, 59.220406",
+      "metar_available": false
     },
     {
       "ident": "UZ-0039",
@@ -756,7 +819,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Khalkabad",
-      "coordinates": "40.888599, 71.091301"
+      "coordinates": "40.888599, 71.091301",
+      "metar_available": false
     },
     {
       "ident": "UZ-0040",
@@ -767,7 +831,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Payark",
-      "coordinates": "39.937801361083984, 66.8666000366211"
+      "coordinates": "39.937801361083984, 66.8666000366211",
+      "metar_available": false
     },
     {
       "ident": "UZ-0041",
@@ -778,7 +843,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Saybui",
-      "coordinates": "40.636002, 71.700699"
+      "coordinates": "40.636002, 71.700699",
+      "metar_available": false
     },
     {
       "ident": "UZ-0042",
@@ -789,7 +855,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Shirabad",
-      "coordinates": "37.690399169921875, 67.05039978027344"
+      "coordinates": "37.690399169921875, 67.05039978027344",
+      "metar_available": false
     },
     {
       "ident": "UZ-0043",
@@ -800,7 +867,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Shur Ob",
-      "coordinates": "37.39509963989258, 67.03990173339844"
+      "coordinates": "37.39509963989258, 67.03990173339844",
+      "metar_available": false
     },
     {
       "ident": "UZ-0044",
@@ -811,7 +879,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Shurchi",
-      "coordinates": "38.030998, 67.792198"
+      "coordinates": "38.030998, 67.792198",
+      "metar_available": false
     },
     {
       "ident": "UZ-0045",
@@ -822,7 +891,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Soldatskiy",
-      "coordinates": "40.789132, 68.977414"
+      "coordinates": "40.789132, 68.977414",
+      "metar_available": false
     },
     {
       "ident": "UZ-0046",
@@ -833,7 +903,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Yakkabag",
-      "coordinates": "38.975366, 66.726805"
+      "coordinates": "38.975366, 66.726805",
+      "metar_available": false
     },
     {
       "ident": "UZ-0047",
@@ -844,7 +915,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Syrdarya",
-      "coordinates": "40.809101, 68.687698"
+      "coordinates": "40.809101, 68.687698",
+      "metar_available": false
     },
     {
       "ident": "UZ-0048",
@@ -855,7 +927,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Syrdaya",
-      "coordinates": "40.772499, 68.563599"
+      "coordinates": "40.772499, 68.563599",
+      "metar_available": false
     },
     {
       "ident": "UZ-0049",
@@ -866,7 +939,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Tallimarjon",
-      "coordinates": "38.317592, 65.565767"
+      "coordinates": "38.317592, 65.565767",
+      "metar_available": false
     },
     {
       "ident": "UZ-0050",
@@ -877,7 +951,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Tardzhilga",
-      "coordinates": "39.248299, 66.266098"
+      "coordinates": "39.248299, 66.266098",
+      "metar_available": false
     },
     {
       "ident": "UZ-0051",
@@ -888,7 +963,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Tashkent",
-      "coordinates": "37.464258, 67.078743"
+      "coordinates": "37.464258, 67.078743",
+      "metar_available": false
     },
     {
       "ident": "UZ-0052",
@@ -899,7 +975,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Termez",
-      "coordinates": "37.2808, 67.365501"
+      "coordinates": "37.2808, 67.365501",
+      "metar_available": false
     },
     {
       "ident": "UZ-0053",
@@ -910,7 +987,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Nurafshon",
-      "coordinates": "41.0755, 69.345123"
+      "coordinates": "41.0755, 69.345123",
+      "metar_available": false
     },
     {
       "ident": "UZ-0054",
@@ -921,7 +999,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Uchkurgan",
-      "coordinates": "41.046854, 72.116494"
+      "coordinates": "41.046854, 72.116494",
+      "metar_available": false
     },
     {
       "ident": "UZ-0055",
@@ -932,7 +1011,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-BU",
       "municipality": "Udurgi",
-      "coordinates": "39.726809, 64.390273"
+      "coordinates": "39.726809, 64.390273",
+      "metar_available": false
     },
     {
       "ident": "UZ-0056",
@@ -943,7 +1023,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Uychi",
-      "coordinates": "41.00979995727539, 71.94869995117188"
+      "coordinates": "41.00979995727539, 71.94869995117188",
+      "metar_available": false
     },
     {
       "ident": "UZ-0057",
@@ -954,7 +1035,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Yangi-Kent",
-      "coordinates": "38.688099, 66.0868"
+      "coordinates": "38.688099, 66.0868",
+      "metar_available": false
     },
     {
       "ident": "UZ-0058",
@@ -965,7 +1047,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Yaypan",
-      "coordinates": "40.383145, 70.926544"
+      "coordinates": "40.383145, 70.926544",
+      "metar_available": false
     },
     {
       "ident": "UZ-0059",
@@ -976,7 +1059,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Zar Chob",
-      "coordinates": "38.515999, 67.846603"
+      "coordinates": "38.515999, 67.846603",
+      "metar_available": false
     },
     {
       "ident": "UZ-0060",
@@ -987,7 +1071,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Alhi",
-      "coordinates": "40.93299, 69.13819"
+      "coordinates": "40.93299, 69.13819",
+      "metar_available": false
     },
     {
       "ident": "UZ-0061",
@@ -998,7 +1083,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-XO",
       "municipality": "Aradzhi",
-      "coordinates": "41.50798416137695, 60.42179870605469"
+      "coordinates": "41.50798416137695, 60.42179870605469",
+      "metar_available": false
     },
     {
       "ident": "UZ-0062",
@@ -1009,7 +1095,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Shorkishlak",
-      "coordinates": "40.580502, 72.3536"
+      "coordinates": "40.580502, 72.3536",
+      "metar_available": false
     },
     {
       "ident": "UZ-0063",
@@ -1020,7 +1107,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Bakht",
-      "coordinates": "40.706402, 68.688797"
+      "coordinates": "40.706402, 68.688797",
+      "metar_available": false
     },
     {
       "ident": "UZ-0064",
@@ -1031,7 +1119,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Bayaut Pervyy",
-      "coordinates": "40.425999, 68.967102"
+      "coordinates": "40.425999, 68.967102",
+      "metar_available": false
     },
     {
       "ident": "UZ-0065",
@@ -1042,7 +1131,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Beruni",
-      "coordinates": "41.68532180786133, 60.71579360961914"
+      "coordinates": "41.68532180786133, 60.71579360961914",
+      "metar_available": false
     },
     {
       "ident": "UZ-0066",
@@ -1053,7 +1143,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Khatcha",
-      "coordinates": "40.023572, 67.143373"
+      "coordinates": "40.023572, 67.143373",
+      "metar_available": false
     },
     {
       "ident": "UZ-0067",
@@ -1064,7 +1155,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Chim",
-      "coordinates": "38.8302, 66.262497"
+      "coordinates": "38.8302, 66.262497",
+      "metar_available": false
     },
     {
       "ident": "UZ-0068",
@@ -1075,7 +1167,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Chimkurgan",
-      "coordinates": "40.3797, 67.664101"
+      "coordinates": "40.3797, 67.664101",
+      "metar_available": false
     },
     {
       "ident": "UZ-0069",
@@ -1086,7 +1179,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Chimkurgan",
-      "coordinates": "40.4104, 67.784203"
+      "coordinates": "40.4104, 67.784203",
+      "metar_available": false
     },
     {
       "ident": "UZ-0070",
@@ -1097,7 +1191,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Daul",
-      "coordinates": "39.743599, 66.7239"
+      "coordinates": "39.743599, 66.7239",
+      "metar_available": false
     },
     {
       "ident": "UZ-0071",
@@ -1108,7 +1203,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Denau",
-      "coordinates": "38.248901, 67.927803"
+      "coordinates": "38.248901, 67.927803",
+      "metar_available": false
     },
     {
       "ident": "UZ-0072",
@@ -1119,7 +1215,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Denau",
-      "coordinates": "38.205843, 67.878004"
+      "coordinates": "38.205843, 67.878004",
+      "metar_available": false
     },
     {
       "ident": "UZ-0073",
@@ -1130,7 +1227,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Dimitrovskoye",
-      "coordinates": "40.297217, 69.04903"
+      "coordinates": "40.297217, 69.04903",
+      "metar_available": false
     },
     {
       "ident": "UZ-0074",
@@ -1141,7 +1239,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Dustlik",
-      "coordinates": "40.468533, 68.13723"
+      "coordinates": "40.468533, 68.13723",
+      "metar_available": false
     },
     {
       "ident": "UZ-0075",
@@ -1152,7 +1251,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Dustlik",
-      "coordinates": "40.477516, 68.088692"
+      "coordinates": "40.477516, 68.088692",
+      "metar_available": false
     },
     {
       "ident": "UZ-0076",
@@ -1163,7 +1263,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Dustlik",
-      "coordinates": "40.391499, 68.033203"
+      "coordinates": "40.391499, 68.033203",
+      "metar_available": false
     },
     {
       "ident": "UZ-0077",
@@ -1174,7 +1275,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Dzharkurgan",
-      "coordinates": "37.50899887084961, 67.47229766845703"
+      "coordinates": "37.50899887084961, 67.47229766845703",
+      "metar_available": false
     },
     {
       "ident": "UZ-0078",
@@ -1185,7 +1287,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Faizabad",
-      "coordinates": "38.744911, 65.780071"
+      "coordinates": "38.744911, 65.780071",
+      "metar_available": false
     },
     {
       "ident": "UZ-0079",
@@ -1196,7 +1299,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Gilyambor",
-      "coordinates": "37.40700149536133, 67.18370056152344"
+      "coordinates": "37.40700149536133, 67.18370056152344",
+      "metar_available": false
     },
     {
       "ident": "UZ-0080",
@@ -1207,7 +1311,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Golodnaya",
-      "coordinates": "40.415798, 68.414902"
+      "coordinates": "40.415798, 68.414902",
+      "metar_available": false
     },
     {
       "ident": "UZ-0081",
@@ -1218,7 +1323,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Gulistan",
-      "coordinates": "40.51276, 68.798999"
+      "coordinates": "40.51276, 68.798999",
+      "metar_available": false
     },
     {
       "ident": "UZ-0082",
@@ -1229,7 +1335,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Imeni Chkalova",
-      "coordinates": "40.553902, 68.9216"
+      "coordinates": "40.553902, 68.9216",
+      "metar_available": false
     },
     {
       "ident": "UZ-0083",
@@ -1240,7 +1347,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Irdzharskaya",
-      "coordinates": "40.737, 67.961998"
+      "coordinates": "40.737, 67.961998",
+      "metar_available": false
     },
     {
       "ident": "UZ-0084",
@@ -1251,7 +1359,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Irdzharskaya",
-      "coordinates": "40.679401, 67.998398"
+      "coordinates": "40.679401, 67.998398",
+      "metar_available": false
     },
     {
       "ident": "UZ-0085",
@@ -1262,7 +1371,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Isat",
-      "coordinates": "38.948502, 66.5466"
+      "coordinates": "38.948502, 66.5466",
+      "metar_available": false
     },
     {
       "ident": "UZ-0086",
@@ -1273,7 +1383,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Kochkor-ata",
-      "coordinates": "41.009102, 72.412102"
+      "coordinates": "41.009102, 72.412102",
+      "metar_available": false
     },
     {
       "ident": "UZ-0087",
@@ -1284,7 +1395,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Nushkent",
-      "coordinates": "39.102901, 66.616096"
+      "coordinates": "39.102901, 66.616096",
+      "metar_available": false
     },
     {
       "ident": "UZ-0088",
@@ -1295,7 +1407,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Mevali",
-      "coordinates": "39.741823, 66.574575"
+      "coordinates": "39.741823, 66.574575",
+      "metar_available": false
     },
     {
       "ident": "UZ-0089",
@@ -1306,7 +1419,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Karakoy",
-      "coordinates": "40.771599, 68.193298"
+      "coordinates": "40.771599, 68.193298",
+      "metar_available": false
     },
     {
       "ident": "UZ-0090",
@@ -1317,7 +1431,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Karadarya",
-      "coordinates": "40.014198, 66.292198"
+      "coordinates": "40.014198, 66.292198",
+      "metar_available": false
     },
     {
       "ident": "UZ-0091",
@@ -1328,7 +1443,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Karakoy",
-      "coordinates": "40.9072, 68.210999"
+      "coordinates": "40.9072, 68.210999",
+      "metar_available": false
     },
     {
       "ident": "UZ-0092",
@@ -1339,7 +1455,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Karakoy",
-      "coordinates": "40.816101, 68.1604"
+      "coordinates": "40.816101, 68.1604",
+      "metar_available": false
     },
     {
       "ident": "UZ-0093",
@@ -1350,7 +1467,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-BU",
       "municipality": "Qorako'l",
-      "coordinates": "39.5131, 63.8592"
+      "coordinates": "39.5131, 63.8592",
+      "metar_available": false
     },
     {
       "ident": "UZ-0094",
@@ -1361,7 +1479,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Karshi",
-      "coordinates": "38.867298, 65.841499"
+      "coordinates": "38.867298, 65.841499",
+      "metar_available": false
     },
     {
       "ident": "UZ-0095",
@@ -1372,7 +1491,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Ayman",
-      "coordinates": "39.01860046386719, 66.5188980102539"
+      "coordinates": "39.01860046386719, 66.5188980102539",
+      "metar_available": false
     },
     {
       "ident": "UZ-0096",
@@ -1383,7 +1503,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Kasan",
-      "coordinates": "39.02119827270508, 65.53369903564453"
+      "coordinates": "39.02119827270508, 65.53369903564453",
+      "metar_available": false
     },
     {
       "ident": "UZ-0097",
@@ -1394,7 +1515,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Kattakurgan",
-      "coordinates": "39.909, 66.305397"
+      "coordinates": "39.909, 66.305397",
+      "metar_available": false
     },
     {
       "ident": "UZ-0098",
@@ -1405,7 +1527,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Kattaming",
-      "coordinates": "39.940601, 66.094704"
+      "coordinates": "39.940601, 66.094704",
+      "metar_available": false
     },
     {
       "ident": "UZ-0099",
@@ -1416,7 +1539,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Kazakly Baudark",
-      "coordinates": "38.985699, 65.823097"
+      "coordinates": "38.985699, 65.823097",
+      "metar_available": false
     },
     {
       "ident": "UZ-0100",
@@ -1427,7 +1551,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Khatyrchi",
-      "coordinates": "40.053001, 65.932404"
+      "coordinates": "40.053001, 65.932404",
+      "metar_available": false
     },
     {
       "ident": "UZ-0101",
@@ -1438,7 +1563,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Kahvast",
-      "coordinates": "40.199849, 68.853511"
+      "coordinates": "40.199849, 68.853511",
+      "metar_available": false
     },
     {
       "ident": "UZ-0102",
@@ -1449,7 +1575,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Kilab",
-      "coordinates": "39.160702, 66.854599"
+      "coordinates": "39.160702, 66.854599",
+      "metar_available": false
     },
     {
       "ident": "UZ-0103",
@@ -1460,7 +1587,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Kilab",
-      "coordinates": "39.093096, 66.916695"
+      "coordinates": "39.093096, 66.916695",
+      "metar_available": false
     },
     {
       "ident": "UZ-0104",
@@ -1471,7 +1599,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Kishiseit",
-      "coordinates": "40.5611, 67.829597"
+      "coordinates": "40.5611, 67.829597",
+      "metar_available": false
     },
     {
       "ident": "UZ-0105",
@@ -1482,7 +1611,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Kishiseit",
-      "coordinates": "40.581902, 67.793098"
+      "coordinates": "40.581902, 67.793098",
+      "metar_available": false
     },
     {
       "ident": "UZ-0106",
@@ -1493,7 +1623,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Chodshar",
-      "coordinates": "38.806198, 65.569702"
+      "coordinates": "38.806198, 65.569702",
+      "metar_available": false
     },
     {
       "ident": "UZ-0107",
@@ -1504,7 +1635,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Kokand",
-      "coordinates": "40.659401, 70.859398"
+      "coordinates": "40.659401, 70.859398",
+      "metar_available": false
     },
     {
       "ident": "UZ-0108",
@@ -1515,7 +1647,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Kolodets Sari",
-      "coordinates": "40.3088, 67.8507"
+      "coordinates": "40.3088, 67.8507",
+      "metar_available": false
     },
     {
       "ident": "UZ-0109",
@@ -1526,7 +1659,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Kukaral",
-      "coordinates": "40.652401, 69.197197"
+      "coordinates": "40.652401, 69.197197",
+      "metar_available": false
     },
     {
       "ident": "UZ-0110",
@@ -1537,7 +1671,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-BU",
       "municipality": "Quvvacha",
-      "coordinates": "39.498299, 63.711498"
+      "coordinates": "39.498299, 63.711498",
+      "metar_available": false
     },
     {
       "ident": "UZ-0111",
@@ -1548,7 +1683,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Ualik",
-      "coordinates": "40.379501, 71.976097"
+      "coordinates": "40.379501, 71.976097",
+      "metar_available": false
     },
     {
       "ident": "UZ-0112",
@@ -1559,7 +1695,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Malekskaya",
-      "coordinates": "40.709064, 68.581698"
+      "coordinates": "40.709064, 68.581698",
+      "metar_available": false
     },
     {
       "ident": "UZ-0113",
@@ -1570,7 +1707,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Margelan",
-      "coordinates": "40.441502, 71.6745"
+      "coordinates": "40.441502, 71.6745",
+      "metar_available": false
     },
     {
       "ident": "UZ-0114",
@@ -1581,7 +1719,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Parchayuz",
-      "coordinates": "40.377899, 69.183098"
+      "coordinates": "40.377899, 69.183098",
+      "metar_available": false
     },
     {
       "ident": "UZ-0115",
@@ -1592,7 +1731,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Kara Darya",
-      "coordinates": "39.980301, 66.560303"
+      "coordinates": "39.980301, 66.560303",
+      "metar_available": false
     },
     {
       "ident": "UZ-0116",
@@ -1603,7 +1743,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Obetovanni",
-      "coordinates": "40.62350082397461, 68.93990325927734"
+      "coordinates": "40.62350082397461, 68.93990325927734",
+      "metar_available": false
     },
     {
       "ident": "UZ-0117",
@@ -1614,7 +1755,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Namangan",
-      "coordinates": "40.945801, 71.515099"
+      "coordinates": "40.945801, 71.515099",
+      "metar_available": false
     },
     {
       "ident": "UZ-0118",
@@ -1625,7 +1767,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Naukent",
-      "coordinates": "40.2369, 71.729698"
+      "coordinates": "40.2369, 71.729698",
+      "metar_available": false
     },
     {
       "ident": "UZ-0119",
@@ -1636,7 +1779,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NG",
       "municipality": "Khalkabad",
-      "coordinates": "40.88519, 71.181217"
+      "coordinates": "40.88519, 71.181217",
+      "metar_available": false
     },
     {
       "ident": "UZ-0120",
@@ -1647,7 +1791,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Put'k Sotsialismu",
-      "coordinates": "40.692299, 68.3237"
+      "coordinates": "40.692299, 68.3237",
+      "metar_available": false
     },
     {
       "ident": "UZ-0121",
@@ -1658,7 +1803,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Shabskiy",
-      "coordinates": "40.249729, 68.982325"
+      "coordinates": "40.249729, 68.982325",
+      "metar_available": false
     },
     {
       "ident": "UZ-0122",
@@ -1669,7 +1815,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Shakhrikhan",
-      "coordinates": "40.622501, 72.025497"
+      "coordinates": "40.622501, 72.025497",
+      "metar_available": false
     },
     {
       "ident": "UZ-0123",
@@ -1680,7 +1827,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Shakhrikhan",
-      "coordinates": "40.702801, 71.901199"
+      "coordinates": "40.702801, 71.901199",
+      "metar_available": false
     },
     {
       "ident": "UZ-0124",
@@ -1692,7 +1840,8 @@
       "iso_region": "UZ-QA",
       "municipality": "Shahrisabz",
       "iata_code": "RBZ",
-      "coordinates": "39.030067, 66.775825"
+      "coordinates": "39.030067, 66.775825",
+      "metar_available": false
     },
     {
       "ident": "UZ-0125",
@@ -1703,7 +1852,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-AN",
       "municipality": "Shamaldy Say",
-      "coordinates": "41.144699, 72.186897"
+      "coordinates": "41.144699, 72.186897",
+      "metar_available": false
     },
     {
       "ident": "UZ-0126",
@@ -1714,7 +1864,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Shamenay",
-      "coordinates": "42.63859939575195, 58.917198181152344"
+      "coordinates": "42.63859939575195, 58.917198181152344",
+      "metar_available": false
     },
     {
       "ident": "UZ-0127",
@@ -1725,7 +1876,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Shurchi",
-      "coordinates": "37.9132, 67.753502"
+      "coordinates": "37.9132, 67.753502",
+      "metar_available": false
     },
     {
       "ident": "UZ-0128",
@@ -1736,7 +1888,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-NW",
       "municipality": "Char-Khana",
-      "coordinates": "39.8242, 64.595001"
+      "coordinates": "39.8242, 64.595001",
+      "metar_available": false
     },
     {
       "ident": "UZ-0129",
@@ -1747,7 +1900,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Srentenka",
-      "coordinates": "40.302556, 69.153363"
+      "coordinates": "40.302556, 69.153363",
+      "metar_available": false
     },
     {
       "ident": "UZ-0130",
@@ -1758,7 +1912,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SU",
       "municipality": "Surkhany",
-      "coordinates": "37.73059844970703, 67.5770034790039"
+      "coordinates": "37.73059844970703, 67.5770034790039",
+      "metar_available": false
     },
     {
       "ident": "UZ-0131",
@@ -1769,7 +1924,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Syrdarya",
-      "coordinates": "40.9408, 68.622101"
+      "coordinates": "40.9408, 68.622101",
+      "metar_available": false
     },
     {
       "ident": "UZ-0132",
@@ -1780,7 +1936,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Gagarin",
-      "coordinates": "40.7318, 68.222"
+      "coordinates": "40.7318, 68.222",
+      "metar_available": false
     },
     {
       "ident": "UZ-0133",
@@ -1791,7 +1948,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Karabag",
-      "coordinates": "38.886398, 66.362"
+      "coordinates": "38.886398, 66.362",
+      "metar_available": false
     },
     {
       "ident": "UZ-0134",
@@ -1802,7 +1960,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Uzunkuduk",
-      "coordinates": "40.576336, 67.139565"
+      "coordinates": "40.576336, 67.139565",
+      "metar_available": false
     },
     {
       "ident": "UZ-0135",
@@ -1813,7 +1972,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Yakkatu",
-      "coordinates": "40.4022, 70.5276"
+      "coordinates": "40.4022, 70.5276",
+      "metar_available": false
     },
     {
       "ident": "UZ-0136",
@@ -1824,7 +1984,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-XO",
       "municipality": "Yangi Aryn",
-      "coordinates": "41.3560905456543, 60.599308013916016"
+      "coordinates": "41.3560905456543, 60.599308013916016",
+      "metar_available": false
     },
     {
       "ident": "UZ-0137",
@@ -1835,7 +1996,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
       "municipality": "Karym Baba",
-      "coordinates": "40.5564, 71.207001"
+      "coordinates": "40.5564, 71.207001",
+      "metar_available": false
     },
     {
       "ident": "UZ-0138",
@@ -1846,7 +2008,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Yangi Yul",
-      "coordinates": "41.135601, 69.0569"
+      "coordinates": "41.135601, 69.0569",
+      "metar_available": false
     },
     {
       "ident": "UZ-0139",
@@ -1857,7 +2020,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Yangiabad",
-      "coordinates": "40.283298, 68.396004"
+      "coordinates": "40.283298, 68.396004",
+      "metar_available": false
     },
     {
       "ident": "UZ-0140",
@@ -1868,7 +2032,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Yangiabad",
-      "coordinates": "40.262501, 68.309502"
+      "coordinates": "40.262501, 68.309502",
+      "metar_available": false
     },
     {
       "ident": "UZ-0141",
@@ -1879,7 +2044,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Yangikishiak",
-      "coordinates": "40.42621, 67.193032"
+      "coordinates": "40.42621, 67.193032",
+      "metar_available": false
     },
     {
       "ident": "UZ-0142",
@@ -1890,7 +2056,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Yangikurgan",
-      "coordinates": "39.922901, 66.654297"
+      "coordinates": "39.922901, 66.654297",
+      "metar_available": false
     },
     {
       "ident": "UZ-0143",
@@ -1901,7 +2068,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Yangiturmish",
-      "coordinates": "40.71609878540039, 69.08039855957031"
+      "coordinates": "40.71609878540039, 69.08039855957031",
+      "metar_available": false
     },
     {
       "ident": "UZ-0144",
@@ -1912,7 +2080,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Yerzhar",
-      "coordinates": "40.623699, 68.090599"
+      "coordinates": "40.623699, 68.090599",
+      "metar_available": false
     },
     {
       "ident": "UZ-0145",
@@ -1923,7 +2092,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SI",
       "municipality": "Zolotaya",
-      "coordinates": "40.577999, 68.699402"
+      "coordinates": "40.577999, 68.699402",
+      "metar_available": false
     },
     {
       "ident": "UZ-0146",
@@ -1933,7 +2103,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-TO",
       "municipality": "Toshkent",
-      "coordinates": "41.199796, 69.239141"
+      "coordinates": "41.199796, 69.239141",
+      "metar_available": false
     },
     {
       "ident": "UZ-0147",
@@ -1944,7 +2115,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Potlatau",
-      "coordinates": "43.615, 59.267"
+      "coordinates": "43.615, 59.267",
+      "metar_available": false
     },
     {
       "ident": "UZ-0148",
@@ -1955,7 +2127,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Komsomolsk-na-Ustyurte",
-      "coordinates": "44.024526, 58.2515106"
+      "coordinates": "44.024526, 58.2515106",
+      "metar_available": false
     },
     {
       "ident": "UZ-0149",
@@ -1966,7 +2139,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-JI",
       "municipality": "Jizzax",
-      "coordinates": "40.187119, 67.844567"
+      "coordinates": "40.187119, 67.844567",
+      "metar_available": false
     },
     {
       "ident": "UZ-0150",
@@ -1977,7 +2151,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QR",
       "municipality": "Tahtakupir",
-      "coordinates": "43.03831, 60.25968"
+      "coordinates": "43.03831, 60.25968",
+      "metar_available": false
     },
     {
       "ident": "UZ-0151",
@@ -1988,7 +2163,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-QA",
       "municipality": "Chit",
-      "coordinates": "38.68432, 66.94912"
+      "coordinates": "38.68432, 66.94912",
+      "metar_available": false
     },
     {
       "ident": "UZ-0152",
@@ -1998,7 +2174,8 @@
       "iso_country": "UZ",
       "iso_region": "UZ-SA",
       "municipality": "Dzhambay",
-      "coordinates": "39.66816, 67.159314"
+      "coordinates": "39.66816, 67.159314",
+      "metar_available": false
     },
     {
       "ident": "UZ-0153",
@@ -2007,7 +2184,8 @@
       "continent": "AS",
       "iso_country": "UZ",
       "iso_region": "UZ-FA",
-      "coordinates": "39.987179, 71.124615"
+      "coordinates": "39.987179, 71.124615",
+      "metar_available": false
     },
     {
       "ident": "UZ-UT73",
@@ -2019,7 +2197,8 @@
       "iso_region": "UZ-QA",
       "municipality": "Maynanak",
       "local_code": "UT73",
-      "coordinates": "39.137798, 65.165298"
+      "coordinates": "39.137798, 65.165298",
+      "metar_available": false
     },
     {
       "ident": "UZ-UT77",
@@ -2031,7 +2210,8 @@
       "iso_region": "UZ-QR",
       "municipality": "Kungirot",
       "local_code": "UT77",
-      "coordinates": "43.082662, 58.885077"
+      "coordinates": "43.082662, 58.885077",
+      "metar_available": false
     }
   ]
 }

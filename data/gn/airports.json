@@ -2,7 +2,7 @@
   "country_code": "GN",
   "country_name": "Guinea",
   "total_airports": 17,
-  "last_updated": "2025-08-01T00:18:22.736571",
+  "last_updated": "2025-08-25T10:08:40.882004",
   "types_distribution": {
     "small_airport": 15,
     "heliport": 1,
@@ -19,7 +19,8 @@
       "iso_region": "GN-K",
       "municipality": "Kiniéro",
       "local_code": "GUNE",
-      "coordinates": "10.42242, -9.77592"
+      "coordinates": "10.42242, -9.77592",
+      "metar_available": false
     },
     {
       "ident": "GN-0002",
@@ -30,7 +31,8 @@
       "iso_country": "GN",
       "iso_region": "GN-C",
       "municipality": "Île Tamara",
-      "coordinates": "9.47995, -13.83193"
+      "coordinates": "9.47995, -13.83193",
+      "metar_available": false
     },
     {
       "ident": "GUBE",
@@ -42,7 +44,8 @@
       "iso_region": "GN-N",
       "municipality": "Beyla",
       "gps_code": "GUBE",
-      "coordinates": "8.697222, -8.713889"
+      "coordinates": "8.697222, -8.713889",
+      "metar_available": false
     },
     {
       "ident": "GUCY",
@@ -55,7 +58,8 @@
       "municipality": "Conakry",
       "gps_code": "GUCY",
       "iata_code": "CKY",
-      "coordinates": "9.57689, -13.612"
+      "coordinates": "9.57689, -13.612",
+      "metar_available": false
     },
     {
       "ident": "GUFA",
@@ -68,7 +72,8 @@
       "municipality": "Fria",
       "gps_code": "GUFA",
       "iata_code": "FIG",
-      "coordinates": "10.3506, -13.5692"
+      "coordinates": "10.3506, -13.5692",
+      "metar_available": false
     },
     {
       "ident": "GUFH",
@@ -81,7 +86,8 @@
       "municipality": "Faranah",
       "gps_code": "GUFH",
       "iata_code": "FAA",
-      "coordinates": "10.0354995728, -10.7698001862"
+      "coordinates": "10.0354995728, -10.7698001862",
+      "metar_available": false
     },
     {
       "ident": "GUGO",
@@ -93,7 +99,8 @@
       "iso_region": "GN-F",
       "municipality": "Banankoro",
       "gps_code": "GUGO",
-      "coordinates": "9.24284, -9.29997"
+      "coordinates": "9.24284, -9.29997",
+      "metar_available": false
     },
     {
       "ident": "GUKR",
@@ -105,7 +112,8 @@
       "iso_region": "GN-B",
       "municipality": "Port Kamsar",
       "gps_code": "GUKR",
-      "coordinates": "10.657484, -14.532337"
+      "coordinates": "10.657484, -14.532337",
+      "metar_available": false
     },
     {
       "ident": "GUKU",
@@ -118,7 +126,8 @@
       "municipality": "Kissidougou",
       "gps_code": "GUKU",
       "iata_code": "KSI",
-      "coordinates": "9.1605596542358, -10.124400138855"
+      "coordinates": "9.1605596542358, -10.124400138855",
+      "metar_available": false
     },
     {
       "ident": "GULB",
@@ -131,7 +140,8 @@
       "municipality": "Labé",
       "gps_code": "GULB",
       "iata_code": "LEK",
-      "coordinates": "11.337512, -12.290869"
+      "coordinates": "11.337512, -12.290869",
+      "metar_available": false
     },
     {
       "ident": "GUMA",
@@ -144,7 +154,8 @@
       "municipality": "Macenta",
       "gps_code": "GUMA",
       "iata_code": "MCA",
-      "coordinates": "8.481456, -9.526048"
+      "coordinates": "8.481456, -9.526048",
+      "metar_available": false
     },
     {
       "ident": "GUNZ",
@@ -157,7 +168,8 @@
       "municipality": "Nzérékoré",
       "gps_code": "GUNZ",
       "iata_code": "NZE",
-      "coordinates": "7.810413, -8.702073"
+      "coordinates": "7.810413, -8.702073",
+      "metar_available": false
     },
     {
       "ident": "GUOK",
@@ -170,7 +182,8 @@
       "municipality": "Boké",
       "gps_code": "GUOK",
       "iata_code": "BKJ",
-      "coordinates": "10.9658, -14.2811"
+      "coordinates": "10.9658, -14.2811",
+      "metar_available": false
     },
     {
       "ident": "GUSA",
@@ -182,7 +195,8 @@
       "iso_region": "GN-B",
       "municipality": "Sangarédi",
       "gps_code": "GUSA",
-      "coordinates": "11.114558, -13.815834"
+      "coordinates": "11.114558, -13.815834",
+      "metar_available": false
     },
     {
       "ident": "GUSB",
@@ -195,7 +209,8 @@
       "municipality": "Koundara",
       "gps_code": "GUSB",
       "iata_code": "SBI",
-      "coordinates": "12.575315, -13.363349"
+      "coordinates": "12.575315, -13.363349",
+      "metar_available": false
     },
     {
       "ident": "GUSI",
@@ -208,7 +223,8 @@
       "municipality": "Siguiri",
       "gps_code": "GUSI",
       "iata_code": "GII",
-      "coordinates": "11.399833, -9.18841"
+      "coordinates": "11.399833, -9.18841",
+      "metar_available": false
     },
     {
       "ident": "GUXN",
@@ -221,7 +237,8 @@
       "municipality": "Kankan",
       "gps_code": "GUXD",
       "iata_code": "KNN",
-      "coordinates": "10.448438, -9.228757"
+      "coordinates": "10.448438, -9.228757",
+      "metar_available": false
     }
   ]
 }

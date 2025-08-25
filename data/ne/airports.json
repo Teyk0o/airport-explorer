@@ -2,7 +2,7 @@
   "country_code": "NE",
   "country_name": "Niger",
   "total_airports": 27,
-  "last_updated": "2025-08-01T00:18:22.674892",
+  "last_updated": "2025-08-25T10:08:40.815372",
   "types_distribution": {
     "small_airport": 21,
     "medium_airport": 4,
@@ -20,7 +20,8 @@
       "iso_region": "NE-4",
       "municipality": "Tessaoua",
       "gps_code": "DRRA",
-      "coordinates": "13.756968, 8.020568"
+      "coordinates": "13.756968, 8.020568",
+      "metar_available": false
     },
     {
       "ident": "DRRC",
@@ -32,7 +33,8 @@
       "iso_region": "NE-3",
       "municipality": "Dogondoutchi",
       "gps_code": "DRRC",
-      "coordinates": "13.663003, 4.099674"
+      "coordinates": "13.663003, 4.099674",
+      "metar_available": false
     },
     {
       "ident": "DRRD",
@@ -44,7 +46,8 @@
       "iso_region": "NE-3",
       "municipality": "Dosso",
       "gps_code": "DRRD",
-      "coordinates": "13.048125, 3.220968"
+      "coordinates": "13.048125, 3.220968",
+      "metar_available": false
     },
     {
       "ident": "DRRE",
@@ -56,7 +59,8 @@
       "iso_region": "NE-6",
       "municipality": "Tera",
       "gps_code": "DRRE",
-      "coordinates": "13.953047, 0.7403"
+      "coordinates": "13.953047, 0.7403",
+      "metar_available": false
     },
     {
       "ident": "DRRG",
@@ -68,7 +72,8 @@
       "iso_region": "NE-3",
       "municipality": "Gaya",
       "gps_code": "DRRG",
-      "coordinates": "11.890026, 3.428024"
+      "coordinates": "11.890026, 3.428024",
+      "metar_available": false
     },
     {
       "ident": "DRRI",
@@ -80,7 +85,8 @@
       "iso_region": "NE-1",
       "municipality": "Bilma",
       "gps_code": "DRRI",
-      "coordinates": "18.68670082092285, 12.91919994354248"
+      "coordinates": "18.68670082092285, 12.91919994354248",
+      "metar_available": false
     },
     {
       "ident": "DRRL",
@@ -92,7 +98,8 @@
       "iso_region": "NE-6",
       "municipality": "Tillabery",
       "gps_code": "DRRL",
-      "coordinates": "14.2032, 1.4744"
+      "coordinates": "14.2032, 1.4744",
+      "metar_available": false
     },
     {
       "ident": "DRRM",
@@ -105,7 +112,8 @@
       "municipality": "Maradi",
       "gps_code": "DRRM",
       "iata_code": "MFQ",
-      "coordinates": "13.5025, 7.12675"
+      "coordinates": "13.5025, 7.12675",
+      "metar_available": false
     },
     {
       "ident": "DRRN",
@@ -118,7 +126,8 @@
       "municipality": "Niamey",
       "gps_code": "DRRN",
       "iata_code": "NIM",
-      "coordinates": "13.4815, 2.18361"
+      "coordinates": "13.4815, 2.18361",
+      "metar_available": false
     },
     {
       "ident": "DRRP",
@@ -130,7 +139,8 @@
       "iso_region": "NE-6",
       "municipality": "La Tapoa",
       "gps_code": "DRRP",
-      "coordinates": "12.484498, 2.398452"
+      "coordinates": "12.484498, 2.398452",
+      "metar_available": false
     },
     {
       "ident": "DRRT",
@@ -143,7 +153,8 @@
       "municipality": "Tahoua",
       "gps_code": "DRRT",
       "iata_code": "THZ",
-      "coordinates": "14.8757, 5.26536"
+      "coordinates": "14.8757, 5.26536",
+      "metar_available": false
     },
     {
       "ident": "DRRU",
@@ -155,7 +166,8 @@
       "iso_region": "NE-6",
       "municipality": "Ouallam",
       "gps_code": "DRRU",
-      "coordinates": "14.355556, 2.069444"
+      "coordinates": "14.355556, 2.069444",
+      "metar_available": false
     },
     {
       "ident": "DRZA",
@@ -168,7 +180,8 @@
       "municipality": "Agadez",
       "gps_code": "DRZA",
       "iata_code": "AJY",
-      "coordinates": "16.965999603271484, 8.000109672546387"
+      "coordinates": "16.965999603271484, 8.000109672546387",
+      "metar_available": false
     },
     {
       "ident": "DRZD",
@@ -180,7 +193,8 @@
       "iso_region": "NE-1",
       "municipality": "Dirkou",
       "gps_code": "DRZD",
-      "coordinates": "18.963931, 12.864132"
+      "coordinates": "18.963931, 12.864132",
+      "metar_available": false
     },
     {
       "ident": "DRZF",
@@ -192,7 +206,8 @@
       "iso_region": "NE-2",
       "municipality": "Diffa",
       "gps_code": "DRZF",
-      "coordinates": "13.3729, 12.6267"
+      "coordinates": "13.3729, 12.6267",
+      "metar_available": false
     },
     {
       "ident": "DRZG",
@@ -204,7 +219,8 @@
       "iso_region": "NE-7",
       "municipality": "Goure",
       "gps_code": "DRZG",
-      "coordinates": "13.890296, 10.177106"
+      "coordinates": "13.890296, 10.177106",
+      "metar_available": false
     },
     {
       "ident": "DRZI",
@@ -216,7 +232,8 @@
       "iso_region": "NE-1",
       "municipality": "Iferouane",
       "gps_code": "DRZI",
-      "coordinates": "19.066198, 8.41496"
+      "coordinates": "19.066198, 8.41496",
+      "metar_available": false
     },
     {
       "ident": "DRZL",
@@ -229,7 +246,8 @@
       "municipality": "Arlit",
       "gps_code": "DRZL",
       "iata_code": "RLT",
-      "coordinates": "18.7903995514, 7.36595010757"
+      "coordinates": "18.7903995514, 7.36595010757",
+      "metar_available": false
     },
     {
       "ident": "DRZM",
@@ -241,7 +259,8 @@
       "iso_region": "NE-2",
       "municipality": "Maine-Soroa",
       "gps_code": "DRZM",
-      "coordinates": "13.2055, 12.0323"
+      "coordinates": "13.2055, 12.0323",
+      "metar_available": false
     },
     {
       "ident": "DRZN",
@@ -253,7 +272,8 @@
       "iso_region": "NE-2",
       "municipality": "N'Guigmi",
       "gps_code": "DRZN",
-      "coordinates": "14.25100040435791, 13.128999710083008"
+      "coordinates": "14.25100040435791, 13.128999710083008",
+      "metar_available": false
     },
     {
       "ident": "DRZR",
@@ -266,7 +286,8 @@
       "municipality": "Zinder",
       "gps_code": "DRZR",
       "iata_code": "ZND",
-      "coordinates": "13.779000282287598, 8.983759880065918"
+      "coordinates": "13.779000282287598, 8.983759880065918",
+      "metar_available": false
     },
     {
       "ident": "DRZT",
@@ -278,7 +299,8 @@
       "iso_region": "NE-7",
       "municipality": "Tanout",
       "gps_code": "DRZT",
-      "coordinates": "15.001111, 8.770278"
+      "coordinates": "15.001111, 8.770278",
+      "metar_available": false
     },
     {
       "ident": "NE-0001",
@@ -289,7 +311,8 @@
       "iso_country": "NE",
       "iso_region": "NE-1",
       "municipality": "Agadez",
-      "coordinates": "16.95575, 8.01861"
+      "coordinates": "16.95575, 8.01861",
+      "metar_available": false
     },
     {
       "ident": "NE-0002",
@@ -299,7 +322,8 @@
       "iso_country": "NE",
       "iso_region": "NE-1",
       "municipality": "Toummo",
-      "coordinates": "22.782036, 14.024777"
+      "coordinates": "22.782036, 14.024777",
+      "metar_available": false
     },
     {
       "ident": "NE-0003",
@@ -310,7 +334,8 @@
       "iso_country": "NE",
       "iso_region": "NE-1",
       "municipality": "Fort Madama",
-      "coordinates": "21.951146, 13.650711"
+      "coordinates": "21.951146, 13.650711",
+      "metar_available": false
     },
     {
       "ident": "NE-0004",
@@ -320,7 +345,8 @@
       "iso_country": "NE",
       "iso_region": "NE-1",
       "municipality": "Fachi",
-      "coordinates": "18.1016, 11.56553"
+      "coordinates": "18.1016, 11.56553",
+      "metar_available": false
     },
     {
       "ident": "NE-0005",
@@ -331,7 +357,8 @@
       "iso_country": "NE",
       "iso_region": "NE-5",
       "municipality": "Birni-N'Konni",
-      "coordinates": "13.8015, 5.24236"
+      "coordinates": "13.8015, 5.24236",
+      "metar_available": false
     }
   ]
 }

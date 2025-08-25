@@ -2,7 +2,7 @@
   "country_code": "KM",
   "country_name": "Comoros",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.712702",
+  "last_updated": "2025-08-25T10:08:40.856272",
   "types_distribution": {
     "medium_airport": 3,
     "closed": 1
@@ -19,7 +19,8 @@
       "municipality": "Moroni",
       "gps_code": "FMCH",
       "iata_code": "HAH",
-      "coordinates": "-11.5337, 43.2719"
+      "coordinates": "-11.5337, 43.2719",
+      "metar_available": false
     },
     {
       "ident": "FMCI",
@@ -32,7 +33,8 @@
       "municipality": "Fomboni",
       "gps_code": "FMCI",
       "iata_code": "NWA",
-      "coordinates": "-12.2981, 43.766399"
+      "coordinates": "-12.2981, 43.766399",
+      "metar_available": false
     },
     {
       "ident": "FMCV",
@@ -45,7 +47,8 @@
       "municipality": "Ouani",
       "gps_code": "FMCV",
       "iata_code": "AJN",
-      "coordinates": "-12.131047, 44.430044"
+      "coordinates": "-12.131047, 44.430044",
+      "metar_available": false
     },
     {
       "ident": "KM-0001",
@@ -56,7 +59,8 @@
       "iso_country": "KM",
       "iso_region": "KM-G",
       "municipality": "Moroni",
-      "coordinates": "-11.7108, 43.2439"
+      "coordinates": "-11.7108, 43.2439",
+      "metar_available": false
     }
   ]
 }

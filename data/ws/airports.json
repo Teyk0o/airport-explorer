@@ -2,7 +2,7 @@
   "country_code": "WS",
   "country_name": "Samoa",
   "total_airports": 5,
-  "last_updated": "2025-08-01T00:18:22.832926",
+  "last_updated": "2025-08-25T10:08:40.987537",
   "types_distribution": {
     "small_airport": 3,
     "medium_airport": 1,
@@ -19,7 +19,8 @@
       "municipality": "Asau",
       "gps_code": "NSAU",
       "iata_code": "AAU",
-      "coordinates": "-13.505132, -172.627888"
+      "coordinates": "-13.505132, -172.627888",
+      "metar_available": false
     },
     {
       "ident": "NSFA",
@@ -32,7 +33,8 @@
       "municipality": "Apia",
       "gps_code": "NSFA",
       "iata_code": "APW",
-      "coordinates": "-13.829999923706055, -172.00799560546875"
+      "coordinates": "-13.829999923706055, -172.00799560546875",
+      "metar_available": false
     },
     {
       "ident": "NSFI",
@@ -45,7 +47,8 @@
       "municipality": "Apia",
       "gps_code": "NSFI",
       "iata_code": "FGI",
-      "coordinates": "-13.849167, -171.739866"
+      "coordinates": "-13.849167, -171.739866",
+      "metar_available": false
     },
     {
       "ident": "NSMA",
@@ -57,7 +60,8 @@
       "municipality": "Maota",
       "gps_code": "NSMA",
       "iata_code": "MXS",
-      "coordinates": "-13.7423, -172.257996"
+      "coordinates": "-13.7423, -172.257996",
+      "metar_available": false
     },
     {
       "ident": "WS-0001",
@@ -67,7 +71,8 @@
       "iso_country": "WS",
       "iso_region": "WS-FA",
       "municipality": "Lalomalava",
-      "coordinates": "-14.031827, -171.435114"
+      "coordinates": "-14.031827, -171.435114",
+      "metar_available": false
     }
   ]
 }

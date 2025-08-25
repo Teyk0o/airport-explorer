@@ -2,7 +2,7 @@
   "country_code": "TG",
   "country_name": "Togo",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.675783",
+  "last_updated": "2025-08-25T10:08:40.816321",
   "types_distribution": {
     "small_airport": 5,
     "medium_airport": 2
@@ -18,7 +18,8 @@
       "iso_region": "TG-P",
       "municipality": "Atakpamé",
       "gps_code": "DXAK",
-      "coordinates": "7.583000183105469, 1.1169999837875366"
+      "coordinates": "7.583000183105469, 1.1169999837875366",
+      "metar_available": false
     },
     {
       "ident": "DXDP",
@@ -30,7 +31,8 @@
       "iso_region": "TG-S",
       "municipality": "Dapaong",
       "gps_code": "DXDP",
-      "coordinates": "10.800417, 0.242372"
+      "coordinates": "10.800417, 0.242372",
+      "metar_available": false
     },
     {
       "ident": "DXKP",
@@ -42,7 +44,8 @@
       "iso_region": "TG-P",
       "municipality": "Anié",
       "gps_code": "DXKP",
-      "coordinates": "7.803451, 1.295966"
+      "coordinates": "7.803451, 1.295966",
+      "metar_available": false
     },
     {
       "ident": "DXMG",
@@ -54,7 +57,8 @@
       "iso_region": "TG-S",
       "municipality": "Mango",
       "gps_code": "DXMG",
-      "coordinates": "10.373010635375977, 0.47138214111328125"
+      "coordinates": "10.373010635375977, 0.47138214111328125",
+      "metar_available": false
     },
     {
       "ident": "DXNG",
@@ -67,7 +71,8 @@
       "municipality": "Niamtougou",
       "gps_code": "DXNG",
       "iata_code": "LRL",
-      "coordinates": "9.767330169677734, 1.091249942779541"
+      "coordinates": "9.767330169677734, 1.091249942779541",
+      "metar_available": false
     },
     {
       "ident": "DXSK",
@@ -79,7 +84,8 @@
       "iso_region": "TG-C",
       "municipality": "Sokodé",
       "gps_code": "DXSK",
-      "coordinates": "8.994275, 1.153004"
+      "coordinates": "8.994275, 1.153004",
+      "metar_available": false
     },
     {
       "ident": "DXXX",
@@ -92,7 +98,8 @@
       "municipality": "Lomé",
       "gps_code": "DXXX",
       "iata_code": "LFW",
-      "coordinates": "6.16561, 1.25451"
+      "coordinates": "6.16561, 1.25451",
+      "metar_available": false
     }
   ]
 }

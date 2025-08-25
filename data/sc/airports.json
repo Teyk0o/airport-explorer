@@ -2,7 +2,7 @@
   "country_code": "SC",
   "country_name": "Seychelles",
   "total_airports": 22,
-  "last_updated": "2025-08-01T00:18:22.730174",
+  "last_updated": "2025-08-25T10:08:40.875277",
   "types_distribution": {
     "small_airport": 14,
     "large_airport": 1,
@@ -20,7 +20,8 @@
       "iso_region": "SC-26",
       "municipality": "Alphonse Island",
       "gps_code": "FSAL",
-      "coordinates": "-7.00478, 52.7262"
+      "coordinates": "-7.00478, 52.7262",
+      "metar_available": false
     },
     {
       "ident": "FSAS",
@@ -32,7 +33,8 @@
       "iso_region": "SC-26",
       "municipality": "Assumption Island",
       "gps_code": "FSAS",
-      "coordinates": "-9.74222, 46.506802"
+      "coordinates": "-9.74222, 46.506802",
+      "metar_available": false
     },
     {
       "ident": "FSDA",
@@ -44,7 +46,8 @@
       "iso_region": "SC-26",
       "municipality": "D'Arros Island",
       "gps_code": "FSDA",
-      "coordinates": "-5.417354, 53.295536"
+      "coordinates": "-5.417354, 53.295536",
+      "metar_available": false
     },
     {
       "ident": "FSDR",
@@ -57,7 +60,8 @@
       "municipality": "Desroches Island",
       "gps_code": "FSDR",
       "iata_code": "DES",
-      "coordinates": "-5.6967, 53.6558"
+      "coordinates": "-5.6967, 53.6558",
+      "metar_available": false
     },
     {
       "ident": "FSFA",
@@ -69,7 +73,8 @@
       "iso_region": "SC-26",
       "municipality": "Farquhar Group",
       "gps_code": "FSFA",
-      "coordinates": "-10.1096, 51.176102"
+      "coordinates": "-10.1096, 51.176102",
+      "metar_available": false
     },
     {
       "ident": "FSIA",
@@ -82,7 +87,8 @@
       "municipality": "Mahe Island",
       "gps_code": "FSIA",
       "iata_code": "SEZ",
-      "coordinates": "-4.67434, 55.521801"
+      "coordinates": "-4.67434, 55.521801",
+      "metar_available": false
     },
     {
       "ident": "FSMA",
@@ -94,7 +100,8 @@
       "iso_region": "SC-26",
       "municipality": "Marie-Louise Island",
       "gps_code": "FSMA",
-      "coordinates": "-6.177405, 53.145429"
+      "coordinates": "-6.177405, 53.145429",
+      "metar_available": false
     },
     {
       "ident": "FSPL",
@@ -106,7 +113,8 @@
       "iso_region": "SC-26",
       "municipality": "Platte Island",
       "gps_code": "FSPL",
-      "coordinates": "-5.863604, 55.384541"
+      "coordinates": "-5.863604, 55.384541",
+      "metar_available": false
     },
     {
       "ident": "FSPP",
@@ -119,7 +127,8 @@
       "municipality": "Praslin Island",
       "gps_code": "FSPP",
       "iata_code": "PRI",
-      "coordinates": "-4.319256, 55.691561"
+      "coordinates": "-4.319256, 55.691561",
+      "metar_available": false
     },
     {
       "ident": "FSSA",
@@ -130,7 +139,8 @@
       "iso_region": "SC-26",
       "municipality": "Astove Island",
       "gps_code": "FSSA",
-      "coordinates": "-10.061373, 47.749765"
+      "coordinates": "-10.061373, 47.749765",
+      "metar_available": false
     },
     {
       "ident": "FSSB",
@@ -143,7 +153,8 @@
       "municipality": "Bird Island",
       "gps_code": "FSSB",
       "iata_code": "BDI",
-      "coordinates": "-3.723683, 55.206106"
+      "coordinates": "-3.723683, 55.206106",
+      "metar_available": false
     },
     {
       "ident": "FSSC",
@@ -155,7 +166,8 @@
       "iso_region": "SC-26",
       "municipality": "Coetivy Island",
       "gps_code": "FSSC",
-      "coordinates": "-7.13457, 56.278198"
+      "coordinates": "-7.13457, 56.278198",
+      "metar_available": false
     },
     {
       "ident": "FSSD",
@@ -168,7 +180,8 @@
       "municipality": "Denis Island",
       "gps_code": "FSSD",
       "iata_code": "DEI",
-      "coordinates": "-3.802067, 55.667439"
+      "coordinates": "-3.802067, 55.667439",
+      "metar_available": false
     },
     {
       "ident": "FSSF",
@@ -181,7 +194,8 @@
       "municipality": "Frégate Island",
       "gps_code": "FSSF",
       "iata_code": "FRK",
-      "coordinates": "-4.582785, 55.944928"
+      "coordinates": "-4.582785, 55.944928",
+      "metar_available": false
     },
     {
       "ident": "FSSR",
@@ -193,7 +207,8 @@
       "iso_region": "SC-26",
       "municipality": "Remire Island",
       "gps_code": "FSSR",
-      "coordinates": "-5.11722, 53.312199"
+      "coordinates": "-5.11722, 53.312199",
+      "metar_available": false
     },
     {
       "ident": "SC-0001",
@@ -203,7 +218,8 @@
       "iso_country": "SC",
       "iso_region": "SC-15",
       "municipality": "Silhouette",
-      "coordinates": "-4.48403, 55.2525"
+      "coordinates": "-4.48403, 55.2525",
+      "metar_available": false
     },
     {
       "ident": "SC-0002",
@@ -213,7 +229,8 @@
       "iso_country": "SC",
       "iso_region": "SC-15",
       "municipality": "North Island",
-      "coordinates": "-4.3971, 55.24979"
+      "coordinates": "-4.3971, 55.24979",
+      "metar_available": false
     },
     {
       "ident": "SC-0003",
@@ -223,7 +240,8 @@
       "iso_country": "SC",
       "iso_region": "SC-18",
       "municipality": "Sainte Anne Island",
-      "coordinates": "-4.614632, 55.499347"
+      "coordinates": "-4.614632, 55.499347",
+      "metar_available": false
     },
     {
       "ident": "SC-0004",
@@ -233,7 +251,8 @@
       "iso_country": "SC",
       "iso_region": "SC-15",
       "municipality": "Frégate Island",
-      "coordinates": "-4.58477, 55.94665"
+      "coordinates": "-4.58477, 55.94665",
+      "metar_available": false
     },
     {
       "ident": "SC-0005",
@@ -243,7 +262,8 @@
       "iso_country": "SC",
       "iso_region": "SC-15",
       "municipality": "La Digue",
-      "coordinates": "-4.3608, 55.82495"
+      "coordinates": "-4.3608, 55.82495",
+      "metar_available": false
     },
     {
       "ident": "SC-0006",
@@ -253,7 +273,8 @@
       "iso_country": "SC",
       "iso_region": "SC-21",
       "municipality": "Port Glaud",
-      "coordinates": "-4.66067, 55.40396"
+      "coordinates": "-4.66067, 55.40396",
+      "metar_available": false
     },
     {
       "ident": "SC-0007",
@@ -263,7 +284,8 @@
       "iso_country": "SC",
       "iso_region": "SC-26",
       "municipality": "Poivre",
-      "coordinates": "-5.746533, 53.305593"
+      "coordinates": "-5.746533, 53.305593",
+      "metar_available": false
     }
   ]
 }

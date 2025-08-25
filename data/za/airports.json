@@ -2,7 +2,7 @@
   "country_code": "ZA",
   "country_name": "South Africa",
   "total_airports": 658,
-  "last_updated": "2025-08-01T00:18:22.703852",
+  "last_updated": "2025-08-25T10:08:40.846965",
   "types_distribution": {
     "medium_airport": 57,
     "small_airport": 519,
@@ -23,7 +23,8 @@
       "municipality": "Alexander Bay",
       "gps_code": "FAAB",
       "iata_code": "ALJ",
-      "coordinates": "-28.575001, 16.5333"
+      "coordinates": "-28.575001, 16.5333",
+      "metar_available": false
     },
     {
       "ident": "FAAE",
@@ -35,7 +36,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Aberdeen",
       "gps_code": "FAAE",
-      "coordinates": "-32.46670150756836, 24.066699981689453"
+      "coordinates": "-32.46670150756836, 24.066699981689453",
+      "metar_available": false
     },
     {
       "ident": "FAAF",
@@ -47,7 +49,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Struisbaai",
       "gps_code": "FAAF",
-      "coordinates": "-34.76288986206055, 20.034915924072266"
+      "coordinates": "-34.76288986206055, 20.034915924072266",
+      "metar_available": false
     },
     {
       "ident": "FAAG",
@@ -60,7 +63,8 @@
       "municipality": "Aggeneys",
       "gps_code": "FAAG",
       "iata_code": "AGZ",
-      "coordinates": "-29.281799, 18.8139"
+      "coordinates": "-29.281799, 18.8139",
+      "metar_available": false
     },
     {
       "ident": "FAAL",
@@ -73,7 +77,8 @@
       "municipality": "Alldays",
       "gps_code": "FAAL",
       "iata_code": "ADY",
-      "coordinates": "-22.679001, 29.0555"
+      "coordinates": "-22.679001, 29.0555",
+      "metar_available": false
     },
     {
       "ident": "FAAM",
@@ -85,7 +90,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Amsterdam",
       "gps_code": "FAAM",
-      "coordinates": "-26.633333206176758, 30.600000381469727"
+      "coordinates": "-26.633333206176758, 30.600000381469727",
+      "metar_available": false
     },
     {
       "ident": "FAAN",
@@ -97,7 +103,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Aliwal North",
       "gps_code": "FAAN",
-      "coordinates": "-30.681072, 26.730141"
+      "coordinates": "-30.681072, 26.730141",
+      "metar_available": false
     },
     {
       "ident": "FAAS",
@@ -109,7 +116,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Ashton",
       "gps_code": "FAAS",
-      "coordinates": "-33.81666564941406, 20.066667556762695"
+      "coordinates": "-33.81666564941406, 20.066667556762695",
+      "metar_available": false
     },
     {
       "ident": "FABA",
@@ -121,7 +129,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Bapsfontein",
       "gps_code": "FABA",
-      "coordinates": "-25.976255771599998, 28.3890151978"
+      "coordinates": "-25.976255771599998, 28.3890151978",
+      "metar_available": false
     },
     {
       "ident": "FABB",
@@ -133,7 +142,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Brakpan",
       "gps_code": "FABB",
-      "coordinates": "-26.23859977722168, 28.301799774169922"
+      "coordinates": "-26.23859977722168, 28.301799774169922",
+      "metar_available": false
     },
     {
       "ident": "FABD",
@@ -145,7 +155,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Burgersdorp",
       "gps_code": "FABD",
-      "coordinates": "-30.977500915527344, 26.3080997467041"
+      "coordinates": "-30.977500915527344, 26.3080997467041",
+      "metar_available": false
     },
     {
       "ident": "FABE",
@@ -158,7 +169,8 @@
       "municipality": "Bisho",
       "gps_code": "FABE",
       "iata_code": "BIY",
-      "coordinates": "-32.897099, 27.2791"
+      "coordinates": "-32.897099, 27.2791",
+      "metar_available": false
     },
     {
       "ident": "FABF",
@@ -170,7 +182,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Barkly East",
       "gps_code": "FABF",
-      "coordinates": "-30.966667175299996, 27.604166030900004"
+      "coordinates": "-30.966667175299996, 27.604166030900004",
+      "metar_available": false
     },
     {
       "ident": "FABG",
@@ -181,7 +194,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "gps_code": "FABG",
-      "coordinates": "-24.702464, 31.587875"
+      "coordinates": "-24.702464, 31.587875",
+      "metar_available": false
     },
     {
       "ident": "FABH",
@@ -193,7 +207,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Belfast",
       "gps_code": "FABH",
-      "coordinates": "-25.6587417378, 30.041577816"
+      "coordinates": "-25.6587417378, 30.041577816",
+      "metar_available": false
     },
     {
       "ident": "FABK",
@@ -205,7 +220,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Bushman's Kloof",
       "gps_code": "FABK",
-      "coordinates": "-32.035, 19.0435"
+      "coordinates": "-32.035, 19.0435",
+      "metar_available": false
     },
     {
       "ident": "FABL",
@@ -218,7 +234,8 @@
       "municipality": "Bloemfontain",
       "gps_code": "FABL",
       "iata_code": "BFN",
-      "coordinates": "-29.092699, 26.302401"
+      "coordinates": "-29.092699, 26.302401",
+      "metar_available": false
     },
     {
       "ident": "FABM",
@@ -230,7 +247,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Bethlehem",
       "gps_code": "FABM",
-      "coordinates": "-28.2484, 28.3361"
+      "coordinates": "-28.2484, 28.3361",
+      "metar_available": false
     },
     {
       "ident": "FABO",
@@ -242,7 +260,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Bothaville",
       "gps_code": "FABO",
-      "coordinates": "-27.36680030822754, 26.629199981689453"
+      "coordinates": "-27.36680030822754, 26.629199981689453",
+      "metar_available": false
     },
     {
       "ident": "FABP",
@@ -254,7 +273,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Santoy",
       "gps_code": "FABP",
-      "coordinates": "-27.129724, 22.846255"
+      "coordinates": "-27.129724, 22.846255",
+      "metar_available": false
     },
     {
       "ident": "FABR",
@@ -267,7 +287,8 @@
       "municipality": "Umjindi (Barberton)",
       "gps_code": "FABR",
       "local_code": "ABR",
-      "coordinates": "-25.717147, 30.974974"
+      "coordinates": "-25.717147, 30.974974",
+      "metar_available": false
     },
     {
       "ident": "FABS",
@@ -279,7 +300,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Brits",
       "gps_code": "FABS",
-      "coordinates": "-25.532301, 27.7759"
+      "coordinates": "-25.532301, 27.7759",
+      "metar_available": false
     },
     {
       "ident": "FABT",
@@ -291,7 +313,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Bethesda",
       "gps_code": "FABT",
-      "coordinates": "-31.873199462890625, 24.796899795532227"
+      "coordinates": "-31.873199462890625, 24.796899795532227",
+      "metar_available": false
     },
     {
       "ident": "FABU",
@@ -304,7 +327,8 @@
       "municipality": "Bultfontein",
       "gps_code": "FABU",
       "iata_code": "UTE",
-      "coordinates": "-28.273369, 26.135835"
+      "coordinates": "-28.273369, 26.135835",
+      "metar_available": false
     },
     {
       "ident": "FABV",
@@ -316,7 +340,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Brandviei",
       "gps_code": "FABV",
-      "coordinates": "-30.466699600219727, 20.466699600219727"
+      "coordinates": "-30.466699600219727, 20.466699600219727",
+      "metar_available": false
     },
     {
       "ident": "FABW",
@@ -328,7 +353,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Beaufort West",
       "gps_code": "FABW",
-      "coordinates": "-32.29999923706055, 22.670000076293945"
+      "coordinates": "-32.29999923706055, 22.670000076293945",
+      "metar_available": false
     },
     {
       "ident": "FABX",
@@ -340,7 +366,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Virginia",
       "gps_code": "FABX",
-      "coordinates": "-28.2450008392334, 26.771900177001953"
+      "coordinates": "-28.2450008392334, 26.771900177001953",
+      "metar_available": false
     },
     {
       "ident": "FABZ",
@@ -352,7 +379,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Bizana",
       "gps_code": "FABZ",
-      "coordinates": "-30.860300064086914, 29.86389923095703"
+      "coordinates": "-30.860300064086914, 29.86389923095703",
+      "metar_available": false
     },
     {
       "ident": "FACA",
@@ -364,7 +392,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Monte Carlo",
       "gps_code": "FACA",
-      "coordinates": "-28.799999237060547, 27.41699981689453"
+      "coordinates": "-28.799999237060547, 27.41699981689453",
+      "metar_available": false
     },
     {
       "ident": "FACB",
@@ -376,7 +405,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Colesberg",
       "gps_code": "FACB",
-      "coordinates": "-30.73390007019043, 25.065000534057617"
+      "coordinates": "-30.73390007019043, 25.065000534057617",
+      "metar_available": false
     },
     {
       "ident": "FACC",
@@ -389,7 +419,8 @@
       "municipality": "Arathusa",
       "gps_code": "FAAR",
       "iata_code": "ASS",
-      "coordinates": "-24.744165, 31.522499"
+      "coordinates": "-24.744165, 31.522499",
+      "metar_available": false
     },
     {
       "ident": "FACD",
@@ -402,7 +433,8 @@
       "municipality": "Cradock",
       "gps_code": "FACD",
       "iata_code": "CDO",
-      "coordinates": "-32.1567001343, 25.6455993652"
+      "coordinates": "-32.1567001343, 25.6455993652",
+      "metar_available": false
     },
     {
       "ident": "FACE",
@@ -414,7 +446,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Ceres",
       "gps_code": "FACE",
-      "coordinates": "-33.316594, 19.426676"
+      "coordinates": "-33.316594, 19.426676",
+      "metar_available": false
     },
     {
       "ident": "FACF",
@@ -426,7 +459,8 @@
       "iso_region": "ZA-EC",
       "municipality": "St Francis Bay",
       "gps_code": "FACF",
-      "coordinates": "-34.186901, 24.834999"
+      "coordinates": "-34.186901, 24.834999",
+      "metar_available": false
     },
     {
       "ident": "FACG",
@@ -438,7 +472,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Caledon",
       "gps_code": "FACG",
-      "coordinates": "-34.259523, 19.416214"
+      "coordinates": "-34.259523, 19.416214",
+      "metar_available": false
     },
     {
       "ident": "FACH",
@@ -450,7 +485,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Cookhouse",
       "gps_code": "FACH",
-      "coordinates": "-32.74470138549805, 25.796300888061523"
+      "coordinates": "-32.74470138549805, 25.796300888061523",
+      "metar_available": false
     },
     {
       "ident": "FACI",
@@ -462,7 +498,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Citrusdal",
       "gps_code": "FACI",
-      "coordinates": "-32.61968, 19.00384"
+      "coordinates": "-32.61968, 19.00384",
+      "metar_available": false
     },
     {
       "ident": "FACK",
@@ -474,7 +511,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Christiana",
       "gps_code": "FACK",
-      "coordinates": "-27.877192, 25.204376"
+      "coordinates": "-27.877192, 25.204376",
+      "metar_available": false
     },
     {
       "ident": "FACL",
@@ -486,7 +524,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Carolina",
       "gps_code": "FACL",
-      "coordinates": "-26.078100204467773, 30.092500686645508"
+      "coordinates": "-26.078100204467773, 30.092500686645508",
+      "metar_available": false
     },
     {
       "ident": "FACN",
@@ -498,7 +537,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Carnarvon",
       "gps_code": "FACN",
-      "coordinates": "-30.9886, 22.131701"
+      "coordinates": "-30.9886, 22.131701",
+      "metar_available": false
     },
     {
       "ident": "FACR",
@@ -510,7 +550,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Carltonville",
       "gps_code": "FACR",
-      "coordinates": "-26.366666793823242, 27.34666633605957"
+      "coordinates": "-26.366666793823242, 27.34666633605957",
+      "metar_available": false
     },
     {
       "ident": "FACT",
@@ -523,7 +564,8 @@
       "municipality": "Cape Town",
       "gps_code": "FACT",
       "iata_code": "CPT",
-      "coordinates": "-33.9648017883, 18.6016998291"
+      "coordinates": "-33.9648017883, 18.6016998291",
+      "metar_available": false
     },
     {
       "ident": "FACV",
@@ -535,7 +577,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Calvinia",
       "gps_code": "FACV",
-      "coordinates": "-31.50029945373535, 19.725900650024414"
+      "coordinates": "-31.50029945373535, 19.725900650024414",
+      "metar_available": false
     },
     {
       "ident": "FACW",
@@ -547,7 +590,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Clanwilliam",
       "gps_code": "FACW",
-      "coordinates": "-32.177, 18.8819"
+      "coordinates": "-32.177, 18.8819",
+      "metar_available": false
     },
     {
       "ident": "FACX",
@@ -559,7 +603,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Cathcart",
       "gps_code": "FACX",
-      "coordinates": "-32.28710174560547, 27.1387996673584"
+      "coordinates": "-32.28710174560547, 27.1387996673584",
+      "metar_available": false
     },
     {
       "ident": "FACY",
@@ -571,7 +616,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Stilbaai",
       "gps_code": "FACY",
-      "coordinates": "-34.3517990112, 21.424800872800002"
+      "coordinates": "-34.3517990112, 21.424800872800002",
+      "metar_available": false
     },
     {
       "ident": "FADA",
@@ -583,7 +629,8 @@
       "iso_region": "ZA-NC",
       "municipality": "De Aar",
       "gps_code": "FADA",
-      "coordinates": "-30.69219970703125, 24.020599365234375"
+      "coordinates": "-30.69219970703125, 24.020599365234375",
+      "metar_available": false
     },
     {
       "ident": "FADB",
@@ -595,7 +642,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Dwaalboom",
       "gps_code": "FADB",
-      "coordinates": "-24.807199478149414, 26.829700469970703"
+      "coordinates": "-24.807199478149414, 26.829700469970703",
+      "metar_available": false
     },
     {
       "ident": "FADC",
@@ -606,7 +654,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Douglas",
       "gps_code": "FADC",
-      "coordinates": "-29.0746, 23.8009"
+      "coordinates": "-29.0746, 23.8009",
+      "metar_available": false
     },
     {
       "ident": "FADD",
@@ -618,7 +667,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Dundee",
       "gps_code": "FADD",
-      "coordinates": "-28.1830997467041, 30.22249984741211"
+      "coordinates": "-28.1830997467041, 30.22249984741211",
+      "metar_available": false
     },
     {
       "ident": "FADE",
@@ -630,7 +680,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Delmas",
       "gps_code": "FADE",
-      "coordinates": "-26.141666412353516, 28.691667556762695"
+      "coordinates": "-26.141666412353516, 28.691667556762695",
+      "metar_available": false
     },
     {
       "ident": "FADG",
@@ -642,7 +693,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Dordrecht",
       "gps_code": "FADG",
-      "coordinates": "-31.383333206176758, 27.03333282470703"
+      "coordinates": "-31.383333206176758, 27.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "FADH",
@@ -654,7 +706,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Durnacol",
       "gps_code": "FADH",
-      "coordinates": "-28.046100616455078, 30.006399154663086"
+      "coordinates": "-28.046100616455078, 30.006399154663086",
+      "metar_available": false
     },
     {
       "ident": "FADK",
@@ -668,7 +721,8 @@
       "gps_code": "FADK",
       "iata_code": "DUK",
       "local_code": "FA65",
-      "coordinates": "-28.36840057373047, 32.24810028076172"
+      "coordinates": "-28.36840057373047, 32.24810028076172",
+      "metar_available": false
     },
     {
       "ident": "FADL",
@@ -680,7 +734,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Delareyville",
       "gps_code": "FADL",
-      "coordinates": "-26.67919921875, 25.474700927734375"
+      "coordinates": "-26.67919921875, 25.474700927734375",
+      "metar_available": false
     },
     {
       "ident": "FADM",
@@ -692,7 +747,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Kokstad",
       "gps_code": "FADM",
-      "coordinates": "-30.556499481201172, 29.408199310302734"
+      "coordinates": "-30.556499481201172, 29.408199310302734",
+      "metar_available": false
     },
     {
       "ident": "FADO",
@@ -704,7 +760,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Dendron",
       "gps_code": "FADO",
-      "coordinates": "-23.380599975585938, 29.32080078125"
+      "coordinates": "-23.380599975585938, 29.32080078125",
+      "metar_available": false
     },
     {
       "ident": "FADP",
@@ -716,7 +773,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Port Elizabeth",
       "gps_code": "FADP",
-      "coordinates": "-33.18320083618164, 25.193199157714844"
+      "coordinates": "-33.18320083618164, 25.193199157714844",
+      "metar_available": false
     },
     {
       "ident": "FADQ",
@@ -729,7 +787,8 @@
       "municipality": "Phinda",
       "gps_code": "FADQ",
       "iata_code": "PZL",
-      "coordinates": "-27.84939956665039, 32.30970001220703"
+      "coordinates": "-27.84939956665039, 32.30970001220703",
+      "metar_available": false
     },
     {
       "ident": "FADS",
@@ -741,7 +800,8 @@
       "iso_region": "ZA-WC",
       "municipality": "De Doorns",
       "gps_code": "FADS",
-      "coordinates": "-33.455557, 19.684493"
+      "coordinates": "-33.455557, 19.684493",
+      "metar_available": false
     },
     {
       "ident": "FADU",
@@ -753,7 +813,8 @@
       "iso_region": "ZA-MP",
       "gps_code": "FADU",
       "local_code": "FADU",
-      "coordinates": "-25.36278, 30.18778"
+      "coordinates": "-25.36278, 30.18778",
+      "metar_available": false
     },
     {
       "ident": "FADV",
@@ -765,7 +826,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Devon",
       "gps_code": "FADV",
-      "coordinates": "-26.358999252319336, 28.78969955444336"
+      "coordinates": "-26.358999252319336, 28.78969955444336",
+      "metar_available": false
     },
     {
       "ident": "FADX",
@@ -777,7 +839,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Koeberg",
       "gps_code": "FADX",
-      "coordinates": "-33.6494935368, 18.471879959099997"
+      "coordinates": "-33.6494935368, 18.471879959099997",
+      "metar_available": false
     },
     {
       "ident": "FADY",
@@ -789,7 +852,8 @@
       "iso_region": "ZA-NC",
       "municipality": "De Aar",
       "gps_code": "FADY",
-      "coordinates": "-30.63650894165039, 23.91972541809082"
+      "coordinates": "-30.63650894165039, 23.91972541809082",
+      "metar_available": false
     },
     {
       "ident": "FADZ",
@@ -801,7 +865,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Drakensberg Gardens",
       "gps_code": "FADZ",
-      "coordinates": "-29.75, 29.25"
+      "coordinates": "-29.75, 29.25",
+      "metar_available": false
     },
     {
       "ident": "FAEC",
@@ -813,7 +878,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Estcourt",
       "gps_code": "FAEC",
-      "coordinates": "-29.047199249267578, 29.910600662231445"
+      "coordinates": "-29.047199249267578, 29.910600662231445",
+      "metar_available": false
     },
     {
       "ident": "FAED",
@@ -825,7 +891,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Edenburg",
       "gps_code": "FAED",
-      "coordinates": "-29.75, 25.899999618530273"
+      "coordinates": "-29.75, 25.899999618530273",
+      "metar_available": false
     },
     {
       "ident": "FAEG",
@@ -837,7 +904,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Egnep",
       "gps_code": "FAEG",
-      "coordinates": "-24.566999435424805, 30.316999435424805"
+      "coordinates": "-24.566999435424805, 30.316999435424805",
+      "metar_available": false
     },
     {
       "ident": "FAEL",
@@ -850,7 +918,8 @@
       "municipality": "East London",
       "gps_code": "FAEL",
       "iata_code": "ELS",
-      "coordinates": "-33.035599, 27.825899"
+      "coordinates": "-33.035599, 27.825899",
+      "metar_available": false
     },
     {
       "ident": "FAEM",
@@ -863,7 +932,8 @@
       "municipality": "Empangeni",
       "gps_code": "FAEM",
       "iata_code": "EMG",
-      "coordinates": "-28.719999313354492, 31.889999389648438"
+      "coordinates": "-28.719999313354492, 31.889999389648438",
+      "metar_available": false
     },
     {
       "ident": "FAEN",
@@ -875,7 +945,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Entabeni",
       "gps_code": "FAEN",
-      "coordinates": "-24.1933, 28.735"
+      "coordinates": "-24.1933, 28.735",
+      "metar_available": false
     },
     {
       "ident": "FAEO",
@@ -887,7 +958,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Ermelo",
       "gps_code": "FAEO",
-      "coordinates": "-26.4955997467041, 29.979799270629883"
+      "coordinates": "-26.4955997467041, 29.979799270629883",
+      "metar_available": false
     },
     {
       "ident": "FAER",
@@ -900,7 +972,8 @@
       "municipality": "Ellisras",
       "gps_code": "FAER",
       "iata_code": "ELL",
-      "coordinates": "-23.726699829101562, 27.68829917907715"
+      "coordinates": "-23.726699829101562, 27.68829917907715",
+      "metar_available": false
     },
     {
       "ident": "FAES",
@@ -912,7 +985,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Eshowe",
       "gps_code": "FAES",
-      "coordinates": "-28.880199432373047, 31.45490074157715"
+      "coordinates": "-28.880199432373047, 31.45490074157715",
+      "metar_available": false
     },
     {
       "ident": "FAET",
@@ -924,7 +998,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Elliot",
       "gps_code": "FAET",
-      "coordinates": "-31.306900024414062, 27.84950065612793"
+      "coordinates": "-31.306900024414062, 27.84950065612793",
+      "metar_available": false
     },
     {
       "ident": "FAFB",
@@ -937,7 +1012,8 @@
       "municipality": "Ficksburg",
       "gps_code": "FAFB",
       "iata_code": "FCB",
-      "coordinates": "-28.82309913635254, 27.908899307250977"
+      "coordinates": "-28.82309913635254, 27.908899307250977",
+      "metar_available": false
     },
     {
       "ident": "FAFF",
@@ -949,7 +1025,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Frankfort",
       "gps_code": "FAFF",
-      "coordinates": "-27.286786, 28.514585"
+      "coordinates": "-27.286786, 28.514585",
+      "metar_available": false
     },
     {
       "ident": "FAFG",
@@ -961,7 +1038,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Flamingo Vlei",
       "gps_code": "FAFG",
-      "coordinates": "-30.490999221801758, 21.121700286865234"
+      "coordinates": "-30.490999221801758, 21.121700286865234",
+      "metar_available": false
     },
     {
       "ident": "FAFO",
@@ -973,7 +1051,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Fort Beaufort",
       "gps_code": "FAFO",
-      "coordinates": "-32.79050064086914, 26.577699661254883"
+      "coordinates": "-32.79050064086914, 26.577699661254883",
+      "metar_available": false
     },
     {
       "ident": "FAFR",
@@ -985,7 +1064,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Fraseburg",
       "gps_code": "FAFR",
-      "coordinates": "-31.933900833129883, 21.502500534057617"
+      "coordinates": "-31.933900833129883, 21.502500534057617",
+      "metar_available": false
     },
     {
       "ident": "FAFU",
@@ -997,7 +1077,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Fraaiuitzicht",
       "gps_code": "FAFU",
-      "coordinates": "-27.316999435424805, 27.25"
+      "coordinates": "-27.316999435424805, 27.25",
+      "metar_available": false
     },
     {
       "ident": "FAFW",
@@ -1009,7 +1090,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Kromdraai",
       "gps_code": "FAFW",
-      "coordinates": "-25.47719955444336, 28.290000915527344"
+      "coordinates": "-25.47719955444336, 28.290000915527344",
+      "metar_available": false
     },
     {
       "ident": "FAGA",
@@ -1021,7 +1103,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Umzimkulu",
       "gps_code": "FAGA",
-      "coordinates": "-30.267000198364258, 29.966999053955078"
+      "coordinates": "-30.267000198364258, 29.966999053955078",
+      "metar_available": false
     },
     {
       "ident": "FAGC",
@@ -1034,7 +1117,8 @@
       "municipality": "Midrand",
       "gps_code": "FAGC",
       "iata_code": "GCJ",
-      "coordinates": "-25.986299514799995, 28.1401004791"
+      "coordinates": "-25.986299514799995, 28.1401004791",
+      "metar_available": false
     },
     {
       "ident": "FAGG",
@@ -1047,7 +1131,8 @@
       "municipality": "George",
       "gps_code": "FAGG",
       "iata_code": "GRJ",
-      "coordinates": "-34.0056, 22.378902"
+      "coordinates": "-34.0056, 22.378902",
+      "metar_available": false
     },
     {
       "ident": "FAGH",
@@ -1059,7 +1144,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Emmaus",
       "gps_code": "FAGH",
-      "coordinates": "-28.83333396911621, 29.46666717529297"
+      "coordinates": "-28.83333396911621, 29.46666717529297",
+      "metar_available": false
     },
     {
       "ident": "FAGI",
@@ -1072,7 +1158,8 @@
       "municipality": "Giyani",
       "gps_code": "FAGI",
       "iata_code": "GIY",
-      "coordinates": "-23.2833, 30.65"
+      "coordinates": "-23.2833, 30.65",
+      "metar_available": false
     },
     {
       "ident": "FAGJ",
@@ -1084,7 +1171,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Gifvlei",
       "gps_code": "FAGJ",
-      "coordinates": "-30.38330078125, 20.033300399780273"
+      "coordinates": "-30.38330078125, 20.033300399780273",
+      "metar_available": false
     },
     {
       "ident": "FAGL",
@@ -1096,7 +1184,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Groblersdal",
       "gps_code": "FAGL",
-      "coordinates": "-25.186899, 29.403299"
+      "coordinates": "-25.186899, 29.403299",
+      "metar_available": false
     },
     {
       "ident": "FAGM",
@@ -1109,7 +1198,8 @@
       "municipality": "Johannesburg",
       "gps_code": "FAGM",
       "iata_code": "QRA",
-      "coordinates": "-26.2425, 28.151199"
+      "coordinates": "-26.2425, 28.151199",
+      "metar_available": false
     },
     {
       "ident": "FAGO",
@@ -1120,7 +1210,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "gps_code": "FAGO",
-      "coordinates": "-24.737165303599998, 31.5602874756"
+      "coordinates": "-24.737165303599998, 31.5602874756",
+      "metar_available": false
     },
     {
       "ident": "FAGR",
@@ -1132,7 +1223,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Graaff-Reinet",
       "gps_code": "FAGR",
-      "coordinates": "-32.193599700927734, 24.541400909423828"
+      "coordinates": "-32.193599700927734, 24.541400909423828",
+      "metar_available": false
     },
     {
       "ident": "FAGT",
@@ -1144,7 +1236,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Grahamstown",
       "gps_code": "FAGT",
-      "coordinates": "-33.284698486328125, 26.49810028076172"
+      "coordinates": "-33.284698486328125, 26.49810028076172",
+      "metar_available": false
     },
     {
       "ident": "FAGV",
@@ -1156,7 +1249,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
       "gps_code": "FAGV",
-      "coordinates": "-23.91127, 30.696192"
+      "coordinates": "-23.91127, 30.696192",
+      "metar_available": false
     },
     {
       "ident": "FAGW",
@@ -1168,7 +1262,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Magwa",
       "gps_code": "FAGW",
-      "coordinates": "-31.39394187927246, 29.693470001220703"
+      "coordinates": "-31.39394187927246, 29.693470001220703",
+      "metar_available": false
     },
     {
       "ident": "FAGY",
@@ -1180,7 +1275,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Greytown",
       "gps_code": "FAGY",
-      "coordinates": "-29.1219997406, 30.586700439499996"
+      "coordinates": "-29.1219997406, 30.586700439499996",
+      "metar_available": false
     },
     {
       "ident": "FAHA",
@@ -1192,7 +1288,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Virginia",
       "gps_code": "FAHA",
-      "coordinates": "-28.078699111938477, 26.8612003326416"
+      "coordinates": "-28.078699111938477, 26.8612003326416",
+      "metar_available": false
     },
     {
       "ident": "FAHB",
@@ -1204,7 +1301,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Hartebeespoort",
       "gps_code": "FAHB",
-      "coordinates": "-24.502399444580078, 28.079099655151367"
+      "coordinates": "-24.502399444580078, 28.079099655151367",
+      "metar_available": false
     },
     {
       "ident": "FAHC",
@@ -1216,7 +1314,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Howick",
       "gps_code": "FAHC",
-      "coordinates": "-29.552799224853516, 30.21109962463379"
+      "coordinates": "-29.552799224853516, 30.21109962463379",
+      "metar_available": false
     },
     {
       "ident": "FAHD",
@@ -1228,7 +1327,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Humansdorp",
       "gps_code": "FAHD",
-      "coordinates": "-34.036598205566406, 24.78890037536621"
+      "coordinates": "-34.036598205566406, 24.78890037536621",
+      "metar_available": false
     },
     {
       "ident": "FAHE",
@@ -1240,7 +1340,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Hendrina",
       "gps_code": "FAHE",
-      "coordinates": "-25.977800369262695, 29.618900299072266"
+      "coordinates": "-25.977800369262695, 29.618900299072266",
+      "metar_available": false
     },
     {
       "ident": "FAHF",
@@ -1252,7 +1353,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Henry'S Flats",
       "gps_code": "FAHF",
-      "coordinates": "-33.04610061645508, 25.716899871826172"
+      "coordinates": "-33.04610061645508, 25.716899871826172",
+      "metar_available": false
     },
     {
       "ident": "FAHG",
@@ -1264,7 +1366,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Heidelburg",
       "gps_code": "FAHG",
-      "coordinates": "-26.51, 28.389999"
+      "coordinates": "-26.51, 28.389999",
+      "metar_available": false
     },
     {
       "ident": "FAHH",
@@ -1276,7 +1379,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Hibberdene",
       "gps_code": "FAHH",
-      "coordinates": "-30.583947, 30.558562"
+      "coordinates": "-30.583947, 30.558562",
+      "metar_available": false
     },
     {
       "ident": "FAHI",
@@ -1288,7 +1392,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Halfweg",
       "gps_code": "FAHI",
-      "coordinates": "-30.0132999420166, 20.13920021057129"
+      "coordinates": "-30.0132999420166, 20.13920021057129",
+      "metar_available": false
     },
     {
       "ident": "FAHJ",
@@ -1300,7 +1405,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Harding",
       "gps_code": "FAHJ",
-      "coordinates": "-30.574533, 29.90565"
+      "coordinates": "-30.574533, 29.90565",
+      "metar_available": false
     },
     {
       "ident": "FAHK",
@@ -1312,7 +1418,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Haakdoornboom",
       "gps_code": "FAHK",
-      "coordinates": "-25.587200164794922, 28.115800857543945"
+      "coordinates": "-25.587200164794922, 28.115800857543945",
+      "metar_available": false
     },
     {
       "ident": "FAHL",
@@ -1325,7 +1432,8 @@
       "municipality": "Hluhluwe",
       "gps_code": "FAHL",
       "iata_code": "HLW",
-      "coordinates": "-28.0166049887, 32.2751712799"
+      "coordinates": "-28.0166049887, 32.2751712799",
+      "metar_available": false
     },
     {
       "ident": "FAHO",
@@ -1337,7 +1445,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Heilbron",
       "gps_code": "FAHO",
-      "coordinates": "-27.278600692749023, 27.9955997467041"
+      "coordinates": "-27.278600692749023, 27.9955997467041",
+      "metar_available": false
     },
     {
       "ident": "FAHP",
@@ -1349,7 +1458,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Hoopstad",
       "gps_code": "FAHP",
-      "coordinates": "-27.821699142456055, 25.916900634765625"
+      "coordinates": "-27.821699142456055, 25.916900634765625",
+      "metar_available": false
     },
     {
       "ident": "FAHR",
@@ -1362,7 +1472,8 @@
       "municipality": "Harrismith",
       "gps_code": "FAHR",
       "iata_code": "HRS",
-      "coordinates": "-28.2351, 29.106199"
+      "coordinates": "-28.2351, 29.106199",
+      "metar_available": false
     },
     {
       "ident": "FAHS",
@@ -1375,7 +1486,8 @@
       "municipality": "Hoedspruit",
       "gps_code": "FAHS",
       "iata_code": "HDS",
-      "coordinates": "-24.368600845299998, 31.0487003326"
+      "coordinates": "-24.368600845299998, 31.0487003326",
+      "metar_available": false
     },
     {
       "ident": "FAHT",
@@ -1387,7 +1499,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Hoedspruit",
       "gps_code": "FAHT",
-      "coordinates": "-24.351699829101562, 30.949399948120117"
+      "coordinates": "-24.351699829101562, 30.949399948120117",
+      "metar_available": false
     },
     {
       "ident": "FAHU",
@@ -1399,7 +1512,8 @@
       "iso_region": "ZA-NL",
       "municipality": "H.M.S.Bastard Memorial",
       "gps_code": "FAHU",
-      "coordinates": "-30.542499542236328, 29.499000549316406"
+      "coordinates": "-30.542499542236328, 29.499000549316406",
+      "metar_available": false
     },
     {
       "ident": "FAHV",
@@ -1411,7 +1525,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Gariepdam",
       "gps_code": "FAHV",
-      "coordinates": "-30.562111, 25.529343"
+      "coordinates": "-30.562111, 25.529343",
+      "metar_available": false
     },
     {
       "ident": "FAIA",
@@ -1423,7 +1538,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Itala",
       "gps_code": "FAIA",
-      "coordinates": "-27.4867000579834, 31.171100616455078"
+      "coordinates": "-27.4867000579834, 31.171100616455078",
+      "metar_available": false
     },
     {
       "ident": "FAID",
@@ -1435,7 +1551,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Idutywa",
       "gps_code": "FAID",
-      "coordinates": "-32.099998474121094, 28.316699981689453"
+      "coordinates": "-32.099998474121094, 28.316699981689453",
+      "metar_available": false
     },
     {
       "ident": "FAIS",
@@ -1447,7 +1564,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Nyoni",
       "gps_code": "FAIS",
-      "coordinates": "-29.10555648803711, 31.407499313354492"
+      "coordinates": "-29.10555648803711, 31.407499313354492",
+      "metar_available": false
     },
     {
       "ident": "FAIV",
@@ -1459,7 +1577,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Ingwavuma",
       "gps_code": "FAIV",
-      "coordinates": "-27.11709976196289, 32.00870132446289"
+      "coordinates": "-27.11709976196289, 32.00870132446289",
+      "metar_available": false
     },
     {
       "ident": "FAIW",
@@ -1471,7 +1590,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Indwe",
       "gps_code": "FAIW",
-      "coordinates": "-31.483333587646484, 27.350000381469727"
+      "coordinates": "-31.483333587646484, 27.350000381469727",
+      "metar_available": false
     },
     {
       "ident": "FAJC",
@@ -1482,7 +1602,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "gps_code": "FAJC",
-      "coordinates": "-24.508666, 31.142142"
+      "coordinates": "-24.508666, 31.142142",
+      "metar_available": false
     },
     {
       "ident": "FAJF",
@@ -1494,7 +1615,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Jagersfontain",
       "gps_code": "FAJF",
-      "coordinates": "-29.762500762939453, 25.433000564575195"
+      "coordinates": "-29.762500762939453, 25.433000564575195",
+      "metar_available": false
     },
     {
       "ident": "FAJP",
@@ -1506,7 +1628,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Joubertina",
       "gps_code": "FAJP",
-      "coordinates": "-33.830747, 23.827908"
+      "coordinates": "-33.830747, 23.827908",
+      "metar_available": false
     },
     {
       "ident": "FAJV",
@@ -1518,7 +1641,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Jansenville",
       "gps_code": "FAJV",
-      "coordinates": "-32.9390983581543, 24.670700073242188"
+      "coordinates": "-32.9390983581543, 24.670700073242188",
+      "metar_available": false
     },
     {
       "ident": "FAKB",
@@ -1530,7 +1654,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Kosi Bay",
       "gps_code": "FAKB",
-      "coordinates": "-27.018262, 32.750399"
+      "coordinates": "-27.018262, 32.750399",
+      "metar_available": false
     },
     {
       "ident": "FAKD",
@@ -1543,7 +1668,8 @@
       "municipality": "Klerksdorp",
       "gps_code": "FAKD",
       "iata_code": "KXE",
-      "coordinates": "-26.871099, 26.718"
+      "coordinates": "-26.871099, 26.718",
+      "metar_available": false
     },
     {
       "ident": "FAKE",
@@ -1555,7 +1681,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Keimouth",
       "gps_code": "FAKE",
-      "coordinates": "-32.697337, 28.356291"
+      "coordinates": "-32.697337, 28.356291",
+      "metar_available": false
     },
     {
       "ident": "FAKF",
@@ -1567,7 +1694,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Koffee Bay",
       "gps_code": "FAKF",
-      "coordinates": "-31.957335, 29.174543"
+      "coordinates": "-31.957335, 29.174543",
+      "metar_available": false
     },
     {
       "ident": "FAKG",
@@ -1579,7 +1707,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Komati Power Station",
       "gps_code": "FAKG",
-      "coordinates": "-26.093299865722656, 29.45560073852539"
+      "coordinates": "-26.093299865722656, 29.45560073852539",
+      "metar_available": false
     },
     {
       "ident": "FAKH",
@@ -1591,7 +1720,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Kenhardt",
       "gps_code": "FAKH",
-      "coordinates": "-29.32670021057129, 21.188600540161133"
+      "coordinates": "-29.32670021057129, 21.188600540161133",
+      "metar_available": false
     },
     {
       "ident": "FAKI",
@@ -1603,7 +1733,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Kobb Inn",
       "gps_code": "FAKI",
-      "coordinates": "-32.433799, 28.683467"
+      "coordinates": "-32.433799, 28.683467",
+      "metar_available": false
     },
     {
       "ident": "FAKK",
@@ -1615,7 +1746,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Kakamas",
       "gps_code": "FAKK",
-      "coordinates": "-28.808598, 20.644936"
+      "coordinates": "-28.808598, 20.644936",
+      "metar_available": false
     },
     {
       "ident": "FAKL",
@@ -1627,7 +1759,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Kriel",
       "gps_code": "FAKL",
-      "coordinates": "-26.251100540161133, 29.194700241088867"
+      "coordinates": "-26.251100540161133, 29.194700241088867",
+      "metar_available": false
     },
     {
       "ident": "FAKM",
@@ -1640,7 +1773,8 @@
       "municipality": "Kimberley",
       "gps_code": "FAKM",
       "iata_code": "KIM",
-      "coordinates": "-28.802799224900003, 24.7651996613"
+      "coordinates": "-28.802799224900003, 24.7651996613",
+      "metar_available": false
     },
     {
       "ident": "FAKN",
@@ -1653,7 +1787,8 @@
       "municipality": "Mpumalanga",
       "gps_code": "FAKN",
       "iata_code": "MQP",
-      "coordinates": "-25.3831996918, 31.1056003571"
+      "coordinates": "-25.3831996918, 31.1056003571",
+      "metar_available": false
     },
     {
       "ident": "FAKO",
@@ -1665,7 +1800,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Komga",
       "gps_code": "FAKO",
-      "coordinates": "-32.59280014038086, 27.87579917907715"
+      "coordinates": "-32.59280014038086, 27.87579917907715",
+      "metar_available": false
     },
     {
       "ident": "FAKP",
@@ -1678,7 +1814,8 @@
       "municipality": "Komatipoort",
       "gps_code": "FAKP",
       "iata_code": "KOF",
-      "coordinates": "-25.44029998779297, 31.93000030517578"
+      "coordinates": "-25.44029998779297, 31.93000030517578",
+      "metar_available": false
     },
     {
       "ident": "FAKR",
@@ -1690,7 +1827,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Krugersdorp",
       "gps_code": "FAKR",
-      "coordinates": "-26.080826, 27.725915"
+      "coordinates": "-26.080826, 27.725915",
+      "metar_available": false
     },
     {
       "ident": "FAKS",
@@ -1702,7 +1840,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Kroonstad",
       "gps_code": "FAKS",
-      "coordinates": "-27.660601, 27.3158"
+      "coordinates": "-27.660601, 27.3158",
+      "metar_available": false
     },
     {
       "ident": "FAKT",
@@ -1714,7 +1853,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Boschkop",
       "gps_code": "FAKT",
-      "coordinates": "-25.860000610399997, 28.4500007629"
+      "coordinates": "-25.860000610399997, 28.4500007629",
+      "metar_available": false
     },
     {
       "ident": "FAKU",
@@ -1727,7 +1867,8 @@
       "municipality": "Kuruman",
       "gps_code": "FAKU",
       "iata_code": "KMH",
-      "coordinates": "-27.45669937133789, 23.411399841308594"
+      "coordinates": "-27.45669937133789, 23.411399841308594",
+      "metar_available": false
     },
     {
       "ident": "FAKV",
@@ -1739,7 +1880,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Koffyfontein",
       "gps_code": "FAKV",
-      "coordinates": "-29.43939971923828, 24.98859977722168"
+      "coordinates": "-29.43939971923828, 24.98859977722168",
+      "metar_available": false
     },
     {
       "ident": "FAKW",
@@ -1751,7 +1893,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Kareedouw",
       "gps_code": "FAKW",
-      "coordinates": "-33.96666717529297, 24.299999237060547"
+      "coordinates": "-33.96666717529297, 24.299999237060547",
+      "metar_available": false
     },
     {
       "ident": "FAKX",
@@ -1763,7 +1906,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Boesmansriviermond",
       "gps_code": "FAKX",
-      "coordinates": "-33.670329, 26.630593"
+      "coordinates": "-33.670329, 26.630593",
+      "metar_available": false
     },
     {
       "ident": "FAKZ",
@@ -1776,7 +1920,8 @@
       "municipality": "Kleinsee",
       "gps_code": "FAKZ",
       "iata_code": "KLZ",
-      "coordinates": "-29.6884002686, 17.093999862700002"
+      "coordinates": "-29.6884002686, 17.093999862700002",
+      "metar_available": false
     },
     {
       "ident": "FALA",
@@ -1789,7 +1934,8 @@
       "municipality": "Johannesburg",
       "gps_code": "FALA",
       "iata_code": "HLA",
-      "coordinates": "-25.938499, 27.9261"
+      "coordinates": "-25.938499, 27.9261",
+      "metar_available": false
     },
     {
       "ident": "FALB",
@@ -1801,7 +1947,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Ladybrand",
       "gps_code": "FALB",
-      "coordinates": "-29.181101, 27.4536"
+      "coordinates": "-29.181101, 27.4536",
+      "metar_available": false
     },
     {
       "ident": "FALC",
@@ -1814,7 +1961,8 @@
       "municipality": "Lime Acres",
       "gps_code": "FALC",
       "iata_code": "LMR",
-      "coordinates": "-28.36009979248047, 23.43910026550293"
+      "coordinates": "-28.36009979248047, 23.43910026550293",
+      "metar_available": false
     },
     {
       "ident": "FALD",
@@ -1827,7 +1975,8 @@
       "municipality": "Londolozi",
       "gps_code": "FALD",
       "iata_code": "LDZ",
-      "coordinates": "-24.7478, 31.4743"
+      "coordinates": "-24.7478, 31.4743",
+      "metar_available": false
     },
     {
       "ident": "FALE",
@@ -1840,7 +1989,8 @@
       "municipality": "Durban",
       "gps_code": "FALE",
       "iata_code": "DUR",
-      "coordinates": "-29.6144444444, 31.1197222222"
+      "coordinates": "-29.6144444444, 31.1197222222",
+      "metar_available": false
     },
     {
       "ident": "FALF",
@@ -1852,7 +2002,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Loeriesfontein",
       "gps_code": "FALF",
-      "coordinates": "-30.906400680541992, 19.42530059814453"
+      "coordinates": "-30.906400680541992, 19.42530059814453",
+      "metar_available": false
     },
     {
       "ident": "FALH",
@@ -1864,7 +2015,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Lohathla",
       "gps_code": "FALH",
-      "coordinates": "-28.036800384521484, 23.09869956970215"
+      "coordinates": "-28.036800384521484, 23.09869956970215",
+      "metar_available": false
     },
     {
       "ident": "FALI",
@@ -1876,7 +2028,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Lichtenburg",
       "gps_code": "FALI",
-      "coordinates": "-26.17569923400879, 26.184600830078125"
+      "coordinates": "-26.17569923400879, 26.184600830078125",
+      "metar_available": false
     },
     {
       "ident": "FALK",
@@ -1889,7 +2042,8 @@
       "municipality": "Lusikisiki",
       "gps_code": "FALK",
       "iata_code": "LUJ",
-      "coordinates": "-31.36669921875, 29.58329963684082"
+      "coordinates": "-31.36669921875, 29.58329963684082",
+      "metar_available": false
     },
     {
       "ident": "FALL",
@@ -1901,7 +2055,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Lydenburg",
       "gps_code": "FALL",
-      "coordinates": "-25.103300094604492, 30.414199829101562"
+      "coordinates": "-25.103300094604492, 30.414199829101562",
+      "metar_available": false
     },
     {
       "ident": "FALM",
@@ -1913,7 +2068,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Louis Trichardt Southwest",
       "gps_code": "FALM",
-      "coordinates": "-23.159901, 29.696501"
+      "coordinates": "-23.159901, 29.696501",
+      "metar_available": false
     },
     {
       "ident": "FALO",
@@ -1926,7 +2082,8 @@
       "municipality": "Louis Trichardt",
       "gps_code": "FALO",
       "iata_code": "LCD",
-      "coordinates": "-23.061899185180664, 29.864700317382812"
+      "coordinates": "-23.061899185180664, 29.864700317382812",
+      "metar_available": false
     },
     {
       "ident": "FALQ",
@@ -1938,7 +2095,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Ardmore",
       "gps_code": "FALQ",
-      "coordinates": "-28.98611068725586, 29.47972297668457"
+      "coordinates": "-28.98611068725586, 29.47972297668457",
+      "metar_available": false
     },
     {
       "ident": "FALR",
@@ -1950,7 +2108,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Steytlerville",
       "gps_code": "FALR",
-      "coordinates": "-33.33700180053711, 24.321399688720703"
+      "coordinates": "-33.33700180053711, 24.321399688720703",
+      "metar_available": false
     },
     {
       "ident": "FALS",
@@ -1962,7 +2121,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Somersveld",
       "gps_code": "FALS",
-      "coordinates": "-33.2462272644043, 18.479997634887695"
+      "coordinates": "-33.2462272644043, 18.479997634887695",
+      "metar_available": false
     },
     {
       "ident": "FALW",
@@ -1975,7 +2135,8 @@
       "municipality": "Langebaanweg",
       "gps_code": "FALW",
       "iata_code": "SDB",
-      "coordinates": "-32.968898773199996, 18.1602993011"
+      "coordinates": "-32.968898773199996, 18.1602993011",
+      "metar_available": false
     },
     {
       "ident": "FALY",
@@ -1988,7 +2149,8 @@
       "municipality": "Ladysmith",
       "gps_code": "FALY",
       "iata_code": "LAY",
-      "coordinates": "-28.5816993713, 29.749700546299998"
+      "coordinates": "-28.5816993713, 29.749700546299998",
+      "metar_available": false
     },
     {
       "ident": "FAMA",
@@ -2000,7 +2162,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Matatiele",
       "gps_code": "FAMA",
-      "coordinates": "-30.322200775146484, 28.794200897216797"
+      "coordinates": "-30.322200775146484, 28.794200897216797",
+      "metar_available": false
     },
     {
       "ident": "FAMB",
@@ -2012,7 +2175,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Middelburg",
       "gps_code": "FAMB",
-      "coordinates": "-25.684799194335938, 29.440200805664062"
+      "coordinates": "-25.684799194335938, 29.440200805664062",
+      "metar_available": false
     },
     {
       "ident": "FAMC",
@@ -2024,7 +2188,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Cape Town",
       "gps_code": "FAMC",
-      "coordinates": "-31.547199249267578, 25.029399871826172"
+      "coordinates": "-31.547199249267578, 25.029399871826172",
+      "metar_available": false
     },
     {
       "ident": "FAMD",
@@ -2037,7 +2202,8 @@
       "municipality": "Malamala",
       "gps_code": "FAMD",
       "iata_code": "AAM",
-      "coordinates": "-24.816866, 31.544085"
+      "coordinates": "-24.816866, 31.544085",
+      "metar_available": false
     },
     {
       "ident": "FAMF",
@@ -2049,7 +2215,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Malabar",
       "gps_code": "FAMF",
-      "coordinates": "-29.010929, 23.849489"
+      "coordinates": "-29.010929, 23.849489",
+      "metar_available": false
     },
     {
       "ident": "FAMG",
@@ -2062,7 +2229,8 @@
       "municipality": "Margate",
       "gps_code": "FAMG",
       "iata_code": "MGH",
-      "coordinates": "-30.8574008942, 30.343000412"
+      "coordinates": "-30.8574008942, 30.343000412",
+      "metar_available": false
     },
     {
       "ident": "FAMH",
@@ -2075,7 +2243,8 @@
       "municipality": "Musina",
       "gps_code": "FAMH",
       "iata_code": "MEZ",
-      "coordinates": "-22.355672, 29.9862"
+      "coordinates": "-22.355672, 29.9862",
+      "metar_available": false
     },
     {
       "ident": "FAMI",
@@ -2087,7 +2256,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Marble Hall",
       "gps_code": "FAMI",
-      "coordinates": "-24.9891, 29.2831"
+      "coordinates": "-24.9891, 29.2831",
+      "metar_available": false
     },
     {
       "ident": "FAMJ",
@@ -2099,7 +2269,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Amerspoort",
       "gps_code": "FAMJ",
-      "coordinates": "-27.079299926799997, 29.7784996033"
+      "coordinates": "-27.079299926799997, 29.7784996033",
+      "metar_available": false
     },
     {
       "ident": "FAMK",
@@ -2111,7 +2282,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Mafeking",
       "gps_code": "FAMK",
-      "coordinates": "-25.816667556762695, 25.616666793823242"
+      "coordinates": "-25.816667556762695, 25.616666793823242",
+      "metar_available": false
     },
     {
       "ident": "FAML",
@@ -2123,7 +2295,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Mafeking",
       "gps_code": "FAML",
-      "coordinates": "-25.816699981689453, 25.716699600219727"
+      "coordinates": "-25.816699981689453, 25.716699600219727",
+      "metar_available": false
     },
     {
       "ident": "FAMM",
@@ -2136,7 +2309,8 @@
       "municipality": "Mafeking",
       "gps_code": "FAMM",
       "iata_code": "MBD",
-      "coordinates": "-25.798400878900004, 25.548000335699996"
+      "coordinates": "-25.798400878900004, 25.548000335699996",
+      "metar_available": false
     },
     {
       "ident": "FAMN",
@@ -2149,7 +2323,8 @@
       "municipality": "Malelane",
       "gps_code": "FAMN",
       "iata_code": "LLE",
-      "coordinates": "-25.473333, 31.565556"
+      "coordinates": "-25.473333, 31.565556",
+      "metar_available": false
     },
     {
       "ident": "FAMO",
@@ -2162,7 +2337,8 @@
       "municipality": "Mossel Bay",
       "gps_code": "FAMO",
       "iata_code": "MZY",
-      "coordinates": "-34.158746, 22.055676"
+      "coordinates": "-34.158746, 22.055676",
+      "metar_available": false
     },
     {
       "ident": "FAMP",
@@ -2174,7 +2350,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Matshakatini",
       "gps_code": "FAMP",
-      "coordinates": "-22.37470054626465, 30.88159942626953"
+      "coordinates": "-22.37470054626465, 30.88159942626953",
+      "metar_available": false
     },
     {
       "ident": "FAMQ",
@@ -2186,7 +2363,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Nqanqarhu (Maclear)",
       "gps_code": "FAMQ",
-      "coordinates": "-31.072201, 28.376141"
+      "coordinates": "-31.072201, 28.376141",
+      "metar_available": false
     },
     {
       "ident": "FAMS",
@@ -2198,7 +2376,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Silveroaks",
       "gps_code": "FAMS",
-      "coordinates": "-25.7045001984, 26.9090003967"
+      "coordinates": "-25.7045001984, 26.9090003967",
+      "metar_available": false
     },
     {
       "ident": "FAMT",
@@ -2210,7 +2389,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Molteno",
       "gps_code": "FAMT",
-      "coordinates": "-31.38960075378418, 26.348400115966797"
+      "coordinates": "-31.38960075378418, 26.348400115966797",
+      "metar_available": false
     },
     {
       "ident": "FAMU",
@@ -2223,7 +2403,8 @@
       "municipality": "Mkuze",
       "gps_code": "FAMU",
       "iata_code": "MZQ",
-      "coordinates": "-27.626100540161133, 32.0443000793457"
+      "coordinates": "-27.626100540161133, 32.0443000793457",
+      "metar_available": false
     },
     {
       "ident": "FAMX",
@@ -2235,7 +2416,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Mbazwana",
       "gps_code": "FAMX",
-      "coordinates": "-27.481399536132812, 32.59389877319336"
+      "coordinates": "-27.481399536132812, 32.59389877319336",
+      "metar_available": false
     },
     {
       "ident": "FAMY",
@@ -2247,7 +2429,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Mammesbury",
       "gps_code": "FAMY",
-      "coordinates": "-33.46189880371094, 18.7007999420166"
+      "coordinates": "-33.46189880371094, 18.7007999420166",
+      "metar_available": false
     },
     {
       "ident": "FAMZ",
@@ -2259,7 +2442,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Msauli",
       "gps_code": "FAMZ",
-      "coordinates": "-26.049999237060547, 31.017000198364258"
+      "coordinates": "-26.049999237060547, 31.017000198364258",
+      "metar_available": false
     },
     {
       "ident": "FANA",
@@ -2271,7 +2455,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Nongoma",
       "gps_code": "FANA",
-      "coordinates": "-27.913999557495117, 31.656200408935547"
+      "coordinates": "-27.913999557495117, 31.656200408935547",
+      "metar_available": false
     },
     {
       "ident": "FANC",
@@ -2284,7 +2469,8 @@
       "municipality": "Newcastle",
       "gps_code": "FANC",
       "iata_code": "NCS",
-      "coordinates": "-27.7705993652, 29.976900100699996"
+      "coordinates": "-27.7705993652, 29.976900100699996",
+      "metar_available": false
     },
     {
       "ident": "FANG",
@@ -2297,7 +2483,8 @@
       "municipality": "Ngala",
       "gps_code": "FANG",
       "iata_code": "NGL",
-      "coordinates": "-24.389, 31.326"
+      "coordinates": "-24.389, 31.326",
+      "metar_available": false
     },
     {
       "ident": "FANH",
@@ -2309,7 +2496,8 @@
       "iso_region": "ZA-NL",
       "municipality": "New Hanover",
       "gps_code": "FANH",
-      "coordinates": "-29.356000900268555, 30.518400192260742"
+      "coordinates": "-29.356000900268555, 30.518400192260742",
+      "metar_available": false
     },
     {
       "ident": "FANL",
@@ -2321,7 +2509,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Witbank",
       "gps_code": "FANL",
-      "coordinates": "-25.978500366210938, 28.984399795532227"
+      "coordinates": "-25.978500366210938, 28.984399795532227",
+      "metar_available": false
     },
     {
       "ident": "FANS",
@@ -2334,7 +2523,8 @@
       "municipality": "Nelspruit",
       "gps_code": "FANS",
       "iata_code": "NLP",
-      "coordinates": "-25.5, 30.9137992859"
+      "coordinates": "-25.5, 30.9137992859",
+      "metar_available": false
     },
     {
       "ident": "FANV",
@@ -2346,7 +2536,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Nieuwoudtville",
       "gps_code": "FANV",
-      "coordinates": "-31.350000381469727, 19.116666793823242"
+      "coordinates": "-31.350000381469727, 19.116666793823242",
+      "metar_available": false
     },
     {
       "ident": "FANY",
@@ -2358,7 +2549,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Modimolle",
       "gps_code": "FANY",
-      "coordinates": "-24.686100006103516, 28.434900283813477"
+      "coordinates": "-24.686100006103516, 28.434900283813477",
+      "metar_available": false
     },
     {
       "ident": "FAOB",
@@ -2371,7 +2563,8 @@
       "municipality": "Overberg",
       "gps_code": "FAOB",
       "iata_code": "OVG",
-      "coordinates": "-34.563474, 20.252438"
+      "coordinates": "-34.563474, 20.252438",
+      "metar_available": false
     },
     {
       "ident": "FAOD",
@@ -2383,7 +2576,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Odendaalsrus",
       "gps_code": "FAOD",
-      "coordinates": "-27.871000289916992, 26.69339942932129"
+      "coordinates": "-27.871000289916992, 26.69339942932129",
+      "metar_available": false
     },
     {
       "ident": "FAOF",
@@ -2395,7 +2589,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Olifantshoek",
       "gps_code": "FAOF",
-      "coordinates": "-27.961700439453125, 22.71660041809082"
+      "coordinates": "-27.961700439453125, 22.71660041809082",
+      "metar_available": false
     },
     {
       "ident": "FAOH",
@@ -2409,7 +2604,8 @@
       "gps_code": "FAOH",
       "iata_code": "OUH",
       "local_code": "FAOH",
-      "coordinates": "-33.6069984436, 22.188999176"
+      "coordinates": "-33.6069984436, 22.188999176",
+      "metar_available": false
     },
     {
       "ident": "FAOI",
@@ -2421,7 +2617,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Orient",
       "gps_code": "FAOI",
-      "coordinates": "-26.039400100708008, 27.595600128173828"
+      "coordinates": "-26.039400100708008, 27.595600128173828",
+      "metar_available": false
     },
     {
       "ident": "FAOL",
@@ -2433,7 +2630,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Otthawa",
       "gps_code": "FAOL",
-      "coordinates": "-24.732999801635742, 31.399999618530273"
+      "coordinates": "-24.732999801635742, 31.399999618530273",
+      "metar_available": false
     },
     {
       "ident": "FAON",
@@ -2445,7 +2643,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Hluhluwe",
       "gps_code": "FAON",
-      "coordinates": "-28.044900894165, 32.425399780273"
+      "coordinates": "-28.044900894165, 32.425399780273",
+      "metar_available": false
     },
     {
       "ident": "FAOR",
@@ -2458,7 +2657,8 @@
       "municipality": "Johannesburg",
       "gps_code": "FAOR",
       "iata_code": "JNB",
-      "coordinates": "-26.1392, 28.246"
+      "coordinates": "-26.1392, 28.246",
+      "metar_available": false
     },
     {
       "ident": "FAOT",
@@ -2470,7 +2670,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Ottosdal",
       "gps_code": "FAOT",
-      "coordinates": "-26.79829978942871, 26.00029945373535"
+      "coordinates": "-26.79829978942871, 26.00029945373535",
+      "metar_available": false
     },
     {
       "ident": "FAOY",
@@ -2482,7 +2683,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Orkney",
       "gps_code": "FAOY",
-      "coordinates": "-26.98390007019043, 26.651399612426758"
+      "coordinates": "-26.98390007019043, 26.651399612426758",
+      "metar_available": false
     },
     {
       "ident": "FAPA",
@@ -2495,7 +2697,8 @@
       "municipality": "Port Alfred",
       "gps_code": "FAPA",
       "iata_code": "AFD",
-      "coordinates": "-33.555057, 26.881656"
+      "coordinates": "-33.555057, 26.881656",
+      "metar_available": false
     },
     {
       "ident": "FAPC",
@@ -2507,7 +2710,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Prince Albert",
       "gps_code": "FAPC",
-      "coordinates": "-33.20249938964844, 22.03219985961914"
+      "coordinates": "-33.20249938964844, 22.03219985961914",
+      "metar_available": false
     },
     {
       "ident": "FAPD",
@@ -2519,7 +2723,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Pofadder",
       "gps_code": "FAPD",
-      "coordinates": "-29.141700744628906, 19.41309928894043"
+      "coordinates": "-29.141700744628906, 19.41309928894043",
+      "metar_available": false
     },
     {
       "ident": "FAPE",
@@ -2532,7 +2737,8 @@
       "municipality": "Gqeberha (Port Elizabeth)",
       "gps_code": "FAPE",
       "iata_code": "PLZ",
-      "coordinates": "-33.984901, 25.6173"
+      "coordinates": "-33.984901, 25.6173",
+      "metar_available": false
     },
     {
       "ident": "FAPF",
@@ -2544,7 +2750,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Piet Retief",
       "gps_code": "FAPF",
-      "coordinates": "-26.9969005585, 30.840799331699998"
+      "coordinates": "-26.9969005585, 30.840799331699998",
+      "metar_available": false
     },
     {
       "ident": "FAPG",
@@ -2557,7 +2764,8 @@
       "municipality": "Plettenberg Bay",
       "gps_code": "FAPG",
       "iata_code": "PBZ",
-      "coordinates": "-34.08816, 23.328723"
+      "coordinates": "-34.08816, 23.328723",
+      "metar_available": false
     },
     {
       "ident": "FAPH",
@@ -2570,7 +2778,8 @@
       "municipality": "Phalaborwa",
       "gps_code": "FAPH",
       "iata_code": "PHW",
-      "coordinates": "-23.937200546299998, 31.1553993225"
+      "coordinates": "-23.937200546299998, 31.1553993225",
+      "metar_available": false
     },
     {
       "ident": "FAPI",
@@ -2582,7 +2791,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Polokwane",
       "gps_code": "FAPI",
-      "coordinates": "-23.9260997772, 29.4843997955"
+      "coordinates": "-23.9260997772, 29.4843997955",
+      "metar_available": false
     },
     {
       "ident": "FAPJ",
@@ -2595,7 +2805,8 @@
       "municipality": "Port St Johns",
       "gps_code": "FAPJ",
       "iata_code": "JOH",
-      "coordinates": "-31.60612, 29.52175"
+      "coordinates": "-31.60612, 29.52175",
+      "metar_available": false
     },
     {
       "ident": "FAPK",
@@ -2608,7 +2819,8 @@
       "municipality": "Prieska",
       "gps_code": "FAPK",
       "iata_code": "PRK",
-      "coordinates": "-29.6835994720459, 22.770599365234375"
+      "coordinates": "-29.6835994720459, 22.770599365234375",
+      "metar_available": false
     },
     {
       "ident": "FAPL",
@@ -2620,7 +2832,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Pongola",
       "gps_code": "FAPL",
-      "coordinates": "-27.3622, 31.606701"
+      "coordinates": "-27.3622, 31.606701",
+      "metar_available": false
     },
     {
       "ident": "FAPM",
@@ -2633,7 +2846,8 @@
       "municipality": "Pietermaritzburg",
       "gps_code": "FAPM",
       "iata_code": "PZB",
-      "coordinates": "-29.649000167799997, 30.3987007141"
+      "coordinates": "-29.649000167799997, 30.3987007141",
+      "metar_available": false
     },
     {
       "ident": "FAPN",
@@ -2646,7 +2860,8 @@
       "municipality": "Pilanesberg",
       "gps_code": "FAPN",
       "iata_code": "NTY",
-      "coordinates": "-25.333799, 27.173401"
+      "coordinates": "-25.333799, 27.173401",
+      "metar_available": false
     },
     {
       "ident": "FAPO",
@@ -2658,7 +2873,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Mankolehlotlo",
       "gps_code": "FAPO",
-      "coordinates": "-24.785147, 30.791899"
+      "coordinates": "-24.785147, 30.791899",
+      "metar_available": false
     },
     {
       "ident": "FAPP",
@@ -2671,7 +2887,8 @@
       "municipality": "Polokwane",
       "gps_code": "FAPP",
       "iata_code": "PTG",
-      "coordinates": "-23.845269, 29.458615"
+      "coordinates": "-23.845269, 29.458615",
+      "metar_available": false
     },
     {
       "ident": "FAPQ",
@@ -2683,7 +2900,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Kruger National Park",
       "gps_code": "FAPQ",
-      "coordinates": "-22.77, 31.0108"
+      "coordinates": "-22.77, 31.0108",
+      "metar_available": false
     },
     {
       "ident": "FAPS",
@@ -2696,7 +2914,8 @@
       "municipality": "Potchefstroom",
       "gps_code": "FAPS",
       "iata_code": "PCF",
-      "coordinates": "-26.670999527, 27.0818996429"
+      "coordinates": "-26.670999527, 27.0818996429",
+      "metar_available": false
     },
     {
       "ident": "FAPT",
@@ -2708,7 +2927,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Postmasburg",
       "gps_code": "FAPT",
-      "coordinates": "-28.338600158691406, 23.079700469970703"
+      "coordinates": "-28.338600158691406, 23.079700469970703",
+      "metar_available": false
     },
     {
       "ident": "FAPU",
@@ -2720,7 +2940,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Paarl",
       "gps_code": "FAPU",
-      "coordinates": "-33.710766666699996, 19.024388888900003"
+      "coordinates": "-33.710766666699996, 19.024388888900003",
+      "metar_available": false
     },
     {
       "ident": "FAPV",
@@ -2732,7 +2953,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Petrusville",
       "gps_code": "FAPV",
-      "coordinates": "-30.08180046081543, 24.67959976196289"
+      "coordinates": "-30.08180046081543, 24.67959976196289",
+      "metar_available": false
     },
     {
       "ident": "FAPW",
@@ -2744,7 +2966,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Pietersrus",
       "gps_code": "FAPW",
-      "coordinates": "-26.60610008239746, 29.329200744628906"
+      "coordinates": "-26.60610008239746, 29.329200744628906",
+      "metar_available": false
     },
     {
       "ident": "FAPX",
@@ -2756,7 +2979,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Jeffreys Bay",
       "gps_code": "FAPX",
-      "coordinates": "-34.10133, 24.884352"
+      "coordinates": "-34.10133, 24.884352",
+      "metar_available": false
     },
     {
       "ident": "FAPY",
@@ -2768,7 +2992,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Parys",
       "gps_code": "FAPY",
-      "coordinates": "-26.889299392700195, 27.503400802612305"
+      "coordinates": "-26.889299392700195, 27.503400802612305",
+      "metar_available": false
     },
     {
       "ident": "FAPZ",
@@ -2780,7 +3005,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Sunlands",
       "gps_code": "FAPZ",
-      "coordinates": "-33.926448, 25.371916"
+      "coordinates": "-33.926448, 25.371916",
+      "metar_available": false
     },
     {
       "ident": "FAQF",
@@ -2792,7 +3018,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Pomfret",
       "gps_code": "FAQF",
-      "coordinates": "-25.847700119, 23.537300109900002"
+      "coordinates": "-25.847700119, 23.537300109900002",
+      "metar_available": false
     },
     {
       "ident": "FAQT",
@@ -2805,7 +3032,8 @@
       "municipality": "Queenstown",
       "gps_code": "FAQT",
       "iata_code": "UTW",
-      "coordinates": "-31.92020034790039, 26.882200241088867"
+      "coordinates": "-31.92020034790039, 26.882200241088867",
+      "metar_available": false
     },
     {
       "ident": "FARA",
@@ -2817,7 +3045,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Daveyton",
       "gps_code": "FARA",
-      "coordinates": "-26.0845963451, 28.390386581399998"
+      "coordinates": "-26.0845963451, 28.390386581399998",
+      "metar_available": false
     },
     {
       "ident": "FARB",
@@ -2830,7 +3059,8 @@
       "municipality": "Richards Bay",
       "gps_code": "FARB",
       "iata_code": "RCB",
-      "coordinates": "-28.740999221800003, 32.0920982361"
+      "coordinates": "-28.740999221800003, 32.0920982361",
+      "metar_available": false
     },
     {
       "ident": "FARD",
@@ -2842,7 +3072,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Riversdale",
       "gps_code": "FARD",
-      "coordinates": "-34.111698150634766, 21.262800216674805"
+      "coordinates": "-34.111698150634766, 21.262800216674805",
+      "metar_available": false
     },
     {
       "ident": "FARG",
@@ -2854,7 +3085,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Rustenburg",
       "gps_code": "FARG",
-      "coordinates": "-25.6443004608, 27.271099090599996"
+      "coordinates": "-25.6443004608, 27.271099090599996",
+      "metar_available": false
     },
     {
       "ident": "FARI",
@@ -2867,7 +3099,8 @@
       "municipality": "Reivilo",
       "gps_code": "FARI",
       "iata_code": "RVO",
-      "coordinates": "-27.547199249267578, 24.172500610351562"
+      "coordinates": "-27.547199249267578, 24.172500610351562",
+      "metar_available": false
     },
     {
       "ident": "FARM",
@@ -2879,7 +3112,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Richmond",
       "gps_code": "FARM",
-      "coordinates": "-31.423500061035156, 23.978200912475586"
+      "coordinates": "-31.423500061035156, 23.978200912475586",
+      "metar_available": false
     },
     {
       "ident": "FARO",
@@ -2891,7 +3125,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Rooiberg",
       "gps_code": "FARO",
-      "coordinates": "-24.7777888889, 27.7523361111"
+      "coordinates": "-24.7777888889, 27.7523361111",
+      "metar_available": false
     },
     {
       "ident": "FARS",
@@ -2904,7 +3139,8 @@
       "municipality": "Robertson",
       "gps_code": "FARS",
       "iata_code": "ROD",
-      "coordinates": "-33.812199, 19.9028"
+      "coordinates": "-33.812199, 19.9028",
+      "metar_available": false
     },
     {
       "ident": "FARZ",
@@ -2916,7 +3152,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Maasstroom",
       "gps_code": "FARZ",
-      "coordinates": "-22.78420066833496, 28.430299758911133"
+      "coordinates": "-22.78420066833496, 28.430299758911133",
+      "metar_available": false
     },
     {
       "ident": "FASB",
@@ -2929,7 +3166,8 @@
       "municipality": "Springbok",
       "gps_code": "FASB",
       "iata_code": "SBU",
-      "coordinates": "-29.689300537109375, 17.939599990844727"
+      "coordinates": "-29.689300537109375, 17.939599990844727",
+      "metar_available": false
     },
     {
       "ident": "FASC",
@@ -2942,7 +3180,8 @@
       "municipality": "Secunda",
       "gps_code": "FASC",
       "iata_code": "ZEC",
-      "coordinates": "-26.52409935, 29.170099258399997"
+      "coordinates": "-26.52409935, 29.170099258399997",
+      "metar_available": false
     },
     {
       "ident": "FASD",
@@ -2954,7 +3193,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Saldanha-Vredenburg",
       "gps_code": "FASD",
-      "coordinates": "-32.9641, 17.969299"
+      "coordinates": "-32.9641, 17.969299",
+      "metar_available": false
     },
     {
       "ident": "FASE",
@@ -2967,7 +3207,8 @@
       "municipality": "Belfast",
       "gps_code": "FASE",
       "iata_code": "GSS",
-      "coordinates": "-24.947375434199998, 31.4488477707"
+      "coordinates": "-24.947375434199998, 31.4488477707",
+      "metar_available": false
     },
     {
       "ident": "FASG",
@@ -2979,7 +3220,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Schweizer Reneke",
       "gps_code": "FASG",
-      "coordinates": "-27.16309928894043, 25.286100387573242"
+      "coordinates": "-27.16309928894043, 25.286100387573242",
+      "metar_available": false
     },
     {
       "ident": "FASH",
@@ -2991,7 +3233,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Stellenbosch",
       "gps_code": "FASH",
-      "coordinates": "-33.980983, 18.822327"
+      "coordinates": "-33.980983, 18.822327",
+      "metar_available": false
     },
     {
       "ident": "FASI",
@@ -3003,7 +3246,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Del Fouche",
       "gps_code": "FASI",
-      "coordinates": "-26.2494004736, 28.3982715607"
+      "coordinates": "-26.2494004736, 28.3982715607",
+      "metar_available": false
     },
     {
       "ident": "FASJ",
@@ -3015,7 +3259,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Saffier",
       "gps_code": "FASJ",
-      "coordinates": "-26.760000228881836, 27.760000228881836"
+      "coordinates": "-26.760000228881836, 27.760000228881836",
+      "metar_available": false
     },
     {
       "ident": "FASK",
@@ -3027,7 +3272,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Pretoria",
       "gps_code": "FASK",
-      "coordinates": "-25.8097, 28.1646"
+      "coordinates": "-25.8097, 28.1646",
+      "metar_available": false
     },
     {
       "ident": "FASL",
@@ -3039,7 +3285,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Sutherland",
       "gps_code": "FASL",
-      "coordinates": "-32.48820114135742, 20.697099685668945"
+      "coordinates": "-32.48820114135742, 20.697099685668945",
+      "metar_available": false
     },
     {
       "ident": "FASM",
@@ -3051,7 +3298,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Siteka",
       "gps_code": "FASM",
-      "coordinates": "-29.325000762939453, 30.149200439453125"
+      "coordinates": "-29.325000762939453, 30.149200439453125",
+      "metar_available": false
     },
     {
       "ident": "FASN",
@@ -3063,7 +3311,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Senekal",
       "gps_code": "FASN",
-      "coordinates": "-28.31220054626465, 27.646099090576172"
+      "coordinates": "-28.31220054626465, 27.646099090576172",
+      "metar_available": false
     },
     {
       "ident": "FASR",
@@ -3075,7 +3324,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Standerton",
       "gps_code": "FASR",
-      "coordinates": "-26.927000045776367, 29.209999084472656"
+      "coordinates": "-26.927000045776367, 29.209999084472656",
+      "metar_available": false
     },
     {
       "ident": "FASS",
@@ -3088,7 +3338,8 @@
       "municipality": "Sishen",
       "gps_code": "FASS",
       "iata_code": "SIS",
-      "coordinates": "-27.6486, 22.9993"
+      "coordinates": "-27.6486, 22.9993",
+      "metar_available": false
     },
     {
       "ident": "FAST",
@@ -3100,7 +3351,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Somerset East",
       "gps_code": "FAST",
-      "coordinates": "-32.75019836425781, 25.594999313354492"
+      "coordinates": "-32.75019836425781, 25.594999313354492",
+      "metar_available": false
     },
     {
       "ident": "FASU",
@@ -3112,7 +3364,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Sace",
       "gps_code": "FASU",
-      "coordinates": "-25.956899642944336, 29.211700439453125"
+      "coordinates": "-25.956899642944336, 29.211700439453125",
+      "metar_available": false
     },
     {
       "ident": "FASW",
@@ -3124,7 +3377,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Slurry",
       "gps_code": "FASW",
-      "coordinates": "-25.81559944152832, 25.88640022277832"
+      "coordinates": "-25.81559944152832, 25.88640022277832",
+      "metar_available": false
     },
     {
       "ident": "FASX",
@@ -3136,7 +3390,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Swellendam",
       "gps_code": "FASX",
-      "coordinates": "-34.04819869995117, 20.474599838256836"
+      "coordinates": "-34.04819869995117, 20.474599838256836",
+      "metar_available": false
     },
     {
       "ident": "FASZ",
@@ -3149,7 +3404,8 @@
       "municipality": "Skukuza",
       "gps_code": "FASZ",
       "iata_code": "SZK",
-      "coordinates": "-24.960899353, 31.5886993408"
+      "coordinates": "-24.960899353, 31.5886993408",
+      "metar_available": false
     },
     {
       "ident": "FATA",
@@ -3161,7 +3417,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Tedderfield",
       "gps_code": "FATA",
-      "coordinates": "-26.352037738499998, 27.9681630135"
+      "coordinates": "-26.352037738499998, 27.9681630135",
+      "metar_available": false
     },
     {
       "ident": "FATB",
@@ -3173,7 +3430,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Hoedspruit",
       "gps_code": "FATB",
-      "coordinates": "-24.416086, 31.164232"
+      "coordinates": "-24.416086, 31.164232",
+      "metar_available": false
     },
     {
       "ident": "FATF",
@@ -3185,7 +3443,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Beeshoek",
       "gps_code": "FATF",
-      "coordinates": "-28.260000228881836, 22.993200302124023"
+      "coordinates": "-28.260000228881836, 22.993200302124023",
+      "metar_available": false
     },
     {
       "ident": "FATG",
@@ -3196,7 +3455,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "gps_code": "FATG",
-      "coordinates": "-24.2811, 27.2294"
+      "coordinates": "-24.2811, 27.2294",
+      "metar_available": false
     },
     {
       "ident": "FATH",
@@ -3209,7 +3469,8 @@
       "municipality": "Thohoyandou",
       "gps_code": "FATH",
       "iata_code": "THY",
-      "coordinates": "-23.0769, 30.3836"
+      "coordinates": "-23.0769, 30.3836",
+      "metar_available": false
     },
     {
       "ident": "FATI",
@@ -3221,7 +3482,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Thabazimbi",
       "gps_code": "FATI",
-      "coordinates": "-24.5760850299, 27.4196863174"
+      "coordinates": "-24.5760850299, 27.4196863174",
+      "metar_available": false
     },
     {
       "ident": "FATM",
@@ -3233,7 +3495,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Stutterheim",
       "gps_code": "FATM",
-      "coordinates": "-32.56666564941406, 27.450000762939453"
+      "coordinates": "-32.56666564941406, 27.450000762939453",
+      "metar_available": false
     },
     {
       "ident": "FATN",
@@ -3246,7 +3509,8 @@
       "municipality": "Homeward",
       "gps_code": "FATN",
       "iata_code": "TCU",
-      "coordinates": "-29.317800521850586, 26.822799682617188"
+      "coordinates": "-29.317800521850586, 26.822799682617188",
+      "metar_available": false
     },
     {
       "ident": "FATP",
@@ -3258,7 +3522,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Bloemfontein",
       "gps_code": "FATP",
-      "coordinates": "-29.035109, 26.16268"
+      "coordinates": "-29.035109, 26.16268",
+      "metar_available": false
     },
     {
       "ident": "FATR",
@@ -3270,7 +3535,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Qolora",
       "gps_code": "FATR",
-      "coordinates": "-32.639682, 28.422969"
+      "coordinates": "-32.639682, 28.422969",
+      "metar_available": false
     },
     {
       "ident": "FATT",
@@ -3282,7 +3548,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Standerton",
       "gps_code": "FATT",
-      "coordinates": "-26.775128, 29.337542"
+      "coordinates": "-26.775128, 29.337542",
+      "metar_available": false
     },
     {
       "ident": "FATW",
@@ -3294,7 +3561,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Tswalo Game Reserve",
       "gps_code": "FATW",
-      "coordinates": "-27.204999923706055, 22.48189926147461"
+      "coordinates": "-27.204999923706055, 22.48189926147461",
+      "metar_available": false
     },
     {
       "ident": "FATZ",
@@ -3307,7 +3575,8 @@
       "municipality": "Tzaneen",
       "gps_code": "FATZ",
       "iata_code": "LTA",
-      "coordinates": "-23.8244, 30.3293"
+      "coordinates": "-23.8244, 30.3293",
+      "metar_available": false
     },
     {
       "ident": "FAUB",
@@ -3319,7 +3588,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Underberg",
       "gps_code": "FAUB",
-      "coordinates": "-29.788400650024414, 29.498300552368164"
+      "coordinates": "-29.788400650024414, 29.498300552368164",
+      "metar_available": false
     },
     {
       "ident": "FAUC",
@@ -3331,7 +3601,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Ulco",
       "gps_code": "FAUC",
-      "coordinates": "-28.35449981689453, 24.22909927368164"
+      "coordinates": "-28.35449981689453, 24.22909927368164",
+      "metar_available": false
     },
     {
       "ident": "FAUG",
@@ -3343,7 +3614,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Ugie",
       "gps_code": "FAUG",
-      "coordinates": "-31.219999313354492, 28.209999084472656"
+      "coordinates": "-31.219999313354492, 28.209999084472656",
+      "metar_available": false
     },
     {
       "ident": "FAUH",
@@ -3355,7 +3627,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Uitenhage",
       "gps_code": "FAUH",
-      "coordinates": "-33.785301208496094, 25.38330078125"
+      "coordinates": "-33.785301208496094, 25.38330078125",
+      "metar_available": false
     },
     {
       "ident": "FAUL",
@@ -3368,7 +3641,8 @@
       "municipality": "Ulundi",
       "gps_code": "FAUL",
       "iata_code": "ULD",
-      "coordinates": "-28.3206005096, 31.4165000916"
+      "coordinates": "-28.3206005096, 31.4165000916",
+      "metar_available": false
     },
     {
       "ident": "FAUP",
@@ -3381,7 +3655,8 @@
       "municipality": "Upington",
       "gps_code": "FAUP",
       "iata_code": "UTN",
-      "coordinates": "-28.39909935, 21.260200500499998"
+      "coordinates": "-28.39909935, 21.260200500499998",
+      "metar_available": false
     },
     {
       "ident": "FAUR",
@@ -3393,7 +3668,8 @@
       "iso_region": "ZA-NL",
       "municipality": "Utrecht",
       "gps_code": "FAUR",
-      "coordinates": "-27.680500030517578, 30.31679916381836"
+      "coordinates": "-27.680500030517578, 30.31679916381836",
+      "metar_available": false
     },
     {
       "ident": "FAUS",
@@ -3406,7 +3682,8 @@
       "municipality": "Ulusaba",
       "gps_code": "FAUS",
       "iata_code": "ULX",
-      "coordinates": "-24.7854003906, 31.3549003601"
+      "coordinates": "-24.7854003906, 31.3549003601",
+      "metar_available": false
     },
     {
       "ident": "FAUT",
@@ -3419,7 +3696,8 @@
       "municipality": "Mthatha",
       "gps_code": "FAUT",
       "iata_code": "UTT",
-      "coordinates": "-31.546363184900002, 28.6733551025"
+      "coordinates": "-31.546363184900002, 28.6733551025",
+      "metar_available": false
     },
     {
       "ident": "FAVA",
@@ -3431,7 +3709,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Vaalputs",
       "gps_code": "FAVA",
-      "coordinates": "-30.134199142456055, 18.52669906616211"
+      "coordinates": "-30.134199142456055, 18.52669906616211",
+      "metar_available": false
     },
     {
       "ident": "FAVB",
@@ -3444,7 +3723,8 @@
       "municipality": "Vyrburg",
       "gps_code": "FAVB",
       "iata_code": "VRU",
-      "coordinates": "-26.9824008942, 24.7287998199"
+      "coordinates": "-26.9824008942, 24.7287998199",
+      "metar_available": false
     },
     {
       "ident": "FAVD",
@@ -3456,7 +3736,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Vrede",
       "gps_code": "FAVD",
-      "coordinates": "-27.44029998779297, 29.153099060058594"
+      "coordinates": "-27.44029998779297, 29.153099060058594",
+      "metar_available": false
     },
     {
       "ident": "FAVE",
@@ -3468,7 +3749,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Ventersdorp",
       "gps_code": "FAVE",
-      "coordinates": "-26.300899505615234, 26.814199447631836"
+      "coordinates": "-26.300899505615234, 26.814199447631836",
+      "metar_available": false
     },
     {
       "ident": "FAVF",
@@ -3480,7 +3762,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Verborgenfontein",
       "gps_code": "FAVF",
-      "coordinates": "-31.165800094604492, 23.80940055847168"
+      "coordinates": "-31.165800094604492, 23.80940055847168",
+      "metar_available": false
     },
     {
       "ident": "FAVG",
@@ -3493,7 +3776,8 @@
       "municipality": "Durban",
       "gps_code": "FAVG",
       "iata_code": "VIR",
-      "coordinates": "-29.770599, 31.058399"
+      "coordinates": "-29.770599, 31.058399",
+      "metar_available": false
     },
     {
       "ident": "FAVI",
@@ -3505,7 +3789,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Von Abo's Villa",
       "gps_code": "FAVI",
-      "coordinates": "-27.610599517822266, 26.683500289916992"
+      "coordinates": "-27.610599517822266, 26.683500289916992",
+      "metar_available": false
     },
     {
       "ident": "FAVM",
@@ -3517,7 +3802,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Alldays",
       "gps_code": "FAVM",
-      "coordinates": "-22.448099, 29.3377"
+      "coordinates": "-22.448099, 29.3377",
+      "metar_available": false
     },
     {
       "ident": "FAVP",
@@ -3529,7 +3815,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Vanderbijlpark",
       "gps_code": "FAVP",
-      "coordinates": "-26.69029998779297, 27.777099609375"
+      "coordinates": "-26.69029998779297, 27.777099609375",
+      "metar_available": false
     },
     {
       "ident": "FAVR",
@@ -3542,7 +3829,8 @@
       "municipality": "Vredendal",
       "gps_code": "FAVR",
       "iata_code": "VRE",
-      "coordinates": "-31.641000747680664, 18.5447998046875"
+      "coordinates": "-31.641000747680664, 18.5447998046875",
+      "metar_available": false
     },
     {
       "ident": "FAVS",
@@ -3554,7 +3842,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Upington",
       "gps_code": "FAVS",
-      "coordinates": "-27.83458, 21.63037"
+      "coordinates": "-27.83458, 21.63037",
+      "metar_available": false
     },
     {
       "ident": "FAVU",
@@ -3566,7 +3855,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Volksrust",
       "gps_code": "FAVU",
-      "coordinates": "-27.37689971923828, 29.860000610351562"
+      "coordinates": "-27.37689971923828, 29.860000610351562",
+      "metar_available": false
     },
     {
       "ident": "FAVV",
@@ -3578,7 +3868,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Vereeniging",
       "gps_code": "FAVV",
-      "coordinates": "-26.566400528, 27.9608001709"
+      "coordinates": "-26.566400528, 27.9608001709",
+      "metar_available": false
     },
     {
       "ident": "FAVW",
@@ -3590,7 +3881,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Victoria West",
       "gps_code": "FAVW",
-      "coordinates": "-31.39940071105957, 23.156400680541992"
+      "coordinates": "-31.39940071105957, 23.156400680541992",
+      "metar_available": false
     },
     {
       "ident": "FAVY",
@@ -3603,7 +3895,8 @@
       "municipality": "Vryheid",
       "gps_code": "FAVY",
       "iata_code": "VYD",
-      "coordinates": "-27.78689956665039, 30.79640007019043"
+      "coordinates": "-27.78689956665039, 30.79640007019043",
+      "metar_available": false
     },
     {
       "ident": "FAWA",
@@ -3615,7 +3908,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Warmbaths",
       "gps_code": "FAWA",
-      "coordinates": "-24.90999984741211, 28.299999237060547"
+      "coordinates": "-24.90999984741211, 28.299999237060547",
+      "metar_available": false
     },
     {
       "ident": "FAWB",
@@ -3628,7 +3922,8 @@
       "municipality": "Pretoria",
       "gps_code": "FAWB",
       "iata_code": "PRY",
-      "coordinates": "-25.6539, 28.224199"
+      "coordinates": "-25.6539, 28.224199",
+      "metar_available": false
     },
     {
       "ident": "FAWC",
@@ -3640,7 +3935,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Worcester",
       "gps_code": "FAWC",
-      "coordinates": "-33.66310119628906, 19.415300369262695"
+      "coordinates": "-33.66310119628906, 19.415300369262695",
+      "metar_available": false
     },
     {
       "ident": "FAWD",
@@ -3652,7 +3948,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Wolmeransstad",
       "gps_code": "FAWD",
-      "coordinates": "-27.170000076293945, 25.979999542236328"
+      "coordinates": "-27.170000076293945, 25.979999542236328",
+      "metar_available": false
     },
     {
       "ident": "FAWE",
@@ -3663,7 +3960,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "gps_code": "FAWE",
-      "coordinates": "-24.2046, 27.9"
+      "coordinates": "-24.2046, 27.9",
+      "metar_available": false
     },
     {
       "ident": "FAWI",
@@ -3675,7 +3973,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Witbank",
       "gps_code": "FAWI",
-      "coordinates": "-25.832300186199998, 29.1919994354"
+      "coordinates": "-25.832300186199998, 29.1919994354",
+      "metar_available": false
     },
     {
       "ident": "FAWK",
@@ -3688,7 +3987,8 @@
       "municipality": "Pretoria",
       "gps_code": "FAWK",
       "iata_code": "WKF",
-      "coordinates": "-25.829999923699997, 28.222499847399998"
+      "coordinates": "-25.829999923699997, 28.222499847399998",
+      "metar_available": false
     },
     {
       "ident": "FAWL",
@@ -3700,7 +4000,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Williston",
       "gps_code": "FAWL",
-      "coordinates": "-31.38360023498535, 20.93280029296875"
+      "coordinates": "-31.38360023498535, 20.93280029296875",
+      "metar_available": false
     },
     {
       "ident": "FAWM",
@@ -3713,7 +4014,8 @@
       "municipality": "Welkom",
       "gps_code": "FAWM",
       "iata_code": "WEL",
-      "coordinates": "-27.996825, 26.663334"
+      "coordinates": "-27.996825, 26.663334",
+      "metar_available": false
     },
     {
       "ident": "FAWN",
@@ -3725,7 +4027,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Durbanville",
       "gps_code": "FAWN",
-      "coordinates": "-33.77, 18.74"
+      "coordinates": "-33.77, 18.74",
+      "metar_available": false
     },
     {
       "ident": "FAWO",
@@ -3737,7 +4040,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Willowmore",
       "gps_code": "FAWO",
-      "coordinates": "-33.263301849365234, 23.4906005859375"
+      "coordinates": "-33.263301849365234, 23.4906005859375",
+      "metar_available": false
     },
     {
       "ident": "FAWP",
@@ -3749,7 +4053,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Wepener",
       "gps_code": "FAWP",
-      "coordinates": "-29.742399215698242, 27.022600173950195"
+      "coordinates": "-29.742399215698242, 27.022600173950195",
+      "metar_available": false
     },
     {
       "ident": "FAWR",
@@ -3761,7 +4066,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Wavecrest",
       "gps_code": "FAWR",
-      "coordinates": "-32.589906, 28.518491"
+      "coordinates": "-32.589906, 28.518491",
+      "metar_available": false
     },
     {
       "ident": "FAWS",
@@ -3773,7 +4079,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Wesselsbron",
       "gps_code": "FAWS",
-      "coordinates": "-27.84670066833496, 26.35059928894043"
+      "coordinates": "-27.84670066833496, 26.35059928894043",
+      "metar_available": false
     },
     {
       "ident": "FAWT",
@@ -3786,7 +4093,8 @@
       "municipality": "Doornbosch",
       "gps_code": "FAWT",
       "local_code": "FAWT",
-      "coordinates": "-24.660091, 30.180422"
+      "coordinates": "-24.660091, 30.180422",
+      "metar_available": false
     },
     {
       "ident": "FAWV",
@@ -3798,7 +4106,8 @@
       "iso_region": "ZA-FS",
       "municipality": "White River",
       "gps_code": "FAWV",
-      "coordinates": "-25.319676, 30.970782"
+      "coordinates": "-25.319676, 30.970782",
+      "metar_available": false
     },
     {
       "ident": "FAYP",
@@ -3810,7 +4119,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
       "gps_code": "FAYP",
-      "coordinates": "-33.90019989013672, 18.498300552368164"
+      "coordinates": "-33.90019989013672, 18.498300552368164",
+      "metar_available": false
     },
     {
       "ident": "FAZP",
@@ -3822,7 +4132,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Mazeppa Bay",
       "gps_code": "FAZP",
-      "coordinates": "-32.472152, 28.65052"
+      "coordinates": "-32.472152, 28.65052",
+      "metar_available": false
     },
     {
       "ident": "FAZQ",
@@ -3834,7 +4145,8 @@
       "iso_region": "ZA-FS",
       "municipality": "Star",
       "gps_code": "FAZQ",
-      "coordinates": "-26.89310073852539, 27.690000534057617"
+      "coordinates": "-26.89310073852539, 27.690000534057617",
+      "metar_available": false
     },
     {
       "ident": "FAZR",
@@ -3846,7 +4158,8 @@
       "iso_region": "ZA-NW",
       "municipality": "Zeerust",
       "gps_code": "FAZR",
-      "coordinates": "-25.599000930786133, 26.042299270629883"
+      "coordinates": "-25.599000930786133, 26.042299270629883",
+      "metar_available": false
     },
     {
       "ident": "MWR",
@@ -3858,7 +4171,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Motswari Private Game Reserve",
       "iata_code": "MWR",
-      "coordinates": "-24.1903, 31.3864"
+      "coordinates": "-24.1903, 31.3864",
+      "metar_available": false
     },
     {
       "ident": "ZA-0001",
@@ -3869,7 +4183,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Beulah",
-      "coordinates": "-33.905277252197266, 24.95694351196289"
+      "coordinates": "-33.905277252197266, 24.95694351196289",
+      "metar_available": false
     },
     {
       "ident": "ZA-0002",
@@ -3880,7 +4195,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Willowmore",
-      "coordinates": "-33.1966667175293, 23.934667587280273"
+      "coordinates": "-33.1966667175293, 23.934667587280273",
+      "metar_available": false
     },
     {
       "ident": "ZA-0003",
@@ -3889,7 +4205,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
-      "coordinates": "-27.25, 27.549999237060547"
+      "coordinates": "-27.25, 27.549999237060547",
+      "metar_available": false
     },
     {
       "ident": "ZA-0004",
@@ -3900,7 +4217,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Morgan's Bay",
-      "coordinates": "-32.69652, 28.321643"
+      "coordinates": "-32.69652, 28.321643",
+      "metar_available": false
     },
     {
       "ident": "ZA-0005",
@@ -3911,7 +4229,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Tarkastad",
-      "coordinates": "-32.08333206176758, 26.299999237060547"
+      "coordinates": "-32.08333206176758, 26.299999237060547",
+      "metar_available": false
     },
     {
       "ident": "ZA-0006",
@@ -3922,7 +4241,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Brosterlea Farm",
-      "coordinates": "-31.28333282470703, 26.566667556762695"
+      "coordinates": "-31.28333282470703, 26.566667556762695",
+      "metar_available": false
     },
     {
       "ident": "ZA-0007",
@@ -3933,7 +4253,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Alfalfa",
-      "coordinates": "-31.245100021362305, 26.298500061035156"
+      "coordinates": "-31.245100021362305, 26.298500061035156",
+      "metar_available": false
     },
     {
       "ident": "ZA-0008",
@@ -3944,7 +4265,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Venterstad",
-      "coordinates": "-30.775699615478516, 25.787500381469727"
+      "coordinates": "-30.775699615478516, 25.787500381469727",
+      "metar_available": false
     },
     {
       "ident": "ZA-0009",
@@ -3955,7 +4277,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Philippolis",
-      "coordinates": "-30.236791, 25.258439"
+      "coordinates": "-30.236791, 25.258439",
+      "metar_available": false
     },
     {
       "ident": "ZA-0010",
@@ -3966,7 +4289,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Winburg",
-      "coordinates": "-28.73590087890625, 27.231800079345703"
+      "coordinates": "-28.73590087890625, 27.231800079345703",
+      "metar_available": false
     },
     {
       "ident": "ZA-0011",
@@ -3977,7 +4301,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Winnie Mandela (Brandfort)",
-      "coordinates": "-28.690399, 26.420799"
+      "coordinates": "-28.690399, 26.420799",
+      "metar_available": false
     },
     {
       "ident": "ZA-0012",
@@ -3988,7 +4313,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Senekal",
-      "coordinates": "-28.453332901000977, 27.524999618530273"
+      "coordinates": "-28.453332901000977, 27.524999618530273",
+      "metar_available": false
     },
     {
       "ident": "ZA-0013",
@@ -3999,7 +4325,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Phuthadijhaba",
-      "coordinates": "-28.406665802001953, 28.810832977294922"
+      "coordinates": "-28.406665802001953, 28.810832977294922",
+      "metar_available": false
     },
     {
       "ident": "ZA-0014",
@@ -4010,7 +4337,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Sterkfontein Dam",
-      "coordinates": "-28.376800537109375, 29.006200790405273"
+      "coordinates": "-28.376800537109375, 29.006200790405273",
+      "metar_available": false
     },
     {
       "ident": "ZA-0015",
@@ -4021,7 +4349,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Aldam",
-      "coordinates": "-28.268888473510742, 27.161388397216797"
+      "coordinates": "-28.268888473510742, 27.161388397216797",
+      "metar_available": false
     },
     {
       "ident": "ZA-0016",
@@ -4032,7 +4361,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Harrismith",
-      "coordinates": "-28.22361183166504, 29.115833282470703"
+      "coordinates": "-28.22361183166504, 29.115833282470703",
+      "metar_available": false
     },
     {
       "ident": "ZA-0017",
@@ -4043,7 +4373,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Inhoek",
-      "coordinates": "-27.984167098999023, 28.39444351196289"
+      "coordinates": "-27.984167098999023, 28.39444351196289",
+      "metar_available": false
     },
     {
       "ident": "ZA-0018",
@@ -4054,7 +4385,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Hoopstad",
-      "coordinates": "-27.960416793823242, 25.835832595825195"
+      "coordinates": "-27.960416793823242, 25.835832595825195",
+      "metar_available": false
     },
     {
       "ident": "ZA-0019",
@@ -4065,7 +4397,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Kroonstad",
-      "coordinates": "-27.680500030517578, 27.25349998474121"
+      "coordinates": "-27.680500030517578, 27.25349998474121",
+      "metar_available": false
     },
     {
       "ident": "ZA-0020",
@@ -4076,7 +4409,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Anton Fourie",
-      "coordinates": "-27.5, 26.330554962158203"
+      "coordinates": "-27.5, 26.330554962158203",
+      "metar_available": false
     },
     {
       "ident": "ZA-0021",
@@ -4088,7 +4422,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Pretoria",
       "iata_code": "HPR",
-      "coordinates": "-25.65570068359375, 28.220600128173828"
+      "coordinates": "-25.65570068359375, 28.220600128173828",
+      "metar_available": false
     },
     {
       "ident": "ZA-0022",
@@ -4099,7 +4434,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Vijoenskroon",
-      "coordinates": "-27.20133399963379, 26.903499603271484"
+      "coordinates": "-27.20133399963379, 26.903499603271484",
+      "metar_available": false
     },
     {
       "ident": "ZA-0023",
@@ -4110,7 +4446,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Villers",
-      "coordinates": "-27.049999237060547, 28.600000381469727"
+      "coordinates": "-27.049999237060547, 28.600000381469727",
+      "metar_available": false
     },
     {
       "ident": "ZA-0024",
@@ -4121,7 +4458,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Sun Valley",
-      "coordinates": "-26.03333282470703, 27.899999618530273"
+      "coordinates": "-26.03333282470703, 27.899999618530273",
+      "metar_available": false
     },
     {
       "ident": "ZA-0025",
@@ -4132,7 +4470,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Monavoni",
-      "coordinates": "-25.903165817260742, 28.082000732421875"
+      "coordinates": "-25.903165817260742, 28.082000732421875",
+      "metar_available": false
     },
     {
       "ident": "ZA-0026",
@@ -4143,7 +4482,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Hekpoort",
-      "coordinates": "-25.857500076293945, 27.627777099609375"
+      "coordinates": "-25.857500076293945, 27.627777099609375",
+      "metar_available": false
     },
     {
       "ident": "ZA-0027",
@@ -4154,7 +4494,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Bronkhorstspruit",
-      "coordinates": "-25.77138900756836, 28.726943969726562"
+      "coordinates": "-25.77138900756836, 28.726943969726562",
+      "metar_available": false
     },
     {
       "ident": "ZA-0028",
@@ -4165,7 +4506,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Wakkerstroom",
-      "coordinates": "-27.350000381469727, 30.166667938232422"
+      "coordinates": "-27.350000381469727, 30.166667938232422",
+      "metar_available": false
     },
     {
       "ident": "ZA-0029",
@@ -4176,7 +4518,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Amerspoort",
-      "coordinates": "-27.020000457763672, 29.8700008392334"
+      "coordinates": "-27.020000457763672, 29.8700008392334",
+      "metar_available": false
     },
     {
       "ident": "ZA-0030",
@@ -4187,7 +4530,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Grootviei",
-      "coordinates": "-26.816667556762695, 28.46666717529297"
+      "coordinates": "-26.816667556762695, 28.46666717529297",
+      "metar_available": false
     },
     {
       "ident": "ZA-0031",
@@ -4198,7 +4542,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Evander",
-      "coordinates": "-26.489999771118164, 29.079999923706055"
+      "coordinates": "-26.489999771118164, 29.079999923706055",
+      "metar_available": false
     },
     {
       "ident": "ZA-0032",
@@ -4209,7 +4554,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "New Scotland",
-      "coordinates": "-26.299999237060547, 30.733333587646484"
+      "coordinates": "-26.299999237060547, 30.733333587646484",
+      "metar_available": false
     },
     {
       "ident": "ZA-0033",
@@ -4220,7 +4566,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Saint Helen",
-      "coordinates": "-26.24799919128418, 29.71540069580078"
+      "coordinates": "-26.24799919128418, 29.71540069580078",
+      "metar_available": false
     },
     {
       "ident": "ZA-0034",
@@ -4231,7 +4578,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "MIddelburg",
-      "coordinates": "-26.200000762939453, 28.816667556762695"
+      "coordinates": "-26.200000762939453, 28.816667556762695",
+      "metar_available": false
     },
     {
       "ident": "ZA-0035",
@@ -4242,7 +4590,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Reedstream Park",
-      "coordinates": "-26.17569923400879, 29.182199478149414"
+      "coordinates": "-26.17569923400879, 29.182199478149414",
+      "metar_available": false
     },
     {
       "ident": "ZA-0036",
@@ -4253,7 +4602,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Carolina",
-      "coordinates": "-25.950000762939453, 30.116666793823242"
+      "coordinates": "-25.950000762939453, 30.116666793823242",
+      "metar_available": false
     },
     {
       "ident": "ZA-0037",
@@ -4264,7 +4614,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Witbank",
-      "coordinates": "-25.8188991547, 29.221700668300002"
+      "coordinates": "-25.8188991547, 29.221700668300002",
+      "metar_available": false
     },
     {
       "ident": "ZA-0038",
@@ -4275,7 +4626,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Hippo Pools Resort",
-      "coordinates": "-24.199722222200002, 30.8125"
+      "coordinates": "-24.199722222200002, 30.8125",
+      "metar_available": false
     },
     {
       "ident": "ZA-0039",
@@ -4286,7 +4638,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Blackie Swart",
-      "coordinates": "-25.57550048828125, 30.975860595703125"
+      "coordinates": "-25.57550048828125, 30.975860595703125",
+      "metar_available": false
     },
     {
       "ident": "ZA-0040",
@@ -4297,7 +4650,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Lavino",
-      "coordinates": "-24.833334, 30.1"
+      "coordinates": "-24.833334, 30.1",
+      "metar_available": false
     },
     {
       "ident": "ZA-0041",
@@ -4308,7 +4662,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Sparta",
-      "coordinates": "-24.808094, 31.504564"
+      "coordinates": "-24.808094, 31.504564",
+      "metar_available": false
     },
     {
       "ident": "ZA-0042",
@@ -4319,7 +4674,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Colesberg",
-      "coordinates": "-30.580979, 25.263259"
+      "coordinates": "-30.580979, 25.263259",
+      "metar_available": false
     },
     {
       "ident": "ZA-0043",
@@ -4330,7 +4686,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Boluispan",
-      "coordinates": "-29.850276947021484, 18.96555519104004"
+      "coordinates": "-29.850276947021484, 18.96555519104004",
+      "metar_available": false
     },
     {
       "ident": "ZA-0044",
@@ -4341,7 +4698,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Maselsfontein",
-      "coordinates": "-29.139166, 23.648333"
+      "coordinates": "-29.139166, 23.648333",
+      "metar_available": false
     },
     {
       "ident": "ZA-0045",
@@ -4352,7 +4710,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Kimberley",
-      "coordinates": "-28.733333587646484, 24.66666603088379"
+      "coordinates": "-28.733333587646484, 24.66666603088379",
+      "metar_available": false
     },
     {
       "ident": "ZA-0046",
@@ -4363,7 +4722,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Schmidtsdrif",
-      "coordinates": "-28.66666603088379, 24.03333282470703"
+      "coordinates": "-28.66666603088379, 24.03333282470703",
+      "metar_available": false
     },
     {
       "ident": "ZA-0047",
@@ -4374,7 +4734,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Augrabies",
-      "coordinates": "-28.627087, 20.324893"
+      "coordinates": "-28.627087, 20.324893",
+      "metar_available": false
     },
     {
       "ident": "ZA-0048",
@@ -4385,7 +4746,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Barkly West",
-      "coordinates": "-28.532047, 24.537843"
+      "coordinates": "-28.532047, 24.537843",
+      "metar_available": false
     },
     {
       "ident": "ZA-0049",
@@ -4396,7 +4758,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Drifsand",
-      "coordinates": "-28.409250259399414, 16.779722213745117"
+      "coordinates": "-28.409250259399414, 16.779722213745117",
+      "metar_available": false
     },
     {
       "ident": "ZA-0050",
@@ -4407,7 +4770,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Warrenton",
-      "coordinates": "-28.122192, 24.868813"
+      "coordinates": "-28.122192, 24.868813",
+      "metar_available": false
     },
     {
       "ident": "ZA-0051",
@@ -4418,7 +4782,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Witputs",
-      "coordinates": "-28.104999542236328, 24.378334045410156"
+      "coordinates": "-28.104999542236328, 24.378334045410156",
+      "metar_available": false
     },
     {
       "ident": "ZA-0052",
@@ -4429,7 +4794,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Lohatlha",
-      "coordinates": "-28.032222747802734, 23.202777862548828"
+      "coordinates": "-28.032222747802734, 23.202777862548828",
+      "metar_available": false
     },
     {
       "ident": "ZA-0053",
@@ -4440,7 +4806,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Ganspan",
-      "coordinates": "-27.941667556762695, 24.81999969482422"
+      "coordinates": "-27.941667556762695, 24.81999969482422",
+      "metar_available": false
     },
     {
       "ident": "ZA-0054",
@@ -4452,7 +4819,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Askham",
       "gps_code": "FAAK",
-      "coordinates": "-26.9869441986, 20.7772216797"
+      "coordinates": "-26.9869441986, 20.7772216797",
+      "metar_available": false
     },
     {
       "ident": "ZA-0055",
@@ -4463,7 +4831,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Barrange",
-      "coordinates": "-26.125, 22.61888885498047"
+      "coordinates": "-26.125, 22.61888885498047",
+      "metar_available": false
     },
     {
       "ident": "ZA-0056",
@@ -4474,7 +4843,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Umzinto",
-      "coordinates": "-30.28569984436035, 30.65690040588379"
+      "coordinates": "-30.28569984436035, 30.65690040588379",
+      "metar_available": false
     },
     {
       "ident": "ZA-0057",
@@ -4485,7 +4855,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Swartberg",
-      "coordinates": "-30.27199935913086, 29.39739990234375"
+      "coordinates": "-30.27199935913086, 29.39739990234375",
+      "metar_available": false
     },
     {
       "ident": "ZA-0058",
@@ -4496,7 +4867,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Mpumalanga",
-      "coordinates": "-29.779722213745117, 30.718334197998047"
+      "coordinates": "-29.779722213745117, 30.718334197998047",
+      "metar_available": false
     },
     {
       "ident": "ZA-0059",
@@ -4507,7 +4879,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Atherstone",
-      "coordinates": "-29.761667251586914, 30.3397216796875"
+      "coordinates": "-29.761667251586914, 30.3397216796875",
+      "metar_available": false
     },
     {
       "ident": "ZA-0060",
@@ -4518,7 +4891,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Ballito Bay",
-      "coordinates": "-29.488899, 31.179001"
+      "coordinates": "-29.488899, 31.179001",
+      "metar_available": false
     },
     {
       "ident": "ZA-0061",
@@ -4529,7 +4903,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "York",
-      "coordinates": "-29.354900360107422, 30.4281005859375"
+      "coordinates": "-29.354900360107422, 30.4281005859375",
+      "metar_available": false
     },
     {
       "ident": "ZA-0062",
@@ -4540,7 +4915,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Amatikulu",
-      "coordinates": "-29.098167419433594, 31.5049991607666"
+      "coordinates": "-29.098167419433594, 31.5049991607666",
+      "metar_available": false
     },
     {
       "ident": "ZA-0063",
@@ -4551,7 +4927,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Ethels Drive",
-      "coordinates": "-28.639941, 29.147501"
+      "coordinates": "-28.639941, 29.147501",
+      "metar_available": false
     },
     {
       "ident": "ZA-0064",
@@ -4562,7 +4939,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Riverview",
-      "coordinates": "-28.433332443237305, 32.150001525878906"
+      "coordinates": "-28.433332443237305, 32.150001525878906",
+      "metar_available": false
     },
     {
       "ident": "ZA-0065",
@@ -4573,7 +4951,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "St Lucía",
-      "coordinates": "-28.350000381469727, 32.41666793823242"
+      "coordinates": "-28.350000381469727, 32.41666793823242",
+      "metar_available": false
     },
     {
       "ident": "ZA-0066",
@@ -4584,7 +4963,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Dundee",
-      "coordinates": "-28.131526947021484, 30.290416717529297"
+      "coordinates": "-28.131526947021484, 30.290416717529297",
+      "metar_available": false
     },
     {
       "ident": "ZA-0067",
@@ -4595,7 +4975,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Jozini",
-      "coordinates": "-27.350000381469727, 32.13333511352539"
+      "coordinates": "-27.350000381469727, 32.13333511352539",
+      "metar_available": false
     },
     {
       "ident": "ZA-0068",
@@ -4606,7 +4987,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Bonwa Phala",
-      "coordinates": "-24.886667251586914, 28.047222137451172"
+      "coordinates": "-24.886667251586914, 28.047222137451172",
+      "metar_available": false
     },
     {
       "ident": "ZA-0069",
@@ -4617,7 +4999,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Malelane",
-      "coordinates": "-25.43, 31.5767"
+      "coordinates": "-25.43, 31.5767",
+      "metar_available": false
     },
     {
       "ident": "ZA-0070",
@@ -4628,7 +5011,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Batavia",
-      "coordinates": "-24.668333053588867, 26.536666870117188"
+      "coordinates": "-24.668333053588867, 26.536666870117188",
+      "metar_available": false
     },
     {
       "ident": "ZA-0071",
@@ -4639,7 +5023,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Blyde Canyon",
-      "coordinates": "-24.57088, 30.77329"
+      "coordinates": "-24.57088, 30.77329",
+      "metar_available": false
     },
     {
       "ident": "ZA-0072",
@@ -4652,7 +5037,8 @@
       "municipality": "Timbavati",
       "gps_code": "FATD",
       "iata_code": "TDT",
-      "coordinates": "-24.525533, 31.289748"
+      "coordinates": "-24.525533, 31.289748",
+      "metar_available": false
     },
     {
       "ident": "ZA-0073",
@@ -4663,7 +5049,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Nederland",
-      "coordinates": "-24.299759, 31.288934"
+      "coordinates": "-24.299759, 31.288934",
+      "metar_available": false
     },
     {
       "ident": "ZA-0074",
@@ -4674,7 +5061,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
-      "coordinates": "-24.108055114746094, 30.90916633605957"
+      "coordinates": "-24.108055114746094, 30.90916633605957",
+      "metar_available": false
     },
     {
       "ident": "ZA-0075",
@@ -4685,7 +5073,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
-      "coordinates": "-24.086666107177734, 30.843889236450195"
+      "coordinates": "-24.086666107177734, 30.843889236450195",
+      "metar_available": false
     },
     {
       "ident": "ZA-0076",
@@ -4696,7 +5085,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Polokwane",
-      "coordinates": "-24.041000366210938, 29.27589988708496"
+      "coordinates": "-24.041000366210938, 29.27589988708496",
+      "metar_available": false
     },
     {
       "ident": "ZA-0077",
@@ -4707,7 +5097,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Fahad Game Reserve",
-      "coordinates": "-23.328611373901367, 27.60961151123047"
+      "coordinates": "-23.328611373901367, 27.60961151123047",
+      "metar_available": false
     },
     {
       "ident": "ZA-0078",
@@ -4718,7 +5109,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Baltimore",
-      "coordinates": "-23.257788, 28.408928"
+      "coordinates": "-23.257788, 28.408928",
+      "metar_available": false
     },
     {
       "ident": "ZA-0079",
@@ -4729,7 +5121,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Waterpoort",
-      "coordinates": "-22.917943954467773, 29.457834243774414"
+      "coordinates": "-22.917943954467773, 29.457834243774414",
+      "metar_available": false
     },
     {
       "ident": "ZA-0080",
@@ -4740,7 +5133,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Swartwater",
-      "coordinates": "-22.840999603271484, 28.20870018005371"
+      "coordinates": "-22.840999603271484, 28.20870018005371",
+      "metar_available": false
     },
     {
       "ident": "ZA-0081",
@@ -4751,7 +5145,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Alldays",
-      "coordinates": "-22.80380630493164, 28.995750427246094"
+      "coordinates": "-22.80380630493164, 28.995750427246094",
+      "metar_available": false
     },
     {
       "ident": "ZA-0082",
@@ -4762,7 +5157,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Alldays",
-      "coordinates": "-22.667200088500977, 29.315200805664062"
+      "coordinates": "-22.667200088500977, 29.315200805664062",
+      "metar_available": false
     },
     {
       "ident": "ZA-0083",
@@ -4773,7 +5169,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Mopane",
-      "coordinates": "-22.579599380493164, 29.968900680541992"
+      "coordinates": "-22.579599380493164, 29.968900680541992",
+      "metar_available": false
     },
     {
       "ident": "ZA-0084",
@@ -4784,7 +5181,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bospoort",
-      "coordinates": "-26.595556, 26.229221"
+      "coordinates": "-26.595556, 26.229221",
+      "metar_available": false
     },
     {
       "ident": "ZA-0085",
@@ -4795,7 +5193,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Mafeking",
-      "coordinates": "-25.792057037353516, 25.61103057861328"
+      "coordinates": "-25.792057037353516, 25.61103057861328",
+      "metar_available": false
     },
     {
       "ident": "ZA-0086",
@@ -4806,7 +5205,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Brits",
-      "coordinates": "-25.726667404174805, 27.739721298217773"
+      "coordinates": "-25.726667404174805, 27.739721298217773",
+      "metar_available": false
     },
     {
       "ident": "ZA-0087",
@@ -4817,7 +5217,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Mathase",
-      "coordinates": "-25.53333282470703, 25.733333587646484"
+      "coordinates": "-25.53333282470703, 25.733333587646484",
+      "metar_available": false
     },
     {
       "ident": "ZA-0088",
@@ -4828,7 +5229,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Massikier",
-      "coordinates": "-25.299999237060547, 27.53333282470703"
+      "coordinates": "-25.299999237060547, 27.53333282470703",
+      "metar_available": false
     },
     {
       "ident": "ZA-0089",
@@ -4839,7 +5241,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Nkwedumang",
-      "coordinates": "-25.246200561523438, 25.881900787353516"
+      "coordinates": "-25.246200561523438, 25.881900787353516",
+      "metar_available": false
     },
     {
       "ident": "ZA-0090",
@@ -4850,7 +5253,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Vanwyksdorp",
-      "coordinates": "-33.760250091552734, 21.547222137451172"
+      "coordinates": "-33.760250091552734, 21.547222137451172",
+      "metar_available": false
     },
     {
       "ident": "ZA-0091",
@@ -4861,7 +5265,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Philadelphia",
-      "coordinates": "-33.707637786865234, 18.646249771118164"
+      "coordinates": "-33.707637786865234, 18.646249771118164",
+      "metar_available": false
     },
     {
       "ident": "ZA-0092",
@@ -4872,7 +5277,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Viermuisklip",
-      "coordinates": "-31.566667556762695, 18.383333206176758"
+      "coordinates": "-31.566667556762695, 18.383333206176758",
+      "metar_available": false
     },
     {
       "ident": "ZA-0093",
@@ -4883,7 +5289,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Britstown",
-      "coordinates": "-30.58333396911621, 23.516666412353516"
+      "coordinates": "-30.58333396911621, 23.516666412353516",
+      "metar_available": false
     },
     {
       "ident": "ZA-0094",
@@ -4895,7 +5302,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Hazyview",
       "iata_code": "HZV",
-      "coordinates": "-25.050100326538086, 31.131900787353516"
+      "coordinates": "-25.050100326538086, 31.131900787353516",
+      "metar_available": false
     },
     {
       "ident": "ZA-0095",
@@ -4907,7 +5315,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Khoka Moya",
       "iata_code": "KHO",
-      "coordinates": "-24.593000411987305, 31.41510009765625"
+      "coordinates": "-24.593000411987305, 31.41510009765625",
+      "metar_available": false
     },
     {
       "ident": "ZA-0096",
@@ -4919,7 +5328,8 @@
       "iso_region": "ZA-EC",
       "municipality": "Mkambati",
       "iata_code": "MBM",
-      "coordinates": "-31.2849, 29.9884"
+      "coordinates": "-31.2849, 29.9884",
+      "metar_available": false
     },
     {
       "ident": "ZA-0097",
@@ -4931,7 +5341,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Inyati",
       "iata_code": "INY",
-      "coordinates": "-24.777700424194336, 31.385499954223633"
+      "coordinates": "-24.777700424194336, 31.385499954223633",
+      "metar_available": false
     },
     {
       "ident": "ZA-0098",
@@ -4943,7 +5354,8 @@
       "iso_region": "ZA-NP",
       "municipality": "Tshipise",
       "iata_code": "TSD",
-      "coordinates": "-22.619300842285156, 30.175600051879883"
+      "coordinates": "-22.619300842285156, 30.175600051879883",
+      "metar_available": false
     },
     {
       "ident": "ZA-0099",
@@ -4952,7 +5364,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
-      "coordinates": "-26.570999145507812, 30.243000030517578"
+      "coordinates": "-26.570999145507812, 30.243000030517578",
+      "metar_available": false
     },
     {
       "ident": "ZA-0100",
@@ -4963,7 +5376,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Bapsfontein",
-      "coordinates": "-25.99188889, 28.41583333"
+      "coordinates": "-25.99188889, 28.41583333",
+      "metar_available": false
     },
     {
       "ident": "ZA-0101",
@@ -4972,7 +5386,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
-      "coordinates": "-25.58867835998535, 30.622364044189453"
+      "coordinates": "-25.58867835998535, 30.622364044189453",
+      "metar_available": false
     },
     {
       "ident": "ZA-0103",
@@ -4983,7 +5398,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Bredasdorp",
-      "coordinates": "-34.665, 20.0628"
+      "coordinates": "-34.665, 20.0628",
+      "metar_available": false
     },
     {
       "ident": "ZA-0104",
@@ -4994,7 +5410,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Kagga Kamma Private Game Reserve",
-      "coordinates": "-32.732359, 19.540073"
+      "coordinates": "-32.732359, 19.540073",
+      "metar_available": false
     },
     {
       "ident": "ZA-0105",
@@ -5005,7 +5422,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "gps_code": "FAAP",
-      "coordinates": "-25.69389, 27.782507"
+      "coordinates": "-25.69389, 27.782507",
+      "metar_available": false
     },
     {
       "ident": "ZA-0106",
@@ -5016,7 +5434,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Witbank",
-      "coordinates": "-25.8188991547, 29.221700668300002"
+      "coordinates": "-25.8188991547, 29.221700668300002",
+      "metar_available": false
     },
     {
       "ident": "ZA-0107",
@@ -5026,7 +5445,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
-      "coordinates": "-33.800404, 18.363733"
+      "coordinates": "-33.800404, 18.363733",
+      "metar_available": false
     },
     {
       "ident": "ZA-0108",
@@ -5037,7 +5457,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Bethal",
-      "coordinates": "-26.480902, 29.466671"
+      "coordinates": "-26.480902, 29.466671",
+      "metar_available": false
     },
     {
       "ident": "ZA-0109",
@@ -5048,7 +5469,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bloemhof",
-      "coordinates": "-27.6094, 25.5794"
+      "coordinates": "-27.6094, 25.5794",
+      "metar_available": false
     },
     {
       "ident": "ZA-0110",
@@ -5060,7 +5482,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Alberton",
       "local_code": "PAN",
-      "coordinates": "-26.329316, 28.068469"
+      "coordinates": "-26.329316, 28.068469",
+      "metar_available": false
     },
     {
       "ident": "ZA-0111",
@@ -5070,7 +5493,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
-      "coordinates": "-24.995, 30.403333333299997"
+      "coordinates": "-24.995, 30.403333333299997",
+      "metar_available": false
     },
     {
       "ident": "ZA-0112",
@@ -5080,7 +5504,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
-      "coordinates": "-25.9711496926, 28.3502766059"
+      "coordinates": "-25.9711496926, 28.3502766059",
+      "metar_available": false
     },
     {
       "ident": "ZA-0113",
@@ -5091,7 +5516,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Sunset Shores",
-      "coordinates": "-26.851201, 28.198428"
+      "coordinates": "-26.851201, 28.198428",
+      "metar_available": false
     },
     {
       "ident": "ZA-0114",
@@ -5102,7 +5528,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Bela-Bela",
-      "coordinates": "-24.7567, 27.9691"
+      "coordinates": "-24.7567, 27.9691",
+      "metar_available": false
     },
     {
       "ident": "ZA-0115",
@@ -5112,7 +5539,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Knysna",
-      "coordinates": "-33.950756, 22.979482"
+      "coordinates": "-33.950756, 22.979482",
+      "metar_available": false
     },
     {
       "ident": "ZA-0116",
@@ -5122,7 +5550,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Nelson Mandela Bay",
-      "coordinates": "-33.391911, 26.346392"
+      "coordinates": "-33.391911, 26.346392",
+      "metar_available": false
     },
     {
       "ident": "ZA-0117",
@@ -5132,7 +5561,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Nelson Mandela Bay",
-      "coordinates": "-33.387799, 26.410595"
+      "coordinates": "-33.387799, 26.410595",
+      "metar_available": false
     },
     {
       "ident": "ZA-0118",
@@ -5142,7 +5572,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Cape Town",
-      "coordinates": "-34.206585, 18.427413"
+      "coordinates": "-34.206585, 18.427413",
+      "metar_available": false
     },
     {
       "ident": "ZA-0119",
@@ -5153,7 +5584,8 @@
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
       "gps_code": "FADW",
-      "coordinates": "-33.901018, 18.425936"
+      "coordinates": "-33.901018, 18.425936",
+      "metar_available": false
     },
     {
       "ident": "ZA-0120",
@@ -5164,7 +5596,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
-      "coordinates": "-33.758944, 18.548195"
+      "coordinates": "-33.758944, 18.548195",
+      "metar_available": false
     },
     {
       "ident": "ZA-0121",
@@ -5175,7 +5608,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Glenmore Beach",
-      "coordinates": "-31.0033, 30.2487"
+      "coordinates": "-31.0033, 30.2487",
+      "metar_available": false
     },
     {
       "ident": "ZA-0122",
@@ -5186,7 +5620,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Sendelingsdrif",
-      "coordinates": "-28.1081, 16.8936"
+      "coordinates": "-28.1081, 16.8936",
+      "metar_available": false
     },
     {
       "ident": "ZA-0123",
@@ -5197,7 +5632,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Vanrhynsdorp",
-      "coordinates": "-31.5943, 18.7468"
+      "coordinates": "-31.5943, 18.7468",
+      "metar_available": false
     },
     {
       "ident": "ZA-0124",
@@ -5208,7 +5644,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Doringbaai",
-      "coordinates": "-31.8057, 18.2384"
+      "coordinates": "-31.8057, 18.2384",
+      "metar_available": false
     },
     {
       "ident": "ZA-0125",
@@ -5219,7 +5656,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Papendorp",
-      "coordinates": "-31.6736, 18.1737"
+      "coordinates": "-31.6736, 18.1737",
+      "metar_available": false
     },
     {
       "ident": "ZA-0126",
@@ -5230,7 +5668,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Nuwerus",
-      "coordinates": "-31.1227, 18.6095"
+      "coordinates": "-31.1227, 18.6095",
+      "metar_available": false
     },
     {
       "ident": "ZA-0127",
@@ -5241,7 +5680,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Skaapvlei",
-      "coordinates": "-31.499668, 18.064399"
+      "coordinates": "-31.499668, 18.064399",
+      "metar_available": false
     },
     {
       "ident": "ZA-0128",
@@ -5252,7 +5692,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Garies",
-      "coordinates": "-30.6075, 17.9039"
+      "coordinates": "-30.6075, 17.9039",
+      "metar_available": false
     },
     {
       "ident": "ZA-0129",
@@ -5263,7 +5704,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Hondeklip Bay",
-      "coordinates": "-30.3366, 17.2896"
+      "coordinates": "-30.3366, 17.2896",
+      "metar_available": false
     },
     {
       "ident": "ZA-0130",
@@ -5274,7 +5716,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Gamoep",
-      "coordinates": "-29.9214, 18.4237"
+      "coordinates": "-29.9214, 18.4237",
+      "metar_available": false
     },
     {
       "ident": "ZA-0131",
@@ -5285,7 +5728,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Nababeep",
-      "coordinates": "-29.524, 17.781"
+      "coordinates": "-29.524, 17.781",
+      "metar_available": false
     },
     {
       "ident": "ZA-0132",
@@ -5296,7 +5740,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Buffelsbank",
-      "coordinates": "-29.6265, 17.4522"
+      "coordinates": "-29.6265, 17.4522",
+      "metar_available": false
     },
     {
       "ident": "ZA-0133",
@@ -5307,7 +5752,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Spektakel",
-      "coordinates": "-29.6678, 17.6008"
+      "coordinates": "-29.6678, 17.6008",
+      "metar_available": false
     },
     {
       "ident": "ZA-0134",
@@ -5318,7 +5764,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Annakop",
-      "coordinates": "-29.1057, 19.0791"
+      "coordinates": "-29.1057, 19.0791",
+      "metar_available": false
     },
     {
       "ident": "ZA-0135",
@@ -5329,7 +5776,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Nossob Rest Camp",
-      "coordinates": "-25.4316, 20.5975"
+      "coordinates": "-25.4316, 20.5975",
+      "metar_available": false
     },
     {
       "ident": "ZA-0136",
@@ -5340,7 +5788,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bray",
-      "coordinates": "-25.4681, 23.6971"
+      "coordinates": "-25.4681, 23.6971",
+      "metar_available": false
     },
     {
       "ident": "ZA-0137",
@@ -5351,7 +5800,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Mooi River",
-      "coordinates": "-29.1944, 30.0149"
+      "coordinates": "-29.1944, 30.0149",
+      "metar_available": false
     },
     {
       "ident": "ZA-0138",
@@ -5364,7 +5814,8 @@
       "municipality": "Singita Safari Lodge",
       "gps_code": "FASP",
       "iata_code": "SSX",
-      "coordinates": "-24.801985, 31.42194"
+      "coordinates": "-24.801985, 31.42194",
+      "metar_available": false
     },
     {
       "ident": "ZA-0139",
@@ -5374,7 +5825,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Tosca",
-      "coordinates": "-25.875702, 23.962922"
+      "coordinates": "-25.875702, 23.962922",
+      "metar_available": false
     },
     {
       "ident": "ZA-0140",
@@ -5384,7 +5836,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Kuruman",
-      "coordinates": "-27.459904, 23.443762"
+      "coordinates": "-27.459904, 23.443762",
+      "metar_available": false
     },
     {
       "ident": "ZA-0141",
@@ -5394,7 +5847,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Groblershoop",
-      "coordinates": "-28.912138, 21.992947"
+      "coordinates": "-28.912138, 21.992947",
+      "metar_available": false
     },
     {
       "ident": "ZA-0142",
@@ -5404,7 +5858,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Hopetown",
-      "coordinates": "-29.630074, 24.095224"
+      "coordinates": "-29.630074, 24.095224",
+      "metar_available": false
     },
     {
       "ident": "ZA-0143",
@@ -5414,7 +5869,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Orania",
-      "coordinates": "-29.816521, 24.394959"
+      "coordinates": "-29.816521, 24.394959",
+      "metar_available": false
     },
     {
       "ident": "ZA-0144",
@@ -5424,7 +5880,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Luckhof",
-      "coordinates": "-29.737988, 24.780042"
+      "coordinates": "-29.737988, 24.780042",
+      "metar_available": false
     },
     {
       "ident": "ZA-0145",
@@ -5434,7 +5891,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Jacobsdal",
-      "coordinates": "-29.11701, 24.785856"
+      "coordinates": "-29.11701, 24.785856",
+      "metar_available": false
     },
     {
       "ident": "ZA-0146",
@@ -5444,7 +5902,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Griekwastad",
-      "coordinates": "-28.832734, 23.27354"
+      "coordinates": "-28.832734, 23.27354",
+      "metar_available": false
     },
     {
       "ident": "ZA-0147",
@@ -5454,7 +5913,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Lady Grey",
-      "coordinates": "-30.706581, 27.208231"
+      "coordinates": "-30.706581, 27.208231",
+      "metar_available": false
     },
     {
       "ident": "ZA-0148",
@@ -5464,7 +5924,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Hanover",
-      "coordinates": "-31.075719, 24.452623"
+      "coordinates": "-31.075719, 24.452623",
+      "metar_available": false
     },
     {
       "ident": "ZA-0149",
@@ -5474,7 +5935,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Vosburg",
-      "coordinates": "-30.588342, 22.894196"
+      "coordinates": "-30.588342, 22.894196",
+      "metar_available": false
     },
     {
       "ident": "ZA-0150",
@@ -5484,7 +5946,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Van Zylsrus",
-      "coordinates": "-26.887344, 22.06304"
+      "coordinates": "-26.887344, 22.06304",
+      "metar_available": false
     },
     {
       "ident": "ZA-0151",
@@ -5495,7 +5958,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Deneysville",
-      "coordinates": "-26.866842, 28.072443"
+      "coordinates": "-26.866842, 28.072443",
+      "metar_available": false
     },
     {
       "ident": "ZA-0152",
@@ -5506,7 +5970,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Deneysville",
-      "coordinates": "-26.922516, 28.165097"
+      "coordinates": "-26.922516, 28.165097",
+      "metar_available": false
     },
     {
       "ident": "ZA-0153",
@@ -5516,7 +5981,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
-      "coordinates": "-34.433548, 20.722225"
+      "coordinates": "-34.433548, 20.722225",
+      "metar_available": false
     },
     {
       "ident": "ZA-0154",
@@ -5526,7 +5992,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Shingwedzi",
-      "coordinates": "-23.114988, 31.427508"
+      "coordinates": "-23.114988, 31.427508",
+      "metar_available": false
     },
     {
       "ident": "ZA-0155",
@@ -5535,7 +6002,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
-      "coordinates": "-23.833534, 31.570522"
+      "coordinates": "-23.833534, 31.570522",
+      "metar_available": false
     },
     {
       "ident": "ZA-0156",
@@ -5545,7 +6013,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Pafuri",
-      "coordinates": "-22.415096, 31.213011"
+      "coordinates": "-22.415096, 31.213011",
+      "metar_available": false
     },
     {
       "ident": "ZA-0157",
@@ -5555,7 +6024,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Mutele",
-      "coordinates": "-22.507196, 30.891882"
+      "coordinates": "-22.507196, 30.891882",
+      "metar_available": false
     },
     {
       "ident": "ZA-0158",
@@ -5566,7 +6036,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "George",
-      "coordinates": "-33.975, 22.418302"
+      "coordinates": "-33.975, 22.418302",
+      "metar_available": false
     },
     {
       "ident": "ZA-0159",
@@ -5577,7 +6048,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Carnarvon",
-      "coordinates": "-30.6938, 21.4608"
+      "coordinates": "-30.6938, 21.4608",
+      "metar_available": false
     },
     {
       "ident": "ZA-0160",
@@ -5588,7 +6060,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Kayser's Beach",
-      "coordinates": "-33.21, 27.572"
+      "coordinates": "-33.21, 27.572",
+      "metar_available": false
     },
     {
       "ident": "ZA-0161",
@@ -5599,7 +6072,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Midvaal",
-      "coordinates": "-26.475684, 28.111032"
+      "coordinates": "-26.475684, 28.111032",
+      "metar_available": false
     },
     {
       "ident": "ZA-0162",
@@ -5610,7 +6084,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Bergville",
-      "coordinates": "-28.711116, 29.331242"
+      "coordinates": "-28.711116, 29.331242",
+      "metar_available": false
     },
     {
       "ident": "ZA-0163",
@@ -5621,7 +6096,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Upington",
-      "coordinates": "-28.421977, 22.200966"
+      "coordinates": "-28.421977, 22.200966",
+      "metar_available": false
     },
     {
       "ident": "ZA-0164",
@@ -5632,7 +6108,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Jeffreys Bay",
-      "coordinates": "-33.969025, 24.939802"
+      "coordinates": "-33.969025, 24.939802",
+      "metar_available": false
     },
     {
       "ident": "ZA-0165",
@@ -5642,7 +6119,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Manzengwenya",
-      "coordinates": "-27.25942, 32.7522"
+      "coordinates": "-27.25942, 32.7522",
+      "metar_available": false
     },
     {
       "ident": "ZA-0166",
@@ -5652,7 +6130,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Sodwana Bay",
-      "coordinates": "-27.56774, 32.65322"
+      "coordinates": "-27.56774, 32.65322",
+      "metar_available": false
     },
     {
       "ident": "ZA-0167",
@@ -5662,7 +6141,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "uMhlanga",
-      "coordinates": "-29.72751, 31.06868"
+      "coordinates": "-29.72751, 31.06868",
+      "metar_available": false
     },
     {
       "ident": "ZA-0168",
@@ -5672,7 +6152,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Durban North",
-      "coordinates": "-29.74968, 31.02946"
+      "coordinates": "-29.74968, 31.02946",
+      "metar_available": false
     },
     {
       "ident": "ZA-0169",
@@ -5683,7 +6164,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Herbstfontein",
-      "coordinates": "-26.9457, 28.7136"
+      "coordinates": "-26.9457, 28.7136",
+      "metar_available": false
     },
     {
       "ident": "ZA-0170",
@@ -5693,7 +6175,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Durban",
-      "coordinates": "-29.82198, 30.98905"
+      "coordinates": "-29.82198, 30.98905",
+      "metar_available": false
     },
     {
       "ident": "ZA-0171",
@@ -5703,7 +6186,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Westville",
-      "coordinates": "-29.85098, 30.93211"
+      "coordinates": "-29.85098, 30.93211",
+      "metar_available": false
     },
     {
       "ident": "ZA-0172",
@@ -5713,7 +6197,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Durban",
-      "coordinates": "-29.85551, 30.98743"
+      "coordinates": "-29.85551, 30.98743",
+      "metar_available": false
     },
     {
       "ident": "ZA-0173",
@@ -5723,7 +6208,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Durban",
-      "coordinates": "-29.87386, 30.95876"
+      "coordinates": "-29.87386, 30.95876",
+      "metar_available": false
     },
     {
       "ident": "ZA-0174",
@@ -5733,7 +6219,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Durban",
-      "coordinates": "-29.8822, 30.98953"
+      "coordinates": "-29.8822, 30.98953",
+      "metar_available": false
     },
     {
       "ident": "ZA-0175",
@@ -5743,7 +6230,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Bluff",
-      "coordinates": "-29.9329, 30.98915"
+      "coordinates": "-29.9329, 30.98915",
+      "metar_available": false
     },
     {
       "ident": "ZA-0176",
@@ -5753,7 +6241,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Scottburgh",
-      "coordinates": "-30.30557, 30.736022"
+      "coordinates": "-30.30557, 30.736022",
+      "metar_available": false
     },
     {
       "ident": "ZA-0177",
@@ -5763,7 +6252,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Port Shepstone",
-      "coordinates": "-30.773168, 30.423876"
+      "coordinates": "-30.773168, 30.423876",
+      "metar_available": false
     },
     {
       "ident": "ZA-0178",
@@ -5773,7 +6263,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Port Grosvenor",
-      "coordinates": "-31.371355, 29.911104"
+      "coordinates": "-31.371355, 29.911104",
+      "metar_available": false
     },
     {
       "ident": "ZA-0179",
@@ -5783,7 +6274,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Mbhashe",
-      "coordinates": "-32.242606, 28.910072"
+      "coordinates": "-32.242606, 28.910072",
+      "metar_available": false
     },
     {
       "ident": "ZA-0180",
@@ -5793,7 +6285,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Kwelega",
-      "coordinates": "-32.9019, 28.0491"
+      "coordinates": "-32.9019, 28.0491",
+      "metar_available": false
     },
     {
       "ident": "ZA-0181",
@@ -5803,7 +6296,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Kwelega",
-      "coordinates": "-32.905791, 28.039851"
+      "coordinates": "-32.905791, 28.039851",
+      "metar_available": false
     },
     {
       "ident": "ZA-0182",
@@ -5813,7 +6307,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "East London",
-      "coordinates": "-32.8248, 27.83568"
+      "coordinates": "-32.8248, 27.83568",
+      "metar_available": false
     },
     {
       "ident": "ZA-0183",
@@ -5823,7 +6318,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Haga Haga",
-      "coordinates": "-32.74585, 28.22815"
+      "coordinates": "-32.74585, 28.22815",
+      "metar_available": false
     },
     {
       "ident": "ZA-0184",
@@ -5833,7 +6329,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Haga Haga",
-      "coordinates": "-32.75634, 28.23044"
+      "coordinates": "-32.75634, 28.23044",
+      "metar_available": false
     },
     {
       "ident": "ZA-0185",
@@ -5843,7 +6340,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Gqeberha (Port Elizabeth)",
-      "coordinates": "-34.0011, 25.3518"
+      "coordinates": "-34.0011, 25.3518",
+      "metar_available": false
     },
     {
       "ident": "ZA-0186",
@@ -5853,7 +6351,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Keurboomstrand",
-      "coordinates": "-34.0114, 23.3992"
+      "coordinates": "-34.0114, 23.3992",
+      "metar_available": false
     },
     {
       "ident": "ZA-0187",
@@ -5863,7 +6362,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "KwaNokuthula",
-      "coordinates": "-34.0473, 23.3033"
+      "coordinates": "-34.0473, 23.3033",
+      "metar_available": false
     },
     {
       "ident": "ZA-0188",
@@ -5873,7 +6373,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "KwaNokuthula",
-      "coordinates": "-34.0293, 23.2907"
+      "coordinates": "-34.0293, 23.2907",
+      "metar_available": false
     },
     {
       "ident": "ZA-0189",
@@ -5883,7 +6384,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "George",
-      "coordinates": "-33.939568, 22.66619"
+      "coordinates": "-33.939568, 22.66619",
+      "metar_available": false
     },
     {
       "ident": "ZA-0190",
@@ -5893,7 +6395,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Knysna",
-      "coordinates": "-34.053237, 23.066045"
+      "coordinates": "-34.053237, 23.066045",
+      "metar_available": false
     },
     {
       "ident": "ZA-0191",
@@ -5903,7 +6406,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Still Bay",
-      "coordinates": "-34.3956, 21.4017"
+      "coordinates": "-34.3956, 21.4017",
+      "metar_available": false
     },
     {
       "ident": "ZA-0192",
@@ -5913,7 +6417,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Pearly Beach",
-      "coordinates": "-34.6301, 19.4758"
+      "coordinates": "-34.6301, 19.4758",
+      "metar_available": false
     },
     {
       "ident": "ZA-0193",
@@ -5923,7 +6428,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
-      "coordinates": "-33.803255, 18.366981"
+      "coordinates": "-33.803255, 18.366981",
+      "metar_available": false
     },
     {
       "ident": "ZA-0194",
@@ -5933,7 +6439,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
-      "coordinates": "-33.90696, 18.53043"
+      "coordinates": "-33.90696, 18.53043",
+      "metar_available": false
     },
     {
       "ident": "ZA-0195",
@@ -5943,7 +6450,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Cape Town",
-      "coordinates": "-33.8025, 18.5799"
+      "coordinates": "-33.8025, 18.5799",
+      "metar_available": false
     },
     {
       "ident": "ZA-0196",
@@ -5953,7 +6461,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Stompneusbaai",
-      "coordinates": "-32.723, 17.9704"
+      "coordinates": "-32.723, 17.9704",
+      "metar_available": false
     },
     {
       "ident": "ZA-0197",
@@ -5963,7 +6472,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Lambert's Bay",
-      "coordinates": "-32.1018, 18.336"
+      "coordinates": "-32.1018, 18.336",
+      "metar_available": false
     },
     {
       "ident": "ZA-0198",
@@ -5973,7 +6483,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Matzikama",
-      "coordinates": "-31.3567, 17.9214"
+      "coordinates": "-31.3567, 17.9214",
+      "metar_available": false
     },
     {
       "ident": "ZA-0199",
@@ -5983,7 +6494,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Port Nolloth",
-      "coordinates": "-29.235, 16.8728"
+      "coordinates": "-29.235, 16.8728",
+      "metar_available": false
     },
     {
       "ident": "ZA-0200",
@@ -5993,7 +6505,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Cape Town (Marion Island)",
-      "coordinates": "-46.875999, 37.857356"
+      "coordinates": "-46.875999, 37.857356",
+      "metar_available": false
     },
     {
       "ident": "ZA-0201",
@@ -6004,7 +6517,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Midrand",
-      "coordinates": "-26.0284, 28.1108"
+      "coordinates": "-26.0284, 28.1108",
+      "metar_available": false
     },
     {
       "ident": "ZA-0202",
@@ -6015,7 +6529,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-26.1284, 28.1288"
+      "coordinates": "-26.1284, 28.1288",
+      "metar_available": false
     },
     {
       "ident": "ZA-0203",
@@ -6026,7 +6541,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-26.0779, 28.0121"
+      "coordinates": "-26.0779, 28.0121",
+      "metar_available": false
     },
     {
       "ident": "ZA-0204",
@@ -6037,7 +6553,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Soweto",
-      "coordinates": "-26.2603, 27.9431"
+      "coordinates": "-26.2603, 27.9431",
+      "metar_available": false
     },
     {
       "ident": "ZA-0205",
@@ -6048,7 +6565,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-26.2298, 28.041"
+      "coordinates": "-26.2298, 28.041",
+      "metar_available": false
     },
     {
       "ident": "ZA-0206",
@@ -6059,7 +6577,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-26.1759, 28.0441"
+      "coordinates": "-26.1759, 28.0441",
+      "metar_available": false
     },
     {
       "ident": "ZA-0207",
@@ -6070,7 +6589,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Midrand",
-      "coordinates": "-26.0135, 28.1022"
+      "coordinates": "-26.0135, 28.1022",
+      "metar_available": false
     },
     {
       "ident": "ZA-0208",
@@ -6081,7 +6601,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-26.1806, 28.017"
+      "coordinates": "-26.1806, 28.017",
+      "metar_available": false
     },
     {
       "ident": "ZA-0209",
@@ -6092,7 +6613,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Sandton",
-      "coordinates": "-26.0385, 28.07"
+      "coordinates": "-26.0385, 28.07",
+      "metar_available": false
     },
     {
       "ident": "ZA-0210",
@@ -6103,7 +6625,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Olifantsfontein",
-      "coordinates": "-25.9279, 28.1971"
+      "coordinates": "-25.9279, 28.1971",
+      "metar_available": false
     },
     {
       "ident": "ZA-0211",
@@ -6114,7 +6637,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Randburg",
-      "coordinates": "-26.0553, 27.9718"
+      "coordinates": "-26.0553, 27.9718",
+      "metar_available": false
     },
     {
       "ident": "ZA-0212",
@@ -6125,7 +6649,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Sandton",
-      "coordinates": "-26.0422, 28.0248"
+      "coordinates": "-26.0422, 28.0248",
+      "metar_available": false
     },
     {
       "ident": "ZA-0213",
@@ -6136,7 +6661,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Sandton",
-      "coordinates": "-26.0119, 27.9952"
+      "coordinates": "-26.0119, 27.9952",
+      "metar_available": false
     },
     {
       "ident": "ZA-0214",
@@ -6147,7 +6673,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Olifantsfontein",
-      "coordinates": "-25.9248, 28.1827"
+      "coordinates": "-25.9248, 28.1827",
+      "metar_available": false
     },
     {
       "ident": "ZA-0215",
@@ -6158,7 +6685,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Benoni",
-      "coordinates": "-26.1738, 28.3492"
+      "coordinates": "-26.1738, 28.3492",
+      "metar_available": false
     },
     {
       "ident": "ZA-0216",
@@ -6169,7 +6697,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Oranjeville",
-      "coordinates": "-26.9936, 28.3217"
+      "coordinates": "-26.9936, 28.3217",
+      "metar_available": false
     },
     {
       "ident": "ZA-0217",
@@ -6180,7 +6709,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Krompan",
-      "coordinates": "-27.0015, 28.3706"
+      "coordinates": "-27.0015, 28.3706",
+      "metar_available": false
     },
     {
       "ident": "ZA-0218",
@@ -6191,7 +6721,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Tankwa Town",
-      "coordinates": "-32.334119, 19.753489"
+      "coordinates": "-32.334119, 19.753489",
+      "metar_available": false
     },
     {
       "ident": "ZA-0219",
@@ -6201,7 +6732,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
-      "coordinates": "-25.902761, 28.5473"
+      "coordinates": "-25.902761, 28.5473",
+      "metar_available": false
     },
     {
       "ident": "ZA-0220",
@@ -6211,7 +6743,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
-      "coordinates": "-25.658442, 27.882507"
+      "coordinates": "-25.658442, 27.882507",
+      "metar_available": false
     },
     {
       "ident": "ZA-0221",
@@ -6221,7 +6754,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
-      "coordinates": "-26.964755, 24.063159"
+      "coordinates": "-26.964755, 24.063159",
+      "metar_available": false
     },
     {
       "ident": "ZA-0222",
@@ -6232,7 +6766,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Wolmaranstad",
-      "coordinates": "-27.164519, 26.066372"
+      "coordinates": "-27.164519, 26.066372",
+      "metar_available": false
     },
     {
       "ident": "ZA-0223",
@@ -6243,7 +6778,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Jan Kempdorp",
-      "coordinates": "-27.796561, 24.973713"
+      "coordinates": "-27.796561, 24.973713",
+      "metar_available": false
     },
     {
       "ident": "ZA-0224",
@@ -6254,7 +6790,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Kromellenboog",
-      "coordinates": "-27.820009, 25.220394"
+      "coordinates": "-27.820009, 25.220394",
+      "metar_available": false
     },
     {
       "ident": "ZA-0225",
@@ -6265,7 +6802,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Hertzogville",
-      "coordinates": "-27.943429, 25.488965"
+      "coordinates": "-27.943429, 25.488965",
+      "metar_available": false
     },
     {
       "ident": "ZA-0226",
@@ -6276,7 +6814,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Northham",
-      "coordinates": "-24.979776, 27.295747"
+      "coordinates": "-24.979776, 27.295747",
+      "metar_available": false
     },
     {
       "ident": "ZA-0227",
@@ -6286,7 +6825,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
-      "coordinates": "-24.376984, 31.776495"
+      "coordinates": "-24.376984, 31.776495",
+      "metar_available": false
     },
     {
       "ident": "ZA-0228",
@@ -6296,7 +6836,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
-      "coordinates": "-34.454359, 20.417855"
+      "coordinates": "-34.454359, 20.417855",
+      "metar_available": false
     },
     {
       "ident": "ZA-0229",
@@ -6306,7 +6847,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
-      "coordinates": "-30.5978, 29.396"
+      "coordinates": "-30.5978, 29.396",
+      "metar_available": false
     },
     {
       "ident": "ZA-0230",
@@ -6316,7 +6858,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
-      "coordinates": "-24.8231, 26.2236"
+      "coordinates": "-24.8231, 26.2236",
+      "metar_available": false
     },
     {
       "ident": "ZA-0231",
@@ -6326,7 +6869,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
-      "coordinates": "-33.457012, 26.051448"
+      "coordinates": "-33.457012, 26.051448",
+      "metar_available": false
     },
     {
       "ident": "ZA-0232",
@@ -6337,7 +6881,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Welgevonden Game Reserve",
-      "coordinates": "-24.286108, 27.786655"
+      "coordinates": "-24.286108, 27.786655",
+      "metar_available": false
     },
     {
       "ident": "ZA-0233",
@@ -6347,7 +6892,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
-      "coordinates": "-24.2408, 27.4908"
+      "coordinates": "-24.2408, 27.4908",
+      "metar_available": false
     },
     {
       "ident": "ZA-0234",
@@ -6357,7 +6903,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
-      "coordinates": "-24.1734, 31.3278"
+      "coordinates": "-24.1734, 31.3278",
+      "metar_available": false
     },
     {
       "ident": "ZA-0235",
@@ -6368,7 +6915,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Groblersbrug",
-      "coordinates": "-23.1048, 27.879868"
+      "coordinates": "-23.1048, 27.879868",
+      "metar_available": false
     },
     {
       "ident": "ZA-0236",
@@ -6378,7 +6926,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-25.962091, 28.137263"
+      "coordinates": "-25.962091, 28.137263",
+      "metar_available": false
     },
     {
       "ident": "ZA-0237",
@@ -6389,7 +6938,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Moses Kotane",
-      "coordinates": "-25.341737, 27.081824"
+      "coordinates": "-25.341737, 27.081824",
+      "metar_available": false
     },
     {
       "ident": "ZA-0238",
@@ -6399,7 +6949,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Sanbona Wildlife Reserve",
-      "coordinates": "-33.7233, 20.615"
+      "coordinates": "-33.7233, 20.615",
+      "metar_available": false
     },
     {
       "ident": "ZA-0239",
@@ -6409,7 +6960,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Nambiti Private Game Reserve",
-      "coordinates": "-28.4628, 29.9682"
+      "coordinates": "-28.4628, 29.9682",
+      "metar_available": false
     },
     {
       "ident": "ZA-0240",
@@ -6418,7 +6970,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
-      "coordinates": "-33.133964, 26.581936"
+      "coordinates": "-33.133964, 26.581936",
+      "metar_available": false
     },
     {
       "ident": "ZA-0241",
@@ -6428,7 +6981,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Shambala Game Estate",
-      "coordinates": "-24.279213, 28.033768"
+      "coordinates": "-24.279213, 28.033768",
+      "metar_available": false
     },
     {
       "ident": "ZA-0242",
@@ -6438,7 +6992,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Johannesburg",
-      "coordinates": "-26.2213, 28.18166"
+      "coordinates": "-26.2213, 28.18166",
+      "metar_available": false
     },
     {
       "ident": "ZA-0243",
@@ -6448,7 +7003,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Nondela Estate",
-      "coordinates": "-28.596288, 29.206971"
+      "coordinates": "-28.596288, 29.206971",
+      "metar_available": false
     },
     {
       "ident": "ZA-0244",
@@ -6458,7 +7014,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Paperbark Lodge",
-      "coordinates": "-24.2319, 27.8857"
+      "coordinates": "-24.2319, 27.8857",
+      "metar_available": false
     },
     {
       "ident": "ZA-0245",
@@ -6467,7 +7024,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
-      "coordinates": "-26.0067, 28.3444"
+      "coordinates": "-26.0067, 28.3444",
+      "metar_available": false
     },
     {
       "ident": "ZA-0246",
@@ -6477,7 +7035,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
-      "coordinates": "-25.8806, 27.1661"
+      "coordinates": "-25.8806, 27.1661",
+      "metar_available": false
     },
     {
       "ident": "ZA-0247",
@@ -6487,7 +7046,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
-      "coordinates": "-24.7198, 26.3793"
+      "coordinates": "-24.7198, 26.3793",
+      "metar_available": false
     },
     {
       "ident": "ZA-0248",
@@ -6496,7 +7056,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
-      "coordinates": "-28.5967, 19.8414"
+      "coordinates": "-28.5967, 19.8414",
+      "metar_available": false
     },
     {
       "ident": "ZA-0249",
@@ -6506,7 +7067,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
-      "coordinates": "-28.812247, 22.383753"
+      "coordinates": "-28.812247, 22.383753",
+      "metar_available": false
     },
     {
       "ident": "ZA-0250",
@@ -6517,7 +7079,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Motetema",
-      "coordinates": "-25.125188, 29.477766"
+      "coordinates": "-25.125188, 29.477766",
+      "metar_available": false
     },
     {
       "ident": "ZA-0251",
@@ -6528,7 +7091,8 @@
       "iso_region": "ZA-MP",
       "municipality": "Walkersons",
       "local_code": "FAEV",
-      "coordinates": "-25.390456, 30.172134"
+      "coordinates": "-25.390456, 30.172134",
+      "metar_available": false
     },
     {
       "ident": "ZA-0252",
@@ -6539,7 +7103,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Westerberg",
-      "coordinates": "-29.334946, 22.264621"
+      "coordinates": "-29.334946, 22.264621",
+      "metar_available": false
     },
     {
       "ident": "ZA-0253",
@@ -6550,7 +7115,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "winterton",
-      "coordinates": "-28.886091, 29.537859"
+      "coordinates": "-28.886091, 29.537859",
+      "metar_available": false
     },
     {
       "ident": "ZA-0254",
@@ -6561,7 +7127,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Auchas",
-      "coordinates": "-28.33486, 16.79609"
+      "coordinates": "-28.33486, 16.79609",
+      "metar_available": false
     },
     {
       "ident": "ZA-0255",
@@ -6572,7 +7139,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Grasdrif",
-      "coordinates": "-28.38971, 17.40487"
+      "coordinates": "-28.38971, 17.40487",
+      "metar_available": false
     },
     {
       "ident": "ZA-0256",
@@ -6583,7 +7151,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Onseepkans",
-      "coordinates": "-28.75211, 19.32742"
+      "coordinates": "-28.75211, 19.32742",
+      "metar_available": false
     },
     {
       "ident": "ZA-0257",
@@ -6594,7 +7163,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Schuitdrift",
-      "coordinates": "-28.54625, 19.71493"
+      "coordinates": "-28.54625, 19.71493",
+      "metar_available": false
     },
     {
       "ident": "ZA-0258",
@@ -6605,7 +7175,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Augrabies",
-      "coordinates": "-28.64383, 20.30865"
+      "coordinates": "-28.64383, 20.30865",
+      "metar_available": false
     },
     {
       "ident": "ZA-0259",
@@ -6616,7 +7187,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Kakamas",
-      "coordinates": "-28.62423, 20.44023"
+      "coordinates": "-28.62423, 20.44023",
+      "metar_available": false
     },
     {
       "ident": "ZA-0260",
@@ -6627,7 +7199,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Kakamas",
-      "coordinates": "-28.62141, 20.45135"
+      "coordinates": "-28.62141, 20.45135",
+      "metar_available": false
     },
     {
       "ident": "ZA-0261",
@@ -6638,7 +7211,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Kakamas",
-      "coordinates": "-28.76598, 20.57473"
+      "coordinates": "-28.76598, 20.57473",
+      "metar_available": false
     },
     {
       "ident": "ZA-0262",
@@ -6649,7 +7223,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Vaalkoppies Settlement",
-      "coordinates": "-28.44628, 21.34287"
+      "coordinates": "-28.44628, 21.34287",
+      "metar_available": false
     },
     {
       "ident": "ZA-0263",
@@ -6660,7 +7235,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Groblershoop",
-      "coordinates": "-28.54937, 21.79037"
+      "coordinates": "-28.54937, 21.79037",
+      "metar_available": false
     },
     {
       "ident": "ZA-0264",
@@ -6671,7 +7247,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Groblershoop",
-      "coordinates": "-28.86887, 22.10493"
+      "coordinates": "-28.86887, 22.10493",
+      "metar_available": false
     },
     {
       "ident": "ZA-0265",
@@ -6683,7 +7260,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Lanseria",
       "gps_code": "FAMV",
-      "coordinates": "-25.86641, 27.87726"
+      "coordinates": "-25.86641, 27.87726",
+      "metar_available": false
     },
     {
       "ident": "ZA-0266",
@@ -6694,7 +7272,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Prieska",
-      "coordinates": "-29.55615, 22.89679"
+      "coordinates": "-29.55615, 22.89679",
+      "metar_available": false
     },
     {
       "ident": "ZA-0267",
@@ -6705,7 +7284,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Higgs Hope",
-      "coordinates": "-29.33704, 23.17968"
+      "coordinates": "-29.33704, 23.17968",
+      "metar_available": false
     },
     {
       "ident": "ZA-0268",
@@ -6716,7 +7296,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Higgs Hope",
-      "coordinates": "-29.30453, 23.28233"
+      "coordinates": "-29.30453, 23.28233",
+      "metar_available": false
     },
     {
       "ident": "ZA-0269",
@@ -6727,7 +7308,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Higgs Hope",
-      "coordinates": "-29.26596, 23.20544"
+      "coordinates": "-29.26596, 23.20544",
+      "metar_available": false
     },
     {
       "ident": "ZA-0270",
@@ -6738,7 +7320,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Siyancuma",
-      "coordinates": "-29.19451, 23.34394"
+      "coordinates": "-29.19451, 23.34394",
+      "metar_available": false
     },
     {
       "ident": "ZA-0271",
@@ -6749,7 +7332,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Siyancuma",
-      "coordinates": "-29.22365, 23.48078"
+      "coordinates": "-29.22365, 23.48078",
+      "metar_available": false
     },
     {
       "ident": "ZA-0272",
@@ -6760,7 +7344,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Siyancuma",
-      "coordinates": "-29.18871, 23.55848"
+      "coordinates": "-29.18871, 23.55848",
+      "metar_available": false
     },
     {
       "ident": "ZA-0273",
@@ -6771,7 +7356,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Douglas",
-      "coordinates": "-29.07549, 23.76682"
+      "coordinates": "-29.07549, 23.76682",
+      "metar_available": false
     },
     {
       "ident": "ZA-0274",
@@ -6782,7 +7368,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Douglas",
-      "coordinates": "-29.09647, 23.73104"
+      "coordinates": "-29.09647, 23.73104",
+      "metar_available": false
     },
     {
       "ident": "ZA-0275",
@@ -6793,7 +7380,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Douglas",
-      "coordinates": "-28.96775, 23.76557"
+      "coordinates": "-28.96775, 23.76557",
+      "metar_available": false
     },
     {
       "ident": "ZA-0276",
@@ -6804,7 +7392,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Salt Lake",
-      "coordinates": "-29.27692, 23.90523"
+      "coordinates": "-29.27692, 23.90523",
+      "metar_available": false
     },
     {
       "ident": "ZA-0277",
@@ -6815,7 +7404,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Hopetown",
-      "coordinates": "-29.58183, 24.14208"
+      "coordinates": "-29.58183, 24.14208",
+      "metar_available": false
     },
     {
       "ident": "ZA-0278",
@@ -6826,7 +7416,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Colesberg",
-      "coordinates": "-30.59866, 25.30819"
+      "coordinates": "-30.59866, 25.30819",
+      "metar_available": false
     },
     {
       "ident": "ZA-0279",
@@ -6837,7 +7428,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Colesberg",
-      "coordinates": "-30.58907, 25.37353"
+      "coordinates": "-30.58907, 25.37353",
+      "metar_available": false
     },
     {
       "ident": "ZA-0280",
@@ -6848,7 +7440,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Corbetts Hope",
-      "coordinates": "-30.62622, 26.34493"
+      "coordinates": "-30.62622, 26.34493",
+      "metar_available": false
     },
     {
       "ident": "ZA-0281",
@@ -6859,7 +7452,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Braklaagte",
-      "coordinates": "-30.59828, 26.94294"
+      "coordinates": "-30.59828, 26.94294",
+      "metar_available": false
     },
     {
       "ident": "ZA-0282",
@@ -6870,7 +7464,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Zastron",
-      "coordinates": "-30.42799, 27.31309"
+      "coordinates": "-30.42799, 27.31309",
+      "metar_available": false
     },
     {
       "ident": "ZA-0283",
@@ -6881,7 +7476,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Douglas",
-      "coordinates": "-28.92598, 23.94547"
+      "coordinates": "-28.92598, 23.94547",
+      "metar_available": false
     },
     {
       "ident": "ZA-0284",
@@ -6892,7 +7488,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Barkly West",
-      "coordinates": "-28.4931, 24.67943"
+      "coordinates": "-28.4931, 24.67943",
+      "metar_available": false
     },
     {
       "ident": "ZA-0285",
@@ -6903,7 +7500,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Holpan",
-      "coordinates": "-28.38082, 24.60613"
+      "coordinates": "-28.38082, 24.60613",
+      "metar_available": false
     },
     {
       "ident": "ZA-0286",
@@ -6914,7 +7512,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bloemhof",
-      "coordinates": "-27.59869, 25.3439"
+      "coordinates": "-27.59869, 25.3439",
+      "metar_available": false
     },
     {
       "ident": "ZA-0287",
@@ -6925,7 +7524,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bloemhof",
-      "coordinates": "-27.58119, 25.32355"
+      "coordinates": "-27.58119, 25.32355",
+      "metar_available": false
     },
     {
       "ident": "ZA-0288",
@@ -6936,7 +7536,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Warrenton",
-      "coordinates": "-27.96792, 25.13416"
+      "coordinates": "-27.96792, 25.13416",
+      "metar_available": false
     },
     {
       "ident": "ZA-0289",
@@ -6947,7 +7548,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Balkfontein",
-      "coordinates": "-27.41043, 26.46573"
+      "coordinates": "-27.41043, 26.46573",
+      "metar_available": false
     },
     {
       "ident": "ZA-0290",
@@ -6958,7 +7560,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Orkney",
-      "coordinates": "-26.96456, 26.6736"
+      "coordinates": "-26.96456, 26.6736",
+      "metar_available": false
     },
     {
       "ident": "ZA-0291",
@@ -6969,7 +7572,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Klerksdorp",
-      "coordinates": "-26.88738, 26.61672"
+      "coordinates": "-26.88738, 26.61672",
+      "metar_available": false
     },
     {
       "ident": "ZA-0292",
@@ -6980,7 +7584,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Stilfontein",
-      "coordinates": "-26.8634, 26.80418"
+      "coordinates": "-26.8634, 26.80418",
+      "metar_available": false
     },
     {
       "ident": "ZA-0293",
@@ -6991,7 +7596,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Balfour",
-      "coordinates": "-26.93936, 28.32789"
+      "coordinates": "-26.93936, 28.32789",
+      "metar_available": false
     },
     {
       "ident": "ZA-0294",
@@ -7002,7 +7608,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Villiers",
-      "coordinates": "-27.03587, 28.65938"
+      "coordinates": "-27.03587, 28.65938",
+      "metar_available": false
     },
     {
       "ident": "ZA-0295",
@@ -7013,7 +7620,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Villiers",
-      "coordinates": "-26.95184, 28.7219"
+      "coordinates": "-26.95184, 28.7219",
+      "metar_available": false
     },
     {
       "ident": "ZA-0296",
@@ -7024,7 +7632,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Twee Rivieren",
-      "coordinates": "-26.44869, 20.60723"
+      "coordinates": "-26.44869, 20.60723",
+      "metar_available": false
     },
     {
       "ident": "ZA-0297",
@@ -7034,7 +7643,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
-      "coordinates": "-24.733331, 26.40642"
+      "coordinates": "-24.733331, 26.40642",
+      "metar_available": false
     },
     {
       "ident": "ZA-0298",
@@ -7044,7 +7654,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
-      "coordinates": "-24.5255, 31.1197"
+      "coordinates": "-24.5255, 31.1197",
+      "metar_available": false
     },
     {
       "ident": "ZA-0299",
@@ -7054,7 +7665,8 @@
       "continent": "AF",
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
-      "coordinates": "-24.540155, 31.206096"
+      "coordinates": "-24.540155, 31.206096",
+      "metar_available": false
     },
     {
       "ident": "ZA-0300",
@@ -7065,7 +7677,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Baltimore",
-      "coordinates": "-23.20183, 28.48575"
+      "coordinates": "-23.20183, 28.48575",
+      "metar_available": false
     },
     {
       "ident": "ZA-0301",
@@ -7076,7 +7689,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Groblersbrug",
-      "coordinates": "-23.08269, 27.90621"
+      "coordinates": "-23.08269, 27.90621",
+      "metar_available": false
     },
     {
       "ident": "ZA-0302",
@@ -7087,7 +7701,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "East London",
-      "coordinates": "-33.04079, 27.89823"
+      "coordinates": "-33.04079, 27.89823",
+      "metar_available": false
     },
     {
       "ident": "ZA-0303",
@@ -7098,7 +7713,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Port Alfred",
-      "coordinates": "-33.49369, 27.11207"
+      "coordinates": "-33.49369, 27.11207",
+      "metar_available": false
     },
     {
       "ident": "ZA-0304",
@@ -7109,7 +7725,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Eersterivierstrand",
-      "coordinates": "-34.06369, 24.1998"
+      "coordinates": "-34.06369, 24.1998",
+      "metar_available": false
     },
     {
       "ident": "ZA-0305",
@@ -7120,7 +7737,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Kou-Kamma",
-      "coordinates": "-34.0327, 24.2207"
+      "coordinates": "-34.0327, 24.2207",
+      "metar_available": false
     },
     {
       "ident": "ZA-0306",
@@ -7131,7 +7749,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Gouritz",
-      "coordinates": "-34.32444, 21.89169"
+      "coordinates": "-34.32444, 21.89169",
+      "metar_available": false
     },
     {
       "ident": "ZA-0307",
@@ -7142,7 +7761,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Bredasdorp",
-      "coordinates": "-34.54802, 20.08476"
+      "coordinates": "-34.54802, 20.08476",
+      "metar_available": false
     },
     {
       "ident": "ZA-0308",
@@ -7152,7 +7772,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Modderrivier",
-      "coordinates": "-29.01958, 24.6535"
+      "coordinates": "-29.01958, 24.6535",
+      "metar_available": false
     },
     {
       "ident": "ZA-0309",
@@ -7162,7 +7783,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Modderrivier",
-      "coordinates": "-29.17329, 24.26292"
+      "coordinates": "-29.17329, 24.26292",
+      "metar_available": false
     },
     {
       "ident": "ZA-0310",
@@ -7172,7 +7794,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Bloemfontein",
-      "coordinates": "-29.02745, 26.0948"
+      "coordinates": "-29.02745, 26.0948",
+      "metar_available": false
     },
     {
       "ident": "ZA-0311",
@@ -7183,7 +7806,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Gqeberha (Port Elizabeth)",
-      "coordinates": "-33.926379, 25.57166"
+      "coordinates": "-33.926379, 25.57166",
+      "metar_available": false
     },
     {
       "ident": "ZA-0312",
@@ -7194,7 +7818,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Bethelsdorp",
-      "coordinates": "-33.880352, 25.562777"
+      "coordinates": "-33.880352, 25.562777",
+      "metar_available": false
     },
     {
       "ident": "ZA-0313",
@@ -7205,7 +7830,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Kinkelbos",
-      "coordinates": "-33.64509, 25.87882"
+      "coordinates": "-33.64509, 25.87882",
+      "metar_available": false
     },
     {
       "ident": "ZA-0314",
@@ -7215,7 +7841,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bray",
-      "coordinates": "-25.47443, 23.74773"
+      "coordinates": "-25.47443, 23.74773",
+      "metar_available": false
     },
     {
       "ident": "ZA-0315",
@@ -7225,7 +7852,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Bray",
-      "coordinates": "-25.47992, 23.73199"
+      "coordinates": "-25.47992, 23.73199",
+      "metar_available": false
     },
     {
       "ident": "ZA-0316",
@@ -7236,7 +7864,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-U-A",
       "municipality": "Himeville",
-      "coordinates": "-29.74906, 29.50408"
+      "coordinates": "-29.74906, 29.50408",
+      "metar_available": false
     },
     {
       "ident": "ZA-0317",
@@ -7247,7 +7876,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Pretoria",
-      "coordinates": "-25.907632, 28.035825"
+      "coordinates": "-25.907632, 28.035825",
+      "metar_available": false
     },
     {
       "ident": "ZA-0318",
@@ -7258,7 +7888,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-U-A",
       "municipality": "Trichardt",
-      "coordinates": "-26.491786, 29.231989"
+      "coordinates": "-26.491786, 29.231989",
+      "metar_available": false
     },
     {
       "ident": "ZA-0319",
@@ -7269,7 +7900,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "eMalahleni",
-      "coordinates": "-25.917384, 29.199981"
+      "coordinates": "-25.917384, 29.199981",
+      "metar_available": false
     },
     {
       "ident": "ZA-0320",
@@ -7280,7 +7912,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-GT",
       "municipality": "Centurion",
-      "coordinates": "-25.828611, 28.092778"
+      "coordinates": "-25.828611, 28.092778",
+      "metar_available": false
     },
     {
       "ident": "ZA-0321",
@@ -7291,7 +7924,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Bredasdrop",
-      "coordinates": "-34.631111, 19.8275"
+      "coordinates": "-34.631111, 19.8275",
+      "metar_available": false
     },
     {
       "ident": "ZA-0324",
@@ -7302,7 +7936,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "gps_code": "FACO",
-      "coordinates": "-29.933201, 22.265741"
+      "coordinates": "-29.933201, 22.265741",
+      "metar_available": false
     },
     {
       "ident": "ZA-0326",
@@ -7313,7 +7948,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Jacobsdal",
-      "coordinates": "-29.192692, 24.739475"
+      "coordinates": "-29.192692, 24.739475",
+      "metar_available": false
     },
     {
       "ident": "ZA-0327",
@@ -7324,7 +7960,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Durban",
-      "coordinates": "-29.969798, 30.950257"
+      "coordinates": "-29.969798, 30.950257",
+      "metar_available": false
     },
     {
       "ident": "ZA-0328",
@@ -7335,7 +7972,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Adelaide",
-      "coordinates": "-32.6831016541, 26.2942008972"
+      "coordinates": "-32.6831016541, 26.2942008972",
+      "metar_available": false
     },
     {
       "ident": "ZA-0329",
@@ -7345,7 +7983,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Barberton",
-      "coordinates": "-25.7786006927, 31.0174999237"
+      "coordinates": "-25.7786006927, 31.0174999237",
+      "metar_available": false
     },
     {
       "ident": "ZA-0330",
@@ -7356,7 +7995,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Giant'S Castle Game Reserve",
-      "coordinates": "-29.269699, 29.566099"
+      "coordinates": "-29.269699, 29.566099",
+      "metar_available": false
     },
     {
       "ident": "ZA-0331",
@@ -7367,7 +8007,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-EC",
       "municipality": "Tsitsikama",
-      "coordinates": "-34.084702, 24.2897"
+      "coordinates": "-34.084702, 24.2897",
+      "metar_available": false
     },
     {
       "ident": "ZA-0332",
@@ -7378,7 +8019,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-WC",
       "municipality": "Hermanus",
-      "coordinates": "-34.415276, 19.184074"
+      "coordinates": "-34.415276, 19.184074",
+      "metar_available": false
     },
     {
       "ident": "ZA-0333",
@@ -7389,7 +8031,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NW",
       "municipality": "Lerulaneng",
-      "coordinates": "-25.5499992371, 27.9330005646"
+      "coordinates": "-25.5499992371, 27.9330005646",
+      "metar_available": false
     },
     {
       "ident": "ZA-0334",
@@ -7400,7 +8043,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-FS",
       "municipality": "Zastron",
-      "coordinates": "-30.30619, 27.106854"
+      "coordinates": "-30.30619, 27.106854",
+      "metar_available": false
     },
     {
       "ident": "ZA-0335",
@@ -7411,7 +8055,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NL",
       "municipality": "Sani Pass",
-      "coordinates": "-29.6572, 29.447701"
+      "coordinates": "-29.6572, 29.447701",
+      "metar_available": false
     },
     {
       "ident": "ZA-0336",
@@ -7422,7 +8067,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Montrose",
-      "coordinates": "-24.625, 30.186111"
+      "coordinates": "-24.625, 30.186111",
+      "metar_available": false
     },
     {
       "ident": "ZA-0337",
@@ -7433,7 +8079,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Potgietersus",
-      "coordinates": "-24.233334, 28.983334"
+      "coordinates": "-24.233334, 28.983334",
+      "metar_available": false
     },
     {
       "ident": "ZA-0338",
@@ -7444,7 +8091,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NC",
       "municipality": "Cooperton",
-      "coordinates": "-29.906401, 22.3167"
+      "coordinates": "-29.906401, 22.3167",
+      "metar_available": false
     },
     {
       "ident": "ZA-0339",
@@ -7455,7 +8103,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-MP",
       "municipality": "Arnot Power Station",
-      "coordinates": "-25.941099, 29.810301"
+      "coordinates": "-25.941099, 29.810301",
+      "metar_available": false
     },
     {
       "ident": "ZA-0340",
@@ -7468,7 +8117,8 @@
       "municipality": "Hiltonia",
       "gps_code": "FASY",
       "local_code": "5407",
-      "coordinates": "-26.348697, 27.779546"
+      "coordinates": "-26.348697, 27.779546",
+      "metar_available": false
     },
     {
       "ident": "ZA-0341",
@@ -7480,7 +8130,8 @@
       "iso_region": "ZA-GT",
       "municipality": "Dunnottar",
       "local_code": "FADR",
-      "coordinates": "-26.3543156175, 28.466791153"
+      "coordinates": "-26.3543156175, 28.466791153",
+      "metar_available": false
     },
     {
       "ident": "ZA-0342",
@@ -7491,7 +8142,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
-      "coordinates": "-23.95812, 30.64612"
+      "coordinates": "-23.95812, 30.64612",
+      "metar_available": false
     },
     {
       "ident": "ZA-0343",
@@ -7502,7 +8154,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
-      "coordinates": "-24.01165, 30.68418"
+      "coordinates": "-24.01165, 30.68418",
+      "metar_available": false
     },
     {
       "ident": "ZA-0344",
@@ -7513,7 +8166,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Gravelotte",
-      "coordinates": "-24.15865, 30.83891"
+      "coordinates": "-24.15865, 30.83891",
+      "metar_available": false
     },
     {
       "ident": "ZA-0345",
@@ -7524,7 +8178,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Phalaborwa",
-      "coordinates": "-24.09922, 30.71658"
+      "coordinates": "-24.09922, 30.71658",
+      "metar_available": false
     },
     {
       "ident": "ZA-0346",
@@ -7535,7 +8190,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Tzaneen",
-      "coordinates": "-24.08148, 30.57187"
+      "coordinates": "-24.08148, 30.57187",
+      "metar_available": false
     },
     {
       "ident": "ZA-0347",
@@ -7546,7 +8202,8 @@
       "iso_country": "ZA",
       "iso_region": "ZA-NP",
       "municipality": "Hoedspruit",
-      "coordinates": "-24.27446, 30.8896"
+      "coordinates": "-24.27446, 30.8896",
+      "metar_available": false
     },
     {
       "ident": "ZA-KIG",
@@ -7558,7 +8215,8 @@
       "iso_region": "ZA-NC",
       "municipality": "Koingnaas",
       "iata_code": "KIG",
-      "coordinates": "-30.187136, 17.282706"
+      "coordinates": "-30.187136, 17.282706",
+      "metar_available": false
     }
   ]
 }

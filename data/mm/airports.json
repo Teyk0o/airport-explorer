@@ -2,7 +2,7 @@
   "country_code": "MM",
   "country_name": "Myanmar",
   "total_airports": 82,
-  "last_updated": "2025-08-01T00:18:22.827298",
+  "last_updated": "2025-08-25T10:08:40.981718",
   "types_distribution": {
     "closed": 2,
     "small_airport": 53,
@@ -20,7 +20,8 @@
       "iso_country": "MM",
       "iso_region": "MM-02",
       "municipality": "Bago",
-      "coordinates": "17.3005, 96.4276"
+      "coordinates": "17.3005, 96.4276",
+      "metar_available": false
     },
     {
       "ident": "MM-0002",
@@ -33,7 +34,8 @@
       "municipality": "Hinthada",
       "gps_code": "VYHT",
       "iata_code": "HEB",
-      "coordinates": "17.633329391500002, 95.4666976929"
+      "coordinates": "17.633329391500002, 95.4666976929",
+      "metar_available": false
     },
     {
       "ident": "MM-0003",
@@ -44,7 +46,8 @@
       "iso_country": "MM",
       "iso_region": "MM-17",
       "municipality": "Langhko",
-      "coordinates": "20.350000381469727, 98.01667022705078"
+      "coordinates": "20.350000381469727, 98.01667022705078",
+      "metar_available": false
     },
     {
       "ident": "MM-0004",
@@ -55,7 +58,8 @@
       "iso_country": "MM",
       "iso_region": "MM-07",
       "municipality": "Myoungmya",
-      "coordinates": "16.570999145507812, 94.93229675292969"
+      "coordinates": "16.570999145507812, 94.93229675292969",
+      "metar_available": false
     },
     {
       "ident": "MM-0005",
@@ -66,7 +70,8 @@
       "iso_country": "MM",
       "iso_region": "MM-11",
       "municipality": "Shinbweyang",
-      "coordinates": "26.68600082397461, 96.21040344238281"
+      "coordinates": "26.68600082397461, 96.21040344238281",
+      "metar_available": false
     },
     {
       "ident": "MM-0006",
@@ -77,7 +82,8 @@
       "iso_country": "MM",
       "iso_region": "MM-06",
       "municipality": "Cocokyun",
-      "coordinates": "14.87002, 93.62233"
+      "coordinates": "14.87002, 93.62233",
+      "metar_available": false
     },
     {
       "ident": "MM-0007",
@@ -88,7 +94,8 @@
       "iso_country": "MM",
       "iso_region": "MM-06",
       "municipality": "Cocokyun",
-      "coordinates": "14.86987, 93.62326"
+      "coordinates": "14.86987, 93.62326",
+      "metar_available": false
     },
     {
       "ident": "MM-0008",
@@ -99,7 +106,8 @@
       "iso_country": "MM",
       "iso_region": "MM-06",
       "municipality": "Cocokyun",
-      "coordinates": "14.00171, 93.22413"
+      "coordinates": "14.00171, 93.22413",
+      "metar_available": false
     },
     {
       "ident": "MM-0009",
@@ -110,7 +118,8 @@
       "iso_country": "MM",
       "iso_region": "MM-06",
       "municipality": "Cocokyun",
-      "coordinates": "13.98115, 93.22502"
+      "coordinates": "13.98115, 93.22502",
+      "metar_available": false
     },
     {
       "ident": "MM-0010",
@@ -121,7 +130,8 @@
       "iso_country": "MM",
       "iso_region": "MM-06",
       "municipality": "Cocokyun",
-      "coordinates": "14.18611, 93.3636"
+      "coordinates": "14.18611, 93.3636",
+      "metar_available": false
     },
     {
       "ident": "MM-0011",
@@ -132,7 +142,8 @@
       "iso_country": "MM",
       "iso_region": "MM-05",
       "municipality": "Yebyu",
-      "coordinates": "14.679519, 98.35862"
+      "coordinates": "14.679519, 98.35862",
+      "metar_available": false
     },
     {
       "ident": "MM-0012",
@@ -143,7 +154,8 @@
       "iso_country": "MM",
       "iso_region": "MM-03",
       "municipality": "Sedoktayar",
-      "coordinates": "20.444466, 94.242377"
+      "coordinates": "20.444466, 94.242377",
+      "metar_available": false
     },
     {
       "ident": "VY02",
@@ -156,7 +168,8 @@
       "municipality": "Magway",
       "gps_code": "VY02",
       "local_code": "VY02",
-      "coordinates": "20.153600692749023, 94.96869659423828"
+      "coordinates": "20.153600692749023, 94.96869659423828",
+      "metar_available": false
     },
     {
       "ident": "VYAN",
@@ -169,7 +182,8 @@
       "municipality": "Aeng",
       "gps_code": "VYAN",
       "iata_code": "VBA",
-      "coordinates": "19.769199, 94.0261"
+      "coordinates": "19.769199, 94.0261",
+      "metar_available": false
     },
     {
       "ident": "VYAS",
@@ -181,7 +195,8 @@
       "iso_region": "MM-04",
       "municipality": "Anisakan",
       "gps_code": "VYAS",
-      "coordinates": "21.9554, 96.406097"
+      "coordinates": "21.9554, 96.406097",
+      "metar_available": false
     },
     {
       "ident": "VYBG",
@@ -194,7 +209,8 @@
       "municipality": "Nyaung U",
       "gps_code": "VYBG",
       "iata_code": "NYU",
-      "coordinates": "21.178800582885742, 94.9301986694336"
+      "coordinates": "21.178800582885742, 94.9301986694336",
+      "metar_available": false
     },
     {
       "ident": "VYBM",
@@ -207,7 +223,8 @@
       "municipality": "Banmaw",
       "gps_code": "VYBM",
       "iata_code": "BMO",
-      "coordinates": "24.27044, 97.2476"
+      "coordinates": "24.27044, 97.2476",
+      "metar_available": false
     },
     {
       "ident": "VYBP",
@@ -220,7 +237,8 @@
       "municipality": "Bokpyinn",
       "gps_code": "VYBP",
       "iata_code": "VBP",
-      "coordinates": "11.1494, 98.735901"
+      "coordinates": "11.1494, 98.735901",
+      "metar_available": false
     },
     {
       "ident": "VYCI",
@@ -232,7 +250,8 @@
       "iso_region": "MM-06",
       "municipality": "Cocokyun",
       "gps_code": "VYCI",
-      "coordinates": "14.137964, 93.367853"
+      "coordinates": "14.137964, 93.367853",
+      "metar_available": false
     },
     {
       "ident": "VYCZ",
@@ -245,7 +264,8 @@
       "municipality": "Mandalay",
       "gps_code": "VYCZ",
       "iata_code": "VBC",
-      "coordinates": "21.9405, 96.0896"
+      "coordinates": "21.9405, 96.0896",
+      "metar_available": false
     },
     {
       "ident": "VYDW",
@@ -258,7 +278,8 @@
       "municipality": "Dawei",
       "gps_code": "VYDW",
       "iata_code": "TVY",
-      "coordinates": "14.103899955749512, 98.20359802246094"
+      "coordinates": "14.103899955749512, 98.20359802246094",
+      "metar_available": false
     },
     {
       "ident": "VYFS",
@@ -271,7 +292,8 @@
       "municipality": "Falam",
       "gps_code": "VYFS",
       "iata_code": "SRU",
-      "coordinates": "22.939167, 93.615333"
+      "coordinates": "22.939167, 93.615333",
+      "metar_available": false
     },
     {
       "ident": "VYGG",
@@ -284,7 +306,8 @@
       "municipality": "Gangaw",
       "gps_code": "VYGG",
       "iata_code": "GAW",
-      "coordinates": "22.174699783325195, 94.1343994140625"
+      "coordinates": "22.174699783325195, 94.1343994140625",
+      "metar_available": false
     },
     {
       "ident": "VYGW",
@@ -297,7 +320,8 @@
       "municipality": "Gwa",
       "gps_code": "VYGW",
       "iata_code": "GWA",
-      "coordinates": "17.600000381469727, 94.58329772949219"
+      "coordinates": "17.600000381469727, 94.58329772949219",
+      "metar_available": false
     },
     {
       "ident": "VYHB",
@@ -309,7 +333,8 @@
       "iso_region": "MM-06",
       "municipality": "Hmawbi",
       "gps_code": "VYHB",
-      "coordinates": "17.11669921875, 96.06670379638672"
+      "coordinates": "17.11669921875, 96.06670379638672",
+      "metar_available": false
     },
     {
       "ident": "VYHH",
@@ -322,7 +347,8 @@
       "municipality": "Kalaw Township",
       "gps_code": "VYHH",
       "iata_code": "HEH",
-      "coordinates": "20.74714, 96.792029"
+      "coordinates": "20.74714, 96.792029",
+      "metar_available": false
     },
     {
       "ident": "VYHL",
@@ -335,7 +361,8 @@
       "municipality": "Hommalinn",
       "gps_code": "VYHL",
       "iata_code": "HOX",
-      "coordinates": "24.899599, 94.914001"
+      "coordinates": "24.899599, 94.914001",
+      "metar_available": false
     },
     {
       "ident": "VYHN",
@@ -348,7 +375,8 @@
       "municipality": "Tilin",
       "gps_code": "VYHN",
       "iata_code": "TIO",
-      "coordinates": "21.700000762939453, 94.0999984741211"
+      "coordinates": "21.700000762939453, 94.0999984741211",
+      "metar_available": false
     },
     {
       "ident": "VYKG",
@@ -361,7 +389,8 @@
       "municipality": "Kengtung",
       "gps_code": "VYKG",
       "iata_code": "KET",
-      "coordinates": "21.301599502563477, 99.63600158691406"
+      "coordinates": "21.301599502563477, 99.63600158691406",
+      "metar_available": false
     },
     {
       "ident": "VYKI",
@@ -374,7 +403,8 @@
       "municipality": "Kanti",
       "gps_code": "VYKI",
       "iata_code": "KHM",
-      "coordinates": "25.9883, 95.6744"
+      "coordinates": "25.9883, 95.6744",
+      "metar_available": false
     },
     {
       "ident": "VYKL",
@@ -387,7 +417,8 @@
       "municipality": "Kalemyo",
       "gps_code": "VYKL",
       "iata_code": "KMV",
-      "coordinates": "23.188801, 94.051102"
+      "coordinates": "23.188801, 94.051102",
+      "metar_available": false
     },
     {
       "ident": "VYKP",
@@ -400,7 +431,8 @@
       "municipality": "Kyaukpyu",
       "gps_code": "VYKP",
       "iata_code": "KYP",
-      "coordinates": "19.42639923095703, 93.53479766845703"
+      "coordinates": "19.42639923095703, 93.53479766845703",
+      "metar_available": false
     },
     {
       "ident": "VYKT",
@@ -413,7 +445,8 @@
       "municipality": "Kawthoung",
       "gps_code": "VYKT",
       "iata_code": "KAW",
-      "coordinates": "10.049300193786621, 98.53800201416016"
+      "coordinates": "10.049300193786621, 98.53800201416016",
+      "metar_available": false
     },
     {
       "ident": "VYKU",
@@ -426,7 +459,8 @@
       "municipality": "Kyauktu",
       "gps_code": "VYKU",
       "iata_code": "KYT",
-      "coordinates": "21.399999618530273, 94.13330078125"
+      "coordinates": "21.399999618530273, 94.13330078125",
+      "metar_available": false
     },
     {
       "ident": "VYLK",
@@ -439,7 +473,8 @@
       "municipality": "Loikaw",
       "gps_code": "VYLK",
       "iata_code": "LIW",
-      "coordinates": "19.691499710083008, 97.21479797363281"
+      "coordinates": "19.691499710083008, 97.21479797363281",
+      "metar_available": false
     },
     {
       "ident": "VYLN",
@@ -451,7 +486,8 @@
       "iso_region": "MM-11",
       "municipality": "Lonekin",
       "gps_code": "VYLN",
-      "coordinates": "25.649999618530273, 96.36699676513672"
+      "coordinates": "25.649999618530273, 96.36699676513672",
+      "metar_available": false
     },
     {
       "ident": "VYLS",
@@ -464,7 +500,8 @@
       "municipality": "Lashio",
       "gps_code": "VYLS",
       "iata_code": "LSH",
-      "coordinates": "22.9778995513916, 97.752197265625"
+      "coordinates": "22.9778995513916, 97.752197265625",
+      "metar_available": false
     },
     {
       "ident": "VYLY",
@@ -476,7 +513,8 @@
       "iso_region": "MM-03",
       "municipality": "Lanywa",
       "gps_code": "VYLY",
-      "coordinates": "20.940399169921875, 94.82260131835938"
+      "coordinates": "20.940399169921875, 94.82260131835938",
+      "metar_available": false
     },
     {
       "ident": "VYMD",
@@ -489,7 +527,8 @@
       "municipality": "Mandalay",
       "gps_code": "VYMD",
       "iata_code": "MDL",
-      "coordinates": "21.702199935913086, 95.97789764404297"
+      "coordinates": "21.702199935913086, 95.97789764404297",
+      "metar_available": false
     },
     {
       "ident": "VYME",
@@ -502,7 +541,8 @@
       "municipality": "Mkeik",
       "gps_code": "VYME",
       "iata_code": "MGZ",
-      "coordinates": "12.439800262451172, 98.62149810791016"
+      "coordinates": "12.439800262451172, 98.62149810791016",
+      "metar_available": false
     },
     {
       "ident": "VYMH",
@@ -514,7 +554,8 @@
       "iso_region": "MM-17",
       "municipality": "Mong Hpayak",
       "gps_code": "VYMH",
-      "coordinates": "20.83300018310547, 99.94999694824219"
+      "coordinates": "20.83300018310547, 99.94999694824219",
+      "metar_available": false
     },
     {
       "ident": "VYMI",
@@ -526,7 +567,8 @@
       "iso_region": "MM-17",
       "municipality": "Mongyai",
       "gps_code": "VYMI",
-      "coordinates": "22.482999801635742, 98.03299713134766"
+      "coordinates": "22.482999801635742, 98.03299713134766",
+      "metar_available": false
     },
     {
       "ident": "VYMK",
@@ -539,7 +581,8 @@
       "municipality": "Myitkyina",
       "gps_code": "VYMK",
       "iata_code": "MYT",
-      "coordinates": "25.3836, 97.351898"
+      "coordinates": "25.3836, 97.351898",
+      "metar_available": false
     },
     {
       "ident": "VYML",
@@ -551,7 +594,8 @@
       "iso_region": "MM-04",
       "municipality": "Meiktila",
       "gps_code": "VYML",
-      "coordinates": "20.88640022277832, 95.89279174804688"
+      "coordinates": "20.88640022277832, 95.89279174804688",
+      "metar_available": false
     },
     {
       "ident": "VYMM",
@@ -564,7 +608,8 @@
       "municipality": "Mawlamyine",
       "gps_code": "VYMM",
       "iata_code": "MNU",
-      "coordinates": "16.444700241088867, 97.66069793701172"
+      "coordinates": "16.444700241088867, 97.66069793701172",
+      "metar_available": false
     },
     {
       "ident": "VYMN",
@@ -577,7 +622,8 @@
       "municipality": "Manaung",
       "gps_code": "VYMN",
       "iata_code": "MGU",
-      "coordinates": "18.8458, 93.688904"
+      "coordinates": "18.8458, 93.688904",
+      "metar_available": false
     },
     {
       "ident": "VYMO",
@@ -589,7 +635,8 @@
       "iso_region": "MM-17",
       "gps_code": "VYMO",
       "iata_code": "MOE",
-      "coordinates": "23.092500686645508, 96.64530181884766"
+      "coordinates": "23.092500686645508, 96.64530181884766",
+      "metar_available": false
     },
     {
       "ident": "VYMP",
@@ -601,7 +648,8 @@
       "iso_region": "MM-17",
       "municipality": "Mongpyin",
       "gps_code": "VYMP",
-      "coordinates": "21.350000381469727, 99.03299713134766"
+      "coordinates": "21.350000381469727, 99.03299713134766",
+      "metar_available": false
     },
     {
       "ident": "VYMS",
@@ -614,7 +662,8 @@
       "municipality": "Mong Hsat",
       "gps_code": "VYMS",
       "iata_code": "MOG",
-      "coordinates": "20.516799926757812, 99.25679779052734"
+      "coordinates": "20.516799926757812, 99.25679779052734",
+      "metar_available": false
     },
     {
       "ident": "VYMT",
@@ -627,7 +676,8 @@
       "municipality": "Mong Tong",
       "gps_code": "VYMT",
       "iata_code": "MGK",
-      "coordinates": "20.29669952392578, 98.8989028930664"
+      "coordinates": "20.29669952392578, 98.8989028930664",
+      "metar_available": false
     },
     {
       "ident": "VYMU",
@@ -639,7 +689,8 @@
       "iso_region": "MM-16",
       "municipality": "Mrauk-U",
       "gps_code": "VYMU",
-      "coordinates": "20.525901, 93.252979"
+      "coordinates": "20.525901, 93.252979",
+      "metar_available": false
     },
     {
       "ident": "VYMW",
@@ -652,7 +703,8 @@
       "municipality": "Magway",
       "gps_code": "VYMW",
       "iata_code": "MWQ",
-      "coordinates": "20.1656, 94.941399"
+      "coordinates": "20.1656, 94.941399",
+      "metar_available": false
     },
     {
       "ident": "VYMY",
@@ -665,7 +717,8 @@
       "municipality": "Monywar",
       "gps_code": "VYMY",
       "iata_code": "NYW",
-      "coordinates": "22.221638, 95.093479"
+      "coordinates": "22.221638, 95.093479",
+      "metar_available": false
     },
     {
       "ident": "VYNM",
@@ -677,7 +730,8 @@
       "iso_region": "MM-11",
       "municipality": "Naungmom",
       "gps_code": "VYNM",
-      "coordinates": "27.5, 97.81700134277344"
+      "coordinates": "27.5, 97.81700134277344",
+      "metar_available": false
     },
     {
       "ident": "VYNP",
@@ -689,7 +743,8 @@
       "iso_region": "MM-11",
       "municipality": "Myitkyina",
       "gps_code": "VYNP",
-      "coordinates": "25.354400634799998, 97.2951965332"
+      "coordinates": "25.354400634799998, 97.2951965332",
+      "metar_available": false
     },
     {
       "ident": "VYNS",
@@ -702,7 +757,8 @@
       "municipality": "Namsang",
       "gps_code": "VYNS",
       "iata_code": "NMS",
-      "coordinates": "20.890499114990234, 97.73590087890625"
+      "coordinates": "20.890499114990234, 97.73590087890625",
+      "metar_available": false
     },
     {
       "ident": "VYNT",
@@ -715,7 +771,8 @@
       "municipality": "Pyinmana",
       "gps_code": "VYNT",
       "iata_code": "NYT",
-      "coordinates": "19.623501, 96.200996"
+      "coordinates": "19.623501, 96.200996",
+      "metar_available": false
     },
     {
       "ident": "VYNU",
@@ -728,7 +785,8 @@
       "municipality": "Namtu",
       "gps_code": "VYNU",
       "iata_code": "NMT",
-      "coordinates": "23.083, 97.383003"
+      "coordinates": "23.083, 97.383003",
+      "metar_available": false
     },
     {
       "ident": "VYPA",
@@ -741,7 +799,8 @@
       "municipality": "Hpa-N",
       "gps_code": "VYPA",
       "iata_code": "PAA",
-      "coordinates": "16.8937, 97.674599"
+      "coordinates": "16.8937, 97.674599",
+      "metar_available": false
     },
     {
       "ident": "VYPB",
@@ -753,7 +812,8 @@
       "iso_region": "MM-01",
       "municipality": "Phonngbyin",
       "gps_code": "VYPB",
-      "coordinates": "24.25, 94.78299713134766"
+      "coordinates": "24.25, 94.78299713134766",
+      "metar_available": false
     },
     {
       "ident": "VYPE",
@@ -765,7 +825,8 @@
       "iso_region": "MM-14",
       "municipality": "Paletwa",
       "gps_code": "VYPE",
-      "coordinates": "21.28416, 92.90048"
+      "coordinates": "21.28416, 92.90048",
+      "metar_available": false
     },
     {
       "ident": "VYPI",
@@ -777,7 +838,8 @@
       "iso_region": "MM-05",
       "municipality": "Pearl Island",
       "gps_code": "VYPI",
-      "coordinates": "11.276081, 98.213278"
+      "coordinates": "11.276081, 98.213278",
+      "metar_available": false
     },
     {
       "ident": "VYPK",
@@ -790,7 +852,8 @@
       "municipality": "Pauk",
       "gps_code": "VYPK",
       "iata_code": "PAU",
-      "coordinates": "21.4492, 94.4869"
+      "coordinates": "21.4492, 94.4869",
+      "metar_available": false
     },
     {
       "ident": "VYPL",
@@ -802,7 +865,8 @@
       "iso_region": "MM-01",
       "municipality": "Pinlebu",
       "gps_code": "VYPL",
-      "coordinates": "24.08300018310547, 95.36699676513672"
+      "coordinates": "24.08300018310547, 95.36699676513672",
+      "metar_available": false
     },
     {
       "ident": "VYPN",
@@ -815,7 +879,8 @@
       "municipality": "Pathein",
       "gps_code": "VYPN",
       "iata_code": "BSX",
-      "coordinates": "16.815201, 94.7799"
+      "coordinates": "16.815201, 94.7799",
+      "metar_available": false
     },
     {
       "ident": "VYPP",
@@ -828,7 +893,8 @@
       "municipality": "Pa Pun",
       "gps_code": "VYPP",
       "iata_code": "PPU",
-      "coordinates": "18.0666999817, 97.449798584"
+      "coordinates": "18.0666999817, 97.449798584",
+      "metar_available": false
     },
     {
       "ident": "VYPT",
@@ -841,7 +907,8 @@
       "municipality": "Putao",
       "gps_code": "VYPT",
       "iata_code": "PBU",
-      "coordinates": "27.32990074157715, 97.42630004882812"
+      "coordinates": "27.32990074157715, 97.42630004882812",
+      "metar_available": false
     },
     {
       "ident": "VYPU",
@@ -854,7 +921,8 @@
       "municipality": "Pakhokku",
       "gps_code": "VYPU",
       "iata_code": "PKK",
-      "coordinates": "21.4043, 95.11125"
+      "coordinates": "21.4043, 95.11125",
+      "metar_available": false
     },
     {
       "ident": "VYPW",
@@ -866,7 +934,8 @@
       "iso_region": "MM-05",
       "municipality": "Palaw",
       "gps_code": "VYPW",
-      "coordinates": "12.959289, 98.641627"
+      "coordinates": "12.959289, 98.641627",
+      "metar_available": false
     },
     {
       "ident": "VYPY",
@@ -879,7 +948,8 @@
       "municipality": "Pye",
       "gps_code": "VYPY",
       "iata_code": "PRU",
-      "coordinates": "18.824499130249023, 95.26599884033203"
+      "coordinates": "18.824499130249023, 95.26599884033203",
+      "metar_available": false
     },
     {
       "ident": "VYSA",
@@ -891,7 +961,8 @@
       "iso_region": "MM-03",
       "municipality": "Saw",
       "gps_code": "VYSA",
-      "coordinates": "21.16699981689453, 94.16699981689453"
+      "coordinates": "21.16699981689453, 94.16699981689453",
+      "metar_available": false
     },
     {
       "ident": "VYSL",
@@ -903,7 +974,8 @@
       "iso_region": "MM-01",
       "municipality": "Salingyi",
       "gps_code": "VYSL",
-      "coordinates": "22.100000381469727, 95.01699829101562"
+      "coordinates": "22.100000381469727, 95.01699829101562",
+      "metar_available": false
     },
     {
       "ident": "VYST",
@@ -915,7 +987,8 @@
       "iso_region": "MM-04",
       "municipality": "Meiktila",
       "gps_code": "VYST",
-      "coordinates": "20.941699981689453, 95.91449737548828"
+      "coordinates": "20.941699981689453, 95.91449737548828",
+      "metar_available": false
     },
     {
       "ident": "VYSW",
@@ -928,7 +1001,8 @@
       "municipality": "Sittwe",
       "gps_code": "VYSW",
       "iata_code": "AKY",
-      "coordinates": "20.133165, 92.870693"
+      "coordinates": "20.133165, 92.870693",
+      "metar_available": false
     },
     {
       "ident": "VYTD",
@@ -941,7 +1015,8 @@
       "municipality": "Thandwe",
       "gps_code": "VYTD",
       "iata_code": "SNW",
-      "coordinates": "18.4606990814209, 94.30010223388672"
+      "coordinates": "18.4606990814209, 94.30010223388672",
+      "metar_available": false
     },
     {
       "ident": "VYTL",
@@ -954,7 +1029,8 @@
       "municipality": "Tachileik",
       "gps_code": "VYTL",
       "iata_code": "THL",
-      "coordinates": "20.483800888061523, 99.9354019165039"
+      "coordinates": "20.483800888061523, 99.9354019165039",
+      "metar_available": false
     },
     {
       "ident": "VYTN",
@@ -966,7 +1042,8 @@
       "iso_region": "MM-11",
       "municipality": "Tanai",
       "gps_code": "VYTN",
-      "coordinates": "26.367000579833984, 96.73300170898438"
+      "coordinates": "26.367000579833984, 96.73300170898438",
+      "metar_available": false
     },
     {
       "ident": "VYTO",
@@ -978,7 +1055,8 @@
       "iso_region": "MM-02",
       "municipality": "Taungoo",
       "gps_code": "VYTO",
-      "coordinates": "19.031299591064453, 96.40119934082031"
+      "coordinates": "19.031299591064453, 96.40119934082031",
+      "metar_available": false
     },
     {
       "ident": "VYTY",
@@ -990,7 +1068,8 @@
       "iso_region": "MM-17",
       "municipality": "Tanyang",
       "gps_code": "VYTY",
-      "coordinates": "22.482999801635742, 98.4000015258789"
+      "coordinates": "22.482999801635742, 98.4000015258789",
+      "metar_available": false
     },
     {
       "ident": "VYXG",
@@ -1002,7 +1081,8 @@
       "iso_region": "MM-03",
       "municipality": "Kyaukhtu South",
       "gps_code": "VYXG",
-      "coordinates": "21.406700134277344, 94.13030242919922"
+      "coordinates": "21.406700134277344, 94.13030242919922",
+      "metar_available": false
     },
     {
       "ident": "VYYE",
@@ -1015,7 +1095,8 @@
       "municipality": "Ye",
       "gps_code": "VYYE",
       "iata_code": "XYE",
-      "coordinates": "15.301361, 97.864288"
+      "coordinates": "15.301361, 97.864288",
+      "metar_available": false
     },
     {
       "ident": "VYYY",
@@ -1028,7 +1109,8 @@
       "municipality": "Yangon",
       "gps_code": "VYYY",
       "iata_code": "RGN",
-      "coordinates": "16.907300949099998, 96.1332015991"
+      "coordinates": "16.907300949099998, 96.1332015991",
+      "metar_available": false
     }
   ]
 }

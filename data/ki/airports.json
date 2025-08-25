@@ -2,7 +2,7 @@
   "country_code": "KI",
   "country_name": "Kiribati",
   "total_airports": 23,
-  "last_updated": "2025-08-01T00:18:22.802528",
+  "last_updated": "2025-08-25T10:08:40.954678",
   "types_distribution": {
     "closed": 2,
     "small_airport": 17,
@@ -17,7 +17,8 @@
       "iso_country": "KI",
       "iso_region": "KI-G",
       "municipality": "Tarawa",
-      "coordinates": "1.356247, 172.930108"
+      "coordinates": "1.356247, 172.930108",
+      "metar_available": false
     },
     {
       "ident": "KI-0002",
@@ -28,7 +29,8 @@
       "iso_country": "KI",
       "iso_region": "KI-L",
       "municipality": "Kiritimati",
-      "coordinates": "1.76283, -157.19466"
+      "coordinates": "1.76283, -157.19466",
+      "metar_available": false
     },
     {
       "ident": "NGAB",
@@ -41,7 +43,8 @@
       "municipality": "Abaiang",
       "gps_code": "NGAB",
       "iata_code": "ABF",
-      "coordinates": "1.79861, 173.041"
+      "coordinates": "1.79861, 173.041",
+      "metar_available": false
     },
     {
       "ident": "NGBR",
@@ -54,7 +57,8 @@
       "municipality": "Beru",
       "gps_code": "NGBR",
       "iata_code": "BEZ",
-      "coordinates": "-1.35472, 176.007004"
+      "coordinates": "-1.35472, 176.007004",
+      "metar_available": false
     },
     {
       "ident": "NGKT",
@@ -66,7 +70,8 @@
       "municipality": "Kuria",
       "gps_code": "NGKT",
       "iata_code": "KUC",
-      "coordinates": "0.218611, 173.442001"
+      "coordinates": "0.218611, 173.442001",
+      "metar_available": false
     },
     {
       "ident": "NGMA",
@@ -79,7 +84,8 @@
       "municipality": "Maiana",
       "gps_code": "NGMA",
       "iata_code": "MNK",
-      "coordinates": "1.00361, 173.031006"
+      "coordinates": "1.00361, 173.031006",
+      "metar_available": false
     },
     {
       "ident": "NGMK",
@@ -92,7 +98,8 @@
       "municipality": "Marakei",
       "gps_code": "NGMK",
       "iata_code": "MZK",
-      "coordinates": "2.05861, 173.270996"
+      "coordinates": "2.05861, 173.270996",
+      "metar_available": false
     },
     {
       "ident": "NGMN",
@@ -104,7 +111,8 @@
       "municipality": "Makin Island",
       "gps_code": "NGMN",
       "iata_code": "MTK",
-      "coordinates": "3.37444, 172.992004"
+      "coordinates": "3.37444, 172.992004",
+      "metar_available": false
     },
     {
       "ident": "NGNU",
@@ -117,7 +125,8 @@
       "municipality": "Nikunau",
       "gps_code": "NGNU",
       "iata_code": "NIG",
-      "coordinates": "-1.31444001198, 176.410003662"
+      "coordinates": "-1.31444001198, 176.410003662",
+      "metar_available": false
     },
     {
       "ident": "NGON",
@@ -130,7 +139,8 @@
       "municipality": "Onotoa",
       "gps_code": "NGON",
       "iata_code": "OOT",
-      "coordinates": "-1.79611, 175.526001"
+      "coordinates": "-1.79611, 175.526001",
+      "metar_available": false
     },
     {
       "ident": "NGTA",
@@ -143,7 +153,8 @@
       "municipality": "Tarawa",
       "gps_code": "NGTA",
       "iata_code": "TRW",
-      "coordinates": "1.38164, 173.147003"
+      "coordinates": "1.38164, 173.147003",
+      "metar_available": false
     },
     {
       "ident": "NGTB",
@@ -156,7 +167,8 @@
       "municipality": "Abemama",
       "gps_code": "NGTB",
       "iata_code": "AEA",
-      "coordinates": "0.490759, 173.830287"
+      "coordinates": "0.490759, 173.830287",
+      "metar_available": false
     },
     {
       "ident": "NGTE",
@@ -168,7 +180,8 @@
       "iso_region": "KI-G",
       "gps_code": "NGTE",
       "iata_code": "TBF",
-      "coordinates": "-1.22447, 174.776001"
+      "coordinates": "-1.22447, 174.776001",
+      "metar_available": false
     },
     {
       "ident": "NGTM",
@@ -180,7 +193,8 @@
       "municipality": "Tamana Island",
       "gps_code": "NGTM",
       "iata_code": "TMN",
-      "coordinates": "-2.48583, 175.970001"
+      "coordinates": "-2.48583, 175.970001",
+      "metar_available": false
     },
     {
       "ident": "NGTO",
@@ -193,7 +207,8 @@
       "municipality": "Nonouti",
       "gps_code": "NGTO",
       "iata_code": "NON",
-      "coordinates": "-0.639722, 174.427994"
+      "coordinates": "-0.639722, 174.427994",
+      "metar_available": false
     },
     {
       "ident": "NGTR",
@@ -205,7 +220,8 @@
       "municipality": "Arorae Island",
       "gps_code": "NGTR",
       "iata_code": "AIS",
-      "coordinates": "-2.616233, 176.802209"
+      "coordinates": "-2.616233, 176.802209",
+      "metar_available": false
     },
     {
       "ident": "NGTS",
@@ -217,7 +233,8 @@
       "municipality": "Tabiteuea South",
       "gps_code": "NGTS",
       "iata_code": "TSU",
-      "coordinates": "-1.47444, 175.063995"
+      "coordinates": "-1.47444, 175.063995",
+      "metar_available": false
     },
     {
       "ident": "NGTU",
@@ -230,7 +247,8 @@
       "municipality": "Butaritari",
       "gps_code": "NGTU",
       "iata_code": "BBG",
-      "coordinates": "3.08583, 172.811005"
+      "coordinates": "3.08583, 172.811005",
+      "metar_available": false
     },
     {
       "ident": "NGUK",
@@ -243,7 +261,8 @@
       "municipality": "Buariki",
       "gps_code": "NGUK",
       "iata_code": "AAK",
-      "coordinates": "0.185278, 173.636993"
+      "coordinates": "0.185278, 173.636993",
+      "metar_available": false
     },
     {
       "ident": "PCIS",
@@ -256,7 +275,8 @@
       "municipality": "Abariringa",
       "gps_code": "PCIS",
       "iata_code": "CIS",
-      "coordinates": "-2.7681200504300003, -171.710006714"
+      "coordinates": "-2.7681200504300003, -171.710006714",
+      "metar_available": false
     },
     {
       "ident": "PLCH",
@@ -269,7 +289,8 @@
       "municipality": "Kiritimati",
       "gps_code": "PLCH",
       "iata_code": "CXI",
-      "coordinates": "1.986278, -157.350011"
+      "coordinates": "1.986278, -157.350011",
+      "metar_available": false
     },
     {
       "ident": "PLFA",
@@ -281,7 +302,8 @@
       "municipality": "Tabuaeran Island",
       "gps_code": "PLFA",
       "iata_code": "TNV",
-      "coordinates": "3.89944, -159.389008"
+      "coordinates": "3.89944, -159.389008",
+      "metar_available": false
     },
     {
       "ident": "PLWN",
@@ -294,7 +316,8 @@
       "municipality": "Teraina",
       "gps_code": "PLWN",
       "iata_code": "TNQ",
-      "coordinates": "4.698359, -160.394376"
+      "coordinates": "4.698359, -160.394376",
+      "metar_available": false
     }
   ]
 }

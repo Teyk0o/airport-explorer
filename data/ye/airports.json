@@ -2,7 +2,7 @@
   "country_code": "YE",
   "country_name": "Yemen",
   "total_airports": 45,
-  "last_updated": "2025-08-01T00:18:22.643473",
+  "last_updated": "2025-08-25T10:08:40.781463",
   "types_distribution": {
     "small_airport": 27,
     "medium_airport": 9,
@@ -21,7 +21,8 @@
       "municipality": "Dathina",
       "iata_code": "DAH",
       "local_code": "DAH",
-      "coordinates": "13.866884, 46.133473"
+      "coordinates": "13.866884, 46.133473",
+      "metar_available": false
     },
     {
       "ident": "DHL",
@@ -33,7 +34,8 @@
       "municipality": "Ad-Dali",
       "iata_code": "DHL",
       "local_code": "DHL",
-      "coordinates": "13.73846, 44.72719"
+      "coordinates": "13.73846, 44.72719",
+      "metar_available": false
     },
     {
       "ident": "OY74",
@@ -44,7 +46,8 @@
       "iso_country": "YE",
       "iso_region": "YE-LA",
       "municipality": "Al Anad",
-      "coordinates": "13.1747, 44.765099"
+      "coordinates": "13.1747, 44.765099",
+      "metar_available": false
     },
     {
       "ident": "OY75",
@@ -57,7 +60,8 @@
       "municipality": "Heru",
       "gps_code": "OY75",
       "local_code": "OY75",
-      "coordinates": "15.6018, 49.0807"
+      "coordinates": "15.6018, 49.0807",
+      "metar_available": false
     },
     {
       "ident": "OYAA",
@@ -70,7 +74,8 @@
       "municipality": "Aden",
       "gps_code": "OYAA",
       "iata_code": "ADE",
-      "coordinates": "12.8295, 45.028801"
+      "coordinates": "12.8295, 45.028801",
+      "metar_available": false
     },
     {
       "ident": "OYAB",
@@ -83,7 +88,8 @@
       "municipality": "Abs",
       "gps_code": "OYBS",
       "iata_code": "EAB",
-      "coordinates": "16.010983, 43.176771"
+      "coordinates": "16.010983, 43.176771",
+      "metar_available": false
     },
     {
       "ident": "OYAT",
@@ -96,7 +102,8 @@
       "municipality": "Ataq",
       "gps_code": "OYAT",
       "iata_code": "AXK",
-      "coordinates": "14.5513, 46.826199"
+      "coordinates": "14.5513, 46.826199",
+      "metar_available": false
     },
     {
       "ident": "OYBA",
@@ -108,7 +115,8 @@
       "iso_region": "YE-HD",
       "municipality": "Dhula'",
       "gps_code": "OYBA",
-      "coordinates": "18.720709, 50.835771"
+      "coordinates": "18.720709, 50.835771",
+      "metar_available": false
     },
     {
       "ident": "OYBI",
@@ -121,7 +129,8 @@
       "municipality": "Al-Bayda",
       "gps_code": "OYBD",
       "iata_code": "BYD",
-      "coordinates": "14.105974, 45.441079"
+      "coordinates": "14.105974, 45.441079",
+      "metar_available": false
     },
     {
       "ident": "OYBN",
@@ -134,7 +143,8 @@
       "municipality": "Beihan",
       "gps_code": "OYBN",
       "iata_code": "BHN",
-      "coordinates": "14.781714, 45.719703"
+      "coordinates": "14.781714, 45.719703",
+      "metar_available": false
     },
     {
       "ident": "OYBQ",
@@ -147,7 +157,8 @@
       "municipality": "Al-Bough",
       "gps_code": "OYBQ",
       "iata_code": "BUK",
-      "coordinates": "17.350352, 44.625542"
+      "coordinates": "17.350352, 44.625542",
+      "metar_available": false
     },
     {
       "ident": "OYGD",
@@ -160,7 +171,8 @@
       "municipality": "Al Ghaydah",
       "gps_code": "OYGD",
       "iata_code": "AAY",
-      "coordinates": "16.193341, 52.174186"
+      "coordinates": "16.193341, 52.174186",
+      "metar_available": false
     },
     {
       "ident": "OYHD",
@@ -171,7 +183,8 @@
       "iso_country": "YE",
       "iso_region": "YE-HU",
       "municipality": "Hodeida",
-      "coordinates": "14.753, 42.976299"
+      "coordinates": "14.753, 42.976299",
+      "metar_available": false
     },
     {
       "ident": "OYKM",
@@ -184,7 +197,8 @@
       "municipality": "Kamaran",
       "gps_code": "OYKM",
       "iata_code": "KAM",
-      "coordinates": "15.368755, 42.612515"
+      "coordinates": "15.368755, 42.612515",
+      "metar_available": false
     },
     {
       "ident": "OYMB",
@@ -197,7 +211,8 @@
       "municipality": "Marib",
       "gps_code": "OYMB",
       "iata_code": "MYN",
-      "coordinates": "15.469228, 45.327272"
+      "coordinates": "15.469228, 45.327272",
+      "metar_available": false
     },
     {
       "ident": "OYMS",
@@ -210,7 +225,8 @@
       "municipality": "Mukayras",
       "gps_code": "OYMS",
       "iata_code": "UKR",
-      "coordinates": "13.9368, 45.657"
+      "coordinates": "13.9368, 45.657",
+      "metar_available": false
     },
     {
       "ident": "OYQN",
@@ -223,7 +239,8 @@
       "municipality": "Qishn",
       "gps_code": "OYQN",
       "iata_code": "IHN",
-      "coordinates": "15.417, 51.682999"
+      "coordinates": "15.417, 51.682999",
+      "metar_available": false
     },
     {
       "ident": "OYRN",
@@ -236,7 +253,8 @@
       "municipality": "Riyan",
       "gps_code": "OYRN",
       "iata_code": "RIY",
-      "coordinates": "14.6626, 49.375"
+      "coordinates": "14.6626, 49.375",
+      "metar_available": false
     },
     {
       "ident": "OYRT",
@@ -248,7 +266,8 @@
       "iso_region": "YE-JA",
       "municipality": "Barat",
       "gps_code": "OYRT",
-      "coordinates": "16.732999801635742, 44.349998474121094"
+      "coordinates": "16.732999801635742, 44.349998474121094",
+      "metar_available": false
     },
     {
       "ident": "OYSF",
@@ -259,7 +278,8 @@
       "iso_region": "YE-HU",
       "municipality": "As Salif",
       "gps_code": "OYSF",
-      "coordinates": "15.294577, 42.685954"
+      "coordinates": "15.294577, 42.685954",
+      "metar_available": false
     },
     {
       "ident": "OYSH",
@@ -272,7 +292,8 @@
       "municipality": "Sa'dah",
       "gps_code": "OYSH",
       "iata_code": "SYE",
-      "coordinates": "16.967542, 43.728103"
+      "coordinates": "16.967542, 43.728103",
+      "metar_available": false
     },
     {
       "ident": "OYSN",
@@ -285,7 +306,8 @@
       "municipality": "Sanaa",
       "gps_code": "OYSN",
       "iata_code": "SAH",
-      "coordinates": "15.4763, 44.2197"
+      "coordinates": "15.4763, 44.2197",
+      "metar_available": false
     },
     {
       "ident": "OYSQ",
@@ -298,7 +320,8 @@
       "municipality": "Mori",
       "gps_code": "OYSQ",
       "iata_code": "SCT",
-      "coordinates": "12.6307, 53.9058"
+      "coordinates": "12.6307, 53.9058",
+      "metar_available": false
     },
     {
       "ident": "OYSY",
@@ -311,7 +334,8 @@
       "municipality": "Seiyun",
       "gps_code": "OYSY",
       "iata_code": "GXF",
-      "coordinates": "15.9661, 48.7883"
+      "coordinates": "15.9661, 48.7883",
+      "metar_available": false
     },
     {
       "ident": "OYTZ",
@@ -324,7 +348,8 @@
       "municipality": "Ta'izz",
       "gps_code": "OYTZ",
       "iata_code": "TAI",
-      "coordinates": "13.6859998703, 44.139099121099996"
+      "coordinates": "13.6859998703, 44.139099121099996",
+      "metar_available": false
     },
     {
       "ident": "OYZM",
@@ -336,7 +361,8 @@
       "iso_region": "YE-JA",
       "municipality": "Al-Hazm",
       "gps_code": "OYZM",
-      "coordinates": "16.200001, 44.783001"
+      "coordinates": "16.200001, 44.783001",
+      "metar_available": false
     },
     {
       "ident": "WDA",
@@ -347,7 +373,8 @@
       "iso_region": "YE-SH",
       "municipality": "Ain District",
       "iata_code": "WDA",
-      "coordinates": "14.859579, 45.545705"
+      "coordinates": "14.859579, 45.545705",
+      "metar_available": false
     },
     {
       "ident": "YE-0001",
@@ -357,7 +384,8 @@
       "iso_country": "YE",
       "iso_region": "YE-TA",
       "municipality": "Dhubab",
-      "coordinates": "12.66456, 43.41023"
+      "coordinates": "12.66456, 43.41023",
+      "metar_available": false
     },
     {
       "ident": "YE-0002",
@@ -367,7 +395,8 @@
       "iso_country": "YE",
       "iso_region": "YE-TA",
       "municipality": "Dhubab",
-      "coordinates": "12.661236, 43.429654"
+      "coordinates": "12.661236, 43.429654",
+      "metar_available": false
     },
     {
       "ident": "YE-0003",
@@ -378,7 +407,8 @@
       "iso_country": "YE",
       "iso_region": "YE-HD",
       "municipality": "Al Dhaba",
-      "coordinates": "14.70339, 49.49634"
+      "coordinates": "14.70339, 49.49634",
+      "metar_available": false
     },
     {
       "ident": "YE-0004",
@@ -389,7 +419,8 @@
       "iso_country": "YE",
       "iso_region": "YE-AD",
       "municipality": "Aden",
-      "coordinates": "12.76404, 45.05339"
+      "coordinates": "12.76404, 45.05339",
+      "metar_available": false
     },
     {
       "ident": "YE-0005",
@@ -401,7 +432,8 @@
       "iso_region": "YE-SH",
       "municipality": "Ar Rawdah",
       "iata_code": "RXA",
-      "coordinates": "14.44872, 47.27955"
+      "coordinates": "14.44872, 47.27955",
+      "metar_available": false
     },
     {
       "ident": "YE-0006",
@@ -412,7 +444,8 @@
       "iso_country": "YE",
       "iso_region": "YE-SH",
       "municipality": "Balhaf",
-      "coordinates": "14.00403, 48.18221"
+      "coordinates": "14.00403, 48.18221",
+      "metar_available": false
     },
     {
       "ident": "YE-0007",
@@ -423,7 +456,8 @@
       "iso_country": "YE",
       "iso_region": "YE-SH",
       "municipality": "Balhaf",
-      "coordinates": "14.00528, 48.18431"
+      "coordinates": "14.00528, 48.18431",
+      "metar_available": false
     },
     {
       "ident": "YE-0008",
@@ -434,7 +468,8 @@
       "iso_country": "YE",
       "iso_region": "YE-SH",
       "municipality": "Balhaf",
-      "coordinates": "14.01389, 48.15943"
+      "coordinates": "14.01389, 48.15943",
+      "metar_available": false
     },
     {
       "ident": "YE-0009",
@@ -445,7 +480,8 @@
       "iso_country": "YE",
       "iso_region": "YE-SH",
       "municipality": "Balhaf",
-      "coordinates": "14.00131, 48.17582"
+      "coordinates": "14.00131, 48.17582",
+      "metar_available": false
     },
     {
       "ident": "YE-0010",
@@ -456,7 +492,8 @@
       "iso_country": "YE",
       "iso_region": "YE-SH",
       "municipality": "Balhaf",
-      "coordinates": "14.0121, 48.18081"
+      "coordinates": "14.0121, 48.18081",
+      "metar_available": false
     },
     {
       "ident": "YE-0011",
@@ -467,7 +504,8 @@
       "iso_country": "YE",
       "iso_region": "YE-AB",
       "municipality": "Zinjibar",
-      "coordinates": "13.11228, 45.42159"
+      "coordinates": "13.11228, 45.42159",
+      "metar_available": false
     },
     {
       "ident": "YE-0012",
@@ -477,7 +515,8 @@
       "iso_country": "YE",
       "iso_region": "YE-TA",
       "municipality": "Mokha",
-      "coordinates": "13.296941, 43.231858"
+      "coordinates": "13.296941, 43.231858",
+      "metar_available": false
     },
     {
       "ident": "YE-0013",
@@ -487,7 +526,8 @@
       "iso_country": "YE",
       "iso_region": "YE-TA",
       "municipality": "Sayma",
-      "coordinates": "13.020746, 43.467598"
+      "coordinates": "13.020746, 43.467598",
+      "metar_available": false
     },
     {
       "ident": "YE-0014",
@@ -497,7 +537,8 @@
       "iso_country": "YE",
       "iso_region": "YE-HD",
       "municipality": "Kharir",
-      "coordinates": "15.734888, 48.793107"
+      "coordinates": "15.734888, 48.793107",
+      "metar_available": false
     },
     {
       "ident": "YE-0015",
@@ -507,7 +548,8 @@
       "iso_country": "YE",
       "iso_region": "YE-HD",
       "municipality": "Um Ghareb",
-      "coordinates": "18.399411, 49.127599"
+      "coordinates": "18.399411, 49.127599",
+      "metar_available": false
     },
     {
       "ident": "YE-0016",
@@ -517,7 +559,8 @@
       "iso_country": "YE",
       "iso_region": "YE-AD",
       "municipality": "Little Aden",
-      "coordinates": "12.785666, 44.825802"
+      "coordinates": "12.785666, 44.825802",
+      "metar_available": false
     },
     {
       "ident": "YE-0017",
@@ -527,7 +570,8 @@
       "iso_country": "YE",
       "iso_region": "YE-SU",
       "municipality": "Kilmia",
-      "coordinates": "12.186662, 52.291746"
+      "coordinates": "12.186662, 52.291746",
+      "metar_available": false
     },
     {
       "ident": "YE-0018",
@@ -537,7 +581,8 @@
       "iso_country": "YE",
       "iso_region": "YE-TA",
       "municipality": "Mayyun",
-      "coordinates": "12.66653, 43.40793"
+      "coordinates": "12.66653, 43.40793",
+      "metar_available": false
     }
   ]
 }

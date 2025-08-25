@@ -2,7 +2,7 @@
   "country_code": "SV",
   "country_name": "El Salvador",
   "total_airports": 29,
-  "last_updated": "2025-08-01T00:18:22.829509",
+  "last_updated": "2025-08-25T10:08:40.984084",
   "types_distribution": {
     "small_airport": 25,
     "large_airport": 1,
@@ -19,7 +19,8 @@
       "iso_region": "SV-SM",
       "municipality": "San Miguel",
       "gps_code": "MSAC",
-      "coordinates": "13.447990417480469, -88.12010955810547"
+      "coordinates": "13.447990417480469, -88.12010955810547",
+      "metar_available": false
     },
     {
       "ident": "MSBS",
@@ -30,7 +31,8 @@
       "iso_region": "SV-US",
       "municipality": "Barrillas",
       "gps_code": "MSBS",
-      "coordinates": "13.265263, -88.49913"
+      "coordinates": "13.265263, -88.49913",
+      "metar_available": false
     },
     {
       "ident": "MSCD",
@@ -41,7 +43,8 @@
       "iso_region": "SV-US",
       "municipality": "Ceiba Doblada",
       "gps_code": "MSCD",
-      "coordinates": "13.213011, -88.602814"
+      "coordinates": "13.213011, -88.602814",
+      "metar_available": false
     },
     {
       "ident": "MSCH",
@@ -52,7 +55,8 @@
       "iso_region": "SV-US",
       "municipality": "La Chepona",
       "gps_code": "MSCH",
-      "coordinates": "13.186094, -88.406448"
+      "coordinates": "13.186094, -88.406448",
+      "metar_available": false
     },
     {
       "ident": "MSCM",
@@ -63,7 +67,8 @@
       "iso_region": "SV-US",
       "municipality": "Corral de Mulas",
       "gps_code": "MSCM",
-      "coordinates": "13.205588, -88.54734"
+      "coordinates": "13.205588, -88.54734",
+      "metar_available": false
     },
     {
       "ident": "MSCN",
@@ -74,7 +79,8 @@
       "iso_region": "SV-US",
       "municipality": "Jiquilisco",
       "gps_code": "MSCN",
-      "coordinates": "13.309973, -88.505867"
+      "coordinates": "13.309973, -88.505867",
+      "metar_available": false
     },
     {
       "ident": "MSCR",
@@ -85,7 +91,8 @@
       "iso_region": "SV-US",
       "municipality": "Jiquilisco",
       "gps_code": "MSCR",
-      "coordinates": "13.328703, -88.52092"
+      "coordinates": "13.328703, -88.52092",
+      "metar_available": false
     },
     {
       "ident": "MSES",
@@ -96,7 +103,8 @@
       "iso_region": "SV-US",
       "municipality": "Espíritu Santo",
       "gps_code": "MSES",
-      "coordinates": "13.219324, -88.554047"
+      "coordinates": "13.219324, -88.554047",
+      "metar_available": false
     },
     {
       "ident": "MSET",
@@ -108,7 +116,8 @@
       "municipality": "Canoguero",
       "gps_code": "MSET",
       "local_code": "MS1A",
-      "coordinates": "13.1625995636, -87.904800415"
+      "coordinates": "13.1625995636, -87.904800415",
+      "metar_available": false
     },
     {
       "ident": "MSJC",
@@ -119,7 +128,8 @@
       "iso_region": "SV-SO",
       "municipality": "El Jocotillo",
       "gps_code": "MSJC",
-      "coordinates": "13.577824, -89.733238"
+      "coordinates": "13.577824, -89.733238",
+      "metar_available": false
     },
     {
       "ident": "MSLC",
@@ -130,7 +140,8 @@
       "iso_region": "SV-SS",
       "municipality": "La Cabaña",
       "gps_code": "MSLC",
-      "coordinates": "14.00981, -89.184761"
+      "coordinates": "14.00981, -89.184761",
+      "metar_available": false
     },
     {
       "ident": "MSLD",
@@ -142,7 +153,8 @@
       "municipality": "San Francisco Gotera",
       "gps_code": "MSLD",
       "local_code": "MS1B",
-      "coordinates": "13.7262, -88.106697"
+      "coordinates": "13.7262, -88.106697",
+      "metar_available": false
     },
     {
       "ident": "MSLM",
@@ -153,7 +165,8 @@
       "iso_region": "SV-LI",
       "municipality": "Las Mesas",
       "gps_code": "MSLM",
-      "coordinates": "13.487070083618164, -89.19265747070312"
+      "coordinates": "13.487070083618164, -89.19265747070312",
+      "metar_available": false
     },
     {
       "ident": "MSLP",
@@ -165,7 +178,8 @@
       "municipality": "San Salvador (San Luis Talpa)",
       "gps_code": "MSLP",
       "iata_code": "SAL",
-      "coordinates": "13.4409, -89.055702"
+      "coordinates": "13.4409, -89.055702",
+      "metar_available": false
     },
     {
       "ident": "MSPT",
@@ -176,7 +190,8 @@
       "iso_region": "SV-CU",
       "municipality": "Suchitoto",
       "gps_code": "MSPT",
-      "coordinates": "13.9453, -89.062798"
+      "coordinates": "13.9453, -89.062798",
+      "metar_available": false
     },
     {
       "ident": "MSRC",
@@ -187,7 +202,8 @@
       "iso_region": "SV-SA",
       "municipality": "Metapán",
       "gps_code": "MSRC",
-      "coordinates": "14.318715, -89.506897"
+      "coordinates": "14.318715, -89.506897",
+      "metar_available": false
     },
     {
       "ident": "MSSA",
@@ -198,7 +214,8 @@
       "iso_region": "SV-SA",
       "municipality": "Santa Ana",
       "gps_code": "MSSA",
-      "coordinates": "14.067222, -89.632222"
+      "coordinates": "14.067222, -89.632222",
+      "metar_available": false
     },
     {
       "ident": "MSSJ",
@@ -209,7 +226,8 @@
       "iso_region": "SV-US",
       "municipality": "Corral de Mulas",
       "gps_code": "MSSJ",
-      "coordinates": "13.178735, -88.47316"
+      "coordinates": "13.178735, -88.47316",
+      "metar_available": false
     },
     {
       "ident": "MSSM",
@@ -220,7 +238,8 @@
       "iso_region": "SV-SM",
       "municipality": "San Miguel",
       "gps_code": "MSSM",
-      "coordinates": "13.4441, -88.126999"
+      "coordinates": "13.4441, -88.126999",
+      "metar_available": false
     },
     {
       "ident": "MSSN",
@@ -231,7 +250,8 @@
       "iso_region": "SV-UN",
       "municipality": "San Ramón",
       "gps_code": "MSSN",
-      "coordinates": "13.197465896606445, -87.9609146118164"
+      "coordinates": "13.197465896606445, -87.9609146118164",
+      "metar_available": false
     },
     {
       "ident": "MSSS",
@@ -243,7 +263,8 @@
       "municipality": "San Salvador",
       "gps_code": "MSSS",
       "iata_code": "ILS",
-      "coordinates": "13.6995, -89.119904"
+      "coordinates": "13.6995, -89.119904",
+      "metar_available": false
     },
     {
       "ident": "MSZT",
@@ -254,7 +275,8 @@
       "iso_region": "SV-AH",
       "municipality": "Barra de Santiago",
       "gps_code": "MSZT",
-      "coordinates": "13.707954, -90.026268"
+      "coordinates": "13.707954, -90.026268",
+      "metar_available": false
     },
     {
       "ident": "SV-0001",
@@ -264,7 +286,8 @@
       "iso_country": "SV",
       "iso_region": "SV-LI",
       "municipality": "El Botoncillal",
-      "coordinates": "13.771100044250488, -89.37139892578125"
+      "coordinates": "13.771100044250488, -89.37139892578125",
+      "metar_available": false
     },
     {
       "ident": "SV-0002",
@@ -275,7 +298,8 @@
       "iso_region": "SV-LI",
       "municipality": "Cangrejera",
       "gps_code": "MSCS",
-      "coordinates": "13.466724, -89.191345"
+      "coordinates": "13.466724, -89.191345",
+      "metar_available": false
     },
     {
       "ident": "SV-0003",
@@ -285,7 +309,8 @@
       "iso_country": "SV",
       "iso_region": "SV-SV",
       "municipality": "San Fernando",
-      "coordinates": "13.454823, -88.756378"
+      "coordinates": "13.454823, -88.756378",
+      "metar_available": false
     },
     {
       "ident": "SV-0004",
@@ -295,7 +320,8 @@
       "iso_country": "SV",
       "iso_region": "SV-UN",
       "municipality": "Santa Rosa de Lima",
-      "coordinates": "13.616000175476074, -87.86389923095703"
+      "coordinates": "13.616000175476074, -87.86389923095703",
+      "metar_available": false
     },
     {
       "ident": "SV-0005",
@@ -305,7 +331,8 @@
       "iso_country": "SV",
       "iso_region": "SV-US",
       "municipality": "Usulutan",
-      "coordinates": "13.33199, -88.50131"
+      "coordinates": "13.33199, -88.50131",
+      "metar_available": false
     },
     {
       "ident": "SV-0006",
@@ -315,7 +342,8 @@
       "iso_country": "SV",
       "iso_region": "SV-US",
       "municipality": "Puerto El Triunfo",
-      "coordinates": "13.29613, -88.53113"
+      "coordinates": "13.29613, -88.53113",
+      "metar_available": false
     },
     {
       "ident": "SV-0007",
@@ -325,7 +353,8 @@
       "iso_country": "SV",
       "iso_region": "SV-SS",
       "municipality": "San Salvador",
-      "coordinates": "13.71474, -89.191345"
+      "coordinates": "13.71474, -89.191345",
+      "metar_available": false
     }
   ]
 }
