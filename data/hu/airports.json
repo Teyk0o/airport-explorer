@@ -2,7 +2,7 @@
   "country_code": "HU",
   "country_name": "Hungary",
   "total_airports": 138,
-  "last_updated": "2025-08-01T00:18:22.751993",
+  "last_updated": "2025-08-25T10:08:40.898646",
   "types_distribution": {
     "small_airport": 99,
     "medium_airport": 9,
@@ -21,7 +21,8 @@
       "iso_region": "HU-BE",
       "municipality": "Szarvas",
       "gps_code": "LHSV",
-      "coordinates": "46.803936, 20.527838"
+      "coordinates": "46.803936, 20.527838",
+      "metar_available": false
     },
     {
       "ident": "HU-0002",
@@ -33,7 +34,8 @@
       "iso_region": "HU-BK",
       "municipality": "Kalocsa",
       "gps_code": "LHKA",
-      "coordinates": "46.55149, 18.942299"
+      "coordinates": "46.55149, 18.942299",
+      "metar_available": false
     },
     {
       "ident": "HU-0003",
@@ -45,7 +47,8 @@
       "iso_region": "HU-BK",
       "municipality": "Matkópuszta",
       "gps_code": "LHMP",
-      "coordinates": "46.800343, 19.68257"
+      "coordinates": "46.800343, 19.68257",
+      "metar_available": false
     },
     {
       "ident": "HU-0004",
@@ -56,7 +59,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BZ",
       "municipality": "Mezőkövesd",
-      "coordinates": "47.81518, 20.635585"
+      "coordinates": "47.81518, 20.635585",
+      "metar_available": false
     },
     {
       "ident": "HU-0005",
@@ -67,7 +71,8 @@
       "iso_country": "HU",
       "iso_region": "HU-CS",
       "municipality": "Hódmezővásárhely",
-      "coordinates": "46.456257, 20.392963"
+      "coordinates": "46.456257, 20.392963",
+      "metar_available": false
     },
     {
       "ident": "HU-0006",
@@ -79,7 +84,8 @@
       "iso_region": "HU-CS",
       "municipality": "Szatymaz",
       "gps_code": "LHST",
-      "coordinates": "46.322651, 20.053209"
+      "coordinates": "46.322651, 20.053209",
+      "metar_available": false
     },
     {
       "ident": "HU-0007",
@@ -91,7 +97,8 @@
       "iso_region": "HU-FE",
       "municipality": "Székesfehérvár",
       "gps_code": "LHBD",
-      "coordinates": "47.129833, 18.50029"
+      "coordinates": "47.129833, 18.50029",
+      "metar_available": false
     },
     {
       "ident": "HU-0008",
@@ -103,7 +110,8 @@
       "iso_region": "HU-GS",
       "municipality": "Pusztacsalád",
       "gps_code": "LHPC",
-      "coordinates": "47.493935, 16.897216"
+      "coordinates": "47.493935, 16.897216",
+      "metar_available": false
     },
     {
       "ident": "HU-0009",
@@ -114,7 +122,8 @@
       "iso_country": "HU",
       "iso_region": "HU-JN",
       "municipality": "Kenderes",
-      "coordinates": "47.269824, 20.689702"
+      "coordinates": "47.269824, 20.689702",
+      "metar_available": false
     },
     {
       "ident": "HU-0010",
@@ -126,7 +135,8 @@
       "iso_region": "HU-JN",
       "municipality": "Kunmadaras",
       "gps_code": "LHKM",
-      "coordinates": "47.390839, 20.785009"
+      "coordinates": "47.390839, 20.785009",
+      "metar_available": false
     },
     {
       "ident": "HU-0011",
@@ -136,7 +146,8 @@
       "iso_country": "HU",
       "iso_region": "HU-VA",
       "municipality": "Tokorcs",
-      "coordinates": "47.271543, 17.109145"
+      "coordinates": "47.271543, 17.109145",
+      "metar_available": false
     },
     {
       "ident": "HU-0012",
@@ -147,7 +158,8 @@
       "iso_country": "HU",
       "iso_region": "HU-ZA",
       "municipality": "Cserszegtomaj",
-      "coordinates": "46.809114, 17.19974"
+      "coordinates": "46.809114, 17.19974",
+      "metar_available": false
     },
     {
       "ident": "HU-0013",
@@ -159,7 +171,8 @@
       "iso_region": "HU-BK",
       "municipality": "Baja",
       "gps_code": "LHBJ",
-      "coordinates": "46.145347, 19.043172"
+      "coordinates": "46.145347, 19.043172",
+      "metar_available": false
     },
     {
       "ident": "HU-0014",
@@ -171,7 +184,8 @@
       "iso_region": "HU-SO",
       "municipality": "Balatonkeresztúr",
       "gps_code": "LHBK",
-      "coordinates": "46.693034, 17.397773"
+      "coordinates": "46.693034, 17.397773",
+      "metar_available": false
     },
     {
       "ident": "HU-0015",
@@ -183,7 +197,8 @@
       "iso_region": "HU-VE",
       "municipality": "Dáka",
       "gps_code": "LHDA",
-      "coordinates": "47.271801, 17.4105"
+      "coordinates": "47.271801, 17.4105",
+      "metar_available": false
     },
     {
       "ident": "HU-0016",
@@ -195,7 +210,8 @@
       "iso_region": "HU-BK",
       "municipality": "Ballószög",
       "gps_code": "LHBL",
-      "coordinates": "46.8618, 19.5566"
+      "coordinates": "46.8618, 19.5566",
+      "metar_available": false
     },
     {
       "ident": "HU-0017",
@@ -207,7 +223,8 @@
       "iso_region": "HU-GS",
       "municipality": "Gyõrszentiván/Bõny",
       "gps_code": "LHBY",
-      "coordinates": "47.6672, 17.784801"
+      "coordinates": "47.6672, 17.784801",
+      "metar_available": false
     },
     {
       "ident": "HU-0018",
@@ -217,7 +234,8 @@
       "iso_country": "HU",
       "iso_region": "HU-VE",
       "municipality": "Balatonfőkajár",
-      "coordinates": "47.0065, 18.21188"
+      "coordinates": "47.0065, 18.21188",
+      "metar_available": false
     },
     {
       "ident": "HU-0019",
@@ -228,7 +246,8 @@
       "iso_country": "HU",
       "iso_region": "HU-NO",
       "gps_code": "LHBT",
-      "coordinates": "48.025531, 19.805066"
+      "coordinates": "48.025531, 19.805066",
+      "metar_available": false
     },
     {
       "ident": "HU-0020",
@@ -239,7 +258,8 @@
       "iso_country": "HU",
       "iso_region": "HU-NO",
       "municipality": "Rétság",
-      "coordinates": "47.932748, 19.122283"
+      "coordinates": "47.932748, 19.122283",
+      "metar_available": false
     },
     {
       "ident": "HU-0021",
@@ -251,7 +271,8 @@
       "iso_region": "HU-SO",
       "municipality": "Papkutapuszta",
       "gps_code": "LHPK",
-      "coordinates": "46.874977, 18.039036"
+      "coordinates": "46.874977, 18.039036",
+      "metar_available": false
     },
     {
       "ident": "HU-0022",
@@ -260,7 +281,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-PS",
-      "coordinates": "46.0750033, 18.20536"
+      "coordinates": "46.0750033, 18.20536",
+      "metar_available": false
     },
     {
       "ident": "HU-0023",
@@ -272,7 +294,8 @@
       "iso_region": "HU-CS",
       "municipality": "Hódmezővásárhely",
       "gps_code": "LHHM",
-      "coordinates": "46.384444, 20.308333"
+      "coordinates": "46.384444, 20.308333",
+      "metar_available": false
     },
     {
       "ident": "HU-0024",
@@ -284,7 +307,8 @@
       "iso_region": "HU-CS",
       "municipality": "Pusztaszer",
       "gps_code": "LHPS",
-      "coordinates": "46.57687, 19.99022"
+      "coordinates": "46.57687, 19.99022",
+      "metar_available": false
     },
     {
       "ident": "HU-0025",
@@ -295,7 +319,8 @@
       "iso_country": "HU",
       "iso_region": "HU-SO",
       "municipality": "Balatonlelle",
-      "coordinates": "46.760514, 17.689823"
+      "coordinates": "46.760514, 17.689823",
+      "metar_available": false
     },
     {
       "ident": "HU-0026",
@@ -306,7 +331,8 @@
       "iso_country": "HU",
       "iso_region": "HU-PE",
       "municipality": "Dány",
-      "coordinates": "47.500436, 19.504709"
+      "coordinates": "47.500436, 19.504709",
+      "metar_available": false
     },
     {
       "ident": "HU-0027",
@@ -316,7 +342,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-ZA",
-      "coordinates": "46.79941, 17.11188"
+      "coordinates": "46.79941, 17.11188",
+      "metar_available": false
     },
     {
       "ident": "HU-0028",
@@ -326,7 +353,8 @@
       "iso_country": "HU",
       "iso_region": "HU-NO",
       "municipality": "Pásztó",
-      "coordinates": "47.9327379, 19.7747449"
+      "coordinates": "47.9327379, 19.7747449",
+      "metar_available": false
     },
     {
       "ident": "HU-0029",
@@ -338,7 +366,8 @@
       "iso_region": "HU-HE",
       "municipality": "Atkár",
       "gps_code": "LHAK",
-      "coordinates": "47.720908, 19.904652"
+      "coordinates": "47.720908, 19.904652",
+      "metar_available": false
     },
     {
       "ident": "HU-0030",
@@ -349,7 +378,8 @@
       "iso_region": "HU-VE",
       "municipality": "Tapolca",
       "gps_code": "LHTP",
-      "coordinates": "46.8687, 17.407322"
+      "coordinates": "46.8687, 17.407322",
+      "metar_available": false
     },
     {
       "ident": "HU-0031",
@@ -359,7 +389,8 @@
       "iso_country": "HU",
       "iso_region": "HU-VE",
       "municipality": "Balatonederics",
-      "coordinates": "46.784913, 17.378794"
+      "coordinates": "46.784913, 17.378794",
+      "metar_available": false
     },
     {
       "ident": "HU-0032",
@@ -368,7 +399,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-CS",
-      "coordinates": "46.296989, 20.813389"
+      "coordinates": "46.296989, 20.813389",
+      "metar_available": false
     },
     {
       "ident": "HU-0033",
@@ -379,7 +411,8 @@
       "iso_region": "HU-VE",
       "municipality": "Hajmáskér",
       "gps_code": "LHHK",
-      "coordinates": "47.142766, 17.997751"
+      "coordinates": "47.142766, 17.997751",
+      "metar_available": false
     },
     {
       "ident": "HU-0034",
@@ -388,7 +421,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-BZ",
-      "coordinates": "48.297055, 21.222908"
+      "coordinates": "48.297055, 21.222908",
+      "metar_available": false
     },
     {
       "ident": "HU-0035",
@@ -399,7 +433,8 @@
       "iso_country": "HU",
       "iso_region": "HU-PE",
       "municipality": "Dunabogdány",
-      "coordinates": "47.774341, 19.062484"
+      "coordinates": "47.774341, 19.062484",
+      "metar_available": false
     },
     {
       "ident": "HU-0036",
@@ -410,7 +445,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BZ",
       "municipality": "Sárospatak",
-      "coordinates": "48.318035, 21.586117"
+      "coordinates": "48.318035, 21.586117",
+      "metar_available": false
     },
     {
       "ident": "HU-0037",
@@ -421,7 +457,8 @@
       "iso_country": "HU",
       "iso_region": "HU-HE",
       "municipality": "Hatvan",
-      "coordinates": "47.678889, 19.644167"
+      "coordinates": "47.678889, 19.644167",
+      "metar_available": false
     },
     {
       "ident": "HU-0038",
@@ -432,7 +469,8 @@
       "iso_region": "HU-PE",
       "municipality": "Inárcs",
       "gps_code": "LHIN",
-      "coordinates": "47.263641, 19.313225"
+      "coordinates": "47.263641, 19.313225",
+      "metar_available": false
     },
     {
       "ident": "HU-0039",
@@ -441,7 +479,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-BE",
-      "coordinates": "46.9112958, 20.7615195"
+      "coordinates": "46.9112958, 20.7615195",
+      "metar_available": false
     },
     {
       "ident": "HU-0040",
@@ -453,7 +492,8 @@
       "iso_region": "HU-BK",
       "municipality": "Kiskunhalas",
       "gps_code": "LHKF",
-      "coordinates": "46.36935, 19.477426"
+      "coordinates": "46.36935, 19.477426",
+      "metar_available": false
     },
     {
       "ident": "HU-0041",
@@ -463,7 +503,8 @@
       "iso_country": "HU",
       "iso_region": "HU-PE",
       "municipality": "Felsőráda",
-      "coordinates": "47.264102, 19.173974"
+      "coordinates": "47.264102, 19.173974",
+      "metar_available": false
     },
     {
       "ident": "HU-0042",
@@ -474,7 +515,8 @@
       "iso_region": "HU-CS",
       "municipality": "Pusztaszer",
       "gps_code": "LHPW",
-      "coordinates": "46.546667, 19.96"
+      "coordinates": "46.546667, 19.96",
+      "metar_available": false
     },
     {
       "ident": "HU-0043",
@@ -485,7 +527,8 @@
       "iso_country": "HU",
       "iso_region": "HU-CS",
       "municipality": "Domaszék",
-      "coordinates": "46.251378, 19.949197"
+      "coordinates": "46.251378, 19.949197",
+      "metar_available": false
     },
     {
       "ident": "HU-0044",
@@ -495,7 +538,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BE",
       "municipality": "Dévaványa",
-      "coordinates": "47.011512, 20.982331"
+      "coordinates": "47.011512, 20.982331",
+      "metar_available": false
     },
     {
       "ident": "HU-0045",
@@ -506,7 +550,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BK",
       "municipality": "Bácsbokod",
-      "coordinates": "46.10847, 19.15722"
+      "coordinates": "46.10847, 19.15722",
+      "metar_available": false
     },
     {
       "ident": "HU-0046",
@@ -517,7 +562,8 @@
       "iso_country": "HU",
       "iso_region": "HU-HE",
       "municipality": "Jászapáti",
-      "coordinates": "47.521857, 20.16257"
+      "coordinates": "47.521857, 20.16257",
+      "metar_available": false
     },
     {
       "ident": "HU-0047",
@@ -528,7 +574,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BK",
       "municipality": "Csikéria",
-      "coordinates": "46.11381, 19.48895"
+      "coordinates": "46.11381, 19.48895",
+      "metar_available": false
     },
     {
       "ident": "HU-0048",
@@ -538,7 +585,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BU",
       "municipality": "Budapest",
-      "coordinates": "47.50095, 19.201027"
+      "coordinates": "47.50095, 19.201027",
+      "metar_available": false
     },
     {
       "ident": "HU-0049",
@@ -549,7 +597,8 @@
       "iso_country": "HU",
       "iso_region": "HU-VE",
       "municipality": "Városlőd",
-      "coordinates": "47.1336, 17.640073"
+      "coordinates": "47.1336, 17.640073",
+      "metar_available": false
     },
     {
       "ident": "HU-0050",
@@ -560,7 +609,8 @@
       "iso_region": "HU-VE",
       "municipality": "Balatonfüred",
       "gps_code": "LHJT",
-      "coordinates": "46.96852, 17.84473"
+      "coordinates": "46.96852, 17.84473",
+      "metar_available": false
     },
     {
       "ident": "HU-0051",
@@ -569,7 +619,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-BK",
-      "coordinates": "46.57223, 19.42941"
+      "coordinates": "46.57223, 19.42941",
+      "metar_available": false
     },
     {
       "ident": "HU-0052",
@@ -580,7 +631,8 @@
       "iso_country": "HU",
       "iso_region": "HU-ZA",
       "municipality": "Becsehely",
-      "coordinates": "46.432148, 16.778913"
+      "coordinates": "46.432148, 16.778913",
+      "metar_available": false
     },
     {
       "ident": "HU-0053",
@@ -591,7 +643,8 @@
       "iso_country": "HU",
       "iso_region": "HU-ZA",
       "municipality": "Lenti",
-      "coordinates": "46.6525, 16.534252"
+      "coordinates": "46.6525, 16.534252",
+      "metar_available": false
     },
     {
       "ident": "HU-0054",
@@ -601,7 +654,8 @@
       "iso_country": "HU",
       "iso_region": "HU-VE",
       "municipality": "Tótvázsony",
-      "coordinates": "47.03787, 17.78407"
+      "coordinates": "47.03787, 17.78407",
+      "metar_available": false
     },
     {
       "ident": "HU-0055",
@@ -610,7 +664,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-VE",
-      "coordinates": "47.259864, 17.838192"
+      "coordinates": "47.259864, 17.838192",
+      "metar_available": false
     },
     {
       "ident": "HU-0056",
@@ -621,7 +676,8 @@
       "iso_country": "HU",
       "iso_region": "HU-HB",
       "municipality": "Balkány",
-      "coordinates": "47.771461, 21.815028"
+      "coordinates": "47.771461, 21.815028",
+      "metar_available": false
     },
     {
       "ident": "HU-0057",
@@ -631,7 +687,8 @@
       "iso_country": "HU",
       "iso_region": "HU-PE",
       "municipality": "Alsónémedi",
-      "coordinates": "47.286706, 19.183848"
+      "coordinates": "47.286706, 19.183848",
+      "metar_available": false
     },
     {
       "ident": "HU-0058",
@@ -642,7 +699,8 @@
       "iso_country": "HU",
       "iso_region": "HU-PE",
       "municipality": "Mogyoród",
-      "coordinates": "47.5783, 19.25113"
+      "coordinates": "47.5783, 19.25113",
+      "metar_available": false
     },
     {
       "ident": "HU-0059",
@@ -653,7 +711,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BU",
       "municipality": "Budapest",
-      "coordinates": "47.4657, 19.09962"
+      "coordinates": "47.4657, 19.09962",
+      "metar_available": false
     },
     {
       "ident": "HU-0060",
@@ -664,7 +723,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BU",
       "municipality": "Budapest",
-      "coordinates": "47.510335, 19.001117"
+      "coordinates": "47.510335, 19.001117",
+      "metar_available": false
     },
     {
       "ident": "HU-0061",
@@ -673,7 +733,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-BE",
-      "coordinates": "46.65295, 20.96272"
+      "coordinates": "46.65295, 20.96272",
+      "metar_available": false
     },
     {
       "ident": "HU-0062",
@@ -682,7 +743,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-FE",
-      "coordinates": "47.43479, 18.78092"
+      "coordinates": "47.43479, 18.78092",
+      "metar_available": false
     },
     {
       "ident": "HU-0063",
@@ -692,7 +754,8 @@
       "continent": "EU",
       "iso_country": "HU",
       "iso_region": "HU-JN",
-      "coordinates": "47.01397, 20.28573"
+      "coordinates": "47.01397, 20.28573",
+      "metar_available": false
     },
     {
       "ident": "HU-0064",
@@ -703,7 +766,8 @@
       "iso_country": "HU",
       "iso_region": "HU-GS",
       "municipality": "Halászi",
-      "coordinates": "47.89016, 17.34828"
+      "coordinates": "47.89016, 17.34828",
+      "metar_available": false
     },
     {
       "ident": "HU-0065",
@@ -713,7 +777,8 @@
       "iso_country": "HU",
       "iso_region": "HU-GY",
       "municipality": "Győr",
-      "coordinates": "47.67088, 17.64919"
+      "coordinates": "47.67088, 17.64919",
+      "metar_available": false
     },
     {
       "ident": "HU-0066",
@@ -724,7 +789,8 @@
       "iso_country": "HU",
       "iso_region": "HU-SK",
       "municipality": "Szolnok",
-      "coordinates": "47.15575, 20.16843"
+      "coordinates": "47.15575, 20.16843",
+      "metar_available": false
     },
     {
       "ident": "HU-0067",
@@ -734,7 +800,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BE",
       "municipality": "Gyula",
-      "coordinates": "46.64028, 21.27588"
+      "coordinates": "46.64028, 21.27588",
+      "metar_available": false
     },
     {
       "ident": "HU-0068",
@@ -745,7 +812,8 @@
       "iso_country": "HU",
       "iso_region": "HU-SN",
       "municipality": "Sopron",
-      "coordinates": "47.67796, 16.60035"
+      "coordinates": "47.67796, 16.60035",
+      "metar_available": false
     },
     {
       "ident": "HU-0069",
@@ -755,7 +823,8 @@
       "iso_country": "HU",
       "iso_region": "HU-VA",
       "municipality": "Szombathely",
-      "coordinates": "47.2384, 16.61823"
+      "coordinates": "47.2384, 16.61823",
+      "metar_available": false
     },
     {
       "ident": "HU-0070",
@@ -766,7 +835,8 @@
       "iso_country": "HU",
       "iso_region": "HU-PE",
       "municipality": "Sülysáp",
-      "coordinates": "47.49786, 19.4594"
+      "coordinates": "47.49786, 19.4594",
+      "metar_available": false
     },
     {
       "ident": "HU-0071",
@@ -777,7 +847,8 @@
       "iso_country": "HU",
       "iso_region": "HU-FE",
       "municipality": "Velence",
-      "coordinates": "47.25452, 18.64159"
+      "coordinates": "47.25452, 18.64159",
+      "metar_available": false
     },
     {
       "ident": "HU-0073",
@@ -788,7 +859,8 @@
       "iso_country": "HU",
       "iso_region": "HU-HE",
       "municipality": "Hatvan",
-      "coordinates": "47.671881, 19.681386"
+      "coordinates": "47.671881, 19.681386",
+      "metar_available": false
     },
     {
       "ident": "HU-0074",
@@ -799,7 +871,8 @@
       "iso_country": "HU",
       "iso_region": "HU-FE",
       "municipality": "Csákvár",
-      "coordinates": "47.350899, 18.43"
+      "coordinates": "47.350899, 18.43",
+      "metar_available": false
     },
     {
       "ident": "HU-0075",
@@ -810,7 +883,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BZ",
       "municipality": "Miskolc",
-      "coordinates": "48.13603, 20.789641"
+      "coordinates": "48.13603, 20.789641",
+      "metar_available": false
     },
     {
       "ident": "HU-0076",
@@ -821,7 +895,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BE",
       "municipality": "Gyomai",
-      "coordinates": "46.956165, 20.883123"
+      "coordinates": "46.956165, 20.883123",
+      "metar_available": false
     },
     {
       "ident": "HU-0077",
@@ -832,7 +907,8 @@
       "iso_country": "HU",
       "iso_region": "HU-BK",
       "municipality": "Érsekcsanád",
-      "coordinates": "46.249608, 18.927609"
+      "coordinates": "46.249608, 18.927609",
+      "metar_available": false
     },
     {
       "ident": "HU-0078",
@@ -843,7 +919,8 @@
       "iso_country": "HU",
       "iso_region": "HU-NO",
       "municipality": "Balassagyarmat",
-      "coordinates": "48.078037, 19.321749"
+      "coordinates": "48.078037, 19.321749",
+      "metar_available": false
     },
     {
       "ident": "HU-0079",
@@ -854,7 +931,8 @@
       "iso_country": "HU",
       "iso_region": "HU-HE",
       "municipality": "Terpes",
-      "coordinates": "47.974924, 20.146968"
+      "coordinates": "47.974924, 20.146968",
+      "metar_available": false
     },
     {
       "ident": "LH0",
@@ -866,7 +944,8 @@
       "iso_region": "HU-SO",
       "municipality": "Kutas",
       "gps_code": "LHKU",
-      "coordinates": "46.373168, 17.428007"
+      "coordinates": "46.373168, 17.428007",
+      "metar_available": false
     },
     {
       "ident": "LHBB",
@@ -877,7 +956,8 @@
       "iso_region": "HU-BU",
       "municipality": "Budapest",
       "gps_code": "LHBB",
-      "coordinates": "47.4545191, 18.9072779"
+      "coordinates": "47.4545191, 18.9072779",
+      "metar_available": false
     },
     {
       "ident": "LHBC",
@@ -889,7 +969,8 @@
       "iso_region": "HU-BE",
       "municipality": "Békéscsaba",
       "gps_code": "LHBC",
-      "coordinates": "46.677132, 21.161188"
+      "coordinates": "46.677132, 21.161188",
+      "metar_available": false
     },
     {
       "ident": "LHBF",
@@ -901,7 +982,8 @@
       "iso_region": "HU-VA",
       "municipality": "Bö",
       "gps_code": "LHBF",
-      "coordinates": "47.3848, 16.80264"
+      "coordinates": "47.3848, 16.80264",
+      "metar_available": false
     },
     {
       "ident": "LHBI",
@@ -913,7 +995,8 @@
       "iso_region": "HU-HB",
       "municipality": "Biharkeresztes",
       "gps_code": "LHBI",
-      "coordinates": "47.137425, 21.675425"
+      "coordinates": "47.137425, 21.675425",
+      "metar_available": false
     },
     {
       "ident": "LHBO",
@@ -925,7 +1008,8 @@
       "iso_region": "HU-BK",
       "municipality": "Bácsbokod",
       "gps_code": "LHBO",
-      "coordinates": "46.153445, 19.149051"
+      "coordinates": "46.153445, 19.149051",
+      "metar_available": false
     },
     {
       "ident": "LHBP",
@@ -938,7 +1022,8 @@
       "municipality": "Budapest",
       "gps_code": "LHBP",
       "iata_code": "BUD",
-      "coordinates": "47.43018, 19.262393"
+      "coordinates": "47.43018, 19.262393",
+      "metar_available": false
     },
     {
       "ident": "LHBS",
@@ -950,7 +1035,8 @@
       "iso_region": "HU-BU",
       "municipality": "Budaörs",
       "gps_code": "LHBS",
-      "coordinates": "47.451099, 18.9806"
+      "coordinates": "47.451099, 18.9806",
+      "metar_available": false
     },
     {
       "ident": "LHCL",
@@ -962,7 +1048,8 @@
       "iso_region": "HU-PE",
       "municipality": "Cegléd",
       "gps_code": "LHCL",
-      "coordinates": "47.162621, 19.877401"
+      "coordinates": "47.162621, 19.877401",
+      "metar_available": false
     },
     {
       "ident": "LHDC",
@@ -975,7 +1062,8 @@
       "municipality": "Debrecen",
       "gps_code": "LHDC",
       "iata_code": "DEB",
-      "coordinates": "47.488899, 21.615299"
+      "coordinates": "47.488899, 21.615299",
+      "metar_available": false
     },
     {
       "ident": "LHDK",
@@ -987,7 +1075,8 @@
       "iso_region": "HU-PE",
       "municipality": "Dunakeszi",
       "gps_code": "LHDK",
-      "coordinates": "47.613899, 19.143299"
+      "coordinates": "47.613899, 19.143299",
+      "metar_available": false
     },
     {
       "ident": "LHDV",
@@ -999,7 +1088,8 @@
       "iso_region": "HU-FE",
       "municipality": "Dunaújváros",
       "gps_code": "LHDV",
-      "coordinates": "46.895802, 18.9139"
+      "coordinates": "46.895802, 18.9139",
+      "metar_available": false
     },
     {
       "ident": "LHEM",
@@ -1011,7 +1101,8 @@
       "iso_region": "HU-KE",
       "municipality": "Esztergom",
       "gps_code": "LHEM",
-      "coordinates": "47.756811, 18.730459"
+      "coordinates": "47.756811, 18.730459",
+      "metar_available": false
     },
     {
       "ident": "LHER",
@@ -1023,7 +1114,8 @@
       "iso_region": "HU-HE",
       "municipality": "Eger",
       "gps_code": "LHER",
-      "coordinates": "47.9052, 20.4055"
+      "coordinates": "47.9052, 20.4055",
+      "metar_available": false
     },
     {
       "ident": "LHFC",
@@ -1035,7 +1127,8 @@
       "iso_region": "HU-FE",
       "municipality": "Bodmér",
       "gps_code": "LHFC",
-      "coordinates": "47.444629, 18.557102"
+      "coordinates": "47.444629, 18.557102",
+      "metar_available": false
     },
     {
       "ident": "LHFH",
@@ -1047,7 +1140,8 @@
       "iso_region": "HU-PE",
       "municipality": "Farkashegy",
       "gps_code": "LHFH",
-      "coordinates": "47.4869, 18.9147"
+      "coordinates": "47.4869, 18.9147",
+      "metar_available": false
     },
     {
       "ident": "LHFM",
@@ -1059,7 +1153,8 @@
       "iso_region": "HU-GS",
       "municipality": "Fertőszentmiklós",
       "gps_code": "LHFM",
-      "coordinates": "47.582802, 16.8454"
+      "coordinates": "47.582802, 16.8454",
+      "metar_available": false
     },
     {
       "ident": "LHFP",
@@ -1071,7 +1166,8 @@
       "iso_region": "HU-GS",
       "municipality": "Fertőrákos",
       "gps_code": "LHFP",
-      "coordinates": "47.744444, 16.614167"
+      "coordinates": "47.744444, 16.614167",
+      "metar_available": false
     },
     {
       "ident": "LHGD",
@@ -1083,7 +1179,8 @@
       "iso_region": "HU-PE",
       "municipality": "Gödöllő",
       "gps_code": "LHGD",
-      "coordinates": "47.571662, 19.336796"
+      "coordinates": "47.571662, 19.336796",
+      "metar_available": false
     },
     {
       "ident": "LHGR",
@@ -1095,7 +1192,8 @@
       "iso_region": "HU-FE",
       "municipality": "Gyúró",
       "gps_code": "LHGR",
-      "coordinates": "47.3914, 18.75786"
+      "coordinates": "47.3914, 18.75786",
+      "metar_available": false
     },
     {
       "ident": "LHGU",
@@ -1107,7 +1205,8 @@
       "iso_region": "HU-GS",
       "municipality": "Győrújbarát",
       "gps_code": "LHGU",
-      "coordinates": "47.605143, 17.660188"
+      "coordinates": "47.605143, 17.660188",
+      "metar_available": false
     },
     {
       "ident": "LHGY",
@@ -1119,7 +1218,8 @@
       "iso_region": "HU-HE",
       "municipality": "Gyöngyös",
       "gps_code": "LHGY",
-      "coordinates": "47.814279, 19.976792"
+      "coordinates": "47.814279, 19.976792",
+      "metar_available": false
     },
     {
       "ident": "LHHH",
@@ -1131,7 +1231,8 @@
       "iso_region": "HU-BU",
       "municipality": "Budapest",
       "gps_code": "LHHH",
-      "coordinates": "47.550301, 18.978701"
+      "coordinates": "47.550301, 18.978701",
+      "metar_available": false
     },
     {
       "ident": "LHHO",
@@ -1143,7 +1244,8 @@
       "iso_region": "HU-HB",
       "municipality": "Hajdúszoboszló",
       "gps_code": "LHHO",
-      "coordinates": "47.459202, 21.391105"
+      "coordinates": "47.459202, 21.391105",
+      "metar_available": false
     },
     {
       "ident": "LHJK",
@@ -1155,7 +1257,8 @@
       "iso_region": "HU-BK",
       "municipality": "Jakabszállás",
       "gps_code": "LHJK",
-      "coordinates": "46.7472, 19.6056"
+      "coordinates": "46.7472, 19.6056",
+      "metar_available": false
     },
     {
       "ident": "LHKC",
@@ -1167,7 +1270,8 @@
       "iso_region": "HU-BK",
       "municipality": "Kecel",
       "gps_code": "LHKC",
-      "coordinates": "46.5363883972168, 19.241703033447266"
+      "coordinates": "46.5363883972168, 19.241703033447266",
+      "metar_available": false
     },
     {
       "ident": "LHKD",
@@ -1179,7 +1283,8 @@
       "iso_region": "HU-KE",
       "municipality": "Kecskéd",
       "gps_code": "LHKD",
-      "coordinates": "47.517121, 18.325024"
+      "coordinates": "47.517121, 18.325024",
+      "metar_available": false
     },
     {
       "ident": "LHKE",
@@ -1191,7 +1296,8 @@
       "iso_region": "HU-BK",
       "municipality": "Kecskemét",
       "gps_code": "LHKE",
-      "coordinates": "46.9175, 19.749201"
+      "coordinates": "46.9175, 19.749201",
+      "metar_available": false
     },
     {
       "ident": "LHKH",
@@ -1203,7 +1309,8 @@
       "iso_region": "HU-BK",
       "municipality": "Kiskunfélegyháza",
       "gps_code": "LHKH",
-      "coordinates": "46.733101, 19.893299"
+      "coordinates": "46.733101, 19.893299",
+      "metar_available": false
     },
     {
       "ident": "LHKI",
@@ -1215,7 +1322,8 @@
       "iso_region": "HU-BK",
       "municipality": "Akasztó",
       "gps_code": "LHKI",
-      "coordinates": "46.656791, 19.242997"
+      "coordinates": "46.656791, 19.242997",
+      "metar_available": false
     },
     {
       "ident": "LHKK",
@@ -1227,7 +1335,8 @@
       "iso_region": "HU-PE",
       "municipality": "Kiskunlacháza",
       "gps_code": "LHKK",
-      "coordinates": "47.174484, 19.077501"
+      "coordinates": "47.174484, 19.077501",
+      "metar_available": false
     },
     {
       "ident": "LHKT",
@@ -1238,7 +1347,8 @@
       "iso_region": "HU-SO",
       "municipality": "Kadarkút",
       "gps_code": "LHKT",
-      "coordinates": "46.247418, 17.607822"
+      "coordinates": "46.247418, 17.607822",
+      "metar_available": false
     },
     {
       "ident": "LHKV",
@@ -1250,7 +1360,8 @@
       "iso_region": "HU-SO",
       "municipality": "Kaposújlak",
       "gps_code": "LHKV",
-      "coordinates": "46.386398, 17.733479"
+      "coordinates": "46.386398, 17.733479",
+      "metar_available": false
     },
     {
       "ident": "LHLI",
@@ -1262,7 +1373,8 @@
       "iso_region": "HU-GS",
       "municipality": "Lipót",
       "gps_code": "LHLI",
-      "coordinates": "47.8575, 17.448333"
+      "coordinates": "47.8575, 17.448333",
+      "metar_available": false
     },
     {
       "ident": "LHMR",
@@ -1274,7 +1386,8 @@
       "iso_region": "HU-HE",
       "municipality": "Eger",
       "gps_code": "LHMR",
-      "coordinates": "47.811857, 20.422254"
+      "coordinates": "47.811857, 20.422254",
+      "metar_available": false
     },
     {
       "ident": "LHNK",
@@ -1286,7 +1399,8 @@
       "iso_region": "HU-ZA",
       "municipality": "Nagykanizsa",
       "gps_code": "LHNK",
-      "coordinates": "46.428304, 16.957569"
+      "coordinates": "46.428304, 16.957569",
+      "metar_available": false
     },
     {
       "ident": "LHNS",
@@ -1297,7 +1411,8 @@
       "iso_region": "HU-BE",
       "municipality": "Nagyszénás",
       "gps_code": "LHNS",
-      "coordinates": "46.698056, 20.668611"
+      "coordinates": "46.698056, 20.668611",
+      "metar_available": false
     },
     {
       "ident": "LHNY",
@@ -1309,7 +1424,8 @@
       "iso_region": "HU-SZ",
       "municipality": "Nyíregyháza",
       "gps_code": "LHNY",
-      "coordinates": "47.983898, 21.692301"
+      "coordinates": "47.983898, 21.692301",
+      "metar_available": false
     },
     {
       "ident": "LHOY",
@@ -1321,7 +1437,8 @@
       "iso_region": "HU-TO",
       "municipality": "Őcsény",
       "gps_code": "LHOY",
-      "coordinates": "46.306138, 18.767386"
+      "coordinates": "46.306138, 18.767386",
+      "metar_available": false
     },
     {
       "ident": "LHPA",
@@ -1333,7 +1450,8 @@
       "iso_region": "HU-VE",
       "municipality": "Pápa",
       "gps_code": "LHPA",
-      "coordinates": "47.363602, 17.500799"
+      "coordinates": "47.363602, 17.500799",
+      "metar_available": false
     },
     {
       "ident": "LHPP",
@@ -1346,7 +1464,8 @@
       "municipality": "Pécs",
       "gps_code": "LHPP",
       "iata_code": "PEV",
-      "coordinates": "45.988891, 18.242044"
+      "coordinates": "45.988891, 18.242044",
+      "metar_available": false
     },
     {
       "ident": "LHPR",
@@ -1358,7 +1477,8 @@
       "iso_region": "HU-GS",
       "municipality": "Pér",
       "gps_code": "LHPR",
-      "coordinates": "47.628436, 17.804718"
+      "coordinates": "47.628436, 17.804718",
+      "metar_available": false
     },
     {
       "ident": "LHSA",
@@ -1370,7 +1490,8 @@
       "iso_region": "HU-VE",
       "municipality": "Szentkirályszabadja",
       "gps_code": "LHSA",
-      "coordinates": "47.0779, 17.968399"
+      "coordinates": "47.0779, 17.968399",
+      "metar_available": false
     },
     {
       "ident": "LHSB",
@@ -1382,7 +1503,8 @@
       "iso_region": "HU-BK",
       "municipality": "Szabadszállás",
       "gps_code": "LHSB",
-      "coordinates": "46.900278, 19.366389"
+      "coordinates": "46.900278, 19.366389",
+      "metar_available": false
     },
     {
       "ident": "LHSI",
@@ -1393,7 +1515,8 @@
       "iso_region": "HU-VA",
       "municipality": "Sitke",
       "gps_code": "LHSI",
-      "coordinates": "47.234558, 17.027178"
+      "coordinates": "47.234558, 17.027178",
+      "metar_available": false
     },
     {
       "ident": "LHSK",
@@ -1405,7 +1528,8 @@
       "iso_region": "HU-SO",
       "municipality": "Siófok-Kiliti",
       "gps_code": "LHSK",
-      "coordinates": "46.856899, 18.0958"
+      "coordinates": "46.856899, 18.0958",
+      "metar_available": false
     },
     {
       "ident": "LHSM",
@@ -1418,7 +1542,8 @@
       "municipality": "Sármellék",
       "gps_code": "LHSM",
       "iata_code": "SOB",
-      "coordinates": "46.686391, 17.159084"
+      "coordinates": "46.686391, 17.159084",
+      "metar_available": false
     },
     {
       "ident": "LHSN",
@@ -1430,7 +1555,8 @@
       "iso_region": "HU-JN",
       "municipality": "Szolnok",
       "gps_code": "LHSN",
-      "coordinates": "47.122897, 20.2355"
+      "coordinates": "47.122897, 20.2355",
+      "metar_available": false
     },
     {
       "ident": "LHSS",
@@ -1442,7 +1568,8 @@
       "iso_region": "HU-JN",
       "municipality": "Szolnok",
       "gps_code": "LHSS",
-      "coordinates": "47.144402, 20.1978"
+      "coordinates": "47.144402, 20.1978",
+      "metar_available": false
     },
     {
       "ident": "LHSU",
@@ -1453,7 +1580,8 @@
       "iso_region": "HU-JN",
       "municipality": "Törökszentmiklós",
       "gps_code": "LHSU",
-      "coordinates": "47.199968, 20.481934"
+      "coordinates": "47.199968, 20.481934",
+      "metar_available": false
     },
     {
       "ident": "LHSY",
@@ -1465,7 +1593,8 @@
       "iso_region": "HU-VA",
       "municipality": "Szombathely",
       "gps_code": "LHSY",
-      "coordinates": "47.279999, 16.6264"
+      "coordinates": "47.279999, 16.6264",
+      "metar_available": false
     },
     {
       "ident": "LHSZ",
@@ -1477,7 +1606,8 @@
       "iso_region": "HU-CS",
       "municipality": "Szentes",
       "gps_code": "LHSZ",
-      "coordinates": "46.6133, 20.282801"
+      "coordinates": "46.6133, 20.282801",
+      "metar_available": false
     },
     {
       "ident": "LHTA",
@@ -1489,7 +1619,8 @@
       "iso_region": "HU-SO",
       "municipality": "Taszár",
       "gps_code": "LHTA",
-      "coordinates": "46.393101, 17.9175"
+      "coordinates": "46.393101, 17.9175",
+      "metar_available": false
     },
     {
       "ident": "LHTL",
@@ -1501,7 +1632,8 @@
       "iso_region": "HU-PE",
       "municipality": "Tököl",
       "gps_code": "LHTL",
-      "coordinates": "47.345299, 18.980801"
+      "coordinates": "47.345299, 18.980801",
+      "metar_available": false
     },
     {
       "ident": "LHTM",
@@ -1512,7 +1644,8 @@
       "iso_region": "HU-PE",
       "municipality": "Tápiószentmárton",
       "gps_code": "LHTM",
-      "coordinates": "47.310956, 19.777364"
+      "coordinates": "47.310956, 19.777364",
+      "metar_available": false
     },
     {
       "ident": "LHUD",
@@ -1524,7 +1657,8 @@
       "iso_region": "HU-CS",
       "municipality": "Szeged",
       "gps_code": "LHUD",
-      "coordinates": "46.245127, 20.092217"
+      "coordinates": "46.245127, 20.092217",
+      "metar_available": false
     },
     {
       "ident": "LHUH",
@@ -1536,7 +1670,8 @@
       "iso_region": "HU-FE",
       "municipality": "Úrhida",
       "gps_code": "LHUH",
-      "coordinates": "47.128198, 18.312986"
+      "coordinates": "47.128198, 18.312986",
+      "metar_available": false
     },
     {
       "ident": "LHVE",
@@ -1547,7 +1682,8 @@
       "iso_region": "HU-PE",
       "municipality": "Veresegyház",
       "gps_code": "LHVE",
-      "coordinates": "47.638107, 19.255007"
+      "coordinates": "47.638107, 19.255007",
+      "metar_available": false
     },
     {
       "ident": "LHZA",
@@ -1559,7 +1695,8 @@
       "iso_region": "HU-ZA",
       "municipality": "Zalaegerszeg",
       "gps_code": "LHZA",
-      "coordinates": "46.884701, 16.7889"
+      "coordinates": "46.884701, 16.7889",
+      "metar_available": false
     },
     {
       "ident": "LHZK",
@@ -1571,7 +1708,8 @@
       "iso_region": "HU-ZA",
       "municipality": "Zalakaros",
       "gps_code": "LHZK",
-      "coordinates": "46.5539, 17.15118"
+      "coordinates": "46.5539, 17.15118",
+      "metar_available": false
     }
   ]
 }

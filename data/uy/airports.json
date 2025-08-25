@@ -2,7 +2,7 @@
   "country_code": "UY",
   "country_name": "Uruguay",
   "total_airports": 70,
-  "last_updated": "2025-08-01T00:18:22.845792",
+  "last_updated": "2025-08-25T10:08:41.001490",
   "types_distribution": {
     "medium_airport": 4,
     "small_airport": 60,
@@ -21,7 +21,8 @@
       "iso_region": "UY-MO",
       "municipality": "Montevideo",
       "gps_code": "SUAA",
-      "coordinates": "-34.7892, -56.264702"
+      "coordinates": "-34.7892, -56.264702",
+      "metar_available": false
     },
     {
       "ident": "SUAG",
@@ -34,7 +35,8 @@
       "municipality": "Artigas",
       "gps_code": "SUAG",
       "iata_code": "ATI",
-      "coordinates": "-30.4007, -56.5079"
+      "coordinates": "-30.4007, -56.5079",
+      "metar_available": false
     },
     {
       "ident": "SUAN",
@@ -46,7 +48,8 @@
       "iso_region": "UY-CO",
       "municipality": "Estancia Anchorena",
       "gps_code": "SUAN",
-      "coordinates": "-34.270516, -57.964383"
+      "coordinates": "-34.270516, -57.964383",
+      "metar_available": false
     },
     {
       "ident": "SUAY",
@@ -58,7 +61,8 @@
       "iso_region": "UY-SA",
       "municipality": "Termas del Arapey",
       "gps_code": "SUAY",
-      "coordinates": "-30.938271, -57.517528"
+      "coordinates": "-30.938271, -57.517528",
+      "metar_available": false
     },
     {
       "ident": "SUBL",
@@ -70,7 +74,8 @@
       "iso_region": "UY-MO",
       "municipality": "Montevideo",
       "gps_code": "SUBL",
-      "coordinates": "-34.811533, -56.164317"
+      "coordinates": "-34.811533, -56.164317",
+      "metar_available": false
     },
     {
       "ident": "SUBU",
@@ -84,7 +89,8 @@
       "gps_code": "SUBU",
       "iata_code": "BUV",
       "local_code": "1290",
-      "coordinates": "-30.319807, -57.558823"
+      "coordinates": "-30.319807, -57.558823",
+      "metar_available": false
     },
     {
       "ident": "SUCA",
@@ -97,7 +103,8 @@
       "municipality": "Colonia del Sacramento",
       "gps_code": "SUCA",
       "iata_code": "CYR",
-      "coordinates": "-34.456402, -57.770599"
+      "coordinates": "-34.456402, -57.770599",
+      "metar_available": false
     },
     {
       "ident": "SUCD",
@@ -109,7 +116,8 @@
       "iso_region": "UY-SO",
       "municipality": "Cardona",
       "gps_code": "SUCD",
-      "coordinates": "-33.875502, -57.397875"
+      "coordinates": "-33.875502, -57.397875",
+      "metar_available": false
     },
     {
       "ident": "SUCH",
@@ -121,7 +129,8 @@
       "iso_region": "UY-RO",
       "municipality": "Chuy",
       "gps_code": "SUCH",
-      "coordinates": "-33.71085, -53.471334"
+      "coordinates": "-33.71085, -53.471334",
+      "metar_available": false
     },
     {
       "ident": "SUCL",
@@ -133,7 +142,8 @@
       "iso_region": "UY-LA",
       "municipality": "Minas",
       "gps_code": "SUCL",
-      "coordinates": "-34.286766, -55.354757"
+      "coordinates": "-34.286766, -55.354757",
+      "metar_available": false
     },
     {
       "ident": "SUCM",
@@ -145,7 +155,8 @@
       "iso_region": "UY-CO",
       "municipality": "Carmelo",
       "gps_code": "SUCM",
-      "coordinates": "-33.96611, -58.325279"
+      "coordinates": "-33.96611, -58.325279",
+      "metar_available": false
     },
     {
       "ident": "SUCN",
@@ -157,7 +168,8 @@
       "iso_region": "UY-CA",
       "municipality": "Canelones",
       "gps_code": "SUCN",
-      "coordinates": "-34.515153, -56.261384"
+      "coordinates": "-34.515153, -56.261384",
+      "metar_available": false
     },
     {
       "ident": "SUDU",
@@ -170,7 +182,8 @@
       "municipality": "Durazno",
       "gps_code": "SUDU",
       "iata_code": "DZO",
-      "coordinates": "-33.358898, -56.499199"
+      "coordinates": "-33.358898, -56.499199",
+      "metar_available": false
     },
     {
       "ident": "SUEL",
@@ -182,7 +195,8 @@
       "iso_region": "UY-MO",
       "municipality": "Montevideo",
       "gps_code": "SUEL",
-      "coordinates": "-34.868763, -56.166733"
+      "coordinates": "-34.868763, -56.166733",
+      "metar_available": false
     },
     {
       "ident": "SUFT",
@@ -194,7 +208,8 @@
       "iso_region": "UY-TA",
       "municipality": "Tacuarembó",
       "gps_code": "SUFT",
-      "coordinates": "-31.703611, -55.943056"
+      "coordinates": "-31.703611, -55.943056",
+      "metar_available": false
     },
     {
       "ident": "SUGA",
@@ -206,7 +221,8 @@
       "iso_region": "UY-CA",
       "municipality": "Pando",
       "gps_code": "SUGA",
-      "coordinates": "-34.7469, -55.961"
+      "coordinates": "-34.7469, -55.961",
+      "metar_available": false
     },
     {
       "ident": "SUGN",
@@ -218,7 +234,8 @@
       "iso_region": "UY-PA",
       "municipality": "Guichón",
       "gps_code": "SUGN",
-      "coordinates": "-32.3478, -57.1894"
+      "coordinates": "-32.3478, -57.1894",
+      "metar_available": false
     },
     {
       "ident": "SUJL",
@@ -230,7 +247,8 @@
       "iso_region": "UY-CO",
       "municipality": "Juan Lacaze",
       "gps_code": "SUJL",
-      "coordinates": "-34.415352, -57.46422"
+      "coordinates": "-34.415352, -57.46422",
+      "metar_available": false
     },
     {
       "ident": "SUJP",
@@ -242,7 +260,8 @@
       "iso_region": "UY-LA",
       "municipality": "José Pedro Varela",
       "gps_code": "SUJP",
-      "coordinates": "-33.4753, -54.539702"
+      "coordinates": "-33.4753, -54.539702",
+      "metar_available": false
     },
     {
       "ident": "SULS",
@@ -255,7 +274,8 @@
       "municipality": "Punta del Este",
       "gps_code": "SULS",
       "iata_code": "PDP",
-      "coordinates": "-34.855099, -55.094299"
+      "coordinates": "-34.855099, -55.094299",
+      "metar_available": false
     },
     {
       "ident": "SUME",
@@ -267,7 +287,8 @@
       "iso_region": "UY-RN",
       "municipality": "Mercedes",
       "gps_code": "SUME",
-      "coordinates": "-33.2489, -58.0737"
+      "coordinates": "-33.2489, -58.0737",
+      "metar_available": false
     },
     {
       "ident": "SUMI",
@@ -279,7 +300,8 @@
       "iso_region": "UY-LA",
       "municipality": "Minas",
       "gps_code": "SUMI",
-      "coordinates": "-34.345455, -55.227522"
+      "coordinates": "-34.345455, -55.227522",
+      "metar_available": false
     },
     {
       "ident": "SUMO",
@@ -292,7 +314,8 @@
       "municipality": "Melo",
       "gps_code": "SUMO",
       "iata_code": "MLZ",
-      "coordinates": "-32.337898, -54.216702"
+      "coordinates": "-32.337898, -54.216702",
+      "metar_available": false
     },
     {
       "ident": "SUMU",
@@ -305,7 +328,8 @@
       "municipality": "Ciudad de la Costa",
       "gps_code": "SUMU",
       "iata_code": "MVD",
-      "coordinates": "-34.835647, -56.026497"
+      "coordinates": "-34.835647, -56.026497",
+      "metar_available": false
     },
     {
       "ident": "SUNM",
@@ -317,7 +341,8 @@
       "iso_region": "UY-RN",
       "municipality": "Nuevo Berlin",
       "gps_code": "SUNM",
-      "coordinates": "-32.96963, -57.982351"
+      "coordinates": "-32.96963, -57.982351",
+      "metar_available": false
     },
     {
       "ident": "SUPC",
@@ -329,7 +354,8 @@
       "iso_region": "UY-PA",
       "municipality": "Paysandú",
       "gps_code": "SUPC",
-      "coordinates": "-32.379601, -58.029761"
+      "coordinates": "-32.379601, -58.029761",
+      "metar_available": false
     },
     {
       "ident": "SUPE",
@@ -341,7 +367,8 @@
       "iso_region": "UY-MA",
       "municipality": "Maldonado",
       "gps_code": "SUPE",
-      "coordinates": "-34.909716, -54.920212"
+      "coordinates": "-34.909716, -54.920212",
+      "metar_available": false
     },
     {
       "ident": "SUPL",
@@ -354,7 +381,8 @@
       "municipality": "Punta Colorada",
       "gps_code": "SUPL",
       "local_code": "SUPL",
-      "coordinates": "-34.88278, -55.24861"
+      "coordinates": "-34.88278, -55.24861",
+      "metar_available": false
     },
     {
       "ident": "SUPU",
@@ -367,7 +395,8 @@
       "municipality": "Paysandú",
       "gps_code": "SUPU",
       "iata_code": "PDU",
-      "coordinates": "-32.3633, -58.061901"
+      "coordinates": "-32.3633, -58.061901",
+      "metar_available": false
     },
     {
       "ident": "SURB",
@@ -379,7 +408,8 @@
       "iso_region": "UY-CL",
       "municipality": "Jaguarao",
       "gps_code": "SURB",
-      "coordinates": "-32.583057, -53.454166"
+      "coordinates": "-32.583057, -53.454166",
+      "metar_available": false
     },
     {
       "ident": "SURV",
@@ -392,7 +422,8 @@
       "municipality": "Rivera",
       "gps_code": "SURV",
       "iata_code": "RVY",
-      "coordinates": "-30.9746, -55.4762"
+      "coordinates": "-30.9746, -55.4762",
+      "metar_available": false
     },
     {
       "ident": "SUSG",
@@ -404,7 +435,8 @@
       "iso_region": "UY-TA",
       "municipality": "Cerro Chato",
       "gps_code": "SUSG",
-      "coordinates": "-32.526501, -55.841636"
+      "coordinates": "-32.526501, -55.841636",
+      "metar_available": false
     },
     {
       "ident": "SUSJ",
@@ -416,7 +448,8 @@
       "iso_region": "UY-SJ",
       "municipality": "San José",
       "gps_code": "SUSJ",
-      "coordinates": "-34.350554, -56.752438"
+      "coordinates": "-34.350554, -56.752438",
+      "metar_available": false
     },
     {
       "ident": "SUSO",
@@ -429,7 +462,8 @@
       "municipality": "Salto",
       "gps_code": "SUSO",
       "iata_code": "STY",
-      "coordinates": "-31.438499, -57.985298"
+      "coordinates": "-31.438499, -57.985298",
+      "metar_available": false
     },
     {
       "ident": "SUTB",
@@ -442,7 +476,8 @@
       "municipality": "Tacuarembo",
       "gps_code": "SUTB",
       "iata_code": "TAW",
-      "coordinates": "-31.749001, -55.925801"
+      "coordinates": "-31.749001, -55.925801",
+      "metar_available": false
     },
     {
       "ident": "SUTG",
@@ -454,7 +489,8 @@
       "iso_region": "UY-AR",
       "municipality": "Tomás Gomenzoro",
       "gps_code": "SUTG",
-      "coordinates": "-30.436607, -57.446726"
+      "coordinates": "-30.436607, -57.446726",
+      "metar_available": false
     },
     {
       "ident": "SUTR",
@@ -467,7 +503,8 @@
       "municipality": "Treinta y Tres",
       "gps_code": "SUTR",
       "iata_code": "TYT",
-      "coordinates": "-33.195714, -54.347246"
+      "coordinates": "-33.195714, -54.347246",
+      "metar_available": false
     },
     {
       "ident": "SUVE",
@@ -479,7 +516,8 @@
       "iso_region": "UY-TT",
       "municipality": "Vergara",
       "gps_code": "SUVE",
-      "coordinates": "-32.960353, -53.930913"
+      "coordinates": "-32.960353, -53.930913",
+      "metar_available": false
     },
     {
       "ident": "SUVO",
@@ -492,7 +530,8 @@
       "municipality": "Vichadero",
       "gps_code": "SUVO",
       "iata_code": "VCH",
-      "coordinates": "-31.739166, -54.587776"
+      "coordinates": "-31.739166, -54.587776",
+      "metar_available": false
     },
     {
       "ident": "SUYI",
@@ -504,7 +543,8 @@
       "iso_region": "UY-DU",
       "municipality": "Sarandi del Yí",
       "gps_code": "SUYI",
-      "coordinates": "-33.311667, -55.600278"
+      "coordinates": "-33.311667, -55.600278",
+      "metar_available": false
     },
     {
       "ident": "SUYN",
@@ -516,7 +556,8 @@
       "iso_region": "UY-RN",
       "municipality": "Young",
       "gps_code": "SUYN",
-      "coordinates": "-32.6872, -57.6581"
+      "coordinates": "-32.6872, -57.6581",
+      "metar_available": false
     },
     {
       "ident": "UY-0001",
@@ -528,7 +569,8 @@
       "iso_region": "UY-RN",
       "municipality": "Fray Bentos",
       "gps_code": "SUFB",
-      "coordinates": "-33.14196, -58.293759"
+      "coordinates": "-33.14196, -58.293759",
+      "metar_available": false
     },
     {
       "ident": "UY-0002",
@@ -540,7 +582,8 @@
       "iso_region": "UY-RO",
       "municipality": "Rocha",
       "gps_code": "SURO",
-      "coordinates": "-34.479077, -54.283494"
+      "coordinates": "-34.479077, -54.283494",
+      "metar_available": false
     },
     {
       "ident": "UY-0003",
@@ -551,7 +594,8 @@
       "iso_country": "UY",
       "iso_region": "UY-PA",
       "municipality": "Paysandu",
-      "coordinates": "-32.246237, -58.093017"
+      "coordinates": "-32.246237, -58.093017",
+      "metar_available": false
     },
     {
       "ident": "UY-0004",
@@ -561,7 +605,8 @@
       "continent": "SA",
       "iso_country": "UY",
       "iso_region": "UY-PA",
-      "coordinates": "-32.396295, -56.588257"
+      "coordinates": "-32.396295, -56.588257",
+      "metar_available": false
     },
     {
       "ident": "UY-0005",
@@ -571,7 +616,8 @@
       "iso_country": "UY",
       "iso_region": "UY-TA",
       "municipality": "Ansina",
-      "coordinates": "-31.868851, -55.498746"
+      "coordinates": "-31.868851, -55.498746",
+      "metar_available": false
     },
     {
       "ident": "UY-0006",
@@ -581,7 +627,8 @@
       "iso_country": "UY",
       "iso_region": "UY-TA",
       "municipality": "Ansina",
-      "coordinates": "-31.869065, -55.491636"
+      "coordinates": "-31.869065, -55.491636",
+      "metar_available": false
     },
     {
       "ident": "UY-0007",
@@ -592,7 +639,8 @@
       "iso_country": "UY",
       "iso_region": "UY-RV",
       "municipality": "Rivera",
-      "coordinates": "-30.952597, -55.5353"
+      "coordinates": "-30.952597, -55.5353",
+      "metar_available": false
     },
     {
       "ident": "UY-0008",
@@ -603,7 +651,8 @@
       "iso_country": "UY",
       "iso_region": "UY-SJ",
       "municipality": "Ecilda Paullier",
-      "coordinates": "-34.312485, -57.041631"
+      "coordinates": "-34.312485, -57.041631",
+      "metar_available": false
     },
     {
       "ident": "UY-0009",
@@ -614,7 +663,8 @@
       "iso_country": "UY",
       "iso_region": "UY-PA",
       "municipality": "Guichón",
-      "coordinates": "-32.346251, -57.170861"
+      "coordinates": "-32.346251, -57.170861",
+      "metar_available": false
     },
     {
       "ident": "UY-0010",
@@ -625,7 +675,8 @@
       "iso_country": "UY",
       "iso_region": "UY-RO",
       "municipality": "Lascano",
-      "coordinates": "-33.755113, -54.148823"
+      "coordinates": "-33.755113, -54.148823",
+      "metar_available": false
     },
     {
       "ident": "UY-0011",
@@ -636,7 +687,8 @@
       "iso_country": "UY",
       "iso_region": "UY-AR",
       "municipality": "Yucutujá",
-      "coordinates": "-30.4053, -57.2756"
+      "coordinates": "-30.4053, -57.2756",
+      "metar_available": false
     },
     {
       "ident": "UY-0012",
@@ -646,7 +698,8 @@
       "iso_country": "UY",
       "iso_region": "UY-CO",
       "municipality": "Carmelo",
-      "coordinates": "-33.95582, -58.335986"
+      "coordinates": "-33.95582, -58.335986",
+      "metar_available": false
     },
     {
       "ident": "UY-0013",
@@ -658,7 +711,8 @@
       "iso_region": "UY-FD",
       "municipality": "Florida",
       "gps_code": "SUFL",
-      "coordinates": "-34.08392, -56.186665"
+      "coordinates": "-34.08392, -56.186665",
+      "metar_available": false
     },
     {
       "ident": "UY-0014",
@@ -670,7 +724,8 @@
       "iso_region": "UY-FS",
       "municipality": "Trinidad",
       "gps_code": "SUTD",
-      "coordinates": "-33.485556, -56.890833"
+      "coordinates": "-33.485556, -56.890833",
+      "metar_available": false
     },
     {
       "ident": "UY-0015",
@@ -681,7 +736,8 @@
       "iso_country": "UY",
       "iso_region": "UY-CO",
       "municipality": "Puerto de Conchillas",
-      "coordinates": "-34.18717, -58.0733"
+      "coordinates": "-34.18717, -58.0733",
+      "metar_available": false
     },
     {
       "ident": "UY-0016",
@@ -693,7 +749,8 @@
       "iso_region": "UY-SJ",
       "municipality": "Costas del Tigre",
       "local_code": "1001",
-      "coordinates": "-34.72139, -56.61134"
+      "coordinates": "-34.72139, -56.61134",
+      "metar_available": false
     },
     {
       "ident": "UY-0017",
@@ -704,7 +761,8 @@
       "iso_country": "UY",
       "iso_region": "UY-SJ",
       "municipality": "Kiyú",
-      "coordinates": "-34.66828, -56.71273"
+      "coordinates": "-34.66828, -56.71273",
+      "metar_available": false
     },
     {
       "ident": "UY-0018",
@@ -715,7 +773,8 @@
       "iso_country": "UY",
       "iso_region": "UY-SJ",
       "municipality": "Puntas de Valdez",
-      "coordinates": "-34.56547, -56.72975"
+      "coordinates": "-34.56547, -56.72975",
+      "metar_available": false
     },
     {
       "ident": "UY-0019",
@@ -726,7 +785,8 @@
       "iso_country": "UY",
       "iso_region": "UY-CA",
       "municipality": "Cuchilla Alta",
-      "coordinates": "-34.76568, -55.48423"
+      "coordinates": "-34.76568, -55.48423",
+      "metar_available": false
     },
     {
       "ident": "UY-0020",
@@ -737,7 +797,8 @@
       "iso_country": "UY",
       "iso_region": "UY-CA",
       "municipality": "Ciudad de la Costa",
-      "coordinates": "-34.76896, -55.95315"
+      "coordinates": "-34.76896, -55.95315",
+      "metar_available": false
     },
     {
       "ident": "UY-0021",
@@ -748,7 +809,8 @@
       "iso_country": "UY",
       "iso_region": "UY-RO",
       "municipality": "La Paloma",
-      "coordinates": "-34.66773, -54.30602"
+      "coordinates": "-34.66773, -54.30602",
+      "metar_available": false
     },
     {
       "ident": "UY-0022",
@@ -759,7 +821,8 @@
       "iso_country": "UY",
       "iso_region": "UY-CO",
       "municipality": "Nueva Helvecia",
-      "coordinates": "-34.244003, -57.205465"
+      "coordinates": "-34.244003, -57.205465",
+      "metar_available": false
     },
     {
       "ident": "UY-0023",
@@ -770,7 +833,8 @@
       "iso_country": "UY",
       "iso_region": "UY-CL",
       "municipality": "Aceguá",
-      "coordinates": "-31.804875, -54.264035"
+      "coordinates": "-31.804875, -54.264035",
+      "metar_available": false
     },
     {
       "ident": "UY-0024",
@@ -782,7 +846,8 @@
       "iso_region": "UY-TT",
       "municipality": "Treinta y Tres",
       "local_code": "1109",
-      "coordinates": "-33.217597, -54.330647"
+      "coordinates": "-33.217597, -54.330647",
+      "metar_available": false
     },
     {
       "ident": "UY-0025",
@@ -794,7 +859,8 @@
       "iso_region": "UY-MA",
       "municipality": "Pueblo Garzon",
       "local_code": "1002",
-      "coordinates": "-34.865038, -54.825127"
+      "coordinates": "-34.865038, -54.825127",
+      "metar_available": false
     },
     {
       "ident": "UY-0026",
@@ -806,7 +872,8 @@
       "iso_region": "UY-RV",
       "municipality": "Paso Hospital",
       "local_code": "1003",
-      "coordinates": "-31.661925, -54.664019"
+      "coordinates": "-31.661925, -54.664019",
+      "metar_available": false
     },
     {
       "ident": "UY-0027",
@@ -818,7 +885,8 @@
       "iso_region": "UY-RO",
       "municipality": "Los Ajos",
       "local_code": "1004",
-      "coordinates": "-33.834374, -54.000696"
+      "coordinates": "-33.834374, -54.000696",
+      "metar_available": false
     },
     {
       "ident": "UY-0028",
@@ -829,7 +897,8 @@
       "iso_country": "UY",
       "iso_region": "UY-MA",
       "municipality": "Jose Ignacio",
-      "coordinates": "-34.825459, -54.658197"
+      "coordinates": "-34.825459, -54.658197",
+      "metar_available": false
     },
     {
       "ident": "UY-0029",
@@ -840,7 +909,8 @@
       "iso_country": "UY",
       "iso_region": "UY-PA",
       "municipality": "Estancia 'Los Olivos de Guaviyú'",
-      "coordinates": "-31.741739, -58.026713"
+      "coordinates": "-31.741739, -58.026713",
+      "metar_available": false
     }
   ]
 }

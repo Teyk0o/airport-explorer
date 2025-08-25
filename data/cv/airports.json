@@ -2,7 +2,7 @@
   "country_code": "CV",
   "country_name": "Cape Verde",
   "total_airports": 10,
-  "last_updated": "2025-08-01T00:18:22.739939",
+  "last_updated": "2025-08-25T10:08:40.885572",
   "types_distribution": {
     "large_airport": 2,
     "small_airport": 4,
@@ -20,7 +20,8 @@
       "municipality": "Espargos",
       "gps_code": "GVAC",
       "iata_code": "SID",
-      "coordinates": "16.7414, -22.9494"
+      "coordinates": "16.7414, -22.9494",
+      "metar_available": false
     },
     {
       "ident": "GVAN",
@@ -33,7 +34,8 @@
       "municipality": "Ponta do Sol",
       "gps_code": "GVAN",
       "iata_code": "NTO",
-      "coordinates": "17.202800750732422, -25.090599060058594"
+      "coordinates": "17.202800750732422, -25.090599060058594",
+      "metar_available": false
     },
     {
       "ident": "GVBA",
@@ -46,7 +48,8 @@
       "municipality": "Rabil",
       "gps_code": "GVBA",
       "iata_code": "BVC",
-      "coordinates": "16.136499404907227, -22.888900756835938"
+      "coordinates": "16.136499404907227, -22.888900756835938",
+      "metar_available": false
     },
     {
       "ident": "GVBR",
@@ -59,7 +62,8 @@
       "municipality": "Brava Island",
       "gps_code": "GVBR",
       "iata_code": "BVR",
-      "coordinates": "14.864306, -24.746"
+      "coordinates": "14.864306, -24.746",
+      "metar_available": false
     },
     {
       "ident": "GVMA",
@@ -72,7 +76,8 @@
       "municipality": "Vila do Maio",
       "gps_code": "GVMA",
       "iata_code": "MMO",
-      "coordinates": "15.155900001525879, -23.213699340820312"
+      "coordinates": "15.155900001525879, -23.213699340820312",
+      "metar_available": false
     },
     {
       "ident": "GVMT",
@@ -85,7 +90,8 @@
       "municipality": "Vila do Mosteiros",
       "gps_code": "GVMT",
       "iata_code": "MTI",
-      "coordinates": "15.045, -24.339199"
+      "coordinates": "15.045, -24.339199",
+      "metar_available": false
     },
     {
       "ident": "GVNP",
@@ -98,7 +104,8 @@
       "municipality": "Praia",
       "gps_code": "GVNP",
       "iata_code": "RAI",
-      "coordinates": "14.941126, -23.484728"
+      "coordinates": "14.941126, -23.484728",
+      "metar_available": false
     },
     {
       "ident": "GVSF",
@@ -111,7 +118,8 @@
       "municipality": "São Filipe",
       "gps_code": "GVSF",
       "iata_code": "SFL",
-      "coordinates": "14.8850002289, -24.4799995422"
+      "coordinates": "14.8850002289, -24.4799995422",
+      "metar_available": false
     },
     {
       "ident": "GVSN",
@@ -124,7 +132,8 @@
       "municipality": "Preguiça",
       "gps_code": "GVSN",
       "iata_code": "SNE",
-      "coordinates": "16.588852, -24.284132"
+      "coordinates": "16.588852, -24.284132",
+      "metar_available": false
     },
     {
       "ident": "GVSV",
@@ -137,7 +146,8 @@
       "municipality": "São Pedro",
       "gps_code": "GVSV",
       "iata_code": "VXE",
-      "coordinates": "16.8332, -25.0553"
+      "coordinates": "16.8332, -25.0553",
+      "metar_available": false
     }
   ]
 }

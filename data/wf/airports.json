@@ -2,7 +2,7 @@
   "country_code": "WF",
   "country_name": "Wallis and Futuna",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.831860",
+  "last_updated": "2025-08-25T10:08:40.986478",
   "types_distribution": {
     "small_airport": 1,
     "medium_airport": 1
@@ -19,7 +19,8 @@
       "municipality": "Futuna Island",
       "gps_code": "NLWF",
       "iata_code": "FUT",
-      "coordinates": "-14.311565, -178.066492"
+      "coordinates": "-14.311565, -178.066492",
+      "metar_available": false
     },
     {
       "ident": "NLWW",
@@ -32,7 +33,8 @@
       "municipality": "Wallis Island",
       "gps_code": "NLWW",
       "iata_code": "WLS",
-      "coordinates": "-13.2383003235, -176.199005127"
+      "coordinates": "-13.2383003235, -176.199005127",
+      "metar_available": false
     }
   ]
 }

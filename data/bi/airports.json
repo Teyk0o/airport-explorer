@@ -2,7 +2,7 @@
   "country_code": "BI",
   "country_name": "Burundi",
   "total_airports": 7,
-  "last_updated": "2025-08-01T00:18:22.492346",
+  "last_updated": "2025-08-25T10:08:40.623387",
   "types_distribution": {
     "small_airport": 5,
     "closed": 1,
@@ -18,7 +18,8 @@
       "iso_country": "BI",
       "iso_region": "BI-RY",
       "municipality": "Ruyigi",
-      "coordinates": "-3.471371, 30.231485"
+      "coordinates": "-3.471371, 30.231485",
+      "metar_available": false
     },
     {
       "ident": "BI-0002",
@@ -28,7 +29,8 @@
       "iso_country": "BI",
       "iso_region": "BI-NG",
       "municipality": "Ngozi",
-      "coordinates": "-2.879447, 29.832178"
+      "coordinates": "-2.879447, 29.832178",
+      "metar_available": false
     },
     {
       "ident": "BI-0003",
@@ -39,7 +41,8 @@
       "iso_country": "BI",
       "iso_region": "BI-MA",
       "municipality": "Nyanza-Lac",
-      "coordinates": "-4.339434, 29.598245"
+      "coordinates": "-4.339434, 29.598245",
+      "metar_available": false
     },
     {
       "ident": "HBBA",
@@ -52,7 +55,8 @@
       "municipality": "Bujumbura",
       "gps_code": "HBBA",
       "iata_code": "BJM",
-      "coordinates": "-3.32402, 29.318501"
+      "coordinates": "-3.32402, 29.318501",
+      "metar_available": false
     },
     {
       "ident": "HBBE",
@@ -65,7 +69,8 @@
       "municipality": "Gitega",
       "gps_code": "HBBE",
       "iata_code": "GID",
-      "coordinates": "-3.417209, 29.911308"
+      "coordinates": "-3.417209, 29.911308",
+      "metar_available": false
     },
     {
       "ident": "HBBK",
@@ -77,7 +82,8 @@
       "iso_region": "BI-RT",
       "municipality": "Gihohi",
       "gps_code": "HBBK",
-      "coordinates": "-4.0342, 30.1318"
+      "coordinates": "-4.0342, 30.1318",
+      "metar_available": false
     },
     {
       "ident": "HBBO",
@@ -90,7 +96,8 @@
       "municipality": "Kirundo",
       "gps_code": "HBBO",
       "iata_code": "KRE",
-      "coordinates": "-2.544772, 30.094575"
+      "coordinates": "-2.544772, 30.094575",
+      "metar_available": false
     }
   ]
 }

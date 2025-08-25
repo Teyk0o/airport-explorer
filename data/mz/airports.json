@@ -2,7 +2,7 @@
   "country_code": "MZ",
   "country_name": "Mozambique",
   "total_airports": 102,
-  "last_updated": "2025-08-01T00:18:22.429024",
+  "last_updated": "2025-08-25T10:08:40.554806",
   "types_distribution": {
     "small_airport": 78,
     "medium_airport": 14,
@@ -20,7 +20,8 @@
       "iso_region": "MZ-Q",
       "municipality": "Alto Molocue",
       "iata_code": "AME",
-      "coordinates": "-15.6102777778, 37.6813888889"
+      "coordinates": "-15.6102777778, 37.6813888889",
+      "metar_available": false
     },
     {
       "ident": "BCW",
@@ -31,7 +32,8 @@
       "iso_region": "MZ-I",
       "municipality": "Benguera Island",
       "iata_code": "BCW",
-      "coordinates": "-21.8533, 35.438301"
+      "coordinates": "-21.8533, 35.438301",
+      "metar_available": false
     },
     {
       "ident": "BZB",
@@ -42,7 +44,8 @@
       "iso_region": "MZ-I",
       "municipality": "Bazaruto Island",
       "iata_code": "BZB",
-      "coordinates": "-21.5411, 35.4729"
+      "coordinates": "-21.5411, 35.4729",
+      "metar_available": false
     },
     {
       "ident": "CMZ",
@@ -54,7 +57,8 @@
       "iso_region": "MZ-S",
       "municipality": "Caia",
       "iata_code": "CMZ",
-      "coordinates": "-17.8331, 35.3341"
+      "coordinates": "-17.8331, 35.3341",
+      "metar_available": false
     },
     {
       "ident": "FQ49",
@@ -67,7 +71,8 @@
       "municipality": "Vila Franca do Save",
       "gps_code": "FQ49",
       "local_code": "FQ49",
-      "coordinates": "-21.164499282836914, 34.560699462890625"
+      "coordinates": "-21.164499282836914, 34.560699462890625",
+      "metar_available": false
     },
     {
       "ident": "FQAG",
@@ -80,7 +85,8 @@
       "municipality": "Angoche",
       "gps_code": "FQAG",
       "iata_code": "ANO",
-      "coordinates": "-16.18187, 39.945217"
+      "coordinates": "-16.18187, 39.945217",
+      "metar_available": false
     },
     {
       "ident": "FQBI",
@@ -92,7 +98,8 @@
       "iso_region": "MZ-G",
       "municipality": "Bilene",
       "gps_code": "FQBI",
-      "coordinates": "-25.265985, 33.238598"
+      "coordinates": "-25.265985, 33.238598",
+      "metar_available": false
     },
     {
       "ident": "FQBR",
@@ -105,7 +112,8 @@
       "municipality": "Beira",
       "gps_code": "FQBR",
       "iata_code": "BEW",
-      "coordinates": "-19.7964, 34.9076"
+      "coordinates": "-19.7964, 34.9076",
+      "metar_available": false
     },
     {
       "ident": "FQCB",
@@ -118,7 +126,8 @@
       "municipality": "Cuamba",
       "gps_code": "FQCB",
       "iata_code": "FXO",
-      "coordinates": "-14.815, 36.529999"
+      "coordinates": "-14.815, 36.529999",
+      "metar_available": false
     },
     {
       "ident": "FQCH",
@@ -131,7 +140,8 @@
       "municipality": "Chimoio",
       "gps_code": "FQCH",
       "iata_code": "VPY",
-      "coordinates": "-19.15130043029785, 33.42900085449219"
+      "coordinates": "-19.15130043029785, 33.42900085449219",
+      "metar_available": false
     },
     {
       "ident": "FQFU",
@@ -142,7 +152,8 @@
       "iso_region": "MZ-T",
       "municipality": "Furancungo",
       "gps_code": "FQFU",
-      "coordinates": "-14.918600082397461, 33.628299713134766"
+      "coordinates": "-14.918600082397461, 33.628299713134766",
+      "metar_available": false
     },
     {
       "ident": "FQIA",
@@ -155,7 +166,8 @@
       "municipality": "Inhaca",
       "gps_code": "FQIA",
       "iata_code": "IHC",
-      "coordinates": "-25.9971446991, 32.929351806599996"
+      "coordinates": "-25.9971446991, 32.929351806599996",
+      "metar_available": false
     },
     {
       "ident": "FQIB",
@@ -168,7 +180,8 @@
       "municipality": "Ibo",
       "gps_code": "FQIB",
       "iata_code": "IBO",
-      "coordinates": "-12.350174, 40.602297"
+      "coordinates": "-12.350174, 40.602297",
+      "metar_available": false
     },
     {
       "ident": "FQIN",
@@ -181,7 +194,8 @@
       "municipality": "Inhambane",
       "gps_code": "FQIN",
       "iata_code": "INH",
-      "coordinates": "-23.8764, 35.408501"
+      "coordinates": "-23.8764, 35.408501",
+      "metar_available": false
     },
     {
       "ident": "FQLC",
@@ -194,7 +208,8 @@
       "municipality": "Lichinga",
       "gps_code": "FQLC",
       "iata_code": "VXC",
-      "coordinates": "-13.274, 35.2663"
+      "coordinates": "-13.274, 35.2663",
+      "metar_available": false
     },
     {
       "ident": "FQLU",
@@ -207,7 +222,8 @@
       "municipality": "Lumbo",
       "gps_code": "FQLU",
       "iata_code": "LFB",
-      "coordinates": "-15.0331, 40.6717"
+      "coordinates": "-15.0331, 40.6717",
+      "metar_available": false
     },
     {
       "ident": "FQMA",
@@ -220,7 +236,8 @@
       "municipality": "Maputo",
       "gps_code": "FQMA",
       "iata_code": "MPM",
-      "coordinates": "-25.920799, 32.572601"
+      "coordinates": "-25.920799, 32.572601",
+      "metar_available": false
     },
     {
       "ident": "FQMD",
@@ -233,7 +250,8 @@
       "municipality": "Mueda",
       "gps_code": "FQMD",
       "iata_code": "MUD",
-      "coordinates": "-11.6729, 39.563099"
+      "coordinates": "-11.6729, 39.563099",
+      "metar_available": false
     },
     {
       "ident": "FQMP",
@@ -246,7 +264,8 @@
       "municipality": "Mocímboa da Praia",
       "gps_code": "FQMP",
       "iata_code": "MZB",
-      "coordinates": "-11.3618, 40.3549"
+      "coordinates": "-11.3618, 40.3549",
+      "metar_available": false
     },
     {
       "ident": "FQMR",
@@ -258,7 +277,8 @@
       "iso_region": "MZ-A",
       "municipality": "Marrupa",
       "gps_code": "FQMR",
-      "coordinates": "-13.2251, 37.552101"
+      "coordinates": "-13.2251, 37.552101",
+      "metar_available": false
     },
     {
       "ident": "FQNC",
@@ -271,7 +291,8 @@
       "municipality": "Nacala",
       "gps_code": "FQNC",
       "iata_code": "MNC",
-      "coordinates": "-14.4882, 40.7122"
+      "coordinates": "-14.4882, 40.7122",
+      "metar_available": false
     },
     {
       "ident": "FQNP",
@@ -284,7 +305,8 @@
       "municipality": "Nampula",
       "gps_code": "FQNP",
       "iata_code": "APL",
-      "coordinates": "-15.105600357055664, 39.28179931640625"
+      "coordinates": "-15.105600357055664, 39.28179931640625",
+      "metar_available": false
     },
     {
       "ident": "FQPB",
@@ -297,7 +319,8 @@
       "municipality": "Pemba",
       "gps_code": "FQPB",
       "iata_code": "POL",
-      "coordinates": "-12.993302, 40.524867"
+      "coordinates": "-12.993302, 40.524867",
+      "metar_available": false
     },
     {
       "ident": "FQPO",
@@ -310,7 +333,8 @@
       "municipality": "Ponta do Ouro",
       "gps_code": "FQPO",
       "iata_code": "PDD",
-      "coordinates": "-26.826913, 32.838444"
+      "coordinates": "-26.826913, 32.838444",
+      "metar_available": false
     },
     {
       "ident": "FQQL",
@@ -323,7 +347,8 @@
       "municipality": "Quelimane",
       "gps_code": "FQQL",
       "iata_code": "UEL",
-      "coordinates": "-17.855499267578125, 36.86909866333008"
+      "coordinates": "-17.855499267578125, 36.86909866333008",
+      "metar_available": false
     },
     {
       "ident": "FQSG",
@@ -335,7 +360,8 @@
       "iso_region": "MZ-T",
       "municipality": "Songo",
       "gps_code": "FQSG",
-      "coordinates": "-15.6027, 32.773201"
+      "coordinates": "-15.6027, 32.773201",
+      "metar_available": false
     },
     {
       "ident": "FQTT",
@@ -348,7 +374,8 @@
       "municipality": "Tete",
       "gps_code": "FQTT",
       "iata_code": "TET",
-      "coordinates": "-16.104799270629883, 33.640201568603516"
+      "coordinates": "-16.104799270629883, 33.640201568603516",
+      "metar_available": false
     },
     {
       "ident": "FQUG",
@@ -360,7 +387,8 @@
       "iso_region": "MZ-T",
       "municipality": "Ulongwe",
       "gps_code": "FQUG",
-      "coordinates": "-14.7046, 34.352402"
+      "coordinates": "-14.7046, 34.352402",
+      "metar_available": false
     },
     {
       "ident": "FQVL",
@@ -373,7 +401,8 @@
       "municipality": "Vilanculo",
       "gps_code": "FQVL",
       "iata_code": "VNX",
-      "coordinates": "-22.018400192260742, 35.31330108642578"
+      "coordinates": "-22.018400192260742, 35.31330108642578",
+      "metar_available": false
     },
     {
       "ident": "FQXA",
@@ -385,7 +414,8 @@
       "municipality": "Xai-Xai",
       "gps_code": "FQXA",
       "iata_code": "VJB",
-      "coordinates": "-24.895362, 33.749896"
+      "coordinates": "-24.895362, 33.749896",
+      "metar_available": false
     },
     {
       "ident": "IBL",
@@ -397,7 +427,8 @@
       "iso_region": "MZ-I",
       "municipality": "Bazaruto Island",
       "iata_code": "IBL",
-      "coordinates": "-21.708, 35.452801"
+      "coordinates": "-21.708, 35.452801",
+      "metar_available": false
     },
     {
       "ident": "IMG",
@@ -409,7 +440,8 @@
       "iso_region": "MZ-S",
       "municipality": "Inhaminga",
       "iata_code": "IMG",
-      "coordinates": "-18.41, 35.0045"
+      "coordinates": "-18.41, 35.0045",
+      "metar_available": false
     },
     {
       "ident": "INE",
@@ -421,7 +453,8 @@
       "iso_region": "MZ-Q",
       "municipality": "Chinde",
       "iata_code": "INE",
-      "coordinates": "-18.59, 36.4489"
+      "coordinates": "-18.59, 36.4489",
+      "metar_available": false
     },
     {
       "ident": "LBM",
@@ -433,7 +466,8 @@
       "iso_region": "MZ-Q",
       "municipality": "Luabo",
       "iata_code": "LBM",
-      "coordinates": "-18.4139, 36.1068"
+      "coordinates": "-18.4139, 36.1068",
+      "metar_available": false
     },
     {
       "ident": "LMZ",
@@ -445,7 +479,8 @@
       "iso_region": "MZ-P",
       "municipality": "Palma",
       "iata_code": "LMZ",
-      "coordinates": "-10.7506, 40.4702"
+      "coordinates": "-10.7506, 40.4702",
+      "metar_available": false
     },
     {
       "ident": "MJS",
@@ -457,7 +492,8 @@
       "iso_region": "MZ-Q",
       "municipality": "Maganja",
       "iata_code": "MJS",
-      "coordinates": "-17.3087, 37.5"
+      "coordinates": "-17.3087, 37.5",
+      "metar_available": false
     },
     {
       "ident": "MTU",
@@ -468,7 +504,8 @@
       "iso_region": "MZ-P",
       "municipality": "Montepuez",
       "iata_code": "MTU",
-      "coordinates": "-13.121899604797363, 39.052799224853516"
+      "coordinates": "-13.121899604797363, 39.052799224853516",
+      "metar_available": false
     },
     {
       "ident": "MZ-0001",
@@ -477,7 +514,8 @@
       "continent": "AF",
       "iso_country": "MZ",
       "iso_region": "MZ-A",
-      "coordinates": "-12.169599, 37.54545"
+      "coordinates": "-12.169599, 37.54545",
+      "metar_available": false
     },
     {
       "ident": "MZ-0002",
@@ -487,7 +525,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Macalonge",
-      "coordinates": "-12.499796, 35.428228"
+      "coordinates": "-12.499796, 35.428228",
+      "metar_available": false
     },
     {
       "ident": "MZ-0003",
@@ -498,7 +537,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Metangula",
-      "coordinates": "-12.701334, 34.803468"
+      "coordinates": "-12.701334, 34.803468",
+      "metar_available": false
     },
     {
       "ident": "MZ-0004",
@@ -509,7 +549,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Magaruque Island",
-      "coordinates": "-21.9672451019, 35.4247283936"
+      "coordinates": "-21.9672451019, 35.4247283936",
+      "metar_available": false
     },
     {
       "ident": "MZ-0005",
@@ -521,7 +562,8 @@
       "iso_region": "MZ-I",
       "municipality": "Santa Carolina",
       "iata_code": "NTC",
-      "coordinates": "-21.614999771118, 35.338001251221"
+      "coordinates": "-21.614999771118, 35.338001251221",
+      "metar_available": false
     },
     {
       "ident": "MZ-0006",
@@ -531,7 +573,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-L",
       "municipality": "Xinavane",
-      "coordinates": "-25.031328, 32.748115"
+      "coordinates": "-25.031328, 32.748115",
+      "metar_available": false
     },
     {
       "ident": "MZ-0007",
@@ -541,7 +584,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Quissico",
-      "coordinates": "-24.70554, 34.732691"
+      "coordinates": "-24.70554, 34.732691",
+      "metar_available": false
     },
     {
       "ident": "MZ-0008",
@@ -551,7 +595,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Massinga",
-      "coordinates": "-23.345136, 35.339172"
+      "coordinates": "-23.345136, 35.339172",
+      "metar_available": false
     },
     {
       "ident": "MZ-0009",
@@ -561,7 +606,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Homoine",
-      "coordinates": "-23.866113, 35.136698"
+      "coordinates": "-23.866113, 35.136698",
+      "metar_available": false
     },
     {
       "ident": "MZ-0010",
@@ -571,7 +617,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Mabote",
-      "coordinates": "-22.044039, 34.158814"
+      "coordinates": "-22.044039, 34.158814",
+      "metar_available": false
     },
     {
       "ident": "MZ-0011",
@@ -581,7 +628,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-N",
       "municipality": "Nanatha",
-      "coordinates": "-14.210912, 40.696848"
+      "coordinates": "-14.210912, 40.696848",
+      "metar_available": false
     },
     {
       "ident": "MZ-0013",
@@ -591,7 +639,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Matemo",
-      "coordinates": "-12.201529, 40.569915"
+      "coordinates": "-12.201529, 40.569915",
+      "metar_available": false
     },
     {
       "ident": "MZ-0014",
@@ -601,7 +650,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Medjumbe",
-      "coordinates": "-11.817449, 40.602972"
+      "coordinates": "-11.817449, 40.602972",
+      "metar_available": false
     },
     {
       "ident": "MZ-0015",
@@ -611,7 +661,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Tecomaji",
-      "coordinates": "-10.776306, 40.643912"
+      "coordinates": "-10.776306, 40.643912",
+      "metar_available": false
     },
     {
       "ident": "MZ-0016",
@@ -621,7 +672,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Mbamba",
-      "coordinates": "-12.140706, 38.318613"
+      "coordinates": "-12.140706, 38.318613",
+      "metar_available": false
     },
     {
       "ident": "MZ-0017",
@@ -632,7 +684,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Mbamba",
-      "coordinates": "-12.288658, 37.818062"
+      "coordinates": "-12.288658, 37.818062",
+      "metar_available": false
     },
     {
       "ident": "MZ-0018",
@@ -642,7 +695,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Machanga",
-      "coordinates": "-20.913318, 34.283153"
+      "coordinates": "-20.913318, 34.283153",
+      "metar_available": false
     },
     {
       "ident": "MZ-0019",
@@ -652,7 +706,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Chibabava",
-      "coordinates": "-20.630937, 34.066019"
+      "coordinates": "-20.630937, 34.066019",
+      "metar_available": false
     },
     {
       "ident": "MZ-0020",
@@ -662,7 +717,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-B",
       "municipality": "Machasi",
-      "coordinates": "-20.823041, 33.378488"
+      "coordinates": "-20.823041, 33.378488",
+      "metar_available": false
     },
     {
       "ident": "MZ-0021",
@@ -672,7 +728,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-G",
       "municipality": "Massangena",
-      "coordinates": "-21.587678, 32.929183"
+      "coordinates": "-21.587678, 32.929183",
+      "metar_available": false
     },
     {
       "ident": "MZ-0022",
@@ -682,7 +739,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Gueligue",
-      "coordinates": "-21.425639, 33.865274"
+      "coordinates": "-21.425639, 33.865274",
+      "metar_available": false
     },
     {
       "ident": "MZ-0023",
@@ -692,7 +750,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-B",
       "municipality": "Espungabera",
-      "coordinates": "-20.438769, 32.774927"
+      "coordinates": "-20.438769, 32.774927",
+      "metar_available": false
     },
     {
       "ident": "MZ-0024",
@@ -702,7 +761,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-B",
       "municipality": "Sussundenga",
-      "coordinates": "-19.408009, 33.28094"
+      "coordinates": "-19.408009, 33.28094",
+      "metar_available": false
     },
     {
       "ident": "MZ-0025",
@@ -712,7 +772,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Mafambisse",
-      "coordinates": "-19.575645, 34.633552"
+      "coordinates": "-19.575645, 34.633552",
+      "metar_available": false
     },
     {
       "ident": "MZ-0026",
@@ -722,7 +783,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-T",
       "municipality": "Mague",
-      "coordinates": "-15.810219, 31.741015"
+      "coordinates": "-15.810219, 31.741015",
+      "metar_available": false
     },
     {
       "ident": "MZ-0027",
@@ -731,7 +793,8 @@
       "continent": "AF",
       "iso_country": "MZ",
       "iso_region": "MZ-T",
-      "coordinates": "-15.684819, 30.610828"
+      "coordinates": "-15.684819, 30.610828",
+      "metar_available": false
     },
     {
       "ident": "MZ-0028",
@@ -741,7 +804,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-T",
       "municipality": "Zumbo",
-      "coordinates": "-15.612746, 30.421241"
+      "coordinates": "-15.612746, 30.421241",
+      "metar_available": false
     },
     {
       "ident": "MZ-0029",
@@ -751,7 +815,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-T",
       "municipality": "Zambue",
-      "coordinates": "-15.132704, 30.802094"
+      "coordinates": "-15.132704, 30.802094",
+      "metar_available": false
     },
     {
       "ident": "MZ-0030",
@@ -761,7 +826,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-T",
       "municipality": "Fingoe",
-      "coordinates": "-15.172786, 31.906405"
+      "coordinates": "-15.172786, 31.906405",
+      "metar_available": false
     },
     {
       "ident": "MZ-0031",
@@ -771,7 +837,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-Q",
       "municipality": "Milange",
-      "coordinates": "-16.124602, 35.734548"
+      "coordinates": "-16.124602, 35.734548",
+      "metar_available": false
     },
     {
       "ident": "MZ-0032",
@@ -781,7 +848,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-Q",
       "municipality": "Gile",
-      "coordinates": "-16.163767, 38.360793"
+      "coordinates": "-16.163767, 38.360793",
+      "metar_available": false
     },
     {
       "ident": "MZ-0033",
@@ -791,7 +859,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Chiure",
-      "coordinates": "-13.407165, 39.803192"
+      "coordinates": "-13.407165, 39.803192",
+      "metar_available": false
     },
     {
       "ident": "MZ-0034",
@@ -801,7 +870,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Macomia",
-      "coordinates": "-12.271035, 40.110719"
+      "coordinates": "-12.271035, 40.110719",
+      "metar_available": false
     },
     {
       "ident": "MZ-0035",
@@ -811,7 +881,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Meluco",
-      "coordinates": "-12.525447, 39.654529"
+      "coordinates": "-12.525447, 39.654529",
+      "metar_available": false
     },
     {
       "ident": "MZ-0036",
@@ -821,7 +892,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-G",
       "municipality": "Malvernia",
-      "coordinates": "-22.088361, 31.693199"
+      "coordinates": "-22.088361, 31.693199",
+      "metar_available": false
     },
     {
       "ident": "MZ-0037",
@@ -831,7 +903,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-B",
       "municipality": "Macossa",
-      "coordinates": "-17.86764, 33.915103"
+      "coordinates": "-17.86764, 33.915103",
+      "metar_available": false
     },
     {
       "ident": "MZ-0038",
@@ -841,7 +914,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Mecanhelas",
-      "coordinates": "-15.202762, 35.870151"
+      "coordinates": "-15.202762, 35.870151",
+      "metar_available": false
     },
     {
       "ident": "MZ-0039",
@@ -851,7 +925,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-T",
       "municipality": "Mucumbura",
-      "coordinates": "-16.187755, 31.686824"
+      "coordinates": "-16.187755, 31.686824",
+      "metar_available": false
     },
     {
       "ident": "MZ-0040",
@@ -861,7 +936,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-B",
       "municipality": "Catandica",
-      "coordinates": "-18.136596, 33.202238"
+      "coordinates": "-18.136596, 33.202238",
+      "metar_available": false
     },
     {
       "ident": "MZ-0041",
@@ -871,7 +947,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Vale Chassapa",
-      "coordinates": "-18.394034, 35.599975"
+      "coordinates": "-18.394034, 35.599975",
+      "metar_available": false
     },
     {
       "ident": "MZ-0042",
@@ -881,7 +958,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-Q",
       "municipality": "Mopeia",
-      "coordinates": "-17.977031, 35.705003"
+      "coordinates": "-17.977031, 35.705003",
+      "metar_available": false
     },
     {
       "ident": "MZ-0043",
@@ -891,7 +969,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Chemba",
-      "coordinates": "-17.167836, 34.882624"
+      "coordinates": "-17.167836, 34.882624",
+      "metar_available": false
     },
     {
       "ident": "MZ-0044",
@@ -901,7 +980,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-G",
       "municipality": "Massingir",
-      "coordinates": "-23.939579, 32.153803"
+      "coordinates": "-23.939579, 32.153803",
+      "metar_available": false
     },
     {
       "ident": "MZ-0045",
@@ -912,7 +992,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Inhassoro",
-      "coordinates": "-21.547634, 35.119673"
+      "coordinates": "-21.547634, 35.119673",
+      "metar_available": false
     },
     {
       "ident": "MZ-0046",
@@ -923,7 +1004,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Quirimba Island",
-      "coordinates": "-12.429533, 40.614222"
+      "coordinates": "-12.429533, 40.614222",
+      "metar_available": false
     },
     {
       "ident": "MZ-0047",
@@ -933,7 +1015,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Cabo Delgado",
-      "coordinates": "-11.030273, 40.612378"
+      "coordinates": "-11.030273, 40.612378",
+      "metar_available": false
     },
     {
       "ident": "MZ-0048",
@@ -943,7 +1026,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Palma",
-      "coordinates": "-10.84903, 40.50541"
+      "coordinates": "-10.84903, 40.50541",
+      "metar_available": false
     },
     {
       "ident": "MZ-0049",
@@ -953,7 +1037,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-P",
       "municipality": "Quiterajo",
-      "coordinates": "-11.75407, 40.42514"
+      "coordinates": "-11.75407, 40.42514",
+      "metar_available": false
     },
     {
       "ident": "MZ-0050",
@@ -963,7 +1048,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-N",
       "municipality": "Quinga",
-      "coordinates": "-15.84374, 40.23132"
+      "coordinates": "-15.84374, 40.23132",
+      "metar_available": false
     },
     {
       "ident": "MZ-0051",
@@ -973,7 +1059,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-N",
       "municipality": "Larde",
-      "coordinates": "-16.55068, 39.62062"
+      "coordinates": "-16.55068, 39.62062",
+      "metar_available": false
     },
     {
       "ident": "MZ-0052",
@@ -983,7 +1070,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-I",
       "municipality": "Pomene",
-      "coordinates": "-22.94259, 35.57047"
+      "coordinates": "-22.94259, 35.57047",
+      "metar_available": false
     },
     {
       "ident": "MZ-0053",
@@ -993,7 +1081,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-G",
       "municipality": "Xai-Xai",
-      "coordinates": "-25.19949, 33.50123"
+      "coordinates": "-25.19949, 33.50123",
+      "metar_available": false
     },
     {
       "ident": "MZ-0054",
@@ -1003,7 +1092,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-L",
       "municipality": "Matutuine",
-      "coordinates": "-26.20306, 32.93819"
+      "coordinates": "-26.20306, 32.93819",
+      "metar_available": false
     },
     {
       "ident": "MZ-0055",
@@ -1014,7 +1104,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-N",
       "municipality": "Moma",
-      "coordinates": "-16.74466, 39.21883"
+      "coordinates": "-16.74466, 39.21883",
+      "metar_available": false
     },
     {
       "ident": "MZ-0056",
@@ -1025,7 +1116,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Marromeu",
-      "coordinates": "-18.29363, 35.93434"
+      "coordinates": "-18.29363, 35.93434",
+      "metar_available": false
     },
     {
       "ident": "MZ-0057",
@@ -1036,7 +1128,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-S",
       "municipality": "Chupanga",
-      "coordinates": "-18.0336, 35.61152"
+      "coordinates": "-18.0336, 35.61152",
+      "metar_available": false
     },
     {
       "ident": "MZ-0058",
@@ -1047,7 +1140,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-B",
       "municipality": "Tambara",
-      "coordinates": "-16.73837, 34.23129"
+      "coordinates": "-16.73837, 34.23129",
+      "metar_available": false
     },
     {
       "ident": "MZ-0059",
@@ -1058,7 +1152,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-T",
       "municipality": "Emboqui",
-      "coordinates": "-15.60454, 32.41439"
+      "coordinates": "-15.60454, 32.41439",
+      "metar_available": false
     },
     {
       "ident": "MZ-0060",
@@ -1069,7 +1164,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Nairrubi",
-      "coordinates": "-13.4929, 36.0764"
+      "coordinates": "-13.4929, 36.0764",
+      "metar_available": false
     },
     {
       "ident": "MZ-0061",
@@ -1080,7 +1176,8 @@
       "iso_country": "MZ",
       "iso_region": "MZ-A",
       "municipality": "Mandimba",
-      "coordinates": "-14.33943, 35.663"
+      "coordinates": "-14.33943, 35.663",
+      "metar_available": false
     },
     {
       "ident": "MZ-TGS",
@@ -1091,7 +1188,8 @@
       "iso_region": "MZ-G",
       "municipality": "Chokwé",
       "iata_code": "TGS",
-      "coordinates": "-24.520599365234375, 32.965301513671875"
+      "coordinates": "-24.520599365234375, 32.965301513671875",
+      "metar_available": false
     },
     {
       "ident": "NND",
@@ -1103,7 +1201,8 @@
       "iso_region": "MZ-P",
       "municipality": "Nangade",
       "iata_code": "NND",
-      "coordinates": "-11.073, 39.68"
+      "coordinates": "-11.073, 39.68",
+      "metar_available": false
     },
     {
       "ident": "PEB",
@@ -1114,7 +1213,8 @@
       "iso_region": "MZ-Q",
       "municipality": "Pebane",
       "iata_code": "PEB",
-      "coordinates": "-17.27276, 38.18073"
+      "coordinates": "-17.27276, 38.18073",
+      "metar_available": false
     },
     {
       "ident": "RRM",
@@ -1126,7 +1226,8 @@
       "iso_region": "MZ-S",
       "municipality": "Marromeu",
       "iata_code": "RRM",
-      "coordinates": "-18.319259, 35.949501"
+      "coordinates": "-18.319259, 35.949501",
+      "metar_available": false
     },
     {
       "ident": "VJQ",
@@ -1138,7 +1239,8 @@
       "iso_region": "MZ-Q",
       "municipality": "Gurue",
       "iata_code": "VJQ",
-      "coordinates": "-15.5062, 36.9904"
+      "coordinates": "-15.5062, 36.9904",
+      "metar_available": false
     }
   ]
 }

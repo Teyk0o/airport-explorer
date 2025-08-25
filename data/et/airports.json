@@ -2,7 +2,7 @@
   "country_code": "ET",
   "country_name": "Ethiopia",
   "total_airports": 66,
-  "last_updated": "2025-08-01T00:18:22.701268",
+  "last_updated": "2025-08-25T10:08:40.844167",
   "types_distribution": {
     "closed": 7,
     "small_airport": 43,
@@ -20,7 +20,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SO",
       "municipality": "Jijiga",
-      "coordinates": "9.3615, 42.7887"
+      "coordinates": "9.3615, 42.7887",
+      "metar_available": false
     },
     {
       "ident": "ET-0002",
@@ -31,7 +32,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SN",
       "municipality": "Kibbish Wells",
-      "coordinates": "5.296, 35.8682"
+      "coordinates": "5.296, 35.8682",
+      "metar_available": false
     },
     {
       "ident": "ET-0003",
@@ -40,7 +42,8 @@
       "continent": "AF",
       "iso_country": "ET",
       "iso_region": "ET-SN",
-      "coordinates": "5.337166, 37.022991"
+      "coordinates": "5.337166, 37.022991",
+      "metar_available": false
     },
     {
       "ident": "ET-0004",
@@ -50,7 +53,8 @@
       "iso_country": "ET",
       "iso_region": "ET-XSD",
       "municipality": "Awasa",
-      "coordinates": "7.066667, 38.490278"
+      "coordinates": "7.066667, 38.490278",
+      "metar_available": false
     },
     {
       "ident": "ET-0005",
@@ -60,7 +64,8 @@
       "iso_country": "ET",
       "iso_region": "ET-AA",
       "municipality": "Addis Ababa",
-      "coordinates": "8.999475, 38.742503"
+      "coordinates": "8.999475, 38.742503",
+      "metar_available": false
     },
     {
       "ident": "ET-0006",
@@ -71,7 +76,8 @@
       "iso_country": "ET",
       "iso_region": "ET-BE",
       "municipality": "Bameza",
-      "coordinates": "11.1269, 35.04396"
+      "coordinates": "11.1269, 35.04396",
+      "metar_available": false
     },
     {
       "ident": "ET-0007",
@@ -82,7 +88,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SO",
       "municipality": "Dolo",
-      "coordinates": "4.17489, 42.03296"
+      "coordinates": "4.17489, 42.03296",
+      "metar_available": false
     },
     {
       "ident": "ET-0008",
@@ -93,7 +100,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SN",
       "municipality": "Omorate",
-      "coordinates": "4.80059, 36.12643"
+      "coordinates": "4.80059, 36.12643",
+      "metar_available": false
     },
     {
       "ident": "ET-0010",
@@ -104,7 +112,8 @@
       "iso_country": "ET",
       "iso_region": "ET-AM",
       "municipality": "Dessie",
-      "coordinates": "11.0825, 39.711399"
+      "coordinates": "11.0825, 39.711399",
+      "metar_available": false
     },
     {
       "ident": "ET-0011",
@@ -115,7 +124,8 @@
       "iso_country": "ET",
       "iso_region": "ET-OR",
       "municipality": "Masslo",
-      "coordinates": "6.408491, 39.722443"
+      "coordinates": "6.408491, 39.722443",
+      "metar_available": false
     },
     {
       "ident": "ET-0012",
@@ -126,7 +136,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SW",
       "municipality": "Waca",
-      "coordinates": "7.167, 37.167"
+      "coordinates": "7.167, 37.167",
+      "metar_available": false
     },
     {
       "ident": "ET-0013",
@@ -137,7 +148,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SO",
       "municipality": "Degah Bur",
-      "coordinates": "8.234, 43.5673"
+      "coordinates": "8.234, 43.5673",
+      "metar_available": false
     },
     {
       "ident": "ET-0014",
@@ -148,7 +160,8 @@
       "iso_country": "ET",
       "iso_region": "ET-OR",
       "municipality": "Bedelle",
-      "coordinates": "8.447604, 36.341035"
+      "coordinates": "8.447604, 36.341035",
+      "metar_available": false
     },
     {
       "ident": "ET-GLC",
@@ -161,7 +174,8 @@
       "municipality": "Geladi",
       "gps_code": "HAGL",
       "iata_code": "GLC",
-      "coordinates": "6.984439849849999, 46.4213981628"
+      "coordinates": "6.984439849849999, 46.4213981628",
+      "metar_available": false
     },
     {
       "ident": "ET-SHC",
@@ -174,7 +188,8 @@
       "municipality": "Shire Inda Selassie",
       "gps_code": "HASR",
       "iata_code": "SHC",
-      "coordinates": "14.075699, 38.273592"
+      "coordinates": "14.075699, 38.273592",
+      "metar_available": false
     },
     {
       "ident": "HAAB",
@@ -187,7 +202,8 @@
       "municipality": "Addis Ababa",
       "gps_code": "HAAB",
       "iata_code": "ADD",
-      "coordinates": "8.97789, 38.799301"
+      "coordinates": "8.97789, 38.799301",
+      "metar_available": false
     },
     {
       "ident": "HAAD",
@@ -199,7 +215,8 @@
       "iso_region": "ET-OR",
       "municipality": "Adaba",
       "gps_code": "HAAD",
-      "coordinates": "7.022953, 39.273162"
+      "coordinates": "7.022953, 39.273162",
+      "metar_available": false
     },
     {
       "ident": "HAAL",
@@ -211,7 +228,8 @@
       "iso_region": "ET-AA",
       "municipality": "Addis Ababa",
       "gps_code": "HAAL",
-      "coordinates": "9.003685, 38.725498"
+      "coordinates": "9.003685, 38.725498",
+      "metar_available": false
     },
     {
       "ident": "HAAM",
@@ -224,7 +242,8 @@
       "municipality": "Arba Minch",
       "gps_code": "HAAM",
       "iata_code": "AMH",
-      "coordinates": "6.03939, 37.5905"
+      "coordinates": "6.03939, 37.5905",
+      "metar_available": false
     },
     {
       "ident": "HAAX",
@@ -237,7 +256,8 @@
       "municipality": "Axum",
       "gps_code": "HAAX",
       "iata_code": "AXU",
-      "coordinates": "14.1468, 38.7728"
+      "coordinates": "14.1468, 38.7728",
+      "metar_available": false
     },
     {
       "ident": "HABC",
@@ -250,7 +270,8 @@
       "municipality": "Baco",
       "gps_code": "HABC",
       "iata_code": "BCO",
-      "coordinates": "5.783333, 36.55"
+      "coordinates": "5.783333, 36.55",
+      "metar_available": false
     },
     {
       "ident": "HABD",
@@ -263,7 +284,8 @@
       "municipality": "Bahir Dar",
       "gps_code": "HABD",
       "iata_code": "BJR",
-      "coordinates": "11.6081, 37.321602"
+      "coordinates": "11.6081, 37.321602",
+      "metar_available": false
     },
     {
       "ident": "HABE",
@@ -276,7 +298,8 @@
       "municipality": "Beica",
       "gps_code": "HABE",
       "iata_code": "BEI",
-      "coordinates": "9.38639, 34.5219"
+      "coordinates": "9.38639, 34.5219",
+      "metar_available": false
     },
     {
       "ident": "HADC",
@@ -289,7 +312,8 @@
       "municipality": "Dessie",
       "gps_code": "HADC",
       "iata_code": "DSE",
-      "coordinates": "11.10975, 39.725911"
+      "coordinates": "11.10975, 39.725911",
+      "metar_available": false
     },
     {
       "ident": "HADD",
@@ -302,7 +326,8 @@
       "municipality": "Dembidollo",
       "gps_code": "HADD",
       "iata_code": "DEM",
-      "coordinates": "8.554, 34.858002"
+      "coordinates": "8.554, 34.858002",
+      "metar_available": false
     },
     {
       "ident": "HADM",
@@ -315,7 +340,8 @@
       "municipality": "Debre Markos",
       "gps_code": "HADM",
       "iata_code": "DBM",
-      "coordinates": "10.321501, 37.741887"
+      "coordinates": "10.321501, 37.741887",
+      "metar_available": false
     },
     {
       "ident": "HADO",
@@ -327,7 +353,8 @@
       "iso_region": "ET-OR",
       "municipality": "Dodola",
       "gps_code": "HADO",
-      "coordinates": "7.02056, 39.051102"
+      "coordinates": "7.02056, 39.051102",
+      "metar_available": false
     },
     {
       "ident": "HADR",
@@ -340,7 +367,8 @@
       "municipality": "Dire Dawa",
       "gps_code": "HADR",
       "iata_code": "DIR",
-      "coordinates": "9.624699592590332, 41.85419845581055"
+      "coordinates": "9.624699592590332, 41.85419845581055",
+      "metar_available": false
     },
     {
       "ident": "HADT",
@@ -353,7 +381,8 @@
       "municipality": "Debre Tabor",
       "gps_code": "HADT",
       "iata_code": "DBT",
-      "coordinates": "11.884808, 38.009241"
+      "coordinates": "11.884808, 38.009241",
+      "metar_available": false
     },
     {
       "ident": "HAFN",
@@ -366,7 +395,8 @@
       "municipality": "Fincha",
       "gps_code": "HAFN",
       "iata_code": "FNH",
-      "coordinates": "9.584387, 37.377855"
+      "coordinates": "9.584387, 37.377855",
+      "metar_available": false
     },
     {
       "ident": "HAGB",
@@ -379,7 +409,8 @@
       "municipality": "Goba",
       "gps_code": "HAGB",
       "iata_code": "GOB",
-      "coordinates": "7.119033, 40.045166"
+      "coordinates": "7.119033, 40.045166",
+      "metar_available": false
     },
     {
       "ident": "HAGH",
@@ -392,7 +423,8 @@
       "municipality": "Ghinnir",
       "gps_code": "HAGH",
       "iata_code": "GNN",
-      "coordinates": "7.15000009537, 40.716999054"
+      "coordinates": "7.15000009537, 40.716999054",
+      "metar_available": false
     },
     {
       "ident": "HAGM",
@@ -405,7 +437,8 @@
       "municipality": "Gambela",
       "gps_code": "HAGM",
       "iata_code": "GMB",
-      "coordinates": "8.12876, 34.563099"
+      "coordinates": "8.12876, 34.563099",
+      "metar_available": false
     },
     {
       "ident": "HAGN",
@@ -418,7 +451,8 @@
       "municipality": "Azezo",
       "gps_code": "HAGN",
       "iata_code": "GDQ",
-      "coordinates": "12.5199, 37.433998"
+      "coordinates": "12.5199, 37.433998",
+      "metar_available": false
     },
     {
       "ident": "HAGO",
@@ -431,7 +465,8 @@
       "municipality": "Gode",
       "gps_code": "HAGO",
       "iata_code": "GDE",
-      "coordinates": "5.93513011932, 43.5786018372"
+      "coordinates": "5.93513011932, 43.5786018372",
+      "metar_available": false
     },
     {
       "ident": "HAGR",
@@ -444,7 +479,8 @@
       "municipality": "Gore",
       "gps_code": "HAGR",
       "iata_code": "GOR",
-      "coordinates": "8.1614, 35.5529"
+      "coordinates": "8.1614, 35.5529",
+      "metar_available": false
     },
     {
       "ident": "HAHM",
@@ -457,7 +493,8 @@
       "municipality": "Debre Zeyit",
       "gps_code": "HAHM",
       "iata_code": "QHR",
-      "coordinates": "8.7163, 39.0059"
+      "coordinates": "8.7163, 39.0059",
+      "metar_available": false
     },
     {
       "ident": "HAHU",
@@ -470,7 +507,8 @@
       "municipality": "Akwi",
       "gps_code": "HAHU",
       "iata_code": "HUE",
-      "coordinates": "13.83012, 36.88237"
+      "coordinates": "13.83012, 36.88237",
+      "metar_available": false
     },
     {
       "ident": "HAJJ",
@@ -483,7 +521,8 @@
       "municipality": "Jijiga",
       "gps_code": "HAJJ",
       "iata_code": "JIJ",
-      "coordinates": "9.3325, 42.9121"
+      "coordinates": "9.3325, 42.9121",
+      "metar_available": false
     },
     {
       "ident": "HAJK",
@@ -494,7 +533,8 @@
       "iso_country": "ET",
       "iso_region": "ET-SN",
       "gps_code": "HAJK",
-      "coordinates": "5.7495, 36.559667"
+      "coordinates": "5.7495, 36.559667",
+      "metar_available": false
     },
     {
       "ident": "HAJM",
@@ -507,7 +547,8 @@
       "municipality": "Jimma",
       "gps_code": "HAJM",
       "iata_code": "JIM",
-      "coordinates": "7.66609001159668, 36.81660079956055"
+      "coordinates": "7.66609001159668, 36.81660079956055",
+      "metar_available": false
     },
     {
       "ident": "HAKD",
@@ -520,7 +561,8 @@
       "municipality": "Kebri Dahar",
       "gps_code": "HAKD",
       "iata_code": "ABK",
-      "coordinates": "6.732577, 44.241339"
+      "coordinates": "6.732577, 44.241339",
+      "metar_available": false
     },
     {
       "ident": "HAKL",
@@ -533,7 +575,8 @@
       "municipality": "Kelafo",
       "gps_code": "HAKL",
       "iata_code": "LFO",
-      "coordinates": "5.6570000648498535, 44.349998474121094"
+      "coordinates": "5.6570000648498535, 44.349998474121094",
+      "metar_available": false
     },
     {
       "ident": "HALA",
@@ -546,7 +589,8 @@
       "municipality": "Hawassa",
       "gps_code": "HALA",
       "iata_code": "AWA",
-      "coordinates": "7.099869, 38.396187"
+      "coordinates": "7.099869, 38.396187",
+      "metar_available": false
     },
     {
       "ident": "HALL",
@@ -559,7 +603,8 @@
       "municipality": "Girany Amba",
       "gps_code": "HALL",
       "iata_code": "LLI",
-      "coordinates": "11.975225, 38.980198"
+      "coordinates": "11.975225, 38.980198",
+      "metar_available": false
     },
     {
       "ident": "HAMA",
@@ -572,7 +617,8 @@
       "municipality": "Mekane Selam",
       "gps_code": "HAMA",
       "iata_code": "MKS",
-      "coordinates": "10.7254, 38.7415"
+      "coordinates": "10.7254, 38.7415",
+      "metar_available": false
     },
     {
       "ident": "HAMJ",
@@ -584,7 +630,8 @@
       "iso_region": "ET-SW",
       "municipality": "Maji",
       "gps_code": "HAMJ",
-      "coordinates": "5.833, 35.533001"
+      "coordinates": "5.833, 35.533001",
+      "metar_available": false
     },
     {
       "ident": "HAMK",
@@ -597,7 +644,8 @@
       "municipality": "Mekele",
       "gps_code": "HAMK",
       "iata_code": "MQX",
-      "coordinates": "13.4674, 39.533501"
+      "coordinates": "13.4674, 39.533501",
+      "metar_available": false
     },
     {
       "ident": "HAMM",
@@ -610,7 +658,8 @@
       "municipality": "Metema",
       "gps_code": "HAMM",
       "iata_code": "ETE",
-      "coordinates": "12.932999610899998, 36.1669998169"
+      "coordinates": "12.932999610899998, 36.1669998169",
+      "metar_available": false
     },
     {
       "ident": "HAMN",
@@ -623,7 +672,8 @@
       "municipality": "Mendi",
       "gps_code": "HAMN",
       "iata_code": "NDM",
-      "coordinates": "9.767, 35.099998"
+      "coordinates": "9.767, 35.099998",
+      "metar_available": false
     },
     {
       "ident": "HAMR",
@@ -636,7 +686,8 @@
       "municipality": "Omo National Park",
       "gps_code": "HAMR",
       "iata_code": "MUJ",
-      "coordinates": "5.8646, 35.7485"
+      "coordinates": "5.8646, 35.7485",
+      "metar_available": false
     },
     {
       "ident": "HAMT",
@@ -649,7 +700,8 @@
       "municipality": "Mizan Teferi",
       "gps_code": "HAMT",
       "iata_code": "MTF",
-      "coordinates": "6.9571, 35.5547"
+      "coordinates": "6.9571, 35.5547",
+      "metar_available": false
     },
     {
       "ident": "HANG",
@@ -662,7 +714,8 @@
       "municipality": "Negele Borana",
       "gps_code": "HANG",
       "iata_code": "EGL",
-      "coordinates": "5.2897, 39.7023"
+      "coordinates": "5.2897, 39.7023",
+      "metar_available": false
     },
     {
       "ident": "HANJ",
@@ -675,7 +728,8 @@
       "municipality": "Nejo",
       "gps_code": "HANJ",
       "iata_code": "NEJ",
-      "coordinates": "9.55, 35.466995"
+      "coordinates": "9.55, 35.466995",
+      "metar_available": false
     },
     {
       "ident": "HANK",
@@ -688,7 +742,8 @@
       "municipality": "Nekemte",
       "gps_code": "HANK",
       "iata_code": "NEK",
-      "coordinates": "9.034333, 36.613154"
+      "coordinates": "9.034333, 36.613154",
+      "metar_available": false
     },
     {
       "ident": "HAPW",
@@ -701,7 +756,8 @@
       "municipality": "Pawe",
       "gps_code": "HAPW",
       "iata_code": "PWI",
-      "coordinates": "11.3126, 36.4164"
+      "coordinates": "11.3126, 36.4164",
+      "metar_available": false
     },
     {
       "ident": "HASD",
@@ -714,7 +770,8 @@
       "municipality": "Soddu",
       "gps_code": "HASD",
       "iata_code": "SXU",
-      "coordinates": "6.80281, 37.68622"
+      "coordinates": "6.80281, 37.68622",
+      "metar_available": false
     },
     {
       "ident": "HASH",
@@ -726,7 +783,8 @@
       "iso_region": "ET-OR",
       "municipality": "Sheikh Hussein",
       "gps_code": "HASH",
-      "coordinates": "7.74175, 40.69557"
+      "coordinates": "7.74175, 40.69557",
+      "metar_available": false
     },
     {
       "ident": "HASK",
@@ -739,7 +797,8 @@
       "municipality": "Shakiso",
       "gps_code": "HASK",
       "iata_code": "SKR",
-      "coordinates": "5.6923, 38.9764"
+      "coordinates": "5.6923, 38.9764",
+      "metar_available": false
     },
     {
       "ident": "HASL",
@@ -752,7 +811,8 @@
       "municipality": "Shilavo",
       "gps_code": "HASL",
       "iata_code": "HIL",
-      "coordinates": "6.077545, 44.763736"
+      "coordinates": "6.077545, 44.763736",
+      "metar_available": false
     },
     {
       "ident": "HASM",
@@ -765,7 +825,8 @@
       "municipality": "Semera",
       "gps_code": "HASM",
       "iata_code": "SZE",
-      "coordinates": "11.7875, 40.9915"
+      "coordinates": "11.7875, 40.9915",
+      "metar_available": false
     },
     {
       "ident": "HASO",
@@ -778,7 +839,8 @@
       "municipality": "Asosa",
       "gps_code": "HASO",
       "iata_code": "ASO",
-      "coordinates": "10.018500328063965, 34.586299896240234"
+      "coordinates": "10.018500328063965, 34.586299896240234",
+      "metar_available": false
     },
     {
       "ident": "HATP",
@@ -791,7 +853,8 @@
       "municipality": "Tippi",
       "gps_code": "HATP",
       "iata_code": "TIE",
-      "coordinates": "7.2024, 35.415"
+      "coordinates": "7.2024, 35.415",
+      "metar_available": false
     },
     {
       "ident": "HAWR",
@@ -804,7 +867,8 @@
       "municipality": "Warder",
       "gps_code": "HAWR",
       "iata_code": "WRA",
-      "coordinates": "6.9724, 45.3334"
+      "coordinates": "6.9724, 45.3334",
+      "metar_available": false
     },
     {
       "ident": "MYS",
@@ -816,7 +880,8 @@
       "iso_region": "ET-OR",
       "municipality": "Moyale",
       "iata_code": "MYS",
-      "coordinates": "3.5623, 39.0433"
+      "coordinates": "3.5623, 39.0433",
+      "metar_available": false
     },
     {
       "ident": "TUJ",
@@ -828,7 +893,8 @@
       "iso_region": "ET-SW",
       "municipality": "Tum",
       "iata_code": "TUJ",
-      "coordinates": "6.26, 35.5184"
+      "coordinates": "6.26, 35.5184",
+      "metar_available": false
     }
   ]
 }

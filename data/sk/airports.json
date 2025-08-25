@@ -2,7 +2,7 @@
   "country_code": "SK",
   "country_name": "Slovakia",
   "total_airports": 129,
-  "last_updated": "2025-08-01T00:18:22.639780",
+  "last_updated": "2025-08-25T10:08:40.777653",
   "types_distribution": {
     "small_airport": 109,
     "large_airport": 1,
@@ -18,7 +18,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-KI",
-      "coordinates": "48.5992279, 21.1598857"
+      "coordinates": "48.5992279, 21.1598857",
+      "metar_available": false
     },
     {
       "ident": "LSKV",
@@ -29,7 +30,8 @@
       "iso_region": "SK-TA",
       "municipality": "Kvetoslavov",
       "gps_code": "LZKV",
-      "coordinates": "48.04507, 17.34963"
+      "coordinates": "48.04507, 17.34963",
+      "metar_available": false
     },
     {
       "ident": "LZBD",
@@ -41,7 +43,8 @@
       "iso_region": "SK-KI",
       "municipality": "Bidovce",
       "gps_code": "LZBD",
-      "coordinates": "48.743192, 21.448285"
+      "coordinates": "48.743192, 21.448285",
+      "metar_available": false
     },
     {
       "ident": "LZDB",
@@ -53,7 +56,8 @@
       "iso_region": "SK-TC",
       "municipality": "Dubnica nad Váhom",
       "gps_code": "LZDB",
-      "coordinates": "48.996899, 18.1922"
+      "coordinates": "48.996899, 18.1922",
+      "metar_available": false
     },
     {
       "ident": "LZDV",
@@ -65,7 +69,8 @@
       "iso_region": "SK-BL",
       "municipality": "Dubová",
       "gps_code": "LZDV",
-      "coordinates": "48.347019, 17.356583"
+      "coordinates": "48.347019, 17.356583",
+      "metar_available": false
     },
     {
       "ident": "LZHL",
@@ -77,7 +82,8 @@
       "iso_region": "SK-TA",
       "municipality": "Holič",
       "gps_code": "LZHL",
-      "coordinates": "48.8103, 17.1338"
+      "coordinates": "48.8103, 17.1338",
+      "metar_available": false
     },
     {
       "ident": "LZIB",
@@ -90,7 +96,8 @@
       "municipality": "Bratislava",
       "gps_code": "LZIB",
       "iata_code": "BTS",
-      "coordinates": "48.1702, 17.2127"
+      "coordinates": "48.1702, 17.2127",
+      "metar_available": false
     },
     {
       "ident": "LZJS",
@@ -102,7 +109,8 @@
       "iso_region": "SK-ZI",
       "municipality": "Dúbrava",
       "gps_code": "LZJS",
-      "coordinates": "49.047939, 19.506791"
+      "coordinates": "49.047939, 19.506791",
+      "metar_available": false
     },
     {
       "ident": "LZKC",
@@ -114,7 +122,8 @@
       "iso_region": "SK-PV",
       "municipality": "Kamenica nad Cirochou",
       "gps_code": "LZKC",
-      "coordinates": "48.937, 21.9952"
+      "coordinates": "48.937, 21.9952",
+      "metar_available": false
     },
     {
       "ident": "LZKZ",
@@ -127,7 +136,8 @@
       "municipality": "Košice",
       "gps_code": "LZKZ",
       "iata_code": "KSC",
-      "coordinates": "48.663101, 21.2411"
+      "coordinates": "48.663101, 21.2411",
+      "metar_available": false
     },
     {
       "ident": "LZLU",
@@ -139,7 +149,8 @@
       "municipality": "Lučenec",
       "gps_code": "LZLU",
       "iata_code": "LUE",
-      "coordinates": "48.339401, 19.7358"
+      "coordinates": "48.339401, 19.7358",
+      "metar_available": false
     },
     {
       "ident": "LZMA",
@@ -151,7 +162,8 @@
       "iso_region": "SK-ZI",
       "municipality": "Martin",
       "gps_code": "LZMA",
-      "coordinates": "49.0653, 18.9508"
+      "coordinates": "49.0653, 18.9508",
+      "metar_available": false
     },
     {
       "ident": "LZMC",
@@ -163,7 +175,8 @@
       "iso_region": "SK-BL",
       "municipality": "Kuchyňa",
       "gps_code": "LZMC",
-      "coordinates": "48.402, 17.118401"
+      "coordinates": "48.402, 17.118401",
+      "metar_available": false
     },
     {
       "ident": "LZNI",
@@ -175,7 +188,8 @@
       "iso_region": "SK-NJ",
       "municipality": "Nitra",
       "gps_code": "LZNI",
-      "coordinates": "48.2794, 18.132799"
+      "coordinates": "48.2794, 18.132799",
+      "metar_available": false
     },
     {
       "ident": "LZNZ",
@@ -187,7 +201,8 @@
       "iso_region": "SK-NJ",
       "municipality": "Nové Zámky",
       "gps_code": "LZNZ",
-      "coordinates": "47.961944, 18.184444"
+      "coordinates": "47.961944, 18.184444",
+      "metar_available": false
     },
     {
       "ident": "LZOC",
@@ -199,7 +214,8 @@
       "iso_region": "SK-BC",
       "municipality": "Očová",
       "gps_code": "LZOC",
-      "coordinates": "48.595333, 19.265806"
+      "coordinates": "48.595333, 19.265806",
+      "metar_available": false
     },
     {
       "ident": "LZPE",
@@ -211,7 +227,8 @@
       "iso_region": "SK-TC",
       "municipality": "Prievidza",
       "gps_code": "LZPE",
-      "coordinates": "48.766102, 18.5867"
+      "coordinates": "48.766102, 18.5867",
+      "metar_available": false
     },
     {
       "ident": "LZPP",
@@ -224,7 +241,8 @@
       "municipality": "Piešťany",
       "gps_code": "LZPP",
       "iata_code": "PZY",
-      "coordinates": "48.62519836425781, 17.828399658203125"
+      "coordinates": "48.62519836425781, 17.828399658203125",
+      "metar_available": false
     },
     {
       "ident": "LZPT",
@@ -236,7 +254,8 @@
       "iso_region": "SK-TC",
       "municipality": "Partizánske",
       "gps_code": "LZPT",
-      "coordinates": "48.619202, 18.3297"
+      "coordinates": "48.619202, 18.3297",
+      "metar_available": false
     },
     {
       "ident": "LZPW",
@@ -249,7 +268,8 @@
       "municipality": "Prešov",
       "gps_code": "LZPW",
       "iata_code": "POV",
-      "coordinates": "49.02970123291, 21.315599441528"
+      "coordinates": "49.02970123291, 21.315599441528",
+      "metar_available": false
     },
     {
       "ident": "LZRU",
@@ -261,7 +281,8 @@
       "iso_region": "SK-ZI",
       "municipality": "Ružomberok",
       "gps_code": "LZRU",
-      "coordinates": "49.085485, 19.368584"
+      "coordinates": "49.085485, 19.368584",
+      "metar_available": false
     },
     {
       "ident": "LZRY",
@@ -273,7 +294,8 @@
       "iso_region": "SK-PV",
       "municipality": "Ražňany",
       "gps_code": "LZRY",
-      "coordinates": "49.078056, 21.099722"
+      "coordinates": "49.078056, 21.099722",
+      "metar_available": false
     },
     {
       "ident": "LZSE",
@@ -285,7 +307,8 @@
       "iso_region": "SK-TA",
       "municipality": "Hlboké",
       "gps_code": "LZSE",
-      "coordinates": "48.657927, 17.329459"
+      "coordinates": "48.657927, 17.329459",
+      "metar_available": false
     },
     {
       "ident": "LZSK",
@@ -297,7 +320,8 @@
       "iso_region": "SK-PV",
       "municipality": "Svidník",
       "gps_code": "LZSK",
-      "coordinates": "49.3339, 21.570299"
+      "coordinates": "49.3339, 21.570299",
+      "metar_available": false
     },
     {
       "ident": "LZSL",
@@ -310,7 +334,8 @@
       "municipality": "Sliač",
       "gps_code": "LZSL",
       "iata_code": "SLD",
-      "coordinates": "48.63779830932617, 19.13409996032715"
+      "coordinates": "48.63779830932617, 19.13409996032715",
+      "metar_available": false
     },
     {
       "ident": "LZSV",
@@ -321,7 +346,8 @@
       "iso_region": "SK-KI",
       "municipality": "Spišská Nová Ves",
       "gps_code": "LZSV",
-      "coordinates": "48.940833, 20.533889"
+      "coordinates": "48.940833, 20.533889",
+      "metar_available": false
     },
     {
       "ident": "LZSY",
@@ -333,7 +359,8 @@
       "iso_region": "SK-NJ",
       "municipality": "Šurany",
       "gps_code": "LZSY",
-      "coordinates": "48.075971, 18.114002"
+      "coordinates": "48.075971, 18.114002",
+      "metar_available": false
     },
     {
       "ident": "LZTN",
@@ -345,7 +372,8 @@
       "iso_region": "SK-TC",
       "municipality": "Trenčín",
       "gps_code": "LZTN",
-      "coordinates": "48.865002, 17.9923"
+      "coordinates": "48.865002, 17.9923",
+      "metar_available": false
     },
     {
       "ident": "LZTR",
@@ -357,7 +385,8 @@
       "iso_region": "SK-TA",
       "municipality": "Boleráz",
       "gps_code": "LZTR",
-      "coordinates": "48.451959, 17.531818"
+      "coordinates": "48.451959, 17.531818",
+      "metar_available": false
     },
     {
       "ident": "LZTT",
@@ -370,7 +399,8 @@
       "municipality": "Poprad",
       "gps_code": "LZTT",
       "iata_code": "TAT",
-      "coordinates": "49.073601, 20.2411"
+      "coordinates": "49.073601, 20.2411",
+      "metar_available": false
     },
     {
       "ident": "LZZI",
@@ -383,7 +413,8 @@
       "municipality": "Dolný Hričov",
       "gps_code": "LZZI",
       "iata_code": "ILZ",
-      "coordinates": "49.233292, 18.613386"
+      "coordinates": "49.233292, 18.613386",
+      "metar_available": false
     },
     {
       "ident": "SK-0001",
@@ -395,7 +426,8 @@
       "iso_region": "SK-BC",
       "municipality": "Zvolen",
       "gps_code": "LZDN",
-      "coordinates": "48.488716, 19.101749"
+      "coordinates": "48.488716, 19.101749",
+      "metar_available": false
     },
     {
       "ident": "SK-0002",
@@ -405,7 +437,8 @@
       "iso_country": "SK",
       "iso_region": "SK-ZI",
       "municipality": "Košťany nad Turcom",
-      "coordinates": "49.0167622, 18.8951041"
+      "coordinates": "49.0167622, 18.8951041",
+      "metar_available": false
     },
     {
       "ident": "SK-0003",
@@ -416,7 +449,8 @@
       "iso_region": "SK-TA",
       "municipality": "Dunajská Streda",
       "gps_code": "LZDU",
-      "coordinates": "48.020261, 17.612572"
+      "coordinates": "48.020261, 17.612572",
+      "metar_available": false
     },
     {
       "ident": "SK-0004",
@@ -425,7 +459,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-KI",
-      "coordinates": "48.969167, 20.386389"
+      "coordinates": "48.969167, 20.386389",
+      "metar_available": false
     },
     {
       "ident": "SK-0005",
@@ -437,7 +472,8 @@
       "iso_region": "SK-NJ",
       "municipality": "Kamenný Most",
       "local_code": "LZKMOS",
-      "coordinates": "47.863889, 18.65"
+      "coordinates": "47.863889, 18.65",
+      "metar_available": false
     },
     {
       "ident": "SK-0006",
@@ -447,7 +483,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TA",
       "municipality": "Krakovany",
-      "coordinates": "48.633889, 17.732222"
+      "coordinates": "48.633889, 17.732222",
+      "metar_available": false
     },
     {
       "ident": "SK-0007",
@@ -458,7 +495,8 @@
       "iso_region": "SK-BL",
       "municipality": "Tomášov",
       "local_code": "LZMADA",
-      "coordinates": "48.142866, 17.377625"
+      "coordinates": "48.142866, 17.377625",
+      "metar_available": false
     },
     {
       "ident": "SK-0008",
@@ -470,7 +508,8 @@
       "iso_region": "SK-TA",
       "municipality": "Sládkovičovo",
       "local_code": "LZSLAD",
-      "coordinates": "48.188264, 17.634687"
+      "coordinates": "48.188264, 17.634687",
+      "metar_available": false
     },
     {
       "ident": "SK-0009",
@@ -482,7 +521,8 @@
       "iso_region": "SK-NJ",
       "municipality": "Tekovský Hrádok",
       "local_code": "LZTEKO",
-      "coordinates": "48.171205, 18.541741"
+      "coordinates": "48.171205, 18.541741",
+      "metar_available": false
     },
     {
       "ident": "SK-0010",
@@ -493,7 +533,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TA",
       "municipality": "Trnava",
-      "coordinates": "48.4, 17.611667"
+      "coordinates": "48.4, 17.611667",
+      "metar_available": false
     },
     {
       "ident": "SK-0011",
@@ -504,7 +545,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Želiezovce",
-      "coordinates": "48.047222, 18.596111"
+      "coordinates": "48.047222, 18.596111",
+      "metar_available": false
     },
     {
       "ident": "SK-0012",
@@ -515,7 +557,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BL",
       "municipality": "Gajary",
-      "coordinates": "48.448391, 16.938858"
+      "coordinates": "48.448391, 16.938858",
+      "metar_available": false
     },
     {
       "ident": "SK-0013",
@@ -526,7 +569,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Zborov",
-      "coordinates": "49.374843, 21.288328"
+      "coordinates": "49.374843, 21.288328",
+      "metar_available": false
     },
     {
       "ident": "SK-0014",
@@ -537,7 +581,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Mirkovce",
-      "coordinates": "48.891407, 21.317362"
+      "coordinates": "48.891407, 21.317362",
+      "metar_available": false
     },
     {
       "ident": "SK-0015",
@@ -547,7 +592,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Čab",
-      "coordinates": "48.3888085, 18.0043553"
+      "coordinates": "48.3888085, 18.0043553",
+      "metar_available": false
     },
     {
       "ident": "SK-0016",
@@ -558,7 +604,8 @@
       "iso_country": "SK",
       "iso_region": "SK-ZI",
       "municipality": "Višňové",
-      "coordinates": "49.171375, 18.778598"
+      "coordinates": "49.171375, 18.778598",
+      "metar_available": false
     },
     {
       "ident": "SK-0017",
@@ -568,7 +615,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Hajná Nová Ves",
-      "coordinates": "48.541903, 18.052603"
+      "coordinates": "48.541903, 18.052603",
+      "metar_available": false
     },
     {
       "ident": "SK-0018",
@@ -579,7 +627,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Kačanov",
-      "coordinates": "48.615208, 21.83507"
+      "coordinates": "48.615208, 21.83507",
+      "metar_available": false
     },
     {
       "ident": "SK-0019",
@@ -589,7 +638,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Ludanice",
-      "coordinates": "48.509677, 18.132026"
+      "coordinates": "48.509677, 18.132026",
+      "metar_available": false
     },
     {
       "ident": "SK-0020",
@@ -598,7 +648,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-TC",
-      "coordinates": "48.6660912, 18.228065"
+      "coordinates": "48.6660912, 18.228065",
+      "metar_available": false
     },
     {
       "ident": "SK-0021",
@@ -608,7 +659,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Morovno",
-      "coordinates": "48.760753, 18.742585"
+      "coordinates": "48.760753, 18.742585",
+      "metar_available": false
     },
     {
       "ident": "SK-0022",
@@ -618,7 +670,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Plášťovce",
-      "coordinates": "48.128776, 19.000553"
+      "coordinates": "48.128776, 19.000553",
+      "metar_available": false
     },
     {
       "ident": "SK-0023",
@@ -628,7 +681,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Prusy",
-      "coordinates": "48.747364, 18.263118"
+      "coordinates": "48.747364, 18.263118",
+      "metar_available": false
     },
     {
       "ident": "SK-0024",
@@ -638,7 +692,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Klátová Nová Ves",
-      "coordinates": "48.57884, 18.285934"
+      "coordinates": "48.57884, 18.285934",
+      "metar_available": false
     },
     {
       "ident": "SK-0025",
@@ -648,7 +703,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BL",
       "municipality": "Rusovce",
-      "coordinates": "48.053679, 17.133268"
+      "coordinates": "48.053679, 17.133268",
+      "metar_available": false
     },
     {
       "ident": "SK-0026",
@@ -659,7 +715,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Ožďany",
-      "coordinates": "48.378078, 19.93117"
+      "coordinates": "48.378078, 19.93117",
+      "metar_available": false
     },
     {
       "ident": "SK-0027",
@@ -670,7 +727,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Tornaľa",
-      "coordinates": "48.4194, 20.337703"
+      "coordinates": "48.4194, 20.337703",
+      "metar_available": false
     },
     {
       "ident": "SK-0028",
@@ -680,7 +738,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Prša",
-      "coordinates": "48.295864, 19.784368"
+      "coordinates": "48.295864, 19.784368",
+      "metar_available": false
     },
     {
       "ident": "SK-0029",
@@ -691,7 +750,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Sklabiná",
-      "coordinates": "48.151621, 19.363439"
+      "coordinates": "48.151621, 19.363439",
+      "metar_available": false
     },
     {
       "ident": "SK-0030",
@@ -701,7 +761,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Horný Jatov",
-      "coordinates": "48.163221, 17.957382"
+      "coordinates": "48.163221, 17.957382",
+      "metar_available": false
     },
     {
       "ident": "SK-0031",
@@ -711,7 +772,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Orešany",
-      "coordinates": "48.50853, 17.922363"
+      "coordinates": "48.50853, 17.922363",
+      "metar_available": false
     },
     {
       "ident": "SK-0032",
@@ -721,7 +783,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Pohronský Ruskov",
-      "coordinates": "47.996312, 18.672981"
+      "coordinates": "47.996312, 18.672981",
+      "metar_available": false
     },
     {
       "ident": "SK-0033",
@@ -731,7 +794,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Bystričany",
-      "coordinates": "48.658592, 18.544089"
+      "coordinates": "48.658592, 18.544089",
+      "metar_available": false
     },
     {
       "ident": "SK-0034",
@@ -742,7 +806,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Uňatín",
-      "coordinates": "48.261964, 19.009003"
+      "coordinates": "48.261964, 19.009003",
+      "metar_available": false
     },
     {
       "ident": "SK-0035",
@@ -753,7 +818,8 @@
       "iso_region": "SK-BC",
       "municipality": "Janova Lehota",
       "local_code": "LZJANO",
-      "coordinates": "48.637592, 18.797125"
+      "coordinates": "48.637592, 18.797125",
+      "metar_available": false
     },
     {
       "ident": "SK-0036",
@@ -763,7 +829,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Sása",
-      "coordinates": "48.418355, 19.149027"
+      "coordinates": "48.418355, 19.149027",
+      "metar_available": false
     },
     {
       "ident": "SK-0037",
@@ -772,7 +839,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-KI",
-      "coordinates": "48.607864, 20.938503"
+      "coordinates": "48.607864, 20.938503",
+      "metar_available": false
     },
     {
       "ident": "SK-0038",
@@ -783,7 +851,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Ďačov",
-      "coordinates": "49.147313, 20.945992"
+      "coordinates": "49.147313, 20.945992",
+      "metar_available": false
     },
     {
       "ident": "SK-0039",
@@ -794,7 +863,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Bátka",
-      "coordinates": "48.371677, 20.153322"
+      "coordinates": "48.371677, 20.153322",
+      "metar_available": false
     },
     {
       "ident": "SK-0040",
@@ -805,7 +875,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Cestice",
-      "coordinates": "48.550702, 21.09315"
+      "coordinates": "48.550702, 21.09315",
+      "metar_available": false
     },
     {
       "ident": "SK-0041",
@@ -814,7 +885,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-KI",
-      "coordinates": "48.833554, 21.4042387"
+      "coordinates": "48.833554, 21.4042387",
+      "metar_available": false
     },
     {
       "ident": "SK-0042",
@@ -823,7 +895,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-PV",
-      "coordinates": "49.1637807, 21.9129184"
+      "coordinates": "49.1637807, 21.9129184",
+      "metar_available": false
     },
     {
       "ident": "SK-0043",
@@ -834,7 +907,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Chotín",
-      "coordinates": "47.81415, 18.194275"
+      "coordinates": "47.81415, 18.194275",
+      "metar_available": false
     },
     {
       "ident": "SK-0044",
@@ -844,7 +918,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Tužina",
-      "coordinates": "48.893072, 18.625023"
+      "coordinates": "48.893072, 18.625023",
+      "metar_available": false
     },
     {
       "ident": "SK-0045",
@@ -855,7 +930,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Čečejovce",
-      "coordinates": "48.621235, 21.083072"
+      "coordinates": "48.621235, 21.083072",
+      "metar_available": false
     },
     {
       "ident": "SK-0046",
@@ -865,7 +941,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Domaniža",
-      "coordinates": "49.0517234, 18.5533962"
+      "coordinates": "49.0517234, 18.5533962",
+      "metar_available": false
     },
     {
       "ident": "SK-0047",
@@ -876,7 +953,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Bartošovce",
-      "coordinates": "49.210967, 21.264231"
+      "coordinates": "49.210967, 21.264231",
+      "metar_available": false
     },
     {
       "ident": "SK-0048",
@@ -886,7 +964,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Ladomirov",
-      "coordinates": "48.933635, 22.275849"
+      "coordinates": "48.933635, 22.275849",
+      "metar_available": false
     },
     {
       "ident": "SK-0049",
@@ -896,7 +975,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Kurov",
-      "coordinates": "49.337959, 21.148789"
+      "coordinates": "49.337959, 21.148789",
+      "metar_available": false
     },
     {
       "ident": "SK-0050",
@@ -907,7 +987,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Širkovce",
-      "coordinates": "48.27482, 20.092034"
+      "coordinates": "48.27482, 20.092034",
+      "metar_available": false
     },
     {
       "ident": "SK-0051",
@@ -918,7 +999,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Jasenov",
-      "coordinates": "48.791825, 22.179766"
+      "coordinates": "48.791825, 22.179766",
+      "metar_available": false
     },
     {
       "ident": "SK-0052",
@@ -928,7 +1010,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Novosad",
-      "coordinates": "48.531801, 21.729293"
+      "coordinates": "48.531801, 21.729293",
+      "metar_available": false
     },
     {
       "ident": "SK-0053",
@@ -939,7 +1022,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Hucín",
-      "coordinates": "48.574449, 20.291375"
+      "coordinates": "48.574449, 20.291375",
+      "metar_available": false
     },
     {
       "ident": "SK-0054",
@@ -949,7 +1033,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Dlžín",
-      "coordinates": "48.8044756, 18.5067176"
+      "coordinates": "48.8044756, 18.5067176",
+      "metar_available": false
     },
     {
       "ident": "SK-0055",
@@ -958,7 +1043,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-KI",
-      "coordinates": "48.659681, 22.0141099"
+      "coordinates": "48.659681, 22.0141099",
+      "metar_available": false
     },
     {
       "ident": "SK-0056",
@@ -968,7 +1054,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Haniska",
-      "coordinates": "48.609863, 21.248697"
+      "coordinates": "48.609863, 21.248697",
+      "metar_available": false
     },
     {
       "ident": "SK-0057",
@@ -979,7 +1066,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Čerín",
-      "coordinates": "48.674911, 19.245273"
+      "coordinates": "48.674911, 19.245273",
+      "metar_available": false
     },
     {
       "ident": "SK-0058",
@@ -990,7 +1078,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Zádor",
-      "coordinates": "48.318305, 20.250388"
+      "coordinates": "48.318305, 20.250388",
+      "metar_available": false
     },
     {
       "ident": "SK-0059",
@@ -1001,7 +1090,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Kalša",
-      "coordinates": "48.624655, 21.506477"
+      "coordinates": "48.624655, 21.506477",
+      "metar_available": false
     },
     {
       "ident": "SK-0060",
@@ -1011,7 +1101,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Dolná Strehová",
-      "coordinates": "48.256185, 19.504961"
+      "coordinates": "48.256185, 19.504961",
+      "metar_available": false
     },
     {
       "ident": "SK-0061",
@@ -1021,7 +1112,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Kráľovský Chlmec",
-      "coordinates": "48.413942, 22.002993"
+      "coordinates": "48.413942, 22.002993",
+      "metar_available": false
     },
     {
       "ident": "SK-0062",
@@ -1031,7 +1123,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Udavské",
-      "coordinates": "48.97872, 21.947888"
+      "coordinates": "48.97872, 21.947888",
+      "metar_available": false
     },
     {
       "ident": "SK-0063",
@@ -1041,7 +1134,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Trebišov",
-      "coordinates": "48.636891, 21.759432"
+      "coordinates": "48.636891, 21.759432",
+      "metar_available": false
     },
     {
       "ident": "SK-0064",
@@ -1051,7 +1145,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Nižná Myšľa",
-      "coordinates": "48.645044, 21.375666"
+      "coordinates": "48.645044, 21.375666",
+      "metar_available": false
     },
     {
       "ident": "SK-0065",
@@ -1061,7 +1156,8 @@
       "iso_country": "SK",
       "iso_region": "SK-ZI",
       "municipality": "Dolná Štubňa",
-      "coordinates": "48.834808, 18.843625"
+      "coordinates": "48.834808, 18.843625",
+      "metar_available": false
     },
     {
       "ident": "SK-0066",
@@ -1070,7 +1166,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-PV",
-      "coordinates": "49.319881, 20.635033"
+      "coordinates": "49.319881, 20.635033",
+      "metar_available": false
     },
     {
       "ident": "SK-0067",
@@ -1080,7 +1177,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Veľké Kapušany",
-      "coordinates": "48.539865, 22.062918"
+      "coordinates": "48.539865, 22.062918",
+      "metar_available": false
     },
     {
       "ident": "SK-0068",
@@ -1090,7 +1188,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Veľká Lomnica",
-      "coordinates": "49.1065, 20.344029"
+      "coordinates": "49.1065, 20.344029",
+      "metar_available": false
     },
     {
       "ident": "SK-0069",
@@ -1100,7 +1199,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Streda nad Bodrogom",
-      "coordinates": "48.361893, 21.746454"
+      "coordinates": "48.361893, 21.746454",
+      "metar_available": false
     },
     {
       "ident": "SK-0070",
@@ -1111,7 +1211,8 @@
       "iso_country": "SK",
       "iso_region": "SK-ZI",
       "municipality": "Jakubovany",
-      "coordinates": "49.096416, 19.733499"
+      "coordinates": "49.096416, 19.733499",
+      "metar_available": false
     },
     {
       "ident": "SK-0071",
@@ -1121,7 +1222,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Klčov",
-      "coordinates": "48.994162, 20.664952"
+      "coordinates": "48.994162, 20.664952",
+      "metar_available": false
     },
     {
       "ident": "SK-0072",
@@ -1132,7 +1234,8 @@
       "iso_region": "SK-NJ",
       "municipality": "Komoča",
       "local_code": "LZKOMO",
-      "coordinates": "47.97054, 18.040467"
+      "coordinates": "47.97054, 18.040467",
+      "metar_available": false
     },
     {
       "ident": "SK-0073",
@@ -1142,7 +1245,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TC",
       "municipality": "Vankovia",
-      "coordinates": "48.7640939, 17.526797"
+      "coordinates": "48.7640939, 17.526797",
+      "metar_available": false
     },
     {
       "ident": "SK-0074",
@@ -1153,7 +1257,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Rozhanovce",
-      "coordinates": "48.751817, 21.328326"
+      "coordinates": "48.751817, 21.328326",
+      "metar_available": false
     },
     {
       "ident": "SK-0075",
@@ -1163,7 +1268,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Tomášovce",
-      "coordinates": "48.35997, 19.642739"
+      "coordinates": "48.35997, 19.642739",
+      "metar_available": false
     },
     {
       "ident": "SK-0076",
@@ -1172,7 +1278,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-BC",
-      "coordinates": "48.6680872, 18.9349476"
+      "coordinates": "48.6680872, 18.9349476",
+      "metar_available": false
     },
     {
       "ident": "SK-0077",
@@ -1183,7 +1290,8 @@
       "iso_country": "SK",
       "iso_region": "SK-PV",
       "municipality": "Šarišské Michaľany",
-      "coordinates": "49.0757, 21.1515"
+      "coordinates": "49.0757, 21.1515",
+      "metar_available": false
     },
     {
       "ident": "SK-0078",
@@ -1193,7 +1301,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Hatalov",
-      "coordinates": "48.651565, 21.873589"
+      "coordinates": "48.651565, 21.873589",
+      "metar_available": false
     },
     {
       "ident": "SK-0079",
@@ -1203,7 +1312,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Nemčice",
-      "coordinates": "48.54662, 18.14393"
+      "coordinates": "48.54662, 18.14393",
+      "metar_available": false
     },
     {
       "ident": "SK-0080",
@@ -1212,7 +1322,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-KI",
-      "coordinates": "49.104809, 20.318398"
+      "coordinates": "49.104809, 20.318398",
+      "metar_available": false
     },
     {
       "ident": "SK-0081",
@@ -1221,7 +1332,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-PV",
-      "coordinates": "48.86856, 21.6768"
+      "coordinates": "48.86856, 21.6768",
+      "metar_available": false
     },
     {
       "ident": "SK-0082",
@@ -1230,7 +1342,8 @@
       "continent": "EU",
       "iso_country": "SK",
       "iso_region": "SK-ZI",
-      "coordinates": "49.3911, 19.46712"
+      "coordinates": "49.3911, 19.46712",
+      "metar_available": false
     },
     {
       "ident": "SK-0083",
@@ -1242,7 +1355,8 @@
       "iso_region": "SK-TA",
       "municipality": "Lehnice",
       "local_code": "LZMASN",
-      "coordinates": "48.04539, 17.47704"
+      "coordinates": "48.04539, 17.47704",
+      "metar_available": false
     },
     {
       "ident": "SK-0084",
@@ -1252,7 +1366,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BL",
       "municipality": "Senec",
-      "coordinates": "48.250197, 17.398739"
+      "coordinates": "48.250197, 17.398739",
+      "metar_available": false
     },
     {
       "ident": "SK-0085",
@@ -1263,7 +1378,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Brezno",
-      "coordinates": "48.799367, 19.692275"
+      "coordinates": "48.799367, 19.692275",
+      "metar_available": false
     },
     {
       "ident": "SK-0086",
@@ -1274,7 +1390,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TA",
       "municipality": "Kľačany",
-      "coordinates": "48.40804, 17.87638"
+      "coordinates": "48.40804, 17.87638",
+      "metar_available": false
     },
     {
       "ident": "SK-0087",
@@ -1285,7 +1402,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TA",
       "municipality": "Chtelnica",
-      "coordinates": "48.58154, 17.62763"
+      "coordinates": "48.58154, 17.62763",
+      "metar_available": false
     },
     {
       "ident": "SK-0088",
@@ -1296,7 +1414,8 @@
       "iso_country": "SK",
       "iso_region": "SK-TA",
       "municipality": "Jaslovské Bohunice",
-      "coordinates": "48.48971, 17.67219"
+      "coordinates": "48.48971, 17.67219",
+      "metar_available": false
     },
     {
       "ident": "SK-0089",
@@ -1307,7 +1426,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Banská Bystrica",
-      "coordinates": "48.743693, 19.114494"
+      "coordinates": "48.743693, 19.114494",
+      "metar_available": false
     },
     {
       "ident": "SK-0090",
@@ -1318,7 +1438,8 @@
       "iso_country": "SK",
       "iso_region": "SK-NJ",
       "municipality": "Hontianska Vrbica",
-      "coordinates": "48.113592, 18.672466"
+      "coordinates": "48.113592, 18.672466",
+      "metar_available": false
     },
     {
       "ident": "SK-0091",
@@ -1329,7 +1450,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Halič",
-      "coordinates": "48.34239, 19.6035"
+      "coordinates": "48.34239, 19.6035",
+      "metar_available": false
     },
     {
       "ident": "SK-0092",
@@ -1340,7 +1462,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Očová",
-      "coordinates": "48.58111, 19.30989"
+      "coordinates": "48.58111, 19.30989",
+      "metar_available": false
     },
     {
       "ident": "SK-0093",
@@ -1351,7 +1474,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BC",
       "municipality": "Lieskovec",
-      "coordinates": "48.58572, 19.21684"
+      "coordinates": "48.58572, 19.21684",
+      "metar_available": false
     },
     {
       "ident": "SK-0094",
@@ -1362,7 +1486,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Čečejovce",
-      "coordinates": "48.61997, 21.07353"
+      "coordinates": "48.61997, 21.07353",
+      "metar_available": false
     },
     {
       "ident": "SK-0095",
@@ -1373,7 +1498,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Zemplínska Teplica",
-      "coordinates": "48.634375, 21.576884"
+      "coordinates": "48.634375, 21.576884",
+      "metar_available": false
     },
     {
       "ident": "SK-0096",
@@ -1384,7 +1510,8 @@
       "iso_country": "SK",
       "iso_region": "SK-KI",
       "municipality": "Parchovany",
-      "coordinates": "48.73877, 21.69836"
+      "coordinates": "48.73877, 21.69836",
+      "metar_available": false
     },
     {
       "ident": "SK-0097",
@@ -1395,7 +1522,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BL",
       "municipality": "Kráľová pri Senci",
-      "coordinates": "48.201094, 17.472467"
+      "coordinates": "48.201094, 17.472467",
+      "metar_available": false
     },
     {
       "ident": "SK-0098",
@@ -1406,7 +1534,8 @@
       "iso_country": "SK",
       "iso_region": "SK-BL",
       "municipality": "Bratislava",
-      "coordinates": "48.204399, 17.1917"
+      "coordinates": "48.204399, 17.1917",
+      "metar_available": false
     }
   ]
 }

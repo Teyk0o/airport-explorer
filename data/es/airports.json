@@ -2,7 +2,7 @@
   "country_code": "ES",
   "country_name": "Spain",
   "total_airports": 560,
-  "last_updated": "2025-08-01T00:18:22.389320",
+  "last_updated": "2025-08-25T10:08:40.510968",
   "types_distribution": {
     "heliport": 162,
     "small_airport": 311,
@@ -23,7 +23,8 @@
       "iso_region": "ES-AN",
       "municipality": "Algeciras",
       "gps_code": "LEAG",
-      "coordinates": "36.12882, -5.441079"
+      "coordinates": "36.12882, -5.441079",
+      "metar_available": false
     },
     {
       "ident": "ES-0001",
@@ -35,7 +36,8 @@
       "iso_region": "ES-AN",
       "municipality": "Trebujena",
       "gps_code": "LETJ",
-      "coordinates": "36.858889, -6.139167"
+      "coordinates": "36.858889, -6.139167",
+      "metar_available": false
     },
     {
       "ident": "ES-0002",
@@ -46,7 +48,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Vinaròs",
-      "coordinates": "40.519722222, 0.390277778"
+      "coordinates": "40.519722222, 0.390277778",
+      "metar_available": false
     },
     {
       "ident": "ES-0003",
@@ -56,7 +59,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Madrid",
-      "coordinates": "40.4179131733, -3.69491994381"
+      "coordinates": "40.4179131733, -3.69491994381",
+      "metar_available": false
     },
     {
       "ident": "ES-0004",
@@ -66,7 +70,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Salamanca",
-      "coordinates": "40.9644624297, -5.68368673325"
+      "coordinates": "40.9644624297, -5.68368673325",
+      "metar_available": false
     },
     {
       "ident": "ES-0005",
@@ -76,7 +81,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Salamanca",
-      "coordinates": "40.9793128692, -5.66011816263"
+      "coordinates": "40.9793128692, -5.66011816263",
+      "metar_available": false
     },
     {
       "ident": "ES-0006",
@@ -88,7 +94,8 @@
       "iso_region": "ES-CL",
       "municipality": "Santiago de la Requejada",
       "gps_code": "LESI",
-      "coordinates": "42.0981, -6.5262"
+      "coordinates": "42.0981, -6.5262",
+      "metar_available": false
     },
     {
       "ident": "ES-0007",
@@ -99,7 +106,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Torremocha de Jiloca",
-      "coordinates": "40.6032, -1.265"
+      "coordinates": "40.6032, -1.265",
+      "metar_available": false
     },
     {
       "ident": "ES-0009",
@@ -110,7 +118,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Villoldo",
-      "coordinates": "42.2655, -4.6479"
+      "coordinates": "42.2655, -4.6479",
+      "metar_available": false
     },
     {
       "ident": "ES-0010",
@@ -121,7 +130,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Xinzo de Limia",
-      "coordinates": "42.1045, -7.7118"
+      "coordinates": "42.1045, -7.7118",
+      "metar_available": false
     },
     {
       "ident": "ES-0011",
@@ -132,7 +142,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Baños de Molgas",
-      "coordinates": "42.23282, -7.6448"
+      "coordinates": "42.23282, -7.6448",
+      "metar_available": false
     },
     {
       "ident": "ES-0012",
@@ -143,7 +154,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Santa Comba",
-      "coordinates": "43.102502, -8.7617"
+      "coordinates": "43.102502, -8.7617",
+      "metar_available": false
     },
     {
       "ident": "ES-0013",
@@ -154,7 +166,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Caldas de Reis",
-      "coordinates": "42.5787, -8.6968"
+      "coordinates": "42.5787, -8.6968",
+      "metar_available": false
     },
     {
       "ident": "ES-0014",
@@ -166,7 +179,8 @@
       "iso_region": "ES-GA",
       "municipality": "Monforte de Lemos",
       "gps_code": "LENF",
-      "coordinates": "42.547, -7.5191"
+      "coordinates": "42.547, -7.5191",
+      "metar_available": false
     },
     {
       "ident": "ES-0015",
@@ -177,7 +191,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Pozo Cañada",
-      "coordinates": "38.798137, -1.726842"
+      "coordinates": "38.798137, -1.726842",
+      "metar_available": false
     },
     {
       "ident": "ES-0016",
@@ -186,7 +201,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "41.750278, 2.611389"
+      "coordinates": "41.750278, 2.611389",
+      "metar_available": false
     },
     {
       "ident": "ES-0017",
@@ -197,7 +213,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "La Cervera",
-      "coordinates": "39.329167, -6.343611"
+      "coordinates": "39.329167, -6.343611",
+      "metar_available": false
     },
     {
       "ident": "ES-0018",
@@ -206,7 +223,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "36.44026, -5.94093"
+      "coordinates": "36.44026, -5.94093",
+      "metar_available": false
     },
     {
       "ident": "ES-0019",
@@ -217,7 +235,8 @@
       "iso_country": "ES",
       "iso_region": "ES-NC",
       "gps_code": "LETU",
-      "coordinates": "42.003278, -1.620316"
+      "coordinates": "42.003278, -1.620316",
+      "metar_available": false
     },
     {
       "ident": "ES-0020",
@@ -226,7 +245,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "42.0069903, 3.1519175"
+      "coordinates": "42.0069903, 3.1519175",
+      "metar_available": false
     },
     {
       "ident": "ES-0021",
@@ -236,7 +256,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Avinyó Nou",
-      "coordinates": "41.367985, 1.766867"
+      "coordinates": "41.367985, 1.766867",
+      "metar_available": false
     },
     {
       "ident": "ES-0022",
@@ -245,7 +266,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-VC",
-      "coordinates": "38.1573628, -0.7779122"
+      "coordinates": "38.1573628, -0.7779122",
+      "metar_available": false
     },
     {
       "ident": "ES-0023",
@@ -257,7 +279,8 @@
       "iso_region": "ES-VC",
       "municipality": "Bétera",
       "gps_code": "LEBT",
-      "coordinates": "39.62447, -0.472576"
+      "coordinates": "39.62447, -0.472576",
+      "metar_available": false
     },
     {
       "ident": "ES-0024",
@@ -267,7 +290,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Vera",
-      "coordinates": "37.26076, -1.85236"
+      "coordinates": "37.26076, -1.85236",
+      "metar_available": false
     },
     {
       "ident": "ES-0026",
@@ -276,7 +300,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "41.687222, 2.748056"
+      "coordinates": "41.687222, 2.748056",
+      "metar_available": false
     },
     {
       "ident": "ES-0027",
@@ -285,7 +310,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "37.840394, -4.7096584"
+      "coordinates": "37.840394, -4.7096584",
+      "metar_available": false
     },
     {
       "ident": "ES-0028",
@@ -294,7 +320,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-MC",
-      "coordinates": "38.32305, -1.456967"
+      "coordinates": "38.32305, -1.456967",
+      "metar_available": false
     },
     {
       "ident": "ES-0029",
@@ -303,7 +330,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-VC",
-      "coordinates": "39.56601, -1.36225"
+      "coordinates": "39.56601, -1.36225",
+      "metar_available": false
     },
     {
       "ident": "ES-0030",
@@ -314,7 +342,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "El Fresno",
-      "coordinates": "40.604722, -4.790278"
+      "coordinates": "40.604722, -4.790278",
+      "metar_available": false
     },
     {
       "ident": "ES-0031",
@@ -325,7 +354,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Sant Guim de Freixenet",
-      "coordinates": "41.681294, 1.414266"
+      "coordinates": "41.681294, 1.414266",
+      "metar_available": false
     },
     {
       "ident": "ES-0032",
@@ -335,7 +365,8 @@
       "iso_country": "ES",
       "iso_region": "ES-NC",
       "municipality": "Tafalla",
-      "coordinates": "42.493953, -1.700802"
+      "coordinates": "42.493953, -1.700802",
+      "metar_available": false
     },
     {
       "ident": "ES-0033",
@@ -347,7 +378,8 @@
       "iso_region": "ES-AN",
       "municipality": "Mairena del Alcor",
       "gps_code": "LEAH",
-      "coordinates": "37.3297, -5.722783"
+      "coordinates": "37.3297, -5.722783",
+      "metar_available": false
     },
     {
       "ident": "ES-0034",
@@ -358,7 +390,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Niebla",
-      "coordinates": "37.349722, -6.683889"
+      "coordinates": "37.349722, -6.683889",
+      "metar_available": false
     },
     {
       "ident": "ES-0035",
@@ -370,7 +403,8 @@
       "iso_region": "ES-MC",
       "municipality": "San Javier",
       "gps_code": "LELG",
-      "coordinates": "37.845278, -0.881111"
+      "coordinates": "37.845278, -0.881111",
+      "metar_available": false
     },
     {
       "ident": "ES-0036",
@@ -381,7 +415,8 @@
       "iso_region": "ES-MC",
       "municipality": "Totana",
       "gps_code": "LETX",
-      "coordinates": "37.753083, -1.4487"
+      "coordinates": "37.753083, -1.4487",
+      "metar_available": false
     },
     {
       "ident": "ES-0037",
@@ -391,7 +426,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Sot de Ferrer",
-      "coordinates": "39.79781, -0.418318"
+      "coordinates": "39.79781, -0.418318",
+      "metar_available": false
     },
     {
       "ident": "ES-0038",
@@ -400,7 +436,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-NC",
-      "coordinates": "42.5225, -1.803889"
+      "coordinates": "42.5225, -1.803889",
+      "metar_available": false
     },
     {
       "ident": "ES-0039",
@@ -411,7 +448,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Alcazarén",
-      "coordinates": "41.3727778, -4.6958333"
+      "coordinates": "41.3727778, -4.6958333",
+      "metar_available": false
     },
     {
       "ident": "ES-0040",
@@ -422,7 +460,8 @@
       "iso_country": "ES",
       "iso_region": "ES-PV",
       "municipality": "Zalduondo",
-      "coordinates": "42.873599, -2.337437"
+      "coordinates": "42.873599, -2.337437",
+      "metar_available": false
     },
     {
       "ident": "ES-0041",
@@ -433,7 +472,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Carcelén",
-      "coordinates": "39.133, -1.2622"
+      "coordinates": "39.133, -1.2622",
+      "metar_available": false
     },
     {
       "ident": "ES-0042",
@@ -444,7 +484,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Molinicos",
-      "coordinates": "38.501242, -2.270883"
+      "coordinates": "38.501242, -2.270883",
+      "metar_available": false
     },
     {
       "ident": "ES-0043",
@@ -455,7 +496,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Alcocer de Planes",
-      "coordinates": "38.80213, -0.398417"
+      "coordinates": "38.80213, -0.398417",
+      "metar_available": false
     },
     {
       "ident": "ES-0044",
@@ -466,7 +508,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AS",
       "municipality": "Tineo",
-      "coordinates": "43.3330166667, -6.3785"
+      "coordinates": "43.3330166667, -6.3785",
+      "metar_available": false
     },
     {
       "ident": "ES-0045",
@@ -476,7 +519,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Medina de Pomar",
-      "coordinates": "42.953642, -3.473773"
+      "coordinates": "42.953642, -3.473773",
+      "metar_available": false
     },
     {
       "ident": "ES-0046",
@@ -486,7 +530,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Trasmirás",
-      "coordinates": "42.0517681, -7.5986285"
+      "coordinates": "42.0517681, -7.5986285",
+      "metar_available": false
     },
     {
       "ident": "ES-0047",
@@ -496,7 +541,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Reboira",
-      "coordinates": "43.1782148, -7.0494408"
+      "coordinates": "43.1782148, -7.0494408",
+      "metar_available": false
     },
     {
       "ident": "ES-0048",
@@ -507,7 +553,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Gérgal",
-      "coordinates": "37.12557, -2.595571"
+      "coordinates": "37.12557, -2.595571",
+      "metar_available": false
     },
     {
       "ident": "ES-0049",
@@ -518,7 +565,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Sanchidrián",
-      "coordinates": "40.89995, -4.609617"
+      "coordinates": "40.89995, -4.609617",
+      "metar_available": false
     },
     {
       "ident": "ES-0050",
@@ -528,7 +576,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Villaconejos",
-      "coordinates": "40.0969757, -3.5083487"
+      "coordinates": "40.0969757, -3.5083487",
+      "metar_available": false
     },
     {
       "ident": "ES-0051",
@@ -540,7 +589,8 @@
       "iso_region": "ES-AR",
       "municipality": "Binéfar",
       "gps_code": "LEBF",
-      "coordinates": "41.853613, 0.254904"
+      "coordinates": "41.853613, 0.254904",
+      "metar_available": false
     },
     {
       "ident": "ES-0052",
@@ -552,7 +602,8 @@
       "iso_region": "ES-VC",
       "municipality": "Viver",
       "gps_code": "LEVY",
-      "coordinates": "39.953679, -0.622487"
+      "coordinates": "39.953679, -0.622487",
+      "metar_available": false
     },
     {
       "ident": "ES-0053",
@@ -562,7 +613,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Cártama",
-      "coordinates": "36.722785, -4.700446"
+      "coordinates": "36.722785, -4.700446",
+      "metar_available": false
     },
     {
       "ident": "ES-0054",
@@ -574,7 +626,8 @@
       "iso_region": "ES-AR",
       "municipality": "Villanueva de Gallego",
       "gps_code": "LEWG",
-      "coordinates": "41.7856, -0.848033"
+      "coordinates": "41.7856, -0.848033",
+      "metar_available": false
     },
     {
       "ident": "ES-0055",
@@ -585,7 +638,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Antequera",
-      "coordinates": "37.10165, -4.5625667"
+      "coordinates": "37.10165, -4.5625667",
+      "metar_available": false
     },
     {
       "ident": "ES-0056",
@@ -595,7 +649,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.296287, -3.831152"
+      "coordinates": "39.296287, -3.831152",
+      "metar_available": false
     },
     {
       "ident": "ES-0057",
@@ -606,7 +661,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Ses Salines",
-      "coordinates": "39.346746, 3.057199"
+      "coordinates": "39.346746, 3.057199",
+      "metar_available": false
     },
     {
       "ident": "ES-0058",
@@ -618,7 +674,8 @@
       "iso_region": "ES-IB",
       "municipality": "Petra Pep Mercader",
       "gps_code": "LEPT",
-      "coordinates": "39.576801, 3.124647"
+      "coordinates": "39.576801, 3.124647",
+      "metar_available": false
     },
     {
       "ident": "ES-0059",
@@ -630,7 +687,8 @@
       "iso_region": "ES-IB",
       "municipality": "Binissalem",
       "gps_code": "LEIS",
-      "coordinates": "39.68105, 2.877281"
+      "coordinates": "39.68105, 2.877281",
+      "metar_available": false
     },
     {
       "ident": "ES-0060",
@@ -641,7 +699,8 @@
       "iso_region": "ES-IB",
       "municipality": "Port de Pollença",
       "gps_code": "LEPO",
-      "coordinates": "39.908121, 3.101912"
+      "coordinates": "39.908121, 3.101912",
+      "metar_available": false
     },
     {
       "ident": "ES-0061",
@@ -652,7 +711,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Llucmajor",
-      "coordinates": "39.400644, 2.860621"
+      "coordinates": "39.400644, 2.860621",
+      "metar_available": false
     },
     {
       "ident": "ES-0062",
@@ -663,7 +723,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "gps_code": "LEMY",
-      "coordinates": "38.979917, -6.345167"
+      "coordinates": "38.979917, -6.345167",
+      "metar_available": false
     },
     {
       "ident": "ES-0063",
@@ -674,7 +735,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Sallent",
-      "coordinates": "41.777586, 1.890361"
+      "coordinates": "41.777586, 1.890361",
+      "metar_available": false
     },
     {
       "ident": "ES-0064",
@@ -685,7 +747,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Vistabella del Maestrat",
-      "coordinates": "40.33185, -0.300633"
+      "coordinates": "40.33185, -0.300633",
+      "metar_available": false
     },
     {
       "ident": "ES-0065",
@@ -696,7 +759,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "El Casar de Escalona",
-      "coordinates": "40.020804, -4.558266"
+      "coordinates": "40.020804, -4.558266",
+      "metar_available": false
     },
     {
       "ident": "ES-0066",
@@ -707,7 +771,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Orce",
-      "coordinates": "37.73545, -2.36425"
+      "coordinates": "37.73545, -2.36425",
+      "metar_available": false
     },
     {
       "ident": "ES-0067",
@@ -719,7 +784,8 @@
       "iso_region": "ES-CM",
       "municipality": "Hiendelaencina",
       "gps_code": "LEEN",
-      "coordinates": "41.108267, -2.985967"
+      "coordinates": "41.108267, -2.985967",
+      "metar_available": false
     },
     {
       "ident": "ES-0068",
@@ -729,7 +795,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Sabadell",
-      "coordinates": "41.580987, 2.100083"
+      "coordinates": "41.580987, 2.100083",
+      "metar_available": false
     },
     {
       "ident": "ES-0069",
@@ -741,7 +808,8 @@
       "iso_region": "ES-CL",
       "municipality": "Marugán",
       "gps_code": "LEIR",
-      "coordinates": "40.9111, -4.370917"
+      "coordinates": "40.9111, -4.370917",
+      "metar_available": false
     },
     {
       "ident": "ES-0070",
@@ -752,7 +820,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Alcalá del Río",
-      "coordinates": "37.553279, -5.980612"
+      "coordinates": "37.553279, -5.980612",
+      "metar_available": false
     },
     {
       "ident": "ES-0071",
@@ -763,7 +832,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Ronda",
-      "coordinates": "36.73786, -5.114125"
+      "coordinates": "36.73786, -5.114125",
+      "metar_available": false
     },
     {
       "ident": "ES-0072",
@@ -775,7 +845,8 @@
       "iso_region": "ES-GA",
       "municipality": "O Carballiño",
       "gps_code": "LEBI",
-      "coordinates": "42.460951, -8.339674"
+      "coordinates": "42.460951, -8.339674",
+      "metar_available": false
     },
     {
       "ident": "ES-0073",
@@ -785,7 +856,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-MC",
-      "coordinates": "38.0468, -1.92201"
+      "coordinates": "38.0468, -1.92201",
+      "metar_available": false
     },
     {
       "ident": "ES-0074",
@@ -795,7 +867,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "40.571167, -6.2188167"
+      "coordinates": "40.571167, -6.2188167",
+      "metar_available": false
     },
     {
       "ident": "ES-0075",
@@ -805,7 +878,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "41.959145, -5.835035"
+      "coordinates": "41.959145, -5.835035",
+      "metar_available": false
     },
     {
       "ident": "ES-0076",
@@ -816,7 +890,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Caparacena, Granada",
-      "coordinates": "37.294754, -3.712869"
+      "coordinates": "37.294754, -3.712869",
+      "metar_available": false
     },
     {
       "ident": "ES-0077",
@@ -827,7 +902,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Pozuelo de Calatrava",
-      "coordinates": "38.905198, -3.852635"
+      "coordinates": "38.905198, -3.852635",
+      "metar_available": false
     },
     {
       "ident": "ES-0078",
@@ -838,7 +914,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Sober",
-      "coordinates": "42.432403, -7.488721"
+      "coordinates": "42.432403, -7.488721",
+      "metar_available": false
     },
     {
       "ident": "ES-0079",
@@ -848,7 +925,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "37.9617333333, -4.80705"
+      "coordinates": "37.9617333333, -4.80705",
+      "metar_available": false
     },
     {
       "ident": "ES-0080",
@@ -859,7 +937,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Valverde del Camino",
-      "coordinates": "37.5056, -6.70245"
+      "coordinates": "37.5056, -6.70245",
+      "metar_available": false
     },
     {
       "ident": "ES-0081",
@@ -871,7 +950,8 @@
       "iso_region": "ES-AN",
       "municipality": "Utrera",
       "gps_code": "LEUT",
-      "coordinates": "37.153417, -5.798882"
+      "coordinates": "37.153417, -5.798882",
+      "metar_available": false
     },
     {
       "ident": "ES-0082",
@@ -882,7 +962,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Siete Aguas",
-      "coordinates": "39.4886667, -0.9022167"
+      "coordinates": "39.4886667, -0.9022167",
+      "metar_available": false
     },
     {
       "ident": "ES-0083",
@@ -893,7 +974,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "La Yesa",
-      "coordinates": "39.909035, -0.948624"
+      "coordinates": "39.909035, -0.948624",
+      "metar_available": false
     },
     {
       "ident": "ES-0084",
@@ -904,7 +986,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Enguera",
-      "coordinates": "38.9431666667, -0.76915"
+      "coordinates": "38.9431666667, -0.76915",
+      "metar_available": false
     },
     {
       "ident": "ES-0085",
@@ -915,7 +998,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Ademuz",
-      "coordinates": "40.091464, -1.210474"
+      "coordinates": "40.091464, -1.210474",
+      "metar_available": false
     },
     {
       "ident": "ES-0086",
@@ -926,7 +1010,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Castell de Castells",
-      "coordinates": "38.73217, -0.144053"
+      "coordinates": "38.73217, -0.144053",
+      "metar_available": false
     },
     {
       "ident": "ES-0087",
@@ -935,7 +1020,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-EX",
-      "coordinates": "38.9784666667, -5.866"
+      "coordinates": "38.9784666667, -5.866",
+      "metar_available": false
     },
     {
       "ident": "ES-0088",
@@ -946,7 +1032,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Benagéber",
-      "coordinates": "39.735148, -1.139396"
+      "coordinates": "39.735148, -1.139396",
+      "metar_available": false
     },
     {
       "ident": "ES-0089",
@@ -956,7 +1043,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "41.249924, 1.241474"
+      "coordinates": "41.249924, 1.241474",
+      "metar_available": false
     },
     {
       "ident": "ES-0090",
@@ -967,7 +1055,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "gps_code": "LEVL",
-      "coordinates": "42.45175, -5.287083"
+      "coordinates": "42.45175, -5.287083",
+      "metar_available": false
     },
     {
       "ident": "ES-0091",
@@ -978,7 +1067,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Covaleda",
-      "coordinates": "41.861768, -2.949889"
+      "coordinates": "41.861768, -2.949889",
+      "metar_available": false
     },
     {
       "ident": "ES-0092",
@@ -989,7 +1079,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "gps_code": "LEZS",
-      "coordinates": "42.497215, -5.682669"
+      "coordinates": "42.497215, -5.682669",
+      "metar_available": false
     },
     {
       "ident": "ES-0093",
@@ -999,7 +1090,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Alcalá de la Jovada",
-      "coordinates": "38.786611, -0.231057"
+      "coordinates": "38.786611, -0.231057",
+      "metar_available": false
     },
     {
       "ident": "ES-0094",
@@ -1010,7 +1102,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Sonseca",
-      "coordinates": "39.693244, -3.933074"
+      "coordinates": "39.693244, -3.933074",
+      "metar_available": false
     },
     {
       "ident": "ES-0095",
@@ -1020,7 +1113,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-NC",
-      "coordinates": "42.109262, -1.686976"
+      "coordinates": "42.109262, -1.686976",
+      "metar_available": false
     },
     {
       "ident": "ES-0096",
@@ -1030,7 +1124,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "37.412624, -3.075759"
+      "coordinates": "37.412624, -3.075759",
+      "metar_available": false
     },
     {
       "ident": "ES-0097",
@@ -1041,7 +1136,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Campillos-Paravientos",
-      "coordinates": "39.941179, -1.53596"
+      "coordinates": "39.941179, -1.53596",
+      "metar_available": false
     },
     {
       "ident": "ES-0098",
@@ -1052,7 +1148,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Moià",
-      "coordinates": "41.800541, 2.112188"
+      "coordinates": "41.800541, 2.112188",
+      "metar_available": false
     },
     {
       "ident": "ES-0099",
@@ -1063,7 +1160,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Moià",
-      "coordinates": "41.7868167, 2.129783"
+      "coordinates": "41.7868167, 2.129783",
+      "metar_available": false
     },
     {
       "ident": "ES-0100",
@@ -1075,7 +1173,8 @@
       "iso_region": "ES-CM",
       "municipality": "Algodor (Toledo)",
       "gps_code": "LETG",
-      "coordinates": "39.898329, -3.874655"
+      "coordinates": "39.898329, -3.874655",
+      "metar_available": false
     },
     {
       "ident": "ES-0101",
@@ -1086,7 +1185,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "La Guardia",
-      "coordinates": "39.770897, -3.604716"
+      "coordinates": "39.770897, -3.604716",
+      "metar_available": false
     },
     {
       "ident": "ES-0102",
@@ -1097,7 +1197,8 @@
       "iso_country": "ES",
       "iso_region": "ES-NC",
       "municipality": "Sesma",
-      "coordinates": "42.425252, -2.027204"
+      "coordinates": "42.425252, -2.027204",
+      "metar_available": false
     },
     {
       "ident": "ES-0103",
@@ -1108,7 +1209,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Cervera de Pisuerga",
-      "coordinates": "42.887425, -4.530838"
+      "coordinates": "42.887425, -4.530838",
+      "metar_available": false
     },
     {
       "ident": "ES-0104",
@@ -1119,7 +1221,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Santa Maria del Páramo",
-      "coordinates": "42.34463, -5.803481"
+      "coordinates": "42.34463, -5.803481",
+      "metar_available": false
     },
     {
       "ident": "ES-0105",
@@ -1131,7 +1234,8 @@
       "iso_region": "ES-NC",
       "municipality": "Lumbier",
       "gps_code": "LEUM",
-      "coordinates": "42.66565, -1.302383"
+      "coordinates": "42.66565, -1.302383",
+      "metar_available": false
     },
     {
       "ident": "ES-0106",
@@ -1142,7 +1246,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Olula del Río",
-      "coordinates": "37.362538, -2.331969"
+      "coordinates": "37.362538, -2.331969",
+      "metar_available": false
     },
     {
       "ident": "ES-0107",
@@ -1152,7 +1257,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "41.68315, -6.30767"
+      "coordinates": "41.68315, -6.30767",
+      "metar_available": false
     },
     {
       "ident": "ES-0108",
@@ -1164,7 +1270,8 @@
       "iso_region": "ES-EX",
       "municipality": "Valverde de Leganés",
       "gps_code": "LEPN",
-      "coordinates": "38.705783, -6.99975"
+      "coordinates": "38.705783, -6.99975",
+      "metar_available": false
     },
     {
       "ident": "ES-0109",
@@ -1175,7 +1282,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Folgueroles",
-      "coordinates": "41.9527, 2.3072"
+      "coordinates": "41.9527, 2.3072",
+      "metar_available": true
     },
     {
       "ident": "ES-0111",
@@ -1185,7 +1293,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Villanueva del Pardillo",
-      "coordinates": "40.5001069999, -3.9920997"
+      "coordinates": "40.5001069999, -3.9920997",
+      "metar_available": false
     },
     {
       "ident": "ES-0112",
@@ -1196,7 +1305,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CB",
       "municipality": "Argüébanes",
-      "coordinates": "43.17817, -4.674958"
+      "coordinates": "43.17817, -4.674958",
+      "metar_available": false
     },
     {
       "ident": "ES-0113",
@@ -1207,7 +1317,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CB",
       "municipality": "Valderredible",
-      "coordinates": "42.769601, -3.953427"
+      "coordinates": "42.769601, -3.953427",
+      "metar_available": false
     },
     {
       "ident": "ES-0114",
@@ -1217,7 +1328,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "38.3666778, -2.7941751"
+      "coordinates": "38.3666778, -2.7941751",
+      "metar_available": false
     },
     {
       "ident": "ES-0115",
@@ -1227,7 +1339,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Viladamat",
-      "coordinates": "42.142843, 3.051141"
+      "coordinates": "42.142843, 3.051141",
+      "metar_available": false
     },
     {
       "ident": "ES-0116",
@@ -1237,7 +1350,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "42.02277, 0.7491"
+      "coordinates": "42.02277, 0.7491",
+      "metar_available": false
     },
     {
       "ident": "ES-0117",
@@ -1249,7 +1363,8 @@
       "iso_region": "ES-AN",
       "municipality": "Alcolea",
       "gps_code": "LEAE",
-      "coordinates": "37.945619, -4.615416"
+      "coordinates": "37.945619, -4.615416",
+      "metar_available": false
     },
     {
       "ident": "ES-0118",
@@ -1260,7 +1375,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Alcolea de la Cinca",
-      "coordinates": "41.734222, 0.10758333"
+      "coordinates": "41.734222, 0.10758333",
+      "metar_available": false
     },
     {
       "ident": "ES-0119",
@@ -1271,7 +1387,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Villanueva del Trabuco",
-      "coordinates": "37.0634284, -4.3303351"
+      "coordinates": "37.0634284, -4.3303351",
+      "metar_available": false
     },
     {
       "ident": "ES-0120",
@@ -1282,7 +1399,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "gps_code": "LEVJ",
-      "coordinates": "37.936706, -4.532632"
+      "coordinates": "37.936706, -4.532632",
+      "metar_available": false
     },
     {
       "ident": "ES-0121",
@@ -1293,7 +1411,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Beteta",
-      "coordinates": "40.540575, -2.076845"
+      "coordinates": "40.540575, -2.076845",
+      "metar_available": false
     },
     {
       "ident": "ES-0122",
@@ -1304,7 +1423,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Huevar",
-      "coordinates": "37.386693, -6.250106"
+      "coordinates": "37.386693, -6.250106",
+      "metar_available": false
     },
     {
       "ident": "ES-0123",
@@ -1315,7 +1435,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Tortellà",
-      "coordinates": "42.225478, 2.615891"
+      "coordinates": "42.225478, 2.615891",
+      "metar_available": false
     },
     {
       "ident": "ES-0124",
@@ -1326,7 +1447,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Ulldecona",
-      "coordinates": "40.620435, 0.479976"
+      "coordinates": "40.620435, 0.479976",
+      "metar_available": false
     },
     {
       "ident": "ES-0125",
@@ -1337,7 +1459,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MC",
       "municipality": "Coy (Lorca)",
-      "coordinates": "37.9273008, -1.7751475"
+      "coordinates": "37.9273008, -1.7751475",
+      "metar_available": false
     },
     {
       "ident": "ES-0126",
@@ -1348,7 +1471,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Almonte",
-      "coordinates": "37.25689, -6.562895"
+      "coordinates": "37.25689, -6.562895",
+      "metar_available": false
     },
     {
       "ident": "ES-0127",
@@ -1359,7 +1483,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Estartit",
-      "coordinates": "42.0310336, 3.1793314"
+      "coordinates": "42.0310336, 3.1793314",
+      "metar_available": false
     },
     {
       "ident": "ES-0128",
@@ -1369,7 +1494,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Llabiá",
-      "coordinates": "42.011798, 3.089483"
+      "coordinates": "42.011798, 3.089483",
+      "metar_available": false
     },
     {
       "ident": "ES-0129",
@@ -1380,7 +1506,8 @@
       "iso_region": "ES-AN",
       "municipality": "Escúzar",
       "gps_code": "LEJE",
-      "coordinates": "37.089503, -3.788322"
+      "coordinates": "37.089503, -3.788322",
+      "metar_available": false
     },
     {
       "ident": "ES-0130",
@@ -1390,7 +1517,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Alcocer de Planes",
-      "coordinates": "38.791395, -0.398591"
+      "coordinates": "38.791395, -0.398591",
+      "metar_available": false
     },
     {
       "ident": "ES-0131",
@@ -1400,7 +1528,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Barbastro",
-      "coordinates": "41.994251, 0.092153"
+      "coordinates": "41.994251, 0.092153",
+      "metar_available": false
     },
     {
       "ident": "ES-0132",
@@ -1411,7 +1540,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Bellvei",
-      "coordinates": "41.2443358, 1.5632892"
+      "coordinates": "41.2443358, 1.5632892",
+      "metar_available": false
     },
     {
       "ident": "ES-0133",
@@ -1422,7 +1552,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Valdecebro",
-      "coordinates": "40.353799, -1.013488"
+      "coordinates": "40.353799, -1.013488",
+      "metar_available": false
     },
     {
       "ident": "ES-0134",
@@ -1433,7 +1564,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Valdelaguna",
-      "coordinates": "40.15787, -3.38066"
+      "coordinates": "40.15787, -3.38066",
+      "metar_available": false
     },
     {
       "ident": "ES-0135",
@@ -1445,7 +1577,8 @@
       "iso_region": "ES-CM",
       "municipality": "Valdepeñas",
       "gps_code": "LEVP",
-      "coordinates": "38.792309, -3.371537"
+      "coordinates": "38.792309, -3.371537",
+      "metar_available": false
     },
     {
       "ident": "ES-0136",
@@ -1457,7 +1590,8 @@
       "iso_region": "ES-CM",
       "municipality": "Sigüenza",
       "gps_code": "LESZ",
-      "coordinates": "41.044793, -2.629209"
+      "coordinates": "41.044793, -2.629209",
+      "metar_available": false
     },
     {
       "ident": "ES-0137",
@@ -1467,7 +1601,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Urda",
-      "coordinates": "39.405432, -3.829932"
+      "coordinates": "39.405432, -3.829932",
+      "metar_available": false
     },
     {
       "ident": "ES-0138",
@@ -1478,7 +1613,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Isla Cristina",
-      "coordinates": "37.242111, -7.317649"
+      "coordinates": "37.242111, -7.317649",
+      "metar_available": false
     },
     {
       "ident": "ES-0139",
@@ -1489,7 +1625,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Albalat de la Ribera",
-      "coordinates": "39.220457, -0.36825"
+      "coordinates": "39.220457, -0.36825",
+      "metar_available": false
     },
     {
       "ident": "ES-0140",
@@ -1500,7 +1637,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Albalat de la Ribera",
-      "coordinates": "39.226157, -0.366584"
+      "coordinates": "39.226157, -0.366584",
+      "metar_available": false
     },
     {
       "ident": "ES-0141",
@@ -1511,7 +1649,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Valdeazores",
-      "coordinates": "39.490575, -4.661292"
+      "coordinates": "39.490575, -4.661292",
+      "metar_available": false
     },
     {
       "ident": "ES-0142",
@@ -1522,7 +1661,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "San Jeronimo",
-      "coordinates": "37.884932, -4.85157"
+      "coordinates": "37.884932, -4.85157",
+      "metar_available": false
     },
     {
       "ident": "ES-0143",
@@ -1533,7 +1673,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Santa Cruz del Retamar",
-      "coordinates": "40.099412, -4.295084"
+      "coordinates": "40.099412, -4.295084",
+      "metar_available": false
     },
     {
       "ident": "ES-0144",
@@ -1543,7 +1684,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AR",
-      "coordinates": "41.9599129, -0.5434853"
+      "coordinates": "41.9599129, -0.5434853",
+      "metar_available": false
     },
     {
       "ident": "ES-0145",
@@ -1554,7 +1696,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Ainsa",
-      "coordinates": "42.3487, 0.18613"
+      "coordinates": "42.3487, 0.18613",
+      "metar_available": false
     },
     {
       "ident": "ES-0146",
@@ -1566,7 +1709,8 @@
       "iso_region": "ES-RI",
       "municipality": "San Torcuato",
       "gps_code": "LESN",
-      "coordinates": "42.474227, -2.872739"
+      "coordinates": "42.474227, -2.872739",
+      "metar_available": false
     },
     {
       "ident": "ES-0147",
@@ -1577,7 +1721,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Villaumbrales",
-      "coordinates": "42.095282, -4.595404"
+      "coordinates": "42.095282, -4.595404",
+      "metar_available": false
     },
     {
       "ident": "ES-0148",
@@ -1588,7 +1733,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Villanueva de la Cañada",
-      "coordinates": "40.436582, -4.024985"
+      "coordinates": "40.436582, -4.024985",
+      "metar_available": false
     },
     {
       "ident": "ES-0149",
@@ -1599,7 +1745,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Velada",
-      "coordinates": "40.01051, -4.946316"
+      "coordinates": "40.01051, -4.946316",
+      "metar_available": false
     },
     {
       "ident": "ES-0150",
@@ -1609,7 +1756,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Valdetorres",
-      "coordinates": "38.942651, -6.127169"
+      "coordinates": "38.942651, -6.127169",
+      "metar_available": false
     },
     {
       "ident": "ES-0151",
@@ -1620,7 +1768,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Treviño",
-      "coordinates": "42.7212725, -2.6783924"
+      "coordinates": "42.7212725, -2.6783924",
+      "metar_available": false
     },
     {
       "ident": "ES-0152",
@@ -1631,7 +1780,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Peralveche",
-      "coordinates": "40.6025245, -2.4293518"
+      "coordinates": "40.6025245, -2.4293518",
+      "metar_available": false
     },
     {
       "ident": "ES-0153",
@@ -1642,7 +1792,8 @@
       "iso_country": "ES",
       "iso_region": "ES-NC",
       "municipality": "Ororbia",
-      "coordinates": "42.822214, -1.735109"
+      "coordinates": "42.822214, -1.735109",
+      "metar_available": false
     },
     {
       "ident": "ES-0154",
@@ -1653,7 +1804,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Piedrahita",
-      "coordinates": "40.479855, -5.360676"
+      "coordinates": "40.479855, -5.360676",
+      "metar_available": false
     },
     {
       "ident": "ES-0155",
@@ -1664,7 +1816,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Tarancón",
-      "coordinates": "40.01248, -2.977939"
+      "coordinates": "40.01248, -2.977939",
+      "metar_available": false
     },
     {
       "ident": "ES-0156",
@@ -1674,7 +1827,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Ruidera",
-      "coordinates": "39.0369546, -2.8946489"
+      "coordinates": "39.0369546, -2.8946489",
+      "metar_available": false
     },
     {
       "ident": "ES-0157",
@@ -1685,7 +1839,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Ordis",
-      "coordinates": "42.2325, 2.8869444"
+      "coordinates": "42.2325, 2.8869444",
+      "metar_available": false
     },
     {
       "ident": "ES-0158",
@@ -1696,7 +1851,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Olocau",
-      "coordinates": "39.675517, -0.548855"
+      "coordinates": "39.675517, -0.548855",
+      "metar_available": false
     },
     {
       "ident": "ES-0159",
@@ -1707,7 +1863,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Mogente / Moixent",
-      "coordinates": "38.817024, -0.833138"
+      "coordinates": "38.817024, -0.833138",
+      "metar_available": false
     },
     {
       "ident": "ES-0160",
@@ -1717,7 +1874,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MC",
       "municipality": "Yecla",
-      "coordinates": "38.58759, -1.105"
+      "coordinates": "38.58759, -1.105",
+      "metar_available": false
     },
     {
       "ident": "ES-0161",
@@ -1728,7 +1886,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Berga",
-      "coordinates": "42.077377, 1.840227"
+      "coordinates": "42.077377, 1.840227",
+      "metar_available": false
     },
     {
       "ident": "ES-0162",
@@ -1739,7 +1898,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "El Molar",
-      "coordinates": "40.6602, -3.59489"
+      "coordinates": "40.6602, -3.59489",
+      "metar_available": false
     },
     {
       "ident": "ES-0163",
@@ -1750,7 +1910,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Guillena",
-      "coordinates": "37.561238, -6.0308241"
+      "coordinates": "37.561238, -6.0308241",
+      "metar_available": false
     },
     {
       "ident": "ES-0164",
@@ -1761,7 +1922,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Gurb",
-      "coordinates": "41.9882928, 2.2561665"
+      "coordinates": "41.9882928, 2.2561665",
+      "metar_available": false
     },
     {
       "ident": "ES-0165",
@@ -1772,7 +1934,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Gurrea de Gállego",
-      "coordinates": "42.035333, -0.746295"
+      "coordinates": "42.035333, -0.746295",
+      "metar_available": false
     },
     {
       "ident": "ES-0166",
@@ -1782,7 +1945,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Loja",
-      "coordinates": "37.1377455, -4.2698489"
+      "coordinates": "37.1377455, -4.2698489",
+      "metar_available": false
     },
     {
       "ident": "ES-0167",
@@ -1793,7 +1957,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "La Llosa",
-      "coordinates": "39.74979, -0.181346"
+      "coordinates": "39.74979, -0.181346",
+      "metar_available": false
     },
     {
       "ident": "ES-0168",
@@ -1804,7 +1969,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Lebrija",
-      "coordinates": "36.896138, -6.0393716"
+      "coordinates": "36.896138, -6.0393716",
+      "metar_available": false
     },
     {
       "ident": "ES-0169",
@@ -1815,7 +1981,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Fontioso",
-      "coordinates": "41.933305, -3.784808"
+      "coordinates": "41.933305, -3.784808",
+      "metar_available": false
     },
     {
       "ident": "ES-0170",
@@ -1826,7 +1993,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Foixà",
-      "coordinates": "42.029933, 2.990761"
+      "coordinates": "42.029933, 2.990761",
+      "metar_available": false
     },
     {
       "ident": "ES-0171",
@@ -1837,7 +2005,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Ecija",
-      "coordinates": "37.5142575, -5.1213502"
+      "coordinates": "37.5142575, -5.1213502",
+      "metar_available": false
     },
     {
       "ident": "ES-0172",
@@ -1848,7 +2017,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Écija",
-      "coordinates": "37.5802316, -5.171264"
+      "coordinates": "37.5802316, -5.171264",
+      "metar_available": false
     },
     {
       "ident": "ES-0173",
@@ -1859,7 +2029,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "El Pla de Santa María",
-      "coordinates": "41.371467, 1.30375"
+      "coordinates": "41.371467, 1.30375",
+      "metar_available": false
     },
     {
       "ident": "ES-0174",
@@ -1871,7 +2042,8 @@
       "iso_region": "ES-CL",
       "municipality": "Cillamayor",
       "gps_code": "LEUC",
-      "coordinates": "42.851348, -4.279289"
+      "coordinates": "42.851348, -4.279289",
+      "metar_available": false
     },
     {
       "ident": "ES-0175",
@@ -1883,7 +2055,8 @@
       "iso_region": "ES-GA",
       "municipality": "Fervenza",
       "gps_code": "LEMZ",
-      "coordinates": "42.982329, -9.005002"
+      "coordinates": "42.982329, -9.005002",
+      "metar_available": false
     },
     {
       "ident": "ES-0176",
@@ -1894,7 +2067,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "El Vellón",
-      "coordinates": "40.7848296, -3.6397313"
+      "coordinates": "40.7848296, -3.6397313",
+      "metar_available": false
     },
     {
       "ident": "ES-0177",
@@ -1905,7 +2079,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Coria",
-      "coordinates": "39.984617, -6.554554"
+      "coordinates": "39.984617, -6.554554",
+      "metar_available": false
     },
     {
       "ident": "ES-0178",
@@ -1916,7 +2091,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Brunete",
-      "coordinates": "40.396556, -4.023712"
+      "coordinates": "40.396556, -4.023712",
+      "metar_available": false
     },
     {
       "ident": "ES-0179",
@@ -1927,7 +2103,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Benicolet",
-      "coordinates": "38.918703, -0.355677"
+      "coordinates": "38.918703, -0.355677",
+      "metar_available": false
     },
     {
       "ident": "ES-0180",
@@ -1938,7 +2115,8 @@
       "iso_country": "ES",
       "iso_region": "ES-PV",
       "municipality": "Zalla",
-      "coordinates": "43.186232, -3.120631"
+      "coordinates": "43.186232, -3.120631",
+      "metar_available": false
     },
     {
       "ident": "ES-0181",
@@ -1950,7 +2128,8 @@
       "iso_region": "ES-AN",
       "municipality": "Fuente Obejuna",
       "gps_code": "LEFU",
-      "coordinates": "38.281802, -5.40184"
+      "coordinates": "38.281802, -5.40184",
+      "metar_available": false
     },
     {
       "ident": "ES-0182",
@@ -1961,7 +2140,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Jaen",
-      "coordinates": "37.908577, -3.800161"
+      "coordinates": "37.908577, -3.800161",
+      "metar_available": false
     },
     {
       "ident": "ES-0183",
@@ -1972,7 +2152,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Belvis de Monroy",
-      "coordinates": "39.8513634, -5.6015255"
+      "coordinates": "39.8513634, -5.6015255",
+      "metar_available": false
     },
     {
       "ident": "ES-0184",
@@ -1983,7 +2164,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Navalmoral de la Mata",
-      "coordinates": "39.91613, -5.53976"
+      "coordinates": "39.91613, -5.53976",
+      "metar_available": false
     },
     {
       "ident": "ES-0185",
@@ -1994,7 +2176,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Pelayos de la Presa",
-      "coordinates": "40.3720107, -4.3826756"
+      "coordinates": "40.3720107, -4.3826756",
+      "metar_available": false
     },
     {
       "ident": "ES-0186",
@@ -2005,7 +2188,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Almorox",
-      "coordinates": "40.2116282, -4.386763"
+      "coordinates": "40.2116282, -4.386763",
+      "metar_available": false
     },
     {
       "ident": "ES-0187",
@@ -2016,7 +2200,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Chinchilla de Montearagón",
-      "coordinates": "38.715499, -1.545093"
+      "coordinates": "38.715499, -1.545093",
+      "metar_available": false
     },
     {
       "ident": "ES-0188",
@@ -2027,7 +2212,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "El Ejido",
-      "coordinates": "36.7441167, -2.7674833"
+      "coordinates": "36.7441167, -2.7674833",
+      "metar_available": false
     },
     {
       "ident": "ES-0189",
@@ -2038,7 +2224,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "La Gineta",
-      "coordinates": "39.105766, -2.016283"
+      "coordinates": "39.105766, -2.016283",
+      "metar_available": false
     },
     {
       "ident": "ES-0190",
@@ -2049,7 +2236,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Almendralejo",
-      "coordinates": "38.739954, -6.391888"
+      "coordinates": "38.739954, -6.391888",
+      "metar_available": false
     },
     {
       "ident": "ES-0191",
@@ -2060,7 +2248,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "El Bonillo",
-      "coordinates": "38.8727, -2.6733"
+      "coordinates": "38.8727, -2.6733",
+      "metar_available": false
     },
     {
       "ident": "ES-0192",
@@ -2070,7 +2259,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "41.97416, 1.257531"
+      "coordinates": "41.97416, 1.257531",
+      "metar_available": false
     },
     {
       "ident": "ES-0193",
@@ -2081,7 +2271,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AS",
       "municipality": "Arnao",
-      "coordinates": "43.5531667, -7.0168"
+      "coordinates": "43.5531667, -7.0168",
+      "metar_available": false
     },
     {
       "ident": "ES-0194",
@@ -2091,7 +2282,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Arcones",
-      "coordinates": "41.11453, -3.73378"
+      "coordinates": "41.11453, -3.73378",
+      "metar_available": false
     },
     {
       "ident": "ES-0195",
@@ -2102,7 +2294,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Valdelamusa",
-      "coordinates": "37.7763167, -6.8826667"
+      "coordinates": "37.7763167, -6.8826667",
+      "metar_available": false
     },
     {
       "ident": "ES-0196",
@@ -2114,7 +2307,8 @@
       "iso_region": "ES-CM",
       "municipality": "Tinajeros",
       "gps_code": "LETY",
-      "coordinates": "39.09825, -1.72071"
+      "coordinates": "39.09825, -1.72071",
+      "metar_available": false
     },
     {
       "ident": "ES-0197",
@@ -2125,7 +2319,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Espiel",
-      "coordinates": "38.2628667, -5.0442"
+      "coordinates": "38.2628667, -5.0442",
+      "metar_available": false
     },
     {
       "ident": "ES-0198",
@@ -2137,7 +2332,8 @@
       "iso_region": "ES-CL",
       "municipality": "La Vid de Bureba",
       "gps_code": "LEDB",
-      "coordinates": "42.632037, -3.311456"
+      "coordinates": "42.632037, -3.311456",
+      "metar_available": false
     },
     {
       "ident": "ES-0199",
@@ -2148,7 +2344,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Aldeacentenara",
-      "coordinates": "39.5609167, -5.6637222"
+      "coordinates": "39.5609167, -5.6637222",
+      "metar_available": false
     },
     {
       "ident": "ES-0200",
@@ -2159,7 +2356,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Xeraco",
-      "coordinates": "39.025781, -0.207753"
+      "coordinates": "39.025781, -0.207753",
+      "metar_available": false
     },
     {
       "ident": "ES-0201",
@@ -2170,7 +2368,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Zaragoza",
-      "coordinates": "41.691623, -0.85157"
+      "coordinates": "41.691623, -0.85157",
+      "metar_available": false
     },
     {
       "ident": "ES-0202",
@@ -2180,7 +2379,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "37.197959, -1.830627"
+      "coordinates": "37.197959, -1.830627",
+      "metar_available": false
     },
     {
       "ident": "ES-0203",
@@ -2191,7 +2391,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Lanzahita",
-      "coordinates": "40.186112, -4.946256"
+      "coordinates": "40.186112, -4.946256",
+      "metar_available": false
     },
     {
       "ident": "ES-0204",
@@ -2202,7 +2403,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Mollerussa",
-      "coordinates": "41.6122017, 0.8541227"
+      "coordinates": "41.6122017, 0.8541227",
+      "metar_available": false
     },
     {
       "ident": "ES-0205",
@@ -2213,7 +2415,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Castejón de Sos",
-      "coordinates": "42.522468, 0.481114"
+      "coordinates": "42.522468, 0.481114",
+      "metar_available": false
     },
     {
       "ident": "ES-0206",
@@ -2224,7 +2427,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Villamartin",
-      "coordinates": "36.827132, -5.603212"
+      "coordinates": "36.827132, -5.603212",
+      "metar_available": false
     },
     {
       "ident": "ES-0207",
@@ -2236,7 +2440,8 @@
       "iso_region": "ES-CL",
       "municipality": "Calzada de Valdunciel",
       "gps_code": "LEUN",
-      "coordinates": "41.07545, -5.728036"
+      "coordinates": "41.07545, -5.728036",
+      "metar_available": false
     },
     {
       "ident": "ES-0208",
@@ -2247,7 +2452,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Requena",
-      "coordinates": "39.4422585, -1.0493454"
+      "coordinates": "39.4422585, -1.0493454",
+      "metar_available": false
     },
     {
       "ident": "ES-0209",
@@ -2258,7 +2464,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Griñón",
-      "coordinates": "40.2237809995, -3.866911"
+      "coordinates": "40.2237809995, -3.866911",
+      "metar_available": false
     },
     {
       "ident": "ES-0210",
@@ -2269,7 +2476,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Palma del Rio",
-      "coordinates": "37.668501, -5.262086"
+      "coordinates": "37.668501, -5.262086",
+      "metar_available": false
     },
     {
       "ident": "ES-0211",
@@ -2280,7 +2488,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Oteo",
-      "coordinates": "43.0168667, -3.3120333"
+      "coordinates": "43.0168667, -3.3120333",
+      "metar_available": false
     },
     {
       "ident": "ES-0212",
@@ -2291,7 +2500,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Utrero",
-      "coordinates": "37.2000414, -5.8808531"
+      "coordinates": "37.2000414, -5.8808531",
+      "metar_available": false
     },
     {
       "ident": "ES-0213",
@@ -2303,7 +2513,8 @@
       "iso_region": "ES-CL",
       "municipality": "Astorga",
       "gps_code": "LEAT",
-      "coordinates": "42.503996, -6.026695"
+      "coordinates": "42.503996, -6.026695",
+      "metar_available": false
     },
     {
       "ident": "ES-0214",
@@ -2314,7 +2525,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Caspe",
-      "coordinates": "41.2287652, -0.085876"
+      "coordinates": "41.2287652, -0.085876",
+      "metar_available": false
     },
     {
       "ident": "ES-0215",
@@ -2325,7 +2537,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Alhama de Granada",
-      "coordinates": "36.996999, -4.103608"
+      "coordinates": "36.996999, -4.103608",
+      "metar_available": false
     },
     {
       "ident": "ES-0216",
@@ -2335,7 +2548,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Cervera",
-      "coordinates": "41.687597, 1.250494"
+      "coordinates": "41.687597, 1.250494",
+      "metar_available": false
     },
     {
       "ident": "ES-0217",
@@ -2346,7 +2560,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Beneixama",
-      "coordinates": "38.696193, -0.744936"
+      "coordinates": "38.696193, -0.744936",
+      "metar_available": false
     },
     {
       "ident": "ES-0218",
@@ -2357,7 +2572,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Beneixama",
-      "coordinates": "38.684431, -0.760295"
+      "coordinates": "38.684431, -0.760295",
+      "metar_available": false
     },
     {
       "ident": "ES-0219",
@@ -2369,7 +2585,8 @@
       "iso_region": "ES-CM",
       "municipality": "Camarenilla",
       "gps_code": "LERN",
-      "coordinates": "40.024702, -4.071202"
+      "coordinates": "40.024702, -4.071202",
+      "metar_available": false
     },
     {
       "ident": "ES-0220",
@@ -2380,7 +2597,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Banyeres de Mariola",
-      "coordinates": "38.671077, -0.631257"
+      "coordinates": "38.671077, -0.631257",
+      "metar_available": false
     },
     {
       "ident": "ES-0221",
@@ -2391,7 +2609,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Ruidera",
-      "coordinates": "39.02495, -2.911927"
+      "coordinates": "39.02495, -2.911927",
+      "metar_available": false
     },
     {
       "ident": "ES-0222",
@@ -2402,7 +2621,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Fuencaliente",
-      "coordinates": "38.5264323, -4.389622"
+      "coordinates": "38.5264323, -4.389622",
+      "metar_available": false
     },
     {
       "ident": "ES-0223",
@@ -2414,7 +2634,8 @@
       "iso_region": "ES-CM",
       "municipality": "Almagro",
       "gps_code": "LEAO",
-      "coordinates": "38.952096, -3.741126"
+      "coordinates": "38.952096, -3.741126",
+      "metar_available": false
     },
     {
       "ident": "ES-0224",
@@ -2426,7 +2647,8 @@
       "iso_region": "ES-CM",
       "municipality": "Pozorrubio",
       "gps_code": "LEPC",
-      "coordinates": "39.826221, -2.953085"
+      "coordinates": "39.826221, -2.953085",
+      "metar_available": false
     },
     {
       "ident": "ES-0225",
@@ -2437,7 +2659,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Puebla de Don Rodrigo",
-      "coordinates": "39.066067, -4.488502"
+      "coordinates": "39.066067, -4.488502",
+      "metar_available": false
     },
     {
       "ident": "ES-0226",
@@ -2448,7 +2671,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Herrera del Duque",
-      "coordinates": "39.2264442, -4.8863799"
+      "coordinates": "39.2264442, -4.8863799",
+      "metar_available": false
     },
     {
       "ident": "ES-0227",
@@ -2458,7 +2682,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-PV",
-      "coordinates": "43.075701, -2.683326"
+      "coordinates": "43.075701, -2.683326",
+      "metar_available": false
     },
     {
       "ident": "ES-0228",
@@ -2469,7 +2694,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Turre",
-      "coordinates": "37.1351217, -1.9360369"
+      "coordinates": "37.1351217, -1.9360369",
+      "metar_available": false
     },
     {
       "ident": "ES-0229",
@@ -2479,7 +2705,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-VC",
-      "coordinates": "38.5868201, -0.8559465"
+      "coordinates": "38.5868201, -0.8559465",
+      "metar_available": false
     },
     {
       "ident": "ES-0230",
@@ -2489,7 +2716,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "41.27115, -3.63005"
+      "coordinates": "41.27115, -3.63005",
+      "metar_available": false
     },
     {
       "ident": "ES-0231",
@@ -2498,7 +2726,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "42.6921604, -4.3486359"
+      "coordinates": "42.6921604, -4.3486359",
+      "metar_available": false
     },
     {
       "ident": "ES-0232",
@@ -2510,7 +2739,8 @@
       "iso_region": "ES-CN",
       "municipality": "Antigua",
       "gps_code": "GCAT",
-      "coordinates": "28.391185, -13.982968"
+      "coordinates": "28.391185, -13.982968",
+      "metar_available": false
     },
     {
       "ident": "ES-0233",
@@ -2520,7 +2750,8 @@
       "iso_country": "ES",
       "iso_region": "ES-RI",
       "municipality": "Villarejo",
-      "coordinates": "42.3466117, -2.9109476"
+      "coordinates": "42.3466117, -2.9109476",
+      "metar_available": false
     },
     {
       "ident": "ES-0234",
@@ -2531,7 +2762,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CB",
       "municipality": "Cóbreces",
-      "coordinates": "43.388518, -4.207752"
+      "coordinates": "43.388518, -4.207752",
+      "metar_available": false
     },
     {
       "ident": "ES-0235",
@@ -2540,7 +2772,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "38.0909891, -2.6484287"
+      "coordinates": "38.0909891, -2.6484287",
+      "metar_available": false
     },
     {
       "ident": "ES-0236",
@@ -2550,7 +2783,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Roses",
-      "coordinates": "42.278272, 3.233359"
+      "coordinates": "42.278272, 3.233359",
+      "metar_available": false
     },
     {
       "ident": "ES-0237",
@@ -2561,7 +2795,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Estepona",
-      "coordinates": "36.495633, -5.17816"
+      "coordinates": "36.495633, -5.17816",
+      "metar_available": false
     },
     {
       "ident": "ES-0238",
@@ -2571,7 +2806,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-EX",
-      "coordinates": "38.485842, -6.263409"
+      "coordinates": "38.485842, -6.263409",
+      "metar_available": false
     },
     {
       "ident": "ES-0239",
@@ -2581,7 +2817,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Guadramiro",
-      "coordinates": "41.011168, -6.477604"
+      "coordinates": "41.011168, -6.477604",
+      "metar_available": false
     },
     {
       "ident": "ES-0240",
@@ -2591,7 +2828,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Benidorm",
-      "coordinates": "38.5632993, -0.1511484"
+      "coordinates": "38.5632993, -0.1511484",
+      "metar_available": false
     },
     {
       "ident": "ES-0241",
@@ -2600,7 +2838,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-GA",
-      "coordinates": "42.981544, -9.237198"
+      "coordinates": "42.981544, -9.237198",
+      "metar_available": false
     },
     {
       "ident": "ES-0242",
@@ -2610,7 +2849,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Guillade",
-      "coordinates": "42.170884, -8.43643"
+      "coordinates": "42.170884, -8.43643",
+      "metar_available": false
     },
     {
       "ident": "ES-0243",
@@ -2619,7 +2859,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "36.932903, -3.3404525"
+      "coordinates": "36.932903, -3.3404525",
+      "metar_available": false
     },
     {
       "ident": "ES-0244",
@@ -2628,7 +2869,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-VC",
-      "coordinates": "39.657599, -0.811627"
+      "coordinates": "39.657599, -0.811627",
+      "metar_available": false
     },
     {
       "ident": "ES-0245",
@@ -2637,7 +2879,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.5094986, -4.0259661"
+      "coordinates": "39.5094986, -4.0259661",
+      "metar_available": false
     },
     {
       "ident": "ES-0246",
@@ -2647,7 +2890,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Cadiz",
-      "coordinates": "36.082422, -5.796723"
+      "coordinates": "36.082422, -5.796723",
+      "metar_available": false
     },
     {
       "ident": "ES-0247",
@@ -2656,7 +2900,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.11266, -2.94219"
+      "coordinates": "39.11266, -2.94219",
+      "metar_available": false
     },
     {
       "ident": "ES-0248",
@@ -2665,7 +2910,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "38.1392261, -3.1738682"
+      "coordinates": "38.1392261, -3.1738682",
+      "metar_available": false
     },
     {
       "ident": "ES-0249",
@@ -2674,7 +2920,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CT",
-      "coordinates": "42.2114675, 2.7092805"
+      "coordinates": "42.2114675, 2.7092805",
+      "metar_available": false
     },
     {
       "ident": "ES-0250",
@@ -2683,7 +2930,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "42.9534667, -3.1531167"
+      "coordinates": "42.9534667, -3.1531167",
+      "metar_available": false
     },
     {
       "ident": "ES-0251",
@@ -2693,7 +2941,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "municipality": "Pueblonuevo de Miramontes",
-      "coordinates": "40.059082, -5.363341"
+      "coordinates": "40.059082, -5.363341",
+      "metar_available": false
     },
     {
       "ident": "ES-0252",
@@ -2704,7 +2953,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Calamocha",
-      "coordinates": "40.902364, -1.298009"
+      "coordinates": "40.902364, -1.298009",
+      "metar_available": false
     },
     {
       "ident": "ES-0253",
@@ -2714,7 +2964,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.2242833, -4.3076333"
+      "coordinates": "39.2242833, -4.3076333",
+      "metar_available": false
     },
     {
       "ident": "ES-0254",
@@ -2723,7 +2974,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.403683, -4.918783"
+      "coordinates": "39.403683, -4.918783",
+      "metar_available": false
     },
     {
       "ident": "ES-0255",
@@ -2734,7 +2986,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Seville",
-      "coordinates": "37.3474, -5.9716"
+      "coordinates": "37.3474, -5.9716",
+      "metar_available": false
     },
     {
       "ident": "ES-0256",
@@ -2744,7 +2997,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "40.766317, -3.35485"
+      "coordinates": "40.766317, -3.35485",
+      "metar_available": false
     },
     {
       "ident": "ES-0257",
@@ -2753,7 +3007,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "37.748234, -7.096699"
+      "coordinates": "37.748234, -7.096699",
+      "metar_available": false
     },
     {
       "ident": "ES-0258",
@@ -2762,7 +3017,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "42.62011, -5.19233"
+      "coordinates": "42.62011, -5.19233",
+      "metar_available": false
     },
     {
       "ident": "ES-0259",
@@ -2772,7 +3028,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Piedrabuena",
-      "coordinates": "39.05953, -4.23651"
+      "coordinates": "39.05953, -4.23651",
+      "metar_available": false
     },
     {
       "ident": "ES-0260",
@@ -2782,7 +3039,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Mapica",
-      "coordinates": "43.3575972, -8.8440328"
+      "coordinates": "43.3575972, -8.8440328",
+      "metar_available": false
     },
     {
       "ident": "ES-0261",
@@ -2792,7 +3050,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Sollana",
-      "coordinates": "39.270605, -0.364932"
+      "coordinates": "39.270605, -0.364932",
+      "metar_available": false
     },
     {
       "ident": "ES-0262",
@@ -2802,7 +3061,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Villanueva de Duero",
-      "coordinates": "42.521305, -4.855477"
+      "coordinates": "42.521305, -4.855477",
+      "metar_available": false
     },
     {
       "ident": "ES-0263",
@@ -2812,7 +3072,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Bailén (Granada)",
-      "coordinates": "38.03774, -3.76585"
+      "coordinates": "38.03774, -3.76585",
+      "metar_available": false
     },
     {
       "ident": "ES-0264",
@@ -2822,7 +3083,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "38.05406, -5.04182"
+      "coordinates": "38.05406, -5.04182",
+      "metar_available": false
     },
     {
       "ident": "ES-0265",
@@ -2833,7 +3095,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Valdemorillo",
-      "coordinates": "40.485591, -4.050783"
+      "coordinates": "40.485591, -4.050783",
+      "metar_available": false
     },
     {
       "ident": "ES-0266",
@@ -2843,7 +3106,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-VC",
-      "coordinates": "38.786783, -0.8763"
+      "coordinates": "38.786783, -0.8763",
+      "metar_available": false
     },
     {
       "ident": "ES-0267",
@@ -2852,7 +3116,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.976746, -3.197516"
+      "coordinates": "39.976746, -3.197516",
+      "metar_available": false
     },
     {
       "ident": "ES-0268",
@@ -2863,7 +3128,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Riola",
-      "coordinates": "39.180737, -0.338459"
+      "coordinates": "39.180737, -0.338459",
+      "metar_available": false
     },
     {
       "ident": "ES-0269",
@@ -2872,7 +3138,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-VC",
-      "coordinates": "39.03365, -0.47555"
+      "coordinates": "39.03365, -0.47555",
+      "metar_available": false
     },
     {
       "ident": "ES-0270",
@@ -2883,7 +3150,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Estivella",
-      "coordinates": "39.730145, -0.330234"
+      "coordinates": "39.730145, -0.330234",
+      "metar_available": false
     },
     {
       "ident": "ES-0271",
@@ -2894,7 +3162,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Terrinches",
-      "coordinates": "38.61471, -2.85748"
+      "coordinates": "38.61471, -2.85748",
+      "metar_available": false
     },
     {
       "ident": "ES-0272",
@@ -2906,7 +3175,8 @@
       "iso_region": "ES-AR",
       "municipality": "Blancos del Coscojar",
       "gps_code": "LEFB",
-      "coordinates": "40.3216, -1.056629"
+      "coordinates": "40.3216, -1.056629",
+      "metar_available": false
     },
     {
       "ident": "ES-0273",
@@ -2916,7 +3186,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Cadiz",
-      "coordinates": "36.441879, -6.221244"
+      "coordinates": "36.441879, -6.221244",
+      "metar_available": false
     },
     {
       "ident": "ES-0274",
@@ -2926,7 +3197,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Almería",
-      "coordinates": "35.93932, -3.03519"
+      "coordinates": "35.93932, -3.03519",
+      "metar_available": false
     },
     {
       "ident": "ES-0275",
@@ -2937,7 +3209,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Trelle",
-      "coordinates": "42.265853, -7.944971"
+      "coordinates": "42.265853, -7.944971",
+      "metar_available": false
     },
     {
       "ident": "ES-0276",
@@ -2949,7 +3222,8 @@
       "iso_region": "ES-CM",
       "municipality": "La Cuesta",
       "gps_code": "LEDC",
-      "coordinates": "38.53092, -2.832511"
+      "coordinates": "38.53092, -2.832511",
+      "metar_available": false
     },
     {
       "ident": "ES-0277",
@@ -2958,7 +3232,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "36.34737, -5.65463"
+      "coordinates": "36.34737, -5.65463",
+      "metar_available": false
     },
     {
       "ident": "ES-0278",
@@ -2968,7 +3243,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Santa Eulària des Riu",
-      "coordinates": "38.990453, 1.503496"
+      "coordinates": "38.990453, 1.503496",
+      "metar_available": false
     },
     {
       "ident": "ES-0279",
@@ -2978,7 +3254,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Sant Francesc Xavier",
-      "coordinates": "38.707918, 1.435214"
+      "coordinates": "38.707918, 1.435214",
+      "metar_available": false
     },
     {
       "ident": "ES-0280",
@@ -2988,7 +3265,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Tarifa",
-      "coordinates": "36.002875, -5.611176"
+      "coordinates": "36.002875, -5.611176",
+      "metar_available": false
     },
     {
       "ident": "ES-0281",
@@ -2998,7 +3276,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "A Coruña",
-      "coordinates": "43.45399, -7.85429"
+      "coordinates": "43.45399, -7.85429",
+      "metar_available": false
     },
     {
       "ident": "ES-0282",
@@ -3010,7 +3289,8 @@
       "iso_region": "ES-CM",
       "municipality": "Casas de Juan Núñez",
       "local_code": "CJN",
-      "coordinates": "39.1103, -1.5578"
+      "coordinates": "39.1103, -1.5578",
+      "metar_available": false
     },
     {
       "ident": "ES-0283",
@@ -3021,7 +3301,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Montealegre del Castillo",
-      "coordinates": "38.7994, -1.3131"
+      "coordinates": "38.7994, -1.3131",
+      "metar_available": false
     },
     {
       "ident": "ES-0284",
@@ -3032,7 +3313,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "La Roda",
-      "coordinates": "39.1907, -2.1486"
+      "coordinates": "39.1907, -2.1486",
+      "metar_available": false
     },
     {
       "ident": "ES-0285",
@@ -3043,7 +3325,8 @@
       "iso_region": "ES-CM",
       "municipality": "Albacete",
       "local_code": "UAB",
-      "coordinates": "38.9823, -1.8444"
+      "coordinates": "38.9823, -1.8444",
+      "metar_available": false
     },
     {
       "ident": "ES-0286",
@@ -3055,7 +3338,8 @@
       "iso_region": "ES-CM",
       "municipality": "Casas de Lázaro",
       "local_code": "CDL",
-      "coordinates": "38.7748, -2.2432"
+      "coordinates": "38.7748, -2.2432",
+      "metar_available": false
     },
     {
       "ident": "ES-0287",
@@ -3065,7 +3349,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Los Santos de la Humosa",
-      "coordinates": "40.5072, -3.2526"
+      "coordinates": "40.5072, -3.2526",
+      "metar_available": false
     },
     {
       "ident": "ES-0288",
@@ -3076,7 +3361,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Serracines",
-      "coordinates": "40.623, -3.3973"
+      "coordinates": "40.623, -3.3973",
+      "metar_available": false
     },
     {
       "ident": "ES-0289",
@@ -3087,7 +3373,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "Ribatejada",
-      "coordinates": "40.6658, -3.3907"
+      "coordinates": "40.6658, -3.3907",
+      "metar_available": false
     },
     {
       "ident": "ES-0290",
@@ -3098,7 +3385,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Guadalajara",
-      "coordinates": "40.6578, -3.1731"
+      "coordinates": "40.6578, -3.1731",
+      "metar_available": false
     },
     {
       "ident": "ES-0291",
@@ -3110,7 +3398,8 @@
       "iso_region": "ES-MD",
       "municipality": "Las Rozas de Madrid",
       "gps_code": "LELR",
-      "coordinates": "40.520209, -3.882832"
+      "coordinates": "40.520209, -3.882832",
+      "metar_available": false
     },
     {
       "ident": "ES-0292",
@@ -3119,7 +3408,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CL",
-      "coordinates": "40.923444, -4.173464"
+      "coordinates": "40.923444, -4.173464",
+      "metar_available": false
     },
     {
       "ident": "ES-0293",
@@ -3128,7 +3418,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-MC",
-      "coordinates": "37.697502, -0.842058"
+      "coordinates": "37.697502, -0.842058",
+      "metar_available": false
     },
     {
       "ident": "ES-0294",
@@ -3138,7 +3429,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Manacor",
-      "coordinates": "39.55833, 3.32024"
+      "coordinates": "39.55833, 3.32024",
+      "metar_available": false
     },
     {
       "ident": "ES-0295",
@@ -3147,7 +3439,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "37.41816, -6.76054"
+      "coordinates": "37.41816, -6.76054",
+      "metar_available": false
     },
     {
       "ident": "ES-0296",
@@ -3157,7 +3450,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AS",
       "municipality": "Piloña",
-      "coordinates": "43.36372, -5.24199"
+      "coordinates": "43.36372, -5.24199",
+      "metar_available": false
     },
     {
       "ident": "ES-0297",
@@ -3168,7 +3462,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "La Línea de la Concepción",
-      "coordinates": "36.17512, -5.35255"
+      "coordinates": "36.17512, -5.35255",
+      "metar_available": false
     },
     {
       "ident": "ES-0298",
@@ -3179,7 +3474,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Algeciras",
-      "coordinates": "36.11066, -5.44163"
+      "coordinates": "36.11066, -5.44163",
+      "metar_available": false
     },
     {
       "ident": "ES-0299",
@@ -3190,7 +3486,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Algeciras",
-      "coordinates": "36.13568, -5.44475"
+      "coordinates": "36.13568, -5.44475",
+      "metar_available": false
     },
     {
       "ident": "ES-0300",
@@ -3199,7 +3496,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "36.76178, -5.17335"
+      "coordinates": "36.76178, -5.17335",
+      "metar_available": false
     },
     {
       "ident": "ES-0301",
@@ -3209,7 +3507,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Ondara",
-      "coordinates": "38.810743, 0.002661"
+      "coordinates": "38.810743, 0.002661",
+      "metar_available": false
     },
     {
       "ident": "ES-0302",
@@ -3220,7 +3519,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Cadiz",
-      "coordinates": "36.639569, -6.328779"
+      "coordinates": "36.639569, -6.328779",
+      "metar_available": false
     },
     {
       "ident": "ES-0303",
@@ -3232,7 +3532,8 @@
       "iso_region": "ES-CT",
       "municipality": "Sabadell",
       "gps_code": "LERC",
-      "coordinates": "41.55803, 2.10875"
+      "coordinates": "41.55803, 2.10875",
+      "metar_available": false
     },
     {
       "ident": "ES-0304",
@@ -3243,7 +3544,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Pulpí",
-      "coordinates": "37.401077, -1.746113"
+      "coordinates": "37.401077, -1.746113",
+      "metar_available": false
     },
     {
       "ident": "ES-0305",
@@ -3254,7 +3556,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Vilaller",
-      "coordinates": "42.47221, 0.71262"
+      "coordinates": "42.47221, 0.71262",
+      "metar_available": false
     },
     {
       "ident": "ES-0306",
@@ -3263,7 +3566,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-GA",
-      "coordinates": "41.84261, -7.42873"
+      "coordinates": "41.84261, -7.42873",
+      "metar_available": false
     },
     {
       "ident": "ES-0307",
@@ -3274,7 +3578,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CN",
       "municipality": "38768 Los Llanos",
-      "coordinates": "28.65657, -17.9159"
+      "coordinates": "28.65657, -17.9159",
+      "metar_available": false
     },
     {
       "ident": "ES-0308",
@@ -3285,7 +3590,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CN",
       "municipality": "35369 Tejeda",
-      "coordinates": "27.99362, -15.60982"
+      "coordinates": "27.99362, -15.60982",
+      "metar_available": false
     },
     {
       "ident": "ES-0309",
@@ -3296,7 +3602,8 @@
       "iso_country": "ES",
       "iso_region": "ES-MD",
       "municipality": "28640 Cadalso de los Vidrios",
-      "coordinates": "40.30569, -4.44328"
+      "coordinates": "40.30569, -4.44328",
+      "metar_available": false
     },
     {
       "ident": "ES-0310",
@@ -3306,7 +3613,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Mahón (Maó)",
-      "coordinates": "39.88274, 4.25225"
+      "coordinates": "39.88274, 4.25225",
+      "metar_available": false
     },
     {
       "ident": "ES-0311",
@@ -3316,7 +3624,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Cala Morell",
-      "coordinates": "40.04684, 3.86701"
+      "coordinates": "40.04684, 3.86701",
+      "metar_available": false
     },
     {
       "ident": "ES-0312",
@@ -3326,7 +3635,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Esporles",
-      "coordinates": "39.67124, 2.55311"
+      "coordinates": "39.67124, 2.55311",
+      "metar_available": false
     },
     {
       "ident": "ES-0313",
@@ -3336,7 +3646,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Palma de Mallorca",
-      "coordinates": "39.6093, 2.64565"
+      "coordinates": "39.6093, 2.64565",
+      "metar_available": false
     },
     {
       "ident": "ES-0314",
@@ -3346,7 +3657,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Marratxí",
-      "coordinates": "39.65771, 2.72726"
+      "coordinates": "39.65771, 2.72726",
+      "metar_available": false
     },
     {
       "ident": "ES-0315",
@@ -3356,7 +3668,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Muro",
-      "coordinates": "39.79278, 3.12514"
+      "coordinates": "39.79278, 3.12514",
+      "metar_available": false
     },
     {
       "ident": "ES-0316",
@@ -3366,7 +3679,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Xàbia",
-      "coordinates": "38.77313, 0.17734"
+      "coordinates": "38.77313, 0.17734",
+      "metar_available": false
     },
     {
       "ident": "ES-0317",
@@ -3376,7 +3690,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Montanejos",
-      "coordinates": "40.06123, -0.53067"
+      "coordinates": "40.06123, -0.53067",
+      "metar_available": false
     },
     {
       "ident": "ES-0318",
@@ -3386,7 +3701,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Los Calpes",
-      "coordinates": "40.07269, -0.58777"
+      "coordinates": "40.07269, -0.58777",
+      "metar_available": false
     },
     {
       "ident": "ES-0319",
@@ -3396,7 +3712,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Cella",
-      "coordinates": "40.45859, -1.28498"
+      "coordinates": "40.45859, -1.28498",
+      "metar_available": false
     },
     {
       "ident": "ES-0320",
@@ -3406,7 +3723,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Santa Eulalia",
-      "coordinates": "40.57215, -1.32151"
+      "coordinates": "40.57215, -1.32151",
+      "metar_available": false
     },
     {
       "ident": "ES-0321",
@@ -3416,7 +3734,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Utrillas",
-      "coordinates": "40.80985, -0.84746"
+      "coordinates": "40.80985, -0.84746",
+      "metar_available": false
     },
     {
       "ident": "ES-0322",
@@ -3426,7 +3745,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Plenas",
-      "coordinates": "41.10997, -0.94941"
+      "coordinates": "41.10997, -0.94941",
+      "metar_available": false
     },
     {
       "ident": "ES-0323",
@@ -3436,7 +3756,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Daroca",
-      "coordinates": "41.13216, -1.41989"
+      "coordinates": "41.13216, -1.41989",
+      "metar_available": false
     },
     {
       "ident": "ES-0324",
@@ -3446,7 +3767,8 @@
       "iso_country": "ES",
       "iso_region": "ES-ML",
       "municipality": "Melilla",
-      "coordinates": "35.3021, -2.94448"
+      "coordinates": "35.3021, -2.94448",
+      "metar_available": false
     },
     {
       "ident": "ES-0325",
@@ -3456,7 +3778,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CN",
       "municipality": "Morro Jable",
-      "coordinates": "28.05214, -14.36124"
+      "coordinates": "28.05214, -14.36124",
+      "metar_available": false
     },
     {
       "ident": "ES-0326",
@@ -3467,7 +3790,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Parcent",
-      "coordinates": "38.723737, -0.061191"
+      "coordinates": "38.723737, -0.061191",
+      "metar_available": false
     },
     {
       "ident": "ES-0327",
@@ -3477,7 +3801,8 @@
       "iso_country": "ES",
       "iso_region": "ES-VC",
       "municipality": "Castellon",
-      "coordinates": "39.898227, 0.684122"
+      "coordinates": "39.898227, 0.684122",
+      "metar_available": false
     },
     {
       "ident": "ES-0328",
@@ -3486,7 +3811,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-IB",
-      "coordinates": "39.142996, 2.937596"
+      "coordinates": "39.142996, 2.937596",
+      "metar_available": false
     },
     {
       "ident": "ES-0329",
@@ -3495,7 +3821,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-IB",
-      "coordinates": "39.692111, 3.406375"
+      "coordinates": "39.692111, 3.406375",
+      "metar_available": false
     },
     {
       "ident": "ES-0330",
@@ -3505,7 +3832,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Pollença",
-      "coordinates": "39.905053, 3.109839"
+      "coordinates": "39.905053, 3.109839",
+      "metar_available": false
     },
     {
       "ident": "ES-0331",
@@ -3514,7 +3842,8 @@
       "continent": "AF",
       "iso_country": "ES",
       "iso_region": "ES-CN",
-      "coordinates": "29.229606, -13.510984"
+      "coordinates": "29.229606, -13.510984",
+      "metar_available": false
     },
     {
       "ident": "ES-0332",
@@ -3525,7 +3854,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "gps_code": "LEML",
-      "coordinates": "39.39256, -4.73449"
+      "coordinates": "39.39256, -4.73449",
+      "metar_available": false
     },
     {
       "ident": "ES-0333",
@@ -3535,7 +3865,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Galgos de Villarrubia de los Ojos",
-      "coordinates": "39.2007, -3.5988"
+      "coordinates": "39.2007, -3.5988",
+      "metar_available": false
     },
     {
       "ident": "ES-0334",
@@ -3544,7 +3875,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-IB",
-      "coordinates": "39.574676, 3.15622"
+      "coordinates": "39.574676, 3.15622",
+      "metar_available": false
     },
     {
       "ident": "ES-0335",
@@ -3554,7 +3886,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Moguer",
-      "coordinates": "37.09727, -6.73394"
+      "coordinates": "37.09727, -6.73394",
+      "metar_available": false
     },
     {
       "ident": "ES-0336",
@@ -3564,7 +3897,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AS",
       "municipality": "Cangas de Onís",
-      "coordinates": "43.35014, -5.11164"
+      "coordinates": "43.35014, -5.11164",
+      "metar_available": false
     },
     {
       "ident": "ES-0337",
@@ -3574,7 +3908,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AS",
       "municipality": "Ibias",
-      "coordinates": "43.02707, -6.88433"
+      "coordinates": "43.02707, -6.88433",
+      "metar_available": false
     },
     {
       "ident": "ES-0338",
@@ -3583,7 +3918,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-CM",
-      "coordinates": "39.60047, -5.05067"
+      "coordinates": "39.60047, -5.05067",
+      "metar_available": false
     },
     {
       "ident": "ES-0339",
@@ -3593,7 +3929,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Taragudo",
-      "coordinates": "40.82177, -3.09347"
+      "coordinates": "40.82177, -3.09347",
+      "metar_available": false
     },
     {
       "ident": "ES-0340",
@@ -3602,7 +3939,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-AN",
-      "coordinates": "36.62949, -6.01826"
+      "coordinates": "36.62949, -6.01826",
+      "metar_available": false
     },
     {
       "ident": "ES-0341",
@@ -3611,7 +3949,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-GA",
-      "coordinates": "42.8652, -7.18761"
+      "coordinates": "42.8652, -7.18761",
+      "metar_available": false
     },
     {
       "ident": "ES-0342",
@@ -3623,7 +3962,8 @@
       "iso_region": "ES-GA",
       "municipality": "Ourense",
       "gps_code": "LEXU",
-      "coordinates": "41.95115, -7.95731"
+      "coordinates": "41.95115, -7.95731",
+      "metar_available": false
     },
     {
       "ident": "ES-0343",
@@ -3633,7 +3973,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Silleda",
-      "coordinates": "42.693527, -8.224195"
+      "coordinates": "42.693527, -8.224195",
+      "metar_available": false
     },
     {
       "ident": "ES-0344",
@@ -3643,7 +3984,8 @@
       "continent": "EU",
       "iso_country": "ES",
       "iso_region": "ES-GA",
-      "coordinates": "42.38395, -7.30131"
+      "coordinates": "42.38395, -7.30131",
+      "metar_available": false
     },
     {
       "ident": "ES-0345",
@@ -3654,7 +3996,8 @@
       "iso_country": "ES",
       "iso_region": "ES-GA",
       "municipality": "Ourense",
-      "coordinates": "42.434147, -6.972064"
+      "coordinates": "42.434147, -6.972064",
+      "metar_available": false
     },
     {
       "ident": "ES-0346",
@@ -3666,7 +4009,8 @@
       "iso_region": "ES-GA",
       "municipality": "Ourense",
       "gps_code": "LEXO",
-      "coordinates": "42.47302, -7.50139"
+      "coordinates": "42.47302, -7.50139",
+      "metar_available": false
     },
     {
       "ident": "ES-0347",
@@ -3677,7 +4021,8 @@
       "iso_region": "ES-AR",
       "municipality": "Castejón de Sos",
       "local_code": "ES0205",
-      "coordinates": "42.52247, 0.48111"
+      "coordinates": "42.52247, 0.48111",
+      "metar_available": false
     },
     {
       "ident": "ES-0348",
@@ -3688,7 +4033,8 @@
       "iso_country": "ES",
       "iso_region": "ES-NC",
       "municipality": "Tudela,",
-      "coordinates": "42.040262, -1.625955"
+      "coordinates": "42.040262, -1.625955",
+      "metar_available": false
     },
     {
       "ident": "ES-0349",
@@ -3700,7 +4046,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LEDH",
-      "coordinates": "41.427012, 2.140117"
+      "coordinates": "41.427012, 2.140117",
+      "metar_available": false
     },
     {
       "ident": "ES-0350",
@@ -3712,7 +4059,8 @@
       "iso_region": "ES-CT",
       "municipality": "Igualada",
       "gps_code": "LEHI",
-      "coordinates": "41.588386, 1.620875"
+      "coordinates": "41.588386, 1.620875",
+      "metar_available": false
     },
     {
       "ident": "ES-0351",
@@ -3723,7 +4071,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "El Cabril",
-      "coordinates": "38.075984, -5.414768"
+      "coordinates": "38.075984, -5.414768",
+      "metar_available": false
     },
     {
       "ident": "ES-0352",
@@ -3734,7 +4083,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Berga",
-      "coordinates": "42.053448, 1.74234"
+      "coordinates": "42.053448, 1.74234",
+      "metar_available": false
     },
     {
       "ident": "ES-0353",
@@ -3745,7 +4095,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Aznalcóllar",
-      "coordinates": "37.537024, -6.295778"
+      "coordinates": "37.537024, -6.295778",
+      "metar_available": false
     },
     {
       "ident": "ES-0354",
@@ -3755,7 +4106,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CN",
       "municipality": "La Gomera",
-      "coordinates": "28.022594, -17.242289"
+      "coordinates": "28.022594, -17.242289",
+      "metar_available": false
     },
     {
       "ident": "ES-0355",
@@ -3765,7 +4117,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CN",
       "municipality": "Teguise (Lanzarote)",
-      "coordinates": "29.032714, -13.598529"
+      "coordinates": "29.032714, -13.598529",
+      "metar_available": false
     },
     {
       "ident": "ES-0356",
@@ -3776,7 +4129,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "LLeida - Alfes",
-      "coordinates": "41.549999, 0.65"
+      "coordinates": "41.549999, 0.65",
+      "metar_available": false
     },
     {
       "ident": "ES-0357",
@@ -3787,7 +4141,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Hinojosa del Duque",
-      "coordinates": "38.51209, -5.107215"
+      "coordinates": "38.51209, -5.107215",
+      "metar_available": false
     },
     {
       "ident": "ES-0358",
@@ -3798,7 +4153,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Sevilla",
-      "coordinates": "37.3517, -6.01456"
+      "coordinates": "37.3517, -6.01456",
+      "metar_available": false
     },
     {
       "ident": "ES-0359",
@@ -3809,7 +4165,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CL",
       "municipality": "Segovia",
-      "coordinates": "40.903099, -4.52028"
+      "coordinates": "40.903099, -4.52028",
+      "metar_available": false
     },
     {
       "ident": "ES-0360",
@@ -3820,7 +4177,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "municipality": "Huesca",
-      "coordinates": "41.6078, -0.218327"
+      "coordinates": "41.6078, -0.218327",
+      "metar_available": false
     },
     {
       "ident": "ES-0361",
@@ -3831,7 +4189,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
-      "coordinates": "41.345299, 2.10729"
+      "coordinates": "41.345299, 2.10729",
+      "metar_available": false
     },
     {
       "ident": "ES-0362",
@@ -3842,7 +4201,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "municipality": "Viso del Marqués",
-      "coordinates": "38.5056, -3.42615"
+      "coordinates": "38.5056, -3.42615",
+      "metar_available": false
     },
     {
       "ident": "ES-0363",
@@ -3853,7 +4213,8 @@
       "iso_country": "ES",
       "iso_region": "ES-IB",
       "municipality": "Sa Sabina",
-      "coordinates": "38.716547, 1.399969"
+      "coordinates": "38.716547, 1.399969",
+      "metar_available": false
     },
     {
       "ident": "ES-0364",
@@ -3864,7 +4225,8 @@
       "iso_country": "ES",
       "iso_region": "ES-NC",
       "municipality": "Sangüesa",
-      "coordinates": "42.56736, -1.2889"
+      "coordinates": "42.56736, -1.2889",
+      "metar_available": false
     },
     {
       "ident": "ES-0365",
@@ -3875,7 +4237,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Linares",
-      "coordinates": "38.133211, -3.642554"
+      "coordinates": "38.133211, -3.642554",
+      "metar_available": false
     },
     {
       "ident": "ES-0366",
@@ -3885,7 +4248,8 @@
       "iso_country": "ES",
       "iso_region": "ES-EX",
       "gps_code": "LEGP",
-      "coordinates": "39.594127, -6.206276"
+      "coordinates": "39.594127, -6.206276",
+      "metar_available": false
     },
     {
       "ident": "GCAD",
@@ -3897,7 +4261,8 @@
       "iso_region": "ES-CN",
       "municipality": "Adeje",
       "gps_code": "GCAD",
-      "coordinates": "28.124165, -16.742906"
+      "coordinates": "28.124165, -16.742906",
+      "metar_available": false
     },
     {
       "ident": "GCDC",
@@ -3909,7 +4274,8 @@
       "iso_region": "ES-CN",
       "municipality": "Santa Cruz de Tenerife",
       "gps_code": "GCDC",
-      "coordinates": "28.448687, -16.28462"
+      "coordinates": "28.448687, -16.28462",
+      "metar_available": false
     },
     {
       "ident": "GCFV",
@@ -3922,7 +4288,8 @@
       "municipality": "El Matorral",
       "gps_code": "GCFV",
       "iata_code": "FUE",
-      "coordinates": "28.4527, -13.8638"
+      "coordinates": "28.4527, -13.8638",
+      "metar_available": true
     },
     {
       "ident": "GCGM",
@@ -3935,7 +4302,8 @@
       "municipality": "Alajero, La Gomera Island",
       "gps_code": "GCGM",
       "iata_code": "GMZ",
-      "coordinates": "28.0296, -17.2146"
+      "coordinates": "28.0296, -17.2146",
+      "metar_available": false
     },
     {
       "ident": "GCGO",
@@ -3947,7 +4315,8 @@
       "iso_region": "ES-CN",
       "municipality": "La Gomera Island",
       "gps_code": "GCGO",
-      "coordinates": "28.0972, -17.1024"
+      "coordinates": "28.0972, -17.1024",
+      "metar_available": false
     },
     {
       "ident": "GCHI",
@@ -3960,7 +4329,8 @@
       "municipality": "El Hierro Island",
       "gps_code": "GCHI",
       "iata_code": "VDE",
-      "coordinates": "27.8148, -17.8871"
+      "coordinates": "27.8148, -17.8871",
+      "metar_available": true
     },
     {
       "ident": "GCHU",
@@ -3972,7 +4342,8 @@
       "iso_region": "ES-CN",
       "municipality": "Tenerife Island",
       "gps_code": "GCHU",
-      "coordinates": "28.4562, -16.292101"
+      "coordinates": "28.4562, -16.292101",
+      "metar_available": false
     },
     {
       "ident": "GCLA",
@@ -3985,7 +4356,8 @@
       "municipality": "Sta Cruz de la Palma, La Palma Island",
       "gps_code": "GCLA",
       "iata_code": "SPC",
-      "coordinates": "28.626499, -17.7556"
+      "coordinates": "28.626499, -17.7556",
+      "metar_available": true
     },
     {
       "ident": "GCLB",
@@ -3997,7 +4369,8 @@
       "iso_region": "ES-CN",
       "municipality": "Gran Canaria Island",
       "gps_code": "GCLB",
-      "coordinates": "27.782499, -15.5072"
+      "coordinates": "27.782499, -15.5072",
+      "metar_available": false
     },
     {
       "ident": "GCLG",
@@ -4009,7 +4382,8 @@
       "iso_region": "ES-CN",
       "municipality": "Icod de los Vinos",
       "gps_code": "GCLG",
-      "coordinates": "28.377407, -16.649328"
+      "coordinates": "28.377407, -16.649328",
+      "metar_available": false
     },
     {
       "ident": "GCLP",
@@ -4022,7 +4396,8 @@
       "municipality": "Gran Canaria Island",
       "gps_code": "GCLP",
       "iata_code": "LPA",
-      "coordinates": "27.9319, -15.3866"
+      "coordinates": "27.9319, -15.3866",
+      "metar_available": true
     },
     {
       "ident": "GCPU",
@@ -4034,7 +4409,8 @@
       "iso_region": "ES-CN",
       "municipality": "La Palma",
       "gps_code": "GCPU",
-      "coordinates": "28.77882, -17.9957"
+      "coordinates": "28.77882, -17.9957",
+      "metar_available": false
     },
     {
       "ident": "GCRR",
@@ -4047,7 +4423,8 @@
       "municipality": "San Bartolomé",
       "gps_code": "GCRR",
       "iata_code": "ACE",
-      "coordinates": "28.945499, -13.6052"
+      "coordinates": "28.945499, -13.6052",
+      "metar_available": true
     },
     {
       "ident": "GCTS",
@@ -4060,7 +4437,8 @@
       "municipality": "Tenerife",
       "gps_code": "GCTS",
       "iata_code": "TFS",
-      "coordinates": "28.0445, -16.5725"
+      "coordinates": "28.0445, -16.5725",
+      "metar_available": true
     },
     {
       "ident": "GCXO",
@@ -4073,7 +4451,8 @@
       "municipality": "Tenerife",
       "gps_code": "GCXO",
       "iata_code": "TFN",
-      "coordinates": "28.4827, -16.341499"
+      "coordinates": "28.4827, -16.341499",
+      "metar_available": true
     },
     {
       "ident": "GECE",
@@ -4086,7 +4465,8 @@
       "municipality": "Ceuta",
       "gps_code": "GECE",
       "iata_code": "JCU",
-      "coordinates": "35.892657, -5.306321"
+      "coordinates": "35.892657, -5.306321",
+      "metar_available": false
     },
     {
       "ident": "GEML",
@@ -4099,7 +4479,8 @@
       "municipality": "Melilla",
       "gps_code": "GEML",
       "iata_code": "MLN",
-      "coordinates": "35.2798, -2.95626"
+      "coordinates": "35.2798, -2.95626",
+      "metar_available": true
     },
     {
       "ident": "LE83",
@@ -4111,7 +4492,8 @@
       "iso_region": "ES-CL",
       "municipality": "Mojados",
       "gps_code": "LEOA",
-      "coordinates": "41.465728, -4.713068"
+      "coordinates": "41.465728, -4.713068",
+      "metar_available": false
     },
     {
       "ident": "LE84",
@@ -4122,7 +4504,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AN",
       "municipality": "Jayena",
-      "coordinates": "36.930698, -3.83538"
+      "coordinates": "36.930698, -3.83538",
+      "metar_available": false
     },
     {
       "ident": "LEAB",
@@ -4135,7 +4518,8 @@
       "municipality": "Albacete",
       "gps_code": "LEAB",
       "iata_code": "ABC",
-      "coordinates": "38.948502, -1.86352"
+      "coordinates": "38.948502, -1.86352",
+      "metar_available": true
     },
     {
       "ident": "LEAF",
@@ -4147,7 +4531,8 @@
       "iso_region": "ES-AR",
       "municipality": "Teruel",
       "gps_code": "LEAF",
-      "coordinates": "40.898141, -0.396393"
+      "coordinates": "40.898141, -0.396393",
+      "metar_available": false
     },
     {
       "ident": "LEAL",
@@ -4160,7 +4545,8 @@
       "municipality": "Alicante",
       "gps_code": "LEAL",
       "iata_code": "ALC",
-      "coordinates": "38.2822, -0.558156"
+      "coordinates": "38.2822, -0.558156",
+      "metar_available": true
     },
     {
       "ident": "LEAM",
@@ -4173,7 +4559,8 @@
       "municipality": "Almería",
       "gps_code": "LEAM",
       "iata_code": "LEI",
-      "coordinates": "36.843899, -2.3701"
+      "coordinates": "36.843899, -2.3701",
+      "metar_available": true
     },
     {
       "ident": "LEAP",
@@ -4185,7 +4572,8 @@
       "iso_region": "ES-CT",
       "municipality": "Empuriabrava",
       "gps_code": "LEAP",
-      "coordinates": "42.259998, 3.109722"
+      "coordinates": "42.259998, 3.109722",
+      "metar_available": false
     },
     {
       "ident": "LEAS",
@@ -4198,7 +4586,8 @@
       "municipality": "Ranón",
       "gps_code": "LEAS",
       "iata_code": "OVD",
-      "coordinates": "43.563599, -6.03462"
+      "coordinates": "43.563599, -6.03462",
+      "metar_available": true
     },
     {
       "ident": "LEAX",
@@ -4210,7 +4599,8 @@
       "iso_region": "ES-AN",
       "municipality": "Málaga",
       "gps_code": "LEAX",
-      "coordinates": "36.801666, -4.135556"
+      "coordinates": "36.801666, -4.135556",
+      "metar_available": false
     },
     {
       "ident": "LEAY",
@@ -4222,7 +4612,8 @@
       "iso_region": "ES-CM",
       "municipality": "Calzada de Calatrava",
       "gps_code": "LEAY",
-      "coordinates": "38.634316, -3.789527"
+      "coordinates": "38.634316, -3.789527",
+      "metar_available": false
     },
     {
       "ident": "LEBA",
@@ -4235,7 +4626,8 @@
       "municipality": "Córdoba",
       "gps_code": "LEBA",
       "iata_code": "ODB",
-      "coordinates": "37.841999, -4.84888"
+      "coordinates": "37.841999, -4.84888",
+      "metar_available": true
     },
     {
       "ident": "LEBB",
@@ -4248,7 +4640,8 @@
       "municipality": "Bilbao",
       "gps_code": "LEBB",
       "iata_code": "BIO",
-      "coordinates": "43.301102, -2.91061"
+      "coordinates": "43.301102, -2.91061",
+      "metar_available": true
     },
     {
       "ident": "LEBC",
@@ -4259,7 +4652,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "gps_code": "LEBC",
-      "coordinates": "41.807701110839844, 3.037179946899414"
+      "coordinates": "41.807701110839844, 3.037179946899414",
+      "metar_available": false
     },
     {
       "ident": "LEBD",
@@ -4271,7 +4665,8 @@
       "iso_region": "ES-CL",
       "municipality": "37520 El Bodón",
       "gps_code": "LEBD",
-      "coordinates": "40.48453, -6.57709"
+      "coordinates": "40.48453, -6.57709",
+      "metar_available": false
     },
     {
       "ident": "LEBE",
@@ -4283,7 +4678,8 @@
       "iso_region": "ES-AN",
       "municipality": "Jaén",
       "gps_code": "LEBE",
-      "coordinates": "38.271111, -2.948889"
+      "coordinates": "38.271111, -2.948889",
+      "metar_available": false
     },
     {
       "ident": "LEBG",
@@ -4296,7 +4692,8 @@
       "municipality": "Burgos",
       "gps_code": "LEBG",
       "iata_code": "RGS",
-      "coordinates": "42.357601, -3.62076"
+      "coordinates": "42.357601, -3.62076",
+      "metar_available": true
     },
     {
       "ident": "LEBL",
@@ -4309,7 +4706,8 @@
       "municipality": "Barcelona",
       "gps_code": "LEBL",
       "iata_code": "BCN",
-      "coordinates": "41.2971, 2.07846"
+      "coordinates": "41.2971, 2.07846",
+      "metar_available": true
     },
     {
       "ident": "LEBP",
@@ -4321,7 +4719,8 @@
       "iso_region": "ES-VC",
       "municipality": "Castellón de La Plana",
       "gps_code": "LEBP",
-      "coordinates": "39.957901, -0.011632"
+      "coordinates": "39.957901, -0.011632",
+      "metar_available": false
     },
     {
       "ident": "LEBS",
@@ -4333,7 +4732,8 @@
       "iso_region": "ES-CT",
       "municipality": "Masquefa",
       "gps_code": "LEBS",
-      "coordinates": "41.507695, 1.787712"
+      "coordinates": "41.507695, 1.787712",
+      "metar_available": false
     },
     {
       "ident": "LEBU",
@@ -4345,7 +4745,8 @@
       "iso_region": "ES-MD",
       "municipality": "Bustarviejo",
       "gps_code": "LEBU",
-      "coordinates": "40.856922, -3.742135"
+      "coordinates": "40.856922, -3.742135",
+      "metar_available": false
     },
     {
       "ident": "LEBZ",
@@ -4358,7 +4759,8 @@
       "municipality": "Badajoz",
       "gps_code": "LEBZ",
       "iata_code": "BJZ",
-      "coordinates": "38.8913, -6.82133"
+      "coordinates": "38.8913, -6.82133",
+      "metar_available": true
     },
     {
       "ident": "LECA",
@@ -4370,7 +4772,8 @@
       "iso_region": "ES-CL",
       "municipality": "Corral de Ayllón",
       "gps_code": "LECA",
-      "coordinates": "41.410801, -3.44833"
+      "coordinates": "41.410801, -3.44833",
+      "metar_available": false
     },
     {
       "ident": "LECC",
@@ -4382,7 +4785,8 @@
       "iso_region": "ES-IB",
       "municipality": "Santa Eulària des Riu",
       "gps_code": "LECC",
-      "coordinates": "38.9291, 1.46633"
+      "coordinates": "38.9291, 1.46633",
+      "metar_available": false
     },
     {
       "ident": "LECD",
@@ -4394,7 +4798,8 @@
       "iso_region": "ES-CT",
       "municipality": "Alp",
       "gps_code": "LECD",
-      "coordinates": "42.386398, 1.86667"
+      "coordinates": "42.386398, 1.86667",
+      "metar_available": false
     },
     {
       "ident": "LECE",
@@ -4406,7 +4811,8 @@
       "iso_region": "ES-CB",
       "municipality": "Tarragona",
       "gps_code": "LECE",
-      "coordinates": "41.133698, 1.187351"
+      "coordinates": "41.133698, 1.187351",
+      "metar_available": false
     },
     {
       "ident": "LECF",
@@ -4418,7 +4824,8 @@
       "iso_region": "ES-CT",
       "municipality": "Sant Pere Sallavinera",
       "gps_code": "LECF",
-      "coordinates": "41.744202, 1.55694"
+      "coordinates": "41.744202, 1.55694",
+      "metar_available": false
     },
     {
       "ident": "LECH",
@@ -4431,7 +4838,8 @@
       "municipality": "Castellón de la Plana",
       "gps_code": "LECH",
       "iata_code": "CDT",
-      "coordinates": "40.213889, 0.073333"
+      "coordinates": "40.213889, 0.073333",
+      "metar_available": true
     },
     {
       "ident": "LECI",
@@ -4443,7 +4851,8 @@
       "iso_region": "ES-AR",
       "municipality": "Huesca",
       "gps_code": "LECI",
-      "coordinates": "42.569199, -0.727778"
+      "coordinates": "42.569199, -0.727778",
+      "metar_available": false
     },
     {
       "ident": "LECN",
@@ -4455,7 +4864,8 @@
       "iso_region": "ES-VC",
       "municipality": "Castellón de la Plana",
       "gps_code": "LECN",
-      "coordinates": "39.99836, 0.026355"
+      "coordinates": "39.99836, 0.026355",
+      "metar_available": false
     },
     {
       "ident": "LECO",
@@ -4468,7 +4878,8 @@
       "municipality": "Culleredo",
       "gps_code": "LECO",
       "iata_code": "LCG",
-      "coordinates": "43.302101, -8.37726"
+      "coordinates": "43.302101, -8.37726",
+      "metar_available": true
     },
     {
       "ident": "LECT",
@@ -4480,7 +4891,8 @@
       "iso_region": "ES-CM",
       "municipality": "Luciana",
       "gps_code": "LECT",
-      "coordinates": "39.013604, -4.387141"
+      "coordinates": "39.013604, -4.387141",
+      "metar_available": false
     },
     {
       "ident": "LECU",
@@ -4492,7 +4904,8 @@
       "iso_region": "ES-MD",
       "municipality": "Madrid",
       "gps_code": "LECU",
-      "coordinates": "40.370701, -3.78514"
+      "coordinates": "40.370701, -3.78514",
+      "metar_available": false
     },
     {
       "ident": "LECV",
@@ -4504,7 +4917,8 @@
       "iso_region": "ES-MD",
       "municipality": "Colmenar Viejo",
       "gps_code": "LECV",
-      "coordinates": "40.697296, -3.763255"
+      "coordinates": "40.697296, -3.763255",
+      "metar_available": false
     },
     {
       "ident": "LEDA",
@@ -4517,7 +4931,8 @@
       "municipality": "Lleida",
       "gps_code": "LEDA",
       "iata_code": "ILD",
-      "coordinates": "41.728185, 0.535023"
+      "coordinates": "41.728185, 0.535023",
+      "metar_available": true
     },
     {
       "ident": "LEDE",
@@ -4529,7 +4944,8 @@
       "iso_region": "ES-AN",
       "municipality": "Córdoba",
       "gps_code": "LEDE",
-      "coordinates": "37.836632, -4.896426"
+      "coordinates": "37.836632, -4.896426",
+      "metar_available": false
     },
     {
       "ident": "LEDG",
@@ -4541,7 +4957,8 @@
       "iso_region": "ES-MD",
       "municipality": "Madrid",
       "gps_code": "LEDG",
-      "coordinates": "40.44929885864258, -3.6461305618286133"
+      "coordinates": "40.44929885864258, -3.6461305618286133",
+      "metar_available": false
     },
     {
       "ident": "LEDO",
@@ -4553,7 +4970,8 @@
       "iso_region": "ES-MD",
       "municipality": "Madrid",
       "gps_code": "LEDO",
-      "coordinates": "40.3747362789, -3.69985252619"
+      "coordinates": "40.3747362789, -3.69985252619",
+      "metar_available": false
     },
     {
       "ident": "LEDV",
@@ -4565,7 +4983,8 @@
       "iso_region": "ES-MD",
       "municipality": "San Martín de Valdeiglesias",
       "gps_code": "LEDV",
-      "coordinates": "40.357728, -4.376101"
+      "coordinates": "40.357728, -4.376101",
+      "metar_available": false
     },
     {
       "ident": "LEEC",
@@ -4577,7 +4996,8 @@
       "iso_region": "ES-AN",
       "municipality": "Dos Hermanas",
       "gps_code": "LEEC",
-      "coordinates": "37.313164, -5.999058"
+      "coordinates": "37.313164, -5.999058",
+      "metar_available": false
     },
     {
       "ident": "LEEI",
@@ -4589,7 +5009,8 @@
       "iso_region": "ES-CM",
       "municipality": "Talavera de la Reina",
       "gps_code": "LEEI",
-      "coordinates": "39.924064, -4.801274"
+      "coordinates": "39.924064, -4.801274",
+      "metar_available": false
     },
     {
       "ident": "LEEL",
@@ -4601,7 +5022,8 @@
       "iso_region": "ES-AS",
       "municipality": "Gijón",
       "gps_code": "LEEL",
-      "coordinates": "43.54973220825195, -5.695445537567139"
+      "coordinates": "43.54973220825195, -5.695445537567139",
+      "metar_available": false
     },
     {
       "ident": "LEEM",
@@ -4613,7 +5035,8 @@
       "iso_region": "ES-EX",
       "municipality": "Badajoz",
       "gps_code": "LEEM",
-      "coordinates": "38.777508, -6.991124"
+      "coordinates": "38.777508, -6.991124",
+      "metar_available": false
     },
     {
       "ident": "LEER",
@@ -4625,7 +5048,8 @@
       "iso_region": "ES-MD",
       "municipality": "La Cabrera",
       "gps_code": "LEER",
-      "coordinates": "40.855353, -3.617942"
+      "coordinates": "40.855353, -3.617942",
+      "metar_available": false
     },
     {
       "ident": "LEET",
@@ -4637,7 +5061,8 @@
       "iso_region": "ES-CL",
       "municipality": "Ponferrada",
       "gps_code": "LEET",
-      "coordinates": "42.632898, -6.648556"
+      "coordinates": "42.632898, -6.648556",
+      "metar_available": false
     },
     {
       "ident": "LEEV",
@@ -4649,7 +5074,8 @@
       "iso_region": "ES-CL",
       "municipality": "Villacastin",
       "gps_code": "LEEV",
-      "coordinates": "40.783901, -4.46278"
+      "coordinates": "40.783901, -4.46278",
+      "metar_available": false
     },
     {
       "ident": "LEEX",
@@ -4661,7 +5087,8 @@
       "iso_region": "ES-AN",
       "municipality": "Seville",
       "gps_code": "LEEX",
-      "coordinates": "37.3993, -6.010675"
+      "coordinates": "37.3993, -6.010675",
+      "metar_available": false
     },
     {
       "ident": "LEFM",
@@ -4673,7 +5100,8 @@
       "iso_region": "ES-CL",
       "municipality": "Segovia",
       "gps_code": "LEFM",
-      "coordinates": "40.889137, -4.240165"
+      "coordinates": "40.889137, -4.240165",
+      "metar_available": false
     },
     {
       "ident": "LEFR",
@@ -4685,7 +5113,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LEFR",
-      "coordinates": "41.35390090942383, 2.1291699409484863"
+      "coordinates": "41.35390090942383, 2.1291699409484863",
+      "metar_available": false
     },
     {
       "ident": "LEGA",
@@ -4697,7 +5126,8 @@
       "iso_region": "ES-AN",
       "municipality": "Armilla",
       "gps_code": "LEGA",
-      "coordinates": "37.133202, -3.63569"
+      "coordinates": "37.133202, -3.63569",
+      "metar_available": true
     },
     {
       "ident": "LEGC",
@@ -4709,7 +5139,8 @@
       "iso_region": "ES-AN",
       "municipality": "Sevilla",
       "gps_code": "LEGC",
-      "coordinates": "38.1717, -5.73953"
+      "coordinates": "38.1717, -5.73953",
+      "metar_available": false
     },
     {
       "ident": "LEGD",
@@ -4721,7 +5152,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tarragona",
       "gps_code": "LEGD",
-      "coordinates": "41.21390151977539, 1.2415599822998047"
+      "coordinates": "41.21390151977539, 1.2415599822998047",
+      "metar_available": false
     },
     {
       "ident": "LEGE",
@@ -4734,7 +5166,8 @@
       "municipality": "Girona",
       "gps_code": "LEGE",
       "iata_code": "GRO",
-      "coordinates": "41.904639, 2.761774"
+      "coordinates": "41.904639, 2.761774",
+      "metar_available": true
     },
     {
       "ident": "LEGR",
@@ -4747,7 +5180,8 @@
       "municipality": "Granada",
       "gps_code": "LEGR",
       "iata_code": "GRX",
-      "coordinates": "37.188702, -3.77736"
+      "coordinates": "37.188702, -3.77736",
+      "metar_available": true
     },
     {
       "ident": "LEGS",
@@ -4758,7 +5192,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "gps_code": "LEGS",
-      "coordinates": "41.27389907836914, 1.914720058441162"
+      "coordinates": "41.27389907836914, 1.914720058441162",
+      "metar_available": false
     },
     {
       "ident": "LEGT",
@@ -4770,7 +5205,8 @@
       "iso_region": "ES-MD",
       "municipality": "Getafe",
       "gps_code": "LEGT",
-      "coordinates": "40.29410171508789, -3.723829984664917"
+      "coordinates": "40.29410171508789, -3.723829984664917",
+      "metar_available": true
     },
     {
       "ident": "LEGU",
@@ -4782,7 +5218,8 @@
       "iso_region": "ES-EX",
       "municipality": "Guadalupe",
       "gps_code": "LEGU",
-      "coordinates": "39.345699, -5.19735"
+      "coordinates": "39.345699, -5.19735",
+      "metar_available": false
     },
     {
       "ident": "LEGV",
@@ -4793,7 +5230,8 @@
       "iso_country": "ES",
       "iso_region": "ES-PV",
       "gps_code": "LEGV",
-      "coordinates": "43.44169998168945, -2.7536098957061768"
+      "coordinates": "43.44169998168945, -2.7536098957061768",
+      "metar_available": false
     },
     {
       "ident": "LEGY",
@@ -4805,7 +5243,8 @@
       "iso_region": "ES-CL",
       "municipality": "Soria",
       "gps_code": "LEGY",
-      "coordinates": "41.820004, -2.476387"
+      "coordinates": "41.820004, -2.476387",
+      "metar_available": false
     },
     {
       "ident": "LEHA",
@@ -4817,7 +5256,8 @@
       "iso_region": "ES-MD",
       "municipality": "Alcorcón",
       "gps_code": "LEHA",
-      "coordinates": "40.349702, -3.83819"
+      "coordinates": "40.349702, -3.83819",
+      "metar_available": false
     },
     {
       "ident": "LEHC",
@@ -4830,7 +5270,8 @@
       "municipality": "Monflorite/Alcalá del Obispo",
       "gps_code": "LEHC",
       "iata_code": "HSK",
-      "coordinates": "42.076099, -0.316667"
+      "coordinates": "42.076099, -0.316667",
+      "metar_available": false
     },
     {
       "ident": "LEHE",
@@ -4842,7 +5283,8 @@
       "iso_region": "ES-CM",
       "municipality": "Albacete",
       "gps_code": "LEHE",
-      "coordinates": "39.071106, -1.834567"
+      "coordinates": "39.071106, -1.834567",
+      "metar_available": false
     },
     {
       "ident": "LEHG",
@@ -4853,7 +5295,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "gps_code": "LEHG",
-      "coordinates": "41.47359848022461, 2.0425000190734863"
+      "coordinates": "41.47359848022461, 2.0425000190734863",
+      "metar_available": false
     },
     {
       "ident": "LEHH",
@@ -4865,7 +5308,8 @@
       "iso_region": "ES-MD",
       "municipality": "Coslada",
       "gps_code": "LEHH",
-      "coordinates": "40.419524, -3.532319"
+      "coordinates": "40.419524, -3.532319",
+      "metar_available": false
     },
     {
       "ident": "LEHJ",
@@ -4877,7 +5321,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tarragona",
       "gps_code": "LEHJ",
-      "coordinates": "41.1255989074707, 1.23812997341156"
+      "coordinates": "41.1255989074707, 1.23812997341156",
+      "metar_available": false
     },
     {
       "ident": "LEHM",
@@ -4889,7 +5334,8 @@
       "iso_region": "ES-CT",
       "municipality": "Manresa",
       "gps_code": "LEHM",
-      "coordinates": "41.720001220703125, 1.840559959411621"
+      "coordinates": "41.720001220703125, 1.840559959411621",
+      "metar_available": false
     },
     {
       "ident": "LEHU",
@@ -4900,7 +5346,8 @@
       "iso_region": "ES-AS",
       "municipality": "Oviedo",
       "gps_code": "LEHU",
-      "coordinates": "43.37721, -5.82638"
+      "coordinates": "43.37721, -5.82638",
+      "metar_available": false
     },
     {
       "ident": "LEHV",
@@ -4912,7 +5359,8 @@
       "iso_region": "ES-GA",
       "municipality": "Vigo",
       "gps_code": "LEHV",
-      "coordinates": "42.187797, -8.714093"
+      "coordinates": "42.187797, -8.714093",
+      "metar_available": false
     },
     {
       "ident": "LEIB",
@@ -4925,7 +5373,8 @@
       "municipality": "Ibiza (Eivissa)",
       "gps_code": "LEIB",
       "iata_code": "IBZ",
-      "coordinates": "38.872898, 1.37312"
+      "coordinates": "38.872898, 1.37312",
+      "metar_available": true
     },
     {
       "ident": "LEIG",
@@ -4937,7 +5386,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LEIG",
-      "coordinates": "41.585602, 1.65306"
+      "coordinates": "41.585602, 1.65306",
+      "metar_available": false
     },
     {
       "ident": "LEIU",
@@ -4949,7 +5399,8 @@
       "iso_region": "ES-PV",
       "municipality": "Durango",
       "gps_code": "LEIU",
-      "coordinates": "43.18190002441406, -2.646389961242676"
+      "coordinates": "43.18190002441406, -2.646389961242676",
+      "metar_available": false
     },
     {
       "ident": "LEIZ",
@@ -4961,7 +5412,8 @@
       "iso_region": "ES-CM",
       "municipality": "Torre de Juan Abad",
       "gps_code": "LEIZ",
-      "coordinates": "38.5131, -3.36433"
+      "coordinates": "38.5131, -3.36433",
+      "metar_available": false
     },
     {
       "ident": "LEJC",
@@ -4973,7 +5425,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LEJC",
-      "coordinates": "41.38249969482422, 2.1091699600219727"
+      "coordinates": "41.38249969482422, 2.1091699600219727",
+      "metar_available": false
     },
     {
       "ident": "LEJL",
@@ -4985,7 +5438,8 @@
       "iso_region": "ES-CT",
       "municipality": "Canyet",
       "gps_code": "LEJL",
-      "coordinates": "41.479645, 2.238493"
+      "coordinates": "41.479645, 2.238493",
+      "metar_available": false
     },
     {
       "ident": "LEJN",
@@ -4997,7 +5451,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tarragona",
       "gps_code": "LEJN",
-      "coordinates": "41.144641, 1.12506"
+      "coordinates": "41.144641, 1.12506",
+      "metar_available": false
     },
     {
       "ident": "LEJO",
@@ -5009,7 +5464,8 @@
       "iso_region": "ES-CL",
       "municipality": "Madrigalejo Del Monte",
       "gps_code": "LEJO",
-      "coordinates": "42.134399, -3.73103"
+      "coordinates": "42.134399, -3.73103",
+      "metar_available": false
     },
     {
       "ident": "LEJR",
@@ -5022,7 +5478,8 @@
       "municipality": "Jerez de la Frontera",
       "gps_code": "LEJR",
       "iata_code": "XRY",
-      "coordinates": "36.744598, -6.06011"
+      "coordinates": "36.744598, -6.06011",
+      "metar_available": true
     },
     {
       "ident": "LEJT",
@@ -5034,7 +5491,8 @@
       "iso_region": "ES-CT",
       "municipality": "Gerona",
       "gps_code": "LEJT",
-      "coordinates": "41.99789810180664, 2.8213999271392822"
+      "coordinates": "41.99789810180664, 2.8213999271392822",
+      "metar_available": false
     },
     {
       "ident": "LEJU",
@@ -5046,7 +5504,8 @@
       "iso_region": "ES-AN",
       "municipality": "Sevilla",
       "gps_code": "LEJU",
-      "coordinates": "37.294998, -6.1625"
+      "coordinates": "37.294998, -6.1625",
+      "metar_available": false
     },
     {
       "ident": "LELA",
@@ -5058,7 +5517,8 @@
       "iso_region": "ES-CM",
       "municipality": "Valdepeñas",
       "gps_code": "LELA",
-      "coordinates": "38.747898, -3.51456"
+      "coordinates": "38.747898, -3.51456",
+      "metar_available": false
     },
     {
       "ident": "LELB",
@@ -5070,7 +5530,8 @@
       "iso_region": "ES-CM",
       "municipality": "Albendea",
       "gps_code": "LELB",
-      "coordinates": "40.475232, -2.383516"
+      "coordinates": "40.475232, -2.383516",
+      "metar_available": false
     },
     {
       "ident": "LELC",
@@ -5083,7 +5544,8 @@
       "municipality": "San Javier",
       "gps_code": "LELC",
       "iata_code": "MJV",
-      "coordinates": "37.775002, -0.812389"
+      "coordinates": "37.775002, -0.812389",
+      "metar_available": true
     },
     {
       "ident": "LELH",
@@ -5095,7 +5557,8 @@
       "iso_region": "ES-MC",
       "municipality": "Cánovas",
       "gps_code": "LELH",
-      "coordinates": "37.748901, -1.30216"
+      "coordinates": "37.748901, -1.30216",
+      "metar_available": false
     },
     {
       "ident": "LELL",
@@ -5107,7 +5570,8 @@
       "iso_region": "ES-CT",
       "municipality": "Sabadell",
       "gps_code": "LELL",
-      "coordinates": "41.520901, 2.10508"
+      "coordinates": "41.520901, 2.10508",
+      "metar_available": false
     },
     {
       "ident": "LELM",
@@ -5119,7 +5583,8 @@
       "iso_region": "ES-CM",
       "municipality": "Almansa",
       "gps_code": "LELM",
-      "coordinates": "38.895, -1.11318"
+      "coordinates": "38.895, -1.11318",
+      "metar_available": false
     },
     {
       "ident": "LELN",
@@ -5132,7 +5597,8 @@
       "municipality": "León",
       "gps_code": "LELN",
       "iata_code": "LEN",
-      "coordinates": "42.589001, -5.65556"
+      "coordinates": "42.589001, -5.65556",
+      "metar_available": true
     },
     {
       "ident": "LELO",
@@ -5145,7 +5611,8 @@
       "municipality": "Logroño",
       "gps_code": "LERJ",
       "iata_code": "RJL",
-      "coordinates": "42.460953, -2.322235"
+      "coordinates": "42.460953, -2.322235",
+      "metar_available": true
     },
     {
       "ident": "LELT",
@@ -5157,7 +5624,8 @@
       "iso_region": "ES-CM",
       "municipality": "Lillo",
       "gps_code": "LELT",
-      "coordinates": "39.7169, -3.32056"
+      "coordinates": "39.7169, -3.32056",
+      "metar_available": false
     },
     {
       "ident": "LELV",
@@ -5169,7 +5637,8 @@
       "iso_region": "ES-MD",
       "municipality": "Madrid",
       "gps_code": "LELV",
-      "coordinates": "40.386565, -3.615839"
+      "coordinates": "40.386565, -3.615839",
+      "metar_available": false
     },
     {
       "ident": "LEMD",
@@ -5182,7 +5651,8 @@
       "municipality": "Madrid",
       "gps_code": "LEMD",
       "iata_code": "MAD",
-      "coordinates": "40.471926, -3.56264"
+      "coordinates": "40.471926, -3.56264",
+      "metar_available": true
     },
     {
       "ident": "LEME",
@@ -5194,7 +5664,8 @@
       "iso_region": "ES-IB",
       "municipality": "Es Mercadal",
       "gps_code": "LEME",
-      "coordinates": "39.968221, 4.093734"
+      "coordinates": "39.968221, 4.093734",
+      "metar_available": false
     },
     {
       "ident": "LEMF",
@@ -5206,7 +5677,8 @@
       "iso_region": "ES-AN",
       "municipality": "Gibraleón",
       "gps_code": "LEMF",
-      "coordinates": "37.3643, -6.92094"
+      "coordinates": "37.3643, -6.92094",
+      "metar_available": false
     },
     {
       "ident": "LEMG",
@@ -5219,7 +5691,8 @@
       "municipality": "Málaga",
       "gps_code": "LEMG",
       "iata_code": "AGP",
-      "coordinates": "36.6749, -4.49911"
+      "coordinates": "36.6749, -4.49911",
+      "metar_available": true
     },
     {
       "ident": "LEMH",
@@ -5232,7 +5705,8 @@
       "municipality": "Mahón (Maó)",
       "gps_code": "LEMH",
       "iata_code": "MAH",
-      "coordinates": "39.862598, 4.21865"
+      "coordinates": "39.862598, 4.21865",
+      "metar_available": true
     },
     {
       "ident": "LEMI",
@@ -5245,7 +5719,8 @@
       "municipality": "Corvera",
       "gps_code": "LEMI",
       "iata_code": "RMU",
-      "coordinates": "37.803, -1.125"
+      "coordinates": "37.803, -1.125",
+      "metar_available": true
     },
     {
       "ident": "LEMN",
@@ -5257,7 +5732,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tarragona",
       "gps_code": "LEMN",
-      "coordinates": "40.66640090942383, 0.5647220015525818"
+      "coordinates": "40.66640090942383, 0.5647220015525818",
+      "metar_available": false
     },
     {
       "ident": "LEMO",
@@ -5270,7 +5746,8 @@
       "municipality": "Morón",
       "gps_code": "LEMO",
       "iata_code": "OZP",
-      "coordinates": "37.17490005493164, -5.615940093994141"
+      "coordinates": "37.17490005493164, -5.615940093994141",
+      "metar_available": true
     },
     {
       "ident": "LEMP",
@@ -5282,7 +5759,8 @@
       "iso_region": "ES-MC",
       "municipality": "Murcia",
       "gps_code": "LEMP",
-      "coordinates": "37.836817, -1.097667"
+      "coordinates": "37.836817, -1.097667",
+      "metar_available": false
     },
     {
       "ident": "LEMR",
@@ -5294,7 +5772,8 @@
       "iso_region": "ES-AS",
       "municipality": "Oviedo",
       "gps_code": "LEMR",
-      "coordinates": "43.429199, -5.83056"
+      "coordinates": "43.429199, -5.83056",
+      "metar_available": false
     },
     {
       "ident": "LEMS",
@@ -5306,7 +5785,8 @@
       "iso_region": "ES-CT",
       "municipality": "Manresa",
       "gps_code": "LEMS",
-      "coordinates": "41.765301, 1.86167"
+      "coordinates": "41.765301, 1.86167",
+      "metar_available": false
     },
     {
       "ident": "LEMT",
@@ -5318,7 +5798,8 @@
       "iso_region": "ES-CM",
       "municipality": "Toledo",
       "gps_code": "LEMT",
-      "coordinates": "40.235001, -4.02639"
+      "coordinates": "40.235001, -4.02639",
+      "metar_available": false
     },
     {
       "ident": "LEMU",
@@ -5330,7 +5811,8 @@
       "iso_region": "ES-VC",
       "municipality": "Muchamiel",
       "gps_code": "LEMU",
-      "coordinates": "38.440601, -0.475278"
+      "coordinates": "38.440601, -0.475278",
+      "metar_available": false
     },
     {
       "ident": "LEMX",
@@ -5342,7 +5824,8 @@
       "iso_region": "ES-CM",
       "municipality": "Toledo",
       "gps_code": "LEMX",
-      "coordinates": "39.562099, -3.25075"
+      "coordinates": "39.562099, -3.25075",
+      "metar_available": false
     },
     {
       "ident": "LENA",
@@ -5354,7 +5837,8 @@
       "iso_region": "ES-AR",
       "municipality": "Huesca",
       "gps_code": "LENA",
-      "coordinates": "42.0228, 0.482222"
+      "coordinates": "42.0228, 0.482222",
+      "metar_available": false
     },
     {
       "ident": "LENB",
@@ -5366,7 +5850,8 @@
       "iso_region": "ES-IB",
       "municipality": "Ciutadella de Menorca",
       "gps_code": "LENB",
-      "coordinates": "39.996836, 3.814097"
+      "coordinates": "39.996836, 3.814097",
+      "metar_available": false
     },
     {
       "ident": "LENE",
@@ -5377,7 +5862,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CM",
       "gps_code": "LENE",
-      "coordinates": "38.669727, -3.303194"
+      "coordinates": "38.669727, -3.303194",
+      "metar_available": false
     },
     {
       "ident": "LENH",
@@ -5389,7 +5875,8 @@
       "iso_region": "ES-CT",
       "municipality": "Mataró",
       "gps_code": "LENH",
-      "coordinates": "41.56079864501953, 2.429719924926758"
+      "coordinates": "41.56079864501953, 2.429719924926758",
+      "metar_available": false
     },
     {
       "ident": "LENM",
@@ -5401,7 +5888,8 @@
       "iso_region": "ES-IB",
       "municipality": "Ibiza (Eivissa)",
       "gps_code": "LENM",
-      "coordinates": "38.9175, 1.41944"
+      "coordinates": "38.9175, 1.41944",
+      "metar_available": false
     },
     {
       "ident": "LENN",
@@ -5413,7 +5901,8 @@
       "iso_region": "ES-AN",
       "municipality": "Marmolejo",
       "gps_code": "LENN",
-      "coordinates": "38.11489, -4.11547"
+      "coordinates": "38.11489, -4.11547",
+      "metar_available": false
     },
     {
       "ident": "LENT",
@@ -5425,7 +5914,8 @@
       "iso_region": "ES-CM",
       "municipality": "Alcoba",
       "gps_code": "LENT",
-      "coordinates": "39.267248, -4.490408"
+      "coordinates": "39.267248, -4.490408",
+      "metar_available": false
     },
     {
       "ident": "LEOC",
@@ -5437,7 +5927,8 @@
       "iso_region": "ES-CM",
       "municipality": "Ocaña",
       "gps_code": "LEOC",
-      "coordinates": "39.9375, -3.50333"
+      "coordinates": "39.9375, -3.50333",
+      "metar_available": false
     },
     {
       "ident": "LEOR",
@@ -5449,7 +5940,8 @@
       "iso_region": "ES-CT",
       "municipality": "Orriols",
       "gps_code": "LEOR",
-      "coordinates": "42.132198333740234, 2.9038898944854736"
+      "coordinates": "42.132198333740234, 2.9038898944854736",
+      "metar_available": false
     },
     {
       "ident": "LEOS",
@@ -5461,7 +5953,8 @@
       "iso_region": "ES-CL",
       "municipality": "Pajares de Los Oteros",
       "gps_code": "LEOS",
-      "coordinates": "42.333056, -5.451944"
+      "coordinates": "42.333056, -5.451944",
+      "metar_available": false
     },
     {
       "ident": "LEOT",
@@ -5473,7 +5966,8 @@
       "iso_region": "ES-CM",
       "municipality": "Ontur",
       "gps_code": "LEOT",
-      "coordinates": "38.615681, -1.526477"
+      "coordinates": "38.615681, -1.526477",
+      "metar_available": false
     },
     {
       "ident": "LEPA",
@@ -5486,7 +5980,8 @@
       "municipality": "Palma de Mallorca",
       "gps_code": "LEPA",
       "iata_code": "PMI",
-      "coordinates": "39.551701, 2.73881"
+      "coordinates": "39.551701, 2.73881",
+      "metar_available": true
     },
     {
       "ident": "LEPB",
@@ -5498,7 +5993,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LEPB",
-      "coordinates": "41.36429977416992, 2.1830101013183594"
+      "coordinates": "41.36429977416992, 2.1830101013183594",
+      "metar_available": false
     },
     {
       "ident": "LEPI",
@@ -5510,7 +6006,8 @@
       "iso_region": "ES-CM",
       "municipality": "Casas de los Pinos",
       "gps_code": "LEPI",
-      "coordinates": "39.298199, -2.37872"
+      "coordinates": "39.298199, -2.37872",
+      "metar_available": false
     },
     {
       "ident": "LEPJ",
@@ -5522,7 +6019,8 @@
       "iso_region": "ES-AR",
       "municipality": "Jaca",
       "gps_code": "LEPJ",
-      "coordinates": "42.716444, -0.300132"
+      "coordinates": "42.716444, -0.300132",
+      "metar_available": false
     },
     {
       "ident": "LEPP",
@@ -5535,7 +6033,8 @@
       "municipality": "Pamplona",
       "gps_code": "LEPP",
       "iata_code": "PNA",
-      "coordinates": "42.77, -1.64633"
+      "coordinates": "42.77, -1.64633",
+      "metar_available": true
     },
     {
       "ident": "LEPR",
@@ -5547,7 +6046,8 @@
       "iso_region": "ES-AN",
       "municipality": "Palma del Rio",
       "gps_code": "LEPR",
-      "coordinates": "37.714384, -5.215226"
+      "coordinates": "37.714384, -5.215226",
+      "metar_available": false
     },
     {
       "ident": "LEPS",
@@ -5559,7 +6059,8 @@
       "iso_region": "ES-CT",
       "municipality": "Reus",
       "gps_code": "LEPS",
-      "coordinates": "41.1859016418457, 1.1599199771881104"
+      "coordinates": "41.1859016418457, 1.1599199771881104",
+      "metar_available": false
     },
     {
       "ident": "LEPV",
@@ -5571,7 +6072,8 @@
       "iso_region": "ES-GA",
       "municipality": "Vivero",
       "gps_code": "LEPV",
-      "coordinates": "43.674801, -7.59523"
+      "coordinates": "43.674801, -7.59523",
+      "metar_available": false
     },
     {
       "ident": "LEPY",
@@ -5583,7 +6085,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LEPY",
-      "coordinates": "41.583499908447266, 2.5607900619506836"
+      "coordinates": "41.583499908447266, 2.5607900619506836",
+      "metar_available": false
     },
     {
       "ident": "LEPZ",
@@ -5595,7 +6098,8 @@
       "iso_region": "ES-CM",
       "municipality": "Los Pozuelos De Calatrava",
       "gps_code": "LEPZ",
-      "coordinates": "38.912201, -4.19111"
+      "coordinates": "38.912201, -4.19111",
+      "metar_available": false
     },
     {
       "ident": "LEQE",
@@ -5607,7 +6111,8 @@
       "iso_region": "ES-GA",
       "municipality": "Vigo",
       "gps_code": "LEQE",
-      "coordinates": "42.215543, -8.426442"
+      "coordinates": "42.215543, -8.426442",
+      "metar_available": false
     },
     {
       "ident": "LERA",
@@ -5619,7 +6124,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LERA",
-      "coordinates": "41.38330078125, 2.108330011367798"
+      "coordinates": "41.38330078125, 2.108330011367798",
+      "metar_available": false
     },
     {
       "ident": "LERB",
@@ -5631,7 +6137,8 @@
       "iso_region": "ES-CL",
       "municipality": "León",
       "gps_code": "LERB",
-      "coordinates": "42.480863, -6.272399"
+      "coordinates": "42.480863, -6.272399",
+      "metar_available": false
     },
     {
       "ident": "LERE",
@@ -5643,7 +6150,8 @@
       "iso_region": "ES-VC",
       "municipality": "Requena",
       "gps_code": "LERE",
-      "coordinates": "39.474701, -1.03444"
+      "coordinates": "39.474701, -1.03444",
+      "metar_available": false
     },
     {
       "ident": "LERG",
@@ -5655,7 +6163,8 @@
       "iso_region": "ES-CT",
       "municipality": "Berga",
       "gps_code": "LERG",
-      "coordinates": "42.104811, 1.85812"
+      "coordinates": "42.104811, 1.85812",
+      "metar_available": false
     },
     {
       "ident": "LERI",
@@ -5667,7 +6176,8 @@
       "iso_region": "ES-MC",
       "municipality": "Alcantarilla",
       "gps_code": "LERI",
-      "coordinates": "37.951099, -1.23032"
+      "coordinates": "37.951099, -1.23032",
+      "metar_available": true
     },
     {
       "ident": "LERL",
@@ -5679,7 +6189,8 @@
       "municipality": "Ciudad Real",
       "gps_code": "LERL",
       "iata_code": "CQM",
-      "coordinates": "38.856479, -3.969944"
+      "coordinates": "38.856479, -3.969944",
+      "metar_available": false
     },
     {
       "ident": "LERM",
@@ -5691,7 +6202,8 @@
       "iso_region": "ES-CM",
       "municipality": "Robledillo De Mohernando",
       "gps_code": "LERM",
-      "coordinates": "40.865299, -3.24778"
+      "coordinates": "40.865299, -3.24778",
+      "metar_available": false
     },
     {
       "ident": "LERO",
@@ -5703,7 +6215,8 @@
       "iso_region": "ES-GA",
       "municipality": "Lugo",
       "gps_code": "LERO",
-      "coordinates": "43.116901, -7.47028"
+      "coordinates": "43.116901, -7.47028",
+      "metar_available": false
     },
     {
       "ident": "LERP",
@@ -5715,7 +6228,8 @@
       "iso_region": "ES-CL",
       "municipality": "Herrera de Pisuerga",
       "gps_code": "LERP",
-      "coordinates": "42.5923, -4.2902"
+      "coordinates": "42.5923, -4.2902",
+      "metar_available": false
     },
     {
       "ident": "LERS",
@@ -5728,7 +6242,8 @@
       "municipality": "Reus",
       "gps_code": "LERS",
       "iata_code": "REU",
-      "coordinates": "41.1474, 1.16717"
+      "coordinates": "41.1474, 1.16717",
+      "metar_available": true
     },
     {
       "ident": "LERT",
@@ -5741,7 +6256,8 @@
       "municipality": "Rota",
       "gps_code": "LERT",
       "iata_code": "ROZ",
-      "coordinates": "36.645198822, -6.34946012497"
+      "coordinates": "36.645198822, -6.34946012497",
+      "metar_available": true
     },
     {
       "ident": "LERV",
@@ -5752,7 +6268,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "gps_code": "LERV",
-      "coordinates": "41.571999, 2.26203"
+      "coordinates": "41.571999, 2.26203",
+      "metar_available": false
     },
     {
       "ident": "LERY",
@@ -5764,7 +6281,8 @@
       "iso_region": "ES-MD",
       "municipality": "Móstoles",
       "gps_code": "LERY",
-      "coordinates": "40.340433, -3.86951"
+      "coordinates": "40.340433, -3.86951",
+      "metar_available": false
     },
     {
       "ident": "LESA",
@@ -5777,7 +6295,8 @@
       "municipality": "Salamanca",
       "gps_code": "LESA",
       "iata_code": "SLM",
-      "coordinates": "40.952099, -5.50199"
+      "coordinates": "40.952099, -5.50199",
+      "metar_available": true
     },
     {
       "ident": "LESB",
@@ -5789,7 +6308,8 @@
       "iso_region": "ES-IB",
       "municipality": "Marratxí",
       "gps_code": "LESB",
-      "coordinates": "39.5989, 2.70278"
+      "coordinates": "39.5989, 2.70278",
+      "metar_available": false
     },
     {
       "ident": "LESE",
@@ -5801,7 +6321,8 @@
       "iso_region": "ES-CM",
       "municipality": "Almodóvar del Campo",
       "gps_code": "LESE",
-      "coordinates": "38.730801, -4.31306"
+      "coordinates": "38.730801, -4.31306",
+      "metar_available": false
     },
     {
       "ident": "LESL",
@@ -5813,7 +6334,8 @@
       "iso_region": "ES-IB",
       "municipality": "Sant Lluis",
       "gps_code": "LESL",
-      "coordinates": "39.861878, 4.251739"
+      "coordinates": "39.861878, 4.251739",
+      "metar_available": false
     },
     {
       "ident": "LESO",
@@ -5826,7 +6348,8 @@
       "municipality": "Hondarribia",
       "gps_code": "LESO",
       "iata_code": "EAS",
-      "coordinates": "43.356499, -1.79061"
+      "coordinates": "43.356499, -1.79061",
+      "metar_available": true
     },
     {
       "ident": "LESP",
@@ -5838,7 +6361,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LESP",
-      "coordinates": "41.41350173950195, 2.1719601154327393"
+      "coordinates": "41.41350173950195, 2.1719601154327393",
+      "metar_available": false
     },
     {
       "ident": "LESS",
@@ -5850,7 +6374,8 @@
       "iso_region": "ES-CM",
       "municipality": "Sotos",
       "gps_code": "LESS",
-      "coordinates": "40.204201, -2.14389"
+      "coordinates": "40.204201, -2.14389",
+      "metar_available": false
     },
     {
       "ident": "LEST",
@@ -5863,7 +6388,8 @@
       "municipality": "Santiago de Compostela",
       "gps_code": "LEST",
       "iata_code": "SCQ",
-      "coordinates": "42.896301, -8.41514"
+      "coordinates": "42.896301, -8.41514",
+      "metar_available": true
     },
     {
       "ident": "LESU",
@@ -5876,7 +6402,8 @@
       "municipality": "La Seu d'Urgell Pyrenees and Andorra",
       "gps_code": "LESU",
       "iata_code": "LEU",
-      "coordinates": "42.3386, 1.40917"
+      "coordinates": "42.3386, 1.40917",
+      "metar_available": false
     },
     {
       "ident": "LETA",
@@ -5888,7 +6415,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LETA",
-      "coordinates": "41.57400131225586, 2.257159948348999"
+      "coordinates": "41.57400131225586, 2.257159948348999",
+      "metar_available": false
     },
     {
       "ident": "LETB",
@@ -5900,7 +6428,8 @@
       "iso_region": "ES-CL",
       "municipality": "León",
       "gps_code": "LETB",
-      "coordinates": "42.295518, -6.214514"
+      "coordinates": "42.295518, -6.214514",
+      "metar_available": false
     },
     {
       "ident": "LETC",
@@ -5912,7 +6441,8 @@
       "iso_region": "ES-CL",
       "municipality": "Valladolid",
       "gps_code": "LETC",
-      "coordinates": "41.530602, -4.925"
+      "coordinates": "41.530602, -4.925",
+      "metar_available": false
     },
     {
       "ident": "LETE",
@@ -5924,7 +6454,8 @@
       "iso_region": "ES-EX",
       "municipality": "Badajoz",
       "gps_code": "LETE",
-      "coordinates": "39.0369, -6.69056"
+      "coordinates": "39.0369, -6.69056",
+      "metar_available": false
     },
     {
       "ident": "LETF",
@@ -5936,7 +6467,8 @@
       "iso_region": "ES-AN",
       "municipality": "Villamartin",
       "gps_code": "LETF",
-      "coordinates": "36.871793, -5.648775"
+      "coordinates": "36.871793, -5.648775",
+      "metar_available": false
     },
     {
       "ident": "LETI",
@@ -5948,7 +6480,8 @@
       "iso_region": "ES-CM",
       "municipality": "La Iglesuela",
       "gps_code": "LETI",
-      "coordinates": "40.2439, -4.79444"
+      "coordinates": "40.2439, -4.79444",
+      "metar_available": false
     },
     {
       "ident": "LETK",
@@ -5960,7 +6493,8 @@
       "iso_region": "ES-CT",
       "municipality": "Barcelona",
       "gps_code": "LETK",
-      "coordinates": "41.406624, 2.127997"
+      "coordinates": "41.406624, 2.127997",
+      "metar_available": false
     },
     {
       "ident": "LETL",
@@ -5973,7 +6507,8 @@
       "municipality": "Teruel",
       "gps_code": "LETL",
       "iata_code": "TEV",
-      "coordinates": "40.410269, -1.217366"
+      "coordinates": "40.410269, -1.217366",
+      "metar_available": true
     },
     {
       "ident": "LETM",
@@ -5984,7 +6519,8 @@
       "iso_country": "ES",
       "iso_region": "ES-CT",
       "gps_code": "LETM",
-      "coordinates": "42.015499114990234, 2.3192501068115234"
+      "coordinates": "42.015499114990234, 2.3192501068115234",
+      "metar_available": false
     },
     {
       "ident": "LETO",
@@ -5997,7 +6533,8 @@
       "municipality": "Madrid",
       "gps_code": "LETO",
       "iata_code": "TOJ",
-      "coordinates": "40.487875, -3.456808"
+      "coordinates": "40.487875, -3.456808",
+      "metar_available": true
     },
     {
       "ident": "LETP",
@@ -6009,7 +6546,8 @@
       "iso_region": "ES-CL",
       "municipality": "Segovia",
       "gps_code": "LETP",
-      "coordinates": "41.204201, -3.59472"
+      "coordinates": "41.204201, -3.59472",
+      "metar_available": false
     },
     {
       "ident": "LETR",
@@ -6021,7 +6559,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tremp",
       "gps_code": "LETR",
-      "coordinates": "42.16939926147461, 0.8927779793739319"
+      "coordinates": "42.16939926147461, 0.8927779793739319",
+      "metar_available": false
     },
     {
       "ident": "LETS",
@@ -6033,7 +6572,8 @@
       "iso_region": "ES-MD",
       "municipality": "Madrid",
       "gps_code": "LETS",
-      "coordinates": "40.44982914369999, -3.69314432144"
+      "coordinates": "40.44982914369999, -3.69314432144",
+      "metar_available": false
     },
     {
       "ident": "LETT",
@@ -6045,7 +6585,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tortosa",
       "gps_code": "LETT",
-      "coordinates": "40.811292, 0.523354"
+      "coordinates": "40.811292, 0.523354",
+      "metar_available": false
     },
     {
       "ident": "LETV",
@@ -6057,7 +6598,8 @@
       "iso_region": "ES-CT",
       "municipality": "Tirvia",
       "gps_code": "LETV",
-      "coordinates": "42.518799, 1.24231"
+      "coordinates": "42.518799, 1.24231",
+      "metar_available": false
     },
     {
       "ident": "LETZ",
@@ -6069,7 +6611,8 @@
       "iso_region": "ES-CL",
       "municipality": "Valladolid",
       "gps_code": "LETZ",
-      "coordinates": "41.785301, -4.86473"
+      "coordinates": "41.785301, -4.86473",
+      "metar_available": false
     },
     {
       "ident": "LEUL",
@@ -6081,7 +6624,8 @@
       "iso_region": "ES-CT",
       "municipality": "Ullastrell",
       "gps_code": "LEUL",
-      "coordinates": "41.52429962158203, 1.9715800285339355"
+      "coordinates": "41.52429962158203, 1.9715800285339355",
+      "metar_available": false
     },
     {
       "ident": "LEVB",
@@ -6093,7 +6637,8 @@
       "iso_region": "ES-CL",
       "municipality": "Valladolid",
       "gps_code": "LEVB",
-      "coordinates": "41.824699, -4.89306"
+      "coordinates": "41.824699, -4.89306",
+      "metar_available": false
     },
     {
       "ident": "LEVC",
@@ -6106,7 +6651,8 @@
       "municipality": "Valencia",
       "gps_code": "LEVC",
       "iata_code": "VLC",
-      "coordinates": "39.4893, -0.481625"
+      "coordinates": "39.4893, -0.481625",
+      "metar_available": true
     },
     {
       "ident": "LEVD",
@@ -6119,7 +6665,8 @@
       "municipality": "Valladolid",
       "gps_code": "LEVD",
       "iata_code": "VLL",
-      "coordinates": "41.7061, -4.85194"
+      "coordinates": "41.7061, -4.85194",
+      "metar_available": true
     },
     {
       "ident": "LEVE",
@@ -6131,7 +6678,8 @@
       "iso_region": "ES-EX",
       "municipality": "Zafra",
       "gps_code": "LEVE",
-      "coordinates": "38.4205555556, -6.3569444444"
+      "coordinates": "38.4205555556, -6.3569444444",
+      "metar_available": false
     },
     {
       "ident": "LEVF",
@@ -6143,7 +6691,8 @@
       "iso_region": "ES-GA",
       "municipality": "Lugo",
       "gps_code": "LEVF",
-      "coordinates": "43.552502, -7.08778"
+      "coordinates": "43.552502, -7.08778",
+      "metar_available": false
     },
     {
       "ident": "LEVH",
@@ -6155,7 +6704,8 @@
       "iso_region": "ES-CT",
       "municipality": "Carrèr deth Taro, Vielha",
       "gps_code": "LEVH",
-      "coordinates": "42.697126, 0.801571"
+      "coordinates": "42.697126, 0.801571",
+      "metar_available": false
     },
     {
       "ident": "LEVO",
@@ -6167,7 +6717,8 @@
       "iso_region": "ES-CM",
       "municipality": "Villahermosa",
       "gps_code": "LEVO",
-      "coordinates": "38.750938, -2.842076"
+      "coordinates": "38.750938, -2.842076",
+      "metar_available": false
     },
     {
       "ident": "LEVR",
@@ -6178,7 +6729,8 @@
       "iso_country": "ES",
       "iso_region": "ES-AR",
       "gps_code": "LEVR",
-      "coordinates": "42.3046989440918, 0.7130560278892517"
+      "coordinates": "42.3046989440918, 0.7130560278892517",
+      "metar_available": false
     },
     {
       "ident": "LEVT",
@@ -6191,7 +6743,8 @@
       "municipality": "Alava",
       "gps_code": "LEVT",
       "iata_code": "VIT",
-      "coordinates": "42.882801, -2.72447"
+      "coordinates": "42.882801, -2.72447",
+      "metar_available": true
     },
     {
       "ident": "LEVX",
@@ -6204,7 +6757,8 @@
       "municipality": "Vigo",
       "gps_code": "LEVX",
       "iata_code": "VGO",
-      "coordinates": "42.2318, -8.62677"
+      "coordinates": "42.2318, -8.62677",
+      "metar_available": true
     },
     {
       "ident": "LEXE",
@@ -6216,7 +6770,8 @@
       "iso_region": "ES-CT",
       "municipality": "Sabadell",
       "gps_code": "LEXE",
-      "coordinates": "41.553818, 2.066398"
+      "coordinates": "41.553818, 2.066398",
+      "metar_available": false
     },
     {
       "ident": "LEXJ",
@@ -6229,7 +6784,8 @@
       "municipality": "Santander",
       "gps_code": "LEXJ",
       "iata_code": "SDR",
-      "coordinates": "43.427101, -3.82001"
+      "coordinates": "43.427101, -3.82001",
+      "metar_available": true
     },
     {
       "ident": "LEZA",
@@ -6241,7 +6797,8 @@
       "iso_region": "ES-GA",
       "municipality": "Verín",
       "gps_code": "LEZA",
-      "coordinates": "42.069044, -7.474941"
+      "coordinates": "42.069044, -7.474941",
+      "metar_available": false
     },
     {
       "ident": "LEZG",
@@ -6254,7 +6811,8 @@
       "municipality": "Zaragoza",
       "gps_code": "LEZG",
       "iata_code": "ZAZ",
-      "coordinates": "41.666199, -1.04155"
+      "coordinates": "41.666199, -1.04155",
+      "metar_available": true
     },
     {
       "ident": "LEZL",
@@ -6267,7 +6825,8 @@
       "municipality": "Sevilla",
       "gps_code": "LEZL",
       "iata_code": "SVQ",
-      "coordinates": "37.417999, -5.89311"
+      "coordinates": "37.417999, -5.89311",
+      "metar_available": true
     },
     {
       "ident": "LEZO",
@@ -6279,7 +6838,8 @@
       "iso_region": "ES-MD",
       "municipality": "C. del Altillo",
       "gps_code": "LEZO",
-      "coordinates": "40.93602, -3.62504"
+      "coordinates": "40.93602, -3.62504",
+      "metar_available": false
     }
   ]
 }

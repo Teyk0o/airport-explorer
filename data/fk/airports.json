@@ -2,7 +2,7 @@
   "country_code": "FK",
   "country_name": "Falkland Islands",
   "total_airports": 39,
-  "last_updated": "2025-08-01T00:18:22.683623",
+  "last_updated": "2025-08-25T10:08:40.824917",
   "types_distribution": {
     "medium_airport": 2,
     "small_airport": 32,
@@ -20,7 +20,8 @@
       "municipality": "Mount Pleasant",
       "gps_code": "EGYP",
       "iata_code": "MPN",
-      "coordinates": "-51.82279968261719, -58.447200775146484"
+      "coordinates": "-51.82279968261719, -58.447200775146484",
+      "metar_available": false
     },
     {
       "ident": "FK-0001",
@@ -30,7 +31,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Fox Bay",
-      "coordinates": "-51.933694, -60.061595"
+      "coordinates": "-51.933694, -60.061595",
+      "metar_available": false
     },
     {
       "ident": "FK-0002",
@@ -40,7 +42,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Pebble Island Settlement",
-      "coordinates": "-51.30978775024414, -59.60877227783203"
+      "coordinates": "-51.30978775024414, -59.60877227783203",
+      "metar_available": false
     },
     {
       "ident": "FK-0003",
@@ -50,7 +53,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Sea Lion Island",
-      "coordinates": "-52.428215, -59.077744"
+      "coordinates": "-52.428215, -59.077744",
+      "metar_available": false
     },
     {
       "ident": "FK-0004",
@@ -60,7 +64,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "West Point Island",
-      "coordinates": "-51.345611572265625, -60.6839714050293"
+      "coordinates": "-51.345611572265625, -60.6839714050293",
+      "metar_available": false
     },
     {
       "ident": "FK-0005",
@@ -70,7 +75,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Goose Green",
-      "coordinates": "-51.819282, -58.980893"
+      "coordinates": "-51.819282, -58.980893",
+      "metar_available": false
     },
     {
       "ident": "FK-0006",
@@ -80,7 +86,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Roy Cove",
-      "coordinates": "-51.539398193359375, -60.35639953613281"
+      "coordinates": "-51.539398193359375, -60.35639953613281",
+      "metar_available": false
     },
     {
       "ident": "FK-0007",
@@ -90,7 +97,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Spring Point Settlement",
-      "coordinates": "-51.82929992675781, -60.45140075683594"
+      "coordinates": "-51.82929992675781, -60.45140075683594",
+      "metar_available": false
     },
     {
       "ident": "FK-0008",
@@ -100,7 +108,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Port San Carlos",
-      "coordinates": "-51.50166702270508, -59.00361251831055"
+      "coordinates": "-51.50166702270508, -59.00361251831055",
+      "metar_available": false
     },
     {
       "ident": "FK-0009",
@@ -110,7 +119,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Port Howard Settlement",
-      "coordinates": "-51.5681, -59.533699"
+      "coordinates": "-51.5681, -59.533699",
+      "metar_available": false
     },
     {
       "ident": "FK-0010",
@@ -120,7 +130,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Saunders Island Settlement",
-      "coordinates": "-51.37810134887695, -60.091609954833984"
+      "coordinates": "-51.37810134887695, -60.091609954833984",
+      "metar_available": false
     },
     {
       "ident": "FK-0011",
@@ -130,7 +141,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Carcass Island",
-      "coordinates": "-51.263671875, -60.592079162597656"
+      "coordinates": "-51.263671875, -60.592079162597656",
+      "metar_available": false
     },
     {
       "ident": "FK-0012",
@@ -140,7 +152,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Port Stephens",
-      "coordinates": "-52.09473, -60.852379"
+      "coordinates": "-52.09473, -60.852379",
+      "metar_available": false
     },
     {
       "ident": "FK-0013",
@@ -150,7 +163,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Port Abermarle",
-      "coordinates": "-52.205532, -60.535062"
+      "coordinates": "-52.205532, -60.535062",
+      "metar_available": false
     },
     {
       "ident": "FK-0014",
@@ -160,7 +174,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Dunnose Head",
-      "coordinates": "-51.753339, -60.415834"
+      "coordinates": "-51.753339, -60.415834",
+      "metar_available": false
     },
     {
       "ident": "FK-0015",
@@ -170,7 +185,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Shallow Harbour",
-      "coordinates": "-51.755735, -60.534498"
+      "coordinates": "-51.755735, -60.534498",
+      "metar_available": false
     },
     {
       "ident": "FK-0016",
@@ -180,7 +196,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Hill Cove",
-      "coordinates": "-51.504427, -60.144435"
+      "coordinates": "-51.504427, -60.144435",
+      "metar_available": false
     },
     {
       "ident": "FK-0017",
@@ -190,7 +207,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Chartres",
-      "coordinates": "-51.719307, -60.062361"
+      "coordinates": "-51.719307, -60.062361",
+      "metar_available": false
     },
     {
       "ident": "FK-0018",
@@ -200,7 +218,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "New Island",
-      "coordinates": "-51.746491, -61.281616"
+      "coordinates": "-51.746491, -61.281616",
+      "metar_available": false
     },
     {
       "ident": "FK-0019",
@@ -210,7 +229,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "North Arm",
-      "coordinates": "-52.123295, -59.370239"
+      "coordinates": "-52.123295, -59.370239",
+      "metar_available": false
     },
     {
       "ident": "FK-0020",
@@ -220,7 +240,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Salvador",
-      "coordinates": "-51.436639, -58.378874"
+      "coordinates": "-51.436639, -58.378874",
+      "metar_available": false
     },
     {
       "ident": "FK-0021",
@@ -230,7 +251,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "San Carlos",
-      "coordinates": "-51.575581, -59.041846"
+      "coordinates": "-51.575581, -59.041846",
+      "metar_available": false
     },
     {
       "ident": "FK-0022",
@@ -240,7 +262,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Lively",
-      "coordinates": "-51.995626, -58.459238"
+      "coordinates": "-51.995626, -58.459238",
+      "metar_available": false
     },
     {
       "ident": "FK-0023",
@@ -250,7 +273,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "George Island House",
-      "coordinates": "-52.349583, -59.758717"
+      "coordinates": "-52.349583, -59.758717",
+      "metar_available": false
     },
     {
       "ident": "FK-0024",
@@ -260,7 +284,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Douglas",
-      "coordinates": "-51.459942, -58.612131"
+      "coordinates": "-51.459942, -58.612131",
+      "metar_available": false
     },
     {
       "ident": "FK-0025",
@@ -270,7 +295,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Walker Creek",
-      "coordinates": "-51.964171, -58.787408"
+      "coordinates": "-51.964171, -58.787408",
+      "metar_available": false
     },
     {
       "ident": "FK-0026",
@@ -280,7 +306,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Speedwell Island",
-      "coordinates": "-52.2299, -59.744502"
+      "coordinates": "-52.2299, -59.744502",
+      "metar_available": false
     },
     {
       "ident": "FK-0027",
@@ -290,7 +317,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Bleaker Island",
-      "coordinates": "-52.181403, -58.858788"
+      "coordinates": "-52.181403, -58.858788",
+      "metar_available": false
     },
     {
       "ident": "FK-0028",
@@ -300,7 +328,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Weddell Island",
-      "coordinates": "-51.875659, -60.90601"
+      "coordinates": "-51.875659, -60.90601",
+      "metar_available": false
     },
     {
       "ident": "FK-0029",
@@ -310,7 +339,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Beaver Island",
-      "coordinates": "-51.84025, -61.23365"
+      "coordinates": "-51.84025, -61.23365",
+      "metar_available": false
     },
     {
       "ident": "FK-0030",
@@ -320,7 +350,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Golding Island",
-      "coordinates": "-51.365478, -59.691389"
+      "coordinates": "-51.365478, -59.691389",
+      "metar_available": false
     },
     {
       "ident": "FK-0031",
@@ -330,7 +361,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Dunbar",
-      "coordinates": "-51.420879, -60.422927"
+      "coordinates": "-51.420879, -60.422927",
+      "metar_available": false
     },
     {
       "ident": "FK-0032",
@@ -341,7 +373,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Port Edgar",
-      "coordinates": "-52.090803, -60.282682"
+      "coordinates": "-52.090803, -60.282682",
+      "metar_available": false
     },
     {
       "ident": "FK-0033",
@@ -351,7 +384,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Port Howard",
-      "coordinates": "-51.613225, -59.516675"
+      "coordinates": "-51.613225, -59.516675",
+      "metar_available": false
     },
     {
       "ident": "FK-0034",
@@ -361,7 +395,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Sea Lion Island",
-      "coordinates": "-52.441146, -59.127616"
+      "coordinates": "-52.441146, -59.127616",
+      "metar_available": false
     },
     {
       "ident": "FK-0035",
@@ -371,7 +406,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Fox Bay East",
-      "coordinates": "-51.955049, -60.06315"
+      "coordinates": "-51.955049, -60.06315",
+      "metar_available": false
     },
     {
       "ident": "FK-0036",
@@ -382,7 +418,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Pebble Island",
-      "coordinates": "-51.310931, -59.566162"
+      "coordinates": "-51.310931, -59.566162",
+      "metar_available": false
     },
     {
       "ident": "FK-0037",
@@ -393,7 +430,8 @@
       "iso_country": "FK",
       "iso_region": "FK-U-A",
       "municipality": "Fox Bay East",
-      "coordinates": "-51.948893, -60.066041"
+      "coordinates": "-51.948893, -60.066041",
+      "metar_available": false
     },
     {
       "ident": "SFAL",
@@ -406,7 +444,8 @@
       "municipality": "Stanley",
       "gps_code": "SFAL",
       "iata_code": "PSY",
-      "coordinates": "-51.685699462891, -57.777599334717"
+      "coordinates": "-51.685699462891, -57.777599334717",
+      "metar_available": false
     }
   ]
 }

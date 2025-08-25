@@ -2,7 +2,7 @@
   "country_code": "HT",
   "country_name": "Haiti",
   "total_airports": 22,
-  "last_updated": "2025-08-01T00:18:22.749668",
+  "last_updated": "2025-08-25T10:08:40.896086",
   "types_distribution": {
     "closed": 3,
     "small_airport": 11,
@@ -19,7 +19,8 @@
       "iso_country": "HT",
       "iso_region": "HT-OU",
       "municipality": "Port-au-Prince",
-      "coordinates": "18.560801, -72.327797"
+      "coordinates": "18.560801, -72.327797",
+      "metar_available": false
     },
     {
       "ident": "HT-0002",
@@ -29,7 +30,8 @@
       "iso_country": "HT",
       "iso_region": "HT-OU",
       "municipality": "Anse-a-Galets",
-      "coordinates": "18.841212, -72.880232"
+      "coordinates": "18.841212, -72.880232",
+      "metar_available": false
     },
     {
       "ident": "HT-0003",
@@ -38,7 +40,8 @@
       "iso_country": "HT",
       "iso_region": "HT-CE",
       "municipality": "Hinche",
-      "coordinates": "19.13874, -72.016"
+      "coordinates": "19.13874, -72.016",
+      "metar_available": false
     },
     {
       "ident": "HT-0004",
@@ -47,7 +50,8 @@
       "iso_country": "HT",
       "iso_region": "HT-SD",
       "municipality": "Pradel",
-      "coordinates": "18.07058, -73.59194"
+      "coordinates": "18.07058, -73.59194",
+      "metar_available": false
     },
     {
       "ident": "HT-0005",
@@ -56,7 +60,8 @@
       "iso_country": "HT",
       "iso_region": "HT-AR",
       "municipality": "Anse-Rouge",
-      "coordinates": "19.66631, -73.07227"
+      "coordinates": "19.66631, -73.07227",
+      "metar_available": false
     },
     {
       "ident": "HT-0006",
@@ -65,7 +70,8 @@
       "iso_country": "HT",
       "iso_region": "HT-CE",
       "municipality": "Belladère",
-      "coordinates": "18.85264, -71.8171"
+      "coordinates": "18.85264, -71.8171",
+      "metar_available": false
     },
     {
       "ident": "HT-0007",
@@ -75,7 +81,8 @@
       "iso_region": "HT-GA",
       "municipality": "Dame-Marie",
       "local_code": "DMM",
-      "coordinates": "18.616667, -74.416667"
+      "coordinates": "18.616667, -74.416667",
+      "metar_available": false
     },
     {
       "ident": "HT-0008",
@@ -84,7 +91,8 @@
       "iso_country": "HT",
       "iso_region": "HT-SD",
       "municipality": "Fond-des-Blancs",
-      "coordinates": "18.286235, -73.111922"
+      "coordinates": "18.286235, -73.111922",
+      "metar_available": false
     },
     {
       "ident": "HT-0009",
@@ -94,7 +102,8 @@
       "iso_country": "HT",
       "iso_region": "HT-NO",
       "municipality": "Môle-Saint-Nicolas",
-      "coordinates": "19.834269, -73.358116"
+      "coordinates": "19.834269, -73.358116",
+      "metar_available": false
     },
     {
       "ident": "HT-0010",
@@ -104,7 +113,8 @@
       "iso_region": "HT-NE",
       "municipality": "Ouanaminthe",
       "local_code": "OAN",
-      "coordinates": "19.5375, -71.72861"
+      "coordinates": "19.5375, -71.72861",
+      "metar_available": false
     },
     {
       "ident": "HT-0011",
@@ -114,7 +124,8 @@
       "iso_region": "HT-NE",
       "municipality": "Phaeton",
       "local_code": "FLT",
-      "coordinates": "19.68055, -71.90555"
+      "coordinates": "19.68055, -71.90555",
+      "metar_available": false
     },
     {
       "ident": "HT-0012",
@@ -123,7 +134,8 @@
       "iso_country": "HT",
       "iso_region": "HT-ND",
       "municipality": "Pignon",
-      "coordinates": "19.32361, -72.11666"
+      "coordinates": "19.32361, -72.11666",
+      "metar_available": false
     },
     {
       "ident": "HT-0013",
@@ -132,7 +144,8 @@
       "iso_country": "HT",
       "iso_region": "HT-SD",
       "municipality": "Port-Salut",
-      "coordinates": "18.06444, -73.9125"
+      "coordinates": "18.06444, -73.9125",
+      "metar_available": false
     },
     {
       "ident": "HT-0014",
@@ -142,7 +155,8 @@
       "iso_country": "HT",
       "iso_region": "HT-NO",
       "municipality": "Pointe Ti Bois",
-      "coordinates": "20.055979, -72.948623"
+      "coordinates": "20.055979, -72.948623",
+      "metar_available": false
     },
     {
       "ident": "HT-0015",
@@ -151,7 +165,8 @@
       "iso_country": "HT",
       "iso_region": "HT-SD",
       "municipality": "Cacor",
-      "coordinates": "18.09656, -73.70234"
+      "coordinates": "18.09656, -73.70234",
+      "metar_available": false
     },
     {
       "ident": "HT-0016",
@@ -160,7 +175,8 @@
       "iso_country": "HT",
       "iso_region": "HT-OU",
       "municipality": "Saint-Pierre, Cornillon",
-      "coordinates": "18.65379, -71.87102"
+      "coordinates": "18.65379, -71.87102",
+      "metar_available": false
     },
     {
       "ident": "MTCA",
@@ -172,7 +188,8 @@
       "municipality": "Les Cayes",
       "gps_code": "MTCA",
       "iata_code": "CYA",
-      "coordinates": "18.271099, -73.7883"
+      "coordinates": "18.271099, -73.7883",
+      "metar_available": false
     },
     {
       "ident": "MTCH",
@@ -184,7 +201,8 @@
       "municipality": "Cap Haitien",
       "gps_code": "MTCH",
       "iata_code": "CAP",
-      "coordinates": "19.726734, -72.199576"
+      "coordinates": "19.726734, -72.199576",
+      "metar_available": false
     },
     {
       "ident": "MTJA",
@@ -196,7 +214,8 @@
       "municipality": "Jacmel",
       "gps_code": "MTJA",
       "iata_code": "JAK",
-      "coordinates": "18.2411, -72.518501"
+      "coordinates": "18.2411, -72.518501",
+      "metar_available": false
     },
     {
       "ident": "MTJE",
@@ -208,7 +227,8 @@
       "municipality": "Carrefour Sanon",
       "gps_code": "MTJE",
       "iata_code": "JEE",
-      "coordinates": "18.663099, -74.170303"
+      "coordinates": "18.663099, -74.170303",
+      "metar_available": false
     },
     {
       "ident": "MTPP",
@@ -220,7 +240,8 @@
       "municipality": "Port-au-Prince",
       "gps_code": "MTPP",
       "iata_code": "PAP",
-      "coordinates": "18.580023, -72.292596"
+      "coordinates": "18.580023, -72.292596",
+      "metar_available": false
     },
     {
       "ident": "MTPX",
@@ -232,7 +253,8 @@
       "municipality": "Port-de-Paix",
       "gps_code": "MTPX",
       "iata_code": "PAX",
-      "coordinates": "19.934045, -72.84801"
+      "coordinates": "19.934045, -72.84801",
+      "metar_available": false
     }
   ]
 }

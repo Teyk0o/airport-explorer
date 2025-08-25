@@ -2,7 +2,7 @@
   "country_code": "BB",
   "country_name": "Barbados",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.851998",
+  "last_updated": "2025-08-25T10:08:41.008277",
   "types_distribution": {
     "medium_airport": 1,
     "heliport": 1
@@ -18,7 +18,8 @@
       "municipality": "Bridgetown",
       "gps_code": "TBPB",
       "iata_code": "BGI",
-      "coordinates": "13.0746, -59.4925"
+      "coordinates": "13.0746, -59.4925",
+      "metar_available": false
     },
     {
       "ident": "TBPO",
@@ -27,7 +28,8 @@
       "iso_country": "BB",
       "iso_region": "BB-08",
       "gps_code": "TBPO",
-      "coordinates": "13.095833, -59.618611"
+      "coordinates": "13.095833, -59.618611",
+      "metar_available": false
     }
   ]
 }

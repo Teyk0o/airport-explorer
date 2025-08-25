@@ -2,7 +2,7 @@
   "country_code": "BM",
   "country_name": "Bermuda",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.494785",
+  "last_updated": "2025-08-25T10:08:40.625993",
   "types_distribution": {
     "closed": 3,
     "medium_airport": 1
@@ -15,7 +15,8 @@
       "iso_country": "BM",
       "iso_region": "BM-U-A",
       "municipality": "Sandys",
-      "coordinates": "32.320801, -64.841103"
+      "coordinates": "32.320801, -64.841103",
+      "metar_available": false
     },
     {
       "ident": "BM-0002",
@@ -24,7 +25,8 @@
       "iso_country": "BM",
       "iso_region": "BM-U-A",
       "municipality": "Sandys",
-      "coordinates": "32.269871, -64.851616"
+      "coordinates": "32.269871, -64.851616",
+      "metar_available": false
     },
     {
       "ident": "BM-0003",
@@ -33,7 +35,8 @@
       "iso_country": "BM",
       "iso_region": "BM-U-A",
       "municipality": "Warwick",
-      "coordinates": "32.27513, -64.81915"
+      "coordinates": "32.27513, -64.81915",
+      "metar_available": false
     },
     {
       "ident": "TXKF",
@@ -45,7 +48,8 @@
       "municipality": "Hamilton",
       "gps_code": "TXKF",
       "iata_code": "BDA",
-      "coordinates": "32.363998, -64.678703"
+      "coordinates": "32.363998, -64.678703",
+      "metar_available": false
     }
   ]
 }

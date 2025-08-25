@@ -2,7 +2,7 @@
   "country_code": "AW",
   "country_name": "Aruba",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.442975",
+  "last_updated": "2025-08-25T10:08:40.569975",
   "types_distribution": {
     "closed": 3,
     "large_airport": 1
@@ -15,7 +15,8 @@
       "iso_country": "AW",
       "iso_region": "AW-U-A",
       "municipality": "Savaneta",
-      "coordinates": "12.452124, -69.953427"
+      "coordinates": "12.452124, -69.953427",
+      "metar_available": false
     },
     {
       "ident": "AW-0002",
@@ -24,7 +25,8 @@
       "iso_country": "AW",
       "iso_region": "AW-U-A",
       "municipality": "San Nicolas",
-      "coordinates": "12.454544, -69.887499"
+      "coordinates": "12.454544, -69.887499",
+      "metar_available": false
     },
     {
       "ident": "AW-0003",
@@ -33,7 +35,8 @@
       "iso_country": "AW",
       "iso_region": "AW-U-A",
       "municipality": "San Nicolas",
-      "coordinates": "12.4385, -69.88641"
+      "coordinates": "12.4385, -69.88641",
+      "metar_available": false
     },
     {
       "ident": "TNCA",
@@ -45,7 +48,8 @@
       "municipality": "Oranjestad",
       "gps_code": "TNCA",
       "iata_code": "AUA",
-      "coordinates": "12.5014, -70.015198"
+      "coordinates": "12.5014, -70.015198",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "PY",
   "country_name": "Paraguay",
   "total_airports": 119,
-  "last_updated": "2025-08-01T00:18:22.842711",
+  "last_updated": "2025-08-25T10:08:40.998182",
   "types_distribution": {
     "small_airport": 70,
     "medium_airport": 9,
@@ -20,7 +20,8 @@
       "iso_country": "PY",
       "iso_region": "PY-4",
       "municipality": "Iturbe",
-      "coordinates": "-26.063066, -56.493378"
+      "coordinates": "-26.063066, -56.493378",
+      "metar_available": false
     },
     {
       "ident": "PY-0002",
@@ -32,7 +33,8 @@
       "iso_region": "PY-5",
       "municipality": "Coronel Oviedo",
       "gps_code": "SGOV",
-      "coordinates": "-25.517347, -56.406555"
+      "coordinates": "-25.517347, -56.406555",
+      "metar_available": false
     },
     {
       "ident": "PY-0003",
@@ -43,7 +45,8 @@
       "iso_country": "PY",
       "iso_region": "PY-3",
       "municipality": "Isla Pucu",
-      "coordinates": "-25.298498, -56.901884"
+      "coordinates": "-25.298498, -56.901884",
+      "metar_available": false
     },
     {
       "ident": "PY-0004",
@@ -54,7 +57,8 @@
       "iso_country": "PY",
       "iso_region": "PY-5",
       "municipality": "Nueva Londres",
-      "coordinates": "-25.40757, -56.554098"
+      "coordinates": "-25.40757, -56.554098",
+      "metar_available": false
     },
     {
       "ident": "PY-0005",
@@ -65,7 +69,8 @@
       "iso_country": "PY",
       "iso_region": "PY-5",
       "municipality": "Nueva Australia",
-      "coordinates": "-25.42, -56.57"
+      "coordinates": "-25.42, -56.57",
+      "metar_available": false
     },
     {
       "ident": "PY-0006",
@@ -76,7 +81,8 @@
       "iso_country": "PY",
       "iso_region": "PY-16",
       "municipality": "Puerto Guaraní",
-      "coordinates": "-21.274458, -57.925254"
+      "coordinates": "-21.274458, -57.925254",
+      "metar_available": false
     },
     {
       "ident": "PY-0007",
@@ -87,7 +93,8 @@
       "iso_country": "PY",
       "iso_region": "PY-16",
       "municipality": "Porto María",
-      "coordinates": "-21.550106, -57.969028"
+      "coordinates": "-21.550106, -57.969028",
+      "metar_available": false
     },
     {
       "ident": "PY-0008",
@@ -98,7 +105,8 @@
       "iso_country": "PY",
       "iso_region": "PY-16",
       "municipality": "Colonia Carmelo Peralta",
-      "coordinates": "-21.681, -57.912498"
+      "coordinates": "-21.681, -57.912498",
+      "metar_available": false
     },
     {
       "ident": "PY-0009",
@@ -109,7 +117,8 @@
       "iso_country": "PY",
       "iso_region": "PY-16",
       "municipality": "Puerto La Esperanza",
-      "coordinates": "-22.037316, -58.012565"
+      "coordinates": "-22.037316, -58.012565",
+      "metar_available": false
     },
     {
       "ident": "PY-0010",
@@ -120,7 +129,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Puerto Risso",
-      "coordinates": "-22.373204, -57.81655"
+      "coordinates": "-22.373204, -57.81655",
+      "metar_available": false
     },
     {
       "ident": "PY-0011",
@@ -131,7 +141,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Puerto Alegre",
-      "coordinates": "-22.446919, -57.832975"
+      "coordinates": "-22.446919, -57.832975",
+      "metar_available": false
     },
     {
       "ident": "PY-0012",
@@ -142,7 +153,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Puerto Calera",
-      "coordinates": "-22.541753, -57.825508"
+      "coordinates": "-22.541753, -57.825508",
+      "metar_available": false
     },
     {
       "ident": "PY-0013",
@@ -153,7 +165,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Puerto Max",
-      "coordinates": "-22.630302, -57.770469"
+      "coordinates": "-22.630302, -57.770469",
+      "metar_available": false
     },
     {
       "ident": "PY-0014",
@@ -164,7 +177,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Puerto Itapucu",
-      "coordinates": "-22.678639, -57.909708"
+      "coordinates": "-22.678639, -57.909708",
+      "metar_available": false
     },
     {
       "ident": "PY-0015",
@@ -175,7 +189,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Puerto Abente",
-      "coordinates": "-22.945422, -57.792163"
+      "coordinates": "-22.945422, -57.792163",
+      "metar_available": false
     },
     {
       "ident": "PY-0016",
@@ -186,7 +201,8 @@
       "iso_country": "PY",
       "iso_region": "PY-15",
       "municipality": "Puerto Boqueron",
-      "coordinates": "-23.976944, -57.245915"
+      "coordinates": "-23.976944, -57.245915",
+      "metar_available": false
     },
     {
       "ident": "PY-0017",
@@ -197,7 +213,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Puerto Michu",
-      "coordinates": "-24.135367, -57.284914"
+      "coordinates": "-24.135367, -57.284914",
+      "metar_available": false
     },
     {
       "ident": "PY-0018",
@@ -208,7 +225,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Rosario",
-      "coordinates": "-24.612863, -57.149463"
+      "coordinates": "-24.612863, -57.149463",
+      "metar_available": false
     },
     {
       "ident": "PY-0019",
@@ -219,7 +237,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Villa Rey",
-      "coordinates": "-24.688288, -57.230937"
+      "coordinates": "-24.688288, -57.230937",
+      "metar_available": false
     },
     {
       "ident": "PY-0020",
@@ -230,7 +249,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Santa Clara",
-      "coordinates": "-25.663906, -57.664833"
+      "coordinates": "-25.663906, -57.664833",
+      "metar_available": false
     },
     {
       "ident": "PY-0021",
@@ -241,7 +261,8 @@
       "iso_country": "PY",
       "iso_region": "PY-12",
       "municipality": "Estancia Herradura",
-      "coordinates": "-26.493698, -58.20547"
+      "coordinates": "-26.493698, -58.20547",
+      "metar_available": false
     },
     {
       "ident": "PY-0022",
@@ -252,7 +273,8 @@
       "iso_country": "PY",
       "iso_region": "PY-7",
       "municipality": "San Cosme y Damian",
-      "coordinates": "-27.280865, -56.433359"
+      "coordinates": "-27.280865, -56.433359",
+      "metar_available": false
     },
     {
       "ident": "PY-0023",
@@ -263,7 +285,8 @@
       "iso_country": "PY",
       "iso_region": "PY-7",
       "municipality": "Coronel Bogado",
-      "coordinates": "-27.1439, -56.2561"
+      "coordinates": "-27.1439, -56.2561",
+      "metar_available": false
     },
     {
       "ident": "PY-0024",
@@ -274,7 +297,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Estancia Trementina",
-      "coordinates": "-22.74078, -56.842403"
+      "coordinates": "-22.74078, -56.842403",
+      "metar_available": false
     },
     {
       "ident": "PY-0025",
@@ -285,7 +309,8 @@
       "iso_country": "PY",
       "iso_region": "PY-15",
       "municipality": "Estancia Coeyu",
-      "coordinates": "-23.9363, -57.735901"
+      "coordinates": "-23.9363, -57.735901",
+      "metar_available": false
     },
     {
       "ident": "PY-0026",
@@ -296,7 +321,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Edificio Miami",
-      "coordinates": "-25.297592, -57.575859"
+      "coordinates": "-25.297592, -57.575859",
+      "metar_available": false
     },
     {
       "ident": "PY-0027",
@@ -306,7 +332,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Villa del Rosario",
-      "coordinates": "-24.471234, -57.154851"
+      "coordinates": "-24.471234, -57.154851",
+      "metar_available": false
     },
     {
       "ident": "PY-0028",
@@ -316,7 +343,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Villa del Rosario",
-      "coordinates": "-24.4777, -57.147968"
+      "coordinates": "-24.4777, -57.147968",
+      "metar_available": false
     },
     {
       "ident": "PY-0029",
@@ -326,7 +354,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Villa del Rosario",
-      "coordinates": "-24.486413, -57.102357"
+      "coordinates": "-24.486413, -57.102357",
+      "metar_available": false
     },
     {
       "ident": "PY-0030",
@@ -337,7 +366,8 @@
       "iso_region": "PY-2",
       "municipality": "Villa del Rosario",
       "gps_code": "SGVO",
-      "coordinates": "-24.285026, -57.012056"
+      "coordinates": "-24.285026, -57.012056",
+      "metar_available": false
     },
     {
       "ident": "PY-0031",
@@ -347,7 +377,8 @@
       "iso_country": "PY",
       "iso_region": "PY-2",
       "municipality": "Nueva Germania",
-      "coordinates": "-23.908399, -56.557038"
+      "coordinates": "-23.908399, -56.557038",
+      "metar_available": false
     },
     {
       "ident": "PY-0032",
@@ -359,7 +390,8 @@
       "iso_region": "PY-19",
       "municipality": "Loma Plata",
       "gps_code": "SGLP",
-      "coordinates": "-22.364205, -59.838238"
+      "coordinates": "-22.364205, -59.838238",
+      "metar_available": false
     },
     {
       "ident": "PY-0033",
@@ -369,7 +401,8 @@
       "iso_country": "PY",
       "iso_region": "PY-19",
       "municipality": "Gnadenheim",
-      "coordinates": "-22.369842, -59.770861"
+      "coordinates": "-22.369842, -59.770861",
+      "metar_available": false
     },
     {
       "ident": "PY-0034",
@@ -379,7 +412,8 @@
       "iso_country": "PY",
       "iso_region": "PY-16",
       "municipality": "La Victoria",
-      "coordinates": "-22.289467, -57.931053"
+      "coordinates": "-22.289467, -57.931053",
+      "metar_available": false
     },
     {
       "ident": "PY-0035",
@@ -389,7 +423,8 @@
       "iso_country": "PY",
       "iso_region": "PY-13",
       "municipality": "Cerro Corá",
-      "coordinates": "-22.639541, -56.020317"
+      "coordinates": "-22.639541, -56.020317",
+      "metar_available": false
     },
     {
       "ident": "PY-0036",
@@ -399,7 +434,8 @@
       "iso_country": "PY",
       "iso_region": "PY-19",
       "municipality": "Estancia El Dorado",
-      "coordinates": "-21.370676, -61.484652"
+      "coordinates": "-21.370676, -61.484652",
+      "metar_available": false
     },
     {
       "ident": "PY-0037",
@@ -409,7 +445,8 @@
       "iso_country": "PY",
       "iso_region": "PY-15",
       "municipality": "El Retiro",
-      "coordinates": "-24.001777, -60.342462"
+      "coordinates": "-24.001777, -60.342462",
+      "metar_available": false
     },
     {
       "ident": "PY-0038",
@@ -419,7 +456,8 @@
       "iso_country": "PY",
       "iso_region": "PY-8",
       "municipality": "San Juan Bautista",
-      "coordinates": "-26.634333, -57.105528"
+      "coordinates": "-26.634333, -57.105528",
+      "metar_available": false
     },
     {
       "ident": "PY-0039",
@@ -429,7 +467,8 @@
       "iso_country": "PY",
       "iso_region": "PY-8",
       "municipality": "Estancia Buena Vista",
-      "coordinates": "-26.563752, -57.144935"
+      "coordinates": "-26.563752, -57.144935",
+      "metar_available": false
     },
     {
       "ident": "PY-0040",
@@ -439,7 +478,8 @@
       "iso_country": "PY",
       "iso_region": "PY-8",
       "municipality": "San Miguel",
-      "coordinates": "-26.546805, -57.101111"
+      "coordinates": "-26.546805, -57.101111",
+      "metar_available": false
     },
     {
       "ident": "PY-0041",
@@ -449,7 +489,8 @@
       "iso_country": "PY",
       "iso_region": "PY-8",
       "municipality": "Santa Maria",
-      "coordinates": "-26.781323, -56.952095"
+      "coordinates": "-26.781323, -56.952095",
+      "metar_available": false
     },
     {
       "ident": "PY-0042",
@@ -459,7 +500,8 @@
       "iso_country": "PY",
       "iso_region": "PY-8",
       "municipality": "Cabaña La Escondida",
-      "coordinates": "-26.753208, -57.05256"
+      "coordinates": "-26.753208, -57.05256",
+      "metar_available": false
     },
     {
       "ident": "PY-0043",
@@ -470,7 +512,8 @@
       "iso_country": "PY",
       "iso_region": "PY-19",
       "municipality": "Mayor Infante Rivarola",
-      "coordinates": "-21.680442, -62.3964"
+      "coordinates": "-21.680442, -62.3964",
+      "metar_available": false
     },
     {
       "ident": "PY-0044",
@@ -481,7 +524,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Palacio Legislativo",
-      "coordinates": "-25.278782, -57.635699"
+      "coordinates": "-25.278782, -57.635699",
+      "metar_available": false
     },
     {
       "ident": "PY-0045",
@@ -492,7 +536,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Palacio de López (Palacio Presidencial)",
-      "coordinates": "-25.276628, -57.636954"
+      "coordinates": "-25.276628, -57.636954",
+      "metar_available": false
     },
     {
       "ident": "PY-0046",
@@ -503,7 +548,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Palacio de López (Palacio Presidencial)",
-      "coordinates": "-25.276652, -57.636761"
+      "coordinates": "-25.276652, -57.636761",
+      "metar_available": false
     },
     {
       "ident": "PY-0047",
@@ -514,7 +560,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Av. José Asunción Flores (Av. Costanera)",
-      "coordinates": "-25.276051, -57.635887"
+      "coordinates": "-25.276051, -57.635887",
+      "metar_available": false
     },
     {
       "ident": "PY-0048",
@@ -525,7 +572,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Residencia Presidencial de la República de Paraguay",
-      "coordinates": "-25.295227, -57.602588"
+      "coordinates": "-25.295227, -57.602588",
+      "metar_available": false
     },
     {
       "ident": "PY-0049",
@@ -536,7 +584,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Aviación",
-      "coordinates": "-25.292525, -57.669591"
+      "coordinates": "-25.292525, -57.669591",
+      "metar_available": false
     },
     {
       "ident": "PY-0050",
@@ -547,7 +596,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Cuartel General de la Fuerza Aérea Paraguaya",
-      "coordinates": "-25.273623, -57.530461"
+      "coordinates": "-25.273623, -57.530461",
+      "metar_available": false
     },
     {
       "ident": "PY-0051",
@@ -558,7 +608,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Cuartel General de la Fuerza Aérea Paraguaya",
-      "coordinates": "-25.273989, -57.530116"
+      "coordinates": "-25.273989, -57.530116",
+      "metar_available": false
     },
     {
       "ident": "PY-0052",
@@ -569,7 +620,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Cuartel General de la Fuerza Aérea Paraguaya",
-      "coordinates": "-25.275842, -57.529129"
+      "coordinates": "-25.275842, -57.529129",
+      "metar_available": false
     },
     {
       "ident": "PY-0053",
@@ -580,7 +632,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Aeropuerto Internacional Silvio Pettirossi",
-      "coordinates": "-25.24768, -57.514554"
+      "coordinates": "-25.24768, -57.514554",
+      "metar_available": false
     },
     {
       "ident": "PY-0054",
@@ -591,7 +644,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Aeropuerto Internacional Silvio Pettirossi",
-      "coordinates": "-25.250857, -57.514908"
+      "coordinates": "-25.250857, -57.514908",
+      "metar_available": false
     },
     {
       "ident": "PY-0055",
@@ -602,7 +656,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Academia Militar \"Mcal. Francisco Solano López\"",
-      "coordinates": "-25.360112, -57.429582"
+      "coordinates": "-25.360112, -57.429582",
+      "metar_available": false
     },
     {
       "ident": "PY-0056",
@@ -613,7 +668,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Hospital Militar Central",
-      "coordinates": "-25.279175, -57.646605"
+      "coordinates": "-25.279175, -57.646605",
+      "metar_available": false
     },
     {
       "ident": "PY-0057",
@@ -624,7 +680,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Gran Cuartel General de las Fuerzas Militares",
-      "coordinates": "-25.294347, -57.612133"
+      "coordinates": "-25.294347, -57.612133",
+      "metar_available": false
     },
     {
       "ident": "PY-0058",
@@ -635,7 +692,8 @@
       "iso_country": "PY",
       "iso_region": "PY-10",
       "municipality": "Hospital Regional del IPS",
-      "coordinates": "-25.512459, -54.624292"
+      "coordinates": "-25.512459, -54.624292",
+      "metar_available": false
     },
     {
       "ident": "PY-0059",
@@ -645,7 +703,8 @@
       "iso_country": "PY",
       "iso_region": "PY-14",
       "municipality": "Área Naval de Canindeyú",
-      "coordinates": "-24.064799, -54.301073"
+      "coordinates": "-24.064799, -54.301073",
+      "metar_available": false
     },
     {
       "ident": "PY-0060",
@@ -655,7 +714,8 @@
       "iso_country": "PY",
       "iso_region": "PY-7",
       "municipality": "Área Naval de Itapúa",
-      "coordinates": "-27.367747, -55.853634"
+      "coordinates": "-27.367747, -55.853634",
+      "metar_available": false
     },
     {
       "ident": "PY-0061",
@@ -665,7 +725,8 @@
       "iso_country": "PY",
       "iso_region": "PY-10",
       "municipality": "Área Naval y Prefectura de la Zona del Este",
-      "coordinates": "-25.515634, -54.603285"
+      "coordinates": "-25.515634, -54.603285",
+      "metar_available": false
     },
     {
       "ident": "PY-0062",
@@ -675,7 +736,8 @@
       "iso_country": "PY",
       "iso_region": "PY-7",
       "municipality": "Av. Costanera de Encarnación",
-      "coordinates": "-27.34117, -55.870779"
+      "coordinates": "-27.34117, -55.870779",
+      "metar_available": false
     },
     {
       "ident": "PY-0063",
@@ -686,7 +748,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Helipuerto del Sanatorio Británico",
-      "coordinates": "-25.294759, -57.632936"
+      "coordinates": "-25.294759, -57.632936",
+      "metar_available": false
     },
     {
       "ident": "PY-0064",
@@ -697,7 +760,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Agrupación Aero Fluvial Policial",
-      "coordinates": "-25.310298, -57.652227"
+      "coordinates": "-25.310298, -57.652227",
+      "metar_available": false
     },
     {
       "ident": "PY-0065",
@@ -708,7 +772,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Comando de Infantería de Marina",
-      "coordinates": "-25.276721, -57.649689"
+      "coordinates": "-25.276721, -57.649689",
+      "metar_available": false
     },
     {
       "ident": "PY-0066",
@@ -719,7 +784,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Corporativo del Banco Sudameris",
-      "coordinates": "-25.284219, -57.634594"
+      "coordinates": "-25.284219, -57.634594",
+      "metar_available": false
     },
     {
       "ident": "PY-0067",
@@ -729,7 +795,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Hospital San Jorge",
-      "coordinates": "-25.256253, -57.546542"
+      "coordinates": "-25.256253, -57.546542",
+      "metar_available": false
     },
     {
       "ident": "PY-0068",
@@ -740,7 +807,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Comando del Ejército",
-      "coordinates": "-25.251526, -57.548354"
+      "coordinates": "-25.251526, -57.548354",
+      "metar_available": false
     },
     {
       "ident": "PY-0069",
@@ -750,7 +818,8 @@
       "iso_country": "PY",
       "iso_region": "PY-11",
       "municipality": "Luque",
-      "coordinates": "-25.275519, -57.413291"
+      "coordinates": "-25.275519, -57.413291",
+      "metar_available": false
     },
     {
       "ident": "PY-0070",
@@ -760,7 +829,8 @@
       "iso_country": "PY",
       "iso_region": "PY-15",
       "municipality": "Villa Hayes",
-      "coordinates": "-25.154827, -57.561069"
+      "coordinates": "-25.154827, -57.561069",
+      "metar_available": false
     },
     {
       "ident": "PY-0071",
@@ -770,7 +840,8 @@
       "iso_country": "PY",
       "iso_region": "PY-9",
       "municipality": "Comando de Artillería",
-      "coordinates": "-25.602802, -57.147263"
+      "coordinates": "-25.602802, -57.147263",
+      "metar_available": false
     },
     {
       "ident": "PY-0072",
@@ -780,7 +851,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Comando de Operaciones de Defensa Interna",
-      "coordinates": "-23.164509, -56.755253"
+      "coordinates": "-23.164509, -56.755253",
+      "metar_available": false
     },
     {
       "ident": "PY-0073",
@@ -790,7 +862,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Comando de Operaciones de Defensa Interna",
-      "coordinates": "-23.164312, -56.755232"
+      "coordinates": "-23.164312, -56.755232",
+      "metar_available": false
     },
     {
       "ident": "PY-0074",
@@ -800,7 +873,8 @@
       "iso_country": "PY",
       "iso_region": "PY-1",
       "municipality": "Comando de Operaciones de Defensa Interna",
-      "coordinates": "-23.164785, -56.755264"
+      "coordinates": "-23.164785, -56.755264",
+      "metar_available": false
     },
     {
       "ident": "PY-0075",
@@ -811,7 +885,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "Comando de Comunicaciones",
-      "coordinates": "-25.304949, -57.65706"
+      "coordinates": "-25.304949, -57.65706",
+      "metar_available": false
     },
     {
       "ident": "PY-0076",
@@ -820,7 +895,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-19",
-      "coordinates": "-20.517909, -62.142795"
+      "coordinates": "-20.517909, -62.142795",
+      "metar_available": false
     },
     {
       "ident": "PY-0077",
@@ -829,7 +905,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-19",
-      "coordinates": "-22.029324, -60.61899"
+      "coordinates": "-22.029324, -60.61899",
+      "metar_available": false
     },
     {
       "ident": "PY-0078",
@@ -838,7 +915,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-16",
-      "coordinates": "-19.540817, -59.495138"
+      "coordinates": "-19.540817, -59.495138",
+      "metar_available": false
     },
     {
       "ident": "PY-0079",
@@ -847,7 +925,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-13",
-      "coordinates": "-22.642344, -55.832704"
+      "coordinates": "-22.642344, -55.832704",
+      "metar_available": false
     },
     {
       "ident": "PY-0080",
@@ -856,7 +935,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-10",
-      "coordinates": "-25.452952, -54.835693"
+      "coordinates": "-25.452952, -54.835693",
+      "metar_available": false
     },
     {
       "ident": "PY-0081",
@@ -865,7 +945,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-8",
-      "coordinates": "-27.435916, -56.837483"
+      "coordinates": "-27.435916, -56.837483",
+      "metar_available": false
     },
     {
       "ident": "PY-0082",
@@ -874,7 +955,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-8",
-      "coordinates": "-27.378664, -56.857024"
+      "coordinates": "-27.378664, -56.857024",
+      "metar_available": false
     },
     {
       "ident": "PY-0083",
@@ -883,7 +965,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-7",
-      "coordinates": "-27.220503, -55.83299"
+      "coordinates": "-27.220503, -55.83299",
+      "metar_available": false
     },
     {
       "ident": "PY-0084",
@@ -892,7 +975,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-7",
-      "coordinates": "-26.564336, -55.394003"
+      "coordinates": "-26.564336, -55.394003",
+      "metar_available": false
     },
     {
       "ident": "PY-0085",
@@ -901,7 +985,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-11",
-      "coordinates": "-25.257017, -57.518595"
+      "coordinates": "-25.257017, -57.518595",
+      "metar_available": false
     },
     {
       "ident": "PY-0086",
@@ -910,7 +995,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-11",
-      "coordinates": "-25.274209, -57.529676"
+      "coordinates": "-25.274209, -57.529676",
+      "metar_available": false
     },
     {
       "ident": "PY-0087",
@@ -919,7 +1005,8 @@
       "continent": "SA",
       "iso_country": "PY",
       "iso_region": "PY-1",
-      "coordinates": "-23.439302, -57.430772"
+      "coordinates": "-23.439302, -57.430772",
+      "metar_available": false
     },
     {
       "ident": "PY-0088",
@@ -930,7 +1017,8 @@
       "iso_country": "PY",
       "iso_region": "PY-ASU",
       "municipality": "La Recoleta",
-      "coordinates": "-25.317999, -57.585011"
+      "coordinates": "-25.317999, -57.585011",
+      "metar_available": false
     },
     {
       "ident": "PY-0089",
@@ -941,7 +1029,8 @@
       "iso_country": "PY",
       "iso_region": "PY-15",
       "municipality": "Villa Hayes",
-      "coordinates": "-25.154666, -57.560495"
+      "coordinates": "-25.154666, -57.560495",
+      "metar_available": false
     },
     {
       "ident": "PY-PBT",
@@ -953,7 +1042,8 @@
       "iso_region": "PY-16",
       "municipality": "Puerto Leda",
       "iata_code": "PBT",
-      "coordinates": "-20.9046, -57.927101"
+      "coordinates": "-20.9046, -57.927101",
+      "metar_available": false
     },
     {
       "ident": "PY-PCJ",
@@ -966,7 +1056,8 @@
       "municipality": "Puerto La Victoria",
       "gps_code": "SGLV",
       "iata_code": "PCJ",
-      "coordinates": "-22.289298, -57.860484"
+      "coordinates": "-22.289298, -57.860484",
+      "metar_available": false
     },
     {
       "ident": "SG67",
@@ -979,7 +1070,8 @@
       "municipality": "Estancia Pai Quara",
       "gps_code": "SG67",
       "local_code": "SG67",
-      "coordinates": "-23.229702, -55.948455"
+      "coordinates": "-23.229702, -55.948455",
+      "metar_available": false
     },
     {
       "ident": "SGAS",
@@ -992,7 +1084,8 @@
       "municipality": "Asunción",
       "gps_code": "SGAS",
       "iata_code": "ASU",
-      "coordinates": "-25.240156, -57.519227"
+      "coordinates": "-25.240156, -57.519227",
+      "metar_available": false
     },
     {
       "ident": "SGAY",
@@ -1005,7 +1098,8 @@
       "municipality": "Ayolas",
       "gps_code": "SGAY",
       "iata_code": "AYO",
-      "coordinates": "-27.378379, -56.856791"
+      "coordinates": "-27.378379, -56.856791",
+      "metar_available": false
     },
     {
       "ident": "SGBA",
@@ -1017,7 +1111,8 @@
       "iso_region": "PY-7",
       "municipality": "Colonia Doctor Pastor Obligado",
       "gps_code": "SGBA",
-      "coordinates": "-27.052393, -55.578026"
+      "coordinates": "-27.052393, -55.578026",
+      "metar_available": false
     },
     {
       "ident": "SGBN",
@@ -1030,7 +1125,8 @@
       "municipality": "Bahía Negra",
       "gps_code": "SGBN",
       "iata_code": "BFA",
-      "coordinates": "-20.2246, -58.179528"
+      "coordinates": "-20.2246, -58.179528",
+      "metar_available": false
     },
     {
       "ident": "SGCB",
@@ -1042,7 +1138,8 @@
       "iso_region": "PY-9",
       "municipality": "Capitan Bado",
       "gps_code": "SGCB",
-      "coordinates": "-23.257493, -55.528057"
+      "coordinates": "-23.257493, -55.528057",
+      "metar_available": false
     },
     {
       "ident": "SGCO",
@@ -1055,7 +1152,8 @@
       "municipality": "Concepción",
       "gps_code": "SGCO",
       "iata_code": "CIO",
-      "coordinates": "-23.440334, -57.429206"
+      "coordinates": "-23.440334, -57.429206",
+      "metar_available": false
     },
     {
       "ident": "SGCU",
@@ -1065,7 +1163,8 @@
       "iso_country": "PY",
       "iso_region": "PY-14",
       "gps_code": "SGCU",
-      "coordinates": "-24.497675, -55.686307"
+      "coordinates": "-24.497675, -55.686307",
+      "metar_available": false
     },
     {
       "ident": "SGCZ",
@@ -1077,7 +1176,8 @@
       "iso_region": "PY-6",
       "municipality": "Caazapá",
       "gps_code": "SGCZ",
-      "coordinates": "-26.168958, -56.360464"
+      "coordinates": "-26.168958, -56.360464",
+      "metar_available": false
     },
     {
       "ident": "SGEN",
@@ -1090,7 +1190,8 @@
       "municipality": "Encarnación",
       "gps_code": "SGEN",
       "iata_code": "ENO",
-      "coordinates": "-27.227537, -55.837584"
+      "coordinates": "-27.227537, -55.837584",
+      "metar_available": false
     },
     {
       "ident": "SGES",
@@ -1103,7 +1204,8 @@
       "municipality": "Ciudad del Este",
       "gps_code": "SGES",
       "iata_code": "AGT",
-      "coordinates": "-25.457186, -54.839544"
+      "coordinates": "-25.457186, -54.839544",
+      "metar_available": false
     },
     {
       "ident": "SGFI",
@@ -1116,7 +1218,8 @@
       "municipality": "Filadelfia",
       "gps_code": "SGFI",
       "iata_code": "FLM",
-      "coordinates": "-22.354611, -60.053211"
+      "coordinates": "-22.354611, -60.053211",
+      "metar_available": false
     },
     {
       "ident": "SGGR",
@@ -1128,7 +1231,8 @@
       "iso_region": "PY-14",
       "municipality": "Salto del Guaira",
       "gps_code": "SGGR",
-      "coordinates": "-24.032844, -54.35267"
+      "coordinates": "-24.032844, -54.35267",
+      "metar_available": false
     },
     {
       "ident": "SGIB",
@@ -1140,7 +1244,8 @@
       "iso_region": "PY-10",
       "municipality": "Itaipú",
       "gps_code": "SGIB",
-      "coordinates": "-25.407818, -54.619457"
+      "coordinates": "-25.407818, -54.619457",
+      "metar_available": false
     },
     {
       "ident": "SGLZ",
@@ -1152,7 +1257,8 @@
       "iso_region": "PY-7",
       "municipality": "La Paz",
       "gps_code": "SGLZ",
-      "coordinates": "-27.00382, -55.887119"
+      "coordinates": "-27.00382, -55.887119",
+      "metar_available": false
     },
     {
       "ident": "SGME",
@@ -1165,7 +1271,8 @@
       "municipality": "Mariscal Estigarribia",
       "gps_code": "SGME",
       "iata_code": "ESG",
-      "coordinates": "-22.046499, -60.6217"
+      "coordinates": "-22.046499, -60.6217",
+      "metar_available": false
     },
     {
       "ident": "SGMZ",
@@ -1176,7 +1283,8 @@
       "iso_country": "PY",
       "iso_region": "PY-7",
       "gps_code": "SGMZ",
-      "coordinates": "-26.839758, -55.328915"
+      "coordinates": "-26.839758, -55.328915",
+      "metar_available": false
     },
     {
       "ident": "SGOL",
@@ -1189,7 +1297,8 @@
       "municipality": "Fuerte Olimpo",
       "gps_code": "SGOL",
       "iata_code": "OLK",
-      "coordinates": "-21.045724, -57.882935"
+      "coordinates": "-21.045724, -57.882935",
+      "metar_available": false
     },
     {
       "ident": "SGPC",
@@ -1201,7 +1310,8 @@
       "iso_region": "PY-15",
       "municipality": "Pozo Colorado",
       "gps_code": "SGPC",
-      "coordinates": "-23.495565, -58.788464"
+      "coordinates": "-23.495565, -58.788464",
+      "metar_available": false
     },
     {
       "ident": "SGPG",
@@ -1212,7 +1322,8 @@
       "iso_country": "PY",
       "iso_region": "PY-19",
       "gps_code": "SGPG",
-      "coordinates": "-22.559962, -61.611972"
+      "coordinates": "-22.559962, -61.611972",
+      "metar_available": false
     },
     {
       "ident": "SGPI",
@@ -1225,7 +1336,8 @@
       "municipality": "Pilar",
       "gps_code": "SGPI",
       "iata_code": "PIL",
-      "coordinates": "-26.881981, -58.319067"
+      "coordinates": "-26.881981, -58.319067",
+      "metar_available": false
     },
     {
       "ident": "SGPJ",
@@ -1238,7 +1350,8 @@
       "municipality": "Pedro Juan Caballero",
       "gps_code": "SGPJ",
       "iata_code": "PJC",
-      "coordinates": "-22.641427, -55.829993"
+      "coordinates": "-22.641427, -55.829993",
+      "metar_available": false
     },
     {
       "ident": "SGPO",
@@ -1250,7 +1363,8 @@
       "iso_region": "PY-15",
       "municipality": "Pinasco",
       "gps_code": "SGPO",
-      "coordinates": "-22.629856, -57.838469"
+      "coordinates": "-22.629856, -57.838469",
+      "metar_available": false
     },
     {
       "ident": "SGRO",
@@ -1262,7 +1376,8 @@
       "iso_region": "PY-2",
       "municipality": "Rosario",
       "gps_code": "SGRO",
-      "coordinates": "-24.430037, -57.12013"
+      "coordinates": "-24.430037, -57.12013",
+      "metar_available": false
     },
     {
       "ident": "SGSP",
@@ -1274,7 +1389,8 @@
       "iso_region": "PY-2",
       "municipality": "San Pedro del Ycuamandiyu",
       "gps_code": "SGSP",
-      "coordinates": "-24.027103, -57.02342"
+      "coordinates": "-24.027103, -57.02342",
+      "metar_available": false
     },
     {
       "ident": "SGST",
@@ -1286,7 +1402,8 @@
       "iso_region": "PY-13",
       "municipality": "Santa Teresa",
       "gps_code": "SGST",
-      "coordinates": "-22.622487, -56.634393"
+      "coordinates": "-22.622487, -56.634393",
+      "metar_available": false
     },
     {
       "ident": "VMI",
@@ -1299,7 +1416,8 @@
       "municipality": "Puerto Vallemi",
       "gps_code": "SGVM",
       "iata_code": "VMI",
-      "coordinates": "-22.159371, -57.942395"
+      "coordinates": "-22.159371, -57.942395",
+      "metar_available": false
     },
     {
       "ident": "Z23Z",
@@ -1311,7 +1429,8 @@
       "iso_region": "PY-9",
       "municipality": "Comando de Artillería",
       "gps_code": "Z23Z",
-      "coordinates": "-25.601998, -57.152059"
+      "coordinates": "-25.601998, -57.152059",
+      "metar_available": false
     }
   ]
 }

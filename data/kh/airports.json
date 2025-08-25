@@ -2,7 +2,7 @@
   "country_code": "KH",
   "country_name": "Cambodia",
   "total_airports": 17,
-  "last_updated": "2025-08-01T00:18:22.802134",
+  "last_updated": "2025-08-25T10:08:40.954274",
   "types_distribution": {
     "small_airport": 7,
     "closed": 4,
@@ -22,7 +22,8 @@
       "municipality": "Ta Noun",
       "gps_code": "VDDS",
       "iata_code": "DSY",
-      "coordinates": "10.914244, 103.226652"
+      "coordinates": "10.914244, 103.226652",
+      "metar_available": false
     },
     {
       "ident": "KH-0002",
@@ -33,7 +34,8 @@
       "iso_country": "KH",
       "iso_region": "KH-8",
       "municipality": "Phnom Peng (Boeng Khyang)",
-      "coordinates": "11.3623, 104.9154"
+      "coordinates": "11.3623, 104.9154",
+      "metar_available": false
     },
     {
       "ident": "KH-0003",
@@ -44,7 +46,8 @@
       "iso_country": "KH",
       "iso_region": "KH-17",
       "municipality": "Siem Reap",
-      "coordinates": "13.41155, 103.813044"
+      "coordinates": "13.41155, 103.813044",
+      "metar_available": false
     },
     {
       "ident": "KH-0004",
@@ -55,7 +58,8 @@
       "iso_country": "KH",
       "iso_region": "KH-10",
       "municipality": "Kratie",
-      "coordinates": "12.489017, 106.05469"
+      "coordinates": "12.489017, 106.05469",
+      "metar_available": false
     },
     {
       "ident": "KH-0005",
@@ -66,7 +70,8 @@
       "iso_country": "KH",
       "iso_region": "KH-7",
       "municipality": "Kampot",
-      "coordinates": "10.6343, 104.1617"
+      "coordinates": "10.6343, 104.1617",
+      "metar_available": false
     },
     {
       "ident": "OMY",
@@ -78,7 +83,8 @@
       "iso_region": "KH-13",
       "municipality": "Tbeng Meanchey",
       "iata_code": "OMY",
-      "coordinates": "13.7597, 104.97173"
+      "coordinates": "13.7597, 104.97173",
+      "metar_available": false
     },
     {
       "ident": "VDBG",
@@ -91,7 +97,8 @@
       "municipality": "Battambang",
       "gps_code": "VDBG",
       "iata_code": "BBM",
-      "coordinates": "13.0956, 103.223999"
+      "coordinates": "13.0956, 103.223999",
+      "metar_available": false
     },
     {
       "ident": "VDKC",
@@ -103,7 +110,8 @@
       "iso_region": "KH-3",
       "municipality": "Kompong Cham",
       "gps_code": "VDKC",
-      "coordinates": "12.028657, 105.441165"
+      "coordinates": "12.028657, 105.441165",
+      "metar_available": false
     },
     {
       "ident": "VDKH",
@@ -116,7 +124,8 @@
       "municipality": "Kampong Chhnang",
       "gps_code": "VDKH",
       "iata_code": "KZC",
-      "coordinates": "12.255032, 104.564657"
+      "coordinates": "12.255032, 104.564657",
+      "metar_available": false
     },
     {
       "ident": "VDKK",
@@ -128,7 +137,8 @@
       "municipality": "Krong Khemara Phoumin",
       "gps_code": "VDKK",
       "iata_code": "KKZ",
-      "coordinates": "11.613397, 102.997084"
+      "coordinates": "11.613397, 102.997084",
+      "metar_available": false
     },
     {
       "ident": "VDMK",
@@ -140,7 +150,8 @@
       "municipality": "Sen Monorom",
       "gps_code": "VDMK",
       "iata_code": "MWV",
-      "coordinates": "12.463648, 107.187252"
+      "coordinates": "12.463648, 107.187252",
+      "metar_available": false
     },
     {
       "ident": "VDPP",
@@ -153,7 +164,8 @@
       "municipality": "Phnom Penh (Pou Senchey)",
       "gps_code": "VDPP",
       "iata_code": "PNH",
-      "coordinates": "11.5466, 104.844002"
+      "coordinates": "11.5466, 104.844002",
+      "metar_available": false
     },
     {
       "ident": "VDRK",
@@ -165,7 +177,8 @@
       "municipality": "Ratanakiri",
       "gps_code": "VDRK",
       "iata_code": "RBE",
-      "coordinates": "13.729999542236328, 106.98699951171875"
+      "coordinates": "13.729999542236328, 106.98699951171875",
+      "metar_available": false
     },
     {
       "ident": "VDSA",
@@ -178,7 +191,8 @@
       "municipality": "Siem Reap",
       "gps_code": "VDSA",
       "iata_code": "SAI",
-      "coordinates": "13.369167, 104.223056"
+      "coordinates": "13.369167, 104.223056",
+      "metar_available": false
     },
     {
       "ident": "VDST",
@@ -191,7 +205,8 @@
       "municipality": "Stung Treng",
       "gps_code": "VDST",
       "iata_code": "TNX",
-      "coordinates": "13.5319, 106.014999"
+      "coordinates": "13.5319, 106.014999",
+      "metar_available": false
     },
     {
       "ident": "VDSV",
@@ -204,7 +219,8 @@
       "municipality": "Preah Sihanouk",
       "gps_code": "VDSV",
       "iata_code": "KOS",
-      "coordinates": "10.569498, 103.631001"
+      "coordinates": "10.569498, 103.631001",
+      "metar_available": false
     },
     {
       "ident": "VDSY",
@@ -217,7 +233,8 @@
       "municipality": "Krakor",
       "gps_code": "VDSY",
       "iata_code": "KZD",
-      "coordinates": "12.5385, 104.1486"
+      "coordinates": "12.5385, 104.1486",
+      "metar_available": false
     }
   ]
 }

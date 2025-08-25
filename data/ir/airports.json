@@ -2,7 +2,7 @@
   "country_code": "IR",
   "country_name": "Iran",
   "total_airports": 290,
-  "last_updated": "2025-08-01T00:18:22.761476",
+  "last_updated": "2025-08-25T10:08:40.909023",
   "types_distribution": {
     "small_airport": 113,
     "closed": 22,
@@ -20,7 +20,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Ahmadi",
-      "coordinates": "29.099199, 51.035301"
+      "coordinates": "29.099199, 51.035301",
+      "metar_available": false
     },
     {
       "ident": "IR-0003",
@@ -30,7 +31,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Ab Pakhsh",
-      "coordinates": "29.375799, 51.067501"
+      "coordinates": "29.375799, 51.067501",
+      "metar_available": false
     },
     {
       "ident": "IR-0004",
@@ -40,7 +42,8 @@
       "iso_country": "IR",
       "iso_region": "IR-13",
       "municipality": "Hesar-e Qujeh Baghi",
-      "coordinates": "35.234192, 48.601653"
+      "coordinates": "35.234192, 48.601653",
+      "metar_available": false
     },
     {
       "ident": "IR-0005",
@@ -50,7 +53,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Eslamabad-e-Gharb",
-      "coordinates": "34.070489, 46.597095"
+      "coordinates": "34.070489, 46.597095",
+      "metar_available": false
     },
     {
       "ident": "IR-0006",
@@ -60,7 +64,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Ghods",
-      "coordinates": "32.402755, 48.181872"
+      "coordinates": "32.402755, 48.181872",
+      "metar_available": false
     },
     {
       "ident": "IR-0007",
@@ -70,7 +75,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Shadegan",
-      "coordinates": "30.664429, 48.644489"
+      "coordinates": "30.664429, 48.644489",
+      "metar_available": false
     },
     {
       "ident": "IR-0008",
@@ -81,7 +87,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Goreh",
-      "coordinates": "29.907236, 50.427847"
+      "coordinates": "29.907236, 50.427847",
+      "metar_available": false
     },
     {
       "ident": "IR-0009",
@@ -91,7 +98,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Southern Qalind Village",
-      "coordinates": "30.731452, 50.114114"
+      "coordinates": "30.731452, 50.114114",
+      "metar_available": false
     },
     {
       "ident": "IR-001",
@@ -102,7 +110,8 @@
       "iso_country": "IR",
       "iso_region": "IR-03",
       "municipality": "Shabestar",
-      "coordinates": "38.071998596191406, 45.72359848022461"
+      "coordinates": "38.071998596191406, 45.72359848022461",
+      "metar_available": false
     },
     {
       "ident": "IR-0010",
@@ -113,7 +122,8 @@
       "iso_country": "IR",
       "iso_region": "IR-10",
       "municipality": "Sejzi",
-      "coordinates": "32.582692, 52.002218"
+      "coordinates": "32.582692, 52.002218",
+      "metar_available": false
     },
     {
       "ident": "IR-0011",
@@ -122,7 +132,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-07",
-      "coordinates": "30.0358296188, 52.8002715111"
+      "coordinates": "30.0358296188, 52.8002715111",
+      "metar_available": false
     },
     {
       "ident": "IR-0012",
@@ -131,7 +142,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-23",
-      "coordinates": "35.7419667495, 51.229226589199996"
+      "coordinates": "35.7419667495, 51.229226589199996",
+      "metar_available": false
     },
     {
       "ident": "IR-0013",
@@ -142,7 +154,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Taleb Beygi",
-      "coordinates": "29.235207, 53.127337"
+      "coordinates": "29.235207, 53.127337",
+      "metar_available": false
     },
     {
       "ident": "IR-0014",
@@ -152,7 +165,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Langar",
-      "coordinates": "31.92180801, 48.87751713"
+      "coordinates": "31.92180801, 48.87751713",
+      "metar_available": false
     },
     {
       "ident": "IR-0015",
@@ -163,7 +177,8 @@
       "iso_country": "IR",
       "iso_region": "IR-26",
       "municipality": "Paypol-e-Vosta",
-      "coordinates": "35.943639, 50.082056"
+      "coordinates": "35.943639, 50.082056",
+      "metar_available": false
     },
     {
       "ident": "IR-0016",
@@ -174,7 +189,8 @@
       "iso_region": "IR-11",
       "municipality": "Khash",
       "local_code": "OIZK",
-      "coordinates": "28.239227, 61.180453"
+      "coordinates": "28.239227, 61.180453",
+      "metar_available": false
     },
     {
       "ident": "IR-0017",
@@ -186,7 +202,8 @@
       "iso_region": "IR-29",
       "municipality": "Birjand",
       "gps_code": "OIMK",
-      "coordinates": "32.861727, 58.424928"
+      "coordinates": "32.861727, 58.424928",
+      "metar_available": false
     },
     {
       "ident": "IR-0018",
@@ -196,7 +213,8 @@
       "iso_country": "IR",
       "iso_region": "IR-13",
       "municipality": "Khomajin",
-      "coordinates": "35.053018, 49.18922"
+      "coordinates": "35.053018, 49.18922",
+      "metar_available": false
     },
     {
       "ident": "IR-0019",
@@ -206,7 +224,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Konarak",
-      "coordinates": "25.33187, 60.35659"
+      "coordinates": "25.33187, 60.35659",
+      "metar_available": false
     },
     {
       "ident": "IR-0020",
@@ -216,7 +235,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Gaz",
-      "coordinates": "26.3901, 57.13363"
+      "coordinates": "26.3901, 57.13363",
+      "metar_available": false
     },
     {
       "ident": "IR-0021",
@@ -226,7 +246,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Hendorabi",
-      "coordinates": "26.68653, 53.60539"
+      "coordinates": "26.68653, 53.60539",
+      "metar_available": false
     },
     {
       "ident": "IR-0022",
@@ -236,7 +257,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Bushehr",
-      "coordinates": "28.90889, 50.85616"
+      "coordinates": "28.90889, 50.85616",
+      "metar_available": false
     },
     {
       "ident": "IR-0023",
@@ -247,7 +269,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.748152, 51.602685"
+      "coordinates": "35.748152, 51.602685",
+      "metar_available": false
     },
     {
       "ident": "IR-0024",
@@ -258,7 +281,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Bampour",
-      "coordinates": "27.200099, 60.464098"
+      "coordinates": "27.200099, 60.464098",
+      "metar_available": false
     },
     {
       "ident": "IR-0025",
@@ -268,7 +292,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Chabahar",
-      "coordinates": "25.386937, 60.777814"
+      "coordinates": "25.386937, 60.777814",
+      "metar_available": false
     },
     {
       "ident": "IR-0026",
@@ -278,7 +303,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Farsi Island",
-      "coordinates": "27.992575, 50.172131"
+      "coordinates": "27.992575, 50.172131",
+      "metar_available": false
     },
     {
       "ident": "IR-0027",
@@ -288,7 +314,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Ahvaz",
-      "coordinates": "31.375906, 48.650704"
+      "coordinates": "31.375906, 48.650704",
+      "metar_available": false
     },
     {
       "ident": "IR-0028",
@@ -298,7 +325,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Ghods",
-      "coordinates": "32.413772, 48.166992"
+      "coordinates": "32.413772, 48.166992",
+      "metar_available": false
     },
     {
       "ident": "IR-0029",
@@ -308,7 +336,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Ghods",
-      "coordinates": "32.416335, 48.17769"
+      "coordinates": "32.416335, 48.17769",
+      "metar_available": false
     },
     {
       "ident": "IR-0030",
@@ -319,7 +348,8 @@
       "iso_country": "IR",
       "iso_region": "IR-09",
       "municipality": "Fath Abad",
-      "coordinates": "36.09398, 58.71059"
+      "coordinates": "36.09398, 58.71059",
+      "metar_available": false
     },
     {
       "ident": "IR-0031",
@@ -330,7 +360,8 @@
       "iso_country": "IR",
       "iso_region": "IR-09",
       "municipality": "Neyshabur",
-      "coordinates": "36.24626, 58.9049"
+      "coordinates": "36.24626, 58.9049",
+      "metar_available": false
     },
     {
       "ident": "IR-0032",
@@ -342,7 +373,8 @@
       "iso_region": "IR-09",
       "municipality": "Kashmar",
       "gps_code": "OIMQ",
-      "coordinates": "35.26288, 58.51793"
+      "coordinates": "35.26288, 58.51793",
+      "metar_available": false
     },
     {
       "ident": "IR-0033",
@@ -353,7 +385,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Parsiyan",
-      "coordinates": "27.22208, 53.02638"
+      "coordinates": "27.22208, 53.02638",
+      "metar_available": false
     },
     {
       "ident": "IR-0034",
@@ -364,7 +397,8 @@
       "iso_country": "IR",
       "iso_region": "IR-02",
       "municipality": "Amol",
-      "coordinates": "36.45814, 52.35132"
+      "coordinates": "36.45814, 52.35132",
+      "metar_available": false
     },
     {
       "ident": "IR-0035",
@@ -375,7 +409,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Filestan",
-      "coordinates": "35.43327, 51.64057"
+      "coordinates": "35.43327, 51.64057",
+      "metar_available": false
     },
     {
       "ident": "IR-0036",
@@ -387,7 +422,8 @@
       "iso_region": "IR-30",
       "municipality": "Fardis",
       "gps_code": "OIIF",
-      "coordinates": "35.7154, 50.93407"
+      "coordinates": "35.7154, 50.93407",
+      "metar_available": false
     },
     {
       "ident": "IR-0037",
@@ -398,7 +434,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Sonqor",
-      "coordinates": "34.78199, 47.58784"
+      "coordinates": "34.78199, 47.58784",
+      "metar_available": false
     },
     {
       "ident": "IR-0038",
@@ -409,7 +446,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Mirmiro",
-      "coordinates": "34.56826, 45.82255"
+      "coordinates": "34.56826, 45.82255",
+      "metar_available": false
     },
     {
       "ident": "IR-0039",
@@ -420,7 +458,8 @@
       "iso_country": "IR",
       "iso_region": "IR-27",
       "municipality": "Haji Balkan",
-      "coordinates": "37.20101, 55.26871"
+      "coordinates": "37.20101, 55.26871",
+      "metar_available": false
     },
     {
       "ident": "IR-0040",
@@ -431,7 +470,8 @@
       "iso_country": "IR",
       "iso_region": "IR-03",
       "municipality": "Mianeh",
-      "coordinates": "37.4417, 47.71147"
+      "coordinates": "37.4417, 47.71147",
+      "metar_available": false
     },
     {
       "ident": "IR-0041",
@@ -442,7 +482,8 @@
       "iso_country": "IR",
       "iso_region": "IR-19",
       "municipality": "Khorramdarreh",
-      "coordinates": "36.24192, 49.22497"
+      "coordinates": "36.24192, 49.22497",
+      "metar_available": false
     },
     {
       "ident": "IR-0042",
@@ -453,7 +494,8 @@
       "iso_country": "IR",
       "iso_region": "IR-26",
       "municipality": "Nowdehak",
-      "coordinates": "35.95323, 49.59599"
+      "coordinates": "35.95323, 49.59599",
+      "metar_available": false
     },
     {
       "ident": "IR-0043",
@@ -464,7 +506,8 @@
       "iso_country": "IR",
       "iso_region": "IR-19",
       "municipality": "Abhar",
-      "coordinates": "36.13005, 49.19908"
+      "coordinates": "36.13005, 49.19908",
+      "metar_available": false
     },
     {
       "ident": "IR-0044",
@@ -475,7 +518,8 @@
       "iso_country": "IR",
       "iso_region": "IR-19",
       "municipality": "Abhar",
-      "coordinates": "36.13321, 49.1988"
+      "coordinates": "36.13321, 49.1988",
+      "metar_available": false
     },
     {
       "ident": "IR-0045",
@@ -486,7 +530,8 @@
       "iso_country": "IR",
       "iso_region": "IR-19",
       "municipality": "Khorramdarreh",
-      "coordinates": "36.25167, 49.20246"
+      "coordinates": "36.25167, 49.20246",
+      "metar_available": false
     },
     {
       "ident": "IR-0046",
@@ -497,7 +542,8 @@
       "iso_country": "IR",
       "iso_region": "IR-26",
       "municipality": "Qazvin",
-      "coordinates": "36.3242, 49.99643"
+      "coordinates": "36.3242, 49.99643",
+      "metar_available": false
     },
     {
       "ident": "IR-0047",
@@ -508,7 +554,8 @@
       "iso_country": "IR",
       "iso_region": "IR-20",
       "municipality": "Aradan",
-      "coordinates": "35.23912, 52.50806"
+      "coordinates": "35.23912, 52.50806",
+      "metar_available": false
     },
     {
       "ident": "IR-0048",
@@ -519,7 +566,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Damavand",
-      "coordinates": "35.69557, 52.03871"
+      "coordinates": "35.69557, 52.03871",
+      "metar_available": false
     },
     {
       "ident": "IR-0049",
@@ -530,7 +578,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Qarchak",
-      "coordinates": "35.44636, 51.56062"
+      "coordinates": "35.44636, 51.56062",
+      "metar_available": false
     },
     {
       "ident": "IR-0050",
@@ -541,7 +590,8 @@
       "iso_country": "IR",
       "iso_region": "IR-02",
       "municipality": "Namakabrud",
-      "coordinates": "36.68704, 51.3089"
+      "coordinates": "36.68704, 51.3089",
+      "metar_available": false
     },
     {
       "ident": "IR-0051",
@@ -552,7 +602,8 @@
       "iso_country": "IR",
       "iso_region": "IR-01",
       "municipality": "Zibakenar",
-      "coordinates": "37.45042, 49.88422"
+      "coordinates": "37.45042, 49.88422",
+      "metar_available": false
     },
     {
       "ident": "IR-0052",
@@ -563,7 +614,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Tamp Kuh",
-      "coordinates": "25.38261, 61.65259"
+      "coordinates": "25.38261, 61.65259",
+      "metar_available": false
     },
     {
       "ident": "IR-0053",
@@ -574,7 +626,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Pasabandar",
-      "coordinates": "25.06605, 61.40658"
+      "coordinates": "25.06605, 61.40658",
+      "metar_available": false
     },
     {
       "ident": "IR-0054",
@@ -585,7 +638,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Chabahar",
-      "coordinates": "25.27305, 60.74962"
+      "coordinates": "25.27305, 60.74962",
+      "metar_available": false
     },
     {
       "ident": "IR-0055",
@@ -596,7 +650,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Konarak",
-      "coordinates": "25.29913, 60.4376"
+      "coordinates": "25.29913, 60.4376",
+      "metar_available": false
     },
     {
       "ident": "IR-0056",
@@ -607,7 +662,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Minab",
-      "coordinates": "27.11536, 57.06621"
+      "coordinates": "27.11536, 57.06621",
+      "metar_available": false
     },
     {
       "ident": "IR-0057",
@@ -618,7 +674,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Qeshm",
-      "coordinates": "26.93232, 56.24459"
+      "coordinates": "26.93232, 56.24459",
+      "metar_available": false
     },
     {
       "ident": "IR-0058",
@@ -629,7 +686,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Bandar Lengeh",
-      "coordinates": "26.58171, 54.9134"
+      "coordinates": "26.58171, 54.9134",
+      "metar_available": false
     },
     {
       "ident": "IR-0059",
@@ -640,7 +698,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Konartakhteh",
-      "coordinates": "29.55221, 51.39436"
+      "coordinates": "29.55221, 51.39436",
+      "metar_available": false
     },
     {
       "ident": "IR-0060",
@@ -651,7 +710,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Khark",
-      "coordinates": "29.25446, 50.32023"
+      "coordinates": "29.25446, 50.32023",
+      "metar_available": false
     },
     {
       "ident": "IR-0061",
@@ -662,7 +722,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Bandar Ganaveh",
-      "coordinates": "29.59029, 50.5584"
+      "coordinates": "29.59029, 50.5584",
+      "metar_available": false
     },
     {
       "ident": "IR-0062",
@@ -673,7 +734,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Abadan",
-      "coordinates": "30.00612, 48.52599"
+      "coordinates": "30.00612, 48.52599",
+      "metar_available": false
     },
     {
       "ident": "IR-0063",
@@ -684,7 +746,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Firuzabad",
-      "coordinates": "28.83819, 52.58915"
+      "coordinates": "28.83819, 52.58915",
+      "metar_available": false
     },
     {
       "ident": "IR-0064",
@@ -695,7 +758,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Karzin",
-      "coordinates": "28.4315, 53.0847"
+      "coordinates": "28.4315, 53.0847",
+      "metar_available": false
     },
     {
       "ident": "IR-0065",
@@ -706,7 +770,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Shadegan",
-      "coordinates": "30.66143, 48.65149"
+      "coordinates": "30.66143, 48.65149",
+      "metar_available": false
     },
     {
       "ident": "IR-0066",
@@ -717,7 +782,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Behbahan",
-      "coordinates": "30.61104, 50.20473"
+      "coordinates": "30.61104, 50.20473",
+      "metar_available": false
     },
     {
       "ident": "IR-0067",
@@ -728,7 +794,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Rig-e Kaput",
-      "coordinates": "27.22727, 60.48923"
+      "coordinates": "27.22727, 60.48923",
+      "metar_available": false
     },
     {
       "ident": "IR-0068",
@@ -739,7 +806,8 @@
       "iso_country": "IR",
       "iso_region": "IR-11",
       "municipality": "Teherk",
-      "coordinates": "26.25217, 60.3439"
+      "coordinates": "26.25217, 60.3439",
+      "metar_available": false
     },
     {
       "ident": "IR-0069",
@@ -750,7 +818,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Gahkom",
-      "coordinates": "28.1716, 55.82397"
+      "coordinates": "28.1716, 55.82397",
+      "metar_available": false
     },
     {
       "ident": "IR-0070",
@@ -761,7 +830,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Bandar Abbas",
-      "coordinates": "27.21015, 56.33501"
+      "coordinates": "27.21015, 56.33501",
+      "metar_available": false
     },
     {
       "ident": "IR-0071",
@@ -772,7 +842,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Bandar Abbas",
-      "coordinates": "27.19365, 56.29807"
+      "coordinates": "27.19365, 56.29807",
+      "metar_available": false
     },
     {
       "ident": "IR-0072",
@@ -783,7 +854,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Fin",
-      "coordinates": "27.61734, 55.90797"
+      "coordinates": "27.61734, 55.90797",
+      "metar_available": false
     },
     {
       "ident": "IR-0073",
@@ -794,7 +866,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Baft",
-      "coordinates": "29.23665, 56.57679"
+      "coordinates": "29.23665, 56.57679",
+      "metar_available": false
     },
     {
       "ident": "IR-0074",
@@ -805,7 +878,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Kerman",
-      "coordinates": "30.254498, 57.212671"
+      "coordinates": "30.254498, 57.212671",
+      "metar_available": false
     },
     {
       "ident": "IR-0075",
@@ -816,7 +890,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Zarand",
-      "coordinates": "30.80895, 56.54502"
+      "coordinates": "30.80895, 56.54502",
+      "metar_available": false
     },
     {
       "ident": "IR-0076",
@@ -826,7 +901,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Kerman",
-      "coordinates": "30.28823, 57.06837"
+      "coordinates": "30.28823, 57.06837",
+      "metar_available": false
     },
     {
       "ident": "IR-0077",
@@ -837,7 +913,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Kerman",
-      "coordinates": "30.2551, 57.0998"
+      "coordinates": "30.2551, 57.0998",
+      "metar_available": false
     },
     {
       "ident": "IR-0078",
@@ -848,7 +925,8 @@
       "iso_country": "IR",
       "iso_region": "IR-21",
       "municipality": "Bafgh",
-      "coordinates": "31.60766, 55.41862"
+      "coordinates": "31.60766, 55.41862",
+      "metar_available": false
     },
     {
       "ident": "IR-0079",
@@ -859,7 +937,8 @@
       "iso_country": "IR",
       "iso_region": "IR-21",
       "municipality": "Yazd",
-      "coordinates": "31.86773, 54.39786"
+      "coordinates": "31.86773, 54.39786",
+      "metar_available": false
     },
     {
       "ident": "IR-0080",
@@ -870,7 +949,8 @@
       "iso_country": "IR",
       "iso_region": "IR-21",
       "municipality": "Meybod",
-      "coordinates": "32.23082, 53.95826"
+      "coordinates": "32.23082, 53.95826",
+      "metar_available": false
     },
     {
       "ident": "IR-0081",
@@ -881,7 +961,8 @@
       "iso_country": "IR",
       "iso_region": "IR-21",
       "municipality": "Meybod",
-      "coordinates": "32.22224, 54.02164"
+      "coordinates": "32.22224, 54.02164",
+      "metar_available": false
     },
     {
       "ident": "IR-0082",
@@ -892,7 +973,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Tashkuye",
-      "coordinates": "28.129664, 55.440938"
+      "coordinates": "28.129664, 55.440938",
+      "metar_available": false
     },
     {
       "ident": "IR-0083",
@@ -903,7 +985,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Sarchahan",
-      "coordinates": "28.064918, 55.845244"
+      "coordinates": "28.064918, 55.845244",
+      "metar_available": false
     },
     {
       "ident": "IR-0084",
@@ -914,7 +997,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Kherameh",
-      "coordinates": "29.527426, 53.36493"
+      "coordinates": "29.527426, 53.36493",
+      "metar_available": false
     },
     {
       "ident": "IR-0085",
@@ -925,7 +1009,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Tonb-e Kochak",
-      "coordinates": "26.24331, 55.14556"
+      "coordinates": "26.24331, 55.14556",
+      "metar_available": false
     },
     {
       "ident": "IR-0086",
@@ -937,7 +1022,8 @@
       "iso_region": "IR-22",
       "municipality": "Tonb-e Bozorg",
       "gps_code": "OIBX",
-      "coordinates": "26.25836, 55.31579"
+      "coordinates": "26.25836, 55.31579",
+      "metar_available": false
     },
     {
       "ident": "IR-0087",
@@ -947,7 +1033,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Amuk-e-pāyin",
-      "coordinates": "35.309329, 51.139072"
+      "coordinates": "35.309329, 51.139072",
+      "metar_available": false
     },
     {
       "ident": "IR-0088",
@@ -956,7 +1043,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-23",
-      "coordinates": "35.529266, 51.004323"
+      "coordinates": "35.529266, 51.004323",
+      "metar_available": false
     },
     {
       "ident": "IR-0089",
@@ -965,7 +1053,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-23",
-      "coordinates": "35.545758, 50.976434"
+      "coordinates": "35.545758, 50.976434",
+      "metar_available": false
     },
     {
       "ident": "IR-0090",
@@ -974,7 +1063,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-23",
-      "coordinates": "35.578874, 50.880347"
+      "coordinates": "35.578874, 50.880347",
+      "metar_available": false
     },
     {
       "ident": "IR-0091",
@@ -983,7 +1073,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-23",
-      "coordinates": "35.711762, 50.934827"
+      "coordinates": "35.711762, 50.934827",
+      "metar_available": false
     },
     {
       "ident": "IR-0092",
@@ -993,7 +1084,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Teheran",
-      "coordinates": "35.503671, 51.015551"
+      "coordinates": "35.503671, 51.015551",
+      "metar_available": false
     },
     {
       "ident": "IR-0093",
@@ -1003,7 +1095,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Teheran",
-      "coordinates": "35.470064, 51.014671"
+      "coordinates": "35.470064, 51.014671",
+      "metar_available": false
     },
     {
       "ident": "IR-0094",
@@ -1013,7 +1106,8 @@
       "iso_country": "IR",
       "iso_region": "IR-20",
       "municipality": "Garmsār",
-      "coordinates": "35.209278, 52.367351"
+      "coordinates": "35.209278, 52.367351",
+      "metar_available": false
     },
     {
       "ident": "IR-0095",
@@ -1023,7 +1117,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Varamin",
-      "coordinates": "35.334787, 51.666161"
+      "coordinates": "35.334787, 51.666161",
+      "metar_available": false
     },
     {
       "ident": "IR-0096",
@@ -1033,7 +1128,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Varamin",
-      "coordinates": "35.368149, 51.61694"
+      "coordinates": "35.368149, 51.61694",
+      "metar_available": false
     },
     {
       "ident": "IR-0097",
@@ -1043,7 +1139,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Amuk-e-pāyin",
-      "coordinates": "35.307931, 51.178894"
+      "coordinates": "35.307931, 51.178894",
+      "metar_available": false
     },
     {
       "ident": "IR-0098",
@@ -1053,7 +1150,8 @@
       "iso_country": "IR",
       "iso_region": "IR-25",
       "municipality": "Qom",
-      "coordinates": "34.666357, 50.882907"
+      "coordinates": "34.666357, 50.882907",
+      "metar_available": false
     },
     {
       "ident": "IR-0099",
@@ -1063,7 +1161,8 @@
       "iso_country": "IR",
       "iso_region": "IR-25",
       "municipality": "Qom",
-      "coordinates": "34.599228, 50.801519"
+      "coordinates": "34.599228, 50.801519",
+      "metar_available": false
     },
     {
       "ident": "IR-0100",
@@ -1073,7 +1172,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Javanrūd",
-      "coordinates": "34.803571, 46.502006"
+      "coordinates": "34.803571, 46.502006",
+      "metar_available": false
     },
     {
       "ident": "IR-0101",
@@ -1083,7 +1183,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Khosravi",
-      "coordinates": "34.368632, 45.488651"
+      "coordinates": "34.368632, 45.488651",
+      "metar_available": false
     },
     {
       "ident": "IR-0102",
@@ -1093,7 +1194,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Kermanshah",
-      "coordinates": "34.378947, 47.131025"
+      "coordinates": "34.378947, 47.131025",
+      "metar_available": false
     },
     {
       "ident": "IR-0103",
@@ -1103,7 +1205,8 @@
       "iso_country": "IR",
       "iso_region": "IR-13",
       "municipality": "Hamedan",
-      "coordinates": "34.787449, 48.483219"
+      "coordinates": "34.787449, 48.483219",
+      "metar_available": false
     },
     {
       "ident": "IR-0104",
@@ -1113,7 +1216,8 @@
       "iso_country": "IR",
       "iso_region": "IR-13",
       "municipality": "Rowan",
-      "coordinates": "35.133543, 48.85354"
+      "coordinates": "35.133543, 48.85354",
+      "metar_available": false
     },
     {
       "ident": "IR-0105",
@@ -1123,7 +1227,8 @@
       "iso_country": "IR",
       "iso_region": "IR-00",
       "municipality": "Saveh",
-      "coordinates": "34.985667, 50.371786"
+      "coordinates": "34.985667, 50.371786",
+      "metar_available": false
     },
     {
       "ident": "IR-0106",
@@ -1133,7 +1238,8 @@
       "iso_country": "IR",
       "iso_region": "IR-25",
       "municipality": "Qom",
-      "coordinates": "34.786497, 50.587244"
+      "coordinates": "34.786497, 50.587244",
+      "metar_available": false
     },
     {
       "ident": "IR-0107",
@@ -1143,7 +1249,8 @@
       "iso_country": "IR",
       "iso_region": "IR-13",
       "municipality": "Kabudarahang",
-      "coordinates": "35.217661, 48.730186"
+      "coordinates": "35.217661, 48.730186",
+      "metar_available": false
     },
     {
       "ident": "IR-0108",
@@ -1153,7 +1260,8 @@
       "iso_country": "IR",
       "iso_region": "IR-19",
       "municipality": "Khorramdarreh",
-      "coordinates": "36.202176, 49.212288"
+      "coordinates": "36.202176, 49.212288",
+      "metar_available": false
     },
     {
       "ident": "IR-0109",
@@ -1163,7 +1271,8 @@
       "iso_country": "IR",
       "iso_region": "IR-26",
       "municipality": "Khatayan",
-      "coordinates": "36.096559, 50.243765"
+      "coordinates": "36.096559, 50.243765",
+      "metar_available": false
     },
     {
       "ident": "IR-0110",
@@ -1173,7 +1282,8 @@
       "iso_country": "IR",
       "iso_region": "IR-26",
       "municipality": "Abyek-e Sofla",
-      "coordinates": "36.049396, 50.484237"
+      "coordinates": "36.049396, 50.484237",
+      "metar_available": false
     },
     {
       "ident": "IR-0111",
@@ -1183,7 +1293,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.74959, 51.20801"
+      "coordinates": "35.74959, 51.20801",
+      "metar_available": false
     },
     {
       "ident": "IR-0112",
@@ -1193,7 +1304,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.780123, 51.401709"
+      "coordinates": "35.780123, 51.401709",
+      "metar_available": false
     },
     {
       "ident": "IR-0113",
@@ -1203,7 +1315,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.745993, 51.380311"
+      "coordinates": "35.745993, 51.380311",
+      "metar_available": false
     },
     {
       "ident": "IR-0114",
@@ -1213,7 +1326,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.788342, 51.428875"
+      "coordinates": "35.788342, 51.428875",
+      "metar_available": false
     },
     {
       "ident": "IR-0115",
@@ -1223,7 +1337,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.731478, 51.638816"
+      "coordinates": "35.731478, 51.638816",
+      "metar_available": false
     },
     {
       "ident": "IR-0116",
@@ -1233,7 +1348,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Pardis",
-      "coordinates": "35.734343, 51.834087"
+      "coordinates": "35.734343, 51.834087",
+      "metar_available": false
     },
     {
       "ident": "IR-0117",
@@ -1243,7 +1359,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Rudehen",
-      "coordinates": "35.73332, 51.90557"
+      "coordinates": "35.73332, 51.90557",
+      "metar_available": false
     },
     {
       "ident": "IR-0118",
@@ -1253,7 +1370,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Firuzkuh",
-      "coordinates": "35.754165, 52.737608"
+      "coordinates": "35.754165, 52.737608",
+      "metar_available": false
     },
     {
       "ident": "IR-0119",
@@ -1263,7 +1381,8 @@
       "iso_country": "IR",
       "iso_region": "IR-20",
       "municipality": "Mayamey",
-      "coordinates": "36.421453, 55.675084"
+      "coordinates": "36.421453, 55.675084",
+      "metar_available": false
     },
     {
       "ident": "IR-0120",
@@ -1273,7 +1392,8 @@
       "iso_country": "IR",
       "iso_region": "IR-28",
       "municipality": "Esfarayen",
-      "coordinates": "37.017635, 57.564388"
+      "coordinates": "37.017635, 57.564388",
+      "metar_available": false
     },
     {
       "ident": "IR-0121",
@@ -1283,7 +1403,8 @@
       "iso_country": "IR",
       "iso_region": "IR-28",
       "municipality": "Esfarayen",
-      "coordinates": "37.07381, 57.527474"
+      "coordinates": "37.07381, 57.527474",
+      "metar_available": false
     },
     {
       "ident": "IR-0122",
@@ -1293,7 +1414,8 @@
       "iso_country": "IR",
       "iso_region": "IR-09",
       "municipality": "Khadem Anlu",
-      "coordinates": "37.279504, 58.827439"
+      "coordinates": "37.279504, 58.827439",
+      "metar_available": false
     },
     {
       "ident": "IR-0123",
@@ -1304,7 +1426,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Shib Deraz",
-      "coordinates": "26.70306, 55.9516"
+      "coordinates": "26.70306, 55.9516",
+      "metar_available": false
     },
     {
       "ident": "IR-0124",
@@ -1315,7 +1438,8 @@
       "iso_country": "IR",
       "iso_region": "IR-20",
       "local_code": "OI21",
-      "coordinates": "35.3894, 53.671398"
+      "coordinates": "35.3894, 53.671398",
+      "metar_available": false
     },
     {
       "ident": "IR-0125",
@@ -1326,7 +1450,8 @@
       "iso_country": "IR",
       "iso_region": "IR-10",
       "municipality": "Toodeshk",
-      "coordinates": "32.74232, 52.66679"
+      "coordinates": "32.74232, 52.66679",
+      "metar_available": false
     },
     {
       "ident": "IR-0126",
@@ -1337,7 +1462,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Lirdaf",
-      "coordinates": "25.65106, 58.86936"
+      "coordinates": "25.65106, 58.86936",
+      "metar_available": false
     },
     {
       "ident": "IR-0127",
@@ -1348,7 +1474,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Kuh Mobarak",
-      "coordinates": "25.82522, 57.32388"
+      "coordinates": "25.82522, 57.32388",
+      "metar_available": false
     },
     {
       "ident": "IR-0128",
@@ -1359,7 +1486,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Kuh Mobarak",
-      "coordinates": "25.85089, 57.30347"
+      "coordinates": "25.85089, 57.30347",
+      "metar_available": false
     },
     {
       "ident": "IR-0129",
@@ -1370,7 +1498,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Minab",
-      "coordinates": "27.09808, 57.08056"
+      "coordinates": "27.09808, 57.08056",
+      "metar_available": false
     },
     {
       "ident": "IR-0130",
@@ -1381,7 +1510,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Hasan Langi-ye Bala",
-      "coordinates": "27.39015, 56.91369"
+      "coordinates": "27.39015, 56.91369",
+      "metar_available": false
     },
     {
       "ident": "IR-0131",
@@ -1392,7 +1522,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Kish",
-      "coordinates": "26.5491, 53.97661"
+      "coordinates": "26.5491, 53.97661",
+      "metar_available": false
     },
     {
       "ident": "IR-0132",
@@ -1403,7 +1534,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Lavan",
-      "coordinates": "26.79664, 53.3838"
+      "coordinates": "26.79664, 53.3838",
+      "metar_available": false
     },
     {
       "ident": "IR-0133",
@@ -1414,7 +1546,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Parsiyan",
-      "coordinates": "27.17552, 53.04576"
+      "coordinates": "27.17552, 53.04576",
+      "metar_available": false
     },
     {
       "ident": "IR-0134",
@@ -1425,7 +1558,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Chah Mobarak",
-      "coordinates": "27.37567, 52.78668"
+      "coordinates": "27.37567, 52.78668",
+      "metar_available": false
     },
     {
       "ident": "IR-0135",
@@ -1436,7 +1570,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Asalouyeh",
-      "coordinates": "27.47385, 52.61568"
+      "coordinates": "27.47385, 52.61568",
+      "metar_available": false
     },
     {
       "ident": "IR-0136",
@@ -1447,7 +1582,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Bandar-e Mogham",
-      "coordinates": "26.97077, 53.48921"
+      "coordinates": "26.97077, 53.48921",
+      "metar_available": false
     },
     {
       "ident": "IR-0137",
@@ -1458,7 +1594,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Bandar Kangan",
-      "coordinates": "27.85606, 52.04695"
+      "coordinates": "27.85606, 52.04695",
+      "metar_available": false
     },
     {
       "ident": "IR-0138",
@@ -1469,7 +1606,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Bushehr",
-      "coordinates": "28.92862, 50.82229"
+      "coordinates": "28.92862, 50.82229",
+      "metar_available": false
     },
     {
       "ident": "IR-0139",
@@ -1479,7 +1617,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Khargo",
-      "coordinates": "29.33337, 50.35069"
+      "coordinates": "29.33337, 50.35069",
+      "metar_available": false
     },
     {
       "ident": "IR-0140",
@@ -1490,7 +1629,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Tol-e Gorosne",
-      "coordinates": "30.29831, 50.09888"
+      "coordinates": "30.29831, 50.09888",
+      "metar_available": false
     },
     {
       "ident": "IR-0141",
@@ -1501,7 +1641,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Paradis",
-      "coordinates": "30.33635, 50.28434"
+      "coordinates": "30.33635, 50.28434",
+      "metar_available": false
     },
     {
       "ident": "IR-0142",
@@ -1512,7 +1653,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Sardasht",
-      "coordinates": "30.34588, 50.22587"
+      "coordinates": "30.34588, 50.22587",
+      "metar_available": false
     },
     {
       "ident": "IR-0143",
@@ -1523,7 +1665,8 @@
       "iso_country": "IR",
       "iso_region": "IR-17",
       "municipality": "Shams-e Arab",
-      "coordinates": "30.39992, 50.61564"
+      "coordinates": "30.39992, 50.61564",
+      "metar_available": false
     },
     {
       "ident": "IR-0144",
@@ -1534,7 +1677,8 @@
       "iso_country": "IR",
       "iso_region": "IR-17",
       "municipality": "Basht",
-      "coordinates": "30.3704, 51.15521"
+      "coordinates": "30.3704, 51.15521",
+      "metar_available": false
     },
     {
       "ident": "IR-0145",
@@ -1545,7 +1689,8 @@
       "iso_country": "IR",
       "iso_region": "IR-17",
       "municipality": "Yasuj",
-      "coordinates": "30.64278, 51.58891"
+      "coordinates": "30.64278, 51.58891",
+      "metar_available": false
     },
     {
       "ident": "IR-0146",
@@ -1556,7 +1701,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Eqlid",
-      "coordinates": "30.85656, 52.53252"
+      "coordinates": "30.85656, 52.53252",
+      "metar_available": false
     },
     {
       "ident": "IR-0147",
@@ -1567,7 +1713,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Dorodzan",
-      "coordinates": "30.21176, 52.41705"
+      "coordinates": "30.21176, 52.41705",
+      "metar_available": false
     },
     {
       "ident": "IR-0148",
@@ -1578,7 +1725,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Jari Abad",
-      "coordinates": "29.92596, 52.49911"
+      "coordinates": "29.92596, 52.49911",
+      "metar_available": false
     },
     {
       "ident": "IR-0149",
@@ -1589,7 +1737,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Lapui",
-      "coordinates": "29.80889, 52.66683"
+      "coordinates": "29.80889, 52.66683",
+      "metar_available": false
     },
     {
       "ident": "IR-0150",
@@ -1600,7 +1749,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Seyf Abad",
-      "coordinates": "29.2824, 52.96275"
+      "coordinates": "29.2824, 52.96275",
+      "metar_available": false
     },
     {
       "ident": "IR-0151",
@@ -1611,7 +1761,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Darab",
-      "coordinates": "28.74251, 54.55593"
+      "coordinates": "28.74251, 54.55593",
+      "metar_available": false
     },
     {
       "ident": "IR-0152",
@@ -1622,7 +1773,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Koshkuye",
-      "coordinates": "28.5816, 55.77152"
+      "coordinates": "28.5816, 55.77152",
+      "metar_available": false
     },
     {
       "ident": "IR-0153",
@@ -1633,7 +1785,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Sirjan",
-      "coordinates": "29.44055, 55.70242"
+      "coordinates": "29.44055, 55.70242",
+      "metar_available": false
     },
     {
       "ident": "IR-0154",
@@ -1644,7 +1797,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Baghin",
-      "coordinates": "30.20311, 56.79187"
+      "coordinates": "30.20311, 56.79187",
+      "metar_available": false
     },
     {
       "ident": "IR-0155",
@@ -1655,7 +1809,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Darband",
-      "coordinates": "31.77942, 56.99676"
+      "coordinates": "31.77942, 56.99676",
+      "metar_available": false
     },
     {
       "ident": "IR-0156",
@@ -1667,7 +1822,8 @@
       "iso_region": "IR-21",
       "municipality": "Fahraj",
       "gps_code": "OIYR",
-      "coordinates": "31.693937, 54.575422"
+      "coordinates": "31.693937, 54.575422",
+      "metar_available": false
     },
     {
       "ident": "IR-0157",
@@ -1677,7 +1833,8 @@
       "iso_country": "IR",
       "iso_region": "IR-21",
       "municipality": "Meybod",
-      "coordinates": "32.25874, 54.08914"
+      "coordinates": "32.25874, 54.08914",
+      "metar_available": false
     },
     {
       "ident": "IR-0158",
@@ -1688,7 +1845,8 @@
       "iso_country": "IR",
       "iso_region": "IR-10",
       "municipality": "Naeen",
-      "coordinates": "32.8486, 53.08569"
+      "coordinates": "32.8486, 53.08569",
+      "metar_available": false
     },
     {
       "ident": "IR-0159",
@@ -1699,7 +1857,8 @@
       "iso_country": "IR",
       "iso_region": "IR-10",
       "municipality": "Zafarghand",
-      "coordinates": "33.20162, 52.45951"
+      "coordinates": "33.20162, 52.45951",
+      "metar_available": false
     },
     {
       "ident": "IR-0160",
@@ -1710,7 +1869,8 @@
       "iso_country": "IR",
       "iso_region": "IR-15",
       "municipality": "Khorramabad",
-      "coordinates": "33.548977, 48.208742"
+      "coordinates": "33.548977, 48.208742",
+      "metar_available": false
     },
     {
       "ident": "IR-0161",
@@ -1720,7 +1880,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "municipality": "Tarom Rural District",
-      "coordinates": "28.04816, 55.521791"
+      "coordinates": "28.04816, 55.521791",
+      "metar_available": false
     },
     {
       "ident": "IR-0162",
@@ -1729,7 +1890,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-U-A",
-      "coordinates": "28.979106, 50.988686"
+      "coordinates": "28.979106, 50.988686",
+      "metar_available": false
     },
     {
       "ident": "IR-0163",
@@ -1738,7 +1900,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-U-A",
-      "coordinates": "32.864676, 59.027235"
+      "coordinates": "32.864676, 59.027235",
+      "metar_available": false
     },
     {
       "ident": "IR-0164",
@@ -1747,7 +1910,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-U-A",
-      "coordinates": "26.143691, 61.517823"
+      "coordinates": "26.143691, 61.517823",
+      "metar_available": false
     },
     {
       "ident": "IR-0165",
@@ -1758,7 +1922,8 @@
       "iso_country": "IR",
       "iso_region": "IR-07",
       "municipality": "Kazerun",
-      "coordinates": "29.61274, 51.598299"
+      "coordinates": "29.61274, 51.598299",
+      "metar_available": false
     },
     {
       "ident": "IR-0166",
@@ -1768,7 +1933,8 @@
       "iso_country": "IR",
       "iso_region": "IR-04",
       "municipality": "Maku",
-      "coordinates": "39.469653, 44.417446"
+      "coordinates": "39.469653, 44.417446",
+      "metar_available": false
     },
     {
       "ident": "IR-0167",
@@ -1778,7 +1944,8 @@
       "iso_country": "IR",
       "iso_region": "IR-04",
       "municipality": "Qaleh Darrehsi Rural District",
-      "coordinates": "39.406612, 44.426471"
+      "coordinates": "39.406612, 44.426471",
+      "metar_available": false
     },
     {
       "ident": "IR-0168",
@@ -1788,7 +1955,8 @@
       "iso_country": "IR",
       "iso_region": "IR-04",
       "municipality": "Bazargan",
-      "coordinates": "39.396964, 44.397418"
+      "coordinates": "39.396964, 44.397418",
+      "metar_available": false
     },
     {
       "ident": "IR-0169",
@@ -1798,7 +1966,8 @@
       "iso_country": "IR",
       "iso_region": "IR-04",
       "municipality": "Chaldoran",
-      "coordinates": "39.367309, 44.042081"
+      "coordinates": "39.367309, 44.042081",
+      "metar_available": false
     },
     {
       "ident": "IR-0170",
@@ -1809,7 +1978,8 @@
       "iso_country": "IR",
       "iso_region": "IR-25",
       "municipality": "Qom",
-      "coordinates": "34.764019, 50.912629"
+      "coordinates": "34.764019, 50.912629",
+      "metar_available": false
     },
     {
       "ident": "IR-0171",
@@ -1818,7 +1988,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-U-A",
-      "coordinates": "32.105974, 48.703972"
+      "coordinates": "32.105974, 48.703972",
+      "metar_available": false
     },
     {
       "ident": "IR-0172",
@@ -1827,7 +1998,8 @@
       "continent": "AS",
       "iso_country": "IR",
       "iso_region": "IR-U-A",
-      "coordinates": "31.572903, 48.671007"
+      "coordinates": "31.572903, 48.671007",
+      "metar_available": false
     },
     {
       "ident": "IR-0173",
@@ -1838,7 +2010,8 @@
       "iso_country": "IR",
       "iso_region": "IR-06",
       "municipality": "Ahvaz",
-      "coordinates": "31.344387, 48.729561"
+      "coordinates": "31.344387, 48.729561",
+      "metar_available": false
     },
     {
       "ident": "IR-0174",
@@ -1849,7 +2022,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Asalouyeh",
-      "coordinates": "27.482359, 52.612897"
+      "coordinates": "27.482359, 52.612897",
+      "metar_available": false
     },
     {
       "ident": "IR-0175",
@@ -1860,7 +2034,8 @@
       "iso_country": "IR",
       "iso_region": "IR-23",
       "municipality": "Tehran",
-      "coordinates": "35.644798, 51.380699"
+      "coordinates": "35.644798, 51.380699",
+      "metar_available": false
     },
     {
       "ident": "IR-0176",
@@ -1871,7 +2046,8 @@
       "iso_country": "IR",
       "iso_region": "IR-18",
       "municipality": "Borazjan",
-      "coordinates": "29.266666, 51.200001"
+      "coordinates": "29.266666, 51.200001",
+      "metar_available": false
     },
     {
       "ident": "IR-0177",
@@ -1881,7 +2057,8 @@
       "iso_country": "IR",
       "iso_region": "IR-05",
       "municipality": "Qasr-e Shirin",
-      "coordinates": "34.516666, 45.566666"
+      "coordinates": "34.516666, 45.566666",
+      "metar_available": false
     },
     {
       "ident": "IR-0178",
@@ -1892,7 +2069,8 @@
       "iso_country": "IR",
       "iso_region": "IR-25",
       "municipality": "Qom",
-      "coordinates": "34.58114, 50.657481"
+      "coordinates": "34.58114, 50.657481",
+      "metar_available": false
     },
     {
       "ident": "IR-0179",
@@ -1903,7 +2081,8 @@
       "iso_country": "IR",
       "iso_region": "IR-20",
       "municipality": "Damghan",
-      "coordinates": "36.166698, 54.343899"
+      "coordinates": "36.166698, 54.343899",
+      "metar_available": false
     },
     {
       "ident": "IR-0180",
@@ -1914,7 +2093,8 @@
       "iso_country": "IR",
       "iso_region": "IR-08",
       "municipality": "Baft",
-      "coordinates": "29.2342, 56.606899"
+      "coordinates": "29.2342, 56.606899",
+      "metar_available": false
     },
     {
       "ident": "IR-0181",
@@ -1925,7 +2105,8 @@
       "iso_country": "IR",
       "iso_region": "IR-02",
       "municipality": "Amol",
-      "coordinates": "36.470798, 52.3633"
+      "coordinates": "36.470798, 52.3633",
+      "metar_available": false
     },
     {
       "ident": "IR-0182",
@@ -1936,7 +2117,8 @@
       "iso_country": "IR",
       "iso_region": "IR-02",
       "municipality": "Babolsar",
-      "coordinates": "36.711263, 52.679699"
+      "coordinates": "36.711263, 52.679699",
+      "metar_available": false
     },
     {
       "ident": "IR-0183",
@@ -1947,7 +2129,8 @@
       "iso_country": "IR",
       "iso_region": "IR-02",
       "municipality": "Behshahr",
-      "coordinates": "36.694401, 53.5425"
+      "coordinates": "36.694401, 53.5425",
+      "metar_available": false
     },
     {
       "ident": "IR-0184",
@@ -1957,7 +2140,8 @@
       "iso_country": "IR",
       "iso_region": "IR-02",
       "municipality": "Ghaem Shahr",
-      "coordinates": "36.466667, 52.866669"
+      "coordinates": "36.466667, 52.866669",
+      "metar_available": false
     },
     {
       "ident": "IR-0185",
@@ -1967,7 +2151,8 @@
       "iso_country": "IR",
       "iso_region": "IR-21",
       "municipality": "Bafgh",
-      "coordinates": "31.583332, 55.566666"
+      "coordinates": "31.583332, 55.566666",
+      "metar_available": false
     },
     {
       "ident": "IR-OI24",
@@ -1979,7 +2164,8 @@
       "iso_region": "IR-27",
       "municipality": "Gonbad-e Kavus",
       "local_code": "OI24",
-      "coordinates": "37.246101, 55.095901"
+      "coordinates": "37.246101, 55.095901",
+      "metar_available": false
     },
     {
       "ident": "OI03",
@@ -1992,7 +2178,8 @@
       "municipality": "Garmsār",
       "gps_code": "OI03",
       "local_code": "OI03",
-      "coordinates": "35.174198, 52.323299"
+      "coordinates": "35.174198, 52.323299",
+      "metar_available": false
     },
     {
       "ident": "OI13",
@@ -2004,7 +2191,8 @@
       "iso_region": "IR-07",
       "gps_code": "OI13",
       "local_code": "OI13",
-      "coordinates": "30, 53.71149826049805"
+      "coordinates": "30, 53.71149826049805",
+      "metar_available": false
     },
     {
       "ident": "OI19",
@@ -2017,7 +2205,8 @@
       "municipality": "Firuzabad",
       "gps_code": "OIIR",
       "local_code": "OI19",
-      "coordinates": "35.5299, 51.505798"
+      "coordinates": "35.5299, 51.505798",
+      "metar_available": false
     },
     {
       "ident": "OI1C",
@@ -2030,7 +2219,8 @@
       "municipality": "Mehtar Kalateh",
       "gps_code": "OI1C",
       "local_code": "OI1C",
-      "coordinates": "36.856899, 54.202202"
+      "coordinates": "36.856899, 54.202202",
+      "metar_available": false
     },
     {
       "ident": "OI20",
@@ -2044,7 +2234,8 @@
       "gps_code": "OI20",
       "iata_code": "IAQ",
       "local_code": "OI20",
-      "coordinates": "29.840099, 50.272701"
+      "coordinates": "29.840099, 50.272701",
+      "metar_available": false
     },
     {
       "ident": "OIAA",
@@ -2057,7 +2248,8 @@
       "municipality": "Abadan",
       "gps_code": "OIAA",
       "iata_code": "ABD",
-      "coordinates": "30.367887, 48.230075"
+      "coordinates": "30.367887, 48.230075",
+      "metar_available": false
     },
     {
       "ident": "OIAD",
@@ -2070,7 +2262,8 @@
       "municipality": "Dezful",
       "gps_code": "OIAD",
       "iata_code": "DEF",
-      "coordinates": "32.434399, 48.397598"
+      "coordinates": "32.434399, 48.397598",
+      "metar_available": false
     },
     {
       "ident": "OIAG",
@@ -2083,7 +2276,8 @@
       "municipality": "Aghajari",
       "gps_code": "OIAG",
       "iata_code": "AKW",
-      "coordinates": "30.7444, 49.6772"
+      "coordinates": "30.7444, 49.6772",
+      "metar_available": false
     },
     {
       "ident": "OIAH",
@@ -2096,7 +2290,8 @@
       "municipality": "Gachsaran",
       "gps_code": "OIAH",
       "iata_code": "GCH",
-      "coordinates": "30.333869, 50.833796"
+      "coordinates": "30.333869, 50.833796",
+      "metar_available": false
     },
     {
       "ident": "OIAI",
@@ -2109,7 +2304,8 @@
       "municipality": "Masjed Soleyman",
       "gps_code": "OIAI",
       "iata_code": "QMJ",
-      "coordinates": "32.001719, 49.268599"
+      "coordinates": "32.001719, 49.268599",
+      "metar_available": false
     },
     {
       "ident": "OIAJ",
@@ -2122,7 +2318,8 @@
       "municipality": "Omidiyeh",
       "gps_code": "OIAJ",
       "iata_code": "OMI",
-      "coordinates": "30.835199, 49.534901"
+      "coordinates": "30.835199, 49.534901",
+      "metar_available": false
     },
     {
       "ident": "OIAM",
@@ -2135,7 +2332,8 @@
       "municipality": "Mahshahr",
       "gps_code": "OIAM",
       "iata_code": "MRX",
-      "coordinates": "30.5562, 49.151901"
+      "coordinates": "30.5562, 49.151901",
+      "metar_available": false
     },
     {
       "ident": "OIAW",
@@ -2148,7 +2346,8 @@
       "municipality": "Ahvaz",
       "gps_code": "OIAW",
       "iata_code": "AWZ",
-      "coordinates": "31.3374, 48.762001"
+      "coordinates": "31.3374, 48.762001",
+      "metar_available": false
     },
     {
       "ident": "OIBA",
@@ -2161,7 +2360,8 @@
       "municipality": "Abu Musa",
       "gps_code": "OIBA",
       "iata_code": "AEU",
-      "coordinates": "25.8757, 55.033001"
+      "coordinates": "25.8757, 55.033001",
+      "metar_available": false
     },
     {
       "ident": "OIBB",
@@ -2174,7 +2374,8 @@
       "municipality": "Bushehr",
       "gps_code": "OIBB",
       "iata_code": "BUZ",
-      "coordinates": "28.9447994232, 50.8345985413"
+      "coordinates": "28.9447994232, 50.8345985413",
+      "metar_available": false
     },
     {
       "ident": "OIBH",
@@ -2185,7 +2386,8 @@
       "iso_country": "IR",
       "iso_region": "IR-22",
       "gps_code": "OIBH",
-      "coordinates": "27.21269989013672, 54.318599700927734"
+      "coordinates": "27.21269989013672, 54.318599700927734",
+      "metar_available": false
     },
     {
       "ident": "OIBJ",
@@ -2198,7 +2400,8 @@
       "municipality": "Jam",
       "gps_code": "OIBJ",
       "iata_code": "KNR",
-      "coordinates": "27.820499, 52.3522"
+      "coordinates": "27.820499, 52.3522",
+      "metar_available": false
     },
     {
       "ident": "OIBK",
@@ -2211,7 +2414,8 @@
       "municipality": "Kish Island",
       "gps_code": "OIBK",
       "iata_code": "KIH",
-      "coordinates": "26.5261993408, 53.980201721200004"
+      "coordinates": "26.5261993408, 53.980201721200004",
+      "metar_available": false
     },
     {
       "ident": "OIBL",
@@ -2224,7 +2428,8 @@
       "municipality": "Bandar Lengeh",
       "gps_code": "OIBL",
       "iata_code": "BDH",
-      "coordinates": "26.532283, 54.82484"
+      "coordinates": "26.532283, 54.82484",
+      "metar_available": false
     },
     {
       "ident": "OIBP",
@@ -2237,7 +2442,8 @@
       "municipality": "Khiyaroo",
       "gps_code": "OIBP",
       "iata_code": "PGU",
-      "coordinates": "27.379601, 52.737701"
+      "coordinates": "27.379601, 52.737701",
+      "metar_available": false
     },
     {
       "ident": "OIBQ",
@@ -2250,7 +2456,8 @@
       "municipality": "Khark",
       "gps_code": "OIBQ",
       "iata_code": "KHK",
-      "coordinates": "29.260503, 50.322193"
+      "coordinates": "29.260503, 50.322193",
+      "metar_available": false
     },
     {
       "ident": "OIBS",
@@ -2263,7 +2470,8 @@
       "municipality": "Siri",
       "gps_code": "OIBS",
       "iata_code": "SXI",
-      "coordinates": "25.908899, 54.539398"
+      "coordinates": "25.908899, 54.539398",
+      "metar_available": false
     },
     {
       "ident": "OIBV",
@@ -2276,7 +2484,8 @@
       "municipality": "Lavan Airport",
       "gps_code": "OIBV",
       "iata_code": "LVP",
-      "coordinates": "26.810742, 53.354302"
+      "coordinates": "26.810742, 53.354302",
+      "metar_available": false
     },
     {
       "ident": "OICB",
@@ -2288,7 +2497,8 @@
       "iso_region": "IR-12",
       "municipality": "Baneh",
       "gps_code": "OICB",
-      "coordinates": "35.987701416015625, 45.84709930419922"
+      "coordinates": "35.987701416015625, 45.84709930419922",
+      "metar_available": false
     },
     {
       "ident": "OICC",
@@ -2301,7 +2511,8 @@
       "municipality": "Kermanshah",
       "gps_code": "OICC",
       "iata_code": "KSH",
-      "coordinates": "34.3459014893, 47.1581001282"
+      "coordinates": "34.3459014893, 47.1581001282",
+      "metar_available": false
     },
     {
       "ident": "OICD",
@@ -2313,7 +2524,8 @@
       "iso_region": "IR-16",
       "municipality": "Abdanan",
       "gps_code": "OICD",
-      "coordinates": "32.934502, 47.483398"
+      "coordinates": "32.934502, 47.483398",
+      "metar_available": false
     },
     {
       "ident": "OICI",
@@ -2326,7 +2538,8 @@
       "municipality": "Ilam",
       "gps_code": "OICI",
       "iata_code": "IIL",
-      "coordinates": "33.58660125732422, 46.40480041503906"
+      "coordinates": "33.58660125732422, 46.40480041503906",
+      "metar_available": false
     },
     {
       "ident": "OICK",
@@ -2338,7 +2551,8 @@
       "iso_region": "IR-15",
       "gps_code": "OICK",
       "iata_code": "KHD",
-      "coordinates": "33.43539810180664, 48.282901763916016"
+      "coordinates": "33.43539810180664, 48.282901763916016",
+      "metar_available": false
     },
     {
       "ident": "OICS",
@@ -2350,7 +2564,8 @@
       "iso_region": "IR-12",
       "gps_code": "OICS",
       "iata_code": "SDG",
-      "coordinates": "35.24589920043945, 47.00920104980469"
+      "coordinates": "35.24589920043945, 47.00920104980469",
+      "metar_available": false
     },
     {
       "ident": "OICZ",
@@ -2361,7 +2576,8 @@
       "iso_country": "IR",
       "iso_region": "IR-15",
       "gps_code": "OICZ",
-      "coordinates": "33.38359832763672, 49.6963996887207"
+      "coordinates": "33.38359832763672, 49.6963996887207",
+      "metar_available": false
     },
     {
       "ident": "OIFE",
@@ -2374,7 +2590,8 @@
       "municipality": "Hesa",
       "gps_code": "OIFE",
       "iata_code": "IFH",
-      "coordinates": "32.928902, 51.5611"
+      "coordinates": "32.928902, 51.5611",
+      "metar_available": false
     },
     {
       "ident": "OIFH",
@@ -2386,7 +2603,8 @@
       "iso_region": "IR-10",
       "municipality": "Esfahan",
       "gps_code": "OIFH",
-      "coordinates": "32.567166, 51.69111"
+      "coordinates": "32.567166, 51.69111",
+      "metar_available": false
     },
     {
       "ident": "OIFK",
@@ -2399,7 +2617,8 @@
       "municipality": "Kashan",
       "gps_code": "OIFK",
       "iata_code": "KKS",
-      "coordinates": "33.895302, 51.577"
+      "coordinates": "33.895302, 51.577",
+      "metar_available": false
     },
     {
       "ident": "OIFM",
@@ -2412,7 +2631,8 @@
       "municipality": "Isfahan",
       "gps_code": "OIFM",
       "iata_code": "IFN",
-      "coordinates": "32.750755, 51.861483"
+      "coordinates": "32.750755, 51.861483",
+      "metar_available": false
     },
     {
       "ident": "OIFP",
@@ -2424,7 +2644,8 @@
       "iso_region": "IR-10",
       "municipality": "Esfahan",
       "gps_code": "OIFP",
-      "coordinates": "32.621101, 51.696999"
+      "coordinates": "32.621101, 51.696999",
+      "metar_available": false
     },
     {
       "ident": "OIFS",
@@ -2437,7 +2658,8 @@
       "municipality": "Shahrekord",
       "gps_code": "OIFS",
       "iata_code": "CQD",
-      "coordinates": "32.2971992493, 50.842201232899995"
+      "coordinates": "32.2971992493, 50.842201232899995",
+      "metar_available": false
     },
     {
       "ident": "OIFV",
@@ -2449,7 +2671,8 @@
       "iso_region": "IR-10",
       "municipality": "Zarrinshahr",
       "gps_code": "OIFV",
-      "coordinates": "32.32740020751953, 51.37730026245117"
+      "coordinates": "32.32740020751953, 51.37730026245117",
+      "metar_available": false
     },
     {
       "ident": "OIGG",
@@ -2462,7 +2685,8 @@
       "municipality": "Rasht",
       "gps_code": "OIGG",
       "iata_code": "RAS",
-      "coordinates": "37.323333, 49.617778"
+      "coordinates": "37.323333, 49.617778",
+      "metar_available": false
     },
     {
       "ident": "OIHH",
@@ -2475,7 +2699,8 @@
       "municipality": "Hamadan",
       "gps_code": "OIHH",
       "iata_code": "HDM",
-      "coordinates": "34.869202, 48.552502"
+      "coordinates": "34.869202, 48.552502",
+      "metar_available": false
     },
     {
       "ident": "OIHM",
@@ -2487,7 +2712,8 @@
       "iso_region": "IR-13",
       "municipality": "Malayer",
       "gps_code": "OIHM",
-      "coordinates": "34.28333282470703, 48.81666564941406"
+      "coordinates": "34.28333282470703, 48.81666564941406",
+      "metar_available": false
     },
     {
       "ident": "OIHR",
@@ -2500,7 +2726,8 @@
       "municipality": "Araak",
       "gps_code": "OIHR",
       "iata_code": "AJK",
-      "coordinates": "34.1381, 49.847301"
+      "coordinates": "34.1381, 49.847301",
+      "metar_available": false
     },
     {
       "ident": "OIHS",
@@ -2513,7 +2740,8 @@
       "municipality": "Amirabad",
       "gps_code": "OIHS",
       "iata_code": "NUJ",
-      "coordinates": "35.211601, 48.6534"
+      "coordinates": "35.211601, 48.6534",
+      "metar_available": false
     },
     {
       "ident": "OIIA",
@@ -2525,7 +2753,8 @@
       "iso_region": "IR-26",
       "municipality": "Gharpuz Abad",
       "gps_code": "OIIA",
-      "coordinates": "35.952099, 50.450802"
+      "coordinates": "35.952099, 50.450802",
+      "metar_available": false
     },
     {
       "ident": "OIIB",
@@ -2537,7 +2766,8 @@
       "iso_region": "IR-20",
       "municipality": "Eyvanekey",
       "gps_code": "OIIB",
-      "coordinates": "35.360351, 51.98659"
+      "coordinates": "35.360351, 51.98659",
+      "metar_available": false
     },
     {
       "ident": "OIIC",
@@ -2550,7 +2780,8 @@
       "municipality": "Qāshqābolāq",
       "gps_code": "OIIC",
       "local_code": "OI1B",
-      "coordinates": "34.984001, 50.806198"
+      "coordinates": "34.984001, 50.806198",
+      "metar_available": false
     },
     {
       "ident": "OIID",
@@ -2562,7 +2793,8 @@
       "iso_region": "IR-23",
       "municipality": "Tehran",
       "gps_code": "OIID",
-      "coordinates": "35.702999, 51.475101"
+      "coordinates": "35.702999, 51.475101",
+      "metar_available": false
     },
     {
       "ident": "OIIE",
@@ -2575,7 +2807,8 @@
       "municipality": "Tehran",
       "gps_code": "OIIE",
       "iata_code": "IKA",
-      "coordinates": "35.416099548339844, 51.152198791503906"
+      "coordinates": "35.416099548339844, 51.152198791503906",
+      "metar_available": false
     },
     {
       "ident": "OIII",
@@ -2588,7 +2821,8 @@
       "municipality": "Tehran",
       "gps_code": "OIII",
       "iata_code": "THR",
-      "coordinates": "35.68920135498047, 51.31340026855469"
+      "coordinates": "35.68920135498047, 51.31340026855469",
+      "metar_available": false
     },
     {
       "ident": "OIIK",
@@ -2601,7 +2835,8 @@
       "municipality": "Qazvin",
       "gps_code": "OIIK",
       "iata_code": "GZW",
-      "coordinates": "36.240101, 50.0471"
+      "coordinates": "36.240101, 50.0471",
+      "metar_available": false
     },
     {
       "ident": "OIIM",
@@ -2613,7 +2848,8 @@
       "iso_region": "IR-30",
       "municipality": "Karaj",
       "gps_code": "OIIM",
-      "coordinates": "35.776299, 50.881001"
+      "coordinates": "35.776299, 50.881001",
+      "metar_available": false
     },
     {
       "ident": "OIIP",
@@ -2626,7 +2862,8 @@
       "municipality": "Karaj",
       "gps_code": "OIIP",
       "iata_code": "PYK",
-      "coordinates": "35.7761, 50.826698"
+      "coordinates": "35.7761, 50.826698",
+      "metar_available": false
     },
     {
       "ident": "OIIS",
@@ -2639,7 +2876,8 @@
       "municipality": "Semnan",
       "gps_code": "OIIS",
       "iata_code": "SNX",
-      "coordinates": "35.591099, 53.495098"
+      "coordinates": "35.591099, 53.495098",
+      "metar_available": false
     },
     {
       "ident": "OIKB",
@@ -2652,7 +2890,8 @@
       "municipality": "Bandar Abbas",
       "gps_code": "OIKB",
       "iata_code": "BND",
-      "coordinates": "27.218299865722656, 56.37779998779297"
+      "coordinates": "27.218299865722656, 56.37779998779297",
+      "metar_available": false
     },
     {
       "ident": "OIKJ",
@@ -2665,7 +2904,8 @@
       "municipality": "Jiroft",
       "gps_code": "OIKJ",
       "iata_code": "JYR",
-      "coordinates": "28.723519, 57.675037"
+      "coordinates": "28.723519, 57.675037",
+      "metar_available": false
     },
     {
       "ident": "OIKK",
@@ -2678,7 +2918,8 @@
       "municipality": "Kerman",
       "gps_code": "OIKK",
       "iata_code": "KER",
-      "coordinates": "30.271276, 56.949692"
+      "coordinates": "30.271276, 56.949692",
+      "metar_available": false
     },
     {
       "ident": "OIKM",
@@ -2691,7 +2932,8 @@
       "municipality": "Bam",
       "gps_code": "OIKM",
       "iata_code": "BXR",
-      "coordinates": "29.0842, 58.450001"
+      "coordinates": "29.0842, 58.450001",
+      "metar_available": false
     },
     {
       "ident": "OIKP",
@@ -2704,7 +2946,8 @@
       "municipality": "Bandar Abbas",
       "gps_code": "OIKP",
       "iata_code": "HDR",
-      "coordinates": "27.1583, 56.172501"
+      "coordinates": "27.1583, 56.172501",
+      "metar_available": false
     },
     {
       "ident": "OIKQ",
@@ -2717,7 +2960,8 @@
       "municipality": "Dayrestan",
       "gps_code": "OIKQ",
       "iata_code": "GSM",
-      "coordinates": "26.754639, 55.902353"
+      "coordinates": "26.754639, 55.902353",
+      "metar_available": false
     },
     {
       "ident": "OIKR",
@@ -2730,7 +2974,8 @@
       "municipality": "Rafsanjan",
       "gps_code": "OIKR",
       "iata_code": "RJN",
-      "coordinates": "30.298345, 56.048979"
+      "coordinates": "30.298345, 56.048979",
+      "metar_available": false
     },
     {
       "ident": "OIKY",
@@ -2743,7 +2988,8 @@
       "municipality": "Sirjan",
       "gps_code": "OIKY",
       "iata_code": "SYJ",
-      "coordinates": "29.5509, 55.672699"
+      "coordinates": "29.5509, 55.672699",
+      "metar_available": false
     },
     {
       "ident": "OIMB",
@@ -2756,7 +3002,8 @@
       "municipality": "Birjand",
       "gps_code": "OIMB",
       "iata_code": "XBJ",
-      "coordinates": "32.896525, 59.281258"
+      "coordinates": "32.896525, 59.281258",
+      "metar_available": false
     },
     {
       "ident": "OIMC",
@@ -2769,7 +3016,8 @@
       "municipality": "Sarakhs",
       "gps_code": "OIMC",
       "iata_code": "CKT",
-      "coordinates": "36.501202, 61.064899"
+      "coordinates": "36.501202, 61.064899",
+      "metar_available": false
     },
     {
       "ident": "OIMD",
@@ -2780,7 +3028,8 @@
       "iso_region": "IR-09",
       "municipality": "Gonabad",
       "gps_code": "OIMD",
-      "coordinates": "34.349998474121094, 58.68000030517578"
+      "coordinates": "34.349998474121094, 58.68000030517578",
+      "metar_available": false
     },
     {
       "ident": "OIMH",
@@ -2792,7 +3041,8 @@
       "iso_region": "IR-09",
       "municipality": "Torbat-E-Heidarieh",
       "gps_code": "OIMH",
-      "coordinates": "35.266700744628906, 59.21670150756836"
+      "coordinates": "35.266700744628906, 59.21670150756836",
+      "metar_available": false
     },
     {
       "ident": "OIMJ",
@@ -2805,7 +3055,8 @@
       "municipality": "Shahrud",
       "gps_code": "OIMJ",
       "iata_code": "RUD",
-      "coordinates": "36.425301, 55.104198"
+      "coordinates": "36.425301, 55.104198",
+      "metar_available": false
     },
     {
       "ident": "OIMM",
@@ -2818,7 +3069,8 @@
       "municipality": "Mashhad",
       "gps_code": "OIMM",
       "iata_code": "MHD",
-      "coordinates": "36.235198974609375, 59.64099884033203"
+      "coordinates": "36.235198974609375, 59.64099884033203",
+      "metar_available": false
     },
     {
       "ident": "OIMN",
@@ -2831,7 +3083,8 @@
       "municipality": "Bojnord",
       "gps_code": "OIMN",
       "iata_code": "BJB",
-      "coordinates": "37.49300003051758, 57.30820083618164"
+      "coordinates": "37.49300003051758, 57.30820083618164",
+      "metar_available": false
     },
     {
       "ident": "OIMS",
@@ -2844,7 +3097,8 @@
       "municipality": "Sabzevar",
       "gps_code": "OIMS",
       "iata_code": "AFZ",
-      "coordinates": "36.16809844970703, 57.59519958496094"
+      "coordinates": "36.16809844970703, 57.59519958496094",
+      "metar_available": false
     },
     {
       "ident": "OIMT",
@@ -2857,7 +3111,8 @@
       "municipality": "Tabas",
       "gps_code": "OIMT",
       "iata_code": "TCX",
-      "coordinates": "33.667801, 56.8927"
+      "coordinates": "33.667801, 56.8927",
+      "metar_available": false
     },
     {
       "ident": "OIMX",
@@ -2869,7 +3124,8 @@
       "iso_region": "IR-27",
       "municipality": "Soga",
       "gps_code": "OIMX",
-      "coordinates": "37.627899, 56.1731"
+      "coordinates": "37.627899, 56.1731",
+      "metar_available": false
     },
     {
       "ident": "OINE",
@@ -2882,7 +3138,8 @@
       "municipality": "Kalaleh",
       "gps_code": "OINE",
       "iata_code": "KLM",
-      "coordinates": "37.383301, 55.452"
+      "coordinates": "37.383301, 55.452",
+      "metar_available": false
     },
     {
       "ident": "OING",
@@ -2895,7 +3152,8 @@
       "municipality": "Gorgan",
       "gps_code": "OING",
       "iata_code": "GBT",
-      "coordinates": "36.909400939899996, 54.4012985229"
+      "coordinates": "36.909400939899996, 54.4012985229",
+      "metar_available": false
     },
     {
       "ident": "OINJ",
@@ -2908,7 +3166,8 @@
       "municipality": "Amol",
       "gps_code": "OINJ",
       "iata_code": "BSM",
-      "coordinates": "36.655102, 52.349602"
+      "coordinates": "36.655102, 52.349602",
+      "metar_available": false
     },
     {
       "ident": "OINM",
@@ -2919,7 +3178,8 @@
       "iso_region": "IR-10",
       "municipality": "Mahmood Abad",
       "gps_code": "OINM",
-      "coordinates": "34.169166564941406, 51.317501068115234"
+      "coordinates": "34.169166564941406, 51.317501068115234",
+      "metar_available": false
     },
     {
       "ident": "OINN",
@@ -2932,7 +3192,8 @@
       "municipality": "Nowshahr",
       "gps_code": "OINN",
       "iata_code": "NSH",
-      "coordinates": "36.664286, 51.46273"
+      "coordinates": "36.664286, 51.46273",
+      "metar_available": false
     },
     {
       "ident": "OINR",
@@ -2945,7 +3206,8 @@
       "municipality": "Ramsar",
       "gps_code": "OINR",
       "iata_code": "RZR",
-      "coordinates": "36.90701, 50.687316"
+      "coordinates": "36.90701, 50.687316",
+      "metar_available": false
     },
     {
       "ident": "OINZ",
@@ -2958,7 +3220,8 @@
       "municipality": "Sari",
       "gps_code": "OINZ",
       "iata_code": "SRY",
-      "coordinates": "36.644408, 53.188761"
+      "coordinates": "36.644408, 53.188761",
+      "metar_available": false
     },
     {
       "ident": "OISA",
@@ -2970,7 +3233,8 @@
       "iso_region": "IR-07",
       "municipality": "Abadeh",
       "gps_code": "OISA",
-      "coordinates": "31.033006, 52.785988"
+      "coordinates": "31.033006, 52.785988",
+      "metar_available": false
     },
     {
       "ident": "OISD",
@@ -2982,7 +3246,8 @@
       "iso_region": "IR-07",
       "municipality": "Bargan",
       "gps_code": "OISD",
-      "coordinates": "28.7216, 54.441299"
+      "coordinates": "28.7216, 54.441299",
+      "metar_available": false
     },
     {
       "ident": "OISF",
@@ -2995,7 +3260,8 @@
       "municipality": "Fasa",
       "gps_code": "OISF",
       "iata_code": "FAZ",
-      "coordinates": "28.8918, 53.723301"
+      "coordinates": "28.8918, 53.723301",
+      "metar_available": false
     },
     {
       "ident": "OISJ",
@@ -3008,7 +3274,8 @@
       "municipality": "Jahrom",
       "gps_code": "OISJ",
       "iata_code": "JAR",
-      "coordinates": "28.586700439499996, 53.5791015625"
+      "coordinates": "28.586700439499996, 53.5791015625",
+      "metar_available": false
     },
     {
       "ident": "OISL",
@@ -3021,7 +3288,8 @@
       "municipality": "Lar",
       "gps_code": "OISL",
       "iata_code": "LRR",
-      "coordinates": "27.6747, 54.383301"
+      "coordinates": "27.6747, 54.383301",
+      "metar_available": false
     },
     {
       "ident": "OISO",
@@ -3033,7 +3301,8 @@
       "iso_region": "IR-07",
       "municipality": "Zarqan",
       "gps_code": "OISO",
-      "coordinates": "29.754728, 52.693691"
+      "coordinates": "29.754728, 52.693691",
+      "metar_available": false
     },
     {
       "ident": "OISR",
@@ -3046,7 +3315,8 @@
       "municipality": "Lamerd",
       "gps_code": "OISR",
       "iata_code": "LFM",
-      "coordinates": "27.3727, 53.188801"
+      "coordinates": "27.3727, 53.188801",
+      "metar_available": false
     },
     {
       "ident": "OISS",
@@ -3059,7 +3329,8 @@
       "municipality": "Shiraz",
       "gps_code": "OISS",
       "iata_code": "SYZ",
-      "coordinates": "29.5392, 52.589802"
+      "coordinates": "29.5392, 52.589802",
+      "metar_available": false
     },
     {
       "ident": "OISY",
@@ -3072,7 +3343,8 @@
       "municipality": "Yasuj",
       "gps_code": "OISY",
       "iata_code": "YES",
-      "coordinates": "30.702238, 51.542988"
+      "coordinates": "30.702238, 51.542988",
+      "metar_available": false
     },
     {
       "ident": "OITH",
@@ -3085,7 +3357,8 @@
       "municipality": "Khaneh",
       "gps_code": "OITH",
       "iata_code": "KHA",
-      "coordinates": "36.733341, 45.150002"
+      "coordinates": "36.733341, 45.150002",
+      "metar_available": false
     },
     {
       "ident": "OITK",
@@ -3098,7 +3371,8 @@
       "municipality": "Khoy",
       "gps_code": "OITK",
       "iata_code": "KHY",
-      "coordinates": "38.4275016784668, 44.97359848022461"
+      "coordinates": "38.4275016784668, 44.97359848022461",
+      "metar_available": false
     },
     {
       "ident": "OITL",
@@ -3111,7 +3385,8 @@
       "municipality": "Ardabil",
       "gps_code": "OITL",
       "iata_code": "ADU",
-      "coordinates": "38.3256988525, 48.4244003296"
+      "coordinates": "38.3256988525, 48.4244003296",
+      "metar_available": false
     },
     {
       "ident": "OITM",
@@ -3124,7 +3399,8 @@
       "municipality": "Maragheh",
       "gps_code": "OITM",
       "iata_code": "ACP",
-      "coordinates": "37.347999572753906, 46.127899169921875"
+      "coordinates": "37.347999572753906, 46.127899169921875",
+      "metar_available": false
     },
     {
       "ident": "OITP",
@@ -3137,7 +3413,8 @@
       "municipality": "Parsabad",
       "gps_code": "OITP",
       "iata_code": "PFQ",
-      "coordinates": "39.6036, 47.8815"
+      "coordinates": "39.6036, 47.8815",
+      "metar_available": false
     },
     {
       "ident": "OITR",
@@ -3150,7 +3427,8 @@
       "municipality": "Urmia",
       "gps_code": "OITR",
       "iata_code": "OMH",
-      "coordinates": "37.6680984497, 45.0686988831"
+      "coordinates": "37.6680984497, 45.0686988831",
+      "metar_available": false
     },
     {
       "ident": "OITS",
@@ -3162,7 +3440,8 @@
       "iso_region": "IR-12",
       "municipality": "Saghez",
       "gps_code": "OITS",
-      "coordinates": "36.211407, 46.313124"
+      "coordinates": "36.211407, 46.313124",
+      "metar_available": false
     },
     {
       "ident": "OITT",
@@ -3175,7 +3454,8 @@
       "municipality": "Tabriz",
       "gps_code": "OITT",
       "iata_code": "TBZ",
-      "coordinates": "38.1339, 46.235001"
+      "coordinates": "38.1339, 46.235001",
+      "metar_available": false
     },
     {
       "ident": "OITU",
@@ -3188,7 +3468,8 @@
       "municipality": "Showt",
       "gps_code": "OITU",
       "iata_code": "IMQ",
-      "coordinates": "39.191293, 44.928505"
+      "coordinates": "39.191293, 44.928505",
+      "metar_available": false
     },
     {
       "ident": "OITZ",
@@ -3201,7 +3482,8 @@
       "municipality": "Zanjan",
       "gps_code": "OITZ",
       "iata_code": "JWN",
-      "coordinates": "36.7737007141, 48.3594017029"
+      "coordinates": "36.7737007141, 48.3594017029",
+      "metar_available": false
     },
     {
       "ident": "OIYY",
@@ -3214,7 +3496,8 @@
       "municipality": "Yazd",
       "gps_code": "OIYY",
       "iata_code": "AZD",
-      "coordinates": "31.9048995972, 54.2765007019"
+      "coordinates": "31.9048995972, 54.2765007019",
+      "metar_available": false
     },
     {
       "ident": "OIZB",
@@ -3227,7 +3510,8 @@
       "municipality": "Zabol",
       "gps_code": "OIZB",
       "iata_code": "ACZ",
-      "coordinates": "31.098301, 61.5439"
+      "coordinates": "31.098301, 61.5439",
+      "metar_available": false
     },
     {
       "ident": "OIZC",
@@ -3241,7 +3525,8 @@
       "gps_code": "OIZC",
       "iata_code": "ZBR",
       "local_code": "ZBR",
-      "coordinates": "25.44319, 60.382167"
+      "coordinates": "25.44319, 60.382167",
+      "metar_available": false
     },
     {
       "ident": "OIZH",
@@ -3254,7 +3539,8 @@
       "municipality": "Zahedan",
       "gps_code": "OIZH",
       "iata_code": "ZAH",
-      "coordinates": "29.47570037841797, 60.90620040893555"
+      "coordinates": "29.47570037841797, 60.90620040893555",
+      "metar_available": false
     },
     {
       "ident": "OIZI",
@@ -3267,7 +3553,8 @@
       "municipality": "Iranshahr",
       "gps_code": "OIZI",
       "iata_code": "IHR",
-      "coordinates": "27.236099, 60.720001"
+      "coordinates": "27.236099, 60.720001",
+      "metar_available": false
     },
     {
       "ident": "OIZJ",
@@ -3280,7 +3567,8 @@
       "municipality": "Bandar-e-Jask",
       "gps_code": "OIZJ",
       "iata_code": "JSK",
-      "coordinates": "25.654757, 57.801718"
+      "coordinates": "25.654757, 57.801718",
+      "metar_available": false
     },
     {
       "ident": "OIZS",
@@ -3292,7 +3580,8 @@
       "iso_region": "IR-11",
       "municipality": "Saravan",
       "gps_code": "OIZS",
-      "coordinates": "27.4193, 62.3158"
+      "coordinates": "27.4193, 62.3158",
+      "metar_available": false
     },
     {
       "ident": "US-OI05",
@@ -3303,7 +3592,8 @@
       "iso_country": "IR",
       "iso_region": "IR-10",
       "municipality": "Chashmeh-i-Zaghab",
-      "coordinates": "33.094298, 53.412495"
+      "coordinates": "33.094298, 53.412495",
+      "metar_available": false
     }
   ]
 }

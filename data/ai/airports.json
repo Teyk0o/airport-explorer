@@ -2,7 +2,7 @@
   "country_code": "AI",
   "country_name": "Anguilla",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.426974",
+  "last_updated": "2025-08-25T10:08:40.552625",
   "types_distribution": {
     "closed": 1,
     "medium_airport": 1
@@ -15,7 +15,8 @@
       "iso_country": "AI",
       "iso_region": "AI-U-A",
       "municipality": "Scrub Island",
-      "coordinates": "18.28812, -62.945352"
+      "coordinates": "18.28812, -62.945352",
+      "metar_available": false
     },
     {
       "ident": "TQPF",
@@ -27,7 +28,8 @@
       "municipality": "The Valley",
       "gps_code": "TQPF",
       "iata_code": "AXA",
-      "coordinates": "18.204773, -63.05383"
+      "coordinates": "18.204773, -63.05383",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "SN",
   "country_name": "Senegal",
   "total_airports": 21,
-  "last_updated": "2025-08-01T00:18:22.736931",
+  "last_updated": "2025-08-25T10:08:40.882392",
   "types_distribution": {
     "small_airport": 10,
     "large_airport": 1,
@@ -21,7 +21,8 @@
       "municipality": "Dodji",
       "gps_code": "GO66",
       "local_code": "GO66",
-      "coordinates": "15.543899536132812, -14.95829963684082"
+      "coordinates": "15.543899536132812, -14.95829963684082",
+      "metar_available": false
     },
     {
       "ident": "GOBD",
@@ -34,7 +35,8 @@
       "municipality": "Dakar",
       "gps_code": "GOBD",
       "iata_code": "DSS",
-      "coordinates": "14.670878, -17.072829"
+      "coordinates": "14.670878, -17.072829",
+      "metar_available": false
     },
     {
       "ident": "GODK",
@@ -47,7 +49,8 @@
       "municipality": "Kolda",
       "gps_code": "GOGK",
       "iata_code": "KDA",
-      "coordinates": "12.8985, -14.9681"
+      "coordinates": "12.8985, -14.9681",
+      "metar_available": false
     },
     {
       "ident": "GOGG",
@@ -60,7 +63,8 @@
       "municipality": "Ziguinchor",
       "gps_code": "GOGG",
       "iata_code": "ZIG",
-      "coordinates": "12.5556, -16.281799"
+      "coordinates": "12.5556, -16.281799",
+      "metar_available": false
     },
     {
       "ident": "GOGS",
@@ -73,7 +77,8 @@
       "municipality": "Cap Skirring",
       "gps_code": "GOGS",
       "iata_code": "CSK",
-      "coordinates": "12.39533, -16.748"
+      "coordinates": "12.39533, -16.748",
+      "metar_available": false
     },
     {
       "ident": "GOOG",
@@ -85,7 +90,8 @@
       "iso_region": "SN-LG",
       "municipality": "Linguère",
       "gps_code": "GOOG",
-      "coordinates": "15.402134, -15.080629"
+      "coordinates": "15.402134, -15.080629",
+      "metar_available": false
     },
     {
       "ident": "GOOK",
@@ -98,7 +104,8 @@
       "municipality": "Kaolack",
       "gps_code": "GOOK",
       "iata_code": "KLC",
-      "coordinates": "14.146900177001953, -16.051300048828125"
+      "coordinates": "14.146900177001953, -16.051300048828125",
+      "metar_available": false
     },
     {
       "ident": "GOOY",
@@ -111,7 +118,8 @@
       "municipality": "Dakar",
       "gps_code": "GOOY",
       "iata_code": "DKR",
-      "coordinates": "14.7397, -17.4902"
+      "coordinates": "14.7397, -17.4902",
+      "metar_available": false
     },
     {
       "ident": "GOSM",
@@ -124,7 +132,8 @@
       "municipality": "Ouro Sogui",
       "gps_code": "GOSM",
       "iata_code": "MAX",
-      "coordinates": "15.5936, -13.3228"
+      "coordinates": "15.5936, -13.3228",
+      "metar_available": false
     },
     {
       "ident": "GOSP",
@@ -137,7 +146,8 @@
       "municipality": "Podor",
       "gps_code": "GOSP",
       "iata_code": "POD",
-      "coordinates": "16.678155, -14.964957"
+      "coordinates": "16.678155, -14.964957",
+      "metar_available": false
     },
     {
       "ident": "GOSR",
@@ -150,7 +160,8 @@
       "municipality": "Richard Toll",
       "gps_code": "GOSR",
       "iata_code": "RDT",
-      "coordinates": "16.437816, -15.656376"
+      "coordinates": "16.437816, -15.656376",
+      "metar_available": false
     },
     {
       "ident": "GOSS",
@@ -163,7 +174,8 @@
       "municipality": "Saint Louis",
       "gps_code": "GOSS",
       "iata_code": "XLS",
-      "coordinates": "16.049814, -16.461039"
+      "coordinates": "16.049814, -16.461039",
+      "metar_available": false
     },
     {
       "ident": "GOTB",
@@ -176,7 +188,8 @@
       "municipality": "Bakel",
       "gps_code": "GOTB",
       "iata_code": "BXE",
-      "coordinates": "14.847299575805664, -12.468299865722656"
+      "coordinates": "14.847299575805664, -12.468299865722656",
+      "metar_available": false
     },
     {
       "ident": "GOTK",
@@ -189,7 +202,8 @@
       "municipality": "Kédougou",
       "gps_code": "GOTK",
       "iata_code": "KGG",
-      "coordinates": "12.57229995727539, -12.22029972076416"
+      "coordinates": "12.57229995727539, -12.22029972076416",
+      "metar_available": false
     },
     {
       "ident": "GOTS",
@@ -202,7 +216,8 @@
       "municipality": "Simenti",
       "gps_code": "GOTS",
       "iata_code": "SMY",
-      "coordinates": "13.046799659729004, -13.29539966583252"
+      "coordinates": "13.046799659729004, -13.29539966583252",
+      "metar_available": false
     },
     {
       "ident": "GOTT",
@@ -215,7 +230,8 @@
       "municipality": "Tambacounda",
       "gps_code": "GOTT",
       "iata_code": "TUD",
-      "coordinates": "13.7368, -13.6531"
+      "coordinates": "13.7368, -13.6531",
+      "metar_available": false
     },
     {
       "ident": "NIK",
@@ -227,7 +243,8 @@
       "iso_region": "SN-TC",
       "municipality": "Niokolo-Koba National Park",
       "iata_code": "NIK",
-      "coordinates": "13.052014, -12.727162"
+      "coordinates": "13.052014, -12.727162",
+      "metar_available": false
     },
     {
       "ident": "SN-0001",
@@ -237,7 +254,8 @@
       "iso_country": "SN",
       "iso_region": "SN-TH",
       "municipality": "Thiès",
-      "coordinates": "14.809398, -16.95066"
+      "coordinates": "14.809398, -16.95066",
+      "metar_available": false
     },
     {
       "ident": "SN-0002",
@@ -247,7 +265,8 @@
       "iso_country": "SN",
       "iso_region": "SN-ZG",
       "municipality": "Abéné",
-      "coordinates": "13.0101, -16.7213"
+      "coordinates": "13.0101, -16.7213",
+      "metar_available": false
     },
     {
       "ident": "SN-0003",
@@ -257,7 +276,8 @@
       "iso_country": "SN",
       "iso_region": "SN-FK",
       "municipality": "Djilor",
-      "coordinates": "14.0866, -16.6659"
+      "coordinates": "14.0866, -16.6659",
+      "metar_available": false
     },
     {
       "ident": "SN-0004",
@@ -267,7 +287,8 @@
       "iso_country": "SN",
       "iso_region": "SN-TH",
       "municipality": "Saly",
-      "coordinates": "14.4646, -17.0136"
+      "coordinates": "14.4646, -17.0136",
+      "metar_available": false
     }
   ]
 }

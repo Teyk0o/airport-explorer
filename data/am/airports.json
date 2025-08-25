@@ -2,7 +2,7 @@
   "country_code": "AM",
   "country_name": "Armenia",
   "total_airports": 16,
-  "last_updated": "2025-08-01T00:18:22.428677",
+  "last_updated": "2025-08-25T10:08:40.554426",
   "types_distribution": {
     "small_airport": 8,
     "closed": 4,
@@ -19,7 +19,8 @@
       "iso_country": "AM",
       "iso_region": "AM-SU",
       "municipality": "Kapan",
-      "coordinates": "39.202272, 46.455204"
+      "coordinates": "39.202272, 46.455204",
+      "metar_available": false
     },
     {
       "ident": "AM-0002",
@@ -29,7 +30,8 @@
       "iso_country": "AM",
       "iso_region": "AM-SU",
       "municipality": "Shinuhayr",
-      "coordinates": "39.450989, 46.34724"
+      "coordinates": "39.450989, 46.34724",
+      "metar_available": false
     },
     {
       "ident": "AM-0003",
@@ -39,7 +41,8 @@
       "iso_country": "AM",
       "iso_region": "AM-AV",
       "municipality": "Hoktember",
-      "coordinates": "40.0809774791, 43.8822698593"
+      "coordinates": "40.0809774791, 43.8822698593",
+      "metar_available": false
     },
     {
       "ident": "AM-0004",
@@ -49,7 +52,8 @@
       "iso_country": "AM",
       "iso_region": "AM-TV",
       "municipality": "Berd",
-      "coordinates": "40.925405606300004, 45.4614043236"
+      "coordinates": "40.925405606300004, 45.4614043236",
+      "metar_available": false
     },
     {
       "ident": "AM-0005",
@@ -59,7 +63,8 @@
       "iso_country": "AM",
       "iso_region": "AM-GR",
       "municipality": "Gavar",
-      "coordinates": "40.371201153899996, 45.0973320007"
+      "coordinates": "40.371201153899996, 45.0973320007",
+      "metar_available": false
     },
     {
       "ident": "AM-0006",
@@ -69,7 +74,8 @@
       "iso_country": "AM",
       "iso_region": "AM-GR",
       "municipality": "Mets Mazrik",
-      "coordinates": "40.199855, 45.777111"
+      "coordinates": "40.199855, 45.777111",
+      "metar_available": false
     },
     {
       "ident": "AM-0007",
@@ -80,7 +86,8 @@
       "iso_country": "AM",
       "iso_region": "AM-SU",
       "municipality": "Meghri",
-      "coordinates": "38.9115725716, 46.198925972"
+      "coordinates": "38.9115725716, 46.198925972",
+      "metar_available": false
     },
     {
       "ident": "AM-0008",
@@ -90,7 +97,8 @@
       "iso_country": "AM",
       "iso_region": "AM-SU",
       "municipality": "Sisian",
-      "coordinates": "39.54694, 46.05694"
+      "coordinates": "39.54694, 46.05694",
+      "metar_available": false
     },
     {
       "ident": "AM-0009",
@@ -100,7 +108,8 @@
       "iso_country": "AM",
       "iso_region": "AM-AR",
       "municipality": "Bardzrashen",
-      "coordinates": "40.07953, 44.60577"
+      "coordinates": "40.07953, 44.60577",
+      "metar_available": false
     },
     {
       "ident": "AM-0010",
@@ -110,7 +119,8 @@
       "iso_country": "AM",
       "iso_region": "AM-ER",
       "municipality": "Yerevan",
-      "coordinates": "40.19627, 44.52476"
+      "coordinates": "40.19627, 44.52476",
+      "metar_available": false
     },
     {
       "ident": "AM-0011",
@@ -120,7 +130,8 @@
       "iso_country": "AM",
       "iso_region": "AM-VD",
       "municipality": "Jermuk",
-      "coordinates": "39.823666, 45.67327"
+      "coordinates": "39.823666, 45.67327",
+      "metar_available": false
     },
     {
       "ident": "UD21",
@@ -133,7 +144,8 @@
       "municipality": "Nor Hachn",
       "gps_code": "UD21",
       "local_code": "UD21",
-      "coordinates": "40.294102, 44.564602"
+      "coordinates": "40.294102, 44.564602",
+      "metar_available": false
     },
     {
       "ident": "UDLS",
@@ -145,7 +157,8 @@
       "iso_region": "AM-LO",
       "municipality": "Stepanavan",
       "gps_code": "UDLS",
-      "coordinates": "41.048500061, 44.337200164799995"
+      "coordinates": "41.048500061, 44.337200164799995",
+      "metar_available": false
     },
     {
       "ident": "UDSG",
@@ -158,7 +171,8 @@
       "municipality": "Gyumri",
       "gps_code": "UDSG",
       "iata_code": "LWN",
-      "coordinates": "40.750401, 43.859299"
+      "coordinates": "40.750401, 43.859299",
+      "metar_available": false
     },
     {
       "ident": "UDYE",
@@ -170,7 +184,8 @@
       "iso_region": "AM-ER",
       "municipality": "Yerevan",
       "gps_code": "UDYE",
-      "coordinates": "40.122100830099996, 44.465000152600005"
+      "coordinates": "40.122100830099996, 44.465000152600005",
+      "metar_available": false
     },
     {
       "ident": "UDYZ",
@@ -183,7 +198,8 @@
       "municipality": "Yerevan",
       "gps_code": "UDYZ",
       "iata_code": "EVN",
-      "coordinates": "40.1473007202, 44.3959007263"
+      "coordinates": "40.1473007202, 44.3959007263",
+      "metar_available": false
     }
   ]
 }

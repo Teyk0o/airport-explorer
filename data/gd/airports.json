@@ -2,7 +2,7 @@
   "country_code": "GD",
   "country_name": "Grenada",
   "total_airports": 3,
-  "last_updated": "2025-08-01T00:18:22.734149",
+  "last_updated": "2025-08-25T10:08:40.879423",
   "types_distribution": {
     "closed": 1,
     "medium_airport": 1,
@@ -17,7 +17,8 @@
       "iso_country": "GD",
       "iso_region": "GD-AN",
       "municipality": "Pearls",
-      "coordinates": "12.14368, -61.61692"
+      "coordinates": "12.14368, -61.61692",
+      "metar_available": false
     },
     {
       "ident": "TGPY",
@@ -29,7 +30,8 @@
       "municipality": "Saint George's",
       "gps_code": "TGPY",
       "iata_code": "GND",
-      "coordinates": "12.0042, -61.786201"
+      "coordinates": "12.0042, -61.786201",
+      "metar_available": false
     },
     {
       "ident": "TGPZ",
@@ -41,7 +43,8 @@
       "municipality": "Carriacou Island",
       "gps_code": "TGPZ",
       "iata_code": "CRU",
-      "coordinates": "12.4761, -61.472801"
+      "coordinates": "12.4761, -61.472801",
+      "metar_available": false
     }
   ]
 }

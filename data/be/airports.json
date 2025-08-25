@@ -2,7 +2,7 @@
   "country_code": "BE",
   "country_name": "Belgium",
   "total_airports": 215,
-  "last_updated": "2025-08-01T00:18:22.451133",
+  "last_updated": "2025-08-25T10:08:40.578787",
   "types_distribution": {
     "closed": 53,
     "heliport": 112,
@@ -22,7 +22,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Froidchapelle",
-      "coordinates": "50.176388, 4.352222"
+      "coordinates": "50.176388, 4.352222",
+      "metar_available": false
     },
     {
       "ident": "BE-0002",
@@ -33,7 +34,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Chimay",
-      "coordinates": "50.117778778, 4.33055591583"
+      "coordinates": "50.117778778, 4.33055591583",
+      "metar_available": false
     },
     {
       "ident": "BE-0003",
@@ -44,7 +46,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WNA",
       "municipality": "Ciney",
-      "coordinates": "50.286944, 5.038462"
+      "coordinates": "50.286944, 5.038462",
+      "metar_available": false
     },
     {
       "ident": "BE-0004",
@@ -56,7 +59,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Zomergem",
       "gps_code": "EBZM",
-      "coordinates": "51.131424, 3.522277"
+      "coordinates": "51.131424, 3.522277",
+      "metar_available": false
     },
     {
       "ident": "BE-0006",
@@ -67,7 +71,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Aalst",
-      "coordinates": "50.931377, 4.087209"
+      "coordinates": "50.931377, 4.087209",
+      "metar_available": false
     },
     {
       "ident": "BE-0007",
@@ -78,7 +83,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Bonheiden",
-      "coordinates": "51.01767, 4.55819"
+      "coordinates": "51.01767, 4.55819",
+      "metar_available": false
     },
     {
       "ident": "BE-0008",
@@ -90,7 +96,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Brecht",
       "gps_code": "EBBV",
-      "coordinates": "51.332, 4.62466"
+      "coordinates": "51.332, 4.62466",
+      "metar_available": false
     },
     {
       "ident": "BE-0009",
@@ -100,7 +107,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Gent",
-      "coordinates": "51.048358, 3.700268"
+      "coordinates": "51.048358, 3.700268",
+      "metar_available": false
     },
     {
       "ident": "BE-0010",
@@ -112,7 +120,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Lint",
       "gps_code": "EBLT",
-      "coordinates": "51.136231, 4.478994"
+      "coordinates": "51.136231, 4.478994",
+      "metar_available": false
     },
     {
       "ident": "BE-0011",
@@ -123,7 +132,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Neerpelt",
       "gps_code": "EBNP",
-      "coordinates": "51.240015, 5.417956"
+      "coordinates": "51.240015, 5.417956",
+      "metar_available": false
     },
     {
       "ident": "BE-0012",
@@ -133,7 +143,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WBR",
       "municipality": "Céroux-Mousty",
-      "coordinates": "50.660241, 4.513276"
+      "coordinates": "50.660241, 4.513276",
+      "metar_available": false
     },
     {
       "ident": "BE-0013",
@@ -144,7 +155,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WNA",
       "municipality": "Vresse-sur-Semois",
-      "coordinates": "49.90643, 4.93413"
+      "coordinates": "49.90643, 4.93413",
+      "metar_available": false
     },
     {
       "ident": "BE-0014",
@@ -156,7 +168,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Ichtegem",
       "gps_code": "EBWV",
-      "coordinates": "51.062009, 3.030462"
+      "coordinates": "51.062009, 3.030462",
+      "metar_available": false
     },
     {
       "ident": "BE-0015",
@@ -168,7 +181,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Lochristi",
       "gps_code": "EBLO",
-      "coordinates": "51.084131, 3.838701"
+      "coordinates": "51.084131, 3.838701",
+      "metar_available": false
     },
     {
       "ident": "BE-0016",
@@ -179,7 +193,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Mechelen",
-      "coordinates": "51.0703, 4.44653"
+      "coordinates": "51.0703, 4.44653",
+      "metar_available": false
     },
     {
       "ident": "BE-0017",
@@ -190,7 +205,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "gps_code": "EBCH",
-      "coordinates": "50.648205, 5.534268"
+      "coordinates": "50.648205, 5.534268",
+      "metar_available": false
     },
     {
       "ident": "BE-0018",
@@ -201,7 +217,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WNA",
       "municipality": "Yvoir",
-      "coordinates": "50.35869, 4.884487"
+      "coordinates": "50.35869, 4.884487",
+      "metar_available": false
     },
     {
       "ident": "BE-0019",
@@ -212,7 +229,8 @@
       "iso_country": "BE",
       "iso_region": "BE-BRU",
       "municipality": "Brussels",
-      "coordinates": "50.90527, 4.38936"
+      "coordinates": "50.90527, 4.38936",
+      "metar_available": false
     },
     {
       "ident": "BE-0020",
@@ -223,7 +241,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VWV",
       "municipality": "Roeselare",
-      "coordinates": "50.91723, 3.16542"
+      "coordinates": "50.91723, 3.16542",
+      "metar_available": false
     },
     {
       "ident": "BE-0021",
@@ -234,7 +253,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Marche-en-Famenne",
-      "coordinates": "50.240628, 5.366017"
+      "coordinates": "50.240628, 5.366017",
+      "metar_available": false
     },
     {
       "ident": "BE-0022",
@@ -245,7 +265,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Eupen",
-      "coordinates": "50.62952, 6.02817"
+      "coordinates": "50.62952, 6.02817",
+      "metar_available": false
     },
     {
       "ident": "BE-0023",
@@ -256,7 +277,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Malmedy",
-      "coordinates": "50.42694, 6.02379"
+      "coordinates": "50.42694, 6.02379",
+      "metar_available": false
     },
     {
       "ident": "BE-0024",
@@ -267,7 +289,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Duffel",
-      "coordinates": "51.10271, 4.49139"
+      "coordinates": "51.10271, 4.49139",
+      "metar_available": false
     },
     {
       "ident": "BE-0025",
@@ -278,7 +301,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Arlon",
-      "coordinates": "49.67729, 5.81996"
+      "coordinates": "49.67729, 5.81996",
+      "metar_available": false
     },
     {
       "ident": "BE-0026",
@@ -289,7 +313,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Brecht",
-      "coordinates": "51.35213, 4.63124"
+      "coordinates": "51.35213, 4.63124",
+      "metar_available": false
     },
     {
       "ident": "BE-0027",
@@ -300,7 +325,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VWV",
       "municipality": "Jabbeke",
-      "coordinates": "51.19372, 3.06436"
+      "coordinates": "51.19372, 3.06436",
+      "metar_available": false
     },
     {
       "ident": "BE-0028",
@@ -311,7 +337,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Wetteren",
-      "coordinates": "50.973, 3.84096"
+      "coordinates": "50.973, 3.84096",
+      "metar_available": false
     },
     {
       "ident": "BE-0029",
@@ -322,7 +349,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Libramont-Chevigny",
-      "coordinates": "49.92489, 5.37936"
+      "coordinates": "49.92489, 5.37936",
+      "metar_available": false
     },
     {
       "ident": "BE-0030",
@@ -333,7 +361,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Arlon",
-      "coordinates": "49.6814, 5.77854"
+      "coordinates": "49.6814, 5.77854",
+      "metar_available": false
     },
     {
       "ident": "BE-0031",
@@ -344,7 +373,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VWV",
       "municipality": "Torhout",
-      "coordinates": "51.07013, 3.09414"
+      "coordinates": "51.07013, 3.09414",
+      "metar_available": false
     },
     {
       "ident": "BE-0032",
@@ -355,7 +385,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Habay",
-      "coordinates": "49.73447, 5.672"
+      "coordinates": "49.73447, 5.672",
+      "metar_available": false
     },
     {
       "ident": "BE-0033",
@@ -366,7 +397,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Antwerp",
-      "coordinates": "51.20284, 4.37927"
+      "coordinates": "51.20284, 4.37927",
+      "metar_available": false
     },
     {
       "ident": "BE-0034",
@@ -377,7 +409,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Ghent",
-      "coordinates": "51.06756, 3.6941"
+      "coordinates": "51.06756, 3.6941",
+      "metar_available": false
     },
     {
       "ident": "BE-0035",
@@ -388,7 +421,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Zottegem",
-      "coordinates": "50.8629, 3.81877"
+      "coordinates": "50.8629, 3.81877",
+      "metar_available": false
     },
     {
       "ident": "BE-0036",
@@ -399,7 +433,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Turnhout",
-      "coordinates": "51.29609, 4.91018"
+      "coordinates": "51.29609, 4.91018",
+      "metar_available": false
     },
     {
       "ident": "BE-0037",
@@ -410,7 +445,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Péruwelz",
-      "coordinates": "50.53108, 3.60476"
+      "coordinates": "50.53108, 3.60476",
+      "metar_available": false
     },
     {
       "ident": "BE-0038",
@@ -421,7 +457,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Grobbendonk",
-      "coordinates": "51.17411, 4.75769"
+      "coordinates": "51.17411, 4.75769",
+      "metar_available": false
     },
     {
       "ident": "BE-0039",
@@ -432,7 +469,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VLI",
       "municipality": "Hasselt",
-      "coordinates": "50.90931, 5.34324"
+      "coordinates": "50.90931, 5.34324",
+      "metar_available": false
     },
     {
       "ident": "BE-0040",
@@ -443,7 +481,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WBR",
       "municipality": "Nivelles",
-      "coordinates": "50.575412, 4.358062"
+      "coordinates": "50.575412, 4.358062",
+      "metar_available": false
     },
     {
       "ident": "BE-0041",
@@ -454,7 +493,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Tournai",
-      "coordinates": "50.60326, 3.40073"
+      "coordinates": "50.60326, 3.40073",
+      "metar_available": false
     },
     {
       "ident": "BE-0042",
@@ -465,7 +505,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Marche-en-Famenne",
-      "coordinates": "50.22757, 5.32145"
+      "coordinates": "50.22757, 5.32145",
+      "metar_available": false
     },
     {
       "ident": "BE-0043",
@@ -476,7 +517,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VWV",
       "municipality": "Kuurne",
-      "coordinates": "50.85842, 3.255642"
+      "coordinates": "50.85842, 3.255642",
+      "metar_available": false
     },
     {
       "ident": "BE-0044",
@@ -487,7 +529,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Lochristi",
-      "coordinates": "51.130384, 3.864098"
+      "coordinates": "51.130384, 3.864098",
+      "metar_available": false
     },
     {
       "ident": "BE-0045",
@@ -498,7 +541,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Ninove",
-      "coordinates": "50.854401, 3.98528"
+      "coordinates": "50.854401, 3.98528",
+      "metar_available": false
     },
     {
       "ident": "BE-0046",
@@ -509,7 +553,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Zottegem",
-      "coordinates": "50.909401, 3.82667"
+      "coordinates": "50.909401, 3.82667",
+      "metar_available": false
     },
     {
       "ident": "BE-0047",
@@ -520,7 +565,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Bastogne",
-      "coordinates": "50.0527992249, 5.79861021042"
+      "coordinates": "50.0527992249, 5.79861021042",
+      "metar_available": false
     },
     {
       "ident": "BE-0048",
@@ -531,7 +577,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLX",
       "municipality": "Bouillon",
-      "coordinates": "49.866402, 5.06806"
+      "coordinates": "49.866402, 5.06806",
+      "metar_available": false
     },
     {
       "ident": "BE-0049",
@@ -542,7 +589,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Bassenge",
-      "coordinates": "50.778301, 5.61667"
+      "coordinates": "50.778301, 5.61667",
+      "metar_available": false
     },
     {
       "ident": "BE-0050",
@@ -553,7 +601,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Chimay",
-      "coordinates": "50.0583, 4.28194"
+      "coordinates": "50.0583, 4.28194",
+      "metar_available": false
     },
     {
       "ident": "BE-0051",
@@ -564,7 +613,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Héron",
-      "coordinates": "50.538898, 5.10917"
+      "coordinates": "50.538898, 5.10917",
+      "metar_available": false
     },
     {
       "ident": "BE-0052",
@@ -575,7 +625,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Bütgenbach",
-      "coordinates": "50.484489, 6.183157"
+      "coordinates": "50.484489, 6.183157",
+      "metar_available": false
     },
     {
       "ident": "BE-0053",
@@ -586,7 +637,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Lierneux",
-      "coordinates": "50.286701, 5.83639"
+      "coordinates": "50.286701, 5.83639",
+      "metar_available": false
     },
     {
       "ident": "BE-0054",
@@ -597,7 +649,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WNA",
       "municipality": "Eghezée",
-      "coordinates": "50.579514, 4.79153"
+      "coordinates": "50.579514, 4.79153",
+      "metar_available": false
     },
     {
       "ident": "BE-0055",
@@ -608,7 +661,8 @@
       "iso_country": "BE",
       "iso_region": "BE-BRU",
       "municipality": "Brussels",
-      "coordinates": "50.811847, 4.260989"
+      "coordinates": "50.811847, 4.260989",
+      "metar_available": false
     },
     {
       "ident": "BE-0056",
@@ -619,7 +673,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Antwerpen",
-      "coordinates": "51.20007, 4.358938"
+      "coordinates": "51.20007, 4.358938",
+      "metar_available": false
     },
     {
       "ident": "BE-0057",
@@ -630,7 +685,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Brecht",
-      "coordinates": "51.305171, 4.629729"
+      "coordinates": "51.305171, 4.629729",
+      "metar_available": false
     },
     {
       "ident": "BE-0058",
@@ -641,7 +697,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Malle",
-      "coordinates": "51.287224, 4.714167"
+      "coordinates": "51.287224, 4.714167",
+      "metar_available": false
     },
     {
       "ident": "BE-0059",
@@ -652,7 +709,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VBR",
       "municipality": "Diest",
-      "coordinates": "50.958132, 5.064743"
+      "coordinates": "50.958132, 5.064743",
+      "metar_available": false
     },
     {
       "ident": "BE-0060",
@@ -663,7 +721,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VLI",
       "municipality": "Dilsen-Stokkem",
-      "coordinates": "51.017463, 5.69981"
+      "coordinates": "51.017463, 5.69981",
+      "metar_available": false
     },
     {
       "ident": "BE-0061",
@@ -674,7 +733,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VLI",
       "municipality": "Neerpelt",
-      "coordinates": "51.211945, 5.478611"
+      "coordinates": "51.211945, 5.478611",
+      "metar_available": false
     },
     {
       "ident": "BE-0062",
@@ -685,7 +745,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Aalst",
-      "coordinates": "50.92683, 4.112962"
+      "coordinates": "50.92683, 4.112962",
+      "metar_available": false
     },
     {
       "ident": "BE-0063",
@@ -696,7 +757,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Temse",
-      "coordinates": "51.141666, 4.197222"
+      "coordinates": "51.141666, 4.197222",
+      "metar_available": false
     },
     {
       "ident": "BE-0064",
@@ -707,7 +769,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VWV",
       "municipality": "Roeselare",
-      "coordinates": "50.981543, 3.125873"
+      "coordinates": "50.981543, 3.125873",
+      "metar_available": false
     },
     {
       "ident": "BE-0065",
@@ -718,7 +781,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Courcelles",
-      "coordinates": "50.476665, 4.355556"
+      "coordinates": "50.476665, 4.355556",
+      "metar_available": false
     },
     {
       "ident": "BE-0066",
@@ -729,7 +793,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "'S Gravenvoeren",
-      "coordinates": "50.764771, 5.786845"
+      "coordinates": "50.764771, 5.786845",
+      "metar_available": false
     },
     {
       "ident": "BE-0067",
@@ -740,7 +805,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WNA",
       "municipality": "Fernelmont",
-      "coordinates": "50.550835, 4.996389"
+      "coordinates": "50.550835, 4.996389",
+      "metar_available": false
     },
     {
       "ident": "BE-0068",
@@ -751,7 +817,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WNA",
       "municipality": "Ciney",
-      "coordinates": "50.247223, 5.113889"
+      "coordinates": "50.247223, 5.113889",
+      "metar_available": false
     },
     {
       "ident": "BE-0069",
@@ -762,7 +829,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WHT",
       "municipality": "Mons",
-      "coordinates": "50.503056, 3.982501"
+      "coordinates": "50.503056, 3.982501",
+      "metar_available": false
     },
     {
       "ident": "BE-0070",
@@ -773,7 +841,8 @@
       "iso_country": "BE",
       "iso_region": "BE-WLG",
       "municipality": "Bassenge",
-      "coordinates": "50.73973, 5.5421"
+      "coordinates": "50.73973, 5.5421",
+      "metar_available": false
     },
     {
       "ident": "BE-0071",
@@ -783,7 +852,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Oud-Turnhout",
-      "coordinates": "51.321566, 5.012685"
+      "coordinates": "51.321566, 5.012685",
+      "metar_available": false
     },
     {
       "ident": "BE-0072",
@@ -794,7 +864,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Gent",
-      "coordinates": "51.025956, 3.688231"
+      "coordinates": "51.025956, 3.688231",
+      "metar_available": false
     },
     {
       "ident": "BE-0073",
@@ -805,7 +876,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VWV",
       "municipality": "Kortemark",
-      "coordinates": "51.007703, 3.045058"
+      "coordinates": "51.007703, 3.045058",
+      "metar_available": false
     },
     {
       "ident": "BE-0074",
@@ -817,7 +889,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Liège",
       "local_code": "EBLO",
-      "coordinates": "50.630727, 5.571717"
+      "coordinates": "50.630727, 5.571717",
+      "metar_available": false
     },
     {
       "ident": "BE-0075",
@@ -829,7 +902,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Aalst",
       "local_code": "EBAL",
-      "coordinates": "50.943087, 4.055763"
+      "coordinates": "50.943087, 4.055763",
+      "metar_available": false
     },
     {
       "ident": "BE-0076",
@@ -840,7 +914,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Melle",
-      "coordinates": "50.98189, 3.78642"
+      "coordinates": "50.98189, 3.78642",
+      "metar_available": false
     },
     {
       "ident": "BE-0077",
@@ -851,7 +926,8 @@
       "iso_country": "BE",
       "iso_region": "BE-BRU",
       "municipality": "Brussels",
-      "coordinates": "50.86063, 4.35137"
+      "coordinates": "50.86063, 4.35137",
+      "metar_available": false
     },
     {
       "ident": "BE-0078",
@@ -862,7 +938,8 @@
       "iso_country": "BE",
       "iso_region": "BE-BRU",
       "municipality": "Brussels",
-      "coordinates": "50.89932, 4.33196"
+      "coordinates": "50.89932, 4.33196",
+      "metar_available": false
     },
     {
       "ident": "BE-0079",
@@ -873,7 +950,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Maldegem",
-      "coordinates": "51.17082, 3.4642"
+      "coordinates": "51.17082, 3.4642",
+      "metar_available": false
     },
     {
       "ident": "BE-0080",
@@ -884,7 +962,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Maldegem",
-      "coordinates": "51.19713, 3.47768"
+      "coordinates": "51.19713, 3.47768",
+      "metar_available": false
     },
     {
       "ident": "BE-0081",
@@ -895,7 +974,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Lochristi",
-      "coordinates": "51.09728, 3.80086"
+      "coordinates": "51.09728, 3.80086",
+      "metar_available": false
     },
     {
       "ident": "BE-0082",
@@ -906,7 +986,8 @@
       "iso_country": "BE",
       "iso_region": "BE-BRU",
       "municipality": "Evere",
-      "coordinates": "50.87155, 4.42024"
+      "coordinates": "50.87155, 4.42024",
+      "metar_available": false
     },
     {
       "ident": "BE-0083",
@@ -917,7 +998,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VBR",
       "municipality": "Merchtem",
-      "coordinates": "50.93815, 4.20585"
+      "coordinates": "50.93815, 4.20585",
+      "metar_available": false
     },
     {
       "ident": "BE-0084",
@@ -928,7 +1010,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VAN",
       "municipality": "Beerse",
-      "coordinates": "51.31923, 4.79541"
+      "coordinates": "51.31923, 4.79541",
+      "metar_available": false
     },
     {
       "ident": "BE-0085",
@@ -938,7 +1021,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Waasmunster",
-      "coordinates": "51.12715, 4.06294"
+      "coordinates": "51.12715, 4.06294",
+      "metar_available": false
     },
     {
       "ident": "BE-0086",
@@ -948,7 +1032,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VOV",
       "municipality": "Sint-Niklaas",
-      "coordinates": "51.17213, 4.19202"
+      "coordinates": "51.17213, 4.19202",
+      "metar_available": false
     },
     {
       "ident": "BE-0087",
@@ -958,7 +1043,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VBR",
       "municipality": "Keerbergen",
-      "coordinates": "51.00672, 4.67558"
+      "coordinates": "51.00672, 4.67558",
+      "metar_available": false
     },
     {
       "ident": "BE-0088",
@@ -968,7 +1054,8 @@
       "iso_country": "BE",
       "iso_region": "BE-VLI",
       "municipality": "Halen",
-      "coordinates": "50.94458, 5.05254"
+      "coordinates": "50.94458, 5.05254",
+      "metar_available": false
     },
     {
       "ident": "EBAG",
@@ -980,7 +1067,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Grâce-Hollogne",
       "gps_code": "EBAG",
-      "coordinates": "50.640081, 5.457585"
+      "coordinates": "50.640081, 5.457585",
+      "metar_available": false
     },
     {
       "ident": "EBAM",
@@ -992,7 +1080,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Mont-de-l'Enclus",
       "gps_code": "EBAM",
-      "coordinates": "50.740101, 3.4849"
+      "coordinates": "50.740101, 3.4849",
+      "metar_available": false
     },
     {
       "ident": "EBAR",
@@ -1004,7 +1093,8 @@
       "iso_region": "BE-WLX",
       "municipality": "Arlon",
       "gps_code": "EBAR",
-      "coordinates": "49.661981, 5.885953"
+      "coordinates": "49.661981, 5.885953",
+      "metar_available": false
     },
     {
       "ident": "EBAS",
@@ -1016,7 +1106,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Schilde",
       "gps_code": "EBAS",
-      "coordinates": "51.247065, 4.54272"
+      "coordinates": "51.247065, 4.54272",
+      "metar_available": false
     },
     {
       "ident": "EBAV",
@@ -1028,7 +1119,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Hannut",
       "gps_code": "EBAV",
-      "coordinates": "50.70534, 5.06633"
+      "coordinates": "50.70534, 5.06633",
+      "metar_available": false
     },
     {
       "ident": "EBAW",
@@ -1041,7 +1133,8 @@
       "municipality": "Antwerp",
       "gps_code": "EBAW",
       "iata_code": "ANR",
-      "coordinates": "51.190667, 4.463153"
+      "coordinates": "51.190667, 4.463153",
+      "metar_available": true
     },
     {
       "ident": "EBBA",
@@ -1053,7 +1146,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Douvrain",
       "gps_code": "EBBA",
-      "coordinates": "50.469514, 3.838767"
+      "coordinates": "50.469514, 3.838767",
+      "metar_available": false
     },
     {
       "ident": "EBBE",
@@ -1065,7 +1159,8 @@
       "iso_region": "BE-WBR",
       "municipality": "Beauvechain",
       "gps_code": "EBBE",
-      "coordinates": "50.758598, 4.76833"
+      "coordinates": "50.758598, 4.76833",
+      "metar_available": true
     },
     {
       "ident": "EBBH",
@@ -1077,7 +1172,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Brecht",
       "gps_code": "EBBH",
-      "coordinates": "51.343549, 4.621927"
+      "coordinates": "51.343549, 4.621927",
+      "metar_available": false
     },
     {
       "ident": "EBBL",
@@ -1089,7 +1185,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Kleine Brogel",
       "gps_code": "EBBL",
-      "coordinates": "51.168301, 5.47"
+      "coordinates": "51.168301, 5.47",
+      "metar_available": true
     },
     {
       "ident": "EBBM",
@@ -1100,7 +1197,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Brakel",
       "gps_code": "EBBM",
-      "coordinates": "50.830885, 3.774096"
+      "coordinates": "50.830885, 3.774096",
+      "metar_available": false
     },
     {
       "ident": "EBBN",
@@ -1112,7 +1210,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Büllingen",
       "gps_code": "EBBN",
-      "coordinates": "50.415001, 6.27639"
+      "coordinates": "50.415001, 6.27639",
+      "metar_available": false
     },
     {
       "ident": "EBBR",
@@ -1125,7 +1224,8 @@
       "municipality": "Zaventem",
       "gps_code": "EBBR",
       "iata_code": "BRU",
-      "coordinates": "50.901402, 4.48444"
+      "coordinates": "50.901402, 4.48444",
+      "metar_available": true
     },
     {
       "ident": "EBBT",
@@ -1137,7 +1237,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Brasschaat",
       "gps_code": "EBBT",
-      "coordinates": "51.34259, 4.503451"
+      "coordinates": "51.34259, 4.503451",
+      "metar_available": false
     },
     {
       "ident": "EBBX",
@@ -1149,7 +1250,8 @@
       "iso_region": "BE-WLX",
       "municipality": "Bertrix",
       "gps_code": "EBBX",
-      "coordinates": "49.891483, 5.227405"
+      "coordinates": "49.891483, 5.227405",
+      "metar_available": false
     },
     {
       "ident": "EBBY",
@@ -1161,7 +1263,8 @@
       "iso_region": "BE-WBR",
       "municipality": "Genappe",
       "gps_code": "EBBY",
-      "coordinates": "50.568611, 4.434722"
+      "coordinates": "50.568611, 4.434722",
+      "metar_available": false
     },
     {
       "ident": "EBBZ",
@@ -1173,7 +1276,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Pont-à-Celles",
       "gps_code": "EBBZ",
-      "coordinates": "50.542335, 4.382472"
+      "coordinates": "50.542335, 4.382472",
+      "metar_available": false
     },
     {
       "ident": "EBCF",
@@ -1185,7 +1289,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Cerfontaine",
       "gps_code": "EBCF",
-      "coordinates": "50.152802, 4.38722"
+      "coordinates": "50.152802, 4.38722",
+      "metar_available": false
     },
     {
       "ident": "EBCI",
@@ -1198,7 +1303,8 @@
       "municipality": "Charleroi",
       "gps_code": "EBCI",
       "iata_code": "CRL",
-      "coordinates": "50.460982, 4.457158"
+      "coordinates": "50.460982, 4.457158",
+      "metar_available": true
     },
     {
       "ident": "EBCV",
@@ -1210,7 +1316,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Chièvres",
       "gps_code": "EBCV",
-      "coordinates": "50.575801849365234, 3.8310000896453857"
+      "coordinates": "50.575801849365234, 3.8310000896453857",
+      "metar_available": true
     },
     {
       "ident": "EBDI",
@@ -1222,7 +1329,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Diksmuide",
       "gps_code": "EBDI",
-      "coordinates": "51.019276, 2.858205"
+      "coordinates": "51.019276, 2.858205",
+      "metar_available": false
     },
     {
       "ident": "EBDR",
@@ -1233,7 +1341,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Antwerp",
       "gps_code": "EBDR",
-      "coordinates": "51.239556, 4.407915"
+      "coordinates": "51.239556, 4.407915",
+      "metar_available": false
     },
     {
       "ident": "EBDT",
@@ -1245,7 +1354,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Diest",
       "gps_code": "EBDT",
-      "coordinates": "51.004032, 5.064697"
+      "coordinates": "51.004032, 5.064697",
+      "metar_available": false
     },
     {
       "ident": "EBDZ",
@@ -1257,7 +1367,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Deinze",
       "gps_code": "EBDZ",
-      "coordinates": "50.963801, 3.542682"
+      "coordinates": "50.963801, 3.542682",
+      "metar_available": false
     },
     {
       "ident": "EBEA",
@@ -1269,7 +1380,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Eeklo",
       "gps_code": "EBEA",
-      "coordinates": "51.191152, 3.534476"
+      "coordinates": "51.191152, 3.534476",
+      "metar_available": false
     },
     {
       "ident": "EBEB",
@@ -1281,7 +1393,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Evergem",
       "gps_code": "EBEB",
-      "coordinates": "51.100833, 3.653611"
+      "coordinates": "51.100833, 3.653611",
+      "metar_available": false
     },
     {
       "ident": "EBEH",
@@ -1293,7 +1406,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Froidchapelle",
       "gps_code": "EBEH",
-      "coordinates": "50.183611, 4.369722"
+      "coordinates": "50.183611, 4.369722",
+      "metar_available": false
     },
     {
       "ident": "EBEN",
@@ -1305,7 +1419,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Ranst",
       "gps_code": "EBEN",
-      "coordinates": "51.211858, 4.581093"
+      "coordinates": "51.211858, 4.581093",
+      "metar_available": false
     },
     {
       "ident": "EBEU",
@@ -1317,7 +1432,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Edegem",
       "gps_code": "EBEU",
-      "coordinates": "51.155894, 4.409841"
+      "coordinates": "51.155894, 4.409841",
+      "metar_available": false
     },
     {
       "ident": "EBFN",
@@ -1329,7 +1445,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Koksijde",
       "gps_code": "EBFN",
-      "coordinates": "51.090302, 2.65278"
+      "coordinates": "51.090302, 2.65278",
+      "metar_available": true
     },
     {
       "ident": "EBFR",
@@ -1341,7 +1458,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Stavelot",
       "gps_code": "EBFR",
-      "coordinates": "50.456121, 5.953796"
+      "coordinates": "50.456121, 5.953796",
+      "metar_available": false
     },
     {
       "ident": "EBFS",
@@ -1353,7 +1471,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Florennes",
       "gps_code": "EBFS",
-      "coordinates": "50.2433013916, 4.64583015442"
+      "coordinates": "50.2433013916, 4.64583015442",
+      "metar_available": true
     },
     {
       "ident": "EBGA",
@@ -1364,7 +1483,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Leuven",
       "gps_code": "EBGA",
-      "coordinates": "50.877291, 4.672821"
+      "coordinates": "50.877291, 4.672821",
+      "metar_available": false
     },
     {
       "ident": "EBGB",
@@ -1376,7 +1496,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Grimbergen",
       "gps_code": "EBGB",
-      "coordinates": "50.948546, 4.39181"
+      "coordinates": "50.948546, 4.39181",
+      "metar_available": false
     },
     {
       "ident": "EBGE",
@@ -1388,7 +1509,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Loverval",
       "gps_code": "EBGE",
-      "coordinates": "50.375769, 4.486277"
+      "coordinates": "50.375769, 4.486277",
+      "metar_available": false
     },
     {
       "ident": "EBGG",
@@ -1400,7 +1522,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Geraardsbergen",
       "gps_code": "EBGG",
-      "coordinates": "50.7556, 3.86389"
+      "coordinates": "50.7556, 3.86389",
+      "metar_available": false
     },
     {
       "ident": "EBGT",
@@ -1413,7 +1536,8 @@
       "municipality": "Gent",
       "gps_code": "EBGT",
       "iata_code": "GNE",
-      "coordinates": "51.020551, 3.730341"
+      "coordinates": "51.020551, 3.730341",
+      "metar_available": false
     },
     {
       "ident": "EBGU",
@@ -1425,7 +1549,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Deinze",
       "gps_code": "EBGU",
-      "coordinates": "51.046686, 3.520469"
+      "coordinates": "51.046686, 3.520469",
+      "metar_available": false
     },
     {
       "ident": "EBHA",
@@ -1437,7 +1562,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Ham",
       "gps_code": "EBHA",
-      "coordinates": "51.079179, 5.108932"
+      "coordinates": "51.079179, 5.108932",
+      "metar_available": false
     },
     {
       "ident": "EBHC",
@@ -1449,7 +1575,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Kruisem",
       "gps_code": "EBHC",
-      "coordinates": "50.903791, 3.509388"
+      "coordinates": "50.903791, 3.509388",
+      "metar_available": false
     },
     {
       "ident": "EBHF",
@@ -1461,7 +1588,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Beveren",
       "gps_code": "EBHF",
-      "coordinates": "51.268889, 4.295833"
+      "coordinates": "51.268889, 4.295833",
+      "metar_available": false
     },
     {
       "ident": "EBHL",
@@ -1473,7 +1601,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Halen",
       "gps_code": "EBHL",
-      "coordinates": "50.930274, 5.080558"
+      "coordinates": "50.930274, 5.080558",
+      "metar_available": false
     },
     {
       "ident": "EBHM",
@@ -1485,7 +1614,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Hasselt",
       "gps_code": "EBHM",
-      "coordinates": "50.909815, 5.349017"
+      "coordinates": "50.909815, 5.349017",
+      "metar_available": false
     },
     {
       "ident": "EBHN",
@@ -1497,7 +1627,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Hoevenen",
       "gps_code": "EBHN",
-      "coordinates": "51.306098938, 4.387219905849999"
+      "coordinates": "51.306098938, 4.387219905849999",
+      "metar_available": false
     },
     {
       "ident": "EBHO",
@@ -1509,7 +1640,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Holsbeek",
       "gps_code": "EBHO",
-      "coordinates": "50.919676, 4.768925"
+      "coordinates": "50.919676, 4.768925",
+      "metar_available": false
     },
     {
       "ident": "EBHS",
@@ -1521,7 +1653,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Hasselt",
       "gps_code": "EBHS",
-      "coordinates": "50.923472, 5.234433"
+      "coordinates": "50.923472, 5.234433",
+      "metar_available": false
     },
     {
       "ident": "EBHT",
@@ -1533,7 +1666,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Houthalen-Helchteren",
       "gps_code": "EBHT",
-      "coordinates": "51.01415, 5.3593"
+      "coordinates": "51.01415, 5.3593",
+      "metar_available": false
     },
     {
       "ident": "EBIS",
@@ -1545,7 +1679,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Isieres",
       "gps_code": "EBIS",
-      "coordinates": "50.663636, 3.804681"
+      "coordinates": "50.663636, 3.804681",
+      "metar_available": false
     },
     {
       "ident": "EBJS",
@@ -1557,7 +1692,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Ath",
       "gps_code": "EBJS",
-      "coordinates": "50.666658, 3.870192"
+      "coordinates": "50.666658, 3.870192",
+      "metar_available": false
     },
     {
       "ident": "EBKG",
@@ -1569,7 +1705,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Kortrijk",
       "gps_code": "EBKG",
-      "coordinates": "50.802873, 3.264039"
+      "coordinates": "50.802873, 3.264039",
+      "metar_available": false
     },
     {
       "ident": "EBKH",
@@ -1581,7 +1718,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Balen",
       "gps_code": "EBKH",
-      "coordinates": "51.180957, 5.221124"
+      "coordinates": "51.180957, 5.221124",
+      "metar_available": false
     },
     {
       "ident": "EBKR",
@@ -1593,7 +1731,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Kruishoutem",
       "gps_code": "EBKR",
-      "coordinates": "50.891528, 3.500812"
+      "coordinates": "50.891528, 3.500812",
+      "metar_available": false
     },
     {
       "ident": "EBKT",
@@ -1606,7 +1745,8 @@
       "municipality": "Wevelgem",
       "gps_code": "EBKT",
       "iata_code": "KJK",
-      "coordinates": "50.818878, 3.209551"
+      "coordinates": "50.818878, 3.209551",
+      "metar_available": false
     },
     {
       "ident": "EBKW",
@@ -1618,7 +1758,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Knokke-Heist",
       "gps_code": "EBKW",
-      "coordinates": "51.321655, 3.294568"
+      "coordinates": "51.321655, 3.294568",
+      "metar_available": false
     },
     {
       "ident": "EBKZ",
@@ -1630,7 +1771,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Knokke-Heist",
       "gps_code": "EBKZ",
-      "coordinates": "51.328685, 3.292388"
+      "coordinates": "51.328685, 3.292388",
+      "metar_available": false
     },
     {
       "ident": "EBLC",
@@ -1642,7 +1784,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Liège",
       "gps_code": "EBLC",
-      "coordinates": "50.653392, 5.57765"
+      "coordinates": "50.653392, 5.57765",
+      "metar_available": false
     },
     {
       "ident": "EBLD",
@@ -1654,7 +1797,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Ranst",
       "gps_code": "EBLD",
-      "coordinates": "51.217163, 4.557801"
+      "coordinates": "51.217163, 4.557801",
+      "metar_available": false
     },
     {
       "ident": "EBLE",
@@ -1666,7 +1810,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Leopoldsburg",
       "gps_code": "EBLE",
-      "coordinates": "51.12, 5.3072222"
+      "coordinates": "51.12, 5.3072222",
+      "metar_available": false
     },
     {
       "ident": "EBLG",
@@ -1679,7 +1824,8 @@
       "municipality": "Grâce-Hollogne",
       "gps_code": "EBLG",
       "iata_code": "LGG",
-      "coordinates": "50.638574, 5.443897"
+      "coordinates": "50.638574, 5.443897",
+      "metar_available": true
     },
     {
       "ident": "EBLH",
@@ -1691,7 +1837,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Aalter",
       "gps_code": "EBLH",
-      "coordinates": "51.033333, 3.496389"
+      "coordinates": "51.033333, 3.496389",
+      "metar_available": false
     },
     {
       "ident": "EBLJ",
@@ -1703,7 +1850,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Lokeren",
       "gps_code": "EBLJ",
-      "coordinates": "51.095563, 3.91835"
+      "coordinates": "51.095563, 3.91835",
+      "metar_available": false
     },
     {
       "ident": "EBLM",
@@ -1714,7 +1862,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Meulebeke",
       "gps_code": "EBLM",
-      "coordinates": "50.931667, 3.293889"
+      "coordinates": "50.931667, 3.293889",
+      "metar_available": false
     },
     {
       "ident": "EBLR",
@@ -1726,7 +1875,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Lo-Reninge",
       "gps_code": "EBLR",
-      "coordinates": "50.934886, 2.757944"
+      "coordinates": "50.934886, 2.757944",
+      "metar_available": false
     },
     {
       "ident": "EBLS",
@@ -1738,7 +1888,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Liège",
       "gps_code": "EBLS",
-      "coordinates": "50.571148, 5.565253"
+      "coordinates": "50.571148, 5.565253",
+      "metar_available": false
     },
     {
       "ident": "EBLU",
@@ -1750,7 +1901,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Lummen",
       "gps_code": "EBLU",
-      "coordinates": "50.991941, 5.23903"
+      "coordinates": "50.991941, 5.23903",
+      "metar_available": false
     },
     {
       "ident": "EBLY",
@@ -1762,7 +1914,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Ranst",
       "gps_code": "EBLY",
-      "coordinates": "51.210662, 4.576811"
+      "coordinates": "51.210662, 4.576811",
+      "metar_available": false
     },
     {
       "ident": "EBMB",
@@ -1774,7 +1927,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Steenokkerzeel",
       "gps_code": "EBMB",
-      "coordinates": "50.913419, 4.491005"
+      "coordinates": "50.913419, 4.491005",
+      "metar_available": false
     },
     {
       "ident": "EBMD",
@@ -1786,7 +1940,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Antwerp",
       "gps_code": "EBMD",
-      "coordinates": "51.181674, 4.421096"
+      "coordinates": "51.181674, 4.421096",
+      "metar_available": false
     },
     {
       "ident": "EBME",
@@ -1798,7 +1953,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Meerbeek",
       "gps_code": "EBME",
-      "coordinates": "50.873724, 4.596911"
+      "coordinates": "50.873724, 4.596911",
+      "metar_available": false
     },
     {
       "ident": "EBMG",
@@ -1810,7 +1966,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Doische",
       "gps_code": "EBMG",
-      "coordinates": "50.104208, 4.636063"
+      "coordinates": "50.104208, 4.636063",
+      "metar_available": false
     },
     {
       "ident": "EBMK",
@@ -1822,7 +1979,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Maarkedal",
       "gps_code": "EBMK",
-      "coordinates": "50.781947, 3.619635"
+      "coordinates": "50.781947, 3.619635",
+      "metar_available": false
     },
     {
       "ident": "EBML",
@@ -1834,7 +1992,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Assesse",
       "gps_code": "EBML",
-      "coordinates": "50.375033, 4.926489"
+      "coordinates": "50.375033, 4.926489",
+      "metar_available": false
     },
     {
       "ident": "EBMM",
@@ -1846,7 +2005,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Maasmechelen",
       "gps_code": "EBMM",
-      "coordinates": "50.953841, 5.704801"
+      "coordinates": "50.953841, 5.704801",
+      "metar_available": false
     },
     {
       "ident": "EBMO",
@@ -1858,7 +2018,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Wevelgem",
       "gps_code": "EBMO",
-      "coordinates": "50.851285, 3.147669"
+      "coordinates": "50.851285, 3.147669",
+      "metar_available": false
     },
     {
       "ident": "EBMS",
@@ -1870,7 +2031,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Lierneux",
       "gps_code": "EBMS",
-      "coordinates": "50.321706, 5.73087"
+      "coordinates": "50.321706, 5.73087",
+      "metar_available": false
     },
     {
       "ident": "EBMT",
@@ -1882,7 +2044,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Montigny-le-Tilleul",
       "gps_code": "EBMT",
-      "coordinates": "50.358515, 4.368455"
+      "coordinates": "50.358515, 4.368455",
+      "metar_available": false
     },
     {
       "ident": "EBMW",
@@ -1893,7 +2056,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Meise",
       "gps_code": "EBMW",
-      "coordinates": "50.948076, 4.296012"
+      "coordinates": "50.948076, 4.296012",
+      "metar_available": false
     },
     {
       "ident": "EBNB",
@@ -1905,7 +2069,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Namur",
       "gps_code": "EBNB",
-      "coordinates": "50.479007, 4.885021"
+      "coordinates": "50.479007, 4.885021",
+      "metar_available": false
     },
     {
       "ident": "EBNH",
@@ -1917,7 +2082,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Oostende",
       "gps_code": "EBNH",
-      "coordinates": "51.194097, 2.854192"
+      "coordinates": "51.194097, 2.854192",
+      "metar_available": false
     },
     {
       "ident": "EBNK",
@@ -1928,7 +2094,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Nokere",
       "gps_code": "EBNK",
-      "coordinates": "50.879358, 3.520104"
+      "coordinates": "50.879358, 3.520104",
+      "metar_available": false
     },
     {
       "ident": "EBNL",
@@ -1940,7 +2107,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Nijlen",
       "gps_code": "EBNL",
-      "coordinates": "51.174, 4.665874"
+      "coordinates": "51.174, 4.665874",
+      "metar_available": false
     },
     {
       "ident": "EBNM",
@@ -1952,7 +2120,8 @@
       "iso_region": "BE-WNA",
       "municipality": "Namur",
       "gps_code": "EBNM",
-      "coordinates": "50.489705, 4.769697"
+      "coordinates": "50.489705, 4.769697",
+      "metar_available": false
     },
     {
       "ident": "EBNR",
@@ -1964,7 +2133,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Roeselare",
       "gps_code": "EBNR",
-      "coordinates": "50.910735, 3.103623"
+      "coordinates": "50.910735, 3.103623",
+      "metar_available": false
     },
     {
       "ident": "EBOB",
@@ -1975,7 +2145,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Oud-Heverlee",
       "gps_code": "EBOB",
-      "coordinates": "50.822622, 4.708992"
+      "coordinates": "50.822622, 4.708992",
+      "metar_available": false
     },
     {
       "ident": "EBOK",
@@ -1987,7 +2158,8 @@
       "iso_region": "BE-BRU",
       "municipality": "Dilbeek",
       "gps_code": "EBOK",
-      "coordinates": "50.869522, 4.280602"
+      "coordinates": "50.869522, 4.280602",
+      "metar_available": false
     },
     {
       "ident": "EBOO",
@@ -1999,7 +2171,8 @@
       "iso_region": "BE-VWV",
       "municipality": "De Panne",
       "gps_code": "EBOO",
-      "coordinates": "51.274445, 2.4475"
+      "coordinates": "51.274445, 2.4475",
+      "metar_available": false
     },
     {
       "ident": "EBOS",
@@ -2012,7 +2185,8 @@
       "municipality": "Oostende",
       "gps_code": "EBOS",
       "iata_code": "OST",
-      "coordinates": "51.1998, 2.874673"
+      "coordinates": "51.1998, 2.874673",
+      "metar_available": true
     },
     {
       "ident": "EBPP",
@@ -2024,7 +2198,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Deinze",
       "gps_code": "EBPP",
-      "coordinates": "50.995, 3.528889"
+      "coordinates": "50.995, 3.528889",
+      "metar_available": false
     },
     {
       "ident": "EBPV",
@@ -2036,7 +2211,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Ninove",
       "gps_code": "EBPV",
-      "coordinates": "50.843238, 4.037037"
+      "coordinates": "50.843238, 4.037037",
+      "metar_available": false
     },
     {
       "ident": "EBPW",
@@ -2048,7 +2224,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Pecq",
       "gps_code": "EBPW",
-      "coordinates": "50.722235, 3.326129"
+      "coordinates": "50.722235, 3.326129",
+      "metar_available": false
     },
     {
       "ident": "EBRD",
@@ -2060,7 +2237,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Roosdaal",
       "gps_code": "EBRD",
-      "coordinates": "50.825505, 4.096967"
+      "coordinates": "50.825505, 4.096967",
+      "metar_available": false
     },
     {
       "ident": "EBRO",
@@ -2072,7 +2250,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Ranst",
       "gps_code": "EBRO",
-      "coordinates": "51.209653, 4.587697"
+      "coordinates": "51.209653, 4.587697",
+      "metar_available": false
     },
     {
       "ident": "EBRR",
@@ -2084,7 +2263,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Roeselare",
       "gps_code": "EBRR",
-      "coordinates": "50.910005, 3.148012"
+      "coordinates": "50.910005, 3.148012",
+      "metar_available": false
     },
     {
       "ident": "EBRU",
@@ -2096,7 +2276,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Bekkevoort",
       "gps_code": "EBRU",
-      "coordinates": "50.957481, 5.015771"
+      "coordinates": "50.957481, 5.015771",
+      "metar_available": false
     },
     {
       "ident": "EBSG",
@@ -2108,7 +2289,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Saint Ghislain",
       "gps_code": "EBSG",
-      "coordinates": "50.458009, 3.821"
+      "coordinates": "50.458009, 3.821",
+      "metar_available": false
     },
     {
       "ident": "EBSH",
@@ -2120,7 +2302,8 @@
       "iso_region": "BE-WLX",
       "municipality": "Saint Hubert",
       "gps_code": "EBSH",
-      "coordinates": "50.0359, 5.40425"
+      "coordinates": "50.0359, 5.40425",
+      "metar_available": false
     },
     {
       "ident": "EBSJ",
@@ -2132,7 +2315,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Brugge",
       "gps_code": "EBSJ",
-      "coordinates": "51.220486, 3.196068"
+      "coordinates": "51.220486, 3.196068",
+      "metar_available": false
     },
     {
       "ident": "EBSL",
@@ -2144,7 +2328,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Zutendaal",
       "gps_code": "EBSL",
-      "coordinates": "50.949352, 5.593549"
+      "coordinates": "50.949352, 5.593549",
+      "metar_available": false
     },
     {
       "ident": "EBSM",
@@ -2155,7 +2340,8 @@
       "iso_country": "BE",
       "iso_region": "BE-U-A",
       "gps_code": "EBSM",
-      "coordinates": "51.268281, 4.175453"
+      "coordinates": "51.268281, 4.175453",
+      "metar_available": false
     },
     {
       "ident": "EBSP",
@@ -2167,7 +2353,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Spa",
       "gps_code": "EBSP",
-      "coordinates": "50.482006, 5.913434"
+      "coordinates": "50.482006, 5.913434",
+      "metar_available": false
     },
     {
       "ident": "EBSS",
@@ -2179,7 +2366,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Brugge",
       "gps_code": "EBSS",
-      "coordinates": "51.183906, 3.24999"
+      "coordinates": "51.183906, 3.24999",
+      "metar_available": false
     },
     {
       "ident": "EBST",
@@ -2191,7 +2379,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Sint-Truiden",
       "gps_code": "EBST",
-      "coordinates": "50.790772, 5.19958"
+      "coordinates": "50.790772, 5.19958",
+      "metar_available": false
     },
     {
       "ident": "EBSU",
@@ -2203,7 +2392,8 @@
       "iso_region": "BE-WLX",
       "municipality": "Saint Hubert",
       "gps_code": "EBSU",
-      "coordinates": "50.034401, 5.44081"
+      "coordinates": "50.034401, 5.44081",
+      "metar_available": false
     },
     {
       "ident": "EBSW",
@@ -2215,7 +2405,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Sint-Pieters-Leeuw",
       "gps_code": "EBSW",
-      "coordinates": "50.763845, 4.218782"
+      "coordinates": "50.763845, 4.218782",
+      "metar_available": false
     },
     {
       "ident": "EBTK",
@@ -2227,7 +2418,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Tielen",
       "gps_code": "EBTK",
-      "coordinates": "51.283697, 4.912072"
+      "coordinates": "51.283697, 4.912072",
+      "metar_available": false
     },
     {
       "ident": "EBTN",
@@ -2239,7 +2431,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Tienen",
       "gps_code": "EBTN",
-      "coordinates": "50.7817, 4.95778"
+      "coordinates": "50.7817, 4.95778",
+      "metar_available": false
     },
     {
       "ident": "EBTX",
@@ -2251,7 +2444,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Verviers",
       "gps_code": "EBTX",
-      "coordinates": "50.551099, 5.853996"
+      "coordinates": "50.551099, 5.853996",
+      "metar_available": false
     },
     {
       "ident": "EBTY",
@@ -2263,7 +2457,8 @@
       "iso_region": "BE-WHT",
       "municipality": "Péruwelz",
       "gps_code": "EBTY",
-      "coordinates": "50.531639, 3.496185"
+      "coordinates": "50.531639, 3.496185",
+      "metar_available": false
     },
     {
       "ident": "EBUC",
@@ -2275,7 +2470,8 @@
       "iso_region": "BE-BRU",
       "municipality": "Woluwe-Saint-Lambert",
       "gps_code": "EBUC",
-      "coordinates": "50.853063, 4.453561"
+      "coordinates": "50.853063, 4.453561",
+      "metar_available": false
     },
     {
       "ident": "EBUL",
@@ -2287,7 +2483,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Ursel",
       "gps_code": "EBUL",
-      "coordinates": "51.144199, 3.47556"
+      "coordinates": "51.144199, 3.47556",
+      "metar_available": false
     },
     {
       "ident": "EBVE",
@@ -2299,7 +2496,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Veurne",
       "gps_code": "EBVE",
-      "coordinates": "51.02264, 2.680374"
+      "coordinates": "51.02264, 2.680374",
+      "metar_available": false
     },
     {
       "ident": "EBVN",
@@ -2311,7 +2509,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Vlimmeren",
       "gps_code": "EBVN",
-      "coordinates": "51.306493, 4.806617"
+      "coordinates": "51.306493, 4.806617",
+      "metar_available": false
     },
     {
       "ident": "EBVS",
@@ -2323,7 +2522,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Veurne",
       "gps_code": "EBVS",
-      "coordinates": "51.062298, 2.669222"
+      "coordinates": "51.062298, 2.669222",
+      "metar_available": false
     },
     {
       "ident": "EBVU",
@@ -2335,7 +2535,8 @@
       "iso_region": "BE-VBR",
       "municipality": "Rotselaar",
       "gps_code": "EBVU",
-      "coordinates": "50.939257, 4.730574"
+      "coordinates": "50.939257, 4.730574",
+      "metar_available": false
     },
     {
       "ident": "EBWA",
@@ -2346,7 +2547,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Waasmunster",
       "gps_code": "EBWA",
-      "coordinates": "51.122683, 4.127796"
+      "coordinates": "51.122683, 4.127796",
+      "metar_available": false
     },
     {
       "ident": "EBWE",
@@ -2358,7 +2560,8 @@
       "iso_region": "BE-VAN",
       "municipality": "Weelde",
       "gps_code": "EBWE",
-      "coordinates": "51.394798, 4.96019"
+      "coordinates": "51.394798, 4.96019",
+      "metar_available": false
     },
     {
       "ident": "EBWI",
@@ -2369,7 +2572,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Wingene",
       "gps_code": "EBWI",
-      "coordinates": "51.064415, 3.25919"
+      "coordinates": "51.064415, 3.25919",
+      "metar_available": false
     },
     {
       "ident": "EBWZ",
@@ -2380,7 +2584,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Wingene",
       "gps_code": "EBWZ",
-      "coordinates": "51.052033, 3.238951"
+      "coordinates": "51.052033, 3.238951",
+      "metar_available": false
     },
     {
       "ident": "EBYC",
@@ -2392,7 +2597,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Dendermonde",
       "gps_code": "EBYC",
-      "coordinates": "51.057744, 4.097527"
+      "coordinates": "51.057744, 4.097527",
+      "metar_available": false
     },
     {
       "ident": "EBYP",
@@ -2404,7 +2610,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Ieper - Ypres",
       "gps_code": "EBYP",
-      "coordinates": "50.863486, 2.896702"
+      "coordinates": "50.863486, 2.896702",
+      "metar_available": false
     },
     {
       "ident": "EBZH",
@@ -2416,7 +2623,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Hasselt",
       "gps_code": "EBZH",
-      "coordinates": "50.970001, 5.37507"
+      "coordinates": "50.970001, 5.37507",
+      "metar_available": false
     },
     {
       "ident": "EBZI",
@@ -2428,7 +2636,8 @@
       "iso_region": "BE-VOV",
       "municipality": "Zingem",
       "gps_code": "EBZI",
-      "coordinates": "50.926388, 3.617222"
+      "coordinates": "50.926388, 3.617222",
+      "metar_available": false
     },
     {
       "ident": "EBZO",
@@ -2440,7 +2649,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Zonnebeke",
       "gps_code": "EBZO",
-      "coordinates": "50.817249, 2.97457"
+      "coordinates": "50.817249, 2.97457",
+      "metar_available": false
     },
     {
       "ident": "EBZR",
@@ -2453,7 +2663,8 @@
       "municipality": "Zoersel",
       "gps_code": "EBZR",
       "iata_code": "OBL",
-      "coordinates": "51.269092, 4.762428"
+      "coordinates": "51.269092, 4.762428",
+      "metar_available": false
     },
     {
       "ident": "EBZU",
@@ -2465,7 +2676,8 @@
       "iso_region": "BE-VWV",
       "municipality": "Zuienkerke",
       "gps_code": "EBZU",
-      "coordinates": "51.25555, 3.139858"
+      "coordinates": "51.25555, 3.139858",
+      "metar_available": false
     },
     {
       "ident": "EBZW",
@@ -2477,7 +2689,8 @@
       "iso_region": "BE-VLI",
       "municipality": "Genk",
       "gps_code": "EBZW",
-      "coordinates": "51.0154, 5.52647"
+      "coordinates": "51.0154, 5.52647",
+      "metar_available": false
     },
     {
       "ident": "EHRS",
@@ -2487,7 +2700,8 @@
       "iso_country": "BE",
       "iso_region": "BE-XX",
       "gps_code": "EHRS",
-      "coordinates": "51.5825, 2.86861"
+      "coordinates": "51.5825, 2.86861",
+      "metar_available": false
     },
     {
       "ident": "EPLX",
@@ -2499,7 +2713,8 @@
       "iso_region": "BE-WLG",
       "municipality": "Lierneux",
       "gps_code": "EBLX",
-      "coordinates": "50.286813, 5.78887"
+      "coordinates": "50.286813, 5.78887",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "LU",
   "country_name": "Luxembourg",
   "total_airports": 15,
-  "last_updated": "2025-08-01T00:18:22.688491",
+  "last_updated": "2025-08-25T10:08:40.830234",
   "types_distribution": {
     "large_airport": 1,
     "small_airport": 2,
@@ -21,7 +21,8 @@
       "municipality": "Luxembourg",
       "gps_code": "ELLX",
       "iata_code": "LUX",
-      "coordinates": "49.6233333, 6.2044444"
+      "coordinates": "49.6233333, 6.2044444",
+      "metar_available": true
     },
     {
       "ident": "ELNT",
@@ -33,7 +34,8 @@
       "iso_region": "LU-W",
       "municipality": "Winseler",
       "gps_code": "ELNT",
-      "coordinates": "49.981098, 5.91778"
+      "coordinates": "49.981098, 5.91778",
+      "metar_available": false
     },
     {
       "ident": "ELUS",
@@ -45,7 +47,8 @@
       "iso_region": "LU-RD",
       "municipality": "Useldange",
       "gps_code": "ELUS",
-      "coordinates": "49.768155, 5.965962"
+      "coordinates": "49.768155, 5.965962",
+      "metar_available": false
     },
     {
       "ident": "LU-0001",
@@ -57,7 +60,8 @@
       "iso_region": "LU-D",
       "municipality": "Ettelbruck",
       "gps_code": "ELET",
-      "coordinates": "49.85432, 6.094475"
+      "coordinates": "49.85432, 6.094475",
+      "metar_available": false
     },
     {
       "ident": "LU-0002",
@@ -68,7 +72,8 @@
       "iso_country": "LU",
       "iso_region": "LU-D",
       "municipality": "Medernach",
-      "coordinates": "49.7892, 6.24111"
+      "coordinates": "49.7892, 6.24111",
+      "metar_available": false
     },
     {
       "ident": "LU-0003",
@@ -80,7 +85,8 @@
       "iso_region": "LU-L",
       "municipality": "Luxembourg",
       "gps_code": "ELLC",
-      "coordinates": "49.619279, 6.102534"
+      "coordinates": "49.619279, 6.102534",
+      "metar_available": false
     },
     {
       "ident": "LU-0004",
@@ -92,7 +98,8 @@
       "iso_region": "LU-E",
       "municipality": "Esch-sur-Alzette",
       "gps_code": "ELEA",
-      "coordinates": "49.500911, 5.982146"
+      "coordinates": "49.500911, 5.982146",
+      "metar_available": false
     },
     {
       "ident": "LU-0005",
@@ -103,7 +110,8 @@
       "iso_country": "LU",
       "iso_region": "LU-L",
       "municipality": "Luxembourg",
-      "coordinates": "49.603429, 6.128129"
+      "coordinates": "49.603429, 6.128129",
+      "metar_available": false
     },
     {
       "ident": "LU-0006",
@@ -115,7 +123,8 @@
       "iso_region": "LU-L",
       "municipality": "Luxembourg",
       "gps_code": "ELLK",
-      "coordinates": "49.632616, 6.177118"
+      "coordinates": "49.632616, 6.177118",
+      "metar_available": false
     },
     {
       "ident": "LU-0007",
@@ -125,7 +134,8 @@
       "iso_country": "LU",
       "iso_region": "LU-E",
       "municipality": "Niederkorn",
-      "coordinates": "49.532918, 5.886223"
+      "coordinates": "49.532918, 5.886223",
+      "metar_available": false
     },
     {
       "ident": "LU-0008",
@@ -136,7 +146,8 @@
       "iso_country": "LU",
       "iso_region": "LU-I",
       "municipality": "Consdorf",
-      "coordinates": "49.772286, 6.341238"
+      "coordinates": "49.772286, 6.341238",
+      "metar_available": false
     },
     {
       "ident": "LU-0009",
@@ -147,7 +158,8 @@
       "iso_country": "LU",
       "iso_region": "LU-G",
       "municipality": "Grevenmacher",
-      "coordinates": "49.673869, 6.431973"
+      "coordinates": "49.673869, 6.431973",
+      "metar_available": false
     },
     {
       "ident": "LU-0010",
@@ -158,7 +170,8 @@
       "iso_country": "LU",
       "iso_region": "LU-G",
       "municipality": "Grevenmacher",
-      "coordinates": "49.672129, 6.434428"
+      "coordinates": "49.672129, 6.434428",
+      "metar_available": false
     },
     {
       "ident": "LU-0011",
@@ -169,7 +182,8 @@
       "iso_country": "LU",
       "iso_region": "LU-RM",
       "municipality": "Bech-Kleinmacher",
-      "coordinates": "49.53441, 6.34378"
+      "coordinates": "49.53441, 6.34378",
+      "metar_available": false
     },
     {
       "ident": "LU-0012",
@@ -180,7 +194,8 @@
       "iso_country": "LU",
       "iso_region": "LU-RM",
       "municipality": "Schengen",
-      "coordinates": "49.49102, 6.34507"
+      "coordinates": "49.49102, 6.34507",
+      "metar_available": false
     }
   ]
 }

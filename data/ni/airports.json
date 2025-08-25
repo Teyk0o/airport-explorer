@@ -2,7 +2,7 @@
   "country_code": "NI",
   "country_name": "Nicaragua",
   "total_airports": 44,
-  "last_updated": "2025-08-01T00:18:22.828244",
+  "last_updated": "2025-08-25T10:08:40.982745",
   "types_distribution": {
     "small_airport": 36,
     "medium_airport": 3,
@@ -18,7 +18,8 @@
       "iso_region": "NI-AN",
       "municipality": "Alamicamba",
       "gps_code": "MNAL",
-      "coordinates": "13.5123, -84.247101"
+      "coordinates": "13.5123, -84.247101",
+      "metar_available": false
     },
     {
       "ident": "MNAM",
@@ -29,7 +30,8 @@
       "iso_region": "NI-BO",
       "municipality": "Altamira",
       "gps_code": "MNAM",
-      "coordinates": "12.135983, -85.716461"
+      "coordinates": "12.135983, -85.716461",
+      "metar_available": false
     },
     {
       "ident": "MNBC",
@@ -40,7 +42,8 @@
       "iso_region": "NI-BO",
       "municipality": "Boaco",
       "gps_code": "MNBC",
-      "coordinates": "12.469099998474121, -85.66259765625"
+      "coordinates": "12.469099998474121, -85.66259765625",
+      "metar_available": false
     },
     {
       "ident": "MNBL",
@@ -52,7 +55,8 @@
       "municipality": "Bluefileds",
       "gps_code": "MNBL",
       "iata_code": "BEF",
-      "coordinates": "11.991, -83.774101"
+      "coordinates": "11.991, -83.774101",
+      "metar_available": false
     },
     {
       "ident": "MNBR",
@@ -63,7 +67,8 @@
       "iso_region": "NI-MN",
       "municipality": "Los Brasiles",
       "gps_code": "MNBR",
-      "coordinates": "12.19, -86.353897"
+      "coordinates": "12.19, -86.353897",
+      "metar_available": false
     },
     {
       "ident": "MNBZ",
@@ -75,7 +80,8 @@
       "municipality": "Bonanza",
       "gps_code": "MNBZ",
       "iata_code": "BZA",
-      "coordinates": "14.031524, -84.624311"
+      "coordinates": "14.031524, -84.624311",
+      "metar_available": false
     },
     {
       "ident": "MNCE",
@@ -88,7 +94,8 @@
       "gps_code": "MNCE",
       "iata_code": "ECI",
       "local_code": "ECI",
-      "coordinates": "11.427542, -86.033361"
+      "coordinates": "11.427542, -86.033361",
+      "metar_available": false
     },
     {
       "ident": "MNCH",
@@ -99,7 +106,8 @@
       "iso_region": "NI-CI",
       "municipality": "Chinandega",
       "gps_code": "MNCH",
-      "coordinates": "12.639548, -87.137753"
+      "coordinates": "12.639548, -87.137753",
+      "metar_available": false
     },
     {
       "ident": "MNCI",
@@ -111,7 +119,8 @@
       "municipality": "Corn Island",
       "gps_code": "MNCI",
       "iata_code": "RNI",
-      "coordinates": "12.174785, -83.059445"
+      "coordinates": "12.174785, -83.059445",
+      "metar_available": false
     },
     {
       "ident": "MNCT",
@@ -122,7 +131,8 @@
       "iso_region": "NI-CI",
       "municipality": "Chinandega",
       "gps_code": "MNCT",
-      "coordinates": "12.478899955749512, -87.17720031738281"
+      "coordinates": "12.478899955749512, -87.17720031738281",
+      "metar_available": false
     },
     {
       "ident": "MNDM",
@@ -133,7 +143,8 @@
       "iso_region": "NI-MT",
       "municipality": "Dos Montes",
       "gps_code": "MNDM",
-      "coordinates": "12.80049991607666, -86.14830017089844"
+      "coordinates": "12.80049991607666, -86.14830017089844",
+      "metar_available": false
     },
     {
       "ident": "MNES",
@@ -144,7 +155,8 @@
       "iso_region": "NI-ES",
       "municipality": "Estelí",
       "gps_code": "MNES",
-      "coordinates": "13.111700057983398, -86.36329650878906"
+      "coordinates": "13.111700057983398, -86.36329650878906",
+      "metar_available": false
     },
     {
       "ident": "MNFC",
@@ -156,7 +168,8 @@
       "municipality": "Punta Huete",
       "gps_code": "MNFC",
       "local_code": "MN1A",
-      "coordinates": "12.3534, -86.182899"
+      "coordinates": "12.3534, -86.182899",
+      "metar_available": false
     },
     {
       "ident": "MNFF",
@@ -166,7 +179,8 @@
       "iso_country": "NI",
       "iso_region": "NI-AS",
       "municipality": "El Bluff",
-      "coordinates": "11.99229, -83.688731"
+      "coordinates": "11.99229, -83.688731",
+      "metar_available": false
     },
     {
       "ident": "MNHG",
@@ -177,7 +191,8 @@
       "iso_region": "NI-CO",
       "municipality": "Hato Grande",
       "gps_code": "MNHG",
-      "coordinates": "11.981199, -85.43357"
+      "coordinates": "11.981199, -85.43357",
+      "metar_available": false
     },
     {
       "ident": "MNJG",
@@ -188,7 +203,8 @@
       "iso_region": "NI-JI",
       "municipality": "Jinotega",
       "gps_code": "MNJG",
-      "coordinates": "13.085700035095215, -85.98770141601562"
+      "coordinates": "13.085700035095215, -85.98770141601562",
+      "metar_available": false
     },
     {
       "ident": "MNKW",
@@ -199,7 +215,8 @@
       "iso_region": "NI-AS",
       "municipality": "Karawala",
       "gps_code": "MNKW",
-      "coordinates": "12.8921, -83.582901"
+      "coordinates": "12.8921, -83.582901",
+      "metar_available": false
     },
     {
       "ident": "MNLN",
@@ -210,7 +227,8 @@
       "iso_region": "NI-LE",
       "municipality": "León",
       "gps_code": "MNLN",
-      "coordinates": "12.4292, -86.902802"
+      "coordinates": "12.4292, -86.902802",
+      "metar_available": false
     },
     {
       "ident": "MNLP",
@@ -221,7 +239,8 @@
       "iso_region": "NI-RI",
       "municipality": "Omtepe Island",
       "gps_code": "MNOM",
-      "coordinates": "11.523616, -85.702995"
+      "coordinates": "11.523616, -85.702995",
+      "metar_available": false
     },
     {
       "ident": "MNMG",
@@ -233,7 +252,8 @@
       "municipality": "Managua",
       "gps_code": "MNMG",
       "iata_code": "MGA",
-      "coordinates": "12.141500473022461, -86.16819763183594"
+      "coordinates": "12.141500473022461, -86.16819763183594",
+      "metar_available": false
     },
     {
       "ident": "MNMR",
@@ -245,7 +265,8 @@
       "municipality": "Montelimar",
       "gps_code": "MNMR",
       "local_code": "MN1B",
-      "coordinates": "11.8052, -86.511299"
+      "coordinates": "11.8052, -86.511299",
+      "metar_available": false
     },
     {
       "ident": "MNMT",
@@ -256,7 +277,8 @@
       "iso_region": "NI-MT",
       "municipality": "La Cumplida",
       "gps_code": "MNMT",
-      "coordinates": "12.996027, -85.852146"
+      "coordinates": "12.996027, -85.852146",
+      "metar_available": false
     },
     {
       "ident": "MNPC",
@@ -268,7 +290,8 @@
       "municipality": "Puerto Cabezas",
       "gps_code": "MNPC",
       "iata_code": "PUZ",
-      "coordinates": "14.047200202941895, -83.38670349121094"
+      "coordinates": "14.047200202941895, -83.38670349121094",
+      "metar_available": false
     },
     {
       "ident": "MNPP",
@@ -279,7 +302,8 @@
       "iso_region": "NI-LE",
       "municipality": "El Papalonal",
       "gps_code": "MNPP",
-      "coordinates": "12.4657, -86.467903"
+      "coordinates": "12.4657, -86.467903",
+      "metar_available": false
     },
     {
       "ident": "MNRS",
@@ -290,7 +314,8 @@
       "iso_region": "NI-RI",
       "municipality": "Rivas",
       "gps_code": "MNRS",
-      "coordinates": "11.42770004272461, -85.8385009765625"
+      "coordinates": "11.42770004272461, -85.8385009765625",
+      "metar_available": false
     },
     {
       "ident": "MNRT",
@@ -302,7 +327,8 @@
       "municipality": "La Rosita",
       "gps_code": "MNRT",
       "iata_code": "RFS",
-      "coordinates": "13.889699935913086, -84.40889739990234"
+      "coordinates": "13.889699935913086, -84.40889739990234",
+      "metar_available": false
     },
     {
       "ident": "MNSC",
@@ -314,7 +340,8 @@
       "municipality": "San Carlos",
       "gps_code": "MNSC",
       "iata_code": "NCR",
-      "coordinates": "11.13556, -84.768727"
+      "coordinates": "11.13556, -84.768727",
+      "metar_available": false
     },
     {
       "ident": "MNSI",
@@ -326,7 +353,8 @@
       "municipality": "Siuna",
       "gps_code": "MNSI",
       "iata_code": "SIU",
-      "coordinates": "13.727222, -84.777779"
+      "coordinates": "13.727222, -84.777779",
+      "metar_available": false
     },
     {
       "ident": "MNSN",
@@ -337,7 +365,8 @@
       "iso_region": "NI-SJ",
       "municipality": "San Juan de Nicaragua",
       "gps_code": "MNSN",
-      "coordinates": "10.920328, -83.707764"
+      "coordinates": "10.920328, -83.707764",
+      "metar_available": false
     },
     {
       "ident": "MNWP",
@@ -349,7 +378,8 @@
       "municipality": "Waspam",
       "gps_code": "MNWP",
       "iata_code": "WSP",
-      "coordinates": "14.7392, -83.969398"
+      "coordinates": "14.7392, -83.969398",
+      "metar_available": false
     },
     {
       "ident": "NI-0001",
@@ -359,7 +389,8 @@
       "iso_country": "NI",
       "iso_region": "NI-LE",
       "municipality": "Santa Elena",
-      "coordinates": "12.50328, -86.41501"
+      "coordinates": "12.50328, -86.41501",
+      "metar_available": false
     },
     {
       "ident": "NI-0002",
@@ -369,7 +400,8 @@
       "iso_country": "NI",
       "iso_region": "NI-GR",
       "municipality": "Malacataya",
-      "coordinates": "12.15541, -85.84428"
+      "coordinates": "12.15541, -85.84428",
+      "metar_available": false
     },
     {
       "ident": "NI-0003",
@@ -379,7 +411,8 @@
       "iso_country": "NI",
       "iso_region": "NI-GR",
       "municipality": "Malacataya",
-      "coordinates": "12.19348, -85.92086"
+      "coordinates": "12.19348, -85.92086",
+      "metar_available": false
     },
     {
       "ident": "NI-0004",
@@ -390,7 +423,8 @@
       "iso_region": "NI-GR",
       "municipality": "Malacataya",
       "gps_code": "MNLL",
-      "coordinates": "12.15303, -85.90848"
+      "coordinates": "12.15303, -85.90848",
+      "metar_available": false
     },
     {
       "ident": "NI-0005",
@@ -400,7 +434,8 @@
       "iso_country": "NI",
       "iso_region": "NI-MN",
       "municipality": "Tipitapa",
-      "coordinates": "12.22735, -85.92473"
+      "coordinates": "12.22735, -85.92473",
+      "metar_available": false
     },
     {
       "ident": "NI-0006",
@@ -410,7 +445,8 @@
       "iso_country": "NI",
       "iso_region": "NI-RI",
       "municipality": "San Juan del Sur",
-      "coordinates": "11.31509, -85.90843"
+      "coordinates": "11.31509, -85.90843",
+      "metar_available": false
     },
     {
       "ident": "NI-0007",
@@ -420,7 +456,8 @@
       "iso_country": "NI",
       "iso_region": "NI-AS",
       "municipality": "Kukra Hill",
-      "coordinates": "12.25094, -83.75679"
+      "coordinates": "12.25094, -83.75679",
+      "metar_available": false
     },
     {
       "ident": "NI-0008",
@@ -430,7 +467,8 @@
       "iso_country": "NI",
       "iso_region": "NI-LE",
       "municipality": "Las Parcelas",
-      "coordinates": "12.35403, -86.78902"
+      "coordinates": "12.35403, -86.78902",
+      "metar_available": false
     },
     {
       "ident": "NI-0009",
@@ -440,7 +478,8 @@
       "iso_country": "NI",
       "iso_region": "NI-LE",
       "municipality": "Las Chacaras",
-      "coordinates": "12.37954, -86.82237"
+      "coordinates": "12.37954, -86.82237",
+      "metar_available": false
     },
     {
       "ident": "NI-0010",
@@ -449,7 +488,8 @@
       "iso_country": "NI",
       "iso_region": "NI-CO",
       "municipality": "Hato Grande",
-      "coordinates": "11.95437, -85.44539"
+      "coordinates": "11.95437, -85.44539",
+      "metar_available": false
     },
     {
       "ident": "NI-0011",
@@ -459,7 +499,8 @@
       "iso_country": "NI",
       "iso_region": "NI-AN",
       "municipality": "Macantaca",
-      "coordinates": "13.322019, -84.154601"
+      "coordinates": "13.322019, -84.154601",
+      "metar_available": false
     },
     {
       "ident": "NI-0012",
@@ -469,7 +510,8 @@
       "iso_country": "NI",
       "iso_region": "NI-AS",
       "municipality": "La Esperanza",
-      "coordinates": "12.199532, -84.276385"
+      "coordinates": "12.199532, -84.276385",
+      "metar_available": false
     },
     {
       "ident": "NI-0013",
@@ -479,7 +521,8 @@
       "iso_country": "NI",
       "iso_region": "NI-AS",
       "municipality": "Nueva Guinea",
-      "coordinates": "11.686994, -84.457011"
+      "coordinates": "11.686994, -84.457011",
+      "metar_available": false
     },
     {
       "ident": "NI-0014",
@@ -489,7 +532,8 @@
       "iso_country": "NI",
       "iso_region": "NI-CO",
       "municipality": "Juigalpa",
-      "coordinates": "12.1, -85.366669"
+      "coordinates": "12.1, -85.366669",
+      "metar_available": false
     }
   ]
 }

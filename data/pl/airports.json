@@ -2,7 +2,7 @@
   "country_code": "PL",
   "country_name": "Poland",
   "total_airports": 386,
-  "last_updated": "2025-08-01T00:18:22.692348",
+  "last_updated": "2025-08-25T10:08:40.834410",
   "types_distribution": {
     "small_airport": 291,
     "heliport": 16,
@@ -21,7 +21,8 @@
       "iso_region": "PL-PK",
       "municipality": "Wola Korzeniecka",
       "gps_code": "EPAR",
-      "coordinates": "49.657501, 22.514298"
+      "coordinates": "49.657501, 22.514298",
+      "metar_available": false
     },
     {
       "ident": "EPBA",
@@ -33,7 +34,8 @@
       "iso_region": "PL-SL",
       "municipality": "Bielsko-Biała",
       "gps_code": "EPBA",
-      "coordinates": "49.805, 19.0019"
+      "coordinates": "49.805, 19.0019",
+      "metar_available": false
     },
     {
       "ident": "EPBB",
@@ -44,7 +46,8 @@
       "iso_region": "PL-WN",
       "municipality": "Babięta",
       "gps_code": "EPBB",
-      "coordinates": "53.669635, 21.252737"
+      "coordinates": "53.669635, 21.252737",
+      "metar_available": false
     },
     {
       "ident": "EPBC",
@@ -56,7 +59,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Warsaw",
       "gps_code": "EPBC",
-      "coordinates": "52.269199, 20.907203"
+      "coordinates": "52.269199, 20.907203",
+      "metar_available": false
     },
     {
       "ident": "EPBH",
@@ -67,7 +71,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "gps_code": "EPBH",
-      "coordinates": "53.210278, 18.101667"
+      "coordinates": "53.210278, 18.101667",
+      "metar_available": false
     },
     {
       "ident": "EPBK",
@@ -79,7 +84,8 @@
       "iso_region": "PL-PD",
       "municipality": "Białystok",
       "gps_code": "EPBK",
-      "coordinates": "53.101398, 23.170601"
+      "coordinates": "53.101398, 23.170601",
+      "metar_available": false
     },
     {
       "ident": "EPBY",
@@ -92,7 +98,8 @@
       "municipality": "Bydgoszcz",
       "gps_code": "EPBY",
       "iata_code": "BZG",
-      "coordinates": "53.096802, 17.977699"
+      "coordinates": "53.096802, 17.977699",
+      "metar_available": false
     },
     {
       "ident": "EPCD",
@@ -103,7 +110,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "gps_code": "EPCD",
-      "coordinates": "51.082067, 23.437014"
+      "coordinates": "51.082067, 23.437014",
+      "metar_available": false
     },
     {
       "ident": "EPCE",
@@ -115,7 +123,8 @@
       "iso_region": "PL-PM",
       "municipality": "Siemirowice",
       "gps_code": "EPCE",
-      "coordinates": "54.417664, 17.773512"
+      "coordinates": "54.417664, 17.773512",
+      "metar_available": false
     },
     {
       "ident": "EPDA",
@@ -127,7 +136,8 @@
       "iso_region": "PL-ZP",
       "municipality": "Darłowo",
       "gps_code": "EPDA",
-      "coordinates": "54.404701, 16.3531"
+      "coordinates": "54.404701, 16.3531",
+      "metar_available": false
     },
     {
       "ident": "EPDE",
@@ -139,7 +149,8 @@
       "iso_region": "PL-LU",
       "municipality": "Dęblin",
       "gps_code": "EPDE",
-      "coordinates": "51.551399231, 21.8936004639"
+      "coordinates": "51.551399231, 21.8936004639",
+      "metar_available": false
     },
     {
       "ident": "EPDK",
@@ -149,7 +160,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "gps_code": "EPDK",
-      "coordinates": "51.6126, 23.0072"
+      "coordinates": "51.6126, 23.0072",
+      "metar_available": false
     },
     {
       "ident": "EPDS",
@@ -160,7 +172,8 @@
       "iso_region": "PL-DS",
       "municipality": "Witków",
       "gps_code": "EPDS",
-      "coordinates": "50.79686, 16.11448"
+      "coordinates": "50.79686, 16.11448",
+      "metar_available": false
     },
     {
       "ident": "EPEL",
@@ -172,7 +185,8 @@
       "iso_region": "PL-WN",
       "municipality": "Elbląg",
       "gps_code": "EPEL",
-      "coordinates": "54.1408, 19.4233"
+      "coordinates": "54.1408, 19.4233",
+      "metar_available": false
     },
     {
       "ident": "EPGD",
@@ -185,7 +199,8 @@
       "municipality": "Gdańsk",
       "gps_code": "EPGD",
       "iata_code": "GDN",
-      "coordinates": "54.377602, 18.4662"
+      "coordinates": "54.377602, 18.4662",
+      "metar_available": false
     },
     {
       "ident": "EPGE",
@@ -196,7 +211,8 @@
       "iso_region": "PL-WN",
       "municipality": "Giże",
       "gps_code": "EPGE",
-      "coordinates": "53.982531, 22.401796"
+      "coordinates": "53.982531, 22.401796",
+      "metar_available": false
     },
     {
       "ident": "EPGI",
@@ -208,7 +224,8 @@
       "iso_region": "PL-KP",
       "municipality": "Grudziądz",
       "gps_code": "EPGI",
-      "coordinates": "53.524399, 18.849199"
+      "coordinates": "53.524399, 18.849199",
+      "metar_available": false
     },
     {
       "ident": "EPGL",
@@ -220,7 +237,8 @@
       "iso_region": "PL-SL",
       "municipality": "Gliwice",
       "gps_code": "EPGL",
-      "coordinates": "50.268743, 18.672466"
+      "coordinates": "50.268743, 18.672466",
+      "metar_available": false
     },
     {
       "ident": "EPGM",
@@ -232,7 +250,8 @@
       "iso_region": "PL-WN",
       "municipality": "Giżycko",
       "gps_code": "EPGM",
-      "coordinates": "54.00645, 21.81824"
+      "coordinates": "54.00645, 21.81824",
+      "metar_available": false
     },
     {
       "ident": "EPGR",
@@ -244,7 +263,8 @@
       "iso_region": "PL-WN",
       "municipality": "Gryźliny",
       "gps_code": "EPGR",
-      "coordinates": "53.608072, 20.349692"
+      "coordinates": "53.608072, 20.349692",
+      "metar_available": false
     },
     {
       "ident": "EPGS",
@@ -255,7 +275,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Grójec",
       "gps_code": "EPGS",
-      "coordinates": "51.87549, 20.93774"
+      "coordinates": "51.87549, 20.93774",
+      "metar_available": false
     },
     {
       "ident": "EPGY",
@@ -267,7 +288,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Grądy",
       "gps_code": "EPGY",
-      "coordinates": "52.836977, 21.777644"
+      "coordinates": "52.836977, 21.777644",
+      "metar_available": false
     },
     {
       "ident": "EPHN",
@@ -278,7 +300,8 @@
       "iso_region": "PL-PD",
       "municipality": "Narew",
       "gps_code": "EPHN",
-      "coordinates": "52.908777, 23.541338"
+      "coordinates": "52.908777, 23.541338",
+      "metar_available": false
     },
     {
       "ident": "EPIN",
@@ -290,7 +313,8 @@
       "iso_region": "PL-KP",
       "municipality": "Inowrocław",
       "gps_code": "EPIN",
-      "coordinates": "52.80648, 18.280698"
+      "coordinates": "52.80648, 18.280698",
+      "metar_available": false
     },
     {
       "ident": "EPIR",
@@ -301,7 +325,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "gps_code": "EPIR",
-      "coordinates": "52.8293991089, 18.3306007385"
+      "coordinates": "52.8293991089, 18.3306007385",
+      "metar_available": false
     },
     {
       "ident": "EPJA",
@@ -313,7 +338,8 @@
       "iso_region": "PL-PM",
       "municipality": "Jastarnia",
       "gps_code": "EPJA",
-      "coordinates": "54.710281, 18.645281"
+      "coordinates": "54.710281, 18.645281",
+      "metar_available": false
     },
     {
       "ident": "EPJG",
@@ -325,7 +351,8 @@
       "iso_region": "PL-DS",
       "municipality": "Jelenia Góra",
       "gps_code": "EPJG",
-      "coordinates": "50.898899, 15.7856"
+      "coordinates": "50.898899, 15.7856",
+      "metar_available": false
     },
     {
       "ident": "EPJL",
@@ -337,7 +364,8 @@
       "iso_region": "PL-PK",
       "municipality": "Laszki",
       "gps_code": "EPJL",
-      "coordinates": "50.008497, 22.918897"
+      "coordinates": "50.008497, 22.918897",
+      "metar_available": false
     },
     {
       "ident": "EPJS",
@@ -349,7 +377,8 @@
       "iso_region": "PL-DS",
       "municipality": "Jeżów Sudecki",
       "gps_code": "EPJS",
-      "coordinates": "50.944028, 15.766528"
+      "coordinates": "50.944028, 15.766528",
+      "metar_available": false
     },
     {
       "ident": "EPKA",
@@ -361,7 +390,8 @@
       "iso_region": "PL-SK",
       "municipality": "Kielce",
       "gps_code": "EPKA",
-      "coordinates": "50.896702, 20.731701"
+      "coordinates": "50.896702, 20.731701",
+      "metar_available": false
     },
     {
       "ident": "EPKB",
@@ -373,7 +403,8 @@
       "iso_region": "PL-WP",
       "municipality": "Kazimierz Biskupi",
       "gps_code": "EPKB",
-      "coordinates": "52.319549, 18.164322"
+      "coordinates": "52.319549, 18.164322",
+      "metar_available": false
     },
     {
       "ident": "EPKD",
@@ -383,7 +414,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "gps_code": "EPKD",
-      "coordinates": "51.25532, 20.47132"
+      "coordinates": "51.25532, 20.47132",
+      "metar_available": false
     },
     {
       "ident": "EPKE",
@@ -395,7 +427,8 @@
       "iso_region": "PL-WN",
       "municipality": "Kȩtrzyn",
       "gps_code": "EPKE",
-      "coordinates": "54.043598, 21.432199"
+      "coordinates": "54.043598, 21.432199",
+      "metar_available": false
     },
     {
       "ident": "EPKI",
@@ -406,7 +439,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "gps_code": "EPKI",
-      "coordinates": "53.983056, 20.877222"
+      "coordinates": "53.983056, 20.877222",
+      "metar_available": false
     },
     {
       "ident": "EPKK",
@@ -419,7 +453,8 @@
       "municipality": "Balice",
       "gps_code": "EPKK",
       "iata_code": "KRK",
-      "coordinates": "50.077702, 19.7848"
+      "coordinates": "50.077702, 19.7848",
+      "metar_available": false
     },
     {
       "ident": "EPKL",
@@ -431,7 +466,8 @@
       "iso_region": "PL-SK",
       "municipality": "Krasocin",
       "gps_code": "EPKL",
-      "coordinates": "50.899319, 20.12804"
+      "coordinates": "50.899319, 20.12804",
+      "metar_available": false
     },
     {
       "ident": "EPKM",
@@ -443,7 +479,8 @@
       "iso_region": "PL-SL",
       "municipality": "Katowice",
       "gps_code": "EPKM",
-      "coordinates": "50.238184, 19.033685"
+      "coordinates": "50.238184, 19.033685",
+      "metar_available": false
     },
     {
       "ident": "EPKN",
@@ -455,7 +492,8 @@
       "iso_region": "PL-OP",
       "municipality": "Kamień Śląski",
       "gps_code": "EPKN",
-      "coordinates": "50.529202, 18.0849"
+      "coordinates": "50.529202, 18.0849",
+      "metar_available": false
     },
     {
       "ident": "EPKP",
@@ -467,7 +505,8 @@
       "iso_region": "PL-MA",
       "municipality": "Kraków",
       "gps_code": "EPKP",
-      "coordinates": "50.08644, 20.200253"
+      "coordinates": "50.08644, 20.200253",
+      "metar_available": false
     },
     {
       "ident": "EPKR",
@@ -479,7 +518,8 @@
       "iso_region": "PL-PK",
       "municipality": "Krosno",
       "gps_code": "EPKR",
-      "coordinates": "49.683807, 21.740953"
+      "coordinates": "49.683807, 21.740953",
+      "metar_available": false
     },
     {
       "ident": "EPKS",
@@ -491,7 +531,8 @@
       "iso_region": "PL-WP",
       "municipality": "Poznań",
       "gps_code": "EPKS",
-      "coordinates": "52.331699, 16.9664"
+      "coordinates": "52.331699, 16.9664",
+      "metar_available": false
     },
     {
       "ident": "EPKT",
@@ -504,7 +545,8 @@
       "municipality": "Katowice",
       "gps_code": "EPKT",
       "iata_code": "KTW",
-      "coordinates": "50.476015, 19.080705"
+      "coordinates": "50.476015, 19.080705",
+      "metar_available": false
     },
     {
       "ident": "EPKW",
@@ -516,7 +558,8 @@
       "iso_region": "PL-SL",
       "municipality": "Kaniów",
       "gps_code": "EPKW",
-      "coordinates": "49.94159, 19.019566"
+      "coordinates": "49.94159, 19.019566",
+      "metar_available": false
     },
     {
       "ident": "EPKX",
@@ -527,7 +570,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "gps_code": "EPKX",
-      "coordinates": "50.022778, 20.070278"
+      "coordinates": "50.022778, 20.070278",
+      "metar_available": false
     },
     {
       "ident": "EPLB",
@@ -540,7 +584,8 @@
       "municipality": "Lublin",
       "gps_code": "EPLB",
       "iata_code": "LUZ",
-      "coordinates": "51.240157, 22.713461"
+      "coordinates": "51.240157, 22.713461",
+      "metar_available": false
     },
     {
       "ident": "EPLK",
@@ -552,7 +597,8 @@
       "iso_region": "PL-LD",
       "municipality": "Łask",
       "gps_code": "EPLK",
-      "coordinates": "51.551701, 19.1791"
+      "coordinates": "51.551701, 19.1791",
+      "metar_available": false
     },
     {
       "ident": "EPLL",
@@ -565,7 +611,8 @@
       "municipality": "Łódź",
       "gps_code": "EPLL",
       "iata_code": "LCJ",
-      "coordinates": "51.721901, 19.3981"
+      "coordinates": "51.721901, 19.3981",
+      "metar_available": false
     },
     {
       "ident": "EPLR",
@@ -576,7 +623,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "gps_code": "EPLR",
-      "coordinates": "51.221901, 22.394699"
+      "coordinates": "51.221901, 22.394699",
+      "metar_available": false
     },
     {
       "ident": "EPLS",
@@ -588,7 +636,8 @@
       "iso_region": "PL-WP",
       "municipality": "Leszno",
       "gps_code": "EPLS",
-      "coordinates": "51.834999, 16.5219"
+      "coordinates": "51.834999, 16.5219",
+      "metar_available": false
     },
     {
       "ident": "EPLU",
@@ -599,7 +648,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "gps_code": "EPLU",
-      "coordinates": "51.423, 16.196199"
+      "coordinates": "51.423, 16.196199",
+      "metar_available": false
     },
     {
       "ident": "EPLY",
@@ -611,7 +661,8 @@
       "iso_region": "PL-LD",
       "municipality": "Leźnica Wielka",
       "gps_code": "EPLY",
-      "coordinates": "52.004945, 19.143792"
+      "coordinates": "52.004945, 19.143792",
+      "metar_available": false
     },
     {
       "ident": "EPMB",
@@ -623,7 +674,8 @@
       "iso_region": "PL-PM",
       "municipality": "Królewo",
       "gps_code": "EPMB",
-      "coordinates": "54.026598, 19.135718"
+      "coordinates": "54.026598, 19.135718",
+      "metar_available": false
     },
     {
       "ident": "EPMI",
@@ -635,7 +687,8 @@
       "iso_region": "PL-ZP",
       "municipality": "Mirosławiec",
       "gps_code": "EPMI",
-      "coordinates": "53.3951, 16.0828"
+      "coordinates": "53.3951, 16.0828",
+      "metar_available": false
     },
     {
       "ident": "EPML",
@@ -647,7 +700,8 @@
       "iso_region": "PL-PK",
       "municipality": "Mielec",
       "gps_code": "EPML",
-      "coordinates": "50.3223, 21.462099"
+      "coordinates": "50.3223, 21.462099",
+      "metar_available": false
     },
     {
       "ident": "EPMM",
@@ -658,7 +712,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "gps_code": "EPMM",
-      "coordinates": "52.1954994202, 21.6558990479"
+      "coordinates": "52.1954994202, 21.6558990479",
+      "metar_available": false
     },
     {
       "ident": "EPMO",
@@ -671,7 +726,8 @@
       "municipality": "Nowy Dwór Mazowiecki",
       "gps_code": "EPMO",
       "iata_code": "WMI",
-      "coordinates": "52.451099, 20.6518"
+      "coordinates": "52.451099, 20.6518",
+      "metar_available": false
     },
     {
       "ident": "EPMR",
@@ -683,7 +739,8 @@
       "iso_region": "PL-DS",
       "municipality": "Mirosławice",
       "gps_code": "EPMR",
-      "coordinates": "50.957802, 16.7703"
+      "coordinates": "50.957802, 16.7703",
+      "metar_available": false
     },
     {
       "ident": "EPMX",
@@ -695,7 +752,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Milewo",
       "gps_code": "EPMX",
-      "coordinates": "52.665208, 20.428419"
+      "coordinates": "52.665208, 20.428419",
+      "metar_available": false
     },
     {
       "ident": "EPMY",
@@ -706,7 +764,8 @@
       "iso_region": "PL-ZP",
       "municipality": "Nowogródek Pomorski",
       "gps_code": "EPMY",
-      "coordinates": "52.941164, 15.029812"
+      "coordinates": "52.941164, 15.029812",
+      "metar_available": false
     },
     {
       "ident": "EPNA",
@@ -717,7 +776,8 @@
       "iso_region": "PL-WP",
       "municipality": "Nadarzyce",
       "gps_code": "EPNA",
-      "coordinates": "53.454885, 16.48946"
+      "coordinates": "53.454885, 16.48946",
+      "metar_available": false
     },
     {
       "ident": "EPNL",
@@ -729,7 +789,8 @@
       "iso_region": "PL-MA",
       "municipality": "Łososina Dolna",
       "gps_code": "EPNL",
-      "coordinates": "49.745324, 20.623472"
+      "coordinates": "49.745324, 20.623472",
+      "metar_available": false
     },
     {
       "ident": "EPNM",
@@ -741,7 +802,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Nowe Miasto nad Pilicą",
       "gps_code": "EPNM",
-      "coordinates": "51.628335, 20.541228"
+      "coordinates": "51.628335, 20.541228",
+      "metar_available": false
     },
     {
       "ident": "EPNT",
@@ -753,7 +815,8 @@
       "iso_region": "PL-MA",
       "municipality": "Nowy Targ",
       "gps_code": "EPNT",
-      "coordinates": "49.462797, 20.050304"
+      "coordinates": "49.462797, 20.050304",
+      "metar_available": false
     },
     {
       "ident": "EPOD",
@@ -765,7 +828,8 @@
       "iso_region": "PL-WN",
       "municipality": "Olsztyn",
       "gps_code": "EPOD",
-      "coordinates": "53.772901, 20.413087"
+      "coordinates": "53.772901, 20.413087",
+      "metar_available": false
     },
     {
       "ident": "EPOK",
@@ -777,7 +841,8 @@
       "iso_region": "PL-PM",
       "municipality": "Kosakowo",
       "gps_code": "EPOK",
-      "coordinates": "54.5797, 18.5172"
+      "coordinates": "54.5797, 18.5172",
+      "metar_available": false
     },
     {
       "ident": "EPOM",
@@ -789,7 +854,8 @@
       "iso_region": "PL-WP",
       "municipality": "Ostrów Wielkopolski",
       "gps_code": "EPOM",
-      "coordinates": "51.700767, 17.84663"
+      "coordinates": "51.700767, 17.84663",
+      "metar_available": false
     },
     {
       "ident": "EPOP",
@@ -801,7 +867,8 @@
       "iso_region": "PL-OP",
       "municipality": "Polska Nowa Wieś",
       "gps_code": "EPOP",
-      "coordinates": "50.633301, 17.7817"
+      "coordinates": "50.633301, 17.7817",
+      "metar_available": false
     },
     {
       "ident": "EPPC",
@@ -813,7 +880,8 @@
       "iso_region": "PL-SK",
       "municipality": "Pińczów",
       "gps_code": "EPPC",
-      "coordinates": "50.517439, 20.516758"
+      "coordinates": "50.517439, 20.516758",
+      "metar_available": false
     },
     {
       "ident": "EPPI",
@@ -825,7 +893,8 @@
       "iso_region": "PL-WP",
       "municipality": "Piła",
       "gps_code": "EPPI",
-      "coordinates": "53.170095, 16.711092"
+      "coordinates": "53.170095, 16.711092",
+      "metar_available": false
     },
     {
       "ident": "EPPK",
@@ -837,7 +906,8 @@
       "iso_region": "PL-WP",
       "municipality": "Poznań",
       "gps_code": "EPPK",
-      "coordinates": "52.434582, 17.044036"
+      "coordinates": "52.434582, 17.044036",
+      "metar_available": false
     },
     {
       "ident": "EPPL",
@@ -849,7 +919,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Płock",
       "gps_code": "EPPL",
-      "coordinates": "52.562225, 19.720322"
+      "coordinates": "52.562225, 19.720322",
+      "metar_available": false
     },
     {
       "ident": "EPPO",
@@ -862,7 +933,8 @@
       "municipality": "Poznań",
       "gps_code": "EPPO",
       "iata_code": "POZ",
-      "coordinates": "52.421598, 16.823359"
+      "coordinates": "52.421598, 16.823359",
+      "metar_available": false
     },
     {
       "ident": "EPPR",
@@ -874,7 +946,8 @@
       "iso_region": "PL-PM",
       "municipality": "Pruszcz Gdański",
       "gps_code": "EPPR",
-      "coordinates": "54.248001, 18.6716"
+      "coordinates": "54.248001, 18.6716",
+      "metar_available": false
     },
     {
       "ident": "EPPT",
@@ -886,7 +959,8 @@
       "iso_region": "PL-LD",
       "municipality": "Piotrków Trybunalski",
       "gps_code": "EPPT",
-      "coordinates": "51.383099, 19.688299"
+      "coordinates": "51.383099, 19.688299",
+      "metar_available": false
     },
     {
       "ident": "EPPW",
@@ -898,7 +972,8 @@
       "iso_region": "PL-WP",
       "municipality": "Powidz",
       "gps_code": "EPPW",
-      "coordinates": "52.380087, 17.853155"
+      "coordinates": "52.380087, 17.853155",
+      "metar_available": false
     },
     {
       "ident": "EPRA",
@@ -911,7 +986,8 @@
       "municipality": "Radom",
       "gps_code": "EPRA",
       "iata_code": "RDO",
-      "coordinates": "51.38937, 21.214742"
+      "coordinates": "51.38937, 21.214742",
+      "metar_available": false
     },
     {
       "ident": "EPRD",
@@ -923,7 +999,8 @@
       "iso_region": "PL-WN",
       "municipality": "Radzieje",
       "gps_code": "EPRD",
-      "coordinates": "54.134375, 21.598754"
+      "coordinates": "54.134375, 21.598754",
+      "metar_available": false
     },
     {
       "ident": "EPRG",
@@ -935,7 +1012,8 @@
       "iso_region": "PL-SL",
       "municipality": "Rybnik",
       "gps_code": "EPRG",
-      "coordinates": "50.070801, 18.6283"
+      "coordinates": "50.070801, 18.6283",
+      "metar_available": false
     },
     {
       "ident": "EPRJ",
@@ -947,7 +1025,8 @@
       "iso_region": "PL-PK",
       "municipality": "Nowa Wieś",
       "gps_code": "EPRJ",
-      "coordinates": "50.104169, 22.047029"
+      "coordinates": "50.104169, 22.047029",
+      "metar_available": false
     },
     {
       "ident": "EPRP",
@@ -959,7 +1038,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Piastów",
       "gps_code": "EPRP",
-      "coordinates": "51.478901, 21.110001"
+      "coordinates": "51.478901, 21.110001",
+      "metar_available": false
     },
     {
       "ident": "EPRS",
@@ -971,7 +1051,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Rybno",
       "gps_code": "EPRS",
-      "coordinates": "52.242789, 20.126579"
+      "coordinates": "52.242789, 20.126579",
+      "metar_available": false
     },
     {
       "ident": "EPRU",
@@ -984,7 +1065,8 @@
       "municipality": "Rudniki",
       "gps_code": "EPRU",
       "iata_code": "CZW",
-      "coordinates": "50.884716, 19.201842"
+      "coordinates": "50.884716, 19.201842",
+      "metar_available": false
     },
     {
       "ident": "EPRZ",
@@ -997,7 +1079,8 @@
       "municipality": "Jasionka",
       "gps_code": "EPRZ",
       "iata_code": "RZE",
-      "coordinates": "50.109791, 22.024155"
+      "coordinates": "50.109791, 22.024155",
+      "metar_available": false
     },
     {
       "ident": "EPSC",
@@ -1010,7 +1093,8 @@
       "municipality": "Glewice",
       "gps_code": "EPSC",
       "iata_code": "SZZ",
-      "coordinates": "53.584702, 14.9022"
+      "coordinates": "53.584702, 14.9022",
+      "metar_available": false
     },
     {
       "ident": "EPSD",
@@ -1022,7 +1106,8 @@
       "iso_region": "PL-ZP",
       "municipality": "Szczecin",
       "gps_code": "EPSD",
-      "coordinates": "53.392101, 14.6338"
+      "coordinates": "53.392101, 14.6338",
+      "metar_available": false
     },
     {
       "ident": "EPSJ",
@@ -1032,7 +1117,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "gps_code": "EPSJ",
-      "coordinates": "51.951142, 21.35253"
+      "coordinates": "51.951142, 21.35253",
+      "metar_available": false
     },
     {
       "ident": "EPSK",
@@ -1044,7 +1130,8 @@
       "iso_region": "PL-PM",
       "municipality": "Krępa Słupska",
       "gps_code": "EPSK",
-      "coordinates": "54.410036, 17.090572"
+      "coordinates": "54.410036, 17.090572",
+      "metar_available": false
     },
     {
       "ident": "EPSN",
@@ -1055,7 +1142,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "gps_code": "EPSN",
-      "coordinates": "53.790599823, 15.826299667399999"
+      "coordinates": "53.790599823, 15.826299667399999",
+      "metar_available": false
     },
     {
       "ident": "EPSS",
@@ -1066,7 +1154,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "gps_code": "EPSS",
-      "coordinates": "50.8171823, 16.5818641"
+      "coordinates": "50.8171823, 16.5818641",
+      "metar_available": false
     },
     {
       "ident": "EPST",
@@ -1078,7 +1167,8 @@
       "iso_region": "PL-PK",
       "municipality": "Zaleszany",
       "gps_code": "EPST",
-      "coordinates": "50.62638, 21.998963"
+      "coordinates": "50.62638, 21.998963",
+      "metar_available": false
     },
     {
       "ident": "EPSU",
@@ -1090,7 +1180,8 @@
       "iso_region": "PL-PD",
       "municipality": "Suwałki",
       "gps_code": "EPSU",
-      "coordinates": "54.0728, 22.8992"
+      "coordinates": "54.0728, 22.8992",
+      "metar_available": false
     },
     {
       "ident": "EPSW",
@@ -1102,7 +1193,8 @@
       "iso_region": "PL-LU",
       "municipality": "Lublin",
       "gps_code": "EPSL",
-      "coordinates": "51.231899, 22.6903"
+      "coordinates": "51.231899, 22.6903",
+      "metar_available": false
     },
     {
       "ident": "EPSY",
@@ -1115,7 +1207,8 @@
       "municipality": "Szymany",
       "gps_code": "EPSY",
       "iata_code": "SZY",
-      "coordinates": "53.481899, 20.9377"
+      "coordinates": "53.481899, 20.9377",
+      "metar_available": false
     },
     {
       "ident": "EPTM",
@@ -1127,7 +1220,8 @@
       "iso_region": "PL-LD",
       "municipality": "Nowy Glinnik",
       "gps_code": "EPTM",
-      "coordinates": "51.5844, 20.097799"
+      "coordinates": "51.5844, 20.097799",
+      "metar_available": false
     },
     {
       "ident": "EPTO",
@@ -1139,7 +1233,8 @@
       "iso_region": "PL-KP",
       "municipality": "Toruń",
       "gps_code": "EPTO",
-      "coordinates": "53.029202, 18.5459"
+      "coordinates": "53.029202, 18.5459",
+      "metar_available": false
     },
     {
       "ident": "EPVA",
@@ -1150,7 +1245,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "gps_code": "EPVA",
-      "coordinates": "52.4359, 21.33"
+      "coordinates": "52.4359, 21.33",
+      "metar_available": false
     },
     {
       "ident": "EPWA",
@@ -1163,7 +1259,8 @@
       "municipality": "Warsaw",
       "gps_code": "EPWA",
       "iata_code": "WAW",
-      "coordinates": "52.165699, 20.9671"
+      "coordinates": "52.165699, 20.9671",
+      "metar_available": false
     },
     {
       "ident": "EPWK",
@@ -1175,7 +1272,8 @@
       "iso_region": "PL-KP",
       "municipality": "Włocławek",
       "gps_code": "EPWK",
-      "coordinates": "52.584702, 19.0156"
+      "coordinates": "52.584702, 19.0156",
+      "metar_available": false
     },
     {
       "ident": "EPWR",
@@ -1188,7 +1286,8 @@
       "municipality": "Wrocław",
       "gps_code": "EPWR",
       "iata_code": "WRO",
-      "coordinates": "51.103719, 16.882096"
+      "coordinates": "51.103719, 16.882096",
+      "metar_available": false
     },
     {
       "ident": "EPWS",
@@ -1200,7 +1299,8 @@
       "iso_region": "PL-DS",
       "municipality": "Lubięcin",
       "gps_code": "EPWS",
-      "coordinates": "51.2061, 16.9986"
+      "coordinates": "51.2061, 16.9986",
+      "metar_available": false
     },
     {
       "ident": "EPZA",
@@ -1212,7 +1312,8 @@
       "iso_region": "PL-LU",
       "municipality": "Zamość",
       "gps_code": "EPZA",
-      "coordinates": "50.701698, 23.204399"
+      "coordinates": "50.701698, 23.204399",
+      "metar_available": false
     },
     {
       "ident": "EPZB",
@@ -1224,7 +1325,8 @@
       "iso_region": "PL-WP",
       "municipality": "Zborowo",
       "gps_code": "EPZB",
-      "coordinates": "52.362056, 16.638722"
+      "coordinates": "52.362056, 16.638722",
+      "metar_available": false
     },
     {
       "ident": "EPZG",
@@ -1237,7 +1339,8 @@
       "municipality": "Nowe Kramsko",
       "gps_code": "EPZG",
       "iata_code": "IEG",
-      "coordinates": "52.1385, 15.7986"
+      "coordinates": "52.1385, 15.7986",
+      "metar_available": false
     },
     {
       "ident": "EPZI",
@@ -1249,7 +1352,8 @@
       "iso_region": "PL-MA",
       "municipality": "Zieleń",
       "gps_code": "EPZI",
-      "coordinates": "53.1885, 18.9617"
+      "coordinates": "53.1885, 18.9617",
+      "metar_available": false
     },
     {
       "ident": "EPZK",
@@ -1260,7 +1364,8 @@
       "iso_region": "PL-LD",
       "municipality": "Konopnica",
       "gps_code": "EPZK",
-      "coordinates": "51.360179, 18.822057"
+      "coordinates": "51.360179, 18.822057",
+      "metar_available": false
     },
     {
       "ident": "EPZL",
@@ -1272,7 +1377,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Zdziar Wielki",
       "gps_code": "EPZL",
-      "coordinates": "52.63547, 20.07036"
+      "coordinates": "52.63547, 20.07036",
+      "metar_available": false
     },
     {
       "ident": "EPZP",
@@ -1284,7 +1390,8 @@
       "iso_region": "PL-LB",
       "municipality": "Zielona Góra",
       "gps_code": "EPZP",
-      "coordinates": "51.978901, 15.4639"
+      "coordinates": "51.978901, 15.4639",
+      "metar_available": false
     },
     {
       "ident": "EPZR",
@@ -1296,7 +1403,8 @@
       "iso_region": "PL-SL",
       "municipality": "Międzybrodzie  Żywieckie",
       "gps_code": "EPZR",
-      "coordinates": "49.771099, 19.2181"
+      "coordinates": "49.771099, 19.2181",
+      "metar_available": false
     },
     {
       "ident": "PL-0001",
@@ -1308,7 +1416,8 @@
       "iso_region": "PL-WP",
       "municipality": "Pobiedziska",
       "gps_code": "EPPB",
-      "coordinates": "52.5344, 17.2188"
+      "coordinates": "52.5344, 17.2188",
+      "metar_available": false
     },
     {
       "ident": "PL-0002",
@@ -1320,7 +1429,8 @@
       "iso_region": "PL-ZP",
       "municipality": "Bagicz",
       "gps_code": "EPKG",
-      "coordinates": "54.200077, 15.683752"
+      "coordinates": "54.200077, 15.683752",
+      "metar_available": false
     },
     {
       "ident": "PL-0003",
@@ -1330,7 +1440,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Makowice",
-      "coordinates": "53.761082, 15.290194"
+      "coordinates": "53.761082, 15.290194",
+      "metar_available": false
     },
     {
       "ident": "PL-0004",
@@ -1342,7 +1453,8 @@
       "iso_region": "PL-PM",
       "municipality": "Borsk",
       "gps_code": "EPBO",
-      "coordinates": "53.951046, 17.948034"
+      "coordinates": "53.951046, 17.948034",
+      "metar_available": false
     },
     {
       "ident": "PL-0005",
@@ -1353,7 +1465,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Czaplinek",
-      "coordinates": "53.51944351196289, 16.28416633605957"
+      "coordinates": "53.51944351196289, 16.28416633605957",
+      "metar_available": false
     },
     {
       "ident": "PL-0006",
@@ -1364,7 +1477,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Skarbimierz-Osiedle",
-      "coordinates": "50.836945, 17.41361"
+      "coordinates": "50.836945, 17.41361",
+      "metar_available": false
     },
     {
       "ident": "PL-0007",
@@ -1375,7 +1489,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Chojna",
-      "coordinates": "52.939445, 14.421667"
+      "coordinates": "52.939445, 14.421667",
+      "metar_available": false
     },
     {
       "ident": "PL-0008",
@@ -1387,7 +1502,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Chrcynno",
       "gps_code": "EPNC",
-      "coordinates": "52.571618, 20.871649"
+      "coordinates": "52.571618, 20.871649",
+      "metar_available": false
     },
     {
       "ident": "PL-0009",
@@ -1398,7 +1514,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Dęblin",
-      "coordinates": "51.619167, 22.101667"
+      "coordinates": "51.619167, 22.101667",
+      "metar_available": false
     },
     {
       "ident": "PL-0010",
@@ -1409,7 +1526,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Debrzno-Wieś",
-      "coordinates": "53.524445, 17.259167"
+      "coordinates": "53.524445, 17.259167",
+      "metar_available": false
     },
     {
       "ident": "PL-0011",
@@ -1419,7 +1537,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Gdańsk",
-      "coordinates": "54.39611053466797, 18.602500915527344"
+      "coordinates": "54.39611053466797, 18.602500915527344",
+      "metar_available": false
     },
     {
       "ident": "PL-0012",
@@ -1430,7 +1549,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Gostyń",
-      "coordinates": "51.88722229003906, 16.976110458374023"
+      "coordinates": "51.88722229003906, 16.976110458374023",
+      "metar_available": false
     },
     {
       "ident": "PL-0013",
@@ -1440,7 +1560,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Gorzów Wielkopolski",
-      "coordinates": "52.760165, 15.235376"
+      "coordinates": "52.760165, 15.235376",
+      "metar_available": false
     },
     {
       "ident": "PL-0014",
@@ -1451,7 +1572,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Knieja",
-      "coordinates": "53.814197, 16.977513"
+      "coordinates": "53.814197, 16.977513",
+      "metar_available": false
     },
     {
       "ident": "PL-0015",
@@ -1462,7 +1584,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Kanice",
-      "coordinates": "51.656912, 20.273529"
+      "coordinates": "51.656912, 20.273529",
+      "metar_available": false
     },
     {
       "ident": "PL-0016",
@@ -1473,7 +1596,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Słupia",
-      "coordinates": "53.570662, 17.26088"
+      "coordinates": "53.570662, 17.26088",
+      "metar_available": false
     },
     {
       "ident": "PL-0017",
@@ -1484,7 +1608,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Dębnica Kaszubska",
-      "coordinates": "54.368483, 17.211674"
+      "coordinates": "54.368483, 17.211674",
+      "metar_available": false
     },
     {
       "ident": "PL-0018",
@@ -1495,7 +1620,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Kazimierz",
-      "coordinates": "54.604698, 18.4431"
+      "coordinates": "54.604698, 18.4431",
+      "metar_available": false
     },
     {
       "ident": "PL-0019",
@@ -1506,7 +1632,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Grodzisk Wielkopolski",
-      "coordinates": "52.232200622558594, 16.596900939941406"
+      "coordinates": "52.232200622558594, 16.596900939941406",
+      "metar_available": false
     },
     {
       "ident": "PL-0020",
@@ -1517,7 +1644,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Jarosławiec",
-      "coordinates": "54.525002, 16.506399"
+      "coordinates": "54.525002, 16.506399",
+      "metar_available": false
     },
     {
       "ident": "PL-0021",
@@ -1528,7 +1656,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Goleniów",
-      "coordinates": "53.427439, 14.805435"
+      "coordinates": "53.427439, 14.805435",
+      "metar_available": false
     },
     {
       "ident": "PL-0022",
@@ -1539,7 +1668,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Koronowo",
-      "coordinates": "53.3114013671875, 18.01059913635254"
+      "coordinates": "53.3114013671875, 18.01059913635254",
+      "metar_available": false
     },
     {
       "ident": "PL-0023",
@@ -1550,7 +1680,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Leszno",
-      "coordinates": "51.814998626708984, 16.623899459838867"
+      "coordinates": "51.814998626708984, 16.623899459838867",
+      "metar_available": false
     },
     {
       "ident": "PL-0024",
@@ -1561,7 +1692,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Pobierowo",
-      "coordinates": "54.0453, 14.9053"
+      "coordinates": "54.0453, 14.9053",
+      "metar_available": false
     },
     {
       "ident": "PL-0025",
@@ -1572,7 +1704,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Czaplinek",
-      "coordinates": "53.458327, 16.371672"
+      "coordinates": "53.458327, 16.371672",
+      "metar_available": false
     },
     {
       "ident": "PL-0026",
@@ -1583,7 +1716,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Mieszkowice",
-      "coordinates": "52.750301361083984, 14.511699676513672"
+      "coordinates": "52.750301361083984, 14.511699676513672",
+      "metar_available": false
     },
     {
       "ident": "PL-0027",
@@ -1594,7 +1728,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Mirosławiec",
-      "coordinates": "53.38610076904297, 16.15690040588379"
+      "coordinates": "53.38610076904297, 16.15690040588379",
+      "metar_available": false
     },
     {
       "ident": "PL-0028",
@@ -1605,7 +1740,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Polanów",
-      "coordinates": "54.069199, 16.537201"
+      "coordinates": "54.069199, 16.537201",
+      "metar_available": false
     },
     {
       "ident": "PL-0029",
@@ -1616,7 +1752,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Świecie",
-      "coordinates": "53.608299255371094, 18.450599670410156"
+      "coordinates": "53.608299255371094, 18.450599670410156",
+      "metar_available": false
     },
     {
       "ident": "PL-0030",
@@ -1627,7 +1764,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SL",
       "municipality": "Kłobuck",
-      "coordinates": "50.948299407958984, 19.013599395751953"
+      "coordinates": "50.948299407958984, 19.013599395751953",
+      "metar_available": false
     },
     {
       "ident": "PL-0031",
@@ -1638,7 +1776,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Pierzchnia Góra",
-      "coordinates": "51.703899, 18.7183"
+      "coordinates": "51.703899, 18.7183",
+      "metar_available": false
     },
     {
       "ident": "PL-0032",
@@ -1649,7 +1788,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Środa Śląska",
-      "coordinates": "51.16279983520508, 16.66860008239746"
+      "coordinates": "51.16279983520508, 16.66860008239746",
+      "metar_available": false
     },
     {
       "ident": "PL-0033",
@@ -1660,7 +1800,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Wielbark",
-      "coordinates": "53.36669921875, 20.791900634765625"
+      "coordinates": "53.36669921875, 20.791900634765625",
+      "metar_available": false
     },
     {
       "ident": "PL-0034",
@@ -1671,7 +1812,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Września",
-      "coordinates": "52.30110168457031, 17.622499465942383"
+      "coordinates": "52.30110168457031, 17.622499465942383",
+      "metar_available": false
     },
     {
       "ident": "PL-0035",
@@ -1682,7 +1824,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Aleksandrów Łódzki",
-      "coordinates": "51.7906, 19.27"
+      "coordinates": "51.7906, 19.27",
+      "metar_available": false
     },
     {
       "ident": "PL-0036",
@@ -1693,7 +1836,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Sokółka",
-      "coordinates": "53.40472, 23.228331"
+      "coordinates": "53.40472, 23.228331",
+      "metar_available": false
     },
     {
       "ident": "PL-0037",
@@ -1704,7 +1848,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Bezmiechowa Górna",
-      "coordinates": "49.518996, 22.409148"
+      "coordinates": "49.518996, 22.409148",
+      "metar_available": false
     },
     {
       "ident": "PL-0038",
@@ -1715,7 +1860,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Złotoryja",
-      "coordinates": "51.203331, 15.93278"
+      "coordinates": "51.203331, 15.93278",
+      "metar_available": false
     },
     {
       "ident": "PL-0039",
@@ -1727,7 +1873,8 @@
       "iso_region": "PL-LD",
       "municipality": "Sieradz",
       "gps_code": "EPSI",
-      "coordinates": "51.535556, 18.801389"
+      "coordinates": "51.535556, 18.801389",
+      "metar_available": false
     },
     {
       "ident": "PL-0040",
@@ -1736,7 +1883,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LB",
-      "coordinates": "51.99179, 14.7319853"
+      "coordinates": "51.99179, 14.7319853",
+      "metar_available": false
     },
     {
       "ident": "PL-0041",
@@ -1747,7 +1895,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Mirowo",
-      "coordinates": "53.943611, 15.62028"
+      "coordinates": "53.943611, 15.62028",
+      "metar_available": false
     },
     {
       "ident": "PL-0042",
@@ -1758,7 +1907,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Dęblin",
-      "coordinates": "51.62722, 22.198059"
+      "coordinates": "51.62722, 22.198059",
+      "metar_available": false
     },
     {
       "ident": "PL-0043",
@@ -1769,7 +1919,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Rawicz",
-      "coordinates": "51.59444, 16.8675"
+      "coordinates": "51.59444, 16.8675",
+      "metar_available": false
     },
     {
       "ident": "PL-0044",
@@ -1780,7 +1931,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Goszczanów",
-      "coordinates": "51.799687, 18.491781"
+      "coordinates": "51.799687, 18.491781",
+      "metar_available": false
     },
     {
       "ident": "PL-0045",
@@ -1791,7 +1943,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Recz",
-      "coordinates": "53.31139, 15.71389"
+      "coordinates": "53.31139, 15.71389",
+      "metar_available": false
     },
     {
       "ident": "PL-0046",
@@ -1802,7 +1955,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Kraków",
-      "coordinates": "50.06071, 20.012423"
+      "coordinates": "50.06071, 20.012423",
+      "metar_available": false
     },
     {
       "ident": "PL-0047",
@@ -1813,7 +1967,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Zakroczym",
-      "coordinates": "52.47361, 20.539169"
+      "coordinates": "52.47361, 20.539169",
+      "metar_available": false
     },
     {
       "ident": "PL-0048",
@@ -1824,7 +1979,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Międzyrzec Podlaski",
-      "coordinates": "52.05389, 22.70056"
+      "coordinates": "52.05389, 22.70056",
+      "metar_available": false
     },
     {
       "ident": "PL-0049",
@@ -1835,7 +1991,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Dolsk",
-      "coordinates": "51.966667, 16.983334"
+      "coordinates": "51.966667, 16.983334",
+      "metar_available": false
     },
     {
       "ident": "PL-0050",
@@ -1846,7 +2003,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Warsaw",
-      "coordinates": "52.216942, 21.198891"
+      "coordinates": "52.216942, 21.198891",
+      "metar_available": false
     },
     {
       "ident": "PL-0051",
@@ -1857,7 +2015,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Wałcz",
-      "coordinates": "53.470001, 16.456671"
+      "coordinates": "53.470001, 16.456671",
+      "metar_available": false
     },
     {
       "ident": "PL-0052",
@@ -1868,7 +2027,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Namysłów",
-      "coordinates": "51.064171, 17.593611"
+      "coordinates": "51.064171, 17.593611",
+      "metar_available": false
     },
     {
       "ident": "PL-0053",
@@ -1879,7 +2039,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Oława",
-      "coordinates": "50.978611, 17.247499"
+      "coordinates": "50.978611, 17.247499",
+      "metar_available": false
     },
     {
       "ident": "PL-0054",
@@ -1890,7 +2051,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Szlichtyngowa",
-      "coordinates": "51.5672, 16.3556"
+      "coordinates": "51.5672, 16.3556",
+      "metar_available": false
     },
     {
       "ident": "PL-0055",
@@ -1902,7 +2064,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Przasnysz",
       "gps_code": "EPPZ",
-      "coordinates": "53.00835, 20.93157"
+      "coordinates": "53.00835, 20.93157",
+      "metar_available": false
     },
     {
       "ident": "PL-0056",
@@ -1913,7 +2076,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Mosina",
-      "coordinates": "52.211109, 16.997219"
+      "coordinates": "52.211109, 16.997219",
+      "metar_available": false
     },
     {
       "ident": "PL-0057",
@@ -1924,7 +2088,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Radzyń Podlaski",
-      "coordinates": "51.754169, 22.628611"
+      "coordinates": "51.754169, 22.628611",
+      "metar_available": false
     },
     {
       "ident": "PL-0058",
@@ -1935,7 +2100,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Orzysz",
-      "coordinates": "53.709721, 21.909719"
+      "coordinates": "53.709721, 21.909719",
+      "metar_available": false
     },
     {
       "ident": "PL-0059",
@@ -1946,7 +2112,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Skibno",
-      "coordinates": "54.246478, 16.307912"
+      "coordinates": "54.246478, 16.307912",
+      "metar_available": false
     },
     {
       "ident": "PL-0060",
@@ -1957,7 +2124,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Szadek",
-      "coordinates": "51.700792, 18.999452"
+      "coordinates": "51.700792, 18.999452",
+      "metar_available": false
     },
     {
       "ident": "PL-0061",
@@ -1968,7 +2136,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Czaplinek",
-      "coordinates": "53.614404, 16.185951"
+      "coordinates": "53.614404, 16.185951",
+      "metar_available": false
     },
     {
       "ident": "PL-0062",
@@ -1980,7 +2149,8 @@
       "iso_region": "PL-KP",
       "municipality": "Watorowo",
       "gps_code": "EPWT",
-      "coordinates": "53.298517, 18.414073"
+      "coordinates": "53.298517, 18.414073",
+      "metar_available": false
     },
     {
       "ident": "PL-0063",
@@ -1991,7 +2161,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Gowino",
-      "coordinates": "54.59111, 18.200001"
+      "coordinates": "54.59111, 18.200001",
+      "metar_available": false
     },
     {
       "ident": "PL-0064",
@@ -2002,7 +2173,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Weremień",
-      "coordinates": "49.446505, 22.319455"
+      "coordinates": "49.446505, 22.319455",
+      "metar_available": false
     },
     {
       "ident": "PL-0065",
@@ -2013,7 +2185,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Wschowa",
-      "coordinates": "51.835247, 16.242771"
+      "coordinates": "51.835247, 16.242771",
+      "metar_available": false
     },
     {
       "ident": "PL-0066",
@@ -2024,7 +2197,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Wysokie Mazowieckie",
-      "coordinates": "52.931389, 22.52639"
+      "coordinates": "52.931389, 22.52639",
+      "metar_available": false
     },
     {
       "ident": "PL-0067",
@@ -2035,7 +2209,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Zgorzelec",
-      "coordinates": "51.203335, 15.128333"
+      "coordinates": "51.203335, 15.128333",
+      "metar_available": false
     },
     {
       "ident": "PL-0068",
@@ -2045,7 +2220,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Różyniec",
-      "coordinates": "51.310001373291016, 15.725000381469727"
+      "coordinates": "51.310001373291016, 15.725000381469727",
+      "metar_available": false
     },
     {
       "ident": "PL-0069",
@@ -2055,7 +2231,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Gozdnica",
-      "coordinates": "51.459999084472656, 15.104999542236328"
+      "coordinates": "51.459999084472656, 15.104999542236328",
+      "metar_available": false
     },
     {
       "ident": "PL-0070",
@@ -2067,7 +2244,8 @@
       "iso_region": "PL-DS",
       "municipality": "Świebodzice",
       "gps_code": "EPWC",
-      "coordinates": "50.882999, 16.32"
+      "coordinates": "50.882999, 16.32",
+      "metar_available": false
     },
     {
       "ident": "PL-0071",
@@ -2077,7 +2255,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Wiechlice",
-      "coordinates": "51.561278, 15.588913"
+      "coordinates": "51.561278, 15.588913",
+      "metar_available": false
     },
     {
       "ident": "PL-0072",
@@ -2088,7 +2267,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Bystrzyca Kłodzka",
-      "coordinates": "50.308715, 16.645908"
+      "coordinates": "50.308715, 16.645908",
+      "metar_available": false
     },
     {
       "ident": "PL-0073",
@@ -2098,7 +2278,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Oleśnica",
-      "coordinates": "51.21500015258789, 17.434999465942383"
+      "coordinates": "51.21500015258789, 17.434999465942383",
+      "metar_available": false
     },
     {
       "ident": "PL-0074",
@@ -2109,7 +2290,8 @@
       "iso_region": "PL-WP",
       "municipality": "Kąkolewo",
       "gps_code": "EPPG",
-      "coordinates": "52.235001, 16.243"
+      "coordinates": "52.235001, 16.243",
+      "metar_available": false
     },
     {
       "ident": "PL-0075",
@@ -2119,7 +2301,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Przytoczna",
-      "coordinates": "52.52399826049805, 15.725000381469727"
+      "coordinates": "52.52399826049805, 15.725000381469727",
+      "metar_available": false
     },
     {
       "ident": "PL-0076",
@@ -2131,7 +2314,8 @@
       "iso_region": "PL-WP",
       "municipality": "Żerniki",
       "gps_code": "EPZE",
-      "coordinates": "52.322536, 17.040853"
+      "coordinates": "52.322536, 17.040853",
+      "metar_available": false
     },
     {
       "ident": "PL-0077",
@@ -2141,7 +2325,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Konstancin-Jeziorna",
-      "coordinates": "52.07500076293945, 21.187000274658203"
+      "coordinates": "52.07500076293945, 21.187000274658203",
+      "metar_available": false
     },
     {
       "ident": "PL-0078",
@@ -2151,7 +2336,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Lipki Wielkie",
-      "coordinates": "52.715915, 15.51115"
+      "coordinates": "52.715915, 15.51115",
+      "metar_available": false
     },
     {
       "ident": "PL-0079",
@@ -2160,7 +2346,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-PD",
-      "coordinates": "53.003022, 23.057806"
+      "coordinates": "53.003022, 23.057806",
+      "metar_available": false
     },
     {
       "ident": "PL-0080",
@@ -2170,7 +2357,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Wilcze Laski",
-      "coordinates": "53.594457, 16.724189"
+      "coordinates": "53.594457, 16.724189",
+      "metar_available": false
     },
     {
       "ident": "PL-0081",
@@ -2180,7 +2368,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Działyń",
-      "coordinates": "52.603819, 17.477329"
+      "coordinates": "52.603819, 17.477329",
+      "metar_available": false
     },
     {
       "ident": "PL-0082",
@@ -2191,7 +2380,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Wicko Morskie",
-      "coordinates": "54.552223, 16.617742"
+      "coordinates": "54.552223, 16.617742",
+      "metar_available": false
     },
     {
       "ident": "PL-0083",
@@ -2202,7 +2392,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SK",
       "municipality": "Kazimierza Mała",
-      "coordinates": "50.260283, 20.541402"
+      "coordinates": "50.260283, 20.541402",
+      "metar_available": false
     },
     {
       "ident": "PL-0084",
@@ -2213,7 +2404,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "gps_code": "EPSA",
-      "coordinates": "49.575593, 22.20239"
+      "coordinates": "49.575593, 22.20239",
+      "metar_available": false
     },
     {
       "ident": "PL-0085",
@@ -2225,7 +2417,8 @@
       "iso_region": "PL-PK",
       "municipality": "Stara Wieś",
       "gps_code": "EPBW",
-      "coordinates": "49.722995, 22.025378"
+      "coordinates": "49.722995, 22.025378",
+      "metar_available": false
     },
     {
       "ident": "PL-0086",
@@ -2235,7 +2428,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Lwówek",
-      "coordinates": "51.128283, 15.570464"
+      "coordinates": "51.128283, 15.570464",
+      "metar_available": false
     },
     {
       "ident": "PL-0087",
@@ -2244,7 +2438,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MA",
-      "coordinates": "49.959944, 19.402833"
+      "coordinates": "49.959944, 19.402833",
+      "metar_available": false
     },
     {
       "ident": "PL-0088",
@@ -2255,7 +2450,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Baranów",
-      "coordinates": "52.122083, 20.48175"
+      "coordinates": "52.122083, 20.48175",
+      "metar_available": false
     },
     {
       "ident": "PL-0089",
@@ -2267,7 +2463,8 @@
       "iso_region": "PL-PM",
       "municipality": "Korne",
       "gps_code": "EPKO",
-      "coordinates": "54.129767, 17.845354"
+      "coordinates": "54.129767, 17.845354",
+      "metar_available": false
     },
     {
       "ident": "PL-0090",
@@ -2278,7 +2475,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Tworzyjanów",
-      "coordinates": "50.922834, 16.678917"
+      "coordinates": "50.922834, 16.678917",
+      "metar_available": false
     },
     {
       "ident": "PL-0091",
@@ -2288,7 +2486,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Stanisławów",
-      "coordinates": "51.055531, 16.013636"
+      "coordinates": "51.055531, 16.013636",
+      "metar_available": false
     },
     {
       "ident": "PL-0092",
@@ -2299,7 +2498,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Annowo",
-      "coordinates": "52.803389, 17.879678"
+      "coordinates": "52.803389, 17.879678",
+      "metar_available": false
     },
     {
       "ident": "PL-0093",
@@ -2309,7 +2509,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Wilga",
-      "coordinates": "51.8816709, 21.3653123"
+      "coordinates": "51.8816709, 21.3653123",
+      "metar_available": false
     },
     {
       "ident": "PL-0094",
@@ -2320,7 +2521,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Golędzinów",
-      "coordinates": "51.262749, 16.921832"
+      "coordinates": "51.262749, 16.921832",
+      "metar_available": false
     },
     {
       "ident": "PL-0095",
@@ -2330,7 +2532,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Wyszonowice",
-      "coordinates": "50.782972, 17.161753"
+      "coordinates": "50.782972, 17.161753",
+      "metar_available": false
     },
     {
       "ident": "PL-0096",
@@ -2341,7 +2544,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Chełmżyca",
-      "coordinates": "53.670487, 19.46115"
+      "coordinates": "53.670487, 19.46115",
+      "metar_available": false
     },
     {
       "ident": "PL-0097",
@@ -2351,7 +2555,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Głębinów",
-      "coordinates": "50.471573, 17.266817"
+      "coordinates": "50.471573, 17.266817",
+      "metar_available": false
     },
     {
       "ident": "PL-0098",
@@ -2361,7 +2566,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Łagowiec",
-      "coordinates": "52.33525, 15.665277"
+      "coordinates": "52.33525, 15.665277",
+      "metar_available": false
     },
     {
       "ident": "PL-0099",
@@ -2371,7 +2577,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Świdnica",
-      "coordinates": "51.901197, 15.270643"
+      "coordinates": "51.901197, 15.270643",
+      "metar_available": false
     },
     {
       "ident": "PL-0100",
@@ -2382,7 +2589,8 @@
       "iso_region": "PL-WP",
       "municipality": "Jeziorki",
       "gps_code": "EPPS",
-      "coordinates": "53.144961, 16.882682"
+      "coordinates": "53.144961, 16.882682",
+      "metar_available": false
     },
     {
       "ident": "PL-0101",
@@ -2393,7 +2601,8 @@
       "iso_region": "PL-WN",
       "municipality": "Makosieje",
       "gps_code": "EPEK",
-      "coordinates": "53.807373, 22.540594"
+      "coordinates": "53.807373, 22.540594",
+      "metar_available": false
     },
     {
       "ident": "PL-0102",
@@ -2404,7 +2613,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Szklarka Przygodzicka",
-      "coordinates": "51.488091, 17.795207"
+      "coordinates": "51.488091, 17.795207",
+      "metar_available": false
     },
     {
       "ident": "PL-0103",
@@ -2414,7 +2624,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Kamieńsk",
-      "coordinates": "51.22536, 19.418021"
+      "coordinates": "51.22536, 19.418021",
+      "metar_available": false
     },
     {
       "ident": "PL-0104",
@@ -2425,7 +2636,8 @@
       "iso_region": "PL-WP",
       "municipality": "Ulim",
       "gps_code": "EPGW",
-      "coordinates": "52.693563, 15.215912"
+      "coordinates": "52.693563, 15.215912",
+      "metar_available": false
     },
     {
       "ident": "PL-0105",
@@ -2437,7 +2649,8 @@
       "iso_region": "PL-PM",
       "municipality": "Linowiec",
       "gps_code": "EPLI",
-      "coordinates": "54.007897, 18.499983"
+      "coordinates": "54.007897, 18.499983",
+      "metar_available": false
     },
     {
       "ident": "PL-0106",
@@ -2448,7 +2661,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Jasienna",
-      "coordinates": "49.716723, 20.811763"
+      "coordinates": "49.716723, 20.811763",
+      "metar_available": false
     },
     {
       "ident": "PL-0107",
@@ -2458,7 +2672,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Mostki",
-      "coordinates": "52.27189, 15.369729"
+      "coordinates": "52.27189, 15.369729",
+      "metar_available": false
     },
     {
       "ident": "PL-0108",
@@ -2468,7 +2683,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Marianowo",
-      "coordinates": "52.902234, 16.129615"
+      "coordinates": "52.902234, 16.129615",
+      "metar_available": false
     },
     {
       "ident": "PL-0109",
@@ -2479,7 +2695,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Konopki",
-      "coordinates": "52.989607, 20.506689"
+      "coordinates": "52.989607, 20.506689",
+      "metar_available": false
     },
     {
       "ident": "PL-0110",
@@ -2490,7 +2707,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Pacółtowo",
-      "coordinates": "53.5327, 20.1531"
+      "coordinates": "53.5327, 20.1531",
+      "metar_available": false
     },
     {
       "ident": "PL-0111",
@@ -2501,7 +2719,8 @@
       "iso_region": "PL-WN",
       "municipality": "Mrągowo",
       "gps_code": "EPMG",
-      "coordinates": "53.825276, 21.318983"
+      "coordinates": "53.825276, 21.318983",
+      "metar_available": false
     },
     {
       "ident": "PL-0112",
@@ -2511,7 +2730,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Pawłowiczki",
-      "coordinates": "50.244634, 18.023596"
+      "coordinates": "50.244634, 18.023596",
+      "metar_available": false
     },
     {
       "ident": "PL-0113",
@@ -2521,7 +2741,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Solec Kujawski",
-      "coordinates": "53.071092, 18.195064"
+      "coordinates": "53.071092, 18.195064",
+      "metar_available": false
     },
     {
       "ident": "PL-0114",
@@ -2532,7 +2753,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Solina",
-      "coordinates": "49.351199, 22.481757"
+      "coordinates": "49.351199, 22.481757",
+      "metar_available": false
     },
     {
       "ident": "PL-0115",
@@ -2543,7 +2765,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Żernica Wyżna",
-      "coordinates": "49.362597, 22.330595"
+      "coordinates": "49.362597, 22.330595",
+      "metar_available": false
     },
     {
       "ident": "PL-0116",
@@ -2553,7 +2776,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Rogów-Parcela",
-      "coordinates": "51.800561, 19.857478"
+      "coordinates": "51.800561, 19.857478",
+      "metar_available": false
     },
     {
       "ident": "PL-0117",
@@ -2564,7 +2788,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Kukały",
       "gps_code": "EPKU",
-      "coordinates": "51.875631, 21.003014"
+      "coordinates": "51.875631, 21.003014",
+      "metar_available": false
     },
     {
       "ident": "PL-0118",
@@ -2575,7 +2800,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Słonawy",
-      "coordinates": "52.666858, 16.774546"
+      "coordinates": "52.666858, 16.774546",
+      "metar_available": false
     },
     {
       "ident": "PL-0119",
@@ -2585,7 +2811,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Świebodzin",
-      "coordinates": "52.252266, 15.566415"
+      "coordinates": "52.252266, 15.566415",
+      "metar_available": false
     },
     {
       "ident": "PL-0120",
@@ -2596,7 +2823,8 @@
       "iso_region": "PL-LD",
       "municipality": "Kałduny",
       "gps_code": "EPBE",
-      "coordinates": "51.402116, 19.378239"
+      "coordinates": "51.402116, 19.378239",
+      "metar_available": false
     },
     {
       "ident": "PL-0121",
@@ -2606,7 +2834,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Rzepin",
-      "coordinates": "52.3221807, 14.810701"
+      "coordinates": "52.3221807, 14.810701",
+      "metar_available": false
     },
     {
       "ident": "PL-0122",
@@ -2617,7 +2846,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Tarnów",
-      "coordinates": "50.001572, 21.004145"
+      "coordinates": "50.001572, 21.004145",
+      "metar_available": false
     },
     {
       "ident": "PL-0123",
@@ -2627,7 +2857,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Międzyrzecz",
-      "coordinates": "52.419281, 15.580507"
+      "coordinates": "52.419281, 15.580507",
+      "metar_available": false
     },
     {
       "ident": "PL-0124",
@@ -2638,7 +2869,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Kępa",
-      "coordinates": "52.724271, 20.421352"
+      "coordinates": "52.724271, 20.421352",
+      "metar_available": false
     },
     {
       "ident": "PL-0125",
@@ -2649,7 +2881,8 @@
       "iso_region": "PL-PD",
       "municipality": "Czyże",
       "gps_code": "EPCH",
-      "coordinates": "52.786205, 23.430968"
+      "coordinates": "52.786205, 23.430968",
+      "metar_available": false
     },
     {
       "ident": "PL-0126",
@@ -2660,7 +2893,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Narew",
-      "coordinates": "52.908916, 23.539053"
+      "coordinates": "52.908916, 23.539053",
+      "metar_available": false
     },
     {
       "ident": "PL-0127",
@@ -2672,7 +2906,8 @@
       "iso_region": "PL-WN",
       "municipality": "Zawiszyn",
       "gps_code": "EPZW",
-      "coordinates": "54.277943, 22.537944"
+      "coordinates": "54.277943, 22.537944",
+      "metar_available": false
     },
     {
       "ident": "PL-0128",
@@ -2683,7 +2918,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Lisy",
-      "coordinates": "54.219442, 22.044803"
+      "coordinates": "54.219442, 22.044803",
+      "metar_available": false
     },
     {
       "ident": "PL-0129",
@@ -2694,7 +2930,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Jeziorowskie",
-      "coordinates": "53.90725, 22.233334"
+      "coordinates": "53.90725, 22.233334",
+      "metar_available": false
     },
     {
       "ident": "PL-0130",
@@ -2705,7 +2942,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Spytkowo",
-      "coordinates": "54.073224, 21.83375"
+      "coordinates": "54.073224, 21.83375",
+      "metar_available": false
     },
     {
       "ident": "PL-0131",
@@ -2716,7 +2954,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Giżycko",
-      "coordinates": "54.058166, 21.746916"
+      "coordinates": "54.058166, 21.746916",
+      "metar_available": false
     },
     {
       "ident": "PL-0132",
@@ -2727,7 +2966,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Zyzdrojowa Wola",
-      "coordinates": "53.657473, 21.277417"
+      "coordinates": "53.657473, 21.277417",
+      "metar_available": false
     },
     {
       "ident": "PL-0133",
@@ -2738,7 +2978,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Lewickie",
-      "coordinates": "53.029083, 23.134638"
+      "coordinates": "53.029083, 23.134638",
+      "metar_available": false
     },
     {
       "ident": "PL-0134",
@@ -2749,7 +2990,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Krynice",
-      "coordinates": "53.231111, 23.044081"
+      "coordinates": "53.231111, 23.044081",
+      "metar_available": false
     },
     {
       "ident": "PL-0135",
@@ -2760,7 +3002,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Brody",
-      "coordinates": "53.360165, 23.133138"
+      "coordinates": "53.360165, 23.133138",
+      "metar_available": false
     },
     {
       "ident": "PL-0136",
@@ -2771,7 +3014,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PD",
       "municipality": "Szorce",
-      "coordinates": "53.285388, 22.674194"
+      "coordinates": "53.285388, 22.674194",
+      "metar_available": false
     },
     {
       "ident": "PL-0137",
@@ -2782,7 +3026,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Żłobek",
-      "coordinates": "51.454611, 23.542472"
+      "coordinates": "51.454611, 23.542472",
+      "metar_available": false
     },
     {
       "ident": "PL-0138",
@@ -2793,7 +3038,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Oleszyce",
-      "coordinates": "50.170308, 23.057722"
+      "coordinates": "50.170308, 23.057722",
+      "metar_available": false
     },
     {
       "ident": "PL-0139",
@@ -2803,7 +3049,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Ciszyca",
-      "coordinates": "52.108543, 21.18733"
+      "coordinates": "52.108543, 21.18733",
+      "metar_available": false
     },
     {
       "ident": "PL-0140",
@@ -2813,7 +3060,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "52.69077, 16.615541"
+      "coordinates": "52.69077, 16.615541",
+      "metar_available": false
     },
     {
       "ident": "PL-0141",
@@ -2822,7 +3070,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MZ",
-      "coordinates": "52.027223, 20.807118"
+      "coordinates": "52.027223, 20.807118",
+      "metar_available": false
     },
     {
       "ident": "PL-0142",
@@ -2832,7 +3081,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Zalesie",
-      "coordinates": "52.037988, 20.678865"
+      "coordinates": "52.037988, 20.678865",
+      "metar_available": false
     },
     {
       "ident": "PL-0143",
@@ -2841,7 +3091,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LU",
-      "coordinates": "51.644122, 21.94768"
+      "coordinates": "51.644122, 21.94768",
+      "metar_available": false
     },
     {
       "ident": "PL-0144",
@@ -2852,7 +3103,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Więckowy",
-      "coordinates": "54.062273, 18.367292"
+      "coordinates": "54.062273, 18.367292",
+      "metar_available": false
     },
     {
       "ident": "PL-0145",
@@ -2861,7 +3113,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LB",
-      "coordinates": "52.1989335, 15.1266946"
+      "coordinates": "52.1989335, 15.1266946",
+      "metar_available": false
     },
     {
       "ident": "PL-0146",
@@ -2872,7 +3125,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SL",
       "municipality": "Lipie",
-      "coordinates": "51.016239, 18.754739"
+      "coordinates": "51.016239, 18.754739",
+      "metar_available": false
     },
     {
       "ident": "PL-0147",
@@ -2882,7 +3136,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Skorupy",
-      "coordinates": "52.055035, 21.428755"
+      "coordinates": "52.055035, 21.428755",
+      "metar_available": false
     },
     {
       "ident": "PL-0148",
@@ -2892,7 +3147,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Konarzyny",
-      "coordinates": "53.825333, 17.3525"
+      "coordinates": "53.825333, 17.3525",
+      "metar_available": false
     },
     {
       "ident": "PL-0149",
@@ -2902,7 +3158,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Witnica",
-      "coordinates": "52.6735, 14.8687"
+      "coordinates": "52.6735, 14.8687",
+      "metar_available": false
     },
     {
       "ident": "PL-0150",
@@ -2912,7 +3169,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Piaski",
-      "coordinates": "52.4798514, 17.7678974"
+      "coordinates": "52.4798514, 17.7678974",
+      "metar_available": false
     },
     {
       "ident": "PL-0151",
@@ -2922,7 +3180,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Orneta",
-      "coordinates": "54.126694, 20.0881201"
+      "coordinates": "54.126694, 20.0881201",
+      "metar_available": false
     },
     {
       "ident": "PL-0152",
@@ -2933,7 +3192,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Donimierz",
-      "coordinates": "54.486777, 18.167569"
+      "coordinates": "54.486777, 18.167569",
+      "metar_available": false
     },
     {
       "ident": "PL-0153",
@@ -2943,7 +3203,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Dąbcze",
-      "coordinates": "51.8187067, 16.6601499"
+      "coordinates": "51.8187067, 16.6601499",
+      "metar_available": false
     },
     {
       "ident": "PL-0154",
@@ -2954,7 +3215,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Bobrowniki",
-      "coordinates": "52.065745, 20.032263"
+      "coordinates": "52.065745, 20.032263",
+      "metar_available": false
     },
     {
       "ident": "PL-0155",
@@ -2965,7 +3227,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Łowicz",
-      "coordinates": "52.083171, 19.858536"
+      "coordinates": "52.083171, 19.858536",
+      "metar_available": false
     },
     {
       "ident": "PL-0156",
@@ -2975,7 +3238,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Brzeziny",
-      "coordinates": "51.808039, 19.738517"
+      "coordinates": "51.808039, 19.738517",
+      "metar_available": false
     },
     {
       "ident": "PL-0157",
@@ -2984,7 +3248,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LD",
-      "coordinates": "52.2085919, 19.3907223"
+      "coordinates": "52.2085919, 19.3907223",
+      "metar_available": false
     },
     {
       "ident": "PL-0158",
@@ -2994,7 +3259,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Brochow",
-      "coordinates": "52.287427, 20.277461"
+      "coordinates": "52.287427, 20.277461",
+      "metar_available": false
     },
     {
       "ident": "PL-0159",
@@ -3005,7 +3271,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Suliszew",
-      "coordinates": "51.925352, 20.265214"
+      "coordinates": "51.925352, 20.265214",
+      "metar_available": false
     },
     {
       "ident": "PL-0160",
@@ -3015,7 +3282,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Esterka",
-      "coordinates": "51.886041, 20.324996"
+      "coordinates": "51.886041, 20.324996",
+      "metar_available": false
     },
     {
       "ident": "PL-0161",
@@ -3024,7 +3292,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MZ",
-      "coordinates": "52.0805171, 20.8530837"
+      "coordinates": "52.0805171, 20.8530837",
+      "metar_available": false
     },
     {
       "ident": "PL-0162",
@@ -3035,7 +3304,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Stary Wielisław",
-      "coordinates": "50.407065, 16.563007"
+      "coordinates": "50.407065, 16.563007",
+      "metar_available": false
     },
     {
       "ident": "PL-0163",
@@ -3046,7 +3316,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Brużyczka Mała",
-      "coordinates": "51.848148, 19.32928"
+      "coordinates": "51.848148, 19.32928",
+      "metar_available": false
     },
     {
       "ident": "PL-0164",
@@ -3056,7 +3327,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Mosina",
-      "coordinates": "52.237254, 16.889057"
+      "coordinates": "52.237254, 16.889057",
+      "metar_available": false
     },
     {
       "ident": "PL-0165",
@@ -3067,7 +3339,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Jasło",
-      "coordinates": "49.752745, 21.511692"
+      "coordinates": "49.752745, 21.511692",
+      "metar_available": false
     },
     {
       "ident": "PL-0166",
@@ -3077,7 +3350,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Chocznia",
-      "coordinates": "49.8806084, 19.4671623"
+      "coordinates": "49.8806084, 19.4671623",
+      "metar_available": false
     },
     {
       "ident": "PL-0167",
@@ -3088,7 +3362,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Chojnice",
-      "coordinates": "53.680788, 17.533665"
+      "coordinates": "53.680788, 17.533665",
+      "metar_available": false
     },
     {
       "ident": "PL-0168",
@@ -3099,7 +3374,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Stary Kamień",
-      "coordinates": "53.724312, 19.205135"
+      "coordinates": "53.724312, 19.205135",
+      "metar_available": false
     },
     {
       "ident": "PL-0169",
@@ -3110,7 +3386,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Rytel",
-      "coordinates": "53.739132, 17.830447"
+      "coordinates": "53.739132, 17.830447",
+      "metar_available": false
     },
     {
       "ident": "PL-0170",
@@ -3120,7 +3397,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Dębiczek",
-      "coordinates": "52.267907, 17.329428"
+      "coordinates": "52.267907, 17.329428",
+      "metar_available": false
     },
     {
       "ident": "PL-0171",
@@ -3131,7 +3409,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Kłodawa",
-      "coordinates": "52.772424, 15.306475"
+      "coordinates": "52.772424, 15.306475",
+      "metar_available": false
     },
     {
       "ident": "PL-0172",
@@ -3143,7 +3422,8 @@
       "iso_region": "PL-LD",
       "municipality": "Ldzań",
       "gps_code": "EPLD",
-      "coordinates": "51.58955, 19.25418"
+      "coordinates": "51.58955, 19.25418",
+      "metar_available": false
     },
     {
       "ident": "PL-0173",
@@ -3152,7 +3432,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WN",
-      "coordinates": "53.2755, 19.7606"
+      "coordinates": "53.2755, 19.7606",
+      "metar_available": false
     },
     {
       "ident": "PL-0174",
@@ -3163,7 +3444,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Olewin",
-      "coordinates": "51.214465, 18.631675"
+      "coordinates": "51.214465, 18.631675",
+      "metar_available": false
     },
     {
       "ident": "PL-0175",
@@ -3173,7 +3455,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Wisznice",
-      "coordinates": "51.7789, 23.165767"
+      "coordinates": "51.7789, 23.165767",
+      "metar_available": false
     },
     {
       "ident": "PL-0176",
@@ -3182,7 +3465,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LU",
-      "coordinates": "51.35107, 23.02698"
+      "coordinates": "51.35107, 23.02698",
+      "metar_available": false
     },
     {
       "ident": "PL-0177",
@@ -3192,7 +3476,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Smętowo-Graniczne",
-      "coordinates": "53.67644, 18.63286"
+      "coordinates": "53.67644, 18.63286",
+      "metar_available": false
     },
     {
       "ident": "PL-0178",
@@ -3202,7 +3487,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-SL",
-      "coordinates": "49.9524, 18.9419"
+      "coordinates": "49.9524, 18.9419",
+      "metar_available": false
     },
     {
       "ident": "PL-0179",
@@ -3212,7 +3498,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Wincentów",
-      "coordinates": "51.93768, 21.16462"
+      "coordinates": "51.93768, 21.16462",
+      "metar_available": false
     },
     {
       "ident": "PL-0180",
@@ -3221,7 +3508,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "51.32205, 17.97273"
+      "coordinates": "51.32205, 17.97273",
+      "metar_available": false
     },
     {
       "ident": "PL-0181",
@@ -3230,7 +3518,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "51.4316, 18.05835"
+      "coordinates": "51.4316, 18.05835",
+      "metar_available": false
     },
     {
       "ident": "PL-0182",
@@ -3239,7 +3528,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-KP",
-      "coordinates": "53.5779, 18.48456"
+      "coordinates": "53.5779, 18.48456",
+      "metar_available": false
     },
     {
       "ident": "PL-0183",
@@ -3249,7 +3539,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Śniatowo",
-      "coordinates": "53.87819, 14.86522"
+      "coordinates": "53.87819, 14.86522",
+      "metar_available": false
     },
     {
       "ident": "PL-0184",
@@ -3258,7 +3549,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LD",
-      "coordinates": "52.25552, 19.15125"
+      "coordinates": "52.25552, 19.15125",
+      "metar_available": false
     },
     {
       "ident": "PL-0185",
@@ -3267,7 +3559,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "51.915884, 16.708585"
+      "coordinates": "51.915884, 16.708585",
+      "metar_available": false
     },
     {
       "ident": "PL-0186",
@@ -3276,7 +3569,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "51.82801, 17.6863"
+      "coordinates": "51.82801, 17.6863",
+      "metar_available": false
     },
     {
       "ident": "PL-0187",
@@ -3287,7 +3581,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Nowa Sól",
-      "coordinates": "51.800317, 15.802489"
+      "coordinates": "51.800317, 15.802489",
+      "metar_available": false
     },
     {
       "ident": "PL-0188",
@@ -3298,7 +3593,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Wołowa",
-      "coordinates": "51.33468, 16.51771"
+      "coordinates": "51.33468, 16.51771",
+      "metar_available": false
     },
     {
       "ident": "PL-0189",
@@ -3307,7 +3603,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-DS",
-      "coordinates": "51.01555, 17.10618"
+      "coordinates": "51.01555, 17.10618",
+      "metar_available": false
     },
     {
       "ident": "PL-0190",
@@ -3316,7 +3613,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-DS",
-      "coordinates": "51.06434, 16.6979"
+      "coordinates": "51.06434, 16.6979",
+      "metar_available": false
     },
     {
       "ident": "PL-0191",
@@ -3326,7 +3624,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "52.117, 16.05"
+      "coordinates": "52.117, 16.05",
+      "metar_available": false
     },
     {
       "ident": "PL-0192",
@@ -3335,7 +3634,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "52.586038, 16.034364"
+      "coordinates": "52.586038, 16.034364",
+      "metar_available": false
     },
     {
       "ident": "PL-0193",
@@ -3346,7 +3646,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Krępsko",
-      "coordinates": "53.25052, 16.75209"
+      "coordinates": "53.25052, 16.75209",
+      "metar_available": false
     },
     {
       "ident": "PL-0194",
@@ -3355,7 +3656,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "51.61527, 16.90386"
+      "coordinates": "51.61527, 16.90386",
+      "metar_available": false
     },
     {
       "ident": "PL-0195",
@@ -3365,7 +3667,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "51.95672, 17.07527"
+      "coordinates": "51.95672, 17.07527",
+      "metar_available": false
     },
     {
       "ident": "PL-0196",
@@ -3374,7 +3677,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-DS",
-      "coordinates": "51.34014, 16.28043"
+      "coordinates": "51.34014, 16.28043",
+      "metar_available": false
     },
     {
       "ident": "PL-0197",
@@ -3385,7 +3689,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Bogatynia",
-      "coordinates": "50.93039, 14.97937"
+      "coordinates": "50.93039, 14.97937",
+      "metar_available": false
     },
     {
       "ident": "PL-0198",
@@ -3395,7 +3700,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SL",
       "municipality": "Niegowoniczki",
-      "coordinates": "50.373651, 19.42111"
+      "coordinates": "50.373651, 19.42111",
+      "metar_available": false
     },
     {
       "ident": "PL-0199",
@@ -3404,7 +3710,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-PK",
-      "coordinates": "49.281514, 22.119274"
+      "coordinates": "49.281514, 22.119274",
+      "metar_available": false
     },
     {
       "ident": "PL-0200",
@@ -3413,7 +3720,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-SL",
-      "coordinates": "50.73958, 19.00814"
+      "coordinates": "50.73958, 19.00814",
+      "metar_available": false
     },
     {
       "ident": "PL-0201",
@@ -3422,7 +3730,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-DS",
-      "coordinates": "50.690789, 17.110305"
+      "coordinates": "50.690789, 17.110305",
+      "metar_available": false
     },
     {
       "ident": "PL-0202",
@@ -3432,7 +3741,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Żodyń",
-      "coordinates": "52.116033, 15.977104"
+      "coordinates": "52.116033, 15.977104",
+      "metar_available": false
     },
     {
       "ident": "PL-0203",
@@ -3442,7 +3752,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "52.308, 16.145643"
+      "coordinates": "52.308, 16.145643",
+      "metar_available": false
     },
     {
       "ident": "PL-0204",
@@ -3452,7 +3763,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Sławno",
-      "coordinates": "54.39293, 16.68227"
+      "coordinates": "54.39293, 16.68227",
+      "metar_available": false
     },
     {
       "ident": "PL-0205",
@@ -3462,7 +3774,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Stegna",
-      "coordinates": "54.303729, 19.11149"
+      "coordinates": "54.303729, 19.11149",
+      "metar_available": false
     },
     {
       "ident": "PL-0206",
@@ -3473,7 +3786,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Trzebicz Nowy",
-      "coordinates": "52.799733, 15.796799"
+      "coordinates": "52.799733, 15.796799",
+      "metar_available": false
     },
     {
       "ident": "PL-0207",
@@ -3484,7 +3798,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Wilkowice",
-      "coordinates": "51.89456, 16.5312"
+      "coordinates": "51.89456, 16.5312",
+      "metar_available": false
     },
     {
       "ident": "PL-0208",
@@ -3495,7 +3810,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SK",
       "municipality": "Ożarów",
-      "coordinates": "50.90226, 21.65701"
+      "coordinates": "50.90226, 21.65701",
+      "metar_available": false
     },
     {
       "ident": "PL-0209",
@@ -3506,7 +3822,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Tuszów Narodowy",
-      "coordinates": "50.373179, 21.485498"
+      "coordinates": "50.373179, 21.485498",
+      "metar_available": false
     },
     {
       "ident": "PL-0210",
@@ -3518,7 +3835,8 @@
       "iso_region": "PL-MZ",
       "municipality": "Brzeska Wola",
       "gps_code": "EPBI",
-      "coordinates": "51.60774, 21.00479"
+      "coordinates": "51.60774, 21.00479",
+      "metar_available": false
     },
     {
       "ident": "PL-0211",
@@ -3528,7 +3846,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Rzędów",
-      "coordinates": "50.75962, 18.12882"
+      "coordinates": "50.75962, 18.12882",
+      "metar_available": false
     },
     {
       "ident": "PL-0212",
@@ -3539,7 +3858,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Ręczaje Polskie",
-      "coordinates": "52.319791, 21.324851"
+      "coordinates": "52.319791, 21.324851",
+      "metar_available": false
     },
     {
       "ident": "PL-0213",
@@ -3549,7 +3869,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Iwno",
-      "coordinates": "52.39084, 17.282088"
+      "coordinates": "52.39084, 17.282088",
+      "metar_available": false
     },
     {
       "ident": "PL-0214",
@@ -3560,7 +3881,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Marianka",
-      "coordinates": "51.75776, 14.740208"
+      "coordinates": "51.75776, 14.740208",
+      "metar_available": false
     },
     {
       "ident": "PL-0215",
@@ -3570,7 +3892,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-SL",
-      "coordinates": "50.04975, 19.09411"
+      "coordinates": "50.04975, 19.09411",
+      "metar_available": false
     },
     {
       "ident": "PL-0216",
@@ -3579,7 +3902,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-SL",
-      "coordinates": "50.68065, 18.9154"
+      "coordinates": "50.68065, 18.9154",
+      "metar_available": false
     },
     {
       "ident": "PL-0217",
@@ -3590,7 +3914,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Kurozwęcz",
-      "coordinates": "54.0425, 16.2656"
+      "coordinates": "54.0425, 16.2656",
+      "metar_available": false
     },
     {
       "ident": "PL-0218",
@@ -3600,7 +3925,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Karnice",
-      "coordinates": "54.062735, 15.029036"
+      "coordinates": "54.062735, 15.029036",
+      "metar_available": false
     },
     {
       "ident": "PL-0219",
@@ -3611,7 +3937,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Borowa",
-      "coordinates": "50.372316, 21.289942"
+      "coordinates": "50.372316, 21.289942",
+      "metar_available": false
     },
     {
       "ident": "PL-0220",
@@ -3622,7 +3949,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Bielska",
-      "coordinates": "52.561534, 19.71317"
+      "coordinates": "52.561534, 19.71317",
+      "metar_available": false
     },
     {
       "ident": "PL-0221",
@@ -3631,7 +3959,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-LU",
-      "coordinates": "50.74542, 23.83732"
+      "coordinates": "50.74542, 23.83732",
+      "metar_available": false
     },
     {
       "ident": "PL-0222",
@@ -3642,7 +3971,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Łysomice",
-      "coordinates": "53.112161, 18.677819"
+      "coordinates": "53.112161, 18.677819",
+      "metar_available": false
     },
     {
       "ident": "PL-0223",
@@ -3652,7 +3982,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Rysie",
-      "coordinates": "52.22054, 21.47366"
+      "coordinates": "52.22054, 21.47366",
+      "metar_available": false
     },
     {
       "ident": "PL-0224",
@@ -3663,7 +3994,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Cieszkowo",
-      "coordinates": "52.70035, 20.27785"
+      "coordinates": "52.70035, 20.27785",
+      "metar_available": false
     },
     {
       "ident": "PL-0225",
@@ -3674,7 +4006,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Zgorzelec",
-      "coordinates": "51.15755, 15.00955"
+      "coordinates": "51.15755, 15.00955",
+      "metar_available": false
     },
     {
       "ident": "PL-0226",
@@ -3685,7 +4018,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Lubań",
-      "coordinates": "51.14882, 15.23374"
+      "coordinates": "51.14882, 15.23374",
+      "metar_available": false
     },
     {
       "ident": "PL-0227",
@@ -3695,7 +4029,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Nysa",
-      "coordinates": "50.47159, 17.32998"
+      "coordinates": "50.47159, 17.32998",
+      "metar_available": false
     },
     {
       "ident": "PL-0228",
@@ -3706,7 +4041,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Kłodzko",
-      "coordinates": "50.45575, 16.66357"
+      "coordinates": "50.45575, 16.66357",
+      "metar_available": false
     },
     {
       "ident": "PL-0229",
@@ -3717,7 +4053,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Jelenia Góra",
-      "coordinates": "50.91216, 15.76221"
+      "coordinates": "50.91216, 15.76221",
+      "metar_available": false
     },
     {
       "ident": "PL-0230",
@@ -3728,7 +4065,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Drożków",
-      "coordinates": "51.68613, 15.06566"
+      "coordinates": "51.68613, 15.06566",
+      "metar_available": false
     },
     {
       "ident": "PL-0231",
@@ -3737,7 +4075,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-WP",
-      "coordinates": "52.16494, 16.76524"
+      "coordinates": "52.16494, 16.76524",
+      "metar_available": false
     },
     {
       "ident": "PL-0232",
@@ -3748,7 +4087,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Sędziszów Małopolski",
-      "coordinates": "50.097599, 21.725037"
+      "coordinates": "50.097599, 21.725037",
+      "metar_available": false
     },
     {
       "ident": "PL-0233",
@@ -3758,7 +4098,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Lipowa",
-      "coordinates": "50.73297, 17.4242"
+      "coordinates": "50.73297, 17.4242",
+      "metar_available": false
     },
     {
       "ident": "PL-0234",
@@ -3767,7 +4108,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MA",
-      "coordinates": "50.18897, 19.89162"
+      "coordinates": "50.18897, 19.89162",
+      "metar_available": false
     },
     {
       "ident": "PL-0235",
@@ -3778,7 +4120,8 @@
       "iso_region": "PL-PK",
       "municipality": "Nowa Dęba",
       "gps_code": "EPND",
-      "coordinates": "50.4237, 21.79708"
+      "coordinates": "50.4237, 21.79708",
+      "metar_available": false
     },
     {
       "ident": "PL-0236",
@@ -3789,7 +4132,8 @@
       "iso_region": "PL-SL",
       "municipality": "Lipowa",
       "gps_code": "EPLP",
-      "coordinates": "49.69775, 19.09678"
+      "coordinates": "49.69775, 19.09678",
+      "metar_available": false
     },
     {
       "ident": "PL-0237",
@@ -3800,7 +4144,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Nowa Sól",
-      "coordinates": "51.87889, 15.91943"
+      "coordinates": "51.87889, 15.91943",
+      "metar_available": false
     },
     {
       "ident": "PL-0238",
@@ -3811,7 +4156,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Kiełczynek",
-      "coordinates": "52.0664, 17.22156"
+      "coordinates": "52.0664, 17.22156",
+      "metar_available": false
     },
     {
       "ident": "PL-0239",
@@ -3822,7 +4168,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SL",
       "municipality": "Poręba",
-      "coordinates": "50.4878, 19.37662"
+      "coordinates": "50.4878, 19.37662",
+      "metar_available": false
     },
     {
       "ident": "PL-0240",
@@ -3833,7 +4180,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Wysoka",
-      "coordinates": "52.76275, 15.00426"
+      "coordinates": "52.76275, 15.00426",
+      "metar_available": false
     },
     {
       "ident": "PL-0241",
@@ -3844,7 +4192,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SL",
       "municipality": "Kuźnia Raciborska",
-      "coordinates": "50.22124, 18.32237"
+      "coordinates": "50.22124, 18.32237",
+      "metar_available": false
     },
     {
       "ident": "PL-0242",
@@ -3854,7 +4203,8 @@
       "iso_country": "PL",
       "iso_region": "PL-OP",
       "municipality": "Otmice",
-      "coordinates": "50.56192, 18.14532"
+      "coordinates": "50.56192, 18.14532",
+      "metar_available": false
     },
     {
       "ident": "PL-0243",
@@ -3865,7 +4215,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Żegocina",
-      "coordinates": "49.83316, 20.41098"
+      "coordinates": "49.83316, 20.41098",
+      "metar_available": false
     },
     {
       "ident": "PL-0244",
@@ -3875,7 +4226,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-KP",
-      "coordinates": "53.35427, 18.66706"
+      "coordinates": "53.35427, 18.66706",
+      "metar_available": false
     },
     {
       "ident": "PL-0245",
@@ -3886,7 +4238,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Krężce",
-      "coordinates": "51.93868, 20.09039"
+      "coordinates": "51.93868, 20.09039",
+      "metar_available": false
     },
     {
       "ident": "PL-0246",
@@ -3896,7 +4249,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Żeromin",
-      "coordinates": "51.59209, 19.60617"
+      "coordinates": "51.59209, 19.60617",
+      "metar_available": false
     },
     {
       "ident": "PL-0247",
@@ -3905,7 +4259,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MZ",
-      "coordinates": "52.25052, 21.40641"
+      "coordinates": "52.25052, 21.40641",
+      "metar_available": false
     },
     {
       "ident": "PL-0248",
@@ -3916,7 +4271,8 @@
       "iso_country": "PL",
       "iso_region": "PL-SK",
       "municipality": "Nowy Bostów",
-      "coordinates": "50.92562, 21.08394"
+      "coordinates": "50.92562, 21.08394",
+      "metar_available": false
     },
     {
       "ident": "PL-0249",
@@ -3927,7 +4283,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Suliszew",
-      "coordinates": "51.92745, 20.2756"
+      "coordinates": "51.92745, 20.2756",
+      "metar_available": false
     },
     {
       "ident": "PL-0250",
@@ -3938,7 +4295,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Malbork",
-      "coordinates": "54.06483, 19.00452"
+      "coordinates": "54.06483, 19.00452",
+      "metar_available": false
     },
     {
       "ident": "PL-0251",
@@ -3949,7 +4307,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Starków",
-      "coordinates": "50.37751, 16.54321"
+      "coordinates": "50.37751, 16.54321",
+      "metar_available": false
     },
     {
       "ident": "PL-0252",
@@ -3959,7 +4318,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Polanica-Zdrój",
-      "coordinates": "50.40719, 16.50125"
+      "coordinates": "50.40719, 16.50125",
+      "metar_available": false
     },
     {
       "ident": "PL-0253",
@@ -3970,7 +4330,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Stargard",
-      "coordinates": "53.27986, 14.96741"
+      "coordinates": "53.27986, 14.96741",
+      "metar_available": false
     },
     {
       "ident": "PL-0254",
@@ -3981,7 +4342,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Nowy Sącz",
-      "coordinates": "49.587793, 20.663663"
+      "coordinates": "49.587793, 20.663663",
+      "metar_available": false
     },
     {
       "ident": "PL-0255",
@@ -3992,7 +4354,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Gniewskie Pole",
-      "coordinates": "53.79081, 18.86246"
+      "coordinates": "53.79081, 18.86246",
+      "metar_available": false
     },
     {
       "ident": "PL-0256",
@@ -4003,7 +4366,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Mogielnica",
-      "coordinates": "51.71644, 20.77152"
+      "coordinates": "51.71644, 20.77152",
+      "metar_available": false
     },
     {
       "ident": "PL-0257",
@@ -4014,7 +4378,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LD",
       "municipality": "Nadolna",
-      "coordinates": "51.91343, 19.8563"
+      "coordinates": "51.91343, 19.8563",
+      "metar_available": false
     },
     {
       "ident": "PL-0258",
@@ -4025,7 +4390,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WP",
       "municipality": "Kielczyn",
-      "coordinates": "52.05561, 17.21515"
+      "coordinates": "52.05561, 17.21515",
+      "metar_available": false
     },
     {
       "ident": "PL-0259",
@@ -4036,7 +4402,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Brodnica",
-      "coordinates": "53.30729, 19.42302"
+      "coordinates": "53.30729, 19.42302",
+      "metar_available": false
     },
     {
       "ident": "PL-0260",
@@ -4048,7 +4415,8 @@
       "iso_region": "PL-ZP",
       "municipality": "Lubiechowo",
       "gps_code": "EPVK",
-      "coordinates": "54.06462, 15.81256"
+      "coordinates": "54.06462, 15.81256",
+      "metar_available": false
     },
     {
       "ident": "PL-0261",
@@ -4059,7 +4427,8 @@
       "iso_country": "PL",
       "iso_region": "PL-KP",
       "municipality": "Wałyczyk",
-      "coordinates": "53.24402, 18.98651"
+      "coordinates": "53.24402, 18.98651",
+      "metar_available": false
     },
     {
       "ident": "PL-0262",
@@ -4070,7 +4439,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Serock",
-      "coordinates": "52.5136, 21.05474"
+      "coordinates": "52.5136, 21.05474",
+      "metar_available": false
     },
     {
       "ident": "PL-0263",
@@ -4079,7 +4449,8 @@
       "continent": "EU",
       "iso_country": "PL",
       "iso_region": "PL-MZ",
-      "coordinates": "52.64301, 21.57183"
+      "coordinates": "52.64301, 21.57183",
+      "metar_available": false
     },
     {
       "ident": "PL-0264",
@@ -4090,7 +4461,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PM",
       "municipality": "Redzikowo",
-      "coordinates": "54.478901, 17.1075"
+      "coordinates": "54.478901, 17.1075",
+      "metar_available": false
     },
     {
       "ident": "PL-0265",
@@ -4101,7 +4473,8 @@
       "iso_country": "PL",
       "iso_region": "PL-DS",
       "municipality": "Legnica",
-      "coordinates": "51.1828, 16.1782"
+      "coordinates": "51.1828, 16.1782",
+      "metar_available": false
     },
     {
       "ident": "PL-0266",
@@ -4112,7 +4485,8 @@
       "iso_country": "PL",
       "iso_region": "PL-PK",
       "municipality": "Pustyny",
-      "coordinates": "49.658461, 21.8155"
+      "coordinates": "49.658461, 21.8155",
+      "metar_available": false
     },
     {
       "ident": "PL-0267",
@@ -4123,7 +4497,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LU",
       "municipality": "Biała Podlaska",
-      "coordinates": "52.00078, 23.132528"
+      "coordinates": "52.00078, 23.132528",
+      "metar_available": false
     },
     {
       "ident": "PL-0268",
@@ -4134,7 +4509,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Drawsko Pomorskie",
-      "coordinates": "53.477798, 15.7308"
+      "coordinates": "53.477798, 15.7308",
+      "metar_available": false
     },
     {
       "ident": "PL-0269",
@@ -4145,7 +4521,8 @@
       "iso_country": "PL",
       "iso_region": "PL-LB",
       "municipality": "Tomaszowo",
-      "coordinates": "51.627499, 15.4083"
+      "coordinates": "51.627499, 15.4083",
+      "metar_available": false
     },
     {
       "ident": "PL-0270",
@@ -4156,7 +4533,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "municipality": "Sulejówek",
-      "coordinates": "52.184441, 21.281111"
+      "coordinates": "52.184441, 21.281111",
+      "metar_available": false
     },
     {
       "ident": "PL-0271",
@@ -4167,7 +4545,8 @@
       "iso_country": "PL",
       "iso_region": "PL-WN",
       "municipality": "Mikołajki",
-      "coordinates": "53.807781, 21.55583"
+      "coordinates": "53.807781, 21.55583",
+      "metar_available": false
     },
     {
       "ident": "PL-0272",
@@ -4178,7 +4557,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MA",
       "municipality": "Kraków",
-      "coordinates": "50.084353, 19.99031"
+      "coordinates": "50.084353, 19.99031",
+      "metar_available": false
     },
     {
       "ident": "PL-0273",
@@ -4189,7 +4569,8 @@
       "iso_country": "PL",
       "iso_region": "PL-MZ",
       "gps_code": "EPSO",
-      "coordinates": "52.198601, 20.292801"
+      "coordinates": "52.198601, 20.292801",
+      "metar_available": false
     },
     {
       "ident": "PL-0274",
@@ -4201,7 +4582,8 @@
       "iso_region": "PL-KP",
       "municipality": "Bydgoszcz",
       "gps_code": "EPBD",
-      "coordinates": "53.105214, 17.960376"
+      "coordinates": "53.105214, 17.960376",
+      "metar_available": false
     },
     {
       "ident": "PL-0275",
@@ -4212,7 +4594,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Borne Sulinowo",
-      "coordinates": "53.576149, 16.527729"
+      "coordinates": "53.576149, 16.527729",
+      "metar_available": false
     },
     {
       "ident": "PL-0276",
@@ -4223,7 +4606,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Dębno",
-      "coordinates": "52.72012, 14.6292"
+      "coordinates": "52.72012, 14.6292",
+      "metar_available": false
     },
     {
       "ident": "PL-0277",
@@ -4234,7 +4618,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Cedynia",
-      "coordinates": "52.83686, 14.31083"
+      "coordinates": "52.83686, 14.31083",
+      "metar_available": false
     },
     {
       "ident": "PL-0278",
@@ -4245,7 +4630,8 @@
       "iso_country": "PL",
       "iso_region": "PL-ZP",
       "municipality": "Murowana Goślina",
-      "coordinates": "52.56005, 16.9934"
+      "coordinates": "52.56005, 16.9934",
+      "metar_available": false
     }
   ]
 }

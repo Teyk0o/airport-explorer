@@ -2,7 +2,7 @@
   "country_code": "PA",
   "country_name": "Panama",
   "total_airports": 91,
-  "last_updated": "2025-08-01T00:18:22.641144",
+  "last_updated": "2025-08-25T10:08:40.779068",
   "types_distribution": {
     "small_airport": 69,
     "medium_airport": 7,
@@ -21,7 +21,8 @@
       "municipality": "Tupile",
       "gps_code": "MPCJ",
       "iata_code": "CZJ",
-      "coordinates": "9.44686, -78.575678"
+      "coordinates": "9.44686, -78.575678",
+      "metar_available": false
     },
     {
       "ident": "GHE",
@@ -33,7 +34,8 @@
       "iso_region": "PA-5",
       "municipality": "Garachiné",
       "iata_code": "GHE",
-      "coordinates": "8.0644, -78.3673"
+      "coordinates": "8.0644, -78.3673",
+      "metar_available": false
     },
     {
       "ident": "IVI",
@@ -44,7 +46,8 @@
       "iso_region": "PA-8",
       "municipality": "Isla Viveros",
       "iata_code": "IVI",
-      "coordinates": "8.4693, -79.0016"
+      "coordinates": "8.4693, -79.0016",
+      "metar_available": false
     },
     {
       "ident": "MP01",
@@ -56,7 +59,8 @@
       "municipality": "Finca Jaguá",
       "gps_code": "MP01",
       "local_code": "MP01",
-      "coordinates": "8.354999542236328, -82.8364028930664"
+      "coordinates": "8.354999542236328, -82.8364028930664",
+      "metar_available": false
     },
     {
       "ident": "MP02",
@@ -68,7 +72,8 @@
       "municipality": "Dos Caños",
       "gps_code": "MP02",
       "local_code": "MP02",
-      "coordinates": "9.543330192565918, -82.73380279541016"
+      "coordinates": "9.543330192565918, -82.73380279541016",
+      "metar_available": false
     },
     {
       "ident": "MP03",
@@ -79,7 +84,8 @@
       "iso_region": "PA-4",
       "municipality": "Guarumal",
       "gps_code": "MPCB",
-      "coordinates": "8.3457, -82.5042"
+      "coordinates": "8.3457, -82.5042",
+      "metar_available": false
     },
     {
       "ident": "MP17",
@@ -91,7 +97,8 @@
       "municipality": "Changuinola",
       "gps_code": "MP17",
       "local_code": "MP17",
-      "coordinates": "9.434410095214844, -82.49909973144531"
+      "coordinates": "9.434410095214844, -82.49909973144531",
+      "metar_available": false
     },
     {
       "ident": "MP18",
@@ -102,7 +109,8 @@
       "iso_region": "PA-2",
       "municipality": "Penonomé",
       "gps_code": "MPPN",
-      "coordinates": "8.50383, -80.360298"
+      "coordinates": "8.50383, -80.360298",
+      "metar_available": false
     },
     {
       "ident": "MP21",
@@ -114,7 +122,8 @@
       "municipality": "Nueva California",
       "gps_code": "MP21",
       "local_code": "MP21",
-      "coordinates": "8.770389556884766, -82.66439819335938"
+      "coordinates": "8.770389556884766, -82.66439819335938",
+      "metar_available": false
     },
     {
       "ident": "MP22",
@@ -126,7 +135,8 @@
       "municipality": "Ingenio Santa Rosa",
       "gps_code": "MP22",
       "local_code": "MP22",
-      "coordinates": "8.195219993591309, -80.65869903564453"
+      "coordinates": "8.195219993591309, -80.65869903564453",
+      "metar_available": false
     },
     {
       "ident": "MP23",
@@ -137,7 +147,8 @@
       "iso_region": "PA-8",
       "municipality": "Calzada Larga",
       "gps_code": "MPCL",
-      "coordinates": "9.16628, -79.545205"
+      "coordinates": "9.16628, -79.545205",
+      "metar_available": false
     },
     {
       "ident": "MP24",
@@ -148,7 +159,8 @@
       "iso_region": "PA-10",
       "municipality": "Chame",
       "gps_code": "MPCM",
-      "coordinates": "8.58846, -79.889702"
+      "coordinates": "8.58846, -79.889702",
+      "metar_available": false
     },
     {
       "ident": "MP26",
@@ -159,7 +171,8 @@
       "iso_region": "PA-8",
       "municipality": "Punta Cocos",
       "gps_code": "MPPU",
-      "coordinates": "8.22485, -78.904404"
+      "coordinates": "8.22485, -78.904404",
+      "metar_available": false
     },
     {
       "ident": "MP27",
@@ -171,7 +184,8 @@
       "municipality": "Guabito",
       "gps_code": "MP27",
       "local_code": "MP27",
-      "coordinates": "9.51614, -82.595497"
+      "coordinates": "9.51614, -82.595497",
+      "metar_available": false
     },
     {
       "ident": "MPAG",
@@ -182,7 +196,8 @@
       "iso_region": "PA-2",
       "municipality": "El Aguila",
       "gps_code": "MPAG",
-      "coordinates": "8.37168, -80.351676"
+      "coordinates": "8.37168, -80.351676",
+      "metar_available": false
     },
     {
       "ident": "MPBO",
@@ -194,7 +209,8 @@
       "municipality": "Isla Colón",
       "gps_code": "MPBO",
       "iata_code": "BOC",
-      "coordinates": "9.34085, -82.250801"
+      "coordinates": "9.34085, -82.250801",
+      "metar_available": false
     },
     {
       "ident": "MPCE",
@@ -206,7 +222,8 @@
       "municipality": "Chitré",
       "gps_code": "MPCE",
       "iata_code": "CTD",
-      "coordinates": "7.98784, -80.409837"
+      "coordinates": "7.98784, -80.409837",
+      "metar_available": false
     },
     {
       "ident": "MPCH",
@@ -218,7 +235,8 @@
       "municipality": "Changuinola",
       "gps_code": "MPCH",
       "iata_code": "CHX",
-      "coordinates": "9.458962, -82.515062"
+      "coordinates": "9.458962, -82.515062",
+      "metar_available": false
     },
     {
       "ident": "MPDA",
@@ -230,7 +248,8 @@
       "municipality": "David",
       "gps_code": "MPDA",
       "iata_code": "DAV",
-      "coordinates": "8.391, -82.434998"
+      "coordinates": "8.391, -82.434998",
+      "metar_available": false
     },
     {
       "ident": "MPEJ",
@@ -242,7 +261,8 @@
       "municipality": "Colón",
       "gps_code": "MPEJ",
       "iata_code": "ONX",
-      "coordinates": "9.35664, -79.867401"
+      "coordinates": "9.35664, -79.867401",
+      "metar_available": false
     },
     {
       "ident": "MPFE",
@@ -253,7 +273,8 @@
       "iso_region": "PA-8",
       "municipality": "Pedro de Cocal",
       "gps_code": "MPFE",
-      "coordinates": "8.411389, -79.111115"
+      "coordinates": "8.411389, -79.111115",
+      "metar_available": false
     },
     {
       "ident": "MPFS",
@@ -264,7 +285,8 @@
       "iso_region": "PA-3",
       "municipality": "Fort Sherman",
       "gps_code": "MPFS",
-      "coordinates": "9.365090370178223, -79.94979858398438"
+      "coordinates": "9.365090370178223, -79.94979858398438",
+      "metar_available": false
     },
     {
       "ident": "MPHO",
@@ -276,7 +298,8 @@
       "municipality": "Panamá City",
       "gps_code": "MPPA",
       "iata_code": "BLB",
-      "coordinates": "8.91479, -79.599602"
+      "coordinates": "8.91479, -79.599602",
+      "metar_available": false
     },
     {
       "ident": "MPI",
@@ -288,7 +311,8 @@
       "iso_region": "PA-GY",
       "municipality": "Mamitupu",
       "iata_code": "MPI",
-      "coordinates": "9.1851, -77.9841"
+      "coordinates": "9.1851, -77.9841",
+      "metar_available": false
     },
     {
       "ident": "MPJE",
@@ -300,7 +324,8 @@
       "municipality": "Jaqué",
       "gps_code": "MPJE",
       "iata_code": "JQE",
-      "coordinates": "7.51778, -78.157204"
+      "coordinates": "7.51778, -78.157204",
+      "metar_available": false
     },
     {
       "ident": "MPMC",
@@ -311,7 +336,8 @@
       "iso_region": "PA-10",
       "municipality": "Chame",
       "gps_code": "MPMC",
-      "coordinates": "8.591418, -79.869189"
+      "coordinates": "8.591418, -79.869189",
+      "metar_available": false
     },
     {
       "ident": "MPMG",
@@ -323,7 +349,8 @@
       "municipality": "Albrook",
       "gps_code": "MPMG",
       "iata_code": "PAC",
-      "coordinates": "8.97334, -79.555603"
+      "coordinates": "8.97334, -79.555603",
+      "metar_available": false
     },
     {
       "ident": "MPNU",
@@ -334,7 +361,8 @@
       "iso_region": "PA-7",
       "municipality": "Los Santos",
       "gps_code": "MPGU",
-      "coordinates": "7.8575, -80.276167"
+      "coordinates": "7.8575, -80.276167",
+      "metar_available": false
     },
     {
       "ident": "MPOA",
@@ -346,7 +374,8 @@
       "municipality": "Puerto Obaldía",
       "gps_code": "MPOA",
       "iata_code": "PUE",
-      "coordinates": "8.668813, -77.417399"
+      "coordinates": "8.668813, -77.417399",
+      "metar_available": false
     },
     {
       "ident": "MPPD",
@@ -358,7 +387,8 @@
       "municipality": "Pedasí",
       "gps_code": "MPPD",
       "iata_code": "PDM",
-      "coordinates": "7.534801, -80.043347"
+      "coordinates": "7.534801, -80.043347",
+      "metar_available": false
     },
     {
       "ident": "MPPT",
@@ -369,7 +399,8 @@
       "iso_region": "PA-5",
       "municipality": "Punta Patiño",
       "gps_code": "MPPT",
-      "coordinates": "8.252816, -78.278618"
+      "coordinates": "8.252816, -78.278618",
+      "metar_available": false
     },
     {
       "ident": "MPSA",
@@ -381,7 +412,8 @@
       "municipality": "Santiago",
       "gps_code": "MPSA",
       "iata_code": "SYP",
-      "coordinates": "8.085599899291992, -80.94529724121094"
+      "coordinates": "8.085599899291992, -80.94529724121094",
+      "metar_available": false
     },
     {
       "ident": "MPSM",
@@ -393,7 +425,8 @@
       "municipality": "Río Hato",
       "gps_code": "MPSM",
       "iata_code": "RIH",
-      "coordinates": "8.375880241394, -80.127899169922"
+      "coordinates": "8.375880241394, -80.127899169922",
+      "metar_available": false
     },
     {
       "ident": "MPTO",
@@ -405,7 +438,8 @@
       "municipality": "Tocumen",
       "gps_code": "MPTO",
       "iata_code": "PTY",
-      "coordinates": "9.07136, -79.383499"
+      "coordinates": "9.07136, -79.383499",
+      "metar_available": false
     },
     {
       "ident": "MPVR",
@@ -417,7 +451,8 @@
       "municipality": "El Porvenir",
       "gps_code": "MPVR",
       "iata_code": "PVE",
-      "coordinates": "9.559212, -78.946631"
+      "coordinates": "9.559212, -78.946631",
+      "metar_available": false
     },
     {
       "ident": "MPWN",
@@ -429,7 +464,8 @@
       "municipality": "San Blas",
       "gps_code": "MPWN",
       "iata_code": "NBL",
-      "coordinates": "9.273476, -78.139848"
+      "coordinates": "9.273476, -78.139848",
+      "metar_available": false
     },
     {
       "ident": "MPZL",
@@ -440,7 +476,8 @@
       "iso_region": "PA-1",
       "municipality": "La Dalia",
       "gps_code": "MPZL",
-      "coordinates": "9.42708969116211, -82.56269836425781"
+      "coordinates": "9.42708969116211, -82.56269836425781",
+      "metar_available": false
     },
     {
       "ident": "OGM",
@@ -451,7 +488,8 @@
       "iso_region": "PA-GY",
       "municipality": "Ustupu",
       "iata_code": "OGM",
-      "coordinates": "9.1383, -77.93385"
+      "coordinates": "9.1383, -77.93385",
+      "metar_available": false
     },
     {
       "ident": "PA-0001",
@@ -463,7 +501,8 @@
       "municipality": "Mamitupu",
       "gps_code": "MPAC",
       "iata_code": "ACU",
-      "coordinates": "9.188481, -77.994153"
+      "coordinates": "9.188481, -77.994153",
+      "metar_available": false
     },
     {
       "ident": "PA-0002",
@@ -473,7 +512,8 @@
       "iso_country": "PA",
       "iso_region": "PA-2",
       "municipality": "Aguadulce",
-      "coordinates": "8.251649856567383, -80.56539916992188"
+      "coordinates": "8.251649856567383, -80.56539916992188",
+      "metar_available": false
     },
     {
       "ident": "PA-0003",
@@ -485,7 +525,8 @@
       "municipality": "Isla Lorenzo Bello",
       "gps_code": "MPAI",
       "iata_code": "AIL",
-      "coordinates": "9.2226, -78.0236"
+      "coordinates": "9.2226, -78.0236",
+      "metar_available": false
     },
     {
       "ident": "PA-0004",
@@ -496,7 +537,8 @@
       "iso_region": "PA-GY",
       "municipality": "Cartí Islands",
       "iata_code": "CTE",
-      "coordinates": "9.452863, -78.978917"
+      "coordinates": "9.452863, -78.978917",
+      "metar_available": false
     },
     {
       "ident": "PA-0005",
@@ -506,7 +548,8 @@
       "iso_country": "PA",
       "iso_region": "PA-5",
       "municipality": "Nurna",
-      "coordinates": "9.017219543457031, -77.98069763183594"
+      "coordinates": "9.017219543457031, -77.98069763183594",
+      "metar_available": false
     },
     {
       "ident": "PA-0006",
@@ -516,7 +559,8 @@
       "iso_country": "PA",
       "iso_region": "PA-4",
       "municipality": "Finca Blanco",
-      "coordinates": "8.389832, -82.870847"
+      "coordinates": "8.389832, -82.870847",
+      "metar_available": false
     },
     {
       "ident": "PA-0007",
@@ -526,7 +570,8 @@
       "iso_country": "PA",
       "iso_region": "PA-4",
       "municipality": "Finca Fátima",
-      "coordinates": "8.388027, -82.748509"
+      "coordinates": "8.388027, -82.748509",
+      "metar_available": false
     },
     {
       "ident": "PA-0008",
@@ -536,7 +581,8 @@
       "iso_country": "PA",
       "iso_region": "PA-8",
       "municipality": "La Joya",
-      "coordinates": "9.13856029510498, -79.24019622802734"
+      "coordinates": "9.13856029510498, -79.24019622802734",
+      "metar_available": false
     },
     {
       "ident": "PA-0009",
@@ -546,7 +592,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "La Plantación",
-      "coordinates": "7.6628899574279785, -81.006103515625"
+      "coordinates": "7.6628899574279785, -81.006103515625",
+      "metar_available": false
     },
     {
       "ident": "PA-0010",
@@ -556,7 +603,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Mandinga",
-      "coordinates": "9.454635, -79.086507"
+      "coordinates": "9.454635, -79.086507",
+      "metar_available": false
     },
     {
       "ident": "PA-0011",
@@ -568,7 +616,8 @@
       "municipality": "Mulatupo",
       "gps_code": "MPMU",
       "iata_code": "MPP",
-      "coordinates": "8.945487, -77.733486"
+      "coordinates": "8.945487, -77.733486",
+      "metar_available": false
     },
     {
       "ident": "PA-0012",
@@ -578,7 +627,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Tupile",
-      "coordinates": "9.444659, -78.588896"
+      "coordinates": "9.444659, -78.588896",
+      "metar_available": false
     },
     {
       "ident": "PA-0013",
@@ -590,7 +640,8 @@
       "municipality": "Ukupseni",
       "gps_code": "MPPH",
       "iata_code": "PYC",
-      "coordinates": "9.30692, -78.235273"
+      "coordinates": "9.30692, -78.235273",
+      "metar_available": false
     },
     {
       "ident": "PA-0014",
@@ -600,7 +651,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Río Azúcar",
-      "coordinates": "9.4247, -78.6269"
+      "coordinates": "9.4247, -78.6269",
+      "metar_available": false
     },
     {
       "ident": "PA-0015",
@@ -610,7 +662,8 @@
       "iso_country": "PA",
       "iso_region": "PA-8",
       "municipality": "Rio Sidra",
-      "coordinates": "9.316789627075195, -79.28299713134766"
+      "coordinates": "9.316789627075195, -79.28299713134766",
+      "metar_available": false
     },
     {
       "ident": "PA-0016",
@@ -620,7 +673,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Río Tigre",
-      "coordinates": "9.250880241394043, -78.49870300292969"
+      "coordinates": "9.250880241394043, -78.49870300292969",
+      "metar_available": false
     },
     {
       "ident": "PA-0017",
@@ -632,7 +686,8 @@
       "municipality": "Isla del Rey",
       "gps_code": "MPMI",
       "iata_code": "NMG",
-      "coordinates": "8.456507, -78.934214"
+      "coordinates": "8.456507, -78.934214",
+      "metar_available": false
     },
     {
       "ident": "PA-0018",
@@ -643,7 +698,8 @@
       "iso_region": "PA-GY",
       "municipality": "Coetupo",
       "iata_code": "TUW",
-      "coordinates": "8.918601, -77.709182"
+      "coordinates": "8.918601, -77.709182",
+      "metar_available": false
     },
     {
       "ident": "PA-0019",
@@ -653,7 +709,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Tupile",
-      "coordinates": "9.246580123901367, -78.36250305175781"
+      "coordinates": "9.246580123901367, -78.36250305175781",
+      "metar_available": false
     },
     {
       "ident": "PA-0020",
@@ -663,7 +720,8 @@
       "iso_country": "PA",
       "iso_region": "PA-3",
       "municipality": "Santa Isabel",
-      "coordinates": "9.55488, -79.13786"
+      "coordinates": "9.55488, -79.13786",
+      "metar_available": false
     },
     {
       "ident": "PA-0021",
@@ -673,7 +731,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Ailigandí",
-      "coordinates": "9.23903, -78.03922"
+      "coordinates": "9.23903, -78.03922",
+      "metar_available": false
     },
     {
       "ident": "PA-0022",
@@ -684,7 +743,8 @@
       "iso_region": "PA-5",
       "municipality": "Yaviza",
       "iata_code": "PYV",
-      "coordinates": "8.1528, -77.687"
+      "coordinates": "8.1528, -77.687",
+      "metar_available": false
     },
     {
       "ident": "PA-0023",
@@ -694,7 +754,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Mamartupu",
-      "coordinates": "9.4339, -78.5235"
+      "coordinates": "9.4339, -78.5235",
+      "metar_available": false
     },
     {
       "ident": "PA-0024",
@@ -704,7 +765,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "Isla de Coiba",
-      "coordinates": "7.5068, -81.6981"
+      "coordinates": "7.5068, -81.6981",
+      "metar_available": false
     },
     {
       "ident": "PA-0025",
@@ -715,7 +777,8 @@
       "iso_region": "PA-9",
       "municipality": "Arenas",
       "gps_code": "MPAR",
-      "coordinates": "7.3713, -80.846"
+      "coordinates": "7.3713, -80.846",
+      "metar_available": false
     },
     {
       "ident": "PA-0026",
@@ -725,7 +788,8 @@
       "iso_country": "PA",
       "iso_region": "PA-7",
       "municipality": "Tonosí",
-      "coordinates": "7.4148, -80.4466"
+      "coordinates": "7.4148, -80.4466",
+      "metar_available": false
     },
     {
       "ident": "PA-0027",
@@ -735,7 +799,8 @@
       "iso_country": "PA",
       "iso_region": "PA-7",
       "municipality": "La Candelaria",
-      "coordinates": "7.7326, -80.1403"
+      "coordinates": "7.7326, -80.1403",
+      "metar_available": false
     },
     {
       "ident": "PA-0028",
@@ -745,7 +810,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Nusatupo",
-      "coordinates": "9.43392, -78.83173"
+      "coordinates": "9.43392, -78.83173",
+      "metar_available": false
     },
     {
       "ident": "PA-0029",
@@ -755,7 +821,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Wannukandi",
-      "coordinates": "9.273166, -78.139873"
+      "coordinates": "9.273166, -78.139873",
+      "metar_available": false
     },
     {
       "ident": "PA-0030",
@@ -765,7 +832,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Mansukum",
-      "coordinates": "9.05011, -77.80985"
+      "coordinates": "9.05011, -77.80985",
+      "metar_available": false
     },
     {
       "ident": "PA-0031",
@@ -775,7 +843,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Napakanti",
-      "coordinates": "9.012796, -77.802531"
+      "coordinates": "9.012796, -77.802531",
+      "metar_available": false
     },
     {
       "ident": "PA-0032",
@@ -786,7 +855,8 @@
       "iso_region": "PA-GY",
       "municipality": "Suletupu",
       "gps_code": "MPCA",
-      "coordinates": "8.90201, -77.69286"
+      "coordinates": "8.90201, -77.69286",
+      "metar_available": false
     },
     {
       "ident": "PA-0033",
@@ -796,7 +866,8 @@
       "iso_country": "PA",
       "iso_region": "PA-NB",
       "municipality": "Soloy",
-      "coordinates": "8.4831, -82.0816"
+      "coordinates": "8.4831, -82.0816",
+      "metar_available": false
     },
     {
       "ident": "PA-0034",
@@ -806,7 +877,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Aidirgandí",
-      "coordinates": "9.35515, -78.34587"
+      "coordinates": "9.35515, -78.34587",
+      "metar_available": false
     },
     {
       "ident": "PA-0035",
@@ -816,7 +888,8 @@
       "iso_country": "PA",
       "iso_region": "PA-6",
       "municipality": "Las Cabras",
-      "coordinates": "7.90044, -80.540391"
+      "coordinates": "7.90044, -80.540391",
+      "metar_available": false
     },
     {
       "ident": "PA-0036",
@@ -826,7 +899,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "Isla de Coiba",
-      "coordinates": "7.527853, -81.849575"
+      "coordinates": "7.527853, -81.849575",
+      "metar_available": false
     },
     {
       "ident": "PA-0037",
@@ -835,7 +909,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "Isla Rancheria",
-      "coordinates": "7.639068, -81.702433"
+      "coordinates": "7.639068, -81.702433",
+      "metar_available": false
     },
     {
       "ident": "PA-0038",
@@ -846,7 +921,8 @@
       "iso_region": "PA-9",
       "municipality": "Pixvae",
       "gps_code": "MPPX",
-      "coordinates": "7.841248, -81.567301"
+      "coordinates": "7.841248, -81.567301",
+      "metar_available": false
     },
     {
       "ident": "PA-0039",
@@ -856,7 +932,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "Carrizal",
-      "coordinates": "7.728211, -81.262396"
+      "coordinates": "7.728211, -81.262396",
+      "metar_available": false
     },
     {
       "ident": "PA-0040",
@@ -866,7 +943,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "Ponuga",
-      "coordinates": "7.8878, -80.978748"
+      "coordinates": "7.8878, -80.978748",
+      "metar_available": false
     },
     {
       "ident": "PA-0041",
@@ -876,7 +954,8 @@
       "iso_country": "PA",
       "iso_region": "PA-9",
       "municipality": "Limones",
-      "coordinates": "7.619267, -80.946937"
+      "coordinates": "7.619267, -80.946937",
+      "metar_available": false
     },
     {
       "ident": "PA-0042",
@@ -886,7 +965,8 @@
       "iso_country": "PA",
       "iso_region": "PA-7",
       "municipality": "Pedasí",
-      "coordinates": "7.55688, -80.0233"
+      "coordinates": "7.55688, -80.0233",
+      "metar_available": false
     },
     {
       "ident": "PA-0043",
@@ -896,7 +976,8 @@
       "iso_country": "PA",
       "iso_region": "PA-5",
       "municipality": "La Palma",
-      "coordinates": "8.40667, -78.141701"
+      "coordinates": "8.40667, -78.141701",
+      "metar_available": false
     },
     {
       "ident": "PA-0044",
@@ -906,7 +987,8 @@
       "iso_country": "PA",
       "iso_region": "PA-GY",
       "municipality": "Isla Tupile",
-      "coordinates": "9.45, -78.566667"
+      "coordinates": "9.45, -78.566667",
+      "metar_available": false
     },
     {
       "ident": "PA-AML",
@@ -917,7 +999,8 @@
       "iso_region": "PA-4",
       "municipality": "Puerto Armuelles",
       "iata_code": "AML",
-      "coordinates": "8.267667, -82.864537"
+      "coordinates": "8.267667, -82.864537",
+      "metar_available": false
     },
     {
       "ident": "PA-BFQ",
@@ -929,7 +1012,8 @@
       "municipality": "Puerto Piña",
       "gps_code": "MPPI",
       "iata_code": "BFQ",
-      "coordinates": "7.58737, -78.179939"
+      "coordinates": "7.58737, -78.179939",
+      "metar_available": false
     },
     {
       "ident": "PA-ELE",
@@ -941,7 +1025,8 @@
       "municipality": "El Real de Santa María",
       "gps_code": "MPRE",
       "iata_code": "ELE",
-      "coordinates": "8.107235, -77.725545"
+      "coordinates": "8.107235, -77.725545",
+      "metar_available": false
     },
     {
       "ident": "PA-MRF",
@@ -953,7 +1038,8 @@
       "municipality": "Miraflores",
       "gps_code": "MPMF",
       "local_code": "MRF",
-      "coordinates": "8.338889, -78.131944"
+      "coordinates": "8.338889, -78.131944",
+      "metar_available": false
     },
     {
       "ident": "PA-OTD",
@@ -965,7 +1051,8 @@
       "municipality": "Contadora Island",
       "gps_code": "MPRA",
       "iata_code": "OTD",
-      "coordinates": "8.62876, -79.034698"
+      "coordinates": "8.62876, -79.034698",
+      "metar_available": false
     },
     {
       "ident": "PA-SAX",
@@ -977,7 +1064,8 @@
       "municipality": "Boca de Sábalo",
       "gps_code": "MPSB",
       "iata_code": "SAX",
-      "coordinates": "8.026279, -78.209555"
+      "coordinates": "8.026279, -78.209555",
+      "metar_available": false
     },
     {
       "ident": "SIC",
@@ -988,7 +1076,8 @@
       "iso_region": "PA-8",
       "municipality": "Las Perlas",
       "iata_code": "SIC",
-      "coordinates": "8.2622, -79.078"
+      "coordinates": "8.2622, -79.078",
+      "metar_available": false
     },
     {
       "ident": "TJC",
@@ -999,7 +1088,8 @@
       "iso_region": "PA-GY",
       "municipality": "Ticantiquí",
       "iata_code": "TJC",
-      "coordinates": "9.4185, -78.4896"
+      "coordinates": "9.4185, -78.4896",
+      "metar_available": false
     },
     {
       "ident": "UTU",
@@ -1011,7 +1101,8 @@
       "municipality": "Ustupu",
       "gps_code": "MPUP",
       "iata_code": "UTU",
-      "coordinates": "9.1283, -77.9337"
+      "coordinates": "9.1283, -77.9337",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "NO",
   "country_name": "Norway",
   "total_airports": 299,
-  "last_updated": "2025-08-01T00:18:22.689659",
+  "last_updated": "2025-08-25T10:08:40.831444",
   "types_distribution": {
     "small_airport": 102,
     "heliport": 113,
@@ -22,7 +22,8 @@
       "iso_region": "NO-34",
       "municipality": "Åmot",
       "gps_code": "ENAE",
-      "coordinates": "61.257401, 11.6689"
+      "coordinates": "61.257401, 11.6689",
+      "metar_available": false
     },
     {
       "ident": "ENAH",
@@ -34,7 +35,8 @@
       "iso_region": "NO-33",
       "municipality": "Ål",
       "gps_code": "ENAH",
-      "coordinates": "60.62995, 8.566951"
+      "coordinates": "60.62995, 8.566951",
+      "metar_available": false
     },
     {
       "ident": "ENAL",
@@ -47,7 +49,8 @@
       "municipality": "Ålesund",
       "gps_code": "ENAL",
       "iata_code": "AES",
-      "coordinates": "62.5625, 6.1197"
+      "coordinates": "62.5625, 6.1197",
+      "metar_available": false
     },
     {
       "ident": "ENAN",
@@ -60,7 +63,8 @@
       "municipality": "Andenes",
       "gps_code": "ENAN",
       "iata_code": "ANX",
-      "coordinates": "69.292503, 16.144199"
+      "coordinates": "69.292503, 16.144199",
+      "metar_available": false
     },
     {
       "ident": "ENAR",
@@ -71,7 +75,8 @@
       "iso_region": "NO-42",
       "municipality": "Arendal",
       "gps_code": "ENAR",
-      "coordinates": "58.467493, 8.754001"
+      "coordinates": "58.467493, 8.754001",
+      "metar_available": false
     },
     {
       "ident": "ENAS",
@@ -83,7 +88,8 @@
       "iso_region": "NO-21",
       "municipality": "Ny-Ålesund",
       "gps_code": "ENAS",
-      "coordinates": "78.927498, 11.8743"
+      "coordinates": "78.927498, 11.8743",
+      "metar_available": false
     },
     {
       "ident": "ENAT",
@@ -96,7 +102,8 @@
       "municipality": "Alta",
       "gps_code": "ENAT",
       "iata_code": "ALF",
-      "coordinates": "69.976097, 23.3717"
+      "coordinates": "69.976097, 23.3717",
+      "metar_available": false
     },
     {
       "ident": "ENAX",
@@ -107,7 +114,8 @@
       "iso_region": "NO-15",
       "municipality": "Ålesund",
       "gps_code": "ENAX",
-      "coordinates": "62.462942, 6.312435"
+      "coordinates": "62.462942, 6.312435",
+      "metar_available": false
     },
     {
       "ident": "ENBA",
@@ -119,7 +127,8 @@
       "iso_region": "NO-21",
       "municipality": "Barentsburg",
       "gps_code": "ENBA",
-      "coordinates": "78.101098, 14.205777"
+      "coordinates": "78.101098, 14.205777",
+      "metar_available": false
     },
     {
       "ident": "ENBE",
@@ -129,7 +138,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENBE",
-      "coordinates": "59.190601, 2.35806"
+      "coordinates": "59.190601, 2.35806",
+      "metar_available": false
     },
     {
       "ident": "ENBG",
@@ -141,7 +151,8 @@
       "iso_region": "NO-46",
       "municipality": "Bergen",
       "gps_code": "ENBG",
-      "coordinates": "60.37988, 5.346029"
+      "coordinates": "60.37988, 5.346029",
+      "metar_available": false
     },
     {
       "ident": "ENBJ",
@@ -152,7 +163,8 @@
       "iso_region": "NO-21",
       "municipality": "Herwighamna",
       "gps_code": "ENBJ",
-      "coordinates": "74.5038889, 19"
+      "coordinates": "74.5038889, 19",
+      "metar_available": false
     },
     {
       "ident": "ENBL",
@@ -165,7 +177,8 @@
       "municipality": "Førde",
       "gps_code": "ENBL",
       "iata_code": "FDE",
-      "coordinates": "61.391102, 5.75694"
+      "coordinates": "61.391102, 5.75694",
+      "metar_available": false
     },
     {
       "ident": "ENBM",
@@ -177,7 +190,8 @@
       "iso_region": "NO-46",
       "municipality": "Tjukkebygdi",
       "gps_code": "ENBM",
-      "coordinates": "60.638098, 6.499786"
+      "coordinates": "60.638098, 6.499786",
+      "metar_available": false
     },
     {
       "ident": "ENBN",
@@ -190,7 +204,8 @@
       "municipality": "Brønnøy",
       "gps_code": "ENBN",
       "iata_code": "BNN",
-      "coordinates": "65.461098, 12.2175"
+      "coordinates": "65.461098, 12.2175",
+      "metar_available": false
     },
     {
       "ident": "ENBO",
@@ -203,7 +218,8 @@
       "municipality": "Bodø",
       "gps_code": "ENBO",
       "iata_code": "BOO",
-      "coordinates": "67.269203, 14.3653"
+      "coordinates": "67.269203, 14.3653",
+      "metar_available": false
     },
     {
       "ident": "ENBR",
@@ -216,7 +232,8 @@
       "municipality": "Bergen",
       "gps_code": "ENBR",
       "iata_code": "BGO",
-      "coordinates": "60.2934, 5.21814"
+      "coordinates": "60.2934, 5.21814",
+      "metar_available": false
     },
     {
       "ident": "ENBS",
@@ -229,7 +246,8 @@
       "municipality": "Båtsfjord",
       "gps_code": "ENBS",
       "iata_code": "BJF",
-      "coordinates": "70.60025, 29.692612"
+      "coordinates": "70.60025, 29.692612",
+      "metar_available": false
     },
     {
       "ident": "ENBV",
@@ -242,7 +260,8 @@
       "municipality": "Berlevåg",
       "gps_code": "ENBV",
       "iata_code": "BVG",
-      "coordinates": "70.871517, 29.034097"
+      "coordinates": "70.871517, 29.034097",
+      "metar_available": false
     },
     {
       "ident": "ENCN",
@@ -255,7 +274,8 @@
       "municipality": "Kjevik",
       "gps_code": "ENCN",
       "iata_code": "KRS",
-      "coordinates": "58.204201, 8.08537"
+      "coordinates": "58.204201, 8.08537",
+      "metar_available": false
     },
     {
       "ident": "ENDB",
@@ -266,7 +286,8 @@
       "iso_region": "NO-34",
       "municipality": "Dombås",
       "gps_code": "ENDB",
-      "coordinates": "62.068943, 9.121084"
+      "coordinates": "62.068943, 9.121084",
+      "metar_available": false
     },
     {
       "ident": "ENDH",
@@ -278,7 +299,8 @@
       "iso_region": "NO-33",
       "municipality": "Drammen",
       "gps_code": "ENDH",
-      "coordinates": "59.747827, 10.197394"
+      "coordinates": "59.747827, 10.197394",
+      "metar_available": false
     },
     {
       "ident": "ENDI",
@@ -290,7 +312,8 @@
       "iso_region": "NO-33",
       "municipality": "Dagali",
       "gps_code": "ENDI",
-      "coordinates": "60.416679, 8.51277"
+      "coordinates": "60.416679, 8.51277",
+      "metar_available": false
     },
     {
       "ident": "ENDO",
@@ -302,7 +325,8 @@
       "iso_region": "NO-34",
       "municipality": "Dokka",
       "gps_code": "ENDO",
-      "coordinates": "60.833302, 9.91667"
+      "coordinates": "60.833302, 9.91667",
+      "metar_available": false
     },
     {
       "ident": "ENDP",
@@ -312,7 +336,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENDP",
-      "coordinates": "58.188099, 2.47111"
+      "coordinates": "58.188099, 2.47111",
+      "metar_available": false
     },
     {
       "ident": "ENDR",
@@ -324,7 +349,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENDR",
-      "coordinates": "64.35556, 7.79167"
+      "coordinates": "64.35556, 7.79167",
+      "metar_available": false
     },
     {
       "ident": "ENDU",
@@ -337,7 +363,8 @@
       "municipality": "Målselv",
       "gps_code": "ENDU",
       "iata_code": "BDU",
-      "coordinates": "69.055801, 18.5404"
+      "coordinates": "69.055801, 18.5404",
+      "metar_available": false
     },
     {
       "ident": "ENEG",
@@ -349,7 +376,8 @@
       "iso_region": "NO-33",
       "municipality": "Hønefoss",
       "gps_code": "ENEG",
-      "coordinates": "60.214672, 10.318737"
+      "coordinates": "60.214672, 10.318737",
+      "metar_available": false
     },
     {
       "ident": "ENEL",
@@ -360,7 +388,8 @@
       "iso_region": "NO-34",
       "municipality": "Elverum",
       "gps_code": "ENEL",
-      "coordinates": "60.876961, 11.569628"
+      "coordinates": "60.876961, 11.569628",
+      "metar_available": false
     },
     {
       "ident": "ENEN",
@@ -372,7 +401,8 @@
       "iso_region": "NO-18",
       "municipality": "Engeløy",
       "gps_code": "ENEN",
-      "coordinates": "67.967222, 14.9925"
+      "coordinates": "67.967222, 14.9925",
+      "metar_available": false
     },
     {
       "ident": "ENEV",
@@ -385,7 +415,8 @@
       "municipality": "Evenes",
       "gps_code": "ENEV",
       "iata_code": "EVE",
-      "coordinates": "68.491302490234, 16.678100585938"
+      "coordinates": "68.491302490234, 16.678100585938",
+      "metar_available": false
     },
     {
       "ident": "ENFA",
@@ -397,7 +428,8 @@
       "iso_region": "NO-50",
       "municipality": "Frøya",
       "gps_code": "ENFA",
-      "coordinates": "63.7006, 8.76057"
+      "coordinates": "63.7006, 8.76057",
+      "metar_available": false
     },
     {
       "ident": "ENFB",
@@ -407,7 +439,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENFB",
-      "coordinates": "61.20639, 1.82889"
+      "coordinates": "61.20639, 1.82889",
+      "metar_available": false
     },
     {
       "ident": "ENFD",
@@ -419,7 +452,8 @@
       "iso_region": "NO-46",
       "municipality": "Førde",
       "gps_code": "ENFD",
-      "coordinates": "61.456302, 5.890432"
+      "coordinates": "61.456302, 5.890432",
+      "metar_available": false
     },
     {
       "ident": "ENFG",
@@ -432,7 +466,8 @@
       "municipality": "Fagernes",
       "gps_code": "ENFG",
       "iata_code": "VDB",
-      "coordinates": "61.015598, 9.28806"
+      "coordinates": "61.015598, 9.28806",
+      "metar_available": false
     },
     {
       "ident": "ENFJ",
@@ -443,7 +478,8 @@
       "iso_region": "NO-46",
       "municipality": "Fedje",
       "gps_code": "ENFJ",
-      "coordinates": "60.765738, 4.733014"
+      "coordinates": "60.765738, 4.733014",
+      "metar_available": false
     },
     {
       "ident": "ENFL",
@@ -456,7 +492,8 @@
       "municipality": "Florø",
       "gps_code": "ENFL",
       "iata_code": "FRO",
-      "coordinates": "61.583599090576, 5.0247201919556"
+      "coordinates": "61.583599090576, 5.0247201919556",
+      "metar_available": false
     },
     {
       "ident": "ENFY",
@@ -468,7 +505,8 @@
       "iso_region": "NO-40",
       "municipality": "Fyresdal",
       "gps_code": "ENFY",
-      "coordinates": "59.202784, 8.087625"
+      "coordinates": "59.202784, 8.087625",
+      "metar_available": false
     },
     {
       "ident": "ENGA",
@@ -479,7 +517,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENGA",
-      "coordinates": "61.17556, 2.1875"
+      "coordinates": "61.17556, 2.1875",
+      "metar_available": false
     },
     {
       "ident": "ENGC",
@@ -489,7 +528,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENGC",
-      "coordinates": "61.214063, 2.270984"
+      "coordinates": "61.214063, 2.270984",
+      "metar_available": false
     },
     {
       "ident": "ENGK",
@@ -500,7 +540,8 @@
       "iso_country": "NO",
       "iso_region": "NO-42",
       "gps_code": "ENGK",
-      "coordinates": "58.516701, 8.7"
+      "coordinates": "58.516701, 8.7",
+      "metar_available": false
     },
     {
       "ident": "ENGM",
@@ -513,7 +554,8 @@
       "municipality": "Oslo (Gardermoen)",
       "gps_code": "ENGM",
       "iata_code": "OSL",
-      "coordinates": "60.193901, 11.1004"
+      "coordinates": "60.193901, 11.1004",
+      "metar_available": false
     },
     {
       "ident": "ENGN",
@@ -525,7 +567,8 @@
       "iso_region": "NO-34",
       "municipality": "Folldal",
       "gps_code": "ENGN",
-      "coordinates": "62.1175, 10.1108"
+      "coordinates": "62.1175, 10.1108",
+      "metar_available": false
     },
     {
       "ident": "ENGS",
@@ -537,7 +580,8 @@
       "iso_region": "NO-50",
       "municipality": "Snåsa",
       "gps_code": "ENGS",
-      "coordinates": "64.183586, 12.171478"
+      "coordinates": "64.183586, 12.171478",
+      "metar_available": false
     },
     {
       "ident": "ENHA",
@@ -550,7 +594,8 @@
       "municipality": "Hamar",
       "gps_code": "ENHA",
       "iata_code": "HMR",
-      "coordinates": "60.8181, 11.068"
+      "coordinates": "60.8181, 11.068",
+      "metar_available": false
     },
     {
       "ident": "ENHD",
@@ -563,7 +608,8 @@
       "municipality": "Karmøy",
       "gps_code": "ENHD",
       "iata_code": "HAU",
-      "coordinates": "59.345299, 5.20836"
+      "coordinates": "59.345299, 5.20836",
+      "metar_available": false
     },
     {
       "ident": "ENHE",
@@ -574,7 +620,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENHE",
-      "coordinates": "65.32556, 7.31583"
+      "coordinates": "65.32556, 7.31583",
+      "metar_available": false
     },
     {
       "ident": "ENHF",
@@ -587,7 +634,8 @@
       "municipality": "Hammerfest",
       "gps_code": "ENHF",
       "iata_code": "HFT",
-      "coordinates": "70.679703, 23.6686"
+      "coordinates": "70.679703, 23.6686",
+      "metar_available": false
     },
     {
       "ident": "ENHK",
@@ -600,7 +648,8 @@
       "municipality": "Hasvik",
       "gps_code": "ENHK",
       "iata_code": "HAA",
-      "coordinates": "70.486702, 22.1397"
+      "coordinates": "70.486702, 22.1397",
+      "metar_available": false
     },
     {
       "ident": "ENHL",
@@ -612,7 +661,8 @@
       "iso_region": "NO-11",
       "municipality": "Nærbø",
       "gps_code": "ENHL",
-      "coordinates": "58.684171, 5.584273"
+      "coordinates": "58.684171, 5.584273",
+      "metar_available": false
     },
     {
       "ident": "ENHM",
@@ -622,7 +672,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENHM",
-      "coordinates": "59.56667, 2.23333"
+      "coordinates": "59.56667, 2.23333",
+      "metar_available": false
     },
     {
       "ident": "ENHN",
@@ -634,7 +685,8 @@
       "iso_region": "NO-34",
       "municipality": "Elverum",
       "gps_code": "ENSM",
-      "coordinates": "60.876399, 11.675513"
+      "coordinates": "60.876399, 11.675513",
+      "metar_available": false
     },
     {
       "ident": "ENHO",
@@ -644,7 +696,8 @@
       "iso_country": "NO",
       "iso_region": "NO-21",
       "gps_code": "ENHO",
-      "coordinates": "76.508067, 25.014337"
+      "coordinates": "76.508067, 25.014337",
+      "metar_available": false
     },
     {
       "ident": "ENHS",
@@ -656,7 +709,8 @@
       "iso_region": "NO-33",
       "municipality": "Øvre Eiker",
       "gps_code": "ENHS",
-      "coordinates": "59.759927, 9.919506"
+      "coordinates": "59.759927, 9.919506",
+      "metar_available": false
     },
     {
       "ident": "ENHT",
@@ -668,7 +722,8 @@
       "iso_region": "NO-18",
       "municipality": "Hattfjelldal",
       "gps_code": "ENHT",
-      "coordinates": "65.594704, 13.9892"
+      "coordinates": "65.594704, 13.9892",
+      "metar_available": false
     },
     {
       "ident": "ENHV",
@@ -681,7 +736,8 @@
       "municipality": "Honningsvåg",
       "gps_code": "ENHV",
       "iata_code": "HVG",
-      "coordinates": "71.009697, 25.983601"
+      "coordinates": "71.009697, 25.983601",
+      "metar_available": false
     },
     {
       "ident": "ENHX",
@@ -692,7 +748,8 @@
       "iso_region": "NO-11",
       "municipality": "Haugesund",
       "gps_code": "ENHX",
-      "coordinates": "59.408763, 5.279548"
+      "coordinates": "59.408763, 5.279548",
+      "metar_available": false
     },
     {
       "ident": "ENJA",
@@ -703,7 +760,8 @@
       "iso_country": "NO",
       "iso_region": "NO-22",
       "gps_code": "ENJA",
-      "coordinates": "70.944117, -8.652074"
+      "coordinates": "70.944117, -8.652074",
+      "metar_available": false
     },
     {
       "ident": "ENJB",
@@ -715,7 +773,8 @@
       "iso_region": "NO-39",
       "municipality": "Tønsberg",
       "gps_code": "ENJB",
-      "coordinates": "59.299232, 10.369844"
+      "coordinates": "59.299232, 10.369844",
+      "metar_available": false
     },
     {
       "ident": "ENJS",
@@ -726,7 +785,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENJS",
-      "coordinates": "58.83528, 2.54556"
+      "coordinates": "58.83528, 2.54556",
+      "metar_available": false
     },
     {
       "ident": "ENKA",
@@ -738,7 +798,8 @@
       "iso_region": "NO-56",
       "municipality": "Kautokeino",
       "gps_code": "ENKA",
-      "coordinates": "69.040298, 23.034"
+      "coordinates": "69.040298, 23.034",
+      "metar_available": false
     },
     {
       "ident": "ENKB",
@@ -751,7 +812,8 @@
       "municipality": "Kvernberget",
       "gps_code": "ENKB",
       "iata_code": "KSU",
-      "coordinates": "63.111801, 7.82452"
+      "coordinates": "63.111801, 7.82452",
+      "metar_available": false
     },
     {
       "ident": "ENKJ",
@@ -763,7 +825,8 @@
       "iso_region": "NO-32",
       "municipality": "Kjeller",
       "gps_code": "ENKJ",
-      "coordinates": "59.969089, 11.040482"
+      "coordinates": "59.969089, 11.040482",
+      "metar_available": false
     },
     {
       "ident": "ENKL",
@@ -776,7 +839,8 @@
       "municipality": "Klanten flyplass",
       "gps_code": "ENKL",
       "iata_code": "GLL",
-      "coordinates": "60.791066, 9.048672"
+      "coordinates": "60.791066, 9.048672",
+      "metar_available": false
     },
     {
       "ident": "ENKR",
@@ -789,7 +853,8 @@
       "municipality": "Kirkenes",
       "gps_code": "ENKR",
       "iata_code": "KKN",
-      "coordinates": "69.7258, 29.8913"
+      "coordinates": "69.7258, 29.8913",
+      "metar_available": false
     },
     {
       "ident": "ENLA",
@@ -799,7 +864,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENLA",
-      "coordinates": "57.111667, 2.846667"
+      "coordinates": "57.111667, 2.846667",
+      "metar_available": false
     },
     {
       "ident": "ENLE",
@@ -810,7 +876,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea.",
       "gps_code": "ENLE",
-      "coordinates": "56.5333, 3.21667"
+      "coordinates": "56.5333, 3.21667",
+      "metar_available": false
     },
     {
       "ident": "ENLH",
@@ -821,7 +888,8 @@
       "iso_region": "NO-34",
       "municipality": "Lillehammer",
       "gps_code": "ENLH",
-      "coordinates": "61.11325, 10.472165"
+      "coordinates": "61.11325, 10.472165",
+      "metar_available": false
     },
     {
       "ident": "ENLI",
@@ -833,7 +901,8 @@
       "iso_region": "NO-42",
       "municipality": "Farsund",
       "gps_code": "ENLI",
-      "coordinates": "58.099499, 6.62605"
+      "coordinates": "58.099499, 6.62605",
+      "metar_available": false
     },
     {
       "ident": "ENLK",
@@ -846,7 +915,8 @@
       "municipality": "Leknes",
       "gps_code": "ENLK",
       "iata_code": "LKN",
-      "coordinates": "68.152496337891, 13.609399795532"
+      "coordinates": "68.152496337891, 13.609399795532",
+      "metar_available": false
     },
     {
       "ident": "ENLU",
@@ -858,7 +928,8 @@
       "iso_region": "NO-40",
       "municipality": "Lunde Nome",
       "gps_code": "ENLU",
-      "coordinates": "59.298004, 9.132011"
+      "coordinates": "59.298004, 9.132011",
+      "metar_available": false
     },
     {
       "ident": "ENLX",
@@ -870,7 +941,8 @@
       "iso_region": "NO-32",
       "municipality": "Lørenskog",
       "gps_code": "ENLX",
-      "coordinates": "59.932138, 10.986877"
+      "coordinates": "59.932138, 10.986877",
+      "metar_available": false
     },
     {
       "ident": "ENMH",
@@ -883,7 +955,8 @@
       "municipality": "Mehamn",
       "gps_code": "ENMH",
       "iata_code": "MEH",
-      "coordinates": "71.029701, 27.8267"
+      "coordinates": "71.029701, 27.8267",
+      "metar_available": false
     },
     {
       "ident": "ENML",
@@ -896,7 +969,8 @@
       "municipality": "Årø",
       "gps_code": "ENML",
       "iata_code": "MOL",
-      "coordinates": "62.744701, 7.2625"
+      "coordinates": "62.744701, 7.2625",
+      "metar_available": false
     },
     {
       "ident": "ENMS",
@@ -909,7 +983,8 @@
       "municipality": "Mosjøen",
       "gps_code": "ENMS",
       "iata_code": "MJF",
-      "coordinates": "65.783997, 13.2149"
+      "coordinates": "65.783997, 13.2149",
+      "metar_available": false
     },
     {
       "ident": "ENNA",
@@ -922,7 +997,8 @@
       "municipality": "Lakselv",
       "gps_code": "ENNA",
       "iata_code": "LKL",
-      "coordinates": "70.068802, 24.973499"
+      "coordinates": "70.068802, 24.973499",
+      "metar_available": false
     },
     {
       "ident": "ENNE",
@@ -933,7 +1009,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENNE",
-      "coordinates": "66.03333, 8.08333"
+      "coordinates": "66.03333, 8.08333",
+      "metar_available": false
     },
     {
       "ident": "ENNH",
@@ -944,7 +1021,8 @@
       "iso_region": "NO-50",
       "municipality": "Namsos",
       "gps_code": "ENNH",
-      "coordinates": "64.469981, 11.504007"
+      "coordinates": "64.469981, 11.504007",
+      "metar_available": false
     },
     {
       "ident": "ENNM",
@@ -957,7 +1035,8 @@
       "municipality": "Namsos",
       "gps_code": "ENNM",
       "iata_code": "OSY",
-      "coordinates": "64.472198, 11.5786"
+      "coordinates": "64.472198, 11.5786",
+      "metar_available": false
     },
     {
       "ident": "ENNO",
@@ -970,7 +1049,8 @@
       "municipality": "Notodden",
       "gps_code": "ENNO",
       "iata_code": "NTB",
-      "coordinates": "59.565071, 9.213152"
+      "coordinates": "59.565071, 9.213152",
+      "metar_available": false
     },
     {
       "ident": "ENOA",
@@ -980,7 +1060,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENOA",
-      "coordinates": "60.491402, 2.82556"
+      "coordinates": "60.491402, 2.82556",
+      "metar_available": false
     },
     {
       "ident": "ENOC",
@@ -990,7 +1071,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENOC",
-      "coordinates": "60.6078, 2.77444"
+      "coordinates": "60.6078, 2.77444",
+      "metar_available": false
     },
     {
       "ident": "ENOL",
@@ -1003,7 +1085,8 @@
       "municipality": "Ørland",
       "gps_code": "ENOL",
       "iata_code": "OLA",
-      "coordinates": "63.69889831542969, 9.604000091552734"
+      "coordinates": "63.69889831542969, 9.604000091552734",
+      "metar_available": false
     },
     {
       "ident": "ENOP",
@@ -1014,7 +1097,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "gps_code": "ENOP",
-      "coordinates": "62.651323, 9.851646"
+      "coordinates": "62.651323, 9.851646",
+      "metar_available": false
     },
     {
       "ident": "ENOV",
@@ -1027,7 +1111,8 @@
       "municipality": "Ørsta",
       "gps_code": "ENOV",
       "iata_code": "HOV",
-      "coordinates": "62.180000305176, 6.0741000175476"
+      "coordinates": "62.180000305176, 6.0741000175476",
+      "metar_available": false
     },
     {
       "ident": "ENPY",
@@ -1039,7 +1124,8 @@
       "iso_region": "NO-21",
       "municipality": "Pyramiden",
       "gps_code": "ENPY",
-      "coordinates": "78.652322, 16.337208"
+      "coordinates": "78.652322, 16.337208",
+      "metar_available": false
     },
     {
       "ident": "ENQA",
@@ -1049,7 +1135,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENQA",
-      "coordinates": "60.645, 3.72472"
+      "coordinates": "60.645, 3.72472",
+      "metar_available": false
     },
     {
       "ident": "ENQB",
@@ -1059,7 +1146,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENQB",
-      "coordinates": "60.773899, 3.50139"
+      "coordinates": "60.773899, 3.50139",
+      "metar_available": false
     },
     {
       "ident": "ENQC",
@@ -1069,7 +1157,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENQC",
-      "coordinates": "60.885799, 3.60972"
+      "coordinates": "60.885799, 3.60972",
+      "metar_available": false
     },
     {
       "ident": "ENQD",
@@ -1079,7 +1168,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENQD",
-      "coordinates": "60.541901, 3.04583"
+      "coordinates": "60.541901, 3.04583",
+      "metar_available": false
     },
     {
       "ident": "ENQE",
@@ -1089,7 +1179,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENQE",
-      "coordinates": "60.389702, 2.79556"
+      "coordinates": "60.389702, 2.79556",
+      "metar_available": false
     },
     {
       "ident": "ENQG",
@@ -1100,7 +1191,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQG",
-      "coordinates": "61.202108, 2.198832"
+      "coordinates": "61.202108, 2.198832",
+      "metar_available": false
     },
     {
       "ident": "ENQJ",
@@ -1111,7 +1203,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQJ",
-      "coordinates": "61.33167, 3.895"
+      "coordinates": "61.33167, 3.895",
+      "metar_available": false
     },
     {
       "ident": "ENQK",
@@ -1122,7 +1215,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQK",
-      "coordinates": "61.08333, 2.5"
+      "coordinates": "61.08333, 2.5",
+      "metar_available": false
     },
     {
       "ident": "ENQL",
@@ -1133,7 +1227,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENQL",
-      "coordinates": "60.49833, 2.07333"
+      "coordinates": "60.49833, 2.07333",
+      "metar_available": false
     },
     {
       "ident": "ENQM",
@@ -1144,7 +1239,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENQM",
-      "coordinates": "60.5075, 2.01472"
+      "coordinates": "60.5075, 2.01472",
+      "metar_available": false
     },
     {
       "ident": "ENQO",
@@ -1154,7 +1250,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENQO",
-      "coordinates": "60.700001, 2.93361"
+      "coordinates": "60.700001, 2.93361",
+      "metar_available": false
     },
     {
       "ident": "ENQR",
@@ -1165,7 +1262,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQR",
-      "coordinates": "61.51667, 2.21667"
+      "coordinates": "61.51667, 2.21667",
+      "metar_available": false
     },
     {
       "ident": "ENQS",
@@ -1176,7 +1274,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQS",
-      "coordinates": "61.2961, 1.90083"
+      "coordinates": "61.2961, 1.90083",
+      "metar_available": false
     },
     {
       "ident": "ENQV",
@@ -1187,7 +1286,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQV",
-      "coordinates": "61.36972, 2.45722"
+      "coordinates": "61.36972, 2.45722",
+      "metar_available": false
     },
     {
       "ident": "ENQW",
@@ -1198,7 +1298,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENQW",
-      "coordinates": "61.04, 2.36694"
+      "coordinates": "61.04, 2.36694",
+      "metar_available": false
     },
     {
       "ident": "ENRA",
@@ -1211,7 +1312,8 @@
       "municipality": "Mo i Rana",
       "gps_code": "ENRA",
       "iata_code": "MQN",
-      "coordinates": "66.363899230957, 14.301400184631"
+      "coordinates": "66.363899230957, 14.301400184631",
+      "metar_available": false
     },
     {
       "ident": "ENRG",
@@ -1223,7 +1325,8 @@
       "iso_region": "NO-18",
       "municipality": "Saltdal",
       "gps_code": "ENRG",
-      "coordinates": "67.098297, 15.4111"
+      "coordinates": "67.098297, 15.4111",
+      "metar_available": false
     },
     {
       "ident": "ENRH",
@@ -1234,7 +1337,8 @@
       "iso_region": "NO-03",
       "municipality": "Oslo",
       "gps_code": "ENRH",
-      "coordinates": "59.948467, 10.716144"
+      "coordinates": "59.948467, 10.716144",
+      "metar_available": false
     },
     {
       "ident": "ENRI",
@@ -1246,7 +1350,8 @@
       "iso_region": "NO-34",
       "municipality": "Frya",
       "gps_code": "ENRI",
-      "coordinates": "61.545440673, 10.061588287"
+      "coordinates": "61.545440673, 10.061588287",
+      "metar_available": false
     },
     {
       "ident": "ENRK",
@@ -1258,7 +1363,8 @@
       "iso_region": "NO-31",
       "municipality": "Rakkestad",
       "gps_code": "ENRK",
-      "coordinates": "59.397499, 11.3469"
+      "coordinates": "59.397499, 11.3469",
+      "metar_available": false
     },
     {
       "ident": "ENRM",
@@ -1271,7 +1377,8 @@
       "municipality": "Rørvik",
       "gps_code": "ENRM",
       "iata_code": "RVK",
-      "coordinates": "64.838302612305, 11.14610004425"
+      "coordinates": "64.838302612305, 11.14610004425",
+      "metar_available": false
     },
     {
       "ident": "ENRO",
@@ -1284,7 +1391,8 @@
       "municipality": "Røros",
       "gps_code": "ENRO",
       "iata_code": "RRS",
-      "coordinates": "62.578399658203, 11.342300415039"
+      "coordinates": "62.578399658203, 11.342300415039",
+      "metar_available": false
     },
     {
       "ident": "ENRS",
@@ -1297,7 +1405,8 @@
       "municipality": "Røst",
       "gps_code": "ENRS",
       "iata_code": "RET",
-      "coordinates": "67.526482, 12.101575"
+      "coordinates": "67.526482, 12.101575",
+      "metar_available": false
     },
     {
       "ident": "ENRT",
@@ -1308,7 +1417,8 @@
       "iso_region": "NO-50",
       "municipality": "Trondheim",
       "gps_code": "ENRT",
-      "coordinates": "63.368133, 10.374015"
+      "coordinates": "63.368133, 10.374015",
+      "metar_available": false
     },
     {
       "ident": "ENRV",
@@ -1320,7 +1430,8 @@
       "iso_region": "NO-34",
       "municipality": "Reinsvoll",
       "gps_code": "ENRV",
-      "coordinates": "60.672199, 10.5675"
+      "coordinates": "60.672199, 10.5675",
+      "metar_available": false
     },
     {
       "ident": "ENRX",
@@ -1332,7 +1443,8 @@
       "iso_region": "NO-33",
       "municipality": "Hønefoss",
       "gps_code": "ENRX",
-      "coordinates": "60.14908, 10.25521"
+      "coordinates": "60.14908, 10.25521",
+      "metar_available": false
     },
     {
       "ident": "ENRY",
@@ -1345,7 +1457,8 @@
       "municipality": "Oslo",
       "gps_code": "ENRY",
       "iata_code": "RYG",
-      "coordinates": "59.378817, 10.785439"
+      "coordinates": "59.378817, 10.785439",
+      "metar_available": false
     },
     {
       "ident": "ENSB",
@@ -1358,7 +1471,8 @@
       "municipality": "Longyearbyen",
       "gps_code": "ENSB",
       "iata_code": "LYR",
-      "coordinates": "78.246101379395, 15.465600013733"
+      "coordinates": "78.246101379395, 15.465600013733",
+      "metar_available": false
     },
     {
       "ident": "ENSD",
@@ -1371,7 +1485,8 @@
       "municipality": "Sandane",
       "gps_code": "ENSD",
       "iata_code": "SDN",
-      "coordinates": "61.830002, 6.10583"
+      "coordinates": "61.830002, 6.10583",
+      "metar_available": false
     },
     {
       "ident": "ENSE",
@@ -1382,7 +1497,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENSE",
-      "coordinates": "61.4489, 2.1425"
+      "coordinates": "61.4489, 2.1425",
+      "metar_available": false
     },
     {
       "ident": "ENSF",
@@ -1392,7 +1508,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENSF",
-      "coordinates": "61.25518, 1.85211"
+      "coordinates": "61.25518, 1.85211",
+      "metar_available": false
     },
     {
       "ident": "ENSG",
@@ -1405,7 +1522,8 @@
       "municipality": "Sogndal",
       "gps_code": "ENSG",
       "iata_code": "SOG",
-      "coordinates": "61.156101, 7.13778"
+      "coordinates": "61.156101, 7.13778",
+      "metar_available": false
     },
     {
       "ident": "ENSH",
@@ -1418,7 +1536,8 @@
       "municipality": "Svolvær",
       "gps_code": "ENSH",
       "iata_code": "SVJ",
-      "coordinates": "68.243301, 14.6692"
+      "coordinates": "68.243301, 14.6692",
+      "metar_available": false
     },
     {
       "ident": "ENSI",
@@ -1430,7 +1549,8 @@
       "iso_region": "NO-32",
       "municipality": "Ski",
       "gps_code": "ENSI",
-      "coordinates": "59.706972, 10.881665"
+      "coordinates": "59.706972, 10.881665",
+      "metar_available": false
     },
     {
       "ident": "ENSK",
@@ -1443,7 +1563,8 @@
       "municipality": "Hadsel",
       "gps_code": "ENSK",
       "iata_code": "SKN",
-      "coordinates": "68.578827, 15.033417"
+      "coordinates": "68.578827, 15.033417",
+      "metar_available": false
     },
     {
       "ident": "ENSL",
@@ -1453,7 +1574,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENSL",
-      "coordinates": "58.366699, 1.90694"
+      "coordinates": "58.366699, 1.90694",
+      "metar_available": false
     },
     {
       "ident": "ENSN",
@@ -1466,7 +1588,8 @@
       "municipality": "Geiteryggen",
       "gps_code": "ENSN",
       "iata_code": "SKE",
-      "coordinates": "59.185001, 9.56694"
+      "coordinates": "59.185001, 9.56694",
+      "metar_available": false
     },
     {
       "ident": "ENSO",
@@ -1479,7 +1602,8 @@
       "municipality": "Leirvik",
       "gps_code": "ENSO",
       "iata_code": "SRP",
-      "coordinates": "59.791901, 5.34085"
+      "coordinates": "59.791901, 5.34085",
+      "metar_available": false
     },
     {
       "ident": "ENSR",
@@ -1492,7 +1616,8 @@
       "municipality": "Sørkjosen",
       "gps_code": "ENSR",
       "iata_code": "SOJ",
-      "coordinates": "69.786797, 20.9594"
+      "coordinates": "69.786797, 20.9594",
+      "metar_available": false
     },
     {
       "ident": "ENSS",
@@ -1505,7 +1630,8 @@
       "municipality": "Vardø",
       "gps_code": "ENSS",
       "iata_code": "VAW",
-      "coordinates": "70.3554, 31.044901"
+      "coordinates": "70.3554, 31.044901",
+      "metar_available": false
     },
     {
       "ident": "ENST",
@@ -1518,7 +1644,8 @@
       "municipality": "Alstahaug",
       "gps_code": "ENST",
       "iata_code": "SSJ",
-      "coordinates": "65.956802, 12.4689"
+      "coordinates": "65.956802, 12.4689",
+      "metar_available": false
     },
     {
       "ident": "ENSU",
@@ -1530,7 +1657,8 @@
       "iso_region": "NO-15",
       "municipality": "Sunndalsøra",
       "gps_code": "ENSU",
-      "coordinates": "62.656919, 8.679457"
+      "coordinates": "62.656919, 8.679457",
+      "metar_available": false
     },
     {
       "ident": "ENSX",
@@ -1541,7 +1669,8 @@
       "iso_region": "NO-11",
       "municipality": "Stavanger",
       "gps_code": "ENSX",
-      "coordinates": "58.9521, 5.730924"
+      "coordinates": "58.9521, 5.730924",
+      "metar_available": false
     },
     {
       "ident": "ENTC",
@@ -1554,7 +1683,8 @@
       "municipality": "Tromsø",
       "gps_code": "ENTC",
       "iata_code": "TOS",
-      "coordinates": "69.683296, 18.9189"
+      "coordinates": "69.683296, 18.9189",
+      "metar_available": false
     },
     {
       "ident": "ENTE",
@@ -1566,7 +1696,8 @@
       "iso_region": "NO-40",
       "municipality": "Skien",
       "gps_code": "ENTE",
-      "coordinates": "59.190744, 9.593279"
+      "coordinates": "59.190744, 9.593279",
+      "metar_available": false
     },
     {
       "ident": "ENTO",
@@ -1579,7 +1710,8 @@
       "municipality": "Torp",
       "gps_code": "ENTO",
       "iata_code": "TRF",
-      "coordinates": "59.186699, 10.2586"
+      "coordinates": "59.186699, 10.2586",
+      "metar_available": false
     },
     {
       "ident": "ENTR",
@@ -1591,7 +1723,8 @@
       "iso_region": "NO-50",
       "municipality": "Trondheim",
       "gps_code": "ENTR",
-      "coordinates": "63.419894, 10.385954"
+      "coordinates": "63.419894, 10.385954",
+      "metar_available": false
     },
     {
       "ident": "ENTS",
@@ -1602,7 +1735,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "gps_code": "ENTS",
-      "coordinates": "61.229279, 12.266407"
+      "coordinates": "61.229279, 12.266407",
+      "metar_available": false
     },
     {
       "ident": "ENTY",
@@ -1614,7 +1748,8 @@
       "iso_region": "NO-34",
       "municipality": "Tynset",
       "gps_code": "ENTY",
-      "coordinates": "62.256901, 10.6694"
+      "coordinates": "62.256901, 10.6694",
+      "metar_available": false
     },
     {
       "ident": "ENUA",
@@ -1625,7 +1760,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENUA",
-      "coordinates": "65.06417, 6.72556"
+      "coordinates": "65.06417, 6.72556",
+      "metar_available": false
     },
     {
       "ident": "ENUB",
@@ -1636,7 +1772,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENUB",
-      "coordinates": "65.11, 6.78944"
+      "coordinates": "65.11, 6.78944",
+      "metar_available": false
     },
     {
       "ident": "ENUC",
@@ -1647,7 +1784,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENUC",
-      "coordinates": "65.131, 6.864167"
+      "coordinates": "65.131, 6.864167",
+      "metar_available": false
     },
     {
       "ident": "ENUG",
@@ -1657,7 +1795,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENUG",
-      "coordinates": "71.3, 22.25"
+      "coordinates": "71.3, 22.25",
+      "metar_available": false
     },
     {
       "ident": "ENUH",
@@ -1668,7 +1807,8 @@
       "iso_region": "NO-03",
       "municipality": "Oslo",
       "gps_code": "ENUH",
-      "coordinates": "59.936215, 10.736541"
+      "coordinates": "59.936215, 10.736541",
+      "metar_available": false
     },
     {
       "ident": "ENUK",
@@ -1679,7 +1819,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENUK",
-      "coordinates": "64.99417, 6.55056"
+      "coordinates": "64.99417, 6.55056",
+      "metar_available": false
     },
     {
       "ident": "ENUL",
@@ -1691,7 +1832,8 @@
       "iso_region": "NO-46",
       "municipality": "Ulven",
       "gps_code": "ENUL",
-      "coordinates": "60.1922, 5.4225"
+      "coordinates": "60.1922, 5.4225",
+      "metar_available": false
     },
     {
       "ident": "ENUN",
@@ -1702,7 +1844,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENUN",
-      "coordinates": "67.0408, 7.055"
+      "coordinates": "67.0408, 7.055",
+      "metar_available": false
     },
     {
       "ident": "ENUR",
@@ -1713,7 +1856,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENUR",
-      "coordinates": "65.34333, 7.36722"
+      "coordinates": "65.34333, 7.36722",
+      "metar_available": false
     },
     {
       "ident": "ENUS",
@@ -1724,7 +1868,8 @@
       "iso_region": "NO-XX",
       "municipality": "Norwegian Sea",
       "gps_code": "ENUS",
-      "coordinates": "65.69972, 7.65083"
+      "coordinates": "65.69972, 7.65083",
+      "metar_available": false
     },
     {
       "ident": "ENVA",
@@ -1737,7 +1882,8 @@
       "municipality": "Trondheim",
       "gps_code": "ENVA",
       "iata_code": "TRD",
-      "coordinates": "63.457802, 10.924"
+      "coordinates": "63.457802, 10.924",
+      "metar_available": false
     },
     {
       "ident": "ENVD",
@@ -1750,7 +1896,8 @@
       "municipality": "Vadsø",
       "gps_code": "ENVD",
       "iata_code": "VDS",
-      "coordinates": "70.0653, 29.8447"
+      "coordinates": "70.0653, 29.8447",
+      "metar_available": false
     },
     {
       "ident": "ENVE",
@@ -1762,7 +1909,8 @@
       "iso_region": "NO-42",
       "municipality": "Valle",
       "gps_code": "ENVE",
-      "coordinates": "59.031723, 7.554903"
+      "coordinates": "59.031723, 7.554903",
+      "metar_available": false
     },
     {
       "ident": "ENVR",
@@ -1775,7 +1923,8 @@
       "municipality": "Værøy",
       "gps_code": "ENVR",
       "iata_code": "VRY",
-      "coordinates": "67.654555, 12.727257"
+      "coordinates": "67.654555, 12.727257",
+      "metar_available": false
     },
     {
       "ident": "ENWA",
@@ -1787,7 +1936,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENWA",
-      "coordinates": "59.566667, 1.991667"
+      "coordinates": "59.566667, 1.991667",
+      "metar_available": false
     },
     {
       "ident": "ENWE",
@@ -1797,7 +1947,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENWE",
-      "coordinates": "58.8425, 2.24722"
+      "coordinates": "58.8425, 2.24722",
+      "metar_available": false
     },
     {
       "ident": "ENWG",
@@ -1807,7 +1958,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENWG",
-      "coordinates": "58.845, 1.74333"
+      "coordinates": "58.845, 1.74333",
+      "metar_available": false
     },
     {
       "ident": "ENWI",
@@ -1817,7 +1969,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENWI",
-      "coordinates": "58.92222, 2.19778"
+      "coordinates": "58.92222, 2.19778",
+      "metar_available": false
     },
     {
       "ident": "ENWK",
@@ -1828,7 +1981,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENWK",
-      "coordinates": "58.57139, 1.69528"
+      "coordinates": "58.57139, 1.69528",
+      "metar_available": false
     },
     {
       "ident": "ENWR",
@@ -1839,7 +1993,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENWR",
-      "coordinates": "58.58333, 1.73278"
+      "coordinates": "58.58333, 1.73278",
+      "metar_available": false
     },
     {
       "ident": "ENWS",
@@ -1850,7 +2005,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENWS",
-      "coordinates": "56.37361, 3.26278"
+      "coordinates": "56.37361, 3.26278",
+      "metar_available": false
     },
     {
       "ident": "ENWV",
@@ -1861,7 +2017,8 @@
       "iso_region": "NO-XX",
       "municipality": "North Sea",
       "gps_code": "ENWV",
-      "coordinates": "56.28333, 3.4"
+      "coordinates": "56.28333, 3.4",
+      "metar_available": false
     },
     {
       "ident": "ENWY",
@@ -1874,7 +2031,8 @@
       "municipality": "Yme Inspirer",
       "gps_code": "ENWY",
       "local_code": "INS",
-      "coordinates": "57.4888, 4.3212"
+      "coordinates": "57.4888, 4.3212",
+      "metar_available": false
     },
     {
       "ident": "ENXA",
@@ -1884,7 +2042,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXA",
-      "coordinates": "56.520301818847656, 3.2213900089263916"
+      "coordinates": "56.520301818847656, 3.2213900089263916",
+      "metar_available": false
     },
     {
       "ident": "ENXB",
@@ -1894,7 +2053,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXB",
-      "coordinates": "56.41859817504883, 3.216939926147461"
+      "coordinates": "56.41859817504883, 3.216939926147461",
+      "metar_available": false
     },
     {
       "ident": "ENXD",
@@ -1904,7 +2064,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXD",
-      "coordinates": "56.5625, 3.08417010307312"
+      "coordinates": "56.5625, 3.08417010307312",
+      "metar_available": false
     },
     {
       "ident": "ENXH",
@@ -1914,7 +2075,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXH",
-      "coordinates": "56.1758, 3.45861"
+      "coordinates": "56.1758, 3.45861",
+      "metar_available": false
     },
     {
       "ident": "ENXJ",
@@ -1924,7 +2086,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXJ",
-      "coordinates": "56.226898193359375, 3.4358301162719727"
+      "coordinates": "56.226898193359375, 3.4358301162719727",
+      "metar_available": false
     },
     {
       "ident": "ENXK",
@@ -1934,7 +2097,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXK",
-      "coordinates": "56.56529998779297, 3.2047200202941895"
+      "coordinates": "56.56529998779297, 3.2047200202941895",
+      "metar_available": false
     },
     {
       "ident": "ENXL",
@@ -1944,7 +2108,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXL",
-      "coordinates": "56.3760986328125, 3.2644400596618652"
+      "coordinates": "56.3760986328125, 3.2644400596618652",
+      "metar_available": false
     },
     {
       "ident": "ENXM",
@@ -1954,7 +2119,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXM",
-      "coordinates": "56.33250045776367, 3.2469398975372314"
+      "coordinates": "56.33250045776367, 3.2469398975372314",
+      "metar_available": false
     },
     {
       "ident": "ENXO",
@@ -1964,7 +2130,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXO",
-      "coordinates": "59.266701, 2.45"
+      "coordinates": "59.266701, 2.45",
+      "metar_available": false
     },
     {
       "ident": "ENXR",
@@ -1974,7 +2141,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXR",
-      "coordinates": "56.983299255371094, 2.958329916000366"
+      "coordinates": "56.983299255371094, 2.958329916000366",
+      "metar_available": false
     },
     {
       "ident": "ENXT",
@@ -1984,7 +2152,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXT",
-      "coordinates": "56.64139938354492, 3.3255600929260254"
+      "coordinates": "56.64139938354492, 3.3255600929260254",
+      "metar_available": false
     },
     {
       "ident": "ENXW",
@@ -1994,7 +2163,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXW",
-      "coordinates": "59.165, 2.48667"
+      "coordinates": "59.165, 2.48667",
+      "metar_available": false
     },
     {
       "ident": "ENXZ",
@@ -2004,7 +2174,8 @@
       "iso_country": "NO",
       "iso_region": "NO-XX",
       "gps_code": "ENXZ",
-      "coordinates": "58.416698, 1.71667"
+      "coordinates": "58.416698, 1.71667",
+      "metar_available": false
     },
     {
       "ident": "ENZV",
@@ -2017,7 +2188,8 @@
       "municipality": "Stavanger",
       "gps_code": "ENZV",
       "iata_code": "SVG",
-      "coordinates": "58.876701, 5.63778"
+      "coordinates": "58.876701, 5.63778",
+      "metar_available": false
     },
     {
       "ident": "NO-0001",
@@ -2028,7 +2200,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Nes",
-      "coordinates": "60.020748, 11.382085"
+      "coordinates": "60.020748, 11.382085",
+      "metar_available": false
     },
     {
       "ident": "NO-0002",
@@ -2038,7 +2211,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "60.181304931640625, 11.564483642578125"
+      "coordinates": "60.181304931640625, 11.564483642578125",
+      "metar_available": false
     },
     {
       "ident": "NO-0003",
@@ -2048,7 +2222,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Fornebu",
-      "coordinates": "59.89238, 10.59803"
+      "coordinates": "59.89238, 10.59803",
+      "metar_available": false
     },
     {
       "ident": "NO-0004",
@@ -2058,7 +2233,8 @@
       "iso_country": "NO",
       "iso_region": "NO-03",
       "municipality": "Oslo",
-      "coordinates": "59.883888244628906, 10.716667175292969"
+      "coordinates": "59.883888244628906, 10.716667175292969",
+      "metar_available": false
     },
     {
       "ident": "NO-0005",
@@ -2068,7 +2244,8 @@
       "iso_country": "NO",
       "iso_region": "NO-03",
       "municipality": "Oslo",
-      "coordinates": "59.890960693359375, 10.718278884887695"
+      "coordinates": "59.890960693359375, 10.718278884887695",
+      "metar_available": false
     },
     {
       "ident": "NO-0006",
@@ -2078,7 +2255,8 @@
       "iso_country": "NO",
       "iso_region": "NO-11",
       "municipality": "Stavanger",
-      "coordinates": "58.89440155, 5.69944000244"
+      "coordinates": "58.89440155, 5.69944000244",
+      "metar_available": false
     },
     {
       "ident": "NO-0007",
@@ -2088,7 +2266,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "60.696209, 12.38142"
+      "coordinates": "60.696209, 12.38142",
+      "metar_available": false
     },
     {
       "ident": "NO-0008",
@@ -2100,7 +2279,8 @@
       "iso_region": "NO-55",
       "municipality": "Salangen",
       "gps_code": "ENLV",
-      "coordinates": "68.871052, 17.983614"
+      "coordinates": "68.871052, 17.983614",
+      "metar_available": false
     },
     {
       "ident": "NO-0009",
@@ -2111,7 +2291,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Grong",
-      "coordinates": "64.395309, 12.34108"
+      "coordinates": "64.395309, 12.34108",
+      "metar_available": false
     },
     {
       "ident": "NO-0010",
@@ -2122,7 +2303,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Snåsa",
-      "coordinates": "64.0169448852539, 12.682222366333008"
+      "coordinates": "64.0169448852539, 12.682222366333008",
+      "metar_available": false
     },
     {
       "ident": "NO-0011",
@@ -2133,7 +2315,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Steinkjer",
-      "coordinates": "63.93138885498047, 11.59000015258789"
+      "coordinates": "63.93138885498047, 11.59000015258789",
+      "metar_available": false
     },
     {
       "ident": "NO-0012",
@@ -2144,7 +2327,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Frosta",
-      "coordinates": "63.574158, 10.719438"
+      "coordinates": "63.574158, 10.719438",
+      "metar_available": false
     },
     {
       "ident": "NO-0013",
@@ -2155,7 +2339,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Agdenes",
-      "coordinates": "63.628887, 9.72749996"
+      "coordinates": "63.628887, 9.72749996",
+      "metar_available": false
     },
     {
       "ident": "NO-0014",
@@ -2167,7 +2352,8 @@
       "iso_region": "NO-50",
       "municipality": "Meråker",
       "gps_code": "ENMO",
-      "coordinates": "63.370834, 11.8125"
+      "coordinates": "63.370834, 11.8125",
+      "metar_available": false
     },
     {
       "ident": "NO-0015",
@@ -2178,7 +2364,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Melhus",
-      "coordinates": "63.197383880615234, 10.290842056274414"
+      "coordinates": "63.197383880615234, 10.290842056274414",
+      "metar_available": false
     },
     {
       "ident": "NO-0016",
@@ -2189,7 +2376,8 @@
       "iso_country": "NO",
       "iso_region": "NO-15",
       "municipality": "Surnadal",
-      "coordinates": "63.012447357177734, 9.046683311462402"
+      "coordinates": "63.012447357177734, 9.046683311462402",
+      "metar_available": false
     },
     {
       "ident": "NO-0017",
@@ -2200,7 +2388,8 @@
       "iso_country": "NO",
       "iso_region": "NO-15",
       "municipality": "Surnadal",
-      "coordinates": "63.054722, 8.714167"
+      "coordinates": "63.054722, 8.714167",
+      "metar_available": false
     },
     {
       "ident": "NO-0018",
@@ -2211,7 +2400,8 @@
       "iso_country": "NO",
       "iso_region": "NO-15",
       "municipality": "Aukra",
-      "coordinates": "62.834999084472656, 6.829999923706055"
+      "coordinates": "62.834999084472656, 6.829999923706055",
+      "metar_available": false
     },
     {
       "ident": "NO-0019",
@@ -2223,7 +2413,8 @@
       "iso_region": "NO-34",
       "municipality": "Lesja",
       "gps_code": "ENLB",
-      "coordinates": "62.234754, 8.245797"
+      "coordinates": "62.234754, 8.245797",
+      "metar_available": false
     },
     {
       "ident": "NO-0020",
@@ -2234,7 +2425,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Sør-Fron",
-      "coordinates": "61.49944305419922, 9.798333168029785"
+      "coordinates": "61.49944305419922, 9.798333168029785",
+      "metar_available": false
     },
     {
       "ident": "NO-0021",
@@ -2245,7 +2437,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Stor-Elvdal",
-      "coordinates": "61.725799560546875, 10.84220027923584"
+      "coordinates": "61.725799560546875, 10.84220027923584",
+      "metar_available": false
     },
     {
       "ident": "NO-0022",
@@ -2256,7 +2449,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Rendalen",
-      "coordinates": "61.836666107177734, 11.726666450500488"
+      "coordinates": "61.836666107177734, 11.726666450500488",
+      "metar_available": false
     },
     {
       "ident": "NO-0023",
@@ -2268,7 +2462,8 @@
       "iso_region": "NO-34",
       "municipality": "Åmot",
       "gps_code": "ENRE",
-      "coordinates": "61.186216, 11.374443"
+      "coordinates": "61.186216, 11.374443",
+      "metar_available": false
     },
     {
       "ident": "NO-0024",
@@ -2279,7 +2474,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Ringsaker",
-      "coordinates": "61.083875, 10.684208"
+      "coordinates": "61.083875, 10.684208",
+      "metar_available": false
     },
     {
       "ident": "NO-0025",
@@ -2290,7 +2486,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Søndre Land",
-      "coordinates": "60.74833297729492, 10.239999771118164"
+      "coordinates": "60.74833297729492, 10.239999771118164",
+      "metar_available": false
     },
     {
       "ident": "NO-0026",
@@ -2301,7 +2498,8 @@
       "iso_country": "NO",
       "iso_region": "NO-42",
       "municipality": "Evje og Hornnes",
-      "coordinates": "58.60472106933594, 7.8125"
+      "coordinates": "58.60472106933594, 7.8125",
+      "metar_available": false
     },
     {
       "ident": "NO-0027",
@@ -2312,7 +2510,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Borge",
-      "coordinates": "59.195728, 11.063568"
+      "coordinates": "59.195728, 11.063568",
+      "metar_available": false
     },
     {
       "ident": "NO-0028",
@@ -2323,7 +2522,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Vestby",
-      "coordinates": "59.620556, 10.701111"
+      "coordinates": "59.620556, 10.701111",
+      "metar_available": false
     },
     {
       "ident": "NO-0029",
@@ -2334,7 +2534,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Kongsvinger",
-      "coordinates": "60.2666666667, 12.020833333299999"
+      "coordinates": "60.2666666667, 12.020833333299999",
+      "metar_available": false
     },
     {
       "ident": "NO-0030",
@@ -2345,7 +2546,8 @@
       "iso_country": "NO",
       "iso_region": "NO-42",
       "municipality": "Bygland",
-      "coordinates": "58.93967, 7.692545"
+      "coordinates": "58.93967, 7.692545",
+      "metar_available": false
     },
     {
       "ident": "NO-0031",
@@ -2356,7 +2558,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Feiring",
-      "coordinates": "60.512294, 11.188105"
+      "coordinates": "60.512294, 11.188105",
+      "metar_available": false
     },
     {
       "ident": "NO-0032",
@@ -2367,7 +2570,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "gps_code": "ENBB",
-      "coordinates": "60.637222, 10.677222"
+      "coordinates": "60.637222, 10.677222",
+      "metar_available": false
     },
     {
       "ident": "NO-0033",
@@ -2378,7 +2582,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Lillehammer",
-      "coordinates": "61.095, 10.44"
+      "coordinates": "61.095, 10.44",
+      "metar_available": false
     },
     {
       "ident": "NO-0034",
@@ -2389,7 +2594,8 @@
       "iso_country": "NO",
       "iso_region": "NO-21",
       "municipality": "Longyearbeyen",
-      "coordinates": "78.214, 15.78"
+      "coordinates": "78.214, 15.78",
+      "metar_available": false
     },
     {
       "ident": "NO-0035",
@@ -2400,7 +2606,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Båtsfjord",
-      "coordinates": "70.5996, 29.6581"
+      "coordinates": "70.5996, 29.6581",
+      "metar_available": false
     },
     {
       "ident": "NO-0036",
@@ -2409,7 +2616,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "61.3561484, 12.7570594"
+      "coordinates": "61.3561484, 12.7570594",
+      "metar_available": false
     },
     {
       "ident": "NO-0037",
@@ -2419,7 +2627,8 @@
       "iso_country": "NO",
       "iso_region": "NO-18",
       "municipality": "Sandnessjøen",
-      "coordinates": "66.01786, 12.615999"
+      "coordinates": "66.01786, 12.615999",
+      "metar_available": false
     },
     {
       "ident": "NO-0038",
@@ -2429,7 +2638,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Masjok",
-      "coordinates": "70.264611, 28.153839"
+      "coordinates": "70.264611, 28.153839",
+      "metar_available": false
     },
     {
       "ident": "NO-0039",
@@ -2440,7 +2650,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Fredrikstad",
-      "coordinates": "59.26724, 10.810754"
+      "coordinates": "59.26724, 10.810754",
+      "metar_available": false
     },
     {
       "ident": "NO-0040",
@@ -2451,7 +2662,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Fredrikstad",
-      "coordinates": "59.260035, 10.92897"
+      "coordinates": "59.260035, 10.92897",
+      "metar_available": false
     },
     {
       "ident": "NO-0041",
@@ -2462,7 +2674,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Spydeberg",
-      "coordinates": "59.664309, 11.120753"
+      "coordinates": "59.664309, 11.120753",
+      "metar_available": false
     },
     {
       "ident": "NO-0042",
@@ -2473,7 +2686,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Dalsøyra",
-      "coordinates": "60.928665, 5.160522"
+      "coordinates": "60.928665, 5.160522",
+      "metar_available": false
     },
     {
       "ident": "NO-0043",
@@ -2484,7 +2698,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Dimmelsvik",
-      "coordinates": "59.937908, 5.990483"
+      "coordinates": "59.937908, 5.990483",
+      "metar_available": false
     },
     {
       "ident": "NO-0044",
@@ -2495,7 +2710,8 @@
       "iso_region": "NO-46",
       "municipality": "Bergen",
       "gps_code": "ENBX",
-      "coordinates": "60.373145, 5.358187"
+      "coordinates": "60.373145, 5.358187",
+      "metar_available": false
     },
     {
       "ident": "NO-0045",
@@ -2506,7 +2722,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Kalnes",
-      "coordinates": "59.318877, 11.023754"
+      "coordinates": "59.318877, 11.023754",
+      "metar_available": false
     },
     {
       "ident": "NO-0046",
@@ -2517,7 +2734,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Kjøllefjord",
-      "coordinates": "70.940661, 27.348868"
+      "coordinates": "70.940661, 27.348868",
+      "metar_available": false
     },
     {
       "ident": "NO-0047",
@@ -2527,7 +2745,8 @@
       "iso_country": "NO",
       "iso_region": "NO-42",
       "municipality": "Bykle",
-      "coordinates": "59.52691, 7.368471"
+      "coordinates": "59.52691, 7.368471",
+      "metar_available": false
     },
     {
       "ident": "NO-0048",
@@ -2539,7 +2758,8 @@
       "iso_region": "NO-55",
       "municipality": "Harstad",
       "gps_code": "ENHR",
-      "coordinates": "68.779639, 16.595484"
+      "coordinates": "68.779639, 16.595484",
+      "metar_available": false
     },
     {
       "ident": "NO-0049",
@@ -2550,7 +2770,8 @@
       "iso_country": "NO",
       "iso_region": "NO-55",
       "municipality": "Harstad",
-      "coordinates": "68.795716, 16.525347"
+      "coordinates": "68.795716, 16.525347",
+      "metar_available": false
     },
     {
       "ident": "NO-0050",
@@ -2560,7 +2781,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Kinsarvik",
-      "coordinates": "60.361583, 6.740877"
+      "coordinates": "60.361583, 6.740877",
+      "metar_available": false
     },
     {
       "ident": "NO-0051",
@@ -2570,7 +2792,8 @@
       "iso_country": "NO",
       "iso_region": "NO-42",
       "municipality": "Kristiansand",
-      "coordinates": "58.164124, 7.981816"
+      "coordinates": "58.164124, 7.981816",
+      "metar_available": false
     },
     {
       "ident": "NO-0052",
@@ -2580,7 +2803,8 @@
       "iso_country": "NO",
       "iso_region": "NO-15",
       "municipality": "Kristiansund",
-      "coordinates": "63.107631, 7.723485"
+      "coordinates": "63.107631, 7.723485",
+      "metar_available": false
     },
     {
       "ident": "NO-0053",
@@ -2590,7 +2814,8 @@
       "iso_country": "NO",
       "iso_region": "NO-15",
       "municipality": "Molde",
-      "coordinates": "62.737088, 7.135475"
+      "coordinates": "62.737088, 7.135475",
+      "metar_available": false
     },
     {
       "ident": "NO-0054",
@@ -2600,7 +2825,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Stryn",
-      "coordinates": "61.910104, 6.755442"
+      "coordinates": "61.910104, 6.755442",
+      "metar_available": false
     },
     {
       "ident": "NO-0055",
@@ -2610,7 +2836,8 @@
       "iso_country": "NO",
       "iso_region": "NO-11",
       "municipality": "Suldal",
-      "coordinates": "59.483614, 6.272332"
+      "coordinates": "59.483614, 6.272332",
+      "metar_available": false
     },
     {
       "ident": "NO-0056",
@@ -2620,7 +2847,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Stryn",
-      "coordinates": "61.898835, 6.618564"
+      "coordinates": "61.898835, 6.618564",
+      "metar_available": false
     },
     {
       "ident": "NO-0057",
@@ -2632,7 +2860,8 @@
       "iso_region": "NO-39",
       "municipality": "Tønsberg",
       "gps_code": "ENTH",
-      "coordinates": "59.273235, 10.41618"
+      "coordinates": "59.273235, 10.41618",
+      "metar_available": false
     },
     {
       "ident": "NO-0058",
@@ -2643,7 +2872,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Tromsø",
-      "coordinates": "69.683925, 18.984699"
+      "coordinates": "69.683925, 18.984699",
+      "metar_available": false
     },
     {
       "ident": "NO-0059",
@@ -2654,7 +2884,8 @@
       "iso_country": "NO",
       "iso_region": "NO-55",
       "municipality": "Setermoen",
-      "coordinates": "68.856128, 18.350973"
+      "coordinates": "68.856128, 18.350973",
+      "metar_available": false
     },
     {
       "ident": "NO-0060",
@@ -2664,7 +2895,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Overhalla",
-      "coordinates": "64.528154, 11.989258"
+      "coordinates": "64.528154, 11.989258",
+      "metar_available": false
     },
     {
       "ident": "NO-0061",
@@ -2675,7 +2907,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Eidsberg",
-      "coordinates": "59.535537, 11.243937"
+      "coordinates": "59.535537, 11.243937",
+      "metar_available": false
     },
     {
       "ident": "NO-0062",
@@ -2685,7 +2918,8 @@
       "iso_country": "NO",
       "iso_region": "NO-31",
       "municipality": "Indre Østfold",
-      "coordinates": "59.68386, 11.295353"
+      "coordinates": "59.68386, 11.295353",
+      "metar_available": false
     },
     {
       "ident": "NO-0063",
@@ -2695,7 +2929,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Skarnes",
-      "coordinates": "60.2574, 11.7511"
+      "coordinates": "60.2574, 11.7511",
+      "metar_available": false
     },
     {
       "ident": "NO-0064",
@@ -2704,7 +2939,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-18",
-      "coordinates": "65.442929, 13.407617"
+      "coordinates": "65.442929, 13.407617",
+      "metar_available": false
     },
     {
       "ident": "NO-0065",
@@ -2714,7 +2950,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Bergen",
-      "coordinates": "60.332448, 5.232265"
+      "coordinates": "60.332448, 5.232265",
+      "metar_available": false
     },
     {
       "ident": "NO-0066",
@@ -2724,7 +2961,8 @@
       "iso_country": "NO",
       "iso_region": "NO-11",
       "municipality": "Kårstø",
-      "coordinates": "59.279738, 5.527145"
+      "coordinates": "59.279738, 5.527145",
+      "metar_available": false
     },
     {
       "ident": "NO-0067",
@@ -2734,7 +2972,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Bergen",
-      "coordinates": "60.578382, 4.960047"
+      "coordinates": "60.578382, 4.960047",
+      "metar_available": false
     },
     {
       "ident": "NO-0068",
@@ -2744,7 +2983,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Bergen",
-      "coordinates": "60.408154, 5.319931"
+      "coordinates": "60.408154, 5.319931",
+      "metar_available": false
     },
     {
       "ident": "NO-0069",
@@ -2754,7 +2994,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Bergen",
-      "coordinates": "60.409302, 5.317071"
+      "coordinates": "60.409302, 5.317071",
+      "metar_available": false
     },
     {
       "ident": "NO-0070",
@@ -2765,7 +3006,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Nes",
-      "coordinates": "60.133915, 11.453247"
+      "coordinates": "60.133915, 11.453247",
+      "metar_available": false
     },
     {
       "ident": "NO-0071",
@@ -2776,7 +3018,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Hurdal",
-      "coordinates": "60.361748, 11.091508"
+      "coordinates": "60.361748, 11.091508",
+      "metar_available": false
     },
     {
       "ident": "NO-0072",
@@ -2786,7 +3029,8 @@
       "iso_country": "NO",
       "iso_region": "NO-42",
       "municipality": "Ljosland",
-      "coordinates": "58.7899624, 7.3558677"
+      "coordinates": "58.7899624, 7.3558677",
+      "metar_available": false
     },
     {
       "ident": "NO-0073",
@@ -2797,7 +3041,8 @@
       "iso_country": "NO",
       "iso_region": "NO-18",
       "municipality": "Ballangen",
-      "coordinates": "68.33635, 16.830884"
+      "coordinates": "68.33635, 16.830884",
+      "metar_available": false
     },
     {
       "ident": "NO-0074",
@@ -2807,7 +3052,8 @@
       "iso_country": "NO",
       "iso_region": "NO-55",
       "municipality": "Vanna Island",
-      "coordinates": "70.212163, 19.623508"
+      "coordinates": "70.212163, 19.623508",
+      "metar_available": false
     },
     {
       "ident": "NO-0075",
@@ -2818,7 +3064,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Gamvik",
-      "coordinates": "71.078925, 28.225927"
+      "coordinates": "71.078925, 28.225927",
+      "metar_available": false
     },
     {
       "ident": "NO-0076",
@@ -2828,7 +3075,8 @@
       "iso_country": "NO",
       "iso_region": "NO-18",
       "municipality": "Narvik",
-      "coordinates": "68.451455, 17.532497"
+      "coordinates": "68.451455, 17.532497",
+      "metar_available": false
     },
     {
       "ident": "NO-0077",
@@ -2839,7 +3087,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Porsanger",
-      "coordinates": "69.958841, 24.963589"
+      "coordinates": "69.958841, 24.963589",
+      "metar_available": false
     },
     {
       "ident": "NO-0078",
@@ -2849,7 +3098,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-56",
-      "coordinates": "69.457328, 25.460852"
+      "coordinates": "69.457328, 25.460852",
+      "metar_available": false
     },
     {
       "ident": "NO-0079",
@@ -2860,7 +3110,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Hammerfest",
-      "coordinates": "70.290018, 24.110275"
+      "coordinates": "70.290018, 24.110275",
+      "metar_available": false
     },
     {
       "ident": "NO-0080",
@@ -2871,7 +3122,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Karasjok",
-      "coordinates": "69.527306, 24.95613"
+      "coordinates": "69.527306, 24.95613",
+      "metar_available": false
     },
     {
       "ident": "NO-0081",
@@ -2880,7 +3132,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-56",
-      "coordinates": "70.200968, 28.192003"
+      "coordinates": "70.200968, 28.192003",
+      "metar_available": false
     },
     {
       "ident": "NO-0082",
@@ -2889,7 +3142,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-50",
-      "coordinates": "63.695658, 11.226687"
+      "coordinates": "63.695658, 11.226687",
+      "metar_available": false
     },
     {
       "ident": "NO-0083",
@@ -2898,7 +3152,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-50",
-      "coordinates": "63.845275, 11.344714"
+      "coordinates": "63.845275, 11.344714",
+      "metar_available": false
     },
     {
       "ident": "NO-0084",
@@ -2909,7 +3164,8 @@
       "iso_country": "NO",
       "iso_region": "NO-55",
       "municipality": "Harstad",
-      "coordinates": "68.790262, 16.447434"
+      "coordinates": "68.790262, 16.447434",
+      "metar_available": false
     },
     {
       "ident": "NO-0085",
@@ -2920,7 +3176,8 @@
       "iso_country": "NO",
       "iso_region": "NO-33",
       "municipality": "Sylling",
-      "coordinates": "59.884192, 10.280081"
+      "coordinates": "59.884192, 10.280081",
+      "metar_available": false
     },
     {
       "ident": "NO-0086",
@@ -2930,7 +3187,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-32",
-      "coordinates": "59.74945, 10.353466"
+      "coordinates": "59.74945, 10.353466",
+      "metar_available": false
     },
     {
       "ident": "NO-0087",
@@ -2941,7 +3199,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Hjellestad",
-      "coordinates": "60.262379, 5.244887"
+      "coordinates": "60.262379, 5.244887",
+      "metar_available": false
     },
     {
       "ident": "NO-0088",
@@ -2953,7 +3212,8 @@
       "iso_region": "NO-32",
       "municipality": "Oslo",
       "gps_code": "ENTX",
-      "coordinates": "59.803891, 10.840657"
+      "coordinates": "59.803891, 10.840657",
+      "metar_available": false
     },
     {
       "ident": "NO-0089",
@@ -2962,7 +3222,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-46",
-      "coordinates": "60.21776, 5.52723"
+      "coordinates": "60.21776, 5.52723",
+      "metar_available": false
     },
     {
       "ident": "NO-0090",
@@ -2971,7 +3232,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "60.81586, 11.40666"
+      "coordinates": "60.81586, 11.40666",
+      "metar_available": false
     },
     {
       "ident": "NO-0091",
@@ -2980,7 +3242,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "62.19536, 9.63733"
+      "coordinates": "62.19536, 9.63733",
+      "metar_available": false
     },
     {
       "ident": "NO-0092",
@@ -2990,7 +3253,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-39",
-      "coordinates": "58.98093, 9.84491"
+      "coordinates": "58.98093, 9.84491",
+      "metar_available": false
     },
     {
       "ident": "NO-0093",
@@ -3000,7 +3264,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-39",
-      "coordinates": "59.47519, 10.19461"
+      "coordinates": "59.47519, 10.19461",
+      "metar_available": false
     },
     {
       "ident": "NO-0094",
@@ -3009,7 +3274,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "62.079959, 9.060599"
+      "coordinates": "62.079959, 9.060599",
+      "metar_available": false
     },
     {
       "ident": "NO-0095",
@@ -3018,7 +3284,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-18",
-      "coordinates": "65.98784, 12.30965"
+      "coordinates": "65.98784, 12.30965",
+      "metar_available": false
     },
     {
       "ident": "NO-0096",
@@ -3027,7 +3294,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-11",
-      "coordinates": "58.89914, 5.63323"
+      "coordinates": "58.89914, 5.63323",
+      "metar_available": false
     },
     {
       "ident": "NO-0097",
@@ -3038,7 +3306,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Våler",
-      "coordinates": "60.653396, 11.910337"
+      "coordinates": "60.653396, 11.910337",
+      "metar_available": false
     },
     {
       "ident": "NO-0098",
@@ -3048,7 +3317,8 @@
       "iso_country": "NO",
       "iso_region": "NO-15",
       "municipality": "Ålesund",
-      "coordinates": "62.46868, 6.2264"
+      "coordinates": "62.46868, 6.2264",
+      "metar_available": false
     },
     {
       "ident": "NO-0099",
@@ -3059,7 +3329,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Oslo",
-      "coordinates": "59.895802, 10.6172"
+      "coordinates": "59.895802, 10.6172",
+      "metar_available": false
     },
     {
       "ident": "NO-0100",
@@ -3070,7 +3341,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Nord-Odal",
-      "coordinates": "60.40975, 11.620789"
+      "coordinates": "60.40975, 11.620789",
+      "metar_available": false
     },
     {
       "ident": "NO-0101",
@@ -3081,7 +3353,8 @@
       "iso_country": "NO",
       "iso_region": "NO-50",
       "municipality": "Stadsbygd",
-      "coordinates": "63.526099, 10.034609"
+      "coordinates": "63.526099, 10.034609",
+      "metar_available": false
     },
     {
       "ident": "NO-0102",
@@ -3092,7 +3365,8 @@
       "iso_country": "NO",
       "iso_region": "NO-40",
       "municipality": "Notodden",
-      "coordinates": "59.55941, 9.22422"
+      "coordinates": "59.55941, 9.22422",
+      "metar_available": false
     },
     {
       "ident": "NO-0103",
@@ -3102,7 +3376,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-42",
-      "coordinates": "59.52733, 7.358815"
+      "coordinates": "59.52733, 7.358815",
+      "metar_available": false
     },
     {
       "ident": "NO-0104",
@@ -3113,7 +3388,8 @@
       "iso_country": "NO",
       "iso_region": "NO-56",
       "municipality": "Kautokeino",
-      "coordinates": "69.348978, 24.019642"
+      "coordinates": "69.348978, 24.019642",
+      "metar_available": false
     },
     {
       "ident": "NO-0105",
@@ -3124,7 +3400,8 @@
       "iso_country": "NO",
       "iso_region": "NO-34",
       "municipality": "Fagernes",
-      "coordinates": "60.98326, 9.23538"
+      "coordinates": "60.98326, 9.23538",
+      "metar_available": false
     },
     {
       "ident": "NO-0106",
@@ -3134,7 +3411,8 @@
       "iso_country": "NO",
       "iso_region": "NO-46",
       "municipality": "Lo, Borgund",
-      "coordinates": "61.05802, 7.81709"
+      "coordinates": "61.05802, 7.81709",
+      "metar_available": false
     },
     {
       "ident": "NO-0107",
@@ -3143,7 +3421,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-34",
-      "coordinates": "60.803812, 10.679162"
+      "coordinates": "60.803812, 10.679162",
+      "metar_available": false
     },
     {
       "ident": "NO-0108",
@@ -3154,7 +3433,8 @@
       "iso_country": "NO",
       "iso_region": "NO-32",
       "municipality": "Jessheim",
-      "coordinates": "60.16511, 11.16508"
+      "coordinates": "60.16511, 11.16508",
+      "metar_available": false
     },
     {
       "ident": "NO-0109",
@@ -3163,7 +3443,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-50",
-      "coordinates": "63.61335, 10.76058"
+      "coordinates": "63.61335, 10.76058",
+      "metar_available": false
     },
     {
       "ident": "NO-0110",
@@ -3172,7 +3453,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "59.8782997131, 2.06500005722"
+      "coordinates": "59.8782997131, 2.06500005722",
+      "metar_available": false
     },
     {
       "ident": "NO-0111",
@@ -3183,7 +3465,8 @@
       "iso_country": "NO",
       "iso_region": "NO-18",
       "municipality": "Narvik",
-      "coordinates": "68.436897, 17.3867"
+      "coordinates": "68.436897, 17.3867",
+      "metar_available": false
     },
     {
       "ident": "NO-0112",
@@ -3192,7 +3475,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "60.855301, 2.64861"
+      "coordinates": "60.855301, 2.64861",
+      "metar_available": false
     },
     {
       "ident": "NO-0113",
@@ -3201,7 +3485,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "60.7822, 2.89611"
+      "coordinates": "60.7822, 2.89611",
+      "metar_available": false
     },
     {
       "ident": "NO-0114",
@@ -3210,7 +3495,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "56.278099, 3.39278"
+      "coordinates": "56.278099, 3.39278",
+      "metar_available": false
     },
     {
       "ident": "NO-0115",
@@ -3219,7 +3505,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "57.068901, 2.43333"
+      "coordinates": "57.068901, 2.43333",
+      "metar_available": false
     },
     {
       "ident": "NO-0116",
@@ -3228,7 +3515,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "56.464199, 3.10306"
+      "coordinates": "56.464199, 3.10306",
+      "metar_available": false
     },
     {
       "ident": "NO-0117",
@@ -3237,7 +3525,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "56.619999, 3.0525"
+      "coordinates": "56.619999, 3.0525",
+      "metar_available": false
     },
     {
       "ident": "NO-0118",
@@ -3246,7 +3535,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "56.904202, 3.08361"
+      "coordinates": "56.904202, 3.08361",
+      "metar_available": false
     },
     {
       "ident": "NO-0119",
@@ -3255,7 +3545,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "59.4506, 2.36528"
+      "coordinates": "59.4506, 2.36528",
+      "metar_available": false
     },
     {
       "ident": "NO-0120",
@@ -3264,7 +3555,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "58.0783, 1.91"
+      "coordinates": "58.0783, 1.91",
+      "metar_available": false
     },
     {
       "ident": "NO-0121",
@@ -3273,7 +3565,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "59.8856010437, 2.07083010674"
+      "coordinates": "59.8856010437, 2.07083010674",
+      "metar_available": false
     },
     {
       "ident": "NO-0122",
@@ -3282,7 +3575,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "56.6422, 2.93861"
+      "coordinates": "56.6422, 2.93861",
+      "metar_available": false
     },
     {
       "ident": "NO-0123",
@@ -3291,7 +3585,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "59.4506, 2.36528"
+      "coordinates": "59.4506, 2.36528",
+      "metar_available": false
     },
     {
       "ident": "NO-0124",
@@ -3300,7 +3595,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "58.077202, 1.88889"
+      "coordinates": "58.077202, 1.88889",
+      "metar_available": false
     },
     {
       "ident": "NO-0125",
@@ -3309,7 +3605,8 @@
       "continent": "EU",
       "iso_country": "NO",
       "iso_region": "NO-XX",
-      "coordinates": "57.6236, 2.84722"
+      "coordinates": "57.6236, 2.84722",
+      "metar_available": false
     },
     {
       "ident": "NO-0126",
@@ -3320,7 +3617,8 @@
       "iso_country": "NO",
       "iso_region": "NO-18",
       "municipality": "Værøy",
-      "coordinates": "67.68920135498, 12.680000305176"
+      "coordinates": "67.68920135498, 12.680000305176",
+      "metar_available": false
     },
     {
       "ident": "NO-0127",
@@ -3331,7 +3629,8 @@
       "iso_country": "NO",
       "iso_region": "NO-21",
       "municipality": "Svea",
-      "coordinates": "77.896944, 16.725"
+      "coordinates": "77.896944, 16.725",
+      "metar_available": false
     }
   ]
 }

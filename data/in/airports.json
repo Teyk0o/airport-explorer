@@ -2,7 +2,7 @@
   "country_code": "IN",
   "country_name": "India",
   "total_airports": 635,
-  "last_updated": "2025-08-01T00:18:22.753514",
+  "last_updated": "2025-08-25T10:08:40.900235",
   "types_distribution": {
     "heliport": 288,
     "small_airport": 181,
@@ -20,7 +20,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UT",
       "municipality": "Kedareshwar",
-      "coordinates": "29.946754, 79.903173"
+      "coordinates": "29.946754, 79.903173",
+      "metar_available": false
     },
     {
       "ident": "IN-0001",
@@ -31,7 +32,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Nubra",
-      "coordinates": "35.194275, 77.213051"
+      "coordinates": "35.194275, 77.213051",
+      "metar_available": false
     },
     {
       "ident": "IN-0002",
@@ -42,7 +44,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Tawang",
-      "coordinates": "27.588732, 91.877439"
+      "coordinates": "27.588732, 91.877439",
+      "metar_available": false
     },
     {
       "ident": "IN-0003",
@@ -53,7 +56,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Nubra",
-      "coordinates": "35.396467, 77.928965"
+      "coordinates": "35.396467, 77.928965",
+      "metar_available": false
     },
     {
       "ident": "IN-0004",
@@ -64,7 +68,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Leh",
-      "coordinates": "34.129295, 77.537205"
+      "coordinates": "34.129295, 77.537205",
+      "metar_available": false
     },
     {
       "ident": "IN-0005",
@@ -74,7 +79,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Ahilandapuram",
-      "coordinates": "8.970609, 77.816847"
+      "coordinates": "8.970609, 77.816847",
+      "metar_available": false
     },
     {
       "ident": "IN-0006",
@@ -84,7 +90,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Kanadukathan",
-      "coordinates": "10.164996, 78.79377"
+      "coordinates": "10.164996, 78.79377",
+      "metar_available": false
     },
     {
       "ident": "IN-0007",
@@ -94,7 +101,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Minicoy",
-      "coordinates": "8.27363, 73.022301"
+      "coordinates": "8.27363, 73.022301",
+      "metar_available": false
     },
     {
       "ident": "IN-0008",
@@ -103,7 +111,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-LD",
-      "coordinates": "10.541667938232422, 72.61604309082031"
+      "coordinates": "10.541667938232422, 72.61604309082031",
+      "metar_available": false
     },
     {
       "ident": "IN-0009",
@@ -113,7 +122,8 @@
       "iso_country": "IN",
       "iso_region": "IN-SK",
       "municipality": "Gangtok",
-      "coordinates": "27.355736, 88.614156"
+      "coordinates": "27.355736, 88.614156",
+      "metar_available": false
     },
     {
       "ident": "IN-0010",
@@ -122,7 +132,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-AR",
-      "coordinates": "28.12967300415, 97.019660949707"
+      "coordinates": "28.12967300415, 97.019660949707",
+      "metar_available": false
     },
     {
       "ident": "IN-0011",
@@ -134,7 +145,8 @@
       "iso_region": "IN-KA",
       "municipality": "Bengaluru",
       "gps_code": "VOJK",
-      "coordinates": "13.07674, 77.597645"
+      "coordinates": "13.07674, 77.597645",
+      "metar_available": false
     },
     {
       "ident": "IN-0012",
@@ -147,7 +159,8 @@
       "municipality": "Pakyong",
       "gps_code": "VEPY",
       "iata_code": "PYG",
-      "coordinates": "27.2313, 88.587196"
+      "coordinates": "27.2313, 88.587196",
+      "metar_available": false
     },
     {
       "ident": "IN-0013",
@@ -158,7 +171,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Hyderabad",
-      "coordinates": "17.306142, 78.561004"
+      "coordinates": "17.306142, 78.561004",
+      "metar_available": false
     },
     {
       "ident": "IN-0014",
@@ -167,7 +181,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-MN",
-      "coordinates": "24.872459411621094, 93.9256820678711"
+      "coordinates": "24.872459411621094, 93.9256820678711",
+      "metar_available": false
     },
     {
       "ident": "IN-0015",
@@ -176,7 +191,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-ML",
-      "coordinates": "25.661487579345703, 90.34503936767578"
+      "coordinates": "25.661487579345703, 90.34503936767578",
+      "metar_available": false
     },
     {
       "ident": "IN-0016",
@@ -186,7 +202,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AS",
       "municipality": "Ledo",
-      "coordinates": "27.302441, 95.737031"
+      "coordinates": "27.302441, 95.737031",
+      "metar_available": false
     },
     {
       "ident": "IN-0017",
@@ -195,7 +212,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-WB",
-      "coordinates": "22.3245915688, 87.10741996770001"
+      "coordinates": "22.3245915688, 87.10741996770001",
+      "metar_available": false
     },
     {
       "ident": "IN-0018",
@@ -204,7 +222,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-WB",
-      "coordinates": "22.9895085468, 87.2995948792"
+      "coordinates": "22.9895085468, 87.2995948792",
+      "metar_available": false
     },
     {
       "ident": "IN-0019",
@@ -215,7 +234,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AS",
       "municipality": "Muluk Gaon",
-      "coordinates": "27.544598, 95.238011"
+      "coordinates": "27.544598, 95.238011",
+      "metar_available": false
     },
     {
       "ident": "IN-0020",
@@ -225,7 +245,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Villupuram",
-      "coordinates": "11.688549, 79.321375"
+      "coordinates": "11.688549, 79.321375",
+      "metar_available": false
     },
     {
       "ident": "IN-0021",
@@ -235,7 +256,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Mumbai",
-      "coordinates": "18.913345681200003, 72.8292113543"
+      "coordinates": "18.913345681200003, 72.8292113543",
+      "metar_available": false
     },
     {
       "ident": "IN-0022",
@@ -245,7 +267,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Mimbai",
-      "coordinates": "18.895273369, 72.8084939718"
+      "coordinates": "18.895273369, 72.8084939718",
+      "metar_available": false
     },
     {
       "ident": "IN-0023",
@@ -256,7 +279,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Amreli",
-      "coordinates": "21.621416, 71.226309"
+      "coordinates": "21.621416, 71.226309",
+      "metar_available": false
     },
     {
       "ident": "IN-0024",
@@ -268,7 +292,8 @@
       "iso_region": "IN-MM",
       "municipality": "Pune",
       "local_code": "BMT",
-      "coordinates": "18.226944, 74.590833"
+      "coordinates": "18.226944, 74.590833",
+      "metar_available": false
     },
     {
       "ident": "IN-0025",
@@ -281,7 +306,8 @@
       "municipality": "Faizabad",
       "gps_code": "VEAY",
       "iata_code": "AYJ",
-      "coordinates": "26.751283, 82.155295"
+      "coordinates": "26.751283, 82.155295",
+      "metar_available": false
     },
     {
       "ident": "IN-0026",
@@ -292,7 +318,8 @@
       "iso_country": "IN",
       "iso_region": "IN-CT",
       "municipality": "Rumgara",
-      "coordinates": "22.414166666699998, 82.7194444444"
+      "coordinates": "22.414166666699998, 82.7194444444",
+      "metar_available": false
     },
     {
       "ident": "IN-0027",
@@ -303,7 +330,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Aizawl",
-      "coordinates": "23.745644, 92.736828"
+      "coordinates": "23.745644, 92.736828",
+      "metar_available": false
     },
     {
       "ident": "IN-0028",
@@ -312,7 +340,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-MZ",
-      "coordinates": "22.942266666699997, 92.76885"
+      "coordinates": "22.942266666699997, 92.76885",
+      "metar_available": false
     },
     {
       "ident": "IN-0029",
@@ -322,7 +351,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Lunglei",
-      "coordinates": "22.868383, 92.7633"
+      "coordinates": "22.868383, 92.7633",
+      "metar_available": false
     },
     {
       "ident": "IN-0030",
@@ -332,7 +362,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Serchhip",
-      "coordinates": "23.32875, 92.85606666670002"
+      "coordinates": "23.32875, 92.85606666670002",
+      "metar_available": false
     },
     {
       "ident": "IN-0031",
@@ -341,7 +372,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-MZ",
-      "coordinates": "24.478916666699998, 92.7539333333"
+      "coordinates": "24.478916666699998, 92.7539333333",
+      "metar_available": false
     },
     {
       "ident": "IN-0032",
@@ -351,7 +383,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Saiha",
-      "coordinates": "22.4885833333, 92.98695"
+      "coordinates": "22.4885833333, 92.98695",
+      "metar_available": false
     },
     {
       "ident": "IN-0033",
@@ -363,7 +396,8 @@
       "iso_region": "IN-MM",
       "municipality": "Aamby Valley City",
       "gps_code": "VAAV",
-      "coordinates": "18.609617, 73.377583"
+      "coordinates": "18.609617, 73.377583",
+      "metar_available": false
     },
     {
       "ident": "IN-0034",
@@ -373,7 +407,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Vijay Nagar",
-      "coordinates": "19.8841, 73.84056666670001"
+      "coordinates": "19.8841, 73.84056666670001",
+      "metar_available": false
     },
     {
       "ident": "IN-0035",
@@ -384,7 +419,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Salugara",
-      "coordinates": "26.7744, 88.4523166667"
+      "coordinates": "26.7744, 88.4523166667",
+      "metar_available": false
     },
     {
       "ident": "IN-0036",
@@ -394,7 +430,8 @@
       "iso_country": "IN",
       "iso_region": "IN-SK",
       "municipality": "Pelling City",
-      "coordinates": "27.3005, 88.23085"
+      "coordinates": "27.3005, 88.23085",
+      "metar_available": false
     },
     {
       "ident": "IN-0037",
@@ -404,7 +441,8 @@
       "iso_country": "IN",
       "iso_region": "IN-SK",
       "municipality": "Nayabazar",
-      "coordinates": "27.156733, 88.322067"
+      "coordinates": "27.156733, 88.322067",
+      "metar_available": false
     },
     {
       "ident": "IN-0038",
@@ -414,7 +452,8 @@
       "iso_country": "IN",
       "iso_region": "IN-SK",
       "municipality": "Upper Tadong",
-      "coordinates": "27.306716666699998, 88.59965"
+      "coordinates": "27.306716666699998, 88.59965",
+      "metar_available": false
     },
     {
       "ident": "IN-0039",
@@ -424,7 +463,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Lebong",
-      "coordinates": "27.0590833333, 88.2777333333"
+      "coordinates": "27.0590833333, 88.2777333333",
+      "metar_available": false
     },
     {
       "ident": "IN-0040",
@@ -434,7 +474,8 @@
       "iso_country": "IN",
       "iso_region": "IN-SK",
       "municipality": "Pedong",
-      "coordinates": "27.1559333333, 88.61065"
+      "coordinates": "27.1559333333, 88.61065",
+      "metar_available": false
     },
     {
       "ident": "IN-0041",
@@ -444,7 +485,8 @@
       "iso_country": "IN",
       "iso_region": "IN-ML",
       "municipality": "Myliem",
-      "coordinates": "25.538183333299997, 91.82655"
+      "coordinates": "25.538183333299997, 91.82655",
+      "metar_available": false
     },
     {
       "ident": "IN-0042",
@@ -454,7 +496,8 @@
       "iso_country": "IN",
       "iso_region": "IN-ML",
       "municipality": "Shillong",
-      "coordinates": "25.54425, 91.8817166667"
+      "coordinates": "25.54425, 91.8817166667",
+      "metar_available": false
     },
     {
       "ident": "IN-0043",
@@ -464,7 +507,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MN",
       "municipality": "Gangpimual",
-      "coordinates": "24.3267, 93.67546666670002"
+      "coordinates": "24.3267, 93.67546666670002",
+      "metar_available": false
     },
     {
       "ident": "IN-0044",
@@ -475,7 +519,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PB",
       "municipality": "Jalandhar",
-      "coordinates": "31.2920833333, 75.6072"
+      "coordinates": "31.2920833333, 75.6072",
+      "metar_available": false
     },
     {
       "ident": "IN-0045",
@@ -485,7 +530,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MN",
       "municipality": "Kangla",
-      "coordinates": "24.8062, 93.94275"
+      "coordinates": "24.8062, 93.94275",
+      "metar_available": false
     },
     {
       "ident": "IN-0046",
@@ -495,7 +541,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Mumbai",
-      "coordinates": "18.9623, 72.9030833333"
+      "coordinates": "18.9623, 72.9030833333",
+      "metar_available": false
     },
     {
       "ident": "IN-0047",
@@ -505,7 +552,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Mumbai",
-      "coordinates": "18.9820333333, 72.8215666667"
+      "coordinates": "18.9820333333, 72.8215666667",
+      "metar_available": false
     },
     {
       "ident": "IN-0048",
@@ -515,7 +563,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Mumbai",
-      "coordinates": "18.94265, 72.794017"
+      "coordinates": "18.94265, 72.794017",
+      "metar_available": false
     },
     {
       "ident": "IN-0049",
@@ -525,7 +574,8 @@
       "iso_country": "IN",
       "iso_region": "IN-NL",
       "municipality": "Kohima",
-      "coordinates": "25.663066666699997, 94.1139333333"
+      "coordinates": "25.663066666699997, 94.1139333333",
+      "metar_available": false
     },
     {
       "ident": "IN-0050",
@@ -535,7 +585,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Phalodi",
-      "coordinates": "27.1128333333, 72.389"
+      "coordinates": "27.1128333333, 72.389",
+      "metar_available": false
     },
     {
       "ident": "IN-0051",
@@ -546,7 +597,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Chakrata",
-      "coordinates": "30.706042, 77.861524"
+      "coordinates": "30.706042, 77.861524",
+      "metar_available": false
     },
     {
       "ident": "IN-0052",
@@ -556,7 +608,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Mathura",
-      "coordinates": "27.464233333299997, 77.68241666670001"
+      "coordinates": "27.464233333299997, 77.68241666670001",
+      "metar_available": false
     },
     {
       "ident": "IN-0053",
@@ -568,7 +621,8 @@
       "iso_region": "IN-AN",
       "municipality": "Diglipur",
       "gps_code": "VODX",
-      "coordinates": "13.236316, 93.049731"
+      "coordinates": "13.236316, 93.049731",
+      "metar_available": false
     },
     {
       "ident": "IN-0054",
@@ -578,7 +632,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Purulia",
-      "coordinates": "23.3657772896, 86.43673896790001"
+      "coordinates": "23.3657772896, 86.43673896790001",
+      "metar_available": false
     },
     {
       "ident": "IN-0055",
@@ -588,7 +643,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Kanchrapara",
-      "coordinates": "22.922932987499998, 88.4599292278"
+      "coordinates": "22.922932987499998, 88.4599292278",
+      "metar_available": false
     },
     {
       "ident": "IN-0056",
@@ -598,7 +654,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Kalyan",
-      "coordinates": "19.17922, 73.139184"
+      "coordinates": "19.17922, 73.139184",
+      "metar_available": false
     },
     {
       "ident": "IN-0057",
@@ -608,7 +665,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Rasgovindpur",
-      "coordinates": "21.8050895155, 87.0469093323"
+      "coordinates": "21.8050895155, 87.0469093323",
+      "metar_available": false
     },
     {
       "ident": "IN-0058",
@@ -618,7 +676,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Dhubulia",
-      "coordinates": "23.4929846863, 88.4540176392"
+      "coordinates": "23.4929846863, 88.4540176392",
+      "metar_available": false
     },
     {
       "ident": "IN-0059",
@@ -628,7 +687,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Digri",
-      "coordinates": "22.7854403333, 87.36225128170001"
+      "coordinates": "22.7854403333, 87.36225128170001",
+      "metar_available": false
     },
     {
       "ident": "IN-0060",
@@ -637,7 +697,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-MP",
-      "coordinates": "21.810030194599996, 75.55443763730001"
+      "coordinates": "21.810030194599996, 75.55443763730001",
+      "metar_available": false
     },
     {
       "ident": "IN-0061",
@@ -649,7 +710,8 @@
       "iso_region": "IN-MP",
       "municipality": "Khandwa",
       "gps_code": "VAKD",
-      "coordinates": "21.857117, 76.336956"
+      "coordinates": "21.857117, 76.336956",
+      "metar_available": false
     },
     {
       "ident": "IN-0062",
@@ -659,7 +721,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Shirpur",
-      "coordinates": "21.3239987933, 74.9567341805"
+      "coordinates": "21.3239987933, 74.9567341805",
+      "metar_available": false
     },
     {
       "ident": "IN-0063",
@@ -669,7 +732,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Sembilivaram",
-      "coordinates": "13.210242, 80.152345"
+      "coordinates": "13.210242, 80.152345",
+      "metar_available": false
     },
     {
       "ident": "IN-0064",
@@ -680,7 +744,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Umaria",
-      "coordinates": "23.5325139099, 80.80821990970001"
+      "coordinates": "23.5325139099, 80.80821990970001",
+      "metar_available": false
     },
     {
       "ident": "IN-0065",
@@ -691,7 +756,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Amravati",
-      "coordinates": "20.813348511599997, 77.71790742870002"
+      "coordinates": "20.813348511599997, 77.71790742870002",
+      "metar_available": false
     },
     {
       "ident": "IN-0066",
@@ -701,7 +767,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "municipality": "Madhubani",
-      "coordinates": "26.329167, 86.06"
+      "coordinates": "26.329167, 86.06",
+      "metar_available": false
     },
     {
       "ident": "IN-0067",
@@ -711,7 +778,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "municipality": "Begusarai",
-      "coordinates": "25.42788, 86.08819"
+      "coordinates": "25.42788, 86.08819",
+      "metar_available": false
     },
     {
       "ident": "IN-0068",
@@ -721,7 +789,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Baihar",
-      "coordinates": "22.092639, 80.595531"
+      "coordinates": "22.092639, 80.595531",
+      "metar_available": false
     },
     {
       "ident": "IN-0069",
@@ -732,7 +801,8 @@
       "iso_region": "IN-UP",
       "municipality": "Sultanpur",
       "gps_code": "VESL",
-      "coordinates": "26.2475, 82.0425"
+      "coordinates": "26.2475, 82.0425",
+      "metar_available": false
     },
     {
       "ident": "IN-0071",
@@ -742,7 +812,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Gadag",
-      "coordinates": "15.419947, 75.611361"
+      "coordinates": "15.419947, 75.611361",
+      "metar_available": false
     },
     {
       "ident": "IN-0072",
@@ -751,7 +822,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-CT",
-      "coordinates": "21.9352805556, 83.3502138889"
+      "coordinates": "21.9352805556, 83.3502138889",
+      "metar_available": false
     },
     {
       "ident": "IN-0073",
@@ -762,7 +834,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Angul",
-      "coordinates": "20.910055, 85.036669"
+      "coordinates": "20.910055, 85.036669",
+      "metar_available": false
     },
     {
       "ident": "IN-0074",
@@ -773,7 +846,8 @@
       "iso_region": "IN-OR",
       "municipality": "Bhusugaon",
       "gps_code": "VEBL",
-      "coordinates": "22.045829, 85.373468"
+      "coordinates": "22.045829, 85.373468",
+      "metar_available": false
     },
     {
       "ident": "IN-0075",
@@ -783,7 +857,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Itanagar",
-      "coordinates": "27.111675, 93.696106"
+      "coordinates": "27.111675, 93.696106",
+      "metar_available": false
     },
     {
       "ident": "IN-0076",
@@ -794,7 +869,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Itanagar",
-      "coordinates": "27.111675, 93.696106"
+      "coordinates": "27.111675, 93.696106",
+      "metar_available": false
     },
     {
       "ident": "IN-0077",
@@ -804,7 +880,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "municipality": "Bhagalpur",
-      "coordinates": "25.249535, 87.011976"
+      "coordinates": "25.249535, 87.011976",
+      "metar_available": false
     },
     {
       "ident": "IN-0078",
@@ -813,7 +890,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-WB",
-      "coordinates": "23.0339266917, 87.35486984250001"
+      "coordinates": "23.0339266917, 87.35486984250001",
+      "metar_available": false
     },
     {
       "ident": "IN-0079",
@@ -822,7 +900,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-WB",
-      "coordinates": "23.471667, 87.794167"
+      "coordinates": "23.471667, 87.794167",
+      "metar_available": false
     },
     {
       "ident": "IN-0080",
@@ -831,7 +910,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-WB",
-      "coordinates": "23.641300520900003, 87.348690033"
+      "coordinates": "23.641300520900003, 87.348690033",
+      "metar_available": false
     },
     {
       "ident": "IN-0081",
@@ -842,7 +922,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Shimla",
-      "coordinates": "31.111405, 77.157015"
+      "coordinates": "31.111405, 77.157015",
+      "metar_available": false
     },
     {
       "ident": "IN-0082",
@@ -853,7 +934,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Ajog",
-      "coordinates": "32.921925, 76.457747"
+      "coordinates": "32.921925, 76.457747",
+      "metar_available": false
     },
     {
       "ident": "IN-0083",
@@ -864,7 +946,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Bilaspur",
-      "coordinates": "31.345138888900003, 76.75675"
+      "coordinates": "31.345138888900003, 76.75675",
+      "metar_available": false
     },
     {
       "ident": "IN-0084",
@@ -873,7 +956,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-RJ",
-      "coordinates": "26.141647, 73.097062"
+      "coordinates": "26.141647, 73.097062",
+      "metar_available": false
     },
     {
       "ident": "IN-0085",
@@ -885,7 +969,8 @@
       "iso_region": "IN-RJ",
       "municipality": "Karwar, Jodhpur",
       "gps_code": "VAJO",
-      "coordinates": "26.434072, 73.101472"
+      "coordinates": "26.434072, 73.101472",
+      "metar_available": false
     },
     {
       "ident": "IN-0086",
@@ -894,7 +979,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-MP",
-      "coordinates": "22, 78.93"
+      "coordinates": "22, 78.93",
+      "metar_available": false
     },
     {
       "ident": "IN-0087",
@@ -904,7 +990,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UT",
       "municipality": "Gauchar",
-      "coordinates": "30.284585, 79.161665"
+      "coordinates": "30.284585, 79.161665",
+      "metar_available": false
     },
     {
       "ident": "IN-0088",
@@ -915,7 +1002,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JK",
       "municipality": "Poonch",
-      "coordinates": "33.76875, 74.083753"
+      "coordinates": "33.76875, 74.083753",
+      "metar_available": false
     },
     {
       "ident": "IN-0089",
@@ -926,7 +1014,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JH",
       "municipality": "Itarbalijor",
-      "coordinates": "22.192222, 85.548889"
+      "coordinates": "22.192222, 85.548889",
+      "metar_available": false
     },
     {
       "ident": "IN-0091",
@@ -936,7 +1025,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "municipality": "Saharsa",
-      "coordinates": "25.892205, 86.583016"
+      "coordinates": "25.892205, 86.583016",
+      "metar_available": false
     },
     {
       "ident": "IN-0092",
@@ -947,7 +1037,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Kaliapani",
-      "coordinates": "21.031944, 85.753889"
+      "coordinates": "21.031944, 85.753889",
+      "metar_available": false
     },
     {
       "ident": "IN-0093",
@@ -956,7 +1047,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-OR",
-      "coordinates": "19.7194444444, 83.3936111111"
+      "coordinates": "19.7194444444, 83.3936111111",
+      "metar_available": false
     },
     {
       "ident": "IN-0094",
@@ -965,7 +1057,8 @@
       "continent": "AS",
       "iso_country": "IN",
       "iso_region": "IN-OR",
-      "coordinates": "20.46668667, 83.48333056"
+      "coordinates": "20.46668667, 83.48333056",
+      "metar_available": false
     },
     {
       "ident": "IN-0095",
@@ -976,7 +1069,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Mampara",
-      "coordinates": "9.3539, 76.86489"
+      "coordinates": "9.3539, 76.86489",
+      "metar_available": false
     },
     {
       "ident": "IN-0096",
@@ -987,7 +1081,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Akli",
-      "coordinates": "25.8077, 70.2943"
+      "coordinates": "25.8077, 70.2943",
+      "metar_available": false
     },
     {
       "ident": "IN-0097",
@@ -998,7 +1093,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Rampurhat",
-      "coordinates": "24.18824, 87.701722"
+      "coordinates": "24.18824, 87.701722",
+      "metar_available": false
     },
     {
       "ident": "IN-0098",
@@ -1009,7 +1105,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JH",
       "municipality": "Maithon",
-      "coordinates": "23.785, 86.7935"
+      "coordinates": "23.785, 86.7935",
+      "metar_available": false
     },
     {
       "ident": "IN-0099",
@@ -1020,7 +1117,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Durgapur",
-      "coordinates": "23.58331, 87.339787"
+      "coordinates": "23.58331, 87.339787",
+      "metar_available": false
     },
     {
       "ident": "IN-0100",
@@ -1031,7 +1129,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JH",
       "municipality": "Dumka",
-      "coordinates": "24.231185, 87.269989"
+      "coordinates": "24.231185, 87.269989",
+      "metar_available": false
     },
     {
       "ident": "IN-0101",
@@ -1041,7 +1140,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Vanasthali",
-      "coordinates": "26.407627, 75.870128"
+      "coordinates": "26.407627, 75.870128",
+      "metar_available": false
     },
     {
       "ident": "IN-0102",
@@ -1051,7 +1151,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Dhenko",
-      "coordinates": "22.500929, 80.331195"
+      "coordinates": "22.500929, 80.331195",
+      "metar_available": false
     },
     {
       "ident": "IN-0103",
@@ -1061,7 +1162,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Parva II",
-      "coordinates": "22.08627, 92.64987"
+      "coordinates": "22.08627, 92.64987",
+      "metar_available": false
     },
     {
       "ident": "IN-0104",
@@ -1071,7 +1173,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Petrapole",
-      "coordinates": "23.02589, 88.87582"
+      "coordinates": "23.02589, 88.87582",
+      "metar_available": false
     },
     {
       "ident": "IN-0105",
@@ -1081,7 +1184,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Ashoknagar",
-      "coordinates": "22.83809, 88.61521"
+      "coordinates": "22.83809, 88.61521",
+      "metar_available": false
     },
     {
       "ident": "IN-0106",
@@ -1092,7 +1196,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Mithapur",
-      "coordinates": "22.412068, 68.993632"
+      "coordinates": "22.412068, 68.993632",
+      "metar_available": false
     },
     {
       "ident": "IN-0107",
@@ -1103,7 +1208,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Chipi",
-      "coordinates": "16.002552, 73.529846"
+      "coordinates": "16.002552, 73.529846",
+      "metar_available": false
     },
     {
       "ident": "IN-0108",
@@ -1114,7 +1220,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Digha",
-      "coordinates": "21.62606, 87.501056"
+      "coordinates": "21.62606, 87.501056",
+      "metar_available": false
     },
     {
       "ident": "IN-0109",
@@ -1124,7 +1231,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Narajmarthapur",
-      "coordinates": "20.48082, 85.77965"
+      "coordinates": "20.48082, 85.77965",
+      "metar_available": false
     },
     {
       "ident": "IN-0110",
@@ -1134,7 +1242,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Puri",
-      "coordinates": "19.81035, 85.84752"
+      "coordinates": "19.81035, 85.84752",
+      "metar_available": false
     },
     {
       "ident": "IN-0112",
@@ -1144,7 +1253,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Sindhigan",
-      "coordinates": "19.33095, 84.91073"
+      "coordinates": "19.33095, 84.91073",
+      "metar_available": false
     },
     {
       "ident": "IN-0113",
@@ -1154,7 +1264,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Buragam",
-      "coordinates": "18.73454, 84.07501"
+      "coordinates": "18.73454, 84.07501",
+      "metar_available": false
     },
     {
       "ident": "IN-0114",
@@ -1164,7 +1275,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Srikakulam",
-      "coordinates": "18.27207, 83.90325"
+      "coordinates": "18.27207, 83.90325",
+      "metar_available": false
     },
     {
       "ident": "IN-0115",
@@ -1174,7 +1286,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Razam",
-      "coordinates": "18.46648, 83.66081"
+      "coordinates": "18.46648, 83.66081",
+      "metar_available": false
     },
     {
       "ident": "IN-0116",
@@ -1184,7 +1297,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Visakhapatnam",
-      "coordinates": "17.89855, 83.26756"
+      "coordinates": "17.89855, 83.26756",
+      "metar_available": false
     },
     {
       "ident": "IN-0117",
@@ -1194,7 +1308,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Sunabeda",
-      "coordinates": "18.7365, 82.83861"
+      "coordinates": "18.7365, 82.83861",
+      "metar_available": false
     },
     {
       "ident": "IN-0118",
@@ -1204,7 +1319,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Visakhapatnam",
-      "coordinates": "17.77966, 83.38549"
+      "coordinates": "17.77966, 83.38549",
+      "metar_available": false
     },
     {
       "ident": "IN-0119",
@@ -1214,7 +1330,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Visakhapatnam",
-      "coordinates": "17.73999, 83.31414"
+      "coordinates": "17.73999, 83.31414",
+      "metar_available": false
     },
     {
       "ident": "IN-0120",
@@ -1224,7 +1341,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Kakinada",
-      "coordinates": "17.02268, 82.29039"
+      "coordinates": "17.02268, 82.29039",
+      "metar_available": false
     },
     {
       "ident": "IN-0121",
@@ -1234,7 +1352,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Kakinada",
-      "coordinates": "16.98158, 82.23949"
+      "coordinates": "16.98158, 82.23949",
+      "metar_available": false
     },
     {
       "ident": "IN-0122",
@@ -1244,7 +1363,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PY",
       "municipality": "Gadimoga",
-      "coordinates": "16.74354, 82.29191"
+      "coordinates": "16.74354, 82.29191",
+      "metar_available": false
     },
     {
       "ident": "IN-0123",
@@ -1254,7 +1374,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PY",
       "municipality": "Yanam",
-      "coordinates": "16.7261, 82.20674"
+      "coordinates": "16.7261, 82.20674",
+      "metar_available": false
     },
     {
       "ident": "IN-0124",
@@ -1264,7 +1385,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PY",
       "municipality": "Puducherry (Pondicherry)",
-      "coordinates": "11.9631, 79.81498"
+      "coordinates": "11.9631, 79.81498",
+      "metar_available": false
     },
     {
       "ident": "IN-0125",
@@ -1274,7 +1396,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PY",
       "municipality": "Puducherry (Pondicherry)",
-      "coordinates": "11.91806, 79.82697"
+      "coordinates": "11.91806, 79.82697",
+      "metar_available": false
     },
     {
       "ident": "IN-0126",
@@ -1284,7 +1407,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Anaparthi",
-      "coordinates": "16.94338, 81.95439"
+      "coordinates": "16.94338, 81.95439",
+      "metar_available": false
     },
     {
       "ident": "IN-0127",
@@ -1294,7 +1418,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Tenali",
-      "coordinates": "16.2431, 80.63092"
+      "coordinates": "16.2431, 80.63092",
+      "metar_available": false
     },
     {
       "ident": "IN-0128",
@@ -1304,7 +1429,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Guntur",
-      "coordinates": "16.29632, 80.4325"
+      "coordinates": "16.29632, 80.4325",
+      "metar_available": false
     },
     {
       "ident": "IN-0129",
@@ -1314,7 +1440,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Amaravati",
-      "coordinates": "16.54477, 80.52135"
+      "coordinates": "16.54477, 80.52135",
+      "metar_available": false
     },
     {
       "ident": "IN-0130",
@@ -1324,7 +1451,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Nellore",
-      "coordinates": "14.27386, 80.09823"
+      "coordinates": "14.27386, 80.09823",
+      "metar_available": false
     },
     {
       "ident": "IN-0131",
@@ -1334,7 +1462,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Nellore",
-      "coordinates": "14.43095, 80.01121"
+      "coordinates": "14.43095, 80.01121",
+      "metar_available": false
     },
     {
       "ident": "IN-0132",
@@ -1344,7 +1473,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Dagadarthi",
-      "coordinates": "14.69388, 79.94277"
+      "coordinates": "14.69388, 79.94277",
+      "metar_available": false
     },
     {
       "ident": "IN-0133",
@@ -1354,7 +1484,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Ongole",
-      "coordinates": "15.49844, 80.05503"
+      "coordinates": "15.49844, 80.05503",
+      "metar_available": false
     },
     {
       "ident": "IN-0134",
@@ -1364,7 +1495,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Ongole",
-      "coordinates": "15.51774, 80.02776"
+      "coordinates": "15.51774, 80.02776",
+      "metar_available": false
     },
     {
       "ident": "IN-0135",
@@ -1374,7 +1506,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Sri City",
-      "coordinates": "13.57462, 80.03822"
+      "coordinates": "13.57462, 80.03822",
+      "metar_available": false
     },
     {
       "ident": "IN-0136",
@@ -1384,7 +1517,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Chedilpakkam",
-      "coordinates": "13.4375, 79.97665"
+      "coordinates": "13.4375, 79.97665",
+      "metar_available": false
     },
     {
       "ident": "IN-0137",
@@ -1394,7 +1528,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Sriharikota",
-      "coordinates": "13.67567, 80.19056"
+      "coordinates": "13.67567, 80.19056",
+      "metar_available": false
     },
     {
       "ident": "IN-0138",
@@ -1404,7 +1539,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Minjur",
-      "coordinates": "13.2556, 80.27623"
+      "coordinates": "13.2556, 80.27623",
+      "metar_available": false
     },
     {
       "ident": "IN-0139",
@@ -1414,7 +1550,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Kelambakkam",
-      "coordinates": "12.79598, 80.22006"
+      "coordinates": "12.79598, 80.22006",
+      "metar_available": false
     },
     {
       "ident": "IN-0140",
@@ -1424,7 +1561,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Kunnakkadu",
-      "coordinates": "12.77042, 80.24574"
+      "coordinates": "12.77042, 80.24574",
+      "metar_available": false
     },
     {
       "ident": "IN-0141",
@@ -1434,7 +1572,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Cuddalore",
-      "coordinates": "11.75417, 79.76703"
+      "coordinates": "11.75417, 79.76703",
+      "metar_available": false
     },
     {
       "ident": "IN-0142",
@@ -1444,7 +1583,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Mannampandal",
-      "coordinates": "11.103012, 79.692989"
+      "coordinates": "11.103012, 79.692989",
+      "metar_available": false
     },
     {
       "ident": "IN-0143",
@@ -1454,7 +1594,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PY",
       "municipality": "Karaikal",
-      "coordinates": "10.83343, 79.84245"
+      "coordinates": "10.83343, 79.84245",
+      "metar_available": false
     },
     {
       "ident": "IN-0144",
@@ -1464,7 +1605,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Nagapattinam",
-      "coordinates": "10.78938, 79.83942"
+      "coordinates": "10.78938, 79.83942",
+      "metar_available": false
     },
     {
       "ident": "IN-0145",
@@ -1474,7 +1616,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Badangi",
-      "coordinates": "18.4884, 83.3829"
+      "coordinates": "18.4884, 83.3829",
+      "metar_available": false
     },
     {
       "ident": "IN-0146",
@@ -1484,7 +1627,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Tadepalligudem",
-      "coordinates": "16.83321, 81.53099"
+      "coordinates": "16.83321, 81.53099",
+      "metar_available": false
     },
     {
       "ident": "IN-0147",
@@ -1494,7 +1638,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Mandapam",
-      "coordinates": "9.28061, 79.13578"
+      "coordinates": "9.28061, 79.13578",
+      "metar_available": false
     },
     {
       "ident": "IN-0148",
@@ -1504,7 +1649,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Ramanathapuram",
-      "coordinates": "9.36241, 78.85934"
+      "coordinates": "9.36241, 78.85934",
+      "metar_available": false
     },
     {
       "ident": "IN-0149",
@@ -1514,7 +1660,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Kanyakumari",
-      "coordinates": "8.07972, 77.54877"
+      "coordinates": "8.07972, 77.54877",
+      "metar_available": false
     },
     {
       "ident": "IN-0150",
@@ -1524,7 +1671,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Varkala",
-      "coordinates": "8.73564, 76.70461"
+      "coordinates": "8.73564, 76.70461",
+      "metar_available": false
     },
     {
       "ident": "IN-0151",
@@ -1534,7 +1682,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Kollam",
-      "coordinates": "8.89486, 76.59155"
+      "coordinates": "8.89486, 76.59155",
+      "metar_available": false
     },
     {
       "ident": "IN-0152",
@@ -1545,7 +1694,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Alappuzha",
-      "coordinates": "9.49414, 76.31942"
+      "coordinates": "9.49414, 76.31942",
+      "metar_available": false
     },
     {
       "ident": "IN-0153",
@@ -1555,7 +1705,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Ezhimala",
-      "coordinates": "12.0376, 75.19671"
+      "coordinates": "12.0376, 75.19671",
+      "metar_available": false
     },
     {
       "ident": "IN-0154",
@@ -1565,7 +1716,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Kalpeni",
-      "coordinates": "10.089713, 73.648893"
+      "coordinates": "10.089713, 73.648893",
+      "metar_available": false
     },
     {
       "ident": "IN-0155",
@@ -1575,7 +1727,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Kiltan",
-      "coordinates": "11.496, 72.99814"
+      "coordinates": "11.496, 72.99814",
+      "metar_available": false
     },
     {
       "ident": "IN-0156",
@@ -1585,7 +1738,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Chetlat",
-      "coordinates": "11.68159, 72.70606"
+      "coordinates": "11.68159, 72.70606",
+      "metar_available": false
     },
     {
       "ident": "IN-0157",
@@ -1595,7 +1749,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Bitra",
-      "coordinates": "11.60039, 72.18541"
+      "coordinates": "11.60039, 72.18541",
+      "metar_available": false
     },
     {
       "ident": "IN-0158",
@@ -1605,7 +1760,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Kadmat",
-      "coordinates": "11.18231, 72.76175"
+      "coordinates": "11.18231, 72.76175",
+      "metar_available": false
     },
     {
       "ident": "IN-0159",
@@ -1615,7 +1771,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Amini",
-      "coordinates": "11.13496, 72.73172"
+      "coordinates": "11.13496, 72.73172",
+      "metar_available": false
     },
     {
       "ident": "IN-0160",
@@ -1625,7 +1782,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Bangaram",
-      "coordinates": "10.94592, 72.28765"
+      "coordinates": "10.94592, 72.28765",
+      "metar_available": false
     },
     {
       "ident": "IN-0161",
@@ -1635,7 +1793,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Andrott",
-      "coordinates": "10.81316, 73.69946"
+      "coordinates": "10.81316, 73.69946",
+      "metar_available": false
     },
     {
       "ident": "IN-0162",
@@ -1645,7 +1804,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Suheli Par",
-      "coordinates": "10.04794, 72.28857"
+      "coordinates": "10.04794, 72.28857",
+      "metar_available": false
     },
     {
       "ident": "IN-0163",
@@ -1655,7 +1815,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LD",
       "municipality": "Minicoy",
-      "coordinates": "8.27937, 73.05178"
+      "coordinates": "8.27937, 73.05178",
+      "metar_available": false
     },
     {
       "ident": "IN-0164",
@@ -1665,7 +1826,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Adiudupi",
-      "coordinates": "13.3488, 74.73095"
+      "coordinates": "13.3488, 74.73095",
+      "metar_available": false
     },
     {
       "ident": "IN-0165",
@@ -1675,7 +1837,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Koteshwara",
-      "coordinates": "13.59634, 74.71365"
+      "coordinates": "13.59634, 74.71365",
+      "metar_available": false
     },
     {
       "ident": "IN-0166",
@@ -1685,7 +1848,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Mavalli",
-      "coordinates": "14.10027, 74.50855"
+      "coordinates": "14.10027, 74.50855",
+      "metar_available": false
     },
     {
       "ident": "IN-0167",
@@ -1695,7 +1859,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Areshiroor",
-      "coordinates": "13.82919, 74.74877"
+      "coordinates": "13.82919, 74.74877",
+      "metar_available": false
     },
     {
       "ident": "IN-0168",
@@ -1705,7 +1870,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Arga",
-      "coordinates": "14.76987, 74.15487"
+      "coordinates": "14.76987, 74.15487",
+      "metar_available": false
     },
     {
       "ident": "IN-0169",
@@ -1715,7 +1881,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GA",
       "municipality": "Dona Paula",
-      "coordinates": "15.45962, 73.79463"
+      "coordinates": "15.45962, 73.79463",
+      "metar_available": false
     },
     {
       "ident": "IN-0170",
@@ -1725,7 +1892,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GA",
       "municipality": "Candolim",
-      "coordinates": "15.49526, 73.77516"
+      "coordinates": "15.49526, 73.77516",
+      "metar_available": false
     },
     {
       "ident": "IN-0171",
@@ -1735,7 +1903,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GA",
       "municipality": "Ella",
-      "coordinates": "15.5114, 73.92381"
+      "coordinates": "15.5114, 73.92381",
+      "metar_available": false
     },
     {
       "ident": "IN-0172",
@@ -1745,7 +1914,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GA",
       "municipality": "Anjuna",
-      "coordinates": "15.59946, 73.73368"
+      "coordinates": "15.59946, 73.73368",
+      "metar_available": false
     },
     {
       "ident": "IN-0173",
@@ -1755,7 +1925,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GA",
       "municipality": "Quitol",
-      "coordinates": "15.13299, 73.96594"
+      "coordinates": "15.13299, 73.96594",
+      "metar_available": false
     },
     {
       "ident": "IN-0174",
@@ -1765,7 +1936,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Dwarka",
-      "coordinates": "22.25044, 68.95358"
+      "coordinates": "22.25044, 68.95358",
+      "metar_available": false
     },
     {
       "ident": "IN-0175",
@@ -1775,7 +1947,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Dwarka",
-      "coordinates": "22.25463, 68.96182"
+      "coordinates": "22.25463, 68.96182",
+      "metar_available": false
     },
     {
       "ident": "IN-0176",
@@ -1785,7 +1958,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Mandvi",
-      "coordinates": "22.83932, 69.30498"
+      "coordinates": "22.83932, 69.30498",
+      "metar_available": false
     },
     {
       "ident": "IN-0177",
@@ -1795,7 +1969,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Mehsana",
-      "coordinates": "23.60118, 72.37399"
+      "coordinates": "23.60118, 72.37399",
+      "metar_available": false
     },
     {
       "ident": "IN-0178",
@@ -1805,7 +1980,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "municipality": "Jaigaon",
-      "coordinates": "26.822651, 89.391989"
+      "coordinates": "26.822651, 89.391989",
+      "metar_available": false
     },
     {
       "ident": "IN-0179",
@@ -1815,7 +1991,8 @@
       "iso_country": "IN",
       "iso_region": "IN-SK",
       "municipality": "Aritar",
-      "coordinates": "27.193387, 88.675583"
+      "coordinates": "27.193387, 88.675583",
+      "metar_available": false
     },
     {
       "ident": "IN-0180",
@@ -1825,7 +2002,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Shoktsen",
-      "coordinates": "27.724741, 91.703814"
+      "coordinates": "27.724741, 91.703814",
+      "metar_available": false
     },
     {
       "ident": "IN-0181",
@@ -1835,7 +2013,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PB",
       "municipality": "Sito Gunno",
-      "coordinates": "30.02882, 74.36395"
+      "coordinates": "30.02882, 74.36395",
+      "metar_available": false
     },
     {
       "ident": "IN-0182",
@@ -1845,7 +2024,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PB",
       "municipality": "Abohar",
-      "coordinates": "30.16081, 74.1768"
+      "coordinates": "30.16081, 74.1768",
+      "metar_available": false
     },
     {
       "ident": "IN-0183",
@@ -1855,7 +2035,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Bhainsdehi",
-      "coordinates": "21.645885, 77.623711"
+      "coordinates": "21.645885, 77.623711",
+      "metar_available": false
     },
     {
       "ident": "IN-0184",
@@ -1865,7 +2046,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Chikhaldara",
-      "coordinates": "21.391405, 77.321496"
+      "coordinates": "21.391405, 77.321496",
+      "metar_available": false
     },
     {
       "ident": "IN-0185",
@@ -1875,7 +2057,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Adilabad",
-      "coordinates": "19.664765, 78.549511"
+      "coordinates": "19.664765, 78.549511",
+      "metar_available": false
     },
     {
       "ident": "IN-0186",
@@ -1885,7 +2068,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Adilabad",
-      "coordinates": "19.662823, 78.538564"
+      "coordinates": "19.662823, 78.538564",
+      "metar_available": false
     },
     {
       "ident": "IN-0187",
@@ -1895,7 +2079,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Adilabad",
-      "coordinates": "19.662494, 78.548462"
+      "coordinates": "19.662494, 78.548462",
+      "metar_available": false
     },
     {
       "ident": "IN-0188",
@@ -1905,7 +2090,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JH",
       "municipality": "Jamshedpur",
-      "coordinates": "22.861472, 86.241374"
+      "coordinates": "22.861472, 86.241374",
+      "metar_available": false
     },
     {
       "ident": "IN-0189",
@@ -1915,7 +2101,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Kurnool",
-      "coordinates": "15.82762, 78.022942"
+      "coordinates": "15.82762, 78.022942",
+      "metar_available": false
     },
     {
       "ident": "IN-0190",
@@ -1925,7 +2112,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Basavana Durga",
-      "coordinates": "15.36992, 76.504243"
+      "coordinates": "15.36992, 76.504243",
+      "metar_available": false
     },
     {
       "ident": "IN-0191",
@@ -1935,7 +2123,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Gulbarga",
-      "coordinates": "17.326028, 76.843368"
+      "coordinates": "17.326028, 76.843368",
+      "metar_available": false
     },
     {
       "ident": "IN-0192",
@@ -1945,7 +2134,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Duddebanda",
-      "coordinates": "14.163568, 77.616621"
+      "coordinates": "14.163568, 77.616621",
+      "metar_available": false
     },
     {
       "ident": "IN-0193",
@@ -1955,7 +2145,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Sundipenta",
-      "coordinates": "16.06663, 78.9142"
+      "coordinates": "16.06663, 78.9142",
+      "metar_available": false
     },
     {
       "ident": "IN-0194",
@@ -1965,7 +2156,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Davanagere",
-      "coordinates": "14.444823, 75.923356"
+      "coordinates": "14.444823, 75.923356",
+      "metar_available": false
     },
     {
       "ident": "IN-0195",
@@ -1975,7 +2167,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Duddebanda",
-      "coordinates": "14.160405, 77.625947"
+      "coordinates": "14.160405, 77.625947",
+      "metar_available": false
     },
     {
       "ident": "IN-0196",
@@ -1985,7 +2178,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Telgi",
-      "coordinates": "16.491748, 75.833551"
+      "coordinates": "16.491748, 75.833551",
+      "metar_available": false
     },
     {
       "ident": "IN-0197",
@@ -1995,7 +2189,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Hyderabad",
-      "coordinates": "17.335419, 78.498922"
+      "coordinates": "17.335419, 78.498922",
+      "metar_available": false
     },
     {
       "ident": "IN-0198",
@@ -2005,7 +2200,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Bagalkot",
-      "coordinates": "16.167272, 75.671748"
+      "coordinates": "16.167272, 75.671748",
+      "metar_available": false
     },
     {
       "ident": "IN-0199",
@@ -2015,7 +2211,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Sampalli",
-      "coordinates": "14.157544, 75.00186"
+      "coordinates": "14.157544, 75.00186",
+      "metar_available": false
     },
     {
       "ident": "IN-0200",
@@ -2025,7 +2222,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Bengaluru",
-      "coordinates": "12.849384, 77.661706"
+      "coordinates": "12.849384, 77.661706",
+      "metar_available": false
     },
     {
       "ident": "IN-0201",
@@ -2035,7 +2233,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Karimnagar",
-      "coordinates": "18.429549, 79.125341"
+      "coordinates": "18.429549, 79.125341",
+      "metar_available": false
     },
     {
       "ident": "IN-0202",
@@ -2045,7 +2244,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Bengaluru",
-      "coordinates": "12.850085, 77.660633"
+      "coordinates": "12.850085, 77.660633",
+      "metar_available": false
     },
     {
       "ident": "IN-0203",
@@ -2055,7 +2255,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Belgaum",
-      "coordinates": "16.427864, 74.555727"
+      "coordinates": "16.427864, 74.555727",
+      "metar_available": false
     },
     {
       "ident": "IN-0204",
@@ -2065,7 +2266,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Hadagali",
-      "coordinates": "15.025368, 75.973912"
+      "coordinates": "15.025368, 75.973912",
+      "metar_available": false
     },
     {
       "ident": "IN-0205",
@@ -2075,7 +2277,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TR",
       "municipality": "Kakraban",
-      "coordinates": "23.477405, 91.413509"
+      "coordinates": "23.477405, 91.413509",
+      "metar_available": false
     },
     {
       "ident": "IN-0206",
@@ -2085,7 +2288,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TR",
       "municipality": "Radhakishorepur",
-      "coordinates": "23.56406, 91.470621"
+      "coordinates": "23.56406, 91.470621",
+      "metar_available": false
     },
     {
       "ident": "IN-0207",
@@ -2095,7 +2299,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TR",
       "municipality": "Paschim Jalefa",
-      "coordinates": "23.026273, 91.706276"
+      "coordinates": "23.026273, 91.706276",
+      "metar_available": false
     },
     {
       "ident": "IN-0208",
@@ -2105,7 +2310,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Hingot Kheria",
-      "coordinates": "27.15727, 78.117582"
+      "coordinates": "27.15727, 78.117582",
+      "metar_available": false
     },
     {
       "ident": "IN-0209",
@@ -2116,7 +2322,8 @@
       "iso_country": "IN",
       "iso_region": "IN-DL",
       "municipality": "Rohini",
-      "coordinates": "28.752659, 77.058718"
+      "coordinates": "28.752659, 77.058718",
+      "metar_available": false
     },
     {
       "ident": "IN-0210",
@@ -2126,7 +2333,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Thrissur",
-      "coordinates": "10.501753, 76.254586"
+      "coordinates": "10.501753, 76.254586",
+      "metar_available": false
     },
     {
       "ident": "IN-0211",
@@ -2136,7 +2344,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Greater Noida",
-      "coordinates": "28.46595, 77.523169"
+      "coordinates": "28.46595, 77.523169",
+      "metar_available": false
     },
     {
       "ident": "IN-0212",
@@ -2146,7 +2355,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Ahmedabad",
-      "coordinates": "23.019684, 72.571711"
+      "coordinates": "23.019684, 72.571711",
+      "metar_available": false
     },
     {
       "ident": "IN-0213",
@@ -2156,7 +2366,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Sarkhej-Okaf",
-      "coordinates": "23.0023, 72.46914"
+      "coordinates": "23.0023, 72.46914",
+      "metar_available": false
     },
     {
       "ident": "IN-0214",
@@ -2166,7 +2377,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Gandhinagar",
-      "coordinates": "23.146389, 72.635223"
+      "coordinates": "23.146389, 72.635223",
+      "metar_available": false
     },
     {
       "ident": "IN-0215",
@@ -2176,7 +2388,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Gibpura",
-      "coordinates": "22.985982, 72.42063"
+      "coordinates": "22.985982, 72.42063",
+      "metar_available": false
     },
     {
       "ident": "IN-0216",
@@ -2186,7 +2399,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Dholka",
-      "coordinates": "22.72097, 72.459568"
+      "coordinates": "22.72097, 72.459568",
+      "metar_available": false
     },
     {
       "ident": "IN-0217",
@@ -2196,7 +2410,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Gandhinagar",
-      "coordinates": "23.217949, 72.65901"
+      "coordinates": "23.217949, 72.65901",
+      "metar_available": false
     },
     {
       "ident": "IN-0218",
@@ -2206,7 +2421,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Kalol",
-      "coordinates": "23.222579, 72.498995"
+      "coordinates": "23.222579, 72.498995",
+      "metar_available": false
     },
     {
       "ident": "IN-0219",
@@ -2216,7 +2432,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Nahuli",
-      "coordinates": "20.337466, 72.899429"
+      "coordinates": "20.337466, 72.899429",
+      "metar_available": false
     },
     {
       "ident": "IN-0220",
@@ -2226,7 +2443,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Kawade",
-      "coordinates": "20.114043, 72.88384"
+      "coordinates": "20.114043, 72.88384",
+      "metar_available": false
     },
     {
       "ident": "IN-0221",
@@ -2236,7 +2454,8 @@
       "iso_country": "IN",
       "iso_region": "IN-DH",
       "municipality": "Marwad",
-      "coordinates": "20.433359, 72.849382"
+      "coordinates": "20.433359, 72.849382",
+      "metar_available": false
     },
     {
       "ident": "IN-0222",
@@ -2246,7 +2465,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Vapi",
-      "coordinates": "20.403102, 72.904262"
+      "coordinates": "20.403102, 72.904262",
+      "metar_available": false
     },
     {
       "ident": "IN-0223",
@@ -2256,7 +2476,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Halvad",
-      "coordinates": "23.010427, 71.229845"
+      "coordinates": "23.010427, 71.229845",
+      "metar_available": false
     },
     {
       "ident": "IN-0224",
@@ -2266,7 +2487,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Navi Mumbai",
-      "coordinates": "19.130282, 73.011801"
+      "coordinates": "19.130282, 73.011801",
+      "metar_available": false
     },
     {
       "ident": "IN-0225",
@@ -2276,7 +2498,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Navi Mumbai",
-      "coordinates": "19.132914, 73.01128"
+      "coordinates": "19.132914, 73.01128",
+      "metar_available": false
     },
     {
       "ident": "IN-0226",
@@ -2286,7 +2509,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Mumbai",
-      "coordinates": "19.066998, 72.856918"
+      "coordinates": "19.066998, 72.856918",
+      "metar_available": false
     },
     {
       "ident": "IN-0227",
@@ -2296,7 +2520,8 @@
       "iso_country": "IN",
       "iso_region": "IN-DH",
       "municipality": "Alok",
-      "coordinates": "20.252858, 73.035821"
+      "coordinates": "20.252858, 73.035821",
+      "metar_available": false
     },
     {
       "ident": "IN-0228",
@@ -2306,7 +2531,8 @@
       "iso_country": "IN",
       "iso_region": "IN-DH",
       "municipality": "Silvassa",
-      "coordinates": "20.268076, 72.984833"
+      "coordinates": "20.268076, 72.984833",
+      "metar_available": false
     },
     {
       "ident": "IN-0229",
@@ -2316,7 +2542,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Ahmednagar",
-      "coordinates": "19.11263, 74.740041"
+      "coordinates": "19.11263, 74.740041",
+      "metar_available": false
     },
     {
       "ident": "IN-0230",
@@ -2326,7 +2553,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Ahmednagar",
-      "coordinates": "19.100453, 74.73498"
+      "coordinates": "19.100453, 74.73498",
+      "metar_available": false
     },
     {
       "ident": "IN-0231",
@@ -2336,7 +2564,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Ahmednagar",
-      "coordinates": "19.070711, 74.787925"
+      "coordinates": "19.070711, 74.787925",
+      "metar_available": false
     },
     {
       "ident": "IN-0232",
@@ -2346,7 +2575,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Ahmednagar",
-      "coordinates": "19.084887, 74.777932"
+      "coordinates": "19.084887, 74.777932",
+      "metar_available": false
     },
     {
       "ident": "IN-0233",
@@ -2356,7 +2586,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Wakodi",
-      "coordinates": "19.05024, 74.767188"
+      "coordinates": "19.05024, 74.767188",
+      "metar_available": false
     },
     {
       "ident": "IN-0234",
@@ -2366,7 +2597,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Aizawl",
-      "coordinates": "23.732843, 92.65553"
+      "coordinates": "23.732843, 92.65553",
+      "metar_available": false
     },
     {
       "ident": "IN-0235",
@@ -2376,7 +2608,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Aizawl",
-      "coordinates": "23.715285, 92.736057"
+      "coordinates": "23.715285, 92.736057",
+      "metar_available": false
     },
     {
       "ident": "IN-0236",
@@ -2386,7 +2619,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Mamit",
-      "coordinates": "23.894013, 92.497234"
+      "coordinates": "23.894013, 92.497234",
+      "metar_available": false
     },
     {
       "ident": "IN-0237",
@@ -2396,7 +2630,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Kawrtethawveng",
-      "coordinates": "23.873867, 92.372788"
+      "coordinates": "23.873867, 92.372788",
+      "metar_available": false
     },
     {
       "ident": "IN-0238",
@@ -2406,7 +2641,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Kawnpui",
-      "coordinates": "24.046672, 92.671347"
+      "coordinates": "24.046672, 92.671347",
+      "metar_available": false
     },
     {
       "ident": "IN-0239",
@@ -2416,7 +2652,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Sialsuk",
-      "coordinates": "23.394918, 92.753586"
+      "coordinates": "23.394918, 92.753586",
+      "metar_available": false
     },
     {
       "ident": "IN-0240",
@@ -2426,7 +2663,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Saitual",
-      "coordinates": "23.693488, 92.978364"
+      "coordinates": "23.693488, 92.978364",
+      "metar_available": false
     },
     {
       "ident": "IN-0241",
@@ -2436,7 +2674,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Darlawn",
-      "coordinates": "24.010327, 92.148375"
+      "coordinates": "24.010327, 92.148375",
+      "metar_available": false
     },
     {
       "ident": "IN-0242",
@@ -2446,7 +2685,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Tuipuibari",
-      "coordinates": "23.71351, 92.327704"
+      "coordinates": "23.71351, 92.327704",
+      "metar_available": false
     },
     {
       "ident": "IN-0243",
@@ -2456,7 +2696,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Suangpuilawn",
-      "coordinates": "23.94864, 93.032695"
+      "coordinates": "23.94864, 93.032695",
+      "metar_available": false
     },
     {
       "ident": "IN-0244",
@@ -2466,7 +2707,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MZ",
       "municipality": "Champhai",
-      "coordinates": "23.469998, 93.34356"
+      "coordinates": "23.469998, 93.34356",
+      "metar_available": false
     },
     {
       "ident": "IN-0245",
@@ -2476,7 +2718,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Ghooghra",
-      "coordinates": "26.509349, 74.704718"
+      "coordinates": "26.509349, 74.704718",
+      "metar_available": false
     },
     {
       "ident": "IN-0246",
@@ -2486,7 +2729,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Pushkar",
-      "coordinates": "26.485927, 74.543235"
+      "coordinates": "26.485927, 74.543235",
+      "metar_available": false
     },
     {
       "ident": "IN-0247",
@@ -2496,7 +2740,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Kishanpura Goyla",
-      "coordinates": "26.476022, 74.519229"
+      "coordinates": "26.476022, 74.519229",
+      "metar_available": false
     },
     {
       "ident": "IN-0248",
@@ -2506,7 +2751,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Tiloniya",
-      "coordinates": "26.646926, 74.938877"
+      "coordinates": "26.646926, 74.938877",
+      "metar_available": false
     },
     {
       "ident": "IN-0249",
@@ -2516,7 +2762,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Kishanpura Goyla",
-      "coordinates": "26.479509, 74.518667"
+      "coordinates": "26.479509, 74.518667",
+      "metar_available": false
     },
     {
       "ident": "IN-0250",
@@ -2526,7 +2773,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Bandar Seendri",
-      "coordinates": "26.628069, 75.028541"
+      "coordinates": "26.628069, 75.028541",
+      "metar_available": false
     },
     {
       "ident": "IN-0251",
@@ -2536,7 +2784,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Korwa",
-      "coordinates": "26.21757, 81.817293"
+      "coordinates": "26.21757, 81.817293",
+      "metar_available": false
     },
     {
       "ident": "IN-0252",
@@ -2546,7 +2795,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Mau",
-      "coordinates": "25.913982, 83.561476"
+      "coordinates": "25.913982, 83.561476",
+      "metar_available": false
     },
     {
       "ident": "IN-0253",
@@ -2556,7 +2806,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Gorakhpur",
-      "coordinates": "26.731111, 83.435293"
+      "coordinates": "26.731111, 83.435293",
+      "metar_available": false
     },
     {
       "ident": "IN-0254",
@@ -2566,7 +2817,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Prayagraj",
-      "coordinates": "25.486483, 81.850521"
+      "coordinates": "25.486483, 81.850521",
+      "metar_available": false
     },
     {
       "ident": "IN-0255",
@@ -2576,7 +2828,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Gorakhpur",
-      "coordinates": "26.82455, 83.376899"
+      "coordinates": "26.82455, 83.376899",
+      "metar_available": false
     },
     {
       "ident": "IN-0256",
@@ -2586,7 +2839,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Shegaon",
-      "coordinates": "20.779141, 76.692378"
+      "coordinates": "20.779141, 76.692378",
+      "metar_available": false
     },
     {
       "ident": "IN-0257",
@@ -2596,7 +2850,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Bhokardan",
-      "coordinates": "20.234464, 75.768429"
+      "coordinates": "20.234464, 75.768429",
+      "metar_available": false
     },
     {
       "ident": "IN-0258",
@@ -2606,7 +2861,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Lalbarra",
-      "coordinates": "21.940413, 80.047809"
+      "coordinates": "21.940413, 80.047809",
+      "metar_available": false
     },
     {
       "ident": "IN-0259",
@@ -2616,7 +2872,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Narayannagar",
-      "coordinates": "17.971592, 73.043761"
+      "coordinates": "17.971592, 73.043761",
+      "metar_available": false
     },
     {
       "ident": "IN-0260",
@@ -2627,7 +2884,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Chennai",
-      "coordinates": "13.0196, 80.1976"
+      "coordinates": "13.0196, 80.1976",
+      "metar_available": false
     },
     {
       "ident": "IN-0261",
@@ -2638,7 +2896,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Mararikkulam North",
-      "coordinates": "9.624, 76.2966"
+      "coordinates": "9.624, 76.2966",
+      "metar_available": false
     },
     {
       "ident": "IN-0262",
@@ -2649,7 +2908,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Nirmalapuram",
-      "coordinates": "9.3235, 76.5354"
+      "coordinates": "9.3235, 76.5354",
+      "metar_available": false
     },
     {
       "ident": "IN-0263",
@@ -2660,7 +2920,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Pathanamthitta",
-      "coordinates": "9.2481, 76.7469"
+      "coordinates": "9.2481, 76.7469",
+      "metar_available": false
     },
     {
       "ident": "IN-0264",
@@ -2671,7 +2932,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Kottayam",
-      "coordinates": "9.5911, 76.5337"
+      "coordinates": "9.5911, 76.5337",
+      "metar_available": false
     },
     {
       "ident": "IN-0265",
@@ -2682,7 +2944,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Moolamattom",
-      "coordinates": "9.7855, 76.8503"
+      "coordinates": "9.7855, 76.8503",
+      "metar_available": false
     },
     {
       "ident": "IN-0266",
@@ -2692,7 +2955,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Ernakulam",
-      "coordinates": "9.9188, 76.319"
+      "coordinates": "9.9188, 76.319",
+      "metar_available": false
     },
     {
       "ident": "IN-0267",
@@ -2703,7 +2967,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Perunad",
-      "coordinates": "9.3863, 77.0102"
+      "coordinates": "9.3863, 77.0102",
+      "metar_available": false
     },
     {
       "ident": "IN-0268",
@@ -2714,7 +2979,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Ernakulam",
-      "coordinates": "10.0366, 76.2996"
+      "coordinates": "10.0366, 76.2996",
+      "metar_available": false
     },
     {
       "ident": "IN-0269",
@@ -2725,7 +2991,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Ernakulam",
-      "coordinates": "9.9899, 76.264"
+      "coordinates": "9.9899, 76.264",
+      "metar_available": false
     },
     {
       "ident": "IN-0270",
@@ -2736,7 +3003,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Kollam",
-      "coordinates": "8.8634, 76.8661"
+      "coordinates": "8.8634, 76.8661",
+      "metar_available": false
     },
     {
       "ident": "IN-0271",
@@ -2747,7 +3015,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Ayiranalloor",
-      "coordinates": "8.9858, 76.9729"
+      "coordinates": "8.9858, 76.9729",
+      "metar_available": false
     },
     {
       "ident": "IN-0272",
@@ -2758,7 +3027,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Pathumury",
-      "coordinates": "9.6348, 77.1308"
+      "coordinates": "9.6348, 77.1308",
+      "metar_available": false
     },
     {
       "ident": "IN-0273",
@@ -2769,7 +3039,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Panchalimedu",
-      "coordinates": "9.5293, 76.9786"
+      "coordinates": "9.5293, 76.9786",
+      "metar_available": false
     },
     {
       "ident": "IN-0274",
@@ -2780,7 +3051,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Chakkuppallam",
-      "coordinates": "9.6367, 77.1545"
+      "coordinates": "9.6367, 77.1545",
+      "metar_available": false
     },
     {
       "ident": "IN-0275",
@@ -2791,7 +3063,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Kochi",
-      "coordinates": "10.0445, 76.2767"
+      "coordinates": "10.0445, 76.2767",
+      "metar_available": false
     },
     {
       "ident": "IN-0276",
@@ -2803,7 +3076,8 @@
       "iso_region": "IN-MM",
       "municipality": "Navi Mumbai",
       "iata_code": "NMI",
-      "coordinates": "18.988686, 73.068523"
+      "coordinates": "18.988686, 73.068523",
+      "metar_available": false
     },
     {
       "ident": "IN-0278",
@@ -2814,7 +3088,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Nyoma",
-      "coordinates": "33.193, 78.6417"
+      "coordinates": "33.193, 78.6417",
+      "metar_available": false
     },
     {
       "ident": "IN-0279",
@@ -2825,7 +3100,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Chushul",
-      "coordinates": "33.55493, 78.72214"
+      "coordinates": "33.55493, 78.72214",
+      "metar_available": false
     },
     {
       "ident": "IN-0280",
@@ -2836,7 +3112,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Tangtse",
-      "coordinates": "34.06786, 78.13719"
+      "coordinates": "34.06786, 78.13719",
+      "metar_available": false
     },
     {
       "ident": "IN-0281",
@@ -2847,7 +3124,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Surtok",
-      "coordinates": "33.966779, 78.418908"
+      "coordinates": "33.966779, 78.418908",
+      "metar_available": false
     },
     {
       "ident": "IN-0282",
@@ -2858,7 +3136,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Man",
-      "coordinates": "33.85732, 78.52398"
+      "coordinates": "33.85732, 78.52398",
+      "metar_available": false
     },
     {
       "ident": "IN-0283",
@@ -2869,7 +3148,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Deopur",
-      "coordinates": "19.34564, 83.43444"
+      "coordinates": "19.34564, 83.43444",
+      "metar_available": false
     },
     {
       "ident": "IN-0284",
@@ -2880,7 +3160,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Diglipur",
-      "coordinates": "13.27495, 93.02323"
+      "coordinates": "13.27495, 93.02323",
+      "metar_available": false
     },
     {
       "ident": "IN-0285",
@@ -2891,7 +3172,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Diglipur",
-      "coordinates": "13.25542, 93.00137"
+      "coordinates": "13.25542, 93.00137",
+      "metar_available": false
     },
     {
       "ident": "IN-0286",
@@ -2902,7 +3184,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Mayabunder",
-      "coordinates": "12.91375, 92.8976"
+      "coordinates": "12.91375, 92.8976",
+      "metar_available": false
     },
     {
       "ident": "IN-0287",
@@ -2913,7 +3196,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Rangat",
-      "coordinates": "12.50765, 92.96071"
+      "coordinates": "12.50765, 92.96071",
+      "metar_available": false
     },
     {
       "ident": "IN-0288",
@@ -2924,7 +3208,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Govind Nagar",
-      "coordinates": "12.03744, 92.98318"
+      "coordinates": "12.03744, 92.98318",
+      "metar_available": false
     },
     {
       "ident": "IN-0289",
@@ -2935,7 +3220,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Lakshmanpur",
-      "coordinates": "11.84177, 93.01838"
+      "coordinates": "11.84177, 93.01838",
+      "metar_available": false
     },
     {
       "ident": "IN-0290",
@@ -2946,7 +3232,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Port Blair",
-      "coordinates": "11.67722, 92.76022"
+      "coordinates": "11.67722, 92.76022",
+      "metar_available": false
     },
     {
       "ident": "IN-0291",
@@ -2957,7 +3244,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Port Blair",
-      "coordinates": "11.50879, 92.70187"
+      "coordinates": "11.50879, 92.70187",
+      "metar_available": false
     },
     {
       "ident": "IN-0292",
@@ -2968,7 +3256,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Kwate-tu-kwage (Hut Bay)",
-      "coordinates": "10.60307, 92.53432"
+      "coordinates": "10.60307, 92.53432",
+      "metar_available": false
     },
     {
       "ident": "IN-0293",
@@ -2978,7 +3267,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Kwate-tu-kwage (Hut Bay)",
-      "coordinates": "10.58975, 92.55899"
+      "coordinates": "10.58975, 92.55899",
+      "metar_available": false
     },
     {
       "ident": "IN-0294",
@@ -2989,7 +3279,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Nancowry",
-      "coordinates": "8.46046, 93.04432"
+      "coordinates": "8.46046, 93.04432",
+      "metar_available": false
     },
     {
       "ident": "IN-0295",
@@ -3000,7 +3291,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Nancowry",
-      "coordinates": "8.30196, 93.1247"
+      "coordinates": "8.30196, 93.1247",
+      "metar_available": false
     },
     {
       "ident": "IN-0296",
@@ -3011,7 +3303,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Nancowry",
-      "coordinates": "8.03703, 93.54899"
+      "coordinates": "8.03703, 93.54899",
+      "metar_available": false
     },
     {
       "ident": "IN-0297",
@@ -3022,7 +3315,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Nancowry",
-      "coordinates": "8.06716, 93.54712"
+      "coordinates": "8.06716, 93.54712",
+      "metar_available": false
     },
     {
       "ident": "IN-0298",
@@ -3033,7 +3327,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Nancowry",
-      "coordinates": "8.02424, 93.54499"
+      "coordinates": "8.02424, 93.54499",
+      "metar_available": false
     },
     {
       "ident": "IN-0299",
@@ -3044,7 +3339,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AN",
       "municipality": "Nancowry",
-      "coordinates": "7.99756, 93.37938"
+      "coordinates": "7.99756, 93.37938",
+      "metar_available": false
     },
     {
       "ident": "IN-0300",
@@ -3055,7 +3351,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TG",
       "municipality": "Mamidiyal",
-      "coordinates": "17.728462, 78.700909"
+      "coordinates": "17.728462, 78.700909",
+      "metar_available": false
     },
     {
       "ident": "IN-0301",
@@ -3068,7 +3365,8 @@
       "municipality": "Shimoga",
       "gps_code": "VOSH",
       "iata_code": "RQY",
-      "coordinates": "13.858024, 75.618868"
+      "coordinates": "13.858024, 75.618868",
+      "metar_available": false
     },
     {
       "ident": "IN-0302",
@@ -3079,7 +3377,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Nyoma",
-      "coordinates": "33.16913, 78.72971"
+      "coordinates": "33.16913, 78.72971",
+      "metar_available": false
     },
     {
       "ident": "IN-0303",
@@ -3090,7 +3389,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Kargil",
-      "coordinates": "34.5577, 76.13505"
+      "coordinates": "34.5577, 76.13505",
+      "metar_available": false
     },
     {
       "ident": "IN-0304",
@@ -3101,7 +3401,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Khaltsi",
-      "coordinates": "34.211296, 77.185811"
+      "coordinates": "34.211296, 77.185811",
+      "metar_available": false
     },
     {
       "ident": "IN-0305",
@@ -3112,7 +3413,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Nimmoo",
-      "coordinates": "34.19983, 77.31903"
+      "coordinates": "34.19983, 77.31903",
+      "metar_available": false
     },
     {
       "ident": "IN-0306",
@@ -3123,7 +3425,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Khalatse",
-      "coordinates": "34.31879, 76.90241"
+      "coordinates": "34.31879, 76.90241",
+      "metar_available": false
     },
     {
       "ident": "IN-0307",
@@ -3135,7 +3438,8 @@
       "iso_region": "IN-AR",
       "municipality": "Tuting",
       "gps_code": "VETU",
-      "coordinates": "28.98876, 94.89863"
+      "coordinates": "28.98876, 94.89863",
+      "metar_available": false
     },
     {
       "ident": "IN-0308",
@@ -3148,7 +3452,8 @@
       "municipality": "Hollongi",
       "gps_code": "VEHO",
       "iata_code": "HGI",
-      "coordinates": "26.96683, 93.638792"
+      "coordinates": "26.96683, 93.638792",
+      "metar_available": false
     },
     {
       "ident": "IN-0309",
@@ -3159,7 +3464,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "municipality": "Bengaluru",
-      "coordinates": "12.84305, 77.668188"
+      "coordinates": "12.84305, 77.668188",
+      "metar_available": false
     },
     {
       "ident": "IN-0310",
@@ -3170,7 +3476,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HR",
       "municipality": "Panchkula",
-      "coordinates": "30.73473, 76.88139"
+      "coordinates": "30.73473, 76.88139",
+      "metar_available": false
     },
     {
       "ident": "IN-0311",
@@ -3181,7 +3488,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Pilani",
-      "coordinates": "28.349677, 75.591104"
+      "coordinates": "28.349677, 75.591104",
+      "metar_available": false
     },
     {
       "ident": "IN-0312",
@@ -3192,7 +3500,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HR",
       "municipality": "Gurugram",
-      "coordinates": "28.36925, 76.87712"
+      "coordinates": "28.36925, 76.87712",
+      "metar_available": false
     },
     {
       "ident": "IN-0313",
@@ -3203,7 +3512,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Pune",
-      "coordinates": "18.545464, 73.96432"
+      "coordinates": "18.545464, 73.96432",
+      "metar_available": false
     },
     {
       "ident": "IN-0314",
@@ -3214,7 +3524,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Coimbatore",
-      "coordinates": "11.09489, 76.95603"
+      "coordinates": "11.09489, 76.95603",
+      "metar_available": false
     },
     {
       "ident": "IN-0315",
@@ -3225,7 +3536,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Shahjahanpur",
-      "coordinates": "27.83428, 79.92742"
+      "coordinates": "27.83428, 79.92742",
+      "metar_available": false
     },
     {
       "ident": "IN-0316",
@@ -3236,7 +3548,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Varanasi",
-      "coordinates": "25.34819, 82.98752"
+      "coordinates": "25.34819, 82.98752",
+      "metar_available": false
     },
     {
       "ident": "IN-0317",
@@ -3247,7 +3560,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Kiari",
-      "coordinates": "33.47621, 78.12866"
+      "coordinates": "33.47621, 78.12866",
+      "metar_available": false
     },
     {
       "ident": "IN-0318",
@@ -3258,7 +3572,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Chumathang",
-      "coordinates": "33.36284, 78.31326"
+      "coordinates": "33.36284, 78.31326",
+      "metar_available": false
     },
     {
       "ident": "IN-0319",
@@ -3269,7 +3584,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Karu",
-      "coordinates": "33.91257, 77.74465"
+      "coordinates": "33.91257, 77.74465",
+      "metar_available": false
     },
     {
       "ident": "IN-0320",
@@ -3280,7 +3596,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Upshi",
-      "coordinates": "33.82395, 77.82194"
+      "coordinates": "33.82395, 77.82194",
+      "metar_available": false
     },
     {
       "ident": "IN-0321",
@@ -3291,7 +3608,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Shimla",
-      "coordinates": "31.4899, 77.70754"
+      "coordinates": "31.4899, 77.70754",
+      "metar_available": false
     },
     {
       "ident": "IN-0322",
@@ -3302,7 +3620,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Shimla",
-      "coordinates": "31.41727, 77.62826"
+      "coordinates": "31.41727, 77.62826",
+      "metar_available": false
     },
     {
       "ident": "IN-0323",
@@ -3313,7 +3632,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Shimla",
-      "coordinates": "31.3337, 77.55919"
+      "coordinates": "31.3337, 77.55919",
+      "metar_available": false
     },
     {
       "ident": "IN-0324",
@@ -3324,7 +3644,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Shimla",
-      "coordinates": "31.3534, 77.49121"
+      "coordinates": "31.3534, 77.49121",
+      "metar_available": false
     },
     {
       "ident": "IN-0325",
@@ -3335,7 +3656,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Shimla",
-      "coordinates": "31.33025, 77.44237"
+      "coordinates": "31.33025, 77.44237",
+      "metar_available": false
     },
     {
       "ident": "IN-0326",
@@ -3346,7 +3668,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Kalpa",
-      "coordinates": "31.5392, 78.2723"
+      "coordinates": "31.5392, 78.2723",
+      "metar_available": false
     },
     {
       "ident": "IN-0327",
@@ -3357,7 +3680,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Morang",
-      "coordinates": "31.6015, 78.43633"
+      "coordinates": "31.6015, 78.43633",
+      "metar_available": false
     },
     {
       "ident": "IN-0328",
@@ -3368,7 +3692,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Pooh",
-      "coordinates": "31.75225, 78.57191"
+      "coordinates": "31.75225, 78.57191",
+      "metar_available": false
     },
     {
       "ident": "IN-0329",
@@ -3379,7 +3704,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Chango",
-      "coordinates": "31.96923, 78.59328"
+      "coordinates": "31.96923, 78.59328",
+      "metar_available": false
     },
     {
       "ident": "IN-0330",
@@ -3390,7 +3716,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Spiti",
-      "coordinates": "32.09448, 78.67575"
+      "coordinates": "32.09448, 78.67575",
+      "metar_available": false
     },
     {
       "ident": "IN-0331",
@@ -3401,7 +3728,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Khuldo",
-      "coordinates": "32.77295, 78.98563"
+      "coordinates": "32.77295, 78.98563",
+      "metar_available": false
     },
     {
       "ident": "IN-0332",
@@ -3412,7 +3740,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HP",
       "municipality": "Nako",
-      "coordinates": "31.8861, 78.62787"
+      "coordinates": "31.8861, 78.62787",
+      "metar_available": false
     },
     {
       "ident": "IN-0333",
@@ -3423,7 +3752,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UT",
       "municipality": "Mukhem Renge",
-      "coordinates": "30.57862, 78.45075"
+      "coordinates": "30.57862, 78.45075",
+      "metar_available": false
     },
     {
       "ident": "IN-0334",
@@ -3434,7 +3764,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Gadapur",
-      "coordinates": "20.96598, 86.04235"
+      "coordinates": "20.96598, 86.04235",
+      "metar_available": false
     },
     {
       "ident": "IN-0335",
@@ -3445,7 +3776,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Gadapur",
-      "coordinates": "20.96803, 86.03998"
+      "coordinates": "20.96803, 86.03998",
+      "metar_available": false
     },
     {
       "ident": "IN-0336",
@@ -3456,7 +3788,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Bamnipal",
-      "coordinates": "21.12438, 85.92252"
+      "coordinates": "21.12438, 85.92252",
+      "metar_available": false
     },
     {
       "ident": "IN-0337",
@@ -3467,7 +3800,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Bamnipal",
-      "coordinates": "21.12157, 85.92059"
+      "coordinates": "21.12157, 85.92059",
+      "metar_available": false
     },
     {
       "ident": "IN-0338",
@@ -3478,7 +3812,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Rahani",
-      "coordinates": "20.98366, 85.681622"
+      "coordinates": "20.98366, 85.681622",
+      "metar_available": false
     },
     {
       "ident": "IN-0339",
@@ -3489,7 +3824,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Balasore",
-      "coordinates": "21.495281, 86.883622"
+      "coordinates": "21.495281, 86.883622",
+      "metar_available": false
     },
     {
       "ident": "IN-0340",
@@ -3500,7 +3836,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "municipality": "Bhograi",
-      "coordinates": "21.68382, 87.41512"
+      "coordinates": "21.68382, 87.41512",
+      "metar_available": false
     },
     {
       "ident": "IN-0341",
@@ -3510,7 +3847,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Mohammadabad",
-      "coordinates": "27.316258, 79.451555"
+      "coordinates": "27.316258, 79.451555",
+      "metar_available": false
     },
     {
       "ident": "IN-0342",
@@ -3520,7 +3858,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Marhamtabad",
-      "coordinates": "26.58182, 79.96797"
+      "coordinates": "26.58182, 79.96797",
+      "metar_available": false
     },
     {
       "ident": "IN-0343",
@@ -3530,7 +3869,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Benti",
-      "coordinates": "25.67292, 81.49592"
+      "coordinates": "25.67292, 81.49592",
+      "metar_available": false
     },
     {
       "ident": "IN-0344",
@@ -3540,7 +3880,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Iradatjanj",
-      "coordinates": "25.32424, 81.84179"
+      "coordinates": "25.32424, 81.84179",
+      "metar_available": false
     },
     {
       "ident": "IN-0345",
@@ -3550,7 +3891,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Biraich",
-      "coordinates": "25.6155, 83.56064"
+      "coordinates": "25.6155, 83.56064",
+      "metar_available": false
     },
     {
       "ident": "IN-0346",
@@ -3560,7 +3902,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "municipality": "Patna",
-      "coordinates": "25.59124, 84.88312"
+      "coordinates": "25.59124, 84.88312",
+      "metar_available": false
     },
     {
       "ident": "IN-0347",
@@ -3570,7 +3913,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Gelling",
-      "coordinates": "29.13306, 94.97873"
+      "coordinates": "29.13306, 94.97873",
+      "metar_available": false
     },
     {
       "ident": "IN-0348",
@@ -3580,7 +3924,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Yingkiong",
-      "coordinates": "28.6393, 95.0196"
+      "coordinates": "28.6393, 95.0196",
+      "metar_available": false
     },
     {
       "ident": "IN-0349",
@@ -3590,7 +3935,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Jengging",
-      "coordinates": "28.53862, 95.06795"
+      "coordinates": "28.53862, 95.06795",
+      "metar_available": false
     },
     {
       "ident": "IN-0350",
@@ -3600,7 +3946,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Boleng",
-      "coordinates": "28.31533, 94.95583"
+      "coordinates": "28.31533, 94.95583",
+      "metar_available": false
     },
     {
       "ident": "IN-0351",
@@ -3610,7 +3957,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Pangin",
-      "coordinates": "28.20879, 95.00239"
+      "coordinates": "28.20879, 95.00239",
+      "metar_available": false
     },
     {
       "ident": "IN-0352",
@@ -3620,7 +3968,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AS",
       "municipality": "Duliajan",
-      "coordinates": "27.36617, 95.322951"
+      "coordinates": "27.36617, 95.322951",
+      "metar_available": false
     },
     {
       "ident": "IN-0353",
@@ -3630,7 +3979,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AS",
       "municipality": "Deomali",
-      "coordinates": "27.195513, 95.467098"
+      "coordinates": "27.195513, 95.467098",
+      "metar_available": false
     },
     {
       "ident": "IN-0354",
@@ -3640,7 +3990,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Namsai",
-      "coordinates": "27.676474, 95.853884"
+      "coordinates": "27.676474, 95.853884",
+      "metar_available": false
     },
     {
       "ident": "IN-0355",
@@ -3650,7 +4001,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Nampong",
-      "coordinates": "27.300864, 96.112883"
+      "coordinates": "27.300864, 96.112883",
+      "metar_available": false
     },
     {
       "ident": "IN-0356",
@@ -3660,7 +4012,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Miao",
-      "coordinates": "27.492864, 96.213954"
+      "coordinates": "27.492864, 96.213954",
+      "metar_available": false
     },
     {
       "ident": "IN-0357",
@@ -3670,7 +4023,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Nalung",
-      "coordinates": "27.803726, 95.999887"
+      "coordinates": "27.803726, 95.999887",
+      "metar_available": false
     },
     {
       "ident": "IN-0358",
@@ -3680,7 +4034,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Parsuram Kund",
-      "coordinates": "27.88058, 96.35382"
+      "coordinates": "27.88058, 96.35382",
+      "metar_available": false
     },
     {
       "ident": "IN-0359",
@@ -3690,7 +4045,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Roing",
-      "coordinates": "28.14626, 95.83937"
+      "coordinates": "28.14626, 95.83937",
+      "metar_available": false
     },
     {
       "ident": "IN-0360",
@@ -3701,7 +4057,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AR",
       "municipality": "Baghbari Gaon",
-      "coordinates": "27.53606, 95.2682"
+      "coordinates": "27.53606, 95.2682",
+      "metar_available": false
     },
     {
       "ident": "IN-0361",
@@ -3711,7 +4068,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AS",
       "municipality": "Rudra Sagar",
-      "coordinates": "26.95124, 94.59869"
+      "coordinates": "26.95124, 94.59869",
+      "metar_available": false
     },
     {
       "ident": "IN-0362",
@@ -3722,7 +4080,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KL",
       "municipality": "Anachal",
-      "coordinates": "10.02322, 77.03309"
+      "coordinates": "10.02322, 77.03309",
+      "metar_available": false
     },
     {
       "ident": "IN-0363",
@@ -3733,7 +4092,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "local_code": "VA53",
-      "coordinates": "20.9265, 74.737099"
+      "coordinates": "20.9265, 74.737099",
+      "metar_available": false
     },
     {
       "ident": "IN-0364",
@@ -3744,7 +4104,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "local_code": "VA74",
-      "coordinates": "24.4942, 72.781502"
+      "coordinates": "24.4942, 72.781502",
+      "metar_available": false
     },
     {
       "ident": "IN-0365",
@@ -3755,7 +4116,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HR",
       "municipality": "Hisar",
-      "coordinates": "29.11653, 75.82027"
+      "coordinates": "29.11653, 75.82027",
+      "metar_available": false
     },
     {
       "ident": "IN-0366",
@@ -3766,7 +4128,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Jalgoan",
-      "coordinates": "20.945389, 75.551255"
+      "coordinates": "20.945389, 75.551255",
+      "metar_available": false
     },
     {
       "ident": "IN-0367",
@@ -3778,7 +4141,8 @@
       "iso_region": "IN-GJ",
       "municipality": "Dahod",
       "local_code": "JLG",
-      "coordinates": "22.874296, 74.243247"
+      "coordinates": "22.874296, 74.243247",
+      "metar_available": false
     },
     {
       "ident": "IN-0368",
@@ -3789,7 +4153,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Kundla",
-      "coordinates": "22.780522, 74.561697"
+      "coordinates": "22.780522, 74.561697",
+      "metar_available": false
     },
     {
       "ident": "IN-0369",
@@ -3801,7 +4166,8 @@
       "iso_region": "IN-MM",
       "municipality": "Yavatmal",
       "local_code": "VA78",
-      "coordinates": "20.395781, 78.216272"
+      "coordinates": "20.395781, 78.216272",
+      "metar_available": false
     },
     {
       "ident": "IN-0370",
@@ -3812,7 +4178,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Khanpura",
-      "coordinates": "26.65022, 77.792484"
+      "coordinates": "26.65022, 77.792484",
+      "metar_available": false
     },
     {
       "ident": "IN-0371",
@@ -3823,7 +4190,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "municipality": "Birpur",
-      "coordinates": "26.509893, 87.016609"
+      "coordinates": "26.509893, 87.016609",
+      "metar_available": false
     },
     {
       "ident": "IN-0372",
@@ -3834,7 +4202,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PB",
       "municipality": "Fazilka",
-      "coordinates": "30.394823, 74.054244"
+      "coordinates": "30.394823, 74.054244",
+      "metar_available": false
     },
     {
       "ident": "IN-0373",
@@ -3845,7 +4214,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "municipality": "Dadiya",
-      "coordinates": "27.729912, 75.24086"
+      "coordinates": "27.729912, 75.24086",
+      "metar_available": false
     },
     {
       "ident": "IN-0374",
@@ -3856,7 +4226,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Phaphamau",
-      "coordinates": "25.545166, 81.88199"
+      "coordinates": "25.545166, 81.88199",
+      "metar_available": false
     },
     {
       "ident": "IN-0375",
@@ -3867,7 +4238,8 @@
       "iso_country": "IN",
       "iso_region": "IN-TN",
       "municipality": "Chennai",
-      "coordinates": "13.073189, 80.290046"
+      "coordinates": "13.073189, 80.290046",
+      "metar_available": false
     },
     {
       "ident": "IN-0376",
@@ -3879,7 +4251,8 @@
       "iso_region": "IN-OR",
       "municipality": "Bhawanipatna",
       "iata_code": "UKE",
-      "coordinates": "20.097778, 83.183333"
+      "coordinates": "20.097778, 83.183333",
+      "metar_available": false
     },
     {
       "ident": "IN-0377",
@@ -3890,7 +4263,8 @@
       "iso_country": "IN",
       "iso_region": "IN-GJ",
       "municipality": "Ahmedabad",
-      "coordinates": "23.096266, 72.60104"
+      "coordinates": "23.096266, 72.60104",
+      "metar_available": false
     },
     {
       "ident": "IN-0378",
@@ -3900,7 +4274,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Nashik",
-      "coordinates": "19.965882, 73.809096"
+      "coordinates": "19.965882, 73.809096",
+      "metar_available": false
     },
     {
       "ident": "IN-0379",
@@ -3910,7 +4285,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MM",
       "municipality": "Nashik",
-      "coordinates": "19.965882, 73.809096"
+      "coordinates": "19.965882, 73.809096",
+      "metar_available": false
     },
     {
       "ident": "IN-0380",
@@ -3921,7 +4297,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PB",
       "municipality": "Bhatinda",
-      "coordinates": "30.233786, 75.008798"
+      "coordinates": "30.233786, 75.008798",
+      "metar_available": false
     },
     {
       "ident": "IN-0381",
@@ -3932,7 +4309,8 @@
       "iso_country": "IN",
       "iso_region": "IN-AP",
       "municipality": "Dunakonda",
-      "coordinates": "15.8063, 79.4882"
+      "coordinates": "15.8063, 79.4882",
+      "metar_available": false
     },
     {
       "ident": "IN-0382",
@@ -3944,7 +4322,8 @@
       "iso_region": "IN-MM",
       "municipality": "Nashik",
       "gps_code": "VANR",
-      "coordinates": "19.963699, 73.807602"
+      "coordinates": "19.963699, 73.807602",
+      "metar_available": false
     },
     {
       "ident": "IN-0383",
@@ -3955,7 +4334,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JK",
       "municipality": "Sonamarg",
-      "coordinates": "34.28701, 75.32843"
+      "coordinates": "34.28701, 75.32843",
+      "metar_available": false
     },
     {
       "ident": "IN-0384",
@@ -3966,7 +4346,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JK",
       "municipality": "Sonamarg",
-      "coordinates": "34.30261, 75.28678"
+      "coordinates": "34.30261, 75.28678",
+      "metar_available": false
     },
     {
       "ident": "IN-0385",
@@ -3977,7 +4358,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JK",
       "municipality": "Sonamarg",
-      "coordinates": "34.30778, 75.27828"
+      "coordinates": "34.30778, 75.27828",
+      "metar_available": false
     },
     {
       "ident": "IN-0386",
@@ -3988,7 +4370,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JK",
       "municipality": "Pahalgam",
-      "coordinates": "34.01434, 75.31333"
+      "coordinates": "34.01434, 75.31333",
+      "metar_available": false
     },
     {
       "ident": "IN-0387",
@@ -3999,7 +4382,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Shey",
-      "coordinates": "34.082472, 77.61225"
+      "coordinates": "34.082472, 77.61225",
+      "metar_available": false
     },
     {
       "ident": "IN-0388",
@@ -4010,7 +4394,8 @@
       "iso_country": "IN",
       "iso_region": "IN-LA",
       "municipality": "Leh",
-      "coordinates": "34.1608, 77.56775"
+      "coordinates": "34.1608, 77.56775",
+      "metar_available": false
     },
     {
       "ident": "IN-JGB",
@@ -4024,7 +4409,8 @@
       "gps_code": "VEJR",
       "iata_code": "JGB",
       "local_code": "VEJR",
-      "coordinates": "19.074301, 82.036797"
+      "coordinates": "19.074301, 82.036797",
+      "metar_available": false
     },
     {
       "ident": "IN-RJI",
@@ -4036,7 +4422,8 @@
       "iso_region": "IN-JK",
       "municipality": "Rajouri",
       "iata_code": "RJI",
-      "coordinates": "33.377899, 74.315201"
+      "coordinates": "33.377899, 74.315201",
+      "metar_available": false
     },
     {
       "ident": "IN-VA38",
@@ -4048,7 +4435,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VA38",
       "local_code": "VA38",
-      "coordinates": "24.895099639892578, 72.84590148925781"
+      "coordinates": "24.895099639892578, 72.84590148925781",
+      "metar_available": false
     },
     {
       "ident": "IN-VA51",
@@ -4059,7 +4447,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "local_code": "VA51",
-      "coordinates": "23.589259, 74.314048"
+      "coordinates": "23.589259, 74.314048",
+      "metar_available": false
     },
     {
       "ident": "OMN",
@@ -4071,7 +4460,8 @@
       "iso_region": "IN-MM",
       "municipality": "Osmanabad",
       "iata_code": "OMN",
-      "coordinates": "18.281, 76.0574"
+      "coordinates": "18.281, 76.0574",
+      "metar_available": false
     },
     {
       "ident": "VA1B",
@@ -4083,7 +4473,8 @@
       "iso_region": "IN-MM",
       "gps_code": "VA1B",
       "local_code": "VA1B",
-      "coordinates": "19.994699478149414, 79.22250366210938"
+      "coordinates": "19.994699478149414, 79.22250366210938",
+      "metar_available": false
     },
     {
       "ident": "VA1C",
@@ -4095,7 +4486,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VA1C",
       "local_code": "VA1C",
-      "coordinates": "23.4468994140625, 75.42030334472656"
+      "coordinates": "23.4468994140625, 75.42030334472656",
+      "metar_available": false
     },
     {
       "ident": "VA1D",
@@ -4107,7 +4499,8 @@
       "iso_region": "IN-UP",
       "gps_code": "VA1D",
       "local_code": "VA1D",
-      "coordinates": "24.125200271606445, 83.04060363769531"
+      "coordinates": "24.125200271606445, 83.04060363769531",
+      "metar_available": false
     },
     {
       "ident": "VA1E",
@@ -4119,7 +4512,8 @@
       "iso_region": "IN-CT",
       "gps_code": "VA1E",
       "local_code": "VA1E",
-      "coordinates": "21.294200897216797, 81.37950134277344"
+      "coordinates": "21.294200897216797, 81.37950134277344",
+      "metar_available": false
     },
     {
       "ident": "VA1F",
@@ -4131,7 +4525,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VA1F",
       "local_code": "VA1F",
-      "coordinates": "24.402299880981445, 81.8147964477539"
+      "coordinates": "24.402299880981445, 81.8147964477539",
+      "metar_available": false
     },
     {
       "ident": "VA1G",
@@ -4145,7 +4540,8 @@
       "gps_code": "VA1G",
       "iata_code": "REW",
       "local_code": "VA1G",
-      "coordinates": "24.503401, 81.220299"
+      "coordinates": "24.503401, 81.220299",
+      "metar_available": false
     },
     {
       "ident": "VA1H",
@@ -4157,7 +4553,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VA1H",
       "local_code": "VA1H",
-      "coordinates": "25.14150047302246, 74.61150360107422"
+      "coordinates": "25.14150047302246, 74.61150360107422",
+      "metar_available": false
     },
     {
       "ident": "VA1J",
@@ -4169,7 +4566,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VA1J",
       "local_code": "VA1J",
-      "coordinates": "23.753599166870117, 78.85579681396484"
+      "coordinates": "23.753599166870117, 78.85579681396484",
+      "metar_available": false
     },
     {
       "ident": "VA1K",
@@ -4181,7 +4579,8 @@
       "iso_region": "IN-GJ",
       "municipality": "Naliya",
       "gps_code": "VANY",
-      "coordinates": "23.2223, 68.891296"
+      "coordinates": "23.2223, 68.891296",
+      "metar_available": false
     },
     {
       "ident": "VA1L",
@@ -4194,7 +4593,8 @@
       "municipality": "Amla",
       "gps_code": "VA1L",
       "local_code": "VA1L",
-      "coordinates": "21.926399, 78.113602"
+      "coordinates": "21.926399, 78.113602",
+      "metar_available": false
     },
     {
       "ident": "VA1M",
@@ -4206,7 +4606,8 @@
       "iso_region": "IN-MM",
       "gps_code": "VA1M",
       "local_code": "VA1M",
-      "coordinates": "17.285900115966797, 74.15809631347656"
+      "coordinates": "17.285900115966797, 74.15809631347656",
+      "metar_available": false
     },
     {
       "ident": "VA1N",
@@ -4218,7 +4619,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VA1N",
       "local_code": "VA1N",
-      "coordinates": "24.43079948425293, 74.8677978515625"
+      "coordinates": "24.43079948425293, 74.8677978515625",
+      "metar_available": false
     },
     {
       "ident": "VA1O",
@@ -4230,7 +4632,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VA1O",
       "local_code": "VA1O",
-      "coordinates": "23.235200881958008, 81.50370025634766"
+      "coordinates": "23.235200881958008, 81.50370025634766",
+      "metar_available": false
     },
     {
       "ident": "VA1P",
@@ -4244,7 +4647,8 @@
       "gps_code": "VADU",
       "iata_code": "DIU",
       "local_code": "VADU",
-      "coordinates": "20.714185, 70.921855"
+      "coordinates": "20.714185, 70.921855",
+      "metar_available": false
     },
     {
       "ident": "VA2A",
@@ -4256,7 +4660,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VA2A",
       "local_code": "VA2A",
-      "coordinates": "27.112899780273438, 72.38899993896484"
+      "coordinates": "27.112899780273438, 72.38899993896484",
+      "metar_available": false
     },
     {
       "ident": "VA2B",
@@ -4269,7 +4674,8 @@
       "municipality": "Meerut",
       "gps_code": "VA2B",
       "local_code": "VA2B",
-      "coordinates": "28.904933, 77.677524"
+      "coordinates": "28.904933, 77.677524",
+      "metar_available": false
     },
     {
       "ident": "VA2C",
@@ -4283,7 +4689,8 @@
       "gps_code": "VAGD",
       "iata_code": "GDB",
       "local_code": "VA2C",
-      "coordinates": "21.526817, 80.290347"
+      "coordinates": "21.526817, 80.290347",
+      "metar_available": false
     },
     {
       "ident": "VA2D",
@@ -4295,7 +4702,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VA2D",
       "local_code": "VA2D",
-      "coordinates": "23.381399154663086, 75.02559661865234"
+      "coordinates": "23.381399154663086, 75.02559661865234",
+      "metar_available": false
     },
     {
       "ident": "VAAH",
@@ -4308,7 +4716,8 @@
       "municipality": "Ahmedabad",
       "gps_code": "VAAH",
       "iata_code": "AMD",
-      "coordinates": "23.0772, 72.634697"
+      "coordinates": "23.0772, 72.634697",
+      "metar_available": false
     },
     {
       "ident": "VAAK",
@@ -4321,7 +4730,8 @@
       "municipality": "Akola",
       "gps_code": "VAAK",
       "iata_code": "AKD",
-      "coordinates": "20.698931, 77.056883"
+      "coordinates": "20.698931, 77.056883",
+      "metar_available": false
     },
     {
       "ident": "VAAU",
@@ -4334,7 +4744,8 @@
       "municipality": "Aurangabad",
       "gps_code": "VAAU",
       "iata_code": "IXU",
-      "coordinates": "19.862699508666992, 75.39810180664062"
+      "coordinates": "19.862699508666992, 75.39810180664062",
+      "metar_available": false
     },
     {
       "ident": "VABB",
@@ -4347,7 +4758,8 @@
       "municipality": "Mumbai",
       "gps_code": "VABB",
       "iata_code": "BOM",
-      "coordinates": "19.0886993408, 72.8678970337"
+      "coordinates": "19.0886993408, 72.8678970337",
+      "metar_available": false
     },
     {
       "ident": "VABJ",
@@ -4360,7 +4772,8 @@
       "municipality": "Bhuj",
       "gps_code": "VABJ",
       "iata_code": "BHJ",
-      "coordinates": "23.2877998352, 69.6701965332"
+      "coordinates": "23.2877998352, 69.6701965332",
+      "metar_available": false
     },
     {
       "ident": "VABM",
@@ -4373,7 +4786,8 @@
       "municipality": "Belgaum",
       "gps_code": "VOBM",
       "iata_code": "IXG",
-      "coordinates": "15.8593, 74.618301"
+      "coordinates": "15.8593, 74.618301",
+      "metar_available": false
     },
     {
       "ident": "VABO",
@@ -4386,7 +4800,8 @@
       "municipality": "Vadodara",
       "gps_code": "VABO",
       "iata_code": "BDQ",
-      "coordinates": "22.336201, 73.226303"
+      "coordinates": "22.336201, 73.226303",
+      "metar_available": false
     },
     {
       "ident": "VABP",
@@ -4399,7 +4814,8 @@
       "municipality": "Bhopal",
       "gps_code": "VABP",
       "iata_code": "BHO",
-      "coordinates": "23.2875003815, 77.3374023438"
+      "coordinates": "23.2875003815, 77.3374023438",
+      "metar_available": false
     },
     {
       "ident": "VABV",
@@ -4412,7 +4828,8 @@
       "municipality": "Bhavnagar",
       "gps_code": "VABV",
       "iata_code": "BHU",
-      "coordinates": "21.752199173, 72.1852035522"
+      "coordinates": "21.752199173, 72.1852035522",
+      "metar_available": false
     },
     {
       "ident": "VADN",
@@ -4425,7 +4842,8 @@
       "municipality": "Daman",
       "gps_code": "VADN",
       "iata_code": "NMB",
-      "coordinates": "20.434401, 72.843201"
+      "coordinates": "20.434401, 72.843201",
+      "metar_available": false
     },
     {
       "ident": "VADS",
@@ -4437,7 +4855,8 @@
       "iso_region": "IN-GJ",
       "municipality": "Deesa",
       "gps_code": "VADS",
-      "coordinates": "24.2679, 72.204399"
+      "coordinates": "24.2679, 72.204399",
+      "metar_available": false
     },
     {
       "ident": "VAGN",
@@ -4449,7 +4868,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VAGN",
       "iata_code": "GUX",
-      "coordinates": "24.654699, 77.347298"
+      "coordinates": "24.654699, 77.347298",
+      "metar_available": false
     },
     {
       "ident": "VAHB",
@@ -4462,7 +4882,8 @@
       "municipality": "Hubli",
       "gps_code": "VOHB",
       "iata_code": "HBX",
-      "coordinates": "15.361700058, 75.08489990230001"
+      "coordinates": "15.361700058, 75.08489990230001",
+      "metar_available": false
     },
     {
       "ident": "VAHS",
@@ -4475,7 +4896,8 @@
       "municipality": "Rajkot",
       "gps_code": "VAHS",
       "iata_code": "HSR",
-      "coordinates": "22.378824, 71.039391"
+      "coordinates": "22.378824, 71.039391",
+      "metar_available": false
     },
     {
       "ident": "VAID",
@@ -4488,7 +4910,8 @@
       "municipality": "Indore",
       "gps_code": "VAID",
       "iata_code": "IDR",
-      "coordinates": "22.7217998505, 75.8011016846"
+      "coordinates": "22.7217998505, 75.8011016846",
+      "metar_available": false
     },
     {
       "ident": "VAJB",
@@ -4501,7 +4924,8 @@
       "municipality": "Jabalpur",
       "gps_code": "VAJB",
       "iata_code": "JLR",
-      "coordinates": "23.177799, 80.052002"
+      "coordinates": "23.177799, 80.052002",
+      "metar_available": false
     },
     {
       "ident": "VAJJ",
@@ -4513,7 +4937,8 @@
       "iso_region": "IN-MM",
       "municipality": "Mumbai",
       "gps_code": "VAJJ",
-      "coordinates": "19.098100662231445, 72.83419799804688"
+      "coordinates": "19.098100662231445, 72.83419799804688",
+      "metar_available": false
     },
     {
       "ident": "VAJL",
@@ -4526,7 +4951,8 @@
       "municipality": "Jalgaon",
       "gps_code": "VAJL",
       "iata_code": "JLG",
-      "coordinates": "20.962678, 75.627492"
+      "coordinates": "20.962678, 75.627492",
+      "metar_available": false
     },
     {
       "ident": "VAJM",
@@ -4539,7 +4965,8 @@
       "municipality": "Jamnagar",
       "gps_code": "VAJM",
       "iata_code": "JGA",
-      "coordinates": "22.465499877929688, 70.01260375976562"
+      "coordinates": "22.465499877929688, 70.01260375976562",
+      "metar_available": false
     },
     {
       "ident": "VAKE",
@@ -4552,7 +4979,8 @@
       "municipality": "Kandla",
       "gps_code": "VAKE",
       "iata_code": "IXY",
-      "coordinates": "23.1127, 70.100304"
+      "coordinates": "23.1127, 70.100304",
+      "metar_available": false
     },
     {
       "ident": "VAKJ",
@@ -4565,7 +4993,8 @@
       "municipality": "Khajuraho",
       "gps_code": "VEKO",
       "iata_code": "HJR",
-      "coordinates": "24.8172, 79.918602"
+      "coordinates": "24.8172, 79.918602",
+      "metar_available": false
     },
     {
       "ident": "VAKP",
@@ -4578,7 +5007,8 @@
       "municipality": "Kolhapur",
       "gps_code": "VAKP",
       "iata_code": "KLH",
-      "coordinates": "16.6647, 74.289398"
+      "coordinates": "16.6647, 74.289398",
+      "metar_available": false
     },
     {
       "ident": "VAKS",
@@ -4591,7 +5021,8 @@
       "municipality": "Keshod",
       "gps_code": "VAKS",
       "iata_code": "IXK",
-      "coordinates": "21.317101, 70.270401"
+      "coordinates": "21.317101, 70.270401",
+      "metar_available": false
     },
     {
       "ident": "VALT",
@@ -4604,7 +5035,8 @@
       "municipality": "Latur",
       "gps_code": "VALT",
       "iata_code": "LTU",
-      "coordinates": "18.411501, 76.464699"
+      "coordinates": "18.411501, 76.464699",
+      "metar_available": false
     },
     {
       "ident": "VAMA",
@@ -4615,7 +5047,8 @@
       "iso_region": "IN-GJ",
       "municipality": "Mundra",
       "gps_code": "VAMA",
-      "coordinates": "22.834795, 69.765408"
+      "coordinates": "22.834795, 69.765408",
+      "metar_available": false
     },
     {
       "ident": "VAND",
@@ -4629,7 +5062,8 @@
       "gps_code": "VOND",
       "iata_code": "NDC",
       "local_code": "VOND",
-      "coordinates": "19.1833, 77.316704"
+      "coordinates": "19.1833, 77.316704",
+      "metar_available": false
     },
     {
       "ident": "VANP",
@@ -4642,7 +5076,8 @@
       "municipality": "Nagpur",
       "gps_code": "VANP",
       "iata_code": "NAG",
-      "coordinates": "21.092199, 79.047203"
+      "coordinates": "21.092199, 79.047203",
+      "metar_available": false
     },
     {
       "ident": "VAOZ",
@@ -4655,7 +5090,8 @@
       "municipality": "Nasik",
       "gps_code": "VAOZ",
       "iata_code": "ISK",
-      "coordinates": "20.119101, 73.912903"
+      "coordinates": "20.119101, 73.912903",
+      "metar_available": false
     },
     {
       "ident": "VAPO",
@@ -4668,7 +5104,8 @@
       "municipality": "Pune",
       "gps_code": "VAPO",
       "iata_code": "PNQ",
-      "coordinates": "18.5821, 73.919701"
+      "coordinates": "18.5821, 73.919701",
+      "metar_available": false
     },
     {
       "ident": "VAPR",
@@ -4681,7 +5118,8 @@
       "municipality": "Porbandar",
       "gps_code": "VAPR",
       "iata_code": "PBD",
-      "coordinates": "21.649524, 69.656405"
+      "coordinates": "21.649524, 69.656405",
+      "metar_available": false
     },
     {
       "ident": "VARG",
@@ -4693,7 +5131,8 @@
       "iso_region": "IN-MM",
       "gps_code": "VARG",
       "iata_code": "RTC",
-      "coordinates": "17.013599, 73.327797"
+      "coordinates": "17.013599, 73.327797",
+      "metar_available": false
     },
     {
       "ident": "VARK",
@@ -4706,7 +5145,8 @@
       "municipality": "Rajkot",
       "gps_code": "VARK",
       "iata_code": "RAJ",
-      "coordinates": "22.3092002869, 70.77950286869999"
+      "coordinates": "22.3092002869, 70.77950286869999",
+      "metar_available": false
     },
     {
       "ident": "VARP",
@@ -4719,7 +5159,8 @@
       "municipality": "Raipur",
       "gps_code": "VERP",
       "iata_code": "RPR",
-      "coordinates": "21.180401, 81.7388"
+      "coordinates": "21.180401, 81.7388",
+      "metar_available": false
     },
     {
       "ident": "VASD",
@@ -4732,7 +5173,8 @@
       "municipality": "Kakadi",
       "gps_code": "VASD",
       "iata_code": "SAG",
-      "coordinates": "19.688752, 74.377354"
+      "coordinates": "19.688752, 74.377354",
+      "metar_available": false
     },
     {
       "ident": "VASL",
@@ -4745,7 +5187,8 @@
       "municipality": "Solapur",
       "gps_code": "VASL",
       "iata_code": "SSE",
-      "coordinates": "17.6280002594, 75.93479919430001"
+      "coordinates": "17.6280002594, 75.93479919430001",
+      "metar_available": false
     },
     {
       "ident": "VASU",
@@ -4758,7 +5201,8 @@
       "municipality": "Surat",
       "gps_code": "VASU",
       "iata_code": "STV",
-      "coordinates": "21.1141, 72.741798"
+      "coordinates": "21.1141, 72.741798",
+      "metar_available": false
     },
     {
       "ident": "VAUD",
@@ -4771,7 +5215,8 @@
       "municipality": "Udaipur",
       "gps_code": "VAUD",
       "iata_code": "UDR",
-      "coordinates": "24.617700576799997, 73.89610290530001"
+      "coordinates": "24.617700576799997, 73.89610290530001",
+      "metar_available": false
     },
     {
       "ident": "VE23",
@@ -4783,7 +5228,8 @@
       "iso_region": "IN-WB",
       "gps_code": "VE23",
       "local_code": "VE23",
-      "coordinates": "23.631500244140625, 86.97550201416016"
+      "coordinates": "23.631500244140625, 86.97550201416016",
+      "metar_available": false
     },
     {
       "ident": "VE24",
@@ -4796,7 +5242,8 @@
       "municipality": "Sokriting T.E.",
       "gps_code": "VE24",
       "local_code": "VE24",
-      "coordinates": "27.5529, 95.570602"
+      "coordinates": "27.5529, 95.570602",
+      "metar_available": false
     },
     {
       "ident": "VE36",
@@ -4808,7 +5255,8 @@
       "iso_region": "IN-OR",
       "gps_code": "VE36",
       "local_code": "VE36",
-      "coordinates": "20.511699676513672, 83.4480972290039"
+      "coordinates": "20.511699676513672, 83.4480972290039",
+      "metar_available": false
     },
     {
       "ident": "VE41",
@@ -4820,7 +5268,8 @@
       "iso_region": "IN-BR",
       "gps_code": "VE41",
       "local_code": "VE41",
-      "coordinates": "24.201900482177734, 86.28980255126953"
+      "coordinates": "24.201900482177734, 86.28980255126953",
+      "metar_available": false
     },
     {
       "ident": "VE44",
@@ -4833,7 +5282,8 @@
       "municipality": "Jalpaiguri",
       "gps_code": "VEHX",
       "local_code": "VE44",
-      "coordinates": "26.698299, 89.369102"
+      "coordinates": "26.698299, 89.369102",
+      "metar_available": false
     },
     {
       "ident": "VE54",
@@ -4845,7 +5295,8 @@
       "iso_region": "IN-BR",
       "gps_code": "VE54",
       "local_code": "VE54",
-      "coordinates": "24.01930046081543, 84.09510040283203"
+      "coordinates": "24.01930046081543, 84.09510040283203",
+      "metar_available": false
     },
     {
       "ident": "VE62",
@@ -4858,7 +5309,8 @@
       "municipality": "Bandalo",
       "gps_code": "VE62",
       "local_code": "VE62",
-      "coordinates": "20.549601, 85.886299"
+      "coordinates": "20.549601, 85.886299",
+      "metar_available": false
     },
     {
       "ident": "VE67",
@@ -4871,7 +5323,8 @@
       "municipality": "Kargong",
       "gps_code": "VE67",
       "local_code": "VE67",
-      "coordinates": "28.602458, 94.126139"
+      "coordinates": "28.602458, 94.126139",
+      "metar_available": false
     },
     {
       "ident": "VE85",
@@ -4882,7 +5335,8 @@
       "iso_country": "IN",
       "iso_region": "IN-MP",
       "municipality": "Ujjain",
-      "coordinates": "23.09510040283203, 75.88529968261719"
+      "coordinates": "23.09510040283203, 75.88529968261719",
+      "metar_available": false
     },
     {
       "ident": "VE91",
@@ -4894,7 +5348,8 @@
       "iso_region": "IN-AR",
       "gps_code": "VE91",
       "local_code": "VE91",
-      "coordinates": "27.1935997009, 97.00370025630001"
+      "coordinates": "27.1935997009, 97.00370025630001",
+      "metar_available": false
     },
     {
       "ident": "VE96",
@@ -4906,7 +5361,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VE96",
       "local_code": "VE96",
-      "coordinates": "22.00160026550293, 78.91719818115234"
+      "coordinates": "22.00160026550293, 78.91719818115234",
+      "metar_available": false
     },
     {
       "ident": "VEAH",
@@ -4919,7 +5375,8 @@
       "municipality": "Azamgarh",
       "gps_code": "VEAH",
       "iata_code": "AZH",
-      "coordinates": "26.153333, 83.118333"
+      "coordinates": "26.153333, 83.118333",
+      "metar_available": false
     },
     {
       "ident": "VEAN",
@@ -4931,7 +5388,8 @@
       "iso_region": "IN-AR",
       "gps_code": "VEAN",
       "iata_code": "IXV",
-      "coordinates": "28.17530059814453, 94.802001953125"
+      "coordinates": "28.17530059814453, 94.802001953125",
+      "metar_available": false
     },
     {
       "ident": "VEAT",
@@ -4944,7 +5402,8 @@
       "municipality": "Agartala",
       "gps_code": "VEAT",
       "iata_code": "IXA",
-      "coordinates": "23.886999, 91.240402"
+      "coordinates": "23.886999, 91.240402",
+      "metar_available": false
     },
     {
       "ident": "VEAZ",
@@ -4956,7 +5415,8 @@
       "iso_region": "IN-MZ",
       "municipality": "Aizawl",
       "gps_code": "VEAZ",
-      "coordinates": "23.746214, 92.802846"
+      "coordinates": "23.746214, 92.802846",
+      "metar_available": false
     },
     {
       "ident": "VEBA",
@@ -4968,7 +5428,8 @@
       "iso_region": "IN-WB",
       "municipality": "Behala",
       "gps_code": "VEBA",
-      "coordinates": "22.50423, 88.293427"
+      "coordinates": "22.50423, 88.293427",
+      "metar_available": false
     },
     {
       "ident": "VEBD",
@@ -4981,7 +5442,8 @@
       "municipality": "Siliguri",
       "gps_code": "VEBD",
       "iata_code": "IXB",
-      "coordinates": "26.68120002746582, 88.32859802246094"
+      "coordinates": "26.68120002746582, 88.32859802246094",
+      "metar_available": false
     },
     {
       "ident": "VEBG",
@@ -4994,7 +5456,8 @@
       "municipality": "Balurghat",
       "gps_code": "VEBG",
       "iata_code": "RGH",
-      "coordinates": "25.2617, 88.795601"
+      "coordinates": "25.2617, 88.795601",
+      "metar_available": false
     },
     {
       "ident": "VEBI",
@@ -5007,7 +5470,8 @@
       "municipality": "Shillong",
       "gps_code": "VEBI",
       "iata_code": "SHL",
-      "coordinates": "25.70359992980957, 91.97869873046875"
+      "coordinates": "25.70359992980957, 91.97869873046875",
+      "metar_available": false
     },
     {
       "ident": "VEBK",
@@ -5018,7 +5482,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "gps_code": "VEBK",
-      "coordinates": "23.643499, 86.148903"
+      "coordinates": "23.643499, 86.148903",
+      "metar_available": false
     },
     {
       "ident": "VEBM",
@@ -5030,7 +5495,8 @@
       "iso_region": "IN-OR",
       "municipality": "Berhampur (Brahmapur)",
       "gps_code": "VEBM",
-      "coordinates": "19.2975, 84.876944"
+      "coordinates": "19.2975, 84.876944",
+      "metar_available": false
     },
     {
       "ident": "VEBN",
@@ -5043,7 +5509,8 @@
       "municipality": "Varanasi",
       "gps_code": "VEBN",
       "iata_code": "VNS",
-      "coordinates": "25.452129, 82.861805"
+      "coordinates": "25.452129, 82.861805",
+      "metar_available": false
     },
     {
       "ident": "VEBS",
@@ -5056,7 +5523,8 @@
       "municipality": "Bhubaneswar",
       "gps_code": "VEBS",
       "iata_code": "BBI",
-      "coordinates": "20.244400024399997, 85.8178024292"
+      "coordinates": "20.244400024399997, 85.8178024292",
+      "metar_available": false
     },
     {
       "ident": "VEBU",
@@ -5069,7 +5537,8 @@
       "municipality": "Bilaspur",
       "gps_code": "VEBU",
       "iata_code": "PAB",
-      "coordinates": "21.9884, 82.111"
+      "coordinates": "21.9884, 82.111",
+      "metar_available": false
     },
     {
       "ident": "VECA",
@@ -5081,7 +5550,8 @@
       "iso_region": "IN-AS",
       "municipality": "Chabua",
       "gps_code": "VECA",
-      "coordinates": "27.4622, 95.117699"
+      "coordinates": "27.4622, 95.117699",
+      "metar_available": false
     },
     {
       "ident": "VECC",
@@ -5094,7 +5564,8 @@
       "municipality": "Kolkata",
       "gps_code": "VECC",
       "iata_code": "CCU",
-      "coordinates": "22.654699, 88.446701"
+      "coordinates": "22.654699, 88.446701",
+      "metar_available": false
     },
     {
       "ident": "VECK",
@@ -5105,7 +5576,8 @@
       "iso_country": "IN",
       "iso_region": "IN-JH",
       "gps_code": "VECK",
-      "coordinates": "22.4606, 86.707802"
+      "coordinates": "22.4606, 86.707802",
+      "metar_available": false
     },
     {
       "ident": "VECO",
@@ -5118,7 +5590,8 @@
       "municipality": "Cooch Behar",
       "gps_code": "VECO",
       "iata_code": "COH",
-      "coordinates": "26.3305, 89.467201"
+      "coordinates": "26.3305, 89.467201",
+      "metar_available": false
     },
     {
       "ident": "VECT",
@@ -5131,7 +5604,8 @@
       "municipality": "Chitrakoot",
       "gps_code": "VECT",
       "iata_code": "CWK",
-      "coordinates": "25.167694, 80.9358"
+      "coordinates": "25.167694, 80.9358",
+      "metar_available": false
     },
     {
       "ident": "VEDB",
@@ -5143,7 +5617,8 @@
       "iso_region": "IN-BR",
       "gps_code": "VEDB",
       "iata_code": "DBD",
-      "coordinates": "23.834, 86.425301"
+      "coordinates": "23.834, 86.425301",
+      "metar_available": false
     },
     {
       "ident": "VEDG",
@@ -5156,7 +5631,8 @@
       "municipality": "Durgapur",
       "gps_code": "VEDG",
       "iata_code": "RDP",
-      "coordinates": "23.6225, 87.243"
+      "coordinates": "23.6225, 87.243",
+      "metar_available": false
     },
     {
       "ident": "VEDH",
@@ -5170,7 +5646,8 @@
       "gps_code": "VEDH",
       "iata_code": "DBR",
       "local_code": "VEDH",
-      "coordinates": "26.192801, 85.916901"
+      "coordinates": "26.192801, 85.916901",
+      "metar_available": false
     },
     {
       "ident": "VEDO",
@@ -5183,7 +5660,8 @@
       "municipality": "Deoghar",
       "gps_code": "VEDO",
       "iata_code": "DGH",
-      "coordinates": "24.446842, 86.704955"
+      "coordinates": "24.446842, 86.704955",
+      "metar_available": false
     },
     {
       "ident": "VEDX",
@@ -5194,7 +5672,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "gps_code": "VEDX",
-      "coordinates": "22.3395, 87.2145"
+      "coordinates": "22.3395, 87.2145",
+      "metar_available": false
     },
     {
       "ident": "VEDZ",
@@ -5207,7 +5686,8 @@
       "municipality": "Daporijo",
       "gps_code": "VEDZ",
       "iata_code": "DEP",
-      "coordinates": "27.985500335699996, 94.22280120850002"
+      "coordinates": "27.985500335699996, 94.22280120850002",
+      "metar_available": false
     },
     {
       "ident": "VEGK",
@@ -5220,7 +5700,8 @@
       "municipality": "Gorakhpur",
       "gps_code": "VEGK",
       "iata_code": "GOP",
-      "coordinates": "26.739700317399997, 83.4496994019"
+      "coordinates": "26.739700317399997, 83.4496994019",
+      "metar_available": false
     },
     {
       "ident": "VEGT",
@@ -5233,7 +5714,8 @@
       "municipality": "Guwahati",
       "gps_code": "VEGT",
       "iata_code": "GAU",
-      "coordinates": "26.10610008239746, 91.58589935302734"
+      "coordinates": "26.10610008239746, 91.58589935302734",
+      "metar_available": false
     },
     {
       "ident": "VEGY",
@@ -5246,7 +5728,8 @@
       "municipality": "Gaya",
       "gps_code": "VEGY",
       "iata_code": "GAY",
-      "coordinates": "24.744301, 84.951202"
+      "coordinates": "24.744301, 84.951202",
+      "metar_available": false
     },
     {
       "ident": "VEHK",
@@ -5258,7 +5741,8 @@
       "iso_region": "IN-OR",
       "municipality": "Sambalpur",
       "gps_code": "VEHK",
-      "coordinates": "21.5802, 84.005699"
+      "coordinates": "21.5802, 84.005699",
+      "metar_available": false
     },
     {
       "ident": "VEIM",
@@ -5271,7 +5755,8 @@
       "municipality": "Imphal",
       "gps_code": "VEIM",
       "iata_code": "IMF",
-      "coordinates": "24.7600002289, 93.896697998"
+      "coordinates": "24.7600002289, 93.896697998",
+      "metar_available": false
     },
     {
       "ident": "VEJH",
@@ -5283,7 +5768,8 @@
       "iso_region": "IN-OR",
       "gps_code": "VEJH",
       "iata_code": "JRG",
-      "coordinates": "21.9135, 84.0504"
+      "coordinates": "21.9135, 84.0504",
+      "metar_available": false
     },
     {
       "ident": "VEJP",
@@ -5296,7 +5782,8 @@
       "municipality": "Jeypore",
       "gps_code": "VEJP",
       "iata_code": "PYB",
-      "coordinates": "18.879999, 82.552002"
+      "coordinates": "18.879999, 82.552002",
+      "metar_available": false
     },
     {
       "ident": "VEJS",
@@ -5309,7 +5796,8 @@
       "municipality": "Jamshedpur",
       "gps_code": "VEJS",
       "iata_code": "IXW",
-      "coordinates": "22.813786, 86.169739"
+      "coordinates": "22.813786, 86.169739",
+      "metar_available": false
     },
     {
       "ident": "VEJT",
@@ -5322,7 +5810,8 @@
       "municipality": "Jorhat",
       "gps_code": "VEJT",
       "iata_code": "JRH",
-      "coordinates": "26.7315006256, 94.1754989624"
+      "coordinates": "26.7315006256, 94.1754989624",
+      "metar_available": false
     },
     {
       "ident": "VEKI",
@@ -5335,7 +5824,8 @@
       "municipality": "Kushinagar",
       "gps_code": "VEKI",
       "iata_code": "KBK",
-      "coordinates": "26.776534, 83.889214"
+      "coordinates": "26.776534, 83.889214",
+      "metar_available": false
     },
     {
       "ident": "VEKJ",
@@ -5346,7 +5836,8 @@
       "iso_region": "IN-OR",
       "municipality": "Gopinathapur",
       "gps_code": "VEKJ",
-      "coordinates": "21.696667, 85.581667"
+      "coordinates": "21.696667, 85.581667",
+      "metar_available": false
     },
     {
       "ident": "VEKM",
@@ -5359,7 +5850,8 @@
       "municipality": "Manik Bhandar",
       "gps_code": "VEKM",
       "iata_code": "IXQ",
-      "coordinates": "24.134325, 91.810769"
+      "coordinates": "24.134325, 91.810769",
+      "metar_available": false
     },
     {
       "ident": "VEKR",
@@ -5372,7 +5864,8 @@
       "municipality": "Kailashahar",
       "gps_code": "VEKR",
       "iata_code": "IXH",
-      "coordinates": "24.308657, 92.00768"
+      "coordinates": "24.308657, 92.00768",
+      "metar_available": false
     },
     {
       "ident": "VEKU",
@@ -5385,7 +5878,8 @@
       "municipality": "Silchar",
       "gps_code": "VEKU",
       "iata_code": "IXS",
-      "coordinates": "24.9129009247, 92.97869873050001"
+      "coordinates": "24.9129009247, 92.97869873050001",
+      "metar_available": false
     },
     {
       "ident": "VEKW",
@@ -5398,7 +5892,8 @@
       "municipality": "Khowai",
       "gps_code": "VEKW",
       "iata_code": "IXN",
-      "coordinates": "24.061899, 91.603897"
+      "coordinates": "24.061899, 91.603897",
+      "metar_available": false
     },
     {
       "ident": "VELP",
@@ -5411,7 +5906,8 @@
       "municipality": "Aizawl (Lengpui)",
       "gps_code": "VELP",
       "iata_code": "AJL",
-      "coordinates": "23.840599, 92.619698"
+      "coordinates": "23.840599, 92.619698",
+      "metar_available": false
     },
     {
       "ident": "VELR",
@@ -5424,7 +5920,8 @@
       "municipality": "Lilabari",
       "gps_code": "VELR",
       "iata_code": "IXI",
-      "coordinates": "27.2955, 94.097603"
+      "coordinates": "27.2955, 94.097603",
+      "metar_available": false
     },
     {
       "ident": "VEMH",
@@ -5437,7 +5934,8 @@
       "municipality": "Malda",
       "gps_code": "VEMH",
       "iata_code": "LDA",
-      "coordinates": "25.01018, 88.126917"
+      "coordinates": "25.01018, 88.126917",
+      "metar_available": false
     },
     {
       "ident": "VEMN",
@@ -5450,7 +5948,8 @@
       "municipality": "Dibrugarh",
       "gps_code": "VEMN",
       "iata_code": "DIB",
-      "coordinates": "27.4839000702, 95.0168991089"
+      "coordinates": "27.4839000702, 95.0168991089",
+      "metar_available": false
     },
     {
       "ident": "VEMR",
@@ -5463,7 +5962,8 @@
       "municipality": "Dimapur",
       "gps_code": "VEMR",
       "iata_code": "DMU",
-      "coordinates": "25.883899688699998, 93.77110290530001"
+      "coordinates": "25.883899688699998, 93.77110290530001",
+      "metar_available": false
     },
     {
       "ident": "VEMZ",
@@ -5476,7 +5976,8 @@
       "municipality": "Muzaffarpur",
       "gps_code": "VEMZ",
       "iata_code": "MZU",
-      "coordinates": "26.119101, 85.313698"
+      "coordinates": "26.119101, 85.313698",
+      "metar_available": false
     },
     {
       "ident": "VENP",
@@ -5488,7 +5989,8 @@
       "iso_region": "IN-OR",
       "municipality": "Nawapara",
       "gps_code": "VENP",
-      "coordinates": "20.870001, 82.5196"
+      "coordinates": "20.870001, 82.5196",
+      "metar_available": false
     },
     {
       "ident": "VEPG",
@@ -5501,7 +6003,8 @@
       "municipality": "Pasighat",
       "gps_code": "VEPG",
       "iata_code": "IXT",
-      "coordinates": "28.064786, 95.336952"
+      "coordinates": "28.064786, 95.336952",
+      "metar_available": false
     },
     {
       "ident": "VEPH",
@@ -5512,7 +6015,8 @@
       "iso_country": "IN",
       "iso_region": "IN-WB",
       "gps_code": "VEPH",
-      "coordinates": "23.474300384499998, 87.4274978638"
+      "coordinates": "23.474300384499998, 87.4274978638",
+      "metar_available": false
     },
     {
       "ident": "VEPI",
@@ -5525,7 +6029,8 @@
       "municipality": "Barrackpore",
       "gps_code": "VEPI",
       "local_code": "VE31",
-      "coordinates": "22.7810001373, 88.3591995239"
+      "coordinates": "22.7810001373, 88.3591995239",
+      "metar_available": false
     },
     {
       "ident": "VEPT",
@@ -5538,7 +6043,8 @@
       "municipality": "Patna",
       "gps_code": "VEPT",
       "iata_code": "PAT",
-      "coordinates": "25.591299, 85.087997"
+      "coordinates": "25.591299, 85.087997",
+      "metar_available": false
     },
     {
       "ident": "VEPU",
@@ -5549,7 +6055,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "gps_code": "VEPU",
-      "coordinates": "25.759599685668945, 87.41000366210938"
+      "coordinates": "25.759599685668945, 87.41000366210938",
+      "metar_available": false
     },
     {
       "ident": "VERC",
@@ -5562,7 +6069,8 @@
       "municipality": "Ranchi",
       "gps_code": "VERC",
       "iata_code": "IXR",
-      "coordinates": "23.314300537100003, 85.3217010498"
+      "coordinates": "23.314300537100003, 85.3217010498",
+      "metar_available": false
     },
     {
       "ident": "VERK",
@@ -5575,7 +6083,8 @@
       "municipality": "Rourkela",
       "gps_code": "VERK",
       "iata_code": "RRK",
-      "coordinates": "22.256571, 84.815193"
+      "coordinates": "22.256571, 84.815193",
+      "metar_available": false
     },
     {
       "ident": "VERL",
@@ -5586,7 +6095,8 @@
       "iso_country": "IN",
       "iso_region": "IN-BR",
       "gps_code": "VERL",
-      "coordinates": "26.9667, 84.833298"
+      "coordinates": "26.9667, 84.833298",
+      "metar_available": false
     },
     {
       "ident": "VERU",
@@ -5599,7 +6109,8 @@
       "municipality": "Rupsi",
       "gps_code": "VERU",
       "iata_code": "RUP",
-      "coordinates": "26.141867, 89.907892"
+      "coordinates": "26.141867, 89.907892",
+      "metar_available": false
     },
     {
       "ident": "VETJ",
@@ -5612,7 +6123,8 @@
       "municipality": "Tezu",
       "gps_code": "VETJ",
       "iata_code": "TEI",
-      "coordinates": "27.9412002563, 96.1343994141"
+      "coordinates": "27.9412002563, 96.1343994141",
+      "metar_available": false
     },
     {
       "ident": "VETZ",
@@ -5624,7 +6136,8 @@
       "iso_region": "IN-AS",
       "gps_code": "VETZ",
       "iata_code": "TEZ",
-      "coordinates": "26.7091007232666, 92.78469848632812"
+      "coordinates": "26.7091007232666, 92.78469848632812",
+      "metar_available": false
     },
     {
       "ident": "VEUK",
@@ -5635,7 +6148,8 @@
       "iso_country": "IN",
       "iso_region": "IN-OR",
       "gps_code": "VEUK",
-      "coordinates": "20.097401, 83.1838"
+      "coordinates": "20.097401, 83.1838",
+      "metar_available": false
     },
     {
       "ident": "VEVZ",
@@ -5648,7 +6162,8 @@
       "municipality": "Visakhapatnam",
       "gps_code": "VOVZ",
       "iata_code": "VTZ",
-      "coordinates": "17.723506, 83.227729"
+      "coordinates": "17.723506, 83.227729",
+      "metar_available": false
     },
     {
       "ident": "VEZO",
@@ -5661,7 +6176,8 @@
       "municipality": "Ziro",
       "gps_code": "VEZO",
       "iata_code": "ZER",
-      "coordinates": "27.588301, 93.828102"
+      "coordinates": "27.588301, 93.828102",
+      "metar_available": false
     },
     {
       "ident": "VI00",
@@ -5672,7 +6188,8 @@
       "iso_region": "IN-UP",
       "municipality": "Barauli Khurd",
       "gps_code": "VI00",
-      "coordinates": "26.9202, 79.06277"
+      "coordinates": "26.9202, 79.06277",
+      "metar_available": false
     },
     {
       "ident": "VI20",
@@ -5684,7 +6201,8 @@
       "iso_region": "IN-HR",
       "gps_code": "VINL",
       "local_code": "VI20",
-      "coordinates": "28.077101, 76.205002"
+      "coordinates": "28.077101, 76.205002",
+      "metar_available": false
     },
     {
       "ident": "VI40",
@@ -5697,7 +6215,8 @@
       "municipality": "Niawal",
       "gps_code": "VI40",
       "local_code": "VI40",
-      "coordinates": "29.714663, 77.037438"
+      "coordinates": "29.714663, 77.037438",
+      "metar_available": false
     },
     {
       "ident": "VI43",
@@ -5709,7 +6228,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VI43",
       "local_code": "VI43",
-      "coordinates": "29.387800216674805, 73.90390014648438"
+      "coordinates": "29.387800216674805, 73.90390014648438",
+      "metar_available": false
     },
     {
       "ident": "VI57",
@@ -5722,7 +6242,8 @@
       "municipality": "Nubra",
       "gps_code": "VI57",
       "local_code": "VI57",
-      "coordinates": "34.652599, 77.375801"
+      "coordinates": "34.652599, 77.375801",
+      "metar_available": false
     },
     {
       "ident": "VI65",
@@ -5735,7 +6256,8 @@
       "municipality": "Kargil",
       "gps_code": "VI65",
       "local_code": "VI65",
-      "coordinates": "34.5243, 76.155899"
+      "coordinates": "34.5243, 76.155899",
+      "metar_available": false
     },
     {
       "ident": "VI66",
@@ -5748,7 +6270,8 @@
       "municipality": "Koyul",
       "gps_code": "VI66",
       "local_code": "VI66",
-      "coordinates": "32.937401, 79.213203"
+      "coordinates": "32.937401, 79.213203",
+      "metar_available": false
     },
     {
       "ident": "VI69",
@@ -5760,7 +6283,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VI69",
       "local_code": "VI69",
-      "coordinates": "28.106700897216797, 75.37560272216797"
+      "coordinates": "28.106700897216797, 75.37560272216797",
+      "metar_available": false
     },
     {
       "ident": "VI70",
@@ -5772,7 +6296,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VI70",
       "local_code": "VI70",
-      "coordinates": "28.348800659179688, 75.59369659423828"
+      "coordinates": "28.348800659179688, 75.59369659423828",
+      "metar_available": false
     },
     {
       "ident": "VI71",
@@ -5785,7 +6310,8 @@
       "municipality": "Gannan",
       "gps_code": "VI71",
       "local_code": "VI71",
-      "coordinates": "30.82457, 76.883652"
+      "coordinates": "30.82457, 76.883652",
+      "metar_available": false
     },
     {
       "ident": "VI73",
@@ -5797,7 +6323,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VI73",
       "local_code": "VI73",
-      "coordinates": "27.20829963684082, 73.7114028930664"
+      "coordinates": "27.20829963684082, 73.7114028930664",
+      "metar_available": false
     },
     {
       "ident": "VI75",
@@ -5808,7 +6335,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "municipality": "Kanpur",
-      "coordinates": "26.520399, 80.232904"
+      "coordinates": "26.520399, 80.232904",
+      "metar_available": false
     },
     {
       "ident": "VI76",
@@ -5820,7 +6348,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VI76",
       "local_code": "VI76",
-      "coordinates": "26.000099182128906, 78.26180267333984"
+      "coordinates": "26.000099182128906, 78.26180267333984",
+      "metar_available": false
     },
     {
       "ident": "VI82",
@@ -5833,7 +6362,8 @@
       "municipality": "Chinyalisour",
       "gps_code": "VI82",
       "local_code": "VI82",
-      "coordinates": "30.582583, 78.323164"
+      "coordinates": "30.582583, 78.323164",
+      "metar_available": false
     },
     {
       "ident": "VI88",
@@ -5846,7 +6376,8 @@
       "municipality": "Bhaini",
       "gps_code": "VI88",
       "local_code": "VI88",
-      "coordinates": "31.559999, 75.341301"
+      "coordinates": "31.559999, 75.341301",
+      "metar_available": false
     },
     {
       "ident": "VI90",
@@ -5859,7 +6390,8 @@
       "municipality": "Akbarpur",
       "gps_code": "VI90",
       "local_code": "VI90",
-      "coordinates": "26.447599, 82.568199"
+      "coordinates": "26.447599, 82.568199",
+      "metar_available": false
     },
     {
       "ident": "VIAG",
@@ -5872,7 +6404,8 @@
       "municipality": "Agra",
       "gps_code": "VIAG",
       "iata_code": "AGR",
-      "coordinates": "27.157683, 77.960942"
+      "coordinates": "27.157683, 77.960942",
+      "metar_available": false
     },
     {
       "ident": "VIAH",
@@ -5885,7 +6418,8 @@
       "municipality": "Aligarh",
       "gps_code": "VIAH",
       "iata_code": "HRH",
-      "coordinates": "27.861437, 78.145404"
+      "coordinates": "27.861437, 78.145404",
+      "metar_available": false
     },
     {
       "ident": "VIAL",
@@ -5899,7 +6433,8 @@
       "gps_code": "VEAB",
       "iata_code": "IXD",
       "local_code": "VEAB",
-      "coordinates": "25.4401, 81.733902"
+      "coordinates": "25.4401, 81.733902",
+      "metar_available": false
     },
     {
       "ident": "VIAM",
@@ -5912,7 +6447,8 @@
       "municipality": "Ambala",
       "gps_code": "VIAM",
       "local_code": "VI18",
-      "coordinates": "30.368099, 76.816704"
+      "coordinates": "30.368099, 76.816704",
+      "metar_available": false
     },
     {
       "ident": "VIAR",
@@ -5925,7 +6461,8 @@
       "municipality": "Amritsar",
       "gps_code": "VIAR",
       "iata_code": "ATQ",
-      "coordinates": "31.7096, 74.797302"
+      "coordinates": "31.7096, 74.797302",
+      "metar_available": false
     },
     {
       "ident": "VIAW",
@@ -5937,7 +6474,8 @@
       "iso_region": "IN-JK",
       "municipality": "Awantipura",
       "gps_code": "VIAW",
-      "coordinates": "33.876598, 74.9757"
+      "coordinates": "33.876598, 74.9757",
+      "metar_available": false
     },
     {
       "ident": "VIAX",
@@ -5950,7 +6488,8 @@
       "municipality": "Adampur",
       "gps_code": "VIAX",
       "iata_code": "AIP",
-      "coordinates": "31.4338, 75.758797"
+      "coordinates": "31.4338, 75.758797",
+      "metar_available": false
     },
     {
       "ident": "VIBK",
@@ -5963,7 +6502,8 @@
       "municipality": "Bikaner",
       "gps_code": "VIBK",
       "iata_code": "BKB",
-      "coordinates": "28.070601, 73.207199"
+      "coordinates": "28.070601, 73.207199",
+      "metar_available": false
     },
     {
       "ident": "VIBL",
@@ -5975,7 +6515,8 @@
       "iso_region": "IN-UP",
       "municipality": "Lucknow",
       "gps_code": "VIBL",
-      "coordinates": "26.9883, 80.893097"
+      "coordinates": "26.9883, 80.893097",
+      "metar_available": false
     },
     {
       "ident": "VIBR",
@@ -5988,7 +6529,8 @@
       "municipality": "Bhuntar",
       "gps_code": "VIBR",
       "iata_code": "KUU",
-      "coordinates": "31.876699, 77.154404"
+      "coordinates": "31.876699, 77.154404",
+      "metar_available": false
     },
     {
       "ident": "VIBT",
@@ -6000,7 +6542,8 @@
       "iso_region": "IN-PB",
       "gps_code": "VIBT",
       "iata_code": "BUP",
-      "coordinates": "30.2701, 74.755798"
+      "coordinates": "30.2701, 74.755798",
+      "metar_available": false
     },
     {
       "ident": "VIBW",
@@ -6012,7 +6555,8 @@
       "iso_region": "IN-HR",
       "municipality": "Bhiwani",
       "gps_code": "VIBW",
-      "coordinates": "28.837, 76.1791"
+      "coordinates": "28.837, 76.1791",
+      "metar_available": false
     },
     {
       "ident": "VIBY",
@@ -6025,7 +6569,8 @@
       "municipality": "Bareilly",
       "gps_code": "VIBY",
       "iata_code": "BEK",
-      "coordinates": "28.4221, 79.450798"
+      "coordinates": "28.4221, 79.450798",
+      "metar_available": false
     },
     {
       "ident": "VICG",
@@ -6038,7 +6583,8 @@
       "municipality": "Chandigarh",
       "gps_code": "VICG",
       "iata_code": "IXC",
-      "coordinates": "30.6735, 76.788498"
+      "coordinates": "30.6735, 76.788498",
+      "metar_available": false
     },
     {
       "ident": "VICX",
@@ -6052,7 +6598,8 @@
       "gps_code": "VEKA",
       "iata_code": "KNU",
       "local_code": "VEKA",
-      "coordinates": "26.404301, 80.410103"
+      "coordinates": "26.404301, 80.410103",
+      "metar_available": false
     },
     {
       "ident": "VIDD",
@@ -6064,7 +6611,8 @@
       "iso_region": "IN-DL",
       "municipality": "New Delhi",
       "gps_code": "VIDD",
-      "coordinates": "28.585453, 77.203563"
+      "coordinates": "28.585453, 77.203563",
+      "metar_available": false
     },
     {
       "ident": "VIDF",
@@ -6076,7 +6624,8 @@
       "iso_region": "IN-UT",
       "municipality": "Pithoragarh",
       "gps_code": "VIDF",
-      "coordinates": "29.593599, 80.239197"
+      "coordinates": "29.593599, 80.239197",
+      "metar_available": false
     },
     {
       "ident": "VIDN",
@@ -6089,7 +6638,8 @@
       "municipality": "Dehradun (Jauligrant)",
       "gps_code": "VIDN",
       "iata_code": "DED",
-      "coordinates": "30.189243, 78.176651"
+      "coordinates": "30.189243, 78.176651",
+      "metar_available": false
     },
     {
       "ident": "VIDP",
@@ -6102,7 +6652,8 @@
       "municipality": "New Delhi",
       "gps_code": "VIDP",
       "iata_code": "DEL",
-      "coordinates": "28.55563, 77.09519"
+      "coordinates": "28.55563, 77.09519",
+      "metar_available": false
     },
     {
       "ident": "VIDX",
@@ -6115,7 +6666,8 @@
       "municipality": "Ghaziabad",
       "gps_code": "VIDX",
       "iata_code": "HDO",
-      "coordinates": "28.707701, 77.358902"
+      "coordinates": "28.707701, 77.358902",
+      "metar_available": false
     },
     {
       "ident": "VIGG",
@@ -6128,7 +6680,8 @@
       "municipality": "Kangra",
       "gps_code": "VIGG",
       "iata_code": "DHM",
-      "coordinates": "32.164902, 76.263018"
+      "coordinates": "32.164902, 76.263018",
+      "metar_available": false
     },
     {
       "ident": "VIGR",
@@ -6141,7 +6694,8 @@
       "municipality": "Gwalior",
       "gps_code": "VIGR",
       "iata_code": "GWL",
-      "coordinates": "26.29330062866211, 78.22779846191406"
+      "coordinates": "26.29330062866211, 78.22779846191406",
+      "metar_available": false
     },
     {
       "ident": "VIHR",
@@ -6154,7 +6708,8 @@
       "municipality": "Hisar",
       "gps_code": "VIHR",
       "iata_code": "HSS",
-      "coordinates": "29.179399, 75.755302"
+      "coordinates": "29.179399, 75.755302",
+      "metar_available": false
     },
     {
       "ident": "VIHX",
@@ -6166,7 +6721,8 @@
       "iso_region": "IN-PB",
       "municipality": "Halwara",
       "gps_code": "VIHX",
-      "coordinates": "30.748501, 75.629799"
+      "coordinates": "30.748501, 75.629799",
+      "metar_available": false
     },
     {
       "ident": "VIJN",
@@ -6177,7 +6733,8 @@
       "iso_country": "IN",
       "iso_region": "IN-UP",
       "gps_code": "VIJN",
-      "coordinates": "25.491199, 78.558403"
+      "coordinates": "25.491199, 78.558403",
+      "metar_available": false
     },
     {
       "ident": "VIJO",
@@ -6190,7 +6747,8 @@
       "municipality": "Jodhpur",
       "gps_code": "VIJO",
       "iata_code": "JDH",
-      "coordinates": "26.251100540161133, 73.04889678955078"
+      "coordinates": "26.251100540161133, 73.04889678955078",
+      "metar_available": false
     },
     {
       "ident": "VIJP",
@@ -6203,7 +6761,8 @@
       "municipality": "Jaipur",
       "gps_code": "VIJP",
       "iata_code": "JAI",
-      "coordinates": "26.8242, 75.812202"
+      "coordinates": "26.8242, 75.812202",
+      "metar_available": false
     },
     {
       "ident": "VIJR",
@@ -6215,7 +6774,8 @@
       "iso_region": "IN-RJ",
       "gps_code": "VIJR",
       "iata_code": "JSA",
-      "coordinates": "26.8887, 70.864998"
+      "coordinates": "26.8887, 70.864998",
+      "metar_available": false
     },
     {
       "ident": "VIJU",
@@ -6228,7 +6788,8 @@
       "municipality": "Jammu",
       "gps_code": "VIJU",
       "iata_code": "IXJ",
-      "coordinates": "32.688849, 74.838152"
+      "coordinates": "32.688849, 74.838152",
+      "metar_available": false
     },
     {
       "ident": "VIKA",
@@ -6240,7 +6801,8 @@
       "iso_region": "IN-UP",
       "municipality": "Kanpur",
       "gps_code": "VIKA",
-      "coordinates": "26.440857, 80.365029"
+      "coordinates": "26.440857, 80.365029",
+      "metar_available": false
     },
     {
       "ident": "VIKG",
@@ -6252,7 +6814,8 @@
       "municipality": "Ajmer (Kishangarh)",
       "gps_code": "VIKG",
       "iata_code": "KQH",
-      "coordinates": "26.591007, 74.812956"
+      "coordinates": "26.591007, 74.812956",
+      "metar_available": false
     },
     {
       "ident": "VIKO",
@@ -6265,7 +6828,8 @@
       "municipality": "Kota",
       "gps_code": "VIKO",
       "iata_code": "KTU",
-      "coordinates": "25.160200119, 75.84559631350001"
+      "coordinates": "25.160200119, 75.84559631350001",
+      "metar_available": false
     },
     {
       "ident": "VILD",
@@ -6277,7 +6841,8 @@
       "iso_region": "IN-PB",
       "gps_code": "VILD",
       "iata_code": "LUH",
-      "coordinates": "30.854700088500977, 75.95259857177734"
+      "coordinates": "30.854700088500977, 75.95259857177734",
+      "metar_available": false
     },
     {
       "ident": "VILH",
@@ -6290,7 +6855,8 @@
       "municipality": "Leh",
       "gps_code": "VILH",
       "iata_code": "IXL",
-      "coordinates": "34.135899, 77.546501"
+      "coordinates": "34.135899, 77.546501",
+      "metar_available": false
     },
     {
       "ident": "VILK",
@@ -6303,7 +6869,8 @@
       "municipality": "Lucknow",
       "gps_code": "VILK",
       "iata_code": "LKO",
-      "coordinates": "26.7605991364, 80.8892974854"
+      "coordinates": "26.7605991364, 80.8892974854",
+      "metar_available": false
     },
     {
       "ident": "VILP",
@@ -6315,7 +6882,8 @@
       "iso_region": "IN-UP",
       "municipality": "Lalitpur",
       "gps_code": "VILP",
-      "coordinates": "24.716999053955078, 78.41699981689453"
+      "coordinates": "24.716999053955078, 78.41699981689453",
+      "metar_available": false
     },
     {
       "ident": "VIMB",
@@ -6328,7 +6896,8 @@
       "municipality": "Moradabad",
       "gps_code": "VIMB",
       "iata_code": "MZS",
-      "coordinates": "28.81746, 78.92187"
+      "coordinates": "28.81746, 78.92187",
+      "metar_available": false
     },
     {
       "ident": "VIPK",
@@ -6341,7 +6910,8 @@
       "municipality": "Pathankot",
       "gps_code": "VIPK",
       "iata_code": "IXP",
-      "coordinates": "32.233611, 75.634444"
+      "coordinates": "32.233611, 75.634444",
+      "metar_available": false
     },
     {
       "ident": "VIPL",
@@ -6352,7 +6922,8 @@
       "iso_country": "IN",
       "iso_region": "IN-PB",
       "gps_code": "VIPL",
-      "coordinates": "30.3148, 76.364502"
+      "coordinates": "30.3148, 76.364502",
+      "metar_available": false
     },
     {
       "ident": "VIPT",
@@ -6365,7 +6936,8 @@
       "municipality": "Pantnagar",
       "gps_code": "VIPT",
       "iata_code": "PGH",
-      "coordinates": "29.0334, 79.473701"
+      "coordinates": "29.0334, 79.473701",
+      "metar_available": false
     },
     {
       "ident": "VIPX",
@@ -6375,7 +6947,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "gps_code": "VIPX",
-      "coordinates": "27.104866, 72.212894"
+      "coordinates": "27.104866, 72.212894",
+      "metar_available": false
     },
     {
       "ident": "VIRB",
@@ -6387,7 +6960,8 @@
       "iso_region": "IN-UP",
       "municipality": "Tarauna",
       "gps_code": "VERB",
-      "coordinates": "26.248501, 81.380501"
+      "coordinates": "26.248501, 81.380501",
+      "metar_available": false
     },
     {
       "ident": "VISA",
@@ -6398,7 +6972,8 @@
       "iso_country": "IN",
       "iso_region": "IN-HR",
       "gps_code": "VISA",
-      "coordinates": "29.5606, 75.006104"
+      "coordinates": "29.5606, 75.006104",
+      "metar_available": false
     },
     {
       "ident": "VISM",
@@ -6411,7 +6986,8 @@
       "municipality": "Jubbarhatti",
       "gps_code": "VISM",
       "iata_code": "SLV",
-      "coordinates": "31.0818, 77.068001"
+      "coordinates": "31.0818, 77.068001",
+      "metar_available": false
     },
     {
       "ident": "VISP",
@@ -6424,7 +7000,8 @@
       "municipality": "Sherpur Naqeebpur",
       "gps_code": "VISP",
       "iata_code": "SWN",
-      "coordinates": "29.994303, 77.42456"
+      "coordinates": "29.994303, 77.42456",
+      "metar_available": false
     },
     {
       "ident": "VISR",
@@ -6437,7 +7014,8 @@
       "municipality": "Srinagar",
       "gps_code": "VISR",
       "iata_code": "SXR",
-      "coordinates": "33.987099, 74.7742"
+      "coordinates": "33.987099, 74.7742",
+      "metar_available": false
     },
     {
       "ident": "VIST",
@@ -6449,7 +7027,8 @@
       "iso_region": "IN-MP",
       "gps_code": "VEST",
       "iata_code": "TNI",
-      "coordinates": "24.56262, 80.852927"
+      "coordinates": "24.56262, 80.852927",
+      "metar_available": false
     },
     {
       "ident": "VISV",
@@ -6462,7 +7041,8 @@
       "municipality": "Shravasti",
       "gps_code": "VISV",
       "iata_code": "VSV",
-      "coordinates": "27.499732, 82.032927"
+      "coordinates": "27.499732, 82.032927",
+      "metar_available": false
     },
     {
       "ident": "VIUT",
@@ -6473,7 +7053,8 @@
       "iso_country": "IN",
       "iso_region": "IN-RJ",
       "gps_code": "VIUT",
-      "coordinates": "25.813, 71.4823"
+      "coordinates": "25.813, 71.4823",
+      "metar_available": false
     },
     {
       "ident": "VIUX",
@@ -6485,7 +7066,8 @@
       "iso_region": "IN-JK",
       "municipality": "Udhampur",
       "gps_code": "VIUX",
-      "coordinates": "32.902152, 75.155709"
+      "coordinates": "32.902152, 75.155709",
+      "metar_available": false
     },
     {
       "ident": "VO26",
@@ -6498,7 +7080,8 @@
       "municipality": "Nallatinputhur",
       "gps_code": "VO26",
       "local_code": "VO26",
-      "coordinates": "9.15389, 77.821198"
+      "coordinates": "9.15389, 77.821198",
+      "metar_available": false
     },
     {
       "ident": "VO52",
@@ -6511,7 +7094,8 @@
       "municipality": "Harihar",
       "gps_code": "VO52",
       "local_code": "VO52",
-      "coordinates": "14.534533, 75.786879"
+      "coordinates": "14.534533, 75.786879",
+      "metar_available": false
     },
     {
       "ident": "VO94",
@@ -6523,7 +7107,8 @@
       "iso_region": "IN-AN",
       "municipality": "Campbell Bay",
       "gps_code": "VOBX",
-      "coordinates": "7.01304, 93.922798"
+      "coordinates": "7.01304, 93.922798",
+      "metar_available": false
     },
     {
       "ident": "VO95",
@@ -6535,7 +7120,8 @@
       "iso_region": "IN-TN",
       "gps_code": "VO95",
       "local_code": "VO95",
-      "coordinates": "12.661299705505371, 77.76719665527344"
+      "coordinates": "12.661299705505371, 77.76719665527344",
+      "metar_available": false
     },
     {
       "ident": "VOAR",
@@ -6547,7 +7133,8 @@
       "iso_region": "IN-TN",
       "municipality": "Arakkonam",
       "gps_code": "VOAR",
-      "coordinates": "13.0712, 79.6912"
+      "coordinates": "13.0712, 79.6912",
+      "metar_available": false
     },
     {
       "ident": "VOAT",
@@ -6560,7 +7147,8 @@
       "municipality": "Agatti",
       "gps_code": "VOAT",
       "iata_code": "AGX",
-      "coordinates": "10.8237, 72.176003"
+      "coordinates": "10.8237, 72.176003",
+      "metar_available": false
     },
     {
       "ident": "VOBG",
@@ -6572,7 +7160,8 @@
       "iso_region": "IN-KA",
       "municipality": "Bangalore",
       "gps_code": "VOBG",
-      "coordinates": "12.95, 77.668198"
+      "coordinates": "12.95, 77.668198",
+      "metar_available": false
     },
     {
       "ident": "VOBI",
@@ -6585,7 +7174,8 @@
       "municipality": "Bellary",
       "gps_code": "VOBI",
       "iata_code": "BEP",
-      "coordinates": "15.162799835205078, 76.88279724121094"
+      "coordinates": "15.162799835205078, 76.88279724121094",
+      "metar_available": false
     },
     {
       "ident": "VOBL",
@@ -6598,7 +7188,8 @@
       "municipality": "Bangalore",
       "gps_code": "VOBL",
       "iata_code": "BLR",
-      "coordinates": "13.1979, 77.706299"
+      "coordinates": "13.1979, 77.706299",
+      "metar_available": false
     },
     {
       "ident": "VOBR",
@@ -6611,7 +7202,8 @@
       "municipality": "Bidar",
       "gps_code": "VOBR",
       "iata_code": "IXX",
-      "coordinates": "17.9081, 77.487099"
+      "coordinates": "17.9081, 77.487099",
+      "metar_available": false
     },
     {
       "ident": "VOBZ",
@@ -6624,7 +7216,8 @@
       "municipality": "Gannavaram",
       "gps_code": "VOBZ",
       "iata_code": "VGA",
-      "coordinates": "16.530399, 80.796799"
+      "coordinates": "16.530399, 80.796799",
+      "metar_available": false
     },
     {
       "ident": "VOCB",
@@ -6637,7 +7230,8 @@
       "municipality": "Coimbatore",
       "gps_code": "VOCB",
       "iata_code": "CJB",
-      "coordinates": "11.029999733, 77.0434036255"
+      "coordinates": "11.029999733, 77.0434036255",
+      "metar_available": false
     },
     {
       "ident": "VOCC",
@@ -6649,7 +7243,8 @@
       "iso_region": "IN-KL",
       "municipality": "Kochi",
       "gps_code": "VOCC",
-      "coordinates": "9.946064, 76.271947"
+      "coordinates": "9.946064, 76.271947",
+      "metar_available": false
     },
     {
       "ident": "VOCI",
@@ -6662,7 +7257,8 @@
       "municipality": "Kochi",
       "gps_code": "VOCI",
       "iata_code": "COK",
-      "coordinates": "10.151047, 76.400838"
+      "coordinates": "10.151047, 76.400838",
+      "metar_available": false
     },
     {
       "ident": "VOCL",
@@ -6675,7 +7271,8 @@
       "municipality": "Calicut",
       "gps_code": "VOCL",
       "iata_code": "CCJ",
-      "coordinates": "11.1368, 75.955299"
+      "coordinates": "11.1368, 75.955299",
+      "metar_available": false
     },
     {
       "ident": "VOCP",
@@ -6688,7 +7285,8 @@
       "municipality": "Kadapa",
       "gps_code": "VOCP",
       "iata_code": "CDP",
-      "coordinates": "14.513154, 78.769183"
+      "coordinates": "14.513154, 78.769183",
+      "metar_available": false
     },
     {
       "ident": "VOCX",
@@ -6701,7 +7299,8 @@
       "municipality": "IAF Camp",
       "gps_code": "VOCX",
       "iata_code": "CBD",
-      "coordinates": "9.153056, 92.819273"
+      "coordinates": "9.153056, 92.819273",
+      "metar_available": false
     },
     {
       "ident": "VODG",
@@ -6713,7 +7312,8 @@
       "iso_region": "IN-TG",
       "municipality": "Hyderabad",
       "gps_code": "VODG",
-      "coordinates": "17.627199173, 78.4033966064"
+      "coordinates": "17.627199173, 78.4033966064",
+      "metar_available": false
     },
     {
       "ident": "VOGA",
@@ -6726,7 +7326,8 @@
       "municipality": "Mopa",
       "gps_code": "VOGA",
       "iata_code": "GOX",
-      "coordinates": "15.744257, 73.860625"
+      "coordinates": "15.744257, 73.860625",
+      "metar_available": false
     },
     {
       "ident": "VOGB",
@@ -6739,7 +7340,8 @@
       "municipality": "Kalaburagi",
       "gps_code": "VOGB",
       "iata_code": "GBI",
-      "coordinates": "17.308154, 76.965246"
+      "coordinates": "17.308154, 76.965246",
+      "metar_available": false
     },
     {
       "ident": "VOGO",
@@ -6752,7 +7354,8 @@
       "municipality": "Vasco da Gama",
       "gps_code": "VOGO",
       "iata_code": "GOI",
-      "coordinates": "15.3808, 73.831398"
+      "coordinates": "15.3808, 73.831398",
+      "metar_available": false
     },
     {
       "ident": "VOHK",
@@ -6764,7 +7367,8 @@
       "iso_region": "IN-TG",
       "municipality": "Secunderabad",
       "gps_code": "VOHK",
-      "coordinates": "17.553499, 78.524902"
+      "coordinates": "17.553499, 78.524902",
+      "metar_available": false
     },
     {
       "ident": "VOHS",
@@ -6777,7 +7381,8 @@
       "municipality": "Hyderabad",
       "gps_code": "VOHS",
       "iata_code": "HYD",
-      "coordinates": "17.231318, 78.429855"
+      "coordinates": "17.231318, 78.429855",
+      "metar_available": false
     },
     {
       "ident": "VOHY",
@@ -6790,7 +7395,8 @@
       "municipality": "Hyderabad",
       "gps_code": "VOHY",
       "iata_code": "BPM",
-      "coordinates": "17.4531, 78.467598"
+      "coordinates": "17.4531, 78.467598",
+      "metar_available": false
     },
     {
       "ident": "VOJV",
@@ -6803,7 +7409,8 @@
       "municipality": "Toranagallu",
       "gps_code": "VOJV",
       "iata_code": "VDY",
-      "coordinates": "15.175921, 76.63303"
+      "coordinates": "15.175921, 76.63303",
+      "metar_available": false
     },
     {
       "ident": "VOKN",
@@ -6816,7 +7423,8 @@
       "municipality": "Kannur",
       "gps_code": "VOKN",
       "iata_code": "CNN",
-      "coordinates": "11.918614, 75.547211"
+      "coordinates": "11.918614, 75.547211",
+      "metar_available": false
     },
     {
       "ident": "VOKP",
@@ -6828,7 +7436,8 @@
       "iso_region": "IN-KA",
       "municipality": "Basapur",
       "gps_code": "VOKP",
-      "coordinates": "15.359481, 76.219411"
+      "coordinates": "15.359481, 76.219411",
+      "metar_available": false
     },
     {
       "ident": "VOKU",
@@ -6842,7 +7451,8 @@
       "gps_code": "VOKU",
       "iata_code": "KJB",
       "local_code": "KJB",
-      "coordinates": "15.716288, 78.16923"
+      "coordinates": "15.716288, 78.16923",
+      "metar_available": false
     },
     {
       "ident": "VOMD",
@@ -6855,7 +7465,8 @@
       "municipality": "Madurai",
       "gps_code": "VOMD",
       "iata_code": "IXM",
-      "coordinates": "9.83450984955, 78.09339904790001"
+      "coordinates": "9.83450984955, 78.09339904790001",
+      "metar_available": false
     },
     {
       "ident": "VOML",
@@ -6868,7 +7479,8 @@
       "municipality": "Mangalore",
       "gps_code": "VOML",
       "iata_code": "IXE",
-      "coordinates": "12.9612998962, 74.8900985718"
+      "coordinates": "12.9612998962, 74.8900985718",
+      "metar_available": false
     },
     {
       "ident": "VOMM",
@@ -6881,7 +7493,8 @@
       "municipality": "Chennai",
       "gps_code": "VOMM",
       "iata_code": "MAA",
-      "coordinates": "12.990005, 80.169296"
+      "coordinates": "12.990005, 80.169296",
+      "metar_available": false
     },
     {
       "ident": "VOMY",
@@ -6894,7 +7507,8 @@
       "municipality": "Mysore",
       "gps_code": "VOMY",
       "iata_code": "MYQ",
-      "coordinates": "12.23, 76.655833"
+      "coordinates": "12.23, 76.655833",
+      "metar_available": false
     },
     {
       "ident": "VONS",
@@ -6906,7 +7520,8 @@
       "iso_region": "IN-AP",
       "municipality": "Nagarjuna Sagar",
       "gps_code": "VONS",
-      "coordinates": "16.541574, 79.316504"
+      "coordinates": "16.541574, 79.316504",
+      "metar_available": false
     },
     {
       "ident": "VONV",
@@ -6919,7 +7534,8 @@
       "municipality": "Neyveli",
       "gps_code": "VONV",
       "iata_code": "NVY",
-      "coordinates": "11.612956, 79.527382"
+      "coordinates": "11.612956, 79.527382",
+      "metar_available": false
     },
     {
       "ident": "VOPB",
@@ -6932,7 +7548,8 @@
       "municipality": "Port Blair",
       "gps_code": "VOPB",
       "iata_code": "IXZ",
-      "coordinates": "11.641208, 92.729643"
+      "coordinates": "11.641208, 92.729643",
+      "metar_available": false
     },
     {
       "ident": "VOPC",
@@ -6945,7 +7562,8 @@
       "municipality": "Puducherry (Pondicherry)",
       "gps_code": "VOPC",
       "iata_code": "PNY",
-      "coordinates": "11.968, 79.812"
+      "coordinates": "11.968, 79.812",
+      "metar_available": false
     },
     {
       "ident": "VOPN",
@@ -6958,7 +7576,8 @@
       "municipality": "Puttaparthi",
       "gps_code": "VOPN",
       "iata_code": "PUT",
-      "coordinates": "14.1492996216, 77.7910995483"
+      "coordinates": "14.1492996216, 77.7910995483",
+      "metar_available": false
     },
     {
       "ident": "VORG",
@@ -6971,7 +7590,8 @@
       "municipality": "Ramagundam",
       "gps_code": "VORG",
       "iata_code": "RMD",
-      "coordinates": "18.701, 79.3923"
+      "coordinates": "18.701, 79.3923",
+      "metar_available": false
     },
     {
       "ident": "VORM",
@@ -6983,7 +7603,8 @@
       "iso_region": "IN-TN",
       "municipality": "Ramnad",
       "gps_code": "VORM",
-      "coordinates": "9.32509, 78.971497"
+      "coordinates": "9.32509, 78.971497",
+      "metar_available": false
     },
     {
       "ident": "VORR",
@@ -6994,7 +7615,8 @@
       "iso_country": "IN",
       "iso_region": "IN-KA",
       "gps_code": "VORR",
-      "coordinates": "16.279722, 77.360278"
+      "coordinates": "16.279722, 77.360278",
+      "metar_available": false
     },
     {
       "ident": "VORY",
@@ -7007,7 +7629,8 @@
       "municipality": "Madhurapudi",
       "gps_code": "VORY",
       "iata_code": "RJA",
-      "coordinates": "17.105799, 81.813204"
+      "coordinates": "17.105799, 81.813204",
+      "metar_available": false
     },
     {
       "ident": "VOSM",
@@ -7020,7 +7643,8 @@
       "municipality": "Salem",
       "gps_code": "VOSM",
       "iata_code": "SXV",
-      "coordinates": "11.78330039978, 78.06559753418"
+      "coordinates": "11.78330039978, 78.06559753418",
+      "metar_available": false
     },
     {
       "ident": "VOSR",
@@ -7034,7 +7658,8 @@
       "gps_code": "VOSR",
       "iata_code": "SDW",
       "local_code": "VOSR",
-      "coordinates": "16, 73.533333"
+      "coordinates": "16, 73.533333",
+      "metar_available": false
     },
     {
       "ident": "VOSX",
@@ -7046,7 +7671,8 @@
       "iso_region": "IN-TN",
       "municipality": "Sulur",
       "gps_code": "VOSX",
-      "coordinates": "11.0136, 77.159698"
+      "coordinates": "11.0136, 77.159698",
+      "metar_available": false
     },
     {
       "ident": "VOTJ",
@@ -7059,7 +7685,8 @@
       "municipality": "Thanjavur",
       "gps_code": "VOTJ",
       "iata_code": "TJV",
-      "coordinates": "10.723835, 79.109457"
+      "coordinates": "10.723835, 79.109457",
+      "metar_available": false
     },
     {
       "ident": "VOTK",
@@ -7072,7 +7699,8 @@
       "municipality": "Vagaikulam",
       "gps_code": "VOTK",
       "iata_code": "TCR",
-      "coordinates": "8.724241, 78.025803"
+      "coordinates": "8.724241, 78.025803",
+      "metar_available": false
     },
     {
       "ident": "VOTP",
@@ -7085,7 +7713,8 @@
       "municipality": "Tirupati",
       "gps_code": "VOTP",
       "iata_code": "TIR",
-      "coordinates": "13.632499694800002, 79.543296814"
+      "coordinates": "13.632499694800002, 79.543296814",
+      "metar_available": false
     },
     {
       "ident": "VOTR",
@@ -7098,7 +7727,8 @@
       "municipality": "Tiruchirappalli",
       "gps_code": "VOTR",
       "iata_code": "TRZ",
-      "coordinates": "10.766223, 78.71774"
+      "coordinates": "10.766223, 78.71774",
+      "metar_available": false
     },
     {
       "ident": "VOTV",
@@ -7111,7 +7741,8 @@
       "municipality": "Thiruvananthapuram",
       "gps_code": "VOTV",
       "iata_code": "TRV",
-      "coordinates": "8.48212, 76.920097"
+      "coordinates": "8.48212, 76.920097",
+      "metar_available": false
     },
     {
       "ident": "VOTX",
@@ -7123,7 +7754,8 @@
       "iso_region": "IN-TN",
       "municipality": "Chennai",
       "gps_code": "VOTX",
-      "coordinates": "12.9072, 80.121902"
+      "coordinates": "12.9072, 80.121902",
+      "metar_available": false
     },
     {
       "ident": "VOVR",
@@ -7135,7 +7767,8 @@
       "iso_region": "IN-TN",
       "municipality": "Vellore",
       "gps_code": "VOVR",
-      "coordinates": "12.9088, 79.066803"
+      "coordinates": "12.9088, 79.066803",
+      "metar_available": false
     },
     {
       "ident": "VOWA",
@@ -7148,7 +7781,8 @@
       "municipality": "Warangal",
       "gps_code": "VOWA",
       "iata_code": "WGC",
-      "coordinates": "17.9144, 79.602203"
+      "coordinates": "17.9144, 79.602203",
+      "metar_available": false
     },
     {
       "ident": "VOYK",
@@ -7160,7 +7794,8 @@
       "iso_region": "IN-KA",
       "municipality": "Yelahanka",
       "gps_code": "VOYK",
-      "coordinates": "13.135499954223633, 77.60600280761719"
+      "coordinates": "13.135499954223633, 77.60600280761719",
+      "metar_available": false
     }
   ]
 }

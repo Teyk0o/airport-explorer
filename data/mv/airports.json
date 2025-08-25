@@ -2,7 +2,7 @@
   "country_code": "MV",
   "country_name": "Maldives",
   "total_airports": 31,
-  "last_updated": "2025-08-01T00:18:22.713706",
+  "last_updated": "2025-08-25T10:08:40.857319",
   "types_distribution": {
     "small_airport": 13,
     "seaplane_base": 11,
@@ -20,7 +20,8 @@
       "municipality": "Funadhoo",
       "iata_code": "FND",
       "local_code": "FND",
-      "coordinates": "6.162443, 73.28752"
+      "coordinates": "6.162443, 73.28752",
+      "metar_available": false
     },
     {
       "ident": "LMV",
@@ -33,7 +34,8 @@
       "municipality": "Naifaru",
       "gps_code": "VRGD",
       "iata_code": "LMV",
-      "coordinates": "5.457545, 73.370261"
+      "coordinates": "5.457545, 73.370261",
+      "metar_available": false
     },
     {
       "ident": "MV-0001",
@@ -42,7 +44,8 @@
       "continent": "AS",
       "iso_country": "MV",
       "iso_region": "MV-MLE",
-      "coordinates": "3.92496803919, 73.4516716003"
+      "coordinates": "3.92496803919, 73.4516716003",
+      "metar_available": false
     },
     {
       "ident": "MV-0002",
@@ -52,7 +55,8 @@
       "iso_country": "MV",
       "iso_region": "MV-13",
       "municipality": "Kudafushi",
-      "coordinates": "5.50897, 72.98045"
+      "coordinates": "5.50897, 72.98045",
+      "metar_available": false
     },
     {
       "ident": "MV-0003",
@@ -62,7 +66,8 @@
       "iso_country": "MV",
       "iso_region": "MV-20",
       "municipality": "Kihavah Huravalhi",
-      "coordinates": "5.29819, 73.0575"
+      "coordinates": "5.29819, 73.0575",
+      "metar_available": false
     },
     {
       "ident": "MV-0004",
@@ -72,7 +77,8 @@
       "iso_country": "MV",
       "iso_region": "MV-20",
       "municipality": "Voavah",
-      "coordinates": "5.31731, 73.07896"
+      "coordinates": "5.31731, 73.07896",
+      "metar_available": false
     },
     {
       "ident": "MV-0005",
@@ -82,7 +88,8 @@
       "iso_country": "MV",
       "iso_region": "MV-20",
       "municipality": "Vakkaru",
-      "coordinates": "5.13636, 72.91026"
+      "coordinates": "5.13636, 72.91026",
+      "metar_available": false
     },
     {
       "ident": "MV-0006",
@@ -92,7 +99,8 @@
       "iso_country": "MV",
       "iso_region": "MV-20",
       "municipality": "Hirundhoo",
-      "coordinates": "5.21786, 73.15481"
+      "coordinates": "5.21786, 73.15481",
+      "metar_available": false
     },
     {
       "ident": "MV-0007",
@@ -102,7 +110,8 @@
       "iso_country": "MV",
       "iso_region": "MV-25",
       "municipality": "Orivaru",
-      "coordinates": "5.8048, 73.29992"
+      "coordinates": "5.8048, 73.29992",
+      "metar_available": false
     },
     {
       "ident": "MV-0008",
@@ -112,7 +121,8 @@
       "iso_country": "MV",
       "iso_region": "MV-17",
       "municipality": "Olhuveli",
-      "coordinates": "2.68125, 72.93134"
+      "coordinates": "2.68125, 72.93134",
+      "metar_available": false
     },
     {
       "ident": "MV-0009",
@@ -122,7 +132,8 @@
       "iso_country": "MV",
       "iso_region": "MV-17",
       "municipality": "Boduthakurufaanu Magu",
-      "coordinates": "2.7391, 73.01475"
+      "coordinates": "2.7391, 73.01475",
+      "metar_available": false
     },
     {
       "ident": "MV-0010",
@@ -132,7 +143,8 @@
       "iso_country": "MV",
       "iso_region": "MV-17",
       "municipality": "Rinbudhoo",
-      "coordinates": "2.9477, 72.9167"
+      "coordinates": "2.9477, 72.9167",
+      "metar_available": false
     },
     {
       "ident": "MV-0011",
@@ -142,7 +154,8 @@
       "iso_country": "MV",
       "iso_region": "MV-08",
       "municipality": "Maalefushi",
-      "coordinates": "2.31339, 73.29609"
+      "coordinates": "2.31339, 73.29609",
+      "metar_available": false
     },
     {
       "ident": "MV-0012",
@@ -154,7 +167,8 @@
       "municipality": "Faresmaathodaa",
       "gps_code": "VRQF",
       "iata_code": "FMT",
-      "coordinates": "0.192647, 73.196755"
+      "coordinates": "0.192647, 73.196755",
+      "metar_available": false
     },
     {
       "ident": "MV-0013",
@@ -165,7 +179,8 @@
       "iso_region": "MV-12",
       "municipality": "Muli",
       "iata_code": "MUM",
-      "coordinates": "2.911389, 73.583611"
+      "coordinates": "2.911389, 73.583611",
+      "metar_available": false
     },
     {
       "ident": "VRAH",
@@ -176,7 +191,8 @@
       "iso_region": "MV-07",
       "gps_code": "VRAH",
       "iata_code": "HRF",
-      "coordinates": "6.96967, 72.896287"
+      "coordinates": "6.96967, 72.896287",
+      "metar_available": false
     },
     {
       "ident": "VRBK",
@@ -189,7 +205,8 @@
       "gps_code": "VRBK",
       "iata_code": "HDK",
       "local_code": "HDK",
-      "coordinates": "6.630762, 73.067815"
+      "coordinates": "6.630762, 73.067815",
+      "metar_available": false
     },
     {
       "ident": "VRDA",
@@ -202,7 +219,8 @@
       "municipality": "Noonu Atoll",
       "gps_code": "VRDA",
       "iata_code": "NMF",
-      "coordinates": "5.818394, 73.469181"
+      "coordinates": "5.818394, 73.469181",
+      "metar_available": false
     },
     {
       "ident": "VREI",
@@ -215,7 +233,8 @@
       "municipality": "Ifuru Island",
       "gps_code": "VREI",
       "iata_code": "IFU",
-      "coordinates": "5.7083, 73.025"
+      "coordinates": "5.7083, 73.025",
+      "metar_available": false
     },
     {
       "ident": "VRMD",
@@ -228,7 +247,8 @@
       "municipality": "Baa Atoll",
       "gps_code": "VRMD",
       "iata_code": "DRV",
-      "coordinates": "5.1561, 73.1302"
+      "coordinates": "5.1561, 73.1302",
+      "metar_available": false
     },
     {
       "ident": "VRMF",
@@ -241,7 +261,8 @@
       "municipality": "Fuvahmulah Island",
       "gps_code": "VRMR",
       "iata_code": "FVM",
-      "coordinates": "-0.309722, 73.435"
+      "coordinates": "-0.309722, 73.435",
+      "metar_available": false
     },
     {
       "ident": "VRMG",
@@ -254,7 +275,8 @@
       "municipality": "Gan",
       "gps_code": "VRMG",
       "iata_code": "GAN",
-      "coordinates": "-0.692694, 73.151557"
+      "coordinates": "-0.692694, 73.151557",
+      "metar_available": false
     },
     {
       "ident": "VRMH",
@@ -267,7 +289,8 @@
       "municipality": "Haa Dhaalu Atoll",
       "gps_code": "VRMH",
       "iata_code": "HAQ",
-      "coordinates": "6.744229793548584, 73.17050170898438"
+      "coordinates": "6.744229793548584, 73.17050170898438",
+      "metar_available": false
     },
     {
       "ident": "VRMK",
@@ -280,7 +303,8 @@
       "municipality": "Kadhdhoo",
       "gps_code": "VRMK",
       "iata_code": "KDO",
-      "coordinates": "1.8591699600219727, 73.52189636230469"
+      "coordinates": "1.8591699600219727, 73.52189636230469",
+      "metar_available": false
     },
     {
       "ident": "VRMM",
@@ -293,7 +317,8 @@
       "municipality": "Malé",
       "gps_code": "VRMM",
       "iata_code": "MLE",
-      "coordinates": "4.191830158233643, 73.52909851074219"
+      "coordinates": "4.191830158233643, 73.52909851074219",
+      "metar_available": false
     },
     {
       "ident": "VRMO",
@@ -306,7 +331,8 @@
       "municipality": "Huvadhu Atoll",
       "gps_code": "VRMO",
       "iata_code": "GKK",
-      "coordinates": "0.7324, 73.4336"
+      "coordinates": "0.7324, 73.4336",
+      "metar_available": false
     },
     {
       "ident": "VRMT",
@@ -319,7 +345,8 @@
       "municipality": "Huvadhu Atoll",
       "gps_code": "VRMT",
       "iata_code": "KDM",
-      "coordinates": "0.488131, 72.996902"
+      "coordinates": "0.488131, 72.996902",
+      "metar_available": false
     },
     {
       "ident": "VRMU",
@@ -332,7 +359,8 @@
       "municipality": "Kudahuvadhoo",
       "gps_code": "VRMU",
       "iata_code": "DDD",
-      "coordinates": "2.666075, 72.887118"
+      "coordinates": "2.666075, 72.887118",
+      "metar_available": false
     },
     {
       "ident": "VRMV",
@@ -345,7 +373,8 @@
       "municipality": "Maamigili",
       "gps_code": "VRMV",
       "iata_code": "VAM",
-      "coordinates": "3.470556, 72.835833"
+      "coordinates": "3.470556, 72.835833",
+      "metar_available": false
     },
     {
       "ident": "VRNT",
@@ -358,7 +387,8 @@
       "municipality": "Thimarafushi",
       "gps_code": "VRNT",
       "iata_code": "TMF",
-      "coordinates": "2.211, 73.1533"
+      "coordinates": "2.211, 73.1533",
+      "metar_available": false
     },
     {
       "ident": "VRQM",
@@ -371,7 +401,8 @@
       "gps_code": "VRQM",
       "iata_code": "RUL",
       "local_code": "RUL",
-      "coordinates": "0.338085, 73.512869"
+      "coordinates": "0.338085, 73.512869",
+      "metar_available": false
     }
   ]
 }

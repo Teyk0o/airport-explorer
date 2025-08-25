@@ -2,7 +2,7 @@
   "country_code": "CK",
   "country_name": "Cook Islands",
   "total_airports": 10,
-  "last_updated": "2025-08-01T00:18:22.830876",
+  "last_updated": "2025-08-25T10:08:40.985462",
   "types_distribution": {
     "small_airport": 9,
     "medium_airport": 1
@@ -19,7 +19,8 @@
       "municipality": "Aitutaki",
       "gps_code": "NCAI",
       "iata_code": "AIT",
-      "coordinates": "-18.8309, -159.764008"
+      "coordinates": "-18.8309, -159.764008",
+      "metar_available": false
     },
     {
       "ident": "NCAT",
@@ -32,7 +33,8 @@
       "municipality": "Atiu Island",
       "gps_code": "NCAT",
       "iata_code": "AIU",
-      "coordinates": "-19.96780014038086, -158.11900329589844"
+      "coordinates": "-19.96780014038086, -158.11900329589844",
+      "metar_available": false
     },
     {
       "ident": "NCMG",
@@ -45,7 +47,8 @@
       "municipality": "Mangaia Island",
       "gps_code": "NCMG",
       "iata_code": "MGS",
-      "coordinates": "-21.895987, -157.906662"
+      "coordinates": "-21.895987, -157.906662",
+      "metar_available": false
     },
     {
       "ident": "NCMH",
@@ -57,7 +60,8 @@
       "municipality": "Manihiki Island",
       "gps_code": "NCMH",
       "iata_code": "MHX",
-      "coordinates": "-10.376700401306152, -161.0019989013672"
+      "coordinates": "-10.376700401306152, -161.0019989013672",
+      "metar_available": false
     },
     {
       "ident": "NCMK",
@@ -70,7 +74,8 @@
       "municipality": "Mauke Island",
       "gps_code": "NCMK",
       "iata_code": "MUK",
-      "coordinates": "-20.13610076904297, -157.34500122070312"
+      "coordinates": "-20.13610076904297, -157.34500122070312",
+      "metar_available": false
     },
     {
       "ident": "NCMN",
@@ -82,7 +87,8 @@
       "iso_region": "CK-U-A",
       "municipality": "Manuae",
       "gps_code": "NCMN",
-      "coordinates": "-19.269152, -158.959408"
+      "coordinates": "-19.269152, -158.959408",
+      "metar_available": false
     },
     {
       "ident": "NCMR",
@@ -95,7 +101,8 @@
       "municipality": "Mitiaro Island",
       "gps_code": "NCMR",
       "iata_code": "MOI",
-      "coordinates": "-19.842501, -157.703003"
+      "coordinates": "-19.842501, -157.703003",
+      "metar_available": false
     },
     {
       "ident": "NCPK",
@@ -108,7 +115,8 @@
       "municipality": "Pukapuka Atoll",
       "gps_code": "NCPK",
       "iata_code": "PZK",
-      "coordinates": "-10.9145, -165.8393"
+      "coordinates": "-10.9145, -165.8393",
+      "metar_available": false
     },
     {
       "ident": "NCPY",
@@ -121,7 +129,8 @@
       "municipality": "Penrhyn Island",
       "gps_code": "NCPY",
       "iata_code": "PYE",
-      "coordinates": "-9.01437, -158.03241"
+      "coordinates": "-9.01437, -158.03241",
+      "metar_available": false
     },
     {
       "ident": "NCRG",
@@ -134,7 +143,8 @@
       "municipality": "Avarua",
       "gps_code": "NCRG",
       "iata_code": "RAR",
-      "coordinates": "-21.2027, -159.806"
+      "coordinates": "-21.2027, -159.806",
+      "metar_available": false
     }
   ]
 }

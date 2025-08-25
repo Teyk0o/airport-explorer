@@ -2,7 +2,7 @@
   "country_code": "QA",
   "country_name": "Qatar",
   "total_airports": 21,
-  "last_updated": "2025-08-01T00:18:22.839710",
+  "last_updated": "2025-08-25T10:08:40.994946",
   "types_distribution": {
     "small_airport": 5,
     "medium_airport": 2,
@@ -22,7 +22,8 @@
       "municipality": "Al-Shahaniya",
       "gps_code": "OT62",
       "local_code": "OT62",
-      "coordinates": "25.700539, 51.36303"
+      "coordinates": "25.700539, 51.36303",
+      "metar_available": false
     },
     {
       "ident": "OTBD",
@@ -35,7 +36,8 @@
       "municipality": "Doha",
       "gps_code": "OTBD",
       "iata_code": "DIA",
-      "coordinates": "25.261101, 51.565102"
+      "coordinates": "25.261101, 51.565102",
+      "metar_available": false
     },
     {
       "ident": "OTBH",
@@ -48,7 +50,8 @@
       "municipality": "Ar Rayyan",
       "gps_code": "OTBH",
       "iata_code": "XJD",
-      "coordinates": "25.1173000336, 51.3149986267"
+      "coordinates": "25.1173000336, 51.3149986267",
+      "metar_available": false
     },
     {
       "ident": "OTBK",
@@ -60,7 +63,8 @@
       "iso_region": "QA-KH",
       "municipality": "Al Khawr",
       "gps_code": "OTBK",
-      "coordinates": "25.629601, 51.506699"
+      "coordinates": "25.629601, 51.506699",
+      "metar_available": false
     },
     {
       "ident": "OTHH",
@@ -73,7 +77,8 @@
       "municipality": "Doha",
       "gps_code": "OTHH",
       "iata_code": "DOH",
-      "coordinates": "25.273056, 51.608056"
+      "coordinates": "25.273056, 51.608056",
+      "metar_available": false
     },
     {
       "ident": "QA-0001",
@@ -83,7 +88,8 @@
       "iso_country": "QA",
       "iso_region": "QA-SH",
       "municipality": "Dukhan",
-      "coordinates": "25.467722, 50.999479"
+      "coordinates": "25.467722, 50.999479",
+      "metar_available": false
     },
     {
       "ident": "QA-0002",
@@ -94,7 +100,8 @@
       "iso_country": "QA",
       "iso_region": "QA-RA",
       "municipality": "As Salwa",
-      "coordinates": "24.747763, 50.851541"
+      "coordinates": "24.747763, 50.851541",
+      "metar_available": false
     },
     {
       "ident": "QA-0003",
@@ -104,7 +111,8 @@
       "iso_country": "QA",
       "iso_region": "QA-DA",
       "municipality": "Doha",
-      "coordinates": "25.296837, 51.639031"
+      "coordinates": "25.296837, 51.639031",
+      "metar_available": false
     },
     {
       "ident": "QA-0004",
@@ -114,7 +122,8 @@
       "iso_country": "QA",
       "iso_region": "QA-WA",
       "municipality": "Al Wakrah",
-      "coordinates": "25.166077, 51.589824"
+      "coordinates": "25.166077, 51.589824",
+      "metar_available": false
     },
     {
       "ident": "QA-0005",
@@ -124,7 +133,8 @@
       "iso_country": "QA",
       "iso_region": "QA-DA",
       "municipality": "Doha",
-      "coordinates": "25.292433, 51.501029"
+      "coordinates": "25.292433, 51.501029",
+      "metar_available": false
     },
     {
       "ident": "QA-0006",
@@ -134,7 +144,8 @@
       "iso_country": "QA",
       "iso_region": "QA-DA",
       "municipality": "Doha",
-      "coordinates": "25.325096, 51.533126"
+      "coordinates": "25.325096, 51.533126",
+      "metar_available": false
     },
     {
       "ident": "QA-0007",
@@ -144,7 +155,8 @@
       "iso_country": "QA",
       "iso_region": "QA-DA",
       "municipality": "Doha",
-      "coordinates": "25.292018, 51.503387"
+      "coordinates": "25.292018, 51.503387",
+      "metar_available": false
     },
     {
       "ident": "QA-0008",
@@ -154,7 +166,8 @@
       "iso_country": "QA",
       "iso_region": "QA-DA",
       "municipality": "Doha",
-      "coordinates": "25.325566, 51.526302"
+      "coordinates": "25.325566, 51.526302",
+      "metar_available": false
     },
     {
       "ident": "QA-0009",
@@ -164,7 +177,8 @@
       "iso_country": "QA",
       "iso_region": "QA-WA",
       "municipality": "Mesaleed",
-      "coordinates": "24.988976, 51.50031"
+      "coordinates": "24.988976, 51.50031",
+      "metar_available": false
     },
     {
       "ident": "QA-0010",
@@ -175,7 +189,8 @@
       "iso_country": "QA",
       "iso_region": "QA-RA",
       "municipality": "Al Rayyan",
-      "coordinates": "25.281734, 51.298514"
+      "coordinates": "25.281734, 51.298514",
+      "metar_available": false
     },
     {
       "ident": "QA-0011",
@@ -186,7 +201,8 @@
       "iso_country": "QA",
       "iso_region": "QA-RA",
       "municipality": "Al Rayyan",
-      "coordinates": "24.8378, 50.8583"
+      "coordinates": "24.8378, 50.8583",
+      "metar_available": false
     },
     {
       "ident": "QA-0012",
@@ -197,7 +213,8 @@
       "iso_country": "QA",
       "iso_region": "QA-KH",
       "municipality": "Rawdat Hawtan",
-      "coordinates": "25.753967, 51.292675"
+      "coordinates": "25.753967, 51.292675",
+      "metar_available": false
     },
     {
       "ident": "QA-0013",
@@ -208,7 +225,8 @@
       "iso_country": "QA",
       "iso_region": "QA-DA",
       "municipality": "Halul Island",
-      "coordinates": "25.67712, 52.41562"
+      "coordinates": "25.67712, 52.41562",
+      "metar_available": false
     },
     {
       "ident": "QA-0014",
@@ -219,7 +237,8 @@
       "iso_country": "QA",
       "iso_region": "QA-SH",
       "municipality": "Dukhan",
-      "coordinates": "25.40051, 50.826614"
+      "coordinates": "25.40051, 50.826614",
+      "metar_available": false
     },
     {
       "ident": "QA-0015",
@@ -228,7 +247,8 @@
       "continent": "AS",
       "iso_country": "QA",
       "iso_region": "QA-RA",
-      "coordinates": "24.895392, 51.030442"
+      "coordinates": "24.895392, 51.030442",
+      "metar_available": false
     },
     {
       "ident": "QA-0016",
@@ -237,7 +257,8 @@
       "continent": "AS",
       "iso_country": "QA",
       "iso_region": "QA-RA",
-      "coordinates": "25.005234, 50.989609"
+      "coordinates": "25.005234, 50.989609",
+      "metar_available": false
     }
   ]
 }

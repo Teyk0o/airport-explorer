@@ -2,7 +2,7 @@
   "country_code": "MA",
   "country_name": "Morocco",
   "total_airports": 43,
-  "last_updated": "2025-08-01T00:18:22.735978",
+  "last_updated": "2025-08-25T10:08:40.881350",
   "types_distribution": {
     "small_airport": 16,
     "large_airport": 6,
@@ -21,7 +21,8 @@
       "iso_region": "MA-09",
       "municipality": "Inezgane",
       "gps_code": "GMAA",
-      "coordinates": "30.381399, -9.54631"
+      "coordinates": "30.381399, -9.54631",
+      "metar_available": false
     },
     {
       "ident": "GMAD",
@@ -34,7 +35,8 @@
       "municipality": "Agadir (Temsia)",
       "gps_code": "GMAD",
       "iata_code": "AGA",
-      "coordinates": "30.322478, -9.412003"
+      "coordinates": "30.322478, -9.412003",
+      "metar_available": false
     },
     {
       "ident": "GMAT",
@@ -47,7 +49,8 @@
       "municipality": "Tan Tan",
       "gps_code": "GMAT",
       "iata_code": "TTA",
-      "coordinates": "28.448200225830078, -11.161299705505371"
+      "coordinates": "28.448200225830078, -11.161299705505371",
+      "metar_available": false
     },
     {
       "ident": "GMAZ",
@@ -60,7 +63,8 @@
       "municipality": "Zagora",
       "gps_code": "GMAZ",
       "iata_code": "OZG",
-      "coordinates": "30.263858, -5.853341"
+      "coordinates": "30.263858, -5.853341",
+      "metar_available": false
     },
     {
       "ident": "GMFA",
@@ -72,7 +76,8 @@
       "iso_region": "MA-01",
       "municipality": "Beni Malek",
       "gps_code": "GMFA",
-      "coordinates": "34.793361, -5.635986"
+      "coordinates": "34.793361, -5.635986",
+      "metar_available": false
     },
     {
       "ident": "GMFB",
@@ -85,7 +90,8 @@
       "municipality": "Bouarfa",
       "gps_code": "GMFB",
       "iata_code": "UAR",
-      "coordinates": "32.514306, -1.983056"
+      "coordinates": "32.514306, -1.983056",
+      "metar_available": false
     },
     {
       "ident": "GMFF",
@@ -98,7 +104,8 @@
       "municipality": "Saïss",
       "gps_code": "GMFF",
       "iata_code": "FEZ",
-      "coordinates": "33.927299, -4.97796"
+      "coordinates": "33.927299, -4.97796",
+      "metar_available": false
     },
     {
       "ident": "GMFI",
@@ -110,7 +117,8 @@
       "iso_region": "MA-03",
       "municipality": "Ifran",
       "gps_code": "GMFI",
-      "coordinates": "33.505299, -5.1529"
+      "coordinates": "33.505299, -5.1529",
+      "metar_available": false
     },
     {
       "ident": "GMFK",
@@ -123,7 +131,8 @@
       "municipality": "Errachidia",
       "gps_code": "GMFK",
       "iata_code": "ERH",
-      "coordinates": "31.9475002289, -4.39833021164"
+      "coordinates": "31.9475002289, -4.39833021164",
+      "metar_available": false
     },
     {
       "ident": "GMFM",
@@ -136,7 +145,8 @@
       "municipality": "Meknes",
       "gps_code": "GMFM",
       "iata_code": "MEK",
-      "coordinates": "33.879101, -5.51512"
+      "coordinates": "33.879101, -5.51512",
+      "metar_available": false
     },
     {
       "ident": "GMFO",
@@ -149,7 +159,8 @@
       "municipality": "Ahl Angad",
       "gps_code": "GMFO",
       "iata_code": "OUD",
-      "coordinates": "34.789558, -1.926041"
+      "coordinates": "34.789558, -1.926041",
+      "metar_available": false
     },
     {
       "ident": "GMFZ",
@@ -161,7 +172,8 @@
       "iso_region": "MA-03",
       "municipality": "Taza",
       "gps_code": "GMFZ",
-      "coordinates": "34.231887, -3.94701"
+      "coordinates": "34.231887, -3.94701",
+      "metar_available": false
     },
     {
       "ident": "GMMB",
@@ -174,7 +186,8 @@
       "municipality": "Ben Slimane",
       "gps_code": "GMMB",
       "iata_code": "GMD",
-      "coordinates": "33.655399, -7.22145"
+      "coordinates": "33.655399, -7.22145",
+      "metar_available": false
     },
     {
       "ident": "GMMD",
@@ -187,7 +200,8 @@
       "municipality": "Oulad Yaich",
       "gps_code": "GMMD",
       "iata_code": "BEM",
-      "coordinates": "32.401895, -6.315905"
+      "coordinates": "32.401895, -6.315905",
+      "metar_available": false
     },
     {
       "ident": "GMME",
@@ -200,7 +214,8 @@
       "municipality": "Rabat",
       "gps_code": "GMME",
       "iata_code": "RBA",
-      "coordinates": "34.051498, -6.75152"
+      "coordinates": "34.051498, -6.75152",
+      "metar_available": false
     },
     {
       "ident": "GMMI",
@@ -213,7 +228,8 @@
       "municipality": "Essaouira",
       "gps_code": "GMMI",
       "iata_code": "ESU",
-      "coordinates": "31.397499, -9.68167"
+      "coordinates": "31.397499, -9.68167",
+      "metar_available": false
     },
     {
       "ident": "GMMN",
@@ -226,7 +242,8 @@
       "municipality": "Casablanca",
       "gps_code": "GMMN",
       "iata_code": "CMN",
-      "coordinates": "33.3675, -7.58997"
+      "coordinates": "33.3675, -7.58997",
+      "metar_available": false
     },
     {
       "ident": "GMMO",
@@ -238,7 +255,8 @@
       "iso_region": "MA-09",
       "municipality": "Taroudant",
       "gps_code": "GMMO",
-      "coordinates": "30.503487, -8.821549"
+      "coordinates": "30.503487, -8.821549",
+      "metar_available": false
     },
     {
       "ident": "GMMT",
@@ -250,7 +268,8 @@
       "iso_region": "MA-06",
       "municipality": "Casablanca",
       "gps_code": "GMMT",
-      "coordinates": "33.5975, -7.465"
+      "coordinates": "33.5975, -7.465",
+      "metar_available": false
     },
     {
       "ident": "GMMW",
@@ -263,7 +282,8 @@
       "municipality": "Al Aaroui",
       "gps_code": "GMMW",
       "iata_code": "NDR",
-      "coordinates": "34.9888, -3.02821"
+      "coordinates": "34.9888, -3.02821",
+      "metar_available": false
     },
     {
       "ident": "GMMX",
@@ -276,7 +296,8 @@
       "municipality": "Marrakech",
       "gps_code": "GMMX",
       "iata_code": "RAK",
-      "coordinates": "31.606899, -8.0363"
+      "coordinates": "31.606899, -8.0363",
+      "metar_available": false
     },
     {
       "ident": "GMMY",
@@ -289,7 +310,8 @@
       "municipality": "Kenitra",
       "gps_code": "GMMP",
       "iata_code": "NNA",
-      "coordinates": "34.298901, -6.59588"
+      "coordinates": "34.298901, -6.59588",
+      "metar_available": false
     },
     {
       "ident": "GMMZ",
@@ -302,7 +324,8 @@
       "municipality": "Ouarzazate",
       "gps_code": "GMMZ",
       "iata_code": "OZZ",
-      "coordinates": "30.9391002655, -6.909430027010001"
+      "coordinates": "30.9391002655, -6.909430027010001",
+      "metar_available": false
     },
     {
       "ident": "GMSL",
@@ -314,7 +337,8 @@
       "iso_region": "MA-04",
       "municipality": "Sidi Slimane",
       "gps_code": "GMSL",
-      "coordinates": "34.2305984497, -6.05013990402"
+      "coordinates": "34.2305984497, -6.05013990402",
+      "metar_available": false
     },
     {
       "ident": "GMTA",
@@ -327,7 +351,8 @@
       "municipality": "Al Hoceima",
       "gps_code": "GMTA",
       "iata_code": "AHU",
-      "coordinates": "35.177101, -3.83952"
+      "coordinates": "35.177101, -3.83952",
+      "metar_available": false
     },
     {
       "ident": "GMTN",
@@ -340,7 +365,8 @@
       "municipality": "Tétouan",
       "gps_code": "GMTN",
       "iata_code": "TTU",
-      "coordinates": "35.594299, -5.32002"
+      "coordinates": "35.594299, -5.32002",
+      "metar_available": false
     },
     {
       "ident": "GMTT",
@@ -353,7 +379,8 @@
       "municipality": "Tangier",
       "gps_code": "GMTT",
       "iata_code": "TNG",
-      "coordinates": "35.731741, -5.921459"
+      "coordinates": "35.731741, -5.921459",
+      "metar_available": false
     },
     {
       "ident": "MA-0001",
@@ -364,7 +391,8 @@
       "iso_country": "MA",
       "iso_region": "MA-06",
       "municipality": "Casablanca",
-      "coordinates": "33.55178, -7.66799"
+      "coordinates": "33.55178, -7.66799",
+      "metar_available": false
     },
     {
       "ident": "MA-0002",
@@ -375,7 +403,8 @@
       "iso_country": "MA",
       "iso_region": "MA-09",
       "municipality": "Arazane",
-      "coordinates": "30.49707, -8.63648"
+      "coordinates": "30.49707, -8.63648",
+      "metar_available": false
     },
     {
       "ident": "MA-0004",
@@ -385,7 +414,8 @@
       "iso_country": "MA",
       "iso_region": "MA-09",
       "municipality": "Tata",
-      "coordinates": "29.557381, -8.007671"
+      "coordinates": "29.557381, -8.007671",
+      "metar_available": false
     },
     {
       "ident": "MA-0005",
@@ -395,7 +425,8 @@
       "iso_country": "MA",
       "iso_region": "MA-05",
       "municipality": "Tlete Aoulad Azouz",
-      "coordinates": "32.67406, -6.76116"
+      "coordinates": "32.67406, -6.76116",
+      "metar_available": false
     },
     {
       "ident": "MA-0006",
@@ -405,7 +436,8 @@
       "iso_country": "MA",
       "iso_region": "MA-05",
       "municipality": "Khouribga",
-      "coordinates": "32.85821, -6.9461"
+      "coordinates": "32.85821, -6.9461",
+      "metar_available": false
     },
     {
       "ident": "MA-0007",
@@ -415,7 +447,8 @@
       "iso_country": "MA",
       "iso_region": "MA-05",
       "municipality": "N'Khila",
-      "coordinates": "32.8767, -7.08445"
+      "coordinates": "32.8767, -7.08445",
+      "metar_available": false
     },
     {
       "ident": "MA-0008",
@@ -425,7 +458,8 @@
       "iso_country": "MA",
       "iso_region": "MA-07",
       "municipality": "Ouled Ben Anou Grichate",
-      "coordinates": "32.124889, -7.877884"
+      "coordinates": "32.124889, -7.877884",
+      "metar_available": false
     },
     {
       "ident": "MA-0009",
@@ -435,7 +469,8 @@
       "iso_country": "MA",
       "iso_region": "MA-07",
       "municipality": "Sidi Zouine",
-      "coordinates": "31.63833, -8.34768"
+      "coordinates": "31.63833, -8.34768",
+      "metar_available": false
     },
     {
       "ident": "MA-0011",
@@ -446,7 +481,8 @@
       "iso_country": "MA",
       "iso_region": "MA-08",
       "municipality": "Zagora",
-      "coordinates": "30.320299, -5.86667"
+      "coordinates": "30.320299, -5.86667",
+      "metar_available": false
     },
     {
       "ident": "MA-0012",
@@ -457,7 +493,8 @@
       "iso_country": "MA",
       "iso_region": "MA-06",
       "municipality": "Casablanca",
-      "coordinates": "33.5532989502, -7.66138982773"
+      "coordinates": "33.5532989502, -7.66138982773",
+      "metar_available": false
     },
     {
       "ident": "MA-0013",
@@ -468,7 +505,8 @@
       "iso_country": "MA",
       "iso_region": "MA-06",
       "municipality": "El Jadida",
-      "coordinates": "33.233299, -8.51667"
+      "coordinates": "33.233299, -8.51667",
+      "metar_available": false
     },
     {
       "ident": "MA-0014",
@@ -479,7 +517,8 @@
       "iso_country": "MA",
       "iso_region": "MA-03",
       "municipality": "Fes",
-      "coordinates": "34.008099, -4.96556"
+      "coordinates": "34.008099, -4.96556",
+      "metar_available": false
     },
     {
       "ident": "MA-0015",
@@ -490,7 +529,8 @@
       "iso_country": "MA",
       "iso_region": "MA-07",
       "municipality": "Safi",
-      "coordinates": "32.275414, -9.234266"
+      "coordinates": "32.275414, -9.234266",
+      "metar_available": false
     },
     {
       "ident": "MA-0016",
@@ -501,7 +541,8 @@
       "iso_country": "MA",
       "iso_region": "MA-10",
       "municipality": "Sidi Ifni",
-      "coordinates": "29.368889, -10.180278"
+      "coordinates": "29.368889, -10.180278",
+      "metar_available": false
     },
     {
       "ident": "MA-0017",
@@ -512,7 +553,8 @@
       "iso_country": "MA",
       "iso_region": "MA-02",
       "municipality": "Nador",
-      "coordinates": "35.152986, -2.918673"
+      "coordinates": "35.152986, -2.918673",
+      "metar_available": false
     },
     {
       "ident": "MA-GLN",
@@ -525,7 +567,8 @@
       "municipality": "Guelmim",
       "gps_code": "GMAG",
       "iata_code": "GLN",
-      "coordinates": "29.026699, -10.0503"
+      "coordinates": "29.026699, -10.0503",
+      "metar_available": false
     }
   ]
 }

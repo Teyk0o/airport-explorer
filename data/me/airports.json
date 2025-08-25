@@ -2,7 +2,7 @@
   "country_code": "ME",
   "country_name": "Montenegro",
   "total_airports": 8,
-  "last_updated": "2025-08-01T00:18:22.826715",
+  "last_updated": "2025-08-25T10:08:40.981116",
   "types_distribution": {
     "small_airport": 3,
     "large_airport": 1,
@@ -22,7 +22,8 @@
       "municipality": "Berane",
       "gps_code": "LYBR",
       "iata_code": "IVG",
-      "coordinates": "42.8390007019043, 19.86199951171875"
+      "coordinates": "42.8390007019043, 19.86199951171875",
+      "metar_available": false
     },
     {
       "ident": "LYNK",
@@ -34,7 +35,8 @@
       "iso_region": "ME-12",
       "municipality": "Nikšić",
       "gps_code": "LYNK",
-      "coordinates": "42.773039, 18.916311"
+      "coordinates": "42.773039, 18.916311",
+      "metar_available": false
     },
     {
       "ident": "LYPG",
@@ -47,7 +49,8 @@
       "municipality": "Podgorica",
       "gps_code": "LYPG",
       "iata_code": "TGD",
-      "coordinates": "42.359402, 19.2519"
+      "coordinates": "42.359402, 19.2519",
+      "metar_available": false
     },
     {
       "ident": "LYPO",
@@ -59,7 +62,8 @@
       "iso_region": "ME-16",
       "municipality": "Podgorica",
       "gps_code": "LYPO",
-      "coordinates": "42.422318, 19.290777"
+      "coordinates": "42.422318, 19.290777",
+      "metar_available": false
     },
     {
       "ident": "LYTV",
@@ -72,7 +76,8 @@
       "municipality": "Tivat",
       "gps_code": "LYTV",
       "iata_code": "TIV",
-      "coordinates": "42.404701232910156, 18.72330093383789"
+      "coordinates": "42.404701232910156, 18.72330093383789",
+      "metar_available": false
     },
     {
       "ident": "ME-0001",
@@ -83,7 +88,8 @@
       "iso_country": "ME",
       "iso_region": "ME-20",
       "municipality": "Gornji Štoj",
-      "coordinates": "41.88909, 19.34169"
+      "coordinates": "41.88909, 19.34169",
+      "metar_available": false
     },
     {
       "ident": "ME-0002",
@@ -94,7 +100,8 @@
       "iso_country": "ME",
       "iso_region": "ME-03",
       "municipality": "Berane",
-      "coordinates": "42.85081, 19.87042"
+      "coordinates": "42.85081, 19.87042",
+      "metar_available": false
     },
     {
       "ident": "ME-0003",
@@ -105,7 +112,8 @@
       "iso_country": "ME",
       "iso_region": "ME-21",
       "municipality": "Zminica",
-      "coordinates": "43.116669, 19.233334"
+      "coordinates": "43.116669, 19.233334",
+      "metar_available": false
     }
   ]
 }

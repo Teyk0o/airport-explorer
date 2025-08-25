@@ -2,7 +2,7 @@
   "country_code": "MQ",
   "country_name": "Martinique",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.829042",
+  "last_updated": "2025-08-25T10:08:40.983601",
   "types_distribution": {
     "heliport": 2,
     "closed": 1,
@@ -16,7 +16,8 @@
       "iso_country": "MQ",
       "iso_region": "MQ-U-A",
       "municipality": "L'Ajoupa-Bouillon",
-      "coordinates": "14.840883, -61.106912"
+      "coordinates": "14.840883, -61.106912",
+      "metar_available": false
     },
     {
       "ident": "MQ-0002",
@@ -25,7 +26,8 @@
       "iso_country": "MQ",
       "iso_region": "MQ-U-A",
       "municipality": "Bellefontaine",
-      "coordinates": "14.66652, -61.158803"
+      "coordinates": "14.66652, -61.158803",
+      "metar_available": false
     },
     {
       "ident": "MQ-0003",
@@ -34,7 +36,8 @@
       "iso_country": "MQ",
       "iso_region": "MQ-U-A",
       "municipality": "Le Carbet",
-      "coordinates": "14.706979, -61.171937"
+      "coordinates": "14.706979, -61.171937",
+      "metar_available": false
     },
     {
       "ident": "TFFF",
@@ -46,7 +49,8 @@
       "municipality": "Fort-de-France",
       "gps_code": "TFFF",
       "iata_code": "FDF",
-      "coordinates": "14.591, -61.003201"
+      "coordinates": "14.591, -61.003201",
+      "metar_available": false
     }
   ]
 }

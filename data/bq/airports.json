@@ -2,7 +2,7 @@
   "country_code": "BQ",
   "country_name": "Bonaire, Saint Eustatius and Saba ",
   "total_airports": 4,
-  "last_updated": "2025-08-01T00:18:22.500900",
+  "last_updated": "2025-08-25T10:08:40.632338",
   "types_distribution": {
     "closed": 1,
     "large_airport": 1,
@@ -16,7 +16,8 @@
       "iso_country": "BQ",
       "iso_region": "BQ-BO",
       "municipality": "Kralendijk",
-      "coordinates": "12.18637, -68.26484"
+      "coordinates": "12.18637, -68.26484",
+      "metar_available": false
     },
     {
       "ident": "TNCB",
@@ -28,7 +29,8 @@
       "municipality": "Kralendijk",
       "gps_code": "TNCB",
       "iata_code": "BON",
-      "coordinates": "12.131, -68.268501"
+      "coordinates": "12.131, -68.268501",
+      "metar_available": false
     },
     {
       "ident": "TNCE",
@@ -40,7 +42,8 @@
       "municipality": "Oranjestad",
       "gps_code": "TNCE",
       "iata_code": "EUX",
-      "coordinates": "17.4965, -62.979401"
+      "coordinates": "17.4965, -62.979401",
+      "metar_available": false
     },
     {
       "ident": "TNCS",
@@ -52,7 +55,8 @@
       "municipality": "Zion's Hill",
       "gps_code": "TNCS",
       "iata_code": "SAB",
-      "coordinates": "17.645351, -63.220571"
+      "coordinates": "17.645351, -63.220571",
+      "metar_available": false
     }
   ]
 }

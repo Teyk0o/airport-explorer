@@ -2,7 +2,7 @@
   "country_code": "SI",
   "country_name": "Slovenia",
   "total_airports": 47,
-  "last_updated": "2025-08-01T00:18:22.818829",
+  "last_updated": "2025-08-25T10:08:40.972658",
   "types_distribution": {
     "small_airport": 38,
     "medium_airport": 3,
@@ -21,7 +21,8 @@
       "iso_region": "SI-001",
       "municipality": "Ajdovščina",
       "gps_code": "LJAJ",
-      "coordinates": "45.889198, 13.8869"
+      "coordinates": "45.889198, 13.8869",
+      "metar_available": false
     },
     {
       "ident": "LJBL",
@@ -33,7 +34,8 @@
       "iso_region": "SI-102",
       "municipality": "Lesce",
       "gps_code": "LJBL",
-      "coordinates": "46.357201, 14.1739"
+      "coordinates": "46.357201, 14.1739",
+      "metar_available": false
     },
     {
       "ident": "LJBO",
@@ -45,7 +47,8 @@
       "iso_region": "SI-006",
       "municipality": "Bovec",
       "gps_code": "LJBO",
-      "coordinates": "46.329017, 13.550231"
+      "coordinates": "46.329017, 13.550231",
+      "metar_available": false
     },
     {
       "ident": "LJCE",
@@ -57,7 +60,8 @@
       "iso_region": "SI-009",
       "municipality": "Cerklje ob Krki",
       "gps_code": "LJCE",
-      "coordinates": "45.900002, 15.5302"
+      "coordinates": "45.900002, 15.5302",
+      "metar_available": false
     },
     {
       "ident": "LJCL",
@@ -69,7 +73,8 @@
       "iso_region": "SI-011",
       "municipality": "Celje",
       "gps_code": "LJCL",
-      "coordinates": "46.245602, 15.2231"
+      "coordinates": "46.245602, 15.2231",
+      "metar_available": false
     },
     {
       "ident": "LJDI",
@@ -81,7 +86,8 @@
       "iso_region": "SI-019",
       "municipality": "Divača",
       "gps_code": "LJDI",
-      "coordinates": "45.682778, 14.003234"
+      "coordinates": "45.682778, 14.003234",
+      "metar_available": false
     },
     {
       "ident": "LJLJ",
@@ -94,7 +100,8 @@
       "municipality": "Zgornji Brnik",
       "gps_code": "LJLJ",
       "iata_code": "LJU",
-      "coordinates": "46.223701, 14.4576"
+      "coordinates": "46.223701, 14.4576",
+      "metar_available": false
     },
     {
       "ident": "LJMB",
@@ -107,7 +114,8 @@
       "municipality": "Orehova Vas",
       "gps_code": "LJMB",
       "iata_code": "MBX",
-      "coordinates": "46.4799, 15.6861"
+      "coordinates": "46.4799, 15.6861",
+      "metar_available": false
     },
     {
       "ident": "LJMS",
@@ -119,7 +127,8 @@
       "iso_region": "SI-080",
       "municipality": "Murska Sobota",
       "gps_code": "LJMS",
-      "coordinates": "46.629398, 16.174999"
+      "coordinates": "46.629398, 16.174999",
+      "metar_available": false
     },
     {
       "ident": "LJNM",
@@ -131,7 +140,8 @@
       "iso_region": "SI-085",
       "municipality": "Novo Mesto",
       "gps_code": "LJNM",
-      "coordinates": "45.801743, 15.104544"
+      "coordinates": "45.801743, 15.104544",
+      "metar_available": false
     },
     {
       "ident": "LJPO",
@@ -142,7 +152,8 @@
       "iso_region": "SI-094",
       "municipality": "Postojna",
       "gps_code": "LJPO",
-      "coordinates": "45.752201, 14.1947"
+      "coordinates": "45.752201, 14.1947",
+      "metar_available": false
     },
     {
       "ident": "LJPT",
@@ -154,7 +165,8 @@
       "iso_region": "SI-028",
       "municipality": "Moškanjci",
       "gps_code": "LJPT",
-      "coordinates": "46.42709, 15.98609"
+      "coordinates": "46.42709, 15.98609",
+      "metar_available": false
     },
     {
       "ident": "LJPZ",
@@ -167,7 +179,8 @@
       "municipality": "Sečovlje",
       "gps_code": "LJPZ",
       "iata_code": "POW",
-      "coordinates": "45.47201, 13.615951"
+      "coordinates": "45.47201, 13.615951",
+      "metar_available": false
     },
     {
       "ident": "LJSG",
@@ -179,7 +192,8 @@
       "iso_region": "SI-112",
       "municipality": "Šmartno pri Slovenj Gradcu",
       "gps_code": "LJSG",
-      "coordinates": "46.472, 15.117"
+      "coordinates": "46.472, 15.117",
+      "metar_available": false
     },
     {
       "ident": "LJSK",
@@ -190,7 +204,8 @@
       "iso_region": "SI-114",
       "municipality": "Loče",
       "gps_code": "LJSK",
-      "coordinates": "46.31033, 15.492024"
+      "coordinates": "46.31033, 15.492024",
+      "metar_available": false
     },
     {
       "ident": "LJVE",
@@ -202,7 +217,8 @@
       "iso_region": "SI-126",
       "municipality": "Topolšica",
       "gps_code": "LJSO",
-      "coordinates": "46.397499, 15.0453"
+      "coordinates": "46.397499, 15.0453",
+      "metar_available": false
     },
     {
       "ident": "SI-0001",
@@ -213,7 +229,8 @@
       "iso_country": "SI",
       "iso_region": "SI-009",
       "municipality": "Mihalovec",
-      "coordinates": "45.887046, 15.650925"
+      "coordinates": "45.887046, 15.650925",
+      "metar_available": false
     },
     {
       "ident": "SI-0002",
@@ -223,7 +240,8 @@
       "iso_country": "SI",
       "iso_region": "SI-059",
       "municipality": "Mostje",
-      "coordinates": "46.599656, 16.432071"
+      "coordinates": "46.599656, 16.432071",
+      "metar_available": false
     },
     {
       "ident": "SI-0003",
@@ -233,7 +251,8 @@
       "iso_country": "SI",
       "iso_region": "SI-188",
       "municipality": "Veržej",
-      "coordinates": "46.572685, 16.190973"
+      "coordinates": "46.572685, 16.190973",
+      "metar_available": false
     },
     {
       "ident": "SI-0004",
@@ -243,7 +262,8 @@
       "iso_country": "SI",
       "iso_region": "SI-078",
       "municipality": "Martjanci",
-      "coordinates": "46.682156, 16.203745"
+      "coordinates": "46.682156, 16.203745",
+      "metar_available": false
     },
     {
       "ident": "SI-0005",
@@ -253,7 +273,8 @@
       "iso_country": "SI",
       "iso_region": "SI-073",
       "municipality": "Boginja Vas",
-      "coordinates": "45.58896, 15.2597"
+      "coordinates": "45.58896, 15.2597",
+      "metar_available": false
     },
     {
       "ident": "SI-0006",
@@ -263,7 +284,8 @@
       "iso_country": "SI",
       "iso_region": "SI-048",
       "municipality": "Novi Lazi",
-      "coordinates": "45.571455, 14.857163"
+      "coordinates": "45.571455, 14.857163",
+      "metar_available": false
     },
     {
       "ident": "SI-0007",
@@ -274,7 +296,8 @@
       "iso_country": "SI",
       "iso_region": "SI-153",
       "municipality": "Čagona",
-      "coordinates": "46.547725, 15.915213"
+      "coordinates": "46.547725, 15.915213",
+      "metar_available": false
     },
     {
       "ident": "SI-0008",
@@ -284,7 +307,8 @@
       "iso_country": "SI",
       "iso_region": "SI-058",
       "municipality": "Močna",
-      "coordinates": "46.567801, 15.766969"
+      "coordinates": "46.567801, 15.766969",
+      "metar_available": false
     },
     {
       "ident": "SI-0009",
@@ -294,7 +318,8 @@
       "iso_country": "SI",
       "iso_region": "SI-092",
       "municipality": "Imeno",
-      "coordinates": "46.12669, 15.603708"
+      "coordinates": "46.12669, 15.603708",
+      "metar_available": false
     },
     {
       "ident": "SI-0010",
@@ -305,7 +330,8 @@
       "iso_country": "SI",
       "iso_region": "SI-043",
       "municipality": "Kamnik",
-      "coordinates": "46.197037, 14.580982"
+      "coordinates": "46.197037, 14.580982",
+      "metar_available": false
     },
     {
       "ident": "SI-0011",
@@ -316,7 +342,8 @@
       "iso_country": "SI",
       "iso_region": "SI-039",
       "municipality": "Šentvid pri Stični",
-      "coordinates": "45.944112, 14.850583"
+      "coordinates": "45.944112, 14.850583",
+      "metar_available": false
     },
     {
       "ident": "SI-0012",
@@ -327,7 +354,8 @@
       "iso_country": "SI",
       "iso_region": "SI-209",
       "municipality": "Zgornje Pobrežje",
-      "coordinates": "46.304296, 14.904525"
+      "coordinates": "46.304296, 14.904525",
+      "metar_available": false
     },
     {
       "ident": "SI-0013",
@@ -338,7 +366,8 @@
       "iso_country": "SI",
       "iso_region": "SI-174",
       "municipality": "Kaplja Vas",
-      "coordinates": "46.242379, 15.07335"
+      "coordinates": "46.242379, 15.07335",
+      "metar_available": false
     },
     {
       "ident": "SI-0014",
@@ -349,7 +378,8 @@
       "iso_country": "SI",
       "iso_region": "SI-104",
       "municipality": "Ribnica",
-      "coordinates": "45.743935, 14.713"
+      "coordinates": "45.743935, 14.713",
+      "metar_available": false
     },
     {
       "ident": "SI-0015",
@@ -360,7 +390,8 @@
       "iso_country": "SI",
       "iso_region": "SI-100",
       "municipality": "Radenci",
-      "coordinates": "46.628605, 16.046244"
+      "coordinates": "46.628605, 16.046244",
+      "metar_available": false
     },
     {
       "ident": "SI-0016",
@@ -371,7 +402,8 @@
       "iso_country": "SI",
       "iso_region": "SI-011",
       "municipality": "Gorica pri Šmartnem",
-      "coordinates": "46.27079, 15.23875"
+      "coordinates": "46.27079, 15.23875",
+      "metar_available": false
     },
     {
       "ident": "SI-0017",
@@ -382,7 +414,8 @@
       "iso_country": "SI",
       "iso_region": "SI-106",
       "municipality": "Zgornja Kostrivnica",
-      "coordinates": "46.258411, 15.584676"
+      "coordinates": "46.258411, 15.584676",
+      "metar_available": false
     },
     {
       "ident": "SI-0018",
@@ -393,7 +426,8 @@
       "iso_country": "SI",
       "iso_region": "SI-008",
       "municipality": "Podpeč",
-      "coordinates": "45.973447, 14.412345"
+      "coordinates": "45.973447, 14.412345",
+      "metar_available": false
     },
     {
       "ident": "SI-0019",
@@ -404,7 +438,8 @@
       "iso_country": "SI",
       "iso_region": "SI-050",
       "municipality": "Črnotiče",
-      "coordinates": "45.557193, 13.91304"
+      "coordinates": "45.557193, 13.91304",
+      "metar_available": false
     },
     {
       "ident": "SI-0020",
@@ -414,7 +449,8 @@
       "iso_country": "SI",
       "iso_region": "SI-061",
       "municipality": "Dobrunje",
-      "coordinates": "46.04315, 14.615308"
+      "coordinates": "46.04315, 14.615308",
+      "metar_available": false
     },
     {
       "ident": "SI-0021",
@@ -424,7 +460,8 @@
       "iso_country": "SI",
       "iso_region": "SI-013",
       "municipality": "Cerknica",
-      "coordinates": "45.777647, 14.388172"
+      "coordinates": "45.777647, 14.388172",
+      "metar_available": false
     },
     {
       "ident": "SI-0022",
@@ -434,7 +471,8 @@
       "iso_country": "SI",
       "iso_region": "SI-060",
       "municipality": "Hude Ravne",
-      "coordinates": "46.008708, 15.038019"
+      "coordinates": "46.008708, 15.038019",
+      "metar_available": false
     },
     {
       "ident": "SI-0023",
@@ -444,7 +482,8 @@
       "iso_country": "SI",
       "iso_region": "SI-025",
       "municipality": "Libeliče",
-      "coordinates": "46.623795, 14.954946"
+      "coordinates": "46.623795, 14.954946",
+      "metar_available": false
     },
     {
       "ident": "SI-0024",
@@ -454,7 +493,8 @@
       "iso_country": "SI",
       "iso_region": "SI-142",
       "municipality": "Zagorje ob Savi",
-      "coordinates": "46.142412, 14.998541"
+      "coordinates": "46.142412, 14.998541",
+      "metar_available": false
     },
     {
       "ident": "SI-0025",
@@ -464,7 +504,8 @@
       "iso_country": "SI",
       "iso_region": "SI-189",
       "municipality": "Prekopa",
-      "coordinates": "46.25017, 14.99706"
+      "coordinates": "46.25017, 14.99706",
+      "metar_available": false
     },
     {
       "ident": "SI-0026",
@@ -474,7 +515,8 @@
       "iso_country": "SI",
       "iso_region": "SI-022",
       "municipality": "Dol pri Ljubljani",
-      "coordinates": "46.089601, 14.647086"
+      "coordinates": "46.089601, 14.647086",
+      "metar_available": false
     },
     {
       "ident": "SI-0027",
@@ -484,7 +526,8 @@
       "iso_country": "SI",
       "iso_region": "SI-130",
       "municipality": "Trebnje",
-      "coordinates": "45.9122, 15.00256"
+      "coordinates": "45.9122, 15.00256",
+      "metar_available": false
     },
     {
       "ident": "SI-0028",
@@ -494,7 +537,8 @@
       "iso_country": "SI",
       "iso_region": "SI-061",
       "municipality": "Ljubljana",
-      "coordinates": "46.05512, 14.52073"
+      "coordinates": "46.05512, 14.52073",
+      "metar_available": false
     },
     {
       "ident": "SI-0029",
@@ -505,7 +549,8 @@
       "iso_country": "SI",
       "iso_region": "SI-070",
       "municipality": "Maribor",
-      "coordinates": "46.55117, 15.64911"
+      "coordinates": "46.55117, 15.64911",
+      "metar_available": false
     },
     {
       "ident": "SI-0030",
@@ -515,7 +560,8 @@
       "iso_country": "SI",
       "iso_region": "SI-011",
       "municipality": "Celje",
-      "coordinates": "46.23415, 15.26119"
+      "coordinates": "46.23415, 15.26119",
+      "metar_available": false
     },
     {
       "ident": "SI-0031",
@@ -526,7 +572,8 @@
       "iso_country": "SI",
       "iso_region": "SI-040",
       "municipality": "Izola",
-      "coordinates": "45.5442, 13.68867"
+      "coordinates": "45.5442, 13.68867",
+      "metar_available": false
     }
   ]
 }

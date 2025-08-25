@@ -2,7 +2,7 @@
   "country_code": "SM",
   "country_name": "San Marino",
   "total_airports": 2,
-  "last_updated": "2025-08-01T00:18:22.818625",
+  "last_updated": "2025-08-25T10:08:40.972425",
   "types_distribution": {
     "small_airport": 1,
     "closed": 1
@@ -19,7 +19,8 @@
       "municipality": "Torraccia",
       "gps_code": "LIKD",
       "local_code": "RSM01",
-      "coordinates": "43.948895, 12.511411"
+      "coordinates": "43.948895, 12.511411",
+      "metar_available": false
     },
     {
       "ident": "SM-0001",
@@ -30,7 +31,8 @@
       "iso_country": "SM",
       "iso_region": "SM-06",
       "municipality": "Borgo Maggiore",
-      "coordinates": "43.940459, 12.446249"
+      "coordinates": "43.940459, 12.446249",
+      "metar_available": false
     }
   ]
 }

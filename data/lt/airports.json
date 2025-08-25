@@ -2,7 +2,7 @@
   "country_code": "LT",
   "country_name": "Lithuania",
   "total_airports": 74,
-  "last_updated": "2025-08-01T00:18:22.702935",
+  "last_updated": "2025-08-25T10:08:40.845983",
   "types_distribution": {
     "small_airport": 57,
     "medium_airport": 6,
@@ -21,7 +21,8 @@
       "iso_region": "LT-AL",
       "municipality": "Alytus",
       "gps_code": "EYAL",
-      "coordinates": "54.412525, 24.059929"
+      "coordinates": "54.412525, 24.059929",
+      "metar_available": false
     },
     {
       "ident": "EYBI",
@@ -33,7 +34,8 @@
       "iso_region": "LT-PN",
       "municipality": "Biržai",
       "gps_code": "EYBI",
-      "coordinates": "56.1758, 24.7603"
+      "coordinates": "56.1758, 24.7603",
+      "metar_available": false
     },
     {
       "ident": "EYDR",
@@ -45,7 +47,8 @@
       "iso_region": "LT-AL",
       "municipality": "Druskininkai",
       "gps_code": "EYDR",
-      "coordinates": "54.015301, 23.9431"
+      "coordinates": "54.015301, 23.9431",
+      "metar_available": false
     },
     {
       "ident": "EYIG",
@@ -55,7 +58,8 @@
       "iso_country": "LT",
       "iso_region": "LT-UT",
       "gps_code": "EYIG",
-      "coordinates": "55.244167, 26.172222"
+      "coordinates": "55.244167, 26.172222",
+      "metar_available": false
     },
     {
       "ident": "EYJB",
@@ -66,7 +70,8 @@
       "iso_region": "LT-TA",
       "municipality": "Jurbarkas",
       "gps_code": "EYJB",
-      "coordinates": "55.118049621, 22.7648735"
+      "coordinates": "55.118049621, 22.7648735",
+      "metar_available": false
     },
     {
       "ident": "EYKA",
@@ -79,7 +84,8 @@
       "municipality": "Kaunas",
       "gps_code": "EYKA",
       "iata_code": "KUN",
-      "coordinates": "54.96390151977539, 24.084800720214844"
+      "coordinates": "54.96390151977539, 24.084800720214844",
+      "metar_available": false
     },
     {
       "ident": "EYKD",
@@ -91,7 +97,8 @@
       "iso_region": "LT-KU",
       "municipality": "Kėdainiai",
       "gps_code": "EYKD",
-      "coordinates": "55.31169891357422, 23.95639991760254"
+      "coordinates": "55.31169891357422, 23.95639991760254",
+      "metar_available": false
     },
     {
       "ident": "EYKL",
@@ -103,7 +110,8 @@
       "iso_region": "LT-KL",
       "municipality": "Klaipėda",
       "gps_code": "EYKL",
-      "coordinates": "55.712021, 21.242892"
+      "coordinates": "55.712021, 21.242892",
+      "metar_available": false
     },
     {
       "ident": "EYKS",
@@ -115,7 +123,8 @@
       "iso_region": "LT-KU",
       "municipality": "Kaunas",
       "gps_code": "EYKS",
-      "coordinates": "54.879799, 23.8815"
+      "coordinates": "54.879799, 23.8815",
+      "metar_available": false
     },
     {
       "ident": "EYKT",
@@ -127,7 +136,8 @@
       "iso_region": "LT-KL",
       "municipality": "Kartena",
       "gps_code": "EYKT",
-      "coordinates": "55.9203, 21.5672"
+      "coordinates": "55.9203, 21.5672",
+      "metar_available": false
     },
     {
       "ident": "EYLN",
@@ -139,7 +149,8 @@
       "iso_region": "LT-MR",
       "municipality": "Valenčiūnai",
       "gps_code": "EYLN",
-      "coordinates": "55.0214, 22.9739"
+      "coordinates": "55.0214, 22.9739",
+      "metar_available": false
     },
     {
       "ident": "EYMA",
@@ -151,7 +162,8 @@
       "iso_region": "LT-TE",
       "municipality": "Tirkšliai / Mažeikiai",
       "gps_code": "EYMA",
-      "coordinates": "56.230598, 22.259399"
+      "coordinates": "56.230598, 22.259399",
+      "metar_available": false
     },
     {
       "ident": "EYMM",
@@ -163,7 +175,8 @@
       "iso_region": "LT-MR",
       "municipality": "Sasnava",
       "gps_code": "EYMM",
-      "coordinates": "54.663101, 23.453899"
+      "coordinates": "54.663101, 23.453899",
+      "metar_available": false
     },
     {
       "ident": "EYMO",
@@ -175,7 +188,8 @@
       "iso_region": "LT-UT",
       "municipality": "Molėtai",
       "gps_code": "EYMO",
-      "coordinates": "55.112801, 25.336399"
+      "coordinates": "55.112801, 25.336399",
+      "metar_available": false
     },
     {
       "ident": "EYNA",
@@ -187,7 +201,8 @@
       "iso_region": "LT-SA",
       "municipality": "Akmenė",
       "gps_code": "EYNA",
-      "coordinates": "56.242199, 22.733101"
+      "coordinates": "56.242199, 22.733101",
+      "metar_available": false
     },
     {
       "ident": "EYND",
@@ -199,7 +214,8 @@
       "iso_region": "LT-KL",
       "municipality": "Nida",
       "gps_code": "EYNI",
-      "coordinates": "55.327778, 21.045834"
+      "coordinates": "55.327778, 21.045834",
+      "metar_available": false
     },
     {
       "ident": "EYNE",
@@ -210,7 +226,8 @@
       "iso_region": "LT-KL",
       "municipality": "Nemirseta",
       "gps_code": "EYNE",
-      "coordinates": "55.861276, 21.07831"
+      "coordinates": "55.861276, 21.07831",
+      "metar_available": false
     },
     {
       "ident": "EYPA",
@@ -223,7 +240,8 @@
       "municipality": "Palanga",
       "gps_code": "EYPA",
       "iata_code": "PLQ",
-      "coordinates": "55.973201751708984, 21.093900680541992"
+      "coordinates": "55.973201751708984, 21.093900680541992",
+      "metar_available": false
     },
     {
       "ident": "EYPH",
@@ -233,7 +251,8 @@
       "iso_country": "LT",
       "iso_region": "LT-VL",
       "gps_code": "EYPH",
-      "coordinates": "54.486807, 24.997326"
+      "coordinates": "54.486807, 24.997326",
+      "metar_available": false
     },
     {
       "ident": "EYPI",
@@ -245,7 +264,8 @@
       "iso_region": "LT-PN",
       "municipality": "Panevėžys /  Istra",
       "gps_code": "EYPI",
-      "coordinates": "55.827499, 24.358299"
+      "coordinates": "55.827499, 24.358299",
+      "metar_available": false
     },
     {
       "ident": "EYPN",
@@ -257,7 +277,8 @@
       "iso_region": "LT-PN",
       "municipality": "Panevėžys",
       "gps_code": "EYPN",
-      "coordinates": "55.709512, 24.345188"
+      "coordinates": "55.709512, 24.345188",
+      "metar_available": false
     },
     {
       "ident": "EYPP",
@@ -270,7 +291,8 @@
       "municipality": "Panevėžys",
       "gps_code": "EYPP",
       "iata_code": "PNV",
-      "coordinates": "55.729400634765625, 24.460800170898438"
+      "coordinates": "55.729400634765625, 24.460800170898438",
+      "metar_available": false
     },
     {
       "ident": "EYPR",
@@ -282,7 +304,8 @@
       "iso_region": "LT-KU",
       "municipality": "Pociūnai",
       "gps_code": "EYPR",
-      "coordinates": "54.649399, 24.061899"
+      "coordinates": "54.649399, 24.061899",
+      "metar_available": false
     },
     {
       "ident": "EYRD",
@@ -294,7 +317,8 @@
       "iso_region": "LT-VL",
       "municipality": "Rūdiškės",
       "gps_code": "EYRD",
-      "coordinates": "54.495602, 24.717501"
+      "coordinates": "54.495602, 24.717501",
+      "metar_available": false
     },
     {
       "ident": "EYRK",
@@ -306,7 +330,8 @@
       "iso_region": "LT-PN",
       "municipality": "Rokiškis",
       "gps_code": "EYRK",
-      "coordinates": "55.971924, 25.604239"
+      "coordinates": "55.971924, 25.604239",
+      "metar_available": false
     },
     {
       "ident": "EYRO",
@@ -318,7 +343,8 @@
       "iso_region": "LT-PN",
       "municipality": "Rojūnai",
       "gps_code": "EYRO",
-      "coordinates": "55.610802, 24.2208"
+      "coordinates": "55.610802, 24.2208",
+      "metar_available": false
     },
     {
       "ident": "EYSA",
@@ -331,7 +357,8 @@
       "municipality": "Šiauliai",
       "gps_code": "EYSA",
       "iata_code": "SQQ",
-      "coordinates": "55.89390182495117, 23.395000457763672"
+      "coordinates": "55.89390182495117, 23.395000457763672",
+      "metar_available": false
     },
     {
       "ident": "EYSB",
@@ -343,7 +370,8 @@
       "iso_region": "LT-SA",
       "municipality": "Šiauliai",
       "gps_code": "EYSB",
-      "coordinates": "56.070599, 23.5581"
+      "coordinates": "56.070599, 23.5581",
+      "metar_available": false
     },
     {
       "ident": "EYSE",
@@ -355,7 +383,8 @@
       "iso_region": "LT-SA",
       "municipality": "Šeduva / Šiauliai",
       "gps_code": "EYSE",
-      "coordinates": "55.746399, 23.804701"
+      "coordinates": "55.746399, 23.804701",
+      "metar_available": false
     },
     {
       "ident": "EYSI",
@@ -367,7 +396,8 @@
       "iso_region": "LT-KL",
       "municipality": "Šilute",
       "gps_code": "EYSI",
-      "coordinates": "55.336899, 21.5306"
+      "coordinates": "55.336899, 21.5306",
+      "metar_available": false
     },
     {
       "ident": "EYTL",
@@ -379,7 +409,8 @@
       "iso_region": "LT-TE",
       "municipality": "Telšiai",
       "gps_code": "EYTL",
-      "coordinates": "55.986401, 22.2878"
+      "coordinates": "55.986401, 22.2878",
+      "metar_available": false
     },
     {
       "ident": "EYUT",
@@ -391,7 +422,8 @@
       "iso_region": "LT-UT",
       "municipality": "Utena",
       "gps_code": "EYUT",
-      "coordinates": "55.490002, 25.7169"
+      "coordinates": "55.490002, 25.7169",
+      "metar_available": false
     },
     {
       "ident": "EYVI",
@@ -404,7 +436,8 @@
       "municipality": "Vilnius",
       "gps_code": "EYVI",
       "iata_code": "VNO",
-      "coordinates": "54.634102, 25.285801"
+      "coordinates": "54.634102, 25.285801",
+      "metar_available": false
     },
     {
       "ident": "EYVK",
@@ -416,7 +449,8 @@
       "iso_region": "LT-VL",
       "municipality": "Kyviškes",
       "gps_code": "EYVK",
-      "coordinates": "54.668301, 25.5158"
+      "coordinates": "54.668301, 25.5158",
+      "metar_available": false
     },
     {
       "ident": "EYVP",
@@ -428,7 +462,8 @@
       "iso_region": "LT-VL",
       "municipality": "Paluknys",
       "gps_code": "EYVP",
-      "coordinates": "54.484848, 24.987373"
+      "coordinates": "54.484848, 24.987373",
+      "metar_available": false
     },
     {
       "ident": "EYZA",
@@ -440,7 +475,8 @@
       "iso_region": "LT-UT",
       "municipality": "Zarasai",
       "gps_code": "EYZA",
-      "coordinates": "55.752499, 26.256901"
+      "coordinates": "55.752499, 26.256901",
+      "metar_available": false
     },
     {
       "ident": "LT-0001",
@@ -450,7 +486,8 @@
       "iso_country": "LT",
       "iso_region": "LT-VL",
       "municipality": "Rūdininkai",
-      "coordinates": "54.3877067565918, 25.094318389892578"
+      "coordinates": "54.3877067565918, 25.094318389892578",
+      "metar_available": false
     },
     {
       "ident": "LT-0002",
@@ -461,7 +498,8 @@
       "iso_country": "LT",
       "iso_region": "LT-PN",
       "municipality": "Panemunelis",
-      "coordinates": "55.92969, 25.41844"
+      "coordinates": "55.92969, 25.41844",
+      "metar_available": false
     },
     {
       "ident": "LT-0003",
@@ -470,7 +508,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-MR",
-      "coordinates": "54.365886, 23.167256"
+      "coordinates": "54.365886, 23.167256",
+      "metar_available": false
     },
     {
       "ident": "LT-0004",
@@ -480,7 +519,8 @@
       "iso_country": "LT",
       "iso_region": "LT-PN",
       "municipality": "Kupiškis",
-      "coordinates": "55.8529062, 24.957929"
+      "coordinates": "55.8529062, 24.957929",
+      "metar_available": false
     },
     {
       "ident": "LT-0005",
@@ -490,7 +530,8 @@
       "iso_country": "LT",
       "iso_region": "LT-UT",
       "municipality": "Pečiuliai",
-      "coordinates": "55.4936031, 25.1949249"
+      "coordinates": "55.4936031, 25.1949249",
+      "metar_available": false
     },
     {
       "ident": "LT-0006",
@@ -501,7 +542,8 @@
       "iso_region": "LT-TA",
       "municipality": "Tauragė",
       "gps_code": "EYTR",
-      "coordinates": "55.23201, 22.150068"
+      "coordinates": "55.23201, 22.150068",
+      "metar_available": false
     },
     {
       "ident": "LT-0007",
@@ -511,7 +553,8 @@
       "iso_country": "LT",
       "iso_region": "LT-PN",
       "municipality": "Ličiūnai",
-      "coordinates": "56.061212, 24.544761"
+      "coordinates": "56.061212, 24.544761",
+      "metar_available": false
     },
     {
       "ident": "LT-0008",
@@ -520,7 +563,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-MR",
-      "coordinates": "54.688091, 23.001315"
+      "coordinates": "54.688091, 23.001315",
+      "metar_available": false
     },
     {
       "ident": "LT-0009",
@@ -530,7 +574,8 @@
       "iso_country": "LT",
       "iso_region": "LT-TA",
       "municipality": "Naukaimis",
-      "coordinates": "55.131368, 22.964454"
+      "coordinates": "55.131368, 22.964454",
+      "metar_available": false
     },
     {
       "ident": "LT-0010",
@@ -540,7 +585,8 @@
       "iso_country": "LT",
       "iso_region": "LT-MR",
       "municipality": "Bliuviškiai",
-      "coordinates": "54.830228, 23.197771"
+      "coordinates": "54.830228, 23.197771",
+      "metar_available": false
     },
     {
       "ident": "LT-0011",
@@ -549,7 +595,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-KU",
-      "coordinates": "55.208166, 24.068935"
+      "coordinates": "55.208166, 24.068935",
+      "metar_available": false
     },
     {
       "ident": "LT-0013",
@@ -560,7 +607,8 @@
       "iso_country": "LT",
       "iso_region": "LT-PN",
       "municipality": "Mediniai",
-      "coordinates": "56.2395, 24.600564"
+      "coordinates": "56.2395, 24.600564",
+      "metar_available": false
     },
     {
       "ident": "LT-0014",
@@ -570,7 +618,8 @@
       "iso_country": "LT",
       "iso_region": "LT-PN",
       "municipality": "Kalnas",
-      "coordinates": "55.984197, 24.34608"
+      "coordinates": "55.984197, 24.34608",
+      "metar_available": false
     },
     {
       "ident": "LT-0015",
@@ -579,7 +628,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-MR",
-      "coordinates": "54.570783, 23.156836"
+      "coordinates": "54.570783, 23.156836",
+      "metar_available": false
     },
     {
       "ident": "LT-0016",
@@ -588,7 +638,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-TE",
-      "coordinates": "55.9251137, 22.5959212"
+      "coordinates": "55.9251137, 22.5959212",
+      "metar_available": false
     },
     {
       "ident": "LT-0017",
@@ -597,7 +648,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-KU",
-      "coordinates": "55.254035, 23.5148404"
+      "coordinates": "55.254035, 23.5148404",
+      "metar_available": false
     },
     {
       "ident": "LT-0018",
@@ -606,7 +658,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-AL",
-      "coordinates": "54.3756647, 24.8454637"
+      "coordinates": "54.3756647, 24.8454637",
+      "metar_available": false
     },
     {
       "ident": "LT-0019",
@@ -615,7 +668,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-SA",
-      "coordinates": "56.267717, 24.01368"
+      "coordinates": "56.267717, 24.01368",
+      "metar_available": false
     },
     {
       "ident": "LT-0020",
@@ -624,7 +678,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-PN",
-      "coordinates": "55.50751, 24.41479"
+      "coordinates": "55.50751, 24.41479",
+      "metar_available": false
     },
     {
       "ident": "LT-0021",
@@ -633,7 +688,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-KL",
-      "coordinates": "55.60306, 21.62339"
+      "coordinates": "55.60306, 21.62339",
+      "metar_available": false
     },
     {
       "ident": "LT-0022",
@@ -642,7 +698,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-SA",
-      "coordinates": "55.863079, 23.62833"
+      "coordinates": "55.863079, 23.62833",
+      "metar_available": false
     },
     {
       "ident": "LT-0023",
@@ -651,7 +708,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-UT",
-      "coordinates": "54.98973, 25.27568"
+      "coordinates": "54.98973, 25.27568",
+      "metar_available": false
     },
     {
       "ident": "LT-0024",
@@ -660,7 +718,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-SA",
-      "coordinates": "55.59152, 23.96661"
+      "coordinates": "55.59152, 23.96661",
+      "metar_available": false
     },
     {
       "ident": "LT-0025",
@@ -669,7 +728,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-PN",
-      "coordinates": "55.59597, 24.36418"
+      "coordinates": "55.59597, 24.36418",
+      "metar_available": false
     },
     {
       "ident": "LT-0026",
@@ -678,7 +738,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-VL",
-      "coordinates": "54.32387, 25.24008"
+      "coordinates": "54.32387, 25.24008",
+      "metar_available": false
     },
     {
       "ident": "LT-0027",
@@ -687,7 +748,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-PN",
-      "coordinates": "55.57675, 24.26939"
+      "coordinates": "55.57675, 24.26939",
+      "metar_available": false
     },
     {
       "ident": "LT-0028",
@@ -696,7 +758,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-KU",
-      "coordinates": "54.53103, 23.84071"
+      "coordinates": "54.53103, 23.84071",
+      "metar_available": false
     },
     {
       "ident": "LT-0029",
@@ -705,7 +768,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-KU",
-      "coordinates": "54.85452, 23.74284"
+      "coordinates": "54.85452, 23.74284",
+      "metar_available": false
     },
     {
       "ident": "LT-0030",
@@ -714,7 +778,8 @@
       "continent": "EU",
       "iso_country": "LT",
       "iso_region": "LT-TA",
-      "coordinates": "55.29042, 22.26759"
+      "coordinates": "55.29042, 22.26759",
+      "metar_available": false
     },
     {
       "ident": "LT-0031",
@@ -725,7 +790,8 @@
       "iso_country": "LT",
       "iso_region": "LT-AL",
       "municipality": "Krokialaukis",
-      "coordinates": "54.426259, 23.774189"
+      "coordinates": "54.426259, 23.774189",
+      "metar_available": false
     },
     {
       "ident": "LT-0032",
@@ -736,7 +802,8 @@
       "iso_country": "LT",
       "iso_region": "LT-KU",
       "municipality": "Raseiniai",
-      "coordinates": "55.421154, 23.215259"
+      "coordinates": "55.421154, 23.215259",
+      "metar_available": false
     },
     {
       "ident": "LT-0033",
@@ -747,7 +814,8 @@
       "iso_country": "LT",
       "iso_region": "LT-VL",
       "municipality": "Trakai",
-      "coordinates": "54.596634, 24.861428"
+      "coordinates": "54.596634, 24.861428",
+      "metar_available": false
     },
     {
       "ident": "LT-0034",
@@ -758,7 +826,8 @@
       "iso_country": "LT",
       "iso_region": "LT-KU",
       "municipality": "Raseiniai",
-      "coordinates": "55.435248, 23.360775"
+      "coordinates": "55.435248, 23.360775",
+      "metar_available": false
     },
     {
       "ident": "LT-0035",
@@ -769,7 +838,8 @@
       "iso_country": "LT",
       "iso_region": "LT-TA",
       "municipality": "Tauragė",
-      "coordinates": "55.395323, 22.591957"
+      "coordinates": "55.395323, 22.591957",
+      "metar_available": false
     },
     {
       "ident": "LT-9517",
@@ -780,7 +850,8 @@
       "iso_country": "LT",
       "iso_region": "LT-KU",
       "municipality": "Kedainiai",
-      "coordinates": "55.321701, 23.52"
+      "coordinates": "55.321701, 23.52",
+      "metar_available": false
     },
     {
       "ident": "LT-9518",
@@ -791,7 +862,8 @@
       "iso_country": "LT",
       "iso_region": "LT-KU",
       "municipality": "Kaunas",
-      "coordinates": "54.880001, 23.9072"
+      "coordinates": "54.880001, 23.9072",
+      "metar_available": false
     },
     {
       "ident": "LT-9519",
@@ -802,7 +874,8 @@
       "iso_country": "LT",
       "iso_region": "LT-MR",
       "municipality": "Kazlų Rūda",
-      "coordinates": "54.80559921, 23.5331001"
+      "coordinates": "54.80559921, 23.5331001",
+      "metar_available": false
     },
     {
       "ident": "LT-9520",
@@ -813,7 +886,8 @@
       "iso_country": "LT",
       "iso_region": "LT-KU",
       "municipality": "Jonava",
-      "coordinates": "55.009998, 24.3633"
+      "coordinates": "55.009998, 24.3633",
+      "metar_available": false
     }
   ]
 }

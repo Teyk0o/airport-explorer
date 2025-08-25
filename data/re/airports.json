@@ -2,7 +2,7 @@
   "country_code": "RE",
   "country_name": "Reunion",
   "total_airports": 11,
-  "last_updated": "2025-08-01T00:18:22.713135",
+  "last_updated": "2025-08-25T10:08:40.856712",
   "types_distribution": {
     "large_airport": 1,
     "medium_airport": 1,
@@ -21,7 +21,8 @@
       "municipality": "Sainte-Marie",
       "gps_code": "FMEE",
       "iata_code": "RUN",
-      "coordinates": "-20.890087, 55.518894"
+      "coordinates": "-20.890087, 55.518894",
+      "metar_available": false
     },
     {
       "ident": "FMEP",
@@ -34,7 +35,8 @@
       "municipality": "Saint-Pierre",
       "gps_code": "FMEP",
       "iata_code": "ZSE",
-      "coordinates": "-21.319362, 55.422506"
+      "coordinates": "-21.319362, 55.422506",
+      "metar_available": false
     },
     {
       "ident": "RE-0001",
@@ -45,7 +47,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SP",
       "municipality": "Les Trois-Bassins",
-      "coordinates": "-21.111944, 55.261667"
+      "coordinates": "-21.111944, 55.261667",
+      "metar_available": false
     },
     {
       "ident": "RE-0002",
@@ -57,7 +60,8 @@
       "iso_region": "RE-SB",
       "municipality": "Bras-Panon",
       "local_code": "LF9744",
-      "coordinates": "-20.985833, 55.664444"
+      "coordinates": "-20.985833, 55.664444",
+      "metar_available": false
     },
     {
       "ident": "RE-0003",
@@ -67,7 +71,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SP",
       "municipality": "Saint-Paul",
-      "coordinates": "-21.06802, 55.24938"
+      "coordinates": "-21.06802, 55.24938",
+      "metar_available": false
     },
     {
       "ident": "RE-0004",
@@ -77,7 +82,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SR",
       "municipality": "Saint-Pierre",
-      "coordinates": "-21.34569, 55.49334"
+      "coordinates": "-21.34569, 55.49334",
+      "metar_available": false
     },
     {
       "ident": "RE-0005",
@@ -87,7 +93,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SB",
       "municipality": "Saint-Benoît",
-      "coordinates": "-21.05649, 55.70839"
+      "coordinates": "-21.05649, 55.70839",
+      "metar_available": false
     },
     {
       "ident": "RE-0006",
@@ -97,7 +104,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SP",
       "municipality": "Saint-Leu",
-      "coordinates": "-21.15235, 55.27887"
+      "coordinates": "-21.15235, 55.27887",
+      "metar_available": false
     },
     {
       "ident": "RE-0007",
@@ -107,7 +115,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SR",
       "municipality": "Cilaos",
-      "coordinates": "-21.139823, 55.475512"
+      "coordinates": "-21.139823, 55.475512",
+      "metar_available": false
     },
     {
       "ident": "RE-0008",
@@ -118,7 +127,8 @@
       "iso_country": "RE",
       "iso_region": "RE-SP",
       "local_code": "LF9742",
-      "coordinates": "-20.963333, 55.281667"
+      "coordinates": "-20.963333, 55.281667",
+      "metar_available": false
     },
     {
       "ident": "RE-0009",
@@ -130,7 +140,8 @@
       "iso_region": "RE-U-A",
       "municipality": "Grand Coude",
       "local_code": "LF9743",
-      "coordinates": "-21.288889, 55.623611"
+      "coordinates": "-21.288889, 55.623611",
+      "metar_available": false
     }
   ]
 }

@@ -2,7 +2,7 @@
   "country_code": "EG",
   "country_name": "Egypt",
   "total_airports": 141,
-  "last_updated": "2025-08-01T00:18:22.680211",
+  "last_updated": "2025-08-25T10:08:40.821249",
   "types_distribution": {
     "medium_airport": 29,
     "small_airport": 40,
@@ -22,7 +22,8 @@
       "municipality": "Berenice Troglodytica",
       "gps_code": "HEBR",
       "iata_code": "EES",
-      "coordinates": "23.980437, 35.460277"
+      "coordinates": "23.980437, 35.460277",
+      "metar_available": false
     },
     {
       "ident": "EG-0001",
@@ -33,7 +34,8 @@
       "iso_region": "EG-BH",
       "municipality": "Shubrakhit",
       "gps_code": "HE0P",
-      "coordinates": "31.043742, 30.664859"
+      "coordinates": "31.043742, 30.664859",
+      "metar_available": false
     },
     {
       "ident": "EG-0002",
@@ -43,7 +45,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SHR",
       "municipality": "Abu Hammad",
-      "coordinates": "30.594704, 31.66493"
+      "coordinates": "30.594704, 31.66493",
+      "metar_available": false
     },
     {
       "ident": "EG-0003",
@@ -53,7 +56,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SHR",
       "municipality": "Bilbeis",
-      "coordinates": "30.42060089111328, 31.67889976501465"
+      "coordinates": "30.42060089111328, 31.67889976501465",
+      "metar_available": false
     },
     {
       "ident": "EG-0004",
@@ -64,7 +68,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SIN",
       "municipality": "El Hassana",
-      "coordinates": "30.194401, 33.4128"
+      "coordinates": "30.194401, 33.4128",
+      "metar_available": false
     },
     {
       "ident": "EG-0005",
@@ -75,7 +80,8 @@
       "iso_country": "EG",
       "iso_region": "EG-IS",
       "municipality": "Ismailia",
-      "coordinates": "30.423011, 32.335344"
+      "coordinates": "30.423011, 32.335344",
+      "metar_available": false
     },
     {
       "ident": "EG-0006",
@@ -86,7 +92,8 @@
       "iso_country": "EG",
       "iso_region": "EG-IS",
       "municipality": "Abo Swir Desert",
-      "coordinates": "30.329104, 32.266932"
+      "coordinates": "30.329104, 32.266932",
+      "metar_available": false
     },
     {
       "ident": "EG-0007",
@@ -97,7 +104,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Al Omraniya",
-      "coordinates": "29.34741, 31.29848"
+      "coordinates": "29.34741, 31.29848",
+      "metar_available": false
     },
     {
       "ident": "EG-0008",
@@ -108,7 +116,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BNS",
       "municipality": "New Bani Sweif",
-      "coordinates": "29.0347, 31.11884"
+      "coordinates": "29.0347, 31.11884",
+      "metar_available": false
     },
     {
       "ident": "EG-0009",
@@ -119,7 +128,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BNS",
       "municipality": "New Bani Sweif",
-      "coordinates": "29.00758, 31.15666"
+      "coordinates": "29.00758, 31.15666",
+      "metar_available": false
     },
     {
       "ident": "EG-0010",
@@ -130,7 +140,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.303175, 33.114767"
+      "coordinates": "28.303175, 33.114767",
+      "metar_available": false
     },
     {
       "ident": "EG-0011",
@@ -141,7 +152,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SIN",
       "municipality": "El Arish",
-      "coordinates": "31.144695, 33.827079"
+      "coordinates": "31.144695, 33.827079",
+      "metar_available": false
     },
     {
       "ident": "EG-0012",
@@ -152,7 +164,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Dar Es Salam",
-      "coordinates": "26.14304, 32.16637"
+      "coordinates": "26.14304, 32.16637",
+      "metar_available": false
     },
     {
       "ident": "EG-0013",
@@ -164,7 +177,8 @@
       "iso_region": "EG-C",
       "municipality": "Maadi",
       "local_code": "HEAJ",
-      "coordinates": "29.969388, 31.2463"
+      "coordinates": "29.969388, 31.2463",
+      "metar_available": false
     },
     {
       "ident": "EG-0014",
@@ -175,7 +189,8 @@
       "iso_country": "EG",
       "iso_region": "EG-KN",
       "municipality": "Nag Hammadi",
-      "coordinates": "26.01157, 32.31584"
+      "coordinates": "26.01157, 32.31584",
+      "metar_available": false
     },
     {
       "ident": "EG-0015",
@@ -186,7 +201,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SHG",
       "municipality": "El Maragha",
-      "coordinates": "26.71641, 31.58357"
+      "coordinates": "26.71641, 31.58357",
+      "metar_available": false
     },
     {
       "ident": "EG-0016",
@@ -197,7 +213,8 @@
       "iso_country": "EG",
       "iso_region": "EG-WAD",
       "municipality": "Abu Simbel",
-      "coordinates": "22.81773, 31.46269"
+      "coordinates": "22.81773, 31.46269",
+      "metar_available": false
     },
     {
       "ident": "EG-0017",
@@ -208,7 +225,8 @@
       "iso_country": "EG",
       "iso_region": "EG-KFS",
       "municipality": "El-Reyad",
-      "coordinates": "31.34512, 30.97628"
+      "coordinates": "31.34512, 30.97628",
+      "metar_available": false
     },
     {
       "ident": "EG-0018",
@@ -219,7 +237,8 @@
       "iso_country": "EG",
       "iso_region": "EG-ALX",
       "municipality": "Iking Maryut",
-      "coordinates": "30.99648, 29.72718"
+      "coordinates": "30.99648, 29.72718",
+      "metar_available": false
     },
     {
       "ident": "EG-0019",
@@ -230,7 +249,8 @@
       "iso_country": "EG",
       "iso_region": "EG-KFS",
       "municipality": "Kafr el-Sheikh",
-      "coordinates": "31.09911, 30.95668"
+      "coordinates": "31.09911, 30.95668",
+      "metar_available": false
     },
     {
       "ident": "EG-0020",
@@ -241,7 +261,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Giza",
-      "coordinates": "30.03155, 31.21808"
+      "coordinates": "30.03155, 31.21808",
+      "metar_available": false
     },
     {
       "ident": "EG-0021",
@@ -252,7 +273,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SUZ",
       "municipality": "Al Ganayen",
-      "coordinates": "30.056542, 32.540474"
+      "coordinates": "30.056542, 32.540474",
+      "metar_available": false
     },
     {
       "ident": "EG-0022",
@@ -263,7 +285,8 @@
       "iso_country": "EG",
       "iso_region": "EG-WAD",
       "municipality": "Farafa Oasis",
-      "coordinates": "27.032601, 28.126566"
+      "coordinates": "27.032601, 28.126566",
+      "metar_available": false
     },
     {
       "ident": "EG-0023",
@@ -274,7 +297,8 @@
       "iso_country": "EG",
       "iso_region": "EG-WAD",
       "municipality": "Farafa Oasis",
-      "coordinates": "27.056642, 27.991662"
+      "coordinates": "27.056642, 27.991662",
+      "metar_available": false
     },
     {
       "ident": "EG-0024",
@@ -284,7 +308,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-ASN",
-      "coordinates": "22.63762, 31.85165"
+      "coordinates": "22.63762, 31.85165",
+      "metar_available": false
     },
     {
       "ident": "EG-0025",
@@ -294,7 +319,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-ASN",
-      "coordinates": "22.75142, 32.26982"
+      "coordinates": "22.75142, 32.26982",
+      "metar_available": false
     },
     {
       "ident": "EG-0026",
@@ -304,7 +330,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-ASN",
-      "coordinates": "23.25856, 32.71406"
+      "coordinates": "23.25856, 32.71406",
+      "metar_available": false
     },
     {
       "ident": "EG-0027",
@@ -315,7 +342,8 @@
       "iso_country": "EG",
       "iso_region": "EG-AST",
       "municipality": "Asyut",
-      "coordinates": "27.203443, 31.186071"
+      "coordinates": "27.203443, 31.186071",
+      "metar_available": false
     },
     {
       "ident": "EG-0028",
@@ -326,7 +354,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Taba",
-      "coordinates": "29.447978, 34.848794"
+      "coordinates": "29.447978, 34.848794",
+      "metar_available": false
     },
     {
       "ident": "EG-0029",
@@ -337,7 +366,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Saint Catherine",
-      "coordinates": "28.5672, 33.95215"
+      "coordinates": "28.5672, 33.95215",
+      "metar_available": false
     },
     {
       "ident": "EG-0030",
@@ -348,7 +378,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "El Tor",
-      "coordinates": "28.22944, 33.63996"
+      "coordinates": "28.22944, 33.63996",
+      "metar_available": false
     },
     {
       "ident": "EG-0031",
@@ -359,7 +390,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Sharm El Sheikh",
-      "coordinates": "27.8977, 34.32271"
+      "coordinates": "27.8977, 34.32271",
+      "metar_available": false
     },
     {
       "ident": "EG-0032",
@@ -370,7 +402,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "El Gouna",
-      "coordinates": "27.42739, 33.66568"
+      "coordinates": "27.42739, 33.66568",
+      "metar_available": false
     },
     {
       "ident": "EG-0033",
@@ -381,7 +414,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "27.74896, 33.5533"
+      "coordinates": "27.74896, 33.5533",
+      "metar_available": false
     },
     {
       "ident": "EG-0034",
@@ -392,7 +426,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "27.73377, 33.50923"
+      "coordinates": "27.73377, 33.50923",
+      "metar_available": false
     },
     {
       "ident": "EG-0035",
@@ -403,7 +438,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.05026, 33.33887"
+      "coordinates": "28.05026, 33.33887",
+      "metar_available": false
     },
     {
       "ident": "EG-0036",
@@ -414,7 +450,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.13711, 33.27775"
+      "coordinates": "28.13711, 33.27775",
+      "metar_available": false
     },
     {
       "ident": "EG-0037",
@@ -425,7 +462,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.3233, 33.11003"
+      "coordinates": "28.3233, 33.11003",
+      "metar_available": false
     },
     {
       "ident": "EG-0038",
@@ -435,7 +473,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.39116, 33.07199"
+      "coordinates": "28.39116, 33.07199",
+      "metar_available": false
     },
     {
       "ident": "EG-0039",
@@ -445,7 +484,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.3962, 133.07133"
+      "coordinates": "28.3962, 133.07133",
+      "metar_available": false
     },
     {
       "ident": "EG-0040",
@@ -455,7 +495,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.39621, 33.07133"
+      "coordinates": "28.39621, 33.07133",
+      "metar_available": false
     },
     {
       "ident": "EG-0041",
@@ -466,7 +507,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.49013, 32.97593"
+      "coordinates": "28.49013, 32.97593",
+      "metar_available": false
     },
     {
       "ident": "EG-0042",
@@ -477,7 +519,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.5508, 32.92708"
+      "coordinates": "28.5508, 32.92708",
+      "metar_available": false
     },
     {
       "ident": "EG-0043",
@@ -488,7 +531,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.73211, 32.81604"
+      "coordinates": "28.73211, 32.81604",
+      "metar_available": false
     },
     {
       "ident": "EG-0044",
@@ -499,7 +543,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SUZ",
       "municipality": "Attaka",
-      "coordinates": "29.48154, 32.44888"
+      "coordinates": "29.48154, 32.44888",
+      "metar_available": false
     },
     {
       "ident": "EG-0045",
@@ -510,7 +555,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SUZ",
       "municipality": "Attaka",
-      "coordinates": "29.74756, 32.37093"
+      "coordinates": "29.74756, 32.37093",
+      "metar_available": false
     },
     {
       "ident": "EG-0046",
@@ -521,7 +567,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SUZ",
       "municipality": "Attaka",
-      "coordinates": "29.87089, 32.47481"
+      "coordinates": "29.87089, 32.47481",
+      "metar_available": false
     },
     {
       "ident": "EG-0047",
@@ -532,7 +579,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SUZ",
       "municipality": "Attaka",
-      "coordinates": "29.96781, 32.37697"
+      "coordinates": "29.96781, 32.37697",
+      "metar_available": false
     },
     {
       "ident": "EG-0048",
@@ -543,7 +591,8 @@
       "iso_country": "EG",
       "iso_region": "EG-IS",
       "municipality": "Kibrit",
-      "coordinates": "30.23642, 32.39243"
+      "coordinates": "30.23642, 32.39243",
+      "metar_available": false
     },
     {
       "ident": "EG-0049",
@@ -554,7 +603,8 @@
       "iso_country": "EG",
       "iso_region": "EG-PTS",
       "municipality": "Awal Al Ganoub",
-      "coordinates": "31.09078, 32.27712"
+      "coordinates": "31.09078, 32.27712",
+      "metar_available": false
     },
     {
       "ident": "EG-0050",
@@ -565,7 +615,8 @@
       "iso_country": "EG",
       "iso_region": "EG-PTS",
       "municipality": "Port Fuad",
-      "coordinates": "31.21905, 32.37619"
+      "coordinates": "31.21905, 32.37619",
+      "metar_available": false
     },
     {
       "ident": "EG-0051",
@@ -576,7 +627,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SUZ",
       "municipality": "Al Ganayen",
-      "coordinates": "30.04307, 32.58078"
+      "coordinates": "30.04307, 32.58078",
+      "metar_available": false
     },
     {
       "ident": "EG-0052",
@@ -587,7 +639,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
-      "coordinates": "28.9424, 33.18593"
+      "coordinates": "28.9424, 33.18593",
+      "metar_available": false
     },
     {
       "ident": "EG-0053",
@@ -598,7 +651,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
-      "coordinates": "28.89852, 33.18131"
+      "coordinates": "28.89852, 33.18131",
+      "metar_available": false
     },
     {
       "ident": "EG-0054",
@@ -609,7 +663,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
-      "coordinates": "28.89156, 33.18209"
+      "coordinates": "28.89156, 33.18209",
+      "metar_available": false
     },
     {
       "ident": "EG-0055",
@@ -620,7 +675,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
-      "coordinates": "28.6642, 33.20473"
+      "coordinates": "28.6642, 33.20473",
+      "metar_available": false
     },
     {
       "ident": "EG-0056",
@@ -631,7 +687,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
-      "coordinates": "28.6886, 33.35797"
+      "coordinates": "28.6886, 33.35797",
+      "metar_available": false
     },
     {
       "ident": "EG-0057",
@@ -642,7 +699,8 @@
       "iso_country": "EG",
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
-      "coordinates": "28.675985, 33.358955"
+      "coordinates": "28.675985, 33.358955",
+      "metar_available": false
     },
     {
       "ident": "EG-0058",
@@ -652,7 +710,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "6th of October",
-      "coordinates": "29.800373, 31.084539"
+      "coordinates": "29.800373, 31.084539",
+      "metar_available": false
     },
     {
       "ident": "EG-0059",
@@ -664,7 +723,8 @@
       "iso_region": "EG-C",
       "municipality": "New Cairo",
       "iata_code": "TFR",
-      "coordinates": "30.0503, 31.841369"
+      "coordinates": "30.0503, 31.841369",
+      "metar_available": false
     },
     {
       "ident": "EG-0060",
@@ -674,7 +734,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Sheikh Zayed City",
-      "coordinates": "30.03825, 30.885848"
+      "coordinates": "30.03825, 30.885848",
+      "metar_available": false
     },
     {
       "ident": "EG-0061",
@@ -684,7 +745,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Sheikh Zayed City",
-      "coordinates": "30.039018, 30.893517"
+      "coordinates": "30.039018, 30.893517",
+      "metar_available": false
     },
     {
       "ident": "EG-0062",
@@ -695,7 +757,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Al Giza Desert",
-      "coordinates": "29.82222, 31.12127"
+      "coordinates": "29.82222, 31.12127",
+      "metar_available": false
     },
     {
       "ident": "EG-0063",
@@ -705,7 +768,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Sallum",
-      "coordinates": "31.578559, 25.13052"
+      "coordinates": "31.578559, 25.13052",
+      "metar_available": false
     },
     {
       "ident": "EG-0064",
@@ -715,7 +779,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Sallum",
-      "coordinates": "31.526236, 25.179726"
+      "coordinates": "31.526236, 25.179726",
+      "metar_available": false
     },
     {
       "ident": "EG-0065",
@@ -726,7 +791,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "6th of October",
-      "coordinates": "29.99773, 30.96831"
+      "coordinates": "29.99773, 30.96831",
+      "metar_available": false
     },
     {
       "ident": "EG-0066",
@@ -736,7 +802,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Sidi Barrani",
-      "coordinates": "31.524462, 25.894004"
+      "coordinates": "31.524462, 25.894004",
+      "metar_available": false
     },
     {
       "ident": "EG-0067",
@@ -746,7 +813,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Sidi Barrani",
-      "coordinates": "31.400602, 25.888105"
+      "coordinates": "31.400602, 25.888105",
+      "metar_available": false
     },
     {
       "ident": "EG-0068",
@@ -758,7 +826,8 @@
       "iso_region": "EG-JS",
       "municipality": "Sharm el-Sheikh",
       "local_code": "SIH",
-      "coordinates": "27.882101, 34.297099"
+      "coordinates": "27.882101, 34.297099",
+      "metar_available": false
     },
     {
       "ident": "EG-0069",
@@ -769,7 +838,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Safaga",
-      "coordinates": "26.751875, 33.951665"
+      "coordinates": "26.751875, 33.951665",
+      "metar_available": false
     },
     {
       "ident": "EG-0070",
@@ -778,7 +848,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-ALX",
-      "coordinates": "31.031976, 29.799986"
+      "coordinates": "31.031976, 29.799986",
+      "metar_available": false
     },
     {
       "ident": "EG-0071",
@@ -788,7 +859,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "El Dabaa",
-      "coordinates": "30.997694, 28.466477"
+      "coordinates": "30.997694, 28.466477",
+      "metar_available": false
     },
     {
       "ident": "EG-0072",
@@ -798,7 +870,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-IS",
-      "coordinates": "30.247667, 32.412195"
+      "coordinates": "30.247667, 32.412195",
+      "metar_available": false
     },
     {
       "ident": "EG-0073",
@@ -809,7 +882,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Badrshein",
-      "coordinates": "29.81049, 31.16197"
+      "coordinates": "29.81049, 31.16197",
+      "metar_available": false
     },
     {
       "ident": "EG-0074",
@@ -820,7 +894,8 @@
       "iso_country": "EG",
       "iso_region": "EG-C",
       "municipality": "Helwan",
-      "coordinates": "29.86491, 31.32082"
+      "coordinates": "29.86491, 31.32082",
+      "metar_available": false
     },
     {
       "ident": "EG-0075",
@@ -831,7 +906,8 @@
       "iso_country": "EG",
       "iso_region": "EG-C",
       "municipality": "Abdeen",
-      "coordinates": "30.04331, 31.24676"
+      "coordinates": "30.04331, 31.24676",
+      "metar_available": false
     },
     {
       "ident": "EG-0076",
@@ -842,7 +918,8 @@
       "iso_country": "EG",
       "iso_region": "EG-C",
       "municipality": "Cairo Desert",
-      "coordinates": "29.925129, 31.666377"
+      "coordinates": "29.925129, 31.666377",
+      "metar_available": false
     },
     {
       "ident": "EG-0077",
@@ -853,7 +930,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SIN",
       "municipality": "Remanah",
-      "coordinates": "30.999518, 32.551396"
+      "coordinates": "30.999518, 32.551396",
+      "metar_available": false
     },
     {
       "ident": "EG-0078",
@@ -864,7 +942,8 @@
       "iso_country": "EG",
       "iso_region": "EG-ALX",
       "municipality": "Alexandria",
-      "coordinates": "31.181681, 29.94629"
+      "coordinates": "31.181681, 29.94629",
+      "metar_available": false
     },
     {
       "ident": "EG-0079",
@@ -875,7 +954,8 @@
       "iso_country": "EG",
       "iso_region": "EG-GZ",
       "municipality": "Al Jiza",
-      "coordinates": "30.074699, 31.191401"
+      "coordinates": "30.074699, 31.191401",
+      "metar_available": false
     },
     {
       "ident": "EG-AUE",
@@ -887,7 +967,8 @@
       "iso_region": "EG-JS",
       "municipality": "Ras Abu Rudeis",
       "iata_code": "AUE",
-      "coordinates": "28.899694, 33.202057"
+      "coordinates": "28.899694, 33.202057",
+      "metar_available": false
     },
     {
       "ident": "HE11",
@@ -897,7 +978,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-MT",
-      "coordinates": "29.867554, 27.946558"
+      "coordinates": "29.867554, 27.946558",
+      "metar_available": false
     },
     {
       "ident": "HE12",
@@ -908,7 +990,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SHR",
       "municipality": "Inshas",
-      "coordinates": "30.332373, 31.448109"
+      "coordinates": "30.332373, 31.448109",
+      "metar_available": false
     },
     {
       "ident": "HE15",
@@ -919,7 +1002,8 @@
       "iso_region": "EG-C",
       "municipality": "Helwan",
       "gps_code": "HE15",
-      "coordinates": "29.8225, 31.3309"
+      "coordinates": "29.8225, 31.3309",
+      "metar_available": false
     },
     {
       "ident": "HE16",
@@ -930,7 +1014,8 @@
       "iso_region": "EG-GH",
       "municipality": "Tanta",
       "gps_code": "HE16",
-      "coordinates": "30.836599, 30.936001"
+      "coordinates": "30.836599, 30.936001",
+      "metar_available": false
     },
     {
       "ident": "HE17",
@@ -940,7 +1025,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-BA",
-      "coordinates": "24.998663, 33.494289"
+      "coordinates": "24.998663, 33.494289",
+      "metar_available": false
     },
     {
       "ident": "HE18",
@@ -951,7 +1037,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Sidi El Barrani",
-      "coordinates": "31.108875, 25.456717"
+      "coordinates": "31.108875, 25.456717",
+      "metar_available": false
     },
     {
       "ident": "HE19",
@@ -962,7 +1049,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "As Sallum",
-      "coordinates": "31.464013, 25.278039"
+      "coordinates": "31.464013, 25.278039",
+      "metar_available": false
     },
     {
       "ident": "HE20",
@@ -973,7 +1061,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "27.834596, 33.525982"
+      "coordinates": "27.834596, 33.525982",
+      "metar_available": false
     },
     {
       "ident": "HE21",
@@ -984,7 +1073,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BA",
       "municipality": "Ras Gharib",
-      "coordinates": "28.19694, 33.206005"
+      "coordinates": "28.19694, 33.206005",
+      "metar_available": false
     },
     {
       "ident": "HE23",
@@ -995,7 +1085,8 @@
       "iso_country": "EG",
       "iso_region": "EG-ASN",
       "municipality": "Darau",
-      "coordinates": "24.414914, 32.951667"
+      "coordinates": "24.414914, 32.951667",
+      "metar_available": false
     },
     {
       "ident": "HE25",
@@ -1008,7 +1099,8 @@
       "municipality": "El Minya",
       "gps_code": "HEMN",
       "iata_code": "EMY",
-      "coordinates": "28.090509, 30.738738"
+      "coordinates": "28.090509, 30.738738",
+      "metar_available": false
     },
     {
       "ident": "HE26",
@@ -1020,7 +1112,8 @@
       "iso_region": "EG-BA",
       "municipality": "Safaja",
       "gps_code": "HE26",
-      "coordinates": "26.55239, 33.128543"
+      "coordinates": "26.55239, 33.128543",
+      "metar_available": false
     },
     {
       "ident": "HE27",
@@ -1031,7 +1124,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Siwa Oasis",
-      "coordinates": "29.552626, 25.584583"
+      "coordinates": "29.552626, 25.584583",
+      "metar_available": false
     },
     {
       "ident": "HE28",
@@ -1042,7 +1136,8 @@
       "iso_country": "EG",
       "iso_region": "EG-BH",
       "municipality": "Markaz Ad Delingat",
-      "coordinates": "30.540501, 30.5602"
+      "coordinates": "30.540501, 30.5602",
+      "metar_available": false
     },
     {
       "ident": "HE30",
@@ -1053,7 +1148,8 @@
       "iso_country": "EG",
       "iso_region": "EG-FYM",
       "municipality": "Tamiya",
-      "coordinates": "29.543146, 30.897374"
+      "coordinates": "29.543146, 30.897374",
+      "metar_available": false
     },
     {
       "ident": "HE31",
@@ -1063,7 +1159,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-MT",
-      "coordinates": "29.80532, 28.55263"
+      "coordinates": "29.80532, 28.55263",
+      "metar_available": false
     },
     {
       "ident": "HE32",
@@ -1074,7 +1171,8 @@
       "iso_country": "EG",
       "iso_region": "EG-DK",
       "municipality": "Mansoura",
-      "coordinates": "30.9676, 31.4342"
+      "coordinates": "30.9676, 31.4342",
+      "metar_available": false
     },
     {
       "ident": "HE33",
@@ -1086,7 +1184,8 @@
       "iso_region": "EG-MT",
       "municipality": "Marsa Matruh",
       "local_code": "XMEL",
-      "coordinates": "30.732035, 27.019075"
+      "coordinates": "30.732035, 27.019075",
+      "metar_available": false
     },
     {
       "ident": "HE34",
@@ -1097,7 +1196,8 @@
       "iso_country": "EG",
       "iso_region": "EG-IS",
       "municipality": "Kibrit",
-      "coordinates": "30.246901, 32.492298"
+      "coordinates": "30.246901, 32.492298",
+      "metar_available": false
     },
     {
       "ident": "HE35",
@@ -1108,7 +1208,8 @@
       "iso_country": "EG",
       "iso_region": "EG-IS",
       "municipality": "Abu Suwayr",
-      "coordinates": "30.57270050048828, 32.095298767089844"
+      "coordinates": "30.57270050048828, 32.095298767089844",
+      "metar_available": false
     },
     {
       "ident": "HE36",
@@ -1120,7 +1221,8 @@
       "iso_region": "EG-SIN",
       "municipality": "El Hassana",
       "iata_code": "RDL",
-      "coordinates": "30.410714, 33.15535"
+      "coordinates": "30.410714, 33.15535",
+      "metar_available": false
     },
     {
       "ident": "HE37",
@@ -1131,7 +1233,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SHR",
       "municipality": "Bilbeis",
-      "coordinates": "30.394899, 31.6014"
+      "coordinates": "30.394899, 31.6014",
+      "metar_available": false
     },
     {
       "ident": "HE38",
@@ -1141,7 +1244,8 @@
       "continent": "AF",
       "iso_country": "EG",
       "iso_region": "EG-BNS",
-      "coordinates": "28.968086, 31.701586"
+      "coordinates": "28.968086, 31.701586",
+      "metar_available": false
     },
     {
       "ident": "HE39",
@@ -1152,7 +1256,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SHR",
       "municipality": "El Husseiniya",
-      "coordinates": "30.7952, 32.044102"
+      "coordinates": "30.7952, 32.044102",
+      "metar_available": false
     },
     {
       "ident": "HE40",
@@ -1165,7 +1270,8 @@
       "municipality": "Sidi El Barrani",
       "gps_code": "HE40",
       "iata_code": "SQK",
-      "coordinates": "31.47201, 25.879272"
+      "coordinates": "31.47201, 25.879272",
+      "metar_available": false
     },
     {
       "ident": "HE41",
@@ -1176,7 +1282,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MT",
       "municipality": "Sidi El Barrani",
-      "coordinates": "31.032399, 25.854349"
+      "coordinates": "31.032399, 25.854349",
+      "metar_available": false
     },
     {
       "ident": "HE42",
@@ -1187,7 +1294,8 @@
       "iso_country": "EG",
       "iso_region": "EG-MNF",
       "municipality": "Quesna",
-      "coordinates": "30.579, 31.1292"
+      "coordinates": "30.579, 31.1292",
+      "metar_available": false
     },
     {
       "ident": "HE45",
@@ -1199,7 +1307,8 @@
       "iso_region": "EG-JS",
       "municipality": "Ras Sedr",
       "gps_code": "HE45",
-      "coordinates": "29.603, 32.689604"
+      "coordinates": "29.603, 32.689604",
+      "metar_available": false
     },
     {
       "ident": "HE46",
@@ -1210,7 +1319,8 @@
       "iso_country": "EG",
       "iso_region": "EG-SIN",
       "municipality": "Nekhel",
-      "coordinates": "30.026081, 32.971458"
+      "coordinates": "30.026081, 32.971458",
+      "metar_available": false
     },
     {
       "ident": "HEAL",
@@ -1223,7 +1333,8 @@
       "municipality": "El Alamein",
       "gps_code": "HEAL",
       "iata_code": "DBB",
-      "coordinates": "30.924324, 28.46161"
+      "coordinates": "30.924324, 28.46161",
+      "metar_available": false
     },
     {
       "ident": "HEAR",
@@ -1236,7 +1347,8 @@
       "municipality": "El Arish",
       "gps_code": "HEAR",
       "iata_code": "AAC",
-      "coordinates": "31.078565, 33.836791"
+      "coordinates": "31.078565, 33.836791",
+      "metar_available": false
     },
     {
       "ident": "HEAT",
@@ -1249,7 +1361,8 @@
       "municipality": "Asyut",
       "gps_code": "HEAT",
       "iata_code": "ATZ",
-      "coordinates": "27.050818, 31.016309"
+      "coordinates": "27.050818, 31.016309",
+      "metar_available": false
     },
     {
       "ident": "HEAZ",
@@ -1261,7 +1374,8 @@
       "iso_region": "EG-C",
       "municipality": "El Nozha",
       "gps_code": "HEAZ",
-      "coordinates": "30.091702, 31.359739"
+      "coordinates": "30.091702, 31.359739",
+      "metar_available": false
     },
     {
       "ident": "HEBA",
@@ -1274,7 +1388,8 @@
       "municipality": "Alexandria",
       "gps_code": "HEBA",
       "iata_code": "HBE",
-      "coordinates": "30.93249, 29.696437"
+      "coordinates": "30.93249, 29.696437",
+      "metar_available": false
     },
     {
       "ident": "HEBL",
@@ -1287,7 +1402,8 @@
       "municipality": "Abu Simbel",
       "gps_code": "HEBL",
       "iata_code": "ABS",
-      "coordinates": "22.367657, 31.609962"
+      "coordinates": "22.367657, 31.609962",
+      "metar_available": false
     },
     {
       "ident": "HEBS",
@@ -1299,7 +1415,8 @@
       "iso_region": "EG-BNS",
       "municipality": "Bani Sweif",
       "gps_code": "HEBS",
-      "coordinates": "29.20224, 31.013471"
+      "coordinates": "29.20224, 31.013471",
+      "metar_available": false
     },
     {
       "ident": "HECA",
@@ -1312,7 +1429,8 @@
       "municipality": "Cairo",
       "gps_code": "HECA",
       "iata_code": "CAI",
-      "coordinates": "30.111534, 31.396694"
+      "coordinates": "30.111534, 31.396694",
+      "metar_available": false
     },
     {
       "ident": "HECP",
@@ -1325,7 +1443,8 @@
       "municipality": "New Cairo",
       "gps_code": "HECP",
       "iata_code": "CCE",
-      "coordinates": "30.074293, 31.84296"
+      "coordinates": "30.074293, 31.84296",
+      "metar_available": false
     },
     {
       "ident": "HECW",
@@ -1337,7 +1456,8 @@
       "iso_region": "EG-GZ",
       "municipality": "Cairo",
       "gps_code": "HECW",
-      "coordinates": "30.107943, 30.915222"
+      "coordinates": "30.107943, 30.915222",
+      "metar_available": false
     },
     {
       "ident": "HEDK",
@@ -1350,7 +1470,8 @@
       "municipality": "Dakhla Oases",
       "gps_code": "HEDK",
       "iata_code": "DAK",
-      "coordinates": "25.41116, 29.003273"
+      "coordinates": "25.41116, 29.003273",
+      "metar_available": false
     },
     {
       "ident": "HEGN",
@@ -1363,7 +1484,8 @@
       "municipality": "Hurghada",
       "gps_code": "HEGN",
       "iata_code": "HRG",
-      "coordinates": "27.176776, 33.796692"
+      "coordinates": "27.176776, 33.796692",
+      "metar_available": false
     },
     {
       "ident": "HEGO",
@@ -1375,7 +1497,8 @@
       "iso_region": "EG-BA",
       "municipality": "El Gouna",
       "gps_code": "HEGO",
-      "coordinates": "27.365594, 33.668461"
+      "coordinates": "27.365594, 33.668461",
+      "metar_available": false
     },
     {
       "ident": "HEGR",
@@ -1388,7 +1511,8 @@
       "municipality": "El Jora",
       "gps_code": "HEGR",
       "iata_code": "EGH",
-      "coordinates": "31.078138, 34.153131"
+      "coordinates": "31.078138, 34.153131",
+      "metar_available": false
     },
     {
       "ident": "HEGS",
@@ -1400,7 +1524,8 @@
       "iso_region": "EG-BH",
       "municipality": "Abu El Matamir",
       "gps_code": "HEGS",
-      "coordinates": "30.819799, 30.1912"
+      "coordinates": "30.819799, 30.1912",
+      "metar_available": false
     },
     {
       "ident": "HEIS",
@@ -1412,7 +1537,8 @@
       "iso_region": "EG-IS",
       "municipality": "Ismailia",
       "gps_code": "HEIS",
-      "coordinates": "30.597951, 32.235689"
+      "coordinates": "30.597951, 32.235689",
+      "metar_available": false
     },
     {
       "ident": "HEKG",
@@ -1425,7 +1551,8 @@
       "municipality": "Kharja Oases",
       "gps_code": "HEKG",
       "iata_code": "UVL",
-      "coordinates": "25.471483, 30.588491"
+      "coordinates": "25.471483, 30.588491",
+      "metar_available": false
     },
     {
       "ident": "HELX",
@@ -1438,7 +1565,8 @@
       "municipality": "Luxor",
       "gps_code": "HELX",
       "iata_code": "LXR",
-      "coordinates": "25.671037, 32.706451"
+      "coordinates": "25.671037, 32.706451",
+      "metar_available": false
     },
     {
       "ident": "HEMA",
@@ -1451,7 +1579,8 @@
       "municipality": "Marsa Alam",
       "gps_code": "HEMA",
       "iata_code": "RMF",
-      "coordinates": "25.555548, 34.59245"
+      "coordinates": "25.555548, 34.59245",
+      "metar_available": false
     },
     {
       "ident": "HEMM",
@@ -1464,7 +1593,8 @@
       "municipality": "Marsa Matruh",
       "gps_code": "HEMM",
       "iata_code": "MUH",
-      "coordinates": "31.325464, 27.221716"
+      "coordinates": "31.325464, 27.221716",
+      "metar_available": false
     },
     {
       "ident": "HEOC",
@@ -1476,7 +1606,8 @@
       "iso_region": "EG-C",
       "municipality": "6th of October",
       "gps_code": "HEOC",
-      "coordinates": "29.812707, 30.823461"
+      "coordinates": "29.812707, 30.823461",
+      "metar_available": false
     },
     {
       "ident": "HEOW",
@@ -1489,7 +1620,8 @@
       "municipality": "Sharq El Owainat",
       "gps_code": "HEOW",
       "iata_code": "GSQ",
-      "coordinates": "22.584256, 28.721609"
+      "coordinates": "22.584256, 28.721609",
+      "metar_available": false
     },
     {
       "ident": "HEPS",
@@ -1502,7 +1634,8 @@
       "municipality": "Port Said",
       "gps_code": "HEPS",
       "iata_code": "PSD",
-      "coordinates": "31.279285, 32.240582"
+      "coordinates": "31.279285, 32.240582",
+      "metar_available": false
     },
     {
       "ident": "HESC",
@@ -1515,7 +1648,8 @@
       "municipality": "Saint Catherine",
       "gps_code": "HESC",
       "iata_code": "SKV",
-      "coordinates": "28.684601, 34.062681"
+      "coordinates": "28.684601, 34.062681",
+      "metar_available": false
     },
     {
       "ident": "HESG",
@@ -1528,7 +1662,8 @@
       "municipality": "Suhaj",
       "gps_code": "HESG",
       "iata_code": "HMB",
-      "coordinates": "26.342515, 31.743017"
+      "coordinates": "26.342515, 31.743017",
+      "metar_available": false
     },
     {
       "ident": "HESH",
@@ -1541,7 +1676,8 @@
       "municipality": "Sharm El Sheikh",
       "gps_code": "HESH",
       "iata_code": "SSH",
-      "coordinates": "27.977272, 34.394717"
+      "coordinates": "27.977272, 34.394717",
+      "metar_available": false
     },
     {
       "ident": "HESN",
@@ -1554,7 +1690,8 @@
       "municipality": "Aswan",
       "gps_code": "HESN",
       "iata_code": "ASW",
-      "coordinates": "23.968137, 32.824445"
+      "coordinates": "23.968137, 32.824445",
+      "metar_available": false
     },
     {
       "ident": "HESW",
@@ -1567,7 +1704,8 @@
       "municipality": "Siwa Oasis",
       "gps_code": "HESW",
       "iata_code": "SEW",
-      "coordinates": "29.346234, 25.505624"
+      "coordinates": "29.346234, 25.505624",
+      "metar_available": false
     },
     {
       "ident": "HESX",
@@ -1580,7 +1718,8 @@
       "municipality": "Al Jiza",
       "gps_code": "HESX",
       "iata_code": "SPX",
-      "coordinates": "30.108078, 30.889252"
+      "coordinates": "30.108078, 30.889252",
+      "metar_available": false
     },
     {
       "ident": "HETB",
@@ -1593,7 +1732,8 @@
       "municipality": "Taba",
       "gps_code": "HETB",
       "iata_code": "TCP",
-      "coordinates": "29.594496, 34.775752"
+      "coordinates": "29.594496, 34.775752",
+      "metar_available": false
     },
     {
       "ident": "HETR",
@@ -1606,7 +1746,8 @@
       "municipality": "At Tur",
       "gps_code": "HETR",
       "iata_code": "ELT",
-      "coordinates": "28.208964, 33.645483"
+      "coordinates": "28.208964, 33.645483",
+      "metar_available": false
     }
   ]
 }

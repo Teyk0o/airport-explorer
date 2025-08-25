@@ -2,7 +2,7 @@
   "country_code": "TW",
   "country_name": "Taiwan",
   "total_airports": 125,
-  "last_updated": "2025-08-01T00:18:22.843948",
+  "last_updated": "2025-08-25T10:08:40.999503",
   "types_distribution": {
     "medium_airport": 19,
     "small_airport": 36,
@@ -22,7 +22,8 @@
       "iso_region": "TW-KHH",
       "municipality": "Kaohsiung (Gangshan)",
       "gps_code": "RCAY",
-      "coordinates": "22.782499, 120.263"
+      "coordinates": "22.782499, 120.263",
+      "metar_available": false
     },
     {
       "ident": "RCBS",
@@ -35,7 +36,8 @@
       "municipality": "Shang-I",
       "gps_code": "RCBS",
       "iata_code": "KNH",
-      "coordinates": "24.4279, 118.359001"
+      "coordinates": "24.4279, 118.359001",
+      "metar_available": false
     },
     {
       "ident": "RCCM",
@@ -48,7 +50,8 @@
       "municipality": "Qimei",
       "gps_code": "RCCM",
       "iata_code": "CMJ",
-      "coordinates": "23.213127, 119.417539"
+      "coordinates": "23.213127, 119.417539",
+      "metar_available": false
     },
     {
       "ident": "RCDC",
@@ -60,7 +63,8 @@
       "iso_region": "TW-PIF",
       "municipality": "Pingtung",
       "gps_code": "RCDC",
-      "coordinates": "22.6724, 120.461998"
+      "coordinates": "22.6724, 120.461998",
+      "metar_available": false
     },
     {
       "ident": "RCDI",
@@ -72,7 +76,8 @@
       "iso_region": "TW-TAO",
       "municipality": "Longtan",
       "gps_code": "RCDI",
-      "coordinates": "24.853588, 121.236392"
+      "coordinates": "24.853588, 121.236392",
+      "metar_available": false
     },
     {
       "ident": "RCFG",
@@ -85,7 +90,8 @@
       "municipality": "Matsu (Nangan)",
       "gps_code": "RCFG",
       "iata_code": "LZN",
-      "coordinates": "26.159656, 119.958376"
+      "coordinates": "26.159656, 119.958376",
+      "metar_available": false
     },
     {
       "ident": "RCFN",
@@ -98,7 +104,8 @@
       "municipality": "Taitung City",
       "gps_code": "RCFN",
       "iata_code": "TTT",
-      "coordinates": "22.7549991607666, 121.10199737548828"
+      "coordinates": "22.7549991607666, 121.10199737548828",
+      "metar_available": false
     },
     {
       "ident": "RCGI",
@@ -111,7 +118,8 @@
       "municipality": "Lüdao",
       "gps_code": "RCGI",
       "iata_code": "GNI",
-      "coordinates": "22.673901, 121.466003"
+      "coordinates": "22.673901, 121.466003",
+      "metar_available": false
     },
     {
       "ident": "RCKH",
@@ -124,7 +132,8 @@
       "municipality": "Kaohsiung (Xiaogang)",
       "gps_code": "RCKH",
       "iata_code": "KHH",
-      "coordinates": "22.577101, 120.349998"
+      "coordinates": "22.577101, 120.349998",
+      "metar_available": false
     },
     {
       "ident": "RCKU",
@@ -137,7 +146,8 @@
       "municipality": "Shuishang",
       "gps_code": "RCKU",
       "iata_code": "CYI",
-      "coordinates": "23.462577, 120.390544"
+      "coordinates": "23.462577, 120.390544",
+      "metar_available": false
     },
     {
       "ident": "RCKW",
@@ -150,7 +160,8 @@
       "municipality": "Hengchun",
       "gps_code": "RCKW",
       "iata_code": "HCN",
-      "coordinates": "22.0411, 120.730003"
+      "coordinates": "22.0411, 120.730003",
+      "metar_available": false
     },
     {
       "ident": "RCLC",
@@ -161,7 +172,8 @@
       "iso_region": "TW-PIF",
       "municipality": "Xiaoliuqiu",
       "gps_code": "RCLC",
-      "coordinates": "22.349922, 120.37588"
+      "coordinates": "22.349922, 120.37588",
+      "metar_available": false
     },
     {
       "ident": "RCLM",
@@ -174,7 +186,8 @@
       "municipality": "Kaohsiung (Cijin - Pratas Island)",
       "gps_code": "RCLM",
       "iata_code": "DSX",
-      "coordinates": "20.7066, 116.721001"
+      "coordinates": "20.7066, 116.721001",
+      "metar_available": false
     },
     {
       "ident": "RCLY",
@@ -187,7 +200,8 @@
       "municipality": "Orchid Island",
       "gps_code": "RCLY",
       "iata_code": "KYD",
-      "coordinates": "22.027000427246094, 121.53500366210938"
+      "coordinates": "22.027000427246094, 121.53500366210938",
+      "metar_available": false
     },
     {
       "ident": "RCMQ",
@@ -200,7 +214,8 @@
       "municipality": "Taichung (Qingshui)",
       "gps_code": "RCMQ",
       "iata_code": "RMQ",
-      "coordinates": "24.2647, 120.621002"
+      "coordinates": "24.2647, 120.621002",
+      "metar_available": false
     },
     {
       "ident": "RCMT",
@@ -213,7 +228,8 @@
       "municipality": "Matsu (Beigan)",
       "gps_code": "RCMT",
       "iata_code": "MFK",
-      "coordinates": "26.224199, 120.002998"
+      "coordinates": "26.224199, 120.002998",
+      "metar_available": false
     },
     {
       "ident": "RCNN",
@@ -226,7 +242,8 @@
       "municipality": "Tainan (Rende)",
       "gps_code": "RCNN",
       "iata_code": "TNN",
-      "coordinates": "22.950399, 120.206001"
+      "coordinates": "22.950399, 120.206001",
+      "metar_available": false
     },
     {
       "ident": "RCNO",
@@ -237,7 +254,8 @@
       "iso_region": "TW-PEN",
       "municipality": "Wang'an",
       "gps_code": "RCNO",
-      "coordinates": "23.258076, 119.66755"
+      "coordinates": "23.258076, 119.66755",
+      "metar_available": false
     },
     {
       "ident": "RCPO",
@@ -250,7 +268,8 @@
       "municipality": "Hsinchu City",
       "gps_code": "RCPO",
       "iata_code": "HSZ",
-      "coordinates": "24.8180007935, 120.939002991"
+      "coordinates": "24.8180007935, 120.939002991",
+      "metar_available": false
     },
     {
       "ident": "RCQC",
@@ -263,7 +282,8 @@
       "municipality": "Huxi",
       "gps_code": "RCQC",
       "iata_code": "MZG",
-      "coordinates": "23.568701, 119.627998"
+      "coordinates": "23.568701, 119.627998",
+      "metar_available": false
     },
     {
       "ident": "RCQS",
@@ -275,7 +295,8 @@
       "iso_region": "TW-TTT",
       "municipality": "Taitung City",
       "gps_code": "RCQS",
-      "coordinates": "22.7931, 121.181999"
+      "coordinates": "22.7931, 121.181999",
+      "metar_available": false
     },
     {
       "ident": "RCSM",
@@ -286,7 +307,8 @@
       "iso_region": "TW-NAN",
       "municipality": "Riyuetan",
       "gps_code": "RCSM",
-      "coordinates": "23.883532, 120.940016"
+      "coordinates": "23.883532, 120.940016",
+      "metar_available": false
     },
     {
       "ident": "RCSP",
@@ -297,7 +319,8 @@
       "iso_region": "TW-KHH",
       "municipality": "Kaohsiung (Cijin - Taiping Island)",
       "gps_code": "RCSP",
-      "coordinates": "10.377089, 114.365637"
+      "coordinates": "10.377089, 114.365637",
+      "metar_available": false
     },
     {
       "ident": "RCSQ",
@@ -310,7 +333,8 @@
       "municipality": "Pingtung",
       "gps_code": "RCSQ",
       "iata_code": "PIF",
-      "coordinates": "22.700199, 120.482002"
+      "coordinates": "22.700199, 120.482002",
+      "metar_available": false
     },
     {
       "ident": "RCSS",
@@ -323,7 +347,8 @@
       "municipality": "Taipei (Songshan)",
       "gps_code": "RCSS",
       "iata_code": "TSA",
-      "coordinates": "25.069401, 121.552002"
+      "coordinates": "25.069401, 121.552002",
+      "metar_available": false
     },
     {
       "ident": "RCTP",
@@ -336,7 +361,8 @@
       "municipality": "Taoyuan",
       "gps_code": "RCTP",
       "iata_code": "TPE",
-      "coordinates": "25.0777, 121.233002"
+      "coordinates": "25.0777, 121.233002",
+      "metar_available": false
     },
     {
       "ident": "RCWA",
@@ -349,7 +375,8 @@
       "municipality": "Wang'an",
       "gps_code": "RCWA",
       "iata_code": "WOT",
-      "coordinates": "23.369108, 119.503598"
+      "coordinates": "23.369108, 119.503598",
+      "metar_available": false
     },
     {
       "ident": "RCWK",
@@ -361,7 +388,8 @@
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Xinshe)",
       "gps_code": "RCWK",
-      "coordinates": "24.229127, 120.815524"
+      "coordinates": "24.229127, 120.815524",
+      "metar_available": false
     },
     {
       "ident": "RCXY",
@@ -372,7 +400,8 @@
       "iso_region": "TW-TNQ",
       "municipality": "Guiren",
       "gps_code": "RCXY",
-      "coordinates": "22.981438, 120.284379"
+      "coordinates": "22.981438, 120.284379",
+      "metar_available": false
     },
     {
       "ident": "RCYU",
@@ -385,7 +414,8 @@
       "municipality": "Hualien City",
       "gps_code": "RCYU",
       "iata_code": "HUN",
-      "coordinates": "24.023099899291992, 121.61799621582031"
+      "coordinates": "24.023099899291992, 121.61799621582031",
+      "metar_available": false
     },
     {
       "ident": "TW-0001",
@@ -395,7 +425,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PEN",
       "municipality": "Magong",
-      "coordinates": "23.517532, 119.583693"
+      "coordinates": "23.517532, 119.583693",
+      "metar_available": false
     },
     {
       "ident": "TW-0002",
@@ -406,7 +437,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Shigang, Taichung",
-      "coordinates": "24.26482, 120.81644"
+      "coordinates": "24.26482, 120.81644",
+      "metar_available": false
     },
     {
       "ident": "TW-0003",
@@ -416,7 +448,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TAO",
       "municipality": "Zhongli",
-      "coordinates": "24.9762, 121.223999"
+      "coordinates": "24.9762, 121.223999",
+      "metar_available": false
     },
     {
       "ident": "TW-0004",
@@ -427,7 +460,8 @@
       "iso_country": "TW",
       "iso_region": "TW-KHH",
       "municipality": "Kaohsiung (Zuoying)",
-      "coordinates": "22.705, 120.280998"
+      "coordinates": "22.705, 120.280998",
+      "metar_available": false
     },
     {
       "ident": "TW-0005",
@@ -438,7 +472,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TAO",
       "municipality": "Bade",
-      "coordinates": "24.936958, 121.313095"
+      "coordinates": "24.936958, 121.313095",
+      "metar_available": false
     },
     {
       "ident": "TW-0006",
@@ -449,7 +484,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Xiulin",
-      "coordinates": "24.026161, 121.589897"
+      "coordinates": "24.026161, 121.589897",
+      "metar_available": false
     },
     {
       "ident": "TW-0007",
@@ -459,7 +495,8 @@
       "iso_country": "TW",
       "iso_region": "TW-CYQ",
       "municipality": "Minxiong",
-      "coordinates": "23.538652, 120.410156"
+      "coordinates": "23.538652, 120.410156",
+      "metar_available": false
     },
     {
       "ident": "TW-0008",
@@ -469,7 +506,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Wuqi)",
-      "coordinates": "24.153936, 120.68327"
+      "coordinates": "24.153936, 120.68327",
+      "metar_available": false
     },
     {
       "ident": "TW-0009",
@@ -479,7 +517,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei (Da'an)",
-      "coordinates": "25.043496, 121.556393"
+      "coordinates": "25.043496, 121.556393",
+      "metar_available": false
     },
     {
       "ident": "TW-0010",
@@ -489,7 +528,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei (Banqiao)",
-      "coordinates": "24.997344, 121.453382"
+      "coordinates": "24.997344, 121.453382",
+      "metar_available": false
     },
     {
       "ident": "TW-0011",
@@ -499,7 +539,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HSZ",
       "municipality": "Hsinchu",
-      "coordinates": "24.816245, 120.96203"
+      "coordinates": "24.816245, 120.96203",
+      "metar_available": false
     },
     {
       "ident": "TW-0012",
@@ -509,7 +550,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Hualien",
-      "coordinates": "23.978511, 121.611904"
+      "coordinates": "23.978511, 121.611904",
+      "metar_available": false
     },
     {
       "ident": "TW-0013",
@@ -520,7 +562,8 @@
       "iso_country": "TW",
       "iso_region": "TW-MIA",
       "municipality": "Tai'an",
-      "coordinates": "24.464737, 121.223305"
+      "coordinates": "24.464737, 121.223305",
+      "metar_available": false
     },
     {
       "ident": "TW-0014",
@@ -530,7 +573,8 @@
       "iso_country": "TW",
       "iso_region": "TW-KHH",
       "municipality": "Kaohsiung (Lingya)",
-      "coordinates": "22.625979, 120.339912"
+      "coordinates": "22.625979, 120.339912",
+      "metar_available": false
     },
     {
       "ident": "TW-0015",
@@ -540,7 +584,8 @@
       "iso_country": "TW",
       "iso_region": "TW-KHH",
       "municipality": "Kaohsiung (Zuoying)",
-      "coordinates": "22.680648, 120.322024"
+      "coordinates": "22.680648, 120.322024",
+      "metar_available": false
     },
     {
       "ident": "TW-0016",
@@ -550,7 +595,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.139705, 121.460671"
+      "coordinates": "25.139705, 121.460671",
+      "metar_available": false
     },
     {
       "ident": "TW-0017",
@@ -561,7 +607,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "Tanshui",
-      "coordinates": "25.17627, 121.421438"
+      "coordinates": "25.17627, 121.421438",
+      "metar_available": false
     },
     {
       "ident": "TW-0018",
@@ -571,7 +618,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.055333, 121.594626"
+      "coordinates": "25.055333, 121.594626",
+      "metar_available": false
     },
     {
       "ident": "TW-0019",
@@ -581,7 +629,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NAN",
       "municipality": "Puli",
-      "coordinates": "23.970186, 120.946488"
+      "coordinates": "23.970186, 120.946488",
+      "metar_available": false
     },
     {
       "ident": "TW-0020",
@@ -591,7 +640,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "24.992382, 121.49326"
+      "coordinates": "24.992382, 121.49326",
+      "metar_available": false
     },
     {
       "ident": "TW-0021",
@@ -601,7 +651,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-KM",
       "municipality": "Sihong",
-      "coordinates": "24.430752, 118.444118"
+      "coordinates": "24.430752, 118.444118",
+      "metar_available": false
     },
     {
       "ident": "TW-0022",
@@ -611,7 +662,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Xitun)",
-      "coordinates": "24.1841, 120.60313"
+      "coordinates": "24.1841, 120.60313",
+      "metar_available": false
     },
     {
       "ident": "TW-0023",
@@ -621,7 +673,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.037519, 121.564545"
+      "coordinates": "25.037519, 121.564545",
+      "metar_available": false
     },
     {
       "ident": "TW-0024",
@@ -631,7 +684,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.051111, 121.508881"
+      "coordinates": "25.051111, 121.508881",
+      "metar_available": false
     },
     {
       "ident": "TW-0025",
@@ -641,7 +695,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.040717, 121.56899"
+      "coordinates": "25.040717, 121.56899",
+      "metar_available": false
     },
     {
       "ident": "TW-0026",
@@ -651,7 +706,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.034933, 121.562527"
+      "coordinates": "25.034933, 121.562527",
+      "metar_available": false
     },
     {
       "ident": "TW-0027",
@@ -661,7 +717,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.033467, 121.561098"
+      "coordinates": "25.033467, 121.561098",
+      "metar_available": false
     },
     {
       "ident": "TW-0028",
@@ -671,7 +728,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei (Beitou)",
-      "coordinates": "25.120309, 121.520064"
+      "coordinates": "25.120309, 121.520064",
+      "metar_available": false
     },
     {
       "ident": "TW-0029",
@@ -682,7 +740,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TAO",
       "municipality": "Taoyuan",
-      "coordinates": "24.876416, 121.2339"
+      "coordinates": "24.876416, 121.2339",
+      "metar_available": false
     },
     {
       "ident": "TW-0030",
@@ -692,7 +751,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Wuqi)",
-      "coordinates": "24.246903, 120.542598"
+      "coordinates": "24.246903, 120.542598",
+      "metar_available": false
     },
     {
       "ident": "TW-0031",
@@ -703,7 +763,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.21588, 121.56082"
+      "coordinates": "25.21588, 121.56082",
+      "metar_available": false
     },
     {
       "ident": "TW-0032",
@@ -713,7 +774,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TTT",
       "municipality": "Taimali",
-      "coordinates": "22.586871, 121.000736"
+      "coordinates": "22.586871, 121.000736",
+      "metar_available": false
     },
     {
       "ident": "TW-0033",
@@ -723,7 +785,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TTT",
       "municipality": "Taimali",
-      "coordinates": "22.591106, 121.000269"
+      "coordinates": "22.591106, 121.000269",
+      "metar_available": false
     },
     {
       "ident": "TW-0034",
@@ -733,7 +796,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Donggang",
-      "coordinates": "22.45167, 120.48565"
+      "coordinates": "22.45167, 120.48565",
+      "metar_available": false
     },
     {
       "ident": "TW-0035",
@@ -743,7 +807,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Shoufeng",
-      "coordinates": "23.87514, 121.54155"
+      "coordinates": "23.87514, 121.54155",
+      "metar_available": false
     },
     {
       "ident": "TW-0036",
@@ -753,7 +818,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
-      "coordinates": "23.77948, 121.47453"
+      "coordinates": "23.77948, 121.47453",
+      "metar_available": false
     },
     {
       "ident": "TW-0037",
@@ -763,7 +829,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
-      "coordinates": "23.77262, 121.47999"
+      "coordinates": "23.77262, 121.47999",
+      "metar_available": false
     },
     {
       "ident": "TW-0038",
@@ -773,7 +840,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Gaoshu",
-      "coordinates": "22.75635, 120.62325"
+      "coordinates": "22.75635, 120.62325",
+      "metar_available": false
     },
     {
       "ident": "TW-0039",
@@ -783,7 +851,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
-      "coordinates": "23.71454, 121.42002"
+      "coordinates": "23.71454, 121.42002",
+      "metar_available": false
     },
     {
       "ident": "TW-0040",
@@ -793,7 +862,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
-      "coordinates": "23.71842, 121.4036"
+      "coordinates": "23.71842, 121.4036",
+      "metar_available": false
     },
     {
       "ident": "TW-0041",
@@ -803,7 +873,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NAN",
       "municipality": "Puli",
-      "coordinates": "23.96623, 120.98246"
+      "coordinates": "23.96623, 120.98246",
+      "metar_available": false
     },
     {
       "ident": "TW-0042",
@@ -814,7 +885,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Wuri)",
-      "coordinates": "24.04881, 120.63185"
+      "coordinates": "24.04881, 120.63185",
+      "metar_available": false
     },
     {
       "ident": "TW-0043",
@@ -824,7 +896,8 @@
       "iso_country": "TW",
       "iso_region": "TW-KEE",
       "municipality": "Zhongzheng",
-      "coordinates": "25.62799, 122.08079"
+      "coordinates": "25.62799, 122.08079",
+      "metar_available": false
     },
     {
       "ident": "TW-0044",
@@ -834,7 +907,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Donggang",
-      "coordinates": "22.451355, 120.479395"
+      "coordinates": "22.451355, 120.479395",
+      "metar_available": false
     },
     {
       "ident": "TW-0045",
@@ -844,7 +918,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-KM",
       "municipality": "Wuqiu",
-      "coordinates": "24.98858, 119.4523"
+      "coordinates": "24.98858, 119.4523",
+      "metar_available": false
     },
     {
       "ident": "TW-0046",
@@ -854,7 +929,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-KM",
       "municipality": "Wuqiu",
-      "coordinates": "24.99154, 119.4504"
+      "coordinates": "24.99154, 119.4504",
+      "metar_available": false
     },
     {
       "ident": "TW-0047",
@@ -864,7 +940,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-KM",
       "municipality": "Wuqiu",
-      "coordinates": "24.98274, 119.47445"
+      "coordinates": "24.98274, 119.47445",
+      "metar_available": false
     },
     {
       "ident": "TW-0048",
@@ -875,7 +952,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Fangshan",
-      "coordinates": "22.33196, 120.62823"
+      "coordinates": "22.33196, 120.62823",
+      "metar_available": false
     },
     {
       "ident": "TW-0049",
@@ -886,7 +964,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Hengchun",
-      "coordinates": "21.96357, 120.75167"
+      "coordinates": "21.96357, 120.75167",
+      "metar_available": false
     },
     {
       "ident": "TW-0050",
@@ -897,7 +976,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-LK",
       "municipality": "Dongyin",
-      "coordinates": "26.3592, 120.48321"
+      "coordinates": "26.3592, 120.48321",
+      "metar_available": false
     },
     {
       "ident": "TW-0051",
@@ -908,7 +988,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-LK",
       "municipality": "Dongju",
-      "coordinates": "25.9583, 119.96752"
+      "coordinates": "25.9583, 119.96752",
+      "metar_available": false
     },
     {
       "ident": "TW-0052",
@@ -919,7 +1000,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-LK",
       "municipality": "Juguang",
-      "coordinates": "25.97132, 119.93639"
+      "coordinates": "25.97132, 119.93639",
+      "metar_available": false
     },
     {
       "ident": "TW-0053",
@@ -930,7 +1012,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Shoufeng",
-      "coordinates": "23.89625, 121.56376"
+      "coordinates": "23.89625, 121.56376",
+      "metar_available": false
     },
     {
       "ident": "TW-0054",
@@ -941,7 +1024,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Shoufeng",
-      "coordinates": "23.89849, 121.56932"
+      "coordinates": "23.89849, 121.56932",
+      "metar_available": false
     },
     {
       "ident": "TW-0055",
@@ -952,7 +1036,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Shoufeng",
-      "coordinates": "23.87808, 121.54875"
+      "coordinates": "23.87808, 121.54875",
+      "metar_available": false
     },
     {
       "ident": "TW-0056",
@@ -962,7 +1047,8 @@
       "iso_country": "TW",
       "iso_region": "TW-ILA",
       "municipality": "Sanxing",
-      "coordinates": "24.69129, 121.67017"
+      "coordinates": "24.69129, 121.67017",
+      "metar_available": false
     },
     {
       "ident": "TW-0057",
@@ -972,7 +1058,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NAN",
       "municipality": "Ren'ai",
-      "coordinates": "24.03231, 121.1418"
+      "coordinates": "24.03231, 121.1418",
+      "metar_available": false
     },
     {
       "ident": "TW-0058",
@@ -982,7 +1069,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Saijia",
-      "coordinates": "22.75312, 120.64695"
+      "coordinates": "22.75312, 120.64695",
+      "metar_available": false
     },
     {
       "ident": "TW-0059",
@@ -993,7 +1081,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TTT",
       "municipality": "Yanping",
-      "coordinates": "22.928473, 121.099887"
+      "coordinates": "22.928473, 121.099887",
+      "metar_available": false
     },
     {
       "ident": "TW-0060",
@@ -1003,7 +1092,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TTT",
       "municipality": "Luye",
-      "coordinates": "22.94552, 121.13676"
+      "coordinates": "22.94552, 121.13676",
+      "metar_available": false
     },
     {
       "ident": "TW-0061",
@@ -1013,7 +1103,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TTT",
       "municipality": "Guanshan",
-      "coordinates": "23.05556, 121.17125"
+      "coordinates": "23.05556, 121.17125",
+      "metar_available": false
     },
     {
       "ident": "TW-0062",
@@ -1023,7 +1114,8 @@
       "iso_country": "TW",
       "iso_region": "TW-CHA",
       "municipality": "Xizhou",
-      "coordinates": "23.805319, 120.554151"
+      "coordinates": "23.805319, 120.554151",
+      "metar_available": false
     },
     {
       "ident": "TW-0063",
@@ -1033,7 +1125,8 @@
       "iso_country": "TW",
       "iso_region": "TW-CHA",
       "municipality": "Xizhou",
-      "coordinates": "23.86005, 120.47462"
+      "coordinates": "23.86005, 120.47462",
+      "metar_available": false
     },
     {
       "ident": "TW-0064",
@@ -1043,7 +1136,8 @@
       "iso_country": "TW",
       "iso_region": "TW-YUN",
       "municipality": "Huwei",
-      "coordinates": "23.69765, 120.44209"
+      "coordinates": "23.69765, 120.44209",
+      "metar_available": false
     },
     {
       "ident": "TW-0065",
@@ -1053,7 +1147,8 @@
       "iso_country": "TW",
       "iso_region": "TW-CHA",
       "municipality": "Fangyuan",
-      "coordinates": "23.96424, 120.33447"
+      "coordinates": "23.96424, 120.33447",
+      "metar_available": false
     },
     {
       "ident": "TW-0066",
@@ -1064,7 +1159,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Ruisui",
-      "coordinates": "23.53923, 121.38567"
+      "coordinates": "23.53923, 121.38567",
+      "metar_available": false
     },
     {
       "ident": "TW-0067",
@@ -1075,7 +1171,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
-      "coordinates": "23.80368, 121.4811"
+      "coordinates": "23.80368, 121.4811",
+      "metar_available": false
     },
     {
       "ident": "TW-0068",
@@ -1085,7 +1182,8 @@
       "iso_country": "TW",
       "iso_region": "TW-CHA",
       "municipality": "Dacun",
-      "coordinates": "23.994525, 120.509977"
+      "coordinates": "23.994525, 120.509977",
+      "metar_available": false
     },
     {
       "ident": "TW-0069",
@@ -1094,7 +1192,8 @@
       "continent": "AS",
       "iso_country": "TW",
       "iso_region": "TW-TNQ",
-      "coordinates": "23.237659, 120.247668"
+      "coordinates": "23.237659, 120.247668",
+      "metar_available": false
     },
     {
       "ident": "TW-0070",
@@ -1105,7 +1204,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Xincheng",
-      "coordinates": "24.10927, 121.62397"
+      "coordinates": "24.10927, 121.62397",
+      "metar_available": false
     },
     {
       "ident": "TW-0071",
@@ -1116,7 +1216,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-LK",
       "municipality": "Matsu (Nangan)",
-      "coordinates": "26.14942, 119.94299"
+      "coordinates": "26.14942, 119.94299",
+      "metar_available": false
     },
     {
       "ident": "TW-0072",
@@ -1127,7 +1228,8 @@
       "iso_country": "TW",
       "iso_region": "TW-X-LK",
       "municipality": "Matsu (Beigan)",
-      "coordinates": "26.33727, 120.21951"
+      "coordinates": "26.33727, 120.21951",
+      "metar_available": false
     },
     {
       "ident": "TW-0073",
@@ -1138,7 +1240,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TAO",
       "municipality": "Guishang",
-      "coordinates": "25.0102, 121.33259"
+      "coordinates": "25.0102, 121.33259",
+      "metar_available": false
     },
     {
       "ident": "TW-0074",
@@ -1149,7 +1252,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.13628, 121.4248"
+      "coordinates": "25.13628, 121.4248",
+      "metar_available": false
     },
     {
       "ident": "TW-0075",
@@ -1160,7 +1264,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TAO",
       "municipality": "Taoyuan",
-      "coordinates": "24.9196, 121.15372"
+      "coordinates": "24.9196, 121.15372",
+      "metar_available": false
     },
     {
       "ident": "TW-0076",
@@ -1171,7 +1276,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.17929, 121.68224"
+      "coordinates": "25.17929, 121.68224",
+      "metar_available": false
     },
     {
       "ident": "TW-0077",
@@ -1182,7 +1288,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.289482, 121.591045"
+      "coordinates": "25.289482, 121.591045",
+      "metar_available": false
     },
     {
       "ident": "TW-0078",
@@ -1193,7 +1300,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.29345, 121.53747"
+      "coordinates": "25.29345, 121.53747",
+      "metar_available": false
     },
     {
       "ident": "TW-0079",
@@ -1204,7 +1312,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei City",
-      "coordinates": "25.23312, 121.45219"
+      "coordinates": "25.23312, 121.45219",
+      "metar_available": false
     },
     {
       "ident": "TW-0080",
@@ -1215,7 +1324,8 @@
       "iso_country": "TW",
       "iso_region": "TW-KEE",
       "municipality": "Keelung",
-      "coordinates": "25.19024, 121.78258"
+      "coordinates": "25.19024, 121.78258",
+      "metar_available": false
     },
     {
       "ident": "TW-0081",
@@ -1225,7 +1335,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TPE",
       "municipality": "Taipei",
-      "coordinates": "25.03734, 121.54546"
+      "coordinates": "25.03734, 121.54546",
+      "metar_available": false
     },
     {
       "ident": "TW-0082",
@@ -1236,7 +1347,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HSQ",
       "municipality": "Hukou",
-      "coordinates": "24.87784, 121.03172"
+      "coordinates": "24.87784, 121.03172",
+      "metar_available": false
     },
     {
       "ident": "TW-0083",
@@ -1247,7 +1359,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Dongshi)",
-      "coordinates": "24.25381, 120.82536"
+      "coordinates": "24.25381, 120.82536",
+      "metar_available": false
     },
     {
       "ident": "TW-0084",
@@ -1258,7 +1371,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Yuli",
-      "coordinates": "23.3464, 121.32293"
+      "coordinates": "23.3464, 121.32293",
+      "metar_available": false
     },
     {
       "ident": "TW-0085",
@@ -1269,7 +1383,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Heping",
-      "coordinates": "24.388899, 121.270936"
+      "coordinates": "24.388899, 121.270936",
+      "metar_available": false
     },
     {
       "ident": "TW-0086",
@@ -1280,7 +1395,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Heping",
-      "coordinates": "24.42107, 121.30546"
+      "coordinates": "24.42107, 121.30546",
+      "metar_available": false
     },
     {
       "ident": "TW-0087",
@@ -1291,7 +1407,8 @@
       "iso_country": "TW",
       "iso_region": "TW-NWT",
       "municipality": "New Taipei (Gongliao)",
-      "coordinates": "25.04589, 121.92353"
+      "coordinates": "25.04589, 121.92353",
+      "metar_available": false
     },
     {
       "ident": "TW-0088",
@@ -1302,7 +1419,8 @@
       "iso_country": "TW",
       "iso_region": "TW-HUA",
       "municipality": "Fenglin",
-      "coordinates": "23.68923, 121.47359"
+      "coordinates": "23.68923, 121.47359",
+      "metar_available": false
     },
     {
       "ident": "TW-0089",
@@ -1313,7 +1431,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TAO",
       "municipality": "Taoyuan (Dayuan)",
-      "coordinates": "25.054217, 121.240827"
+      "coordinates": "25.054217, 121.240827",
+      "metar_available": false
     },
     {
       "ident": "TW-0090",
@@ -1324,7 +1443,8 @@
       "iso_country": "TW",
       "iso_region": "TW-TXG",
       "municipality": "Taichung (Xitun)",
-      "coordinates": "24.1863, 120.653999"
+      "coordinates": "24.1863, 120.653999",
+      "metar_available": false
     },
     {
       "ident": "TW-0091",
@@ -1334,7 +1454,8 @@
       "iso_country": "TW",
       "iso_region": "TW-YUN",
       "municipality": "Huwei",
-      "coordinates": "23.727958, 120.428862"
+      "coordinates": "23.727958, 120.428862",
+      "metar_available": false
     },
     {
       "ident": "TW-0092",
@@ -1345,7 +1466,8 @@
       "iso_country": "TW",
       "iso_region": "TW-ILA",
       "municipality": "Ilan",
-      "coordinates": "24.730617, 121.752031"
+      "coordinates": "24.730617, 121.752031",
+      "metar_available": false
     },
     {
       "ident": "TW-0093",
@@ -1356,7 +1478,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Ligang",
-      "coordinates": "22.78397, 120.53482"
+      "coordinates": "22.78397, 120.53482",
+      "metar_available": false
     },
     {
       "ident": "TW-0094",
@@ -1367,7 +1490,8 @@
       "iso_country": "TW",
       "iso_region": "TW-PIF",
       "municipality": "Ligang",
-      "coordinates": "22.78034, 120.54403"
+      "coordinates": "22.78034, 120.54403",
+      "metar_available": false
     },
     {
       "ident": "TW-0095",
@@ -1378,7 +1502,8 @@
       "iso_country": "TW",
       "iso_region": "TW-MIA",
       "municipality": "Houlong",
-      "coordinates": "24.65642, 120.78092"
+      "coordinates": "24.65642, 120.78092",
+      "metar_available": false
     }
   ]
 }

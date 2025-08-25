@@ -2,7 +2,7 @@
   "country_code": "DZ",
   "country_name": "Algeria",
   "total_airports": 112,
-  "last_updated": "2025-08-01T00:18:22.642205",
+  "last_updated": "2025-08-25T10:08:40.780175",
   "types_distribution": {
     "small_airport": 57,
     "medium_airport": 37,
@@ -22,7 +22,8 @@
       "municipality": "Illizi",
       "gps_code": "DA10",
       "local_code": "DA10",
-      "coordinates": "26.573601, 8.48366"
+      "coordinates": "26.573601, 8.48366",
+      "metar_available": false
     },
     {
       "ident": "DA11",
@@ -35,7 +36,8 @@
       "municipality": "Hamaguir",
       "gps_code": "DA11",
       "local_code": "DA11",
-      "coordinates": "30.879, -3.06775"
+      "coordinates": "30.879, -3.06775",
+      "metar_available": false
     },
     {
       "ident": "DA12",
@@ -48,7 +50,8 @@
       "municipality": "El Abiodh Sidi Cheikh",
       "gps_code": "DA12",
       "local_code": "DA12",
-      "coordinates": "32.898499, 0.524694"
+      "coordinates": "32.898499, 0.524694",
+      "metar_available": false
     },
     {
       "ident": "DA13",
@@ -61,7 +64,8 @@
       "municipality": "Oum El Assel",
       "gps_code": "DA13",
       "local_code": "DA13",
-      "coordinates": "28.879299, -5.8229"
+      "coordinates": "28.879299, -5.8229",
+      "metar_available": false
     },
     {
       "ident": "DA14",
@@ -75,7 +79,8 @@
       "gps_code": "DA14",
       "iata_code": "MQV",
       "local_code": "DA14",
-      "coordinates": "35.90518, 0.144539"
+      "coordinates": "35.90518, 0.144539",
+      "metar_available": false
     },
     {
       "ident": "DA15",
@@ -88,7 +93,8 @@
       "municipality": "Ouled Khaled",
       "gps_code": "DA15",
       "local_code": "DA15",
-      "coordinates": "34.897202, 0.151694"
+      "coordinates": "34.897202, 0.151694",
+      "metar_available": false
     },
     {
       "ident": "DA16",
@@ -101,7 +107,8 @@
       "municipality": "Tindouf",
       "gps_code": "DA16",
       "local_code": "DA16",
-      "coordinates": "27.585899, -7.50011"
+      "coordinates": "27.585899, -7.50011",
+      "metar_available": false
     },
     {
       "ident": "DAAB",
@@ -114,7 +121,8 @@
       "municipality": "Blida",
       "gps_code": "DAAB",
       "iata_code": "QLD",
-      "coordinates": "36.503601, 2.81417"
+      "coordinates": "36.503601, 2.81417",
+      "metar_available": false
     },
     {
       "ident": "DAAD",
@@ -127,7 +135,8 @@
       "municipality": "Ouled Sidi Brahim",
       "gps_code": "DAAD",
       "iata_code": "BUJ",
-      "coordinates": "35.3325, 4.20639"
+      "coordinates": "35.3325, 4.20639",
+      "metar_available": false
     },
     {
       "ident": "DAAE",
@@ -141,7 +150,8 @@
       "gps_code": "DAAE",
       "iata_code": "BJA",
       "local_code": "BJ1",
-      "coordinates": "36.711952, 5.069804"
+      "coordinates": "36.711952, 5.069804",
+      "metar_available": false
     },
     {
       "ident": "DAAF",
@@ -153,7 +163,8 @@
       "iso_region": "DZ-01",
       "municipality": "Aoulef",
       "gps_code": "DAAF",
-      "coordinates": "27.0624, 1.1111"
+      "coordinates": "27.0624, 1.1111",
+      "metar_available": false
     },
     {
       "ident": "DAAG",
@@ -166,7 +177,8 @@
       "municipality": "Algiers",
       "gps_code": "DAAG",
       "iata_code": "ALG",
-      "coordinates": "36.693886, 3.214531"
+      "coordinates": "36.693886, 3.214531",
+      "metar_available": false
     },
     {
       "ident": "DAAJ",
@@ -179,7 +191,8 @@
       "municipality": "Djanet",
       "gps_code": "DAAJ",
       "iata_code": "DJG",
-      "coordinates": "24.292801, 9.45244"
+      "coordinates": "24.292801, 9.45244",
+      "metar_available": false
     },
     {
       "ident": "DAAK",
@@ -191,7 +204,8 @@
       "iso_region": "DZ-09",
       "municipality": "Boufarik",
       "gps_code": "DAAK",
-      "coordinates": "36.545799, 2.87611"
+      "coordinates": "36.545799, 2.87611",
+      "metar_available": false
     },
     {
       "ident": "DAAM",
@@ -203,7 +217,8 @@
       "iso_region": "DZ-43",
       "municipality": "Telerghma",
       "gps_code": "DAAM",
-      "coordinates": "36.1087, 6.3646"
+      "coordinates": "36.1087, 6.3646",
+      "metar_available": false
     },
     {
       "ident": "DAAN",
@@ -215,7 +230,8 @@
       "iso_region": "DZ-01",
       "municipality": "Reggane",
       "gps_code": "DAAN",
-      "coordinates": "26.712418, 0.288219"
+      "coordinates": "26.712418, 0.288219",
+      "metar_available": false
     },
     {
       "ident": "DAAP",
@@ -228,7 +244,8 @@
       "municipality": "Illizi",
       "gps_code": "DAAP",
       "iata_code": "VVZ",
-      "coordinates": "26.723499, 8.62265"
+      "coordinates": "26.723499, 8.62265",
+      "metar_available": false
     },
     {
       "ident": "DAAQ",
@@ -240,7 +257,8 @@
       "iso_region": "DZ-17",
       "municipality": "Ain Oussera",
       "gps_code": "DAAQ",
-      "coordinates": "35.525398, 2.87871"
+      "coordinates": "35.525398, 2.87871",
+      "metar_available": false
     },
     {
       "ident": "DAAS",
@@ -253,7 +271,8 @@
       "municipality": "Sétif",
       "gps_code": "DAAS",
       "iata_code": "QSF",
-      "coordinates": "36.178100585900005, 5.3244900703399995"
+      "coordinates": "36.178100585900005, 5.3244900703399995",
+      "metar_available": false
     },
     {
       "ident": "DAAT",
@@ -266,7 +285,8 @@
       "municipality": "Tamanrasset",
       "gps_code": "DAAT",
       "iata_code": "TMR",
-      "coordinates": "22.811501, 5.45108"
+      "coordinates": "22.811501, 5.45108",
+      "metar_available": false
     },
     {
       "ident": "DAAV",
@@ -279,7 +299,8 @@
       "municipality": "Tahir",
       "gps_code": "DAAV",
       "iata_code": "GJL",
-      "coordinates": "36.795101, 5.87361"
+      "coordinates": "36.795101, 5.87361",
+      "metar_available": false
     },
     {
       "ident": "DAAW",
@@ -291,7 +312,8 @@
       "iso_region": "DZ-33",
       "municipality": "Bordj Omar Driss",
       "gps_code": "DAAW",
-      "coordinates": "28.136042, 6.836156"
+      "coordinates": "28.136042, 6.836156",
+      "metar_available": false
     },
     {
       "ident": "DAAX",
@@ -303,7 +325,8 @@
       "iso_region": "DZ-16",
       "municipality": "Chéraga",
       "gps_code": "DAAX",
-      "coordinates": "36.7782, 2.9284"
+      "coordinates": "36.7782, 2.9284",
+      "metar_available": false
     },
     {
       "ident": "DAAY",
@@ -316,7 +339,8 @@
       "municipality": "Mecheria",
       "gps_code": "DAAY",
       "iata_code": "MZW",
-      "coordinates": "33.535900116, -0.242353007197"
+      "coordinates": "33.535900116, -0.242353007197",
+      "metar_available": false
     },
     {
       "ident": "DAAZ",
@@ -328,7 +352,8 @@
       "iso_region": "DZ-48",
       "municipality": "Relizane",
       "gps_code": "DAAZ",
-      "coordinates": "35.752955, 0.625877"
+      "coordinates": "35.752955, 0.625877",
+      "metar_available": false
     },
     {
       "ident": "DABB",
@@ -341,7 +366,8 @@
       "municipality": "Annaba",
       "gps_code": "DABB",
       "iata_code": "AAE",
-      "coordinates": "36.826781, 7.81334"
+      "coordinates": "36.826781, 7.81334",
+      "metar_available": false
     },
     {
       "ident": "DABC",
@@ -354,7 +380,8 @@
       "municipality": "Constantine",
       "gps_code": "DABC",
       "iata_code": "CZL",
-      "coordinates": "36.2760009765625, 6.620389938354492"
+      "coordinates": "36.2760009765625, 6.620389938354492",
+      "metar_available": false
     },
     {
       "ident": "DABO",
@@ -367,7 +394,8 @@
       "municipality": "Oum El Bouaghi",
       "gps_code": "DAEO",
       "iata_code": "QMH",
-      "coordinates": "35.8797, 7.2708"
+      "coordinates": "35.8797, 7.2708",
+      "metar_available": false
     },
     {
       "ident": "DABS",
@@ -380,7 +408,8 @@
       "municipality": "Tébessi",
       "gps_code": "DABS",
       "iata_code": "TEE",
-      "coordinates": "35.4315986633, 8.12071990967"
+      "coordinates": "35.4315986633, 8.12071990967",
+      "metar_available": false
     },
     {
       "ident": "DABT",
@@ -393,7 +422,8 @@
       "municipality": "Batna",
       "gps_code": "DABT",
       "iata_code": "BLJ",
-      "coordinates": "35.752102, 6.30859"
+      "coordinates": "35.752102, 6.30859",
+      "metar_available": false
     },
     {
       "ident": "DAFH",
@@ -406,7 +436,8 @@
       "municipality": "Hassi R'Mel",
       "gps_code": "DAFH",
       "iata_code": "HRM",
-      "coordinates": "32.930401, 3.31154"
+      "coordinates": "32.930401, 3.31154",
+      "metar_available": false
     },
     {
       "ident": "DAFI",
@@ -419,7 +450,8 @@
       "municipality": "Djelfa",
       "gps_code": "DAFI",
       "iata_code": "QDJ",
-      "coordinates": "34.6657, 3.351"
+      "coordinates": "34.6657, 3.351",
+      "metar_available": false
     },
     {
       "ident": "DAOB",
@@ -432,7 +464,8 @@
       "municipality": "Tiaret",
       "gps_code": "DAOB",
       "iata_code": "TID",
-      "coordinates": "35.341099, 1.46315"
+      "coordinates": "35.341099, 1.46315",
+      "metar_available": false
     },
     {
       "ident": "DAOC",
@@ -444,7 +477,8 @@
       "iso_region": "DZ-08",
       "municipality": "Béchar",
       "gps_code": "DAOC",
-      "coordinates": "31.642901, -2.18466"
+      "coordinates": "31.642901, -2.18466",
+      "metar_available": false
     },
     {
       "ident": "DAOE",
@@ -456,7 +490,8 @@
       "iso_region": "DZ-31",
       "municipality": "Bousfer",
       "gps_code": "DAOE",
-      "coordinates": "35.735401, -0.805389"
+      "coordinates": "35.735401, -0.805389",
+      "metar_available": false
     },
     {
       "ident": "DAOF",
@@ -469,7 +504,8 @@
       "municipality": "Tindouf",
       "gps_code": "DAOF",
       "iata_code": "TIN",
-      "coordinates": "27.7003993988, -8.167099952700001"
+      "coordinates": "27.7003993988, -8.167099952700001",
+      "metar_available": false
     },
     {
       "ident": "DAOI",
@@ -482,7 +518,8 @@
       "municipality": "Chlef",
       "gps_code": "DAOI",
       "iata_code": "CFK",
-      "coordinates": "36.217166, 1.342237"
+      "coordinates": "36.217166, 1.342237",
+      "metar_available": false
     },
     {
       "ident": "DAOL",
@@ -495,7 +532,8 @@
       "municipality": "Tafraoui",
       "gps_code": "DAOL",
       "iata_code": "TAF",
-      "coordinates": "35.5424, -0.532278"
+      "coordinates": "35.5424, -0.532278",
+      "metar_available": false
     },
     {
       "ident": "DAON",
@@ -508,7 +546,8 @@
       "municipality": "Zenata",
       "gps_code": "DAON",
       "iata_code": "TLM",
-      "coordinates": "35.013426, -1.457191"
+      "coordinates": "35.013426, -1.457191",
+      "metar_available": false
     },
     {
       "ident": "DAOO",
@@ -521,7 +560,8 @@
       "municipality": "Es-Sénia",
       "gps_code": "DAOO",
       "iata_code": "ORN",
-      "coordinates": "35.623901, -0.621183"
+      "coordinates": "35.623901, -0.621183",
+      "metar_available": false
     },
     {
       "ident": "DAOR",
@@ -534,7 +574,8 @@
       "municipality": "Béchar",
       "gps_code": "DAOR",
       "iata_code": "CBH",
-      "coordinates": "31.645700454711914, -2.269860029220581"
+      "coordinates": "31.645700454711914, -2.269860029220581",
+      "metar_available": false
     },
     {
       "ident": "DAOS",
@@ -547,7 +588,8 @@
       "municipality": "Sidi Bel Abbès",
       "gps_code": "DAOS",
       "iata_code": "BFW",
-      "coordinates": "35.1717987061, -0.593275010586"
+      "coordinates": "35.1717987061, -0.593275010586",
+      "metar_available": false
     },
     {
       "ident": "DAOV",
@@ -560,7 +602,8 @@
       "municipality": "Ghriss",
       "gps_code": "DAOV",
       "iata_code": "MUW",
-      "coordinates": "35.207699, 0.147142"
+      "coordinates": "35.207699, 0.147142",
+      "metar_available": false
     },
     {
       "ident": "DAOY",
@@ -573,7 +616,8 @@
       "municipality": "El Bayadh",
       "gps_code": "DAOY",
       "iata_code": "EBH",
-      "coordinates": "33.721667, 1.0925"
+      "coordinates": "33.721667, 1.0925",
+      "metar_available": false
     },
     {
       "ident": "DATG",
@@ -586,7 +630,8 @@
       "municipality": "In Guezzam",
       "gps_code": "DATG",
       "iata_code": "INF",
-      "coordinates": "19.560518, 5.749326"
+      "coordinates": "19.560518, 5.749326",
+      "metar_available": false
     },
     {
       "ident": "DATM",
@@ -599,7 +644,8 @@
       "municipality": "Bordj Badji Mokhtar",
       "gps_code": "DATM",
       "iata_code": "BMW",
-      "coordinates": "21.3778, 0.92698"
+      "coordinates": "21.3778, 0.92698",
+      "metar_available": false
     },
     {
       "ident": "DAUA",
@@ -612,7 +658,8 @@
       "municipality": "Adrar",
       "gps_code": "DAUA",
       "iata_code": "AZR",
-      "coordinates": "27.837601, -0.186414"
+      "coordinates": "27.837601, -0.186414",
+      "metar_available": false
     },
     {
       "ident": "DAUB",
@@ -625,7 +672,8 @@
       "municipality": "Biskra",
       "gps_code": "DAUB",
       "iata_code": "BSK",
-      "coordinates": "34.793301, 5.73823"
+      "coordinates": "34.793301, 5.73823",
+      "metar_available": false
     },
     {
       "ident": "DAUE",
@@ -638,7 +686,8 @@
       "municipality": "El Menia",
       "gps_code": "DAUE",
       "iata_code": "ELG",
-      "coordinates": "30.580732, 2.861595"
+      "coordinates": "30.580732, 2.861595",
+      "metar_available": false
     },
     {
       "ident": "DAUG",
@@ -651,7 +700,8 @@
       "municipality": "El Atteuf",
       "gps_code": "DAUG",
       "iata_code": "GHA",
-      "coordinates": "32.384102, 3.79411"
+      "coordinates": "32.384102, 3.79411",
+      "metar_available": false
     },
     {
       "ident": "DAUH",
@@ -664,7 +714,8 @@
       "municipality": "Hassi Messaoud",
       "gps_code": "DAUH",
       "iata_code": "HME",
-      "coordinates": "31.673, 6.14044"
+      "coordinates": "31.673, 6.14044",
+      "metar_available": false
     },
     {
       "ident": "DAUI",
@@ -677,7 +728,8 @@
       "municipality": "In Salah",
       "gps_code": "DAUI",
       "iata_code": "INZ",
-      "coordinates": "27.250999, 2.51202"
+      "coordinates": "27.250999, 2.51202",
+      "metar_available": false
     },
     {
       "ident": "DAUK",
@@ -690,7 +742,8 @@
       "municipality": "Touggourt",
       "gps_code": "DAUK",
       "iata_code": "TGR",
-      "coordinates": "33.067799, 6.08867"
+      "coordinates": "33.067799, 6.08867",
+      "metar_available": false
     },
     {
       "ident": "DAUL",
@@ -703,7 +756,8 @@
       "municipality": "Laghouat",
       "gps_code": "DAUL",
       "iata_code": "LOO",
-      "coordinates": "33.7644, 2.92834"
+      "coordinates": "33.7644, 2.92834",
+      "metar_available": false
     },
     {
       "ident": "DAUO",
@@ -716,7 +770,8 @@
       "municipality": "Guemar",
       "gps_code": "DAUO",
       "iata_code": "ELU",
-      "coordinates": "33.511398, 6.77679"
+      "coordinates": "33.511398, 6.77679",
+      "metar_available": false
     },
     {
       "ident": "DAUT",
@@ -729,7 +784,8 @@
       "municipality": "Timimoun",
       "gps_code": "DAUT",
       "iata_code": "TMX",
-      "coordinates": "29.237101, 0.276033"
+      "coordinates": "29.237101, 0.276033",
+      "metar_available": false
     },
     {
       "ident": "DAUU",
@@ -742,7 +798,8 @@
       "municipality": "Ouargla",
       "gps_code": "DAUU",
       "iata_code": "OGX",
-      "coordinates": "31.9172, 5.41278"
+      "coordinates": "31.9172, 5.41278",
+      "metar_available": false
     },
     {
       "ident": "DAUZ",
@@ -755,7 +812,8 @@
       "municipality": "In Aménas",
       "gps_code": "DAUZ",
       "iata_code": "IAM",
-      "coordinates": "28.0515, 9.64291"
+      "coordinates": "28.0515, 9.64291",
+      "metar_available": false
     },
     {
       "ident": "DZ-0001",
@@ -765,7 +823,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Hassi Bel Guebour",
-      "coordinates": "29.221376, 6.48863"
+      "coordinates": "29.221376, 6.48863",
+      "metar_available": false
     },
     {
       "ident": "DZ-0002",
@@ -775,7 +834,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-37",
       "municipality": "Âouinet Bel Egrâ",
-      "coordinates": "26.88352, -7.16477"
+      "coordinates": "26.88352, -7.16477",
+      "metar_available": false
     },
     {
       "ident": "DZ-0003",
@@ -785,7 +845,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-56",
       "municipality": "Djanet",
-      "coordinates": "24.442086, 9.513519"
+      "coordinates": "24.442086, 9.513519",
+      "metar_available": false
     },
     {
       "ident": "DZ-0004",
@@ -796,7 +857,8 @@
       "iso_region": "DZ-08",
       "municipality": "Béni Abbès",
       "local_code": "BBS",
-      "coordinates": "30.12558, -2.13726"
+      "coordinates": "30.12558, -2.13726",
+      "metar_available": false
     },
     {
       "ident": "DZ-0005",
@@ -806,7 +868,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-08",
       "municipality": "Fort Lotfi",
-      "coordinates": "29.6397, -3.9939"
+      "coordinates": "29.6397, -3.9939",
+      "metar_available": false
     },
     {
       "ident": "DZ-0006",
@@ -816,7 +879,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-24",
       "municipality": "Guelma",
-      "coordinates": "36.451942, 7.470961"
+      "coordinates": "36.451942, 7.470961",
+      "metar_available": false
     },
     {
       "ident": "DZ-0007",
@@ -826,7 +890,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-16",
       "municipality": "Zéralda",
-      "coordinates": "36.70129, 2.84373"
+      "coordinates": "36.70129, 2.84373",
+      "metar_available": false
     },
     {
       "ident": "DZ-0008",
@@ -836,7 +901,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-16",
       "municipality": "Djasr Kasentina",
-      "coordinates": "36.72064, 3.06608"
+      "coordinates": "36.72064, 3.06608",
+      "metar_available": false
     },
     {
       "ident": "DZ-0009",
@@ -846,7 +912,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-16",
       "municipality": "Mohammadia",
-      "coordinates": "36.73459, 3.14417"
+      "coordinates": "36.73459, 3.14417",
+      "metar_available": false
     },
     {
       "ident": "DZ-0010",
@@ -856,7 +923,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-52",
       "municipality": "Timiaouine",
-      "coordinates": "20.439241, 1.825415"
+      "coordinates": "20.439241, 1.825415",
+      "metar_available": false
     },
     {
       "ident": "DZ-0011",
@@ -866,7 +934,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-54",
       "municipality": "Tinerkouk",
-      "coordinates": "29.80322, 0.60902"
+      "coordinates": "29.80322, 0.60902",
+      "metar_available": false
     },
     {
       "ident": "DZ-0012",
@@ -877,7 +946,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Reggane",
-      "coordinates": "26.80634, 0.20704"
+      "coordinates": "26.80634, 0.20704",
+      "metar_available": false
     },
     {
       "ident": "DZ-0013",
@@ -888,7 +958,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Sali",
-      "coordinates": "26.91535, 0.07195"
+      "coordinates": "26.91535, 0.07195",
+      "metar_available": false
     },
     {
       "ident": "DZ-0014",
@@ -899,7 +970,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-42",
       "municipality": "Cherchell",
-      "coordinates": "36.59431, 2.20544"
+      "coordinates": "36.59431, 2.20544",
+      "metar_available": false
     },
     {
       "ident": "DZ-0015",
@@ -910,7 +982,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-42",
       "municipality": "Sidi Ghiles",
-      "coordinates": "36.58291, 2.10286"
+      "coordinates": "36.58291, 2.10286",
+      "metar_available": false
     },
     {
       "ident": "DZ-0016",
@@ -921,7 +994,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-11",
       "municipality": "Idlès",
-      "coordinates": "26.393417, 5.325419"
+      "coordinates": "26.393417, 5.325419",
+      "metar_available": false
     },
     {
       "ident": "DZ-0017",
@@ -931,7 +1005,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "El Borma",
-      "coordinates": "30.33557, 7.834783"
+      "coordinates": "30.33557, 7.834783",
+      "metar_available": false
     },
     {
       "ident": "DZ-0018",
@@ -941,7 +1016,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Debdeb",
-      "coordinates": "30.30442, 8.16308"
+      "coordinates": "30.30442, 8.16308",
+      "metar_available": false
     },
     {
       "ident": "DZ-0019",
@@ -951,7 +1027,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Hassi Bel Guebour",
-      "coordinates": "28.68354, 6.49767"
+      "coordinates": "28.68354, 6.49767",
+      "metar_available": false
     },
     {
       "ident": "DZ-0020",
@@ -961,7 +1038,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "Hassi Messaoud",
-      "coordinates": "30.51446, 6.45266"
+      "coordinates": "30.51446, 6.45266",
+      "metar_available": false
     },
     {
       "ident": "DZ-0021",
@@ -971,7 +1049,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "Hassi Messaoud",
-      "coordinates": "31.12059, 6.34713"
+      "coordinates": "31.12059, 6.34713",
+      "metar_available": false
     },
     {
       "ident": "DZ-0022",
@@ -981,7 +1060,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "Hassi Messaoud",
-      "coordinates": "31.56469, 6.18784"
+      "coordinates": "31.56469, 6.18784",
+      "metar_available": false
     },
     {
       "ident": "DZ-0023",
@@ -991,7 +1071,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "El Borma",
-      "coordinates": "31.57946, 9.12337"
+      "coordinates": "31.57946, 9.12337",
+      "metar_available": false
     },
     {
       "ident": "DZ-0024",
@@ -1001,7 +1082,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "El Borma",
-      "coordinates": "31.5822, 8.23678"
+      "coordinates": "31.5822, 8.23678",
+      "metar_available": false
     },
     {
       "ident": "DZ-0025",
@@ -1011,7 +1093,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "El Borma",
-      "coordinates": "31.3859, 6.95362"
+      "coordinates": "31.3859, 6.95362",
+      "metar_available": false
     },
     {
       "ident": "DZ-0026",
@@ -1021,7 +1104,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-30",
       "municipality": "Hassi Messaoud",
-      "coordinates": "31.50603, 6.64072"
+      "coordinates": "31.50603, 6.64072",
+      "metar_available": false
     },
     {
       "ident": "DZ-0027",
@@ -1031,7 +1115,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-47",
       "municipality": "Hassi Fehal",
-      "coordinates": "31.68858, 3.71568"
+      "coordinates": "31.68858, 3.71568",
+      "metar_available": false
     },
     {
       "ident": "DZ-0028",
@@ -1041,7 +1126,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Tamentit",
-      "coordinates": "28.141556, 0.244846"
+      "coordinates": "28.141556, 0.244846",
+      "metar_available": false
     },
     {
       "ident": "DZ-0029",
@@ -1051,7 +1137,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Tamentit",
-      "coordinates": "28.21292, 0.20262"
+      "coordinates": "28.21292, 0.20262",
+      "metar_available": false
     },
     {
       "ident": "DZ-0030",
@@ -1061,7 +1148,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-58",
       "municipality": "Tin Zaoutine",
-      "coordinates": "19.99369, 3.0223"
+      "coordinates": "19.99369, 3.0223",
+      "metar_available": false
     },
     {
       "ident": "DZ-0031",
@@ -1071,7 +1159,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-58",
       "municipality": "Tin Zaoutine",
-      "coordinates": "19.96527, 2.96141"
+      "coordinates": "19.96527, 2.96141",
+      "metar_available": false
     },
     {
       "ident": "DZ-0032",
@@ -1081,7 +1170,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-58",
       "municipality": "Tawendert",
-      "coordinates": "20.37853, 2.46094"
+      "coordinates": "20.37853, 2.46094",
+      "metar_available": false
     },
     {
       "ident": "DZ-0033",
@@ -1091,7 +1181,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Illizi",
-      "coordinates": "26.20509, 9.3912"
+      "coordinates": "26.20509, 9.3912",
+      "metar_available": false
     },
     {
       "ident": "DZ-0034",
@@ -1101,7 +1192,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-50",
       "municipality": "Hassi Gara",
-      "coordinates": "29.071282, 2.2059"
+      "coordinates": "29.071282, 2.2059",
+      "metar_available": false
     },
     {
       "ident": "DZ-0035",
@@ -1111,7 +1203,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-57",
       "municipality": "In Salah",
-      "coordinates": "28.46911, 2.51871"
+      "coordinates": "28.46911, 2.51871",
+      "metar_available": false
     },
     {
       "ident": "DZ-0036",
@@ -1121,7 +1214,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-57",
       "municipality": "In Salah",
-      "coordinates": "28.07732, 2.12826"
+      "coordinates": "28.07732, 2.12826",
+      "metar_available": false
     },
     {
       "ident": "DZ-0037",
@@ -1131,7 +1225,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-57",
       "municipality": "In Salah",
-      "coordinates": "28.08605, 2.14052"
+      "coordinates": "28.08605, 2.14052",
+      "metar_available": false
     },
     {
       "ident": "DZ-0038",
@@ -1141,7 +1236,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Tamentit",
-      "coordinates": "28.11892, 0.32861"
+      "coordinates": "28.11892, 0.32861",
+      "metar_available": false
     },
     {
       "ident": "DZ-0039",
@@ -1151,7 +1247,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Tamentit",
-      "coordinates": "27.81997, 0.23896"
+      "coordinates": "27.81997, 0.23896",
+      "metar_available": false
     },
     {
       "ident": "DZ-0040",
@@ -1161,7 +1258,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-51",
       "municipality": "Ras el Miaad",
-      "coordinates": "34.23833, 4.46004"
+      "coordinates": "34.23833, 4.46004",
+      "metar_available": false
     },
     {
       "ident": "DZ-0041",
@@ -1172,7 +1270,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-11",
       "municipality": "Serouenout",
-      "coordinates": "24.30258, 7.47159"
+      "coordinates": "24.30258, 7.47159",
+      "metar_available": false
     },
     {
       "ident": "DZ-0042",
@@ -1183,7 +1282,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-56",
       "municipality": "Takhrekhuri",
-      "coordinates": "24.42643, 10.43748"
+      "coordinates": "24.42643, 10.43748",
+      "metar_available": false
     },
     {
       "ident": "DZ-0043",
@@ -1194,7 +1294,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "In Aménas",
-      "coordinates": "27.893493, 9.147415"
+      "coordinates": "27.893493, 9.147415",
+      "metar_available": false
     },
     {
       "ident": "DZ-0044",
@@ -1205,7 +1306,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Bordj Omar Driss",
-      "coordinates": "28.12889, 6.82522"
+      "coordinates": "28.12889, 6.82522",
+      "metar_available": false
     },
     {
       "ident": "DZ-0045",
@@ -1216,7 +1318,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Bordj Omar Driss",
-      "coordinates": "28.19693, 6.84383"
+      "coordinates": "28.19693, 6.84383",
+      "metar_available": false
     },
     {
       "ident": "DZ-0046",
@@ -1227,7 +1330,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Bordj Omar Driss",
-      "coordinates": "28.43879, 7.55191"
+      "coordinates": "28.43879, 7.55191",
+      "metar_available": false
     },
     {
       "ident": "DZ-0047",
@@ -1238,7 +1342,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Bordj Omar Driss",
-      "coordinates": "28.41106, 7.56872"
+      "coordinates": "28.41106, 7.56872",
+      "metar_available": false
     },
     {
       "ident": "DZ-0048",
@@ -1249,7 +1354,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "In Aménas",
-      "coordinates": "28.73085, 8.88037"
+      "coordinates": "28.73085, 8.88037",
+      "metar_available": false
     },
     {
       "ident": "DZ-0049",
@@ -1260,7 +1366,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Bordj Omar Driss",
-      "coordinates": "28.41563, 8.24115"
+      "coordinates": "28.41563, 8.24115",
+      "metar_available": false
     },
     {
       "ident": "DZ-0050",
@@ -1271,7 +1378,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-33",
       "municipality": "Debdeb",
-      "coordinates": "28.62995, 9.85223"
+      "coordinates": "28.62995, 9.85223",
+      "metar_available": false
     },
     {
       "ident": "DZ-0051",
@@ -1282,7 +1390,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Tit",
-      "coordinates": "27.06086, 1.58229"
+      "coordinates": "27.06086, 1.58229",
+      "metar_available": false
     },
     {
       "ident": "DZ-0052",
@@ -1293,7 +1402,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-01",
       "municipality": "Zaouiet Kounta",
-      "coordinates": "27.25148, -0.16633"
+      "coordinates": "27.25148, -0.16633",
+      "metar_available": false
     },
     {
       "ident": "DZ-0053",
@@ -1304,7 +1414,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-54",
       "municipality": "Metarfa",
-      "coordinates": "28.61283, 0.03651"
+      "coordinates": "28.61283, 0.03651",
+      "metar_available": false
     },
     {
       "ident": "DZ-0054",
@@ -1315,7 +1426,8 @@
       "iso_country": "DZ",
       "iso_region": "DZ-21",
       "municipality": "Skikda",
-      "coordinates": "36.8641, 6.9516"
+      "coordinates": "36.8641, 6.9516",
+      "metar_available": false
     }
   ]
 }
