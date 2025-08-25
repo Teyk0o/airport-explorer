@@ -15,16 +15,9 @@ def mock_airport_apis(rsps, idents):
         rsps.add(
             responses.GET,
             f"https://airportdb.io/api/v1/airport/{ident}",
-            json={"ident": ident, "city": "Test City"},
+            json={"ident": ident, "city": "Test City", "runways": [{"id": 1, "le_ident": "08L", "he_ident": "26R"}]},
             status=200,
-            match=[responses.matchers.header_matcher({"X-API-Key": "testkey"})],
-        )
-        rsps.add(
-            responses.GET,
-            f"https://airportdb.io/api/v1/airport/{ident}/runways",
-            json=[{"id": 1, "le_ident": "08L", "he_ident": "26R"}],
-            status=200,
-            match=[responses.matchers.header_matcher({"X-API-Key": "testkey"})],
+            match=[responses.matchers.query_param_matcher({"apiToken": "testkey"})],
         )
         rsps.add(
             responses.GET,
@@ -163,7 +156,7 @@ class TestAirportDataUpdater:
         assert cdg['runways'][0]['id'] == 1
         assert cdg['metar_available'] is True
 
-        assert len(responses.calls) == 6
+        assert len(responses.calls) == 4
 
         # Verify API usage stats
         fr_stats = updater.api_stats['FR']
@@ -175,7 +168,7 @@ class TestAirportDataUpdater:
 
     @responses.activate
     def test_skip_existing_runways_and_metar(self, updater, sample_airports_data, temp_dir):
-        """Ensure runway and METAR APIs are skipped when data already exists."""
+        """Ensure AirportDB and METAR APIs are skipped when data already exists."""
         fr_dir = temp_dir / 'fr'
         fr_dir.mkdir()
         existing = {
@@ -200,7 +193,7 @@ class TestAirportDataUpdater:
             "https://airportdb.io/api/v1/airport/LFPG",
             json={"ident": "LFPG", "city": "Test City"},
             status=200,
-            match=[responses.matchers.header_matcher({"X-API-Key": "testkey"})],
+            match=[responses.matchers.query_param_matcher({"apiToken": "testkey"})],
         )
         mock_airport_apis(responses, ['EGLL'])
 
@@ -213,7 +206,7 @@ class TestAirportDataUpdater:
         assert cdg['metar_available'] is True
 
         # Only EGLL should have triggered AirportDB and METAR calls
-        assert len(responses.calls) == 3
+        assert len(responses.calls) == 2
         fr_stats = updater.api_stats['FR']
         assert fr_stats['airportdb_skipped'] == 1
         assert fr_stats['metar_skipped'] == 1
@@ -291,7 +284,7 @@ class TestAirportDataUpdater:
                 c for c in rsps.calls
                 if "airportdb.io" in c.request.url or "aviationweather.gov" in c.request.url
             ]
-            assert len(enrichment_calls) == 6
+            assert len(enrichment_calls) == 4
 
     @responses.activate
     def test_handle_missing_data(self, updater):

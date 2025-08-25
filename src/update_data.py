@@ -30,8 +30,6 @@ class AirportDataUpdater:
         self.country_names = {}
         # Cache for airport details to avoid hitting the API repeatedly
         self._airport_cache: Dict[str, Dict] = {}
-        # Cache for runway details
-        self._runway_cache: Dict[str, List[Dict]] = {}
         self.api_key = os.getenv("AIRPORTDB_API_KEY")
         # Track API usage statistics per country
         self.api_stats: Dict[str, Dict[str, int]] = {}
@@ -72,8 +70,8 @@ class AirportDataUpdater:
         if ident in self._airport_cache:
             return self._airport_cache[ident]
         try:
-            headers = {"X-API-Key": self.api_key}
-            response = requests.get(f"{AIRPORTDB_API}{ident}", headers=headers, timeout=10)
+            params = {"apiToken": self.api_key}
+            response = requests.get(f"{AIRPORTDB_API}{ident}", params=params, timeout=10)
             response.raise_for_status()
             data = response.json()
             if isinstance(data, dict):
@@ -82,24 +80,6 @@ class AirportDataUpdater:
         except Exception:
             pass
         return {}
-
-    def fetch_runway_details(self, ident: str) -> List[Dict]:
-        """Fetch runway information for an airport"""
-        if not self.api_key:
-            return []
-        if ident in self._runway_cache:
-            return self._runway_cache[ident]
-        try:
-            headers = {"X-API-Key": self.api_key}
-            response = requests.get(f"{AIRPORTDB_API}{ident}/runways", headers=headers, timeout=10)
-            response.raise_for_status()
-            data = response.json()
-            if isinstance(data, list):
-                self._runway_cache[ident] = data
-                return data
-        except Exception:
-            pass
-        return []
 
     def check_metar_available(self, ident: str) -> bool:
         """Check if METAR data is available for the airport"""
@@ -209,9 +189,8 @@ class AirportDataUpdater:
                             details = self.fetch_airport_details(ident)
                             if details:
                                 airport_data.update(details)
-                            runways = self.fetch_runway_details(ident)
-                            if runways:
-                                airport_data['runways'] = runways
+                                if details.get('runways'):
+                                    airport_data['runways'] = details['runways']
                             stats['airportdb_fetched'] += 1
                         if 'metar_available' in existing:
                             airport_data['metar_available'] = existing['metar_available']
