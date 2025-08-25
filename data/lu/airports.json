@@ -2,7 +2,7 @@
   "country_code": "LU",
   "country_name": "Luxembourg",
   "total_airports": 1,
-  "last_updated": "2025-08-25T10:46:34.285673",
+  "last_updated": "2025-08-25T11:02:51.700820",
   "types_distribution": {
     "large_airport": 1
   },
@@ -11,7 +11,7 @@
       "ident": "ELLX",
       "type": "large_airport",
       "name": "Luxembourg-Findel International Airport",
-      "elevation_ft": 1234.0,
+      "elevation_ft": "1234",
       "continent": "EU",
       "iso_country": "LU",
       "iso_region": "LU-L",
@@ -19,6 +19,162 @@
       "gps_code": "ELLX",
       "iata_code": "LUX",
       "coordinates": "49.6233333, 6.2044444",
+      "latitude_deg": 49.6233333,
+      "longitude_deg": 6.2044444,
+      "scheduled_service": "yes",
+      "local_code": "",
+      "home_link": "http://www.lux-airport.lu/en/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport",
+      "keywords": "",
+      "icao_code": "ELLX",
+      "runways": [
+        {
+          "id": "237448",
+          "airport_ref": "2563",
+          "airport_ident": "ELLX",
+          "length_ft": "13123",
+          "width_ft": "148",
+          "surface": "PEM",
+          "lighted": "1",
+          "closed": "0",
+          "le_ident": "06",
+          "le_latitude_deg": "49.6177",
+          "le_longitude_deg": "6.18746",
+          "le_elevation_ft": "1158",
+          "le_heading_degT": "60",
+          "le_displaced_threshold_ft": "",
+          "he_ident": "24",
+          "he_latitude_deg": "49.6355",
+          "he_longitude_deg": "6.23556",
+          "he_elevation_ft": "1214",
+          "he_heading_degT": "240",
+          "he_displaced_threshold_ft": "",
+          "he_ils": {
+            "freq": 110.7,
+            "course": 238
+          },
+          "le_ils": {
+            "freq": 109.9,
+            "course": 58
+          }
+        }
+      ],
+      "freqs": [
+        {
+          "id": "55203",
+          "airport_ref": "2563",
+          "airport_ident": "ELLX",
+          "type": "APP",
+          "description": "APP",
+          "frequency_mhz": "118.9"
+        },
+        {
+          "id": "55204",
+          "airport_ref": "2563",
+          "airport_ident": "ELLX",
+          "type": "ATIS",
+          "description": "ATIS",
+          "frequency_mhz": "135.55"
+        },
+        {
+          "id": "55205",
+          "airport_ref": "2563",
+          "airport_ident": "ELLX",
+          "type": "TWR",
+          "description": "TWR",
+          "frequency_mhz": "118.1"
+        }
+      ],
+      "country": {
+        "id": "302701",
+        "code": "LU",
+        "name": "Luxembourg",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg",
+        "keywords": ""
+      },
+      "region": {
+        "id": "306322",
+        "code": "LU-L",
+        "local_code": "L",
+        "name": "Luxembourg",
+        "continent": "EU",
+        "iso_country": "LU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxembourg",
+        "keywords": ""
+      },
+      "navaids": [
+        {
+          "id": "87731",
+          "filename": "Luxembourg_NDB_LU",
+          "ident": "ELU",
+          "name": "Luxembourg",
+          "type": "NDB",
+          "frequency_khz": "369",
+          "latitude_deg": "49.6796989440918",
+          "longitude_deg": "6.355279922485352",
+          "elevation_ft": "",
+          "iso_country": "LU",
+          "dme_frequency_khz": "",
+          "dme_channel": "",
+          "dme_latitude_deg": "",
+          "dme_longitude_deg": "",
+          "dme_elevation_ft": "",
+          "slaved_variation_deg": "",
+          "magnetic_variation_deg": "0.073",
+          "usageType": "BOTH",
+          "power": "LOW",
+          "associated_airport": "ELLX"
+        },
+        {
+          "id": "90606",
+          "filename": "Luxembourg_VOR-DME_LU",
+          "ident": "LUX",
+          "name": "Luxembourg",
+          "type": "VOR-DME",
+          "frequency_khz": "112250",
+          "latitude_deg": "49.639400482177734",
+          "longitude_deg": "6.247220039367676",
+          "elevation_ft": "1234",
+          "iso_country": "LU",
+          "dme_frequency_khz": "112250",
+          "dme_channel": "059Y",
+          "dme_latitude_deg": "",
+          "dme_longitude_deg": "",
+          "dme_elevation_ft": "",
+          "slaved_variation_deg": "",
+          "magnetic_variation_deg": "0.054",
+          "usageType": "TERMINAL",
+          "power": "LOW",
+          "associated_airport": "ELLX"
+        },
+        {
+          "id": "95461",
+          "filename": "Luxembourg_NDB_LU",
+          "ident": "WLU",
+          "name": "Luxembourg",
+          "type": "NDB",
+          "frequency_khz": "346",
+          "latitude_deg": "49.56779861450195",
+          "longitude_deg": "6.05417013168335",
+          "elevation_ft": "",
+          "iso_country": "LU",
+          "dme_frequency_khz": "",
+          "dme_channel": "",
+          "dme_latitude_deg": "",
+          "dme_longitude_deg": "",
+          "dme_elevation_ft": "",
+          "slaved_variation_deg": "",
+          "magnetic_variation_deg": "0.022",
+          "usageType": "BOTH",
+          "power": "LOW",
+          "associated_airport": "ELLX"
+        }
+      ],
+      "station": {
+        "icao_code": "ELLX",
+        "distance": 0
+      },
       "metar_available": true
     }
   ]
