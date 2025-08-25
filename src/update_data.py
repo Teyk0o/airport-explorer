@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 from io import StringIO
 import json
@@ -5,6 +7,18 @@ import requests
 from pathlib import Path
 from tqdm import tqdm
 from typing import Dict, List, Optional
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
+AIRPORTDB_API = "https://airportdb.io/api/v1/airport/"
+METAR_API = "https://aviationweather.gov/api/data/metar"
+PRIORITIZED_TYPES = {"large_airport", "medium_airport"}
+WESTERN_EUROPE = {
+    "FR", "GB", "IE", "DE", "NL", "BE", "LU", "CH", "AT", "ES", "PT", "IT",
+    "AD", "LI", "MC"
+}
 
 
 class AirportDataUpdater:
@@ -14,6 +28,9 @@ class AirportDataUpdater:
         self.countries_data: Dict[str, List[Dict]] = {}
         self.total_airports = 0
         self.country_names = {}
+        # Cache for airport details to avoid hitting the API repeatedly
+        self._airport_cache: Dict[str, Dict] = {}
+        self.api_key = os.getenv("AIRPORTDB_API_KEY")
 
     def load_country_names(self) -> None:
         """Load country names from country.io"""
@@ -44,6 +61,39 @@ class AirportDataUpdater:
             print(f"Error downloading data: {str(e)}")
             return None
 
+    def fetch_airport_details(self, ident: str) -> Dict:
+        """Fetch additional airport information from airportdb.io"""
+        if not self.api_key:
+            return {}
+        if ident in self._airport_cache:
+            return self._airport_cache[ident]
+        try:
+            headers = {"X-API-Key": self.api_key}
+            response = requests.get(f"{AIRPORTDB_API}{ident}", headers=headers, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, dict):
+                self._airport_cache[ident] = data
+                return data
+        except Exception:
+            pass
+        return {}
+
+    def check_metar_available(self, ident: str) -> bool:
+        """Check if METAR data is available for the airport"""
+        try:
+            params = {"ids": ident, "format": "json"}
+            response = requests.get(METAR_API, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, dict):
+                return bool(data)
+            if isinstance(data, list):
+                return len(data) > 0
+            return False
+        except Exception:
+            return False
+
     def process_airports(self, df: pd.DataFrame) -> None:
         print("\nProcessing airports...")
 
@@ -70,6 +120,22 @@ class AirportDataUpdater:
                         if col == 'elevation_ft':
                             value = float(value)
                         airport_data[col] = value
+
+                ident = airport_data.get('ident')
+                iso_country = airport_data.get('iso_country')
+                airport_type = airport_data.get('type')
+                if ident:
+                    should_enrich = (
+                        airport_type in PRIORITIZED_TYPES and
+                        iso_country in WESTERN_EUROPE
+                    )
+                    if should_enrich:
+                        details = self.fetch_airport_details(ident)
+                        if details:
+                            airport_data.update(details)
+                        airport_data['metar_available'] = self.check_metar_available(ident)
+                    else:
+                        airport_data['metar_available'] = False
 
                 airports.append(airport_data)
                 pbar.update(1)
