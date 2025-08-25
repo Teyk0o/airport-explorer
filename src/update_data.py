@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 from io import StringIO
 import json
@@ -5,6 +7,18 @@ import requests
 from pathlib import Path
 from tqdm import tqdm
 from typing import Dict, List, Optional
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
+AIRPORTDB_API = "https://airportdb.io/api/v1/airport/"
+METAR_API = "https://aviationweather.gov/api/data/metar"
+PRIORITIZED_TYPES = {"large_airport", "medium_airport"}
+WESTERN_EUROPE = {
+    "FR", "GB", "IE", "DE", "NL", "BE", "LU", "CH", "AT", "ES", "PT", "IT",
+    "AD", "LI", "MC"
+}
 
 
 class AirportDataUpdater:
@@ -14,6 +28,13 @@ class AirportDataUpdater:
         self.countries_data: Dict[str, List[Dict]] = {}
         self.total_airports = 0
         self.country_names = {}
+        # Cache for airport details to avoid hitting the API repeatedly
+        self._airport_cache: Dict[str, Dict] = {}
+        # Cache for runway details
+        self._runway_cache: Dict[str, List[Dict]] = {}
+        self.api_key = os.getenv("AIRPORTDB_API_KEY")
+        # Track API usage statistics per country
+        self.api_stats: Dict[str, Dict[str, int]] = {}
 
     def load_country_names(self) -> None:
         """Load country names from country.io"""
@@ -44,6 +65,57 @@ class AirportDataUpdater:
             print(f"Error downloading data: {str(e)}")
             return None
 
+    def fetch_airport_details(self, ident: str) -> Dict:
+        """Fetch additional airport information from airportdb.io"""
+        if not self.api_key:
+            return {}
+        if ident in self._airport_cache:
+            return self._airport_cache[ident]
+        try:
+            headers = {"X-API-Key": self.api_key}
+            response = requests.get(f"{AIRPORTDB_API}{ident}", headers=headers, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, dict):
+                self._airport_cache[ident] = data
+                return data
+        except Exception:
+            pass
+        return {}
+
+    def fetch_runway_details(self, ident: str) -> List[Dict]:
+        """Fetch runway information for an airport"""
+        if not self.api_key:
+            return []
+        if ident in self._runway_cache:
+            return self._runway_cache[ident]
+        try:
+            headers = {"X-API-Key": self.api_key}
+            response = requests.get(f"{AIRPORTDB_API}{ident}/runways", headers=headers, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, list):
+                self._runway_cache[ident] = data
+                return data
+        except Exception:
+            pass
+        return []
+
+    def check_metar_available(self, ident: str) -> bool:
+        """Check if METAR data is available for the airport"""
+        try:
+            params = {"ids": ident, "format": "json"}
+            response = requests.get(METAR_API, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            if isinstance(data, dict):
+                return bool(data)
+            if isinstance(data, list):
+                return len(data) > 0
+            return False
+        except Exception:
+            return False
+
     def process_airports(self, df: pd.DataFrame) -> None:
         print("\nProcessing airports...")
 
@@ -55,12 +127,57 @@ class AirportDataUpdater:
 
         pbar = tqdm(total=self.total_airports, desc="Processing airports")
 
-        for country in df['iso_country'].unique():
+        if 'continent' in df.columns:
+            unique_countries = (
+                df[['iso_country', 'continent']]
+                .dropna(subset=['iso_country'])
+                .drop_duplicates()
+            )
+        else:
+            unique_countries = (
+                df[['iso_country']]
+                .dropna()
+                .drop_duplicates()
+            )
+            unique_countries['continent'] = None
+        western = [c for c in unique_countries['iso_country'] if c in WESTERN_EUROPE]
+        rest_europe = [
+            row.iso_country
+            for row in unique_countries.itertuples(index=False)
+            if row.continent == 'EU' and row.iso_country not in WESTERN_EUROPE
+        ]
+        us = [c for c in unique_countries['iso_country'] if c == 'US']
+        others = [
+            c for c in unique_countries['iso_country']
+            if c not in set(western + rest_europe + us)
+        ]
+        ordered_countries = western + rest_europe + us + others
+
+        for country in ordered_countries:
             if pd.isna(country):
                 continue
 
             country_data = df[df['iso_country'] == country]
+            country_dir = self.data_dir / country.lower()
+            existing_airports = {}
+            country_file = country_dir / 'airports.json'
+            if country_file.exists():
+                try:
+                    with open(country_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        existing_airports = {
+                            a.get('ident'): a for a in data.get('airports', []) if a.get('ident')
+                        }
+                except Exception:
+                    existing_airports = {}
+
             airports = []
+            stats = {
+                'metar_fetched': 0,
+                'metar_skipped': 0,
+                'airportdb_fetched': 0,
+                'airportdb_skipped': 0,
+            }
 
             for _, row in country_data.iterrows():
                 airport_data = {}
@@ -71,10 +188,53 @@ class AirportDataUpdater:
                             value = float(value)
                         airport_data[col] = value
 
+                ident = airport_data.get('ident')
+                iso_country = airport_data.get('iso_country')
+                airport_type = airport_data.get('type')
+                existing = existing_airports.get(ident, {}) if ident else {}
+                if ident:
+                    should_enrich = (
+                        airport_type in PRIORITIZED_TYPES and
+                        iso_country in WESTERN_EUROPE
+                    )
+                    if should_enrich:
+                        if 'runways' in existing and existing['runways']:
+                            airport_data.update(existing)
+                            stats['airportdb_skipped'] += 1
+                        else:
+                            details = self.fetch_airport_details(ident)
+                            if details:
+                                airport_data.update(details)
+                            runways = self.fetch_runway_details(ident)
+                            if runways:
+                                airport_data['runways'] = runways
+                            stats['airportdb_fetched'] += 1
+                        if 'metar_available' in existing:
+                            airport_data['metar_available'] = existing['metar_available']
+                            stats['metar_skipped'] += 1
+                        else:
+                            airport_data['metar_available'] = self.check_metar_available(ident)
+                            stats['metar_fetched'] += 1
+                    else:
+                        if 'metar_available' in existing:
+                            airport_data['metar_available'] = existing['metar_available']
+                        else:
+                            airport_data['metar_available'] = False
+                        if 'runways' in existing and existing['runways']:
+                            airport_data['runways'] = existing['runways']
+                        stats['metar_skipped'] += 1
+                        stats['airportdb_skipped'] += 1
+
                 airports.append(airport_data)
                 pbar.update(1)
 
             self.countries_data[country] = airports
+            self.api_stats[country] = stats
+            print(
+                f"{self.get_country_name(country)}: METAR fetched {stats['metar_fetched']}, "
+                f"skipped {stats['metar_skipped']} | AirportDB fetched {stats['airportdb_fetched']}, "
+                f"skipped {stats['airportdb_skipped']}"
+            )
 
         pbar.close()
 
