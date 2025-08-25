@@ -28,7 +28,6 @@ coverage.xml
 # Virtual Environment
 venv/
 ENV/
-.env
 
 # IDE
 .idea/
@@ -39,3 +38,4 @@ ENV/
 
 # Project specific
 temp_*.csv
+.env
