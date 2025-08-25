@@ -21,6 +21,13 @@ def mock_airport_apis(rsps, idents):
         )
         rsps.add(
             responses.GET,
+            f"https://airportdb.io/api/v1/airport/{ident}/runways",
+            json=[{"id": 1, "le_ident": "08L", "he_ident": "26R"}],
+            status=200,
+            match=[responses.matchers.header_matcher({"X-API-Key": "testkey"})],
+        )
+        rsps.add(
+            responses.GET,
             f"https://aviationweather.gov/api/data/metar?ids={ident}&format=json",
             json=[{"id": ident}],
             status=200,
@@ -149,16 +156,70 @@ class TestAirportDataUpdater:
         us_airports = updater.countries_data['US']
         jfk = next(a for a in us_airports if a['iata_code'] == 'JFK')
         assert 'city' not in jfk
+        assert 'runways' not in jfk
         assert jfk['metar_available'] is False
 
         # Check European airport enriched
         fr_airports = updater.countries_data['FR']
         cdg = next(a for a in fr_airports if a['iata_code'] == 'CDG')
         assert cdg['city'] == 'Test City'
+        assert cdg['runways'][0]['id'] == 1
         assert cdg['metar_available'] is True
 
-        assert len(responses.calls) == 4
+        assert len(responses.calls) == 6
 
+        # Verify API usage stats
+        fr_stats = updater.api_stats['FR']
+        assert fr_stats['metar_fetched'] == 1
+        assert fr_stats['airportdb_fetched'] == 1
+        us_stats = updater.api_stats['US']
+        assert us_stats['metar_skipped'] == 2
+        assert us_stats['airportdb_skipped'] == 2
+
+    @responses.activate
+    def test_skip_existing_runways_and_metar(self, updater, sample_airports_data, temp_dir):
+        """Ensure runway and METAR APIs are skipped when data already exists."""
+        fr_dir = temp_dir / 'fr'
+        fr_dir.mkdir()
+        existing = {
+            'country_code': 'FR',
+            'country_name': 'France',
+            'total_airports': 1,
+            'types_distribution': {'large_airport': 1},
+            'airports': [
+                {
+                    'ident': 'LFPG',
+                    'type': 'large_airport',
+                    'runways': [{'id': 99}],
+                    'metar_available': True,
+                }
+            ],
+        }
+        with open(fr_dir / 'airports.json', 'w') as f:
+            json.dump(existing, f)
+
+        responses.add(
+            responses.GET,
+            "https://airportdb.io/api/v1/airport/LFPG",
+            json={"ident": "LFPG", "city": "Test City"},
+            status=200,
+            match=[responses.matchers.header_matcher({"X-API-Key": "testkey"})],
+        )
+        mock_airport_apis(responses, ['EGLL'])
+
+        updater.data_dir = temp_dir
+        updater.process_airports(sample_airports_data)
+
+        fr_airports = updater.countries_data['FR']
+        cdg = next(a for a in fr_airports if a['ident'] == 'LFPG')
+        assert cdg['runways'][0]['id'] == 99
+        assert cdg['metar_available'] is True
+
+        # Only EGLL should have triggered AirportDB and METAR calls
+        assert len(responses.calls) == 3
+        fr_stats = updater.api_stats['FR']
+        assert fr_stats['airportdb_skipped'] == 1
+        assert fr_stats['metar_skipped'] == 1
     @responses.activate
     def test_generate_countries_index(self, updater, sample_airports_data, temp_dir):
         """Test generation of countries index file."""
@@ -234,7 +295,7 @@ class TestAirportDataUpdater:
                 c for c in rsps.calls
                 if "airportdb.io" in c.request.url or "aviationweather.gov" in c.request.url
             ]
-            assert len(enrichment_calls) == 4
+            assert len(enrichment_calls) == 6
 
     @responses.activate
     def test_handle_missing_data(self, updater):
